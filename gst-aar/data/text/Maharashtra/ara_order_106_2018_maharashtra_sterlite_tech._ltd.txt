@@ -1,0 +1,1304 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+GST Bhavan, 8t floor, H-Wing, Mazgaon, Mumbai - 400010.
+
+(Constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri B. Timothy, Addl. Commissioner of Central Tax, (Member)
+(2) Shri B. V. Borhade, Joint Commissioner of State Tax, (Member)
+
+GSTIN Number, if any/ User-id 27AACES8719B12C
+
+Legal Name of Applicant Sterlite Technologies Limited.
+
+Registered Address/ Address | E1, E2, E3, MIDC WALUNJ, AURANAGABD,
+
+provided while obtaining user id MAHARASTHIRA - 431136.
+
+Details of application GST-ARA, Application No. 106 Dated 04.01.2019
+
+Concerned officer Dy. Commr. of S.T.(E-003) LTU-Aurangabad
+Division.
+
+Nature of activity(s) (proposed /
+present) in respect of which advance
+
+ruling sought
+
+A_| Category Service provision
+B_ | Description (in brief) The activities of Applicant inter alia involve
+manufacture of telecom products such as optic fiber
+optic fiber cable, etc.; laying these optic fiber cables
+Zaps RUL Ru ON (either underground or hung overhead) to create a
+ff As in EN network, setting up of control centers, installation of
+he i’ ' ‘Y equipment necessary to operate the network for
+
+desired purpose, commissioning of network and any
+other ancillary activity that may be necessary for
+creation of network infrastructure for its customers in
+
+SL J telecom industry.
+
+Issue/s on which advance ruling | (i) classification of goods and/or services or both
+
+| réquired (ii) applicability of a notification issued under the
+
+provisions of the Act
+
+Question(s) on which advance ruling | As reproduced in para 01 of the Proceedings below.
+
+is required
+
+PROCEEDINGS
+
+(Under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+The present application has been filed under section 97 of the Central Goods and Services
+Tax Act, 2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as
+“the CGST Act and MGST Act”] by Sterlite Technologies Limited, the applicant, seeking an
+advance ruling in respect of the following questions.
+¢ Whether the supply of goods or services for ‘setting up of network' would qualify as ‘works
+contract' as defined in Section 2(119) of the CGST Act?
+* — If supplies contemplated as per the contract with BSNL are not treated as works contract, can
+these continue to qualify as composite supply? if yes what is the principle supply? and
+° What is the rate of tax applicable to the supplies made under the contract?
+
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act &
+the MGST Act are the same except for certain provisions. Therefore, unless a mention is
+specifically made to any dissimilar provisions, a reference to the CGST Act would also mean a
+reference to the same provision under the MGST Act. Further to the earlier, henceforth for the
+purposes of this Advance Ruling, the expression ‘GST Act’ would mean CGST Act and MGST
+Act.
+
+02 FACTS AND CONTENTION - AS PER THE APPLICANT
+The submissions, as reproduced verbatim, could be seen thus-
+
+STATEMENT OF THE RELEVANT FACTS HAVING A BEARING ON THE QUESTION(S) ON
+
+WHICH THE ADVANCE RULING IS REQUIRED
+
+1. This Application is being preferred by Sterlite Technologies Limited ("Company" /
+" Applicant"), a company incorporated in India under the provisions of the Companies
+Act, 1956. having its registered office at E-1,E-2,0-3, MIDC Waluj, Aurangabad-431136,
+Maharashtra, India..
+
+2 Applicant is engaged in providing goods and services which qualify as 'supply' as per
+provisions of the Central Goods and Service Tax Act, 2017 ("CGST Act") and is duly
+registered thereunder bearing GSTIN 27AAECS8719B12C. The activities of Applicant
+inter alia involve manufacture of telecom products such as optic fiber optic fiber cable,
+etc.; laying these optic fiber cables (either underground or hung overhead) to create a
+network, setting up of control centers, installation of equipment necessary to operate the
+
+“network for desired purpose, commissioning of network and any other ancillary activity
+
+_ that may be necessary for creation of network infrastructure for its customers in telecom
+industry. The scope of these activities is contractually stipulated and are typically
+recognized as a ‘turnkey contract’ in the industry.
+
+Indian Navy, governed by Ministry of Defence ("Navy"), intends to establish
+
+, countrywide IP/ MPLS based multiprotocol converged network, Naval Communication
+
+_” “Network (collectively referred as "network"); as core infrastructure for supporting
+strategic and operational needs of Navy, Setting up of these networks have been
+
+entrusted by Navy to Bharat Sanchar Nigam Limited ("BSNL"); which in-turn has floated
+
+a tender inviting detailed bids for the same.
+
+4. The tender document specifically contemplated creation of IP/MPLS_ based
+multiprotocol converged network based on existing terrestrial optical fiber cables to be
+made available by BSNL. The network to be so created mainly involves following key
+activities which are narrated below stepwise:
+
+Construction of h Construction of holdings and raising civil structures, necessary to house
+data centres, nearline data centres, disaster recovery station, satellite data centre and
+connectivity equipment at Naval ports across mainland and coastal region in India
+
+IL
+
+Installing rack, stack in the buildings and other civil infrastructures necessary to house |
+the equipment and enable operation of all the centres/ports J
+
+IL
+
+~
+
+Assemble /install all equipment and powering it up by connecting with power supply
+and back-up generators
+
+JL
+
+ae
+
+
+Interconnecting and configuring all the equipment in all the data centres, nearline data
+centres, disaster recovery station, satellite data centre, etc. with each other to enable
+information exchange across the network as desired
+
+5. Relevant clauses of the contract which stipulate the requirement of an exhaustive civil
+work to be undertaken by Applicant to house the said network are reproduced below:
+
+Network Architecture
+
+Tier I. Tier I would interconnect 11 major locations of the Indian Navy across the country over
+defence owned OFC and DWDM network infrastructure
+
+Tier II. The remaining 33 locations of the Indian Navy would be connected over defence owned
+OFC and DWDM network infrastructure
+
+Tier III. Tier Ill consists of the regional metro aggregation network at Delhi, Mumbai, Vizag,
+Kochi, God, Chennai and Port Bloir. The regional metro aggregation network for Tier Ill shall be
+present at few locations at various metro cities across the country. These locations would be
+connected over a DWDM infrastructure that the bidder will have to provide
+
+Civil Infrastructure
+
+1. A central building would need to be built at very site to house Type 1/Type 2 Type 3
+Infrastructure, Telepresence equipment Networking Equipment Optic fibre Equipment, Staging
+“sored and other operational and administrative buildings. The scope of work includes civil
+construction, water supply, sanitary and plumbing, electrical installation, landscaping, air
+conditioning, roads, and fire fighting and interior works. All the buildings should be constructed
+with RCC (Reinforced Concrete Construction) Partition walls (non-load bearing walls) may be of
+high quality bricks. The construction would be governed by the latest standards Indian Standards
+que for construction of buildings. The minimum distance between this complex and the data center
+/ building etc should be governed by the TIA 942 standards. The bidder is to ensure that standards
+* followed for construction of buildings, electrical fittings, plumbing etc should also meet the
+minimum specifications published by BSNL. On completion of construction, the buildings would
+have to be handed over to the MES/CPWD.
+
+2. Along with the building the following additional infrastructure for the complex would also be
+required: -
+
+2.1 Approach rood to building within Naval Station, Provision of security lights around the
+complex, Security cameras inside and outside building, Guard post including rest room,
+Automatic Barrier at main/emergency gates. Access Control Mechanism at entrances to the
+building, Smoke detector, provisioning of small fire fighting appliances, PA system.
+
+2:5 Underground electrical wiring will be done as per the requirement. All switches, cutout, CBS
+and wires, cables are to be supplied and fitted. All electrical fittings including air conditioners,
+
+fans, tube lights, CFL, exhaust fans, call bells, lightning arrester etc is to be provided and fitted.
+False roofing with 2x2.meshed tube light fittings and wall panelling with synthetic enamel paints.
+
+3. In addition, a power room to house the silent generators also needs to be constructed.
+Provisioning of DG sets, along with control panel, day tank and other accessories required for
+operation of the power plant. OG Sets should be in weather proof shelters. Electrical wiring and
+associated equipment from power house to UPS room.
+
+6. The said network comes into existence when the building, civil structures are erected,
+and all the equipment are installed and interconnected with each other through its data
+centers, nearline data centers, disaster recovery station, etc. Such network cannot be
+
+3
+
+
+moved to another place in ‘as is' form but it requires the optical fiber cables to be
+disengaged, existing civil structures to be demolished, all the equipment to be removed
+and undertake altogether a fresh activity to re-erect the civil structure and re-install all
+the necessary equipment and re-engage the same with the optical fiber cables at such
+other place.
+
+ee In furtherance of the tender bid, BSNL has entered into a contract with Applicant which
+stipulates Applicant's responsibility to set up the network including the responsibility to
+supply all the material and services required for setting up of network, training services
+to operate the same and supply of satellite connectivity vehicles [le, a mobile vehicle
+mounted with various satellite equipment) required for ensuring seamless connectivity
+during breakdown of network.
+
+8. The entire project as per contract between Applicant and BSNL is bifurcated into different
+packages and the purchase order is presently raised by BSNL with reference to cost break
+up of each of the material and services required to be supplied by Applicant under these
+packages. Such cost break-up for indigenous procurements relating to imports as well as
+domestic procurement is specified in annexures to the purchase order.
+
+9. Based on the above facts, the present application is being preferred before the Hon'ble
+Authority for Advance Ruling to determine the issue referred in Annexure II.
+
+STATEMENT CONTAINING THE APPLICANT'S INTERPRETATION OF LAW AND/OR
+FACTS, AS THE CASE MAY BE, IN RESPECT OF THE QUESTION(S) ON WHICH THE
+ADVANCE RULING IS REQUIRED
+
+: ISSUE FOR DETERMINATION
+
+Whether the supply of goods or services for ‘setting up of network' would qualify as
+‘works contract' as defined in Section 2(119) of the CGST Act?
+
+OUR SUBMISSIONS
+
+SUPPLY TO BE MADE AS PER THE CONTRACT RESULTS IN CREATION OF AN
+IMMOVABLE PROPERTY AND THUS QUALIFIES AS A WORKS CONTRACT
+
+Determination of the contract between Applicant and BSNL qua works contract merits
+analysis of the term 'works contract! which is defined under Section 2(119) of the CGST
+, Act,and is reproduced below for easy reference:
+
+;
+Section 2 (119): "works contract" means o contract for building, construction, fabrication,
+“completion, erection, installation, fitting out, improvement, modification, repair, maintenance,
+renovation, alteration or commissioning of any immovable property wherein transfer of
+property in goods (whether as goods or in some other form) is involved in the execution of such
+contract;
+
+1.2. Ona bare perusal of the definition, we submit that works contract is essentially a contract
+covering any or all activities referred in definition which relate to an immovable property
+and execution of such contract involves transfer of property in the goods,
+
+1.3. In the present facts, the contract entered between Applicant and BSNL indeed involves
+transfer of property and is covered by the activities referred to in definition of works
+contract. It is in these circumstances that if the network to be set up qualifies as
+‘immovable property, then the composite supply underlined in the contract would
+partake the character of a works contract.
+
+1.4. — Immovability_of network: In absence of any definition of the term ‘immovable property’
+under the CGST Act, nature of the network qua immovability merits analysis of judicial
+precedents in this regard. The concept of immovability has been subject matter of intense
+judicial scrutiny over the years and the judicial precedents laid time and again refer to
+following parameters to determine immovability of a structure:
+
+i, Whether it is a permanent fixture attached to building/land or not;
+
+
+ii. Whether dismantling of the parts is mandatory for movement or not;
+iii. Whether the functionality of the system depends upon its installation or not,
+
+1.5. It is summited that the activity of setting up of network envisages, constructing various
+types of buildings and civil infrastructures which can house all the equipment necessary
+to provide the connectivity. The scope of the entire set up to be developed by Applicant
+also covers in its fold creating the ancillary infrastructure such as water supply,
+plumbing, electricity supply, access roads, back-up power generator etc. it is important
+to note that the entire set up together contributes to effective and seamless operation of
+the network for information exchange. Based on the infrastructure to be developed in the
+course of setting up of network, all the determinative parameters referred above are
+answered in positive which are elaborated in ensuing paragraphs.
+
+Network to be set up comes into existence as permanently affixed to land
+
+1.6. Applicant submits that network to be set up comes into existence only when all the
+equipment's are installed in the data centers, nearline data centers, disaster recovery
+station, satellite data center and are inter connected with each other. Thus, network, as it
+comes into existence through all the buildings and civil structures erected, is firmly
+attached to ground and permanently becomes a part of the land itself.
+
+1.7. Insucha case, owing to permanency of the entire structure, the network merits treatment
+as an immovable property. Applicant submits that the test of immovability is no res
+integra and places its reliance in the decision of IN RE: OTIS Elevator Company (India)
+Limited (1981 (8) ELT 720 (G.0.1.)) relevant portion of which is reproduced below:
+
+“Ss, 3(L) elevators and escalators do not come into existence until they are fully erected or installed,
+adjusted, tested and commissioned in a building and that on complete erection and installation the
+elevators and escalators become a part of immovable property.
+
+4. Government find considerable force in the petitioner's contention referred to the para 3(i) above
+\ that elevators and escalators erected and installed by them become a part of immovable
+on property
+
+cite 18... Reference is also drawn from Hon'ble Supreme Court's decision in the case of Triveni
+ee Engineering & Industries Ltd. vs. CCE [2000 (120) ELT 273), wherein installation of turbo
+alternator which included installing its constituent parts viz. 'steam turbine’ and
+‘alternator’ together in a permanent form was evaluated. It was observed that turbo
+alternator comes into existence only when steam turbine and alternator is fixed together
+permanently to earth. Based on such observation it was held that turbo alternator as it
+came into existence was in the nature of immovable property.
+
+1.9. Accordingly, since the network which comes into existence only when the data centers,
+nearline. data centers, disaster recovery station, etc. are set up as firmly attached to the
+ground, it comes into existence in the form of an immovable property.
+
+The network cannot be moved in ‘as is' form from one place to other
+
+1.10. Network to be set up by Applicant cannot be moved to another place in ‘as is' form, but
+it requires the optical fiber cables to be disengaged, existing civil structures to be
+demolished, all the equipment to be removed and undertake altogether a fresh activity to
+re-erect the civil structure, re-install all the necessary equipment and re-engage the same
+with the optical fiber cables to interconnect the same. Such nature of the structure has
+time and again been recognized as an immovable structure by various judicial
+precedents.
+
+1.11. Reliance in this regard, is placed on the decision of the Hon'ble Supreme Court in the case
+of Municipal Corporation of Greater Bombay vs Indian Oil Co. Ltd. (AIR 1991 SC 686) relevant
+portion of which is reproduced below:
+
+
+Permanency is the test. The chattel whether is movable to another place of use in the same position
+or liable to be dismantled and re-erected at the later place? If the answer is yes to the former it must
+be a moveable property and thereby it must be held that it is not attached to the earth. If the answer
+is yes to the latter it is attached to the earth.
+
+1.12. Reliance in this regard is also placed on the decision of Hon'ble Supreme Court in the
+case of T.T. G. Industries Ltd. v. Collector of Central Excise [(2004) 4 SCC 751] wherein a
+machine was treated as immovable owing to permanency in its installation. Relevant
+portion is reproduced below:
+
+"We are not impressed by this reasoning, because it ignores the evidence brought on record as to.
+the nature of processes employed in the erection of the machine, the manner in which it is installed
+and rendered functional, and other relevant facts which may lead one to conclude that what
+emerged as a result was not merely a machine but something which is in the nature of being
+immovable, and if required to be moved, cannot be moved without first dismantling it, and then
+re-erecting it at some other place. Some of the other decisions which we shall hereafter notice clarify
+the position further."
+
+1.13. Reference is also drawn to the definition of immovable property as provided in Black's
+Laws Dictionary which is as under:
+
+"Immovable property means a property. that cannot be moved; an object so firmly attached to
+land that it is regarded as a part of land"
+
+1.14. Based on the above Applicant submits that; the 'network' to be set up in accordance with
+the contract partakes the character of an immovable property inasmuch as the network
+as it comes into existence is firmly attached underground and cannot be moved in 'as is'
+from one place to the other.
+
+_ The network falls short to attain its desired functionality unless it is permanently erected in
+‘the form of data centers, nearline data centers, disaster recovery station, satellite data
+centers, etc.
+
+Applicant submits that the network cannot perform its desired functions unless each of
+the equipment is systematically installed in data centers, nearline data centers, disaster
+recovery station, satellite data centers, etc. and are interconnected to facilitate exchange
+_ofinformation.
+
+“Unless the entire setup is erected in its totality as explained in paragraph:4 of the
+statement of facts of the present application, in which case it becomes permanently affixed
+to the earth, such set up cannot perform as a network envisaged in the contract. In other
+words, setting up the equipment in the form of permanently affixed to the earth is the
+essential necessity of the network, and thus the entire network partakes the character of
+an immovable property.
+
+1.17. In this context, reference is made to the Hon'ble Supreme Court judgment in the case of
+Kone Elevator India Private Limited Vs. State of Tamil Nadu [2014 (304) ELT 161 (SC)] wherein
+the issue of immovability of lift was discussed. Relevant extract of the judgment is
+reproduced below;
+
+"The lift basically comprises components like lift car, motors, ropes, rails, etc. having their own
+identity even prior to installation. Without installation, the lift cannot be mechanically functional
+because it is a permanent fixture of the building having been so designed.
+
+1.18. Based on the judicial precedents referred above Applicant submits that, the 'network to
+be set up by it partakes the character of an immovable property in as much as the network
+as it comes into existence is firmly attached underground and permanently becomes a
+part of the land itself, in such a case, the activities to be undertaken by, applicant as
+outlined in the contract are: classifiable as 'composite supply of works contract as per
+Section 2(119) of the CGST Act and attract the assessment of GST liability accordingly,
+
+6
+
+
+1.19. The submissions in the forgoing, paragraphs are also supported by the decisions of
+Hon'ble Appellate Authorities for Advance Ruling in the case of Giriraj Renewables
+Private Limited - (TS 461- AAAR-2018-NT) wherein a turnkey contract involving
+engineering, design, procurement, supply, development, testing and commissioning is
+held to be composite supply of works contract under Section 2(119) of the CGST Act:
+Relevant portion of the said ruling is reproduced below:
+
+Order
+
+1. Whether supply of turnkey engineering, procurement and construction ("EPC") contract
+for construction of a solar power plant wherein both goods and services de supplied con
+be constructed to be a composite supply in terms of Section 2(30) of the Central Goods and
+Services Tax Act, 2017?
+
+The Appellant poses before us to decide if engineering, procurement and construction contract falls
+within the definition of composite supply' as found in the GST Act. The question is answered in
+the positive as supply of the said turnkey EPC contract is a composite supply' u/s 2130) of the
+CGST ACT, 2017._The said composite supply falls within the definition of works contract
+u/s2(119) of the CGST Act, 2017.
+
+1.20. In view of the above, it is just and within the four corners of law that authorities may
+issue a ruling to clarify that the network to be set up by the Applicant in accordance of its
+contract with BSNL results in creation of an immovable property and thus qualifies as a
+works contract as per Section 2(119) of the CGST Act and attract the assessment of GST
+liability accordingly.
+
+2. ISSUE FOR DETERMINATION
+
+If supplies contemplated as per the contract with BSNL are not treated as works contract,
+
+can these continue to qualify as composite supply? if yes what is the principle supply?
+
+*.QUR SUBMISSION
+
+WITHOUT PREJUDICE, EVEN IF THE CONTRACT WITH BSNL IS NOT TREATED AS
+WORKS CONTRACT, SUPPLIES TO BE MADE AS PER THE CONTRACT ARE
+NATURALLY BUNDLED AND QUALIFY AS A COMPOSITE SUPPLY
+
+The scope of contract between Applicant and BSNL in principal involves supply of
+
+* material and services for setting up of network, supply of satellite connectivity vehicle
+and supply of training service by imparting training services. Since supplies under the
+contract are to be made in conjunction with each other, these would be treated as a
+bundled supply and needs to be further analysed qua composite supply as defined under
+Section 2(30) of the CGST Act to determine taxability thereof. We have reproduced below
+provisions of Section 2(30) for easy refence:
+
+Section 2 (30): “composite supply" means a supply made by a taxable person to a recipient
+consisting of two or more taxable supplies of goods or services or both, or any combination thereof,
+which are naturally bundled and supplied in conjunction with each other in the ordinary course
+of business, one of which is a principal supply
+
+2.2. Ona bare perusal of the definition it can be inferred that a composite supply is a supply
+of two or more naturally bundled supplies made in conjunction with each other. We note
+that determinant factor to analyse a supply qua composite supply is whether the supplies
+when made together are naturally bundled or not. If the bundled supply answers
+affirmative, it qualifies as a composite supply.
+
+2.3. Inthe present case we note that supply of material and services for setting up of network,
+supply of satellite connectivity vehicle and supply of service by imparting training
+services are to be made in conjunction with each other with a purpose of setting up and
+effective operation of network and to ensure seamless connectivity. This purpose is also
+
+7
+
+
+evident from the overview and scope of contract as provided in the tender document,
+relevant portion of which is reproduced below:
+
+Plan and Design a secure and reliable Navy-wide voice, video and data networking environment
+that meets the war fighter's needs to enable information exchange across the full spectrum
+of current and future naval operations. This network must connect all Users at all Naval
+Stations, Distributed Network operation Centers, Security Operations Centers, Data
+centers, Near Line Data Centers, Disaster Recovery Center, Training Lab, Testing Lab, Mobile
+Satellite Terminals, etc. spread across the country. The Tri Services OFC backbone and Naval
+Access OFC network at these stations is being implemented separately and would be provided by
+BSNL.
+
+1.1. Overview of the Tender: - The tender is intended to setup a Next Generation Network
+which will support net-centric operations a key enabler for the administrative operations/
+
+war fighting operations of the Indian Navy.
+
+2.4. Further, the supply of satellite connectivity vehicle and supply of training services also
+aid the objective to provide seamless connectivity through the network so set up:
+Relevant clauses of the contract in this regard are reproduced below:
+
+24,2 in addition to the primary connectivity, Transportable Satellite Terminals would be
+provided at all the locations to provision connectivity in case of damage to the
+Optic Fibre Cable. This mobile vehicle should also be provisioned with a high definition
+camera and associated equipment for streaming of live video.
+
+36.1. The successful bidder and his OEMs directly shall provide training to 100 officials from
+Indian Navy in India for installation, Operation, Testing, Maintenance of System and
+Software. The quality and content of the training shall be so designed that the Indian
+Navy officials will be sufficiently exposed to all the aspects of planning, engineering;
+installation, testing, provisioning, operations of the networks.
+
+‘Thus, supply of material and services for setting up of network, supply of satellite
+connectivity vehicle and training service being made in pursuance of setting up and
+effective operation of the network itself, are indeed naturally bundled. As a matter of fact,
+it is a globally accepted practice in the turnkey contracts that a contractor undertakes
+wholistic responsibility of all the activities relating to the contract. In these circumstances,
+. that all the activities required to be undertaken by the Applicant as per the contract merit
+treatment as a 'naturally bundled supply and thus qualifies as 'composite supply’.
+
+The submissions in the forgoing paragraphs is also supported by the decisions of Hon'ble
+Appellate Authorities for Advance Ruling in the case of Giriraj Renewables Private
+Limited (supra) wherein a turnkey contract involving engineering, design, procurement,
+supply, development, testing and commissioning is held to naturally bundled and
+therefore in the nature of a composite supply under Section 2(30) of the CGST Act.
+Relevant portion of the said ruling is reproduced below:
+
+39: The contract fulfills the conditions of composite supply. There is a supply of goods and
+
+services. They are naturally bundled in the sense that the goods and services may be
+required to fulfill the intention of the buyer in giving the contract. The supply of goods
+and services are provided as a package and the different elements are integral to flow of
+supply...
+... Thus, from reading the entire contract_as well as from the definition of
+composite supply, what can be easily gathered is that the buyer has given a
+contact for setting up solar power generating supply to the appellant and
+therefore it is single composite supply of goods and services and installation thereof.
+
+40. In order to understand the scope of a composite supply' and also to know what may be the
+criteria to judge a supply as a ‘composite supply’, the CBIC has published on e-flier on the
+subject: As per the E-flier, composite supply' entails the concept of ‘naturally
+
+8
+
+
+2.7.
+
+2.8.
+
+2.9.
+
+D2.
+
+bundled supply and whether services are bundles in the ordinary course of business
+would depend upon the normal or frequent practice followed is the area of business,
+
+In view of the Appellate order referred above, the activities to be undertaken by
+Applicant under the contract involving supply of material and services for setting up of
+network, supply of satellite connectivity vehicle and training service are naturally
+bundled, and merit being treated as a composite supply
+
+It is further submitted that, a composite supply, needs to be assessed for liability to pay
+tax thereon based on the levy as applicable to the principal supply contained thereunder.
+Such principal supply is defined to mean a supply which constitutes, pre-dominant
+element of a composite supply. Applicant submits that, in a contingency where setting
+up of network is not treated as works contract, then based on the substantial quantity and
+value of the material required to be supplied as per the contract, supply of material
+constitutes as predominant element of the entire contract and therefore merits being
+treated as a principal supply.
+
+Determination of principal supply if the activity of setting up the network qualifies as works
+
+contract
+
+In the present facts, supply of material and services for setting up of network, supply of
+training services and supply of satellite connectivity vehicles amongst all the other
+ancillary activities required under the contract are aimed at creation of a network and its
+operations.
+
+in such a case, if the activity of setting up of network per se qualifies as 'works contract’;
+then such works contract constitutes the pre-dominant element of the entire contract and
+partakes the character of a ‘principal supply’.
+
+‘ ISSUE FOR DETERMINATION
+
+What is the rate of tax applicable to the supplies made under the contract?
+
+OUR SUBMISSION
+
+/ “RATE OF TAX APPLICABILE FOR SETTING UP OF THE NETWORK
+
+» A composite supply of works contract is stipulated to be treated as a 'supply of services
+
+in terms of Sr. No. 6 of Schedule II of the CGST Act and thus all the supplies of material
+as well as services underlying such works contract is to be treated as supply of service
+itself. The rate of GST applicable for supply of services are notified vide Notification No.
+11/2017 - Central Tax (rate) dated June 28, 2017 (as amended from time to time) (‘rate
+Notification’) which prescribes rate of GST on works contract services depending upon
+the nature of work to be carried out
+
+Based on the nature of works contract services and its usage by Indian Navy, Entry no.
+3(vi)(a) of rate Notification merits analysis which is reproduced below for easy reference:
+
+CHAPTE | DESCRIPTION OF SERVICE RATE CONDITION
+SL, |'R, (PERCE
+N_ | SECTION NT.)
+o. | OR
+HEADIN
+G
+Heading vi). Services provided to the Central | 6% Provided that where
+3 9954 Government, State Government, Union the services are
+(Construct | Territory, a local authority, a governmental supplied to a
+ion authority or a government entity by Government Entity,
+services) way of construction, they should have
+
+been procured by
+the said entity in
+9
+
+
+
+erection; commissioning, installation, relation to a work
+
+completion, _fitting out, repair, entrusted to it by the
+maintenance, renovation, or alteration of - Central
+
+(a) _a_ civil structure _or any other Government, State
+original_works_meant predominantly for Government, Union
+use other than for commerce, industry, or territory or local
+any other business or profession; authority, as the
+(B) oo case may be
+
+3.3. It is submitted ona bare perusal that, services of works contract are covered by Entry no.
+3(vi)(a) of rate Notification if following conditions are fulfilled:
+
+i. recipient must be either of Central Government, State Government, Union
+Territory, a local authority, a governmental authority or a government entity;
+
+ii. resultant civil structure or any other original works must be used predominantly
+for other than commerce, industry, or any other business or profession
+
+3.4. Applicant submits that network is to be built by Applicant for BSNL which qualifies as a
+government entity inasmuch as 100% of its equity is held by Central Government. A copy
+of annual report which evidences such shareholding is enclosed as Exhibit A with this
+application. Further, the network to be set up by Applicant is eventually intended to be
+used for activities relating to defense. In such a case Applicant's activity would partake
+the character of 'supply of works contract services to Government entity meant predominantly
+for_use other than for commerce, industry, or any other business or profession’ and would
+accordingly attract GST at the rate of 12% (CGST and SGST each at the rate of 6%; or IGST
+at the rate of 12%).
+
+“>. PRAYER
+
+In view of the submissions made above, it is most humbly prayed that Hon'ble authorities
+
+may kindly pass a ruling to clarify as follows:
+
+a. Bundled supply as per the contract qualify as ‘Composite supply of works
+
+contract' as defined in Section 2(119) of the CGST Act
+
+b. The composite supply of works contract attracts GST at the rate of 12% vide Entry
+
+Pe No. 3(vi)(a) of the Notification No. 11/2017-CGST (Rate) dated June 28, 2017
+
+Additional submissions of applicant on 25.03.2019
+
+“During the personal hearing the Applicant advanced its submissions relating to applicability of
+Entry No. 3(vi)(a) of Notification No. 11/2017 - Central Tax (rate) dated June 28, 2017
+(‘Notification No. 11/2017’), to the services required to be provided by Applicant in accordance
+with its contract with Bharat Sanchar Nigam Limited (‘BSNL’).
+
+As such Entry No. 3(vi)(a) of Notification No. 11/2017 prescribes GST at rate of 12% (CGST at the
+rate of 6% and SGST at the rate of 6%) for services which inter alia qualify as ‘original works’.
+Accordingly, in furtherance of the submissions advanced earlier, the Applicant herein wishes to
+make further additional submissions in support of its contention that service to be provided by
+it qualify as ‘original works' and is indeed covered by Entry No. 3(vi)(a) of Notification No.
+11/2017. These additional submissions made in the ensuing paragraphs are being made without
+prejudice to each other, as well as Applicant's earlier submissions:
+
+THE TERM 'ORIGINAL WORKS' AS DEFINED_UNDER NOTIFICATION NO. 12/2017
+CENTRAL TAX (RATE) POSSESSES PERSUASIVE FORCE AND CAN BE REFEREED TO
+DETERMINE SCOPE OF THE TERM ‘ORIGINAL WORKS' AS REFERRED_IN
+NOTIFICATION NO. 11/2017 CENTRAL TAX (RATE)
+
+11. Applicant submits that the term ‘original works' as referred in Entry No. 3(vi)(a) of
+Notification No. 11/2017 is neither defined under Notification No. 11/2017 nor under the
+Central Goods and Service Tax Act, 2017 ('CGST Act’). In these circumstances, the
+Applicant refers to the Notification No. 12/2017 Central Tax (Rate) dated June 28, 2017
+
+10
+
+
+
+(‘Notification No. 12/2017') which inter alia defines the term ‘original works'. Relevant
+portion of the said exemption notification is reproduced below:
+
+2. Definitions. - For the purposes of this notification, unless the context otherwise
+
+requires, - (zs) "original works" means- all new constructions;
+
+(i) all types of additions and alterations to abandoned or damaged structures on land that are
+required to make them workable;
+
+(ii) erection, commissioning or installation of plant, machinery or equipment or structures,
+whether pre-fabricated or otherwise;
+
+1.2. Ona bare perusal, Applicant submits that even though the definitions provided in
+paragraph 2 of the said Notification are applicable only for the purpose of the Notification
+No. 12/2017, these provisions bear persuasive force to determine the scope of an identical
+term viz. ‘original works' as used in Entry No. 3(vi)(a) of Notification No. 11/2017.
+
+1.3. Applicant submits that both the Notification, viz. Notification No. 11/2017 as well as
+Notification No. 12/2017 are issued by the Central Government in exercise of its powers
+conferred under CGST Act and as such contents of both these notifications form part of
+the same statutory framework which further supports the persuasive force of the
+definition of ‘original works' as provided under Notification No. 12/2017 to determine the
+scope of ‘original works' as referred in Entry No. 3(vi)(a) of Notification No. 11/2017.
+
+1.4. Reference is also drawn from the ruling Rajasthan Authority for Advance Ruling in the
+Application of Tata Projects Limited - SUCG Consortium wherein the Authorities
+deliberated Applicability of Entry No. 3(vi)(a) of Notification No. 11/2017 to the activities
+of Applicant therein and referred to Notification No. 12/2017 to Rule that recipient of
+service viz. Jaipur Development Authority qualified as 'Governmental Authority’.
+
+.. Without prejudice to the above, in absence of the definition of original works' under
+Notification No. 11/2017, reference may also be drawn from the definition as provided
+
+» in the Service Tax (Determination of Value) Rules, 2006 (‘Service tax valuation rules') as
+notified under Finance Act, 1994. Said definition is identically worded as the definition
+under Notification No. 12/2017 and thus also possesses persuasive force to determine the
+meaning of ‘original works' as referred to in Entry No. 3(vi)(a) of Notification No.
+11/2017.
+
+_.cIn-view of the above Applicant further submits that the term 'original works’ as defined
+
+in Notification No. 12/2017 as well as Service tax valuation rules inter alia covers activities
+in the nature of erection, commissioning or installation of machinery or structure. At this
+juncture the Applicant refers to the scope of contract which inter alia necessitates the
+Applicant to build structures in the form of buildings, roads, etc. and undertake the
+activity of installing the equipment therein. Relevant portion of the contract is reproduced
+below for easy reference:
+
+CLAUSES OF THE CONTRACT
+Civil Infrastructure:
+1. A central building would need to be_built at very site to house Type 1/Type 2 Type 3
+Infrastructure, Telepresence equipment, Networking Equipment, Optic fibre Equipment, Staging
+area and other operational and administrative buildings.
+The scope of work includes civil construction, water supply, sanitary and plumbing, electrical
+installation, landscaping, air conditioning, roads, and firefighting and interior works All the
+buildings should be constructed with RCC (Reinforced Concrete Construction) Partition walls
+(non-load bearing walls) may be of high-quality bricks.
+2. Along with the building the following additional infrastructure for the complex would also be
+required: -
+2.1 Approach road to building within Naval Station
+2.5 Underground electrical wiring will be done as per the requirement
+3. In addition, a power room to house the silent generators also needs to be constructed.
+
+
+
+1.7. It is therefore submitted that, activities to be undertaken by the Applicant are indeed in
+the nature of erection, commissioning, installation of structure, machinery etc. and is
+therefore duly covered by the term ‘original works' as referred to under Entry No.3(vi)(a)
+of Notification No. 11/2017
+
+WITHOUT PREJUDCE, IT IS AGAINST THE PRINCIPALS OF INTERPRETATION OF
+STATUTE TO DETERMINE THE SCOPE OF A TERM USED IN ONE STATUTE BASED ON
+THE DEFINITION OF THAT TERM AS PROVIDED IN OTHER STATUTE
+
+1.8. | Without prejudice to the persuasive force of the definition of original works' as contained
+in the Notification No. 12/2017 and Service tax valuation rules and that these form part
+of the same statutory framework, the Applicant further submits that even though the
+term ‘original works' is not defined under Notification No. 11/2017 or CGST Act per se,
+the authorities are not at liberty to refer to any other statute to determine the scope of
+‘original works' as referred under Notification No. 11/2017.
+
+1.9. Inthis regard, Applicant submits that, in absence of a definition within the statute, a term
+needs to be understood in its common parlance and in the context in which it appears.
+Reliance in this regard is placed in the decision of Hon'ble Supreme court in the case of
+Commissioner of Sales Tax, Madhya Pradesh vs. Jaswant Singh Charan Singh AIR 1967
+SC 1454 wherein Hon'ble Supreme Court while laying its unambiguous ratio in the said
+case addressed contentions of the counsel for the Appellant who sought to draw reference
+from the Colliery Control Order, 1945 to ascertain the meaning of 'coal as used in the
+Madhya Pradesh General Sales Tax Act, 1958; and referred the fallacy to import meaning
+of a term from another statute as ‘a terror in the construction of Acts of parliament’. Relevant
+portion of the decision is reproduced below:
+
+9. Counsel then relied upon section 5 of the Colliery Control Order, 1945, in order to show that
+the Legislature there had dealt with coal in its strict and technical meaning. He also relied upon
+certain other statutory provisions with a view to show that the Legislature has all along been using
+the word ‘coal' as a mineral product only. The Colliery Control Order deals with collieries and
+obviously, therefore, the term 'coal' there is used as mineral product. It is a well-settled principle
+that in construing a word in an Act caution is necessary in adopting a meaning ascribed to that
+word in other statutes. As Lord Loreburn stated in Macbeth v. Chislett (1910) A.C. 220,
+
+"it would be a new terror in the construction of Acts of Parliament if we were required_to
+limit a word to an_unnatural sense because in some Act which is not incorporated or
+referred to such an interpretation is given to it for the purposes of that Act alone!
+
+1.10. Hon'ble Supreme Court noted that use of a word in another statute may have its
+etymological or scientific meaning attuned to that statute and thus would not be
+applicable to any other statute. Accordingly, it held the reference of Colliery Control
+Order, 1945 to ascertain the
+
+1.11. meaning of coal as used in the Madhya Pradesh General Sales Tax Act, 1958, as
+inadmissible. Relevant portion of the decision is reproduced below:
+
+The strict sense in which such a word is to be found in another statute may mean the etymological
+or scientific sense and would not in the context of another statute be applicable. From the Colliery
+Control Order, 1945 or the other provisions to which our attention was drawn, it would neither
+be possible nor safe to adopt the meaning of the word ‘coal' given in those provisions for the
+purposes of the Act under construction. Nor can we infer that there is a Legislative policy
+consistently followed by the Legislature merely because the word ‘coal' has been used as meaning
+a mineral product in the context of these statues. It would not, therefore, be possible to discard
+the meaning of the word 'coal' in this statute as understood in its commercial or popular
+sense and to adopt its connotation from other statutes passed for different purposes or
+in context of different objects.
+
+12
+
+
+1.12. The Hon'ble Supreme court in the said case also analyzed at length prior jurisprudence
+in the case of Ramavtar Budhaiprasad, etc. vs. Assistant Sales tax officer, Akola (1962] 1SCR
+279; His majesty the King v. Planters Nut and Chocolate company Limited (1951) C.L.R. 122;
+Attorney General v. Winstanley (1831] 2 D & Cl. 302.; Grenfell v Inland Revenue Commissioner
+(1876] I Ex-D. 242. and categorically noted that while interpreting a term ina statute, resort
+must be made to its popular meaning or the commercial meaning attached to it by those dealing
+in them. Relevant portion of the decision is reproduced below:
+
+5. ...But it is now well-settled that while interpreting items in statutes like the Sales Tax Acts,
+resort should be had not to the scientific or the technical meaning of such terms but to their popular
+meaning or the meaning attached to them by those dealing in them, that is to say, to their
+commercial sense.
+
+...In his majesty the king v Planters Nut and Chocolate company Limited (1951) C.L.R. 122 ... It
+also held that It also held that what constitutes a '‘fruit' or 'vegetable' within the meaning of the
+Excise Tax Act is what would ordinarily in matters of commerce in Canada be included therein
+and not what would be a botanist's conception of the subject matter. If a statute uses the ordinary
+words in every days use, such words should be construed according to their popular sense.
+
+7. The result emerging from these decisions is that while construing the word ‘coal’ in
+Entry I of Part III of Schedule Il, the test that would be applied is what would be the
+meaning which persons dealing with coal and consumers purchasing it as fuel would give
+to that word. A sales tax statute is being one levying a tax on goods must in the absence
+of a technical term or a term of science or art, be presumed to have used an ordinary term
+as coal according to the meaning ascribed to it in common parlance.
+
+_It is submitted that binding force in 'law of the land' as pronounced by Hon'ble Supreme
+‘court in the above referred case has only increased to a great extent as it has time and
+again adopted the same position of law in its subsequent decisions. We refer few of these
+
+‘ decisions being the case of Union of India (UOI) and Ors. Vs. R.C. Jain and Ors., AIR 1981
+
+» (SC) 951 wherein Hon'ble Supreme Court noted that it is not a sound rule of interpretation
+to-refer to meaning of a term used in one statute, from the definition of that term used in
+another statute. Relevant portion is reproduced below:
+"2. 'Local Fund' is again not defined in the General Clauses Act. Though the expression appears
+to have received treatment in the Fundamental Rules and the Treasury Code, we refrain from
+borrowing the meaning attributed to the expression in those rules as it is not a sound rule of
+interpretation to seek the meaning of words used in an Act, in the definition clause of other
+statutes. The definition of an expression in one Act must not be imported into another. "It would
+be a new terror in the construction of Acts of Parliament if we were required to limit a word to an
+unnatural sense because in some Act which is not incorporated or referred to such an
+interpretation is given to it for the purposes of that Act alone" (per Loreburn L.C. in Macbeth v.
+Chislett (1910) AC 220. For the same reason we refrain from borrowing upon the definition of
+‘Local Authority' in enactments such as the Cattle Trespass Act 1871 etc. as the High Court has
+done."
+
+1.14. Reliance is also placed on decision of Hon'ble Supreme court in the case of State of Uttar
+Pradesh and Ors vs Kores India Ltd AIR 1977 (SC) 132 wherein Hon'ble Supreme Court
+owing to absence of definition within the statute, referred to the meaning of ‘paper’ as
+commonly or generally understood. Relevant portion of the said definition is reproduced
+for easy reference:
+
+"7. The word 'paper' admittedly not having been defined either in the U.P. Sales Tax Act,
+1948 or the Rules made thereunder, it has to be understood according to the aforesaid well
+established canon of construction in the sense in which persons dealing in and using the article
+
+understand it. It is, therefore, necessary to know what is paper as commonly or generally
+understood.
+
+13
+
+
+1.15. In view of law of the land as referred above, which has only been time and again
+strengthened by decisions of Hon'ble Supreme Court, Applicant submits that it is not
+open for the Authorities to refer to the definition of 'original works' as provided in any
+other statute to determine scope of original works' as referred in Notification No. 11/2017,
+and in absence of any definition of ‘original works! under Notification No. 11/2017 as well
+as CGST Act, it is pertinent to refer the meaning of the term ‘original works' in its common
+parlance.
+
+1.16. Applicant therefore refers to the 'Oxford Advanced Learner's Dictionary' which explains
+the term 'original' to mean ‘existing at the beginning’ while the term 'works' is explained
+to mean activities or putting efforts to use materials and achieve a desired result. Relevant
+portion of the dictionary is reproduced below:
+
+Original, Adj.:
+1 [only before a noun) existing at the beginning of a particular period, process or activity
+Works,
+
+HAVE RESULT/EFFECT 10 (VN) to cause or produce something as a result of efforts;
+USE MATERIAL 11 (VN) sth (in to sth) to make a material into a particular shape of form
+by pressing, stretching, hitting it, etc.
+
+EFFORT 6 [U] the use of physical strength or mental power in order to do or make
+something PRODUCT OF WORK 7 [U] a thing or things that are produced as a result of
+work
+
+In view of the above, the term ‘original works' together would refer to an activity of
+creating something that is being brought to existence at the first instance. Having derived
+~, the meaning of ‘original works' in common parlance, Applicant refers to the scope of
+contract which requires it to perform activities to bring structures in the form of buildings,
+roads, etc. into existence. Applicant therefore submits that since its activities result in
+bringing a new structure into existence, it indeed qualifies as 'original works' as referred
+in Entry No. 3(vi)(a) of the Notification No. 11/2017.
+
+i /
+
+_-WITHOUT PREJUDCE, ACTIVITIES UNDERTAKEN BY THE APPLICANT QUALIFY AS
+
+<‘"ORIGINAL WORKS' EVEN IF THE SCOPE OF THE TERM ‘ORIGINAL WORKS IS TO BE
+
+“= CONSTRUED BASED ON ITS DEFINITION AS PROVIDED UNDER CPWD MANUAL.
+
+1.18. The term ‘original works' is also defined under the Central Public Works Department's
+manual ('CPWD manual’) for the purpose of activities to be undertaken by Central Public
+Works Department which is an arm of Ministry of Housing and Urban Affairs,
+Government of India. As such the provisions of CPWD manual have no bearing on
+interpretation of the provision of Goods and Service Tax law. Without prejudice to the
+submissions above, even if the term ‘original works' as defined under CPWD manual is
+referred to determine the scope of original works under Notification No. 11/2017, the
+activities of Applicant continue to be covered under Entry No. 3(vi)(a) of the Notification
+No. 11/2017.
+
+1.19. The definition of ‘original works' under CPWD manual inter alia covers in its fold ‘all new
+constructions! and such term is not appended with any other condition. In other words,
+any activity that qualifies as a 'new construction' would ipso facto be covered by the
+definition of ‘original works'. The term 'new construction' is not defined under any of the
+provisions of the Goods and Service Tax law. Accordingly, reference is made to
+understanding of the said term in common parlance.
+
+1.20. Applicant refers to the 'Oxford Advanced Learner's Dictionary’ which explains the term
+‘new! to mean 'not existing before! or 'recently made' while the term ‘construction’ is
+
+14
+
+
+explained to mean a process of making something. Relevant portion of the dictionary is
+reproduced below:
+
+New: (adj.)
+1. Not existing before; recently made, invented, introduced, etc.
+
+Construction: (noun)
+
+1. The process or method of building or making something,
+2. The way that something has been built or made
+3. A thing that has been built or made
+
+1.21. Reference is also drawn from the explanation as provided in the Black's Law Dictionary,
+ninth edition, which explains the term 'new' to mean ‘something that came recently into
+being'; while the term construction is explained to mean the act of combining or arranging
+parts or elements; relevant portion of the dictionary is reproduced below:
+
+New, adj:
+
+1. (Of a person, animal or thing) recently came into being
+
+Construction, n:
+
+1. The act of building by combining or arranging parts or elements, the thing so built
+
+1.22. In view of the above, the Applicant submits that the term 'new construction’ covers in its
+fold an act or process by which a thing or a structure is brought into existence. The use of
+the adjective 'new' essentially refers to such structure to be something that did not exist
+earlier but came into existence only as a result of the act or process referred to.
+
+At this juncture the Applicant refers to the scope of contract which inter alia necessitates
+*. the Applicant to build structures in the form of buildings, roads, etc. and undertake the
+_ activity of installing the equipment thereunder. Accordingly, the activity to be
+undertaken by the Applicant indeed results in building a structure, which would come
+into existence only due to the process of construction and installing equipment therein
+
+would be undertaken by the Applicant.
+\* : 1.24, /As such the activity of Applicant qualifies as 'new construction’, and without prejudice
+\ss “ / to the above, even if the Authorities refer to the definition of 'original work' as provided
+Nee 3 _~~ under the CPWD manual, activities of Applicant are covered thereunder.
+
+WITHOUT PREJUDICE, USE OF THE TERM ORIGINAL WORKS' INDEPENDENTLY
+FROM 'CIVIL STRUCTURE' IS INDICATIVE THAT ORIGINAL WORKS' COVERS IN ITS
+FOLD THINGS OTHER THAN 'CIVIL STRUCTURE'
+
+1.25. Applicant submits that Entry No. 3(vi)(a) of Notification No. 11/2017 covers in its fold
+‘civil structure! as well as ‘original works', relevant potion of the entry is reproduced
+below for easy refence:
+
+(vi) Services provided to the Central Government, State Government, Union Territory, a local
+authority, a governmental authority or a government entity by way of construction, erection,
+commissioning, installation, completion, fitting out, repair, maintenance, renovation, or alteration
+of -
+
+(a) a ‘civil structure' or any other ‘original works' meant predominantly for use other than for
+commerce, industry, or any other business or profession;
+
+1.26. Applicant submits that use of the term ‘original work independent of ‘civil structure! is
+indicative that the term ‘original work covers in its fold things other than ‘civil structure'.
+In such a case, an attempt to interpret the term original works limited to construction of
+building, road or any other civil infrastructure leaves the term ‘original work' as
+redundant. It is a cardinal principal of law that intention of the Legislature is primarily
+to be gathered from the language used and a construction which results in rejection of
+words as meaningless has to be avoided.
+
+1s
+
+
+1.27. Reliance in this regard is placed in the decision of Hon'ble Supreme Court in the case of
+Aswini Kumar Ghose v. Arabinda Bose, AIR 1952 SC 369, wherein the then Chief Justice
+of India, Shri. Patanjali Shastry noted 'It is not a sound principal of construction to brush aside
+words in a statue as being inapposite surplusage, if they can have appropriate application in
+circumstances conceivably within the contemplation of the statute'
+
+1.28. In view of the above, the term ‘original work' necessarily needs to be interpreted to also
+cover in its fold things other than civil structure. In such a case, the services of Applicant
+which cover in its fold activities relating to developing civil structure as also installation
+and commissioning of equipment to set up the network, is duly covered within the scope
+of the term ‘original work’. Accordingly, the activities of Applicant are indeed covered by
+Entry No. 3(vi)(a) of the Notification No. 11/2017 and merits GST at the rate of 12%
+(CGST at the rate of 6% and SGST at the rate of 6%).
+
+PRAYER
+
+In view of the submissions made above, it is most humbly prayed that Hon'ble authorities may
+kindly pass a ruling to clarify as follows:
+
+a. The Activities to be undertaken by Applicant in accordance with its contract with BSNL
+attracts GST at the rate of 12% vide Entry No. 3(vi)(a) of the Notification No. 11/2017-
+CGST (Rate) dated June 28, 2017
+
+03. CONTENTION - AS PER THE CONCERNED OFFICER
+
+«=... The submission, as reproduced verbatim, could be seen thus-
+-\ The application can be accepted U/s. 98(2) of MGST Act, 2017.
+Particular Remarks HSN CODE & GST TAX RATE
+CLASSIFI SINGLE MODE OPTICAL FIBER HS CODE 9001100, TAX RATE -
+CATION; 18%
+OF ; OPTICAL ELEMETN SILICA PREFORM HS CODE 70140020, TAX RATE
+GOODS. '& - 18%
+“"*" | SERVICES | SUPPLY OF WORKS CONTRACT SERVICES TO | GST - 12% & 18%
+
+iS gf GOVERNMENT ENTITY
+
+MEANTPREDOMINANTLY FOR USE OTHER
+THAN FOR COMMERCE, INDUSTRY OR ANY
+OTHER BUSINESS OR PROFESSION
+
+04, HEARING
+Preliminary hearing in the matter was held on 06.02.2019, Sh. Rohit Jain, Advocate,
+
+Economic Laws Practice appeared and requested for admission of application as per contentions
+made in their application. Jurisdictional Officer Sh. R. B. Jogdand , Dy. Commr. of S.T.(AUR-
+VAT-E-003) Aurangabad division appeared and made written submissions.
+
+The application was admitted and called for final hearing on 05.03.2019, Sh. Rohit Jain,
+Advocate, Economic Laws Practice appeared and made both, oral and written submissions. The
+
+Jurisdictional Officer was not present.
+
+05. OBSERVATIONS
+
+We have gone through the facts of the case, documents on record and submissions made
+
+by both, the applicant as well as the jurisdictional office.
+
+16
+
+
+The Applicant, engaged in providing goods and services, is registered under GST Laws
+with registration number GSTIN 27AAECS8719B12C. Their activities include manufacture of
+telecom products such as optic fiber optic fiber cable, etc.; laying of these optic fiber cables (either
+underground or hung overhead) to create a network, setting up of control centers, installation
+of equipment necessary to operate the network for desired purpose, commissioning of network
+and any other ancillary activity that may be necessary for creation of network infrastructure for
+
+its customers in telecom industry.
+
+The Indian Navy, which intends to establish a countrywide IP/MPLS based
+multiprotocol converged network, Naval Communication Network (collectively referred as
+"network"); as core infrastructure for supporting strategic and operational needs of Navy, has
+entrusted the setting up of these networks to Bharat Sanchar Nigam Limited ("BSNL") who in
+turn has floated a tender inviting detailed bids for the same. The applicant is desirous of
+applying for the tender and has therefore filed the subject application raising the questions
+
+which pertain to a proposed transaction that is to be undertaken by them.
+
+The applicant has submitted that the said network to be so created mainly involves
+activities like : Construction of holdings and raising of civil structures necessary to house data
+
+centers, nearline data centers, disaster recovery station, satellite data center and connectivity
+
+equipment at various Naval ports; Installing rack, stack in the buildings and other civil
+infrastructures necessary to house the equipment and enable operation of all the centers/ ports;
+Assemble /install all equipment and powering it up by connecting with power supply and back-
+“ up, generators; and Interconnecting and configuring all the equipment in all the data centers,
+ye “néarline data centers, disaster recovery station, satellite data center, etc. with each other to enable
+
+“information exchange across the network as desired.
+
+The applicant has also submitted that BSNL has entered into a contract with them
+stipulating Applicant's responsibility to set up the network including the responsibility to
+supply all the material and services required for setting up of network, training services to
+operate the same and supply of satellite connectivity vehicles [like, a mobile vehicle mounted
+with various satellite equipment) required for ensuring seamless connectivity during
+breakdown of network. The applicant has further submitted that the entire project as per the
+contract is bifurcated into different packages and the purchase order is presently raised by BSNL
+with reference to cost break up of each of the material and services required to be supplied by
+Applicant under these packages. Such cost break-up is also for indigenous procurements
+
+relating to imports as well as domestic procurement.
+
+17
+
+
+The applicant is of the view that the network to be set up by them in accordance of its
+contract with BSNL results in creation of an immovable property and thus qualifies as a works
+contract as per Section 2(119) of the CGST Act. Alternatively they have also submitted that if
+supplies contemplated as per the contract with BSNL are not treated as works contract, in that
+case can these continue to qualify as composite supply? If yes what is the principle supply?
+
+Perusal of clauses of the agreement reveals that the applicant supplies more than two
+taxable supplies of goods or services or combination thereof. Hence we are convinced that the
+various supplies as contemplated by the contract constitutes composite supply as defined u/s
+
+2(30) which read as follow-
+
+Section 2(30): “composite supply” means a supply made by a taxable person to a recipient
+consisting of two or more taxable supplies of goods or services or both, or any combination thereof, which
+are naturally bundled and supplied in conjunction with each other in the ordinary course of business,
+one of which is a principal supply;
+
+The next issue to be decided by us is whether this composite supply is ‘Works Contract
+as defined in clause (119) of section 2 of the GST Act.
+
+“ss 2(119) ) “works contract” means a contract for building, construction, fabrication,
+
+V4 i? completion, erection, installation, fitting out, improvement, modification, repair, maintenance,
+& 2 renovation, alteration or commissioning of any immovable property wherein transfer of property in goods
+
+>
+
+;w y ) ‘
+
+i a { (whether as goods or in some other form) is involved in the execution of such contract.
+‘ #
+
+restricted to any work undertaken for an immovable property which is a complete departure
+
+from the erstwhile VAT and Service tax regime where the provisions were applicable to both
+
+movable and immovable property.
+
+Thus what we need to find out is whether the applicant in the subject case is dealing in
+any immovable property which is transferred in the execution of the contract. The salient
+
+features in respect of the subject supply includes as under :-
+
+The tender envisages (a) construction of a central building at every site to house Type 1/Type
+2/Type 3 Infrastructure, Telepresence equipment Networking Equipment Optic fibre Equipment, Staging
+ored and other operational and administrative buildings and the scope of work includes civil construction,
+water supply, sanitary and plumbing, electrical installation, landscaping, air conditioning, roads, and fire
+fighting and interior works, etc. (b) construction of approach road to buildings within Naval Station,
+Provision of security lights around the complex, Security cameras inside and outside building, Guard post
+
+including rest room, Automatic Barrier at main/emergency gates. Access Control Mechanism at entrances
+18
+
+
+to the building, Smoke detector, provisioning of small fire fighting appliances, PA system, (c) doing of
+underground electrical wiring, supply of switches, cutout, CBS and wires, cables, air conditioners, fans,
+tube lights, CFL, exhaust fans, call bells, lightning arrester, false roofing, wall paneling etc. (d)
+construction of a power room to house the silent generators, provisioning of DG sets along with control
+panel, etc. which are required for operation of the power plant.
+
+Thus the present contract in our view is a works contract as it involves provision of
+services and goods, but it is for us to decide whether it is works contract as defined under the
+
+GST Act.
+Section 3(26) of General Clauses Act, 1897 defines Immovable property’ as follows:
+
+"Immovable property' shall include land, benefits to arise out of land, and things
+attached to the earth, or permanently fastened to anything attached to the earth;"
+
+It is evident from above that they are constructing civil structure to house various
+equipment, electrical installation, infrastructure, etc. We further find from the Project Schedule
+submitted by the applicant that their work involves Construction buildings for housing the
+equipment room, Data centers, Nearline data centers, Disaster Recovery Center, Training of
+
+Project Management Team, Supply of Equipment at a central site of bidder and segregrated as
+
+per site, Staging of Equipment, Joint Testing, Delivery of Equipment to sites, Installation of
+equipment, Certification of Network by a Certifying Authority, Commissioning of the Network,
+
+Training for trainers and Completion of Warranty.
+i ae i
+ii
+
+iA , Sea Z, Titus from a reading of the terms of the contract is for a surveillance system to be put into
+
+Qo? — place for which the most important items are the equipments which are requires for the system
+\ ya
+
+“to function. This is the principal requirement and after supply of these equiments the same are
+required to be put to use. Hence the equipments have to be installed, connected with wires to
+various components etc, as submitted by the applicant and since the same cannot be kept in the
+
+open they are to be housed in buildings consisting of operational areas, etc.
+
+We now discuss whether the nature of the works undertaken by the applicant are in the
+nature of ‘Original Works’. Applicant has submitted that the contracts to be undertaken by them
+
+are original works.
+
+The term original works has not been defined in GST Act. Under the erstwhile Finance
+Act, 1994 original work was defined as i) All new constructions, ii) All types of additions and
+alterations to abandoned or damaged structures on land that are required to make them workable; iii)
+
+Erection, commissioning or installation of plant, machinery or equipment or structures, whether pre-
+
+fabricated or otherwise. Taking into consideration the nature of contracts. As per para 1.3.1 of CPWD
+
+Manual, 2014, "original works" means (i) all new constructions, (ii) all types of additions,
+
+alterations and/or special repairs to newly acquired assets, abandoned or damaged assets that
+
+
+are required to make them workable. (iii) major replacements or remodeling of a portion of an
+existing structure or installation or other works, which results in a genuine increase in the life
+
+and value of the property.
+
+We find from the proposed contracts that the tender is intended to setup a Next
+Generation Network which will support net-centric operations a key enabler for the
+administrative operations/ war fighting operations of the Indian Navy. The term ‘original works'
+as defined in Notification No. 12/2017 covers activities in the nature of erection, commissioning
+or installation of machinery or structure. The scope of the subject proposed contract necessitates
+the Applicant to build structures in the form of buildings, roads, etc. and undertake the activity
+of installing the equipment therein, etc as mentioned aforesaid. However we find that the
+equipments which are installed by the applicant are first supplied by them. Thus it is seen that it
+is not a fact that the applicants are only involved in erection, commissioning or installation of
+machinery belonging to some other person but are installing and commissioning the equipments
+supplied by them. Hence primarily what they are doing is supplying goods i. e. equipments.
+
+Thus the works to be undertaken by them cannot be considered as "original work".
+
+The applicant has made submissions to support their contention that the subject contract
+shoiild be considered as falling under clause (vi) (a) of Section 5 of Notification No 11/2017 - CT
+(Rate) as amended. However in view of the discussions we find that the subject contract does not
+envisage original works and it is also seen that the contract is not in respect of a civil structure.
+Hence’ Wwe find that the applicant's contention cannot be accepted and the said contract does not
+
+fall fetid clause (vi) (a) of Section 5 of Notification No 11/2017 - CT (Rate) as amended. It is also
+
+seonthat the subject contract does not satisfy the descriptions mentioned in clauses (i) to (xii)
+
+~~ except clause (ii) of Section 5 of Notification No 11/2017 - CT (Rate) as amended.
+
+We now reproduce clause (ii) of Section 5 of Notification No 11/2017 - CT (Rate) as
+amended as under:-
+
+(ii) composite supply of works contract as defined in clause 119 of section 2 of the Central Goods and
+Services Tax Act, 2017.
+
+From the discussions made above we find that the subject work to be undertaken by the
+applicant is a composite supply of works contract, since it includes supply of both, goods and
+services and does not fall in any of the clauses (i) to (xii) except clause (ii) of Section 5 of
+Notification No 11/2017 - CT (Rate) as amended. Hence in our opinion the subject contract is
+
+taxable and the tax rate to be applied is 18% GST.
+
+05. In view of the extensive deliberations as held hereinabove, we pass an order as follows :
+
+20
+
+
+ORDER
+
+(Under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+NO.GST-ARA- 106/2018-19/B- BQ Mumbai, dt. 2€ [a3 )2019
+
+For reasons as discussed in the body of the order, the questions are answered thus -
+
+Question :- Whether the supply of goods or services for ‘setting up of network' would qualify as ‘works
+contract' as defined in Section 2(119) of the CGST Act?
+
+Answer :- — The supply of goods or services for ‘setting up of network' would qualify as a Composite
+supply of works contract as defined in clause (119) of section 2 of the Central Goods and
+Services Tax Act, 2017.
+
+Question :- If supplies contemplated as per the contract with BSNL are not treated as works contract, can
+these continue to qualify as composite supply? if yes what is the principle supply?
+Answer :- Not answered in view of answer to Question No. 1 above.
+
+Question :- What is the rate of tax applicable to the supplies made under the contract?
+ApsOe cr Tie Pate of tax applicable to the supplies will be 18% GST.
+
+ae GTR O
+MS ~~
+
+i
+~
+
+— Sq
+
+B. TIMOTHY B. V. BORHADE
+
+= i (MEMBER) (MEMBER)
+Copy to:- CERTIFIED on Y
+1. The applicant -
+2. The concerned Central / State officer a a
+3. The Commissioner of State Tax, Maharashtra State, Mumbai MEMBER
+4. The Jurisdictional Commissioner of Central Tax. Churchgate Mumia NCE RUI UTI
+5. Joint commissioner of State Tax , Mahavikas for Website. MAH rr they Boon kh mpl
+
+Note :- An Appeal against this advance ruling order shall be made before The Maharashtra
+Appellate Authority for Advance Ruling for Goods and Services Tax, 15 floor, Air India
+building, Nariman Point, Mumbai - 400021.
+
+21

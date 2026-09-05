@@ -98,6 +98,62 @@
     </table>
   </div>
 
+  <h2>Accuracy vs time — the trade-off map</h2>
+  <div class="card">
+    <svg viewBox="0 0 950 430" width="100%" style="max-width:950px; font-family: -apple-system, 'Segoe UI', sans-serif;">
+      <!-- sweet-spot shading (top-left: fast AND accurate) -->
+      <rect x="90" y="60" width="470" height="270" fill="rgba(62,207,142,0.05)"/>
+      <text x="110" y="82" fill="rgba(62,207,142,0.55)" font-size="12" font-weight="600">SWEET SPOT — fast + accurate</text>
+      <!-- gridlines (y = facts) -->
+      <g stroke="#2a2f3f" stroke-width="1">
+        <line x1="90" y1="330" x2="880" y2="330"/><line x1="90" y1="276" x2="880" y2="276"/>
+        <line x1="90" y1="222" x2="880" y2="222"/><line x1="90" y1="168" x2="880" y2="168"/>
+        <line x1="90" y1="114" x2="880" y2="114"/><line x1="90" y1="60" x2="880" y2="60"/>
+      </g>
+      <g fill="#9aa1b5" font-size="11">
+        <text x="80" y="334" text-anchor="end">0</text><text x="80" y="280" text-anchor="end">1</text>
+        <text x="80" y="226" text-anchor="end">2</text><text x="80" y="172" text-anchor="end">3</text>
+        <text x="80" y="118" text-anchor="end">4</text><text x="80" y="64" text-anchor="end">5</text>
+        <text x="60" y="30" font-size="12" font-weight="600" fill="#e8eaf0">Facts found (of 5)</text>
+      </g>
+      <!-- x ticks (log scale, seconds/page) -->
+      <g fill="#9aa1b5" font-size="11" text-anchor="middle">
+        <text x="122" y="348">0.25</text><text x="223" y="348">0.5</text><text x="324" y="348">1</text>
+        <text x="424" y="348">2</text><text x="558" y="348">5</text><text x="658" y="348">10</text>
+        <text x="760" y="348">20</text><text x="860" y="348">40</text>
+      </g>
+      <text x="485" y="375" fill="#e8eaf0" font-size="12" font-weight="600" text-anchor="middle">Seconds per page (log scale) — lower is faster →</text>
+
+      <!-- points: cx = log position, cy = facts -->
+      <g>
+        <!-- ocrmypdf 0.26s, 2/5 -->
+        <circle cx="128" cy="222" r="9" fill="#f5b759"/><text x="128" y="208" fill="#e8eaf0" font-size="12" text-anchor="middle" font-weight="600">ocrmypdf</text>
+        <!-- macOS Vision 0.75s, 4/5 -->
+        <circle cx="282" cy="114" r="11" fill="#3ecf8e" stroke="#e8eaf0" stroke-width="1.5"/><text x="282" y="97" fill="#3ecf8e" font-size="13" text-anchor="middle" font-weight="700">macOS Vision ★</text>
+        <!-- tesseract psm6 1.21s, 2/5 -->
+        <circle cx="351" cy="222" r="9" fill="#f5b759"/><text x="368" y="240" fill="#e8eaf0" font-size="12" font-weight="600">tesseract psm6</text>
+        <!-- tesseract eng+hin 3.33s, 2/5 -->
+        <circle cx="499" cy="222" r="9" fill="#f5b759"/><text x="499" y="243" fill="#e8eaf0" font-size="12" text-anchor="middle" font-weight="600">tesseract eng+hin</text>
+        <!-- PaddleOCR mobile 18.2s, ~3/5 -->
+        <circle cx="746" cy="168" r="9" fill="#f5b759"/><text x="746" y="152" fill="#e8eaf0" font-size="11.5" text-anchor="middle" font-weight="600">PaddleOCR mobile</text>
+        <!-- EasyOCR 18.4s, 0/5 -->
+        <circle cx="749" cy="330" r="9" fill="#f56d6d"/><text x="770" y="315" fill="#e8eaf0" font-size="12" font-weight="600">EasyOCR</text>
+        <!-- PaddleOCR medium 33.3s, 5/5 -->
+        <circle cx="826" cy="66" r="10" fill="#6c8cff"/><text x="796" y="50" fill="#e8eaf0" font-size="12" text-anchor="middle" font-weight="600">PaddleOCR medium</text>
+        <!-- Surya 33.7s, 5/5 -->
+        <circle cx="852" cy="60" r="10" fill="#6c8cff"/><text x="852" y="88" fill="#e8eaf0" font-size="12" text-anchor="middle" font-weight="600">Surya (VLM)</text>
+      </g>
+      <!-- legend -->
+      <g font-size="11" fill="#9aa1b5">
+        <circle cx="120" cy="405" r="6" fill="#3ecf8e"/><text x="132" y="409">production-ready quality/speed</text>
+        <circle cx="330" cy="405" r="6" fill="#6c8cff"/><text x="342" y="409">highest quality, impractically slow locally</text>
+        <circle cx="620" cy="405" r="6" fill="#f5b759"/><text x="632" y="409">fast but misses key facts</text>
+        <circle cx="860" cy="405" r="6" fill="#f56d6d"/><text x="872" y="409">unusable</text>
+      </g>
+    </svg>
+    <p class="sub">Every point is one engine on the same 24-page scanned ruling. y = ground-truth facts extracted (ruling no., date, applicant, GSTIN, notification). x = wall time per page including rendering, log scale. PaddleOCR mobile plotted at 3/5 (exact GSTIN but ruling number missed). The two top-right points are quality twins — only ~75 s/page apart in a race where Vision finishes the whole page in 0.75 s.</p>
+  </div>
+
   <h2>Speed vs quality</h2>
   <div class="card">
     <h3>Seconds per page <span class="na" style="font-weight:400">(lower is better)</span></h3>
