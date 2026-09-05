@@ -1,0 +1,602 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+GST Bhavan, Room No.107, Ist floor, B-Wing, Old Building, Mazgaon, Mumbai — 400010.
+(Constituted under Section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri. DIPAK GOJAMGUNDE, Joint Commissioner of State Tax, (Member)
+(2) Smt. HIMANI DHAMIJA, Joint Commissioner of Central Tax, (Member)
+
+ARN No. AD270421033129D
+
+GSTIN Numher, if any / User-id | 27AAUCS0963M1ZJ
+
+Legal Name of Applicant M/s. Sanctum Trading Corporation Private Limited
+
+Registered Address / Address
+
+provided while obtaining user 101, Sajjad Yasin Chamber No.2, Ist floor, 30-G
+
+id Bomanji Lane, Fort, Mumbai, Maharashtra — 400001.
+Details of application GST-ARA, Application No. 09 Dated 07.06.2021
+Concerned officer MUM-VAT-E-103, Nodal-12
+
+Nature of activity(s) (proposed/present) in respect of which advance ruling sought
+
+Wholesale Business; Bonded Warehouse Operation;
+Ship-stores Supplier (Service Provision / Goods).
+
+The Applicant, M/s. Sanctum Trading Corporation
+Private Limited, having GSTIN 27AAUCS0963M1ZJ,
+is the holder of Bonded Warehouse Licence No.
+1775/2019-2020 issued under Section 58A of the
+Customs Act, 1962 and operates a Special Warehouse
+under the Customs Warehousing Regulations, 2016 for
+supply of duty-free ship stores from its bonded
+warehouse to foreign-going vessels and to ships of the
+Indian Navy and the Indian Coast Guard.
+
+Classification of any goods or services or both.
+Determination of the liability to pay tax on any goods or
+Issue/s on which advance ruling | services or both. Whether any particular thing done by
+required the applicant with respect to any goods or services or
+both amounts to or results in a supply of goods or
+services or both, within the meaning of that term.
+
+Question(s) on which advance
+
+‘itm 1 As reproduced in para 01 of the Proceedings below.
+ruling is required
+
+PROCEEDINGS
+(Under Section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+The present application has been filed under Section 97 of the Central Goods and Services Tax
+Act, 2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as "the
+CGST Act and the MGST Act" respectively] by M/s. Sanctum Trading Corporation Private
+
+Limited, the applicant, seeking an advance ruling in respect of the following questions: —
+
+M/s. Sanctum Trading Corporation Pvt. Ltd. / 09 /2021-22 | Page | of 11
+
+
+
+1. The Applicant supplies imported goods stored in his bonded warehouse to foreign-going
+vessels, Indian Navy Ships and Indian Coast Guard Ships. Will these outward supplies
+be treated as Export Sales (Zero-rated Supply) under GST?
+
+2. If these outward supplies are treated as Export Sales, then under LUT, can these items
+be exported without payment of IGST?
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and the
+MGST Act are the same except for certain provisions. Therefore, unless a mention is specifically
+made to any dissimilar provisions, a reference to the CGST Act would also mean a reference to
+the same provision under the MGST Act. Further to the earlier, henceforth for the purposes of
+this Advance Ruling, the expression ‘GST Act’ would mean the CGST Act and the MGST Act.
+
+It is further noted that during the proceedings, vide letter dated 15.12.2021, the applicant has
+withdrawn Question No. 2 which reads as: "Jf these outward supplies are treated as Export
+Sales, then under LUT, we can Export these items without payment of IGST". The advance ruling
+
+is, accordingly, sought and rendered only in respect of Question No. 1.
+
+1. FACTS AND CONTENTION - AS PER THE APPLICANT
+
+1.1 The applicant, M/s. Sanctum Trading Corporation Private Limited, is a private limited
+company registered under the GST Act bearing GSTIN 27AAUCS0963M1ZJ and having its
+registered office at 101, Sajjad Yasin Chamber No.2, Ist floor, 30-G Bomanji Lane, Fort,
+Mumbai — 400001. The applicant is the holder of Bonded Warehouse Licence No. 1775/2019-
+2020 issued under Section S8A of the Customs Act, 1962 and operates a "Special Warehouse"
+within the meaning of Chapter IX of the Customs Act, 1962, read with the Customs
+Warehousing Regulations, 2016, as a duty-free ship-store supplier.
+
+1.2 The applicant has stated that it procures the items in question — primarily cosmetics,
+toiletries, food products, confectionery and cigarettes of various brands — through two routes.
+First, by purchase from manufacturers located outside India who do not have manufacturing
+facilities in India but who maintain a hub at a Special Economic Zone in India, from which the
+goods are supplied duty-free to the applicant's bonded warehouse. Secondly, by direct import of
+such items from manufacturers located outside India and storage thereof, duty-free, in the
+
+applicant's bonded warehouse.
+
+1.3 The applicant has further stated that the warehoused goods are permitted, in terms of the
+
+1.4 As regards the procedural mechanism for effecting such supplies, the applicant has stated that
+
+the Master of an ocean-going merchant vessel on foreign run issues an "Intent to Purchase"
+addressed to the applicant in respect of the items required to be lifted as ship stores. In the case
+
+of the Indian Navy and the Indian Coast Guard, the respective offices in India issue a Purchase
+
+M/s. Sanctum Trading Corporation Pvt. Ltd. / 09 /2021-22 | Page 2 of 11
+
+
+
+Order to the applicant for supply of the items to the concerned ship. Based upon either of the said
+documents, the applicant files a Duty-Free Shipping Bill with the customs authorities, and only
+after the requisite customs approval are the goods supplied to the Master of the vessel, the Indian
+
+Navy ship, or the Indian Coast Guard vessel, as the case may be.
+
+1.5 The applicant has, in its statement of facts, identified the following as the documents and
+
+authorities relied upon in support of the question on which advance ruling is sought: —
+
+Circular No. 113/32/2019-GST dated 11.10.2019 issued by the Ministry of Finance,
+Department of Revenue, Central Board of Indirect Taxes and Customs, Tax Research
+Unit;
+
+* Section 90 of the Customs Act, 1962; and
+
+* Advance Ruling No. AAR/AP/10(GST)/2018 dated 20.08.2018 rendered by the
+
+Authority for Advance Ruling, State of Andhra Pradesh, in the case of M/s. Fairmacs
+Shipstores Pvt. Ltd.
+
+2. STATEMENT CONTAINING APPLICANT’S INTERPRETATION OF LAW
+
+2.1 The applicant submits that it has been importing into India various items, principally
+cigarettes, from manufacturers located outside India, and that the said goods are stored, duty-
+free, in its bonded warehouse for being supplied as ship stores to merchant vessels on foreign
+tun, to vessels of the Indian Navy and to vessels of the Indian Coast Guard. The applicant
+
+contends that the said supplies are governed by the provisions of Chapter X of the Customs Act,
+1962, more particularly Sections 85, 86, 87, 88, 89 and 90 thereof.
+
+2.2 It is the applicant’s contention that the items so supplied are exempt from payment of
+
+customs duty, cess, special additional duty and value added tax, and that this exemption-status
+under the Customs Act has the consequence, on a parity of reasoning,
+as exports under the GST Act.
+
+of qualifying the supplies
+
+2.3 The applicant places reliance, in particular, on Section 69 of the Customs Act, 1962, which
+the applicant has reproduced as under: —
+
+"(1) Any warehoused goods may be exported to a place outside India without
+ayment of import duty if —
+
+Pp
+ANCE
+CeO ; .
+sr TG ew shipping bill or a bill of export or the Jorm as prescribed under section 84
+eo yaN
+
+| ‘hasbeen presented in respect of such goods;
+lx
+
+i |
+| sei
+a Re 1 ) the export duty, fine and penalties payable in respect of such goods have been
+oy, 7 Oe
+% J opihd: and ;
+Cae S paid; an
+SA STATE,
+
+() an order for clearance of such goods for [export] has been made by the
+proper officer."
+
+2.4 The applicant has further reproduced Section 85 of the Customs Act, 1962, which provides as
+under: —
+
+"Where any imported goods are entered Jor warehousing and the importer makes
+
+and subscribes to a declaration that the goods are to be supplied as stores to
+
+M/s. Sanctum Trading Corporation Pvt. Ltd. =
+
+
+
+vessels or aircrafts without payment of import duty under this Chapter, the proper
+officer may permit the goods to be warehoused without the goods being assessed
+
+to duty."
+
+2.5 On the strength of the foregoing provisions of the Customs Act, 1962, the applicant submits
+that under Indian Customs law, supplies made to merchant vessels on foreign run, to vessels of
+the Indian Navy and to vessels of the Indian Coast Guard are treated as exports. The applicant
+further contends that the same treatment ought to be extended to the said supplies under the GST
+
+Act, since exports are zero-rated supplies under the GST regime.
+
+2.6 The applicant places reliance on Circular No. 113/32/2019-GST dated 11.10.2019 issued by
+the Central Board of Indirect Taxes and Customs, and contends that paragraph 6 thereof clearly
+
+states that supplies made to vessels of the Indian Navy are exempted from GST.
+
+2.7 The applicant has also placed reliance on the advance ruling rendered by the Authority for
+Advance Ruling, State of Andhra Pradesh, in the case of M/s. Fairmacs Shipstores Pvt. Ltd.,
+bearing Ruling No. AAR/AP/10(GST)/2018 dated 20.08.2018. The applicant submits that the
+said Authority has ruled that “outward supplies made to Ocean-going merchant ships which are in
+
+foreign run, Indian Navy Ships and Indian Coast Guard Ships will be treated as Exports".
+
+2.8 The applicant submits that, since the aforesaid ruling has been rendered by the Authority for
+Advance Ruling, State of Andhra Pradesh, and the applicant proposes to effect the supplies in
+question from the State of Maharashtra, where its jurisdictional Authority is situate, the applicant
+
+has approached this Authority seeking a similar ruling in respect of the State of Maharashtra.
+
+Prayer: In the foregoing premises, the applicant prays that this Authority be pleased to hold
+
+-1 The application was forwarded to the concerned jurisdictional officer in terms of Section
+
+98(1) of the CGST Act, 2017 read with Rule 104 of the CGST Rules, 2017, calling for comments
+
+on the issues raised by the applicant.
+
+3.2 However, despite sufficient opportunity having been afforded, no written submissions or
+records have been furnished by the jurisdictional officer. In the absence of any response from the
+department, the Authority has proceeded to consider and decide the application on the basis of
+the facts pleaded, the documents placed on record, the oral and written submissions of the
+
+applicant, and the provisions of law applicable thereto.
+
+4. HEARING
+
+4.1 The preliminary virtual e-hearing in the matter was held on 14.12.2021. Mr. Rishabh Jain,
+Chartered Accountant, Mr. Chintan Dhediya, Chartered Accountant, and Mr. Girish Agarwal,
+
+Accountant, appeared as Authorised Representatives on behalf of the applicant and made oral
+
+M/s. Sanctum Trading Corporation Pvt. Ltd. / 09 / 2021-22 | Page 4 of 11
+
+
+submissions in support of the admission of the application. The Jurisdictional Officer was not
+
+available for the said hearing.
+
+4.2 Subsequent to the preliminary hearing, the applicant, vide letter dated 15.12.2021, withdrew
+Question No. 2 raised in the application. The said withdrawal has been taken on record. The
+
+application was thereafter admitted in terms of Section 98(2) of the CGST Act, 2017, in respect
+of Question No. 1.
+
+4.3 The matter was called for final virtual e-hearing on 01.10.2025, on which date Mr. Ashok
+Mudaliar, Advocate, appeared as Authorised Representative for the applicant and reiterated the
+written submissions on record and made further oral submissions in support of the contentions
+advanced. The Jurisdictional Officer was not available during the said hearing. Both sides being
+
+heard, and the record being complete, the matter was reserved for orders.
+
+5. OBSERVATIONS AND FINDINGS:
+
+5.1 We have carefully considered the facts of the case, the documents placed on record, the
+written as well as the oral submissions of the applicant, and the absence of any submission on
+behalf of the jurisdictional officer notwithstanding sufficient opportunity. We have also
+
+examined the statutory provisions, notifications, circulars and authorities relied upon by the
+
+Los
+
+>
+
+Gb? WE) bserve that the applicant, M/s. Sanctum Trading Corporation Private Limited, is a
+at egistched| axpayer under the GST Act bearing GSTIN 27AAUCS0963MIZJ. The applicant
+
+* ded Warehouse Licence No. 1775/2019-2020 issued under Section 58A of the
+
+Act, 1962, and operates a Special Warehouse under Chapter IX of the Customs Act,
+read with the Customs Warehousing Regulations, 2016. The goods in question — namely
+cosmetics, toiletries, food products, confectionery and cigarettes — are sourced either by direct
+import from foreign manufacturers or by procurement from foreign manufacturers’ SEZ-based
+hubs in India, and are stored in the applicant’s bonded warehouse without payment of customs
+duty. Such warehoused goods are then supplied to (i) ocean-going merchant vessels on foreign
+run, (ii) Indian Navy ships and (iii) Indian Coast Guard ships, against an "Intent to Purchase"
+issued by the Master of the vessel (in the case of foreign-going merchant vessels) or against a
+Purchase Order issued by the Indian Navy / Indian Coast Guard (in the case of naval / coast-
+guard ships), and only after a Duty-Free Shipping Bill is filed and customs approval is obtained.
+
+5.3 It is undisputed that, throughout the supply chain in question, the goods retain the character
+of "warehoused goods" within the meaning of Section 2(44) of the Customs Act, 1962, and that
+no Bill of Entry for clearance for home consumption is filed in respect of such goods. The
+supplies are made directly from the bonded warehouse to the recipient vessel under customs
+
+supervision.
+
+5.4 During the course of the proceedings, the applicant withdrew Question No. 2 vide letter dated
+15.12.2021. The present advance ruling, accordingly, is confined to Question No. 1, which is
+whether the outward supplies made by the applicant of warehoused goods from its bonded
+
+warehouse to (i) ocean-going merchant vessels on foreign run, (ii) Indian Navy ships, and (iii)
+
+_____Mis. Sanctum Trading Corporation Pvt. Ltd. / 09. 2021-22 | Pace 5 of 11
+
+
+
+Indian Coast Guard ships, will be treated as "Export Sales (Zero-rated Supply)" under the GST
+Act.
+
+5.5 We note that the question raised by the applicant falls within the ambit of clause (a) read with
+clauses (e) and (g) of Section 97(2) of the CGST Act, 2017, read with the corresponding
+provision of the MGST Act, 2017, inasmuch as it concerns the classification of the outward
+supply (whether it is to be treated as an export and accordingly a zero-rated supply); the
+determination of the liability to pay tax on the said supply; and whether the activity of supplying
+warehoused goods to the said classes of recipients amounts to or results in a supply of goods
+within the meaning of the GST Act. The application is, on this count, maintainable before this
+Authority. Further, on the basis of the record placed before us, no proceedings on the question
+raised are shown to be pending or to have been decided in the case of the applicant under any
+provision of the GST Acts, as contemplated by the first proviso to sub-section (2) of Section 98
+of the CGST Act, 2017. The application is, therefore, admissible to the extent it survives
+
+Question No. 2’s withdrawal.
+
+5.6 The single issue that falls for our determination, accordingly, is whether the supply, by the
+
+applicant, of warehoused goods from its bonded warehouse to (i) ocean-going merchant vessels
+
+45.7 Bef re; rning to the merits, it is appropriate to set out the statutory framework that governs
+
+‘On inter-State supplies is laid by Section 5 of the IGST Act, 2017. Section 16 of the IGST Act,
+
+2017 then provides for the regime of zero-rated supplies and reads, in material part, as under: —
+
+"16. (1) "zero rated supply" means any of the following supplies of goods or
+
+services or both, namely: —
+(a) export of goods or services or both; or
+
+(b) supply of goods or services or both [for authorised operations] to a Special
+
+Economic Zone developer or a Special Economic Zone unit."
+
+5.8 It is therefore evident that, for a supply to be a zero-rated supply under Section 16, it must
+answer to the description of an "export of goods" (or services), or be a supply to an SEZ
+developer / unit. The latter is admittedly not in issue here. The whole question therefore turns
+
+upon the meaning of "export of goods" under the IGST Act, 2017.
+5.9 Section 2(5) of the IGST Act, 2017 defines the expression "export of goods" as follows: —
+
+"(3) “export of goods” with its grammatical variations and cognate expressions,
+
+means taking goods out of India to a place outside India."
+
+5.10 Section 2(56) of the CGST Act, 2017, which is to be read in pari materia for the meaning of
+"India" under the IGST Act by virtue of Section 2(24) of the IGST Act, defines "India" as under:
+
+M/s. Sanctum Trading Corporation Pvt. Ltd. / 09 / 2021-22 | Page 6 of 11
+
+
+"India" means the territory of India as referred to in article 1 of the Constitution,
+its territorial waters, seabed and sub-soil underlying such waters, continental
+shelf, exclusive economic zone or any other maritime zone as referred to in the
+Territorial Waters, Continental Shelf, Exclusive Economic Zone and other
+
+Maritime Zones Act, 1976, and the air space above its territory and territorial
+
+waters."
+
+5.11 A combined reading of Sections 2(5) and 2(56) makes it abundantly clear that the export of
+goods, for the purposes of the IGST Act, is a strictly destination-based concept. It requires (i) the
+act of taking the goods out of India, and (ii) such taking-out being to a place outside India. The
+territorial conception of "India" under Section 2(56) is broad and inclusive — it embraces not
+only the land mass and the territorial waters, but also the seabed and sub-soil, the continental
+shelf, the exclusive economic zone, and the air space above the territory and territorial waters. A
+supply that does not result in the goods being moved out of these maritime zones to a destination
+
+outside them does not satisfy the statutory definition of "export of goods” under the IGST Act.
+
+5.12 Section 11(b) of the IGST Act, 2017 reinforces the destination-based test from the angle of
+place of supply, by providing that the place of supply of goods exported from India shall be the
+
+location outside India. A supply whose recipient is, at the time of supply, located within India —
+
+er foreign-going merchant vessels at anchor in Indian ports / territorial waters, Indian Navy
+ships, or Indian Coast Guard ships — are, at the time of supply, located within India as defined
+under Section 2(56). The goods are physically transferred to the Master / authorities on board the
+vessel within India and not after the vessel has left India. The supply is, accordingly, completed
+on Indian soil (or in Indian waters), and not by the act of taking goods out of India to a place
+
+outside India. The destination-based test of Section 2(5) is, therefore, not satisfied.
+
+5.14 It is true, as the applicant has urged, that "warehoused goods", within the meaning of
+Section 2(44) of the Customs Act, 1962, may, under Section 69 of the said Act, be exported to a
+place outside India without payment of import duty subject to compliance with the conditions
+stipulated therein. It is also true that Section 88(a) of the said Act extends the same exemption
+from import duty to warehoused goods that are taken on board any foreign-going vessel as
+stores. Section 90 of the Customs Act, 1962 makes a corresponding provision in respect of
+supplies of stores to ships of the Indian Navy. By virtue of Notification No. 37/2017-Customs
+dated 30.06.2017 issued under Section 25(1) of the Customs Act, 1962, supplies of warehoused
+goods are further exempt from import duty and integrated tax subject to the conditions specified
+therein. None of these provisions, however, has the effect of converting the said supplies into
+“exports of goods" within the meaning of Section 2(5) of the IGST Act, 2017. They operate on a
+different field. What they grant is an exemption from the levy of import duty (and, in the case of
+
+M/s. Sanctum Trading Corporation Pvt. Ltd. / 09 /2021-22 | Page 7 of 11.
+
+
+
+Notification No. 37/2017-Customs, from integrated tax on the import-leg) — they do not, and
+indeed cannot, alter the statutory definition of "export of goods" enacted by Parliament in the
+
+IGST Act.
+
+5.15 The expression "export" under the Customs Act, 1962 has a wider sweep than "export of
+goods" under the IGST Act, 2017. Under the Customs Act, "export" is defined in Section 2(18)
+as taking out of India to a place outside India, but the operative provisions of Chapter X
+(Sections 85-90) extend the consequence of "export" — namely, exemption from import duty —
+to certain supplies of warehoused goods as ship stores even where the goods, in fact, are taken on
+board within India. Thus, what the Customs Act treats, for the limited purpose of duty
+exemption, as if it were an export, the IGST Act treats only as an "export of goods" if the
+destination-based test of Section 2(5) is, in fact, satisfied. A foreign-going vessel anchored
+within the territory of India is not a place outside India; the act of taking stores on board such a
+vessel does not, therefore, amount to a supply to a location outside India. Accordingly, neither
+Section 69 nor Section 88(a) of the Customs Act, 1962‘can be pressed into service to bring the
+
+present transactions within the ambit of "export" under the IGST Act, 2017.
+
+5.16 It is further pertinent to note that, at the time of supply of the goods in question, both the
+supplier (the applicant) and the recipient (the foreign-going vessel / Indian Navy ship / Indian
+Coast Guard ship) are located within India. The supply is effected from a bonded warehouse
+
+situated in India to a vessel situated in India. There is, on the record, no factual basis for any
+
+are, indubitably, Indian establishments operated by the Government of India. Supplies made to
+
+such Indian establishments enjoy exemption from customs duty under specific provisions of the
+Customs Act and notifications issued thereunder, but they do not, by reason of such exemption,
+transmute themselves into "exports of goods" under thé IGST Act, 2017. The relief, under the
+GST regime, of zero-rating under Section 16 of the IGST Act is available only to a supply that
+either qualifies as an "export of goods or services or both" or is made to an SEZ developer or
+unit for authorised operations. The supplies under consideration fall within neither limb. In the
+absence of either, the supplies cannot be treated as zero-rated supplies under Section 16 of the
+IGST Act, 2017.
+
+5.18 We have given careful consideration to the applicant’s reliance on Circular No.
+113/32/2019-GST dated 11.10.2019 issued by the Central Board of Indirect Taxes and Customs.
+The said Circular addresses the GST treatment of certain supplies and is to be read in the context
+of the entries in the rate notifications and the scheme of the IGST Act. A Circular issued by the
+Board operates within the field permitted by the statute and cannot enlarge or alter the statutory
+
+definition of "export of goods" laid by Parliament in Section 2(5) of the IGST Act. The Circular
+
+M/s. Sanctum Trading Corporation Pvt. Ltd. / 09 /2021-22 | Page 8 of 11
+
+
+does not, on its plain terms, declare that supplies of warehoused ship stores from a bonded
+warehouse to vessels stationed in India are "exports" within the meaning of Section 2(5) of the
+IGST Act. Even assuming, for the sake of argument, that paragraph 6 thereof contemplates an
+exemption (and not a zero-rating) of certain supplies to vessels of the Indian Navy, an exemption
+from levy is conceptually distinct from an export under the IGST Act; the two operate on
+different planes. The Circular cannot, therefore, be deployed by the applicant to convert the
+present transactions into "export of goods" or zero-rated supplies under Section 16 of the IGST
+Act.
+
+5.19 Applicability of Section 7(2)(a) read with Entry 8(a) of Schedule III to the
+CGST Act, 2017
+
+5.19.1 A more pertinent enquiry, on the very same facts, leads us to a different exclusionary head
+— namely, paragraph 8(a) of Schedule III to the CGST Act, 2017, read with Section 7(2)(a)
+thereof. Section 7(2)(a) provides that activities or transactions specified in Schedule III shall be
+treated neither as a supply of goods nor as a supply of services. Paragraph 8(a) of Schedule II, as
+
+inserted with effect from 01.02.2019 by the CGST (Amendment) Act, 2018, reads as under: —
+
+"8. (a) Supply of warehoused goods to any person before clearance for home
+
+* Second, the supply must take place before the clearance of those goods for home
+
+consumption.
+
+5.19.3 Each of these conditions is, on the facts of the present case, satisfied. The goods in
+question are imported and stored in the applicant’s bonded warehouse in terms of Section 58A of
+the Customs Act, 1962. They retain, throughout, the character of "warehoused goods" as defined
+in Section 2(44) of the Customs Act, 1962. No Bill of Entry for home consumption is filed in
+respect of the said goods, and customs duty thereon is admittedly not paid. The supplies are
+made directly from the warehouse, under customs supervision, against a Duty-Free Shipping
+Bill, to the Master of the vessel / Indian Navy / Indian Coast Guard, as the case may be. The
+supplies thus take place, in their entirety, before and not after, any clearance of the warehoused
+goods for home consumption. The applicant’s transactions, accordingly, fall squarely within the
+ambit of paragraph 8(a) of Schedule III, read with Section 7(2)(a) of the CGST Act, 2017.
+
+5.19.4 The legal consequence that follows is dispositive. Where an activity or transaction is one
+specified in Schedule III, it is, by forcé of Section 7(2)(a), to be treated neither as a supply of
+goods nor as a supply of services. It is, in other words, lifted entirely out of the field of "supply",
+which is the foundational notion on which the GST levy under Section 9 of the CGST Act, 2017
+/ Section 5 of the IGST Act, 2017 rests. The question whether such an activity is "zero-rated"
+
+M/s. Sanctum Trading Corporation Pvt. Ltd. /09 / 2021-22 | Pase 9 of 11
+
+
+under Section 16 of the IGST Act does not arise at all, because zero-rating presupposes a supply;
+
+if there is no supply, there is nothing to rate at zero or at any other rate.
+
+5.19.5 It is in this light that we are of the considered view that the applicant’s endeavour to
+characterise the said transactions as "export sales / zero-rated supplies" is not legally sustainable.
+The transactions are, in law, not supplies at all for the purposes of the GST Act. They do not
+attract levy of GST. They simultaneously do not qualify for zero-rating, refund of unutilised
+input tax credit under Section 54 of the CGST Act read with Section 16(3) of the IGST Act, or
+any other consequence of zero-rated treatment. The proper characterisation is that of an out-of-
+scope transaction under paragraph 8(a) of Schedule III read with Section 7(2)(a) of the CGST
+Act, 2017.
+
+5.20 In so far as the applicant’s reliance on the advance ruling rendered by the Authority for
+Advance Ruling, State of Andhra Pradesh, in the case of M/s. Fairmacs Shipstores Pvt. Lid.
+(Ruling No. AAR/AP/10(GST)/2018 dated 20.08.2018) is concerned, we observe that the said
+ruling is by a co-ordinate State Authority and, by force of Section 103 of the CGST Act, 2017, is
+binding only as between the parties to that proceeding. It does not bind this Authority. Even on
+its own terms, however, the proposition relied upon by the applicant is, on the materials
+
+available, distinguishable: the said ruling proceeds in a factual context where the goods in
+
+question were said to be destined to a place outside India. That is not the factual matrix before
+
+warehoused goods as ship stores, and held that such supplies, being made prior to clearance for
+home consumption, are covered under paragraph 8(a) of Schedule III to the CGST Act, 2017 and
+are, accordingly, to be treated as neither a supply of goods nor a supply of services. We find the
+reasoning so adopted to be legally sound, consistent with the plain language of Section 7(2)(a)
+read with Schedule III, and applicable a fortiori to the facts of the present case. The said ruling
+is, of course, also a co-ordinate-bench ruling and not binding on this Authority; we, however,
+
+find it persuasive for the reasons we have set out above and adopt the same line of reasoning.
+
+5.22 In view of the foregoing discussion, we are of the considered view that the outward supplies
+made by the applicant from its bonded warehouse to (i) ocean-going merchant vessels on foreign
+run, (ii) Indian Navy ships and (iii) Indian Coast Guard ships, before clearance of the said
+warehoused goods for home consumption, do not qualify as "export of goods" within the
+meaning of Section 2(5) of the IGST Act, 2017, and are not zero-rated supplies under Section 16
+of the IGST Act, 2017. Such transactions are, however, covered by paragraph 8(a) of Schedule
+III to the CGST Act, 2017, read with Section 7(2)(a) thereof, and shall accordingly be treated as
+neither a supply of goods nor a supply of services for the purposes of the GST Act.
+
+M/s. Sanctum Trading Corporation Pvt. Ltd. / 09 /2021-22 | Page 10 of 11
+
+
+6. In view of the extensive deliberations as held hereinabove, we pass an order as
+
+follows:
+
+ORDER
+(Under Section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+NO.GST-ARA- 09/2021-22/B- 52. Mumbai, dt. 3o|03|202¢
+
+For reasons as discussed in the body of the order, the questions are answered thus —
+
+Question 1: The Applicant supplies imported goods stored in his bonded warehouse to
+foreign-going vessels, Indian Navy Ships and Indian Coast Guard Ships. Will these
+outward supplies be treated as Export Sales (Zero-rated Supply) under GST?
+
+Answer: The outward supplies made by the Applicant, M/s. Sanctum Trading Corporation
+Private Limited, from its bonded warehouse to ocean-going merchant vessels on foreign run,
+Indian Navy ships and Indian Coast Guard ships, before clearance of the said warehoused goods
+for home consumption, do not qualify as "export of goods" within the meaning of Section 2(5)
+of the Integrated Goods and Services Tax Act, 2017, and are not zero-rated supplies under
+Section 16 of the Integrated Goods and Services Tax Act, 2017. The said transactions are,
+however, covered under paragraph 8(a): of Schedule III to the Central Goods and Services Tax
+Act, 2017 read with Section 7(2)(a) thereof, and are, accordingly, to be treated as neither a
+supply of goods nor a supply of services for the purposes of the GST Act.
+
+Question 2: If these outward supplies are treated as Export Sales, then under LUT, can
+these items be exported without payment of IGST?
+
+ot answered, as the applicant has, vide letter dated 15.12.2021, withdrawn the said
+
+a
+tea une
+GUNDE HIMANI DHAMIJA
+
+(MEMBER) (MEMBER)
+
+Copy to: -
+
+I. The applicant
+
+2. The concerned Central / State officer
+
+3. The Commissioner of State Tax, Maharashtra State, Mumbai
+
+4. The Pr. Chief Commissioner of Central Tax, Churchgate, Mumbai
+5. The Joint Commissioner of State Tax, Mahavikas, for website.
+
+Note: - An Appeal against this advance ruling order shall be made before The Maharashtra
+Appellate Authority for Advance Ruling for Goods and Services Tax, 15th floor, Air India
+Building, Nariman Point, Mumbai — 400021. Online facility is available on gst.gov.in for online
+
+appeal application against the order passed by the Advance Ruling Authority.
+
+M/s. Sanctum Trading Corporation Pvt. Ltd. / 09 / 2021-22 | Page 11 of 11

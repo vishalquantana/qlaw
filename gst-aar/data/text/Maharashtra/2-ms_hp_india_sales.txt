@@ -1,0 +1,2753 @@
+&
+
+* Ref.1. ARA Order passed on dated 08.06.2019.
+“ 2. AAAR order passed on dated 17.02.2019
+4. AAAR Rectification order passed on dated 04.11.2019
+3. Order passed by the Hon'ble High Court dated 16.07.2025.
+
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+GST Bhavan, Room No.107, 1st floor, B-Wing, Old Building, Mazgaon, Mumbai - 400010.
+(Constituted under Section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+BEFORE THE BENCH OF
+(1) Shri. D. P. Gojamgunde, Joint Commissioner of State Tax, (Member)
+(2) Smt. Himani Dhamija, Joint Commissioner of Central Tax, (Member)
+
+ARN No. NA
+GSTIN Number, if any/ User-id | 27AAACC9862F1Z1
+Legal Name of Applicant M/s. HP India Sales Private Limited
+
+Registered  Address/ Address | 5th floor North Side, Commerz, 16th
+provided while obtaining user id | International Business Park, Oberoi Garden
+City, Off Western Express Highway,
+Goregaon East, Mumbai, Maharashtra -
+
+400063
+
+Details of application GST-ARA, Application No. 38 Dated
+12.03.2018
+
+Concerned officer Maharashtra, Zone - Mumbai, Division -
+North West, Bandra, Charge - Bandra West
+-506.
+
+Nature of activity(s) (proposed/present) in respect of which advance ruling sought
+
+A | Category Wholesale Business
+
+Bo Description (in brief) Supply of indigo press printing ink as a
+
+bundle along with supply of ancillaries
+comprising of oil, binary ink developer, bib,
+blanket, print imaging plate and other
+machine products.
+
+Issue/s on which advance ruling |» Classification of goods and/or services
+required or both.
+
+» determination of the time and value of
+
+supply of goods or services or both
+Question(s) on which advance | As reproduced in para U1 of the Proceedings
+ruling is required below.
+PROCEEDINGS
+(Under Section 98 of the Central Goods and Services Tax Act, 2017 and the
+Maharashtra Goods and Services Tax Act, 2017)
+
+The applicant M/s. HP India Sales Private Limited filed an application for
+
+Determination of time and value of supply of Electrolnk with
+consumables under the indigo press Contract.
+The Advance Ruling Authority passed the order dated 08.06.2018 and answered
+
+these questions are below:
+
+Page 1 of 51
+
+ke M/s. HP India Sales Private Limited/38/201718
+
+
+
+Answered for question no.1: - The supply of Electro Ink supplied along with.
+consumable is a mixed supply as defined u/s section 2 (74)
+of the GST Act and also a continuous supply of goods as
+defined u/s 2 (32) of the GST Act.
+
+Answered for question no.2: - The time of supply of Electro Ink supplied along with
+consumables under _ the indigo press contract would be
+the earliest date between the date of invoice or the date of
+receipt of payment. As regards the value of supply of
+Electro Ink supply with consumables under the Indigo
+Press Contract would be the transactions value as
+reflected in the invoice issued u/s 31(4) of the GST Act.
+
+Aggrieved by this order, said applicant filed an application before the
+Appellate Authority for Advance Ruling (AAAR). The AAAR decided the matter
+and passed the order on 17.02.2019 and answered the question as below:
+
+Appellate for Advance Ruling Authority do not find any reason to interfere
+with the Order of the Advance ruling authority dated 08.06.2018.
+
+Subsequently, Applicant filed a rectification application, highlight that the
+Appellate Authority had not considered the written submissions and supporting
+evidence submitted on 11.02.2019. The Appellate Authority decided rectification
+application on date 04.11.2019 and upheld his order dated 17.02.2019.
+
+The applicant was not satisfied with the decision passed by the AAAR and filed
+petition before the Hon'ble Bombay High Court (Writ Petition no. 3842 of 2021) and
+Hon. High Court passed the Order on 16.07.2025 as below.
+
+Hon'ble High Court set aside the order dated 08.06.2018 made by the Authority
+for Advance Ruling (“ AAR”) and the order dated 04.11.2019 passed by the Appellate
+Authority and remanded the matter to the AAR to consider the matter afresh and
+decide the matter after considering the evidence submitted by the applicants and
+allowing the respondents i.e, the Department to cross-examine the expert or other
+customers if they wish to do so and allowing them to produce any other evidence.
+
+The application was remanded back to the Advance Ruling Authority. With
+respect to the liberty given by the Hon'ble High Court to the applicant to file
+submissions, the applicant filed their detailed submission before the Advance Ruling
+Authority dated 13.10.2025 as below:
+
+CTS AND CONTENTION - AS PER THE APPLICANT:
+
+e HP Indigo digital printing press (hereinafter referred to as “HP Indigo”) is a
+
+ialized printing solution designed to deliver superior print quality, enhanced
+
+Page 2 of 51
+M/s. HP India Sales Private Limited/38/2017-18
+
+
+
+1.2 The HP Indigo press operates on a proprietary digital offset colour technology,
+which is distinct from conventional office or industrial printers. A key
+technological differentiator is the use of a specialized liquid ink formulation
+(hereinafter referred to as “ElectroInk”), which is essential to the functioning of
+the HP Indigo printing process.
+
+13 A detailed write up on HP Indigo presses and the use of ElectroInk with
+consumables to effect prints is enclosed with this application.
+
+14 In order to ensure optimal performance and consistent print quality, the HP
+Indigo requires the use of ElectroInk, along with a suite of consumables and
+ancillary components, including but not limited to binary ink developer, bib,
+blanket, photo imaging plate, oil, and other machine-specific products
+(collectively referred to as “Imaging Products” or “Imaging Kit” or “Kits’).
+
+1.5 The Kits are directly imported by the Applicant from overseas suppliers at the
+Mumbai Customs Port, where these are cleared on payment of applicable
+customs duties, including Integrated Goods and Services Tax (“IGST”), and
+subsequently stored in the Applicant's warehouse.
+
+Supply Chain and Commercial Arrangements
+1.6 The Applicant supplies HP Indigo printers and consumables to authorized
+
+resellers, who in turn supply them to end customers. Consideration for these
+supplies is typically received through periodic invoices raised at a standard ” per
+click” rate, as governed by a Reseller Agreement entered into between the
+Applicant and the reseller agreement enclosed with this application.
+
+1.7 Billing under this arrangement is on a “per click” basis, calculated monthly based
+on the series of Indigo press machine, the number of clicks, and the type of print
+performed.
+
+18 In terms of the desired functional objective of printing with respect to the supply
+of the Kit under the Click Model:
+
+- Each element of the Kit is interdependent.
+
+tis only when every element of the Kit functions together in unison that the
+
+rinting function can be undertaken.
+
+he quantity of each Element of the Kit as supplied is reflective of the
+
+proportionate rate of usage of the Elements of the Kit. The rate of usage is of
+
+course distinct for each Element of the Kit.
+
+1,9 The terms of contract between the Applicant and the authorized reseller stipulates
+the conditions, prices, discount, mode of receiving orders, billing and payment
+terms in relation to supply of ElectroInk with consumables. Importantly, the
+contract stipulates that the supplies shall be the property of the Applicant till such
+
+time the supplies are utilized in the presses by the customer for effecting prints.
+Movement of Goods
+
+Page 3 of 51
+
+M/s. HP India Sales Private Limited/38/2017-18
+
+
+
+1.10 Further, the ElectroInk along with the consumables are moved by the Applicant
+to the authorised reseller locations in the States of Tamil Nadu, Gujarat and
+Punjab under a delivery challan along with the necessary road permit, where
+applicable.
+
+1.11 Pursuant to the same, such goods are transported by the authorised reseller to the
+respective customer locations as segregated geographically across India.
+
+1.12 The arrangement is diagrammatically explained below:
+
+India
+Outside India
+
+d Delivery Dayesy
+SS ee laa
+
+De or aaa Customer
+Goa
+; HP India / Reseller
+Supplier
+fot ot Customer
+Gs
+Customer
+MP
+[ Movement of supplies |
+
+1.13 The Applicant has contracted with authorised resellers for making supplies of
+Electrolnk with consumables to be used in HP Indigo presses by the customers
+
+of HP Indigo presses on a back-to back basis.
+
+1.14 The billing for such arrangement is agreed on a "per click basis" calculated
+monthly depending on the series of Indigo press machines pertaining to which
+the goods are supplied, number of clicks and the type of print performed.
+
+1.15 The resellers also have entered into agreements with the end customers for
+onward sales of such printing supplies. Copy of the sample agreement between
+the reseller and the end customer is attached with this application.
+
+1.16 To illustrate, assuming a customer uses the printer to take 100 prints in a month
+and each print costs Rs 10/-, then the customer shall be billed Rs 1,000 for the
+ElectroInk along with the consumables used for the month.
+
+1.17 Accordingly, upon collation of the running statement of accounts for each end
+
+A-la Carte Model
+-18 In addition to the Click Model, certain specialty inks which are required for High
+
+Resolution Prints are to be purchased separately on a stand-alone basis under the
+A-la Carte model as these are not supplied as part of the customary set of
+
+ElectroInk and consumables in the Click model. The inks supplied under the A-
+
+Page 4 of 51
+M/s. HP India Sales Private Limited/38/2017-18
+
+
+
+la Carte model are not substitutes for inks supplied under Click Model but are
+instead an add on to satisfy the requirements of superior high-quality printing.
+
+1.19 Under the A-la Carte model, Electrolnk and consumables are supplied
+individually to the re-seller at a price, and which are further supplied by the re-
+seller to the final customer.
+
+1.20 In this connection, we wish to bring to your good self's attention that an end
+customer could use the "Click" and "A-la-carte" model together and in
+conjunction with each other. In these cases, the end customer would contract with
+the re-seller for supply of ElectroInk and consumables in a bundle and additional
+inks in an a-la-carte model. A standard HP Indigo Digital Printing press comes
+with 4 ink stations installed by default with an option provided to the customer
+to add 3 more ink stations. The bundle inter-alia comprises 4 types of ink, ie.
+Cyan, Magenta, Yellow and Black, which are 4 standard process inks which may
+be mixed in different proportions to achieve most colours required for prints.
+Additionally, 3 inks, orange, violet and green, again supplied as part of the click
+can be placed and used in conjunction to obtain prints with different effects as
+required. In some scenarios the customers may wish to use these additional inks
+on an A-la Carte basis from the reseller. The reseller has similar contractual
+arrangements with the Applicant.
+
+1.21 As apparent from above, both models are necessary to serve different customer
+needs. While the ‘Click’ model is necessarily taken by the customer to effect print
+in his regular course of business, supplies under A-la Carte depend on specific
+print requirements, for which separate request is made by customer.
+Additionally, the inks supplied by Applicant under A-la Carte model are
+"specialized inks" to give enhanced printing experience. These inks differ from
+those supplied ordinarily under the Click model. Further, in order to effect print
+using inks procured under A-la carte, the customer necessarily shall be required
+to also use other consumables supplied under click model, including ink.
+Therefore, the A-la carte is not an alternate for click, rather an optional scheme.
+
+1.22 It is pertinent to note that the present proceeding is limited to the classification of
+
+Ss MANES supply under the Click Model (constituting more than 99% of sales of the
+
+mpany) and does not pertain to the A la Carte model. Break-up of revenue
+
+ilned by the Applicant during FY. 2017-18 for supplies made under the
+
+Sfbresaid two models are provided in the table below:
+
+Supply Model Revenue Earned (in | % to Revenue
+No. millions)
+Tier (Click) model 1,179.35 99.14%
+A-la-carte 1,189.63 100%
+Page 5 of 51
+
+M/s. HP India Sales Private Limite d/38/2017-18
+
+
+
+2. STATEMENT CONTAINING APPLICANT'S INTERPRETATION OF LAW -
+2.1 Without prejudice to the submissions made in the foregoing paragraphs, we
+respectfully submit that, as directed by the Hon'ble High Court, the present
+proceedings are to be disposed of based on the evidence furnished along with
+
+the additional submission dated 11 February 2019. These include the Chartered
+Engineer’s Certificate, the Customer's Certificate, and any further evidence the
+Applicant may wish to provide. Accordingly, in the following paragraphs, we
+
+have demonstrated that the supply of Electrolnk along with consumables
+satisfies all the requisite criteria and tests to qualify as a ‘composite supply’
+
+under GST, with clear substantiation through the aforementioned evidence.
+
+ELECTROINK SUPPLIED ALONG WITH CONSUMABLES ARE NATURALLY
+BUNDLED AND THEREFORE, QUALIFY AS A COMPOSITE SUPPLY UNDER
+GST
+2.2 Under the GST regime, the taxability of a supply involving multiple goods or
+services, particularly for the purposes of classification and applicable tax rate, is
+governed by the statutory concepts of “composite supply” and “mixed supply.”
+2.3 Section 2(30) of the Central Goods and Services Tax Act, 2017 (“CGST Act”)/
+MGST Act defines a “composite supply” as a supply, having the following
+essential ingredients;
+i, two or more taxable supplies of goods or services or both or any
+combination thereof;
+ii, such supplies are naturally bundled;
+tii. supplied in conjunction with each other;
+iv. supplied in the ordinary course of business; and
+v. one of such supplies is a principal supply.”
+2.4 In contrast, Section 2(74) of the CGST Act defines a “mixed supply” as a
+combination of two or more individual supplies of goods or services made
+together for a single price, where each of the supplies can be supplied separately
+
+and is not dependent on any other.
+
+2.5 From the above definitions, it is clear that a supply qualifies as a ‘composite
+
+i. It involves two or more taxable supplies of goods or services or any
+
+combination thereof;
+ii. The supplies are naturally bundled;
+
+iii. The supplies are provided in conjunction with each other in the ordinary
+
+course of business; and
+
+iv. One of the supplies is the principal supply.
+
+Page 6 of 51
+M/s. HP India Sales Private Limited/38/2017-18
+
++
+
+
+
+x
+
+2.6 The Applicant respectfully submits that, in the present case, all four criteria are
+fully satisfied, as elaborated below.
+
+Test 1: Involvement of Two or More Taxable Supplies
+
+2.7 As previously detailed, the Applicant is engaged in supplying a bundle of
+consumables essential for the operation of HP Indigo digital printing presses.
+These consumables include, inter alia, Electrolnk (a specialized liquid ink), Photo
+Imaging Plates (PIP), Binary Ink Developer (BID), Printing Blankets, Imaging Oil,
+Blanket Web, and other machine products and ancillaries.
+
+2.8 The contractual documentation, specifically the Reseller Agreement (kindly refer
+to Exhibit 3), defines “Supplies” as “Imaging Products and Operator Maintenance
+Parts required for the operation of the Indigo Press(es),” and “Imaging Products”
+as including: all the above items. Each of these items is independently taxable
+under GST as goods. In this regard, relevant extract from the agreement is
+reproduced hereinbelow:
+
+Point 17 of Section A - Definitions and appendices at page 2:
+"17, "Supplies" means Imaging Products and Operator Maintenance Parts
+required for the operation of the Indigo Press(es)".
+
+Point 6 of Section A - Definitions and appendices at page 2
+"6. "Imaging Products" mean ElectroInk, Photo Imaging plates, binary ink
+developer (BIDs), printing blankets, recycled agent, imaging agent and imaging
+oil,”
+
+2.9 Accordingly, the supplies involved in HP Indigo press arrangement comprises of
+supply of two or more taxable goods being made thereof. Further, the term used
+in the definition, “or any combination thereof” indicates that any combination of
+supply of two or more goods as a bundle satisfies the requirement for being
+classified as a composite supply.
+
+2.10 The Applicant raises a single tax invoice for all these goods supplied as a bundle,
+based on actual consumption (i.e. clicks). The supply is not limited to a single
+item but is a combination of multiple taxable goods, all of which are essential for
+the functioning of the Indigo press.
+
+iN this connection, we wish to submit that the term “naturally bundled” is not
+expressly defined under the GST law. However, its interpretation has been
+clarified through CBIC guidance and judicial pronouncements, as summarized
+
+below:
+
+Page 7 of 51
+M/s. HP India Sales Private Limited/38/2017-18
+
+
+(1) CBIC GST Flyer on Composite Supply and Mixed Supply (hereinafter “GSE.
+Flyer”) states that whether supplies are “naturally bundled” depends on
+normal or frequent practices in the business, industry standards, and
+customer expectations. Indicators include:
+
+e Perception of the consumer
+
+e Majority of service providers in the area provide similar bundles
+e The elements are not available separately
+
+e The elements are integral to the overall supply
+
+(2) CBIC Education Guide (2012, Service Tax Regime): Although issued under the
+previous service tax regime, the CBIC Education Guide is often referred to
+for interpretative purposes. It states that “services which are naturally
+bundled in the ordinary course of business would be treated as provision of
+a single service which gives the bundle its ‘essential character'”.
+
+(3) In Bharat Sanchar Nigam Ltd. v. Union of India 2006 (3) TMI 1 - Supreme
+Court, the Hon'ble Supreme Court, in the context of bundled supplies, held
+that the nature of a composite supply is to be determined by the ordinary
+practices of the trade and the expectations of the consumer. The Hon'ble
+Court recognized that the essential character of a bundled supply is derived
+from the principal supply, and the ancillary supplies are those that are
+naturally provided together in the ordinary course of business.
+
+2.13 In the present case, the following documentary evidence are submitted to establish
+that the supplies are “naturally bundled”:
+
+(1) Chartered Engineer Certificate (“CE Certificate”):
+
+e The CE Certificate certifies that all consumables (Electrolnk, PIP, BID,
+Blanket, etc.) are required to be supplied as a bundle and are consumed
+together during the printing process. The certificate explains the technical
+process of the HP Indigo press, confirming that printing cannot be
+achieved unless all these items are present and used together as
+prescribed. This expert technical confirmation demonstrates that the
+supplies are functionally and operationally inseparable, and that the
+bundling is dictated by the inherent nature of the printing process, not by
+any artificial arrangement. This directly supports the CBIC’s test that the
+
+elements are “integral to one overall supply.”
+
+e Copy of the aforesaid CE Certificate is enclosed with this submission.
+2.14 Brochures, Pamphlets, and Trade Literature
+e The Applicant has submitted industry literature demonstrating that the “click
+model” (tier program) is the standard industry practice for the supply of
+consumables for digital presses, both in India and globally. These materials
+
+Page 8 of 51
+M/s. HP India Sales Private Limited/36/2017-18
+
+
+
+show that other suppliers also supply consumables as a bundle and charge ona
+per-click basis. This substantiates that the practice of supplying all required
+consumables together is not unique to the Applicant, but is the industry norm.
+This satisfies the CBIC’s indicator that the “majority of service providers in a
+particular area of business provide similar bundles,” and that the elements are
+“normally advertised as a package.”
+
+e Copy of the aforesaid Brochures, Pamphlets, and Trade Literature is enclosed
+with this submission.
+
+2.15 Self-Declaration on the Usage of Standard Inks
+
+e The Applicant has provided a self-declaration clarifying the types of inks
+supplied under the click model and the A-la-carte model. The declaration
+confirms that standard inks (Cyan, Magenta, Yellow, Black, Orange, Violet,
+Green) are always supplied as part of the click model bundle, while specialized
+inks are supplied separately only upon specific request. This demonstrates that
+standard inks are always supplied together as a bundle, and that the A-la-Carte
+model] is reserved for exceptional, specialized requirements. This supports the
+view that, in the ordinary course of business, the supplies are naturally bundled.
+
+e Copy of the aforesaid self-declaration is enclosed with this submission.
+
+2.16 Declarations from Customers:
+
+¢ Declarations from customers confirm that customers expect and receive the
+supplies as a bundle, and that this is the industry norm. Customers also confirm
+that similar click pricing and bundled supply arrangements are offered by other
+suppliers in the market.
+
+¢ These declarations provide direct evidence of customer perception and
+expectation, which is a key indicator under CBIC guidance. They also confirm
+that the supplies are not available separately under the Click Model, and that
+the bundled supply is essential for their business operations.
+
+e The intention is to not to buy individual products separately but to have all the
+ElectroInk and consumables at one place for use in the printing machines.”
+
+e Copy of the aforesaid declarations from customers is enclosed with this
+
+submission.
+
+above documents, taken together, provide comprehensive and multi-faceted
+ence—technical, commercial, and customer-based—that the supply of HP
+#Z0 press consumables is “naturally bundled” in the ordinary course of
+
+ek Sysiness, as per industry practice and customer expectation. This aligns precisely
+KM“:
+
+with the standards set out in CBIC guidance and judicial interpretation.
+2.18 Additionally, we wish to draw reference to Appendix C of the HP-reseller
+
+agreement, where the parties have agreed to the consideration for the supplies to
+
+Page 9 of 51
+M/s. TIP India Sales Private Limited/39/2017-18
+
+
+
+be on a “per-click basis” depending on the nature of print generated by the-
+
+customer. In this regard, Clause 1a of Para G on Page 4 of HP reseller agreement
+
+(kindly refer to Exhibit 3) provides that “Click means a chargeable unit for a single
+
+colour separation transferred onto substrate, except in the case of textured effect
+
+PING) ccs ceases ”. Therefore, both the Company and reseller agree that the
+
+ElectroInk and consumables supplied shall be billed on an over-all consumption
+
+basis. This further enhances the argument that such supply of goods are naturally
+
+bundled since there is a single pre-agreed price for all the goods together and
+which are acceptable to both the supplier and the recipient.
+2.19 In light of the foregoing, the Applicant wishes to submit as follows:
+
+* Functionally, all supplies, including ElectroInk and consumables, are provided
+as a bundle to achieve the intended print output, which is the core requirement
+of the end customer.
+
+* The operation of the HP Indigo printing press substantiates that ElectroInk and
+the consumables are used in conjunction with each other to deliver the print.
+
+¢ The agreement between the Applicant and the reseller further substantiates that
+the supply of Electroink and consumables occurs only when they are used upon
+the “print” command of the end customer.
+
+« The supply of ElectroInk along with consumables is integral to the entire print
+output process; removal of any element would adversely affect the output.
+
+* As per the GST Flyer, a key feature of a composite supply is that its components
+should not be available separately. The Click Model, both contractually and
+practically, ensures that the different elements are not available separately.
+
+* The concept of natural bundling is dynamic and evolves with business models,
+industry practices, and customer preferences. For example, hotel
+accommodation with complimentary breakfast or airline tickets with meals
+were not always standard but have become so over time. Similarly, the natural
+bundling of ElectroInk and consumables under the Click model reflects current
+industry practice and customer expectations.
+
+¢ We wish to illustrate the same through an example as highlighted in the CBIC
+
+GST Flyer on Composite Supply and Mixed Supply as stated below:
+
+“Illustrations:
+
+A hotel provides a 4-D/3-N package with the facility of breakfast. This is a
+
+natural bundling of services in the ordinary course of business. The service of
+
+hotel accommodation gives the bundle the essential character and would,
+
+therefore, be treated as service of providing hotel accommodation.”
+
+* Now in general trade practice most hotels provide additional services to its
+guests in addition to such accommodation bundled with breakfast services. For
+
+instance, a hotel provides accommodation services and breakfast as a bundled
+
+Page 10 of 51
+M/s. HP India Sales Private Limited/38/2017-18
+
+
+
+: supply, however in addition to the same, it also offers to the customers to select/
+receive additional services for an additional fee like laundry services, airport
+pick up and drop services etc. Offering such additional services at an additional
+fee shall not change the nature of supply of accommodation services bundled
+with breakfast services.
+
+* The Applicant humbly submits that similarly, the option provided to end
+customers to avail optional additional supplies under the A-la-carte model shall
+not change the nature of supply of the bundle of ElectroInk and consumables
+supplied under the click model a natural bundle to the reseller and consequently
+to the end customer.
+
+2.20 Therefore, the supply under consideration involving supply of Electolnk with
+
+consumables is naturally bundled, thereby satisfying the second statutory test for
+
+a composite supply.
+
+Test 3: The Goods or Services are Supplied in Conjunction with Each Other in
+
+the Ordinary Course of Business
+
+2.21 The Click model represents the standard and predominant method of supply for
+HP Indigo press consumables, wherein all required items are delivered and
+invoiced together based on actual usage (i.e., number of clicks). This is not an
+isolated or exceptional arrangement, but rather a regular, recurring business
+practice. Notably, over 99% of customers (kindly refer to para 35) utilize the Click
+Model, underscoring that this bundled supply is the norm and occurs in the
+ordinary course of business.
+
+2,22 The above-referenced documents (referred in Para 49, especially the Industry
+Literature and Customer Declarations) further corroborate that the Click Model is
+the standard, expected, and widely accepted mode of supply within the digital
+printing industry.
+
+ElectroInk along with consumables are supplied in conjunction with each
+other:
+
+2.23 In the present case, supply of ElectroInk along with consumables are considered as
+
+being supplied in conjunction to each other based on the following facts:
+
+¢ The aforesaid supplies are received by the authorised reseller from the a
+Applicant as a bundle and are as-is supplied to the end customer;
+24 Further, the bundled supply of goods is made at the same point of time and is
+not split over different time periods;
+* The billing for such supplies by the Applicant to the authorised reseller and by
+the authorised reseller to the end customer is also done on a consolidated basis
+for the entire bundled value of goods consumed and not on per category of
+
+goods supplied basis.
+
+Page 11 of 51
+M/s. HP India Sales Private Limited/39/2017-18
+
+
+
+Supply of ElectroInk along with consumables is in the Ordinary Course of.
+Business:
+
+2.24 The CBIC GST Flyer outlines several tests to determine whether supplies are made
+in the ordinary course of business, The present case satisfies each of these, as
+detailed below:
+
+Test as per the GST | Satisfaction in the present case
+
+Flyer
+
+The perception of |* Customers have submitted declaration(s)
+the consumer or the | (kindly refer to Exhibit 10) confirming that they
+service receiver. expect to receive all necessary consumables
+(ElectroInk, PIP, BID, Blanket, etc.) as a bundle
+under the click model.
+* Customers do not seek to purchase these items
+separately; their operational need is to have all
+required consumables available together for
+uninterrupted printing.
+* The perception of the consumer is that the
+supply of all consumables as a bundle is the
+norm and is essential for their business
+operations.
+* Customers confirm that similar arrangements
+are offered by other suppliers, reinforcing that
+this is the industry standard.
+
+Majority of re Brochures, pamphlets, and trade literature
+suppliers in the area | submitted by us demonstrate that the click
+provide similar | model (bundled supply of consumables, charged
+bundles per print/click) is the standard practice among
+major suppliers of digital presses, both in India
+and globally.
+* Customers confirm that other suppliers (apart
+from the Applicant) offer similar bundled
+arrangements.
+* There is no evidence that the industry norm is
+
+to supply these items separately.
+
+* The majority of service providers in the digital
+printing industry supply consumables as a
+
+bundle, satisfying this test.
+
+Page 12 of 51
+Mjs. HP India Sales Private Limited/36/2017-18
+
+
+
+é 2 The nature of the] * The CE Certificate confirms that the ElectroInk
+various suppliesina|is the predominant element, with other
+bundle consumables (PIP, BID, Blanket, etc.) being
+essential ancillaries for the printing process.
+* Customers confirm that other suppliers (apart
+from the Applicant) offer similar bundled
+arrangements.
+* The printing process cannot function unless all
+these items are present and used together; each
+
+interdependent role.
+
+Single price for the | * Under the Click Model, the customer is |
+package charged a single price per print/click, which
+covers all consumables used in the printing
+process.
+¢ The Reseller Agreement specifies that billing is
+ona per-click basis, not per individual item.
+* Invoices raised to resellers and customers
+reflect a single consolidated charge for the
+bundle, not itemized pricing.
+* There is a single price for the entire bundle,
+regardless of the individual consumption of each
+
+component, fulfilling this test.
+
+The elements are|* Brochures, pamphlets, and trade literature
+
+normally advertised | submitted by us show that the Click Model is
+
+asa advertised as a bundled solution for digital
+
+package. printing needs. The standard offering is the
+bundled supply; there is no separate marketing
+of individual consumables under the Click
+Model.
+
+Elements are|* The CE certificate confirms that all
+
+integral to the |consumables are required together for the
+overall supply printing process; the absence of any one item
+would prevent the press from functioning or
+
+degrade print quality.
+
+* The printing process is designed so that all
+these items are consumed together; they are not
+
+optional or substitutable.
+
+: Page 13 of 51
+M/s. HP India Sales Private Limited/38/2017-18
+
+
+
+* Customers confirm that the bundle is essential |<
+for their operations and that the supply would
+not meet their needs if any element were
+missing.
+
+* The elements are integral to the overall supply;
+removing any would disrupt the printing
+process, thus fulfilling this test.
+
+2.25 Further, the phrase “in the ordinary course of business” is an intrinsic part of the
+definition of the term “composite supply”, and, is required to be interpreted to
+determine whether the supply of the Kit is a composite supply. By judicial
+precedents, it has been held that the expression “in the ordinary course of
+business” would mean that there should be a series of transactions which must be
+undertaken in a certain manner for them to satisfy the term “in the ordinary course
+of business” and such transactions must be distinguished for a one off or
+exceptional transaction which would then not be regarded as being “in the
+ordinary course of business”. Virayya v. Subba Rao [AIR 1959 657]; Countrywide
+Banking Corporation Ltd. v. Dean [1998 2 WLR 441] Stated differently, the
+predominant pattern of transactions undertaken would be the appropriate basis
+for determining a supply which is made in the ordinary course of business. In the
+present case, as per the relevant judicial test, bundled supplies of ElectroInk along
+with all consumables under the Click Model, which constitute 99.14% of the total
+supplies/sales, would clearly reflect supplies which can be regarded as being “in
+the ordinary course of business”.
+
+2.26 The Reseller Agreement further supports this position. Clause 3 of Para C (Page 3)
+provides that the reseller may elect to purchase supplies under either the Tier
+(Click) or A-la-Carte programs but must purchase all supplies for a given Indigo
+Press Product Line under the same program. Relevant extract of the Reseller
+
+Agreement is reproduced hereinbelow:
+
+“Clause 3 of Para C on Page 3 provides that “Purchase of Supplies by Reseller shall be
+iject to either the Tier or A-la-Carte programs set forth in Sections G and 1 below,
+
+d their respective terms and conditions. Reseller may elect to purchase supplies for the
+
+shall purchase all of the supplies required by it for each Indigo Press Product Line under
+
+the same Supplies purchase program”.
+
+2.27 Accordingly, the above clause provides reseller with option to choose between
+supply models, namely A-la Carte and Tier Program. However, post selection of
+the model, ElectroInk and consumables purchased shall be supplied only in such
+manner as per the terms of the selected supply model. In other words, the
+
+Page 14 of 51
+
+M/s. HP India Sales Private Limited/38/2017-18
+
+
+
+agreement only restricts usage of Electrolnk and consumables under different
+supply models for the same indigo press machine.
+
+2.28 It is immensely clear that the above clause does not impose any condition on the
+reseller to accept the ElectroInk and consumables as a bundle. The agreement
+clearly contemplates supply under the ala carte model and the tier model. Where
+a customer opts for the tier model, the agreement further lays down that such
+goods purchased under shall be solely used for a given indigo press machine. The
+said restriction is imposed considering business challenges where different
+consumables are supplied against different business models.
+
+2.29 Therefore, it is clearly evident that there is no restriction imposed by the Appellant
+on the resellers to mandatorily accept all products as a bundle, but as a normal
+business practice and understanding, such goods are procured together.
+
+2.30 The Applicant also wishes to draw reference to the principles adopted by the
+learned Appellate Authority in the case of M/s Five Star Shipping (2018 - VIL - 21
+- AAAR), having appeal number MAH/GST-AAAR-11/2018-19, dated 27 July
+2018 against advance ruling number GST ARA-18/2017-18/B-26 dated 18 April
+2018, wherein in Para 67 of the order reliance is placed on the market/ industry
+practices to determine the classification of supply. Further, in Para 70 of the order,
+it has been stressed on the fact that “Appellant are obliged to provide all these
+services to the FSO as per the list of activities enlisted in Annexure A to the above-
+mentioned agreement. Thus, the gamut of activities rendered by the Appellant can
+be considered as a composite supply”. We wish to provide that in the present case
+as well, the industry/ market practices conceive ElectroInk and consumables to be
+supplied together as a natural bundle. Further, the Applicant as per terms of
+contract is obliged to ensure timely supply of goods to resellers for purpose of
+further supply to customers for un-interrupted flow of business.
+
+2.31 Further, we also wish to submit that the present supply of ElectroInk along with
+consumables will constitute a “composite supply” in line with the principle laid
+
+down by the European Court of Justice (“ECJ”) in Card Protection Plan Ltd. v. z
+
+transaction should be treated as a single, composite supply for tax purposes.
+2.32 Applying this test to the present facts, the supply of Electrolnk is the principal
+
+element, while the accompanying consumables (such as Photo Imaging Plate,
+
+Page 15 of 51
+M/s. HP India Sales Private Limited/3$/2017-18
+
+
+Binary Ink Developer, Blanket, etc.) are ancillary and indispensable for the-
+effective use of the Electrolnk in the printing process. The economic reality and the
+consumer’s perspective are that these items are not supplied or used
+independently, but as an integrated package necessary for the operation of the HP
+Indigo press. Thus, consistent with the Card Protection Plan decision, the supply
+must be treated as a composite supply, with ElectroInk as the principal supply.
+2,33 In conclusion, supply of Electrolnk with consumables is naturally bundled which
+are supplied in conjunction with each other in the ordinary course of business.
+2.34 Therefore, it is clear that in the present case ElectroInk with consumables are
+supplied in Conjunction with Each Other in the Ordinary Course of Business,
+thereby satisfying the third statutory test for a composite supply.
+Test 4: One of Such Supply is the Principal Supply
+2.35 The Chartered Engineer’s certificate confirms that ElectroInk is the predominant
+element in the process of obtaining a print impression. The consumption pattern
+shows that ElectroInk accounts for 41% of the value/ volume of the bundle, the
+highest among all components. The self-declaration and customer declarations
+further confirm that ElectroInk is the main element, with other items being
+necessary ancillaries to enable its use.
+2.36 Under Section 2(90) of the CGST Act and the MSGST Act, “principal supply” is in
+turn defined as under:
+““principal supply” means the supply of goods or services which constitutes the
+predominant element of a composite supply and to which any other supply forming part
+of that composite supply is ancillary;”
+2.37 The term predominant element is not statutorily defined. Some guidance has been
+issued by the GST Authorities as to criterion that can be used such as percentage
+of value, quantum, role in functionality to determine this issue as delineated
+
+below:
+
+Circular Clarification/ guidance
+
+GST Circular | 4. In the case of printing of books, pamphlets,
+F.No.354/263/2017- | brochures, annual reports, and the like, where
+TRU dated 20th | only content is supplied by the publisher or the
+October 2017 | person who owns the usage rights to the
+Clarification on | intangible inputs while the physical inputs
+taxability of printing | including paper used for printing belong to the
+
+contracts printer, supply of printing of the content
+supplied by the recipient of supply is the
+principal supply and therefore such supplies
+
+would constitute supply of service falling under
+
+Page 16 of 51
+M/s. HP India Sales Private Limited/38/2017-18
+
+
+
+heading 9989 of the scheme of classification of
+services.
+
+5. In case of supply of printed envelopes, letter
+cards, printed boxes, tissues, napkins, wall paper
+ete. falling under Chapter 48 or 49, printed with
+design, logo etc. supplied by the recipient of
+goods but made using physical inputs including
+paper belonging to the printer, predominant
+supply is that of goods and the supply of
+printing of the content supplied by the recipient
+of supply is ancillary to the principal supply of
+goods and therefore such supplies would
+constitute supply of goods falling under
+respective headings of Chapter 48 or 49 of the
+
+Customs Tariff.
+
+Circular F. No. | In the case of bus body building there is supply
+354/17/2018 TRU | of goods and services. Thus, classification of this
+dated 1st March| composite supply, as goods or service would
+2018 Clarifications | depend on which supply is the principal supply
+regarding GST in| which may be determined on the basis of facts
+respect of certain | and circumstances of each case.
+services In retreading of tyres, which is a composite
+supply, the pre-dominant element is the process
+of retreading which is a supply of service.
+Rubber used for retreading is an ancillary
+supply. Which part of a composite supply is the
+principal supply, must be determined keeping in
+view the nature of the supply involved. Value
+may be one of the guiding factors in this
+determination, but not the sole factor..The
+primary question that should be asked is what is
+the essential nature of the composite supply and
+which element of the supply imparts that
+essential nature to the composite supply.
+
+Circular F. No | In contracts where service provider is involved
+354/136/2019-TRU | in a composite supply of software development
+dated 11% October | and design for integrated circuits electronically,
+2019 testing of software on sample prototype
+
+Page 17 of 51
+M/s. HP India Sales Private Limited/38/2017-18 ‘
+
+
+
+hardware is often an ancillary supply, whereas,
+chip design/ software development is the
+principal supply of the service provider, The
+service provider is not involved in software
+testing alone as a separate service. The testing of
+software/design is aimed at improving the
+quality of software/ design and is an ancillary
+activity. The entire activity needs to be viewed as
+one supply and accordingly treated for the
+purposes of taxation. Artificial vivisection of the
+contract of a composite supply is not provided in
+
+law.
+
+2.37 It is pertinent to note that in each of the clarifications under the Circulars (as
+tabulated above), the individual supplies are equally important and indispensable,
+however, these have been declared to be composite supplies. Therefore, any view
+to the effect that Kit does not constitute a composite supply or that the Electro[nk
+is not a “principal supply” merely on the basis that all the Elements of the Kit are
+equally important and indispensable is directly contrary to the binding Circulars,
+and also amounts to introducing a new concept in interpretation of “composite
+supply” which is not provided under the law.
+
+2.38 Under Section 2(74) of the CGST Act, “mixed supply” is defined as one where there
+are two or more individual supplies of goods where such supply does not
+constitute a “composite supply”. It is, therefore, self-apparent that if the supply in
+question is a “composite supply”, statutorily it cannot be considered as a “mixed
+supply”.
+
+2.39 A “principal supply” is defined under the CGST Act as the predominant element
+of a “composite supply”, Upon consideration of all of the elements of the supply it
+needs to be examined whether any one of them can be regarded as being the
+predominant element, to which the other elements are ancillary. The entire
+objective of the commercial transaction in the present case is for the relevant
+
+customer to undertake a printing activity. The dictionary definitions of the word
+
+yy Printing: the process, business, or art of producing printed matter
+
+240 In view of the commercial objective of the entire transaction which is printing, it is
+
+clear that the application of ink on paper is the essence of the core activity, it would
+
+Page 18 of 51
+M/s. HP India Sales Private Limited/38/2017-18
+
+
+
+follow inevitably that the printing ink (Electroink) would constitute the
+‘predominant element’ of the “composite supply”, and all of the other elements
+which play a necessary role in the printing would constitute the ancillary activities.
+
+2.41 Under the GST laws the term “predominant element” is not defined. However, the
+guidance offered by the CBIC on the concept of “principal supply”, inter alia,
+recommends looking at aspects such as the relative value and quantity of an
+element vis-a-vis other elements, or, the relative functional significance of an
+element vis-a-vis the other elements. It would appear, therefore, in the context of
+supply/sale of the consumable, the ElectroInk would constitute the “principal
+supply”.
+
+2.42 In the present case, the Applicant has produced the following evidence to
+substantiate that the ElectroInk is the principal supply as per the statutory
+definition as also as per the various clarifications, FAQs, issued by the CBIC. The
+evidence led by the Petitioner that ElectroInk is the principal supply inter alia
+includes: -
+
+e Pattern of consumption of supplies made under the Click program for
+
+effecting a single print from the Indigo Press Machine, which is as uncer:
+
+S. | Elements of the Kit Consumption
+No. (in percentage)
+1 | ElectroInk 41%
+
+2 | Blanket 16%
+
+3 | PIP - Photo Imaging Plate 13%
+
+4 | OMP- Other Machine Products | 10%
+5 BID - Binary Ink Developer 10%
+
+6 Oil 7%
+7 Blanket Web 2%
+8 Other consumable 1%
+
+- Brochures, pamphlets, and other trade literature;
+- self-declaration on the usage of standard inks; and
+- declarations as by end customers to confirm the availability of similar
+models by other competitors;
+2.43 In addition to the above, the Applicant further wishes to produce the CE’s
+
+Zo Ruling Sertificate dated 11" February 2019 which particularly stated that:
+
+Sy 43 . =
+i % NA (ve entire printing process is centric to the use and consumption of H.P. Indigo‘s
+
+f2y
+= 2\flectroink, to yield the desired print results. Accordingly, based on the consumption
+
+a
+
+on is } attern of the various elements provided for our consideration and our analysis of the
+eee printing process, functionally, the ElectroInk is the predominant element in the process
+
+of obtaining print impression from H.P. Indigo Printers.”
+
+2.44 The entire commercial activity in the present case is that a customer who desires to
+undertake printing of a certain quality will effectively procure HP Indigo Printing
+machine, and, to undertake printing on that machine, will procure the kits imaging
+
+Page 19 of 51
+M/s. HP India Sales Private Limited/38/2017-18
+
+
+
+products as a consumable item for undertaking the printing activity. The method
+of charging the customers (and the resellers who sell to the customers), is to charge
+ona “click basis”, viz. a customer is not charged an upfront price for supply of the
+kit but is charged on the number of printed copies generated by the customer in a
+prescribed period. While each of the other elements plays a supporting and an
+ancillary role, it is the ElectroInk which when dispersed on paper and other
+medium which causes the activity of printing. It is this printing activity, which is
+the essence of the commercial transaction, and it is this printing activity which is
+charged for. The printing activity as defined in various language dictionaries as
+the activity of “applying ink to paper”. It is, therefore, explicit that it is the printing
+ink, i.e, Electroink, is the principal supply and the other elements are ancillaries.
+
+2.45 In this regard, we also wish to submit the decision pronounced by Hon’ble Supreme
+Court in Collector of Central Excise, Hyderabad vs. Bakelite Hylam Ltd. 1997
+taxmann.com 1311 (SC), wherein it was held that the classification of a product
+should be determined by the component that imparts its essential character and
+functionality, rather than by mere quantitative predominance,
+
+2.46 Applying the principle stated above, the supply of ElectrolInk along with
+consumables should be classified based on the essential function provided by the
+ElectroInk, which is the principal supply. The other consumables are ancillary and
+serve to facilitate the use of ElectroInk in the printing process. Therefore, the entire
+supply merits classification and tax treatment as per the principal supply, i.e.,
+ElectroInk, in line with the Supreme Court's “functionality of the product” test. -
+Determination of character of a transaction based on language of the contract:
+
+2.47 lt is a well settled principle of interpretation that in determining the taxation of a
+transaction it is essential that the true nature and character of the transaction be
+ascertained, and the transaction be taxed consistent with its true nature and
+character. [Union of India vs. Playworld Electronics Pvt. Ltd. [1989 (41) ELT 268
+(SC)], Sundaram Finance Ltd ys. The State of Kerala [AIR 1966 SC 1178}]
+
+2.49 it is also well settled position that in determining the true nature of a transaction,
+
+orities must not go behind the contract ignoring the terms as agreed by the
+
+ies. In the present case, this approach is of critical importance on the aspect
+
+a
+
+See cS) fat parties have agreed that the property in goods only passes when the activity
+SHTRA SEA
+
+{KAS of printing is undertaken. This critical aspect must guide the determination of the
+true nature of the transaction and the consequential issues of the taxability.
+2.50 In the background of the legal provisions and principles as set out in the preceding
+
+paragraphs, the two key issues that arise:
+
+Page 20 of 51
+
+M/s. HP India Sales Private Limited/38/2017-18
+
+a ioe
+
+
+Issue 1: What is the “supply” in question?
+
+Issue 2: Commercially, when and how does the supply occur in the facts of the
+
+present case?
+
+2.51 In respect of the Issue 1 and Issue 2, the “supply” in the present case is a supply in
+the nature of a sale of goods. The relevant sale of goods occurs when the property
+in goods passes under the terms of the relevant contract viz. at the time of the
+printing function is undertaken in relation to each printing activity by the relevant
+customer. When such printing activity is undertaken, all of the elements of the Kit
+are sold and supplied concurrently as they are consumed for the purpose of the
+printing activity. The supply is therefore of the Kit inclusive of all its elements. It
+is important to note here that:
+
+a. Fach element of the Kit is required simultaneously for the printing activity;
+
+b, The functionality of each Element of the Kit is interrelated and interdependent;
+
+c. Relative to the functionality, it is clear that the consumption of each clement of
+the Kit is simultaneous. This is, therefore, a cohesive and bundled activity of
+supply/ sale/ consumption which all occurs contemporaneously at the time
+each activity of printing is undertaken.
+
+d, The Applicant ensures adequate supply of all the Elements of the bundle such
+that at the time of sale/consumption each Element to the requisite quantity as
+required for the printing activity is available for the consumer.
+
+2.52 Therefore, the nature of sale/ supply in the present case is by an act of consumption
+viz. by an act of undertaking printing activity. When undertaking such printing
+activity all the elements of the set are consumed/ sold as proportionately required
+for the printing activity.
+
+2.53 In this understanding of the true nature of the transaction, it is apparent that all of
+the essential elements of the definition of a “composite supply” are fully satisfied
+in the present case, namely:
+
+a. There is a supply made by the Company to a customer (Reseller /Consumer).
+
+b. The supply has two or more taxable supply of goods viz. all the elements of
+
+supply which make up the Set.
+
+predominant quantum of supplies 99.14% are in the manner aforesaid and
+would legally be regarded as being in the “ordinary course of business”. In
+
+determining the ordinary course of business unusual or exceptional
+
+; Page 21 of 51
+M/s. HP India Sales Private Limited/39/201718
+
+
+
+transactions such as to the government do not recharacterize the supplies
+being made in the ordinary course of business.
+e. There is a “principal supply”, the ink viz. ElectroInk.
+
+2.54 Therefore, all the elements of the definition of a “composite supply” are satisfied in
+the context of the supply under consideration under the Click model. The
+application of the definition of a “composite supply” to such transaction
+necessarily and statutorily precludes the application of the concept of a “mixed
+supply” to the transaction.
+
+2.55 In view of the facts, submissions, and supporting evidence — including the
+Chartered Engineer's Certificate (refer Exhibit 6) and the Customer's
+Certificate / Declaration (refer Exhibit 9) — and in accordance with the direction of
+the Hon’ble Bombay High Court vide its order dated 16 July 2025 to consider such
+evidence for the purpose of disposing of the present proceedings, the Applicant
+respectfully submits that the supply of ElectroInk along with consumables
+qualifies as a composite supply under GST. Accordingly, it should be taxed at the
+rate applicable to printing ink, which constitutes the principal supply in the said
+transaction,
+
+2.56 We shall be glad to furnish such additional information and relevant documents as
+
+the Hon’ble Authority may require for passing its decision.
+
+3. CONTENTION - AS PER THE JURISDICTIONAL OFFICER DATED 07.11.2025.
+
+3.1 The applicant M/s HP India Sales Pvt Ltd holding GSTIN - 27AAACC9862F17Z1 has
+submitted their say vide email dated 29/10/2025 regarding the supply of ElectroInk
+along with consumables such as oil, binary ink developer, blanket, BIB, and print
+imaging plate, constitutes a “composite supply” within the meaning of Section 2(30)
+of the CGST Act, 2017, on the grounds that such supplies are “naturally bundled”
+and made in conjunction with each other in the ordinary course of business. The
+
+UNS Sp plicant further submits that ElectroInk constitutes the principal supply, thereby
+
+ENunting classification of the entire transaction as a composite supply taxable at
+
+reviewed and it is respectfully submitted that the Applicant's contention that its
+
+supply of ElectroInk and related consumables goods constitutes a “composite
+
+supply” under Section 2(30) of the CGST Act, 2017 is legally and factually
+
+unsustainable.
+
+3.3 In continuation to the earlier submissions of this office the following facts are brought
+to your kind notice, which may be considered while deciding the present
+application for Advance ruling filed by the applicant, M/s, HP India Sales Pvt. Ltd.
+
+Page 22 of 51
+M/s. HP India Sales Private Limited/38/2017-18
+
+.
+
+
+As per the application submitted by the applicant the applicant reiterated the
+: statutory conditions of supply to qualify u/s 2(30) of CGST/MGST Act, 2017.
+
+Against the above-mentioned contention, the department's submission is as under-
+
+Test / | Key Submissions / Applicant Department's Submission
+Statutory Evidence by the applicant | Submission
+
+Criteria
+
+Test 1: Supply includes Electro[nk, | The supply | The applicant has not
+Involvement of | Photo Imaging Plates (PIP), | involves two | provided order copy of
+TwoorMore | Binary Ink Developer (BID), | or more | customer and reseller to
+Taxable Printing Blankets, Imaging | taxable ascertain that the ink and
+Supplies Oil, Blanket Web, and other | goods, other consumables are
+
+machine products and | satisfying the | supplied together.
+ancillaries. first test for | Hence whether two or more
+Allitems are independently | composite taxable supplies are involved
+taxable under GST. supply. cannot be commented
+Defined as “Imaging
+
+Products” and “Supplies”
+
+in the Reseller Agreement.
+Single tax invoice raised for
+the bundle based on actual
+consumption (clicks). .
+Test 2: | “Naturally bundled” | The supply is | The applicant's claim that the
+Supplies are | interpreted per CBIC | naturally supply of ElectroInk and
+Naturally guidance and judicial | bundled in consumables is “naturally
+Bundled precedents. the ordinary | bundled” is not acceptable.
+In the present case, the | course of The customers have the
+following | documentary | business, option to procure each item |
+
+evidence are submitted to | satisfying such as ink, plates, blankets,
+establish that the supplies | the second oil, etc., separately as per
+
+are “naturally bundled”: test for their requirement. The “click
+CE Certificate: All| composite | model” adopted by _ the
+consumables are required | supply. applicant is only a
+together for the printing commercial billing
+process. arrangement and does not
+Brochures, pamphlets, and make the supply naturally mat
+trade literature: Industry bundled under GST law. The’ ail
+standard is to supply as a Chartered Engineer's
+bundle under the click Certificate itself shows that
+model. all items are equally
+Self-declaration: Standard essential, and hence there is
+inks always supplied as a no principal supply. Further,
+bundle. customer and reseller
+Customer declarations: declarations only indicate
+
+business preference, nol a
+legal compulsion to buy the
+
+Page 23 of 51
+M/s, HP India Sales Private Limited/38/2017-18
+
+
+
+Customers expect and goods together, ‘Therefore,
+receive supplies as a the supplies are not naturally ; a
+bundle; industry norm. bundled in the ordinary
+Single pre-agreed price for course of business and
+the bundle (per-click basis). cannot be treated as a
+
+composite supply.
+
+The Applicant has
+submitted industry literature
+demonstrating that the “click
+model” (tier program) is the
+standard industry practice,
+Self-declaration, Customer
+declarations, Single pre
+agreed price, but the
+Applicant's dick based
+billing model and
+declarations is merely a
+commercial arrangement
+and does not alter the legal
+nature of the supply. The
+method of billing or
+invoicing cannot override the
+
+statutory definition of supply
+
+under the GST law
+Test 3:|- Click model is the | ElectroInk The Applicant's has
+Supplied in | standard method (over 99% | and submitted that click based
+
+Conjunction of customers use it). -| consumables | billing model is merely a
+with Each | Supplies delivered and | are supplied | commercial arrangement
+
+Other in the | invoiced together based on | in and does not alter the legal
+Ordinary usage. - Supplies received | conjunction | nature of the supply. The
+Course of | and supplied asa bundle by | with each | method = of _—ibiilling ~—or
+Business reseller. - Billing is | other in the | invoicing cannot override the
+consolidated for the entire | ordinary statutory definition of supply
+bundle. - Customer | course of | under the GST law. Though
+declarations and industry | business, the applicant has submitted
+
+literature confirm this is the | satisfying the | that the supply is in
+norm. - Reseller Agreement | third test for | conjunction with each other
+allows choice of model, but | Composite there is no principal supply
+
+once chosen, supplies are | supply. and ancillary supply relation
+bundled. is identified as specified in
+Judicial precedents and definition of composite
+industry practice support supply.
+
+this as ordinary course of
+
+business.
+
+Test 4: One | CE Certificate: ElectroInk is | Electronkis | The Appellant's argument,
+Supply is the | the predominant element in | the principal | which claims that ElectroInk
+
+Page 24 of 51
+M/s. HP India Sales Private Limited/38/2017-18
+
+
+
+Principal the printing process. supply, with | is the main supply simply
+
+3 Supply Consumption pattern: other because it makes up 41% of
+ElectroInk accounts for 41% | consumables | the total consumption by
+of value/volume, highest | being volume, This argument fails
+among components. ancillary, to prove that Electrolnk is the
+Self-declaration and | satisfying most important part of the
+customer declarations | the fourth supply or that it is essential
+confirm ElectroInk as main | test for to the overall process.
+element. composite Therefore, the claim is not
+Section 2(90) of the Act: supply. valid,
+
+Principal supply is the The FlectroInk and other
+predominant element. consumables (such as
+CBIC Circulars; Principal blankets, photo imaging
+supply determined by plates, binary ink developers,
+essential character and HP imaging oil, blanket
+functionality. webs, and other machinery
+Indian Courts and products) supplied by the
+European Court of Justice Appellant to its customers is
+(ECJ”) precedents holding a "mixed supply," not a
+that classification needs to "composite supply" as the
+be determined based on Appellant claimed. because
+essential function. the various items supplied,
+Commercial objective: there is no single product
+Printing, activity centers on that can be considered the
+application of ink "main" supply, as required
+(ElectroInk). by the definition of "principal
+
+supply" under Section 2(90)
+of the CGST Act, 2017, This
+lack of a principal supply
+goes against the conditions
+needed for a composite
+supply, as defined in Section
+2(30) of the CGST Act, 2017.
+Further the CBIC Circulars
+mentioned by the applicant
+is not relevant to the
+determined the _ principal
+supply in the present case.
+
+3.4 In view of the above submissions and facts the contention of the applicant that the
+supply of ElectroInk and consumable goods constitutes a composite supply cannot
+be proved,
+
+3.5 As regards the Chartered Engineer’s Certificate, it is submitted that the said
+certificate is issued by the Chartered Engineer based entirely on functional
+
+descriptions provided by the Applicant and does not emerge from any independent
+
+Page 25 of 51
+M/é. HP India Sales Private Limited/38/2017-18
+
+
+or empirical study of operations at reseller or customer sites. It merely recites that-
+“all Indigo press consumables are necessarily required to be consumed together,”
+
+Such self-certifying opinions cannot replace legal or factual scrutiny required under
+
+Section 2(30) and Section 2(90) of the CGST Act. Further, in the said Certificate, the
+
+Chartered Engineer himself acknowledges that each consumable is indispensable
+and equally essential to the printing process. This submission not supported the
+Applicant's contention that FlectroInk is the principal supply. If all components are
+equally indispensable, no single element predominates, the certificate thus supports
+that there is no existence of principal supply, which is one of the core conditions of
+a composite supply.
+
+3.6 The certificate’s reference to simultaneous consumption during a print run pertains
+only to machine functionality, not to commercial inseparability. GST law evaluates
+whether the recipient is bound to procure all items together in the ordinary course
+of business. The fact that different consumables have distinct shelf lives and
+replacement cycles, as acknowledged by the Applicant, shows that procurement can
+and does occur independently. Technical interaction within a machine does not
+establish the supply made by the applicant is composite supply. Further the said
+certificate does not examine whether the individual items (ElectroInk, photo-
+imaging plates, blankets, binary ink developer, oil, etc.) are marketable and invoiced
+separately. Each item carries a separate HSN classification and is traded
+independently across the industry, Hence, the Chartered Engineer's statement is
+irrelevant to prove the supplies are naturally bundled in trade.
+
+3.7 It is also submitted that the certificates prepared at the instance of an applicant
+cannot override statutory definitions. The determination of composite versus mixed
+supply is a legal question, not an engineering one. As a result, the Chartered
+Engineer's certificate cannot prove the supply of ElectroInk and alongwith
+consumables made by the applicant constitute of composite supply. Further, the
+customer and reseller declarations produced by the Applicant merely express their
+preference or business convenience in purchasing consumables together. Such
+subjective preferences cannot determine statutory classification. Section 2(30)
+
+requires an objective finding that supplies are “naturally bundled in the ordinary course
+
+repeatedly by CBIC guidance and judicial interpretation under GST as well as the
+
+erstwhile Service-Tax regime.
+
+Page 26 of 51
+M/s. HP India Sales Private Limited/38/2017-18
+
+
+
+3.9 The Applicant's claim that "the click model is the industry standard” cannot be
+proved from the costumer declarations as these declarations are just personal
+preferences or convenience, and don’t represent how the industry generally
+operates, as required by Section 2(30) of the CGST Act. The Applicant itself admits
+that ink may be replaced after 1,000 clicks, while blankets and plates last 3,000 clicks.
+Such differing replacement cycles confirm that procurement occurs independently
+and sequentially not conjointly or compulsorily.
+
+3.10 Further in their submission, applicant has relied upon the following circulars issued
+by the CBIC, circular No. GST Circular F.No.354/263/2017-TRU dated 20th October
+2017, Regarding Clarification on taxability of printing contracts, Circular F. No.
+354/17/2018- TRU dated 1st March 2018 Regarding Clarifications regarding GST in
+respect of certain services, Circular F. No .354/136/2019-TRU dated 11th October
+2019 regarding Clarification on applicability of GST exemption to the DG Shipping
+approved maritime courses conducted by Maritime Training Institutes of India. The
+Circular relied upon by the applicant is not relevant with the present issue of supply
+of ElectroInk along with other consumables constitutes a composite Supply.
+
+3.11 Moreover each component is identifiable with a distinct HSN- ElectroInk (32151190),
+Blanket (59111000), Photo Imaging Plate (84439100), Binary Ink Developer/Oil
+(27101980) —which is a decisive indicator that the supplies are separately taxable
+goods. Customer invoices consolidating these under a single “click” price represent
+an internal accounting choice and cannot override classification mandated by law.
+
+3.12 In view of the above submissions and the facts and evidence on record, it is
+
+respectfully submitted that the supplies are not naturally bundled; no principal
+
+supply can be identified; and each item is separately identifiable and marketable,
+therefore, the transaction squarely falls within the definition of “mixed supply”
+
+under Section 2(74) of the CGST Act. Consequently, as mandated by Section 8(b),
+
+the highest rate of tax applicable among the constituent supplies shall apply to the
+
+entire supply.
+
+In view of the above facts, a. The Applicant's claim that the supply of Electrolnk
+
+gwug with consumables such as oil, binary ink developer, blanket, BIB, and print
+@ding plate constitutes a “composite supply” under Section 2(30) of the CGST Act
+
+t be accepted. The supply made by applicant may be treated as Mixed Supply’
+
+(74) of CGST/MGST Act, 2017.
+
+3 Considering the Mixed Supply, levy the highest rate of tax as per the provisions
+
+of Sec. 8(b) of the CGST /MGST Act, 2017.
+
+Page 27 of 51
+M/s. HP India Sales Private Limited/38/2017-18
+
+
+
+4. HEARING
+Applicant has submitted a letter regarding intimation of matter remanded back for
+
+fresh consideration along with order passed by Hon'ble High Court of Bombay and
+made additional submission on 13.11.2025.
+
+In this case, Advance Ruling Authority had passed order on 08.06.2018. Being
+aggrieved, applicant had filed appeal with the appellate authority for advance ruling
+and AAAR order had passed on 17.02.2019 confirmed the order passed by the Advance
+Ruling Authority.
+
+Subsequently, Applicant filed a rectification application, highlight that the
+Appellate Authority had not considered the written submissions and supporting
+evidence submitted on 11.02.2019. The Appellate Authority decided rectification
+application on date 04.11.2025 and upheld his order dated 17.02.2019.
+
+Then, applicant filed Writ Petition with Hon’ble High Court of Bombay (No. 3842
+of 2021). Hon’ble High Court of Bombay has passed the order on 16.07.2025 and set-
+aside the order dated 08.06.2018 made by authority for advance ruling and the order
+dated 04.09.2019 made by the appellate authority and remanded the matter to the
+Advance Ruling Authority for consideration of applicant’s submission and
+examination.
+
+Then, final hearing was scheduled on 15.10.2025. Thereafter, the authorized
+representative of the applicant Ms. Sanika Ajgaonkar, C.A., attended the ehearing and
+requested for adjournment, Case was adjourned for ten days.
+
+Final E-Hearing dated 30.10.2025.
+
+Final hearing was held on 30.10.2025. Mr. Shivrajan, Authorized Representative
+of the applicant, appeared and made oral and written submissions. Jurisdictional
+Officer, Mr. Nilesh Ghate, Deputy Commissioner of SGST appeared. We heard both the
+sides,
+
+5. OBSERVATIONS AND FINDINGS
+
+5.1 We have gone through the records of the case, the written submissions made by the
+applicant and the submissions made by the jurisdictional officer vide letter dated
+03.11.2025. We have also gone through the submissions made by the applicant at
+the time of the personal hearing. We find that the applicant in their application
+dated 09.2.2018 for Advance Ruling had raised two questions for which they had
+
+der the Indigo Press Contract.
+
+giving them the opportunity of personal hearing, the Advance Ruling Authority
+vide its Order dated 08.6.2018 held that the supply of ElectroInk along with
+
+Page 28 of 51
+M/s. HP India Sales Private Limited/39/2017-18 Z
+
+
+
+consumables is a mixed supply under Section 2(74) of the GST Act. They also held
+that the supply is a continuous supply and the time of supply would be the date of
+invoice or the date of payment, whichever is earlier and the value would be the
+transaction value as reflected in the invoices issued under Section 31(4) of the GST
+Act. Being aggrieved by this Order, the applicant filed an application before the
+Appellate Authority for Advance Ruling. The AAAR vide its order dated 17.2.2019,
+rejected the appeal and upheld the order of the AAR. The applicant thereafter, filed
+an application for amendment / rectification of the order of the AAAR under
+Section 102 of the GST Act. Vide Order dated 04.11.2019, the application for
+rectification of the order was rejected by the AAAR who held that there was no
+reason ta amend the earlier order dated 17.2.2019. Being aggrieved by the said order
+of the AAAR, the applicant filed a Writ Petition No.3842 of 2021 before the Hon'ble
+Bombay High Court. The Hon'ble Bombay High Court vide its order dated
+16.7.2025 remanded back the matter to the AAR directing the AAR to consider the
+additional evidences in the form of Chartered Engineer’s Certificate and customers
+certificates and decide the issue afresh. They directed to allow the petitioners to
+produce additional evidence if any and allow the respondents to lead evidence if
+they choose to. Accordingly, the Hon'ble High Court directed the AAR to decide
+the matter afresh.
+
+5.2. With regard to the classification of ElectroInk, we find that the applicant is
+supplying printing ink along with various consumables which includes imaging
+products, accessories and operator maintenance parts to its resellers. As per the
+agreement between H.P. India Sales Pvt. Ltd ie. the applicant and its reseller i.e.
+M/s. Redington (India) Ltd, dated 19.7.2013, the imaging products means
+ElectroInk, photo imaging plates, binary ink developer (BIDs), printing blankets,
+recycled agent, imaging agent and imaging oil. The applicant provides these
+products to the resellers who in turn supply the said goods to the end
+user/customer i.e. the Printing Press who use these products for the purpose of
+offset/commercial printing on HP Indigo Printing presses.
+
+5.3. The applicant has stated that they import these products and the same are stored in
+
+their Mumbai warehouse from where they are delivered to their resellers in Gujarat,
+
+Punjab and Tamilnadu under Delivery Challans. The said goods are then resold by
+
+e resellers to the customers. The resellers have contract/agreements with their
+mers and the goods are supplied under the said agreement to the customers.
+
+stomers use these products in the HP Indigo Presses. The billing for the goods
+
+x eS = i id on ‘per click basis’ calculated on monthly basis depending on the series of
+fi :
+
+Cis eS digo Press machine pertaining to which the goods are supplied, number of clicks
+R
+
+and the type of print performed. Accordingly, a monthly statement of the clicks per
+
+Page 29 of 51
+M/s. HP India Sales Private Limited/38/2017-18
+
+
+
+customer of the reseller is collated and the consolidated invoice for the click charges
+of the reseller is raised. The reseller raises an invoice on each of the end customer
+
+based on the contractual agreement between the reseller and the end customer.
+
+5.4. Some of the relevant clauses of the Contract between the applicant and the reseller
+
+is as under: -
+
+B.
+1. H.P appoints reseller an authorized, no exclusive reseller for the purchase and resale of
+supplies, subject lo the terms and conditions of the agreement,
+3. The Supplies are being acquired by the reseller solely for the resale to customers as
+standalone items for the sole purpose of printing goods for commercial use and shall not be
+otherwise tised or disposed of by the Reseller. HP will not be deemed a party to any
+agreement between the Reseller and subsequent purchaser or customer.
+C.3. Purchase of Supplies by Reseller shall be subject to either the Tier or A La Carte
+Programs set forth in Sections G and H below, and their respective terms and conditions.
+Reseller may elect to purchase supplies for the different Indigo Press Product Lines under
+different programs, provided that Reseller shall purchase all of the supplies required by it
+
+for each Indigo Press Product Lines under the same Supplies purchase program.
+
+This clause signifies the fact that the reseller has the option to purchase the
+goods under different programs i.e. Tier or A La Carte. However, if he chooses a
+particular program for any Indigo Press product line, he has to purchase all the
+supplies for the said product line under the same purchase program. The various
+Indigo Press Product Lines as disclosed in the Appendix B of the agreement is HP
+Indigo 3000, 30500, 3500, ultrastream, HP Indigo 4000, 4050, 4500, HP Indigo 5000,
+5500, HP Indigo 6000, HP Indigo 7000 and HP Indigo 10000. Thus, there is an option
+for the reseller to purchase the supplies under the Tier Program or the A La carte
+Mode. As per the agreement, Tier Program means the supplies purchase program
+under which the reseller shall be charged for supplies which shall be a function of
+the number of print impressions. A La Carte program means that the reseller can
+order individual items as per the requirements and the payment for the same shall
+be based the list price of the said items.
+
+Clause H: - A La Carte Program for purchase of Supplies
+
+. To the extent Reseller has elected to purchase Supplies under the A La Carte
+Program, Customer shall be entitled to order Supplies from HP at the Net Reseller
+Price based on the discount rate set forth in Appendix D Hereto. HP may change
+list prices or discounts every calendar quarter with effect sixty (60) days following
+written notice to Reseller.
+
+All Supplies shall remain the property of HP until delivery for such supplies is
+affected by HP in accordance with the terms of this agreement.
+
+. HP Shall issue an invoice following Delivery of supplies to Reseller. Charges shall
+be paid monthly, within 30 days from the date of invoice issued by HP to Reseller
+
+Page 30 of 51
+M/s. HP India Sales Private Limited/38/2017-18
+
+
+or if notified in writing by HP, based on the HP standard payment terms applicable
+in the territory.
+
+4. Asa pre-condition lo joining the A La Carte Program or to including specific Indigo
+Press under the A La Carte Program, all Indigo presses which belong to the Indigo
+Press Product Lines and which are operated by either the reseller and/or it
+customers must be included under the A La Carte Program.
+
+The word Supplies for the purpose of the agreement has been defined under
+Clause A (17) as imaging products and operator maintenance pars required for the
+operation of the Indigo Presses. From the above clauses, it is clear that all the
+supplies ie. Hlectrolnk, Photo Imaging Plates, Binary Ink Developer, Printing
+blankets, recycled agent, imaging agent and imaging oil etc. can be procured under
+the A La Carte Program. However, purchase of the said items individually is highly
+restricted by the clause which states that all the presses under the reseller which
+belongs to the Indigo Press Product Lines must follow the same A La Carte Program.
+Thus, the end customer is left with no option but to buy the products under the Tier
+Program unless the customer agrees to pursue the A La Carte Program for all the
+presses under its control and use, thereby restricting the use of this program.
+
+Clause G: TIER PROGRAM FOR PURCHASE OF SUPPLIES BY RESELLER
+
+1. Definitions: a) Click means a chargable unit for a single-color separation transferred
+onto substrate, except in the case of textured effect printing, where it is the action
+of texturing by applying pressure between the substrate and the mold. A click unit
+may vary depending on the press model.
+
+2. To the extent Reseller has elected to purchase Supplies under the Tier Program, HP
+Shall provide Reseller with ail its and /or its Customer’s needs for supplies for use
+solely on any Indigo Press(es) owned by the Reseller or its Customers belonging to
+the Indigo Press Product Line(s) specified in the Order, to the extent that such needs
+do not exceed HP’s Maximum Usage Per Impression of Supplies (as defined and
+updated from time to time on the myindigo portal).
+
+3. Supplies shall remain the property of HP until utilized in the Presses. HP retains |
+a security interest in all supplies until HP receives payment for the same. In
+addition, upon first request by HP, Reseller will take all step necessary to register a
+security interest or lein in favor of HP in the Supplies. Reseller acquires the
+Supplies for its Customer’s own use only and may not sell or otherwise transfer
+such Supplies to any other third party.
+
+4. HP shall have the right, at its discretion, to recovery Supplies on hand at Reseller’s
+
+site in excess of its and its customers aggregate two months requirements based on
+
+the Maximum Usage per Impression for Reseller and its Customers, or delay
+delivery to Reseller of additional Supplies beyond the amounts in excess of fwo
+months requirement based on maximum Usage per Impression for Reseller and its
+
+*}} Customers. Cost of recovery of supplies ordered in excess shall be borne by Reseller.
+
+$f Items ordered in excess of HP Indigo’s Supplies Usage Guidelines shall be
+
+charged and billed to Reseller at HPs then current standard list price less
+
+Reseller’s applicable discount rate.
+
+8. Asa precondition to joining the Tier Program or to including a specific Indigo Press
+under the Tier Program, all Indigo presses which belong to the Indigo Press Product
+Lines and which are operated by either the reseller and/or its customers must be
+included under the Tier Program.
+
+Thus, it can be seen from the above clauses that as per the usage of the
+
+customer, the tier level of the customer is determined. Further, under the tier
+
+ae Page 31 of 51
+M/s. HP India Sales Private Limited/38/2017-18 _
+
+
+
+program, only the quantity which does not exceed the maximum usage per
+impression of supplies policy of HP can be purchased by the reseller, thus restricting
+the purchase of the said supplies, as per the pre-determined usage policy of the
+applicant. Keeping in mind the aforesaid clauses, we now proceed to examine the
+issue raised by the applicant to determine the classification of the supplies of
+ElectroInk and other imaging products provided by the applicant to the reseller.
+
+5.5 The basic question to be decided in this matter is whether the supplies of the goods
+such as ElecgtroInk, Photo Imaging Plates, Binary Ink Developer, Printing blankets,
+recycled agent, imaging agent and imaging oil etc. by the applicant to the reseller
+can be considered to be a Composite Supply. The term ‘composite supply’ has been
+defined under Section 2(30) of the CGST Act, 2017 as under: -
+
+“Composite supply” means a supply made by a taxable person to a recipient consisting
+of two or more taxable supplies of goods or services or both, or any combination thereof,
+which are naturally bundled and supplied in conjunction with each other in the
+ordinary course of business, one of which is a principal supply.
+ILustration- Where goods are packed and transported with insurance, the supply of
+goods, packing materials, transport and insurance is a composite supply and supply of
+goods is a principal supply.
+We find that the following conditions have to be met by any supply of goods or
+services in order to be considered as a composite supply.
+i. The supply should be made by a taxable person to a recipient.
+ii. The supply should be taxable supplies of goods or services or both, or any
+combination thereof.
+iii. It should be naturally bundled.
+iv. It should be supplied in conjunction with each other.
+v. The Supply should be in the ordinary course of business
+vi. One of the supplies should be a principal supply.
+In order to examine whether the goods supplied by the applicant can be
+considered to be a composite supply, we have to examine whether the goods
+
+supplied by the applicant fulfils all the conditions, as enumerated above, to qualify
+
+composite supply.
+upply should be made by a taxable person to a recipient: - In the instant case,
+d that the supply of the goods are made by the applicant, who is a taxable
+
+n to their reseller and from the documents submitted, it is seen that M/s.
+
+5.7 The supply should be taxable supplies of goods or services or both, or any
+
+combination thereof:
+
+Page 32 of 51
+M/s. HP India Sales Private Limited/38/2017-18
+
+
+In the instant case, the goods supplied are Printing Inks, Blanket, Photo Imaging
+Plates, Other Machine Products (Miscellaneous), BID-Binary Ink Developer, OIL,
+Blanket Web and other consumables. These goods are taxable goods under the GST.
+
+5.7.1 The goods should be naturally bundled:
+The CBIC flyer lays down certain guidelines to determine whether the goods
+or services are bundled in the ordinary course of business and whether they
+are naturally bundled. It states as under: -
+
+Whether services are bundled in the ordinary course of business would depend upon
+
+the normal or frequent practices followed in the area of business to which services
+
+relate. Such normal and frequent practices adopted in a business can be ascertained
+from several indicators some of whch are listed below —
+
+* The perception of the consumer or the service receiver. If large number of service
+receivers of such bundle of services reasonably expect such services to be provided
+as a package, then such a package could be treated as naturally bundled in the
+ordinary course of business.
+
+* Majority of service providers in a particular area of business provide similar
+bundle of services. For example, bundle of catering on board and transport by air
+is a bundle offered by a majority of airlines.
+
+* The nature of the various services in a bundle of services will also help in
+determining whether the services are bundled in the ordinary course of business.
+If the nature of services is such that one of the services is the main service and
+
+the other services combined with such service are in the nature of incidental or
+ancillary services which help in better enjoyment of a main service.
+
+For example, service of stay in a hotel is often combined with a service or laundering
+of 3-4 items of clothing free of cost per day. Such service is an ancillary service
+to the provision of hotel accommodation and the resultant package would be
+treated as services naturally bundled in the ordinary course of business.
+
+* Other illustrative indicators, not determinative but indicative of bundling of
+services in ordinary course of business are - - There is a single price or the
+customer pays the same amount, no matter how much of the package they
+actually receive or use.
+
+~ The elements are normally advertised as a package. ~ The different elements —
+are not available separately.
+
+~ The different elements are integral to one overall supply — if one or more is
+removed, the nature of the supply would be affected.
+
+“No straight jacket formula can be laid down to determine whether a service is
+
+naturally bundled in the ordinary course of business. Each case has to be
+individually examined in the backdrop of several factors some of which are outlined
+
+above.”
+
+Page 33 of 51
+M/s. HP India Sales Private Limited/38/2017-18
+
+
+
+5.7.2 In order to examine whether the goods are naturally bundled, it is necessary to
+identify the various goods which are bundled together. It is seen that the
+applicant is supplying ElectroInk, Photo Imaging Plates, Binary Ink Developer,
+Printing Blankets, Imaging Oil, Blanket Web and other machine products
+termed as Operator Maintenance Parts in the definition of Supplies as per the
+agreement with the reseller i.e. Redington India Ltd. Further, from the
+Chartered Engineer’s Certificate submitted by the applicant, it is seen that the
+List of Other Machine Products are as under:
+
+S.No. | Other Machine Products
+1 Imaging Agent
+
+2 Recycling Agent
+
+3 PLP Under layer
+
+6 Bobbin Wire
+
+7 Impression Paper Film
+
+8 Cleaning Station Wiper
+
+9 Suction Cup
+
+10 Sponge Roller
+
+11 Kit Gasket
+
+12 Charge Roller
+
+13 Gripper Clamp Assembly
+14 BCS Film Roll
+
+The word, naturally bundled, has not been defined under the GST Act.
+As per the GST Flyer on Composite supply, the concept of composite supply
+under GST is identical to the concept of naturally bundled services prevailing
+in the erst while service tax regime. This concept has been explained in the
+Education Guide issued by CBIC in the year 2012 as under - “Bundled service’
+means a bundle of provision of various services where in an element of
+provision of one service is combined with an element or elements of provision
+of any other service or services, An example of ‘bundled service’ would be air
+transport services provided by airlines wherein an element of transportation
+of passenger by air is combined with an element of provision of catering
+service on board. Each service involves differential treatment as a manner of
+determination of value of two services for the purpose of charging service tax
+is different.” The rule is - ‘If various elements of a bundled service are
+naturally bundled in the ordinary course of business, it shall be treated as
+
+provision of a single service which gives such bundle its essential character’.
+
+5.7.3 In the instant case, two or more taxable goods are being supplied to the reseller
+under a contract and the billing for the same is done for the entire bundle of
+
+goods, it can be said that the goods are being supplied in a bundled manner,
+
+Page 34 of 51
+M/s. HP India Sales Private Limited/38/2017-18
+
+
+
+The term ‘naturally’ has not been defined under the GST Act. Therefore, it is
+
+necessary to find out the meaning of the term ‘naturally’ as is known in the
+
+general parlance. The dictionary meaning of the term ‘naturally’ is as under:
+As per Merriam Webster
+
+1. By Nature: By natural character or ability.
+
+Naturally timid.
+2. According to the usual course of things; as might be expected.
+
+3. a: without artificial aid.
+
+4. With truth to nature: realistically
+
+5. Without special intervention: in a natural manner.
+As per English Oxford Dictionary.
+
+1. Inanormal manner; without exaggeration or effort.
+
+2, Act naturally.
+
+5.7.4 From the aforesaid meaning of the word naturally and applying its meaning to
+the present context, we find that the goods should be bundled in such a
+manner that the bundle of goods aids in the activity of printing, bundling
+within itself, all the components necessary for the said purpose. Nothing more
+
+or nothing less shall be permissible as incorporation of anything in addition to
+that which is absolutely necessary or anything short of what is necessary for
+
+the printing process on the printing presses of the customer would render the
+
+bundle as an ‘artificial’ or a ‘special’ bundle, which has been done for the
+
+specific purpose of the seller, to achieve sales of particular products by
+forcefully bundling the same in a package. Such a package would normally be
+
+sold to the customer, who do not have much choice but to accept the bundle
+
+as a whole, even though some elements might not be absolutely necessary for
+
+the purpose in hand or might be available from elsewhere. On going through
+
+the agreement between the reseller and the applicant and the submissions
+
+made by the applicant, it is seen that certain types of Inks such as White,
+
+Fluorescent (Pink/yellow/orange/ green), Transparent Ink, Vivid (Pink &
+Green), Light Cyan and Light Magenta, Silver and UV (yellow/blue) are not a
+part of the Click Tier Model and therefore also not a part of the bundle
+
+Supplied by the applicant. Further, from the Appendix D to the agreement, it
+seen that certain type of machine parts such as Topaz, 10%, Topaz, 17%,
+phire Indicator, Saphire Solution, MKT 051251, Custom Special Ink Series
+Il, HP EI Inv. Red for WS4600 and HP EI Inv. Red Cali for W54600 are also not
+part of the said bundle. We have also gone through the Chartered Engineers
+Certificate. In the said certificate, it is stated that all the consumables
+mentioned in the said certificate are consumed together at the time of printing
+and are an integral part of the HP Indigo Printers. There is no doubt that a lot
+
+of consumables will be consumed in a printing press. The Printing Machine
+
+Page 35 of 51
+
+M/s. HP India Sales Private Limited/38/2017-18 yf
+
+
+itself will be an integral part of the printing process. Similarly, the Other '
+Machine Products such as PIP Underlayer, Filters, Kit Grid Scorotron, Suction
+Cup, Bobbin Wire, Suction Cup, Kit Gasket, Gripper clamp assembly etc., are
+parts of the machine which aids in the printing process. They cannot be termed
+as consumables which are used in the offset printing process in the same
+manner as printing ink, blanket, photo imaging plate, binary ink developer,
+imaging oil etc. They perform a different function as part of the offset printing
+machine setup. In fact, we find that the said machine products have been
+added as a part of the bundle, in an artificial manner and as a special packaging
+where the customer does not have any choice but to accept the bundle as
+presented by the applicant. One of the criteria laid down by the CBIC for
+determining whether any supply is ‘naturally bundled’ is to ascertain whether
+the elements are integral to the overall supply. We find that certain machine
+parts supplied in the bundle are not integral or part of consumables for
+printing but are machine parts used on the machines during the time of
+printing. Further, certain printing inks which are also necessary in an offset
+printing press and certain other operating parts have been excluded from the
+package. It is not the case of the applicant that these inks and parts are not
+necessary for the purpose of printing and therefore, exclusion of these inks also
+point to the fact that the bundle of goods supplied by the applicant is not
+naturally bundled but an artificial bundling or a special bundling created by
+the applicant.
+5.7.5 We find that the applicant has submitted and relied upon
+certificate/declaration submitted by the customers who use these bundled
+goods in their printing presses. They have submitted certificates from Matha
+Digital Colour Lab dated 9.2.2019. In the said certificate, the customer
+confirms that certain types of inks which are required by them in the offset
+printing process are not covered under the click model and the same has to be
+procured by them from the reseller under the A La Carte model as per
+requirements. Further, the said customer also states that similar bundles
+under the click models are also supplied by other companies. However, the
+said certificate does not disclose the components and inks supplied in the said
+package by other suppliers and whether such bundles include ‘other machine
+products’ as a part of the bundles and whether certain types of inks used by
+them have to be procured additionally, which is not a part of the click model.
+
+We find that the click model is a pricing mechanism being operated by
+suppliers of offset printing consumables and printers who combine certain
+
+goods and sell them as a package to the customers. Each printing product
+
+Page 36 of 51
+M/s. HP India Sales Private Limited/39/2017-18
+
+
+
+supplier company creates its own package, specific to the needs of the
+customers and the type of printing presses operated by the customers and the
+type of products available with them. Such bundles cannot be stated to the a
+naturally bundled package but a specially bundled package, which is based on
+certain usage parameters, the pricing patterns of the individual products and
+also based on the availability of supplies with a particular printing supply
+reseller/company. Such a bundle cannot be termed as naturally bundled
+goods. In the instant case, we find that the customer is having an option either
+to purchase the goods separately under the A La Carte Model or to purchase
+the bundle of goods under the ‘click model’ and the remaining supplies under
+the A La Carte model. Thus, the consumer views these models under the lens
+of pricing of the goods and he chooses whichever is most economical to him.
+It does not lead any evidence to the perception of the consumer that this is the
+industry norm but speaks of availability of the goods, either separately or ina
+bundled form on per click / per print basis. The intention of the consumer is
+to procure the goods required by him for his business in the most economical
+and cost-effective manner and not to procure all the electroink and consumable
+at one place for use in printing machines as argued by the applicant. In pursuit
+of this objective, he opts either for the A La Carte Model or the Click Model.
+5.7.6 We further find that the Chartered Engineer in his Certificate dated 11.2.19
+states as under: -
+“Accordingly, we are of the view that all the consumables shall be required to be
+supplied as a bundle to the customer to enable the customer to achieve the print.“
+Such a statement in the said Certificate is not logical in the sense that
+applicant itself provides an option to the customers to purchase all these goods
+in an A La Carte Mode and therefore, requirement of supplying them as a
+bundle to the customer to enable him to achieve the said print is not essential,
+unnecessary or only optional. Just because all the consumables are required to
+
+be consumed together at the same time for effecting the desired output does
+
+4hundle form is a naturally bundled package. It is not the case that no other
+2)
+
+@4mponent or consumable will be required other than that is in the bundle
+
+pplied by the applicant to achieve the printing process. This package may
+
+able the said process to a large extent but it is nothing but an artificial or
+
+5.7.7 We further find that the applicant has relied upon industry literature to
+demonstrate that the ‘click model’ is the standard industry practice for supply
+of consumables for digital presses, both in India and globally. They have
+
+Page 37 of 51
+M/s. HP India Sales Private Limited/38/2017-18 i
+
+
+argued that this demonstrates that other suppliers also supply consumables as
+a bundle and charge of a per click model. They state that this satisfies the
+CBEC indicator that ‘majority of service providers in a particular area of
+business provide similar bundles. We find that the industry write-ups
+provided and the customers declaration only prove that the industry uses the
+click models and provides the consumables as a bundle, But this does not
+mean at any goods, sold as a package, for which a ‘click model’ pricing is
+charged would be considered as naturally bundled. In fact, the ‘click model’
+is a pricing model where the supplier's package certain consumables and
+charge a fixed price on the basis of the cost per print. It does not demonstrate
+the natural bundling of these goods, supplied by the applicant to its reseller.
+Each supplier may create a package of goods for the click mode! but it does not
+mean that the said package of goods is ‘naturally bundled’. Each such model
+of bundling will have to be examined separately to identify whether the said
+bundling can be treated as supply which is naturally bundled. Rather, in
+practice, such supply by the applicant shows a bundling of goods in a
+‘special’ / ‘specific’ / ‘artificial’ bundling of goods and charging for the same on
+a ‘click model’ basis, We find that this is not the case of bundling of goods and
+services such as Hotel room accommodation and Food served by various
+Hotels. Such practice is universally followed by the industry as a norm.
+Similarly, food served to passengers on an Airplane is also an industry
+practice. However, in order to qualify as a composite supply, the bundling
+should be natural and such natural bundling should be the industry norm. The
+applicant has failed to demonstrate that the entire industry packages the
+bundles in a similar manner, leaving out certain types of inks and components
+and adding machine parts as part of the package. Such a packaging is nothing
+but an artificial bundling of goods and a package of goods which is more
+appropriately akin to mixed supply of goods.
+5.7.8 We further find that CBIC in its flyer mentions one of the indicators to
+determine whether the supplies are naturally bundled is that the elements are
+not available separately. The Agreement between the applicant and reseller
+mentions that if a customer so chooses, he can purchase the goods separately
+and then he will not be eligible to ayail the click model for purchase of the said
+goods. This demonstrates that the customer can opt for A La Carte Model and
+
+purchase these goods separately and does not have to follow the method of
+buying the goods ina bundle. In sucha scenario, he will have to pay separately
+for each of the products so purchased by him. Thus, these goods are available
+separately also under the A La carte Model. Thus, the only difference in
+
+Page 38 of 51
+M/s. HP India Sales Private Limited/38/2017-18
+
+
+
+procuring these goods is the pricing - there is a fixed price per print for the
+click model OR the price of the consumables has to be paid independently for
+each of the goods purchased irrespective of the number of prints achieved.
+Thus, it is nota case that the goods are not available separately and can only
+be purchased in a bundle.
+5.7.9 One another indicator whether the goods supplied are naturally bundled in the
+ordinary course of business is that the consumer will pay the same price
+irrespective of the quantity of the goods he receives or uses. In the instant case,
+it is seen that there is a Maximum Usage Limit laid down in the agreement.
+Clause G (2) of the agreement mentions that the reseller has elected to purchase |
+the supplies under the tier program, the applicant shall provide reseller with
+all its needs for supplies for use solely on the Indigo presses to the extent that
+such needs do not exceed HP’s maximum Usage Per impression of Supplies.
+Failure to comply with this requirement may result in the applicant modifying
+its pricing. Further, the agreement between the Reseller and the customer in
+Clause 2 specifies that the supplies will be provided to the extent that such
+needs do not exceed HP-Indigo’s maximum usage per impression. The usage
+of the supplies shall be monitored on a monthly basis. In case the supplies
+usage exceeds the maximum usage per impression the customer will be
+provided 3 months period to improve the usage. If the usage does not improve
+within this period, the price of the consumables, operator maintenance parts
+etc., consumed in excess shall be recoverable or the click charges will be
+increased to recover the costs. This demonstrates that the limited quantity of
+bundled goods only will be supplied and if the usage exceeds the policy set
+down by the applicant, extra charges will be recovered. Thus, it is seen that
+the customers do not have the option of a fixed price for the bundle,
+irrespective of the quantity used.
+5.710 One another indicator of naturally bundled goods is the consumers
+
+perception / expectation of the said goods being available as a bundle and
+
+not available separately. In the instant case, it is a fact that the goods are
+being supplied by the applicant in a bundled manner. However, the —
+customer has the option to purchase the goods in the bundle or separately as
+an A La Carte Model. They can choose between the two models based on
+their own costing and pricing decisions. Therefore, the perception of the
+customer is that the goods can be procured either separately or in a bundled
+manner. It is not the case that the customer demands a click model and would
+
+not buy these goods separately. They have the option to buy the same
+
+Page 39 of 51
+M/s. HP India Sales Private Limited/38/2017-18
+
+
+
+separately also. Further, the components of the bundle itself is of significance
+to establish whether the goods are naturally bundled.
+
+5.7.11 We find that the goods supplied by the applicant in a bundled manner cannot
+be termed to be naturally bundled as envisaged under the definition of
+Composite Supply. The goods are in fact specifically bundled as per the
+package designed by the applicant, leaving the option to the buyers to either
+go for the A La Carte Model or the Click Model, whichever is convenient or
+cost effective for their purposes. Such a bundling cannot be treated as
+naturally bundled but as a specific bundling/ artificial bundling of various
+consumables such as inks, other consumables and machine parts by the
+applicant. Itis only when there is an integrated nexus between the supply of
+two goods in such a manner that the supply of one good becomes a necessary
+concomitant for the supply of other goods. In such cases, the supply of such
+goods would be treated as being bundled in the ordinary course of business.
+In the instant case, there is no such integrated nexus or situation where
+printing ink cannot be supplied but with those consumables, Printing Ink
+can be supplied separately and is being supplied separately. Similarly, all
+other components can be supplied separately and there is no necessity that
+the said goods should only be supplied in a bundle. We find that it is not the
+case in hand that consumables are so integrated that they cannot be sold,
+except in conjunction with each other.
+
+5.8 The goods are supplied in conjunction with each other: - The applicant has argued
+that the click model represents the standard and predominant method of supply for
+the applicant and nearly 99% of customers utilize the click model. However, this
+does not establish that such a supply is the norm as argued by the applicant. The
+customers prefer the most cost-effective model of purchase of their inputs. Since
+they find the said model most cost effective and since the customers are ‘captive
+customers’ who have to purchase H P consumables for use in HP Indigo Printing
+Presses, they have no option but to purchase the consumables and other goods, in
+
+whatever manner in which it is made available to them by a monopolist supplier.
+
+5.8.1 The applicant has argued that the supplies are received by the reseller as a
+
+provided delivery challans to prove that the goods are delivered in a bundle
+at the same time to the reseller or to the customers. The Applicant have
+
+themselves agreed that the consumption of the goods have their own
+
+Page 40 of 51
+M/s. HP India Sales Private Limited/38/2017-18
+
+
+
+timelines. The inks may be supplied after 1000 Clicks while the other
+consumables like Imaging Plates may be replaced after 2000 Clicks. Thus, even
+though the goods are sold under one pricing model, where the entire bundle
+of goods are charged at a common derived pricing based on number of
+prints/ clicks, physically, the goods are not delivered at the same point of time.
+They are delivered across the time periods and the billing is done on the basis
+of consumption during periodic intervals. As mentioned hereinabove, each
+component mentioned by the applicant to be present in the bundle of goods
+supplied, have different life spans in the printing process. Ink has to be
+supplied many times, while other components are replaced only after much
+higher usage. Machine Parts supplied along with consumables may have a
+different life span and method of usage. Therefore, the argument that the
+bundled supply of goods is made at the same point of time and is not split over
+different period of time periods is not proper. The billing process considers
+the value of the goods on the basis of a common matrix of number of clicks
+and the Tier level. Thus, it bills the consumption of the goods on a
+proportionate basis. For example, when an imaging plate is being used, it is
+possible that during the billing period only half of the life span of the plate is
+completed and the remaining half will be billed only in the next billing period.
+5.8.2 We also find that some of the goods in the bundle such as other machine parts
+are not similar to the consumables such as ink and imaging plates contained in
+the bundle. In fact, such machine parts are parts of printing machine, which
+may have to be replaced periodically, due to higher wear and tear. However,
+they cannot be considered to be consumables in the printing process. The
+printing process described by the Chartered Engineer does not provide any
+role to such other machine parts in the normal printing process
+5.9 One of the goods in the bundle must be the principal supply: - The CBIC flyer
+mentions that in the case of naturally bundled supply, one of the supplies will be
+the principal supply and the other elements supplied will be ancillary to the
+principal supply. All the illustrations mentioned in the CBIC flyers clearly
+demonstrate this concept of principal supply and ancillary supply.
+5.9.1 We find that the applicant has argued that the ElectroInk is the principal
+
+component of the supply, and the remaining consumables just aid in
+placement of the ink on the paper to affect the desired printout. They have
+so emphasized that the ElectroInk is the most consumed in terms of volume,
+hich is 41% of all the items consumed, supplied in the bundle. The applicant
+has also submitted a Chartered Engineer’s Certificate and argued that the
+Chartered Engineer’s Certificate explains the technical process of HP Indigo
+
+Page 41 of 51
+M/s. HP India Seles Private Limited/38/2017-18
+
+
+
+Press, confirming that printing cannot be achieved unless all these items are
+present and used together as prescribed. The printing process demonstrated
+
+by the Chartered Engineer is as under: -
+
+Ink Stored in the Cartridges in concentrated form
+
+¥
+
+Move to the BID where the ink is developed to make it ready for prints
+
+a
+
+Ink from BID is flowed on the imaging areas of the PIP where the negative of
+the image to be printed.
+
+4
+
+The ink on the PIP is transferred to the Blanket
+
+4
+
+The Blanket moves the ink on the substrate (paper) on which it is to be printed.
+
+5.9.2 We find that the Chartered Engineer has demonstrated not the printing process
+but the flow of the Electro Ink in the printing process. This appears to have
+been done to demonstrate and highlight the use of ink and to attempt to
+establish the pre-dominance of Ink in the printing process. However, as per
+the applicants own submission, the printing process is as under: -
+
+The HP Indigo Printing engine perform the following operations sequentially:
+1, Electrostatic Charging, of the electrophotographic Photo Imaging Plate
+(PIP) which is mounted on the imaging cylinder.
+
+. Exposure of the PIP by a scanned array of laser diodes, These lasers are
+
+controlled by the raster image processor which converts instructions from
+
+a digital file into ‘Power’ instructions for the lasers.
+
+. Image development performed by the Binary Ink Developer (BID) Units.
+
+. Discharging the PIP in preparation for transfer.
+
+. ‘Transfer of inked image to the blanket cylinder
+
+. Heating of inked image carried by the blanket forming the final image in
+form of a thin tacky film
+
+7. Complete transfer of the final image to the substrate held by the
+impression cylinder and
+
+8. Removal of any residual ink and electrical charge from the PIP cooling of
+the PIP after engagement with the hot blanket.
+
+Page 42 of 51
+M/s. HP India Sales Private Limited/38/2017-18
+
+
+
+When the process as explained in the writeup provided by the applicant
+
+. regarding the printing process of a HP Indigo Press is compared with the
+process mentioned by the Chartered Engineer, it is clear that the process
+mentioned by the Engineer is a feeble attempt to establish that the entire
+printing process is dependent on the printing Ink and that it is playing the
+predominant role in the entire process. However, we find that all the elements
+supplied such as PIP Imaging Plates, Binary Ink Developer, Blanket, Blanket
+Web, Printing Ink etc., play an equally important role in the printing process.
+One element cannot be picked up and held to be the principal supply. The
+Chartered Engineer in his Certificate testifies as under: -
+
+“Functionally the print shall not be available to the customer unless all the goods
+
+are used in the prescribed manner to take the print out.
+
+To conclude, all Indigo Press Consumables are necessarily required to be
+
+consunied together at the same time for effecting the desired output.”
+
+Thus, it is clearly revealed from the printing process as given in the
+writeup regarding HP Indigo Press printing process and the aforesaid
+statement of the Chartered Engineer that all the printing consumables
+comprising of Electroink, blanket, Photo Imaging Plate, binary ink Developer,
+Blanket Web etc., are equally important and indispensable for the printing
+function of the indigo presses. It is seen that there is no single element in the
+bundle of goods supplied which is more significant or pre-dominant that
+others, thus ruling out the possibility of any element or goods being the
+principal supply. Further, it is seen that none of the goods in the bundle can be
+treated as an ancillary item, as all the components are indispensable in the
+printing process and are not superior or subordinate in nature. Every item is
+providing a specific function and each function is indispensable and integral
+to the printing process. In the absence of any one of the elements in the bundle,
+(except for some operator maintenance parts), the printing process can stall,
+which clearly shows the importance of each of the components of the bundled
+goods.
+
+5.9.3 One of the primary requirements for any supply to be treated as a composite
+supply is that one of the supplies in the composite supply shall be the principal
+supply and the other supplies shall be ancillary to the said principal supply.
+The illustration provided under Clause (3) of Section 2 of the CGST Act, 2017,
+states as under_
+
+Illustration— Where goods are packed and transported with insurance, the supply
+of goods, packing materinis, transport and insurance is a composite supply and
+
+supply of goods is a principal supply.
+
+Page 43 of 51
+Mjs. HP India Sales Private Limited/38/2017-18
+
+
+It is clearly seen from the aforesaid illustration that the supply of the goods is
+the principal supply and there will be no need of the use of transport or
+insurance service if no goods are supplied. Thus, in the absence of any
+principal supply, there will be no ancillary supplies and, in such cases, the said
+supply shall not be considered as a composite supply. When we apply the
+same concept in the instant case before us, we find that there are no single
+goods in the bundled package which can be treated as a principal supply. All
+the consumables are equally important for the printing process and none of
+the consumables can be treated as ancillary to any of the other. All these goods
+can be supplied independently to the customer and it would not affect the
+printing process. There is no compulsion that the Photo Imaging Plate should
+be supplied along with the printing ink or that supply of printing ink would
+become useless unless it is supplied along with a Photo Imaging Plate or
+Binary Ink Developer. Those items can be procured independently and used
+in the printing presses. In fact, the applicant themselves provide such an
+
+option to the customers.
+
+5.9.4 To support their claim, the applicant has cited various illustrations mentioned
+in the CBIC Flyers and Circulars in respect of composite supply. One such
+illustration is as under: -
+If the nature of services is such that one of the services is the main service and the
+other services combined with such service are in the nature of incidental or
+ancillary services which help in better enjoyment of a main service. For example,
+service of stay in a hotel is often combined with a service or laundering of 3-4
+items of clothing free of cost per day. Such service is an ancillary service to the
+provision of hotel accommodation and the resultant package would be treated as
+services naturally bundled in the ordinary course of business.
+In the aforesaid illustration, it is clear that hotel accommodation is the main
+and principal supply whereas supply of food, laundry etc., is the ancillary
+service incidental and dependent upon the main service. However, in the
+instant case, the argument of the applicant that the Principal Supply is Printing
+Ink does not appear to be proper in view of the fact that supply of other
+
+consumables such as Photo Imaging Plate, Binary Ink Developer or blanket
+and blanket web, imaging oil etc., is not dependent, ancillary or incidental to
+the supply of printing process. ach of these goods are critical and
+compulsorily required for the printing process and is not ancillary or
+incidental or dependent on each other. Thercfore, the printing ink cannot be
+considered to be the principal supply in the instant case. In Circular
+No.32/06/2018 GST dated 1.3.2018, it was clarified by the CBIC that which
+part of the composite supply is principal supply, must be determined keeping
+
+Page 44 of 51
+M/s. HIP India Sales Private Limited/38/2017-18
+
+
+ie in view the nature of the supply involved. Value may be one of the guiding
+
+: factors in determination but not the sole factor. It was further mentioned that
+the primary question which should be asked is what is the essential nature of
+the composite supply and which element imparts the essential nature to the
+composite supply. Thus, the value or the volume of any one element in the
+bundle will not be the only determinative factor in deciding whether it is the
+principal supply. The argument of the applicant that ElectroInk comprises of
+41% of the volume of the goods consumed and therefore it is the principal
+supply due to such high consumption without establishing that the ink is
+imparting the essential nature of the supply is not proper or tenable.
+
+5.9.5 We find that the applicant has referred to Q.6, Page 26 of 34 Edition of FAQ's
+dated 15.12.2018 where an illustration of composite supply was provided as
+under: -
+
+When a consumer buys a television set and he also gets a warranty and
+a maintenance contract with the TV, this supply is a composite supply. In this
+case, the TV is the principal supply and the warranty and maintenance service
+are ancillary services. In this case the TV provides the essential character to
+the supply and the warranty and maintenance are ancillary or supportive.
+Without a TV, there is no need for providing warranty or maintenance
+services. However, in the instant case, all the components including electroink,
+PIP Imaging Plate, Binary Ink Developer, Blanket, blanket Web, ete. are equally
+important and indispensable. It is not the case that Electrolnk is the principal
+supply and since it is being supplied, the other consumables also need to be
+provided. The other components of the supply are not ancillary or incidental
+to supply of Ink. In fact, if the applicant had provided printing press along
+
+with the consumables as a package, that would have been considered a
+
+composite supply with the printing press being the principal supply and the
+tonsumables being ancillary or incidental. However, in the present bundle,
+“jpne of the elements can attain the status of principal supply nor can any
+4lement push other goods to the status of ancillary or incidental. Similar is the
+case of the illustration of Health Care Services and food and medicines
+provided with such services as mentioned in circular No 32/06/2018 GST
+dated 12.2.2018. In the said case Health care services provided Clinical
+Establishments will include food supplied to patients. Food supplied is part
+of the composite supply and Health care service is the principal component of
+the composite supply. Food supplied is ancillary to providing the healthcare
+
+and therefore the said services have been considered as composite supply.
+
+Page 45 of 51
+M/s. HP India Sales Private Limited/38/2017-18
+
+
+
+5.9.6 What we find from all these illustrations and clarifications provided by the
+CBIC and the legal enactment is that for any supply to qualify asa composite ¢ |
+supply, it must comprise of one principal supply and other ancillary supplies.
+In the instant case, merely because the volume of consumption of ElectroInk is
+highest does not establish the fact that it is the principal supply and all other
+elements or component of the bundled supply are ancillary or incidental to the
+supply of Ink. It is not possible to conclude that ElectroInk is providing the
+essential character to the bundle. The bundle of goods supplied constitutes
+various consumables, each equally important in the printing process, with no
+consumable being predominant and attaining the status of a ‘Principal
+Supply’.
+
+5.9.7 The term Principal Supply has been defined under Section 2(90) of the CGST
+Act as under:
+
+“Principal supply” means the supply of goods or services which constitutes the
+predominant element of a composite supply and to which any other supply
+forming part of that composite supply is ancillary”
+
+Thus, in order to qualify as principal supply, any goods forming part of
+the bundle has to pass the dual test of being the predominant element and also
+the test of other goods being ancillary to the said goods. In the instant case,
+even if we consider the ElectroInk being predominant in terms of volume, it
+fails the test of being the main supply and the other goods in the said bundle
+of goods are not ancillary or incidental to the supply of ElectroInk. Therefore,
+we find that Electrolnk cannot be termed as the principal supply in the bundle
+of consumables being supplied by the applicant. None of the goods supplied
+along with the ElectroInk in the bundle are ancillary to the ElectroInk and as
+
+already pointed out hereinabove, the other consumables are equally
+
+important, essential and necessary for fulfilling the function of printing. They
+cannot be termed as ancillary to the Ink. Each of the goods perform a specific
+nction as is seen from the printing process described hereinabove and
+absence of any of the consumables from the bundle may hamper the printing
+process, Therefore, we find that the said bundle of goods supplied by the
+applicant cannot be considered as a composite supply on the ground that one
+of the goods supplied in the bundle qualifies as a principal supply.
+5.9.8 Further, an ancillary supply within a ‘composite supply’ can be identified on
+
+the basis of the following factors: —
+
+a) Itis a means of better enjoying the dominant thing supplied, and is not an
+
+aim in itself for the recipient/ customer or
+b) It is necessary or contributes to the supply as a whole, but cannot be
+
+identified as the dominant part of the supply; or
+
+Page 46 of 51
+M/s. HP India Sales Private Limited/38/2017-18
+
+
+
+oe c) It contributes to the proper performance of the contract to supply the
+: dominant part;
+We find that in the instant case, all the consumables such as Photo
+Imaging Plate, Binary ink developer, Blanket, blanket web, imaging oil, etc.,
+have a specific role in the printing process. They cannot be considered to be
+ancillary to the printing ink. These components/ consumables have a distinct
+and specific role in the printing process and is not ancillary or supportive role
+to the use of printing ink. All the consumables are equally important none of
+the components contribute to the proper performance of the contract to supply
+the dominant part, It is not the case that printing ink cannot be supplied unless
+these consumables are also supplied with the ink. The very fact that other inks
+are supplied, standalone, without any consumables under the A La Carte
+Model clearly suggests that it is not necessary to supply these consumables
+along with printing ink under a contract. They do not contribute to the
+functioning of the Ink. They contribute to the entire printing process.
+Therefore, they cannot be considered as ancillary to the printing ink.
+
+5.9.9 The Hon'ble Gujarat High Court in the case of Torrent Power Ltd. Vs. Union
+of India reported in 2019 (1) TMI 1092, in para 26 clearly lays down the
+legislative intent of Mixed Supply and Composite Supply as under: -
+
+“The above illustration gives an indication of the intent of the legislature vi. It
+makes it clear that what is to be treated as ‘mixed supply; is a combination of
+supplies wherein each of the items forming part of the supply can be supplied
+separately and are independent of each other but are supplied in conjunction with
+each other. Adverting to the fact of the present case, the related supplies cannot
+be supplied separately nor are the principal supply and related supplies
+independent of each other. The related supplies are dependent on the principal
+supply of transmission and distribution of electricity and vice versa. Neither
+service can be provided independent of the other. The transmission and
+distribution of electricity cannot be done without the help of electric line, electric
+plant and electric meter and nor can the related services be used for any purpose
+other than for transmission and distribution of electricity. The principal supply
+and the relatedfancillary services go hand in hand and one cannot be provided
+independent of the other” .
+In the instant case the printing inks and other consumables can be
+
+supplied independent of each other. They can be supplied independently
+under the A La Carte Model and can be used for the purpose of printing. It is
+not necessary that the inks and consumables go hand in hand and cannot be
+provided independent of each other. The consumables are not ancillary to any
+principal supply.
+
+Page 47 of 51
+M/s. HP India Sales Private Limited/38/2017-18
+
+
+
+fs ——
+Ri STE Press Series, number of clicks and the type of print performed. The contract also
+
+TR
+
+5.10 We find that merely because certain goods are packaged or sold in a bundle for
+which a common price is charged does not by itself make supply of such goods a
+composite supply. A billing agreement to charge a single price for the entire bundle
+will not render the supply to be naturally bundled and a composite supply. In fact,
+such a supply can be considered as a Mixed Supply under the provisions of Section
+2(74) of the CGST Act, 2017. Section 2(74) reads as under: -
+
+“Two or more individual supplies of goods or services, or any combination thereof,
+made in conjunction with each other by a taxable person for a single price where such
+supply does not constitute a composite supply.
+Illustration, — A supply of a package consisting of canned foods, sweets, chocolates,
+cakes, dry fruits, aerated drinks and fruit juices when supplied for a single price is a
+mixed supply. Each of these items can be supplied separately and is not dependent on
+any other. It shall not be a mixed supply if these items are supplied separately”
+In the instant case, we find that the goods supplied by the applicant do not qualify
+as a composite supply in view of the fact that the goods are neither naturally
+bundled nor is there any specific goods which can be considered as principal supply.
+We find that it is a combination of various consumables and machine parts used in
+the printing industry being supplied for a single price. Such combination of goods
+would constitute a supply of goods which can be considered as ‘Mixed Supply’.
+5.11 In view of the above, we find that the goods supplied by the applicant cannot be
+classified as a ‘composite supply’ but it rather fulfills the conditions of ‘Mixed
+Supply’ and shall be charged to tax accordingly, as per Section 2(74) of the GST Act,
+2017, read with Section 8 of the GST Act, 2017.
+5.12 We now proceed to determine the time and value of supply of ElectroInk with the
+consumables under the HP Indigo Press Contract. On verification of the Contracts
+/ Agreements between the applicant and M/s. Redington India Ltd (the reseller)
+and the back-to-back Agreement between M/s. Redington India Ltd. and their
+asian it is seen that the applicant has contracted with the reseller to supply the
+<Brectronk and other consumables to be used by customers of HP Indigo Presses.
+A said goods are sold only for use of the customers and not for resale and the
+g for such arrangement shall be based on per click basis. The total value of the
+# pplies shall be calculated on a monthly basis depending upon the Indigo Machine
+mentions that the supplies shall remain the property of the applicant and it shall be
+passed on to the customer through the reseller only upon consumption and on
+invoicing and receipt of the payment. Further, the applicant submits that the
+supplies made by them are on continuous basis in accordance with the terms of the
+contract entered and the applicant is required to raise invoice on periodic basis. As
+
+per Section 2(32) of the CGST Act, ‘continuous supply of goods’ is defined as under:-
+
+Page 48 of 51
+M/s. HP India Sales Private Limited/38/2017-18
+
+«
+
+.
+
+
+. “continuous supply of goods” means a supply of goods which is provided, or agreed
+. to be provided, continuously or on recurrent basis, under a contract, whether or not
+by means of a wire, cable, pipeline or other conduit, and for which the supplier
+invoices the recipient on a regular or periodic basis and includes supply of such
+goods as the Government may, subject to such conditions, as it may, by notification,
+specify.
+The said provision envisages the following conditions for any supply to be treated
+as continuous supply;
+
+1. Supply of goods or services on a continuous or recurrent basis- There must be a
+supply of goods or services on a continuous or recurrent basis. The term
+“recurrent” means regularly or frequently. For example, if registered person
+supply goods to a particular customer multiple times in a month, in separate
+consignments, this would consist continuous supply.
+
+2. Under a Contract - Supply has to be under a contract. The contract need not be
+express or in writing. It may be stipulated from the conduct of the parties.
+
+3. Whether or not by means of a wire, cable, pipeline or other conduit - Though
+the statute has used terms as wire, cable, pipeline or another conduit, they are
+merely illustrative. Even if, the supplier delivers goods to the recipient through
+other means that would constitute a continuous supply.
+
+4, Supplier invoices the recipient on a regular or periodic basis - Which means,
+invoice need not be raised after every consignment. The periodic billing is
+permitted.
+
+In the instant case, we find that the goods are being supplied on a continuous basis
+in accordance with the terms of the contract and that billing for the goods is done
+on a periodic basis, On going through the agreements between the applicant and
+the reseller, it is clear that the contract is for supply of a bundle of goods on a
+continuous basis, the invoices for which will be issued periodically i.e. on the 15
+day of the end of a calendar month as per clause G (5) of the Agreement. Thus, we
+find that the supply of the goods by the applicant can be treated as a continuous
+supply of goods as envisaged under Section 2(32) of the CGST Act, 2017.
+
+5.13 Time of Supply of Goods,
+
+Time of supply of goods under the CGST Act is determined in terms of Section 12
+
+(2) of the Act. As per Section 12 (2) the Time of supply shall be: -
+
+ee ue rupees in excess of the amount indicated in the tax invoice, the time of supply to the extent
+
+Page 49 of 51
+Mjs. HP India Sales Private Limited/38/2017-18
+
+
+
+of such excess amount shall, at the option of the said supplier, be the date of issue of invoice ~
+in respect of such excess amount.
+
+Explanation 1. - For the purposes of clauses (a) and (b), “supply" shall be deemed to have
+been made to the extent it is covered by the invoice or, as the case may be, the payment.
+Explanation 2. - For the purposes of clause (b), "the date on which the supplier recetves
+the payment" shall be the date on which the payment is entered tn his books of account or
+
+the date on which the payment is credited to his bank account, whichever ts earlier.
+
+Thus, the time of supply would be the earliest date of the following:
+
+i) date on which the invoice is issued
+
+ii) Last date for issue of an invoice under Section 31
+
+iii) The date of receipt of payment with respect to the supply
+In the instant case, since the supply is a continuous supply, the provisions of Section
+31(4) relating to the date of issue of invoices in case of continuous supply becomes
+relevant. The Section 31(4) states as under:
+
+(4) In case of continuous supply of goods, where successive statements of accounts or
+
+successive payments are involved, the invoice shall be issued before or at the time each
+
+such statement is issued or, as the case may be, each such payment is received,
+As per the contract/agreement between the applicant and the reseller, it is seen that
+the applicant raises an invoice on the 15‘ day after the end of a calendar month. The
+applicant issues a detailed invoice showing the total number of clicks per customer
+of the reseller and the amount to be recovered from the reseller. Therefore, the time
+of supply in this case will be earliest date between the date of issue of invoice or the
+
+date of payment for the impugned supply, as per the provisions of section 12(2) of
+the CGST Act, 2017.
+
+5.14 Value of Supply: - We have already held that the supplies made by the applicant are
+to be treated as ‘Mixed Supply’. The supply is also a continuous supply where the
+
+applicant is issuing invoices to the reseller for the goods supplied. The invoices are
+
+hhisyjis nothing but the transaction value for the said supplies Therefore, the value
+
+: Lg the goods supplied by the applicant shall be determined on the basis of the said
+TRA ST Ly ansaction value, as mentioned in the invoice issued by the applicant as per Section
+
+15 of the GST Act, 2017,
+
+6. In view of the extensive deliberations as held hereinabove, we pass an order as follows:
+
+Page 50 of 51
+M/s. HIP India Sales Private Limited/39/2017-18
+
+
+
+a
+
+% ORDER
+s (Under Section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+
+Goods and Services Tax Act, 2017)
+NO.GST-ARA- 38/17-18/2024-25/B- 64,4 Mumbai, dt. 3>-}2. 2025”
+For reasons as discussed in the body of the order, the question is answered thus -
+Question 1: - Classification of ElectroInk supplied along with consumables under GST.
+Answer: - The supply of Electrolnk along with consumables and operator parts is a
+mixed supply as per Section 2(74) of the GST Act and will be classified as
+the supply of that particular supply attracting the highest rate of tax
+amongst all the goods in the mixed supply.
+Question 2: - Determination of time and value of supply of ElectroInk with consumables
+under the indigo press Contract.
+Answer: - The time of supply will be the date of issue of invoice or the date of receipt
+of payment, whichever is earlicr. The value of the supply will be the
+
+transaction value as reflected in the tax invoice issued by the applicant in
+
+<r (Ni
+yn
+yvore ‘
+HIMANI DHAMJJA
+(MEMBER)
+
+Copy to: -
+
+1. The applicant
+
+2. The Concerned Central / State officer
+
+3. The Commissioner of State Tax, Maharashtra State, Mumbai
+
+4. The Joint commissioner of State Tax, Mahavikas for Website.
+
+Note: -An Appeal against this advance ruling order shall be made before The
+Maharashtra Appellate Authority for Advance Ruling for Goods and Services
+Tax, 15th floor, Air India Building, Nariman Point, Mumbai - 400021, Online
+facility is available on gst.gov.in for online appeal application against order
+passed by Advance Ruling Authority.
+
+Page 51 of 51
+
+M/s. HP India Sales Private Limited/38/2017-18
+ae
