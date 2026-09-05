@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+venv/
+node_modules/
+data/*.jsonl
+data/*.json
+data/*.zip
+data/*.parquet
+data/pdfs/
+*.log
+.DS_Store
+
+# test / tooling caches
+.pytest_cache/
+
+# --- our pipeline additions ---
+# regenerable binaries (inventory keeps every source URL)
+gst-aar/data/pdfs/
+gst-aar/data/page0.png
+gst-aar/data/ocr0.txt
+# OCR benchmark env artifacts (multi-GB venvs, preview rasters)
+gst-aar/ocr-benchmark/venv-*/
+gst-aar/ocr-benchmark/preview_*.png
+gst-aar/ocr-benchmark/images/
+gst-aar/ocr-benchmark/surya-out/
+gst-aar/ocr-benchmark/surya-rest/

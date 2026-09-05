@@ -1,0 +1,69 @@
+2.8
+
+29
+
+2.10
+
+2.11
+
+In such cases, the Applicant is likely to receive requests from recipient liable to pay
+consideration i.e, parents or guardians or business enterprise to issue a valid GST
+fax E-invoices with IRN as per Notification No. 13/2020—Central Tax dated 31
+March 2020 [as amended from time to time) in the name of a registered person,
+The recipient furnishes the GSTIN and requests that the invoice be issued in the
+name of parent / guardian / business enterprise.
+
+GST law does not expressly mandate verification of the recipient's GSTIN by the
+supplier while issuing an invoice. In the absence of any specific statutory
+requirement in this regard, the supplier is generally expected to rely on the GSTIN
+as furnished by the recipient in the ord inary course of business. This implies that,
+where a GSTIN is furnished by the recipient, the supplier ts entitled to rely upan
+the same as a valld identifier for compliance Purposes, subject only to reasonable
+and prima facie verification, Such reliance would ordinarily be displaced only in
+cases of evident inconsistencies or defects, such as an invalid structure (@.2., not
+conforming ta the prescribed 15-digit format) or inactive status on the GST portal.
+While not explicitly required by law, the Applicant submits that its due diligence
+obligation is limited te verifying the active status of the GSTIN furnished through
+the GST Common Portal to ensure that such GSTIN can be reported in GST returns
+and such supplies can be classified as B27R supplies,
+
+The GST framework is a self-executing compliance system. When a registered
+
+person furnishes a valid GSTIN and requests issuance of invoice in its name, Section
+41 read with Rule 46 requires the Applicant to include such GSTIN on the tax invoice.
+No provision of the CGST Act, IGST Act, or Rules thereunder empowers or obliges
+the Applicant to refuse issuance of a B78 invoice merely on the ground that the end-
+consumer is a student,
+
+2.12
+
+On the contrary, refusal to issue a. proper tax invoice when a valid GSTIN is
+
+furnished ray itself constitute non-compliance under Section 122({1){i) of the CGST
+Act (failure to issue invoice in accordance with the Act).
+
+2,13
+
+2.14
+
+2.15
+
+Accordingly, the GSTIN provided by the recipient of services would need to be
+accepted on face value, without an obligation on the supplier to independently
+validate or authenticate it beyond reasonable due diligence, This position aligns
+with the practical challenges in real-time verification and the campliance
+framework, which primarily places the res ponsibility ta furnish correct registration
+details on the recipient themselves.
+
+The Applicant reiterates that the Applicant is engaged in provision of coaching
+services to the students and the recipient liable to pay consideration (Le. parents
+or guardians or business enterprise) are likely to provide their GSTIN for the
+purpose of invoicing along with IRN for such payment of fees
+
+As per Section 2(93)(a) of CSGT Act, a recipient of supply of services Is defined to
+mean the person who is liable to pay such consideration, where a consideration is
+payable for the services,
+
+Relevant extract of Section 2(93) of CGST Act is reproduced below:
+
+Page 6 of 24

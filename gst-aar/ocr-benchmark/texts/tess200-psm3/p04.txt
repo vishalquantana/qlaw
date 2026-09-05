@@ -1,0 +1,65 @@
+1.8
+
+1:4
+
+1.170
+
+2.1
+
+22
+
+24
+
+Upon receipt of a 15 digit active GSTIN, the Applicant is likely to issue a GST
+Campliant tax invoice capturing the GSTIN of such registered person,
+
+The Applicant determines the piace of supply for such transactions in accordance
+with Section 12(5}al of the IGST Act, 2017, treating the location of the registered
+person as the place of supply, Conseq uently, the Applicant will report all such tax
+invoices in GSTR-1 as 828 supplies and will discharge its full GST liability on every
+such transaction in GSTR-3B,
+
+This ruling pertains to determination of applicability of provisions gaverning the
+Issuance of e-involces as prescribed under Notification No. 13/2020 — Central Tax
+dated 21 March 2020 (as arnended fram time to time}. The said notification lays
+down the classes of registered Persons required to generate Invoices in a
+prescribed electronic format, along with the manner and conditions for reporting
+such invoices to the designated Invoice Registration Portal (IRP) for authentication.
+
+INTERPRETATION AND UNDERSTANDING OF APPLICANT ON QUESTION RAISED
+
+(IN BRIEF)
+Query 1—Whether Notification No. 13/2020-Central Tax dated 31 March 2020 as
+amended from time to time is applicable to the Applicant in case of supplies to
+GST registered recipient liable to pay consideration,
+
+AS per Section 31(2) of CGST Act read with Rule 46 of CGST Rules, a registered
+person supplying taxable services shall, before or after the provision of service but
+within a prescribed period, issue a tax invoice, showing the description, value,
+GSTIN of the recipient, tax charged thereon and such other particulars as may be
+prescribed
+
+Inthis context, Rule 48(4) of Central Goods and Services Rules, 2017 ("CGST Ruies”)
+prescribes that the Government shall notify such class of registered person who
+shall comply with E-invoice provision by obtaining an Invoice Reference Number
+("IRN") upon uploading information about invoices on the Common Goods and
+Services Tax Electronic Portal and capture the IRN and OR code on the body of the
+inwoice.
+
+Relevant extract of Rule 48(4) of CGST Rules is reproduced below:
+
+“{4) The invoice shall be prepared by such class of registered persons as may be
+notified by the Gavernment, on the recommendations of the Council, by inciuding
+such particulars contajaed in FORM GST INVO1 after obtaining an Invoice
+Reference Number by uploading information contained therein on the Common
+Geods and Services Tax Electronic Partal in such monner ona subject to such
+conditions and restrictions as may be specified in the notification, Provided that
+the Commissioner may, on the recommendations of the Council, by notificatior,
+exempt o person of a class of registered persons from issuance of invoice under this
+sub-rule for a specified period, subject to such conditions ond restrictions as may
+be specified in the said notification.”
+
+In this regard, the Government vide Notification No. 13/2020 — Central Tax dated
+21 March 2020 (as amended fram time to time) has notified that registered
+
+Page 4-of 24
