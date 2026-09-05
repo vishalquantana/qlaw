@@ -8,6 +8,35 @@
 
 ---
 
+## 0. IF THIS SESSION DIES — resume checklist (updated 2026-09-06 ~03:00)
+
+**In-flight background jobs at last snapshot:**
+- Vision OCR: PID 58282, ~1,362/2,888 done (`wc -l data/extract_vision_status.jsonl`)
+- Ontology LLM pass: PID 65346 (`python3 extract_ontology.py --llm`), resumable — just rerun it
+
+**If they died, resume IN THIS ORDER (all from this directory):**
+```bash
+1. ocr-benchmark/venv-tools/bin/python extract_vision.py      # resume OCR (skips done files)
+2. python3 extract_ontology.py --apply-pass1                  # only after final build_db rebuild
+3. python3 extract_ontology.py --llm                          # resumable via ontology_extracted flag
+4. python3 embed_chunks.py                                    # resumable; only needed after rebuild
+5. cd webapp && npm run dev                                   # port 3210; LM Studio must be up (:1234)
+```
+- ⚠️ DISK WAS AT 6.5 GiB FREE — check `df -h /System/Volumes/Data` FIRST. Do not start
+  bulk jobs below ~10 Gi. Old PDFs/texts can be pruned only with user approval.
+- ⚠️ Do NOT run `build_db.py` casually — it deletes aar.db (chunks + ontology tables
+  with it). Only as step 1 of the final rebuild: build_db → --apply-pass1 → --llm →
+  embed_chunks → export_inventory.
+- LM Studio models needed: `ornith-1.5-35b-a3b` (LLM), `text-embedding-nomic-embed-text-v1.5` (768-d).
+- Unpushed work? `git status` + `git push`. Private repo: github.com/vishalquantana/qlaw.
+
+**Not yet built (agreed next steps):** `/api/insights` endpoint (ontology SQL as
+parameterized queries) + UI section; MCP server; CBIC notifications ingestion
+(notes/official-sources.md §CBIC); impact-matching layer (business profile × HSN).
+`ruling_questions` table exists but is not yet populated (needs LLM pass v2).
+
+---
+
 ## 1. What this project is
 
 **Vision:** a rules-as-code SaaS on Indian law — business users describe their profile
