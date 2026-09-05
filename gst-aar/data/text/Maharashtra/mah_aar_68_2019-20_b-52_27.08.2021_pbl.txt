@@ -1,0 +1,795 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+GST Bhavan, Room No.107, Ist floor, B-Wing, Old Building, Mazgaon, Mumbai — 400010.
+(Constituted under Section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri. Rajiv Magoo, Joint Commissioner of Central Tax, (Member)
+(2) Shri. T. R. Ramnani, Joint Commissioner of State Tax, (Member)
+
+GSTIN Number, if any/ User-id 27AABCP0109R1Z9
+
+Legal Name of Applicant M/s. Puranik Builders Ltd.
+
+Registered Address/Address | Puranik's One, Kanchan Pushpa, Kavesar, Ghodbunder
+provided while obtaining user id Road, Thane (West) 400 615.
+
+Details of application GST-ARA, Application No. 68 Dated 27.11.2019
+Concerned officer THA-VAT-E-005, Thane Division
+
+Nature of activity(s) (proposed/present) in respect of which advance ruling sought
+
+A_| Category Service Provision
+
+B_| Description (in brief) Applicant is engaged in the business of construction and sale
+
+of residential apartments. They discharge Goods & Services
+Tax in respect of supply of construction services in respect
+
+— of residential units for which consideration is received
+oo pain Lin S before receipt of Occupancy / Completion Certificate.
+
+&" Issue/s on avhich advance ruling | (i) classification of goods and/or services or both
+
+aed =6\
+ee ion(s)) am which advance | As reproduced in para 01 of the Proceedings below.
+
+PROCEEDINGS
+
+er Section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+The present application has been filed under Section 97 of the Central Goods and Services
+
+Tax Act, 2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as
+
+“the CGST Act and MGST Act” respectively] by M/s. Puranik Builders Ltd. , the applicant,
+seeking an advance ruling in respect of the following questions.
+
+(a) Whether the Other Charges received by the company will be treated as consideration for
+
+construction services of the Company and classified under HSN 9954 along with the main
+
+residential construction services of the Company or whether the same will be treated as
+
+consideration for independent service(s) of the respective head?
+
+Page 1 of 17
+
+
+(b) Consequently, what will be the applicable effective rate of GST on services underlying the
+Other Charges?
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and
+the MGST Act are the same except for certain provisions. Therefore, unless a mention is
+specifically made to any dissimilar provisions, a reference to the CGST Act would also mean a
+reference to the same provision under the MGST Act. Further to the earlier, henceforth for the
+purposes of this Advance Ruling, the expression ‘GST Act’ would mean CGST Act and MGST
+Act.
+
+2. FACTS AND CONTENTION — AS PER THE APPLICANT
+
+The submissions made by the applicant are as under:-
+
+21 M/s Puranik Builders Pvt. Ltd., the applicant, holding GSTIN 27AABCPOl09R179, is
+
+engaged in the business of construction and sale of residential apartments and discharge
+
+Goods and Services Tax (GST) in respect of supply of construction services in respect of
+
+idential units for which consideration is received before receipt of Occupancy /
+
+i SJANCE RU
+aan. S
+oe atk
+z/
+
+ion Certificate.
+
+f The ees of under construction sale of residential apartments by the Applicant are
+
+\ *
+=. XQ cu s, which upon completion of construction is supplemented by a sale deed.
+ey
+\ d €aid construction services of the Applicant are classified under HSN 9954 and
+hide
+
+accordingly get covered at Entry 3 of the Notification no. 11/2017 — C.T, (Rate) (‘said
+
+Pry 2
+= =
+ma ‘a> governed by an 'Agreement for Sale' made and entered between the Applicant and their
+
+Notification’). As per Sr. No. 2 of the said Notification, value of transfer of land or
+undivided share of land is deemed as 1/3" of the total value of such construction services,
+and the same is deducted from the total value of such services to arrive at the applicable
+GST liability in hands of the Company for such construction services.
+
+2.4 Apart from consideration for the main construction activity, the Applicant also collects
+various other charges (hereinafter referred to as the 'Other Charges') from their customers
+at the time of entering into the Agreement and/or giving possession of residential
+apartments. Such charges are collected under the Agreement itself with their respective
+amounts separately identified in the Agreement. A list of such charges generally recovered
+
+by the Applicant for their various projects is provided in the table below:
+
+Page 2 of 17
+
+
+Sr. Description Brief explanation
+no. _| of charges
+1. | Electric meter State | Paid by the Applicant to Maharashtra Electricity Board (MSEB)
+
+installation and | for each unit at construction stage and later, a reimbursement is
+security deposit for | claimed from the customer.
+meter
+2. | Water connection Paid by the Applicant for each unit at construction stage and
+charges later, a reimbursement is claimed from the customer.
+3. | Share of municipal | Pertains to property tax required to be paid for period post
+taxes receipt of Occupancy Certificate. The amounts are used for
+
+paying such tax.
+
+4 | Advance maintenance | Collected on behalf of society yet to be formed. These amounts
+are used for maintenance till the time society is formed and upon
+formation of society, any unspent amount is transferred to
+the society
+
+- 5 | Club house Collected on behalf of society yet to be formed. These amounts
+maintenance are used for maintenance till the time society is formed and upon
+
+formation of society, any unspent amount is transferred to
+
+the society
+
+Additional charges for development of the project computed
+
+based on premium paid to the Municipal Corporation for the
+
+project and various other factors.
+
+Charges for making application for allotment, share money for
+
+future society of residents, etc.
+
+Charges in respect of formation of future society of residents and
+associated legal cost.
+Additional charges for development of common area
+
+—~9~ | Infrastructure
+
+charges infrastructure.
+10 | Legal fees Charges for legal cost of the transaction of sale of residential
+apartments,
+
+2.5. Presently, the Applicant has been collecting and discharging GST at the rate of 18% on the
+
+Other Charges collected from their customers in respect of sale of residential apartments.
+
+B. Statement containing the Applicant's interpretation of law and /or facts:
+
+POSITION OF LAW
+
+2.6.1. As per Section 2 of the CGST Act, "Composite supply means a supply made by a taxable
+person to a recipient consisting of two or more taxable supplies of goods or services or both
+or any combination thereof, which are naturally bundled and supplied in conjunction with
+
+each other in the ordinary course of business, one of which is a principal supply:
+
+Page 3 of 17
+
+
+Illustration: Where goods are packed and transported with insurance, the supply of goods,
+packing materials, transport and insurance is a composite supply and supply of goods is a
+principal supply."
+
+2.6.2 As per Section 2(90) of the CGST Act, 2017, "Principal supply" means the supply of goods
+or services which constitutes the predominant element of a composite supply and to which
+any other supply forming part of that composite supply is ancillary"
+
+2.6.3 Section 8 of the CGST Act provides manner of determining tax liability on a composite or a
+mixed supply. It states that:
+
+"8. The tax liability on a composite or a mixed supply shall be determined in the following
+manner, namely: (a) a composite supply comprising two or more supplies, one of which is a
+principal supply, shall be treated as a supply of such principal supply; and (b) a mixed
+
+supply comprising two or more supplies shall be treated as a supply of that particular
+
+supply which attracts the highest rate of tax."
+
+primarily for supply of construction services. The charges in question are received by the
+Applicant only from customers to whom construction services are supplied. The applicant
+never independently receives such amounts or provides such underlying services sans
+supply of the main construction services.
+
+2.6.6. Considering the above, the services underlying the Other Charges may be treated as
+naturally bundled with supply of main construction services which are supplied in
+conjunction with each other in the ordinary course of business. In case these services are
+treated as Composite supply, construction services may be treated as principal supply of
+such composite supply since the same clearly constitutes predominant element of such
+transactions and is the primary supply giving rise to the associated or ancillary supplies.
+
+2.6.7. Applicant refers to decision of the Allahabad Bench of CESTAT in the case of Logix
+Infrastructure Pvt. ltd. vs Commissioner of C. EX. & S.T., Noida (2019 (25) GST LE 39
+
+Page 4 of 17
+
+
+fi
+
+*
+
+=
+
+(Tri. - All.)]; wherein the issue was that, abatement provided to the Applicant on residential
+complex services was denied on Preference Location Charges, External Development
+Charges, Internal Development Charges, Electric sub-station charges, club membership
+charges, lawn charges, etc. collected from clients. The Applicant challenged such
+vivisection of services into individual components. The CESTAT held that the components
+such as preferred location charges, external development charges, etc. were part and parcel
+and for various elements of main service and thus entire consideration received was eligible
+for abatement.
+
+2.6.8 Alternatively, in case such supplies are not treated as Composite supply, the same should be
+treated as supply of independent services of each head / description by the Applicant,
+taxability of which may be determined as per the nature of individual service head /
+description.
+
+2.6.9 If the supplies pursuant to the Other Charges and the main construction services of the
+
+‘ompany are treated as Composite supplies, as per Section 8 of the CGST Act, in such a
+
+TRAGHE A
+——==Value,
+
+2.6.10 In case these supplies are not treated as composite supplies, the applicable rate of GST on
+services underlying the Other Charges would have to be determined with respect to
+individual description of each of the supply. In such a case, applicant believes that
+individually applicable rate of services for each of the service head / description covered in
+the Other Charges would be 18%. In such a case, the 1/3rd deduction from total value as
+per Sr No. 2 of the Notification will not be applied on the Other Charges.
+
+03. CONTENTION — AS PER THE CONCERNED JURISDICTION OFFICER:
+SUBMISSIONS DATED 09.08.2021 ARE AS UNDER:-
+
+3.1 Electricity, Water, Society Formation, Legal Service and Documentation Charges,
+infrastructure charges (Drainage, Sewerage) are collected for services which are an integral
+
+part of a composite supply of works contract, construction services being the principal
+
+Page 5 of 17
+
+
+supply. The developer is bound to provide Water, Electricity, Drainage, Sewerage to the flat
+owners and also provide legal support and documentation services to the customers. Further,
+the formation of Society is also the developer’s responsibility. These services form an
+important part of the composite supply of works contract services provided by the applicant.
+Club house is incidental to the construction of dwelling units in the subject project it can be
+said to be a part of composite supply.
+
+3.2 Above are all the common amenities that are offered by the builder to the customer. These
+form part of the overall construction service and are always naturally bundled when offered
+to the customer. Therefore, such services will qualify as composite supply of works contract
+service, where the principal supply would be, construction services. Accordingly, the rate
+applicable to the principal supply will also be applicable to common amenities. Like Society
+Formation Charges; club house development charges; Water, Electricity, Drainage,
+Sewerage Charges; Legal Service Charges and Documentation Charges collected.
+
+3.3. Municipal taxes are paid on actuals and are not related to the principal supply or supply
+
+mon amenities if the tax bill comes in the name of the flat owner then it’s a service
+
+but if it comes in the name of the builder and will be taxed @18%. Same in case of
+
+aintenance Charges are charges collected in advance from the purchasers of flats
+
+POSITION OF LAW
+3.5 COMPOSITE Supply |Section 2(30)]: Composite supply means a supply made by a taxable
+
+person to a recipient consisting of two or more taxable supplies of goods or services or both
+or any combination thereof, which are naturally bundled and supplied in conjunction with
+each other in the ordinary course of business, one of which is a principal supply,’
+
+3.5.1 Principal Supply |Section 2(90)| : “Principal supply/” means the supply of goods or services
+
+which constitute the predominant element of a composite supply and to which and other
+supply forming part of that composite supply is ancillary”
+3.5.2 Section 8 of the CGST Act provides manner of determining tax liability on a composite or a
+
+mixed supply. It states that:
+
+Page 6 of 17
+
+
+“8. The tax liability on a composite or a mixed supply shall be determined in the
+following manner, namely.'—
+(a) A composite supply comprising two or more supplies, one of which is a principal
+supply, shall be treated as a supply of such principal supply; and
+(b) A mixed supply comprising two or more supplies shall be treated as a supply of
+that particular supply which attracts the highest rate of tax.”
+3.6 Referred to Advance ruling order passed in M/s. Joyville BUILDERS.
+
+04. HEARING
+4.1 Preliminary hearing in the matter was held on 07.01.2020. Sh. Gaurav Sogani, Advocate
+
+appeared, and requested for admission of the application. Jurisdictional Officer Smt.
+Rupmati Manere, Dy. Commissioner, THA-VAT-E-005, Thane City also appeared.
+
+4.2 The application was admitted after examination of the facts of the case and facts whether
+questions asked are covered under section 97(2) and after checking proper payment of fees.
+
+icant was called for online final e-hearing on 10.08.2021. Sh. Gaurav Sogani learned
+
+5.1 We have perused the records on file and gone through the facts of the case and the
+submissions made by the applicant as well as the department. The issue is related to the
+classification of services and applicable tax rate thereon under the GST Act.
+
+5.2 The applicant, registered under GST ACT and engaged in the business of construction and
+sale of residential apartments, discharges GST in respect of such supply for which,
+consideration is received before receipt of Occupancy / Completion Certificate. The terms of
+under-construction sale of residential apartments by the Applicant are governed by an
+‘Agreement for Sale’ made and entered into, between the Applicant and their customers,
+which after the completion of construction may be supplemented by a sale deed.
+
+5.3 Applicant submits that apart from consideration for the main construction activity, they also
+
+collect various other charges from their customers at the time of entering into the Agreement
+
+Page 7 of 17
+
+
+and/or before giving possession of residential apartments. Such charges are collected under
+the Agreement itself with their respective amounts separately mentioned in the Agreement.
+A list of such charges recovered are provided in the application, which includes, Electric
+meter installation and security deposit for meter, Water connection charges ,municipal
+taxes, Advance maintenance, Club-house maintenance, Development charges, share money,
+entrance fee of organization, legal charges, legal fees, and Infrastructure charges on which,
+applicant is presently discharging GST at the rate of 18%.
+
+5.4 Applicant feels that the ‘Other Charges’ mentioned in the Agreement are primarily for
+supply of construction services since they are received only from the customers to whom
+construction services are supplied and therefore the services underlying the ‘Other Charges’
+may be treated as naturally bundled with supply of main construction services which are
+supplied in conjunction with each other, in the ordinary course of business. Hence, in case
+these services are treated as ‘Composite supply’, construction services may be treated as
+
+principal supply of such composite supply; since the same clearly constitutes predominant
+
+\ os applica is contending that 1/3" of the value of land is available to them as rebate even on
+“ Wea § theSe6ther charges.
+——-~*
+Be) We observe that the question before us is whether the ‘Other Charges’ received by the
+
+applicant will be treated as consideration for ‘construction services’ and classified under
+SAC 9954 along with the main residential construction services or whether the same will be
+treated as consideration for independent service(s) under the respective head. And
+consequently, what would be the applicable GST rate on such Other Charges collected.
+
+5.6 We find that the applicant has provided on record, a sample copy of the deed/agreement for
+deciding the present issue. On perusal of the said ‘sale deed agreement’, it seen that the
+charges for the construction of residential property and the other charges for providing
+different services are mentioned separately, which (according to applicant) are supplied
+during the construction of residential flat. The question before us is whether the services by
+
+way of construction of residential property is supplied along with the supply of ‘other
+
+Page 8 of 17
+
+
+services’ as a ‘composite supply of services’. Or the ‘Other charges’ which are being
+collected separately, are to be treated as an independent supply other than the supply of
+construction service (basic sale price of flat) as above.
+
+57, To decide the issue, it is important to examine the concept of 'Composite Supply’ as
+provided under the CGST Act, 2017. The relevant definitions in this regard, as provided
+under Section 2 of the CGST Act, are as under:
+
+Composite Supply [Section 2(30)] :- "Composite supply means a supply made by a taxable
+person to a recipient consisting of two or more taxable supplies of goods or services or both
+or any combination thereof, which are naturally bundled and supplied in conjunction with
+each other in the ordinary course of business, one of which is a principal supply:
+Illustration: Where goods are packed and transported with insurance, the supply of goods,
+packing materials, transport and insurance is a composite supply and supply of goods is a
+principal supply."
+
+Principal Supply Section 2(90):- "Principal supply" means the supply of goods or services
+
+rming part of that composite supply is ancillary".
+of the CGST Act which provides the manner of determining tax liability on a
+sfte supply or a mixed supply, is reproduced as under:
+tax liability on a composite or a mixed supply shall be determined in the following
+Sse rlanner, namely:
+(a) a composite supply comprising two or more supplies, one of which is a principal supply,
+shall be treated as a supply of such principal supply; and
+(b) a mixed supply comprising two or more supplies shall be treated as a supply of that
+particular supply which attracts the highest rate of tax."
+
+5.7.2 In order to be held as ‘Composite supply’ as per Section 2 (30) of the CGST Act, 2017,
+there must be two or more taxable supplies of goods or of services or both or any
+combination thereof, which are naturally bundled and are supplied in conjunction with each
+other in the ordinary course of business, one of which is a principal supply.
+
+5.7.3. In the present case, we observe from said sale deed agreement that, the applicant has
+mentioned the value of supply of construction of residential unit and the value of other
+
+services separately. As per para no.3 and para 4 of page 27 of the impugned sale agreement,
+
+Page 9 of 17
+
+
+the applicant has collected the value of construction of residential unit supply (having
+59.156 sq. mt area), for an amount of Rs. 86,58,000/- + taxes extra separately from the
+customer on which stamp duty is payable. And para no. 11 of page 41 shows that certain
+charges are collected separately for ‘other services’ provided by the applicant viz. Electric
+meter installation and security deposit for meter, Water connection charges ,municipal
+taxes, Advance maintenance, Clubhouse maintenance, Development charges, share money,
+entrance fee of organization, legal charges , legal fees, and Infrastructure charges. etc.
+The relevant portions of ‘other charges’ collected separately as per the agreement are
+reproduced as below:
+Page No. 41 of the sale deed agreement:
+11. a) the purchaser, on execution of this Agreement of before taking possession of the said
+
+Flat, shall pay the following amount to Swapnadhara Projects Private Limited.
+
+(i) Rs.68, 400/- towards electric meter installation and security
+
+Deposit for the meter payable to MSEB and
+election of transformer, cable laying etc.
+
+(ii) Rs. 1, 24,260/- towards proportionate share of Development
+
+charges and including premium payable to
+
+Thane Municipal Corporation.
+
+(iii) Rs. 20,000/- towards water Connection charges and
+Deposit.
+(iv) Rs.600/- towards share money, application and entrance
+
+fee of the Organisation.
+
+(v) Rs. 5,000/- towards Formation and Registration of the
+
+Organisation and Legal Charges in connection
+
+there with.
+
+(vi) Rs.27, 360/- towards proportionate share of Municipal
+Taxes, N.A. Taxes, assessments and other
+charges.
+
+(vii) Rs 25000 /- towards Legal Fees.
+
+Page 10 of 17
+
+
+(viii) Rs. 72,000/- towards advance maintenance charges of the
+
+premium and common areas for 2 years.
+
+(xi) Rs. 2, 28,000/- towards infrastructure Charges.
+
+(x) Rs. 12,000/- towards Club House Maintenance Charges for
+2 years.
+
+(xi) Rs. 1, 00,372/- towards Services Tax, presently @ 15% as per
+
+Finance Act, 2016.
+
+5.7.4. As per the provisions of the Bombay Stamp Act 1958, stamp duty is payable on sale of
+immovable property. From the receipt of the stamp duty paid by the applicant, it is seen that
+the applicant has paid stamp duty on the value of sale of flat having an amount of Rs.86,
+58,000/-only. The Applicant has not considered the value of other services supplied as
+above (i.e. other charges collected for which present ARA has been filed) for the payment of
+
+stamp duty to the government implying that, when the question of payment of stamp duty
+
+arises, the applicant treats these Other charges not as a part of supply of main
+
+573
+‘tio ap aeea
+
+aS , para no. 15 (c) of Page No. 50 of the impugned agreement is as under:-.
+c) This agreement is not to be or is not intended to be construed as conveyance or
+perpetual lease nor is it intended by the parties and no interest in the said larger property
+or part thereof, is or is intended to be created and transferred to or vested in the
+Purchaser/s.
+5.7.6 on page 52 of the impugned agreement, is an express, essential, vital and integral term and
+condition of this Agreement that: ----
+g) The Developer are desirous of selling, transferring or otherwise allotting or disposing of
+Flat, and other areas including gardens/ terraces appurtenant to or adjoining or abutting
+
+and/or above certain Flat in or around the said buildings on what is popularly known as
+
+Page 11 of 17
+
+
+ownership basis and/or otherwise and they are entering into separate agreement for sale,
+
+transfer and/or disposal thereof with various purchasers or transferees thereof.
+
+Thus, the applicant has not transferred those other areas or other amenities to the customers
+
+nor any right is created thereon in favor of the customers.
+
+5.7.7 Further clause 17 of the said agreement is reproduced as under:-
+
+The Purchaser/s hereby agree that. --------
+¢) The Purchaser shall have no claim or right on any part of the said Property and also to
+any part or parts or the said Building other than the said Flat agreed to be taken by him.
+All open spaces, road club house, garden utility areas and common amenities, lobbies,
+staircases, terraces shall remain the property of the Developer unit the whole property is
+assigned and transferred to the Organization or Apex body as the case may be as herein
+mentioned but subject always to the rights, reservations, covenants and easements in favour
+
+of the Developer as herein provided.
+
+5.7.8 Para 9 b of the agreement at Page No. 36 of Sale deed Agreement is as under:-
+
+i ‘i \documents, bye laws and return the same to the Developer within seven days of
+py <
+
+Pe receip£ thereof without objecting to any changes, modifications as may have been in the
+;
+
+purchaser.
+
+e) Only upon the construction of the said complex being completed all respects as
+envisaged herein by the Developer by utilizing full development potential of the said Larger
+property as per the Development Regulation by use of FSI or TDR or any additional FSI by
+payment of premium or in any other manner and upon the Developer selling
+/transferring/allotting all the Flats constructed in the said complex, and upon the Developer
+receiving the entire payment ( towards the consideration, deposits, outgoings or otherwise)
+due and payable to it under all Agreements for Sales executed with all Purchaser of the
+Flat, in the said Complex. If only Organization is formed of the said Complex, then said
+property will be transferred by Conveyance or Lease to the said Organization. In case of
+
+more than one Organization is formed. Developer will convey the super structure of
+
+Page 12 of 17
+
+
+respective building and grant perpetual lease of the plinth area of respect building to the
+respective Organization and all other residual area i.e. area covered by all infrastructure
+viz. road, electric substation, STP etc. and amenities viz. playground, garden, club house (if
+any) to the Apex Body Such Deed of Conveyance/ Lease shall be in accordance with the
+terms, conditions, covenants, stipulation and provisions of the Agreement, and shall be in
+such form and shall contain such terms, conditions, covenants, stipulation and provisions as
+may be decided and determined by the Developer in its sole, absolute and unfettered
+discretion. Thus Apex Body will hold residual part of the said property i.e. garden,
+playground, open space, road, infrastructure viz. STP, sub-station (if any), common
+electricity or any amenities for the benefit of all user and occupier of the said property and
+also for the benefit of any other property as per the Agreement with the owner of the
+adjoining property.
+
+5.7.9 A combined reading of the above clauses and the agreement as a whole, reveals that, there
+are more than two supplies in the subject transaction, which are independent supplies and so
+taxable separately. From the above terms and conditions of the sale deed agreement, it is
+
+seen that the applicant has collected the basic flat sale price separately for the supply of
+
+ential unit and the charges are collected separately for supply of different services
+ay ' e called as ‘other charges’. Merely because the agreement is common will not make
+wi { ita way of bundled services.
+Th cf e, in the present case, we find that there are more than two supplies which are
+i dent supplies and so taxable separately, the supply of construction services of
+idential unit and the other supply of ‘other services’, viz. ‘Electric meter installation and
+security deposit for the meter, Water connection charges and security deposit, municipal
+taxes, Advance maintenance, Clubhouse maintenance, Development charges, share money,
+entrance fee of organization, legal charges, legal fees, and, Infrastructure charges’.
+Services supplied in respect of the ‘other charges’ are different from the service of
+construction of residential flats. Therefore, it is observed that the ‘other services’ provided
+cannot be said to be naturally bundled and supplied in conjunction with each other in the
+ordinary course of business with main supply of residential flat in the subject case.
+5.8.1 We find that Heading 9954, Entry No. 3 covers ‘construction services” of Notification
+
+No.11/2017 CT (R) dated 28.6.2017. The entry no. 3 is reproduced as below:
+
+Page 13 of 17
+
+
+‘3 (i) Construction of a complex, building, civil structure or a part thereof, including a
+complex or building intended for sale to a buyer, wholly or partly, except where the entire
+consideration has been received afier issuance of completion certificate, where required, by
+the competent authority or after its first occupation, whichever is earlier. (Provisions of
+paragraph 2 of this notification shall apply for valuation of this service).
+
+5.8.2 The above entry is specifically related to construction of a Complex, building, civil structure
+or a part thereof, including a complex or building intended for sale to a buyer, wholly or
+partly.
+
+5.9.1 Further, as per the explanatory note published by the Government, for the purposes of the
+CGST Act, 2017, the ‘other services’ provided by the applicant can be said to be classified
+under different SAC as under:-
+
+Sr | Description Brief explanation Group of | SAC
+No | of charges SAC
+1. | (a) Electric | Paid by the Applicant to | (a)Installatio | (a)99546
+meter State Maharashtra Electricity Board | n services 1
+
+installation (MSEB) for each unit at | (b) Other | (b)99979
+and (b)security | construction stage and later, a| Misc. 9
+deposit for | reimbursement is claimed from the | services
+
+meter customer.
+
+Water connecti | Paid by the Applicant for each unit | Support 995425
+
+n charge | at construction stage and later, a} services to
+reimbursement is claimed from the | water
+customer. distribution
+hare of | Pertains to property tax required to | Other Misc. | 999799
+unicipal be paid for period post receipt of | services
+taxes Occupancy Certificate. The amounts
+
+are used for paying such tax.
+4 | Advance maint | Collected on behalf of society yet to | Other Misc. | 999799
+enance be formed. These amounts are used | services
+for maintenance till the time society
+is formed and upon formation of
+society, any unspent amount is
+transferred to the society
+5 | Club house Collected on behalf of society yet to | Other Misc. | 999799
+maintenance be formed. These amounts are used | services
+for maintenance till the time society
+is formed and upon formation of
+society, any unspent amount is
+transferred to the society
+6 | Development | Additional charges for development | Other Misc. | 999799
+charges of the project computed based on | services
+
+Page 14 of 17
+
+
+premium paid to the Municipal
+Corporation for the project and
+various other factors.
+7 | Share money, | Charges for making application for | Other Misc. | 999799
+
+application allotment, share money for future | services
+and entrance | society of residents, etc.
+fee of the
+organization
+8 | Formation and | Charges in respect of formation of | Legal 998214
+registration of | future society of residents and | Services
+the associated legal cost.
+organization
+and legal
+charges in
+connection
+therewith
+9 | Infrastructure | Additional charges for development | Other Misc. | 999799
+charges of common area infrastructure. services
+10 | Legal fees Charges for legal cost of the | Legal 998216
+transaction of sale of residential | Services
+apartments,
+
+5.9.2 Considering the above, in our opinion, the ‘Construction services’ and the ‘other services’
+provided by the applicant are not naturally bundled and are not supplied in conjunction with
+
+each other in the ordinary course of business with main supply. These are the facilities
+
+m separ
+a from the customer along with the said other charges. Therefore, the other charges
+wv st at
+
+ected for the other services provided is not covered under the scope of ‘Composite
+
+ly for different services. And even the stamp duty is also not paid on full amount
+
+supply of services’. Therefore, the contention of the applicant is found not acceptable.
+
+5.9.3. In view of above, the ‘other charges’ mentioned as above are held taxable as per their SAC
+under the GST Act, at 18% in terms of the respective and appropriate entries (against the
+SAC mentioned in the Table at para 5.9.1 above) in Notification No.11/2017 CT (R) dated
+28.6.2017 as they are covered under services, other than construction services.
+
+5.10 The jurisdictional officer has not properly appreciated the terms of agreement, particularly
+the clauses cited supra. It is mentioned in the said agreement that customers have no right to
+
+claim any title, interest or any ownership in respect of facilities getting created in the
+
+Page 15 of 17
+
+
+project. We further find from the aforesaid terms of sale agreement that, so far as the
+facilities getting created are concerned, the applicant has reserved the entire rights of the
+same with itself and the applicant can transfer or sell or lease assets to others also and the
+purchasers are not supposed to raise any objection to it and have no rights or claims over
+these facilities or benefits. Hence, the views of jurisdictional officer are not acceptable.
+
+5.11 Further, in the case of other services such as those relating to the electrical meter deposit and
+the water connection (deposit), claim of deduction of pure supply could have been raised,
+but same has not been raised by the applicant and therefore is not considered.
+
+5.12 Therefore, in our view, the consideration for providing the construction services by way of
+construction of residential unit and the consideration for the other services (i.e. other charges
+collected) are considerations against separate independent services being provided by the
+applicant. Considering the nature of supplies in question, the services for each of the service
+head / description are covered under Notification 11/2017 mentioned above and therefore,
+
+the Other Charges would attract GST @18%. Thus, the 1/3" deduction from total value as
+
+Sr. No. 2 of the Notification (as claimed by the applicant) cannot be allowed as
+d jon from the Other Charges. A plain reading of the items or the list of other charges
+
+ce)
+
+"© itse|fshows that services supplied against the said charges have no connection with land
+<
+
+‘ and.
+
+* - $§8"""#fe applicant, in support of their contention has relied upon and referred to some case laws.
+
+refore, question of considering the 1/3"! deduction or rebate towards land cost does
+
+se, particularly, as the entries applicable to both of the above services are different.
+
+We find that, the subject matter in the said case laws referred to, by the applicant, are on
+different facts and under different laws as compared to the subject issue. Further, the issue
+regarding payment of the stamp duty in those cases is also not clear. Thus the said case laws
+will not be applicable in the subject case.
+
+06. In view of the extensive deliberations as hereinabove, we pass following order:
+
+ORDER
+
+(Under Section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+NO.GST-ARA- 68/2019-20//B- 5 2 Mumbai, dt. 2 7 08: 20 U
+
+For reasons as discussed in the body of the order, the questions are answered thus —
+
+Page 16 of 17
+
+
+Question:- (i) Whether the Other Charges received by the company will be treated
+as consideration for construction services of the Company and classified under HSN
+9954 along with the main residential construction services of the Company or
+
+(ii) Whether the same will be treated as consideration for independent service(s) of
+the respective head?
+
+Answer:- (i) “Other Charges” received will not be treated as consideration for construction
+services of the Company and is not classified under SAC 9954 along with the main
+residential construction services.
+
+(ii) The ‘other charges’ will be treated as consideration received against supply of
+independent service(s) of the respective heads.
+
+Question:- (b) Consequently, what will be the applicable effective rate of GST on
+services underlying the Other Charges?
+
+Answer:- As per the above discussion, the applicable rate of GST on services underlying the
+Other Charges would be as per the SAC prescribed under Notification No. 11/2017
+CT (R) dated 28.6.2017 and are liable to GST @ 18%. Further, the applicant has to
+
+pay GST on the entire consideration received as ‘other charges’, without any
+
+AL
+>) r~es i
+
+uN * ree dss a
+s ‘ Oe”
+JIV MAGOO T.R.RAMNANI
+
+(MEMBER) (MEMBER)
+
+Co r
+
+1. The applicant
+2. The concerned Central / State officer
+
+3. The Commissioner of State Tax, Maharashtra State, Mumbai
+
+4. The Pr. Chief Commissioner of Central Tax, Churchgate, Mumbai
+5. Joint Commissioner of State Tax, Mahavikas for Website.
+
+Note:-An Appeal against this advance ruling order shall be made before, The Maharashtra
+Appellate Authority for Advance Ruling for Goods and Services Tax, 15" floor, Air India Building,
+Nariman Point, Mumbai — 400021. Online facility is available on gst.gov.in for online appeal
+application against order passed by Advance Ruling Authority.
+
+Page 17 of 17

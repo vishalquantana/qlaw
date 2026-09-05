@@ -1,0 +1,528 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+(constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri B. V. Borhade, Joint Commissioner of State Tax
+(2) Shri Pankaj Kumar, Joint Commissioner of Central Tax
+
+GSTIN Number, if any/ User-id 27AAACG1376N2ZB
+
+Legal Name of Applicant KANSAI NEROLAC PAINTS LIMITED
+
+Registered Address/Address provided while | NEROLAC HOUSE, GANPATRAO KADAM
+
+obtaining user id MARG, LOWER PAREL, Mumbai _ City,
+Maharashtra, 400013
+
+Details of application GST-ARA, Application No. 18 Dated 06.01.2018
+
+Concerned officer D.C. GST, LTU 4, Mumbai
+
+Nature of activity(s) (proposed / present) in
+respect of which advance ruling sought
+
+A Category Input Service Distributor (ISD)
+B Description (in brief) As reproduced in para 02 of the Proceedings below.
+Issue/s on which advance ruling required (iv) admissibility of input tax credit of tax paid or
+
+deemed to have been paid
+Question(s) on which advance ruling is required | As reproduced in para 01 of the Proceedings below.
+
+PROCEEDINGS
+
+(under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+The present application has been filed under section 97 of the Central Goods and Services
+Tax Act, 2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as
+“the CGST Act and MGST Act”] by KANSAI NEROLAC PAINTS LIMITED, the applicant,
+seeking an advance ruling in respect of the following question :
+
+Whether accumulated credit by way of Krishi Kalyan Cess (KKC) as appeared in
+the Service tax return of Input Service Distributor (ISD) ON June 30, 2017 which
+is carried forward in the electronic credit ledger maintained by the company under
+CGST Act 2017, will be considered as admissible input tax-credit?
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and
+the MGST Act are the same except for certain provisions. Therefore, unless a mention is
+specifically made to such dissimilar provisions, a reference to the CGST Act would also mean a
+reference to the same provision under the MGST Act. Further to the earlier, henceforth for the
+purposes of this Advance Ruling, a reference to such a similar provision under the CGST Act /
+
+MGST Act would be mentioned as being under the “GST Act”.
+
+02. FACTS AND CONTENTION - AS PER THE APPLICANT
+
+The submissions, as reproduced verbatim, could be seen thus-
+
+sscription (in brief) M/s Kansai Nerolac Paints Limited (hereinafter referred as company) holder of registration number
+‘\ STC no. AAACG1376NST001 is engaged in business of manufacture of paints and engaged in
+provision of works contract service as well. The works contract services are carried out from the
+company’s Head Office. Under chapter V of Finance Act 1994, the Company has a centralized
+
+1
+
+
+
+registration for Head Office, factories and depots at its Head Office (HO) in Mumbai. Apart from
+centralized registration, the Company also has a separate registration as Input Service Distributor
+(ISD) for its HO to distribute the eligible CENVAT credit to its factories and Head Office according
+to Rule 2(m) of Cenvat Credit Rules 2004 (herein after referred as CCR), read with Rule 7 and Rule
+TA of CCR.
+Rule 9(10) of the CCR requires the input service distributor to file the half yearly return in the
+statement giving the detail of the credit received and distributed during the said half yearly period by
+the end of the following months.
+As an input service distributor, the company received CENVAT credit at head office. Those
+CENVAT credit also included Krishi Kalyan Cess (KKC) as well but the company could not
+distribute KKC to its factories as because, KKC credit could be utilized only with KKC liability as
+prescribed under CCR, and recipient entities being manufacturing units did not have any KKC
+liability to set off KKC credit. As a result of which there was accumulation of KKC credit in the
+return service tax ISD return, filed under Rule 9(10) of CCR.
+In view of provision of sec 140(1) of CGST Act 2017 read with Rule 117(1) of CGST Rules 2017,
+the company had carried forward aforesaid accumulated KKC as appeared in the ISD return on June
+30, 2017 to electronic credit register maintained under CGST ACT 2017 but not utilized.
+Statement of relevant | 1.1 Kansai Nerolac Paints Ltd (herein after referred as the Company or Nerolac) is registered under
+facts having a bearing | Central Goods and Service Tax Act, as taxable person, engaged in supply of goods and supply of
+on the question(s) | service. Company is also registered in some identified States/Union Territories as taxable person
+raised. under the respective State/Union Territory Goods and Service Tax Act 2017.
+1.2 During pre GST regime, that is prior to July 1, 2017, company was engaged in manufacture and
+sale of goods across the states and in the state of Maharashtra Company was engaged in works
+contract service as well. Accordingly under chapter V of Finance Act 1994, company took centralized
+registration for its Head Office located (HO) in the state of Maharashtra. Apart from centralized
+registration, company also obtained registration as Input Service Distributor (ISD) for its HO to
+distribute eligible credit to its respective manufacturing units according to Rule 2(m) of Cenvat Credit
+Rules 2004 (herein after referred as CCR), read with Rule 7 and Rule 7A of CCR.
+1.3 CBEC had vide Circular No. 97 dated 23.8.2007 clarified that input service distributor is an office
+or premises of the manufacturer or taxable service provider which receives bills/invoices etc., of input
+services. The input service distributor can distribute the eligible credit to any unit of the manufacturer
+or any premises/office of taxable service provider.
+1.4 Rule 9(10) of the CCR requires the input service distributor to file the half yearly return in the
+statement giving the detail of the credit received and distributed during the said half yearly period by
+the end of the following months.
+1.5 As an input service distributor, company received cenvat credit at its head office. Those Cenvat
+credit includes Krishi Kalyan Cess (KKC) as well but the company could not distribute KKC to its
+manufacturing units as because, KKC credit could be utilized only with KKC liability as prescribed
+under CCR, and recipient entities being manufacturing units did not have any KKC liability to set off
+KKC credit. As a result of which there was accumulation of KKC credit in the return, filed under
+Rule 9(10) of CCR.
+1.6 In view of provision of sec 140(1) of CGST Act 2017 read with Rule 117(1) of CGST Rules
+2017, company has carried forward the aforesaid accumulated KKC as appeared in the ISD return on
+June 30, 2017 to electronic credit register maintained under CGST ACT 2017.
+Statement containing | 1.1 KKC is levied as per sec 161 of the Finance Act 2016
+
+the applicant’s | 1.2 Sec 161(5) of the Finance Act specified that for levy and collection of KKC, Chapter V of
+interpretation of law Finance Act 1994 (Service Tax) will be applicable.
+
+and/or facts, as the case | 1.3. Entry 92C of Union List I of Indian Constitution empowers legislature to levy service tax as
+may be, in respect of provided under Chapter V of Finance Act 1994.
+
+the aforesaid | 1.4 122nd amendment of Constitution deletes Entry 92C of Union List I, in view of implementation
+question(s) (ie. of Goods and Service Tax.
+
+applicant’s view point | 1.5 It implies KKC is also subsumed in Goods and Service Tax along with service tax. In other
+and submissions on words CGST liability under CGST Act 2017 contains liability on account of KKC as well.
+
+issues on which the | 1.6 Rule 3(1a) of CCR includes KKC as cenvat credit.
+advance ruling is | 1.7 Sec 140(1) allows a registered person to carry forward the CENVAT credit in return to electronic
+sought). credit ledger provided the said credit is admissible under CGST Act 2017.
+1.8 As discussed in para 1.Sabove, CGST liability represent KKC liability as well therefore KKC
+credit will also be considered as admissible CENVAT credit as per proviso (1) to sec 140(1) of
+
+the CGST Act.
+ion dt.06.02.2018 on acceptance of application for Advance Rulin
+ ccomesus we like to bring it to your kind attention that we Kansai Nerloac Paints (herein after referred as the Company ) is registered
+
+under Central Goods and Service Tax Act, as taxable person, engaged in supply of goods and supply of service.
+
+During pre GST regime, that is prior to July 1,2017, company was engaged in manufacture and sale of goods across the states.
+
+Company obtained registration as Input Service Distributor (ISD) for its Head Office located in Mumbai to distribute eligible
+
+credit to its respective manufacturing units.
+
+As an input service distributor, company received cenvat credit at its head office. Those cenvat credit includes Krishi Kalyan Cess
+
+(KKC) as well but the company could not distribute KKC to its manufacturing units as because KKC credit could be utilised only
+
+KKC liability and recipient entity being manufacturing entity did not have any KKC liability to set off KKC credit, resulting
+ulation of KKC credit.
+
+ST regime neither there is any specific restriction in law regarding admissibility of KKC nor there any specific provision
+
+rding admissibility of KKC as input tax credit.
+
+
+
+In view of the aforesaid facts, our question regarding admissibility of input tax credit is duly covered under clause (d) of section
+(2) of section 97 of CGST/MGST Act 2017 and thus the said question is duly covered under the provision of Advance Ruling as
+provided under CGST/MGST Act 2017.
+Submission of NIL date
+2. Legislative provisions.
+2.1 Sec 161 of Finance Act 2016 read with Chapter V1 of Finance Act 2016:
+161. (1) “This Chapter shall come into force an the Ist day: of June. 2016, (2) There shall be levied and collected in accordance with the provisions
+of this Chapter, a cess to be called the Krishi Kalvan Cess, as service tax on all or any of the taxable services at the rate of 0.5 per cent. on the
+value of such services for the purposes of financing and promoting initiatives to improve agriculture or for any other purpose relating thereto, (3)
+The Krishi Kalyan Cess leviable under sub-section (2) shall he m addition to any cess or service tax leviable on such taxable services under
+Chapter V of the Finance Act. 1994, or under any other law for the time being in force. (4) The proceeds of the Krishi Kalyan Cess levied under
+sub-section (2) shall first be credited to the Consolidated Fund of India and the Central Government may. after due appropriation made by
+Parliament by law in this behalf. utilise such sums of money of the Krishi Kalyan Cess Jor such purposes specified in sub-section (2), as it may
+consider necessary. (5) The provisions of Chapter V of the Finance Act, 1994 and the rules made thereunder, including those relating to refunds
+and exemptions from tax, interest and imposition of penalty shall, as far as may be, apply in relation to the levy and collection of the Krishi
+Kalyan Cess on taxable services, as they apply in relation to the levy and collection of tax on such taxable services under the said Chapter or
+the rules made thereunder, us the case may be."(Emphasis supplied)
+2.2 Deletion of entry 92C vide constitution [22 nd amendment
+“17. In the Seventh Schedule to the Constitution. (aj m List Union List, (i) for entry 84. the following entry shall be substinited, namely.
+"$4. Duties of excise on the following goods manufactured or produced in India, namely:— (a) petroleum crude: (b) high speed diesel: (c) motor
+spirit (commonly known as petrol); (d) natural gas; (e) aviation turbine fuel; and (f) tobacco and tohacco products."> (ti) entries 92 and 92C shall
+be omitted; “ (Emphasis supplied)
+2.3 CGST Rules 2017
+117. Tax or duty credit carried forward under any existing law or on goods held in stock on the appointed day.- (1) Every registered person entitled
+to take credit of input tax under section 140 shall, within ninety days of the appointed day, submit a declaration electronically in FORM GST
+TRAN-1, dulv signed. on the common portal specifving therein, separately,
+2.4 CGST ACT 2017 igration of credit
+Sec 140. (1) 4 registered person, other than a person opting to pav tix under section 10, shall be entitled to take. in hts electronic credit ledger,
+the amount of CENVAT credit carrted forward in the return relating to the period ending with the day immediately preceding the appointed dav,
+furnished by him under the existing law in such manner as may be prescribed (Emphasis supplied)
+Proviso to Sec 1400): Provided that the registered person shall not be allowed to take credit in the following circumstances namely-
+(1) Where the said amount of credit ts not adinissible as input tax credit under under the Act : (Emphasis supplied)
+See 1(1) This Act may be called the Central Goods and Service Tax Act 2017
+NOTLFIC ATION No. 28/2016 — Central Excise (NV)
+New Delhi, the 26th May, 2016
+GS.R—(E). In exercise of the powers conferred by section 37 of the Central Excise Act, 1944 (1 of 19-44) and section 94 of the Finance Act,
+1994 (32 of 1994). the Central Government hereby makes the following rules further to amend the CENVAT Credit Rules, 2004. namely :
+1. (1) These rules may be called the CENVAT Credit (Seventh tinendment) Rules. 2016.
+12) They shall come into force on Ist of June. 2016
+2. In the CENVAT Credit Rules. 2004, in rule 3.
+(a) after sub-rule (1), the followmg sub-rule shall be inserted, namely :-
+‘(la) A provider of output service shall be allowed to take CENVAT credit of the Krishi Kalyan Cesy on taxable services leviable under section
+161 of the Finance Act, 2016 (28 of 2016);";(Emphasis supplied)
+(b) in sub-rule (4). after the ninth proviso, the following proviso shall be inserted, namely.
+‘Provided also that the Cenvat credit of any duty specified in sub-rule (1) shall not be utilised for pavment of Krishi Kalvan Cess leviable under
+section 161 of the Finance Act, 2016 (28 of 2016);
+fe) in sub-rule (7),
+(i) after the words, figures and brackets “sub-rule (1)", the words, figures and brackets“, sub-rule (la) ” shall be inserted;
+(ii) after clause (ci, the following clause shall be inserted. namely.-
+“(d) Cenvat credit in respect of Krishi Kalyan Cess on taxable services leviable under section 161 of the Finance Act. 2016 (28 of 2016) shall be
+utilised only towards pavment of Krishi Kalyan Cess on taxable services leviable under section | 61 of the Finance Act, 2016 (28 of 2016)":
+3. Question on which advance ruling is required
+“Whether accumulated credit by way of Krishi Kalyan Cess (KKC) as appeared in the Service tax return of In
+June 30. 2017 which is carrted forward in the electrome credit ledger maintained by the company under CG.
+admissible input tax-credit ?
+4. Our submission
+4.1 KKC is levied as per sec 161 of the Finance Act 2016 (Please refer para 2)
+See 161(5) of the Finance Act specified that for levy and collection of KKC, Chapter V of Finance Act 1994 (Service Tax) will be
+
+uit Service Distributor (ISD) ON
+TAct 2017, will he considered as
+
+applicable.
+
+4.2 Entry 92C of Union List 1 of Indian Constitution empowers legislature to levy service tax as provided under Chapter V of
+Finance Act 1994.
+
+4,3 122" amendment of Constitution deletes Entry 92C of Union List L, in view of implementation of Goods and Service Tax.
+4.4 It implies KKC is also subsumed in Goods and Service Tax along with service tax. In other words CGST liability as accrued
+under CGST Act 2017 contains liability on account of KKC as well..
+
+4.5 Rule 3(1a) of CCR includes KKC as cenvat credit.
+
+4.6 CCR provides KKC liability could be set off with KKC credit only. C liability subsumed KKC liability in view of 122"
+amendment of constitution. Therefore migrated KKC credit will be admissible to setoff with CGS 1 liability.
+
+4.6 See 140(1) allows a registered person to carry forward the CENVAT credit in return to electronic credit ledger provided the
+said credit is admissible under CGST Act 2017.
+
+4.7 See 16 and 17 of CGST Act determines which credit will be admissible under CGST Act 2017, There is no restriction on
+admission of KKC as cenvat credit under the atoresaid provisions of the Act. Therefore KKC credit will also be considered as
+admissible CENVAT credit as per proviso (1) to see 140(1) read with see 16 and see 17 of the CGST Act 2017.
+
+er = In view of the aforesaid facts of the case and provisions of the law we_humbly pray to your kindself to allow us to
+nvat credit in the form of KKC_so migrated to discharge our CGST liability.
+
+
+
+03. CONTENTION - AS PER THE CONCERNED OFFICER
+
+The submission, as reproduced verbatim, could be seen thus-
+
+Legal Submission:
+What is Krishi Kalyan Cess (KKC)?
+
+It is a Cess which shall be levied and collected in acordance with the provisions of Section 161 of the Finance Act, 2016,
+called Krishi Kalyan Cess, as service tax on any or all of taxable services at the rate of 0.5% of the value of taxable service.
+What about carry forward of credit of Krishi Kalyan Cess, to GST Regime?
+Section 140 (1) of the GST law permits carry forward of Credit of GST regime.
+Transitional provisions have been prescribed in the GST law which provids tax treatement for transitional matters like spill over
+trasactions, transitional credits etc. It allows existing taxpayers to transfer the input tax credit available as closing balance in the
+existing tax returns to the GST returns, Therefore, assesses were able to transfer the closing balance of credit in respect of Central
+Excise duty, Service Tax, Local VAT ete. As the opening credit balance in the GST returns.
+As specified in the proviso to Section 140(1) of the Act, the taxable person is allowed to carry forword the credit to the extent
+admissible as INPUT TAX CREDIT under GST.
+Defination of Input tax as given in section 2(62) does not include any cess.
+So apparently Krishi Kalyan Cess, will not be allowed to be carried forword.
+
+04. HEARING
+
+The case was taken up for hearing on dt.06.02.2018 and on dt.21.02.2018 when Sh.
+Subhasis Banerjee, Chartered Accountant attended alongwith Sh. Sandesh Shinde, Executive
+Accounts (GST) and Sh. Mahesh T. Mandlik, Senior Accounts Officer appeared and reiterated
+the contention as made in the written submission. The jurisdictional Officer, D.C. GST, LTU 4,
+Mumbai was not present during both the hearings but has furnished a written submission in the
+
+matter.
+
+05. OBSERVATIONS
+
+We have gone through the facts of the case. The issue put before us is whether
+accumulated credit by way of Krishi Kalyan Cess (KKC) as appeared in the Service tax return of
+Input Service Distributor (ISD) on June 30, 2017 which is carried forward in the electronic credit
+ledger maintained by the company under CGST Act 2017, will be considered as admissible input
+tax-credit. Krishi Kalyan Cess was brought into implementation by Chapter VI of the Finance
+Act, 2016. Since the applicant mentions about accumulated credit as carried forward in the
+Service Tax return on 30 June, 2017, we would refer to the relevant transitional provision as
+
+available in the GST Act-
+
+140. (1) A registered person, other than a person opting to pay tax under section 10, shall be entitled to take, in his electronic
+credit ledger, the amount of CENVAT credit carried forward in the return relating to the period ending with the day
+immediately preceding the appointed day, furnished by him under the existing law in such manner as may be prescribed:
+Provided that the registered person shall not be allowed to take credit in the following circumstances, namely:—
+
+(i) where the said amount of credit is not admissible as input tax credit under this Act; or
+
+(ii) where he has not furnished all the returns required under the existing law for the period of six months immediately preceding
+the appointed date; or
+
+(iii) where the said amount of credit relates to goods manufactured and cleared under such exemption notifications as are notified
+by the Government.
+
+The GST Act does not have a definition of the words “CENVAT credit”. The words have
+also not been defined under the Excise and Service Tax laws. However, we find CENVAT credit
+
+s, 2004 wherein the word “credit” is said to mean “CENVAT credit” as can be seen thus -
+
+
+
+(1) A manufacturer or producer of final products or a provider of taxable service shall be allowed to take credit (hereinafter
+
+referred to as the CENVAT credit) of -
+
+(i) _ the duty of excise specified in the First Schedule to the Excise Tariff Act, leviable under the Excise Act;
+
+(ii) the duty of excise specified in the Second Schedule to the Excise Tariff Act, leviable under the Excise Act;
+
+(iii) the additional duty of excise leviable under section 3 of the Additional Duties of Excise (Textile and Textile Articles) Act, 1978
+(40 of 1978);
+
+(iv) the additional duty of excise leviable under section 3 of the Additional Duties of Excise (Goods of Special Importance) Act,
+1957 ( 58 of 1957):
+
+(v) the National Calamity Contingent duty leviable under section 136 of the Finance Act, 2001 (14 of 2001);
+
+(vi) the Education Cess on excisable goods leviable under section 91 read with section 93 of the Finance (No.2) Act, 2004 (23 of
+2004);
+
+(via) the Secondary and Higher Education Cess on excisable goods leviable under section 136 read with section 138 of the Finance
+Act, 2007 (22 of 2007);
+
+(vii) the additional duty leviable under section 3 of the Customs Tariff Act, equivalent to the duty of excise specified under clauses
+(i), (ii), (iii), (iv), (v) (wi) and (via);
+
+(viia)the additional duty leviable under sub-section (5) of section 3 of the Customs Tariff Act,
+
+Provided that a provider of taxable service shall not be eligible to take credit of such additional duty,
+
+(viii) the additional duty of excise leviable under section 157 of the Finance Act, 2003 (32 of 2003);
+
+(ix) the service tax leviable under section 66 of the Finance Act;
+
+(x) the Education Cess on taxable services leviable under section 91 read with section 95 of the Finance (No.2) Act, 2004 (23 of
+2004); and
+
+(xa) the Secondary and Higher Education Cess on taxable services leviable under section 136 read with section 140 of the Finance
+Act, 2007 (22 of 2007); and
+
+(xi) the additional duty of excise leviable under section 85 of Finance Act, 2005 (18 of 2005 )
+
+The enumerated list of items in respect of which CENVAT credit is available makes no
+reference to the KKC. By the Notification No. 28/2016 - Central Excise (N.T.), the 26th May, 2016,
+the Central Government made the following rules, which came into force on 1st of June, 2016,
+,to amend the CENVAT Credit Rules, 2004. In rule 3, as reproduced above, after sub-rule (1), the
+
+following sub-rule was inserted :-
+
+“(la) A provider of output service shall be allowed to take CEN VAT credit of the Krishi Kalyan Cess on taxable services
+leviable under section 161 of the Finance Act, 2016 (28 of 2016);”;
+
+Thus, CENVAT credit was available in respect of KKC. However, we need to see the
+following amendments, too, as were brought by the aforesaid Notification No. 28/2016 - Central
+Excise (N.T.), the 26th May, 2016 -
+
+i. in sub-rule (4), after the ninth proviso, the following proviso was inserted -
+
+“Provided also that the Cenvat credit of any duty specified in sub-rule (1) shall not be utilised for
+
+payment of Krishi Kalyan Cess leviable under section 161 of the Finance Act, 2016 (28 of 2016);”;
+
+ii. in sub-rule (7), after clause (c), the following clause was inserted -
+
+“(d) Cenvat credit in respect of Krishi Kalyan Cess on taxable services leviable under section 161
+of the Finance Act, 2016 (28 of 2016) shall be utilised only towards payment of Krishi Kalyan Cess
+on taxable services leviable under section 161 of the Finance Act, 2016 (28 of 2016)”;
+
+It can be seen that by express provision, it was made clear that KKC would be utilised
+towards payment of KKC only. Further, it was expressly provided that the list of items in respect
+of which CENVAT credit is available, as enumerated above, would not be utilized for payment
+of KKC. Thus, there was a clear demarcation of the credit in respect of KKC. Under GST, there
+is no levy of KKC. Now, we know that tax and duty and cess are distinct levies. In Cellular
+
+Operators Association of India vs. Union of India [Writ Petition (Civil) No. 7837/2016
+
+dt.15.02.2018], the Hon. Delhi High Court was dealing with the Petition for direction that the
+
+
+
+Education Cess (SHE, for short) should be allowed to be utilised for payment of service tax
+
+leviable and payable on telecommunication services. The facts of this case were thus -
+
+“2, Finance (No. 2) Act, 2004 had introduced levy of EC on excisable goods and taxable services. SHE on excisable goods
+and taxable services was imposed vide Finance Act, 2007.
+
+3. Under the CENVAT Credit Rules, 2004 (CCR, for short), credit of EC and SHE was admissible and could be utilised for
+payment of EC and SHE respectively. In other words, CENVAT credit on EC and SHE on inputs, capital goods and input services
+could be utilised and availed of for payment of EC and SHE on manufactured goods and output services. Input EC and SHE credit
+had the effect of preventing cascading effect on EC and SHE payable down the line. It is an accepted and admitted case that benefit
+of EC and SHE on inputs, etc. could not have been utilised for payment of excise duty service tax on the output, i.e, manufactured
+goods or taxable services. Thus, cross utilization of EC and SHE towards excise duty or service tax was impermissible and not
+permitted.
+
+4. EC and SHE were abolished and were not payable on excisable goods with effect from 1" March, 2015 vide Notification
+Nos. 14/2015-CE and 15/2015-CE both dated 1 March, 2015. EC and SHE were also abolished and ceased to be payable on
+taxable services when Section 95ofFinance Act (No. 2) 2004 and Section 140ofFinance Act, 2007 were omitted by Finance Act,
+2015. The omission was to take effect from 1 June, 2015 vide Notification No. 14/2015-ST dated 19% May, 2015. As a result, levy
+of EC and SHE on excisable goods was withdrawn with effect from March, 2015 and in respect of taxable services with effect
+from I June, 2015. The petitioners do not have any grievance against the withdrawal or abolition of levy of EC and SHE.
+
+5. The grievance of the petitioners is, and they claim a vested right to avail benefit of the unutilized amount of EC or SHE
+credit, which was available and had not been set off as on I" March, 2015 and I" June, 2015 for payment of tax on excisable
+goods and taxable services respectively.”
+
+The Hon. Court observed thus -
+
+“It is no doubt true that the two cesses, in the present case, were in the nature of taxes and not fee, but it would be incorrect
+and improper to treat the two cesses as excise duty or service tax. They were specific cesses for the objective and purpose
+SPOCHICU. cesseserrssresenrsnsesensncssnnanaaeasaaaesacseascaucacesecsessescecccsccecaseceseceucaececeaeacaucaaeaeeeseneaes
+eaves As noticed above, in the present case, credit of EC and SHE could be only allowed against EC and SHE and could not be
+cross-utilized against the excise duty or service tax. In fact, what the petitioners seek is an amendment of the scheme to allow
+them to take cross utilization of the unutilized EC and SHE upon the two cesses being withdrawn against excise duty and service
+tax, though this was not the position even earlier.”
+
+The Hon. Court dismissed the Writ Petition. In the present case, KKC is to be utilized for
+
+payment of KKC only. Therefore, KKC cannot be treated as excise duty or service tax. in view
+thereof, the CENVAT credit as referred to in sub-section (1) of section 140 would not include the
+credit in respect of KKC. We can also see the position in respect of the Swachh Bharat Cess (SBC)
+which was brought in force by Chapter VI (Section 119) of the Finance Act 2015. The Frequently
+Asked Questions (FAQ) issued by the Central Board of Excise and Customs (CBEC) in regard to
+SBC explained the new levy thus -
+
+Q.1 What is Swachh Bharat Cess (SBC)?
+
+Ans. It is a Cess which shall be levied and collected in accordance with the provisions of Chapter VI of the Finance Act,
+2015,called Swachh Bharat Cess, as service tax on all the taxable services at the rate of 0.5% of the value of taxable service.
+
+0.14 Whether Cenvat Credit of the SBC is available?
+Ans. SBC is not integrated in the Cenvat Credit Chain. Therefore, credit of SBC cannot be availed. Further, SBC cannot be
+
+paid by utilizing credit of any other duty or tax.
+Chapters of the Finance Act by which SBC and KKC were brought into effect could be
+
+had a look at thus -
+
+CHAPTER VI SWACHH BHARAT CESS CHAPTER VI - KRISHI KALYAN CESS
+119. (1) This Chapter shall come into force on such date as the | 161. (1) This Chapter shall come into force on the Ist day of June,
+Central Government may, by notification in the Official Gazette, | 2016.
+
+appoint.
+(2) There shall be levied and collected in accordance with the (2) There shall be levied and collected in accordance with the
+
+provisions of this Chapter, a cess to be called the Swachh Bharat | provisions of this Chapter, a cess to be called the Krishi Kalyan Cess,
+Cess, as service tax on all or any of the taxable services at the rate of | as service tax on all or any of the taxable services at the rate of 0.5
+two per cent. on the value of such services for the purposes of | per cent. on the value of such services for the purposes of financing
+financing and promoting Swachh Bharat initiatives or for any other and promoting initiatives to improve agriculture or for any other
+purpose relating thereto. purpose relating thereto.
+
+The Swachh Bharat Cess leviable under sub-section (2) shall be | (3) The Krishi Kalyan Cess leviable under sub-section (2) shall be in
+idition to any cess or service tax leviable on such taxable services | addition to any cess or service tax leviable on such taxable services
+‘hapter V of the Finance Act, 1994, or under any other law for | under Chapter V of the Finance Act, 1994, or under any other law
+being in force. for the time being in force.
+
+
+
+(4) The proceeds of the Swachh Bharat Cess levied under sub-section | (4) The proceeds of the Krishi Kalyan Cess levied under sub-section
+(2) shall first be credited to the Consolidated Fund of India and the | (2) shall first be credited to the Consolidated Fund of India and the
+Central Government may, after due appropriation made by | Central Government may, after due appropriation made by
+Parliament by law in this behalf, utilise such sums of money of the | Parliament by law in this behalf, utilise such sums of money of the
+Swachh Bharat Cess for such purposes specified in sub-section (2), | Krishi Kalyan Cess for such purposes specified in sub-section (2), as
+as it may consider necessary. it may consider necessary.
+
+(3) The provisions of Chapter V of the Finance Act, 1994 and the rules_| (5) The provisions of Chapter V of the Finance Act, 1994 and the
+made thereunder, including those relating to refunds and exemptions | rules made thereunder, including those relating to refunds and
+from tax, interest and imposition of penalty shall, as far as may be, | exemptions from tax, interest and imposition of penalty shall, as far
+apply in relation to the levy and collection of the Swachh Bharat Cess_| as may be, apply in relation to the levy and collection of the Krishi
+on taxable services, as they apply in relation to the levy and collection | Kalyan Cess on taxable services, as they apply in relation to the levy
+of tax on such taxable services under Chapter V of the Finance Act, | and collection of tax on such taxable services under the said Chapter
+1994 or the rules made thereunder, as the case may be. or the rules made thereunder, as the case may be.
+
+As can be seen, both SBC and KKC are on the same lines. Therefore, the FAQs explaining
+
+SBC apply with equal force to KKC. Under the GST Act too, the FAQs issued by CBEC clarify
+
+thus -
+
+{112 | Can ITC of Swach Bharat Cess or Krishi Kalyan Cess be carried forward under GST? [No |
+
+Thus, it can be seen that the non-availability of carry forward of credit with respect to
+KKC has been clarified to the Trade. In view thereof, we are convinced that accumulated credit
+by way of Krishi Kalyan Cess (KKC) as appeared in the Service tax return of Input Service
+Distributor (ISD) on June 30, 2017 which is carried forward in the electronic credit ledger
+maintained by the company under CGST Act 2017, will not be considered as admissible input
+tax-credit.
+
+05. In view of the deliberations as held hereinabove, we pass an order as follows :
+
+ORDER
+
+(under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+NO.GST-ARA-18/2017-18/B- = 2 = Mumbai, dt. s/ 4 ) 99)%
+For reasons as discussed in the body of the order, the question is answered thus -
+
+Q. Whether accumulated credit by way of Krishi Kalyan Cess (KKC) as appeared in the Service tax
+return of Input Service Distributor (ISD) ON June 30, 2017 which is carried forward in the
+electronic credit ledger maintained by the company under CGASTAct 2017, will be considered as
+admissible input tax-credit?
+
+A. Answered in the negative.
+
+S— —_4
+B. V. BORHADE PANKAJ KUMAR
+(MEMBER) (MEMBER)
+
+‘CERTIFIED TRUE COPY
+
+ADVANCE IG AUTHORITY
+
+Sees caeme. Aiea TATE sat maDat
+
+
+Copy to:-
+1. The applicant
+
+2. The concerned Central / State officer
+3. The Commissioner of State Tax, Maharashtra State, Mumbai
+
+3. The Jurisdictional Commissioner of Central Tax

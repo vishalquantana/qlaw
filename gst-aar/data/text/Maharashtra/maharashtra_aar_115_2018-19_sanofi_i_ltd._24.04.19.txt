@@ -1,0 +1,1471 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+GST Bhavan, 8' floor, H-Wing, Mazgaon, Mumbai - 400010.
+(Constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri B. Timothy, Addl. Commissioner of Central Tax, (Member)
+(2) Shri B. V. Borhade, Joint Commissioner of State Tax, (Member)
+
+GSTIN Number, if any/ User-id* 27AAACH2736F1ZU
+
+Legal Name of Applicant SANOFI INDIA LIMITED
+
+Registered Address/ Address | CTS No 117-B, Sanofi House, Saki Vihar Road, L&T
+provided while obtaining user id Business Park , Powai, Mumbai -400072.
+
+Details of application GST-ARA, Application No. 115 Dated 28.01.2019
+Concerned officer Commissioner CGST and CX, Mumbai East, Mumbai
+
+Nature of activity(s) (proposed /
+present) in respect of which advance
+ruling sought
+
+A_ | Category Wholesale Business, Warehouse/Deport, Service
+Provision, Office /Sale Office, Service Recipient
+B_ | Description (in brief) Sanofi India Limited (“Sanofi” or “We” or “the
+
+Company” or“ the Applicant”), in India is engaged in
+business of sale of pharmaceutical goods and services
+through group entities. Sanofi has its head office in
+Mumbai and manufacturing unit at Goa and
+Ankaleshwar. Sanofi also gets its products
+manufactured through Third party manufacturers
+who manufacture goods on Contract manufacturing
+basis. Further Sanofi provides taxable services and is
+registered under GST.
+
+Sanofi in its business operations incurs various
+marketing and distribution expenses. The said
+expenses are incurred with a view to promote their
+brand/ products and enhance its sales. Under
+various schemes, Sanofi distributes different
+products among its trade channels as promotional
+items or brand reminders. Further, Sanofi also offers
+various promotional schemes such as Shubh Labh
+trade loyalty program, etc.
+
+Issue/s on which advance ruling | (iv) Admissibility of input tax credit of tax paid or
+
+required deemed to have been paid
+
+Question(s) on which advance ruling
+
+is required As reproduced in para 02 of the Proceedings below.
+PROCEEDINGS
+
+(Under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+The present application has been filed under section 97 of the Central Goods and Services
+Tax Act, 2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as
+
+
+“the CGST Act and MGST Act respectively”] by M/s SANOFI INDIA LIMITED, seeking an
+advance ruling in respect of the following questions.
+
+I. Whether input tax credit is available of the GST paid on expenses incurred towards promotional
+schemes of Shubh Labh Loyalty Program?
+2. Whether input tax credit is available of the GST paid on expenses incurred towards promotional
+
+schemes goods given as brand reminders?
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act
+and the MGST Act are the same except for certain provisions. Therefore, unless a mention is
+specifically made to any dissimilar provisions, a reference to the CGST Act would also mean a
+reference to the same provision under the MGST Act. Further to the earlier, henceforth for the
+purposes of this Advance Ruling, the expression ‘GST Act’ would mean CGST Act and MGST
+Act.
+
+02 FACTS AND CONTENTION - AS PER THE APPLICANT
+The submissions, as reproduced verbatim, could be seen thus-
+
+“3.1 Statement of relevant facts having a bearing on the question(s) raised
+Facts of the Case :
+
+a. Sanofi India Limited (“Sanofi” or “We” or “the Company” or “the Applicant”), in India
+is engaged in business of sale of pharmaceutical goods and services through group
+entities. Sanofi has its head office in Mumbai and manufacturing unit at Goa and
+Ankleshwar. Sanofi also gets its products manufactured through Third party
+manufacturers who manufacture goods on Contract manufacturing basis. Further Sanofi
+provides taxable services and is registered under GST.
+
+~-b=... Sanofi in its business operations incurs various marketing and distribution expenses. The
+
+“said expenses are incurred with a view to promote their brand/ products and enhance
+
+fsysales. Under various schemes, Sanofi distributes different products among its trade
+
+‘ els as promotional items or brand reminders. Further, Sanofi also offers various
+promotional schemes such as Shubh Labh trade loyalty program, etc.
+
+aes ce. Incase of brand reminders, products like pens, notepad, key chains etc. are distributed
+
+\* ee fo the distributors with their name embossed on it. The brand embossed on these
+
+\ _/ products serve as an advertisement tool and is a brand reminder. Such products act as
+
+~~. reminder of the association with the brand Sanofi so as to promote products of Sanofi.
+
+‘In case of Shubh Labh trade loyalty program (Catalogue enclosed as Annexure 1), the
+
+distributors/ wholesalers get rewards based on the reward points earned on the basis of
+
+quantity of goods sold by them.
+
+For example: Combiflam Tablet purchased in minimum quantity of 01 shipper/case or
+
+14,040 tablets will be eligible for 01 reward coupon. On activation of one (01) Combiflam
+
+coupon, wholesaler will be credited with FIFTEEN (15) reward points and confirmed via
+
+text/SMS to registered mobile number. Further, as per the scheme catalogue the
+
+wholesalers who have earned 35000 points will be eligible for Singapore Trip For 2
+
+Persons; 6 Days/5 Nights, the wholesalers who have earned 24000 points will be eligible
+
+for claiming Raymond Weil 2760-St3-50001 Watch -For Men, etc.
+
+e. In the above example, when the wholesaler opts for Raymond watch, the watch is
+purchased by Sanofi and provided to the wholesaler as per the agreed terms of the
+promotional scheme. The invoice for the said watch is raised in the name of the Sanofi
+and accordingly, input tax credit (‘ITC’) of the GST paid on the watch is claimed by
+Sanofi.
+
+3.2. STATEMENT CONTAINING APPLICANTS INTERPRETATION OF LAW AND/OR
+FACTS, AS THE CASE MAYBE, IN THE CASE OF THE AFORESAID QUESTIONS:
+
+2
+
+
+
+The Applicant prefers this application for Advance Ruling under Section 97 of Central Goods
+and Services Tax Act, 2017 (“CGST Act”) and Maharashtra Goods and Services Tax Act, 2017
+(‘SGST Act”) on the question of law as to:
+
+Q.1. Whether input tax credit is available of the GST paid on expenses incurred towards
+promotional schemes of Shubh Labh Loyalty Program or goods given as brand
+reminders?
+
+GST Provisions
+i. Before analyzing the eligibility of ITC on the type of products as mentioned above,
+following are key provisions from CGST Act, 2017 which are significant to determine the
+eligibility of the credit -
+
+Section 2(59) of CGST Act, 2017 - “input” means any goods other than capital goods used
+or intended to be used by a supplier in the course or furtherance of business
+
+Section 2(60) of CGST Act, 2017 - “input service” means any service used or intended to
+be used by a supplier in the course or furtherance of business
+© As per Section 16(1) of the said Act - “Every registered person shall, subject to such
+conditions and restrictions as may be prescribed and in the manner specified in section 49,
+be entitled to take credit of input tax charged on any supply of goods or services or both to
+him which are used or intended to be used in the course or furtherance of his business and
+the said amount shall be credited to the electronic credit ledger of such person”
+
+Thus, credit is available of input tax paid on goods which are used for furtherance of
+business.
+
+However, as per Section 17(5)(h) of the CGST Act, 2017, “input tax credit shall not be
+available in respect of the following, namely: goods lost, stolen, destroyed, written off or
+disposed of by way of gift or free samples.”
+
+As per the above provision, credit is not available of goods which are given as gift and free
+samples.
+ii, As mentioned above, in case of brand reminders, products like pens, notepad, key chains
+etc. are distributed to the distributors and doctors. The said products are embossed with
+Sanofi brand. The brand embossed on these product serves as an advertisement tool and is a
+brand reminder. Such goods act as reminder of the association with the brand Sanofi so as to
+promote sales. The exhaustive list of goods distributed as brand reminders is enclosed as
+“Annexure II’.
+iii. ‘As per the provisions of the CGST Act as highlighted above, every registered person is
+entitled to take credit of input tax charged on any supply of goods or services or both to him
+wwhigh are used or intended to be used in the course or furtherance of his business.
+
+: ivy” In the present case, the brand reminders are provided to the wholesalers in furtherance
+
+Sf business so as to promote Sanofi brand and its products. Thus, ITC should be allowed of
+
+~ the GST paid on procurement of such products which are given to wholesalers as brand
+reminders. However, Section 17(5) of the CGST Act covers gifts for the purpose of ineligible
+credit.
+v. Ona plain reading of the aforesaid provisions it can reasonably be concluded that ITC
+has to be reversed with respect to any goods disposed off by way of gift or free samples.
+However, it is important that the ambit and scope of “gifts” is understood properly.
+vi. ‘Gift’ has not been defined under the CGST Act. Hence, reference will have to be made
+to other statutes and the jurisprudence available on the same. Gift, as per the Gift-Tax Act (18
+of 1858) has been defined to mean transfer by one person to another of any existing movable
+or immovable property voluntarily and without consideration in money or money's worth.
+Further reference can be made to the definition of gift in Corpus Juris Secundum, Volume 38,
+referred with approval by the Honourable Supreme Court in the case of the case of Sonia
+Bhatia v. State of UP [1981 (3) TMI 250 - Supreme Court], wherein 'gift' has been held to be a
+voluntary transfer of property by one to another, without any consideration or compensation
+therefor. A ‘gift’ is a gratuity and an act of generosity and does not require a consideration; if
+there is a consideration for the transaction, it is not a gift. In the same case, it was also held
+
+3
+
+
+that a gift is a transfer which does not contain any element of consideration in any shape and
+form - Love, affection, spiritual benefit and many other factors may enter in the intention of
+the donor to make a gift but these filial considerations cannot be called or held to be legal
+considerations as understood by law.
+
+vii. The Australian High Court in the case of Commissioner of Taxation (Cth) v. McPhail
+[1968] 41 ALJR 346 held that to constitute a 'gift' the property should be transferred
+voluntarily and not as a result of a contractual obligation. In this case a person agreed to give
+a donation to a school in return of school charging less fees for the education of the child of
+said person. Hence, the Court held that such donation cannot be termed as 'gift' as it was
+made under a contractual obligation wherein school was required to charge lower fees
+against the donation made.
+
+viii.In light of the above, one can reasonably conclude that to constitute a “gift” following
+elements are required to be satisfied:-
+
+a. Supply must be made without any contractual obligation. If any supply is made
+under a contractual obligation it cannot be termed as a 'gift'.
+b. Supply must be made without any consideration in money or money's worth.
+
+Hence, supplies made out of love and affection or such other non- legal
+considerations can only be termed as 'gifts'.
+ix. Based on above, it is important to understand whether the brand reminders given
+by Sanofi free of cost to its wholesalers can be considered as gift and thus, ITC of GST paid
+on the said products will be disallowed. The sample invoices for procurement of such
+products distributed as brand reminders are enclosed as Annexure III.
+x. As we have noted before, it is a settled law that “A ‘gift’ is a gratuity and an act of
+generosity”. Given Indian traditions, Diwali gifts should more or less qualify as a ‘gift’ within
+that definition and thus necessitate credit reversal. However, company may often give out
+various kind of articles like diaries, pen sets, calendars, paper weights, injection boxes etc.
+embossed with bold logo of its brand name/ product name so that the recipient remembers
+the brand of the company. Such articles would typically be low cost articles which bear the
+~.name of the company and are purely for the promotion of its product/brand. Clearly, giving
+of such articles cannot be said to be ‘a gratuity’ or ‘an act of generosity’ and to that extent,
+A credit vis a vis such expenses, it can be argued, does not need to be reversed.
+
+The Company is of the view that the products distributed to its wholesalers are
+ne, FpSpppmoting their brand and are in furtherance of business and thus, ITC of the GST paid
+& onysuth products should be available.
+
+ey } The Oxford dictionary has defined the term “promotion” as an activity that
+orts or encourages a cause, venture or aim, the publicizing of a product, organization,
+St venture so as to increase sales or public awareness. Further, the term “furtherance” is
+defined as the advancement of a scheme or interest. In context of the term “furtherance of
+business” it means advancement of business of the company.
+xiii. The meaning of supply made in course or furtherance of business given in the
+FAQ on GST released by CBEC says - No definition or test as to whether the activity is in the
+course of furtherance of business has been specified under the CGST Act. However, the
+following business test is normally applied to arrive at a conclusion whether a supply has
+been made in the course or furtherance of business:
+
+a. Is the activity, a serious undertaking earnestly pursued?
+
+b. Is the activity, pursued with reasonable or recognizable continuity?
+
+es Is the activity, conducted in a regular manner based on sound and recognized
+business principles?
+
+d. Is the activity, predominantly concerned with the making of taxable supply for
+
+consideration/ profit motive?
+xiv. Accordingly, when the inputs and/ or input services are said to be used in furtherance of
+business, the use of such supplies should help in achieving the objectives of the business in a
+better and effective way, thus corresponding credit is allowed. In the present case, the brand
+
+4
+
+
+reminders are given to wholesalers with an intention to increase sales of the Company and
+thus given for promoting the brand and advancement of the business which is the primary
+objective.
+
+xv. It is pertinent to note that, if promotional items are considered as gift and the ITC on the
+same is disallowed, this will have a huge impact across the businesses because in order to
+promote sales or to create goodwill, the companies carry out various promotional schemes
+including distributing goods for brand promotion.
+
+xvi. The act of giving free supplies is similar to the promotional and advertising activities
+undertaken by every business which are the basic ingredients and inevitable. Moreover,
+when a business makes a free supply, the cost which the business has incurred is always
+taken into account by him in fixing the price of the rest of supplies. Thus, the business is not
+forbearing any loss on distribution of such goods to the wholesalers. Albeit-indirectly, the
+exchequer will get GST even on the value of the free supplies and there is no revenue loss as
+such to the government as well.
+
+xvii. If business promotion and advertisement expenses are not specifically excluded and are
+considered as ‘in the course or furtherance of business! then in view of the applicant same
+treatment is available for free supplies. Thus, the ITC of the GST paid on goods distributed
+as brand reminders should be available.
+
+xviii. We also want the highlight entry (1) of Schedule I to the Central Goods and Services Tax
+Act, 2017 (‘CGST Act’). The said entry in Schedule I to the CGST Act reads the following:
+
+“ ACTIVITIES TO BE TREATED AS SUPPLY EVEN IF MADE WITHOUT CONSIDERATION
+1. Permanent transfer or disposal of business assets where input tax credit has been availed
+on such assets”
+
+xix. In accordance with the aforesaid entry, a view can be taken that since the input tax credit
+has been availed on acquisition of such products, giving away the same for free to its
+customers is nothing but permanent transfer or disposal of the business assets.
+
+XX, In this regard, the applicant wishes to submit that the products like pens, notepad, key
+
+_oocwer~. Chains, etc. given as brand reminders cannot be termed as “business assets”. The term
+
+_ “business asset is defined in general term as a piece of property or equipment purchased
+
+Sy extlusively or primarily for business use. There are many different categories of assets
+
+\indluiding current and non-current, short-term and long-term, operating and capitalized, and
+
+ngible and intangible. Business assets are itemized and valued on the balance sheet, which
+can.bg found in the company's annual report. The products such as pens, key chains, etc. are
+iased and embossed with company logo so as to distribute to its customers for
+
+Pro) notion purpose which can be said as incurring business expenses. The same can in no
+
+‘ay be said to be permanent disposal or transfer of business assets.
+
+’° Further, in case of Shubh Labh Loyalty program, as mentioned above, the
+
+distributors/ wholesaler get promotional items based on the reward points earned on the
+
+basis of goods sold by them. Thus, they have earned such reward points on the basis of the
+target achieved by them.
+
+xxii. In the example provided above, the wholesaler who has earned 24000 points will be
+eligible for claiming Raymond Weil 2760-St3-50001 Watch -For Men. The said points are
+earned on the basis of quantity of the Sanofi products sold by the wholesaler. Thus, the
+rewards in the form of watch given to the wholesaler is on achieving a particular target as
+per the scheme and is not in the nature of gift. Infact, the wholesaler has earned the said
+watch on the basis of the sales target achieved.
+
+xxiii. Based on the above, it can be concluded that in case of the Shubh Labh Scheme, the watch
+given to the wholesaler is not a gift as the watch is given under the contractual obligation
+under the scheme. It is the consideration for achieving a particular sales target and hence,
+input tax credit on purchase of the said watch should be available to Sanofi. Further, the said
+expenditure is incurred in furtherance of business so as to increase the sales.
+
+xxiv. Regarding the point on disposal or transfer of business asset, we would like to state that
+on a reading of the entry 1 along with the heading of Schedule I, the disposal of the asset
+
+5
+
+
+should be a standalone/independent transaction being done without consideration - a
+transaction with consideration cannot be artificially split to invent an activity without
+consideration within the aforesaid transaction with consideration. In the example given
+above, the ‘free’ item doesn’t seem to be the one which is being disposed off without
+consideration, negating the applicability of the entry 1 of Schedule 1 to the CGST Act. The
+watch is earned on the basis of sales target achieved.
+
+xxv. Reference herein can be made to the decision of the Hon’ble first tier tax tribunal in
+United Kingdom in the case of Marks & Spencer PLC, wherein under an offer M&S was
+providing “free wine for dine” in 10 pounds. The Tribunal held that when a ‘commercial
+common sense approach’ is adopted, the term ‘free’ was being used in a marketing sense, but
+the economic and commercial reality of the offer was that M&S was offering a package of
+four items for 10 pounds, so the price must be allocated across all four items for VAT
+purposes. In the example given above, the reward in the form of watch given to the
+wholesaler is on achieving a particular target as per the scheme and is not without any
+consideration. Thus, no GST should be levied on the said transaction.
+
+xxvi. In addition, we would like to state that even under the erstwhile tax regime, there was
+no such restriction on availment of input tax credit or cenvat credit on goods purchased for
+the purpose of distributing the same to customers for promotion in the course or furtherance
+of business. In this regard, we wish to highlight relevant extracts of the Maharashtra VAT
+Rule, 2005 and Cenvat Credit Rules, 2004:
+
+a. Rule 52. Claim and grant of set-off in respect of purchases made in the periods
+commencing on or after the appointed day
+(1) In assessing the amount of tax payable in respect of any period starting on or after the
+appointed day, by a registered dealer (hereinafter, in this rule, referred to as "the claimant
+dealer") the Commissioner shall subject to the provisions of rules 53, 54, 55 and 55B in respect
+of the purchases of goods made by the claimant dealer on or after the appointed day, grant
+him a set-off of the aggregate of the following sums, that is to say, -
+. (a) the sum collected separately from the claimant dealer by the other registered dealer by
+‘Way of tax on the purchases made by the claimant dealer from the said registered dealer of
+godds being capital assets and goods the purchases of which are debited to the profit and
+$$ Account or, as the case may be, the trading account,
+(b) tay paid in respect of any entry made after the appointed day under the Maharashtra Tax
+on the Entry of Motor Vehicles into Local Areas Act, 1987, and
+(¢)*the tax paid in respect of any entry made after the appointed day under the Maharashtra
+“Taxon the Entry of Goods into Local Areas Act, 2003.
+(d) the purchase tax paid by the claimant dealer under this Act.
+
+_© (2) The set-off under this rule shall not be granted in regard to any quantum of tax if set-off
+
+under rule 51 has been claimed in respect of the same quantum of tax or if set-off has been
+
+claimed in respect of the said quantum under any earlier law. ....
+
+b. Rule 2 (a) "capital goods" means:-
+
+(A) the following goods, namely:-
+
+(i) all goods falling under Chapter 82, Chapter 84, Chapter 85, Chapter 90, heading No. 68.05
+grinding wheels and the like, and parts thereof falling under heading 6804 of the First
+Schedule to the Excise Tariff Act;
+
+(ii) pollution control equipment;
+
+(iii) components, spares and accessories of the goods specified at (i) and (ii);
+
+(iv) moulds and dies, jigs and fixtures;
+
+(v) refractories and refractory materials;
+
+(vi) tubes and pipes and fittings thereof; and
+
+(vii) storage tank, used-
+
+1) in the factory of the manufacturer of the final products, but does not include any
+equipment or appliance used in an office; or
+2) for providing output service;
+
+
+
+(B) motor vehicle registered in the name of provider of output service for providing taxable
+service as specified in sub-clauses (f), (n), (0), (zr), (zzp), (zzt) and (zzw) of clause (105) of
+section 65 of the Finance Act;
+
+c._ Rule 2 (k) “input” means-
+
+i) all goods, except light diesel oil, high speed diesel oil and motor spirit, commonly known
+as petrol, used in or in relation to the manufacture of final products whether directly or
+indirectly and whether contained in the final product or not and includes lubricating oils,
+greases, cutting oils, coolants, accessories of the final products cleared along with the final
+product, goods used as paint, or as_packing material, or as fuel, or for generation of
+electricity or steam used in or in relation to manufacture of final products or for any other
+purpose, within the factory of production;
+
+(ii) all goods, except light diesel oil, high speed diesel oil, motor spirit, commonly known as
+petrol and motor vehicles, used for providing any output service;
+
+Explanation 1.- The light diesel oil, high speed diesel oil or motor spirit, commonly
+known as petrol, shall not be treated as an input for any purpose whatsoever.
+Explanation 2.- Input include goods used in the manufacture of capital goods which are
+further used in the factory of the manufacturer; but shall not include cement, angles,
+channels, Centrally Twisted Deform bar (CTD) or Thermo Mechanically Treated bar
+(TMT) and other items used for construction of factory shed, building or laying of
+foundation or making of structures for support of capital goods;
+
+d. Rule 2 (1) "input service" means any service,-
+
+(i) used by a provider of taxable service for providing an output service; or
+
+(ii) used by the manufacturer, whether directly or indirectly, in or in relation to the
+manufacture of final products and clearance of final products upto the place of removal,
+
+and includes services used in relation to setting up, modernization, renovation or repairs of
+
+a factory, premises of provider of output service or an office relating to such factory or
+
+premises, advertisement or sales promotion, market research, storage upto the place of
+
+._ removal, procurement of inputs, activities relating to business, such as accounting, auditing,
+
+‘financing, recruitment and quality control, coaching and training, computer networking,
+credit rating, share registry, and security, inward transportation of inputs or capital goods
+
+i aed on transportation upto the place of removal;
+
+=
+
+ased on above, the applicant contends even in the erstwhile regime, there was no such
+
+fe 1 ction on availment of VAT credit on purchases made for promotion of business.
+
+Fur er, even under Service Tax Law, the cenvat credit was available on purchase of inputs,
+
+'_diput services or capital goods which were used for furtherance of business. Thus, the input
+
+tax credit of the GST paid on purchase of such promotional items should also be available
+~~~ under the GST regime since the same are for furtherance of business.
+
+xxviii. Further, the applicant does reverse the input tax credit wherever it is required by law.
+For example: Recently in the applicant's office they had kept combiflam cream free samples
+at their reception which can be taken by employees or any visitor to their office. The
+company has reversed the input tax credit in relation to the same as the free samples given
+are pure gift in this case and not in furtherance of business. Similarly, the company gives its
+products to doctors as free samples for which it does reverse the input tax credit.
+
+xxix. Based on above, we request your good self to provide valuable opinion of eligibility of
+input tax credit in the above cases.
+
+Shubh labh 2018:
+Portfolio:
+
+- Combiflam Tablet purchase in minimum quantity of 01 shipper/case or 14,040 tablets
+will be eligible for 01 reward coupon
+
+- Allegra & Enterogermina purchase value of Rs 3000 will be eligible for 01 reward coupon
+(MT coupon)
+
+- Combiflam ICY HOT Gel/spray purchase value of Rs 3000 will be eligible for 01 reward
+coupon ( ICYHOT coupon)
+
+7
+
+
+- Heritage Range is split into 2 groups- Power Range and Classic Range- Rs 3000 purchase
+value will be eligible for 01 reward coupon
+° Power Brands - Avil Tablets, Dulcoflex, Buscogast Tablet, NU range, and festal
+° Classic Brands - Avil Injectibles, Buscogast Injectibles, Soframycin, Combiflam
+suspension, Seacod and Proctocedyl
+Reward Points:
+- onactivation of one (01) Combiflam coupon, wholesaler will be credited with FIFTEEN
+(15) reward points and confirmed via text/SMS to registered mobile number
+- onactivation of one (01) MT coupon, wholesaler will be credited with FIVE (05) reward
+points and confirmed via text/SMS to registered mobile number
+- on activation of one (01) ICYHOT coupon, wholesaler will be credited with TEN (10)
+reward points and confirmed via text/SMS to registered mobile number
+- on activation of one (01)/POWER Brand coupon, wholesaler will be credited with FIVE
+(05) reward points and confirmed via text/SMS to registered mobile number
+- on activation of one (01) CLASSIC Brand coupon, wholesaler will be credited with
+THREE (03) reward points and confirmed via text/SMS to registered mobile number
+Combo Points:
+- Additional bonus on purchase of minimum 3 types of coupons in a calendar month will
+be rewarded to the wholesaler account on the 1st day of the subsequent month.
+- 10 bonus points will be rewarded to Blue, Silver & Gold. And 20 bonus points will be
+rewarded to the diamond, platinum and titanium segment
+- WSwill have to active minimum 3 coupons from Allegra, Power, Combiflam Tab and Icy
+Hot
+SEGMENT BOUNDARY Bonus: Quarterly
+Additional Bonus will be rewarded every Quarter to the wholesalers who will maintain the
+Segment boundary average for each quarter
+
+Segment Name Value Range Segment Boundary Quarterly Bonus
+Blue, 5-19 15 30
+Silvery, 20-35 35 50
+ey Gold, \\ 36-60 60 75
+: Diamond 61-100 100 100
+Platinum 101-300 175 150
+Titaniyzm >300 300 200
+
+: Combiflam Volume Focus:
+~<a" Wholesalers will be rewarded additional bonus of 5 points per case on achieving the 2017
+monthly base in addition, wholesalers will be rewarded 10 points per case, on registering the
+growth in Combiflam Cases on quarterly basis. This will be rewarded Once in a Quarter
+ICY HOT Secondary Focus: Driving Depth and Distribution (Jan May period)
+- Wholesalers will be eligible to win assured Gift on achieving the Combiflam ICY HOT
+
+minimum purchase slab on monthly basis
+
+Min Reward(Value/ type)
+Eligibility Criteria MoM for CFM ICY HOT| monthly
+
+Secondary Drive coupons
+
+Blue 1 Rs. 1000
+Silver 1 Rs. 1000
+Gold 1 Rs. 2000
+Diamond 1 Rs. 2000
+Platinum (Additional condition of achieving the 2 Assured Trip
+2017 monthly Value) (2N/3D)
+Titanium (Additional condition of achieving the 2 Assured Trip
+
+2017 monthly Value) (3N/4D)
+
+
+
+é
+
+ax
+
+\
+
+Shubh Labh 2018 is the program for registered Wholesale trade partners only. To confirm your
+participation for Shubh Labh 2018 you will login www.Shubhlabh.empowerreward.com OR the
+Shubh Labh Mobile application, and read the Terms and conditions clearly and accept them
+by/before 30th of Jan 2018. Your login into the program will be ‘active' only basis your
+understanding and acceptance of Terms and conditions mentioned below-
+Terms and Conditions
+I. Program Methodology
+
+- Your registered Mobile number will be your login and user account number for the
+
+reward program
+- Coupon activation can be done from the registered mobile number/ Mobile application
+
+ONLY
+- Details about Shubh Labh 2018 program participation, coupon activation, reward points
+summary will be accessible only on your customized web page of
+
+www.shubhlabhempower.com
+
+- Purchase of goods to be done only from authorized locally based Sanofi distributor/s
+
+- Sales/Good returns till Jan 2019 and confirmed by sanofi distributor will attract
+cancellation of equal valued reward points.
+
+- Total Purchase value to be calculated on PTR ( price to retailer) for the issuance of reward
+coupons
+
+- No exemption or additional points will be offered in eventuality of shortage of any
+products . Goods available will only be considered for the purchase orders
+
+- Company reserves the right to modify / discontinue the program at its own discretion
+
+- Number of coupons permitted to be activated in Dec 2018 will remain same/equals to
+the average number of coupons registered during Jan-Nov 2018, for each of the portfolio
+type
+
+- Sanofi reserves the right to disqualify the registered wholesaler or withdraw the benefits
+
+_ in eventuality of involvement in any trade hygiene disturbance in the market/s
+- Quarter Definition for each activity will be Jan-Mar, Apr-Jun, Jul-Sep & Oct-Dec
+II: Portfolio applicability
+
+- . Gok biflam Tablet purchase in minimum quantity of 01 shipper/case or 14,040 tablets
+‘willlbe eligible for 01 reward coupon
+
+- Allegra & Enterogermina purchase value of Rs 3000 will be eligible for 01 reward coupon
+
+(NEDcoupon)
+-f Combiflam ICY HOT Gel/spray purchase value of Rs 3000 will be eligible for 01 reward
+»coupon ( ICYHOT coupon)
+- “Power Brands- Avil Tablets, Dulcoflex, Buscogast, NU range, Buscogast Tab and festal-
+~ Rs 3000 Value purchase will be eligible for 01 reward coupon
+- Classic Brands- Avil Injectibles, Buscogast Injectibles, Soframycin, Combiflam
+suspension, Seacod and Proctocedyl- Rs 3000 Value purchase will be eligible for 01
+reward coupon
+Ill. Reward Coupon Activation
+- Reward coupon will be termed as "active" only as and when wholesaler by using the '
+unique code' mentioned on the coupon with dedicated Shubh Labh call center via Toll
+Free number of SMS center
+- Itis solely responsibility of wholesaler to activate reward coupons of Shubh Labh 2018
+via Toll Free IVR and SMS center Or Shubh Labh Mobile Application
+IV. Reward Point accumulation
+- Onactivation of one (01) coupon of "Power Brand", 5 base reward points will be credited
+in wholesalers reward account and confirmed via text/SMS to registered mobile number
+- On activation of one (01) coupon of "Classic Brand", 3 base reward points will be
+credited in wholesalers reward account and confirmed via text/SMS to registered mobile
+number
+
+
+
+- Onactivation of one (01) coupon of "Allegra/Entero (MT)", 5 base reward points will be
+credited in wholesalers reward account and confirmed via text/SMS to registered mobile
+number
+
+- On activation of one (01) coupon of "Combiflam Icy Hot", 10 base reward points will be
+credited in wholesalers reward account and confirmed via text/SMS to registered mobile
+number
+
+- Onactivation of one coupon(01) of Combiflam tab, 15 base reward points will be credited
+in wholesalers reward account and confirmed via text/SMS to registered mobile mobile
+number
+
+Vv. Segment Boundary Achievement Bonus- Quarterly
+
+- Onmaintaining the segment boundary value average during the Quarter, ( Blue: 15,000/-
+, Silver: Rs 35,000/-, Gold: Rs. 60,000/-, Diamond: Rs. 100,000/-, Platinum: 1,75,000/- and
+Titanium: Rs 3,50,000/-) will be eligible to earn " additional Top up" points of basis the
+respective segment. ( Blue : 30 Silver: 50, Gold: 75, Diamond: 100, Platinum: 150 and
+Titanium: 200 reward points)
+
+- Segment boundary value achievement will be calculated Only for the Sell in of
+Combiflam, Power and Classic brands. Value of Allegra/Enterogermina & Cfm Icy Hot
+will not be considered for the segment boundary value calculation
+
+- Segment Boundary Achievement bonus will be as mentioned below:
+
+Segment Group Mnth 3 Mnth6 | Mnth9 Mnth 12 Total
+Titanium 200 200 200 200 800
+Platinum 150 150 150 150 600
+Diamond 100 100 100 100 400
+Gold 75 73. 75 75 300
+Silver 50 50 50 50 200
+= Blue 30 30 30 30 120
+
+‘Any quarter where wholesaler does not activate Reward coupons OR fails to maintain
+, fhe average value in a quarter and do not qualify for "segment boundary line" additional
+" | Reward points, will automatically DOES NOT earn Segment boundary based reward
+) paints
+VE / Combiflam Volume Bonus:
+in achievement of SL 2017 monthly base of coupon volume for Combiflam tab,
+holesaler will be eligible to earn 05 Bonus reward point every month. If Base is ZERO
+("0"), No Bonus will be rewarded and Only Base points for each coupon activated will be
+credited to the account of wholesaler
+- WS will be eligible to earn additional 10 (Ten) reward points per Combiflam case
+purchased in a quarter, If he/she registers growth over 2017 Qtrly base. (Qtr 2018
+purchase > Qtr 2017 purchase), in terms of Coupon activation of Combiflam brand, 10
+points per case will be rewarded
+- If Qtr 2017 base is Zero ("0"), no bonus will be rewarded and wholesaler will be credited
+only the base points on each coupon activated
+- Wholesaler will be able to earn the quarterly bonus even if miss on the monthly base
+achievement.
+VII. Dynamic Segmentation
+- Wholesaler will have the flexibility / option to Outperform and get upgraded to the next
+segment. This will be calculated on quarterly performance for each wholesaler.
+- Upgrade of segment will be done Only to the very next segment irrespective of the Over
+performance
+- Similarly, in event of Low performance in a quarter, wholesaler will get downgraded to
+the segment below.
+
+10
+
+
+Upgraded if Average | Downgraded if Qtr
+
+Segunent rare Range Value in Qtr is Up by average is Down by
+Blue 5-19 >= 30
+
+Silver 20-35 > =50 <15
+
+Gold 36-60 >= 80 <30
+
+Diamond 61-100 >= 130 <50
+
+Platinum 101-300 >= 360 <90
+
+Titanium >300 < 270
+
+Segment wise benefits will be applicable to every wholesaler basis the segment in which
+he/she is in. No additional bonus/arrear will be credited in case of upgrade and similarly
+in case of downgrade, no penalty will be charged.
+VIII. Combo Bonus
+- Wholesaler will be eligible to earn additional bonus in case of purchase of any 3 types of
+coupons in a month, which are out of the mentioned 4- Combiflam tab, Combiflam Icy
+Hot, Allegra/Entero and Power Brands
+- Combo bonus will be segment based- Blue, Silver and Gold segment will be eligible to
+earn 10 reward bonus points and Diamond, Platinum and Titanium segment will be
+eligible to earn 20 bonus reward points on monthly basis if the criteria is fulfilled.
+Ix. Redemption & Rewards
+- Wholesaler basis his/her accumulated reward points can choose to redeem every month,
+quarter or at the end of program period i.e after 16th of Dec 2018.
+- Redemption Request to be sent only through Website/ Mobile application
+- Redemption in the form of gift items/articles will be ONLY as per the shubh Labh
+program catalogue provided to wholesaler.
+- Sanofi India does not give any warranty/guarantee in respect of quality or
+merchantability of the gift articles offered under this program
+Gift articles shown in the catalogue are subject to availability and images are for
+\ indicative purpose only
+‘Redemption will be conducted only in the form of gift items listed on the catalogue and
+2 i. form/type/kind of conversion into cash or cash equivalent will be permitted unless
+
+emed fit by sanofi.
+
+S® Reward coupons to be collected Only from Sanofi representatives.
+
+/As per the catalogue both International/ Domestic trip will be held basis- (a). Passport
+
+will be individual wholesalers responsibility (b.) Sanofi does not/will not arrange for
+
+local transportation till the airport ( c) For both International and Domestic trips, sanofi
+will provide only economy class air tickets/2nd ac train tickets (d) Both
+
+International/domestic tour packages will not include excess luggage/ laundry/
+
+ISD/STD Calls/Individual personal expenses (e). Both Domestic/ International tour will
+
+be held only basis below mentioned periods- Option 1: March- April 2017, Option 2: July-
+
+Aug 2017, Option 3: Sep-Oct 2017 Option 4: Feb-March 2018. (f) International trips will
+
+be arrange from the select HUBs only and NO travel cost will be given to reach the flying
+
+hub. Hubs will be Delhi/ Mumbai/Kolkata/Chennai. (g) Sanofi will not arrange for any
+accommodation in case of Transit delays/ waiting time or lay over time. (h) The itinerary
+of international package will start from the Flying Hub and end there only.
+
+- Sanofi does not/will not take responsibility of arranging or confirming additional
+package requests even on self pay basis.
+
+- Sanofi reserves the right to disqualify/ withdraw the winner from the international trip
+in case of any hygiene issues. Only the applicable wholesaler will be allowed to travel on
+the trips and NO replacement will be entertained in the Lucky draw trips. in case of
+redemption of Trip, Wholesaler is free to nominate any person to go on the trip.
+
+- Wholesaler shall be free not to avail of the program benefit and purchase goods less than
+the minimum quantity and Company shall be bound to supply such quantity ordered.
+
+
+
+X. Shubh Labh Corner: Shelf Display
+- Hiring the Window/Shelf at wholesale points of Mandi type towns Only.
+- Wholesaler will have to accept the conditions and give his consent to provide a shelf
+(selected by sanofi FF) exclusively for sanofi CHC OTC in shop visibility activity. Photo
+will be uploaded on the Shubh Labh dashboard and the wholesaler will be credited 100
+reward points on monthly basis.
+- Wholesaler point will be selected by the local sanofi FF/CSM basis the customer footfall
+and the visibility of the Shelf
+- WS will not use that shelf for any other stocking except CHC OTC portfolio or activity
+Additional submissions
+° The Applicants herein were granted a hearing with regards the captioned application on
+9 April 2019 by the Hon'ble Bench. On completion of the hearing the Hon'ble Members
+were pleased to grant liberty to the Applicants to file written submissions.
+
+° At the outset, The Applicants repeat, reiterate and confirm what is stated in the said
+Application and pray that the same may be treated as part of this Written Submissions.
+° In addition, the Applicants wish to place on record the following grounds:
+
+(a) At the outset, recently a Circular bearing No. 92/11/2019-GST dated 7 March 2019
+for clarifying various doubts related to treatment of sales promotion schemes
+under GST has been issued by the Principal Commissioner GST. A copy of the
+said Circular dated 7 March 2019 is attached herewith as Annexure '1'.
+
+(b) Under the said Circular Part 'C' deals with Buy more, save more offers. It has been
+clarified in the Circular that discounts offered by the Suppliers to Customers
+(including staggered discount under 'Buy more, save more! scheme and post
+supply/volume discounts established before or at the time of supply) shall be
+excluded to determine the value of supply provided they satisfy the parameters
+laid down in sub-section (3) of Section 15 of the said Act, including the reversal
+of ITC by the recipient of the supply as is attributable to the discount on the basis
+of document(s) issued by supplier.
+
+It is clarified in the Circular, that the supplier is entitled to avail the ITC for such
+
+input, input services and capital goods used in relation to the supply of goods or
+
+services or both on such discounts.
+
+The Applicants submit that the Shubh Labh Loyalty Scheme run by them as an
+
+incentive to their distributors/wholesalers is on similar if not identical lines.
+
+Instead of opting to give a cash discount to their distributors/wholesalers, the
+
+Applicants to make it more lucrative and aesthetically appealing, offer reward
+
+points against purchases made by the distributors/ wholesalers.
+
+The reward points attributed to distributor/wholesaler can be redeemed by them
+
+at the end of each month/quarter/year as they may wish to do.
+
+(g) The Applicants have annexed to the Application a catalogue from which the
+distributor/wholesaler can redeem the points so accumulated by them against the
+items available in the catalogue.
+
+(h) The Applicants humbly submit that it is pertinent here to note that it is completely
+the choice of the distributor/ wholesaler to choose any item from the catalogue
+against the points so accumulated by them.
+
+(i) The Applicants would like to place on record, one unique aspect of the Shubh
+Labh Loyalty Scheme, i.e. an Application, which has to be downloaded by the
+distributor/wholesaler or a login through the Shubh Labh website. A unique login
+id and a password is generated, only after which the distributor/wholesaler can
+log-in and redeem the points accumulated.
+
+() Another unique aspect here is that before logging into the Shubh Labh website/
+app, a page of terms and conditions pop up which have to be accepted before
+they get accesses to the website/app.
+
+12
+
+
+(k) The Applicants are emphasizing on this to establish that the acceptance of terms
+and conditions on the website/app creates a contractual obligation between the
+distributor/wholesaler and the Applicants herein.
+
+(L) In fact, the Applicants would like to submit that in light of the terms and
+conditions which the distributor/wholesaler accept and a contractual obligation
+is created between the Applicants and the distributor/wholesaler which would
+enable either party to a take recourse to a civil suit or action for specific
+performance of contract on failure to adhere to the terms and conditions. A copy
+of the Power Point presentation explaining the functioning of the Application is
+attached herewith as Annexure '2',
+
+(m) The Applicants submit that in light of the aforementioned submissions, it is
+contended that the articles given by the Applicants through the Shubh Labh
+Loyalty Scheme are in the furtherance of business and not in the manner of gift.
+Thus, the Applicants submit that they would be eligible to input tax credit under
+Section 16(1) of the CGST Act, 2017 and not hit by the bar of Section 17(5)(h) of
+the CGST Act, 2017.
+
+(n) The Applicants further submit that the recent decision of the Maharashtra
+Authority for Advance Ruling in the case of Biostadt India Limited dated 20
+December 2018 would not have any bearings in the present application for the
+following reasons:
+
+° In the judgment of Biostadt India Limited the AAR held that the Applicant
+therein failed to submit any documentation to prove that there was a
+contractual obligation. (in the present facts, the Applicants have reproduced in
+their application the entire terms and conditions, which the distributor/
+wholesaler has to accept as a pre-requisite before redeeming their points)
+
+° In the judgment of Biostadt India Limited there were only gold coins on
+offer on purchase of certain quantity of seeds (in the present facts, the choice
+lies with the distributor/ wholesaler to redeem the points garnered by him against
+articles of his choice)
+
+° The transaction between the Applicants and the distributor/ wholesaler is not a
+
+} ; barter as envisaged under Section 7 of the CGST Act. The transaction of
+j buying medicines by the distributor/ wholesaler is a pure sale transaction, in
+i 2 which the medicines are supplied against payment of money. A barter would
+involve trading of goods against goods or goods against services or various other
+permutations and combinations. However, the present transaction by any
+stretch of imagination cannot be called a barter and is a pure sale arrangement.
+As pleaded earlier, the act of giving points which can be redeemed later against
+ene articles is nothing but discounts in the line of "buy more, save more” on which
+
+input tax credit is available.
+
+° It would defeat the very purpose of Section 16(1) of the CGST Act if it is held that
+where the goods are procured with levy of input tax and are supplied without
+tax being paid on such output supplies, the scheme of the CGST Act, provides for
+no input tax, except export. Infact, Section 16(1) specifically provides that ITC
+would be available on inputs if they are used or intended to be used in furtherance
+of business. Any interpretation to the contrary would render Section 16(1) of the
+CGST Act otiose.
+
+° Further the circular dated 7 March 2019 referred above in regard to treatment
+of sales promotion schemes was not considered in the said ruling as order was
+issued prior to issuance of circular.
+
+° In light of these facts, the Applicants humbly submit that they should be entitled to ITC
+on GSTpaid on expenses incurred towards promotional schemes of Shubh Labh Loyalty
+Programme and goods given as brand reminders.”
+
+3 CONTENTION - AS PER THE CONCERNED OFFICER:
+
+13
+
+
+The submission, as reproduced verbatim, could be seen thus-
+The applicants above referred application under Section 98 of the Central Goods and
+Service Tax Act, 2017 read with Rule 104 of CGST, Rules 2017.
+The applicants are registered within the jurisdiction of respondents under GSTIN no
+27AAACH2736F1ZU. The Applicants has filed the subject application for advance ruling
+on the following questions:
+Whether input tax credit is available on the GST paid on expenses incurred towards
+promotional schemes of Shubh Labh Loyalty Program?
+Comments :- No, it is observed that applicant and its group entities are a supplier of
+Pharmaceutical goods and services. Under Shub Labh Trade Royalty Program, the applicant
+claims that they offer free Singapore Trip or Raymond Weil Watch as the case may be to their
+wholesalers on selling a pre-determined quantity of their pharma product and the said pre-
+determined quantity is accounted for by way of reward points. In this way, there is not dispute
+about the fact that applicant do not charge any price or value for the said free supply in terms of
+free Singapore Trip or Raymond Weil Watch as the case may be. Therefore, the said free supply
+is not taxable and chargeable to any GST in terms of Section 9 of the CGST Act, 2017. The said
+supply merit as “exempt supply’ in terms of provisions of Section 2(47) read with Section 2(78)
+and therefore, any ITC is not available on the same in terms of inter-alia provisions of Section
+17(2) of the CGST Act, 2017. Further provisions of Section 17(5)(h) specifically disallow
+availment and usage of any credit on goods disposed of by way of ‘gift’ not withstanding
+anything whatsoever in sub section (1) of Section (16). Therefore, the question of availment of
+ITC, on the basis that subject gift were used in furtherance of their business, does not arise.
+11 The applicant's reliance on provisions of Schedule-I is totally misplaced because it is not
+their case that subject gift are covered by Schedule-I of the CGST Act, 2017. It may be seen that
+Schedule-I is applicable to only specified suppliers and the subject gifts by the applicant are not
+covered by the provisions of Schedule-I. Therefore, the applicant has no occasion to take ITC on
+the basis of Schedule-I which is irrelevant in their case. Applicant themselves agreed that the
+subject supply cannot be construed as permanent transfer or disposal of the business assets.
+2 There is no substance in the applicant's contention that Watch given under their Subh
+Labh Royalty Scheme does not merit as Gift because there is no dispute about the fact that even
+¢ watches has been given free of cost. The applicant themselves have quoted the judgement of
+Y Hon'ble Supreme Court in case of Sonia Bhatia Vs. State of UP [1981(3) TMI 250 - Supreme
+Court), wherein Hon'ble Supreme Court has held thata ‘gift' is a gratuity and an act of generosity
+and does. not require a consideration, it there is a consideration for one transaction, it is not gift’
+1.2.1 The applicant is not signing any formal contract under Shubh Labh Loyalty Program,
+hence there is no contractual obligation under which goods are supplied.
+1.2.2. In the instant case under Shubh Labh Loyalty Program, gifts like watch or reward points
+_are given as incentive and there is no extra commercial consideration and hence since there is
+~~"""no commercial value assigned to the transaction it is to be construed to be Gift.
+1.2.3 The applicant themselves have submitted that for anything to be considered as gift, there
+should not be any contractual obligation or involvement of consideration. In the instant case the
+applicant give free goods to wholesalers without any involvement of consideration nor is there
+any written contractual agreement between the company and the wholesaler. Hence, the same
+is to be considered as Gift. The loyalty program are given voluntarily by the Company and there
+is no consideration involved in the transaction. Hence it falls in the definition of Gift.
+13 In any case, the notice is not eligible for ITC in terms of provisions of section 9(1) read
+with Section 17(2), Section 2(47) and section 2(78), because, there is no dispute that the applicant
+has made the subject supplies without any consideration on which they have paid any GST.
+Therefore, the value of subject free supply does not merit inclusions in value in terms of Section
+15. Further, the subject supplies merit as exempt supplies of Section 2(47) and hence, the ITC is
+not available to applicant in terms of Section 17(2). Therefore, it may be seen that ITC is not
+available even without application of the provisions of Section 17(5)(h).
+1.4. The applicant has contended that subject free supplies have been made in pursuance of
+
+their business. However, the fact remains that the same have been made free of cost and
+14
+
+
+
+therefore, the same are nontaxable under Section 9 read with Section 2(78) and merits exempted
+supply under Section 2(47). Further, there is no provisions under Section 15 to include the cost
+of such free supplies in the value of taxable free samples in terms Section 15. There cannot be
+any dispute that the said supplies are exempted, hence credit is not allowed in terms of Section
+17(2). Further, gifts has to be disallowed in terms of Section 17(5)(h) notwithstanding the fact
+that the subject supply has been used in course of furtherance of business in terms of Section
+16(1). The provisions of Section 17(5)(h) are applicable notwithstanding the provisions of Section
+16(1). Therefore, the applicant is not eligible for the ITC.
+15 Further, the applicant has not provided any enclosures to their application including
+Annexure-I containing a catalogue of “Subh Labh Loyalty Program’. Therefore, the department
+reserves the rights to be provided with all the documents and file additional reply.
+2 Whether input tax credit is available of the GST paid on expenses incurred towards
+promotional goods given as brand reminders?
+Comments: No, it is observed that applicant and its group entities are a supplier of
+Pharmaceutical goods and services. Under promotional goods given as brand reminders, the
+applicant distribute the products like pens, notepad, key chains etc. to the distributors and
+doctors. The said products are embossed with Sanofi brand. In this way, there is not dispute
+about the fact that applicant do not charge any price or value for the said free supply in terms of
+free pens, notepad, key chains etc. as the case may be. Therefore, the said free supply is not
+taxable and chargeable to any GST in terms of Section 9 of the CGST Act, 2017. The said supply
+merit as 'exempt supply’ in terms of provisions of Section 2(47) read with Section 2(78) and
+therefore, any ITC is not available on the same in terms of inter-alia provisions of Section 17(2)
+of the CGST Act, 2017. Further provisions of Section 17(5)(h) specifically disallow availment and
+usage of any credit on goods disposed of by way of 'gift' not withstanding anything whatsoever
+in sub section (1) of Section (16). Therefore, the question of availment of ITC, on the basis that
+subject gift were used in furtherance of their business, does not arise.
+2.1 The applicant's reliance on provisions of Schedule-I is totally misplaced because it is not
+their case that subject gift are covered by Schedule-I of the CGST Act, 2017. It may be seen that
+Schedule-I is applicable to only specified suppliers and the subject gifts by the applicant are not
+covered by the provisions of Schedule-I. Therefore, the applicant has no occasion to take ITC on
+the basis, of Schedule-I which is irrelevant in their case.
+» Appi it themselves agreed that the subject supply cannot be construed as permanent transfer
+or disposal of the business assets.
+2.2 fx There is no substance in the applicant's contention that pens, notepad, key chains etc.
+giyerpunder their promotional schemes goods given as brand reminders does not merit as Gift
+becauge there is no dispute about the fact that even pens, notepad, key chains etc. has been given
+‘free“of cost. The applicant themselves have quoted the judgement of Hon'ble Supreme Court in
+==ase of Sonia Bhatia Vs. State of UP (1981(3) TMI 250 - Supreme Court], wherein Hon'ble
+Supreme Court has held that a “ gift is a gratuity and an act of generosity and does not require a
+consideration, it there is a consideration for one transaction, it is not gift
+2.2.1 The applicant is not signing any formal contract under promotional goods given as brand
+reminders, hence there is no contractual obligation under which goods are supplied.
+2.2.2 In the instant case under promotional goods given as brand reminders, products like
+pens, notepad, key chains etc. are distributed to the distributors and doctors. The said products
+are embossed with Sanofi brand are given as incentive and there is no extra commercial
+consideration and hence, since there is no commercial value assigned to the transaction, it is to
+be construed to be Gift.
+2.2.3 Also it is seen that there is no contractual obligation involved in this situation, as it is
+completely up to the distributors and doctors whether he will prescribe the medicines of the
+company or not. Doctors are not under any legal obligation to do so. As the consideration is not
+directly linked with the gift provided to doctors, it is to be considered as gift.
+2.2.4 The applicant themselves have submitted that for anything to be considered as gift, there
+should not be any contractual obligation or involvement of consideration. In the instant case the
+
+1s
+
+
+applicant give free goods to distributors and doctors without any involvement of consideration
+nor is there any written contractual agreement between the company and the distributors and
+doctors. Hence, the same is to be considered as Gift.
+
+2.2.5 The goods given as brand reminders are given voluntarily by the Company and there is
+no consideration involved in the transaction. Hence it falls in the definition of Gift. Also it is seen
+that there is no contractual obligation involved in this situation, as it is completely up to the
+doctors whether he will prescribe the medicines of the company or not. Doctors are not under
+any legal obligation to do so. As the consideration is not directly linked with the gift provided
+to doctors, it is to be considered as gift.
+
+22a In any case, the notice is not eligible for ITC in terms of provisions of section 9(1) read
+with Section 17(2), Section 2(47) and section 2(78), because, there is no dispute that the applicant
+has made the subject supplies without any consideration on which they have paid any GST.
+Therefore, the value of subject free supply does not merit inclusions in value in terms of Section
+15. Further, the subject supplies merit as exempt supplies of Section 2(47) and hence, the ITC is
+not available to applicant in terms of Section 17(2). Therefore, it may be seen that ITC is not
+available even without application of the provisions of Section 17(5)(h).
+
+2.4 The applicant has contended that subject free supplies have been made in pursuance of
+their business. However, the fact remains that the same have been made free of cost and
+therefore, the same are nontaxable under Section 9 read with Section 2(78) and merits exempted
+supply under Section 2(47). Further, there is no provisions under Section 15 to include the cost
+of such free supplies in the value of taxable free samples in terms Section 15. There cannot be
+any dispute that the said supplies are exempted, hence credit is not allowed in terms of Section
+17(2). Further, gifts has to be disallowed in terms of Section 17(5)(h) notwithstanding the fact
+that the subject supply has been used in course of furtherance of business in terms of Section
+16(1). The provisions of Section 17(5) (h) are applicable notwithstanding the provisions of Section
+16(1). Therefore, the applicant is not eligible for the ITC.
+
+2.5 Further, the applicant has not provided any enclosures to their application including
+Annexure-III containing the sample invoices for procurement of such products distributed as
+brand. reminders. Therefore, the department reserves the rights to be provided with all the
+-dogumients and file additional reply.
+
+HE > 3. OX he additional requirements as per annexure are marked as Exhibit A to the submission.
+
+v8 ; PRAYER
+
+\Cohsidering the facts discussed in forgoing paras it is humbly prayed that the application
+filed bey applicants may not be allowed.
+
+_ AEARING
+So The Preliminary hearing in the matter was held on 26.02.2019, Sh. Deshmukh Advocate
+
+for Advaita Legal, appeared and requested for admission of application as per contentions made
+in their application. Jurisdictional Officer Sh. Mohan Raut, Supdt., appeared.
+
+The application was admitted and called for final hearing on 09.04.2019, Sh. Deshmukh
+Advocate for Advaita Legal, appeared, made oral and written submissions. Jurisdictional Officer
+
+Sh. Mohan Raut, Suptt., appeared and made written submissions. We heard both the parties.
+05. OBSERVATIONS AND FINDINGS:
+
+We have gone through the facts of the case, written contention of both the parties, and
+
+documentary evidences submitted on record. The issue put before us is in respect of
+
+16
+
+
+admissibility of Input tax credit (ITC ) paid or deemed to have been paid on supply used as
+
+sales promotional or brand expenses by the applicant which would be on the lines thus -
+
+The applicant, a registered person under GST ACT is engaged in business of sale of
+pharmaceutical goods and services through group entities during the course of which they incur
+various marketing and distribution expenses, with a view to promote their brand/ products and
+to enhance their sales under various schemes .The applicant distributes different type of products
+among its trade channels as promotional items or brand reminders.
+
+Applicant offers various promotional schemes and following schemes are the subject
+matter of present application namely:
+
+1) Shubh Labh trade loyalty program and
+2) Brand reminders products
+
+The Broad nature of the schemes are as below:
+Shubh Labh trade loyalty program: wherein the distributors/ wholesalers get rewards based on
+the reward points earned by them on the basis of quantity of goods sold by them. Instead of
+opting to give a cash discount to their distributors/wholesalers, and to make it more lucrative
+and aesthetically appealing, applicant offers reward points against purchases made by the
+distributors/ wholesalers. These reward points can be redeemed at the end of each
+month/quarter/year as they may wish to do. The Applicants have annexed to the Application a
+“Catalogue from which the distributorAvholesaler can redeem the points so accumulated by them
+agaist the items available in the catalogue and it is completely the choice of the
+
+fibutor/ wholesaler to choose any item from the catalogue against the points so accumulated
+sh
+
+F rand reminders products: In this scheme products like pens, notepad, key chains etc. are
+
+9 distributed to the distributors or doctors with their name embossed on it to promote the brand
+and sales. For the supply of promotional products, applicant procured such goods by payment
+of tax and uses it in the course of business or furtherance of business as aforesaid. In this view
+applicant is asking availability of ITC paid on the goods or services procured and used for the
+promotional scheme. Therefore, they is seeking clarifications answers on the following questions
+are as below:
+Question 1. Whether input tax credit is available of the GST paid on expenses incurred towards
+promotional schemes of Shubh Labh Loyalty Program?
+Question: - 2. Whether input tax credit is available of the GST paid on expenses incurred towards
+promotional schemes goods given as brand reminders?
+
+Since both the question involved common point of determination, hence taken together
+
+for decision in this proceeding as below:
+
+17
+
+
+We find that the applicant is mainly dealing and supplying of Pharmaceutical goods and
+services and in order to achieve sales and marketing objectives, they have launched various
+target based - sales incentive schemes for their distributors/wholesalers to achieve a specified
+target and in turn helps the company to achieve their targets. The present subject application is
+in respect of a sales promotion scheme known as “Shubh Labh Loyalty Program 2018" and
+promotional products which has been floated by them for their customers. In the first case, their
+distributors/ wholesaler Customers who purchased certain products over and above a certain
+quantity would be entitled to get reward points. In the second scenario, applicant is giving Brand
+reminder products like pens, notepad, key-chains to the distributors or Doctors, which serve as
+an advertisement tool. The brand reminders are distributed to the distributors or doctors with
+their name embossed on it to promote the brand for sales. In the first scheme, applicant sells their
+products to their customers who are entitled to get the reward points, on the basis quantity of
+goods sold by them. Both the schemes are independent of each other. In the first schemes, the
+products mentioned in the catalogue will be procured from different suppliers, it includes
+different types of goods and services and since these goods /services are leviable to GST, the
+applicant has raised the question i.e. whether Input Tax Credit ("ITC") can be claimed by them
+on procurement of the said products/services given on above said promotional basis. As per
+their submissions, the said products are inputs for them and GST levied on such purchase
+qualifies to be an input tax for the purpose of Section 16(1) read with Section 2(62) of the CGST
+Actic Ss
+
+K i The jurisdictional officer has also made submissions and has different view point. He
+
+yal
+has opined that in the instant case under Shubh Labh Loyalty Program, gifts like watch or
+reward points are given as incentive and there is no extra commercial consideration and since
+
+there is no commercial value assigned to the transaction, it is to be construed to be Gift. He
+
+- farther contended that under promotional goods given as brand reminders, products like
+pens, notepad, key chains etc. are distributed to the distributors and doctors. The said
+products are embossed with Sanofi brand are given as incentive and there is no extra
+commercial consideration and hence, since there is no commercial value assigned to the
+transaction, it is to be construed to be Gift.
+
+Taking into account applicant's contention that the subject free supplies have been
+made in pursuance of their business, jurisdictional officer submit that the fact remains that the
+same have been made free of cost and therefore, the same are non-taxable under Section 9 read
+with Section 2(78) and merits to be treated as exempt supply under Section 2(47). Further,
+there are no provisions under Section 15 to include the cost of such free supplies in the value
+of taxable free samples. There cannot be any dispute that the said supplies are exempted,
+
+hence credit is not allowable in terms of Section 17(2). Further, gifts has to be disallowed in
+18
+
+
+terms of Section 17(5)(h), notwithstanding the fact that the subject supply has been used in
+course of furtherance of business in terms of Section 16(1). The provisions of Section 17(5) (h)
+are applicable notwithstanding the provisions of Section 16(1). Therefore, the applicant is not
+eligible for the ITC as the promotional products/services to be distributed as mentioned
+above, are not inputs and hence, GST paid on such a purchase does not qualify to be an input
+tax for the purpose of Section 16(1) read with Section 2(62) of the CGST Act 2017. He further
+found that the products are not inputs because the said Distribution of different products are
+not in line with the basic business model, the same products are not essential for continuity in
+supply and the distribution of products are not concerned with the making of taxable supply
+for consideration unless the distribution is looked as a hidden discount.
+We find that the applicant has floated the subject scheme for the period from 2018 to Jan,
+2019 only, by way of which reward points which are linked with different products would be
+given to those customers who lifted a certain quantity of Pharmaceutical goods. The basic
+condition is to purchase the certain quantity of products and sale thereof. Thus it is seen that
+only those specific customers who fulfill the conditions would be able to avail the benefit of the
+subject scheme of “Shubh Labh Loyalty Program”. The applicant has submitted that the said
+products procured for the distribution to the wholesalers are inputs for them and GST levied on
+such purchases qualifies to be an input tax for the purpose of Section 16(1) read with Section
+2(62) of the CGST Act.
+"We find that the provisions of ITC are governed by Sections 16 and 17 of the CGST Act,
+2017. In-drder to avail ITC, two basic provisions need to be complied with, i.e. Section 16 and
+
+Section! 17.\As per Section 16, a taxpayer is entitled to take credit of input tax charged on any
+
+supply; of goods or services to him which are used in the course or furtherance of his business.
+
+X re, \ Le. tHis*section disallows ITC against input goods/services used for non-business purposes.
+Section’ 17 (5) of the CGST Act deals with Blocked credits and begins with a non obstante clause,
+
+“which means even if Section 16 (1) allows ITC, Section 17(5) shall block in respect of certain cases.
+Clause (h) of Section 17(5) read as,
+
+“Notwithstanding anything contained in sub-section (1) of section 16 and sub-section (1) of section 18,
+input tax credit shall not be available in respect of goods lost, stolen, destroyed, written off or disposed of
+
+by way of gift or free samples.
+
+We will therefore first discuss whether the different promotional products in the present
+case can be treated as a gift or not. The word 'gift' has not been defined in the CGST Act.
+However the Gift-Tax Act (18 of 1858) has defined the word gift to mean transfer by one person
+to another of any existing movable or immovable property voluntarily and without
+consideration in money or money's worth. It is seen from the definition that the transfer i.e. the
+
+gift given in such a case has to be voluntary. The applicant has submitted that they have a
+19
+
+
+contractual arrangement with the customer wherein if he purchases certain amount of
+company's product and uploads details of information by customer login on the companies
+prepared software on the website wherein specific terms and conditions are mentioned for the
+participation in the Subha Labha Loyalty scheme, then he will be said to have accepted the terms
+and conditions and is entitled to a promotional products on the basis of reward points attributed
+on monthly /quarterly/ yearly basis. A contractual arrangement implies especially in view of the
+magnitude and area of the applicant's business that, it should also be agreed by the customer in
+writing to such scheme floated by the applicant. We find that they have not submitted any such
+contract/agreement and in support of their contention, but they have only submitted a scheme
+of Shubh labh Loyalty is available on companies web site and interested customers can Login
+with details to avail the benefit of scheme from 2018 to Jan, 2019. Hence we find that the
+promotional products are not given to their customers under any contractual obligation and are
+voluntarily given on certain conditions achieved by their customers.
+
+In the present scenario we will try to understand the word ‘gift’ in the common parlance
+as it is also used in the present day. There are several schemes advertised in the market by
+business houses which promise to give ‘assured gifts’ to their customers, for eg. In the city of
+Mumbai and its suburbs various builders had floated advertisements stating that the first x
+numbers of buyers of flats in their residential construction projects would be give a car/100gms
+Gold coins, etc. Similarly malls in Mumbai also offer assured gifts on purchase above certain
+amounts by their customers. Hence in the present context the word ‘gift’ has an enlarged scope
+according to us and has its own colour. In all such cases, as in the present case, the statement
+that) promotional goods, in this case, will be given to distributors/wholesalers who satisfy
+certain conditions is nothing but assurance of giving away gifts on those conditions being
+achiral by the customers. At the least we can say that the condition put forth by the applicant
+to avail or participate in this scheme are nothing but is a measure of particular kind of
+
+‘promotional items meaning thereby that if wholesaler sale more products then he will be eligible
+for more reward points and further eligible for big offer such as Singapore Trip of 5 D/6 Days
+instead of Raymond Watch.
+
+Under the GST laws the intention for non-granting/denial of setoff is envisaged in
+situations where there is no tax on output supply. In cases where the goods are procured with
+levy of input tax and are supplied without tax being paid on such output supplies, the scheme
+of the GST Act provides no input tax credit, except export.
+
+Schedule - I to the CGST Act, 2017 deals with activities to be treated as supply even if made
+without consideration. As per Entry Number 2 to Schedule I (2), Supply of goods or services or both
+between related persons or between distinct persons as specified in section 25, when made in the course or
+
+furtherance of business:
+20
+
+
+Provided that gifts not exceeding fifty thousand rupees in value in a financial year by an employer to an
+employee shall not be treated as supply of goods or services or both.
+
+The above provisions and Section 17 (5) (h) stipulate that any goods disposed of, by way
+of gift are not eligible for ITC and that even if supply is in course or furtherance of business
+between related or distinct persons, it shall be considered as supply except to the extent of fifty
+thousand rupees in a financial year, when given by an employer to its employee.
+
+Further under Section 17(5), no ITC on any goods can be availed, if they are givenas gifts,
+whether or not in course of furtherance of business. As a corollary if it is considered that gifts
+have some commercial consideration, then GST shall be paid at the time of giving away of
+disposal of the same and in such cases only ITC will be available. A "gift" is normally seen as an
+enticement to customers as in the subject case which would bear heavily on the customers in
+making purchase of particular quantities and above or in making payments of certain values
+and above. This act on behalf of the applicant if it is not excluded from the scope of being a
+supply, then the provisions of the Valuation Rules come into play. In other words if the giver of
+the gift does not pay output tax on the same then the compensation to the department would be
+the foregoing of the ITC on such gifts.
+
+We now deal with one of the contention of the applicant that they have a contractual
+arrangement with the customer wherein if the distributor purchases certain amount of quantity
+of company’s product, then he shall be entitled to a get promotional products on the basis of
+reward point accumulated as per list of catalogue. This can be inferred as if the distributor or
+wholesaler of the applicant is providing services of increased sale for which consideration is in
+
+the for i
+
+“Hh
+
+of a products. As per Section 7 of the CGST Act, disposal, or the case may be, barter,
+madiéoy agreed to be made for a consideration in the course or furtherance of business is supply
+
+Aabioko tax. We find in the present application, and as admitted by the applicant that the supply
+
+ee Kithout consideration i.e. free supply and without payment of output tax. The only conclusion
+7 therefore, that can be drawn in the present case is that the distribution of promotional articles
+by the applicant is nothing but gifts and hence the transaction is covered by the provisions of
+Section 17(5) of the Act.
+
+Relying on Circular issued by the Principal Commissioner GST bearing No. 92/11/2019-
+GST dated 7 March 2019 for clarifying various doubts related to treatment of sales promotion
+schemes under GST, submits that discounts offered by the Suppliers to Customers (including
+staggered discount under 'Buy more, save more’ scheme and post supply/volume discounts
+established before or at the time of supply) shall be excluded to determine the value of supply
+provided they satisfy the parameters laid down in sub-section (3) of Section 15 of the said Act,
+including the reversal of ITC by the recipient of the supply as is attributable to the discount on
+
+the basis of document(s) issued by supplier. He further submit that as per Circular, supplier is
+21
+
+
+entitled to avail the ITC for such input, input services and capital goods used in relation to the
+supply of goods or services or both on such discounts. At last Applicants submit that the Shubh
+Labh Loyalty Scheme run by them as an incentive to their distributors/wholesalers is on similar
+if not identical lines.
+
+We find that in the case of “ Buy more, save more offers “, the discount is offered on the
+same transaction of supply made from the supplier even in post supply/ Volume discounts
+established before or at the time of supply and ITC would be applicable on the inputs purchases.
+But in the present case, the facts are different than the issue clarified in the above said circular.
+In the subject case, applicant has not provided any discount on the transaction made to the
+customers. He has given the reward points on the quantity of goods purchased by the
+distributors/ wholesalers and not on value of the goods. Against certain accumulated of reward
+points, applicant has supplied the promotional products, listed as per the catalogue. Scheme
+explained by the circular and subject matter the present scheme we do not find similarity of facts
+and as such the said circular is of no help to the applicant.
+
+To sum up ITC on “gifts” will not be available when no GST is being paid on their
+disposal. Just because the applicant submits that they have satisfied Section 16 (1) of the CGST
+Act 2017 does not mean that they are entitled to credit since Section 17(5) starts with
+“Notwithstanding anything contained in sub-section (1) of Section 16........ ”. The implication is
+that in the subject case even if it seems, as per the applicant, that Section 16 (1) is applicable in
+
+hehe case and allows them credit, Section 17(5) shall block such credits.
+
+: Even though we have come to a conclusion that Input Tax Credit is not available for the
+fi pa. expenses ‘incurred towards promotional schemes such as Shubh Lakh Loyalty Program and
+Brand ‘Reminder Products, we find paradox in the argument of the applicant that supports our
+“view We want to invite attention to the statements made by the applicant as below: With respect
+\Shaibh Labh Scheme based on the facts appellant submit that the watch given to the wholesaler
+
+is not a gift as the watch is given under the contractual obligation under the scheme. It is the
+consideration for achieving a particular sales target and hence ITC on purchases of the said watch
+should be available. Further applicant submits that the Brand Reminder are given to wholesaler
+with an intention to increase the sale of the company. Brand Reminder Products like pens, key
+note pad, key chains etc. are distributed to the distributers and doctors. The said products are
+embossed with Sanofi Brand. The Brand embossed on this products serve as advertisement and
+is a brand reminder that promote sales. Further at submission with heading it is stated as -
+ICY HOT Secondary Focus: Driving Depth and Distribution (Jan May period)
+
+- Wholesalers will be eligible to win assured Gift on achieving the Combiflam ICY HOT
+
+minimum purchase slab on monthly basis.
+
+22
+
+
+Further in the submission with heading it is stated as -
+IX Redemption & Rewards
+- Redemption in the form of gift items/articles will be ONLY as per the Shubh Labh
+program catalogue provided to wholesaler.
+- Sanofi India does not give any warranty/guarantee in respect of quality or
+merchantability of the gift articles offered under this program
+- Gift articles shown in the catalogue are subject to availability and images are for
+indicative purpose only
+- Redemption will be conducted only in the form of gift items listed on the catalogue and
+
+NO form/type/kind of conversion into cash or cash equivalent will be permitted unless
+
+deemed fit by Sanofi.
+
+From the above contradictory submission of the applicant, if we accept the contention of
+the applicant that the promotional items are supplied as a contractual obligation e.g. watch is
+given under the contractual obligation under the scheme with an intention to increase the sale of
+the company, serve as an advertisement tool and brand reminder to promote sale, then in view
+of section 7 of the GST Act it is a supply in the nature of barter i.e. supply of promotional goods
+against supply of services such as increased sale, advertisement of products and sales promotion.
+On the contrary appellant has accepted that impugned supply is without consideration. We
+therefore conclude that the transaction is nothing but a gift.
+ee _ This conclusion is further supported by the nomenclature used by the applicant to the
+promotional items. As averred above in case of Redemption and Rewards it is submitted by the
+appellant that Redemption will be conducted only in the form of gift items listed on the catalogue
+and NO form/ type/kind of conversion into cash or cash equivalent will be permitted unless
+deemedifit by Sanofi.
+
+2 In this case and as observed above the applicant submits that the impugned supply is a
+_ Eenfckctual obligation but without any consideration, but in exchange of services of increase sale,
+
+advertisement etc. Thus applicant is taking contrary view. In taxation it is not open to a person
+to take simultaneously different stand.
+
+In view of above discussion and facts of the case, we have come to the conclusion that ,
+the Applicants should not be entitled to ITC on GST paid on expenses incurred towards
+
+promotional schemes of Shubh Labh Loyalty Programme and goods given as brand reminders.
+06. In view of the extensive deliberations as held hereinabove, we pass an order as follows:
+
+ORDER
+
+(Under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+23
+
+
+DATE-D 4 od, 201%
+
+NO.GST-ARA- 115/2018-19/B- 43 Mumbai, dt. 24 Jo4 )24)3
+
+For reasons as discussed in the body of the order, the questions are answered thus -
+
+Question: -1. Whether input tax credit is available of the GST paid on expenses incurred
+towards promotional schemes of Shubh Labh Loyalty Program?
+
+Answer: - Answered in the negative.
+
+Question: - 2. Whether input tax credit is available of the GST paid on expenses incurred
+
+towards promotional schemes goods given as brand reminders?
+
+Answer: - ~~ Answered in the negative
+
+PLACE- Mumbai —
+
+—<d— —<|—
+B. TIMOTHY B. V. BORHADE
+Ss : (MEMBER) (MEMBER)
+
+CERTIFIED TRUE COPY
+Copy to:-
+1. The applicant \
+2. The concerned Central / State officer a
+3. The Commissioner of State Tax, Maharashtra State, Mumbai BER
+4. The Commissioner of Central Tax, Churchgate Mumbai amyanice RULING AUTHORITY
+5. Joint commissioner of State Tax , Mahavikas for Website. \yntianachTRA STATE, MUMBAI
+
+Note :- An Appeal against this advance ruling order shall be made before The Maharashtra
+
+Appellate Authority for Advance Ruling for Goods and Services Tax, 15'* floor, Air India
+building, Nariman Point, Mumbai - 400021.
+
+24

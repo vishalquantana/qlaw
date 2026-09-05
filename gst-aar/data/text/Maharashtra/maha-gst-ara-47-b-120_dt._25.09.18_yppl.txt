@@ -1,0 +1,1050 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+(Constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri B. V. Borhade, Joint Commissioner of State Tax,(Member)
+(2) Shri Pankaj Kumar, Joint Commissioner of Central Tax,(Member)
+
+GSTIN Number, if any/ User-id 27AAACY4160G1ZD
+
+Legal Name of Applicant YOGIRAJ POWERTECH PRIVATE LIMITED
+
+Registered Address/Address provided | OFFICE NO B-203, B-WING, SECOND FLOOR GROMA
+
+while obtaining user id HOUSE, SECTOR 19, PLOT NO 14-C, VASHI NAVI
+MUMBAI, Maharashtra, 400703
+
+Details of application GST-ARA, Application No. 47 Dated_28.06.2018
+
+Concerned officer Dy. Commrr. of S.T.(E-009) Raigad division, Navi Mumbai
+
+Nature of activity(s) (proposed / present)
+in respect of which advance ruling sought
+A Category Works Contract
+
+B Description (in brief) Shifting LT,HT O/H lines crossing and providing LT,HT
+U/G cables from Hingna Depot CH. 19500 to Ambazari
+Lake CH.12500 for Nagpur Metro Rail Project for E-W
+corridor". NMRCL Is a Special Purpose Vehicle (SPV)
+created for the smooth implementation and operations of
+the Nagpur Metro Rail Project and is a joint venture of
+Government of India & Government of Maharashtra, with
+50:50 equity. NMRCL is Incorporated by Govt. of India-
+Ministry of Corporate affairs.
+
+Issue/s on which advance ruling required | (i) Classification of any goods or services or both
+(ii) determination of time & value of supply. Applicability
+of a notification issued under the provisions of this Act
+
+tion(s) on which advance ruling is | As reproduced in para 01 of the Proceedings below.
+
+PROCEEDINGS
+
+section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods and
+Services Tax Act, 2017)
+
+tA STATES A The present application has been filed under section 97 of the Central Goods and Services Tax Act,
+~ )17 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as “the CGST Act and
+MGST Act”] by YOGIRAJ POWERTECH PRIVATE LIMITED, the applicant, seeking an advance ruling in
+respect of the following ISSUE. .
+
+4. Whether EPC Contract for electrical cable supply and laying work can be classified as contract for building,
+construction, fabrication, completion, erection, installation, fitting out, improvement, modification, repair,
+maintenance, renovation, alteration or commissioning of immovable property wherein transfer of property
+in goods (whether as goods or in some other form) is involved in the execution of such contract.
+
+2 Whether these contracts can be classified as works contracts as per GST Law and whether notification no.
+11/2017-Central Tax (Rate) dated 28th June 2017 as amended by notification no,.01/2018-Central Tax (Rate)
+dated 25th Jan 2018 is applicable to the present case?
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and the
+MGST Act are the same except for certain provisions, Therefore, unless a mention is specifically made to
+such dissimilar provisions, a reference to the CGST Act would also mean a reference to the same provision
+under the MGST Act. Further to the earlier, henceforth for the purposes of this Advance Ruling, a reference
+
+
+to such a similar provision under the CGST Act / MGST Act would be mentioned as being under the “GST
+
+Act”.
+02. FACTS AND CONTENTION - AS PER THE APPLICANT
+The submissions, as reproduced verbatim, could be seen thus-
+
+Statement of relevant facts having a bearing on the question(s) raised
+We have received order from Nagpur Metro Rail Corporation hereafter called as NMRCL for "Shifting LT,HT O/H
+lines crossing and providing LT,HT U/G cables from Hingna Depot CH. 19500 to Ambazari Lake CH.12500 for
+Nagpur Metro Rail Project for E-W corridor". NMRCL Is a Special Purpose Vehicle (SPV) created for the smooth
+implementation and operations of the Nagpur Metro Rail Project & is a joint venture of Govt. of India & Government
+of Maharashtra, with 50:50 equity. NMRCL is incorporated by Govt. of India- Ministry of Corporate affairs.
+This work is awarded to us through tendering process and scope of work is described in work schedule attached to
+the tender, The work involves Supply, erection, testing and commissioning including transport, loading, unloading,
+insurance etc of transformer substation, HT & LT Overhead Line & Cable Through Underground, from RR Substation
+to metro Khapri station for Metro Rail Project. The work schedule separately describes each activity to be carried out
+to complete the work and also rate for each activity is separately mentioned, by adding amount of each activity total
+estimated tender cost is derived and we have to quote in percent % above or below of the estimated cost. Thus we
+have no option to quote the individual prices for each activity but we have to quote in percent below or above to the
+total estimated cost provided by contractee ie. NMRCL. More over we have to accept whole tender and do not have
+option to accept part activities and refuse rest activities. Thus it can be seen that :
+a. The components are sold as a package at a single price and different components are not available separately.
+b. Single tender is floated for all the components.
+c. Different components are integral to one main supply. If one or more components are removed the nature of main
+supply would get affected.
+d. Many components viz. cement concrete foundation, dismantling, joints, earthing, stone, metal etc. are clearly
+incidental and ancillary to an identifiable main supply i.e supply of cable.
+In the above said case identifiable main supply particularly underground "LT/HT cable" and it can be moved/ shifted
+by excavation of earth and can be re-installed at other place. The cable is embedded in earth for safety of human and
+cable itself, The name of the work itself says "... Shifting & providing 315 KVA transformer substation HT & LT
+Overhead Line & Cable Through Underground, ..."
+The said NMRCL department is insisting us to charge 12% GST as per the notification number 11/2017-Central Tax
+(Rate) dated 28th June 2017 as amended by notification no. 01/2018-Central Tax (Rate) dated 25th Jan 2018, treating
+above work as Composite supply of works contract as defined in clause (119) of section 2 of the Central Goods and Services
+= Tax Act, 2017, supplied by way of construction, erection, commissioning, or installation of original works pertaining to,- (a)
+“Ses railways, including monorail and metro;
+‘vc %Statement containing the applicant's interpretation of law and/or facts, as the case may be, in respect of the
+Nesre question(s) (i.e. applicant's view point and submissions on issues on which the advance ruling is sought).
+
+4,
+Ms per Section 2(119) of the Central Goods and Services Tax (CGST) Act, 2017, unless the context otherwise requires, the
+7 works contract" means a contract for building, construction, fabrication, completion, erection, installation, fitting out,
+iypeodement, modification, repair, maintenance, renovation, alteration or commissioning of any immovable property wherein
+ys ir of property in goods (whether as goods or in some other form) is involved in the execution of such contract"
+be seen from definition of works contract only construction, fabrication, completion... Of immovable
+rty will be considered as works contract but as per our interpretation of work schedule attached to the tender
+- Avork can not be classified as immovable property therefore it cannot be classified as works contract and hence it
+he YTRA TRE Mannot be classified as service, thus the above said notification will not be applicable in this case. But it should be
+SEF classified as Composite supply, as different goods and services vis. Testing, cable, wires, cement pipes, laying, joints,
+/ Insurance, commissioning, transport etc. which are naturally bundled and supplied in conjunction with each other,
+with principal supply being LT/HT Cable.
+Once it is classified as composite supply, rate of GST applicable to principal supply will be applicable to whole
+composite contract, here the principle supply is LT/HT cable (item no. 1, 7, 10 of work schedule) and rate of the same
+should be applicable to whole contract.
+NAGPUR METRO
+
+Name of Work:- Estimate No. NMRCI/U/S (ELE)/01-2015,
+CH 11040 to CH 16280 :- Shifting & providing 315 KVA transformer substation HT &LT Overhead Line & Cable
+
+Through Underground, 11 KV RMU, LBS from RR Substation to metro Khapri station for Metro Rail Project on
+
+ane
+
+North South Corridor.
+SCHEDULE-B
+Sr. | CSRNo Description Qty Unit Rate Amount
+No
+
+1 73.13 | Supplying, erecting & terminating 3 x 300 sq mm 11 kV, XLPE(E) | 11900 | Mtrs 2110.00 | 25109000.00
+armoured cable on wall/ceiling or laid in provided trench / pipe
+in an approved manner as per specification No CB-I IT
+
+iz 5.2.15 | Supplying and erecting mini feeder pillar triple pole with 300A 7 Each | 48487.00 339409.00
+
+FPMCCBas incomer and 3 outgoing circuits with HRC Fuse base
+and Cartridge of 100A consists of aluminium, bus bar 500V 300A
+
+
+
+complete 5.2.15 erected in 14 gauge CRCA sheet box with
+supporting angles, self locks, gasket and slanting top to be
+erected on provided foundation as per per specification No, SW-
+SWR/MFP
+
+3 5.2.14 | Supplying and erecting mini feeder pillar triple pole with 200A 2 Each | 34752.00 69504,00
+FPMCCBas incomer and 2 outgoing circuits with HRC Fuse base
+and Cartridge of 100A consists of aluminium, bus bar 500 V 200
+A. complete erected in 14 gauge CRCA sheet box with supporting,
+angles, self locks, gasket and slanting top to be erected on
+provided foundation as per per specification No. SW-SWR/MFP
+
+4 16.3.4 | Providing Cement concrete foundation for pump in 1:2:4 with | 110 | Cu.M | 5673.00 624030.00
+required size and length of foundation bolts and nuts (cost with trs
+required size and length of foundation bolts and nuts (cost with
+wooden box is included).
+
+5 18.1.41 | Dismentalling of KVA Distribution Transformer safely without | 200 | KVA 80.00 16000.00
+any damages and storing it in safe place.
+
+6 8.8.3 Dismantling the existing overhead line including G.I. wires of all | 11.5 Km 816.00 9384.00
+sizes without damaging & making the coils in suitable sizes.
+
+7 7.5.16 Providing and erecting Heat shrinkable outdoor termination kit 72 Each | 15127.00 | 1089144.00
+for 11kV (E) XLPE HT cable 3x240 to 300 sq. mm. with necessary
+material as per specification No. CB-JT/HT
+
+8 75.7 Providing and erecting Heat shrinkable indoor termination kit 64 Each 11152.00 713728.00
+for 11 kV (E) XLPE HT cable 3x240 to 400sq. mm. with necessary
+material as per specification No. CB-JT/HT
+
+9 7.5.25 | Providing and erecting Heat shrinkable Straight through joint kit 24 Each | 28306.00 679344.00
+for 11 kV (E) XLPE HT cable 3x300 to 400 sq.mm. with necessary
+material as per specification No. CB-JT/HT
+
+10 7131 Supplying, erecting & terminating PVC armoured cable 32core | 1950 Mtr 1708.35 3331282.50
+300 sq mm aluminium conductor with continuous 12.97 sq mm
+(8 SWG) G.I. earth wire complete erected with glands & lugs, on
+wall/trusses/pole or laid in provided trench/ pipe as per
+specification no. CB-LT/ AL
+
+11 915 Supply, Installation, Testing and commissioning of UL Certified 5 Each | 15764.00 78820.00
+/ CPRI Tested Maintenance Free Earthing comprising of
+
+Electrode of 17.2 mm diameter Low Carbon Steel with 250
+
+micron Molecular Copper Bonded Earthing Rod of Length 3m
+
+along with 5 25 kg Carbon Based environment friendly back fill
+
+Ground Enhancing compound required to fill up the excavated
+
+earth with required quantity as per specification no EA-MOBI
+
+Providing earthing with Galvanised cast iron earth plate size 60 76 Each 5495.70 417673.20
+x 60 x 0.6 cm with funnel with a wire mesh for watering and brick
+
+masonry block C.I. | 76 cover complete with all materials, testing
+
+& recording the results as per specification No. EA-EP
+
+Supplying & erecting 11 kV 630A, Indoor type Ring Main unit 7 Each | 432050.00 | 3024350.00
+with lor 2 Incoming & 2 or 1 Outgoing with HRC fuses complete
+
+erected on provided cc foundation/MS channels/trench, etc, in
+
+an approved manner as per specification no SW-HTS / RMU.
+
+14 8.8.2 Dismantling the existing pole above 6 m height with brackets, 60 Each 615.00 36900.00
+clamps, insulators, stay from the cement concrete foundation and
+making the site clear by refilling the pits with excavated materials
+and bringing it to the ground level.
+
+15 10.218 | Supplying and erecting fencing of section having size 2450 mm | 72 Each | 5286.00 380592.00
+in height from ground level and 1200 mm width with angle iron
+frame work erected in C C foundation and painted as per
+specification No SS-AS/FSG
+
+16 10.2.19 | Supplying and erecting 50 x 50 x 6 mm. angle iron as corner 8 Each 1060.00 8480.00
+support 2m long fixed at the middle of the fencing frame and the
+other side inclined at 30 degree angle, in C.C. foundation of 15 x
+15 x 40cm complete duly painted with one coat of red oxide and
+two coats aluminum paint.
+
+17 10.2.20 Supplying and erecting double leaf hinged door each 1500mm 4 Each | 16158.00 64632.00
+in width x 1850 mm in height using B class ,GI pipe with
+angleiron supports, chain link wiremesh (jali) complete
+supported on channel iron, erected in foundation, and painted as
+per specification no SS-AS/DLD
+
+
+
+18 | MSDCL | Bore Horizantal With HDPE Pipe upto 130 18 MSDCL MM Dia. 955 Mtr 5602.00 5349910.00
+
+19 7.6.6 Supplying & laying (including excavation) 15 cms. dia RCC | 350 Mtr 751.00 262850.00
+Hume pipe with coupling collar of standard thickness at required
+depth up to 90 cms. below road / ground surface, for enclosing
+provided cable & necessary back filling with light ramming to
+make the road/ground surface as it was (Except bitumen carpet
+
+20 768 Supplying & laying (including excavation) 25 cm Dia half round | 9480 Mtr 577.00 5469960.00
+RCC Hume pipe of standard thickness at required depth up to 90
+cms. below road / ground surface, for enclosing provided cable
+& necessary back filling with light ramming to make the
+road/ ground surface as it was (Except bitumen carpet).
+
+21 16.24 | Providing and spreading stone metal 25mm size for 100 mm | 1000 | Cum 66.00 66000.00
+depth above the 1000 ground level.
+
+22 165.15 | Supplying and erecting ISI mark G.I. pipe 100 mm dia 'C' class | 372 Mtr 1821 677412.00
+position with accessories. As per specification No. CWPLB/GP
+
+23 16.3.6 | Providing cement concrete for foundation or for concrete filling | 278 | Cu.M 4211 1170658.00
+in 1:3:6 ratio with 20 to 25 mm. stone metat duly plastered 278 tr
+with necessary curing for pole muffing or any
+
+24 9.1.4 Providing pipe type earthing with 40mm. dia. G.I. pipe or 20 mm 34 Each 1536 52224.00
+dia. G.I. Rod complete with all materials as per specification No.
+EA-EP
+
+25 10.1.4 | Supplying and Erecting approved make 200kVA,3 phase, 50 c/s 1 Each 310776 310776.00
+
+Oil immersed and naturally cooled indoor/outdoor type, copper
+wound transformer with delta conn. on HV side & star
+connection on LV side with additional neutral brought out on
+load side, voltage rating 11/0.415kV with HV tapping of +/-
+2.5% -5% continuously rated for full load with standard
+accessories complete with Test Certificate with losses below 500
+watts at no load, 3000 watts at full load as per 1S:2026) as per
+specification No SS- TR.
+
+26 10.2.25 | Providing floor mounting stand for keeping 4 Nos. of FIRE 2 Each 2972 5944.00
+buckets 1500mm in length, 900mm in height frame made out of
+
+30x30x4 mm angle iron with cross 2 supports for legs, welded
+
+with 4 hooks and duly painted with one coat of red lead and two
+
+coats of silver paint.
+
+Providing round bottom FIRE Bucket of 9 Litres capacity as per 8 Each 637 5096.00
+IS: 2546 made out of 24 gauge G.I. sheet with extra handle 18 at
+
+bottom duly painted white inside and red outside with FIRE
+
+Mark, on provided stand/ wall hook.
+
+Supplying and erecting Rolled steel Joist (Girder) pole 100 x 116 264 Each 1436 379104.00
+mm (23 kg/m) with provided base plate in provided foundation
+as per specification No. OHPL/RSJ
+
+Supplying 100 x 50 mm with 4.7 mm thick web and 7.5 mm thick 18 Each 2174 39132.00
+flange channel iron cross arm of suitable length for 24m wide DP
+structure and erecting on DP with 50x6 mm clamp as
+
+30 163.3 | Providing cement concrete foundation including excavation for 26 Each 33270 865020.00
+the poles 60 cm x 60 cm x deep 1/6 of pole length in 1:3:6 cement
+concrete (20 x 25 mm stone metal) and 45 cm x 45 cm x 45 em/45
+cm dia. x 45 cm. height plinth duly plastered and with necessary
+curing and finishing in an approved manner. (for above 9 m
+poles)
+
+31 10.2.2 | Supplying and erecting approved make 11 kV out door type gang, 3 Set 18414 55242.00
+
+operated air break, triple pole switch 400A, capacity with 3 post
+pin type insulator per phase, mounted in horizontal or vertical
+position with necessary channels on provided cross arm with
+adequate length of "C" class Gl. pipe for operating handle
+erected on extended square shaft. The operating handle provided
+with lock and key at suitable height from ground level with
+necessary clamp.
+
+32 86.15 | Supplying and erecting Distribution class, 11 kV thyrite type 2 Set 1373 2746.00
+lightening arrester, on provided cross arm as per specification
+No. OH-INS/LA
+
+33 10.25 | Supplying and erecting approved make, 11 kV out door type 2 Set 9821 19642.00
+
+drop out fuse with insulator complete with fuse holders, fuse
+
+
+
+barrel with metal fitting, fuse element mounted on M.S. channel
+with working current of 15 Amps capacity complete erected on
+provided cross arm.
+
+34 84.23 | Supplying & erecting inline cut point end pole D. P. Structure for a Each 136964 136964.00
+200 KVA Transforme with R.S.J. Pole 2 Nos. of size 100 x 116 mm
+x 11 Mtr. Long with suitable Distribution Box of C.R.C.A. Sheet
+16 SWG (size 4 SqMtr.) with 4 Pole MCCB 300 Amps as incomer
+& 6 Nos. 63 Amps Kitkat for outing circuits. Transformer D.P.
+Structure includes the A. B. Switch 200 Amps, D.O. fuse Set &
+L.A. Set. 2 Nos.Top channel of size 100 mmx 50 mm for erection
+of A.B. Switch & 2 Nos. Base channel of size 100 mm x 50 x mm
+for erecting Transformer. Channel of size 75 x40 mm for erecting
+D.O. Fuse Set, L.A., A.B. Switch handle etc. Angle of size 50 x 50
+x6 mm for erecting Distribution Box, Transformer Belt tc.as per
+drawing(App.176 kg, iron work ) with neccessary clamps, Nut-
+bolts. Vee cross arm, top clip, insulators etc. complete with
+caution board & barbed wire. D.P. Structure shall be erected in
+provided c.c, foundation
+
+35 5.125 | Dismantling any type of unservicable feeder pillar, Switch gear 2 Each 1207 2414.00
+panel, Capacitor Panel, Metering panel, Bus-bar Panel, Electronic
+Equipment Panel, etc. and remaking the site good as original.
+Approx. size (upto 200cm. x 90 cm x 45 cm and
+
+36 8.4.22 Supplying & erecting inline cut point end pole D. P. Structure for q Each 130443 130443.00
+100 kVA Transformer with R.S.J. Pole 2 Nos. of size 100 x 116 mm
+x 11 Mtr. Long with suitable Distribution Box of C.R.C.A. Sheet
+16 SWG (size 4 SqMtr.) with 4 Pole MCCB 200 Amps as incomer
+& 6 Nos. 100 Amps Kitkat for outing circuits transmer D.P.
+Structure includes the A. B. Switch 200 Amps, D.O. fuse Set &
+L.A. Set. 2 Nos.Top channel of size 100 mmx 50 mm for erection
+of A.B. Switch & 2 Nos. Base channel of size 100 mm x 50 x mm
+for erecting Transformer, Channel of size 75 x40 mm for erecting
+D.O. Fuse Set, L.A., A.B. Switch handle etc.Angle of size 50 x 50
+x6 mm for erecting Distribution Box, Transformer Belt etc.as per
+drawing(App. 176 Kg. iron work) with neccessary clamps, Nut-
+bolts. Vee cross arm, top clip, insulators etc. complete with
+caution board & barbed wire.D.P. Structure shall be erected in
+provided c.c. foundation
+
+Supplying & erecting single pole cut point channel set of for 11 fl Each 6364 6364.00
+kV HTOH. Line. Two channel of size 100 x 50 mm 1.6 m Long
+
+having stud angle of size 50 x 50 x 6 mm 1.5 m long with top piece
+
+of size 100 x 50 mm 0.45 m. Long with necessary clamps, nut bolts
+
+etc. complete as per drawing.
+
+Supplying and erecting approved make extendable / non- 3 Each | 154214.00 | 462642.00
+extendable type 11 kV, 630A, load break switch with fuses of
+
+required rating, on provided MS channels / trench / foundation
+
+in an approved manner as per specification no SW-HTS / LBS
+
+Supplying, erecting & terminating PVC armoured cable 34 core 750 | Each 736.00 552000.00
+120 sq mm aluminium conductor with continuous 12.97 sq mm
+
+(8 SWG) G.L. earth wire complete erected with glands & lugs, on
+
+wall/trusses/pole or laid in provided trench/ pipe as per
+
+specification no. CBLT/ AL
+
+Total 51000173/-
+
+Rs. Five corer Ten lacks, one hundred and seventy three only
+
+Additional submissions
+In continuation of our statement of facts and our interpretations of facts submitted earlier along with advance ruling
+application we would further like to state that.
+As per Section 2(119) of the Central Goods and Services Tax (CGST) Act, 2017,
+unless the context otherwise requires, the term “works contract" means a contract for building, construction,
+fabrication, completion, erection, installation, fitting out, improvement, modification, repair, maintenance,
+renovation, alteration or commissioning of any immovable property wherein transfer of property in goods (whether
+as goods or in some other form) is involved in the execution of such contract.
+Thus as per definition contract for building, construction of immovable property should only be considered as
+works contract
+‘Immovable property’ is defined in section 3(26) of General Clauses Act, 1897 as follows:
+"Immovable property'shall include land, benefits to arise out of land, and things attached to the earth, or
+permanently fastened to anything attached to the earth;"
+
+
+
+Meaning of immovable property’ as per section 3 of the Transfer of Property Act, 1882 does not include standing
+timber, growing crops or grass. The Hon'ble Supreme Court in the case of Commissioner of Central Excise,
+Ahmedabad Vs. Solid & Correct Engineering Works 2010 (252) ELT 481 has with reference to case under Central Excise
+Act discussed the meaning of words immovable property’ which also confirms our view that only things permanently
+attached to the land which cannot be demolition can be considered as immovable property, merely attachment of the
+plant to the foundation can not be considered as immovable property. The said case is discussed in detail in
+submissions made by the Dy. Commissioner of State Tax vide letter dated 30th June 2018 so for the sake of brevity the
+same is not reproduced here once again.
+
+Further Order No. 58/1 /2002-CX dated 15.01.2002 issued under section 37B of the Central Excise Act clarified various
+items as immovable property after referring to various judgments of Hon'ble Supreme Court. In para 5 of the order,
+examples of immovable property given are as follows:
+
+"5. Keeping the above factors in mind the position is clarified further in respect of specific instances which have been
+brought to the notice of the Board.
+
+(1) Turn key projects like Steel Plants, Cement plants, Power plants etc. involving supply of large number of
+components, machinery, equipment's, pipes arid tubes etc. for their assembly/installation erection/integration/
+interconnectivity on foundation/ civil structure etc, at site, will not be considered as excisable goods for imposition
+of central excise duty, the components, however, would be dutiable in the normal course.
+
+Here we would like to draw your attention to the fact that our scope of work does not include construction of entire
+project of Metro stations, railway line, power supply, civil structures etc. but scope include "Shifting LT,HT
+Overhead lines crossing which are obstructing metro railway path and providing LT,HT underground cables for
+Nagpur Metro Rail Project.
+
+The work is not construction of metro rail project but this is shifting of existing utilities obstructing metro railway
+path and providing supplying and installation of new underground cable along with its accessories. Detail scope is
+already submitted in statement of facts submitted with application for advance ruling.
+
+(2) Huge tanks made of metal for storage of petroleum products in oil refineries or installations. These tanks, though
+not embedded in the earth, are erected at site, stage by stage, and after completion they cannot be physically moved.
+On sale/disposal they have necessarily to be dismantled and sold as metal sheets/scrap. It is not possible to assemble
+the tank all over again. Such tanks are therefore not moveable and cannot be considered as excisable goods (Reference
+para 15 of Triveni judgment supra and the case of CCE Chandigarh v. Bhagwanpura Sugar Mills reported in 2001 (47)
+RLT 409 (CEGAT Delhi)]
+
+(3) Refrigeration/Air conditioning plants. These are basically systems comprising of compressors, ducting, pipings,
+insulators and sometimes cooling towers etc. They are in the nature of systems and are not machines as a whole. They
+1e into existence only by assembly and connection of various components and parts. Though each component is
+le, the refrigeration/air conditioning system as a whole cannot be considered to be excisable goods. Air
+ning units, however, would continue to remain dutiable as per the Central Excise Tariff.
+nd escalators. (a)Though lifts and escalators are specifically mentioned in sub heading 8428.10, those which
+led in buildings and permanently fitted into the civil structure, cannot be considered to be excisable goods.
+[fttdand escalators have also been held to be non-excisable by the Govt. of India in the case of Otis Elevators
+ij f td reported in 1981 ELT 720 (GOI). Further, this aspect was also a subject matter of C@AG's Audit Para
+f 3-99 [ DAP NO 1867 which has since been settled by the C&AG accepting the Board's view that such lifts
+falators are not excisable goods. Also refer CCE vs Kone Elevators India Ltd reported in 2001(45)RLT 676
+— 'T - Chen)
+Tra srptesd we are of the opinion that our work does not fall under the term works contract and we agree with the opinion
+SL expressed by Dy Commissioner State Tax vide letter dated 30th July 2018 that the said supply falls under composite
+supply as there are two or more taxable supplies which are naturally bundled and supplied in conjunction with each
+other and cannot be considered as a contract for building, construction..... of immovable property and the Notification
+No 11/2017-Central tax (rate) dated 28th June 2017 is not applicable in our case and the same should be treated
+composite supply with principle item being supply of HT/LT cable and the rate of the principal supply should be
+applicable to whole contract.
+With regards to our advance ruling application we hereby submit challan (4 copies) for payment of balance fees of
+Rs.5000 dated 6th August 2018 having CIN ORBC18082700076845 under CGST Act.,
+Also as required by you we here by submit Tender document (4 sets) of works allotted to us by Nagpur Metro Rail
+Corporation.
+
+03. CONTENTION - AS PER THE CONCERNED OFFICER
+The submission, as reproduced verbatim, could be seen thus-
+
+I would like to submit regarding their questionnaires as a jurisdiction officer as under.
+
+Applicant have raised following questions
+
+1 Whether EPC Contract for electrical cable supply and laying work can be classified as contract for
+building, construction, fabrication, completion, erection, installation, fitting qut, improvement,
+modification, repair, maintenance, renovation, alteration or commissioning of immovable property
+wherein transfer of property in goods (whether as goods or in some other form) is involved in the
+execution of such contract.
+
+As per information provided by applicant, The applicant received order from Nagpur Metro Rail Corporation
+
+hereafter called as NMRCL for "Shifting LT,HT O/H lines crossing and providing LT,HT U/G cables for Nagpur
+
+6
+
+
+Metro Rail Project". NMRCL Is a Special Purpose Vehicle (SPV) created for the smooth implementation and operations
+of the Nagpur Metro Rail Project and is a joint venture of Government of India & Government of Maharashtra, with
+50:50 equity. NMRCL is incorporated by Govt. of India- Ministry of Corporate affairs
+
+After going through documents provided it is evident that work is awarded through the work involves various
+activities vis. Supply, erection, testing and commissioning including transport, loading) unloading, insurance etc. of
+transformer substation, HT & LT Overhead Line & Cable Through Underground which is awarded to applicant in
+single bunch of contract at a single p tendering process thus it is also evident that applicant has no option to quote
+different prices for each individual items and has to accept entire work and do not have option to accept part activities
+and refuse rest activities. Upon going through work schedule-provided by the applicant, I find that there are different
+components like installation of cable, cement, joints, transport, insurance which are naturally bundled and supplied
+in conjunction with each other and are integral to one main supply i.e. supply of cable and if one or more components
+are removed the nature of main supply would get affected.
+
+Now as per Section 2(119) of the Central Goods and Services Tax (CGST) Act, 2017, unles:
+requires, the term.
+
+"works contract means a contract for building,
+out, improvement, modification, repair, maintenance,
+property wherein transfer of property in goods (whether as goo!
+of such contract"
+
+So as to qualify as works contracts wor
+
+necessary.
+
+The Hon'ble Supreme Court in the case of Commissioner of Central Excise, Ahmedabad vs. Solid & Correct
+
+Engineering Works 2010 (252) ELT 481 has with reference to case under Central Excise Act discussed the meaning of
+served in paras 18 and 19 of the judgment as follows:
+
+words immovable property’. The Court has ob:
+18. That argument needs to be tested on the touch stone of the provisions referred to above. Section 3(26) of the General
+
+Clauses Act includes within the definition of the term "immovable property" things attached to the earth or
+permanently fastened to anything attached to the earth. The term "attached to the earth" has not been defined in the
+General Clauses Act, 1897. Section 3 of the Transfer of Property Act, however, gives the following meaning to the
+
+expression “attached to the earth":
+(a) rooted in the earth, as in the case of trees and shrubs;
+(b) imbedded in the earth, as in the case of walls and buildings;
+(c) attached to what is so imbedded for the permanent beneficial enjoyment of that to which it is attached.
+19. Itis evident from the above that the expression "attached to the earth" has three distinct dimensions, viz. (a) rooted
+
+in the earth as in the case of trees and shrubs (b) imbedded in the earth as in the case of walls or buildings or (c)
+enjoyment of that to which it is attached. Attachment of the
+
+Diane to what is imbedded for the permanent beneficial
+Rt dation not more than 11/2 feet deep intended to provide
+
+pupae with the help of nuts and bolts to a foun
+stabjlit,&, the working of the plant and prevent vibration/ wobble free operation does not qualify for being described
+>, as att clk to the earth under any one of the three clauses extracted above. That is because attachment of the plant to
+the fodndation is not comparable or synonymous with trees and shrubs rooted in earth. It is also not synonymous with
+
+imbed ing yn earth of the plant as in the case of walls and buildings, for the obvious reason that a building imbedded
+
+tli is permanent and cannot be detached without demolition. Imbedding of a wall in the earth is also in no
+
+omparable to attachment of a plant toa foundation meant only to provide stability to the plant especially because
+
+agachment is not permanent and what is attached can be easily detached from the foundation. So also the
+
+ent of the plant to the foundation at which it rests does not fall in the third category, for an attachment to fall
+iat category it must be for permanent beneficial enjoyment of that to which the plant is attached.
+
+<==} is evident from work schedule submitted by the applicant that the work involves Supply, erection, testing and
+
+commissioning including transport, loading, unloading, insurance etc of transformer substation, HT & LT Overhead
+
+Line & Cable Through Underground, for Metro Rail Proje above said case identifiable main supply particularly
+
+underground "LT/HT cable".
+The cable is embedded in earth for safety of hu
+
+s the context otherwise
+
+construction, fabrication, completion, erection, installation, fitting
+renovation, alteration or commissioning of any immovable
+ds or in some other form) is involved in the execution
+
+k there should be of transfer of property in goods of immovable property is
+
+man and cable itself, Cables can be moved/shifted by excavation of
+earth and can be re-installed at other place. Transformers are rested on channels which are fitted on cement concrete
+base for its smooth operation and can be easily shifted/moved to other sites by lifting the same with the help of the
+crain without damaging the same. It is very clear that material is not installed for beneficial enjoyment of land but it is
+installed for more beneficial use of that material itself.
+
+Section 2(30) defines composite supply as
+"supply made by a taxable person to a recipi
+both, or any combination thereof, which are
+
+ordinary course of business, one of which is a principal supply"
+
+Thus going through the above facts it is crystal clear that above said supply (activity) constitutes composite Supply
+and not a works contract.
+
+Thus in my humble opinion in the
+the above work cannot be consi
+
+ent consisting of two or more taxable supplies of goods or services or
+naturally bundled and supplied in conjunction with each other in the
+
+above said work that there is no transfer of immovable property involved and thus
+dered as contract for building, construction, fabrication, completion, erection,
+installation, fitting out, improvement, modification, repair, maintenance, renovation, alteration or commissioning
+of immovable property but it is nothing but a composite supply which is taxable at the rate specified for the main
+identifiable supply i.e. cables, transformers which is taxable @ 18% under GST Act 2017.
+
+
+Z, Whether these contracts can be classified as works contracts as per GST Law and whether notification no.
+11/2017-Central Tax (Rate) dated 28th June 2017 as amended by notification no.01/2018-Central Tax (Rate)
+dated 25th Jan 2018 is applicable to the present case? .
+
+Relevent extracts of above mentioned notification are re-produced below.
+
+(V) Composite supply of works contracts as defined in clause (119) of section 2 of the central goods ad service tax Act
+
+2017 supplied by the way of construction, erection, commissioning or installation of original works pertaining to
+
+(a) Railways including monorail and metro. 6%
+
+The Precondition in the said notification is composite supply of works contracts pertaining to metro, as discussed
+
+earlier only work relating to immovable property can be classified as works contracts and thus the above said work
+
+does not fall in ambit works contract but it is composite supply of various items mentioned in work schedule
+
+submitted. Thus the said work can not be classified as works contract and the said notification is not applicable to
+
+the applicants case. ,
+
+Thus going through the above facts it is clear that the above said supply (activity of the dealer does not amounts
+
+works contract but said supply constitutes composite supply only
+
+Hon. Forum is humbly requested to admit the application for Advance ruling and consider the above submission
+
+while disposing the application of the dealer.
+
+04. HEARING
+The case was taken up for Preliminary hearing on dt. 31.07.2018 when Sh. Sidharth Bodas, C.A.
+
+along with Sh, Ravindra Nene , M.D. appeared and requested for admission of application as per
+contentions in their ARA. Jurisdictional Officer, Sh. S. B. Mohite, Dy. Commr. of S.T.(E-009) Raigad
+division, Navi Mumbai appeared and made written submissions .
+
+The application was admitted and called for final hearing on 28.08.2018, Sh. Sidharth Bodas, C.A.
+along with Sh. Ravindra Nene , M.D. appeared and made oral and written submissions. Jurisdictional
+Officer, Sh. S. B. Mohite, Dy. Commr. of S.T.(E-009) Raigad division, Navi Mumbai appeared and stated
+that they have already made written submissions.
+
+05. OBSERVATIONS
+We have gone through the facts of the case, documents on record and submissions made by both,
+
+(a jo. > a of Govt. of India & Govt. of Maharashtra, with 50:50 equity) for "Shifting of LT,HT O/H
+= ii speypissing and providing LT,HT U/G cables from Hingna Depot CH. 19500 to Ambazari Lake
+
+Ss érection, testing and commissioning including transport, loading, unloading, insurance etc of transformer
+
+= calgé500 for the Nagpur Metro Rail Project. They have also submitted that the work involves Supply,
+
+substation, HT & LT Overhead Line & Cable through Underground, for the Metro Rail Project. In the
+tender/work order, the work schedule separately describes each activity to be carried out to complete the
+work and also rate for each activity is separately mentioned, by adding amount of each activity total
+estimated tender cost is derived and they have quoted in percent % above or below of the estimated cost.
+Thus they had no option to quote the individual prices for each activity and the tender had to be accepted
+as a whole and they could not accept part activities. They have further stated that NMRCL department is
+insisting them to charge 12% GST as per Notfn. No. 11/2017-C. T. (Rate) dated 28th June 2017 as amended
+by Notfn. No. 01/2018-C.T. (Rate) dated 25th Jan 2018, treating above work as Composite supply of works
+contract as defined in clause (119) of Sec. 2 of the CGST Act, 2017, supplied by way of construction, erection,
+
+commissioning, or installation of original works pertaining to,- (a) railways, including monorail and metro.
+
+The applicant has also submitted that according to them they are not supplying Works Contract
+Service because in their case there is no involvement of immovable property. They have said that their
+
+8
+
+
+supply should be classified as Composite supply, as different goods and services vis. Testing, cable, wires,
+cement pipes, laying, joints, Insurance, commissioning, transport etc. which are naturally bundled and
+supplied in conjunction with each other, with principal supply being LT/ HT Cable.
+
+Thus we find that the basic issue before us is whether in the subject case there is supply of Works
+Contract or not. We shall therefore discuss all the provisions relating to Works Contract, which is a mixture
+of service and transfer of goods. GST Schedule II clearly mentions that the following are supply of
+
+services:-
+
+a. construction of a complex, building, civil structure or a part thereof, including a complex or
+building intended for sale to a buyer, wholly or partly,
+b. works contract including transfer of property in goods (whether as goods or in some other form)
+
+involved in the execution of a works contract
+
+Hence Works contract will be treated as service and tax would be charged accordingly. As per Section
+2(119) of the CGST Act, 2017, unless the context otherwise requires, the term "works contract" means a contract
+for building, construction, fabrication, completion, erection, installation, fitting out, improvement, modification,
+repair, maintenance, renovation, alteration or commisstoning of any immovable property wherein transfer of
+
+property in goods (whether as goods or in some other form) ig involved in the execution of such contract"
+
+Thus what we need to find out is whether the applicant in the subject case is dealing in any
+immovable property which is transferred in the execution of the contract. The applicant has submitted
+17 BRhedule B in respect of the work allotted to them by NAGPUR METRO. It is seen from the Schedule that
+ES
+th k also includes as under :-
+%
+LB owi ing Cement concrete foundation for pump in 1:2:4 with required size and length of foundation
+ji
+4
+
+bolés%infA nuts (cost with required size and length of foundation bolts and nuts (cost with wooden box is
+Ly
+
+ea
+
+cE 2°Supplying & erecting 11 kV 630A, Indoor type Ring Main unit with lor 2 Incoming & 2 or 1 Outgoing
+
+with HRC fuses complete erected on provided cc foundation/MS channels/trench, etc, in an approved
+manner as per specification no SW-HTS / RMU
+
+3. Supplying and erecting fencing of section having size 2450 mm in height from ground level and 1200
+mm width with angle iron frame work erected in C C foundation and painted as per specification No SS-
+AS/FSG.
+
+4. Supplying and erecting 50 x 50 x 6 mm. angle iron as corner support 2m long fixed at the middle of the
+fencing frame and the other side inclined at 30 degree angle, in C.C. foundation of 15 x 15 x 40cm complete
+
+duly painted with one coat of red oxide and two coats aluminum paint.
+
+5, Supplying & laying (including excavation) 15 cms. dia RCC Hume pipe with coupling collar of standard
+thickness at required depth up to 90 cms. below road/ ground surface, for enclosing provided cable &
+
+necessary back filling with light ramming to make the road/ground surface as it was (Except bitumen
+
+carpet)
+3
+
+
+Section 3(26) of General Clauses Act, 1897 defines 'Immovable property’ as follows:
+
+"Immovable property’ shall include land, benefits to arise out of land, and things attached to the
+
+earth, or permanently fastened to anything attached to the earth;"
+
+a. It is evident from (1) above that they are providing cement concrete (cc) foundation for pump and
+the pump is attached to the CC foundation with nuts and bolts. It is very clear that the CC
+
+foundation is permanently fastened to earth and the pump is attached to it.
+
+b. Itis evident from (2) to (4) above that, they are Supplying & erecting 11 kV 630A, Indoor type Ring
+Main unit with lor 2 Incoming & 2 or 1 Outgoing with HRC fuses complete erected on provided
+cc foundation/MS channels/trench; Supplying and erecting fencing of section having size 2450
+mm in height from ground level and 1200 mm width with angle iron frame work erected in CC
+
+foundation. Here to the Indoor Unit and fencing section are erected on CC foundation which is
+
+permanently fastened to earth.
+
+c. In (5) above it is seen that there is Supplying & laying (including excavation) of 15 cms. dia RCC
+Hume pipe with coupling collar of standard thickness at required depth up to 90 cms. below
+road/ ground surface, for enclosing provided cable & necessary back filling with light ramming to
+make the road/ ground surface as it was. Therefore the implication is that the cables are enclosed
+in such RCC pipes which are kept under the ground at a certain depth and then the entire pipes
+with the enclosed cables are covered back with filling to make the road as itis. If this is not attached
+to earth, then what is it? This clearly satisfies the condition of being attached to earth. The pipes
+are fixed underneath the ground level underground, covered with filling and in such case it is
+
+clear that the said pipes are meant to be affixed permanently underneath the ground and therefore
+
+cannot be considered as a movable property.
+<
+,W# further find from the work schedule submitted by the applicant that their work involves supply,
+
+> ot
+rgct n, testing and commissioning including transport, loading, unloading, insurance etc of transformer
+
+aout wi Sstations, HT & LT Overhead Line & Cable Through Underground. Their EPC contract for electrical cable
+a supply and laying work can be classified as contract for building, construction, fabrication, completion, erection,
+
+installation, fitting out, improvement, modification, repair, maintenance, renovation, alteration or commissioning of
+immovable property wherein transfer of property in goods (whether as goods or in some other form) is involved in the
+execution of such contract. Hence we have no hesitation in holding that the applicant is supplying Works
+Contract Services. It is also apparent that the nature of the works undertaken by the applicant are not in
+
+the nature of ‘Original Works’ as per detailed discussions in the latter part of the findings.
+
+The second question raised by the applicant is whether these contracts can be classified as works contracts as per
+GST Law and whether notification no. 11/2017-Central Tax (Rate) dated 28th June 2017 as amended by notification
+n0.01/2018-Central Tax (Rate) dated 25th Jan 2018 is applicable to the present case?
+
+Since it is clear that the applicant is supplying Works Contract Services, we now reproduce the
+
+relevant provisions of Notification no. 11/2017-Central Tax (Rate) dated 28th June 2017 which is
+
+applicable to the present case.
+
+10
+
+
+Sl. | Chapter, Description of Service Rate Condition
+
+No. | Section or (per
+Heading. cent.)
+
+1 2 3 4 5
+Chapter 99 All Services
+Section 5 Construction Services
+Heading 9954 |_(i) ...---.crerecreeeenereretttty ) og :
+(Construction | (ii) composite supply of works contract as defined in clause 119 of section | 9 -
+services) 2 of Central Goods and Services Tax Act, 2017.
+
+(iii) construction services other the (i) and (ii) above. 6 -
+
+Hence as per the said Notfn it is very clear that the composite supply of works contract as in the subject
+case falls under (ii) attracting 18% GST. The said Notification was amended on 22.08.2017 vide Notfn No.
+20/2017 - Central Tax (Rate) and is reproduced as under:-
+
+SI. | Chapter, Description of Service Rate Condition
+No, | Section or (per
+Heading. cent.)
+1 2 3 4 5
+Chapter 99 All Services
+Section 5 Construction Services
+Heading 9954 | (i) ....cceeessere eerie, ) 9 =
+(Construction | (ii) composite supply of works contract as defined in clause 119 of section | 9 -
+services) 2 of Central Goods and Services Tax Act, 2017.
+
+(iii) Composite supply of works contract as defined in clause (119) of | 6 -
+section 2 of the Central Goods and Services Tax Act, 2017, supplied to the
+Government, alteration of, (a) a historical monument,
+
+archaeological site or remains of national importance, archaeological
+excavation, or antiquity specified under the Ancient Monuments and
+Archaeological Sites and Remains Act, 1958 (24 of 1958);(b) canal, dam
+or other irrigation works;(c) pipeline, conduit or plant for (i) water
+supply(ii) water treatment, or (iii) sewerage treatment or disposal.
+(iv) Composite supply of works contract as defined in clause (119) of | 6
+section 2 of the Central Goods and Services Tax Act, 2017, supplied by
+way of construction, .. ...of - (a) a road, bridge, tunnel, or terminal
+sessseep (b) a civil struct ... under Jawaharlal Nehru National Urban
+Renewal Mission or Rajiv Awaas Yojana; (c) a civil structure ..........
+1 under the Housing for All (Urban) Mission/Pradhan Mantri Avwas
+Yojana, .....+ ; (d) a civil structure or any other original works pertaining
+LOi-caxaxeves under the Housing for All (Urban) ission/Pradhan Mantri
+Awas Yojana; (e) a pollution control or effluent treatment i ee
+(v) Composite supply of works contract as 6 defined in clause. (119) of | 6
+section 2 of the Central Goods and Services Tax Act, 2017, supplied by
+way of construction, erection, commissioning, or installation of
+ORIGINAL WORKS pertaining to, (a) railways, excluding monorail and
+HIBEPD ‘sosanecnnnase
+(vi) Construction services other than (i), (ii), (iii), (iv), (v) and (vi) | 6
+above.
+
+As per the said Notfn with the amendment mentioned above also it is very clear that the composite supply
+of works contract as in the subject case falls under (ii) attracting 18% GST. The said Notification 11/2017
+was further amended on 21.09.2017 vide Notfn No. 24/2017 - Cen Tax (Rate) and is reproduced as under:-
+
+Sl. | Chapter, Description of Service Rate Condition
+No. | Section or (per
+Heading. cent.)
+1 2 3 4 5
+Chapter 99 All Services
+Section 5 Construction Services
+OD ccsevesvasvsazved ) 9 7
+
+ll
+
+
+Heading 9954 | (ii) composite supply of works contract as defined in clause 119 of section | 9 -
+(Construction | 2 of Central Goods and Services Tax Act, 2017.
+services) (iii) Composite supply of works contract ..........
+‘onstruction | (ii) Composite supply of works contract as 6 defined in | 9 -
+rvices) clause. (119) of section 2 of the Central Goods and
+
+Services Tax Act, 2017
+(iii) Composite supply of works contract ........-.
+
+(iv) Composite supply of works contract
+(v) Composite supply of works contract as 6 defined in clause. (119) of | 6
+section 2 of the Central Goods and Services Tax Act, 2017, supplied by
+way of construction, erection, commissioning, or installation of
+ORIGINAL WORKS pertaining to, (a) railways, excluding monorail and
+MELLO «0... sseceee
+
+(vi)Services provided to the Central 6 Government, State | 6
+Government, Union Territory, a local authority or a governmental
+authority by way of construction, erection, commissioning,
+installation, completion, fitting out, repair, maintenance,
+renovation, or alteration of - (a) a civil structure or any other
+original works meant predominantly for use other than for
+commerce, industry, or any other business or profession; (b) a
+structure meant predominantly for use as (i) an educational, (ii) a
+clinical, or(iii) an art or cultural establishment; or (c) a residential
+complex predominantly meant for self-use or the use of their
+employees or other persons specified in paragraph 3 of the Schedule
+
+III of the Central Goods and Services Tax Act, 2017
+
+(vii) Construction services other than (i), (ii), (iii), (iv), (v) and (vi)
+above.
+
+Vide amendment Notfn No. 31/2017, dated 13.10.2017 and 46/2017 dated 11.11.2017,the original Notfn
+No. 11/2017 stood as under:-
+
+Sl. | Chapter, Description of Service Rate | Condition
+No. | Section or (per
+Heading. cent.)
+yi BI 4 5
+| Chapter 99 All Services
+Section 5 Construction Services
+leading 9954 | (i)
+
+6 Provided that where the
+services are supplied to a
+Government Entity, — they
+should have been procured by
+the said entity in relation to a
+work entrusted to it by the
+Central Government, State
+Government, Union territory
+or local authority, as the case
+
+may be
+(iv) Composite supply of works contract .......----.- 6
+(v) Composite supply of works contract as 6 defined in | 6
+clause. (119) of section 2 of the Central Goods and
+Services Tax Act, 2017, supplied by way of
+construction, erection, commissioning, or installation
+of ORIGINAL WORKS pertaining to, (a) railways,
+excluding monorail and metro ......-.....
+(vi) composite supply of works contract as defined in | 6 Provided that where the
+clause 119 of section 2 of Central Goods and Services services are supplied to a
+Tax Act, 2017 provided to the Central 6 Government Entity, _ they
+Government, State Government, Union Territory, should have been procured by
+a local authority or a governmental authority by the said entity in relation to a
+way of construction, erection, commissioning, work entrusted to it by the
+installation, completion, fitting out, repair, Central Government, State
+
+12
+
+
+maintenance, renovation, or alteration of - (a) a Government, Union territory
+civil structure or any other original works meant or local authority, as the case
+predominantly for use other than for commerce, may be
+
+industry, or any other business or profession; (b)
+
+a structure meant predominantly for use as (i) an
+
+educational, (ii) a clinical, or(iii) an art or
+
+cultural establishment; or (c) a_ residential
+
+complex predominantly meant for self-use or the
+
+use of their employees or other persons specified
+
+in paragraph 3 of the Schedule Ill of the Central
+
+Goods and Services Tax Act, 2017
+
+(vii) Construction services other than (i), (ii),
+
+(iii), (iv), (v) and (vi) above
+
+Even with the amendment the applicants’s position has not changed. Their composite supply of
+works contract as in the subject case falls under (ii) attracting 18% GST. The said Notification 11 /2017 was
+also further amended on 25.01.2018 vide Notfn No. 01/2018 - Cen Tax (Rate) and vide this amendment
+clause (v) as above was changed to include ‘Composite supply of works contract as defined in clause
+(119) of section 2 of the Central Goods and Services Tax Act, 2017, supplied by way of construction,
+
+.. pertaining to, (a) railways, INCLUDING monorail and metro.
+
+In the subject case it is seen that the applicant is providing composite supply of Works Contract
+
+in respect of Metro but the reduced rate of tax is available only if the work is of the type of ORIGINAL
+WORKS.
+
+t case the work done by the applicant does not appear to be original works. The applicant
+
+s have stated that” Here we would like to draw your attention to the fact that our scope of work does
+
+WS fide construction of entire project of Metro stations, railway line, power supply, civil structures etc. but
+
+WTR A Sinve ee <a include "Shifting LT, HT Overhead lines crossing which are obstructing metro railway path and providing
+
+See LT,HT underground cables for Nagpur Metro Rail Project. The work is not construction of metro rail project but
+this is shifting of existing utilities obstructing metro railway path and providing supplying and installation of new
+
+underground cable along with its accessories.
+
+Hence from the above discussions we find that in the present case, the contract is not related to
+any original work and is in the nature of composite supply of Works Contract Hence we hold that the
+activity of the applicant in the present case is nothing but a composite supply of Works Contract, not being
+original works and they will be covered under Sr.No. 3, item no. (ii) of Notification No. 11/2017 dated
+28.06.2017 as amended by Notification No. 1/2018 dated 25.01.2018 and attract 18% GST (9% each of CGST
+
+and SGST).
+
+05. In view of the extensive deliberations as held hereinabove, we pass an order as follows :
+
+13
+
+
+ORDER
+
+(Under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods and
+Services Tax Act, 2017)
+
+NO.GST-ARA- 47/2018-19/B- (24 = Mumbai,at. 20. O39. 2916
+
+For reasons as discussed in the body of the order, the questions are answered thus -
+
+Question 1:- Whether EPC Contract for electrical cable supply and laying work can be classified as contract for
+building, construction, fabrication, completion, erection, installation, fitting out, improvement,
+modification, repair, maintenance, renovation, alteration or commissioning of immovable property
+wherein transfer of property in goods (whether as goods or in some other form) is involved in the
+execution of such contract.
+
+Answer ;- Answered in the affirmative.
+
+Question 2:- Whether these contracts can be classified as works contracts as per GST Law and whether notification
+no. 11/2017-Central Tax (Rate) dated 28th June 2017 as amended by notification no.01/2018-Central
+Tax (Rate) dated 25th Jan 2018 is applicable to the present case?
+e
+
+Answer :- In view of the discussion above these contracts are classifiable as Works Contract as per GST Law and
+Notification No. 11/2017-Central Tax (Rate) dated 28th June 2017 as amended by notification
+n0.01/2018-Central Tax (Rate) dated 25th Jan 2018 is applicable to the present case but the rate of GST
+
+Ue, Ay % would be applicable in respect of applicant as per detailed discussions above.
+
+sient: —
+B. V. BORHADE PANKAJ KUMAR
+(MEMBER) (MEMBER)
+CERTIFIED TRUE COPY
+
+Copy to:-
+1. The applicant
+2. The concerned Central / State officer Vas
+3. The Commissioner of State Tax, Maharashtra State, Mumbai ee
+4. The Chief Commissioner of Central Tax MEMBER
+
+5. Joint commissioner of State tax, Mahavikas for Website.
+
+ADVANCE RULING AUTHORITY
+MAHARASHTRA STATE, MUMBAI
+Note :- An Appeal against this advance ruling order shall be made before The Maharashtra Appellate
+Authority for Advance Ruling for Goods and Services Tax, 15" floor, Air India building, Nariman Point,
+Mumbai - 400021.
+
+14

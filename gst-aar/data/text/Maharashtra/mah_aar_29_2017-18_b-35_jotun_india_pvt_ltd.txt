@@ -1,0 +1,927 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+(constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri B. V. Borhade, Joint Commissioner of State Tax
+(2) Shri Pankaj Kumar, Joint Commissioner of Central Tax
+
+GSTIN Number, if any/ User-id 27 AABCJ6665J1Z6
+
+Legal Name of Applicant JOTUN INDIA PRIVATE LIMITED
+
+Registered Address/ Address provided while | D 280 RANJANGAON INDUSTRIAL ESTATE, PUNE
+
+obtaining user id NAGAR ROAD, RANJANGAON, PUNE,
+MAHARASHTRA 412220
+
+Details of application GST-ARA, Application No. 26 Dated 20.02.2018
+
+Concerned officer COMMISSIONER, SGST, MUMBAI
+
+Nature of activity(s) (proposed / present) in
+respect of which advance ruling sought
+
+A Category Manufacturing
+B Description (in brief) As reproduced in para 02 of the Proceedings below.
+Issue/s on which advance ruling required (vii)classification of goods and/or services or both
+
+Question(s) on which advance ruling is | As reproduced in para 01 of the Proceedings below.
+required
+
+PROCEEDINGS
+
+(under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+The present application has been filed under section 97 of the Central Goods and Services Tax Act,
+
+2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as “the CGST Act and
+
+MGST Act’”] by JOTUN INDIA PRIVATE LIMITED, the applicant, seeking an advance ruling in respect of
+the following issues.
+
+1. Whether marine paints supplied by the applicant, would be considered to be part of ship and accordingly
+
+be then classified under SI no 252 of Schedule I of Notification No 1/2017 of Central Tax (Rates) dated
+
+June 28, 2017?
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and the
+MGST Act are the same except for certain provisions. Therefore, unless a mention is specifically made to
+such dissimilar provisions, a reference to the CGST Act would also mean a reference to the same provision
+under the MGST Act. Further to the earlier, henceforth for the purposes of this Advance Ruling, a reference
+to sucha similar provision under the CGST Act / MGST Act would be mentioned as being under the “GST
+
+Act’.
+
+02. FACTS AND CONTENTION - AS PER THE APPLICANT
+The submission (Brief facts of the case), as reproduced verbatim, could be seen thus -
+
+“Jotun Group is a leading supplier of paints and powder coatings. The Applicant, Jotun India Private Limited is a supplier,
+exporter and manufacturer of paints and powder coatings. The Applicant supplies paints and coatings that are specially
+designed for unique conditions.
+
+Broadly, the paints supplied by the applicant can be categorized in Solvent based paints and Water based paints. One of
+the major supplies by Applicant are marine paints. Composition of such marine paint being manufactured by Applicant
+makes it suitable for ships during building stage and even during maintenance. Details of such products along with its
+description are enclosed as Annexure 4
+
+
+
+In the erstwhile Indirect Tax regime, Applicant has been discharging applicable Indirect taxes on supply of such paints
+and availing exemptions when granted under respective legislation. Since July 2017, new Indirect Tax regime — Goods
+and Service Tax (GST) has been introduced in India by way of introduction of following legislation:
+
+o Central Goods and Service Tax Act, 2017 (CGST)
+
+© State wise Goods and Service Tax Legislation (SGST)
+
+o Integrated Goods and Service Tax Act, 2017 (IGST)
+
+With the introduction of GST, Applicant has analysed classification and applicability of CGST, SGST and IGST in light
+of new legislation. For classification, it has been clarified in the rate notification of respective legislation that rule for
+interpretation of the First Schedule to the Customs Tariff Act, 1975 including Section notes and Chapter notes and general
+explanatory notes of the said First Schedule would be applicable for the purpose of classification under GST.
+Accordingly, Applicant has sought to classify paints being supplied under HSN 3208 and 3209 on the basis of nature of
+the product and after considering relevant chapter notes and section notes. Notification No 1/2017 - Integrated Tax (Rate)
+dated June 28, 2017 prescribes applicable rate of IGST (hereinafter referred to as IGST Rate Notification). Paint supplied
+by Applicant are classifiable under Chapter Heading 3208 and 3209 are covered under Schedule IV of the said Notification
+and accordingly liable to 28% IGST.
+However, under same IGST Rate Notification, Schedule | liable to 5% IGST covers parts (classifiable under any chapter)
+of goods falling under heading 8907 i.e. part of ships. Since, marine paints supplied by Applicant are suitable for use by
+ships, Applicant wishes to understand whether the said marine paints could get classifiable under Schedule |.
+
+Accordingly, Applicant is making detailed submission herein below to demonstrate eligibility of marine paint to be classified under
+
+Schedule | and requests a ruling be pronounced in this regard.
+
+A. Marine paints to qualify as part of Ship in order to get covered under Schedule I of IGST Rate Notification
+liable to 5%
+
+Al. _ Inorder to deliberate on the question being sought, it is pertinent to analyse the classification of marine paints supplied by
+Applicant in detail. Technical features of marine paints are relevant for such analysis.
+
+A2. Accordingly, Applicant submits that marine paint is a specific type of paints suitable for use principally for ships during
+building stage and even during maintenance. The sailing ship needs protection from corrosive environment in which they
+operate. Such marine corrosion has a significant impact on sea carriers and their longevity. Therefore, effective corrosion
+control strategies are chosen considering appropriate selection of coating for a marine environment. Marine coatings have
+special functionality to protect marine vessels and other carriers above and below the waterline. Accordingly, marine paints
+supplied by Applicant has following technical features:
+- Protects the body of ship from highly corrosive environment
+- Blocks barnacles and other marine organisms from adhering to the hulls of ships
+-  Lessens fuel consumption as it controls damage to the ship.
+- Prevents impact on water eco-systems by reducing emission of Green House Gases.
+- Transportation of marine organisms to other areas
+Vide notification no 1/2017 of Integrated Tax (Rate) dated June 28, 2017, the Government of India has notified IGST rates
+for goods. The said notification has classified goods into 4 digit HSN Codes. Further under the said notification, it has
+been specified that section notes, chapter notes and General explanatory notes mentioned under Customs Tariff Act, 1975
+shall apply to the goods classified therein under GST.
+Since the notification refers to the classification of goods under The Customs Tariff Act, 1975, we have to refer to
+classification adopted therein.
+CLASSIFICATION UNDER CUSTOMS TARIFF ACT
+As regards classification of the marine paints under Customs Tariff Act, it would be pertinent to refer to extract of
+description of goods falling under Customs Heading 3208:
+Paints and varnishes (including enamels and lacquers) based on synthetic polymers or chemically modified natural
+polymers or chemically modified natural polymers dispersed or dissolved in a non-aqueous medium; solutions as defined
+in Note 4 to this Chapter
+Thus based on the technical specification of the product, marine paints appear to be classifiable under heading 3208. Since,
+marine paint is suitable for use for ships, it could also get classified as part of ship. For the purpose of this analysis,
+Applicant referred to chapter 89 for ‘Ships, boats and floating structure’. However, Applicant wishes to draw your
+attention to the fact that there is no specific entry in Chapter 89 for ‘parts’ of ships covered therein. In the absence of any
+entry for part of ship, Applicant had adopted classification of marine paint under chapter heading 3208.
+Applicant has also been adopting similar classification under Central Excise Law. The excise duty liability has accordingly
+been discharged by Applicant in erstwhile Indirect Tax regime. Sample copy of invoice which was issued under erstwhile
+regime, has been enclosed as annexure 5 for your ready reference.
+CLASSIFICATION UNDER GST
+
+A3. Basis the IGST Rate notification, goods are divided into different schedules of tax rates and the same is summarized as
+
+follows:
+Sr.No Goods falling under Schedule Rate of tax
+1 Schedule | 5%
+2 Schedule {1 12%
+3 Schedule III 18%
+4 Schedule 1V 28%
+5 Schedule V 3%
+6 Schedule VI 0.25%
+
+
+
+A4, As IGST Rate Notification directs to adopt classification in terms of Customs Tariff Act, 1975, Applicant has adopted
+classification of paints under heading 3208 to determine applicable rate. Entry number 20 of Schedule 1V of IGST Rate
+Notification reads as under:
+
+Sr.No. | Chapter/  Heading/ | Description of Goods
+Sub-heading/ — Tariff
+item
+20. 3208 Paints and varnishes (including enamels and lacquers) based on synthetic
+polymers or chemically modified natural polymers, dispersed or dissolved in
+a non-aqueous medium; solutions as defined in Note 4 to this Chapter
+However, marine paints are suitable for principally use of ships and hence, it is also pertinent to analyse Entry 252 to
+Schedule | of Notification No 1/2017 of Integrated Tax (Rates) dated June 28, 2017 liable to 5% IGST:
+
+Sl.No Chapter / Heading / Sub- | Description of Goods
+heading / Tariff item
+252. Any chapter Parts of goods of heading 8901, 8902, 8904, 8905, 8906 and 8907"
+Description of goods falling under above referred headings, are mentioned below
+SrNo Chapter fi Description of Goods
+
+Heading / Sub-
+heading / Tariff
+
+item
+
+246 8901 Cruise ships, excursion boats, ferry-boats, cargo ships, barges and
+similar vessels for the transport of persons or goods
+
+247 8902 Fishing vessels; factory ships and other vessels for processing or
+preserving fishery products
+
+248 8904 Tugs and pusher craft
+
+249 8905 Light-vessels, fire-floats, dredgers, floating cranes and other vessels
+the navigability of which is subsidiary to their main function; floating
+docks; floating or submersible drilling or production platforms
+
+250 8906 Other vessels, including warships and lifeboats other than rowing
+boats
+
+251 8907 Other floating structures (for example, rafts, tanks, coffer-dams,
+
+landing-stages, buoys and beacons)
+On conjoint reading of above entries, it could be construed that the aforementioned goods along with its parts (covered
+under entry 252) would be taxed at the rate of 5%.
+
+AS. — Applicant wishes to draw your kind attention to the fact that Entry 252 reproduced above is applicable to goods falling
+under any chapter but which are parts of goods falling under headings 8901, 8902, 8904, 8905, 8906 and 8907.
+Accordingly, a product which is classifiable under any chapter, if could be construed as part of these prescribed goods then
+the same would fall within the purview of entry 252 and hence would be liable to 5% IGST.
+
+AG. — Similar view was adopted by the Hon‘ble Court in the case of Mahindra & Mahindra Ltd. Vs Commissioner Of C.
+Ex., Nagpur [2007 (210) E.L.T. 579 (Tri. - Mumbai)], wherein it was held that we also note that the recent Circular No.
+839/16/06-CX dated 16-11-2006 issued by the Board has clarified that inasmuch as Notification No. 6/2002 exempts parts,
+falling under any Chapter used within factory of production for manufacture of goods of Heading 8701, the benefit cannot
+be denied to the product which may not fall under said chapter. The goods falling under any Chapter, as long as they are
+parts of goods of Heading 87.01 will be covered by the said Notification.
+
+AZ. Thus bearing in mind, entry 252 of Schedule | of GST classification notification (1/2017 - Integrated Tax dated June 28,
+2017) and aforesaid case law, one may interpret that goods falling under any chapter, as far as they constitute to be part
+of vessel / ship, would be subjected to tax at 5%.
+
+A8. Accordingly, for marine paints to be classified under this entry, it should be construed as ‘part of the ship’ covered under
+
+entry 252.
+
+B. Marine paint is mandatorily to be applied on all ships under Merchant Shipping Act, 1958 and hence the same
+should be considered as part of Ship
+
+Bl. As highlighted above, there is no separate tariff item as ‘parts of ship’ under chapter 89 of First Schedule to Customs Tariff
+Act, 1975. Thus, meaning of the term ‘parts of goods’, could then be adopted from its meaning in common parlance.
+Consequently, we have referred to the definition of the term ‘Part’, legal jurisprudence on the term ‘Parts / Components’
+under erstwhile Indirect Tax regime, the Merchant Shipping Act, 1958 and UK VAT Guidelines.
+
+B2. Meaning of ‘PART’
+
+The term ‘Part’ as defined under The Black’s Law Dictionary
+
+‘an integral portion, something essentially belonging to a larger whole, that which together with another or others makes
+up a whole.”
+
+Definition of ‘Part’ from Thesaurus
+
+‘an essential or integral attribute or quality’
+
+The meaning of the term ‘part’ in common parlance is that component part of an article is an integral part necessary to
+
+the constitution of the whole article and without it, the article will not be complete’.
+
+From the above, it could be understood that anything which is an integral element and is also essential to an object, could
+
+be considered as part of that article. Anything required to make the goods a finished item can be described as component
+
+
+
+parts. Applicant hereby submits relevant provisions of Merchant Shipping Act, 1958 (‘MS Act’ for brevity) which would
+help in demonstrating that marine paint is integral and essential component of ship.
+
+Section 356P(1) of MS Act: Application of chapter XIB-Control Of Harmful Anti-Fouling Systems On Ships
+
+Save as otherwise provided in this Part, this Part shall apply to—
+
+a. every Indian ship, wherever it is;
+b, ships not entitled to fly the flag of India, but which operate under the authority of India; and
+¢ ships that enter a port, shipyard, or offshore terminal or place in India or within the territorial waters of India or
+
+any marine areas adjacent thereto over which India has, or may hereafter have, exclusive jurisdiction in regard to
+control of pollution under the Territorial Waters, Continental Shelf, Exclusive Economic Zone and other Maritime
+Zones Act, 1976 (80 of 1976) or any other law for the time being in force.
+Section 356Q(a) of MS Act- Definition of ‘anti-fouling system”
+“anti-fouling system” means a coating, paint, surface treatment, surface, or device that is used on a ship to control or
+prevent attachment of unwanted organisms
+Section 356R of MS Act - Control of anti-fouling system
+1. Every Indian ship and other ships which are not entitled to fly Indian flag but operating under the authority of India, shall
+comply with the requirements set forth in this Part, including the applicable standards and requirements as prescribed
+from time to time as well as effective measures to ensure that such ships comply with the requirements, as may be prescribed
+from time to time.
+2 All other vessels to which this Part applies shall comply with requirements of the anti-fouling systems as prescribed from
+time to time.
+Section 356X of MS Act - Information regarding contravention of the provisions of Convention
+1. If, on receipt of a report from a surveyor or other person authorised to inspect a ship, the Director-General is satisfied that
+any provision of this Part has been contravened by such ship within the coastal waters, the Director-General or any officer
+authorised by him in this behalf, may—
+a. detain the ship until the causes of such contravention are removed to the satisfaction of the Director-General or the officer
+authorised by him; and
+b, levy penalty on such ship as specified in section 436
+B4. From conjoint reading of the above provisions, it is evident that every ship has to adhere to the anti-fouling provisions as
+prescribed under MS Act. Basis the same, a layer of coating or paint, has to be applied on the hull of the ship to control or
+prevent attachment of unwanted organisms. Further in the Concise Oxford English Dictionary, the term ‘hull’ is defined
+as follows -
+The main body of a ship or other vessel, including the bottom, sides, and deck but not the masts, superstructure, rigging,
+engines, and other fittings
+B5. Furthermore, if any Indian ship fails to comply with the provisions of this chapter, the Director - General or any officer
+authorised by him in his behalf can detain the ship until the causes of such contravention are removed or levy a penalty on
+such ship. Consequently, it could be construed that ships must have a layer of coating or paint on its hull, thereby making
+it very essential for a ship to operate and thus be marketable.
+Bo. Considering the fact that all ships are mandatorily required to apply paint makes it evident that paint is essential element
+for any ship to operate. Accordingly, such marine paint has to be considered as part of ship and should get covered under
+5% IGST Rate schedule.
+Cc. A product which is essential to complete the product and make it marketable then the same would be construed
+
+as part
+Cl. _ Inorder to understand coverage of term ‘parts’, it is relevant to refer to legal jurisprudence available in this regard wherein
+
+meaning of ‘parts’ has been deliberated.
+
+C2. The Hon'ble Supreme Court, in case of Star Paper Mills Ltd. Vs. Collector of Central Excise, Meerut [1990] 76 STC
+312 (SC), has ruled that if it is found that the use of paper core is necessary in “any process incidental or ancillary to the
+completion of " paper as marketable goods and it would consequently be commercially inexpedient to sell paper without
+the use of paper core, it would certainly be a constituent part of paper and would thus fall within the purview of the term
+"component parts" used in the notification.
+
+3. The Hon'ble Gujarat High Court, in case of Surgichem Vs. State of Gujarat 11992] 87 STC 40 (Guj) observed that it
+is clear that anything that goes into the product till the product becomes marketable, such thing becomes part and parcel
+of that product or article. Applying this test in the instant case, the plastic spools over which the adhesive plaster tapes are
+wrapped have to be considered as one of the component parts of the goods marketed, i.e., adhesive plaster tapes. It is not
+disputed that adhesive plaster tapes can be marketed only after wrapping them on plastic spools. Therefore, plastic spools
+are to be held component part of the adhesive plaster tapes, that is, the goods marketed. Hence plastic spools cease to be
+packing material.
+
+C4. The Apex Court, in case of Collector of Central Excise, Calcutta-II Vs. Eastend Paper Industries Ltd. [1990] 77
+STC 203 (SC) held that to be able to be marketed or to be marketable, it appears to us, in the light of. ‘facts in the appeals,
+
+that it was an essential requirement to be goods, to be wrapped in paper. Anything required to make the goods marketable,
+must form part of the manufacture and any raw material or any materials used for the same would be component part for
+
+the end product.
+
+C5. From the above, it could be summarized that paper core, plastic spools and wrapping paper would be considered to be parts
+of paper rolls, adhesive plaster tapes and paper reams/reels respectively since without the former goods, the later goods
+couldn’t be marketed or are commercially inexpedient. Thus an analogy could be drawn that anything which is required
+for making goods marketed or to be marketable, would be form component part of that end products.
+
+
+
+C6. Basis the provisions of The Merchant Shipping Act, ships are bound to adhere to the ‘anti-fouling system’ norms.
+Accordingly, ship would not be marketable unless the same has complied with anti-fouling system i.e. application of paints
+/ coating to avoid growth of unwanted organisms.
+C7. Thus applying the ratio derived from aforementioned legal jurisprudence in the current situation, a view can be taken that
+since the ship is not commercially expedient without following anti-fouling system, paints would have to be considered as
+‘part of that ship’
+C8. Thus, it could be contended that marine paints so supplied for vessels, would be considered as ‘Parts of vessel’ and thus
+would fall under the ambit of entry 252 of Schedule | of the classification wherein tax would be levied at the rate of 5%.
+D. If paint is considered as part of aeroplane or helicopter then the same should be considered as part of shi
+Dl. — Under erstwhile Central Excise regime, similar benefit was introduced for the parts (irrespective of their classification) of
+aeroplanes or helicopters required for manufacture or servicing of aeroplanes or helicopter vide notification 6/2002 -
+Central Excise dated March 1, 2002. while deciding on whether wires and cables manufactured for aircrafts / helicopters
+would be considered as parts of aircraft, the Hon'ble Court in case of Sanghvi Aerospace (P) Ltd Vs Commissioner of
+Central Excise Ahmedabad [2009 (247) E.L.T. 578 (Tri. - Ahmd.)] stated that following:
+“he has also submitted a list of goods in respect of which exemption has been allowed to manufacturers supplying the
+goods to National Aerospace Laboratories, HAL etc. as detailed below:
+
+9.1 Aircraft cables (manufacturer - Radiant Cables Put. Ltd.)
+
+9.2 Paints (manufacturer - South Field Paints & Chemicals Put. Ltd.)
+
+9.3 Expoxi Yellow Primer (manufacturer - South Field Paints & Chemicals Pvt.Ltd.)
+
+9.4 Thinner for yellow primer (manufacturer - South Field Paints & Chemicals Put. Ltd.)
+
+9.5 Rivets (manufacturer - M/s. Ankit Forgings)
+
+9.6 Epoxi black paint (manufacturer - South Field Paints & Chemicals Pot. Ltd.)
+
+9.7 Industrial Laminates Fabric (manufacturer - Lamtuf Plastics Ltd.)”
+
+D2. From the facts of above case, it could be understood that paints when supplied to manufacturers of aircrafts / helicopter,
+are treated as parts of aircraft and thus would be eligible for claiming benefit of nil rated duty under notification 6/2002 —
+Central Excise. Applying similar analogy, paint when supplied for manufacture of ship should be considered as part of
+ship.
+
+E. Under erstwhile Indirect Tax regime, Central Excise exemptions were granted to marine paints supplied to ship.
+Hence, intention of legislators appears to provide indirect tax concession to this product.
+
+El. _ Inorder to evaluate whether marine paint would be eligible for lower rate of GST, it is also relevant to understand history
+of indirect tax rate and exemptions, if any, under erstwhile Indirect Tax regime.
+
+E2. Under Central Excise Act, 1944, Notification No. 44/2015 -CE dated 24 November 2015 has issued prescribing effective
+rate of central excise for specified goods (amending Notification 12/2012 dated 17 March 2002). Said notification inserted
+‘ollowing entry for prescribing effective rate of excise for goods mentioned therein.
+
+Sr. No. Chapter or heading | Description of | Rate Condition No.
+
+or sub-heading or | excisable goods
+
+tariff item of the First
+
+Schedule
+
+306C Any chapter Raw materials and | NIL 2 and 3*
+parts
+
+* Condition 2 ~ Where such use is elsewhere than in the factory of production, the exemption shall be allowed if the
+procedure laid down in the Central Excise (Removal of Goods at Concessional Rate of Duty for Manufacture of Excisable
+Goods) Rules, 2001, is followed.
+
+Condition 3 - The exemption shall be allowed if it has been proved to the satisfaction of an officer not below the rank of
+the Deputy Commissioner of Central Excise or the Assistant Commissioner of Central Excise, as the case may be, having
+jurisdiction that such goods are cleared for the intended use
+
+E3. Vide above mentioned entry, rate of excise duty for raw material and parts, for use in the manufacture of different types of
+vessels has been prescribed as nil. Accordingly, goods falling under any chapter meant for use in the manufacture of vessel
+was made liable to nil rate of duty
+
+E4. Thus, it can be inferred that intention of the legislators is to grant benefits to all the products meant for use in manufacture
+of vessels. Keeping this in view, it can be contended that legislators would wish to continue extending such benefits to all
+products used in manufacture of vessel. Hence, paint which is meant for use in manufacture of vessel should fall within
+the purview of entry 252 of Schedule | of IGST rate schedule and would attract 5% IGST.
+
+E5. The goods falling under chapter 8901 to 8907 are covered under schedule | of IGST Rate notification vide entry 246 to
+251. Whereas separate entry 252 has been inserted for parts of these goods. Thus, the intention appears to be to avoid
+inverted duty rate structure for vessel manufacturers. They should be able to procure all the parts at 5% IGST and then
+would also be charging same rate on their outward supply of different types of vessels. Hence, entry 252 of IGST Rate
+notification should be read to cover all raw materials and parts which are meant for use in manufacture of different types
+of vessels.
+
+EB VAT legislation of United Kingdom also considers paint as part of shi
+
+Fl. Value Added Tax (VAT) was introduced in the UK on April 1, 1973. Although Value Added Tax Act 1994 (VATA)
+provides the main framework of the tax, the detailed interpretation of the same are found in statutory instruments either
+in the form of Orders made by Treasury or Regulations made by Her Majesty's Revenue and Customs (HMRC). HMRC
+has published several Notices and Leaflets affecting law. Though these Notices are not part of the law but they explain how
+
+HMRC interprets the law.
+F2. Applicant would also like to draw your attention to the VAT provisions laid in United Kingdom as regards parts or
+
+j==s— components of ship. Following is the extract of such germane provisions:
+= K 5
+
+
+
+a. Section 30(2) of Value Added Tax Act 1994
+A supply of goods or services is zero-rated by virtue of this subsection if the goods or services are of a description for the
+
+time being specified in Schedule 8 or the supply is of a description for the time being so specified.
+b. Group 8 of Schedule 8 of Value Added Tax Act 1994
+The supply of parts and equipment, of a kind ordinarily installed or incorporated in, and to be installed, or incorporated
+
+in, —
+a. the propulsion, navigation or communication systems; or
+b. the general structure,
+
+of a qualifying ship or, as the case may be, aircraft
+& VAT Notice 744C ships, aircraft and associated services published on July 20, 2011
+
+7.5. Which parts and equipment are excluded from zero rating?
+Any raw or bulk materials, partly processed parts or equipment and also non-specialist goods or appliances are excluded
+from zero rating. The list below gives examples of other parts and equipment which are not zero-rated. It is not exhaustive.
+e = Binoculars
+© — catering equipment (domestic)
+© crockery
+e cutlery
+e — diving equipment
+e — furniture (unfixed)
+e — laundering equipment (domestic)
+e — missiles, shells etc
+¢ — ship's stores
+e — soft furnishings
+
+¢ — phones
+e — televisions
+e tools
+
+¢ — underwater cameras
+
+e — videotapes/disks, electronic games and similar entertainment equipment
+
+° ~~ crockery and cutlery
+
+© raw materials such as: fibre board, plastics, and specialist metals
+
+e bulk materials such as: adhesives, chemicals, fabrics, inhibitors, metals, oils, paints, solvents and thinners etc
+© aircraft ground equipment
+¢ flight simulators or their parts, and
+© tooling and equipment used for manufacturing parts or equipment
+
+F3. Now as per section 30(2) of VATA, any supply of goods or services would be zero-rated if the supply of goods are covered
+under Schedule 8 of the Act or supply of goods to the person to whom he supplies services is covered under the description
+provided. Further Schedule 8 of the Act includes supply of parts and equipment, of a kind ordinarily installed or
+incorporated in, and to be installed, or incorporated in the propulsion, navigation, communication systems or the general
+structure of a qualifying ship.
+
+F4. Thus as per section 30(2) read along with Schedule 8 of VATA, supply of parts and equipment of installed or incorporated
+in the propulsion, navigation or communication systems or the general structure of a qualifying ship would be considered
+as zero-rated supplies and accordingly no tax would be liable thereon. However in order to avail the benefit of above
+provisions, it would be pertinent to identify what would be considered to be parts and equipment of a ship. Therefore under
+VAT Notice 744C, the UK government has prescribed a non-exhaustive list of parts and equipments which are not zero-
+rated. The said non-exhaustive list of parts and equipments includes paints, solvent and thinners.
+
+F5. Thus from above it is clear that paints, solvent and thinners have been considered to be parts and equipments of a ship
+since it is reported under a non-exhaustive list of parts and equipments.
+
+CONCLUSION
+1. In our view, marine paints so supplied by applicant, would be classified under Sr No 252 of Schedule I of IGST Act, 2017
+
+- Parts of goods of heading 8901, 8902, 8904, 8905, 8906 and 8907" on following grounds -
+2. Since entry at Sr no 252 has been newly introduced under GST Tax Schedules, inference could be drawn from Customs
+Tariff Act. Hence the meaning of the term ‘parts of goods of heading 8901, 8902, 8904, 8905, 8906 and 8907" has to be
+
+adopted in general parlance.
+
+35 Thus we have referred to definitions of ‘Part’ in various Dictionaries. Accordingly, part of an article is an integral part
+necessary to the constitution of the whole article and without it, the article will not be complete.
+
+4. Further as per MS Act, anti-fouling system has to be mandatorily followed by every ship since non-adherence of the same
+would be liable to severe penal actions. Therefore paints form an essential part of the ship without which ship couldn’t be
+marketed.
+
+a Furthermore applying the analogy drawn from the germane legal jurisprudence it is said that anything which is required
+
+for making goods marketed or to be marketable, would be form component part of that end products and hence paints would
+
+form part of the ship.
+6. In addition to the above, we have also scrutinized the concerned issue under UK VAT, wherein paints is mentioned under
+
+the list of ‘Parts and equipments of ship’ which are excluded ‘from zero rated goods.
+
+However in absence of any such specific provisions in India, it could be said that paints are ‘parts of the ship’ and therefore would
+under Sr No 252 of Schedule | of GST Act 2017 and hence be taxed at 5%”.
+
+
+
+On the basis of the above, the questions as reproduced above have been raised.
+03. CONTENTION - AS PER THE CONCERNED OFFICER
+
+The submission, as reproduced verbatim, could be seen thus-
+4Mjs. Jotun India Pot. Ltd., GSTIN:- 27AABC]6665]1Z6, who is assigned to this office under case allocation, has applied
+for advance ruling under section 97 of CGST/MGST Act, 2017. The dealer has mentioned its nature of activity as factory/
+manufacturing & in brief it says “We supply paints and coatings that are specially designed for unique conditions”
+The dealer has requested in Annexure 1 that a ruling be pronounced under section 97(2) a of the CGST Act 2017 on the
+
+following questions:-
+a) Whether marine paints supplied by the applicant, would be considered to be part of ship and accordingly be then classified
+
+under SI no.252 of Schedule | of Notification No. 1/2017 of Central Tax (Rates) dated June 28,2017?
+
+The dealer is dealing in marine paint. In GST there is separate entry of paints but the dealer is requesting to classify these
+paints as part of ship. When there is a specific entry for any commodity the said commodity cannot be classified in another way.
+Therefore the dealer’s request cannot be accepted.”
+
+04. HEARING
+
+The case was taken up for preliminary hearing on dt. 20.03.2018, with respect to admission or
+rejection of the application when Sh. Nitin S Shah, Advocate, duly authorized, appeared and made oral
+submissions for admission of application as per details in their written submissions.
+
+During hearing, the jurisdictional officer, Sh. Rajesh Gaikwad, Dy.Commr., State GST, stated that
+they have made written submissions objecting to admission of their application stating that when there is
+a specific entry for any commodity the said commodity cannot be classified differently.
+
+The application was admitted and during the Final Hearing on 11.04.2018, Sh. Nitin S Shah,
+Advocate, duly authorized, appeared and made oral and written submissions along with case laws. Ms
+Shweta Patni, Chartered Accountant was also present.
+
+The jurisdictional officer, Sh. Rajesh Gaikwad, Dy. Commr,, State GST, also appeared and orally
+reiterated that the goods were having a specific entry and should be classified accordingly.
+
+05. OBSERVATIONS
+
+We have perused the records on file and gone through the facts of the case and the submissions
+
+made by the applicant and the department.
+
+The applicant has submitted that they are a manufacturer, supplier and exporter of paints and
+according to their submissions, they supply paints and coatings that are designed for unique conditions.
+In the subject case they have made submissions with respect to paints supplied to the shipping industry.
+They have stated that the paints supplied by them in the subject case are classifiable under Chapter
+Heading 3208 and 3209 which are covered under Schedule IV of Notification No. 1/2017-Integrated Tax
+(Rate) dated 28.06.2017 and are accordingly liable to 28% IGST.
+
+However further to their claim that their goods ‘Marine paints’ are classifiable under CTH 3208
+and 3209 and individually as per tariff are liable to IGST @ 28%, but the applicant is claiming that in the
+present facts of the case wherein they are supplying their goods “marine paints” for use on ships and
+therefore their goods would get covered under Sr. No.252 of Schedule -I of Notification 1/2017 of
+Integrated Tax (Rates) dated 28.06.2017 and would be liable to IGST @ 5% as they are parts of goods of
+Headings 8901, 8902, 8904, 8905, 8906 and 8907.
+
+Further we find that the jurisdictional officer, in his submissions has stated that under CTH 3208
+and 3209 of the GST Tariff, there are specific entries for paints and varnishes and therefore the applicant's
+
+contention that marine paints be treated as parts of ship cannot be accepted.
+
+
+
+From the above contentions of the applicant and the department, it is apparent that there is no
+dispute with regard to classification of the subject goods under CTH 3208 and 3209. The difference of
+opinion is only with respect to the claim of the applicant that the goods are parts of ship and therefore
+would be eligible for concessional rate of IGST @ 5% as given under Sr. No. 252 of Schedule -I of
+Notification No. 1/2017 of Integrated Tax (Rates),as discussed above.
+
+To arrive at the correct position we need to examine all aspects of the case. We find that the Tariff
+
+Entry in respect of CTH 3208 and 3209 in GST Tariff are as under.
+
+CTH 3208:-- Paints and varnishes (including enamels and lacquers) based on synthetic polymers or chemically
+modified natural polymers, dispersed or dissolved in a non-aqueous medium; solutions as defined in Note 4 to this
+Chapter.
+
+CTH 3209:-- Paints and varnishes (including enamels and lacquers) based on synthetic polymers or chemically
+
+modified natural polymers, dispersed or dissolved in an aqueous medium.
+
+We find that in normal parlance, ‘paint’ means any liquid or composition that, after application
+to a substrate in a thin layer, converts to a solid film. It is most commonly used to protect, color, or provide
+texture to objects. There are various types of paints like enamel paint, emulsion pain, lacquer paint, varnish
+paint (without pigment), etc. One of the type of paint is ‘Anti-fouling’ paints. Anti-fouling paints are
+generally paints that are applied to hulls of ships. They prevent barnacles and other marine organisms
+from adhering to the hulls of ships. Thus it is the contention of the applicant that such types of paints sold
+
+by them should be treated as parts of a ship.
+
+First of all we refer to the exact body of the Sr.No. 252 of Notification No. 1/2017 of Integrated
+
+tax, the benefit of which the applicant is claiming.
+
+SI No Chapter / Heading / | Description of Goods
+Sub-heading / Tariff
+item
+252. Any chapter Parts of goods of heading 8901, 8902, 8904, 8905, 8906 and
+8907"
+
+We find that as per above details, the benefit of concessional rate of IGST @ 5% is available to parts
+of goods of headings 8901, 8902, 8904,8905,8906 and 8907.
+
+Thus it is very apparent that parts of goods of Heading 8901, 8902, 8904, 8905, 8906 and 8907 are
+
+eligible for concessional rate of IGST @5%.
+
+In view of the above, we first of all require to ascertain as to what are the goods that are covered
+
+under the above Tariff Headings. We find that these Headings cover the goods as under:-
+
+Sr.No Chapter /| Description of Goods
+Heading / Sub-
+heading fi
+
+Tariff item |
+
+
+
+246 8901 Cruise ships, excursion boats, ferry-boats, cargo ships, barges
+
+and similar vessels for the transport of persons or goods
+
+247 8902 Fishing vessels; factory ships and other vessels for processing
+or preserving fishery products
+
+248 8904 Tugs and pusher craft
+
+249 8905 Light-vessels, fire-floats, dredgers, floating cranes and other
+
+vessels the navigability of which is subsidiary to their main
+function; floating docks; floating or submersible drilling or
+
+production platforms
+
+250 8906 Other vessels, including warships and lifeboats other than
+
+rowing boats
+
+251 8907 Other floating structures (for example, rafts, tanks, coffer-
+
+dams, landing-stages, buoys and beacons)
+
+Now when we know as to what are the goods covered under above CTH, we are required to
+
+examine and see if marine paints are parts of goods of the above referred CTHs.
+
+First of all we need to examine as to what are “Parts”. We find that the word ”Part/ Parts” has not
+been defined in GST nor was it defined in Central Excise earlier. In view of this first we are required to
+
+understand the general meaning of the word ‘Part/Parts’ which is of relevance to us in the present case.
+
+something
+----a single broadcast of a series of television or radio programme or Division of a story.
+----one of two or more equal or almost equal measures of something etc.
+
+We find that as per Cambridge English Dictionary:
+
+Part as a noun ~ a separate piece of something or a piece that combines with other pieces to form the whole of
+
+One of the pieces that together form a machine or some type of equipment.
+
+It has other meanings also in other context which are not of relevance in present context like:
+
+Further, we also find the definition of ‘Spare Part’ as per Wikipedia
+
+A spare part, spare, service part, repair part or replacement part is an interchangeable part that is kept in an inventory
+and used for the repair or replacement of failed units. Spare parts are an important feature of Logistics
+Engineering and Supply Chain Management.
+
+Thus in view of the above meanings/ definitions of part/parts/Spare Part, we will be required to
+examine as to what are the parts of Goods of CTH 8901, 8902, 8904,8905,8906 and 8907 and whether marine
+paints can be taken to be covered within the meaning of Parts for Sr. No. 252 of Notification no. 1/2017
+
+integrated Tax.
+We find that Anchor, Bow, Bowsprit, Fore and Aft, Hull, Keel , Mast, Rigging, Rudder, Sails,
+
+Shrouds, Engines, gearbox, Propeller, Bridge, etc. are the very essential parts of a ship or vessel and are
+
+quite clearly parts of a vessel/ship and a ship cannot be imagined to be in existence without these parts.
+
+
+
+However, in addition to the above there are some additional equipments that are required to be
+made available on a ship as a measure of statutory compliances under various marine acts such as
+Merchant Shipping Act or Additional Safety measures such as Walkie-talkie, Binoculars, Life Jackets,
+Lifeboats, etc. Though these are also to be compulsorily made available on a vessel and ship but cannot be
+
+taken to be parts of a ship as per general understanding but are rather additional equipments on a ship..
+
+In addition to the above there are other essential items like furniture, fans, air-conditioners,
+television, etc which are very essential for comfort of officers and crew of the ship but do not come under
+
+essential parts or equipments of a vessel/ship.
+
+In continuation of the same we find that the issue to be decided in the present case is whether
+
+marine paints can be considered as parts of a ship.
+
+We find that the items that are discussed as essential parts of a ship/vessel are such essential
+components of a vessel/ship without which the ship would not be complete and would not exist. These
+are very integral for the functioning of the ship and can be separated from the ship for repair/replacement.
+There are various consumable items like paints varnish, oils, grease, etc. which are essentially applied and
+used in or on all or most of these essential ship parts as discussed above to make them tenable, durable
+and worthy of the ocean. Once applied, these consumable items are consumed and lost and cannot be
+
+reused and are also not worth recovery, reuse or recycle for use on ship.
+
+The main function of marine paints as per applicant's submissions is ...
+- Protection the body of ship from highly corrosive environment
+- Blocking barnacles and other marine organisms from adhering to the hulls of ships
+- _ Lessening fuel consumption as it controls damage to the ship.
+- Preventing impact on water eco-systems by reducing emission of Green House Gases.
+
+- Preventing Transportation of marine organisms to other areas.
+
+When we refer to the definition of the word ‘part’ as discussed in detail above, we find that ‘part’
+is a separate piece of something or a piece that combines with other pieces to form the whole of something.
+In this regard we find that marine paints are in no way piece of ship that would in any way form the whole
+
+ship. They are just consumables for the essential parts of ship.
+
+Similarly the second definition of part also defines ‘part’ as one of the pieces that together form a
+machine or some type of equipment. We find that marine paints are not covered in this definition also.
+
+In the same way we find that marine paints are not covered within the definition of spare part
+also as given in discussions above.
+
+The applicant has contended that marine paints are mandatorily required to be applied on all
+
+ships as per Merchant Shipping Act, 1958 and therefore should be considered as parts of ship. Just because
+
+it is mandatory, under some law, to be applied on ships, does not essentially make it, its part.
+
+The applicant has claimed that under the erstwhile indirect tax regime, Central Excise exemptions
+were granted to marine paints supplied to ship. They have construed the conditions of exemption very
+4-->"simmply to their case.
+
+t RULE
+4.
+
+ww
+
+
+
+Notification No. 44/2015 -CE dated 24 November 2015 was issued prescribing effective rate of
+central excise for specified goods (amending Notification 12/2012 dated 17 March 2002). The said
+
+notification inserted following entry for prescribing effective rate of excise for goods mentioned therein.
+
+Sr. No. Chapter or | Description of | Rate Condition No.
+heading or sub- | excisable goods
+heading or tariff
+item of the First
+Schedule
+306C Any chapter Raw materials | NIL 2 and 3*
+
+and parts
+
+* Condition 2 - Where such use is elsewhere than in the factory of production, the exemption shall
+be allowed if the procedure laid down in the Central Excise (Removal of Goods at Concessional Rate
+of Duty for Manufacture of Excisable Goods) Rules, 2001, is followed.
+
+Condition 3 - The exemption shall be allowed if it has been proved to the satisfaction of an officer
+not below the rank of the Deputy Commissioner of Central Excise or the Assistant Commissioner
+
+of Central Excise, as the case may be, having jurisdiction that such goods are cleared for the intended
+
+use.
+
+In fact the said notification gave exemption to all raw materials and parts for use in the manufacture of
+
+certain specified ships/vessels, subject to actual user conditions.
+
+While interpreting the issues like the one at hand, we may refer to certain judgements which throw
+light on the disputed issue.
+In case of Saraswati Sugar Mills Vs Commissioner of Central Excise Civil Appeal No.5295 of 2003
+decided on 2"4 Aug 2011 Hon. Supreme Court of India observed :
+12. In order to determine whether a particular article is a component part of another article, the correct test would be
+to look both at the article which is said to be component part and the completed article and then come to a conclusion
+whether the first article is a component part of the whole or not. One must first look at the article itself and consider
+what its uses are and whether its only use or its primary or ordinary use is as the component part of another article.
+There cannot possibly be any serious dispute that in common parlance, components are items or parts which are used
+
+in the manufacture of the final product and without which, final product cannot be conceived of.
+
+13. The meaning of the expression ‘component' in common parlance is that ‘component part of an article is an
+
+integral part necessary to the constitution of the whole article and without it, the article will not be complete’.
+
+14. This Court, in Star Paper Mills (supra) has made a settled distinction while considering whether paper cores are
+‘components' in the manufacture of paper rolls and manufacture of paper sheets. It is stated that “paper cores’ are
+component parts in so far as manufacture of roll is concerned, but it is not “component part' in the manufacture of
+
+sheets. It is useful to quote the observations made by this Court :
+
+"Paper core would also be constituent part of paper and would thus fall within the term “component parts" used in
+
+the Notification in so far as manufacture of paper in rolls is concerned. Paper core, however, cannot be said to be used
+
+peinectle manufacture of paper in sheets as component part.
+cr RULINGS
+>
+
+a
+
+
+
+15, In Modi Rubber Ltd. v. Union of India, (1997) 7 SCC 13, the appellant had set up tyre and tube manufacturing
+plant and imported various plants and machineries. While using the plants and machineries, PPLF (Polypropylene
+Liner Fabric) was used as a device in the form of liner components to various machinery units to protect the rubber-
+coated tyre fabric from atmospheric moisture and dust. This Court held that the PPLF was not a component of the
+machine itself. It was not a constituent part. It was used as a Liner Fabric not only in tyre production but also in
+similar other industrial processes.
+
+In case of Jindal Strips Vs Collector of Customs, Equivalent citations: 1997 ECR 98 Tri Delhi, 1997 (94)
+ELT 234 Tri Del. the Two Member Bench of the Tribunal referred the appeal before the larger bench on
+the following questions:
+
+(i) Whether the phrase "component parts" occurring in Notification 77/90 would cover "spare parts" for the purpose
+
+of granting of benefit thereunder?
+
+The larger Bench of the Tribunal having regards to dictionary meaning of “part”, and “Component”
+observed that in common parlance meaning of the expression "component' is also the same, that is, one of
+the parts or elements of which anything is made up or into which it may be resolved or a Constituent. The
+meaning in common parlance has to be looked into since the notification itself does not contain any
+definition of the expression.
+
+In the State Of Uttar Pradesh vs M/S. Kores (India) Ltd on 18 October, 1976, Equivalent citations: 1977
+AIR 132, 1977 SCR (1) 837.
+
+In this case the appellant contended before the Hon SC that carbon paper does not lose its character as paper in spite
+of being subjected to chemical processes, and that ribbon is not an accessory but an essential part of the typewriter.
+While dismissing the appeal Court held that “A word which is not defined in an enactment has to be understood in
+its popular and commercial sense with reference to the context in which it occurs. It has to be understood according
+to the well-established canon of construction in the sense in which persons dealing in and using the article understand
+it”
+
+The Hon.SC further observed that “Bearing in mind the ratio of the above mentioned decisions, it is quite clear that
+the mere fact that the word ‘paper' forms part of the denomination of a specialized article is not decisive of the question
+whether the article is paper as generally understood. 'the word 'paper' in the common parlance or in the commercial
+sense means paper which is used for printing, writing or packing purposes. We are, therefore, clear of opinion that
+Carbon paper is not paper as envisaged by entry 2 of the aforesaid Notification. Regarding ribbon also to which the
+above mentioned rule construction equally applies, we have no manner of doubt that it an accessory and not a part of
+the typewriter (unlike spool) though it may not be possible to use the latter without the former. Just as aviation petrol
+is not a part of the aero- plane nor diesel is a part of a bus in the same way, ribbon is not a part of the typewriter
+though it may not be possible to type out any matter without it.
+
+The very same question with which we are here confronted came up for decision before the High Court of Mysore in
+State of Mysore v. Kores (India)Ltd(26STC 87). (1) where it was held:
+
+"Whether a typewriter ribbon is a part of a typewriter is to be considered in the light of what is meant by a
+typewriter in the commercial sense. Typewriters are being sold in the market without the typezriter ribbons and
+therefore typewriter ribbon is not an essential part of a typewriter so as to attract tax as per entry 18 of the Second
+
+Schedule to the Mysore Sales Tax Act, 1957. "
+
+12
+
+
+
+Considering the meaning of an expression (Part) as defined in the dictionary and adopted by the
+courts mentioned above besides common parlance test it can be safely concluded that Marine Paint is not
+a component part of Ship. This conclusion which we have drawn as above gets support from the facts
+stated by the appellant and detailed discussions above as per which marine paints are clearly consumable
+items and not parts.
+
+Thus we would be stretching the definition of ‘part’ greatly, if we intend to treat paints as parts
+
+of ship in view of the above discussions
+
+Further, the applicant, citing Section 30(2) of the VAT Act of the United Kingdom and Group of
+Schedule 8 of the said VAT Act and VAT Notice 744 C of the U.K., has submitted that under the said Act
+paints, solvent and thinners have been considered to be parts and equipment of a ship. However we find
+that the statutory provisions, conditions for benefit as given and referred by the applicant in UK VAT Act
+
+are in different context and therefore not relevant in the facts of the case in present matter.
+
+As per above detailed discussions we do not find any merit in the argument advanced by the
+applicant that Marine Paint should be considered as a part of Ship and accordingly find that marine paints
+are not covered under Serial No.252 of Schedule I of Notification No.1/2017 of Central Tax(Rates) Dated
+June 28,2017.
+
+06. In view of the extensive deliberations as held hereinabove, we pass an order as follows :
+ORDER
+
+(under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods and
+Services Tax Act, 2017)
+
+NO.GST-ARA- 29/2017-18/B- 3S Mumbai,dt. \9/ 5) 20)
+
+For reasons as discussed in the body of the order, the questions are answered thus -
+
+Q1 Whether marine paints supplied by the applicant, would be considered to be a part of ship and
+accordingly be then classified under SI No. 252 of Schedule I of Notification No. 1 /2017 of Central
+Tax (Rates) dated June, 28, 2017?
+
+<a —_———————
+. V. BORHADE PANKAJ KUMAR
+(MEMBER) (MEMBER)
+
+1. The applicant
+
+2. The concerned Central / State officer
+
+3. The Commissioner of State Tax, Maharashtra State, Mumbai
+4. The Chief Commissioner of Central Tax. Churchgate, Mumbai
+
+Note :- An Appeal against this advance ruling order shall be made before The Maharashtra Appellate
+Authority for Advance Ruling for Goods and Services Tax, 15" floor, Air India building, Nariman Point,
+
+Mumbai - 400021
+CERTIFIED TRUE COPY
+13
+
+AUTHCRIT

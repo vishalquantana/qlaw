@@ -1,0 +1,979 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+(Constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri B. V. Borhade, Joint Commissioner of State Tax (Member)
+(2) Shri Pankaj Kumar, Joint Commissioner of Central Tax( Member)
+
+GSTIN Number, if any/ User-id 27AABCJ6665J1Z6
+Legal Name of Applicant MRS. VISHAKHAR PRASHANT BHAVE
+MICRO INSTRUMENTS
+
+Registered Address/Address provided | 15, SHRI KRIPA RAMAKRISHNA SOCIETY, RAM
+
+while obtaining user id MANDIR ROAD, KHERWADI BANDRA EAST,
+MUMBAI 400051
+
+Details of application GST-ARA, Application No. 23 Dated 15.05.2018
+
+Concerned officer Asstt. Commissioner of Sales Tax( C-906)
+
+Nodal Division- 5, Mumbai.
+
+Nature of activity(s) (proposed / present)
+
+in respect of which advance ruling sought
+
+A Category Service Provision
+
+B Description (in brief) Sole proprietary Concern M/s. Micro Instruments, the
+party is dealing in Microscopes, its spare parts and other
+related activities such as installation, servicing, repairs
+and maintenance of microscopes.
+
+Issue/s on which advance ruling required | (v) determination of the liability to pay tax on any goods
+or services or both
+stion(s) on which advance ruling is | As reproduced in para 01 of the Proceedings below.
+
+PROCEEDINGS
+
+tion 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods and
+Services Tax Act, 2017)
+
+GST Act”] by Mrs. Vishakar Prashant Bhave, the applicant, seeking an advance ruling in respect of the
+following issue.
+
+(i) Whether the “Commission” received by the Applicant in convertible Foreign Exchange for rendering
+services as an “Intermediary” between an exporter abroad receiving such services and an Indian importer of an
+Equipment, is an "export of service” falling under section 2(6) & outside the purview of section 13 (8) (b), attracting
+zero-rated tax under section 16 (1) (a) of the Integrated Goods and Services Tax Act, 2017?
+
+(ii) If the answer to the Q. (i) is in the negative, whether the impugned supply of service forming an integral
+part of the cross-border sale/purchase of goods, will be treated as an "intra-state supply" under section 8 (1) of the
+IGST Act read with section 2 (65) of the MGST Act attracting CGST/MGST? And, if so, at what rate?
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and the
+MGST Act are the same except for certain provisions. Therefore, unless a mention is specifically made to
+
+_ such dissimilar provisions, a reference to the CGST Act would also mean a reference to the same provision
+under the MGST Act. Further to the earlier, henceforth for the purposes of this Advance Ruling, a reference
+to such a similar provision under the CGST Act/MGST Act would be mentioned as being under the “GST
+Act”.
+
+02 FACTS AND CONTENTION - AS PER THE APPLICANT
+The submissions, as reproduced verbatim, could be seen thus-
+
+
+
+STATEMENT OF THE RELEVANT FACTS HAVING A BEARING ON THE QUESTIONS
+
+1. The facts relevant for the purposes of this application, briefly stated, are as under:
+The Applicant, M/s. Micro Instruments, Mumbai, (for brevity: “ Micro") is a sole Proprietary Concern, duly Registered
+under the CGST/SGST and IGST Acts ( Reg. no. 27AHSPB0847K1Z2), having its registered Office at 15, Shri Kripa,
+Ramakrishna Society, Ram Mandir Road, Kherwadi, Bandra (E), and is carrying on trading business in Laboratory
+Instruments, its spare parts, Laboratory Equipment, and other related activities such as servicing, repairs and
+maintenance of Laboratory Equipment/Instrument.
+2 One of the activities of Micro relates to providing services to its Principals at Germany, by way of procuring
+Purchase Orders (P. O.) from the parties desirous of purchasing advanced type of Laboratory Equipment, by
+negotiating the terms of supply including fixation of price above the floor price fixed by the Principals (known to the
+Applicant alone). If Micro can negotiate better price than the floor price, the difference between the floor price and
+actual price is given to Micro by way of "Commission" in "convertible foreign exchange".
+2: The modus operandi of the negotiated transactions can be briefly summarized as under:
+(a) The prospective customer in India places the P.O. directly on the Principals at Germany, and arranges for Letter of
+Credit for remittance of price in foreign currency,
+(b) The principals directly supply the Laboratory Equipment to the party in India say M/S Panama Laboratory,
+Mumbai a fictitious name) which pays price and gets the delivery from the Customs on payment of custom duty and
+IGST as applicable.
+(c) In the majority of cases, barring exceptions, the P. O. states the name of Micro, and also mentions that the Indian
+Purchaser will be entitled to have some "discount in kind”, like getting some items Free of cost such as a TV set, a
+Computer or a Camera etc.; which is to be provided by Micro as a necessary charge on the "commission” it receives in
+convertible Foreign Exchange.
+(d) Accordingly, Micro arranges, at its own cost such articles to be given free, in the nature of “discount in kind", and
+hands over to the same to the Purchasing Party in India in fulfillment of the accepted terms of sale / purchase
+Agreement between the Principals at Germany and the Indian Purchasing Party.
+(e) The P.O. also states that during the Guarantee period, say, one year the seller/ supplier at Germany will give "free
+service”, if required (but that would not include any replacement of parts etc.). Micro, however, has no contractual
+obligation to give such "free Service".
+(f) Once the P.O. is completed, the Principals at Germany issue a "Credit Note”, for the "Commission", which is
+remitted in freely convertible Foreign Exchange, normally in Euro Currency: (sign: €; code:EUR) the official currency
+of the European Union).
+icro was not issuing any Debit Note or Invoices or any other document, but Accounting was done only on the
+
+ow, in the circumstances, the following questions arise for consideration & decision by this Honourable
+ling Authority, Maharashtra State, Mumbai:
+
+P33 (i Mak the "Commission’ received by Micro in convertible Foreign Exchange as an “Intermediary"
+i Interna igh / cross boarder transaction, for acting as a Broker or facilitator, in procuring from an Indian Customer/s s
+
+to GST. , Whether the entire amount of “Commission" as converted in rupees, will be the "taxable Value” for
+tification or whether the following deductions can be claimed:
+
+ducting “expenditure" on free supplies, which is a "charge on the commission amount" under the Contractual
+'s as per P.O.
+
+(b) Deduction of tax element treating amount of “net Commission” (as per (a) above) as inclusive of CGST/SGST Act
+or IGST Act as the case may be.
+
+4. For the purposes of examining the issues involved one needs to go through the labyrinth of new GST Laws.
+5. The conspectus of various provisions gives the following picture:
+
+(i) Services provided by the Commission Agent (located in the Taxable Territory) to the Principal Seller (located in
+Non-Taxable Territory/ Abroad) in respect of procurement of order/s from the Customers located in the Taxable
+Territory on behalf of the foreign supplier of goods, would be termed as "taxable services” under the GST Regime,
+because the intermediary (Micro) does some activity for which monetary consideration, that is, "Commission" amount
+is received in freely convertible currency. These activities would fall in the widely worded definition of "Service”, in
+section 2 (102), which reads:
+
+"services" means anything other than goods, money and securities but includes activities relating to the use of
+money or its conversion by cash or by any other mode, from one form, currency or denomination, to another form,
+currency or denomination for which a separate consideration is charged;
+
+(ii) Section 13 of the IGST Act, 2017 is made applicable to determine the place of service, where location of
+supplier or location of recipient of service (either) is outside India.
+(iii) In the present case, Micro being the supplier of service (located in India in Taxable Territory) and customer i.e.
+recipient of Service (i.e. supplier of goods is located outside India, Germany, in Non Taxable Territory), Section 13 of
+the above IGST Act,2017 gets attracted.
+(iv) Section 13 of IGST Act, 2017 has in all 13 sub-sections applicable to different situations/ circumstances.
+
+¢ Sub-section (2) of Section 13 is the general section which provides that the place of supply of service' is the
+
+location of recipient of service, except the services specified in sub-sections (3) to (13).
+
+
+| ¢ It means the general principle in sub-section (2) is displaced i.e. not applicable to sub-section (3) to (13), which
+needs to be examined individually & separately.
+e Sub-section (8) covers the case on hand; and the same is reproduced here below -
+"(8) The place of supply of the following services shall be the location of the supplier of services, namely:
+(a) Services supplied by a banking company, or a financial institution, or a non-banking financial company, to
+account holders;
+(b) Intermediary services;
+(c) Services consisting of hiring of means of transport, including yachts but excluding aircrafts and vessels, up
+to a period of one month.”
+(v) The term "Intermediary” is defined in Section 2(13) of the IGST Act, which says:
+| "(13) 'intermediary' means a broker, an agent or any other person, by whatever name called, who arranges
+| or facilitates the supply of goods or services or both, or securities, between two or more persons, but does
+| not include a person who supplies such goods or services or both or securities on his own account”.
+_ (vi) Consequently, Micro being an Agent or Broker (or Commission Agent) and facilitator between the German -seller
+of the goods and the Indian-buyer of the goods, it shall be covered under the definition of Intermediary" under Section
+2 (13) of the IGST Act; but may not be regarded as providing "Intermediary Services", which expression is a coined
+_ phase, by the Draftsman, and not defined in any GST Law, i.e. CGST/SGST Act 2017 or IGST Act, 2017. Apparently,
+_ “Intermediary” is an “adjective and qualifies “services". {Adjective: 4.being between; intermediate. 5. Acting between
+persons, parties, etc.; serving as an intermediate agent or agency: e.g. an intermediary power.}
+(vi) It may be argued that the "Intermediary” providing such Agency or Broker's services may fall in the expression of
+“Intermediary services" appearing in clause (b) of sub-section (8) of Section 13 of the IGST Act, 2017. If it were to be
+| true interpretation, the registered place of the Supplier (Micro) being in India /in Taxable Territory, the place of supply
+becomes ‘India /Taxable Territory' and hence CGST + SGST may get attracted.
+| 6 Though Micro is providing the service to the foreign supplier of goods as an integral part of the
+| international/cross-border transaction of export/import, and also receiving valuable consideration’ in freely
+convertible foreign exchange, but still it is not considered as Export of service' for the reason given in the definition of
+"Export of Service’, quoted below, read with section 13(8) (b) of the IGST Actas all the conditions of “export of service”
+| are not met in the case on hand:
+Conditions precedent for treating the service as ‘export of service! (as per Section 2(6) of the IGST Act] - All
+conditions have to be met.
+"export of services” means the supply of any service when,
+supplier of service is located in India;
+ipient of service is located outside India;
+ace of supply of service is outside India;
+ment for such service has been received by the supplier of service in convertible foreign exchange; and
+lier of service and the recipient of service are not merely establishments of a distinct person in accordance
+ation 1 in section 8”.
+4pp\ain reading of the definition of "export of services shows that the word "means" is used while defining. Where
+<m¢ans' is employed in the definition clause it shows that the definition enacted is a hard and fast one and that
+~ | SpPother meaning can be assigned to the word "defined” than the one that is put down in the definition.
+aN AT p A STAT ee, Secondly, the definition starts by saying "when" and followed by each clause ending with a semi-colon showing
+as hal close connection with each other and the last but one clause uses "and", to make it clear that all the clauses must
+| be fulfilled concurrently and coextensively & then alone it will qualify as an "export of services”.
+¢ On the superficial or flash reading, it may appear that in the present case, the condition No. (iii) in section 2/6)
+is not getting fulfilled because of the terminology used in section 13(8) (b) of the IGST Act, (“intermediary
+services") read with section 2(13) defining “intermediary" to include broker or agent who arranges or facilitates
+| the supply of goods or services, and consequently the "place of supply” gets coincided with "the place of
+supplier", both in the taxable territory, India, and rendering the transaction taxable under the CGST/SGST Act,
+| by denying the benefit of "export of services" or IGST Act legitimately due by virtue of the “recipient of Services"
+| being in non-taxable territory, abroad. In the light of the above discussion, one may consider that the supply of
+| services by Micro would fall in the tax-net, fastening tax burden of 18% (9% CGST + 9% SGCT) under Services
+| Tariff Heading no.9997 (residuary entry).
+
+| &% Now, therefore, the CGST/SGST will be payable in the Taxable Territory on account of the ‘place of supply’,
+being the place where the Supplier, i.e. Micro, is registered, that is in the State of Maharashtra.
+8. In the context of the case on hand, the aforesaid interpretative process makes taxable "intermediary services" rendered
+
+by Micro to the recipient abroad in non-taxable territory, liable tax in Maharashtra State, which is the place where the
+
+Supplier (Micro) is Registered and happens to be the place of supply; and fortunately further also the "destination
+state” or "consumption State"; because the Laboratory Equipment imported by M/S Panama Laboratory, Mumbai,
+would be used by the Purchasing Customer, who is also residing in the State of Maharashtra. .
+
+9. Before looking at another example, a few words on new taxation Policy. Effective July 1, 2017 there has been
+a paradigm shift in taxation Policy, now, adopting the destination based tax. The basic difference between the
+Destination based tax and origin based tax lies in the fact that origin based taxation seeks to levy and collect tax on the
+basis of location of production and destination based taxation seeks to levy and collect tax on the basis of location of
+consumption. Further, a fundamental proposition under the new GST regime is that the concept of “place of
+
+consumption" also called and known as the “Place of supply", merely determines that the tax would accrue to the
+
+State of consumption (jurisdictional aspect).
+zs
+
+
+10. Now, look at another case, in which Micro procures the P.O. from the Customer at Vadodara (formerly known
+as Baroda), in the State of Gujarat, for purchase of Laboratory Equipment from the same Germany-seller. By virtue of
+section 13 (8) (b) read with 2(13) of IGST Act, the place of supply” remains the same i.e. "the place of Supplier", State
+of Maharashtra. But the destination based or consumption based taxation Policy would get a jolt; because the actual
+| use of the goods imported would be in the State of Gujarat, whereas the tax will accrue to the state of Maharashtra,
+where the place of supplier and the place of supply synchronize.
+| 11. The matter needs to be examined further.
+
+12. Actually, the “nature of supply” is determined under Section 7 and 8 of the IGST Act, 2017 which reads:
+
+CHAPTER IV
+
+| DETERMINATION OF NATURE OF SUPPLY
+7. Inter-State supply. - (1) Subject to the provisions of section 10, supply of goods, where the location of the supplier
+and the place of supply are in -
+| (a) two different States;
+(b) two different Union territories; or
+| (c) a State and a Union territory,
+| shall be treated as a supply of goods in the course of inter-State trade or commerce.
+
+(2) Supply of goods imported into the territory of India, till they cross the customs frontiers of India, shall be treated
+_ to be a supply of goods in the course of inter-State trade or commerce.
+
+(3) Subject to the provisions of section 12, supply of services, where the location of the supplier and the place of supply
+
+| are in -
+
+(a) two different States;
+
+(b) two different Union territories; or
+| (c) a State and a Union territory,
+
+shall be treated as a supply of services in the course of inter-State trade or commerce.
+_ (4) Supply of services imported into the territory of India shall be treated to be a supply of services in the course of
+
+inter-State trade or commerce.
+
+(5) Supply of goods or services or both, -
+_ (a) when the supplier is located in India and the place of supply is outside India;
+(b) to or by a Special Economic Zone developer or a Special Economic Zone unit; or
+(c) in the taxable territory, not being an intra-State supply and not covered elsewhere in this section,
+shall be treated to be a supply of goods or services or both in the course of inter-State trade or commerce.
+It is manifestly clear from the conjoint reading of section 7 (5) of the IGST Act read with Section 13 (8) (b) that
+of transaction on hand is taken out of the IGST Act and by virtue of the Supplier's Location and the Place
+ake the transaction fall into the trap of the “intra-state" service and hence would attract 9% CGST+ 9%
+aggregate 18%, the services being Classifiable under the Residuary Tariff Classification, namely, 9997
+ith the result that the benefit of “Zero rated tax" defined under Section 16 of the IGST Act, 2017 is
+, simply because the role played by the Micro is treated as "Intermediary Services” under section 13 (8) (b)
+Act.
+‘As a direct consequence of this situation, although all other transactions of export of goods or service or both
+rtvantage of zero tax burden, the case on hand gets discriminatory dispensation by saddling it with unintended cost burden
+%, (with another Income Tax burden @ 30%); and to add salt to the injury, Refund of such CGST/SGCT is unavailable,
+being “forward charge”.
+| 16. However, there is another way to look at this integrated & composite international -cross-border transaction in which
+
+the Applicant plays a pivotal role as an intermediary by virtue of which the "import of goods” is occasioned, gets effectuated.
+17. Now, for this new approach two definitions are important:
+
+¢ Section 2(13) of the IGST Act,2017
+
+| (13) "intermediary" means a broker, an agent or any other person, by whatever name called, who arranges or
+
+facilitates the supply of goods or services or both, or securities, between two or more persons, but does not include a
+_ person who supplies such goods or services or both or securities on his own account;
+
+Section 2(5) of the CGST Act,2017
+
+_ (5) “agent” means a person, including a factor, broker, commission agent, arhatia, del credere agent, an auctioneer or
+any other mercantile agent, by whatever name called, who carries on the business of supply or receipt of goods or
+services or both on behalf of another;
+| 18. Since Micro does not supply or receive goods / services on behalf of anyone, Micro carries on business of its
+own, it is certainly not an "Agent" as defined in section 2 (5) of the CGST Act, 2017.
+
+° But surely, the activities of Micro are in the nature of “intermediary” as defined in section 2 (13) of the IGST
+Act, for bringing together the Principals abroad ( Germany ,) and the Indian Customer (M/S Panama
+| Laboratory), who wants to buy a high-end product.
+
+. What is received by Micro may be called "brokerage for the sale of goods. Even if it is called “commission” it
+| is specifically understood as being in respect of and in relation to the transaction of sale of goods directly
+| made by the German-seller and the Indian buyer, and which at the hands of the Indian-buyer, M/S Panama
+
+Laboratory, is an Import in every sense of the term.
+; 6 In other words, the nature of supply is intended to be and actually an international or cross-border
+transaction, export/import of goods simpliciter, which under the GST regime is "an inter-state supply,
+
+
+covered by the IGST Act, 2017; and if that be the true position in law, the role of intermediary cannot be
+dissected and separately treated for GST law.
+} 19. All the analysis & discussion above, finally boils down to and depends on the true meaning and purport of
+| the expression: "intermediary services" in section 13 (8) (b) of the IGST Act. If it is not the same thing as
+| “Intermediary”, the provisions of section 13 (8) (b) will not apply; and consequently, provisions of section 7
+(5) (a) of the IGST Act will get attracted, as can be seen from the quoted provision:
+(5) Supply of goods or services or both, -
+
+| (a) when the supplier is located in India and the place of supply is outside India;
+
+In that case, Section 16 of IGST Act will apply and there would be two options available: (i) export the services under
+
+bond/LOU without payment of IGST Act and claim refund of un-utilized input tax credit; OR (ii) Supply export
+
+services on payment of IGST and then claim refund of such tax under section 54 of the CGST Act/ Rules, 2017. Section
+
+16 of the IGST Act, 2017 reads:
+
+CHAPTER VII
+ZERO RATED SUPPLY
+
+Zero rated supply. 16. "Zero rated supply" means — (1) any of the following supplies of goods or services or both,
+
+namely:
+
+(a) export of goods or services or both; or
+
+(b) supply of goods or services or both to a Special Economic Zone developer or a Special Economic Zone unit.
+
+(2) Subject to the provisions of sub-section (5) of section 17 of the Central Goods and Services Tax Act, credit of input
+_ tax may be availed for making zero-rated supplies, notwithstanding that such supply may be an exempt supply.
+_ (3) Aregistered person making zero rated supply shall be eligible to claim refund under either of the following options,
+_ namely:
+
+(a) he may supply goods or services or both under bond or Letter of Undertaking, subject to such conditions, safeguards
+
+and procedure as may be prescribed, without payment of integrated tax and claim refund of un-utilised input tax
+| credit; or
+
+(b) he may supply goods or services or both, subject to such conditions, safeguards and procedure as may be prescribed,
+
+on payment of integrated tax and claim refund of such tax paid on goods or services or both supplied, in accordance
+_ with the provisions of section 54 of the Central Goods and Services Tax Act or the rules made thereunder.
+20. Now, the crucial question is: what is the true meaning & purport of the expression “intermediary services”
+appearing in section 13 (8) (b) of the IGST Act. It may be added that the term “intermediary” has been defined in
+
+_ section 2(13) of the IGST Act, but the expression "intermediary services.” appearing in section 13 (8) (b) has not been
+
+Pry ined. 21. Whatis the significance of use of the two terms/ expressions, apparently looking similar, by the Legislature
+ST statutes. One thing is clear that they are not synonymous terms or expressions, having the same meaning
+r word or phrase in the same language.
+ne has to construe the true meaning of the undefined expression, namely, "intermediary services", which is not simply
+ression, but seems to have acquired a well set connotation. This expression is not used for the first time by the
+
+may be added that this precise expression: ‘Intermediary service was adopted by the Delegated Legislation
+ing the Place of Provision of Service Rules, 2012 (POPS Rules, 2012). In those Rules, Rule 2 (f) had defined
+iary” as below:
+(F) "Intermediary" means a broker, an agent or any other person, by whatever name called, who arranges or facilitates
+a provision of a service (hereinafter called the "main" service) between two or more persons, but does not include a
+person who provides the main service on his account.;
+| e The POPS Rules, 2012 came into force effective 01-07-2012 and Rule 9 of the said Rules, 2012 is exactly the
+same as now bodily lifted and placed in its new GST ‘avatar' as section 13 (8) (b) of the IGST Act.
+| ¢ The said Rule 9 of the POPS Rules, 2012 and the clarification issued by the Board (C.B.E.C.) on the concept
+of “Intermediary Services” appearing Rule 9 (C) is reproduced below:
+_ 9. Place of provision of specified services.
+The place of provision of following services shall be the location of the service provider:
+(a) Services provided by a banking company, or a financial institution, or a non-banking financial | company, to
+account holders;
+(b) Online information and database access or retrieval services;
+(c) Intermediary services;
+(d) Service consisting of hiring of means of transport, up to a period of one month.
+
+24. Clarification and Legal nemesis:
+
+An Education Guide ("Guidance Note’) on June 20, 2012 issued by the Central Board of Excise and Customs
+clarifying the meaning of intermediary states: QUOTE:
+
+5.9.6 What are "Intermediary Services"? Generally, an "intermediary" is a person who arranges or facilitates a
+supply of goods, or a provision of service, or both, between two persons, without material alteration or
+further processing. Thus, an intermediary is involved with two supplies at any one time:
+
+i) the supply between the principal and the third party; and
+ii) the supply of his own service (agency service) to his principal, for which a fee or commission is usually
+charged.
+e For the purpose of this rule, "an intermediary' in respect of goods (such as a commission agent i.e. a
+buying or selling agent, or a stockbroker) is excluded by definition. VIDE Rule 2 (i) of the POPS
+Rules, 2012 (supra).
+
+5
+
+
+e Also excluded from this sub-rule is a person who arranges or facilitates a provision of a service
+(referred to in the rules as "the main service"), but provides the main service on his own account.
+UNQUOTE:
+
+. ---Rule 2(1) defines intermediary’ to mean a broker, any agent or any other person, by whatever name called, who
+arranges or facilitates a provision of a service(hereinafter called the 'main service’) between two or more persons (it
+doesn't include a person who provides service on his own account).
+Thus an intermediary service is involved with two supplies at one time. In other words, the expression
+“intermediary" connotes distinctness/detachment from the “main” service. The expression “intermediary service"
+is thus, a nomen juris ("nomen juris," literally term of law; a technical legal term) and its use is having a specific
+legal concept and connotation. When that expression is used in any subsequent legislation, it has to be interpreted
+and understood in the same sense & nothing less or more. (VIDE The Madras General Sales Tax Act, 1939 (Madras
+Act 9 of 1939) was enacted in pursuance of the powers contained in entry 48 of List II of Seventh Schedule of the
+Government of India Act, 1935 which deals with sale of goods. The corresponding entry in the Constitution is entry
+No. 54 in List 11 of Seventh Schedule. It was in exercise of the powers under this entry that the Mysore Sales Tax
+Act, 1957 (Mysore Act No. 25 of 1957) was enacted. It is now settled law that the words "sale of goods" have to be
+construed not in the popular sense but in their legal sense and should be given the same meaning which they carry
+in the Sale of Goods Act, 1930. The expression sale of goods" is a nomen juris, its essential ingredients being an
+agreement to sell movables for a price and property passing therein pursuant to that agreement
+
+25. In this connection one must take a note of the Amendment to the definition of “intermediary” in Rule 2 (1)
+of the POPS Rules, 2012.
+26." By Notification No. 14/2014 - Service Tax , dated the 11th July, 2014, The Place of Provision of Services
+
+(Amendment) Rules, 2014, were brought into force on the 1st day of October, 2014:
+
+(1) In the Place of Provision of Services Rules, 2012,
+
+(a) in rule 2 for clause (f), the following clause shall be substituted, namely:
+
+(f) "intermediary' means a broker, an agent or any other person, by whatever name called, who arranges or facilitates a provision
+of a service (hereinafter called the 'main' service) or a supply of goods, between two or more persons, but does not include a person
+who provides the main service or supplies the goods on his account
+
+° Therefore, the definition of "intermediary” was then amended to include the intermediary of goods in its
+scope.
+° Accordingly, with effect from 1,10.2014, an intermediary of goods, such as a commission agent or
+consignment agent shall be covered under rule 9 (c) of the Place of Supply of Services Rules.
+
+rend. When this modified version of “intermediary” as of 01-10-2014, was re-bottled in the GST law, two changes
+
+inal and basic distinction as to the "main" service and “intermediary" in the context of two co-existing
+ot figure in the new definition in 2(13) IGST Act;
+
+finition of Consignment Agent was shifted to Section 2(5) of the CGST Act.
+
+r, as stated earlier, there is one term: “intermediary", which is defined (section 2(13) IGST Act), and
+t expression ; "intermediary services" is used in section 13 (8) (b) of the IGST Act, which is handpicked
+igjative phraseology adopted in Rule 9 (c) of the POPS Ruls, 2012 as it existed preAmendment of 2014,
+2014 of section 2 (f) of the POPS Rules, 2012. The pivotal issue in the case on hand turns on the
+of the expression: "intermediary services” in Section 13 (8) (b) of the IGST Act.
+
+this stage, it is necessary to refer to some well known Rules of Interpretation of statues before embarking
+
+wagyeffectivi
+
+‘egislative enactment is an edict. One has to read what is expressly stated in the enactment.
+
+(ii) It is not necessary to survey innumerable Apex Court decisions on the Statutory Rules of Interpretation. Suffice it
+to quote one:
+
+* Raghunath Rai Bareja And Another vs Punjab National Bank And Others (CASE NO. Appeal (civil) 5634 of 2006
+Decided on 6 December, 2006
+
+(a) It may be mentioned in this connection that the first and foremost principle of interpretation of a statute in every
+system of interpretation is the literal rule of interpretation.
+
+(b) The other rules of interpretation e.g. the mischief rule, purposive interpretation etc. can only be resorted to when
+the plain words of a statute are ambiguous or lead to no intelligible results or if read literally would nullify the very
+object of the statute. :
+
+(C) Where the words of a statute are absolutely clear and unambiguous, recourse cannot be had to the principles of
+interpretation other than the literal rule, vide Swedish Match AB vs. Securities and Exchange Board, India, AIR 2004
+SC 4219.
+
+(d) As held in Prakash Nath Khanna vs. C.LT. 2004 (9) SCC 686, the language employed in a statute is the
+determinative factor of the legislative intent.
+
+(e) The legislature is presumed to have made no mistake.
+
+(P) The presumption is that it intended to say what it has said.
+
+(g) Assuming there is a defect or an omission in the words used by the legislature, the Court cannot correct or make
+up the deficiency, especially when a literal reading thereof produces an intelligible result, vide Delhi Financial
+Corporation vs. Rajiv Anand 2004 (11) SCC 625.
+
+(h)Where the legislative intent is clear from the language, the Court should give effect to it, vide Government of
+Andhra Pradesh vs. Road Rollers Owners Welfare Association 2004(6) SCC 210, and the Court should not seek to
+
+amend the law in the grab of interpretation.
+6
+
+
+30. In the light of the aforesaid rules of interpretation, it can be said that when the Legislature has used two un-
+identical and non-synonymous terms/ expression, it has to be inferred that it did not want to convey the same
+meaning. It may also be noted that the Legislature does not use any surplusage or superficial words or phrases.
+Ot. If the provisions of section 13 (8) (b) of the IGST Act, were to cover and encompass both the types of Brokers,
+Agents in relation to goods and services, nothing was simpler than to re-draft section 13 (8) (b) as below and say:
+e Section 13(8) (b) "services of intermediary", and
+e Then the word "intermediary” being defined, it would have covered the services of the Broker / Agent in
+relation to either the "goods" or "services" or even both.
+(i) Instead, section 13(8)(b) has adopted the expression: “intermediary services” which expression was prevalent
+prior to 2014-Amendment of POPS Rules, 2012, which distinguishes it from the "main service",
+(ii) Another reason is that that the term; Agent, appearing in the definition of "intermediary” has to be understood as
+excluding "consignment agent", which stands defined in section 2(5) of the CGST Act.
+(iii) As laid down by the Apex Court (Delhi Transport Corporation vs. D.T.C. Mazdoor Congress on 4 September,
+1990), the doctrine of reading down is applied where the provisions of the statute are vague and ambiguous and it is
+possible to gather the intention of the legislature from the object of the statute, the context in which the provision
+occurs and the purpose for which it is made.
+(iv) In the case on hand, the section 13(8) of the IGST Act is intended to apply to specified “services”, and clauses (a)
+and (c) relate to "pure services”. Clause (b) cannot take in its fold "services in relation to goods"; because the entire
+GST Law maintains dichotomy between the "goods" and “services”.
+(v) Further, it is well settled that every word or phrase in a clause takes colour from the other related clauses in the
+same section, namely, sub-section (8), section 13 of IGST Act.
+(vi) As stated earlier, if the Legislature wanted to have wider meaning of services”, it would have used the
+phraseology "services of intermediary" rather than "Intermediary services”.
+(vii) It is not open to inject definition of "intermediary" as Amended in 2014, by interpretative process when the
+context of Section 13 (8) is specifically restricted & made applicable to specified/selected services.
+(viii) When reading "intermediary" as an adjective, one has to give due meaning to it and read that expression to
+convey those "services” which are contradistinguished from the "main" services.
+(ix) 'In other words, the clause must be held as applicable if the intermediary is acting as broker / agent in the main
+transaction of supply of services between the service provider and the service recipient; and not where the seller is
+supplying "goods” to the buyer or recipient of supply / goods.
+pr) Any other interpretation would be against the Legislative mandate expressed from the phraseology used to pin-
+VA, NANCE Rippintits intention.
+a i ell settled:
+us, the language of a taxing statute should ordinarily be read understood in the sense in which it is
+with the object of the statute to effectuate the legislative animation. A taxing statute should be strictly
+‘ommon sense approach, equity, logic, ethics and morality have no role to play. Nothing is to be read
+iis to be implied; one can only look fairly at the language used and nothing more and nothing less. (J.
+‘0 v. Govt. of A.P. and Anr. 2006(13) SCALE 27, Raja Jagadambika Pratap Narain Singh v. C.B.D.T.,
+
+‘over, it is settled law that by an interpretative process the legislative edict cannot be altered or re-written
+out presumed intention.
+In conclusion, it is respectfully submitted :
+a) The defined term or phrase must receive the same meaning throughout the statute.
+(b) When the Legislature uses a particular phraseology, full meaning must be given by following the rules of English
+grammar. In that sense, the word: "intermediary” being an adjective of services, in section 13(8) (b), the defined word:
+“intermediary" cannot be brought-in to inject the concept of services relating to goods.
+(©) The expression, "intermediary services” had acquired definite connotation when the POPS Rules, 2012 were
+brought in to play, namely, the service s differentiated from the “main services” . Since the term “intermediary services"
+is nomen juris, the GST Law when it uses it, then it must be understood in that sense only.
+(d) It therefore, follows that the section 13(8) (b) cannot be held as taking away the benefit of export service to Micro
+as the supplier of service is in the Taxable Territory and the recipient is in the non-taxable territory. Therefore section
+7 (5) (a) of the IGST Act:
+
+(5) Supply of goods or services or both, -
+
+(a) when the supplier is located in India and the place of supply is outside India;
+
+Will apply, and consequently “zero-rated tax” benefit under section 16 would be available.
+PRAYER:
+
+33. The Applicants most respectfully pray that the application be allowed, and
+(a) that it be held that there will be no CGST/SGST applicable on the services provided by the Intermediary (Micro)
+acting as a Broker to facilitate Imports of goods by the Indian Customer from the Seller-supplier (Germany) under the
+cross-border transaction.
+(b) If in the unlikely event it is held that either CGST/SGST or IGST is payable, then:
+
+(i) the rate of GST payable,
+
+(ii) and the "taxable value”, gross or net commission ( after deducting value of free supply of
+
+goods by Micro, as per PO) for levy of GST may also be determined.
+(c) The Applicants crave leave to add , delete or modify the submissions made herein either before or at the time
+of hearing.
+4;
+
+
+STATEMENT CONTAINING APPLICANTS INTERPRETATION OF LAW IN RESPECT OF THE QUESTIONS
+
+RAISED
+IV-STATUTORY PROVISIONS:
+oe Before proceeding to make legal submissions, it is necessary to Review the statutory provisions of law:
+(i) Section 2 of the IGST Act:
+“export of services" means the supply of any service when, -
+(i) the supplier of service is located in India;
+(ii) the recipient of service is located outside India;
+(iii) the place of supply of service is outside India;
+(iv) the payment for such service has been received by the supplier of service in convertible foreign exchange;
+and
+(v) the supplier of service and the recipient of service are not merely establishments of a distinct person in
+
+accordance with Explanation 1 in section 8;
+(ii) Section 13 of the IGST Act is made applicable to determine the 'place of service’, where location of supplier or
+location of recipient of service (either) is outside India.
+(iii) In the present case, the supplier of service is located in India and customer i.e. recipient of Service is located outside
+India, Germany; hence Section 13 of the IGST Act gets attracted.
+(iv) Section 13 of IGST Act:
+e  Sub-section (2) of Section 13 is the general section which provides that the place of supply of service’ is the
+location of recipient of service, except the services specified in sub-sections (3) to (13). :
+e It means the general principle in sub-section (2) is displaced i.e. not applicable to sub-section (3) to (13), which
+needs to be examined individually & separately.
+
+e  Sub-section (8) covers the case on hand; and the same is reproduced here below -
+
+"(8) The place of supply of the following services shall be the location of the supplier of services, namely:
+(a) Services supplied by a banking company, or a financial institution, or a non-banking financial company, to
+account holders;
+(b) Intermediary services;
+(c) Services consisting of hiring of means of transport, including yachts but excluding aircrafts and vessels, up to a
+period of one month."
+(v) The term "Intermediary” is defined in Section 2(13) of the IGST Act:
+3) ‘intermediary’ means a broker, an agent or any other person, by whatever name called, who arranges or facilitates
+ply of goods or services or both, or securities, between two or more persons, but does not include a person who
+such goods or services or both or securities on his own account".
+uently, the Applicant being a Broker (or Commission Agent) and facilitator between the German -seller of
+and the Indian-buyer of the goods, shall be covered under the definition of Intermediary" under Section 2
+IGST Act bringing about a deal for export-import of goods/equipment,a cross-border transaction in the nature of
+sale under IGST Act.
+
+IV-STATUTORY PROVISIONS: RULES OF INERPRETATION:
+
+At this stage, it is necessary to refer to well settled Rules of Interpretation of statues:
+
+egislative enactment is an edict. One has to read what is expressly stated in the enactment.
+
+(ii) It is not necessary to survey innumerable Apex Court decisions, suffice it to quote one:
+Thus, in Madamanchi Ramappa & Anr. Vs. Muthaluru Bojjappa AIR 1963 SC 1633 (vide para 12) the Apex
+Court observed: E
+"What is administered in Courts is justice according to law, and considerations of fair play and equity
+however important they may be must yield to clear and express provisions of the law.".
+
+(iii) The first and foremost principle of interpretation of a statute is the literal rule of interpretation.
+
+(iv) The other rules of interpretation e.g. the mischief rule, purposive interpretation etc. can only be resorted to when
+
+the plain words of a statute are ambiguous or lead to no intelligible results or if read literally would nullify the very
+
+object of the statute.
+
+(vi) Where the words of a statute are absolutely clear and unambiguous, recourse cannot be had to the principles
+
+of interpretation other than the literal rule, vide Swedish Match AB vs. Securities and Exchange Board, India, AIR 2004
+
+SC 4219.
+
+(vii) (vi) As held in Prakash Nath Khanna vs. C.1.T. 2004 (9) SCO 686, the language employed in a statute is the
+
+determinative factor of the legislative intent. (vii) The legislature is presumed to have made no mistake.
+
+(viii) The legislature intends to say, what it has said.
+
+(ix) Assuming there is a defect or an omission in the words used by the legislature, the Court cannot correct or
+
+make up the deficiency, especially when a literal reading thereof produces an intelligible result, vide Delhi Financial
+
+Corporation vs Rajiv Anand 2004 (11) SCC 625.
+
+V--LEGAL SUBMISSIONS:
+9. In the light of the aforesaid rules of interpretation, it can be said that when the Legislature has used two un-
+identical and non-synonymous terms/ expression, it has to be inferred that it did not want to convey the same
+meaning. It may also be noted that the Legislature does not use any surplusage or superficial words or phrases.
+
+
+10. If the provisions of section 13 (8) (b) of the IGST Act were intended to cover and encompass both the types
+of Brokers, Agents in relation to goods and services, nothing was simpler than to redraft or re-write section 13 (8) (b)
+as below and say:
+* Section 13(8) (b) “services of intermediary”, and
+* Then the word “intermediary” being defined, it would have covered the services of the Broker / Agent in relation
+to either the "goods” or “services” or even both.
+
+11. Section 13(8) (b) has, however, adopted the expression: “intermediary services” which expression was
+prevalent prior to 2014-Amendment of POPS Rules, 2012, which distinguishes it from the “main service”.
+
+There are other weighty reasons:
+
+(i) As laid down by the Apex Court (Delhi Transport Corporation vs. D.T.C. Mazdoor Congress on 4 September, 1990),
+the doctrine of reading down is applied where the provisions of the statute are vague and ambiguous and it is possible
+to gather the intention of the legislature from the object of the statute, the context in which the provision occurs and
+the purpose for which it is made.
+
+* In the case on hand, the title of section 13(8) of the IGST Act shows that it is meant to "apply to specified services”,
+and clauses (a) and (c) relate to "pure services”. Clause (b) cannot take in its fold “services” in relation to "goods”;
+because the entire GST Law maintains dichotomy between the “goods” and “services”. Section 2(102) of the CGSST
+Act: “services” means anything other than goods, money and securities but includes...
+
+(ii) Further, it is well settled that every word or phrase in a clause takes colour from the other related clauses in the
+same section, namely, sub-section (8), section 13 of IGST Act. (iii) As stated earlier, if the Legislature wanted to have
+wider meaning of “services”, it would have used the phraseology "services of intermediary” rather than “Intermediary
+services”.
+
+(iv) It is not open to inject definition of "intermediary" as Amended in 2014, by interpretative process when the context
+of Section 13 (8) is specifically restricted & made applicable to specified/ selected services.
+
+v) The term “intermediary” in section 13 (8) is an as an adjective of the noun that follows, namely, "services", one has to
+give due meaning to it and read that expression to convey only “Intermediary services” which are different from the
+“main service/s”.
+
+(vi) By process of reading down, the clause must be held as applicable only if the "intermediary” is acting in the main
+transaction of supply of services between the service provider and the service recipient, and not where the seller
+Supplies "goods” to the buyer or recipient of supply.
+
+~“(vii) Any other interpretation would be against the Legislative mandate used to pin-point its intention.
+
+(viii) is, well settled:
+
+*Thys; th language of a taxing statute should ordinarily be read understood in the sense in which it is harmonious
+with the: ject of the statute to effectuate the legislative animation. A taxing statute should be strictly construed;
+commoztsanse approach, equity, logic, ethics and morality have no role to play. Nothing is to be read in, nothing
+is to We implied; one can only look fairly at the language used and nothing more and nothing less. (J. Srinivasa Rao
+v. Givi Vil A.P. and Anr. 2006(13) SCALE 27, Raja Jagadambika Pratap Narain Singh v. C.B.D.T., (1975) 100 ITR
+698(SG)) /
+
+-fix),It is’Settled law that by an interpretative process the legislative edict cannot be altered or re-written to bring out
+~ ptesttined intention.
+
+_.. 24x) The expression, "intermediary services” had acquired definite connotation when the POPS Rules, 2012 were
+brought in to play, namely, the services differentiated from the “main services”. Since the term "intermediary services"
+is nomen juris, the GST Law when it uses it, then it must be understood in that sense only. (State of Madras vs. Gannon
+
+Dunkerley & co)
+
+12, In conclusion, it is respectfully submitted:
+
+(a) The defined term or phrase must receive the same meaning throughout the statute, unless context compels
+otherwise.
+
+(b) When the Legislature uses a particular phraseology, full meaning must be given by following the rules of English
+grammar. In that sense, the word: “intermediary” being an adjective of services, in section 13(8) (b), the defined word:
+“intermediary" cannot be brought-in to inject the concept of services relating to goods.
+
+(C) The expression, "intermediary services” had acquired definite connotation when the POPS Rules, 2012 were
+brought in to play, namely, the services differentiated from the “main services” . Since the term "intermediary services”
+
+is nomen juris, it must be interpreted in its legal sense only.
+(d) It therefore, follows that the section 13(8) (b) cannot be held as taking away the benefit of export service as defined in
+
+section 7 (5) (a) of the IGST Act. Consequently “zero-rated tax” benefit under section 16 would be available.
+VI-PRAYER:
+
+13. In the circumstances, the Applicant most respectfully prays:
+
+(a) That it be held that the services of the Applicant as an intermediary are “received & consumed” by the Principals
+
+in Germany, and as such “the place of supply is Germany" as per section 13(2) of the IGST Act, and hence all the
+
+conditions in section 2(6) are concurrently fulfilled qualifying the impugned services as "export of services”; and hence
+
+‘zero rated supply’ in terms of section 16 of the IGST Act,
+
+(b) If this Honourable Authority holds that either CGST/SGST or IGST is payable, then the "taxable value”, and net
+
+CGST/MGST or IGST payable may please be determined specifying the rate of GST & computation methodology.
+
+9
+
+
+(c) Any other or further relief as may be deemed fit, proper & reasonable by this Honourable Authority, on the facts
+& circumstances, may please be granted to the Applicant.
+
+03. CONTENTION - AS PER THE CONCERNED OFFICER
+
+The submission, as reproduced verbatim, could be seen thus-
+
+In a submission dated 27/06/2018, the registered dealer M/s. Micro Instruments has given elaborative
+submission before Maharashtra Authority for Advance Ruling.
+
+I wish to submit few points before Authority in relation to submission by dealer.
+A. Under heading "Question of Law", the dealer has sought ruling from Authority that whether Transactions
+summarized in "Brief Facts” fall under Export of Services under Section 2(6), attracting Zero rated Tax under Section
+16(1)(a) of IGST Act 2017.
+Section 2(6) of IGST Act states
+(6) "export of services" means the supply of any service when ---
+(i) the supplier of service is located in India;
+(ii) the recipient of service is located outside India;
+(iii) the place of supply of service is outside India;
+(iv) the payment for such service has been received by the supplier of service in convertible foreign exchange; and
+(v) the supplier of service and the recipient of service are not merely establishments of a distinct person in accordance
+with Explanation 1 in section 8.
+
+e As per Section 97(2) of CGST MGST Act 2017, The question on which the advance ruling is sought under this
+
+Act, shall be in respect of
+(a) classification of any goods or services or both;
+(b) applicability of a notification issued under the provisions of this Act;
+(c) determination of time and value of supply of goods or services or both;
+(d) admissibility of input tax credit of tax paid or deemed to have been paid;
+(e) determination of the liability to pay tax on any goods or services or both;
+(f) whether applicant is required to be registered;
+(g) whether any particular thing done by the applicant with respect to any goods or services or both amounts to or
+results in a supply of goods or services or both, within the meaning of that term.
+Whether a transaction is Export of Services or not is dependent upon the fact as to whether Supply of Services is out
+dia o or Not. Consequently, if the MAAR proceeds ahead with examination and consideration of this fact, discussion
+gs on aspect of place of supply will be inevitable.
+its AAR to decide issued earmarked for it under Section 97(2) of MGST/CGST Act. Therefore, where a
+involves examination of place of Supply (which is not amongst the issued which can be decided by AAR),
+cannot be taken by the authority for lack of jurisdiction.
+by Haryana Authority for Advance Ruling HAR/HAAR/R/2018-19/6).
+
+condly, we may refer to submission by dealer under heading Rules of Interpretation (Page No-6, point No-
+
+* Fg argues about "consideration must yield to clear & express provisions of the law". Also, as per point
+i No vi and vii, dealer has quoted that - "legislature is presumed to have made no mistakes and legislature
+«&Antends to say, what it has said."
+Without prejudice to above, I further submit that dealer's contention to differentiate intermediary Service for
+Service and intermediary Services for goods is not correct. The dealer has pointed out dichotomy between goods
+and Services and has argued that Section 13(8) connotes to Specified Services for Services and not for goods. He
+has argued to differentiate between Intermediary Services and Services of intermediary.
+It must be noted that the constitution (one hundred and first amendment) act, 2016 was passed by Parliament to merge
+taxation between for goods and Services. Also, the IGST Act categorically defines Nature, place, time and Zero rated
+Supply. Section 13 of IGST Act expressly provides Place of Supply as per location of Suppliers, recipient and nature of
+Service.
+It is an established principle of interpretation that in case of apparent conflict between two provisions, the Specific
+provision prevails over general provision. Section 13(8) is a specific provision, where place of Supply is decided as -
+"location of Supplier".
+Hence dealer's application cannot be maintained under heading with question of law that whether said transaction
+is Export of Services or not. Dealer's application may please be rejected.
+In addition, the location of Supplier is in Mumbai. Thus, the type of supply should be Intra-state. Hence he is liable to
+pay CGST+SGST for supply of Services as per section 13(8) (b).
+
+04. HEARING
+
+Preliminary hearing in the matter was held on 27.06.2018, when Sh. D. P. Bhave, Advocate along
+with Sh. Ajay Wadke, C.A. duly authorized appeared and requested for admission of application as per
+details in their application. Jurisdictional Officer Sh. Nitesh Bhandari, Asstt. Commr. of S.T. (D-906),
+
+Mumbai was present and stated that they would be making detailed submissions in due course.
+
+10
+
+
+The application was admitted and called for final hearing on 24.07.2018, Sh. D. P. Bhave, Advocate
+along with Sh. Ajay Wadke, C.A. appeared and made oral and written submissions. The Jurisdictional
+Officer, Sh. Rishikesh Wagh, Asstt. Commr. of S.T. (D-906), Mumbai appeared and stated that they would
+
+be making submissions immediately.
+
+05. OBSERVATIONS
+
+We have gone through the facts of the case, submissions made by the applicant and the documents
+on record. The applicant, Ms Vishaka Prashant Bhave, is the proprietor of the firm M/s Micro Instruments
+(hereinafter referred to, as ‘MI’) and had made the subject application in her capacity as a proprietor.
+
+Briefly stated, MI is providing services to its Principals at Germany, by way of procuring Purchase
+Orders (P. O.) from the parties in India who desire to purchase advanced type of Laboratory Equipment
+from their Principals. A floor price is fixed by the Principals for the said equipments and MI negotiates the
+terms of supply including fixation of price above such floor price, for which they receive commission in
+convertible foreign exchange". After the negotiations are concluded, the prospective customer in India
+places the order directly on the Principals at Germany, arranges for remittance of purchase price arrived
+at and the material is directly supplied to them by the foreign Principals. The applicant has submitted that
+
+in most cases the P. O. states the name of MI and also mentions that the Indian Purchaser will be entitled
+
+to have some discounts to be provided by MI, which is thus provided by MI. Services with respect to the
+
+= in simple terms ‘intermediary’ can be explained as a firm or a person, etc. who acts as a link
+
+- =
+XS 4S batiyeen parties for the conduction of business, etc. We find from the question posed that the applicant is
+
+the opinion that they are providing services as an intermediary. The facts also reveal likewise and
+therefore we first take up the definition of an intermediary as per GST laws.
+
+The term ‘Intermediary’ is defined in Section 2(13) of IGST Act, 2017 as:- 'intermediary' means a
+broker, an agent or any other person, by whatever name called, who arranges or facilitates the supply of
+goods or services or both, or securities, between two or more persons, but does not include a person who
+supplies such goods or services or both or securities on his own account”
+
+From the above definition we find that an intermediary can be a broker, an agent or any other
+person who arranges and facilitates the supply of goods and/or services between two or more
+persons and who cannot change the nature of supply as provided by the principal.
+
+From the facts before us we find that MI is covered by the said definition of an intermediary
+because they are definitely acting as a broker and facilitating the process for sale of materials by their
+foreign principals to the Indian parties because they locate the customer, negotiate the prices and probably
+
+ensure the sale, they also provide for discounts to the said customers, out of the commissions received by
+
+1
+
+
+them, as mentioned in the PO. It is very clear from the facts of transaction that the applicant is neither
+providing services nor supplying the goods on their own account.
+
+The applicant at point no. 5 of their submission have clearly stated that the services provided by
+them in the subject case would be termed as "taxable services” under the GST Regime, because they do
+some activity for which monetary consideration, that is, "Commission" amount is received by them, in this
+case, in freely convertible currency. We agree with this contention of the applicant that they are providing
+taxable services in the instant case.
+
+Since the applicant, being the supplier of service is located in India and the recipient of Service i.e.
+supplier of goods is located outside India, Section 13 of the IGST Act, 2017 would be applicable to
+determine the place of service. As per Section 13 (8) (b) of the said Act, the place of supply of Intermediary
+Services shall be the location of the supplier of services, in this case, the applicant. Since the place of
+supply of services in the instant case is in taxable territory, the said intermediary services cannot be treated
+as export of services under the provisions of the GST laws.
+
+In order to classify as ‘export of service’, as per section 2(6) of the Integrated Goods and Service
+Tax Act, 2017, one of the crucial condition as contained under sub-clause (iii) requires that the place of
+supply of service should be outside India. In the subject case, the place of supply shall be location of the
+
+supplier of services and therefore such ‘intermediary services’ cannot be classified as ‘export of services’.
+
+Further, we find that their contentions that though they are covered under the definition of
+
+_—
+Sy 7RA SraWatar Sate provisions are contained under section 7 of the Integrated Goods and Service Tax Act, 2017 and
+
+since none of the specific provisions are applicable, residuary provision contained under section 7 (5) (c)
+
+shall be made applicable in the case of intermediary service, which states that inter-state supply of goods
+or services or both in the taxable territory shall be treated to be a supply of goods or services or both in the
+course of inter-state trade or commerce, however, the same should not be an intrastate supply and should
+not be covered elsewhere in section 7 of the IGST Act.
+
+Section 8 of the Integrated Goods and Service Tax Act, 2017 deals with the provisions of intra-state.
+Applying the provisions of section 8 (2) which states that ‘subject to the provisions of section 12, in case
+where the location of the supplier and the place of supply of services are in the same state or in the same
+union territory, the supply of service shall be treated as intra-state supply’.
+
+The above provisions of inter-state supply and intra-state supply have clarity when both the
+recipient and the supplier of services are located in India. However as in the subject case, when the
+recipient is located outside India provisions of section 7(5)(c) shall be applicable. Section 7(5)(c) is
+reproduced as follows-:
+
+Supply of goods or services or both-
+12
+
+
+a) When the supplier is located in India and the place of supply is outside India.
+
+b) To or by a Special Economic Zone developer or a Special Economic Zone unit: or
+
+c) In the taxable territory, not being an intra-State supply and not covered elsewhere in this section.
+shall be treated to be a supply of goods or services or both in the course of inter-State-trade or commerce.
+
+As per intra-state provisions contained in Section 8(2), the said provisions are subject to the
+provisions of section 12 of the IGST Act. As per section 12, the provisions of section 12 would be applicable
+only for determining the place of supply of service where the location of supplier of services and the
+location of recipient of the services is in India. When recipient is located outside India the said provisions
+of section 12 cannot be made applicable and since provisions of section 8(2) are inter-linked with provisions
+of section 12, the same cannot be made applicable in case the recipient of service is located outside India.
+
+Thus we find that in case the intermediary services are provided to the recipient located outside
+India, the inter-state provisions as contained under section 7(5) (c) shall be applicable and hence IGST is
+
+payable under such transaction.
+06. In view of the extensive deliberations as held hereinabove, we pass an order as follows :
+
+ORDER
+(under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods and
+Services Tax Act, 2017)
+
+NO.GST-ARA- 23/2018-19/B- a7 Mumbai, dt. / »/ 3/20/2
+
+For reasons as discussed in the body of the order, the questions are answered thus -
+
+Question :- (i) Whether the “Commission” received by the Applicant in convertible Foreign Exchange for
+rendering services as an "Intermediary” between an exporter abroad receiving such services and an Indian
+importer of an Equipment, is an "export of service” falling under section 2(6) & outside the purview of
+section 13 (8) (b), attracting zero-rated tax under section 16 (1) (a) of the Integrated Goods and Services Tax
+Act, 2017?
+
+Answer :- Answered in the negative.
+
+Question :- (ii) If the answer to the Q, (i) is in the negative, whether the impugned supply of service
+forming an integral part of the cross-border sale/purchase of goods, will be treated as an “intra-state
+supply" under section 8 (1) of the IGST Act read with section 2(65) of the MGST Act attracting
+
+? And, if so, at what rate?
+
+B. V. BORHADE PANKAJ KUMAR
+
+(MEMBER) CERTIFIED TRUE COPY ™
+ee eel 13
+
+
+
+Copy to:-
+
+1. The applicant
+
+2. The concerned Central / State officer
+
+3. The Commissioner of State Tax, Maharashtra State, Mumbai
+tqnal Commissioner of Central Tax
+
+of State tax , Mahavikas for Website.
+
+t this advance ruling order shall be made before The Maharashtra Appellate
+fa uling for Goods and Services Tax, 15th floor, Air India building, Nariman Point,
+
+14

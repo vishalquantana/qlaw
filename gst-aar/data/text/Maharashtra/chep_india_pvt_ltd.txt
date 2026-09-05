@@ -1,0 +1,1063 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+GST Bhavan, Room No.107, 1st floor, B-Wing, Old Building, Mazgaon, Mumbai — 400010.
+(Constituted under Section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri. M. Rammohan Rao, Additional Commissioner of Central Tax, (Member)
+(2) Shri. T. R. Ramnani, Joint Commissioner of State Tax, (Member)
+
+| ARN NO AD270321032563G
+| GSTIN Number, if any/ User-id 27AADCC3230A1ZF
+| Legal Name of Applicant M/s. CHEP INDIA PVT LTD
+Registered Address/Address provided | B-13, Aver Plaza, New Link Road, Opp. Citi Mall, Andheri
+| while obtaining user id West, Mumbai Suburban 400053.
+| Details of application 7 GST-ARA, Application No. 82 Dated 23.03.2021
+| Concerned officer Commissioner-Mumbai-West, Division-lll
+
+Nature of activity(s) (proposed/present) in respect of which advance ruling sought
+
+A | Category Service Provision
+lB Description (in brief) CHEP India Private Limited is an Indian company and a wholly
+| owned subsidiary of Brambles Limited, a company listed
+on the Australian Securities Exchange (ASX) and has its
+headquarters in Sydney, Australia. The Applicant is part of
+| | this global organization and its business is primarily renting
+| | of re-usable unit-load equipment for shared use by multiple
+| | participants within industrial and retail sector throughout the
+| supply chain, under a business model known as "pooling".
+| | Ownership of the equipment rests with CIPL at all
+| times. CIPL enhances performance for customers by
+| helping them transport goods through their supply chains
+| more efficiently, sustainably and safely.
+
+| Sener ee
+| Issue/s on which advance ruling | e Determination of time and value of supply of goods or
+
+required | services or both
+
+e Whether any particular thing done by the applicant with
+respect to any goods and/or services or both amounts to
+or results in a supply of goods and/or services or both,
+
+within the meaning of that term. |
+
+| Question(s) on which advance ruling is | As reproduced in para 01 of the Proceedings below.
+required
+
+Jaa
+Page 1 of 19
+
+
+
+NO.GST-ARA- 82/2020-21/B-  \\) Mumbai, dt. 0} } iL} 2822.
+PROCEEDINGS
+
+(Under Section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods and
+Services Tax Act, 2017)
+The present application has been filed under section 97 of the Central Goods and Services Tax Act, 2017
+
+and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as “the CGST Act and
+MGST Act” respectively] by M/s. CHEP INDIA PVT LTD, the applicant, seeking an advance ruling in respect
+of the following questions.
+
+1. Whether the pallets, crates and containers (hereinafter referred as “equipment”) leased by
+CHEP India Private Limited (hereinafter referred to as “CIPL” or “the Applicant”) located and
+registered in Maharashtra to its other GST registrations located across India (say CIPL
+Karnataka), would be considered as lease transaction and accordingly taxable as supply of
+services in terms of Section 7 of the CGST Act and MGST Act?
+
+2. If the answer to Question 1 is yes, what is the value on which GST has to be charged i.e.
+whether it should be lease charges or the value of equipment in terms of Section 15 of the
+CGST Act and MGST Act read with relevant Rules?
+
+3. What are the documents that should accompany the movement of the goods from CIPL,
+Maharashtra to CIPL, Karnataka?
+
+4. Whether movement of leased equipment from CIPL, Karnataka to CIPL, Tamil Nadu on the
+instruction of CIPL, Maharashtra can be said to be mere movement of goods not amounting
+to a supply in terms of Section 7 of the CGST Act and MGST Act, and thereby not liable to
+GST?
+
+5. With reference to Question 4 above, what are the documents that should accompany the
+movement of the goods from CIPL, Karnataka to CIPL, Tamil Nadu?
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and the
+MGST Act are the same except for certain provisions. Therefore, unless a mention is specifically made
+to any dissimilar provisions, a reference to the CGST Act would also mean a reference to the same
+provision under the MGST Act. Further to the earlier, henceforth for the purposes of this Advance
+
+Ruling, the expression ‘GST Act’ would mean CGST Act and MGST Act.
+
+2. FACTS AND CONTENTION — AS PER THE APPLICANT FACTS:
+
+The submissions, as reproduced verbatim, could be seen thus-
+
+1. CHEP India Private Limited is an Indian company and a wholly owned subsidiary of Brambles
+Limited, a company listed on the Australian Securities Exchange (ASX) and has its
+
+(Or
+Page 2 of 19
+
+
+
+headquarters in Sydney, Australia. The Applicant is a part of this global organization and its
+business is primarily renting of re-usable unit-load equipment for shared use by multiple
+participants within industrial and retail sector throughout the supply chain, under a business
+model known as "pooling". Ownership of the equipment rests with CIPL at all times. CIPL enhances
+performance for customers by helping them transport goods through their supply chains more
+efficiently, sustainably and safely.
+
+2. CIPL is contemplating certain changes in its existing business model. The broad business
+mechanics of the proposed business model would be as follows:
+
+a. CIPL would be consolidating the ownership of all the equipment into the state of Maharashtra.
+Currently, while majority of the procurements / manufacture happen in Maharashtra, some of
+the procurements are also done from other states.
+
+b. As the ownership of equipment would be with CIPL, Maharashtra, it would be entering into the
+arrangement with the customer and all the other CIPL units (located in other States) for leasing
+the equipment to them at the agreed leasing or hiring charges.
+
+c. CIPL, Maharashtra would thereafter lease the equipment to its other CIPL units based on their
+demand requirement. CIPL, Maharashtra would be sending the equipment to the other unit of
+CIPL (Say CIPL, Karnataka) under the cover of the delivery challan. CIPL, Maharashtra would be
+raising periodical invoices for lease charges (based on number of days of usage) to CIPL,
+Karnataka.
+
+d. CIPL, Karnataka would thereafter be issuing the equipment to its customers who would be
+using it for movement of their goods through the supply chain. CIPL, Karnataka would be
+charging the lease charges to its customers based on the period for which the equipment would
+be used by the customers.
+
+e. Also, there are chances that other units of CIPL, (Say CIPL, Tamil Nadu) may require certain
+equipment from CIPL Maharashtra which are available with CIPL, Karnataka (under lease from
+CIPL Maharashtra). In such a case, basis instructions from CIPL, Maharashtra, CIPL, Karnataka
+would transfer the equipment to CIPL, Tamil Nadu. In such a case, the moment equipment
+reaches CIPL Tamil Nadu, CIPL, Maharashtra would stop charging CIPL, Karnataka and start
+charging CIPL, Tamil Nadu towards lease charges (basis number of days of usage). Further,
+CIPL, Karnataka would charge CIPL, Maharashtra a consideration for facilitation /
+arrangement of movement of equipment to CIPL, Tamil Nadu basis the instruction.
+
+The diagrammatic representation is provided below —
+
+Page 3 of 19
+
+
+CIPL
+
+‘ (MH) » | Customer
+ABC (MH)
+
+b &c Lease a. Lease of Equipment &
+
+of Equipment billing for lease charges
+
+& Billing for
+
+b. Lease of Equipment &
+» Lease of lease charges
+c. Lease of billing for lease charges
+Equipment &
+y
+
+Billing for leasq CIPL Customer
+charges (Kar) XYZ (Kar)
+
+e. Shipping of Equipment on
+instruction of CIPL (MH)
+
+v
+
+CIPL
+Bs (TN)
+
+3. In light of the above background, the Applicant would like to seek advance ruling with regard to
+the following —
+
+Question 1 — Whether the pallets, crates and containers (hereinafter referred as “equipment”)
+leased by CHEP India Private Limited (hereinafter referred to as “CIPL” or “the Applicant”) located
+and registered in Maharashtra to its other GST registrations located across India (say CIPL
+Karnataka), would be considered as lease transaction and accordingly taxable as supply of
+services in terms of Section 7 of the CGST Act and MGST Act?
+
+Question 2 - If the answer to Question 1 is Yes, what is the value on which GST has to be charged
+i.e. whether it should be lease charges or the value of equipment in terms of Section 15 of the
+CGST Act and MGST Act read with relevant Rules?
+
+Question 3 - What are the documents that should accompany the movement of the goods from
+CIPL, Maharashtra to CIPL, Karnataka?
+
+Question 4 - Whether movement of leased equipment from CIPL, Karnataka to CIPL, Tamil Nadu
+on the instruction of CIPL, Maharashtra can be said to be mere movement of goods not
+amounting to a supply in terms of Section 7 of the CGST Act and MGST Act, and thereby not liable
+to GST?
+
+Question 5 - With reference to Question 4 above, what are the documents that should accompany
+the movement of the goods from CIPL, Karnataka to CIPL, Tamil Nadu?
+
+C7
+Page 4 of 19
+
+
+
+B. STATEMENT CONTAINING APPLICANT'S INTERPRETATION OF LAW APPLICANT'S INTERPRETATION
+
+At the outset we would like to make it clear that the provisions of CGST Act and MGST Act are in
+
+pari materia and have the same provisions in like matter and differ from each other only on a few
+
+specific provisions. Therefore, unless a mention is particularly made to such dissimilar provisions, a
+
+reference to the CGST Act would also mean reference to the corresponding similar provisions in the
+MGST Act
+
+Relevant Legislations
+1. Government of India has with effect from 1 July 2017, introduced a unified goods and service tax
+("GST") to replace the various indirect tax levies (i.e. central excise, VAT, service tax, entry tax etc.)
+
+2. GST is a destination and consumption-based tax which is levied on supply of goods or services or
+both. GST is levied and collected on value addition at each stage of production or distribution
+process (all points in supply chain).
+
+3. The term “Supply” is defined under Section 7 of the CGST Act to include —
+“(a) all forms of supply of goods or services or both such as sale, transfer, barter, exchange,
+licence, rental, lease or disposal made or agreed to be made for a consideration by a person in
+the course or furtherance of business
+
+(c) the activities specified in Schedule |, made or agreed to be made without a consideration”
+
+As per Schedule | of the CGST Act, one of the activities to be considered as Supply even if made
+without consideration, is “Supply of goods or services or both between related persons or
+between distinct persons as specified in section 25, when made in the course or furtherance of
+business”
+
+Section 25 (4) of the CGST mentions that “A person who has obtained or is required to obtain
+more than one registration, whether in one State or more than one State, shall, in respect of
+each such registration, be treated as distinct persons for the purposes of this Act”
+
+As per Section 15 of the CGST Act, the value of a supply of goods or services or both shall be the
+transaction value, which is the price actually paid or payable for the said supply of goods or
+services or both where the supplier and the recipient of the supply are not related and the price
+is the sole consideration for the supply.
+As per Rule 28 of the CGST Rules which deals with valuation, in case of supply of goods or
+services between distinct person as specified in sub-section (4) and (5) of section 25 of the CGST
+Act or related persons, the value shall be,
+(a) be the open market value of such supply;
+(b) if the open market value is not available, be the value of supply of goods or services of
+like kind and quality;
+(c) if the value is not determinable under clause (a) or (b), be the value as determined by
+the application of rule 30 or rule 31, in that order:
+
+Provided that where the goods are intended for further supply as such by the recipient, the value
+shall, at the option of the supplier, be an amount equivalent to ninety percent of the price
+charged for the supply of goods of like kind and quality by the recipient to his customer not
+being a related person: Provided further that where the recipient is
+
+eligible for full input tax credit, the value declared in the invoice shall be deemed to be the open
+market value of the goods or services.
+
+Page 5 of 19
+
+
+
+As per Rule 55 of the CGST Rules which deals with transportation of goods without issue of
+invoice. -(1)For the purposes of-
+(a) supply of liquid gas where the quantity at the time of removal from the place of
+business of the supplier is not known,
+(b) transportation of goods for job work,
+(c) transportation of goods for reasons other than by way of supply, or such other supplies
+as may be notified by the Board, the consigner may issue a delivery challan.......
+
+As per Rule 138 of the CGST Rules, which deals with e-way bill generation - “Every registered
+person who causes movement of goods of consignment value exceeding fifty thousand rupees—
+(i) in relation to a supply; or
+(ii) for reasons other than supply; or
+(iii) due to inward supply from an unregistered person, shall, before commencement of
+such movement, furnish information relating to the said goods as specified in Part A
+of FORM GST EWB-01, electronically...”
+
+Applicant’s view
+
+Question 1 - Whether the pallets, crates and containers (hereinafter referred as “equipment”) leased
+by CHEP India Private Limited (hereinafter referred to as “CIPL” or “the Applicant”) located and
+registered in Maharashtra to its other GST registrations located across India (say CIPL Karnataka),
+would be considered as lease transaction and accordingly taxable as supply of services in terms of
+Section 7 of the CGST Act?
+
+1. As mentioned above, GST is leviable on supply of goods or services. The definition of supply is
+wide enough to include “lease” within its ambit. Also, as per point 5(f) of Schedule Il, “transfer
+of the right to use any goods for any purpose (whether or not for a specified period) for cash,
+deferred payment or other valuable consideration” is deemed as service under GST
+
+2. The term “lease” is not defined under the GST law. Accordingly, we would like to draw
+reference to Indian Accounting Standard (Ind AS) 116 which provides for principles for the
+recognition, measurement, presentation and disclosure of leases in the books of account. As
+per the Ind AS, lease is defined as “A contract, or part of a contract, that conveys the right to
+use an asset (the underlying asset) for a period of time in exchange for consideration”. Also,
+‘ease’ is defined in Section 105 of the Transfer of Property Act, 1882 in relation to immovable
+property as under - “A lease of immovable property is a transfer of a right to enjoy such
+property, made for a certain time, express or implied, or in perpetuity, in consideration of a
+price paid or promised, or of money, a share of crops, service or any other thing of value, to be
+rendered periodically or on specified occasions to the transferor by the transferee, who accepts
+the transfer on such terms.”
+
+3. Accordingly, any lease transaction is deemed as supply of services as per Schedule II since it
+involves transfer of right to use any goods for consideration.
+
+4. Inthe current case, CIPL, Maharashtra also transfers the right to use the equipment for a period
+of time to third party customers in Maharashtra and other CIPL registrations across India for
+periodical considerations.
+
+5. In respect of the customers in Maharashtra, the Applicant is considering the transaction as
+leasing of equipment based on the explanation provided above. CIPL, Maharashtra _ is
+discharging GST on the invoice amount which is computed basing on period of usage of
+equipment.
+
+AEZ
+Page 6 of 19
+
+
+
+9. Now the question arises, if such lease transaction can be entered into between different
+registrations of the same Company. In this regard, the Applicant would like to state that Section
+25 of the CGST Act has created a deeming provision, as per basis which two registrations of
+same Company are considered as distinct person under GST. Accordingly, there can be supply
+of goods or services between such registrations even in case no consideration is involved as per
+the entry in Schedule | of the CGST Act.
+
+10. Basing on the joint reading of Section 25 of CGST Act and Schedule |, transactions entered with
+the third-party customer and transactions entered with GST registrations in other states are
+kept at par when it comes to determination of taxability under GST. Also, entry in Schedule | or
+any other provisions in the CGST Act does not restrict the nature of transaction which can be
+entered into between different registrations of the Company to be considered as taxable under
+GST. In other words, since the definition of supply contains lease within its ambit, there can be
+a lease transaction entered into between two different registrations of the same Company
+similar to the lease transaction entered with third party customer.
+
+11. Accordingly, in the current case, CIPL, Maharashtra can enter into lease transaction with CIPL
+branches in other States registered under the respective State GST legislation across India say
+for e.g., CIPL, Karnataka and such transaction would be taxable under GST as a lease
+transaction between the two branches which are deemed to be distinct entities for the purpose
+of GST legislation.
+
+Question 2 — If the answer to Question 1 is Yes, what is the value on which GST has to be charged
+i.e. whether it should be lease charges or the value of equipment in terms of Section 15 of the CGST
+Act and MGST Act read with relevant Rules?
+
+12. CIPL, Maharashtra has entered into agreement with CIPL, Karnataka to provide equipment on
+lease basis for which the consideration would be charged at an agreed rate (i.e. Lease charges
+or rental per day) depending on number of days of usage of equipment. Invoice in this regard
+would be raised by CIPL, Maharashtra periodically on the other CIPL branches for the
+equipment taken on lease by them.
+
+13. As per Rule 28 of CGST Rules read with Section 15 of the CGST Act mentioned in the legal
+background above, in case of transaction between distinct person, invoice value can be deemed
+as transaction value in case the recipient is eligible to take full input tax credit. Similar position
+has been taken by advance ruling authorities in other cases such as M/S. Specsmakers
+Opticians Private Limited (2020 (1) TMI 63 - Appellate Authority For Advance Ruling, Tamil
+Nadu)
+
+14. In the current case, since CIPL, Karnataka is eligible to take entire input tax credit, the invoice
+value should be deemed to the transaction value for the purpose of levy of GST.
+
+15. Also, since CIPL, Maharashtra is supplying goods to CIPL, Karnataka pursuant to a lease
+arrangement and not as a result of transfer of equipment, the lease charges charged by CIPL,
+Maharashtra should be the transaction value / deemed transaction value chargeable to GST.
+
+16. The Applicant also wishes to highlight the provisions of Section 18(6) of the CGST Act, which
+states that - “In case of supply of capital goods or plant and machinery, on which input tax
+credit has been taken, the registered person shall pay an amount equal to the input tax credit
+taken on the said capital goods or plant and machinery reduced by such percentage points as
+may be prescribed or the tax on the transaction value of such capital goods or plant and
+machinery determined under section 15, whichever is higher”. The intention behind the
+
+rovision is that the +person should be reversing the proportionate credit availed on capital
+
+C22
+Page 7 of 19
+
+
+
+goods in case such capital goods are disposed or sold or transferred after usage. However, the
+said provision would be applicable only in case the person is supplying capital goods as goods
+and not as service. In the current case since the equipment are provided by CIPL, Maharashtra
+on temporary lease (similar to transaction of lease entered into between CIPL Maharashtra and
+third party customers) and not sold or disposed permanently, the provisions of Section 18(6) of
+the CGST Act would not be applicable.
+
+Question 3 — What are the documents that should accompany the movement of the goods from
+CIPL, Maharashtra to CIPL, Karnataka?
+
+17. As per Rule 55 of the CGST Rules, when goods are transported without invoice and for reasons
+other than supply of such goods, a delivery challan is required to be issued for purpose of
+transportation of such goods.
+
+18. In the present case, the movement of equipment is not in pursuance of supply of equipment but
+is a supply of service under the CGST Act. Accordingly, a delivery challan is required to be issued
+for the purpose of transportation of such goods. Also, since the lease charges would be billed
+basis the number of days of usage by service recipient, the equipment would be transferred to
+the service recipient at the inception under the delivery challan without discharging taxes and
+the tax would be paid based service invoice issued periodically.
+
+19. Also Rule 138 of the CGST Rules, requires the consignor to issue e way bill in case the value of
+goods exceeds INR 50,000. Accordingly, the Applicant would also be issuing e-way bill along
+with delivery challan in terms of the said Rules.
+
+Question 4 - Whether movement of equipment CIPL, Karnataka to CIPL, Tamil Nadu on the
+instruction of CIPL, Maharashtra can be said to be mere movement of goods not amounting to a
+supply in terms of Section 7 of the CGST Act, and thereby not liable to GST?
+
+20. As discussed above, levy of GST is on supply and the scope of supply is discussed in Section 7 of
+the CGST Act. Accordingly, it is necessary to determine whether the movement of equipment
+between CIPL Offices will qualify as supply under Section 7(1) of the CGST Act. Here, it is
+relevant to understand the meaning of the modes of transfer which have been enumerated in
+Section 7(1)(a) of the:
+
+a) Sale is defined in in Section 54 of the Transfer of Property Act, 1882 in the following manner:
+“a transfer of ownership in exchange for a price paid or promised or part-paid and part-
+promised.”
+Further, the Hon’ble Supreme Court in the case of Joint Commercial Tax Officer, Harbour
+Division, Il, Madras v. Young Men's Indian Association (Regd.), Madras (1970) 1 SCC 462
+held that
+
+“Where general property in goods belonging to a person is under a contract transferred to
+another for a price paid or promised, the transaction is a sale”.
+
+b) The term ‘transfer’ has been defined in the Advanced law Lexicon to mean an act or transaction
+by which property of one person as by him vested in another. Further, in the case of Sunil
+Siddarthbai v. CIT (1985) 156 ITR 509 (SC) the expression ‘transfer’ of property was defined to
+mean the passing of rights in the property from one person to another.
+
+c) Barter is defined in the Advanced Law Lexicon to mean the exchange of goods or services
+without the intervention of money.
+
+d) Exchange is defined in Section 118 of the Transfer of Property Act, 1882 to mean:
+Page 8 of 19
+
+J
+Si,
+< mney
+
+
+When two persons mutually transfer the ownership of one thing for the ownership of another,
+neither thing nor both things being money only, the transaction is called an “exchange”
+
+Further, the Hon’ble Supreme Court in the case of I.T. Commissioner Bombay v. Rasiklal
+Moneklal, AIR 1989 SC 1333 held as below
+
+“An exchange involves the transfer of property by one person to another and reciprocally the
+transfer of property by that other person to the first person. There must be a mutual transfer of
+ownership of one thing for the ownership of another.”
+
+e) A ‘license’ is defined under Section 52 of the Indian Easements Act, 1882 to mean:
+
+“Where one person grants to another, or to a definite number of other persons, a right to do, or
+continue to do, in or upon the immovable property of the grantor, something which would, in
+the absence of such right, be unlawful, and such right does not amount to an easement or an
+interest in the property, the right is called a license.”
+
+f) Renting: As per Oxford English Reference dictionary ‘rent’ means a tenant’s periodical payment
+to an owner or landlord for use of land or premises.
+
+g) The term ‘lease’ is defined in Section 105 of the Transfer of Property Act, 1882 as under:
+“A lease of immovable property is a transfer of a right to enjoy such property, made for a
+certain time, express or implied, or in perpetuity, in consideration of a price paid or promised,
+or of money, a share of crops, service or any other thing of value, to be rendered periodically
+or on specified occasions to the transferor by the transferee, who accepts the transfer on such
+terms.”
+
+h) The term “disposal” has been interpreted by the Hon’ble Supreme Court in the case of Deputy
+Commissioner of Sales Tax v. Thomas Stephen (1988) 2 SCC 264 to mean transfer of title in
+goods to any other person and the expression to “dispose” means to transfer or alienate.
+
+21. Basis the above, the Applicant would like to state that all forms of supply enumerated under
+Section 7(1)(a) of the CGST Act involves either vesting or divesting of rights or creation of an
+interest or right in property or a thing. Accordingly, in order to constitute supply, the person
+transferring the goods would be required to transfer its specified interest/right in property to
+the recipient of such goods.
+
+22. In the present case, the Equipment is owned by CIPL, Maharashtra and will be leased to CIPL
+Karnataka in furtherance of a lease agreement between such registrations. In case CIPL,
+Karnataka does not require the equipment, the same would be transferred to CIPL, Tamil Nadu
+on the basis of instructions received from CIPL, Maharashtra. Such movement to CIPL, Tamil
+Nadu is in incidence of the obligation as a lessee under the lease agreement entered between
+CIPL, Maharashtra and CIPL, Karnataka. Further, CIPL, Maharashtra raises an invoice on CIPL,
+Karnataka for the number of days the equipment remained with it. In such a situation, since
+there is no transfer of interest of any kind in goods between CIPL, Karnataka and CIPL, Tamil
+Nadu in respect of the equipment, such a transfer of equipment would not constitute supply
+under Section 7(1)(a) of the CGST Act and accordingly would not be taxable under Schedule |
+of the CGST Act. It is only the provision of equipment on lease by CIPL, Maharashtra to CIPL,
+Tamil Nadu which will constitute as Supply under Section 7 of the CGST Act and attract levy of
+GST.
+
+23. The Applicant would also like to state that in such a case CIPL, Karnataka is supplying the service
+to CIPL, Maharashtra by facilitating / arranging the movement of equipment to CIPL, Tamil
+Nadu. Accordingly, such service of facilitating the movement of equipment would be taxable
+
+LY
+Page 9 of 19
+
+
+
+under GST in the hands of CIPL, Karnataka in respect of the consideration / fee that it would
+receive for the service.
+
+Question 5 - With reference to Question 4 above, what are the documents that should accompany
+
+the movement of the goods from CIPL, Karnataka to CIPL, Tamil Nadu?
+
+24. In case of supply of goods for reasons other than by way of supply, a delivery challan is required
+to be issued in terms of Rule 55 of the CGST Rules.
+
+25. As mentioned above, the movement of equipment between CIPL, Karnataka to CIPL, Tamil Nadu
+per se is not taxable under GST. Accordingly, it can be said that movement of equipment is for
+reasons other than by way of supply. In such a case, no invoice is required to be generated
+under GST and the movement would be made under the cover of delivery challan in terms of
+Rule 55 of the CGST Rules.
+
+26. Also Rule 138 of the CGST Rules, requires the consignor to issue e way bill in case the value of
+goods exceeds INR 50,000. Accordingly, CIPL, Karnataka would also be issuing e-way bill along
+with delivery challan in terms of the said Rules.
+
+Il. The Applicant most humbly requests your Honour to please grant a personal hearing in this
+respect before disposing of the instant application.
+
+III. The Applicant craves leave to add, amend, modify, omit, substitute, replace and delete any of
+the aforesaid submissions on facts or law both at the time of or before the hearing in respect of
+the instant application.
+
+Applicant Submission Dated 26.10.2021:-
+
+WRITE-UP ON THE PROPOSED BUSINESS MODEL AND APPLICANT’S INTERPRETATION OF THE
+
+QUESTIONS RAISED IN THE ADVANCE RULING APPLICATION
+
+A. OVERVIEW OF THE PROPOSED BUSINESS MODEL:
+
+A.1. CHEP India Private Limited (CIPL) is primarily engaged in renting of re-usable unit-load
+equipment for shared use by multiple participants within industrial and retail sector
+throughout the supply chain, under a business model known as "pooling". it must be noted
+that equipment are only leased out to the customers for use but the ownership rests with
+CIPL at all times.
+
+A.2. A new business model is being proposed by the Company with the following modalities —
+
+(e) The ownership of all existing equipment in India shall be consolidated to the Applicant’s
+GSTIN in Maharashtra. As the ownership of equipment would be with the Applicant, it
+would be entering into agreement with customers for leasing the equipment to them at
+the agreed lease charges.
+
+(e) The Applicant would also lease the equipment to other CIPL units based on their
+requirements. For instance, the Applicant would be sending the equipment to CIPL
+Karnataka under the cover of the delivery challan for lease.
+
+(e) The Applicant would be raising periodical invoices for lease charges (based on number of
+days of usage) on CIPL Karnataka.
+
+oO CIPL Karnataka would thereafter, be issuing the equipment to its customers who would be
+using it for movement of their goods through the supply chain. CIPL Karnataka would be
+charging lease charges from its customers based on the period of use.
+
+fo} There are chances that other units say, CIPL Tamil Nadu may require equipment from the
+Applicant which are available with CIPL Karnataka (under lease from CIPL Maharashtra).
+In such a case, basis the instructions from the Applicant, CIPL Karnataka would transfer
+
+AE
+Page 10 of 19
+
+
+
+the equipment to CIPL Tamil Nadu. The moment equipment reaches CIPL Tamil Nadu, the
+Applicant would stop charging CIPL Karnataka and start charging CIPL Tamil Nadu
+towards lease charges. Further, CIPL Karnataka would charge the applicant consideration
+for facilitation of movement of equipment to CIPL Tamil Nadu basis the instruction.
+
+A.3. The diagrammatic representation of the transaction is provided below —
+CIPL Customer
+(MH) ABC
+a Lease of ony
+Equipment &
+bac billing for lease
+Lease of charges
+Equipment
+& Billing
+for lease d Lease of
+cnarges Equipment &
+billing for lease
+charges
+CIPL
+(Kar) Customer
+XYZ (Kar)
+lease charges
+e& Shipping of Equipment
+on instruction of CIPL
+(MH)
+CIPL
+(TN)
+
+B. APPLICANT’S INTERPRETATION
+
+B.1. At the outset, it is submitted that the Applicant had obtained a ruling on similar questions in
+the State of Karnataka and the Authorities had agreed to the Applicant’s interpretation. A copy
+of the ruling (orderno. KAR ADRG 36/2021 dated 16 July 2021) is attached herewith as
+Annexure 1. A summary of the questions and Applicant’s interpretation on the same is also
+provided in the ensuing paras for ease of reference.
+
+B.2. Question 1 - Whether the equipment leased by the Applicant to its other GST registrations
+located across India (CIPL Karnataka), would be considered as lease transaction and
+accordingly taxable as supply of services in terms of Section 7 of the CGST Act and MGST Act?
+
+fo} The definition of ‘supply’ under Section 7 includes ‘lease’ within its ambit. Also, as per point
+5(f) of Schedule II, “transfer of the right to use any goods for any purpose (whether or not
+for a specified period) for cash, deferred payment or other valuable consideration” is
+deemed as service under GST.
+
+(e) Section 25 of CGST Act states that two registrations of the same Company shall be
+considered as distinct persons under GST law. Further, as per Schedule |, transactions
+between such distinct persons shall be treated as a supply even if it is undertaken without
+consideration.
+
+(o} On the basis of the above, it can be said that the transaction between the Applicant and
+
+other branches (CIPL Karnataka) shall be treated as a ‘supply’ and taxable under GST.
+Va
+Page 11 of 19
+
+
+
+B.3. Question 2 — If the answer to Question 1 is Yes, what is the value on which GST has to be
+charged i.e. Whether it should be lease charges or the value of equipment in terms of Section
+15 of the CGST Act and MGST Act read with relevant Rules?
+
+(e) Under the proposed model, the leasing charges to be recovered by the Applicant to CIPL
+Karnataka would be at an agreed rate and invoice in this regard would be raised
+periodically on the basis of the number of days of use.
+
+(e) As per Rule 28 of CGST Rules read with Section 15 of the CGST Act the value of supply in
+case of transaction between distinct person can be deemed to be the invoice value in case
+the recipient is eligible to take full input tax credit — Said position upheld by AAAR, Tamil
+Nadu in the case of M/S. Specsmakers Opticians Private Limited (2020 (1) TMI 63 -
+Appellate Authority for Advance Ruling, Tamil Nadu).
+
+(e) Therefore, since in the current case, CIPL Karnataka is eligible to take entire input tax
+credit, the invoice value should be deemed to the transaction value for the purpose of levy
+of GST.
+
+(o} Also, since the Applicant is supplying equipment to CIPL Karnataka pursuant to a lease
+
+arrangement and not as a result of transfer of equipment, the lease charges charged by
+the Applicant should be the transaction value chargeable to GST.
+
+(e) It is to be highlighted that Section 18(6) of CGST Act which relates to reversal of ITC on
+supply of capital goods shall not be applicable here since the equipment are not being
+supplied/ disposed off as goods but are being given on temporary hire to CIPL Karnataka.
+
+B.4. Question 3 — What are the documents that should accompany the movement of the goods from
+CIPL Maharashtra to CIPL Karnataka?
+
+o As per Rule 55 of the CGST Rules, when goods are transported without invoice and for
+reasons other than supply of such goods, a delivery challan is required to be issued for
+purpose of transportation of such goods.
+
+(e) In the present case, the movement of equipment is not in pursuance of supply of
+equipment but is a supply of service under the CGST Act. Accordingly, a delivery challan is
+required to be issued for the purpose of transportation of such goods. Also, since the lease
+charges would be billed basis the number of days of usage by service recipient, the
+equipment would be transferred to the service recipient at the inception under the delivery
+challan without discharging taxes and the tax would be paid based of service invoice
+issued periodically.
+
+(e) Also, Rule 138 of the CGST Rules requires issuing e-way bill in case the value of goods
+exceeds INR 50,000. Accordingly, the movement may require generation of e-way also.
+
+B.5. Question 4 — Whether subsequent movement of equipment from CIPL Karnataka to CIPL Tamil
+Nadu on the instruction of CIPL Maharashtra can be said to be mere movement of goods
+not amounting to a supply in terms of Section 7 of the CGST Act and MGST Act, and
+thereby not liable to GST?
+
+Transaction mechanics: (Transaction with respect to leg (e) in the aforesaid diagrammatic
+representation) — The chronological sequence of the transaction is explained below for
+ease of understanding —
+
+(i) Initially, the equipment shall be leased out by the Applicant to the Company’s GSTIN in
+another State say, CIPL Karnataka. The Applicant shall raise periodic tax invoice for lease
+charges on CIPL Karnataka along with appropriate GST (Step (b) and (c) of the aforesaid
+diagrammatic representation).
+
+(ii) Let us assume that the ultimate customer in Karnataka (‘XYZ’ as per the aforesaid
+diagrammatic representation) has completed the use of the equipment as per its
+
+M,
+
+“GA
+Page 12 of 19
+
+
+
+requirement and after use, it has returned the same back to CIPL Karnataka. Now at this
+stage, the equipment is lying with CIPL Karnataka. Since CIPL Karnataka is still in the
+possession of the equipment, the Applicant shall continue to raise invoice for recovery of
+lease charges from CIPL Karnataka.
+
+(iii) It may so happen that the Company’s registration in another State (say, CIPL Tamil Nadu)
+requires the equipment which are lying with CIPL Karnataka. In such a scenario the
+Applicant i.e. CIPL Maharashtra shall enter into a lease arrangement with CIPL Tamil Nadu
+for the said equipment and instruct CIPL Karnataka to send the goods to CIPL Tamil Nadu.
+
+(iv) It must be noted that the responsibility with respect to generating delivery challan, e-
+waybill etc. For the purpose of moving the equipment to CIPL Tamil Nadu shall be that of
+CIPL Karnataka and not the Applicant. For facilitating the movement of equipment, CIPL
+Karnataka may charge a consideration from the Applicant and raise a tax invoice along
+with GST for recovering the said amount.
+
+(v) Once the equipment reaches CIPL Tamil Nadu, the Applicant shall stop invoicing CIPL
+Karnataka for lease rentals and start invoicing CIPL Tamil Nadu for the lease charges on
+the basis of the new arrangement with it.
+
+Application of GST law:
+
+(e) The scope of supply under Section 7(1)(a) of CGST Act includes sale, transfer, exchange,
+license etc. Within its ambit. It must be noted that all forms of supply enumerated therein
+either involves vesting or divesting of rights or creation of an interest or right in property
+or a thing. Accordingly, in order to constitute supply, the person transferring the goods
+would be required to transfer its specified interest/right in property to the recipient of such
+goods.
+
+(e) In the present case, the equipment owned by the Applicant is originally leased to CIPL
+Karnataka in pursuance of a lease agreement between such registrations. The equipment
+shall move to CIPL Tamil Nadu from CIPL Karnataka on the basis of instructions received
+from the Applicant. Such movement to CIPL Tamil Nadu is in incidence of the obligation as
+a lessee under the lease agreement entered between the Applicant and CIPL Karnataka.
+There is no transfer of interest of any kind in goods between CIPL Karnataka and CIPL Tamil
+Nadu in respect of the equipment. Hence, it cannot be said that there is a supply between
+CIPL Karnataka and CIPL Tamil Nadu in case of such movement.
+
+o It must rather be noted that in such a case, CIPL Karnataka is supplying a service to the
+Applicant by facilitating the movement of equipment to CIPL Tamil Nadu. Accordingly,
+such service of facilitating the movement of equipment would be taxable in the hands of
+CIPL Karnataka.
+
+B.6. Question 5 — With reference to Question 4 above, what are the documents that should
+accompany the movement of the goods from CIPL Karnataka to CIPL Tamil Nadu?
+
+te) Since the movement is for reasons other than supply of goods, a delivery challan shall be
+required to be issued in terms of Rule 55 of CGST Rules. No tax invoice shall be required
+for movement.
+
+° Also, as per Rule 138 of the CGST Rules, the movement may involve issuing e-way bill in
+case the value of goods exceeds INR 50,000.
+
+Applicant Submission Dated 15.06.2022: -
+
+1.1 CHEP India Private Limited (hereinafter referred to as 'CIPL' or ‘the Company’) is a company
+registered under the provisions of Companies Act, 1956 and has its principal place of
+business situated at 3rd Floor, Aver Plaza, Plot - B13, Opposite Citi Mall, New Link Road,
+
+Andheri (West), Mumbai - 400 053. It is engaged in the business of leasing of pallets, crates
+
+ASA
+Page 13 of 19
+
+
+
+and containers and is registered under the GST law bearing registration number -
+27AADCC3230A1ZF.
+
+1.2 This is with reference to the personal hearing held on 14 June 2022 with respect to the
+advance ruling application filed by the Company under Section 97 of Central Goods &
+Services tax Act, 2017 ("CGST Act"), the Company had filed on the GST portal on 17 March
+2021 bearing ARN no. AD2703210325636.
+
+1.3 During the personal hearing, a detailed explanation was provided with respect to the
+proposed business model of the Company, specific transactions to be undertaken under
+the new model and the Company's interpretation of the questions raised in the advance
+ruling application. In regard to the same, your goodself had requested the Company to
+submit inter-unit Memorandum of Understanding (MoU), if any entered within the
+Company for the leasing transaction between CIPL Maharashtra and other GSTINs.
+
+1.4 In this regard, the Company hereby submits a document containing broad contours of the
+MoU which is proposed to be entered among different GSTINs of the Company in the new
+business model (Annexure 2). It must however be noted that since it is still a proposed
+model, no MoU has actually been executed between the different GSTINs of the Company
+till now.
+
+1.5 With the aforesaid submissions, the Company believes that all documents required for
+rendering a ruling has been submitted. Accordingly, it is prayed before your goodself to
+provide a ruling at the earliest. In case any further clarifications are required, the Company
+would be pleased to submit the same.
+
+03. CONTENTION — AS PER THE CONCERNED OFFICER:
+No contention is filed.
+04. HEARING
+
+Preliminary e-hearing in the matter was held on 12.10.2021. Authorized representatives of the
+Applicant, Shri. Harshit Jain, learned CA, Shri. Sachin Agarwal, Shri. Sarvesh Saraogi and Shri. Manoj
+Rathi were present. The Jurisdictional Officer was absent. The applicant was asked to produce copies
+of sample agreements/documents explaining the exact nature of transactions. The question no. 3
+
+and 5 were not admitted, as same were not within the scope of Advance ruling. What documents to
+accompany movement is not covered by scope of section 97 of the GST Act. The application was
+admitted and called for final hearing. Final e-hearing was held on 14/6/2022. The Authorized
+representative of the applicant, Shri.Sachin Agarwal, Learned Partner and Shri. Ravi Banthia, Learned
+Director were present. The Jurisdictional officer was absent. On 14/6/2022 it is directed to the
+Applicant to produce agreement between the other state branch and the Maharashtra branch or
+head office; regarding lease. Further final e-hearing is held on 15.11.2022. Shri. Sarvesh Saraogi,
+Manager, Authorized Representative, appeared made oral and written submissions. Jurisdictional
+Officer was absent. We heard both the sides.
+
+05. OBSERVATIONS AND FINDINGS:
+
+Question 1 - Whether the pallets, crates and containers (hereinafter referred as “equipment”) leased
+by CHEP India Private Limited (hereinafter referred to as “CIPL” or “the Applicant”) located and
+
+ae
+Page {a0f19
+
+
+
+registered in Maharashtra to its other GST registrations located across India (say CIPL Karnataka),
+would be considered as lease transaction and accordingly taxable as supply of services in terms of
+Section 7 of the CGST Act?
+
+The GST is leviable on supply of goods or services. The definition of supply is wide and includes
+“lease” within its ambit. Also, as per point 5(f) of Schedule Il, “transfer of the right to use any goods
+for any purpose (whether or not for a specified period) for cash, deferred payment or other valuable
+consideration” is deemed as service under GST. The applicant has rightly referred to Ind AS 116 and
+also referred to Section 105 of the Transfer of Property act, 1882, in this respect. Accordingly, any lease
+transaction is deemed as supply of services as per Schedule Il, since it involves transfer of right to use
+the goods for a consideration. In the current case, CIPL, Maharashtra transfers the right to use the
+equipment for a period of time to third party customers in Maharashtra and other CIPL registrations
+across India for periodical considerations. In respect of the customers in Maharashtra, the Applicant
+is considering the transaction as leasing. CIPL, Maharashtra is discharging GST on the invoice amount
+which is computed on the basis of period of usage of equipment (as per pleadings made by the
+applicant). But the question asked is if such lease transaction can be entered into between different
+registrations of the same Company, whether it is covered by the scope of supply. In this regard, the
+Applicant has rightly stated that the Section 25 of the CGST Act has created a deeming provision
+whereby two registrations of the same Company are considered as distinct person under GST.
+Accordingly, as per the entry in Schedule | of the CGST Act, there can be supply of goods or services
+between such registrations even in case no consideration is involved. The applicant has submitted in
+its pleadings as under:
+
+Basis the joint reading of Section 25 of CGST Act and Schedule |, transactions entered with the
+third-party customer and transactions entered with GST registrations in other states are kept at
+par when it comes to determination of taxability under GST. Also, entry in Schedule | or any other
+provisions in the CGST Act does not restrict the nature of transaction which can be entered into
+between different registrations of the Company to be considered as taxable under GST. In other
+words, since the definition of supply contains lease within its ambit, there can be a lease
+transaction entered into between two different registrations of the same Company similar to the
+lease transaction entered with third party customer.
+
+Accordingly, in the current case, CIPL, Maharashtra can enter into lease transaction with CIPL branches
+in other States registered under the respective State GST legislation across India say for e.g., CIPL,
+Karnataka and such transaction would be taxable under GST as a lease transaction between the two
+branches which are deemed to be distinct entities for the purpose of GST legislation.”
+
+We agree with the view taken by applicant and accordingly held that it is supply.
+Question-2:- If the answer to Question 1 is Yes, what is the value on which GST has to be charged
+i.e. whether it should be lease charges or the value of equipment in terms of Section
+15 of the CGST Act and MGST Act read with relevant Rules?
+
+The applicant in its basic pleadings as contended as under, in its statement of facts:
+
+A
+Page 15 of19
+
+
+
+“CIPL is contemplating certain changes in its existing business model. The broad business
+mechanics of the proposed business model would be as follows:
+
+a. CIPL would be consolidating the ownership of all the equipment into the state of Maharashtra.
+Currently, while majority of the procurements / manufacture happen in Maharashtra, some of
+the procurements are also done from other states.
+
+b. As the ownership of equipment would be with CIPL, Maharashtra, it would be entering into the
+arrangement with the customer and all the other CIPL units (located in other States) for leasing
+the equipment to them at the agreed leasing or hiring charges.”
+
+Since, this business model is yet not operational and how it will become operational is not
+known, we do not have any actual facts and figures to answer this question. This question becomes
+more like hypothetical question.
+
+However, one fact is clear that applicant would be entering into the arrangement with the
+customer and ail the other CIPL units (located in other States) for leasing the equipment to them at the
+agreed leasing or hiring charges. So naturally, the rates to be applied for leasing to equipment to the
+other customers and to the branches of applicant would be same or similar. If such rates (for leasing
+of equipment) are by and large same or similar there would not be any problems as such. Since in
+leasing transactions the equipment is returned back to the original person who leased the equipment
+(after completion of lease period), the rate of leasing is normally fixed by such lessor at such a price
+which would cover the cost plus other overheads and profit. So, whatever rates are fixed for normal
+customer, if applied to branch, would not cause any serious problem. Hence, looking at the peculiar
+nature of business of present applicant, answer to the question asked is that, the value on which GST
+has to be charged would be the lease charges which would be charged by the other branch to the
+ultimate customer in other state in terms of Section 15 of the CGST Act and MGST Act read with
+relevant Rules, or such other normal value which would be derived after taking into consideration the
+rate which is equal to such lease rate which is normally charged to customers. When the movement
+(from Maharashtra to other state) happens because of order by customer at the other state branch,
+the value as offered by the ultimate customer for providing lease services is available and that may be
+considered for adopting value of supply for branch transfer.
+
+Question no 3 and 5 : not admitted, so not answered.
+
+Question-4:- Whether movement of leased equipment from CIPL, Karnataka to CIPL, Tamil Nadu
+on the instruction of CIPL, Maharashtra can be said to be mere movement of goods
+not amounting to a supply in terms of Section 7 of the CGST Act and MGST Act, and
+thereby not liable to GST?
+
+Answer: The main question involved here is not related to Maharashtra. This question raised by
+the applicant is with respect to movement of goods located in a State other than
+
+Maharashtra. As per clause (a) of section 10 of the Integrated Goods and Service Tax
+
+Page 16 of 19
+
+
+
+Act 2017, the Place of supply of goods other than supply of goods imported into, or
+exported from India.—
+(1) The place of supply of goods, other than supply of goods imported into, or exported from India,
+shall be as under,—
+(a) where the supply involves movement of goods, whether by the supplier or the
+recipient or by any other person, the place of supply of such goods shall be the location of the
+goods at the time at which the movement of goods terminates for delivery to the recipient;
+Further as per sub-section (1) of section 8 of the Integrated Goods and Service Tax Act 2017,-
+8(1) Intra-State supply. — Subject to the provisions of section 10, supply of goods where the
+location of the supplier and the place of supply of goods are in the same State or same Union
+territory shall be treated as intra-State supply.
+Further, a reference can be made to Section 22 of the CGST Act. It reads as under:
+22. (1) Every supplier shall be liable to be registered under this Act in the State or Union territory,
+other than special category States, from where he makes a taxable supply of goods or services
+or both, if his aggregate turnover ina financial year exceeds twenty lakh rupees.
+From the above sections, it is clear that it is an origin based provision, requiring the registration
+to be taken in that State. After conjoint reading of the above provisions mentioned above, it
+appears that if the situs of supply is determined on the basis of movement of goods and delivery
+of goods. In the present case apparently the applicant is having GSTN number in all other States.
+The applicant has also obtained the Advance Ruling order in Karnataka State in similar matter.
+Further, it is also important to go through the provision of section 96 of the Central Goods and
+Service Tax Act 2017 which states that the Authority for advance ruling constituted under the
+provisions of a State Goods and Services Tax Act or Union Territory Goods and Services Tax Act
+shall be deemed to be the Authority for advance ruling in respect of that State or Union territory.
+We now refer to the decision passed by the Rajasthan Advance Ruling Authority vide its order
+RAJ/AAR/2018-19/29 dated 09.01.2019 in the case of M/s K. M. Trans Logistics (P) Ltd., wherein
+the issue raised was whether having vacant lands on lease for parking of trailers/trucks at various
+cities for operational purpose required registration in various cities when billing, control,
+registered office, head office and management was centralized located at Jaipur. The said
+“The authority for advance ruling is created under SGST/UTGST Act and
+
+authority observed that,
+
+thus rulings are applicable within the particular state only, it is for this reason that question
+
+ay
+Page 17 of 19
+
+
+
+relating to registration of vacant lands taken on lease by the applicant is out of purview of the
+
+authority and hence no ruling is given on this aspect”.
+
+Thus, in view of the above discussions, if the situs of transaction in question is not within the state
+of Maharashtra, then as per provisions of section 96 of the Central Goods and service Tax Act
+2017 (and similar provision under the MGST Act), the Maharashtra Advance Ruling Authority
+
+cannot acquire the jurisdiction over the questions raised, hence no ruling can be given on this
+
+question.
+
+06. In view of the extensive deliberations as held hereinabove, we pass an order as follows:
+
+ORDER
+
+(Under Section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+
+Goods and Services Tax Act, 2017)
+questions are answered thus —
+
+For reasons as discussed in the body of the order, the
+eferred as “equipment”)
+
+Question-1:- Whether the pallets, crates and containers (hereinafter r
+
+leased by CHEP India
+
+Applicant”) located and registered in
+
+Private Limited (hereinafter referred to as “CIPL” or “the
+
+Maharashtra to its other GST registrations
+would be considered as lease transaction
+e CGST Act
+
+ed across India (say CIPL Karnataka),
+ble as supply of services in terms of Section 7 of th
+
+locat
+and accordingly taxa’
+
+and MGST Act?
+
+Answer:- Yes
+
+Question-2:- If the answer to Question 1 is Yes, what is the value on which GST has to be charged
+
+i.e. whether it should be lease charges or the value of equipment in terms of Section
+
+15 of the CGST Act and MGST Act read with relevant Rules?
+
+Answer:- As per the discussion made above.
+
+Question-3:- What are the documents that should accompany the movement of the goods from
+
+CIPL, Maharashtra to CIPL, Karnataka?
+
+Answer:- Not admitted.
+
+Whether movement of leased equipment from CIPL, Karnataka to CIPL, Tamil Nadu
+
+Question-4:-
+n of CIPL, Maharashtra can be said to be mere movement of goods
+
+on the instructio
+5 of Section 7 of the CGST Act and MGST Act, and
+
+not amounting to a supply in term:
+
+thereby not liable to GST?
+
+Answer:- Not answered in view of discussion made above.
+
+JoOe
+
+Page 18 of 19
+
+
+
+Question-5:- With reference to Question 4 above, what are the documents that should accompany
+
+the movement of the goods from CIPL, Karnataka to CIPL, Tamil Nadu?
+
+Yawmear ui. oe
+
+ae _ =
+M. RAMMOHAN RAO T. R. RAMNANI
+(MEMBER) (MEMBER)
+
+Copy to:-
+
+1. The applicant
+
+2. The concerned Central / State officer
+
+3. The Commissioner of State Tax, Maharashtra State, Mumbai
+
+4. The Pr. Chief Commissioner of Central Tax, Churchgate, Mumbai
+5. The Joint commissioner of State Tax, Mahavikas for Website.
+
+Note:- An Appeal against this advance ruling order shall be made before The Maharashtra
+Appellate Authority for Advance Ruling for Goods and Services Tax, 15th floor, Air India Building,
+Nariman Point, Mumbai — 400021. Online facility is available on gst.gov.in for online appeal
+application against order passed by Advance Ruling Authority.
+
+Page 19 of 19

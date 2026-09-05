@@ -1,0 +1,1202 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+(constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri B. V. Borhade, Joint Commissioner of State Tax
+(2) Shri Pankaj Kumar, Joint Commissioner of Central Tax
+
+GSTIN Number, if any/ User-id 27AABCB1518LIZS
+
+Legal Name of Applicant Bajaj Finance Limited
+
+Registered Address/ Address provided | 3rd Floor, Panchshil Tech Park, Viman Nagar, Pune-
+while obtaining user id 411 014
+
+Details of application GST-ARA, Application No. 21 Dated 09.05.2018
+Concerned officer State Tax Officer (VAT-C-707) Pune
+
+Nature of activity(s) (proposed /
+
+present) in respect of which advance
+
+ruling sought
+
+A Category Service Provision
+
+B Description (in brief) e The Applicant is a non-banking financial institute and is
+inter alia engaged in providing various types of loan to
+the customers such as auto loans, loan against the
+property, personal loan, consumer durable goods loan,
+etc.
+
+e The loan agreements entered into by the Applicant with
+its borrowers/customers, inter alia provide for
+repayment of the outstanding dues/Equated Monthly
+Installments (EMI) through cheque/ Electronic Clearing
+System (ECS)/ National Automated Clearing House
+(NACH’) or any other electronic or clearing mandate, on
+the due dates stipulated in the agreement.
+
+e Incase of dishonor of cheque /ECS/NACH or any other
+electronic or clearing mandate, the Applicant imposes
+Penal Charges/ Bounce Charges (hereinafter collectively
+referred to as 'Bounce Charges’) on the customers.
+
+on which advance ruling (vii) whether any particular thing done by the applicant
+with respect to any goods and/or services or both
+amounts to or results in a supply of goods and/or
+services or both, within the meaning of that term
+Question(s) on which advance ruling is | As reproduced in para 02 of the Proceedings below.
+required
+
+PROCEEDINGS
+
+(under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods and
+Services Tax Act, 2017)
+
+The present application has been filed under section 97 of the Central Goods and Services Tax Act,
+2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as “the CGST Act and
+MGST Act’ ] by Bajaj Finance Limited, the applicant, seeking an advance ruling in respect of the following
+question :
+Whether the Bounce Charges collected by the Applicant should be treated as a supply under the GST regime?
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and the
+MGST Act are the same except for certain provisions. Therefore, unless a mention is specifically made to
+such dissimilar provisions, a reference to the CGST Act would also mean a reference to the same provision
+under the MGST Act. Further to the earlier, henceforth for the purposes of this Advance Ruling, a reference
+to such a similar provision under the CGST Act / MGST Act would be mentioned as being under the “GST.
+Act".
+
+
+02. FACTS AND CONTENTION - AS PER THE APPLICANT
+The submissions, as reproduced verbatim, could be seen thus-
+
+5 The Applicant is a non-banking financial company and is inter alia engaged in providing various types of
+loan to the customers such as auto loans, loans against the property, personal loans, consumer durable goods
+loans, etc. All these loans are interest bearing loans.
+
+2. The Applicant inter alia enters into agreements with borrower/customers for providing loans to them. The
+loan agreements provide for repayment of the outstanding dues/Equated Monthly Installments (EMI)
+through cheque/ Electronic Clearing System ("ECS')/ National Automated Clearing House ("NACH') or any
+other electronic or clearing mandate. The illustrative copies of loan agreement entered into between the
+Applicant and the customers are collectively enclosed as Annexure-1,
+
+3. In case of dishonour of cheque/ECS/NACH or any other electronic or clearing mandate by the customers,
+the Applicant collects penal/bounce charges, which is in line with the agreed terms and conditions. The
+bounce charges are generally a fixed amount per default committed by the customer, for e.g. Rs.350/- for
+each dishonour of cheque/ECS.
+
+4. The relevant extract of clauses of a sample auto loan agreement in respect of bounce charges is reproduced
+below for ease of reference:
+
+"1. DEFINITIONS AND ABBREVIATIONS:
+r. "Bounce Charges" shall mean, dishonor of post-dated cheque/ ECS ADM/ entrusted by the borrower/co
+applicant/co borrower for clearance of EMI (monthly installments) or non-payment of installment on or before
+respective due date for other modes.
+Il, TERMS OF THE LOAN:
+3. The Borrower agrees and confirms that:
+(iv) BFL is entitled to levy penalty as follows on default:
+(a) Bounce Charges of up to Rs.350/- on each Bounce as per clause B of the schedule.
+.... Emphasis Supplied
+5. The amount of bounce charges collected from the customers are accounted by the Applicant in its core
+accounting platform i.e. SAP under General Ledger Code 60000150.
+Under the GST (implemented from July 01, 2017), the Applicant is of the view that bounce charges collected
+from the customers (for the breach of the terms and conditions of the loan) are in the nature of penalty/
+
+In this context, the Applicant has analyzed the relevant legal provisions in the ensuing paras.
+“A. Bounce Charges do not fall within the ambit of 'supply under the GST regime
+Al Under the GST regime, the taxable event shall be the supply of goods or services. The scope of the term
+'supply' is provided under Section 7 of the CGST Act, which includes all forms of supply of goods and/or
+services such as sale, transfer, barter, exchange, license, rental, lease or disposal made or agreed to be made
+for a consideration in the course or furtherance of business and importation of services. It also includes
+activities specified in Schedule I made or agreed to be made without a consideration. The said Section 7 is
+reproduced herein below for reference:
+"7 (1) For the purposes of this Act, the expression "supply" includes
+(a) all forms of supply of goods or services or both such as sale, transfer, barter, exchange, licence, rental, lease
+or disposal made or agreed to be made for a consideration by a person in the course or furtherance of business;
+(b) import of services for a consideration whether or not in the course or furtherance of business;
+(c) the activities specified in Schedule 1, made or agreed to be made without a consideration, and
+(d) the activities to be treated as supply of goods or supply of services as referred to in Schedule II."
+part Emphasis Supplied
+A2 In view of the above provision, any activity undertaken without consideration, except those covered under
+Sch. I, shall not be treated as 'supply', and accordingly, will not be subject to GST levy and hence, not liable
+for payment of GST. Further, the Bounce Charges collected by the Applicant are not covered under the list of
+activities specified in Schedule I of the CGST Act. Therefore, in this case, analysis is required to know whether
+the penal charges collected as Bounce Charges would qualify as a consideration towards supply of service.
+A3 It is submitted that the term ‘consideration is defined under Section 2 (31) the CGST Act as under:
+(31) "consideration" in relation to the supply of goods or services or both includes
+(a) any payment made or to be made, whether in money or otherwise, in respect of in response to, or for the
+inducement of the supply of goods or services or both, whether by the recipient or by any other person but shall
+not include any subsidy given by the Central Government or a State Government:
+(b) the monetary value of any act or forbearance, in respect of, in response to, or for the inducement of the
+supply of goods or services or both, whether by the recipient or by any other person but shall not include any
+subsidy given by the Central Government or a State Government."
+2
+
+
+AA Since the above definition is an inclusive one, the meaning of the term ‘consideration’ will have to be
+understood from various external aids, including the natural meaning given in various dictionaries, meaning
+given to the term in rulings by various forums, etc.
+
+AS It is submitted that the concept of consideration has been derived from the Latin phrase "quid pro quo" which
+means "something for something". It is a well settled principle that "where there is no consideration, there is
+no contract".
+
+A6 Reference in this regard is made to the definition of the term ‘consideration provided in Section 2(d) of the
+Indian Contract Act, 1872 (hereinafter referred to as 'the Contract Act), which reads as under:
+
+"When, at the desire of the promisor, the promisee or any other person has done or abstained from doing,
+or does or abstains from doing, or promises to do or to abstain from doing, something, such act or abstinence
+or promise is called a consideration for the promise. "
+
+AZ Furthermore, it is submitted that various dictionaries define the term ‘consideration as follows:
+
+BLACK LAW DICTIONARY
+
+Consideration means something which is of value in the eye of law, moving from the plaintiff, either of benefit to the
+plaintiff or of detriment to the defendant.
+
+WEBSTER DICTIONARY
+
+Something of value given or done in exchange for something of value given or done by another, in order to make binding contract;
+
+inducement for a contract.
+
+A8 From the above discussed meaning of the term ‘consideration’, it can be said that consideration would
+necessarily mean "quid pro quo”, ie, something in return. It is a benefit which must be bargained for between
+the parties, and is essential reason for a party entering into a contract. Further, the consideration for an activity
+must be at the desire of the other person.
+
+Ad In the present case, the Bounce Charges are collected by the Applicant on account of failure of the
+
+borrower/customer in fulfilling its obligation to ensure that the funds were available to honour a cheque or
+
+meet a direct debit request presented by the Applicant for the loan installment. Therefore, it is submitted that
+the Bounce Charges are not recovered by the Applicant in lieu of, or, in return for any activity performed by
+the Applicant.
+
+The Applicant would like to bring your attention to clause (d) of sub-section (1) of Section 7 of the CGST Act,
+
+hich states that the expression supply also includes the activities to be treated as supply of goods or supply
+
+services as referred to in Schedule II. Entry 5 of Schedule II specifies the list of activities to be treated as
+ply of services, which inter alia contains clause (e), which reads as ‘agreeing to the obligation to refrain from
+
+erstood to cover instances where the consideration is being charged by one person in order to allow
+ther person to undertake any particular activity. These are the cases, where it is clear at the very inception
+at the intention of one party is to undertake an activity and the other party shall allow the same without
+any hindrance. Such a contract is entered with an intention to allow the other person to carry out an activity,
+and not as a penalty/ fine to deter such person to repeat the act in future. Even if such activity is repeated in
+future, there is no intention to deter the happening of the same.
+
+A.12 The expression agreeing to tolerate an act’ cannot be construed to include situations wherein liquidated
+damages/ penalty is charged by a party for defaults/ breach committed by other party under the contract.
+In fact, the very intention of such penal clauses is to create a deterrent effect and ensure that the
+defaults/ violations are not repeated by the erring party,
+
+A.13 It is further submitted that the word ‘obligation used in Clause (e), Entry 5 of Schedule II of the CGST Act,
+indicates the need for the existence of the desire in the person for whom the activity is done. In other words,
+when the service recipient requests the service provider to tolerate an act/ situation and the service provider
+obliges to tolerate provided a consideration is paid, then such a contractual relationship will get covered by
+the said clause of Schedule Il of the CGST Act. In such situation, the service provider binds himself to act in
+a particular manner as desired by the service recipient and there is consensus ad idem between the
+contracting parties to this effect.
+
+A14 Contrary to the above, the Bounce Charges are collected only on happening of any event of default by the
+customers in making the payment of loan installments. It is submitted in this regard that the intention of the
+parties entering into loan agreement is to grant/avail loan and not to tolerate non-payment of loan dues.
+Therefore, it would be erroneous to assume that the party granting loan (i.e. the Applicant) are entering the
+loan agreement to tolerate the default of the borrowers. It is further submitted that the consideration for
+breach of contract, in the form of liquidated damages cannot be treated as the consideration for the contract
+per se. Therefore, merely because of existence of the clause of penal/ bounce charges in the contract for breach
+of the performance of the contract, it does not mean that the parties have entered into the contract for the
+penal/bounce charges. It is only a deterrent for the customer/ borrower not to commit default. Hence, it is
+submitted that there is no obligation on the Applicant to tolerate the act of the default in payment of loan
+installments by the customer/ borrower.
+
+A15 Therefore, the activity of collecting penal/ bounce charges does not even fall under the ambit of the deemed
+supply under Clause (e), Entry 5 of Schedule Il of the CGST Act. Hence, the penal/ bounce charges collected
+for the default in payment of loan installment cannot be treated as consideration for any supply, and
+accordingly, is not taxable under the GST regime.
+
+B. Bounce Charges are in the nature of liquidated damages/penalt
+
+
+Bl It is further submitted that the penal charges collected by the Applicant by way Bounce Charges are merely
+in the nature of penalty /liquidated damages for default in loan repayments by the customers, which should
+not be subject to GST levy.
+
+B.2 Thus, liquidated damages/ penalty are merely for making good the loss suffered by a contracting party due
+to breach of terms of the contract by other contracting party. There is no additional benefit given under the
+main contract of supply of service, in return for the liquidated damages.
+
+B3 Attention in this regard is brought towards Section 73 of the Contract Act, which statutorily allows the
+Applicant to recover damages from the defaulting party in case of default or breach of terms of the contract
+by such party to the contract. Relevant portion of Section 73 of the said Act is extracted hereunder for ready
+reference:
+
+"Section 73. Compensation of loss or damage caused by breach of contract - When a contract has been broken, the party
+who suffers by such breach is entitled 10 receive, from the party who has broken the contract, compensation for any loss or damage
+caused to him thereby, which naturally arose in the usual course of things from such breach, or which the parties knew, when they
+made the contract, to be likely to result from the breach of it.
+
+... « Emphasis Supplied
+
+B4 In view of the above, it is submitted that the liquidated damages / penalty charged for breach of contract are
+legal consequences of the defaulting party, and therefore, the said amount shall not be treated as
+consideration for any activity. It is further submitted that the consideration for breach of contract, in the form
+of liquidated damages, cannot be treated as the consideration for the contract per se, hence, would not be
+taxable under the GST regime.
+
+BS It is submitted that even internationally, it is a settled position that the damages received by way of
+compensation for termination or breach of a contract cannot be treated as a supply and therefore not subject
+to GST/VAT levy.
+
+B.6 In this regard, reference is made to GSTR 2001/4, issued by the Australian Tax Office (ATO), explains the
+GST treatment of court orders and out-of-court settlements. In the said ruling at Para 73, it has been clarified
+that the damages are the most common form of remedy arising out of the termination or breach of contract.
+The damage, loss or injury, being the substance of the dispute, cannot in itself be characterized as a supply
+
+made by the aggrieved party. This is because the damage, loss or injury in itself does not constitute a supply
+
+under the provision of Australian GST.
+
+ference is further made to GSTR 2003/11, pertaining to payment on early termination of a lease of goods’.
+
+s been clarified therein that a payment received to compensate the lessor for damage or loss flowing from
+
+termination as a result of a default by the lessee is not consideration for a supply, even though the lessor
+
+s the lease to an end by exercising the right to terminate the lease. The Ruling further provides that in
+
+cases, there will be no taxable supply because a payment for genuine damages, which is not
+
+ideration for any earlier or current supply, cannot be said to be made in connection with any supply. The
+efor merely exercises his right to terminate and the payment is in the nature of damages for the lessee's
+<“Bteach of the lease which gave rise to the lessor's right to terminate. Thus, in the above Ruling issued under
+
+“_ Australian GST, it has been clarified that mere payment of an amount under a damages claim is nota ‘supply’
+
+SRS and hence, GST is not payable on such supplies.
+
+B8 Further, GST Determination No. 200516 has been issued to answer the question as to whether a club,
+association, trade union, society or co-operative (referred to as “association” in the Determination) makes a
+supply when it imposes a non-statutory line or penalty on a member for a breach of the association's
+membership rules. The said GSTD clarifies that there is no supply made by an association when it imposes a
+fine or penalty on its member for a breach of its membership rules, and the payment of the fine or penalty is
+therefore not a consideration for a supply and hence not leviable to GST. It has been clarified in the above
+GSTD that if the true nature of fine or penalty is a punishment and /or to act as a deterrent, it does not accord
+with that nature to suggest that there is a supply to the member in return for its payment.
+
+B.9 Further, in New Zealand case $65 (1996) 17 NZTC 7408, the Determination stated that an association, in
+accepting the payment of fine or penalty, does not enter into an obligation with the particular member to
+tolerate the misconduct, but rather is fulfilling its obligation to all members to enforce the rules. The member
+does not gain rights additional to those which are already enjoyed by virtue of being a member. That is, upon
+payment of the fine or penalty, the member continues to enjoy the same rights and privileges and it follows
+that the association is required to continue to provide the benefits of membership. In this sense, it cannot be
+said that the association 'makes a supply where it already has a pre-existing obligation to continue to provide
+the benefits of membership.
+
+B.10 In view of the above discussed rulings, the Applicant would like to submit that the very purpose of liquidated
+damages / penalty is to restitute or make good, the loss incurred by a person because of a default, non-
+compliance, etc. of the other person. Such liquidated damages/ penalty may be in relation to some other
+supply of service or goods which would have a separate consideration and would be subject to certain terms
+and conditions. When such terms and conditions are not fulfilled, the defaulting party is obligated to make
+good the loss by paying liquidated damages. Such liquidated damages/penalty cannot itself become
+consideration for continuing with the main supply of service/goods by terming the same as towards
+tolerating the acts of the defaulting party.
+
+B.11 It may be noted that there is a similar kind of taxability provisions or exactly same provisions under the above
+referred countries with respect to taxability of penal/ bounce charge and hence, the ratio laid down by the
+above judicial precedents should equally apply in the current fact scenario.
+
+4
+
+
+B.12 In view of the above, it is humbly submitted that the penal charges collected by the Applicant by way of
+Bounce Charges, are nothing but in the nature of liquidated damages/ penalty received from the borrowers
+for defaults/ breach committed by them by defaulting in loan repayments.
+
+B13 Hence, the Bounce Charges would not be treated as a consideration for any supply, and therefore, will be
+outside the levy of GST.
+
+ed The present issue is squarely covered by the Australian GSTD 2013/1
+
+Gi It is further submitted that the present issue is squarely covered by the Australian GSTD 2013/1 which holds
+that the payment of a 'failed payment fee' is not consideration for a supply. In para 5 of the said GSTD, it has
+been clarified that a 'failed payment’ means a dishonored cheque or a declined direct debit request, and the
+‘failed payment fee' means the fee charged by the supplier to the recipient in respect of the failed payment.
+The relevant facts and circumstances as stated in para 2 of the said GSTD are extracted herein below:
+
+2. This Determination applies where:
+
+* There is an attempt to make a payment for the underlying supply by way of the supplier presenting a cheque
+or the supplier attempting a direct debit on the recipient's bank account in accordance with the auhority it has
+from the recipient;
+
+© — the attempted payment is dishonoured or declined and the supplier's financial institution imposes an ‘inward
+dishonour fee' on the supplier:
+
+e the supplier and recipient have agreed or would be taken to have agreed that in utilising direct debit or cheque
+payment methods the recipient will have available funds to make the payment of the initial consideration
+amount for the underlying supply (we accept that this would be the case in the absence of contrary
+arrangements between the supplier und recipient);
+
+¢ the supplier and the recipient have agreed that if the payment fails the recipient will be liable to pay a fee (failed
+
+payment fee'). The obligation to pay the failed payment fee may be included in the agreement or contract for
+
+the underlying supply, or in the terms of the Direct Debit Authority for a direct debit, or because the supplier's
+ability to charge a failed payment fee is specified by statute;
+
+the failed payment fee arises because the recipient of the underlying supply has not fulfilled its obligation to
+
+ensure funds were available to honour a cheque, or meet a direct debit request,
+
+the recipient's failure to fulfil its payment obligations causes the supplier to incur additional costs, such as the
+
+inward dishonour fee charged by the supplier's financier, or to suffer other loss, such that the failed payment
+
+fee is characterised as compensatory for the additional costs or loss incurred, and
+
+there is nothing in the agreement between supplier and recipient that describes the failed payment fee as part
+
+of the consideration for anything supplied by the supplier.”
+
+h .... Emphasis Supplied
+
+/ itis gabmitted that the Bounce Charges collected by the Applicant in the present case is identical to the failed
+
+payment fee' referred to in the above GSTD, in as much as,
+
+there is an attempt to make a payment for the loan installment by way of the Applicant presenting
+
+a cheque or the Applicant attempting a direct debit on the borrower/customer's bank account in
+
+accordance with the ECS or NACH or any other electronic or clearing mandate obtained from the
+
+borrower/customer:
+
+e the borrower/customer has agreed that it will have funds available to make the payment of the loan
+installment;
+
+e the borrower/customer has agreed that if the payment fails, it will be liable to pay the bounce
+charges as per the terms of the loan agreement;
+
+e the liability to pay bounce charges arise because the borrower/customer has failed to fulfil its
+obligation to ensure that the funds were available to honour a cheque, or meet a direct debit request;
+
+e the borrower/customer's failure to fulfil its payment obligations causes the Applicant to incur
+additional costs, such that the bounce charges is characterised as compensation for the additional
+costs or loss incurred; and
+
+e there is nothing in the agreement between Applicant and the borrower/ customer that describes the
+bounce charges as part of the consideration for anything supplied by the Applicant.
+
+C3 In view of the above facts and circumstances, it is submitted that the GSTD 2013/1 holding that the failed
+payment fee is not a consideration for supply, shall be equally applicable to the bounce charges being
+collected by the Applicant in the present case.
+
+C4 It is therefore submitted that the Bounce Charges collected by the Applicant in the present case does not
+amount to consideration for any supply, in as much as it is merely compensatory in nature and does not have
+any connection with any supply of service. Hence, the bounce charges shall not be subjected to GST.
+
+D. Without prejudice to the above, penalty for delayed payment of consideration is to be included in the
+value of the supply in view of clause (d) of sub-section (2) of Section 15 of the CGST Act, therefore, the
+bounce charges levied for delayed payment of loan dues/EM1 is to be included in the value of loans, and
+
+would be treated at par with interest.
+DA Without prejudice to the above, it is submitted that in view of clause (d) of sub-section (2) of Section 15 of the
+
+CGST Act, penalty for delayed payment of consideration for a supply would be included in the value of that
+supply. The said provision is extracted herein below for reference:
+
+"(2) The value of supply shall include
+
+(d) interest or late fee or penalty for delayed payment of any consideration for any supply; and"
+
+
+
+D.2 In view of the above provision, the bounce charges levied for delayed payment of loan dues/EMI, being in
+the nature of penalty, is to be included in the value of loans, which is nothing but interest only. Therefore, the
+bounce charges so levied by the Applicant would be treated at par with interest, and any treatment given to
+the main consideration (i.e. interest) shall also be equally applicable to such amount (i.e. penalty). Hence, the
+bounce charges would be exempt from GST under Sr. No, 27 of Notification No. 12/2017-Central Tax (Rate)
+dated 28.06.2017, Sr. No. 27 of Maharashtra State Notification No. 12/2017-State Tax (Rate) dated 29.06.2017,
+and Sr. No, 28 of Notification No. 9/2017-Integrated Tax (Rate) dated 28.06.2017.
+
+Conclusion
+
+3.2. Based on the above provisions and discussions, the Applicant is convinced that the activity of collecting the
+Bounce Charges do not amount to supply of services under the GST Regime and therefore would not be
+taxable. In any case, the bounce charges being in the nature of penalty for delayed payment of consideration
+would be included in the value of supply of loans and therefore, would be treated at par with interest, hence,
+the same shall be exempt from GST.
+
+Additional submissions on 01.08.2018
+
+Synopsis of submissions made in AppIn. dt 09.05.2018 & during personal hearing held on 27.06.2018 & 18.07.2018.
+
+A. Bounce Charges are in the nature of liquidated damages or penalty for breach of contract, which does not
+amount to consideration for any contract, and therefore, there cannot be any supply of service.
+Al, The Applicant lends money to the customers/ borrowers with one of the conditions in the loan agreement
+
+that the customers/ borrowers shall make timely repayment of loan installments on the due dates as per the
+repayment schedule, through cheque/ Electronic Clearing System (‘ECS')/ National Automated Clearing
+House (“NACH)) or any other electronic or clearing mandate.
+
+A.2 However, in case of dishonour of cheque/ECS/ NACH or any other electronic or clearing mandate due to the
+customers' failure to maintain funds in his account for clearance of the EMI on the due date, the Applicant
+collects penal/bounce charges from the defaulting customers. The bounce charges are generally a fixed
+amount per default committed by the customer, for e.g. Rs.350/- for each dishonour of cheque/ECS (refer
+
+page no. 31,45 of the submissions made on 09.05.2018). These Bounce Charges are in the nature of liquidated
+
+damages or penalty for the default committed by the customers.
+
+js submitted that upon breach of contract, the aggrieved party is entitled to claim compensation for breach
+
+ntract. Such compensation is a legal and statutory right provided under Section 73 and 74 of the Indian
+
+ct Act, 1872, and even without any specific clause in the contract for the damages or compensation
+
+. upon the breach of contract, the party suffering such breach has the statutory right to claim damages
+
+° ensation from the party who has broken the contract.
+
+The pepvisions of Section 73 and 74 are extracted herein below for reference:
+
+: For ipensation for loss or damage caused by breach of contract. - When a contract has been broken, the party who
+
+siiffers by’sigsh breach is entitled to receive from the party who has broken the contract, compensation for any loss or damage caused
+
+¥ which naturally arose in the usual course of things from such breach, or which the parties knew, when they made
+
+Fach; to be likely to result from the breach of it.
+
+P74. Compensation for breach of contract where penalty stipulated for. - When a contract has been broken, if a sum is
+
+““Siamed in the contract as the amount to be paid in case of such breach, or if the coniract contains any other stipulation by way of
+
+penalty, the party complaining of the breach is entitled, whether or not actual damage or loss is proved to have been caused thereby,
+
+to receive from the party who has broken the contract reasonable compensation not exceeding the amount so named or, as the case
+may be, the penalty stipulated for.
+Explanation. - A stipulation for increased interest from the date of default may be a stipulation by way of penalty."
+aise Emphasis Supplied
+
+AS Both, Section 73 and 74, provide for reasonable compensation, but Section 74 contemplates that the maximum
+reasonable compensation may be the amount which may be named in the contract, but not more, even
+though, according to Sec. 73, the amount of compensation may exceed the sum named. In other words, Sec.
+74 is narrower in scope and limits the compensation to the extent provided for, or stipulated in the contract.
+
+A6 It is submitted that the damages in Section 74 may either be in the nature of liquidated damages or penalty.
+If the sum stipulated in the contract is a genuine pre-estimate of damages likely to flow from the breach, it is
+called liquidated damages. If it is not a genuine pre-estimate of the loss, but an amount intended to secure
+performance of the contract, it may be penalty. The question whether a particular stipulation in a contract, is
+in the nature of penalty has to be determined by the Court against the background of various relevant factors,
+such as the character of the transaction and its special nature.
+
+A7 In the present case, the Applicant lends money to the customers/ borrowers with one of the conditions in the
+loan agreement that the customers/ borrowers shall make timely repayment of loan installments on the due
+dates. Further, the borrower is under a contractual obligation to ensure that sufficient funds are available in
+his account on the due dates of the EMI. However, in case, the borrower fails to maintain funds in his account
+on the due date, the cheque/ ECS/NACH presented by the Applicant gets dishonoured, resulting into default
+in payment of loan installments. This is a clear case of breach of contract by the customer/borrower, and
+therefore, upon default in payment of the installments, the Applicant shall be entitled to receive damages in
+accordance with Section 73 and 74 of the Indian Contract Act, 1872.
+
+A8 The damages in the present case are liquidated in the loan agreement, wherein the parties agree in advance
+that upon dishonour of cheque/ECS/NACH, the customer/borrower shall be liable to pay a fixed amount
+to the Applicant as stipulated in the agreement. This amount is named in the agreement as Bounce/Penal
+charges. It is therefore submitted that such bounce/penal charges are clearly in the nature of liquidated
+
+6
+
+
+
+damages, in as much as they are pre-agreed amount of damages payable by the defaulting party on account
+of breach of the contract. However, the Court may hold such Bounce Charges to be penalty, in case the Court
+finds it as exorbitant or extravagant.
+
+Ad Therefore, in view of the above discussions, it is submitted that the Bounce Charges may either be treated as
+liquidated damages, or penalty, but in any case, the same shall be damages for breach of contract only.
+
+A.10 It is submitted that payment of liquidated damages or penalty is not a consideration for any service, and
+therefore, bounce charges collected by the Applicant, being in the nature of liquidated damages or penalty,
+cannot be treated as a consideration for supply of service, as they are merely damages for the breach of
+contract.
+
+All Itis further submitted that the stipulation for payment of damages upon breach of contract does not constitute
+a separate contract. It is only a part of the original contract. The payment of damages arises only on account
+of the primary contract, and it would be an incorrect interpretation to say that the payment is a consideration
+for any other contract. In the present case, there is only one contract between the Applicant and the borrower,
+which is the agreement for loan, for which consideration is payable by the borrower in the form of interest.
+The bounce charges are payable by the borrower, only upon the breach of such contract, and therefore, such
+payment does not constitute a second contract. Therefore, the payment of bounce charges by the borrower
+cannot be treated as a consideration either for the primary contract of loan, or for any other contract.
+
+A12 Hence, in the absence of any consideration, the bounce charges collected by Applicant in present case does
+not amount to a supply under Section 7 of the CGST Act, and therefore, the same shall not be leviable to GST.
+
+B. Bounce Charges collected by the Applicant for the breach of contract by the customer, is not covered under
+the ambit of Deemed Services under clause (c) of Entry 5 of Schedule II to the CGST Act.
+Bl It is further submitted that the bounce charges shall not be covered by clause (e) of Entry 5 of Schedule II to
+
+the CGST Act, which reads as “agreeing to the obligation to refrain from an act, or to tolerate an act or a situation,
+or to do an act. It is submitted that the expression “agreeing to the obligation” is a prefix to all the three entries,
+viz. 'to refrain from an act’, ‘to tolerate an act or a situation', and ‘to do anact'. Therefore, the correct interpretation
+of the law would be to read the above said clause as under:
+- agreeing to the obligation to refrain from an act,
+- agreeing to the obligation to tolerate an act or a situation,
+- agreeing to the obligation to do an act
+re, to attract the above said clause, there must be an agreement to the obligation in respect of any of
+e entries. In absence of any such agreement, there cannot be a service. For a valid agreement, there
+a consideration between the promisor and the promisee. However, as submitted above, the bounce
+rpedilevied by the Applicant in the present case are merely damages for the breach of contract of loan, and
+* onsideration for any contract per se, and therefore, in the absence of any consideration, there can be
+ment to tolerate.
+r, the above said clause uses the word ‘obligation’, therefore, it is important to understand the meaning
+e said term to give correct interpretation to the entry. The said term has not been defined in the Finance
+_*1Xct, 1994, or the Rules made thereunder, therefore, reference is being made to the meaning given to itin other
+Statutes, and its dictionary meaning, as under:
+© Section 2(a) of the Specific Relief Act, 1963:
+" Obligation” includes every duty enforceable by law.
+¢ Commentary on Section 2(a) of the Specific Relief Act, 1963, by Pollock & Mulla, at Pg. No. 1837 o,
+Volume II, 14th Edition, reads as under:
+"Clause (a): Obligation
+
+An obligation is a bond or tie, which constrains a person to do or suffer something; it implies a right
+
+in another person to which it is correlated, and it restricts the freedom of the obligee with reference to definite
+acts and forbearances; but in order to be enforceable, it must be an obligation recognised by law; and not merely a
+moral, social or religious one. An obligation may not be a legal one, where it cannot be reduced to a money value; legal
+obligation includes every duty enforceable by law so that when a legal duty is imposed on the person in
+respect to another, the other is invested with a corresponding legal right. This definition is used in its wider
+juristic sense as covering duties arising ex contractu or ex delicto, and may cover any other enforceable duty under any
+statute.’
+e Black's Law Dictionary:
+“Obligation, (n.)
+
+1. A legal or moral duty to do or not do something. The word has many wide and varied meanings. It
+may refer to anything that a person is bound to do or forbear from doing, whether the duty is imposed by law,
+
+contract, promise, social relations, courtesy, kindness, or morality.
+
+2. A formal, binding agreement or acknowledgement of a liability to pay a certain amount or to do
+a certain thing for a particular person or set of persons; esp., a dury arising by contract.
+
+3. Civil law. A legal relationship in which one person, the obligor, is bound to render a performance in favor
+of another, the obligee.”
+
+¢ Oxford Dictionary:
+“obligation n.
+an act or course of action to which a person is morally or legally bound. the condition of being so
+bound. 2. a debt of gratitude for a service or favour.’
+
+Emphasis Supplied
+
+
+Ba In view of the above, it is submitted that the word ‘obligation can be understood to be an act or course of
+action to which a person is morally or legally bound. It is a bond or tie, which constrains a person to do or
+suffer something and it implies a right in another person to which it is correlated. As defined in the Specific
+Relief Act, 1963, ‘obligation includes every duty enforceable by law, so that when a legal duty is imposed on
+the person in respect to another, the other is invested with a corresponding legal right. Therefore, an
+obligation comes into existence, only when there is a duty or a liability on the person making the obligation,
+with a corresponding right to the other person to enforce such obligation.
+
+B.5. However, in the present case, there is no obligation upon the Applicant to tolerate the act of non-payment or
+delayed payment by the borrower, in as much as, neither the Applicant has any duty or liability towards the
+borrower, nor the borrower has any right on the Applicant. The payment of bounce charges neither obligates
+the Applicant not to take any legal action against the borrower, nor the borrower gains any right to sue the
+Applicant for any legal action taken by the Applicant. On the contrary, the borrower is under the contractual
+obligation to make timely repayment of the loan to the Applicant, and upon the breach of such obligation,
+the Applicant is legally entitled to recover damages for such breach and also sue the borrower for such breach.
+
+B.6 It is further submitted that a sum which is payable in pursuance of a contractual obligation is different from
+
+a sum payable ona breach of contractual obligation. Therefore, the bounce charges payable by the borrower
+on breach of its contractual obligation cannot be treated as a payment for any obligation on the Applicant
+
+towards the borrower.
+
+B.7 In view of the above discussion, it is submitted that in the absence of an agreement by Applicant to any
+obligation to tolerate the act of non-payment or delayed payment of loan installments by the borrowers, the
+mere recovery of bounce charges for breach of the contract does not constitute a service by Applicant to the
+
+borrower.
+
+B8 Hence, in view of the above submissions, as bounce charges is not a consideration for any supply, no GST
+shall be levied on such bounce charges.
+
+Cc. Even internationally, the damages for breach of contract are not taxed.
+
+cA It is further submitted that internationally, the damages received by way of compensation for termination or
+
+breach of a contract are not treated as a supply and therefore not subjected to GST/ VAT levy.
+In Australian Law, the GST is levied on supply under 'A New Tax System (Goods and Services Tax) Act,
+999'. The term “supply’ is defined under Section 9(10) of the said Act. Clause (g) of sub-section (2) is pari
+
+“9-10 Meaning of Supply
+(1) A supply is any form of supply whatsoever.
+(2) Without limiting subsection (1), supply includes any of these:
+
+(g) an entry into, or release from, an obligation:
+(i) to do anything; or
+(ii) to refrain from an act; or
+
+rn (iii) to tolerate an act or situation.”
+
+C3x.. Be the above context, reference is made to GSTR 2001/4, issued by the Australian Tax Office (ATO), which
+
+~ explains the GST treatment of court orders and out-of-court settlements. In para 73 of the said ruling, it has
+
+been clarified that the damages are the most common form of remedy arising out of the termination or breach
+of contract. The damage, loss or injury, being the substance of the dispute, cannot in itself be characterized as
+a supply made by the aggrieved party. This is because the damage, loss or injury in itself does not constitute
+a supply under the provision of Australian GST.
+
+C4 It is pertinent to bear in mind that the definition of “supply” under the Australian GST legislation includes
+within its ambit "an obligation to tolerate an act". Thus, when the aforesaid GSTR namely GSTR 2001/4 states
+that payment of liquidated damages is not towards any supply, it is reasonable to conclude that the GSTR
+has also considered the clause "an obligation to tolerate an act”. In other words, the GSTR impliedly concludes
+that the acceptance of liquidated damages does not amount to tolerating an act and hence would not fall
+within the ambit of "supply" for the purposes of GST.
+
+CS: Further, in New Zealand case $65 (1996) 17 NZTC 7408, the Determination stated that an association, in
+accepting the payment of fine or penalty, does not enter into an obligation with the particular member to
+tolerate the misconduct but rather is fulfilling its obligation to all members to enforce the rules. The member
+does not gain rights additional to those which are already enjoyed by virtue of being a member. That is, upon
+payment of the fine or penalty, the member continues to enjoy the same rights and privileges and it follows
+that the association is required to continue to provide the benefits of membership. In this sense, it cannot be
+said that the association makes a supply where it already has a pre-existing obligation to continue to provide
+the benefits of membership.
+
+C.6 Further, ina decision of the Court of Appeal (U.K.) in case of M/s. Vehicle Control Services Limited reported
+at (2013) EWCA Civ 186, it has been observed that payment in the form of damages/ penalty for parking in
+wrong places/ wrong manner is not a consideration for service as the same arises out of breach of contract
+with the parking manager.
+
+Le In view of above discussed rulings, it is submitted that the very purpose of liquidated damages or penalty is
+to restitute or make good the loss incurred by a person because of a default, non-compliance, etc., by the other
+person. Such liquidated damages or penalty may be in relation to some other supply of service or goods
+which would have separate consideration & would be subject to certain terms & conditions. When such terms
+
+8
+
+
+and conditions are not fulfilled, the defaulting party is obligated to make good the loss by paying liquidated
+damages. Such liquidated damages or penalty cannot itself become consideration for continuing with the
+main supply of service/ goods by terming the same as towards tolerating the acts of the defaulting party.
+C8 Thus, liquidated damages or penalty are merely for making good the loss suffered by a contracting party due
+to breach of terms of the contract by other contracting party. There is no additional benefit given under the
+
+main contract of supply of service, in return for the liquidated damages.
+Ce Hence, in view of the above submissions, the bounce charges levied by the Applicant cannot be treated as a
+
+supply of service, and therefore, is not liable to GST.
+
+Dz. The present issue of Bounce Charges is squarely covered by the Australian GSTD 2013/1
+
+DA It is further submitted that the present issue of Bounce Charges is squarely covered by the Australian GSTD
+2013/1 which holds that the payment of a ‘failed payment fee' is not consideration for a supply. Para 5 of the said GSTD,
+defines the term ‘failed payment’ as a dishonored cheque or a declined direct debit request. Further, the term ‘failed
+payment fee' has been defined as the fee charged by the supplier to the recipient in respect of the failed payment. Para
+3 of the said GSTD states that in the circumstances described in para 2, which is reproduced herein below, the payment
+ofa “failed payment fee' does not amount to consideration for either a financial supply or another supply (for example,
+a supply of administrative services):
+
+“2. This Determination applies where:
+
+e = There is an attempt to make a payment for the underlying supply by way of the supplier presenting a cheque
+or the supplier attempting a direct debit on the recipient's bank account in accordance with the authority it
+has from the recipient;
+
+¢ — the attempted payment is dishonoured or declined and the supplier's financial institution imposes an ‘inward
+dishonour fee’ on the supplier;
+
+¢ the supplier and recipient have agreed or would be taken to have agreed that in utilising direct debit or cheque
+payment methods the recipient will have available funds to make the payment of the initial consideration
+amount for the underlying supply (we accept that this would be the case in the absence of contrary
+arrangements between the supplier and recipient);
+
+° the supplier and the recipient have agreed that if the payment fails the recipient will be liable to pay a fee
+(failed payment fee'). The obligation to pay the failed payment fee may be included in the agreement or
+contract for the underlying supply, or in the terms of the Direct Debit Authority for a direct debit, or because
+the supplier's ability to charge a failed payment fee is specified by statute; ,
+
+° — the failed payment fee arises because the recipient of the underlying supply has not fulfilled its obligation to
+ensure finds were available to honour a cheque, or meet a direct debit request;
+
+© the recipient's failure to fulfil its payment obligations causes the supplier to incur additional costs, such as the
+inward dishonour fee charged by the supplier's financier, or to suffer other loss, such that the failed payment
+fee is characterised as compensatory for the additional costs or loss incurred; and
+
+© there is nothing in the agreement between supplier and recipient that describes the failed payment fee as part
+of the consideration for anything supplied by the supplier."
+
+3 .. Emphasis Supplied
+een 2 Para 21 of the above said GSTD explains the reasoning based on which it is held that the payment of 'failed
+payment fee! does not amount to consideration for supply. The said para is extracted herein below for reference:
+“21. In the circumstances covered by this Determination, the failed payment fee does not have sufficient nexus to any supply. The
+following matters, in combination, are relevant to this conclusion:
+(a) The failed payment fee relates to losses suffered by the supplier when the recipient fails to meet its obligations to have funds
+available.
+(b)The failed payment fee is not an intended consequence of the underlying supply, but arises because the recipient failed to have
+sufficient funds available
+(c)There is nothing in addition to the underlying supply that the failed payment fee could be described as “for: even within the
+broader definition of ‘for consideration?".
+
+.... Emphasis Supplied
+D3 It is relevant to note that the above GSTD has been issued in the context of Australian GST law, wherein the
+ambit of ‘supply! is wide enough to cover an obligation to tolerate an act or situation, as submitted in para C.2 above.
+Even in such context, the GSTD holds that the payment of “failed payment fee' does not amount to consideration for
+supply. The GSTD emphasises on the point that there is no additional supply which is ‘for consideration; the 'failed
+payment fee! arises due to the failure of the borrower to meet his obligation. The “failed payment fee' is not for the
+service to the borrower, but is against the borrower for failing to meet his obligation. Hence, on this basis, the GSTD
+concludes that there is no supply arising on the payment of ‘failed payment fee’, and that such payment is not a
+consideration for any supply.
+D4 It is submitted that the Bounce Charges collected by the Applicant in the present case are identical to the
+“failed payment fee referred to in the above GSTD, in as much as,
+
+e there is an attempt to make a payment for the loan installment by way of the Applicant presenting a cheque, or
+the Applicant attempting a direct debit on the borrower/customer's bank account in accordance with the ECS or
+NACH or any other electronic or clearing mandate obtained from the borrower/customer;
+
+¢ the borrower/customer has agreed that it will have funds available to make the payment of the loan installment;
+° the borrower/customer has agreed that if the payment fails, it will be liable to pay the bounce charges as per the
+terms of the loan agreement;
+
+
+e the liability to pay bounce charges arise because the borrower/customer has failed to fulfill its obligation to
+
+ensure that the funds were available to honour a cheque, or meet a direct debit request;
+¢ the borrower/customer's failure to fulfil its payment obligations causes the Applicant to incur additional costs,
+
+such that the bounce charges is characterised as compensation for the additional costs or loss incurred; and
+
+° there is nothing in the agreement between the Applicant and the borrower/ customer that describes the bounce
+charges as part of the consideration for anything supplied by the Applicant.
+
+DS In view of the above facts and circumstances, it is submitted that the above GSTD 2013/1 shall be squarely
+
+applicable to the bounce charges in the present case. The Bounce Charges payable by the borrower is not for any service
+
+rendered to him, but is against the borrower for the failure to meet his contractual obligation. The bounce charges are
+
+merely damages for the breach of contractual obligations, and therefore, the same do not have any connection with
+
+provision of service. Hence, the payment of bounce charges does not amount to consideration for any service.
+
+D6 Hence, in absence of any consideration, the bounce charges collected/levied by the Applicant shall not be
+
+subjected to GST.
+
+E, Without prejudice to the above, Applicant being primarily engaged in the business of financing/lending,
+
+any amount recovered by the Applicant in respect of granting loans is in the nature of interest only.
+
+El Without prejudice to the above, the Applicant being primarily engaged in the business of financing/lending,
+any amount recovered by the Applicant in respect of granting loans is in the nature of interest only.
+E.2 Hence, the bounce charges collected by the Applicant in the present case for the delayed payment of loan
+
+installments by the customer is to be treated at par with interest, and accordingly, the same shall be exempt
+from GST under Serial No. 27 of the Notification No. 12/2017-Central Tax (Rate) dated 28.06.2017, read with
+Maharashtra State Notification No. 12/2017-State Tax (Rate) dated 29.06.2017.
+
+F. Without prejudice to the above, penalty for delayed payment of consideration is to be included in the
+value of the supply in view of clause (d) of sub-section (2) of Section 15 of the CGST Act.
+
+Fl Without prejudice to the above, it is submitted that in view of clause (d) of sub-section (2) of Section 15 of the
+CGST Act, penalty for delayed payment of consideration for a supply would be included in the value of that supply.
+othe said provision is extracted herein below for reference:
+vr “15, Value of taxable supply.
+(2) The value of supply shall include —
+(d) interest or late fee or penalty for delayed payment of any consideration for any supply;"
+.» «» Emphasis Supplied
+’ iew of the above provision, any interest or late fee or penalty charged/levied or collected for delayed
+) payment of any consideration for a supply, shall be includible in the value of the said supply.
+Pa FS eu ig elevant to note that the said provision does not have a restricted application to “taxable supply’; the said
+provision ig Applicable for determination of value of “any supply’, either taxable or exempt. Therefore, even if the main
+supplyis ekempt by way of any exemption notification, still, the provisions of Section 15(2) shall be applicable to
+__.. deterntine the value of such exempt supply. It would be incorrect to say that the provisions of Section 15(2) are not
+\appligable for exempt supplies, in as much as, the valuation of exempt supplies is equally important as that of taxable
+“2ufsrssistep/plies, as the quantum of reversal of input tax credit under Section 17(2) of the CGST Act is determined on the basis
+of the value of exempt supplies. Hence, the provisions of Section 15(2) are applicable to determine the value of exempt
+supplies as well.
+Fa In view of Section 15(2)(d) of the Act, the bounce charges levied for delayed payment of loan dues/EMI,
+being in the nature of penalty, is to be included in the value of loans, which is nothing but interest only. Therefore, the
+bounce charges so levied by the Applicant would be treated at par with interest, and any treatment given to the main
+consideration (i.e. interest) shall also be equally applicable to such amount (i.e. penalty). Hence, the bounce charges
+would be exempt from GST under Serial No. 27 of the Notification No. 12/2017 Central Tax (Rate) dated 28.06.2017,
+read with Maharashtra State Notification No. 12/2017-State Tax (Rate) dated 29.06.2017.
+G. It is submitted that the above submissions are in addition and without prejudice to the submissions made
+by the Applicant in its application dated 09.05.2018.
+
+03. CONTENTION - AS PER THE CONCERNED OFFICE
+
+Comments and submission regarding above referred application as follows.
+
+BRIEF HISTROY:
+
+M/S.BAJAJ FINANCE LIMITED is a Non-Banking Financial Company and inter alia engaged in providing various
+types of loan to the customers such as auto loans, loans against the property, personal loans, consumer durable goods
+loan etc. All these loans are interest bearing loans.
+
+The applicant inter alia enters into agreements with borrower/customers for providing loans to them. The loan
+agreements provide for repayment of the o are equated monthly instalments(*EMI) through ECS i. e. Electronic
+Clearing System/NACH i.e. National Automated Clearing House/Cheque/any other electronic or clearing mandate.
+In case of dishonour of Cheque/ECS/NACH or any other electronic or clearing mandate by the customers, the
+applicant collects penal/bounce charges which is in line with the agreed terms and conditions. The bounce charges
+are generally a fixed amount per default committed by the customer for e.g.Rs.350/- for each dishonour of
+cheque/ECS for the breach of the terms and conditjons of the loan.
+
+The amount of bounce charges collected from the customers are accounted by the Applicant in its core accounting
+platform i.e. SAP under General Ledger Code 60000150.
+
+Questions asked by the applicant for advance ruling
+
+Whether the Bounce Charges collected by the Applicant should be treated as a supply under the GST regime?
+
+10
+
+
+Submission and view of jurisdictional officer -
+
+Name of Dealer : M/s. Bajaj Finance Limited
+Registration No. of service tax : AABCB1518LST001
+Period of Registration : Date of issue of Original ST-2: 02/11/2001 TO 30/06/2017
+
+Registered address for service tax: 4th Floor, Unit 401 to 412,sr.no.208/1B,Bajaj House, Lohgaon,Pune-411014
+Classification of service
+
+Chapter / | Description of Service CGST SGST/U | IGST | Condition
+Section / Rate(%) TGST Rate
+
+Heading Rate (%) (%)
+
+Heading | Other services (washing, cleaning and dyeing 9 9 18 0
+9997 services; beauty and physical well-being services;
+
+and other miscellaneous services including services
+nowhere else classified).
+
+Section 7 Financial and related services; real estate services; and rental and leasing services.
+Heading 9971 ( Financial and | (vi) Financial and related services other than | 9 9 18
+related services) (i), (ii), (iii), (iv), and (v) above.
+
+3. Scope of Supply :
+
+Section 7 of the Central Goods and Services Tax Act 2017 (CGST 2017) defines scope of supply.
+
+As per Section 7(1) (d) the activities to be treated as a supply of good or supply of services as referred in the
+
+schedule 2.
+
+As per schedule 2 para 5 clause (e) "agreeing to the obligation to refrain from an act, or to tolerate an act or
+
+a situation, or todo an act"
+
+As per above provision Bounce Charges on Non-performance of a contract is an activity or transaction which
+
+». is treated as a supply of service and the Applicant is deemed to have received the consideration in the form
+
+_ Sef charges, liquidated Damages and is accordingly, required to pay tax on such amount.
+
+tions :- 31) “Consideration in relation to the supply of goods or services or both includes
+
+2 a) any payment made or to be made, whether in money or otherwise, in respect of, in response to,
+
+)-<K or for the inducement of the supply of goods or services or both, whether by the recipient or by any
+th if other person but shall not include any subsidy given by the Central Government or a State
+
+me Government;
+
+3) Value/of Supply:
+
+As per sub-section 1 of section 15 the value of a supply of goods or services or both shall be the
+transaction value, which is the price actually paid or payable for the said supply of goods or services or both where the
+supplier and the recipient of the supply are not related and the price is the sole consideration for the supply.
+As per sub-section 2 of section 15 The value of supply shall include-
+a) any taxes, duties, cesses fees and charges levied under any law for the time
+
+being in force other than this Act, the Central Goods and Services Tax Act and the Goods and Services Tax
+
+(Compensation to States) Act, if charged separately by the supplier;
+d) interest or late fee or penalty for delayed payment of any consideration for any supply
+
+As per above provision Bounce Charges on Non-performance of a contract is an activity or transaction
+
+which is treated as a supply of service and the Applicant is deemed to have received the consideration in the
+form of charges, liquidated Damages and is accordingly, required to pay tax on such amount.
+
+04. HEARING
+The Preliminary hearing in the matter was held on 27.06.2018, Sh. Sandeep Sachdeva, Advocate
+
+along with Sh. Chaitanya Bhatt, C.A. and Sh. Arpit Chaturvedi, Advocate appeared and made contentions
+for admission of application as per their ARA. Sh. Sandeep Sachdeva, Advocate specifically mentioned
+that the same issue is pending for adjudication at Commissioner, Pune under Service Tax. Jurisdictional
+Officer Sh. Vinit Thite, State Tax Officer (VAT-C-707) Pune appeared and made written submissions.
+The final hearing was held on 18.07.2018, Sh. Sandeep Sachdeva, Advocate along with Sh. Arpit
+Chaturvedi, Advocate and Sh. Ganesh Mandhane National Head Taxation appeared and made oral and
+written submissions. Jurisdictional Officer Sh. Vinit Thite, State Tax Officer (VAT-C-707) Pune appeared
+
+and stated that they have already made written submissions earlier.
+
+in
+
+
+05. OBSERVATIONS
+We have gone through the facts of the case, submissions made by the applicant and the documents
+
+on record.
+
+The Applicant, a non-banking financial company are providing various types of loan such as auto
+loans, loan against the property, personal loans, consumer durable goods loans, etc, to their customers and
+charge interest on such loans disbursed, for which they enter into agreements with borrower/customers.
+The agreements provide for repayment of the loan in the form of Equated Monthly Installments (EMI) vide
+cheque/Electronic Clearing System (ECS), etc. The installment of the loan is computed taking into
+consideration the amount of loan, duration of the loan and the amount of EMI that would be payable. The
+EMI paid by the customers is a fixed amount payable at a specified date, which includes both interest
+and the principal amount. In case of dishonour of cheque/ECS/ NACH or any other electronic or clearing
+mandate by the customers, the Applicant collects bounce charges, which is in line with the agreed terms
+and conditions of the agreement. The bounce charges are generally a fixed amount per default committed
+
+by the customer, for e.g. Rs.350/- for each dishonour of cheque/ECS.
+
+The Applicant is of the view that such bounce charges collected, are in the nature of penalty/
+liquidated damages and therefore, the same is not a consideration for supply of service and hence, not be
+
+subjected to GST levy.
+
+RU While submitting that the Applicant is of the view that penal interest collected from the customer
+Ces ature of additional interest, and therefore, the same is not subjected to GST levy, the applicant
+
+e ridiyced the relevant extract of clauses of a sample auto loan agreement in respect of penal interest
+
+which ; BI llows:
+
+“site! televant extract of clauses of a sample auto loan agreement in respect of bounce charges is
+
+So
+4 répfoduced below for ease of reference:
+
+r. "Bounce Charges" shall mean, dishonor of post-dated cheque/ ECS ADM/ entrusted by the borrower/co
+applicant/co borrower for clearance of EMI (monthly installments) or non-payment of installment on or before
+respective due date for other modes.
+I. TERMS OF THE LOAN:
+3, The Borrower agrees and confirms that:
+(iv) BFL is entitled to levy penalty as follows on default:
+(a) (a) Bounce Charges of up to Rs.350/- on each Bounce as per clause B of the schedule.”
+
+A perusal of the above extract reproduced by the applicant from a sample auto loan agreement and
+submitted by them in support of their argument that Bounce Charges, collected by them is in the nature of
+penalty, reveals that while drafting the agreement they themselves have defined ‘Bounce Charges” as
+charges for dishonor of post-dated cheques, etc. Such bounce charges are collected by them from their
+customers for the reason that the said customers have dishonored the cheques issued by them towards
+payments of EMI and the applicant has tolerated the said act of their customers of dishonouring of cheques,
+etc.
+
+It is therefore seen that the transaction is about the receipt by the applicant, of certain sums towards -
+12
+
+
+a. Compensation in the form of bounce charges for dishonor of EMI cheques by their customers.
+Section 9 of the GST Act says that there shall be levied a tax on supplies of goods or services or
+both. So we need to understand as to whether the aforesaid receipt of bounce charges would be for a supply
+made by the applicant. A ‘supply’ defined under Section 7 of the GST Act is as follows -
+“7. (1) For the purposes of this Act, the expression “supply” includes—-
+
+(a) all forms of supply of goods or services or both ............
+(b) import of services for a consideration whether or not in the course or furtherance of business;
+(c) the activities specified in Schedule I, made or agreed to be made without a consideration; and.
+(d) the activities to be treated as supply of goods or supply of services as referred to in Schd. II.
+
+(2) Notwithstanding anything contained in sub-section (1),--
+
+(a) activities or transactions specified in Schedule III; or
+(b) such activities or transactions undertaken by the Central Government.
+shall be treated neither as a supply of goods nor a supply of services.
+
+(3) Subject to the provisions of sub-sections (1) and (2), the Government may, on the recommendations of the Council,
+specify, by notification, the transactions that are to be treated as —
+
+(a) a supply of goods and not as a supply of services; or
+(b) a supply of services and not as a supply of goods.”
+
+SCHEDULE I [See section 7] ACTIVITIES TO BE TREATED AS SUPPLY EVEN IF MADE WITHOUT
+CONSIDERATION
+
+CHEDULE II [See section 7] ACTIVITIES TO BE TREATED AS SUPPLY OF GOODS OR SUPPLY OF
+SERVICES
+1. Transfer
+
+(a) any transfer of the title in goods is a supply of goods;
+(b) any transfer of right in goods or of undivided share in goods without the transfer of title thereof, is a supply of
+services;
+(c) any transfer of title in goods under an agreement which stipulates that property in goods shall pass at a future
+date upon payment of full consideration as agreed, is a supply of goods.
+
+Zanes
+
+ES cal eR RRO
+5. Supply of services
+
+The following shall be treated as supply of services, namely: —
+
+(a)..
+(b) ..
+[() ee
+(Das a:
+
+(e) agreeing to the obligation to refrain from an act, or to tolerate an act or a situation, or to do an act;
+and
+
+13
+
+
+eae From the above we find that under sub-section (1) of Section 7 states as ---
+
+e ‘Supply’ as per clause (a) is for supply of goods or services or both. It is for a consideration AND has
+to be in the course or furtherance of business.
+
+e ‘Supply’ as per clause (b) is for import of services. It is for a consideration AND may or may not be in
+the course or furtherance of business.
+
+e ‘Supply’ as per clause (c) are the activities specified in Schedule I appended to the GST Act. It is not
+for a consideration. And though it has not been specifically mentioned in the clause, if we look at
+Schedule I, as reproduced above, the ‘supply’ herein would be in the course or furtherance of business.
+
+e ‘Supply’ as per clause (d) is the enumeration or categorization as given in Sch. II appended to the
+GST Act as to which activities should be treated as supply of ‘goods’ & which activities to be treated
+as supply of ‘services’. The clause does not define ‘supply’ but classifies the supply into either
+‘supply of goods’ or ‘supply of services’. [Clause (e) of Sch. II defines “agreeing to the obligation to
+refrain from an act, or to tolerate an act or a situation, or to do an act” as a Supply of Services].
+
+Further, Sub-section (2) of section 7 states that --
+
+° certain, specified or notified activities shall be treated neither as a supply of goods nor a supply of
+
+services.
+
+The EMIs are to be paid within due dates.
+
+- Incase of dishonour of cheque/ECS/NACH or any other electronic or clearing mandate by the
+customers, in respect of the EMIs, the Applicant collects bounce charges, which is in line with the
+agreed terms and conditions. The bounce charges are generally a fixed amount per default
+committed by the customer, for e.g. Rs.350/- for each dishonour of cheque/ECS.
+
+- In the process the applicant has agreed to do an act (tolerating the dishonor of the mode of
+payment of EMIs of their customers) in lieu of such bounce charges being made to them as per the
+
+agreements.
+Thus, the applicant has agreed to do an act (the act of tolerating, of delayed payment of EMIs by
+
+their customers) which is very clear from the terms and conditions of Loan Agreements entered into by
+them with their clients which very clearly provide that in case of any such breach as notified in Agreement,
+the applicant would tolerate the same subject to receipt of consideration in the form of Bounce Charges in
+return and such act, by the applicant, squarely falls under clause 5(e) of the Schedule II mentioned above
+and therefore the amounts received by the applicant for having agreed to do such an act, would attract tax
+liability under GST laws.
+
+However the applicant has argued that the bounce charges shall not be covered by clause (e) of
+
+Entry 5 of Schedule II to the CGST Act, because according to the applicant, “agreeing to the obligation to
+
+14
+
+
+refrain from an act, or to tolerate an act or a situation, or to do an act. It is submitted that the expression “agreeing
+to the obligation” implies that there must be an agreement to the obligation in respect of any of the three
+entries. In absence of any such agreement, there cannot be a service.
+
+We observe herein that the receipt of above mentioned bounce charges would be receipt of
+amounts for tolerating the act of their customers for having bounced the cheque or any other mode of
+payment. In view thereof, the same would definitely be a ‘supply’ under the GST Act and therefore, there
+arises an occasion to levy tax under the GST Act on the impugned transactions.
+
+In their copy of agreement at page 19 of their submissions, with Punya Nath Mishra, in respect of
+an auto loan at point no.r of the said agreement it is mentioned that "Bounce Charges" shall mean, dishonor
+of post-dated cheque/ ECS ADM/entrusted by the borrower/co applicant/co borrower for clearance of EMI (1 monthly
+installments) or non-payment of installment on or before respective due date for other modes.
+
+We observe herein that the receipt of bounce charges on dishonor of cheques, etc, would be receipt
+of amounts for tolerating the act of their customers for having dishonored or where the client could not
+honour the said cheques and the same, would definitely be a ‘supply’ under the GST Act and therefore,
+there clearly arises an occasion to levy tax under the GST Act on the impugned transactions.
+
+Thus we find clearly from the above discussions and as per the terms and conditions of the
+
+agreement submitted by them, there is clearly an agreement that the applicant, in the case of bouncing of
+
+bv etc by their customer, the applicant would tolerate such act of default or a situation and the
+cet, party i.e their customer was required to compensate the applicant by way of payment of extra
+; amouh tsi ‘ih addition to principal and interest as per the terms and conditions of the Agreement. It is also
+,, very clas as to the amount or quantum which is consideration in the form of bounce charges to be received
+* by the applicant if these, are suitable compensation only for tolerating the act of default or situation of
+defaait by their customers and they have clearly foreseen that such situation can be there and have, in their
+“ageeément, clearly devised a suitable mechanism for receipt of charges for the same and it is not additional
+interest as claimed by the applicant.
+
+Thus we find that the consideration if any as received by the applicant would clearly qualify as
+‘supply’ as per Sr. No. 5(e) of Schedule II of the CGST Act which reads as under:-
+
+(5) Supply of Services : The following shall be treated as supply of services:-
+“(e) Agreeing to the obligation to refrain from an act or to tolerate an act or a situation or to do an act.
+
+In the present case, as per details presented before us, we clearly find that there is a clear
+understanding or agreement between the parties in the present case to foresee and tolerate an act or a
+situation of default on the part of the client for a monetary consideration which is actually a consideration
+received by the applicant, though in the agreement they may be giving this consideration, other names
+such as ‘penal charges’, penalty, Bounce Charges, etc, as thought proper by them, but these different
+nomenclatures in their Agreement would in no way change the actual nature of monetary “consideration”
+which would clearly be taxable for the supply of services as per Sr.No. 5(e) of Sch. II of the CGST Act, 2018.
+
+To summarise, the exemption for financial transactions under GST laws is only in respect of the
+interest/ discount earned or paid for loans, deposits or advances. If the transaction, as in the subject case
+
+deviates from the above, i.e. the consideration not being an interest or discount, the exemption is not
+
+1S
+
+
+available. In the subject case the amount of bounce charges cannot be said to be penalty imposed on by the
+applicant. It is recovered/imposed only because the client has dishonoured the cheques issued by them
+towards payment of EMI. Dishonour of cheques i.e. a mode of repayment to the applicant by their
+customers, is an act which results in delay of receipt of repayments to the applicant. This delay is an act
+done by their customers which is tolerated by the applicant because inspite of such dishonour the applicant
+proposes to continue the agreement with the defaulting party. Thus we find that the recovery of bounce
+charges is made in view of toleration of the act of the client by the applicant and therefore construes as
+‘supply’ as per as per Sr. No. 5(e) of Sch. II of the CGST Act and is therefore taxable under the GST Act.
+
+06. In view of the deliberations as held hereinabove, we pass an order as follows:
+
+ORDER
+( under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods and
+Services Tax Act, 2017)
+
+NO.GST-ARA- 21/2018-19/B- Ly Mumbai, dt. OG. QO. 20149
+For reasons as discussed in the body of the order, the questions are answered thus -
+
+Question 1.:- | Whether the Bounce Charges collected by the Applicant should be treated as a supply
+
+—es4-— — 3A —
+B. V. BORHADE PANKAJ KUMAR
+(MEMBER) (MEMBER)
+
+CERTIFIED TRUE COPY
+
+1. The applicant
+2. The concerned Central / State officer
+
+3. The Commissioner of State Tax, Maharashtra State, Mumbai ‘
+4. The Chief Commissioner of Central Tax, Churchgate, Mumbai. ORITY
+5. Jt. Commissioner of S.T., Mahavikas, Mumbai for website. RULING
+
+ADVANCE. RULING “MUMBAI
+
+Note :- An Appeal against this advance ruling order shall be made before thd WAT Ktra Appellate Authority for
+Advance Ruling for Goods and Services Tax, 15" floor, Air India building, Nariman Point, Mumbai - 400021
+
+16

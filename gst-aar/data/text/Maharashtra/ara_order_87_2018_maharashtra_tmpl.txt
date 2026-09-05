@@ -1,0 +1,427 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+(Constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri B. Timothy, Addl. Commissioner of Central Tax, (Member)
+(2) Shri B. V. Borhade, Joint Commissioner of State Tax,( Member)
+
+GSTIN Number, if any/ User-id 27AAFCT4241G1ZF
+
+Legal Name of Applicant THE MOBILE WALLET PVT LTD.
+
+Registered Address/ Address provided | 3rd floor, Tower-3,Equinox Business Park,
+
+while obtaining user id LBS Marg, Kurla (West), Mumbai-400070
+
+Details of application GST-ARA, Application No. 87 dt. 16.10.2018
+
+Concerned officer Sales Tax Officer (C-005), Nodal - 2, Mumbai
+
+A Category Service Provision
+
+B Description (in brief) The Applicant is in the business of issuance and operation
+
+of Pre-paid payment instruments as per RBI guidelines.
+Pre-paid Payment Instrument includes mobile wallet and
+Pre-paid Card
+
+Issue/s on which advance ruling (v) Determination of the liability to pay tax on any goods
+
+required or services or both
+
+Question(s) on which advance ruling is As reproduced in para 01 of the Proceedings below. |
+
+required |
+PROCEEDINGS
+
+(Under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+i. The present application has been filed under section 97 of the Central Goods and Services
+Tax Act, 2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as
+“the CGST Act and MGST Act”] by The Mobile Wallet Pvt. Ltd., the applicant, seeking an
+
+the portion of the Merchant Discount Rate received by the issuing Bank as ‘Interchange Fee’
+¢ under the Goods and Services Tax?
+
+nt practice prevails by the Network in the industry ?
+
+CES “pie i
+ec ee /EAETS AND CONTENTION - AS PER THE APPLICANT
+%, 1) Stateijent of relevant facts having a bearing on the questions raised -
+
+« Sty cathe Mobile Wallet Private Limited" (hereunder referred as Applicant) registered with the
+
+gl
+“Registrar of Companies Vide Registration No. U67190MH2015PTC267015, having a corporate
+office at 3rd Floor, Tower 3, Equinox Business Park, LBS Marg, Kurla (West), Mumbai - 400070.
+
+2) The applicant has obtained registration and holding valid registration certificate issued under
+Central Goods and Services Tax Act, 2017.
+
+3) The applicant is in the business of issuance and operation of Pre-paid Payment instruments as
+per RBI guidelines. Pre-paid Payment Instrument includes mobile wallet and Pre-paid Card.
+
+4) The applicant company has entered into an agreement dated 16th Jan 2018 with the Federal
+Bank Ltd having a registered Office at Federal Towers, Aluva-683101, Kerala. Applicant is
+issuing and operating Pre-paid Payment instruments as Business Correspondent (BC) of Federal
+
+
+Bank. As part of BC arrangement, Applicant has launched Co-branded Pre-paid Cards in India
+with Federal Bank powered by MasterCard.
+
+Definitions: 1) Merchant Discount Rate (MDR):- Rate charged by Acquiring Bank from Merchant
+on every Card transaction. This is as per agreement between Acquiring Bank and Merchant
+Establishment. GST is separately charged by Acquiring Bank from Merchant on MDR.
+
+2) Interchange Fee: - Standard Rate as decided by Network as per card type which is payable to
+issuing bank for each successful transaction. This is charged to acquiring bank.
+
+3) Network - Provides the payment infrastructure. Both issuing and acquiring banks are its
+Members. (VISA, MasterCard/ Rupay etc.) are referred to as Network.
+
+The nature of transaction arising out of the use of the Debit/Credit /Pre-Paid card is as follows.
+There are six persons involved in a Debit/Credit/ Pre-Paid card transaction, namely:
+
+1. Card holder: The person possessing and using the card.
+2. Issuing bank: The Bank issuing the card to its customer viz. the card holder
+
+3. Network: Provides the payment infrastructure and issuing/ acquiring banks are its members
+(VISA/MasterCard/Rupay etc.)
+
+4. Merchant Establishment: The vendor of goods or service who accepts the card in lieu of cash
+payment from the card holder:
+
+5. Acquiring bank: Provides payment processing services to Merchant Establishments by
+entering into a separate agreement with the merchant and placing a swipe machine at the
+merchant outlet or provide Payment Gateway services for online transactions.
+
+Business Correspondent (BC): The Applicant is issuing and operating Pre-paid Payment
+ents as Business Correspondent (BC) of Federal Bank. As part of BC arrangement,
+t has launched Co-branded Pre-paid Cards in India with Federal Bank powered by
+
+“===By Acquiring bank in case of card present transaction or by entering his / her card details in
+Payment Gateway (PG) provided by Acquiring Bank in case of Card not present transaction. The
+card holder need to validate the transaction by ATM PIN (in case of Card present) or by OTP on
+registered mobile in case of Card not present).
+
+In case of Card present transaction, card is swiped on electronic equipment known as Point of
+Sale' terminal at the Merchant Establishment for charging the card holder for purchase of goods
+or services. Such terminals are provided by the 'Acquiring Bank' to the Merchant Establishments
+which enables validation and acceptance of payment by Debit/Credit/Pre-Paid card.
+
+In case of Card not present transaction, card details are entered in online Payment Gateway (PG)
+of concerned the Merchant Establishment for charging the card holder for purchase of goods or
+services. Such PG services are provided by the 'Acquiring Bank' to the Merchant Establishments
+which enables validation and acceptance of payment by Debit/Credit/ Pre-Paid card.
+
+2. The moment card holder swipes the card or enter Card details in PG at Merchant Establishment
+with amount to be debited, information is transmitted to the Issuing Bank with the help of
+
+
+settlement platform of the Network. The information regarding authenticity of the card holder
+and amount confirmation is then sent back to the Merchant Establishment by the Network
+
+3. The VISA/MasterCard/Rupay/A MEX network generates reports for merchant settlement and
+sends the same to concerned Acquiring Bank who pays the merchant after deducting MDR and
+applicable GST on MDR.
+
+4. A settlement report is sent to the Issuing Bank for reimbursement to the Acquiring bank by the
+Network (VISA/ MasterCard /Rupay / AMEX)
+
+5.Out of MDR earned by the Acquiring bank in (3) above, Interchange fees is paid by Acquiring
+Bank to Issuing Bank as per settlement file received from concerned Network ie.
+VISA/MasterCard/Rupay/ AMEX.
+
+6) Issuing bank accounts for the transaction for recovery from the cardholder and sends the
+cardholder a monthly statement.
+
+Now in the above process:
+
+1) Issuing Bank, Acquiring Bank and the Network play their respective roles to ensure that a
+transaction is undertaken between the card holder and the Merchant Establishment. Five parties
+are directly involved in this transaction.
+
+2.Acquiring Bank makes payment to Merchant Establishment for the goods and services
+purchased by the cardholder after deducting a fee known as the 'Merchant Discount Fee' and
+applicable GST on Merchant Discount Fee. The quantum of Merchant Discount Fee is
+tractually pre-agreed between Acquiring Bank and Merchant Establishment. It is gross
+
+(Bank collects the payment for the purchase transaction from the card holder and makes
+ent to the Acquiring Bank after deducting part of the Merchant Service Fee charged by
+Bank in the form of Interchange Fee.
+
+286i the same under reverse charge mechanism.
+
+5. The Merchant Discount Fee which is the gross amount received by acquiring bank from a
+Merchant Establishment towards the support service is subjected to GST @18 % falling under the
+category of financial services.
+
+Let us elaborate with an Example:
+
+Transaction Amount: - Rs 10,000 online MDR payable by Merchant to Acquirer - 1.80% plus GST.
+Interchange Rate to issuing bank: - 1.60% on MASTER Pre-paid Card for online transaction
+Interchange Fee Sharing- 85%: 15% between Applicant TMW and Issuing Bank
+
+1. Merchant Settlement by Acquirer
+
+Particulars Rupees
+
+Amount 10000
+MDR Rate 1.80%
+MDR Amount 180.00
+GST (CGST) @9% 16.20
+GST (SGST) @9% 16.20
+
+Total Charge 212.40
+
+
+
+Net payable to Merchant 9787.60
+
+Acquiring bank to deposit GST (Rs 32.40) with Government after setting off inputs if any.
+2. Settlement to Acquiring bank by Issuing Bank as per settlement files received
+
+From Network
+
+Particulars Rupees
+Amount 10000
+Interchange rate 1.60%
+Interchange Amount 160.00
+Total Charge 160.00
+Net payable to acquiring bank 9840.00
+
+It is evident that issuing bank is not able to charge GST on interchange Fee amount ( as
+forward Charge ) hence Acquiring Bank is not able to take GST input credit due to lack of
+information in settlement files shared by Networks.
+
+Issuing Bank is again depositing GST on Interchange amount of Rs 160 and paying GST to
+Government by reverse charge method i.e. Rs 24.40 (160/118*18) and is left with Rs 135.60. This
+amount of Interchange Fee of Rs 135.60 is shared between Business Correspondent (BC) and the
+Issuing bank in the agreed ratio as in this case it is 85:15 (85% by BC and 15% by Issuing bank).
+The BC again pays GST on the income value of Rs 115.26 (85% of Rs 135.60) @18% raised in favor
+of Issuing bank.
+
+In this case Merchant Discount Rate amount (MDR) was collected from the merchant
+
+establishment by the Acquiring Bank (RS.180) and GST is paid on the full MDR of Rs 180 @ 18 %
+
+_ Acquiring Bank i.e. Rs 32.40. Now the share of Issuing Bank in the form interchange fee of Rs
+
+abit Rah). also taxed @ 18% thou it is a part of Rs 180 which had already suffered GST. Here the basic
+
+~anteep st of GST is violated as the seamless flow of credit is obstructed. Acquiring bank will not
+
+get \rty Yredit of the amount of GST paid by the Issuing bank, as the issuing bank is paying GST
+
+on R NR e Charge Mechanism (RCM). In this whole simple process of digital payment of MDR
+of R 180, Gov. collect tax as under at different levels.
+
+Pe Wi CGST SGST
+—~7{sXequiring bank to ME 16.20 16.20
+oe “fssuing bank to Acquiring bank 12.20 12.20
+BC to Issuing bank 10.37 10.37
+
+Total 38.77 38.77
+
+Different practice prevails by the Network in the industry
+
+Before making our submission we would also like to highlight the different practice followed by
+different network on their platforms. As discussed there are 3 main network prevailing in the
+field of this digital transactions. Master and Visa work differently than the Indian RUPAY
+platform. The data provided by the MASTER AND VISA is only about the interchange fee to the
+Acquiring and the Issuing bank and not anything about GST. Whereas RUPAY provide the
+interchange FEE along with GST.
+
+Taking our earlier example of Rs 10000 transaction, we can present the case as per Rupay and
+Master/Visa Network practice prevailing in the system.
+
+RUPAY CASE
+
+
+Rs 32.40 GST (18% of 180) is charged to the Merchant Establishment by the Acquiring bank.
+Issuing bank will charge GST of Rs 28.80 (18% of 160) to the Acquiring bank, so Acquiring bank
+can take a credit of 28.80 against his outward supply liability of Rs 32.40, resulting in net outflow
+of Rs 3.60
+
+MASTER/VISA CASE
+
+Rs. 32.40 GST (18% of 180) is charged to the Merchant Establishment by the Acquiring bank.
+Issuing bank will pay GST of Rs .24.40 in Reverse charge on Rs 160 and Acquiring bank will not
+be able to take a credit of Rs. 24.40 against his outward supply liability of Rs 32.40, resulting in
+outflow of Rs. 32.40.
+
+ANNEXURE-B
+
+3) [Statement containing the applicant's interpretation of law and/or facts, as the case may be,
+in respect of the aforesaid question(s) (i.e. applicant's view point and submissions on issues
+on which the advance ruling is sought)
+
+Submission:
+
+Section 2(30) of Central Goods and Services Act defines Composite supply as "Composite
+Supply" means a supply made by a taxable person to a recipient consisting of two or more taxable
+supplies of goods or services or both, or any combination thereof, which are naturally bundled
+and supplied in conjunction with each other in the ordinary course of business, one of which is
+a principal supply:
+
+A supply will be a as a composite supply if the sii elements are present:
+
+Dyer A
+, (d) They!
+~ "ordi
+
+ould be supplied in conjunction (event, time or contract) with each other in the
+urse of business;
+
+Yy of goods or services of a composite supply and to which any other supply is ancillary).
+The following aspects need to be noted:
+. The two or more) supplies must appear natural when bundled and presented to the recipient.
+
+* The ancillary supply becomes necessary only because of the acceptance of the predominant
+supply. Such predominance is neither guided by the predominant component in the total price
+of the supply nor guided by the predominant material involved. The test of predominance must
+be gathered from the 'predominant object' for which the recipient approached the supplier;
+
+. The method of billing, assignment of separate prices etc. may not be relevant. In other words,
+whether separate prices are charged for each of the components of supply or a single
+consolidated price charged, the identity of each of the components of supply must be
+unmistakably distinct in the arrangement.
+
+In the erstwhile service tax Era, it is a composite service and should not be broken into separate
+service. The role of the issuing bank in the service provided by the acquiring bank to the merchant
+establishment is part of a single composite service falling under clause (iii) of Section 65 (33a) and
+it cannot be broken up into its components and classified as separate service for classification.
+
+This is a well-accepted principle of classification. The relevant clause of Section 65 (33a) is
+5
+
+
+reproduced below: "(iii) by any person, including an issuing bank and an acquiring bank, to any other
+person in relation to settlement of any amount transacted through such card.
+
+Explanation. -- For the purposes of this sub-clause, “acquiring bank" means any banking company,
+financial institution including nonbanking financial company or any other person, who makes the payment
+to any person who accepts such card;"
+
+In fact there is one composite supply under GST, provided by the acquiring bank to the merchant
+establishment for which gross value of consideration is Merchant Discount Rate (MDR) which
+includes the interchange fee. Hence, the supply of Service of the issuing bank got subsumed into
+the supply of service of the acquiring bank to make it a composite supply to the merchant
+establishment. Merchant establishment does not have any contractual liability to pay inter
+change fee to the issuing bank.
+
+In the instant case, various supply of services from Merchant Establishment/ Acquiring
+bank/ Issuing bank/ network provided to the card holder is a single Composite Supply.
+
+These supply are not provided as independent activities but are the means for successful provision of the
+principal supply, namely, the swiping of the card for the purchase of goods or services. The contention that
+a single composite supply should not be broken into its components and classified as separate supply is a
+well-accepted principle. Therefore, it is a settled position of law that interchange fee earned by the issuing
+bank' forming integral part of supply of service of ‘acquiring bank' to the merchant establishment, and
+therefore should not be taxed again with 18% GST.
+
+In the present circumstances, the modus operadi goes against the basic principles of GST of seamless flow
+of credit and double taxation on the same transaction. In this instant case
+
+Acquiring bank is paying GST to Government which he is collected from merchant.
+
+Issuing bank calculating the GST by reverse charge method and paying the GST to Government.
+
+5 he preliminary hearing in the matter was held on 04.12.2018 and Sh. Majesh Toshniwal
+appear & and stated that he was the Manager (Finance) in the applicant company but did not
+
+in section 97(2) of GST Act and hence not maintainable under the Advance Ruling provisions.
+
+The Applicant has asked for one week time to submit fresh submissions and reframe the
+questions raised. The departmental officer Shri. S. Pardeshi STO was present .We heard both the
+sides.
+05. OBSERVATIONS
+
+We have perused the documents on record, facts of the case and the relevant provisions
+of Section 95, Section 97 and Section 98 of the GST Act. As per section 95, the term ‘advance
+ruling’ means a decision provided by this authority to the applicant on matters or questions
+
+specified in subsection 2 of Section 97, in relation to the supply of goods or services or both
+
+
+being undertaken or proposed to be undertaken by the applicant. For the sake of better
+understanding Section 97 is reproduced as below:
+Section 97:
+(1) an applicant desirous of obtaining an advance ruling under this Chapter may make an
+application in such form and manner and accompanied by such fee as may be prescribed, stating the
+question on which the advance ruling is sought.
+(2) The question on which the advance ruling is sought under this Act, shall be in respect of,--
+(a) classification of any goods or services or both;
+(b) applicability of a notification issued under the provisions of this Act;
+(c) determination of time and value of supply of goods or services or both;
+(d) admissibility of input tax credit of tax paid or deemed to have been paid;
+(e) determination of the liability to pay tax on any goods or services or both;
+(f) whether applicant is required to be registered;
+(g) whether any particular thing done by the applicant with respect to any goods or services or both,
+amounts to or results in a supply of goods or services or both, within the meaning of that term.
+Before we decide the question raised in this application it is essential to find out whether
+the applicant is the proper person to make this application and whether or not the activities
+
+undertaken by the applicant pertains to matters or questions specified in Section 97(2). Applicant
+
+fee is liable to tax under the Goods and Services Tax?
+
+a Question} Uh y different practice prevails by the Network in the industry?
+d
+
+from the statement of facts pertaining to first question Merchant Discount Rate
+
+aor fi side 4
+Cihewarden charged by Acquiring bank from Merchant on every card transaction. This MDR is as
+ea
+
+per agreement between Acquiring Bank and Merchant Establishment. From a perusal of
+transaction it is clear that applicant is neither a supplier nor a recipient and the questions raised
+is not in relation to the supply of goods or services or both, being undertaken or proposed to
+be undertaken by the applicant and as such by virtue of section 95 the applicant cannot make
+
+an application before this authority.
+
+With respect to question No. 2 above, we clearly find that the question is not on matters
+or questions specified in Section 97(2) of the Act and as such is inadmissible under section 97(2)
+
+of the Act.
+
+Hence in view of the above discussions we find that the present application seeking ruling
+
+on questions stated hereinabove is not maintainable and liable for rejection.
+
+
+06. In view of the extensive deliberations as held hereinabove, we pass an order as follows
+
+ORDER
+
+(Under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods and
+Services Tax Act, 2017)
+
+NO.GST-ARA- 87/2018-19 /B- 8 Mumbai, dt. )}G-).20!19
+
+The Application for advance ruling in Form GST ARA-O1 registered as ARA NO.
+
+= q— <4
+B. TIMOTHY B. V. BORHADE
+(MEMBER) (MEMBER)
+
+CERTIFIED TRUE COPY
+
+Copy to:-
+
+Copy to:-
+
+1. The applicant
+
+2. The concerned Central / State officer ge
+3. The Commissioner of State Tax, Maharashtra State, Mumbai Mw R
+
+4. The Jurisdictional Commissioner of Central Tax. Churchgate Mumbai ADVANCE RULING AUTHORITY
+5. Joint commissioner of State tax , Mahavikas for Website. MAHARASHTRA STATE, MUMBAI
+
+Note :- An Appeal against this advance ruling order shall be made before The Maharashtra Appellate
+Authority for Advance Ruling for Goods and Services Tax, 15" floor, Air India building, Nariman Point,
+Mumbai - 400021.

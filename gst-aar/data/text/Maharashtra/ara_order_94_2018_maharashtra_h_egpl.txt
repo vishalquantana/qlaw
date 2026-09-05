@@ -1,0 +1,943 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+GST Bhavan, 8th floor, H-Wing, Mazgaon, Mumbai - 400010.
+
+(Constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+BEFORE THE BENCH OF
+
+(1) Shri B. Timothy, Addl. Commissioner of Central Tax, (Member)
+(2) Shri B. V. Borhade, Joint Commissioner of State Tax,( Member)
+
+GSTIN Number, if any/ User-id 27AACCH4231P1ZD
+
+Legal Name of Applicant Western Concessions Private Limited (formerly
+known as H-Energy Gateway Private Limited)
+
+Registered Address/ Address | 12th Floor, Knowledge Park, Hiranandani
+
+provided while obtaining user id BusinessPark, Powai, Mumbai. 400076
+
+Details of application GST-ARA, Application No. 94 Dated 26.11.2018
+
+Concerned officer Division - III, Commissionerate Navi Mumbai
+
+Nature of activity(s) (proposed /
+present) in respect of which advance
+ruling sought
+
+A_| Category Service Provision
+B_ | Description (in brief) That applicant is engaged in regasification of
+Liquified Natural Gas and delivering the same to
+customers,
+Issue/s on which advance ruling | (iv) admissibility of input tax credit of tax paid or
+required deemed to have been paid
+Question(s) on which advance ruling | As reproduced in para 01 of the Proceedings below.
+is required
+PROCEEDINGS
+
+nder section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+ST Act”] by Western Concessions Private Limited (formerly known as H-Energy
+
+rivate Limited), the applicant, seeking an advance ruling in respect of the following
+
+Sra s™
+
+=== Whether the applicants are eligible to avail ITC of GST paid on goods and services used for
+construction of Tie-in pipeline, for delivery of re-gasified LNG from FSRU to the National Grid.
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and the
+
+MGST Act are the same except for certain provisions. Therefore. unless a mention is specifically made to
+any dissimilar provisions, a reference to the CGST Act would also mean a reference to the same
+provision under the MGST Act. Further to the earlier, henceforth for the purposes of this Advance
+Ruling, the expression ‘GST Act’ would mean CGST Act and MGST Act.
+
+02. FACTS AND CONTENTION — AS PER THE APPLICANT
+The submissions, as reproduced verbatim, could be seen thus-
+
+
+
+STATEMENT OF RELEVANT FACTS HAVING A BEARING ON THE QUESTION(S) ON
+
+WHICH ADVANCE RULING IS REQUIRED.
+
+L; M/s. Western Concessions Private Limited (formerly known as H-Energy Gateway Private
+Limited (hereinafter referred to as “the applicant”) having its corporate head office at 12th Floor,
+Knowledge Park, Hiranandani Business Park, Powai, Mumbai, is, inter-alia, engaged in
+regasification of Liquified Natural Gas and delivering the same to customers.
+
+2. The applicant has obtained registration and holding valid registration certificate issued under
+Central Goods and Services Tax Act, 2017 ("CGST Act").
+
+3 The applicant is setting up a Liquified Natural Gas (LNG) re-gasification project at Jaigarh port in
+the state of Maharashtra (hereinafter referred to as "LNG Terminal").
+
+4. The LNG Terminal consists of a Floating Storage Regasification Unit (“FSRU') with 4 MMTPA
+
+regasification capacity moored to jetty and has associated facilities like gas unloading arm, gas
+pipeline for delivering natural gas from the FSRU to the National Grid.
+
+5. The re-gasified LNG is required to be inducted into the cross-country pipeline/national Grid in
+order to be supplied to the ultimate customer.
+6. Therefore, the applicant is constructing a gas pipeline for delivering the high pressure natural
+gas from the FSRU to the National Grid.
+hs The Development of the project consists of two legs as mentioned below:
+i. Setting up of infrastructure facility, i.e., jetty, onshore receiving facility close to the
+jetty, etc. for enabling FSRU to regasify the LNG; and
+ii. Connecting the Terminal with the cross-country gas pipeline to enable supply of re
+gasified natural gas to customer (referred to as the “Tie in Pipeline").
+8. The re-gasified LNG is of no use unless the applicant is able to supply the gas to its customers.
+
+Given the nature of the commodity, i.e., high pressure natural gas, pipeline is the only
+echnically viable and safe method of supply
+The Tie-in pipeline is, therefore, not constructed to provide gas transportation service to the
+a syomers, but it connects the gas terminal to cross-country pipeline to enable further
+disjfibution of gas to the customers.
+he Tie-in pipeline would be laid under the ground and the length of the pipeline would be
+
+Jproximately 60 KMs.
+‘ection 16 of the CGST Act deals with the eligibility of taking input tax credit (‘ITC’) and the
+conditions to be fulfilled by the registered person. Section 16(1), inter alia, states that a
+registered person shall be entitled to take ITC on goods and services used or intended to be used
+in the course or furtherance of his business. Section 16(1) is reproduced hereunder for ready
+reference:
+"16. (1) Every registered person shall, subject to such conditions and restrictions as may be
+prescribed and in the manner specified in section 49, be entitled to take credit of input tax
+charged on any supply of goods or services or both to him which are used or intended to be
+used in the course or furtherance of his business and the said amount shall be credited to the
+electronic credit ledger of such person."
+
+..emphasis supplied
+
+12. Further, Section 17(5) of the CGST Act provides that in certain cases, input tax credit will not be
+available even if the goods or services are used in the course or furtherance of business. The
+relevant portion of section 17(5) is extracted as under:
+"(5) Notwithstanding anything contained in sub-section (1) of section 16 and subsection (1) of
+section 18, input tax credit shall not be available in respect of the following, namely; -
+(c) works contract services when supplied for construction of an immovable property (other than
+plant and machinery) except where it is an input service for further supply of works contract
+service; (d) goods or services or both received by a taxable person for construction of an
+
+
+immovable property (other than plant or machinery) on his own account including when such
+goods or services or both are used in the course or furtherance of business.
+
+Explanation.- For the purposes of this Chapter and Chapter VI, the expression "plant _and
+machinery" means apparatus, equipment, and machinery fixed to earth by foundation or
+structural support that are used for making outward supply of goods or services or both and
+
+includes such foundation and structural supports but excludes —
+i. land, building or any other civil structures;
+
+ii. telecommunication towers; and
+
+iii. pipelines laid outside the factory premises."
+... emphasis supplied
+
+13. Thus, the restriction on availment of ITC under Section 17(5)(c) and 17(5)(d) is not applicable
+in case where the goods or services are used for construction of Plant and Machinery. However,
+as per the explanation to Section 17, Plant and Machinery does not includes a pipeline laid
+outside the factory premises. As a consequence, the ITC of goods and services used for
+construction of a pipeline laid down outside the factory would not be available in terms of
+Section 17(5)(c) and 17(5)(d).
+
+14, | The applicant's key activity is regasification of LNG, which inter alia includes delivery in a
+form and manner which is consumable, usable and saleable. Hence, the provision of the gas to
+the nearest practical delivery point i.e. national grid, is an integral and essential part of the
+economic activity being carried out by the applicant.
+
+lS. Therefore, the Tie-in pipeline connecting the LNG terminal to the National Grid, which is
+RONANCE RU ome in nature, forms Plant and Machinery. Further, the re-gasification activity would be
+Ne! lertaken by the applicants at the FSRU, which is not a factory per se.
+a>_16. é. TH , the disallowance of ITC under section 17(5)(c) and 17(5)(d) would not be attracted in case
+%. : 'je-in pipelines constructed by the applicants.
+r the aforesaid peculiar circumstances, we request you to expedite the resolution of the matter
+nd and issue a ruling regarding the availability of ITC of GST paid on goods and services
+
+AS THE CASE MAY BE, IN RESPECT OF OUESTION(S) ON WHICH ADVANCE RULING IS
+REOUIRED.
+
+APPLICANT'S INTERPRETATION
+
+Cc, Applicants understanding
+
+Cl Section 16 of the CGST Act deals with the eligibility of taking ITC and the conditions to be
+fulfilled by the registered person. Section 16(1) inter alia states that a registered person shall be
+entitled to take ITC on goods and services used or intended to be used in the course or
+furtherance of his business.
+
+Cz Section 17(5) of the CGST Act provides that in certain cases, input tax credit will not be
+available even if the goods or services are used in the course or furtherance of business.
+
+3 Clause (c) of section 17(5) restricts availability of ITC in respect of works contract service used
+for construction of immovable property, except in case where it is an input service for further
+supply of works contract service. Clause (d) of Section 17(5) bars ITC in respect of goods or
+service used for construction of immovable property on assessee's own account,
+
+C4 However, the above restriction on availment of input tax credit will not apply if the immovable
+property constructed is plant and machinery. The term “plant and machinery” is defined in the
+explanation to section 17 as apparatus, equipment, and machinery fixed to earth by foundation or
+structural support that are used for making outward supply but, inter alia, excludes pipelines laid
+outside the factory premises.
+
+
+C.5 In the present case, the applicant is constructing a Tie-in pipeline to deliver the re-gasified LNG to
+the cross-country pipeline/National Grid for further transportation to the customers. The said
+pipeline will be laid under the ground and the length of the pipeline would be approximately 60
+KMs.
+
+C.6 Since, the pipeline in the present case is embedded in the earth, it would qualify as an immovable
+property and thus the construction of said pipeline amounts to a Works contract under Section
+2(119) of the CGST Act. However, the applicant is of the understanding that the tie-in pipeline
+qualifies to be a "plant and machinery" as per explanation to section 17 of the CGST Act, and
+hence the restriction under Section 17(5)(c) and 17(5)(d) would not be attracted in respect of
+construction of the said pipeline.
+
+C.7_ The applicants submit that following two conditions have to be fulfilled for the Tie-in pipeline to
+be regarded as plant and machinery in terms of explanation to Section 17 of CGST Act:
+
++ The pipeline should be an apparatus, equipment or machinery used for making outward supply;
+and
++ It should not be covered by the exclusion clause "pipeline laid outside the factory".
+
+The Tie-Pipeline is an apparatus, equipment or machinery used for making outward supply.
+
+D.1 The terms ‘apparatus’, equipment’ and 'machinery' are not defined under the CGST Act. It is
+
+settled position of law that in absence of definition in the statute, the words used in the statute
+
+should be understood in their natural and ordinary sense. Accordingly, let us understand the
+meaning of the terms as understood in common parlance:
+
+P Ramanatha Aiyar's Advanced Law Lexicon:
+
+'Apparatus' is a compound instrument designed to carry out a specific function or for a
+
+particular use.
+
+Apparatus’ means something which is inclusive of some other appliance.
+
+paratus' are the implements used in an operation or activity.
+‘Equipment is an act of equipping or fitting, or the state of being equipped; to supply with
+
+‘wha ever is necessary to efficient action in the way.
+
+icipment! is a thing which is used for a particular purpose.
+
+ster Co: m prehensive Dictionary
+
+"Apparatus' - An integrated assembly of tools, appliances, instrument, etc. operating to achieve
+
+a specified result.
+
+'Equipment' - Whatever constitute an outfit for special purpose
+
+‘Machine! - Any combination of mechanics for utilizing, modifying, applying, or transmitting
+
+energy, whether simple, as a lever and fulcrum, pulley, etc. or complex, as a Fourdrinier
+
+papermaking apparatus.
+
+Black's Law Dictionary
+
+‘Equipment - The articles or implements used for a specific purpose or activity.
+'Machine' - A devise or apparatus consisting of fixed or moving parts that works together to
+perform some function. - Also termed apparatus.
+
+D.2 Therefore, any instrument which is understood to be an apparatus, equipment or machine in
+common parlance and is permanently fixed to the earth by foundation and structural support
+which is used for making outward supply will be treated as “plant and machinery".
+
+D3 The term equipment is defined in the dictionaries as a thing which is used for particular or
+special purpose. In the present case, the Tie-in pipeline is used for delivery of natural gas from
+the terminal to the cross-country pipeline. Thus, the pipeline is used for the specific purpose of
+delivery. Further, as stated above, the delivery of gas up to the cross-country pipeline is an
+integral and essential part of the services provided by the applicant.
+
+D.4__ Thus, the Tie-in pipeline is used for making outward supply of re-gasification services by the
+
+applicant. Accordingly, the Tie-in pipeline will be treated as "plant and machinery".
+
+
+The exclusion clause in the Explanation to Section 17 i.e. “Pipelines laid outside the factory
+
+premises" is not applicable in present case.
+
+El Clause (iii) of the explanation to section 17 excludes ‘pipelines laid outside the factory premises’
+from the definition of "plant and machinery". Thus, ITC would be available only in respect of the
+pipelines which are laid inside a factory premises.
+
+E.2 The applicants understanding is that, the exclusion clause ‘pipelines laid outside the factory
+premises’ does not mean that what is covered within the definition of plant and machinery is only
+‘pipelines laid inside the factory premises’. The applicants submit that the above clause
+presupposes that there should be a factory premises, and in order to be excluded from the
+definition of plant and machinery, the pipeline should be laid outside such factory premises.
+
+E3 Therefore, the applicants submit that the, pipelines laid outside some premises, which are not
+factory premises, will also be covered within the definition of the term “plant and machinery".
+
+E.4 The applicants submit that the FSRU is not a factory premises and hence the Tie in pipeline laid
+outside FSRU will not be covered by the exclusion clause in the definition of "plant and
+machinery" given under Explanation to Section 17 of the CGST Act.
+
+E.5 The term “factory” is not defined under the CGST Act. In absence of the definition of the term
+"factory" under the CGST Act, it is pertinent to understand the meaning of "factory" in common
+parlance:
+
+Webster's Comprehensive Dictionary
+"Factory" - An establishment devoted to the manufacture of something, including the building or
+buildings and machinery necessary to such manufacture; a manufactory.
+
+ford Dictionary
+ctory" - Building or range of building with plant for manufacture of goods.
+
+with roof and walls constructed over a plot of land.
+
+The Hon'ble Kerela High Court in the case of V. Kalpakam Amma y. Muthurama Iyer
+Muthurkrishna, AIR 1995 Ker 99, observed the meaning of the term "building” in its ordinary
+and natural sense as under:
+
+“The first question to be decided is what is a building? The ordinary or natural meaning to be
+assigned to the word ‘building’ is given in P. Ramanatha Aiyar's Law Lexicon (Reprint Edition
+1987) at page 159, thus:
+
+"A thing composed of the fabric of the building and the ground that the fabric rests upon and
+encloses".
+
+It is further stated by the author that "the land upon which the walls of a stone or brick
+building rest, or, indeed, of any other kind of building which in law is considered as annexed
+to_the soil, and which is not clearly severed therefrom by the terms of the deed itself, must be
+
+considered as part of the building itself.
+In Stroud's Judicial Dictionary (Vol. I. Sth Edn.), the word ‘building is defined thus: "What is a
+
+building must always be a question of degree and circumstances". In Black's Law Dictionary
+(Sth Edn.), the meaning of the word building is given as follows: "A structure or edifice
+enclosing a space within its walls, and usually, but not necessarily, covered with a roof. In
+Bourvier's Law Dictionary (A Concise Encyclopedia of the Law Vol. 1.3rd Revision) the
+meaning of building is given as "an edifice, erected by art, and fixed upon or over the soil,
+composed of brick, marble, wood, or other proper substance, connected together, and
+designed for use in the position in which it is so fixed."
+
+... emphasis supplied.
+
+
+E.8 Thus, in common parlance, a building is always understood as a structure over a land. Existence
+of land is an integral aspect for a structure to be regarded as a building. A floating structure in
+the water will not be regarded as a building by any ordinary and reasonable man. Accordingly,
+in the ordinary sense, the “factory" will mean a structure over a plot of land with plant for
+manufacture of goods.
+
+E9 In the present case, the applicant has a regasification unit (FSRU) which is a floating structure in
+water. Therefore, the applicants submit that the FSRU cannot be treated as a factory premises for
+the purpose of exclusion clause in the explanation to section 17. Accordingly, the Tie-in pipeline
+will not amount to a ‘pipeline laid outside factory premises’.
+
+E.10 Hence, such tie-in pipeline will qualify as "plant and machinery” and the applicant will be
+eligible to avail input tax credit on the goods or services used in the construction of tie-in
+
+pipeline.
+Additional submissions
+\ The undisputed facts of the present case are:
+is The applicant is importing a Floating Storage and Regasification unit ("FSRU") which
+would be moored to jetty at Jaigarh port in the state of Maharashtra.
+ii. The vessel has 4 MMTPA regasification capacity and associated facilities like gas
+unloading arm.
+iii. In order to induct the high pressure natural gas into the cross-country pipeline/ national
+
+Grid, the applicant is constructing a pipeline from the jetty where FSRU would be
+moored to the National Grid.
+
+The Tie-in pipeline would be laid under the ground and the length of the pipeline would
+be approximately 60 KMs.
+
+The Depticant is } Seeking Advance Ruling on the availability of Input Tax Credit (“ITC") of
+
+already made in Annexure-B. of the application made in FORM ARA-O1,
+SUBMISSIONS
+
+The exclusion clause of Explanation to Section 17(5) of the Central Goods and Services Tax Act,
+
+2017 presupposes that there should be a factory premises, and in order to be excluded from the
+
+definition of plant and machinery, the pipeline should be laid outside such factory premises. The
+
+wordings used in the Explan be read as it is and it cannot imply anything which is not expressly
+stated.
+
+A.l Section 17(5) of the Central Goods and Services Tax Act, 2017 ("CGST Act"), inter alia,
+restricts the availability of ITC of GST paid on goods and services used for construction of
+immovable property. The relevant portion of the Section 17(5) is extracted as under
+(5) Notwithstanding anything contained in sub-section (1) of section 16 and subsection (1) of
+section 18, input tax credit shall not be available in respect of the following, namely:
+
+(c) works contract services when supplied for construction of an immovable property (other than
+
+plant and machinery) except where it is an input service for further supply of works contract
+
+service;
+
+(d) goods or services or both received by a taxable person for construction of an iminovable
+
+property (other than plant or machinery) on his own account including when such goods or
+services or both are used in the course or furtherance of business:
+
+Explanation.- For the purposes of this Chapter and Chapter VI, the expression "plant and
+
+machinery" means apparatus, equipment, and machinery fixed to earth by foundation or
+
+structural support that are used for making outward supply of goods or services or both and
+includes suchi foundation and structural supports but excludes --
+
+i. land, building or any other civil structures;
+
+
+ii, telecommunication towers; and
+iii. pipelines laid outside the factory premises."
+... emphasis supplied
+
+A.2 Thus, Clause (c) and (d) Section 17(5) of the CGST Act provides that ITC on Works contract
+service and other goods and services used in construction of immovable property will not be
+available. The said restriction on availment of ITC under section 17(5)(c) and 17(5)(d) is not
+applicable in case where the goods or services are used for construction of Plant and Machinery.
+Further, as per the explanation to Section 17(5), "Plant and Machinery’ does not includes a
+pipeline laid outside the factory premises.
+
+A3 The applicants further submit that the one of the principle objectives of implementation of the
+CGST Act was to allow seamless flow of Tax-credit to an assessee at each level of value
+addition and to avoid to blockage of the credit chain. Hence, the Rule of strict construction of
+statue would apply with great force to the GST legislation, especially to a provision which
+restricts the availability of ITC in the hands of the supplier.
+
+A4 The applicant submit that it is a settled law that a taxing statute has to be strictly construed and
+no additional meaning shall be given to the plain wordings used by the legislation. Reliance is
+placed on the decision of Supreme Court in case of Sales Tax Commissioner v. Modi Sugar
+Mills reported at AIR 1961 SC 1047 wherein the Supreme court observed as under -
+
+"In interpreting a taxing statute, equitable considerations are entirely out of place. Nor can
+
+taxing statutes be interpreted’ on any presumptions or assumptions’. The court must look
+
+squarely at the words of the statute and interpret them. It must interpret a taxing statute in the
+
+light of what is clearly expressed it Cannot imply anything which is not expressed it cannot
+import provisions in the statutes so as to supply any assumed deficiency."
+
+ASN KA. imilar view was given in the decision of Supreme Court in case of A.V. Fernandez v. State of
+
+* ‘K&rala reported at AIR 1957 SC 657. The relevant portion of the said judgment is extracted as
+under -
+
+vi ft is no doubt true that in construing fiscal statutes and in determining the liability of a
+
+/ subject to tax one must have regard to the strict letter of the law and not merely to the spirit of
+
+“© thle statute or the substance of the law. If the Revenue satisfies the Court that the case falls
+
+Zs strictly within the provisions of the law, the subject can be taxed. If, on the other hand, the case
+
+is not covered within the four corners of the provisions of the taxing statute, no tax can be
+
+imposed by inference or by analogy or by trying to probe into the intentions of the legislature
+and by considering what was the substance of the matter..."
+
+A. Thus, the applicants submit that the exclusion clause ‘pipelines laid outside the factory
+premises" has to be strictly interpreted. The aforesaid exclusion clause presupposes that there
+should be a factory premises, and in order to be excluded from the definition of plant and
+machinery, the pipeline should be laid outside such factory premises.
+
+A.7 The contrapositive of pipelines laid outside factory premises’ is not that only pipelines laid
+inside a factory would be covered under "plant and machinery’ and eligible for availing ITC. The
+exclusion provided to pipelines laid outside factory’ only means that if there is a factory
+premises, then the pipelines laid outside such factory premises would not be a ‘plant and
+machinery’. In case, where there is no factory premise, the exclusion clause (iii) of Explanation
+to Section 17(5) would not come into play, and in that case the pipeline would be covered under
+plant and machinery’.
+
+A8 The words 'factory' or 'premises' is not defined under the CSGT Act. Therefore, it is pertinent to
+refer to some dictionary meaning of the term 'factory' and 'premises' which are extracted as
+under
+Dictionary of the term "Factory"
+
+(i) Oxford Encyclopedic Dictionary (The new Oxford Illustrated Dictionary)
+
+Building or range of buildings with plant for manufacture of goods.
+
+
+
+(ii) Collins internet-linked dictionary of Business - Third edition
+A business premise used by a firm in the production of goods.
+(iii) | The New International Webster's Comprehensive Dictionary of the English
+Language
+An establishment devoted to the manufacture of something, including the building or
+buildings and machinery necessary to such manufacture;. a manufactory.
+(iv) Cambridge International Dictionary of English
+A building or set of building where large amounts of goods are made using machines.
+Dictionary meaning of "Premises"
+
+(i) Illustrated Oxford Dictionary
+2. (in pl.) a House, building, with grounds and appurtenances,
+
+(ii) The New _ International Webster's Comprehensive Dictionary of the English
+Language
+4, pl. A distinct portion of real estate; land or lands; land with its appurtenances, as
+buildings:
+
+(iii) The Chambers Dictionary
+(in pl) the aforesaid (property; law); hence, a building and its adjuncts, esp. a public
+house or place of business;
+
+(iv) Black's Law Dictionary, V Edition
+
+Premises.
+
+In estate and property. Land and tenements; an estate, including land and buildings
+
+thereon; the subject-matter of the conveyance. F.F. Proctor Troy Properties Co. v.
+
+Dugan Store, 191 App.Div.685, 181 NYS 786. The area of land surrounding a house,
+
+and actually or by legal construction forming one inclosure witli it. A distinct and
+
+definite locality and may mean a room, especially building or other definite area, or a
+
+distinct portion of real estate. Land and its appurtenances.
+
+Cambridge International Dictionary of English
+
+(in pl) the land and building owned by someone, esp. by a company or organization.
+
+The American Heritage Dictionary of English Language, III Edition
+
+4. premises. a. Land and the building on it. b. A building or a part of building on it.
+
+Wharton's Law Lexicon, 1976 Reprint Ed
+
+premises’ is often used as meaning ‘land or houses’.
+
+Cochran's Law Lexicon, IV Edition
+
+'Premises' means ‘houses or lands’.
+
+(ix) Earl Jowitt, Dictionary of English Law
+Premises...from this use of the word, 'premises' has gradually acquired popular sense of
+land or buildings. Originally, it was only used in this sense by laymen, and it was never
+so used in well-drawn instruments, but it is now frequently found in instruments and in
+Acts of Parliament as meaning land or houses, e.g., the Public Health Act, 1875. Sec. 4,
+where ‘premises’ includes measures, buildings, lands, easements, tenements and
+
+hereditaments, of any tenure...
+
+(x) Ballentine, J.A., Law Dictionary with Pronunciation, II Edition
+‘Premises' - as applied to land, Webster's New International Dictionary defines the
+word as follows: The property conveyed in a deed; hence, in general, a piece of land or
+real estate; sometimes, especially in fire insurance papers, a building or buildings on
+land; the premises insured.
+
+ASI On perusal of the aforesaid dictionary meanings, a Factory would mean any building or other
+place where goods are manufactured with machines. Further, the perusal of the dictionary
+meaning of the term "premises” shows that premises means land, house or building and any land
+surrounding such house or building.
+
+
+A.10 Therefore, a conjoint reading of the term "factory" and "premises" makes it abundantly clear that
+the phrase "factory premises used in clause (iii) of explanation to Section 17(5) can only mean a
+factory building located on land. The said phrase has to be strictly interpreted by giving it the
+general meaning and cannot be stretched to cover FSRU, which is a vessel capable of navigating
+in oceanic waters.
+
+The tie-in pipeline being created by the applicant indeed qualifies as a plant and | machinery’
+
+B.1 As Explanation to Section 17(5) of the CGST Act “plant and machinery" means any-
+° apparatus,
+e equipment, and
+e machinery
+which is fixed to earth by foundation or structural support and is used for making outward
+supply
+B.2 The terms apparatus’, equipment’ and ‘machinery’ are not defined under the CGST Act. It is
+settled position of law that in absence of definition in the statute, the words used in the statute
+should be understood in their natural and ordinary meaning. The dictionary meaning of the
+aforesaid terms are as under:
+P Ramariatin Aiyar's Advanced Law Lexicon:
+‘Apparatus is a compound instrument designed to carry out a specific function or for a
+particular use.
+'Apparatus' means something which is inclusive of some other appliance.
+'Apparatus' are the implements used in an operation or activity.
+‘Equipment is an act of equipping or fitting, or the state of being equipped; to supply with
+2 tever is necessary to efficient action in the way
+Eq ipment" is a thing which is used for a particular purpose.
+Webster Conmprehensive Dictionary
+‘Apparatus’ - A complex devise or machine for a particular purpose: an x-ray apparatus.
+‘Apparatus’ - An integrated assembly of tools, appliances, instrument, etc. operating to achieve
+
+Machine" - Any combination of mechanics for utilizing, modifying, applying, or transmitting
+energy, whether simple, as a lever and fulcrum, pulley, etc. or complex, as a Fourdrinier
+papermaking apparatus.
+Black's Law Dictionary
+"Equipment - The articles or implements used for a specific purpose or activity.
+Machine! - A devise or apparatus consisting of fixed or moving parts that works together to
+perform some function. - Also termed apparatus.
+B.3 The applicants submit that the tie-line pipeline being constructed by the applicant is not merely a
+passive structure, but a machinery for transportation of gas from the FSRU to the national grid.
+B4 In order to understand the nature of the Tie-pipeline line being constructed by the applicant, it is
+pertinent to understand the various components, equipment and devices forming part of the
+pipeline.
+i. Pipes - These comprises of the hollow pipes laid underground from the Jaigarh Terminal
+to the National grid.
+ii. High pressure Un-loading Arm - The high pressure unloading arm installed at the
+Jaigarh terminal is a special equipment for unloading the high pressure Gas from FSRU
+into the Tie-in Pipeline.
+iii. Isolation valves, Check valves-Check valves are installed to ensure that the flow of Gas
+
+is unidirectional. Isolation Valves are installed on the pipeline for controlling flow (to
+restrict the flow or allow the flow).
+
+
+iv. Metering System at Jaigarh Jetty - The metering system is installed to measure the
+quantity of gas supplied. This system is installed at the Jaigarh Terminal i.e. the starting
+point of pipeline and at Dabhol Terminal i.e. the end point of pipeline before it is
+connected to National Grid.
+
+a Pressure Regulating System - This system is installed at Dabhol Terminal to control
+the pressure at which such gas is supplied
+
+vi. Gas Chromatograph - Chromatograph is a special equipment fitted near the metering
+device which helps in determination of the composition of the natural gas re-gasifed
+from the FSRU.
+
+vii. Pig Launcher/Pig Scrapper - This equipment are used for cleaning the debris from inside
+the pipeline. These equipment also facilitate to monitor the inside condition of pipeline.
+These are located at the starting point and end point of the pipeline.
+
+Viii. Bends, fittings and Flanges - The bends and flanges are used to connect two ends of
+the pipeline where there is turn or curve in the directions of the pipeline.
+
+ix. SV Station - There are 3 SV stations over the entire pipeline network isolating each
+section of pipeline for identification purposes as well as in case of any emergencies like
+leakage in pipeline etc.
+
+x; SCADA Monitoring system - This system is installed for supervision and control of
+pipeline remotely and for data / parameters acquisition remotely.
+
+xi. Power Generation Systems (Diesel Generators & Solar Panels) -These are installed at
+
+Terminals and SV Stations for generation of secondary power or back up power.
+
+Filtering- This equipment is located at the start point and end point of the pipeline for
+
+filtration of Gas thereby separating any debris or solid contamination.
+
+Gas Detention/ Leak Detection system - The Gas and leak detection systems are used to
+
+identify whether any leak has occurred in any part of the pipeline network.
+
+OFC cables - These are laid down alongside the pipeline for collection and transfer of
+
+data relating to the tie-in pipeline.
+
+Gauges & Transmitters - These instruments are installed in pipeline for measuring and
+
+transmitting parameters like pressure and temperature of gas.
+
+Cathodic Protection System - This system is installed in pipeline for controlling the
+
+corrosion of pipeline.
+
+B.S The aforesaid equipment and machineries allow the applicant to induct, control, manage and
+monitor the flow of gas in the tie-in pipeline and such equipment together comprise the tie-in
+pipeline, which acts a machinery for transportation of gas to national grid.
+
+B.6 Thus, the applicants submit that the tie-in pipeline qualifies as "plant and machinery’ as defined
+under Explanation to Section 17(5) of the CGST Act.
+
+B.7 An exclusion clause of a definition can only exclude something which is already covered by the
+main body of the provision. Hence, the fact that pipelines laid outside factory premises' is
+excluded from the definition of "plant and machinery" itself means that such ‘pipelines laid
+outside factory premises" would be otherwise covered under ‘apparatus’, ‘equipment’, or
+‘machinery’ and hence qualify as 'plant and machinery’ under explanation to Section 17(5).
+
+The Factories Act, 1948 is not applicable in the present case. The definition of factory given under
+
+The Factories Act, 1948 would not be applicable in the present case.
+
+esa | Section 2(m) of The Factories Act, 1948 which defines the term ‘factory’ reads as under
+"2. (m) "factory" means any premises including the precincts thereof -
+
+(i) whereon ten or more workers are working, or were working on any day of the
+preceding twelve months, and in any part of which a manufacturing process is being
+carried on with the aid of power, or is ordinarily so carried on, or
+
+10
+
+
+(ii) Whereon twenty or more workers are working, or were working on any day of the
+preceding twelve months, and in any part of which a manufacturing process is being
+carried on without the aid of power, or is. ordinarily so carried on;
+but does not include a mine subject to the operation of the Mines Act, 1952 (35 of 1952)] or a
+mobile unit belonging to the armed forces of the Union, a railway running shed or a hotel,
+restaurant or eating place."
+
+G2 The applicants state that the definition of the term "factory" given under the Factories Act, 1948
+cannot be applied for ascertaining the meaning of the term 'factory premises’ used in clause (iii)
+of explanation to Section 17(5) of the CGST Act,
+
+C3 The applicants submit that to interpret a word used in a statute by using the definition of said
+word in other statutes, when they are not dealing with the same subject, is bad interpretation. In
+this regard, the Hon'ble Supreme Court in the case of M/S: Msco. Pvt. Ltd vs Union Of India,
+1985 AIR 76, held as under:
+
+"But while construing a word which occurs in a statute or a statutory instrument in the absence
+of any definition in that very document it must be given the same meaning which it receives in
+ordinary parlance or understood in the sense in which people conversant with the subject matter
+of the statute or statutory instrument understand it_It_is hazardous to interpret a word in
+accordance with its definition in another statute or statutory instrument and more so when
+such statute or statutory instrument is not dealing with any cognate subject."
+... emphasis supplied
+C4 Thus, in view of the aforesaid judgment, it is incorrect to adopt the meaning of ‘factory’ given in
+aaa, the Factories Act 1948 to interpret the term "factory premises" used in Explanation to Section
+Ance RULiy-S17(5) of the CGST Act.
+Cay OF her, even Section 2(m) of the Factories Act, 1948 defined ‘factory’ as any "premises” where
+e? 2 mahufacturing activity is undertaken. As already stated in the submissions made in the preceding
+* paragraphs, ‘premises’ can only mean either land or buildings comprising a factory. Hence, even
+ifthe definition given in Factories Act, 1948 is relied upon, the FSRU which is vessel would not
+
+J qualify as a factory.
+
+CONTENTION — AS PER THE CONCERNED OFFICER
+
+The jurisdictional office has not made any written submissions in the matter.
+
+04. © HEARING
+The Preliminary Hearing in the matter was held on 19.12.2018, Sh. Ms. Nupoor Agarwal,
+Advocate, Sh. Kunal Nikumbh, C.A. and Kunal Hora, Sr. Manager Taxation, appeared and requested for
+admission of application as per contentions made in their application. Jurisdictional Officer Sh. B. S.
+Mangat J. C. Division —III], Navi Mumbai Commissionerate appeared but made no written submissions.
+The application was admitted and called for final hearing on 20.02.2019. Sh. V. Shridharan Sr.
+Advocate appeared made oral and written submissions. Jurisdictional Officer Sh. B. S. Mangat J. C.
+
+Division —III, Navi Mumbai Commissionerate appeared.
+05. OBSERVATIONS
+
+We have gone through the facts of the case, documents on record and submissions made by
+
+both, the applicant as well as the jurisdictional office.
+
+i
+
+
+The applicant has undertaken the development of a project of re-gasification of LNG and
+supplying the same to the National Grid, by way of pipelines, in order to reach the ultimate consumer.
+Hence for the process of re-gasification, the applicant is importing a Floating Storage and Regasification
+unit ("FSRU"), which would be moored to jetty at Jaigarh port in the state of Maharashtra. The
+Development of the project consists of (i) Setting up of infrastructure facility, i.e., jetty, onshore
+receiving facility close to the jetty, etc. for enabling FSRU to re-gasify the LNG; and (ii) Connecting the
+Terminal with the cross-country gas pipeline to enable supply of re gasified natural gas to customer
+(referred to as the “Tie in Pipeline"). The project also has associated facilities like gas unloading arm,
+gas pipeline for delivering natural gas from the FSRU to the National Grid. They have submitted that the
+pipeline will not provide gas transportation service to the customers, but will connect the gas terminal to
+cross-country pipeline to enable further distribution of gas to the customers.
+
+The applicant’s main concern is whether they are eligible to avail ITC of GST paid on goods and
+services used for the construction of the pipelines. In this context the questions raised and to be answered
+are (i) whether FRSU is a ‘factory’ ; (ii) whether the pipeline flowing from the FRSU can be treated as
+‘pipeline outside the factory’ and (iii) whether the pipeline can be considered as an ‘apparatus’ to be
+included in the expression “plant and machinery”. The answers to these questions will decide whether
+
+they are eligible to avail ITC of GST.
+=u. The eligibility for taking input tax credit (‘ITC’) is dealt in the Sections 16 and 17 of the CGST
+
+er. to he used in the course or furtherance of his business and Section 17(5) of the CGST Act
+( * provides thatiin certain cases, input tax credit will not be available even if the goods or services are used
+
+H
+* ‘ in the course-or furtherance of business. The relevant portion of Section 17(5) is extracted as under:
+
+Yes "OV Non
+
+"5147 ‘ : P ; ;
+Sle 6, + tax credit shall not be available in respect of the following, namely:
+(c) works contract services when supplied for construction of an immovable property (other than plant
+
+tw thstanding anything contained in sub-section (1) of section 16 and subsection (1) of section
+
+and machinery) except where it is an input service for further supply of works contract service; (d)
+
+goods or services or both received by a taxable person for construction of an immovable property (other
+than plant or machinery) on his own account including when such goods or services or both are used in
+the course or furtherance of business.
+
+Explanation.- For the purposes of this Chapter and Chapter VI, the expression "plant and machinery"
+
+means apparatus, equipment, and machinery fixed to earth by foundation or structural support that
+
+are used for making outward supply of goods or services or both and _ includes such foundation and
+
+structural supports but excludes —
+
+i. land, building or any other civil structures;
+ii. telecommunication towers; and
+
+iii, pipelines laid outside the factory premises."
+It is very clear from clause no. (iii) of the Explanation that credit is not available in respect of
+
+pipelines laid outside the factory premises. However, the applicant contended that, the pipelines that will
+12
+
+
+be constructed should not be seen as “pipelines outside the factory”, since the FSRU cannot be
+considered as a factory. To support their contention that the FSRU is not a factory, the applicant stating
+that the term "factory” is not defined under the CGST Act, has relied on dictionary meanings and
+brought out that it is essential to have ‘building’ for anything to be called a factory and since there is no
+‘building’ in place there, the FRSU cannot be called a factory. Citing the decision of the Hon'ble Kerala
+High Court in the case of V. Kalpakam Amma v. Muthurama lyer Muthurkrishna, AIR 1995 Ker 99,
+which has dealt with the term ‘building’, and the definition of the word ‘building’ as given in in Stroud's
+Judicial Dictionary (Vol. I. 5th Edn.) the applicant has contended that a floating structure in the water,
+like their FSRU, will not be regarded as a building and therefore cannot be considered as a factory since
+a “factory” means a structure over a plot of land with plant for manufacture of goods. Therefore the
+pipeline will not amount to a ‘pipeline laid outside factory premises’
+
+The applicant also argued, without any strong reasoning, that the definition contained in
+Factories Act, 1948 should not be relied upon but only the dictionary meanings should be taken into
+consideration to define the term ‘factory’. We do not agree with this contention of the applicant. When
+there is no definition of factory available in the GST Act, a definition given in some other Act passed by
+the legislature can always be relied upon. Accordingly we are of the considered view that Section 2(m)
+
+of The Factories Act, 1948 which defines the term 'factory' should be considered which is reproduced as
+
+20% ten or more workers are working, or were working on any day of the preceding twelve
+eS months, an in any part of which a manufacturing process is being carried on with the aid of power, or
+is ordinarily so carried on, or
+fii) Whereon twenty or more workers are working, or were working on any day of the preceding twelve
+a ~ months, ‘and in any part of which a manufacturing process is being carried on without the aid of power,
+Sr wee 2 finarily so carried on;
+#7 does not include a mine subject to the operation of the Mines Act, 1952 (35 of 1952)] or a mobile
+unit belonging to the armed forces of the Union, a railway running shed or a hotel, restaurant or eating
+place."
+
+It is clear from the above definition that a factory means any premises having workers who are
+involved in a manufacturing process. In the subject case the FSRU is a place where there are workers
+who are working and the process that takes place there, is one of conversion of LNG to gaseous form.
+Times and businesses are evolving regularly. Law evolves accordingly.
+
+In case of Porritts and Spencer (Asia) Ltd Vs. State of Haryana SC reported as 1979AIR 300
+wherein court was dealing with the product out of new technology/ Invention etc. The Hon SC held as
+below: The concept of ‘textiles’ is not a static concept. It has, having regard to newly developing
+materials, methods techniques and processes, a continually expanding content and new kinds of fabric
+
+may be invented which may legitimately, without doing any violence to the language be regarded as
+
+textiles.
+
+13
+
+
+Applying the ratio of this decision to the facts of the case we find that the re-gasification of LNG
+used to take place on land earlier and even at present in many places. Now, to avoid costs of
+transportation of gas through pipelines over long distances under the sea, the gas is liquefied and
+transported in ships on the seas and when it reaches the destination port, the LNG is re-gasified on the
+ship itself and transported through pipelines to the users on the land. The production or manufacturing
+process may not be taking place on land but it is taking place on the ship (FSRU) and the same has to be
+considered as a factory/unit in the subject case, as the process leads to production of natural gas which is
+then distributed by the grid for ultimate use of the consumer. We therefore find that the pipeline is
+situated outside the manufacturing premises.
+
+Therefore the applicant’s conclusion that there should be a ‘building’ to consider something as
+factory is not at all convincing because it is the production / manufacture of something that makes a
+factory and not the building. A building will not be called a factory if there is no production or
+manufacture of something. Merriam Webster defines factory as under:
+
+"Factory" - An establishment devoted to the manufacture of something, including the building or
+
+buildings and machinery necessary to such man ufacture; a manufactory.
+
+As per the above definition quoted by the applicant himself, it is an establishment devoted to
+manufacture of something. Here ‘production /manufacture’ of something by an establishment is the
+
+critical aspect of a factory not just the building.
+
+It is relevant to mention here that there are some dictionaries which define ‘factory ship’ which
+
+elow:
+‘
+
+The freedictionary.com : "An ocean vessel equipped to process fish or other marine food”
+
+Merriam-webster dictionary: “a ship equipped to process a whale or fish catch at sea”
+
+dictionary meanings.
+
+The second contention of the applicant is that the pipeline would be otherwise covered under
+‘apparatus’, ‘equipment’, or ‘machinery’ since it is fitted with Valves, metering system, pressure
+regulating system, bends, fittings, flanges, gas leak detection system, gauges, transmitters etc. and hence
+qualify as 'plant and machinery' under explanation to Section 17(5). We are also not in favour of this
+contention because every pipeline is fitted with these equipments and the pipeline in question is no
+exception. To call it an ‘apparatus’, ‘equipment’, or 'machinery' would be a distortion of the meaning when
+the applicant himself has described it as a ‘pipeline’. When a specific description is available, it is not
+justified to bring a ‘pipeline’ within the meaning of ‘an ‘apparatus’, ‘equipment’, or ‘machinery’ by
+
+quoting convenient dictionary meanings just in order to claim ITC.
+
+The applicant also contends that the pipeline should be considered as the one which is ‘not
+
+outside the factory ’in as much as FRSU is not a factory. But as explained in the foregoing discussion we
+
+find that FRSU is a factory, and hence the pipeline laid for transporting re-gasified LNG from FRSU
+
+squarely falls within the meaning of a ‘pipeline outside the factory’.
+14
+
+
+To argue further, a pipeline cannot exist in vacuum without a factory. The expression “pipelines
+outside the factory” signifies that the pipeline is to transport some product from the factory to the end
+user. In the instant case the LNG, re-gasified in the ship, is transported through the pipeline which is
+outside the factory ship. Hence, we are of the view that the said pipeline is a “pipeline outside the
+
+factory”.
+Having found that the FRSU is a ‘factory’ and that the pipeline to be laid is ‘outside the factory’
+
+and that the said pipeline does not qualify to be an ‘equipment, apparatus or machinery’ for the purpose
+
+of claiming ITC, the restriction on availment of ITC under Section 17(5)(c) and 17(5)(d) is applicable in
+
+the present case.
+05. In view of the extensive deliberations as held hereinabove, we pass an order as follows :
+
+ORDER
+
+(Under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods
+and Services Tax Act, 2017)
+
+NO.GST-ARA- 94/72018-19/B- 9 5 Mumbai, dt. 55 9/50 19
+
+For reasons as discussed in the body of the order, the questions are answered thus —
+
+Question: - Whether the applicants are eligible to avail ITC of GST paid on goods and services used for
+construction of Tie-in pipeline, for delivery of re-gasified LNG from FSRU to the National
+Grid.?
+
+Answer: - The applicants are not eligible to avail ITC of GST paid on goods and services used for
+
+construction of Tie-in pipeline, for delivery of re-gasified LNG from FSRU to the National
+
+Grid.
+
+——<4f— ——sd
+
+B. TIMOTHY B. V. BORHADE
+(MEMBER) (MEMBER)
+
+CERTIFIED TRUE COPY
+
+1. The applicant
+2. The concerned Central / State officer y~
+3. The Commissioner of State Tax, Maharashtra State, Mumbai aa
+4, The Chief Commissioner of Central Tax, Churchgate, Mumbai BER
+5, Joint commissioner of State Tax , Mahavikas for Website. ADVANCE RULING AUTHORITY
+MAHARASHTRA STATE, MUMBAI
+Note :- An Appeal against this advance ruling order shall be made before The Maharashtra Appellate
+Authority for Advance Ruling for Goods and Services Tax, 15" floor, Air India building, Nariman Point,
+
+Mumbai — 400021.
+
+15

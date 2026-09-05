@@ -1,0 +1,1295 @@
+RULING
+Q- 1 Whether the Condenser Fan and Blower manufactured and supplied by the
+applicant is appropriately classifiable under Heading 8414 of the GST Tariff as
+industrial fans and blowers, specifically under HSN 8414 59 30, or whether it is
+classifiable under any other heading?
+Ans-1 As discussed in para 7 above.
+979/11/2025
+(Utkarsha)
+MEMBER
+CENTRAL TAX
+HORITY EDR AD
+F. No. AAR/SF/2025-26/(5 156
+SPEED POST
+(Dr. Akhedan Charan)
+MEMBER
+M/s PEE AAR AUTOMOTIVE TECHNOLOGIES PRIVATE LIMITED,
+E-311,E-312, General Zone, Industrial Area Ghiloth, Shahjahanpur,
+ALWAR-301706, Rajasthan
+Copy to: -
+STATE TАХ
+Date: 17.11-2025
+1. The Chief Commissioner, CGST and Central Excise (Jaipur Zone), NCRB, Statue
+Circle, Jaipur, Rajasthan-302005.
+2.
+The Chief Commissioner, State Tax, Kar Bhawan, Bhawani Singh Road, Ambedkar
+Circle, C-Scheme, Jaipur-302005.
+3. The Commissioner, CGST Commissionerate, ALWAR, Rajasthan.
+4.
+The Joint Commissioner, State Tax, Circle- Shahjahanpur, Zone-BHIWADI,
+Divisional Kar Bhawan, Jhalana Dungri, JAIPUR,, Rajasthan.
+5. The Assistant Commissioner, CGST Division- BEHROR, RIICO Colony, Near
+Telephone Exchange, Behror, District-Kotputli-Behror-301701, Rajasthan.
+Page 25 of 25
+
+
+이
+सत्यमेव जयते
+Utkarsha
+RAJASTHAN AUTHORITY FOR ADVANCE RULING
+GOODS AND SERVICES TAX, KAR
+BHAWAN,AMBEDKAR CIRCLE,NEAR RAJASTHAN
+HIGHCOURTJAIPUR - 302005 (RAJASTHAN)
+ADVANCE RULING NO. RAJ/AAR/2025-26/ |4
+Joint Commissioner
+Dr. Akhedan Charan
+Additional Commissioner
+Name and address of the
+applicant
+Member (Central Tax)
+Member (State Tax)
+राष्ट
+क
+बाजार
+M/s CPL Pharmaceuticals Private Limited,
+Cadila Corporate Campus, Sarkhej Dholka
+Road-Bhat, Ahmedabad-382210, GUJARAT
+GSTIN of the applicant
+Clause(s) of Section 97(2)
+of CGST/SGST Act, 2017,
+under which the
+question(s) raised
+Date of Personal Hearing
+Present for the applicant
+Date of Ruling
+B
+:
+08AAJCC2124P1ZF
+(d) admissibility of input tax credit of tax
+paid or deemed to have been paid
+04.09.2025
+Advo. Priyanka Kalwani and Advo. Devanshi
+Sharma
+2111.2025
+Note 1: Under Section 100 of the CGST/RGST Act, 2017, an appeal against this ruling lies
+before the Appellate Authority for Advance Ruling, constituted under Section 99 of
+CGST/RGST Act, 2017, within a period of 30 days from the date of service of this order.
+Note 2: At the outset, we would like to make it clear that the provisions of both the
+CGST Act and the RGST Act are the same except for certain provisions. Therefore, unless
+a mention is specifically made to such dissimilar provisions, a reference to the CGST Act
+would also mean a reference to the same provision under the RGST Act. Further to the
+earlier, henceforth for the purposes of this Advance Ruling, a reference to such a similar
+provision under the CGST Act / RGST Act would be mentioned as being under the "GST
+Act".
+The issue raised by M/s CPL Pharmaceuticals Private Limited, Cadila Corporate Campus,
+Sarkhej Dholka Road-Bhat, Ahmedabad- 382210, GUJARAT(hereinafter "the applicant")
+is fit to pronounce advance ruling as they have deposited prescribed Fee under CGST
+Act and it falls under the ambit of the Section 97(2)given as under:
+(d) admissibility of input tax credit of tax paid or deemed to have been paid
+A. SUBMISSION OF THE APPLICANT(in brief):-
+Brief facts of the case:
+Page 1 of 25
+
+
+1. M/s CPL Pharmaceuticals Private Limited (hereinafter referred to as "the
+Applicant") is a private limited company, inter alia, engaged in the manufacture
+and supply of Active Pharmaceutical Ingredients ("APIs"), finished formulations,
+food supplements, biotechnology products, pharmaceutical machinery etc.
+2.
+3.
+The Applicant is setting up a new plant at RIICO, Udaipur, Rajasthan for
+manufacturing lyophilized injectable drugs. In order to carry out the construction
+work of the lyophilized injectable plant (hereinafter referred to as "plant" or
+"factory") in RIICO - Kaladawas Extension (Phase II) Udaipur, Rajasthan, the
+Applicant has issued a Purchase Order dated 14.02.2023 (hereinafter referred to
+as "PO") to Sribal Construction Company (hereinafter referred to as "SCC"). A
+copy of the PO dated 14.12.2023 issued to SCC for carrying out construction
+works in relation to the lyophilized injectable plant is enclosed herewith and
+marked as Annexure - 1.
+Technical Specification of the Lyophilized Injectable Plant
+The Applicant states that lyophilization is a freeze-drying process that removes
+the water from a material. The Applicant uses the lyophilization technique to
+stabilize and preserve injectable drugs that are sensitive to heat and moisture. In
+this process, the water is removed from the solution of injectable drugs after the
+same is frozen. When placed under the vacuum, the ice undergoes sublimation,
+changing directly from a solid to a vapor without passing through the liquid
+phase.
+4. The process to manufacture the lyophilized injectable drug is depicted below:
+Annealing
+Lyophilization cycle
+Sample
+Preparation
+Freezing
+Primary
+Drying
+Secondary
+Drying
+Final Product
+5.
+The above manufacturing process contains three primary steps elaborated
+below:
+i.
+ii.
+Freezing: The main function of freeze-drying is to separate the solvent from
+the solute, minimize the thermal degradation of the product, and prevent
+product foaming when a vacuum is applied. During this stage, most of the
+water is removed from the drug and excipient. The system separates into
+multiple phases, and interfaces between the ice and drug phases form. The
+formulation must be frozen to a sufficiently low temperature to solidify the
+product.
+Annealing: It is an optional step in which the product is held at a temperature
+above the final freezing temperature for a defined period to crystallize the
+potentially crystalline components (usually crystalline bulking agents such as
+mannitol or glycine) in the formulation during the freezing stage. If the
+bulking agent is not crystallized during the freezing stage, vial breakage may
+occur during primary drying. Hence, the completion of crystallization may be
+facilitated by annealing.
+iii. Primary Drying: In this stage, the pressure inside the chamber is reduced and
+heat is applied to initiate the sublimation of ice crystals formed during the
+freezing stage. The application of a vacuum allows the free migration of water
+Page 2 of 25
+
+
+6.
+iv.
+vapor from the frozen mass, which can be regarded as a diffusion process,
+explaining its relatively slow nature. The solvent vapors resulting from
+sublimation pass through the opening in the closure. As the sublimation
+process proceeds, the frozen mass changes into a cake-like structure. Due to
+the loss of latent heat during sublimation, heat must be continuously applied
+to the product throughout primary drying.
+Secondary Drying: This is the last stage of freeze-drying, in which water that
+did not freeze is removed by the process of desorption from the solute phase.
+The objective of secondary drying is to reduce the unbound water (moisture)
+to a level that is optimal for the stability (less than 1%) of the final product.
+The shelf temperature in secondary drying is kept much higher than that used
+for primary drying so that desorption of water may occur at a practical rate.
+This process is also known as 'Isothermal Desorption'.
+The Applicant submits that manufacturing of lyophilized injectable drugs involves
+a highly controlled and regulated process to ensure quality, efficacy and safety.
+Thus, the following equipment will be installed within the plant for
+manufacturing lyophilized injectable drugs:
+Lyophilizer:This equipment, also known as a freeze dryer, is  a device used
+to remove water from materials through a process called lyophilization or
+freeze-drying.
+Vial Filling Line (IMA Group): Once the liquid drug formulation
+prepared, the same is filled into vials for freeze drying (lyophilization)
+remove water content.
+is
+to
+Autoclave: Autoclaving is done for sterilizing equipment, components and
+the product to ensure sterility and prevent contamination.
+Inspection Machine: The vials are inspected to check for defects and
+contaminants.
+Leak Test Machine: After filling and sealing but before packaging, the vials
+are checked to ensure the vial integrity.
+Mfg. Skids: Skids are used for precise mixing of drug formulations,
+ensuring uniformity and consistency. They facilitate the filtration of
+solutions to remove particulates and contaminants, crucial for
+maintaining sterility. Skids are employed in purification processes to
+isolate and purify the active pharmaceutical ingredients (APIs).
+Additionally, they help in recovering solvents used during the
+manufacturing process, enhancing efficiency and reducing waste.
+CIP Skid: The equipment is used for automated cleaning and sterilization
+of various equipment between production batches to maintain hygiene
+and prevent cross contamination.
+Part Washer: The equipment is used for cleaning and decontaminating
+various equipment before and after the use of various equipment used in
+the production of lyophilized injectables.
+Vial Labelling: After inspection, the labels are applied to vials containing
+details like batch number, expiration date, and drug details.
+Cartonator: It is used for packing vials into cartons for distribution. This is
+done after labelling and is part of the final packaging process.
+Page 3 of 25
+
+
+7.
+8.
+9.
+10.
+11.
+Track and Trace: The equipment is used for monitoring and recording the
+movement of drugs through the supply chain to prevent counterfeiting
+during the production and distribution process.
+Check Weighing: The equipment is used to ensure that the vial or package
+meets the specified weight requirements.
+In addition to the above, the Applicant has also installed boiler, chiller, cooling
+towers, air compressors, diesel generators and transformers within the factory
+premises.
+The Applicant submits that given the plant's location within a mountain region,
+the foundational works have been undertaken with due consideration for the
+inherent topographical and geological factors. The foundation including RCC
+flooring works were executed using systematic layering of construction materials
+to ensure structural integrity, durability, and load-bearing capacity.
+The Applicant further submits that the aforementioned equipment which are
+essential for manufacturing lyophilized injectable drugs are required to be
+installed on a Reinforced Cement Concrete ("RCC") foundation coupled with steel
+structural support. This robust foundation is critical to ensure the inherent
+stability and strength required for these precision machines and equipment
+during operation. Such construction is being done while adhering to standards
+outlined in IS 456:2000 (Code of practice for plain and reinforced concrete) and
+IS 800: 2007 (General construction in steel - Code of Practice). Furthermore,
+these foundations for the machinery and equipment are constructed in
+compliance with IS 2974 (Code of practice for design and construction of machine
+foundations).
+The Applicant submits these machines, and equipment cannot be placed directly
+on the land or its surface without adequate structures to support them. Given
+the operational load, torque, and vibrations generated during use, a specifically
+engineered foundation is essential prior to the installation of such machinery and
+equipment. The foundation serves critical purposes, including providing
+structural stability, preventing overturning, absorbing vibrations, and ensuring
+proper alignment and positioning of the equipment. In the absence of such a
+foundation, machinery is susceptible to operational damage, misalignment, and
+potential hazards due to instability.
+The Applicant submits that the following construction work has been undertaken
+for the foundation and steel structures whereon the various machinery and
+equipment is to be installed in the plant:
+Sr.
+Description of the
+Nature of Work
+No.
+Foundation Work as per
+PO
+1.
+Excavation in soil for
+foundations including
+trenches, pavements,
+manholes, wall footings,
+pipelines pits, tanks etc.
+including
+shoring,
+dewatering
+Excavation of soil for Foundation:
+Excavation of the soil is a requisite process
+for undertaking the foundation works in
+relation to the installation of the
+equipment. Heavy Machinery installed in
+lyophilized injectable plant exerts
+significant weight (loads) on the ground.
+The topsoil is often not strong enough to
+Page 4 of 25
+
+
+2.
+Excavation
+in
+soft/weathered rocks
+including
+breaking,
+removal, stacking etc.
+3. Excavation by Chiseling in
+hard rock
+support these concentrated loads.
+Excavation and filling the excavated spаce
+with the specially designed foundation
+ensures collection of equipment load and
+spreading the same to the larger area,
+ensuring safe load transfer.
+Excavation for Trenches & Pavements: All
+rainwater harvesting trenches are
+designed to connect directly with
+designated water bodies. These trenches
+require a properly constructed foundation
+to ensure efficient water transfer from the
+collection area to the water bodies.
+Excavation for Manholes, pipelines, pits &
+tanks- The transfer of processed water
+from the sewage treatment plant (STP) to
+the facility, and sewage water from the
+facility to the STP, is facilitated by a
+network of pipelines and manholes. These
+components are strategically designed to
+mitigate choking and prevent
+discrepancies in water flow. Additionally,
+tanks are constructed for the storage of
+processed, raw, and potable water. The
+above requires excavation and the
+construction of appropriate foundations
+which are specifically designed to support
+the load of all installed equipment and
+ultimately transfer these loads to the
+ground.
+The breaking of soft and hard rock along
+with use of excavated hard rock for soling
+purposes is paramount for equipment
+installation in the plant. The work ensures
+that the heavy equipment, which
+generates significant static and dynamic
+loads (e.g. vibrations, impacts), is seated
+on uniform base and prevents sinking of
+the entire structure, controls vibrations
+and maintains critical machine alignment.
+Therefore, the above works have been
+undertaken to construct a robust and
+stable foundation specifically designed to
+support the heavy equipment installed
+within the factory premises and ultimately
+transfer these loads to the ground.
+Hard rock is chiseled to construct a stable
+foundation, crucial for installing
+equipment within the plant.
+Page 5 of 25
+
+
+4.
+5.
+Backfilling of excavated
+materials
+Carting away surplus
+excavated material debris
+6.
+Soling using dry rubble
+7.
+Murum Filling in plinth &
+flooring including sand
+filling.
+8.
+9.
+Concrete Work and other
+RCC works
+Trimix Cement Concrete
+Flooring
+The backfilling of murum is critical for
+preparing the plant's plinth below the
+concrete and for various RCC structures.
+This process is directly relevant to
+equipment installation as it establishes a
+uniformly stable and unyielding base
+across the entire plant, crucial for
+supporting the often massive and
+vibration-sensitive foundations of
+specialized equipment in the plant.
+If excess material of excavated soil is
+available at site, then removing this
+material is necessary as per approved
+architect levelling plan.
+To stabilize base & avoid settlement of
+foundations, the hard rock base is laid
+beneath the concrete foundation and
+within the plinth area of the building.
+This foundation layer is essential for
+preventing differential settlement and for
+effectively distributing static and dynamic
+loads from heavy machinery, ensuring the
+precise alignment, operational efficiency
+and extended lifespan of all installed
+equipment within the plant.
+The Murum filling in plinth and flooring
+areas, including sand filling, improves the
+foundational strength by creating а
+uniform and stable base that effectively
+distributes the significant static and
+dynamic loads from the plant and heavy
+equipment, thereby preventing
+differential settlement. The layer reduces
+water permeability by acting as a capillary
+break, safeguarding the structure and
+sensitive equipment from moisture
+damage. Furthermore, the foundation
+works ensure a stable platform for the
+concrete plinth.
+This includes creation of RCC structures
+like trenches, manholes, roads etc.
+Trimix cement flooring in building plinths
+and generally for constructing machinery
+foundations enhances the concrete's
+compressive strength. Such a surface is
+paramount for effectively supporting the
+heavy, dynamic loads of industrial
+Page 6 of 25
+
+
+10.
+Formwork and Shuttering
+11.
+Providing,
+bending,
+erecting & fixing mild steel
+or
+TOR
+steel
+reinforcement.
+12.
+13.
+Providing, fabricating,
+fixing and embedding in
+position M.S. Plate or
+structural inserts in
+concrete or masonry (like
+corner angles etc.)
+Supplying, Straightening,
+transporting, fabricating,
+erecting, structural steel
+work at all levels including
+cutting, welding, seal
+welding, bolting, threading,
+wherever necessary and
+finishing with sand blasting
+and one coat of Red Oxide
+Zinc Chromate primer.
+machinery, ensuring optimal alignment,
+minimizing vibrations and contributing to
+the longevity and operational efficiency of
+the equipment within the plant.
+Formwork refers to a mold into which wet
+concrete is poured and held until it gains
+sufficient strength to be self-supporting.
+This essential structural element,
+prepared from wood, plywood, PVC or
+steel, is indispensable for all RCC
+structures. Formwork dictates the final
+shape, size, and surface finish of the
+concrete, ensuring the structural integrity
+and precise dimensions required for
+foundations, columns, beams and slabs.
+In RCC structures, reinforcement is used in
+combination with concrete to achieve
+high strength and durability.  While
+concrete is excellent in resisting
+compressive forces, it is relatively weak in
+tension. To overcome this limitation, steel
+reinforcement, most commonly TOR steel
+(Twisted Oval Reinforcement) is
+embedded within the concrete. TOR steel,
+known for its high tensile strength and
+ribbed surface, provides superior bonding
+with concrete and effectively handles
+tensile stresses. This synergy between
+concrete and steel ensures that RCC
+structures can withstand various loads
+and stresses.
+Embedding MS plates, angles, channels,
+and other steel components within
+concrete is essential for facilitating future
+structural work such as pipe racks and
+steel frameworks in RCC structures. This
+ensures the accurate alignment of
+equipment and efficient load transfer.
+The structural steel work is used for the
+construction of pipe racks, which is used
+for routing the pipelines installed within
+the premises of the lyophilized injectable
+plant.
+Page 7 of 25
+
+
+14.
+Providing, fixing, testing
+and commissioning of
+pipelines within the factory
+premises.
+The pipelines are installed to transport
+raw water, drinking water, steam water
+for injections, purified water, process
+water and wastewater. Each of these
+fluids have unique properties, which
+determine the material of construction of
+these pipelines which are installed within
+the factory premises.
+12.
+13.
+In this regard, it is submitted that a site inspection dated 16.01.2025 was
+conducted by the Chartered Engineer, pursuant to which a plant inspection
+report dated 21.01.2025 has been issued to the Applicant, which certifies that
+the RCC foundation and steel structural works and other structures as explained
+above has been undertaken by the Applicant in order to install and support the
+various equipment and machinery used in the manufacture of lyophilized
+injectables. As per the report, generally in industries, a number of machineries
+with different functions are installed. All machinery cannot rest on open land and
+there is a requirement to create a certain civil structure to support the
+machinery. This is due to the dead load, torque, vibrations, dynamic load
+generated due to the usage of machines. Accordingly, the foundation must be
+designed in such a manner that the machinery installed within the factory
+premises may not lead to the damage of floor or adjacent structure. The relevant
+portion of the plant inspection report is reproduced below for your ready
+reference:
+"Generally in industries, nos. of machines were installed and there are
+many types of machines with different functions. All machines can not rest
+on open land or on land surface for that particular civil structure required
+to support machine.
+There are loads affected on machine i.e. Dead load, torque, vibrations,
+dynamic load and others. To absorb vibration and torque of machine.
+There has to be foundation design necessary before installing machine.
+To support machine in working condition, to stop over turning and reduce
+vibration effects of machine, there is IS code for design of machine
+foundation.
+If there is no foundation or support for machines, it may damage floor or
+adjacent structure, there may chances of machine overturning and disturb
+in positioning."
+(emphasis supplied)
+A copy of the plant inspection report dated 21.01.2025 (without annexures)
+issued by the chartered engineer is marked and annexed as Annexure - 2.
+The Applicant has availed the input tax credit ("ITC") of tax paid on the purchase
+of the above-mentioned equipment installed within the factory premises of the
+lyophilized injectables plant, which are used for manufacturing the lyophilized
+injectable drugs, as the same is eligible to the Applicant in terms of Section 16
+and Section 17 of the Central Goods & Service Tax Act, 2017 (hereinafter referred
+to as "CGST Act").
+Page 8 of 25
+
+
+14.
+15.
+16.
+The Applicant states that the supplier viz. Sribal Construction Company has
+issued tax invoices to the Applicant from time to time to recover the
+consideration for the construction of the foundation works in relation to the
+installation of equipment within the factory premises and has discharged the tax
+at the rate of 18% by adopting the SAC 995413 having description "Construction
+services of industrial buildings such as buildings used for production activities
+(used for assembly line activities), workshops, storage buildings and other similar
+industrial buildings". Illustrative copy of tax invoice issued to the Applicant by
+Sribal Construction Company is enclosed herewith and marked as Annexure - 3.
+During F.Y. 2023-24, Sribal Construction Company has raised tax invoices for total
+consideration of Rs.19,68,27,704/-, on which GST amounting to Rs.3,54,28,987/-
+has been discharged. It is submitted that the Applicant has availed the
+proportionate ITC amounting to Rs.3,54,28,987/- on these input services
+received from Sribal Construction Company in relation to foundation and
+structural support for the various equipment installed in the lyophilized
+injectables plant. The ITC pertains to the foundational work mentioned at
+Paragraph 2.11 (supra). A copy of the excel sheet containing the details of break-
+up of the input services used for construction of foundation and structural
+support for various equipment of the API plant is enclosed herewith and marked
+as Annexure -4.
+The Applicant is of the view that the works contract services received by the
+Applicant from Sribal Construction Company for the foundational and structural
+support for plant & machinery in terms of Explanation to Section 17 of the CGST
+Act, 2017. Accordingly, ITC on such input services received by the Applicant is
+eligible in terms of Section 16 and Section 17 of the CGST Act, 2017.
+B. INTERPRETATION AND UNDERSTANDING OF APPLICANT ON
+QUESTION RAISED (IN BRIEF)
+The ITC of tax paid on input services used for the construction of foundation and
+structural support for various equipment used at the factory of the Applicant for
+carrying out the manufacturing of lyophilized injectable drugsis eligible in terms of
+Section 17(5)(c) of the CGST Act, 2017:
+1.
+2.
+The input services procured by the Applicant are in the course or furtherance
+of business of the Applicant in terms of Section 16 of the CGST Act.
+As per Section 2(60) of the CGST Act, the expression "input service" is defined as
+any service used or intended to be used by a supplier in the course or furtherance
+of business.
+Section 16 of the CGST Act states that every registered person shall be entitled
+to take credit of input tax charged on any supply of goods or services or both by
+him which are used or intended to be used in the course or furtherance of his
+business and said amount will be credited to the electronic credit ledger of such
+person.
+Page 9 of 25
+
+
+3.
+4.
+>
+5.
+6.
+7.
+8.
+9.
+The Applicant submits that the lyophilized injectables plant is to be used for
+manufacturing lyophilized injectables which will be supplied by the Applicant to
+its customers. Thus, the input services procured by the Applicant for construction
+of foundation and structural support for various equipment at the factory of the
+Applicant is in the course or furtherance of business of the Applicant.
+Thus, it is submitted that the Applicant is eligible to avail the ITC on input services
+received for construction of foundation and structural support for installing the
+equipment within the factory premises of the Applicant in terms of Section 16 of
+the CGST Act.
+The input services procured by the Applicant are used for foundation and
+structural support of the equipment installed for manufacturing lyophilized
+injectable drugs, which are "plant and machinery' in terms of Explanation to
+Section 17 of the CGST Act.
+Section 17(5) provides that notwithstanding anything contained in sub section
+(1) of section 16 and sub section (1) of section 18, input tax credit shall not be
+available in respect of the following, namely: -
+"(c) works contract services when supplied for construction of an
+immovable property (other than plant and machinery) except where it is
+an input service for further supply of works contract service;"
+(Emphasis supplied)
+As per the above provision, ITC is not restricted where inward supply of works
+contract services are received for further supply of works contract services, or
+such services are for construction of plant and machinery. It is pertinent to
+understand the scope of expression "plant and machinery".
+The Explanation to Section 17 of the CGST Act provides the definition of the
+expression "plant and machinery" as under:
+"Explanation.- For the purposes of this Chapter and Chapter VI, the
+expression "plant and machinery" means apparatus, equipment, and
+machinery fixed to earth by foundation or structural support that are
+used for making outward supply of goods or services or both and includes
+such foundation and structural supports but excludes-
+(i) land, building or any other civil structures;
+(ii) telecommunication towers; and
+(iii) pipelines laid outside the factory premises."
+(Emphasis supplied)
+The terms "equipment" or "apparatus" have not been defined under the GST
+law. Therefore, recourse may be made to the dictionary meaning of the said
+terms.
+Meaning of the term "Equipment"
+As per the Collins Dictionary, "equipment" as a noun is defined as whatever a
+person, group, or thing is equipped with; the special things needed for some
+purpose; supplies, furnishings, apparatus, etc.; goods used in providing service,
+esp. in transportation, as the rolling stock of a railroad.
+Page 10 of 25
+
+
+10. As per the Merriam Webster Dictionary, "equipment" is defined as the set of
+articles or physical resources serving to equip a person or thing such as the
+implements used in an operation or activity.
+11. Further, as per the Macmillan Dictionary, "equipment" is defined as the tools,
+machines, or other things that you need for a particular job or activity.
+Meaning of the term "Apparatus"
+12.
+As per the Collins Dictionary, "apparatus" as a noun is defined as a collection of
+instruments, machines, tools, parts, or other equipment used for a particular
+purpose.
+13. As per the Merriam Webster Dictionary, "apparatus" is defined as a set
+materials or equipment designed for  a particular use.
+of
+14.
+Webster's Encyclopaedic Unabridged Dictionary of English language defines
+'apparatus' as:
+15.
+a. A group or aggregate of instruments, machinery, tools, materials etc.,
+having a particular function or intended for a specific use.
+b. Any complex instrument or machine for a particular purpose.
+c. Any system or systematic organization of activities, functions, processes,
+etc., directed toward a specific goal.
+Meaning of the term 'machinery':
+The Concise Oxford Dictionary defines the terms 'Machine' and 'Machinery' as
+Machine
+a) An apparatus using or applying mechanical power and having several
+parts,
+b) Each with a definite function and together performing a particular task.
+Any device that transmits a force or directs its application
+Machinery
+a) Machines collectively or components of a machinery
+Therefore, the term 'machinery' signifies an assembly of items designed to
+perform a mechanical function entailing application of force either manually or
+otherwise to achieve a pre-determined result. Whereas the terms 'apparatus'
+and 'equipment' signify an aggregation of tools, materials or machine designed
+to perform a specific function.
+Reference may be made to the decision of I.C.B. (P) LTD. v. Collector of Central
+Excise, Baroda 1997 (95) E.L.T. 239 (Tribunal), wherein the term 'apparatus' was
+defined as a compound instrument designed to carry out a specific function or
+for a particular use. It was observed that in order to decide, whether a particular
+object is an apparatus, an inquiry has to be made as to what operation it
+performs.
+Further, the Bombay High Court in the case of Siemens India Ltd v.
+Commissioner of Income Tax [1996] 217 ITR 622 (Bom), while deciding whether
+a particular item is plant or not, referred to the "common parlance or trade or
+commercial parlance" test and the "functional test" as applied in the judgement
+of the Hon'ble Supreme Court in the case of Scientific Engineering House
+Private Limited v. Commissioner of Income Tax, Andhra Pradesh 1986 (1) SCC
+(11).
+Page 11 of 25
+
+
+The Hon'ble Supreme Court in the case of Scientific Engineering House Private
+Limited (supra), relied upon certain foreign decisions while dealing with the
+question whether technical know-how in the shape of drawings, designs, charts,
+plans, processing data and other literature falls within the definition of "plant",
+gave it a wide meaning under the provisions of Income Tax law and held such
+books to be a depreciable asset. It was observed by the Supreme Court that
+"plant" would include any article or object fixed or movable, live or dead, used
+by businessman for carrying on his business and it is not necessarily confined to
+an apparatus which is used for mechanical operations or processes or is
+employed in mechanical or industrial business. It was further observed that in
+order to qualify as "plant", the article must have some degree of durability, as
+for instance, in Hinton v. Maden& Ireland Ltd. [1960] 39 I.T.R. 357, knives and
+lasts having an average life of three years used in manufacturing shoes were
+held to be "plant".
+In Inland Revenue Commissioner v. Barclay, Curle& Co. Ltd. [1970] 76 I.T.R. 62
+(HL), the House of Lords held that a dry dock, since it fulfilled the function of a
+plant, must be held to be a plant. Lord Reid considered the part which a dry dock
+played in the assessee company's operations and observed:
+"It seems to me that every part of this dry dock plays an essential part....
+The whole of the dock is, I think, the means by which, or plant with which,
+the operation is performed."
+Lord Guest indicated a  functional test in these words:
+"In order to decide whether a particular subject is an 'apparatus' it seems
+obvious that an enquiry has to be made as to what operation it performs.
+The functional test is, therefore, essential at any rate as a preliminary".
+Further, reference may be made to the scope of the term "machinery" as
+discussed in the case of Ambica Wood Works v. The State of Gujarat 1979 43
+STC 338 (Guj). The Gujarat High Court analyzed the scope of machinery by looking
+into the dictionary meaning in Webster's New Twentieth Century Dictionary,
+Unabridged, Second Edition. From the dictionary meanings, the following
+understanding was taken by the Court:
+"9. In other words, if there is a combination of things, the harmonious
+working of which results in a desired end, that collection of things would
+be known as machinery."
+It was further observed at para 10 that "It is no doubt true that mere assembly of
+articles or things would not amount to machinery. Some solid structure with no
+moving parts cannot be termed as machinery. It would be machinery only if such
+structure, complete in itself, has moving parts in relation with others when they
+move interdependently by application of force - mechanical or manual - with an
+avowed object to produce a given product. In other words, in order to be a
+machinery, the following four factors must exist, namely: (1) a complete and
+integrated collection of several objects or articles; (2) these objects or articles
+should interact in unison upon or with each other; (3) this interaction is prompted
+by application of force which may be manual or motive power; and (4) the
+movement should be with a view to do some specific activity or to obtain specific
+or definite result."
+Page 12 of 25
+
+
+From the above discussion, the following tests emerge for determining whether
+a particular product will qualify as plant and machinery:
+➤ Common parlance test
+➤ Functional test
+➤ Durability test
+Close Nexus test
+In order to qualify as 'plant and machinery' in terms of Explanation to Section 17
+of the CGST Act, two major requirements need to be satisfied, which are as
+under:
+a. It is an 'apparatus', 'equipment' or 'machinery' fixed to earth by
+foundation or structural support; and
+b. It is used for making an outward supply of goods or services or both.
+'Apparatus', 'Equipment' or 'Machinery'
+Relying upon the definitions of the term 'apparatus', it can be said that the
+various equipment which are to be set up for manufacturing lyophilized
+injectable drugs will  qualify as 'apparatus' since the system includes setting up of
+a collection of instruments, tools, parts or other equipment used for a particular
+well-defined purpose.
+It can also be said to be 'machinery' as the complete lyophilized injectables plant
+is a combination of various things/components and the harmonious working of
+all such components results in the desired end of manufacturing lyophilized
+injectable drugs.
+Further, the nature of various equipment installed in the lyophilized injectables
+plant may be examined on the parameters of the tests referred to in para 4.25
+above.
+>
+>
+Common parlance test - In common parlance, all the equipment installed in
+the lyophilized injectable plant viz. lyophilizer, vial filing line, autoclave,
+inspection machine, leak test machine, mfg. skids, CIP skid, part washer, vial
+labelling, cartonator, track and trace and check weighing etc. can
+understood as 'apparatus' or 'equipment'.
+be
+Functional test - All these equipment has a well-defined function to
+manufacture lyophilized injectable drugs.
+Durability test - The above-mentioned equipment is expected to last for
+several years and hence it also satisfies this test.
+Close Nexus test - The various equipment has a close nexus with the
+manufacturing of the lyophilized injectable drugs in as much as all these
+equipment is a sine qua non for setting up the lyophilized injectable plant and
+without these equipments, the Applicant will not be able to manufacture
+their end products viz. lyophilized injectable drugs.
+Thus, in light of the above, it is submitted that all the equipment installed within
+the factory premises for manufacturing the lyophilized injectable drugs satisfy  all
+the tests specified above and fall within the scope of the term 'plant and
+machinery' in terms of Explanation to Section 17 of the CGST Act, 2017.
+Reliance in this regard is also placed on the recent CBIC Circular No.
+219/13/2024-GST dated 26.06.2024, wherein it has been clarified that ITC on
+ducts and manholes used in network of Optical Fiber Cables ("OFCs") is eligible
+in terms of Section 17(5) of the CGST Act, 2017.  The Circular states that it appears
+that ducts and manholes are covered under the definition of 'plant and
+Page 13 of 25
+
+
+machinery' as they are used as part of the OFC network for making outward
+supply of transmission of telecommunication signals from one point to another.
+It is further observed in the circular that ducts and manholes used in network of
+OFCs have not been specifically excluded from the definition of "plant and
+machinery" in the Explanation to Section 17 of the CGST Act, 2017, as they are
+neither in the nature of land, building or civil structures nor are in the nature of
+telecommunication towers or pipelines laid outside the factory premises. The
+relevant portion of the circular is reproduced below for ease of reference:
+"3. Ducts and manholes are basic components for the optical fiber cable
+(OFC) network used in providing telecommunication services. The OFC
+network is generally laid with the use of PVC ducts/sheaths in which OFCs
+are housed and service/connectivity manholes, which serve as nodes of the
+network, and are necessary for not only laying of optical fibre cable but
+also their upkeep and maintenance. In view of the Explanation in section
+17 of the CGST Act, it appears that ducts and manholes are covered under
+the definition of "plant and machinery" as they are used as part of  the OFC
+network for making outward supply of transmission of telecommunication
+signals from one point to another. Moreover, ducts and manholes used in
+network of optical fibre cables (OFCs) have not been specifically excluded
+from the definition of "plant and machinery" in the Explanation to section
+17 of CGST Act, as they are neither in nature of land, building or civil
+structures nor are in nature of telecommunication towers or pipelines laid
+outside the factory premises.
+(emphasis supplied)
+Accordingly, it is clarified that availment of ITC is not restricted in respect of such
+ducts and manhole used in network of optical fibre cables (OFCs), either under
+clause (c) or under clause (d) of sub-section (5) of section 17 of CGST Act.
+As per the above circular, ducts and manholes used in the network of OFCs are
+falling within the scope of 'plant and machinery' in terms of Explanation to
+Section 17 of the CGST Act, 2017. The Applicant submits that placing reliance on
+this circular, an inference can be drawn that since various equipment installed
+within the factory premises are essential and necessary for manufacturing the
+lyophilized injectable drugs, accordingly, the equipment installed for the said
+purpose will be covered under the definition of 'plant & machinery' as they will
+be integral part used for making outward supply.
+Further, as per the circular, ducts and manholes are not specifically excluded
+from the definition of 'plant and machinery' in the Explanation to Section 17 of
+the CGST Act, 2017 as they are neither in nature of land, building or civil
+structures nor are in nature of telecommunication towers or pipelines laid
+outside the factory premises.
+The Applicant submits that in the present case as well, the various equipment
+enumerated above, which are installed in the lyophilized injectable plant are not
+specifically excluded from the definition of 'plant and machinery' as such
+equipment are neither in the nature of land, building or civil structures nor are in
+the nature of telecommunication towers or pipelines laid outside the factory
+premises.
+Page 14 of 25
+
+
+Thus, the equipments installed for manufacturing lyophilized injectable drugs are
+falling under the term 'plant and machinery' in terms of Explanation to Section
+17 of the CGST Act, 2017.
+Used for making outward supply of goods or services or both.
+Now, examining the second condition which states that the said plant and
+machinery should be used for making outward supply of goods/services. In
+present case, the Applicant will manufacture lyophilized injectable drugs by using
+the equipment installed within the lyophilized injectable plant. Thus, the second
+condition stands fulfilled as well.
+In light of the above, it is submitted that the equipment installed for the
+production of lyophilized injectable drugs qualify as 'plant and machinery' in
+terms of Explanation to Section 17 of the CGST Act.
+The ITC on input services procured for undertaking foundation works in relation
+to the installation of plant and machinery within the factory premises is eligible
+to the Applicant.
+As per the definition of the expression "plant and machinery" under the
+Explanation to Section 17 of the CGST Act reproduced at para 4.7 (supra), it
+includes the foundation or structural support for such plant and machinery. Thus,
+the foundation or structural support for plant and machinery will also fall within
+the scope of "plant and machinery" and ITC on works contract services used for
+such construction of foundation and structural support will be eligible in terms
+of Section 17(5)(c) of the CGST Act.
+It is pertinent to note that the term 'foundation and structural support' has not
+been defined in the CGST Act. Further, there exists no exclusion from the scopе
+of 'foundations and structural support' when such work is undertaken for the
+installation and erection of the plant and machinery. Consequently, in the
+absence of such exclusion, all such foundational works undertaken for the
+installation of plant and machinery shall be deemed to be part of the plant and
+machinery in accordance with the Explanation under Section 17 of the CGST Act.
+Therefore, let us examine as to what would be covered under the term
+'foundation and structural support'.
+The term "foundation" has not been defined in the CGST Act. Therefore,
+reference can be made to S.B. Sarkar's, Words and Phrases of Excise, Customs
+& Service Tax, 4th Edition (2006), CENTAX Publications Pvt. Ltd., which defines
+"foundation" as:
+"inter alia means the lowest load bearing part of the building, typically
+below ground level; A construction below the ground level that
+distributes the load of a building, wall etc. (The New Collins) - Solid
+ground or base, natural or artificial, on which building rests, lowest part of
+the building usually below ground-level"
+(emphasis supplied)
+In this context, reference can also be placed upon the decision of Hon'ble
+Karnataka High Court in the case of JK Cement Works vs. State of Karnataka
+reported at (2017) 7 GSTL 408 (Kar.), wherein it has been held that the plant and
+machinery for manufacturing of cement by itself would be nothing and would be
+Page 15 of 25
+
+
+useless, unless they are properly installed and erected with proper foundations
+and civil works for erection thereof and in that process, the use of cement for
+construction of such foundations/civil works would constitute an integral part of
+the overall cost of the plant and machinery itself.
+On the combined reading of the above, it appears that the term 'foundation' will
+include all construction activities carried out at ground level and below ground
+level that are essential for distributing the load of the plant and machinery
+installed for manufacturing operations.
+In the present case, the foundation works have been executed in accordance with
+IS 2974 part 5: 1987 (Design and Construction of Machine Foundation)
+considering the machine loads and dynamic force, torque & vibrations of
+machines. The IS code provides that the installation of machines and equipment
+involves careful design of their foundations taking into consideration the impact
+and related vibration characteristics of the load and the condition of the soil on
+which the foundation rests. While many of the special features relating to design
+and construction of such machine foundations will have to be as advised by the
+manufacturers of these machines, still most of the details will have to be
+according to the general principles of design. This standard lays down the general
+principles of planning and design of reinforced machines and equipment other
+than the hammers. A copy of the IS 2974 part 5: 1987 (Design and Construction
+of Machine Foundation) is enclosed herewith and marked as Annexure - 5.
+Furthermore, to ensure that the structural base within the factory premises can
+adequately bear the load of the installed machinery and to prevent any risk of
+subsidence due to such load, the design and construction of the foundation
+works have been carried out in accordance with the provisions of IS 800:2007
+and IS 456:2000. These standards provide the necessary guidelines for structural
+steel and reinforced concrete design, respectively, thereby ensuring the safety,
+durability, and stability of the foundation system supporting the plant and
+machinery. Copies of the IS 800:2007 and IS 456:2000 have been enclosed
+herewith and marked as Annexure -6.
+It is submitted that the foundational works undertaken, comprising of excavation
+of soil, chiseling in hard rock, backfilling, carting away, soling, murum filling,
+concrete works, trimix cement concrete flooring, formwork and shuttering, and
+TOR steel reinforcement as detailed in para 2.9 (supra) have been executed
+considering the machine loads, dynamic forces, torque and vibrations generated
+by the plant and machinery installed within the factory premises. These
+specialized foundation works are critical to ensuring structural integrity,
+preventing subsidence and enabling the foundation to effectively absorb
+operational loads.
+The Applicant submits that since the equipment installed for the production of
+lyophilized injectable drugs qualifies as 'plant and machinery' in terms of
+Explanation to Section 17 of the CGST Act and thus, the various foundational
+works detailed in para 2.9 (supra) is in the nature of 'foundation and structural
+support' for these equipment.
+The Applicant further submits that in addition to the above foundation works,
+SCC has also undertaken the construction of pipe racks and steel frameworks.
+The structural steel works have been performed for the pipelines which are
+installed within the factory premises for the transportation of raw water, drinking
+water, steam water for injection, purified water, process water and wastewater
+Page 16 of 25
+
+
+etc. These pipelines enable the transfer of materials between storage tanks and
+various process units and other connected facilities. Therefore, structural steel is
+used to provide primary support and stability to the pipe racks, bearing both the
+self-load of the pipe rack and the dynamic load of the materials being
+transported.
+As the foundation and structural works have been undertaken specifically for the
+installation of pipelines within the factory premises, such works do not fall within
+the exclusions outlined in the definition of 'plant and machinery' under the
+Explanation to Section 17(5) of the CGST Act, 2017. Accordingly, the foundational
+and structural support works directly attributable to the installation of such
+internal pipelines shall be considered part of the plant and machinery, and
+therefore, the Applicant is eligible to avail the ITC on such foundation and
+structural works.
+Reliance in this regard is placed on the recent ruling issued by the Appellate
+Authority for Advance Rulings, Gujarat in the case of In Re: KEI Industries Limited
+reported at 2025-VIL-37-AAAR. In this case, the applicant had filed an appeal
+against the ruling passed by AAR Gujarat on the issue of ITC eligibility on inputs
+and input services used for construction of a concrete tower to act as foundation
+and structural support for VCV manufacturing line. It was held that the VCV
+manufacturing line qualifies as 'plant and machinery' and accordingly, the
+concrete tower is an essential foundation and structural support for such VCV
+manufacturing line. It was further observed that the concrete structure is not a
+general building but a specialized support system that is integral to the
+functioning of the machinery, providing stability and absorbing vibrations. The
+relevant portion of the ruling is reproduced below for ease of reference:
+"16. Ongoing through the layout of the VCV line which is reproduced in the
+impugned ruling, the process inside VCV tower undertaken at each floor
+and the weight of the significantly heavy components to be placed on each
+floor [reproduced supra], we are in agreement with the appellant's
+averment that the concrete structure is essential to support and erect the
+VCV lines. It is more so since the appellant has stated that the concrete
+structure in the form of VCV tower serves as a critical foundation and
+support system for the manufacturing process; that it provides stable
+base for tower components; that it absorbs vibrations & ensures
+accurate positioning of extruder, cross head and other elements. Given
+these facts, we find that plant and machinery in terms of the second
+explanation, placed beneath section 17, ibid, specifically includes
+foundation and structural support. The exclusions from plant and
+machinery are also listed viz (i) land, building or any other civil structures;
+(ii) telecommunication towers; and (iii) pipelines laid outside the factory
+premises. Further, 'other civil structures' means civil structures other than
+foundation and structural support to plant and machinery.
+17. Thus, the moment it is held that the ITC sought is on construction of
+foundation and structural support relating to plant and machinery, it
+moves out of the ambit of section 17(5)(c) and (d) even if it is on their
+own account. This being the case, we find that the applicant is eligible
+for availing the ITC on inputs and input services used for construction of
+concrete tower to support and erect the VCV lines at the factory of the
+appellant for manufacture of EHV cables.
+Page 17 of 25
+
+
+18....Drawing the analogy from the aforementioned clarification, we find
+that when ITC is not restricted even in respect of ducts and manhole used
+in OFCs under section 17(5) of the CGST Act, 2017, the ITC, on inputs and
+input services used for construction of concrete tower to support and erect
+the VCV lines, for manufacture of EHV cables also, similarly, cannot be
+restricted."
+(emphasis supplied)
+As per the above ruling, the AAAR Gujarat has held that ITC on inputs and input
+services used for construction of concrete tower to support and erect the VCV
+lines at the factory of the applicant for manufacture of EHV cables is eligible to
+the applicant as it constitutes foundation and structural support for 'plant and
+machinery' in terms of Explanation to Section 17 of the CGST Act, 2017. The
+exclusion for 'land, building or any other civil structure' does not apply, as the
+tower qualifies as a 'structural support' which is specifically included in the
+definition of 'plant and machinery'.
+Placing reliance on the above ruling, the Applicant submits that the ITC on the
+input services procured for the construction of RCC foundation and structural
+support for the various equipment enumerated hereinabove is eligible as such
+construction qualifies as 'foundational and structural support for plant and
+machinery' in terms of the Explanation to Section 17 of the CGST Act, 2017.
+In light of the above submissions, the Applicant submits that the ITC on input
+services procured for foundation and structural works within the factory
+premises for the installation of the plant and machinery will be eligible in terms
+of Section 16 and Section 17 of the CGST Act.
+C. QUESTIONS ON WHICH THE ADVANCE RULING IS SOUGHT:
+Q-1 Whether the Applicant is eligible to avail ITC on input services used for construction
+of foundation and structural support for plant and machinery installed at the factory of
+the Applicant for manufacture of lyophilized injectables, in terms of Section 17(5)(c) of
+the CGST Act, 2017?
+D. COMMENTS OF THE JURISDICTIONAL OFFICER: -
+Comments received from the OFFICE, Joint Commissioner, State Tax, Circle-B, Zone-
+Udaipur, Room No. 201, New KarBhawan, Near Patel Circle, UDAIPUR, Rajasthan vide
+letter No.SR/DC/B/UDR/428 dated 19.09.2025 are as under:
+Comments on Application Of Advance Ruling of Firm
+M/s CPL Pharmaceuticals Private Limited (hereinafter referred to as "the Applicant") is
+a private limited company, inter alia, engaged in the manufacture and supply of Active
+Pharmaceutical Ingredients ("APIS"), finished formulations, food supplements,
+biotechnology products, pharmaceutical machinery etc. The Applicant is setting up a
+new plant at RIICO, Udaipur, Rajasthan for manufacturing lyophilized injectable drugs.
+The Applicant submits that given the plant's location within a mountain region, the
+foundational works have been undertaken with due consideration for the inherent
+topographical and geological factors. The foundation including RCC flooring works were
+Page 18 of 25
+
+
+executed using systematic layering of construction materials to ensure structural
+integrity, durability, and load-bearing capacity.
+The applicant submit following Submission
+1. Excavation in soil for foundations including trenches. pavements, manholes, wall
+footings.pipelines pits, tanks ete.including shoring, dewatering
+Comments- All above process mentioned by applicant are related to process of
+construction of a building immovable property. Such as trenches. pavements,
+manholes, wall footings. pipelines pits, tanks etc. The applicant is paying GST on
+construction activity is of immovable nature. The provisions of ITC for the said supply of
+goods is covered under Section 17(5)(d). Therefore, ITC on GST paid on such supply as
+mentioned above will not be available to the extent of capitalisation of the said goods
+as mentioned in Explanation of Section 17(5) of the CGST/RGST Act, 2017.
+So applicant is not eligible to avail ITC on above Point.
+2. Excavation in soft/weathered rocks including breaking.
+Comments- In above processes the The breaking of soft and hard rock along with use
+of excavated hard rock for soling purposes is paramount for equipment installation in
+the plant. All above process mentioned by applicant are related to process of
+construction of a building immovable property So applicant is not eligible to avail ITC on
+above Point.
+• 3. Excavation by Chiseling in hard rock-
+Comments- In above processes the Hard rock is chiseled to construct a stable
+foundation involved, above process mentioned by applicant are related to process of
+construction of a building immovable property.
+So applicant is not eligible to avail ITC on above Point
+4. Backfilling of excavated materials-
+Comments- Backfilling is the process of strategically refilling an excavated area with
+suitable materials, typically after a foundation, trench, or other structure has been built.
+This involves placing the material in layers and compacting it to achieve a dense and
+stable fill done by Excavators, crans, loaders, also used in work contract activity in any
+premises related to process of construction of a building immovable property
+So applicant is not eligible to avail ITC on above Point
+5. Carting away surplus excavated material debris
+Comments - Carting away excavated material, also known as process of construction of
+a building immovable property
+So applicant is not eligible to avail ITC on above Point
+6. Soling using dry rubble-
+Page 19 of 25
+
+
+Comments - Rubble soling is the procedure of laying hard stones of required
+specifications adjacent to one another, with minimal voids in between them. The gaps
+are filled with stone chips or moorum to firmly pack the soling as required. Dealer used
+all process which are related to construction of immovable structure / premises.
+So applicant is not eligible to avail ITC on above Point
+7. Murum Filling in plinth & flooring including sand filling.-
+Comments - Murum filling in a plinth involves the layer-by-layer compaction of a
+granular soil material called murrum (a mixture of gravel, rock particles, and minerals)
+to create a stable base for a building's floor. Which is clearly construction of immovable
+structure, area of machine set up also not mentioned.
+So applicant is not eligible to avail ITC on above Point
+8. Concrete Work and other RCC works. -
+Comments - Process used to strengthen base/ plinth again part of works of construction.
+So applicant is not eligible to avail ITC on above Point
+9. Trimix Cement Concrete Flooring -
+Comments - All above process mentioned by applicant are related to process of
+construction of a building immovable property
+So applicant is not eligible to avail ITC on above Point
+10. Formwork and Shuttering-
+• Comments - Formwork and shuttering are moulds or structures that give wet concrete
+its desired shape and support until it sets and hardens. Made from materials like timber,
+steel, aluminum, or plastic, these molds hold the concrete in place, allowing it to cure
+and achieve its designed strength and dimensions for structural elements such as
+beams, columns, and slabs it is very clear with the definition of said process that this is
+also nothing but construction of immovable property.
+So applicant is not eligible to avail ITC on above Point
+11. Providing, bending, erecting & fixing mild steel or TOR steel reinforcement.-
+Comments- Dealer used all process which are related to construction of immovable
+structure / premises.
+So applicant is not eligible to avail ITC on above Point
+12. Providing, fabricating, fixing and embedding in position M.S. Plate or structural
+inserts in concrete or masonry (like corner angles etc.)
+Page 20 of 25
+
+
+Comments -This civil work is required in any factory building construction, which is an
+immoveable property.
+So applicant is not eligible to avail ITC on above Point
+13. Supplying, Straightening, transporting. fabricating. erecting, structural steel work
+at all levels including cutting, welding. seal welding. bolting, threading, wherever
+necessary and finishing with sand blasting and one coat of Red Oxide Zine Chromate
+primer.
+Comments- This process adheres fabrication, and erection to ensure structural integrity
+and quality. This process directly related to Straightening of iron structure.
+So applicant is not eligible to avail ITC on above Point
+14. Providing, fixing, testing and commissioning of pipelines within the factory
+premises.
+Comments -Dealer used all process which are related to construction of immovable
+structure / premises
+So applicant is not eligible to avail ITC on above Point
+Conclusion-
+Section 17(5) in The Central Goods and Services Tax Act, 2017 Section 17(5) of the CGST
+Act, 2017, restricts the availability of Input Tax Credit (ITC) under GST.
+(c) works contract services when supplied for construction of an immovable property
+(other than plant and machinery) except where it is an input service for further supply
+of works contract service;
+(d) goods or services or both received by a taxable person for construction of an
+immovable property (other than plant or machinery) on his own account including when
+such goods or services or both are used in the course or furtherance of business.
+The Applicant states that the supplier viz. Sribal Construction Company has issued tax
+invoices to the Applicant from time to time to recover the consideration for the
+construction of the foundation works in relation to the installation of equipment within
+the factory premises and has discharged the tax at the rate of 18% by adopting the SAC
+995413 having description "Construction services of industrial buildings such as
+buildings used for production activities (used for assembly line activities), workshops,
+storage buildings and other similar industrial buildings".
+Applicant itself declared that Sribal Construction Company having description
+"Construction services of industrial buildings such as buildings used for production
+activities. It is very clear that the Bills are related to construction of Imoveable property.
+Final Comments- In the Light of above points ITC received from Sribal Construction
+Page 21 of 25
+
+
+Company is also part of works contract. So applicant is not eligible to avail ITC on all
+points.
+E. PERSONAL HEARING:
+In the matter, personal hearing was granted to the applicant on 04.09.2025. Ms.
+Priyanka Kalwani, Advocate and Mr. Devanshi Sharma Advocate &Authorized
+Representative appeared for personal hearing. They stated that they will submit the
+details within 7 days regarding time of supply, the date of eligibility of ITC, Ledger
+copy, Whether ITC has been availed, whether 9C has been filed and details of
+payment mode in respect of construction of lyophilized injectable plant.
+F. DISCUSSIONS AND FINDINGS
+1.We have carefully examined the statement of facts, the application filed by the
+applicant, the submissions made during the hearing, and the comments from the
+jurisdictional Tax Authority. We also considered the issues involved for which the
+advance ruling is sought, along with other relevant facts.
+2. The issue raised by M/s CPL Pharmaceuticals Private Limited, Kaladawas
+Extension (Phase II), Plot No. SP 02, RIICO Industrial Area, Udaipur, Rajasthan,  is fit
+to pronounce an advance ruling as it falls under the ambit of Section 97(2)(d) of the
+CGST Act, 2017. This section covers the admissibility of input tax credit of tax paid
+or deemed to have been paid.
+3. The core issue for determination is whether the construction services used for the
+foundation and structural supports for heavy machinery qualify as 'works contract
+services for construction of an immovable property (other than plant and
+machinery)' attracting the blockage under Section 17(5)(c) of the CGST Act, 2017.
+4. We first refer to the relevant provisions of the Central Goods and Services Tax Act,
+2017:
+Section 17(5) (c): "Notwithstanding anything contained in sub-section (1) of
+section 16 and sub-section (1) of section 18, input tax credit shall not be
+available in respect of the following, namely
+(c) works contract services when supplied for construction of an immovable
+property (other than plant and machinery) except where it is an input
+service for  further supply of works contract service."
+Explanation "For the purpose of clause (c) and (d), the expression
+"Construction" includes reconstruction, renovation, additions or alterations
+or repairs, to the extent of capitalization, to the said immovable property"
+Explanation to Section 17: "For the purposes of this Chapter and Chapter VI,
+the expression "plant and machinery" means apparatus, equipment, and
+machinery fixed to earth by foundation or structural support that are used
+for making outward supply of goods or services and includes such
+foundation and structural supports but excludes
+(i) land, building or any other civil structures;
+(ii) telecommunication towers; and
+(iii) pipelines laid outside the factory premises."
+Page 22 of 25
+
+
+5.1 On a plain reading of the Explanation to Section 17, it is clear that the definition
+of "plant and machinery" is inclusive, and it explicitly includes the "foundation and
+structural supports" used to fix the equipment to the earth, provided they are used
+for making outward supply of goods or services but excludes land, building any
+other civil structure, telecommunication towers and pipelines laid outside the
+factory premises.
+5.2 Further, for the purpose of section 17(5)(C), the expression "Construction",
+which is capitalized to the said immovable property will only be eligible for taking
+ITC.
+6. The applicant submitted details of time of supply and ledger copy of M/s Sribal
+construction company but no document regarding details of date of eligibility of ITC,
+payment made, whether the ITC has been availed or not and filing of 9C has been
+provided. These documents and submission were required to ascertain the type of
+construction work, authenticity of transactions, time-period of transactions and
+value of ITC availed but they are not helpful to decide the quantum of ITC as its
+requires on-site inspection, verification of the books of accounts, contracts,
+measurement books, and invoices. However, on perusal of ledger of the contractor,
+suggests that the construction of foundation and structural supports for heavy
+machinery has already been done prior to date of filing application for Advance
+Ruling. Even the applicant himself at the time of filling application has stated that
+during 2023-24, the contractor has raised tax invoices for the total consideration
+which suggest that the construction activity has been completed in 2023.24 i.e. prior
+to the date of filling application.
+7.1 Further, as per Section 31 of the CGST Act, 2017, an invoice for supply of services
+needs to be issued before or after the provisions of service but not later than thirty
+days from the date of provision of service.
+7.2
+Further, the time of supply of services will be earliest of the following dates:
+Date of issue of invoice by the supplier (if the invoice is issued within the legally
+prescribed period under Section 31(2) of the CGST Act) or the date of receipt of
+payment, whichever is earlier
+Date of provision of services (if the invoice is not issued within the legally
+prescribed period under Section 31(2) of the CGST Act) or the date of receipt of
+payment, whichever is earlier
+Date on which the recipient shows the receipt of service in his books of account,
+in case the aforesaid wo provisions do not apply
+The supply of goods or services shall be deemed to have been made to the extent
+it is covered by the invoice or by the payment, as the case may be.
+8. From the documents submitted by the applicant, it is found that they have
+received services of construction service for construction of foundation and
+structural supports for heavy machinery. Thus these activities have already been
+rendered and completed in the years 2023-24 and 2024-25.
+9. Section 95 of the CGST Act, 2017, defines Advance ruling as below:
+Section 95. Definitions of Advance Ruling:-
+Page 23 of 25
+
+
+In this Chapter, unless the context otherwise requires,-
+(a)" advance ruling" means a decision provided by the Authority or
+the Appellate Authority'[or the National Appellate Authority] to an
+applicant or on questions specified in sub- section (2) of section 97
+or sub-section (1) of section 100 [or of section 101C], in relation to
+the Supply of goods or services or both being undertaken or
+proposed to be undertaken by the applicant:"
+As per the above definition, Advance ruling means a decision provided by the
+relevant authority on question to the supply of gods or services or both being under
+taken or proposed to be undertaken by the applicant. Hence, the activities have to
+be either undertaken in the present or should be proposed to be undertaken to seek
+a ruling. In the present case, the applicant had furnished details for the activities
+already done in the yester years. Hence, this authority is constrained in considering
+this question on merits. Therefore, no ruling is extended in respect of this question
+as the same is not related to the activities being undertaken or proposed to be
+undertaken.
+G. In view of the foregoing facts, circumstances, and provisions of GST law, we pass
+the following ruling: -
+RULING
+Q-1 Whether the Applicant is eligible to avail ITC on input services used for
+construction of foundation and structural support for plant and machinery installed
+at the factory of the Applicant for manufacture of lyophilized injectable, in terms of
+Section 17(5)(c) of the CGST Act, 2017?
+Ans-1 As discussed in Para 9 above.
+21/11/7025
+(Utkarsha)
+MEMBER
+CENTRAL TAX
+ORITY FOR ADVANCE
+S
+(Dr. Akhedan Charan)
+MEMBER
+STATE TАХ
+F. No. AAR/SF/2025-26/157.162
+SPEED POST
+M/s CPL Pharmaceuticals Private Limited,
+Kaladawas Extension (Phase II),
+Plot No. SP 02, RIICO Industrial Area,
+Udaipur, Rajasthan
+Copy to: -
+Date: 24/7/25
+Page 24 of 25
+
+
+1.
+2.
+The Chief Commissioner, CGST and Central Excise (Jaipur Zone), NCRB, Statue
+Circle, Jaipur, Rajasthan-302005.
+The Chief Commissioner, State Tax, Kar Bhawan, Bhawani Singh Road, Ambedkar
+Circle, C-Scheme, Jaipur-302005.
+3. The Commissioner, CGST Commissionerate, UDAIPUR, Rajasthan.
+4. The Joint Commissioner, State Tax, Circle-B, Zone-UDAIPUR, Divisional Kar
+Bhawan, UDAIPUR, Rajasthan.
+5.
+The Deputy/Assistant Commissioner, CGST Division-Udaipur(East), UDAIPUR,
+Rajasthan.
+Page 25 of 25

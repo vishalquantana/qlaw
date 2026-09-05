@@ -1,0 +1,1705 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+(Constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri B. V. Borhade, Joint Commissioner of State Tax (Member)
+(2) Shri Pankaj Kumar, Joint Commissioner of Central Tax (Member)
+
+GSTIN Number, if any/ User-id 271800000571 ARR (User ID)
+
+27 AAACA4836H2ZR (GSTIN)
+Legal Name of Applicant Sabre Travel Network India Pvt Ltd
+Registered Address/Address provided | Urmi Estate, 14th Floor, 95, GanpatraoKadam Marg,
+while obtaining user id Lower Parel West, Mumbai - 400 013
+Details of application GST-ARA, Application No. 08 Dated 13.04.2018
+Concerned officer Division -IILCommissionerate Mumbai Central
+
+Nature of activity(s) (proposed / present)
+in respect of which advance ruling sought
+
+A Category Service provision
+
+B Description (in brief) It is a wholly owned subsidiary of Sabre Asia Pacific Pte.
+P x y
+
+Ltd. (hereinafter referred to as 'Sabre APAC’), a leading
+
+provider of travel solutions and services across the globe.
+
+Issue/s on which advance ruling required (v) determination of the liability to pay tax on any goods
+or services or both
+
+S8en(s) on which advance ruling is | As reproduced in para 01 of the Proceedings below.
+
+PROCEEDINGS
+
+ev/pection 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods and
+Services Tax Act, 2017)
+
+and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as “the CGST Act and
+MGST Act”] by Sabre Travel Network India Pvt Ltd, the applicant, seeking an advance ruling in respect of
+the following question.
+
+“Whether the marketing, promotion and distribution services (hereinafter referred to as the "Said Services")
+provided by Sabre India to Sabre APAC would be subject to tax under the Central Goods & Services Tax Act 2017 and
+the Maharashtra Goods & Services Tax Act 2017 (hereinafter referred to as "Said Tax Acts") or would remain excluded
+under the said Acts as the said activities qualify as export of service in accordance to Section 2(6) of the Integrated
+Goods and Service Tax Act 2017 read with the said Tax Acts?”
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and the GST
+Act are the same except for certain provisions. Therefore, unless a mention is specifically made to such
+dissimilar provisions, a reference to the CGST Act would also mean a reference to the same provision under
+the MGST Act. Further to the earlier, henceforth for the purposes of this Advance Ruling, a reference to such
+a similar provision under the CGST Act / MGST Act would be mentioned as being under the “GST Act”.
+
+02. FACTS AND CONTENTION - AS PER THE APPLICANT
+
+The submission (Brief facts of the case), as reproduced verbatim, could be seen thus -
+STATEMENT OF RELEVANT FACTS HAVING A BEARING ON THE QUESTIONS ON WHICH ADVANCE RULING IS
+
+REQUIRED
+
+
+
+BACKGROUND:
+A. Sabre Travel Network (India) Pvt. Ltd. (hereinafter referred to as 'Applicant/Sabre India’), situated at 14th Floor,
+Urmi Estate, 95, Ganpatrao Kadam Marg, Mumbai - 400013, is a private limited company incorporated under the
+Companies Act, 1956. It is a wholly owned subsidiary of Sabre Asia Pacific Pte. Ltd. (hereinafter referred to as ‘Sabre
+APAC’)), a leading provider of travel solutions and services across the globe.
+B. Sabre GLBL Inc,, an affiliate of Sabre APAC and Sabre India, has developed a global distribution system which uses
+a Computer Reservation System Software (‘CRS Software’) which it owns and operates. The said CRS Software performs
+various functions including airline seat reservations, scheduling, booking for a variety of air, car and hotel services,
+automated ticketing and fare displays, etc.
+C. Sabre GLBL Inc., had granted to Sabre Marketing Nederland B.V., a non-exclusive right to market and promote the
+CRS Software outside the United States, which it had subsequently sub-licensed to Sabre APAC - located in Abacus
+Plaza, 3 Tampines Central 1, #08-01, Singapore 529540 - for specified Asia Pacific jurisdictions. Sabre APAC has further
+been authorized to sub-license certain parts of its marketing rights and obligations to local-country distributors engaged
+in the marketing and promotion of CRS Software.
+D. Accordingly, the Applicant has obtained a non-exclusive, royalty-free right and license from its parent company i.e.,
+Sabre APAC, to distribute the CRS Software in India vide a Marketing Agreement dated 31 October 2016 with effect
+from 01 April 2016. Pursuant to the said Agreement, the Applicant has been appointed as the National Marketing
+Company to conduct marketing and promotion of access of the CRS Software to end subscriber's viz. travel agent in
+India. Hereto annexed and marked as "Exhibit A" is a copy of the Marketing Agreement dated 31 October 2016.
+E. The scope of the services provided by the Applicant under the terms of the said Marketing Agreement are:
+i) Marketing services including advertising, identifying potential customers, identifying business opportunities,
+demonstrating offerings;
+ii) Consultancy and provision of information services;
+
+ReMarketing support services, including PR, promotions, sponsorship, and special events and trade shows; and
+ROVANCR RAD r services necessary or advisable to perform its obligations under the said
+Varkétins\ greement.
+ig Agreement and its O)
+
+peration:
+
+ngly, while marketing access to the CRS Software, the sales team of the Applicant approaches potential
+subscribers iff India to whom they explain the features of the CRS Software and the flexibility of same to integrate with
+the pofesftiaf’ subscriber's system for smooth functioning; Thereafter, in the event of a positive response, the Applicant
+ar the gedentials and the business potential of the subscriber to whom it proposes to market the CRS Software; Based
+Ni ‘Foefanizational and workflow analysis of the subscriber and following a background check of their prior activities,
+bsApplicant logs on a request into the system through the website maintained by Sabre APAC called Subscriber
+Communication Management System. This is an automated process wherein a request is placed by the Applicant to
+create a Pseudo City Code; Simultaneously, provided the subscriber agrees to use the CRS Software, order forms are
+collected from them to begin the process for activation of the CRS Software following the creation of the Pseudo City
+Code; If the subscriber meets all the criterion set forth by Sabre APAC for subscription, it is registered successfully and
+a Pseudo City Code is allotted in its favor. Once the Code is allotted and the setup is activated, the Applicant's engineers
+install user interfaces to access the CRS Software in the subscriber's computer systems.
+
+In this manner, once the organizational and workflow analysis is complete, the Applicant undertakes reporting of
+the results in the Subscriber Communication Management System owned by Sabre APAC. Consequently, the scouting
+of potential subscribers and the said organizational and workflow analysis of such potential subscribers are the
+deliverables by the Applicant which is submitted in the SCMS system in the form of a non-binding request.
+
+Herein, the responsibility of the Applicant, stands completed on the identification of the potential subscribers to
+Sabre APAC. Subsequently, their responsibility of providing marketing support services (e.g. installation of interfaces
+to the CRS Software, consultancy, assistance, provision of information services, etc.) relating to the CRS System arises
+only once Sabre APAC decides to accept the potential customer based on the analysis provided by the Applicant.
+
+Thus, based on the analysis of the subscriber's business provided by the Applicant, Sabre APAC makes a decision on
+whether or not to allot a Pseudo City Code to the potential subscriber and it is only following an affirmative decision
+that the Applicant's engineers install user interfaces to access the CRS Software in the subscriber's computer systems.
+The decision to permit the subscriber's to have access to the CRS Software is based on the internal criterion set forth by
+Sabre APAC and the Applicant is not involved in the decision making process.
+
+G. Marketing Support Services pursuant to the Marketing Agreement:
+
+Additionally, the Applicant also undertakes sales promotion and marketing support activities to advance the
+
+business of Sabre APAC in India. This includes marketing support services such as PR, promotions, sponsorship,
+
+special events and trade shows, as well as any other services necessary to perform its obligations under the Marketing
+
+Agreement. Such services are provided with the aim to make the CRS Software the reservation system of choice for
+
+subscribers and to strengthen the subscribers trust in the brand 'Sabre’ so as to augment Sabre APAC's business in
+
+India.
+
+H. The entire gamut of services are provided in an integrated manner to Sabre APAC, and for consideration the
+
+Applicant raises a consolidated monthly invoice for the fees to be received from Sabre APAC for all the services
+
+rendered to them. The said fees, which is received in the form of convertible foreign exchange, is calculated on a cost
+2
+
+
+plus a mark-up basis as per the terms of the said Marketing Agreement. Further, the amount so received is in
+accordance to the domestic arm's length requirements under the local transfer pricing laws. Hereto annexed and
+marked as "Exhibit B" are sample copies of invoices issued to Sabre APAC.
+
+1. Basis the above facts, the various roles and responsibilities of the Applicant and Sabre APAC Under the Marketing
+Agreement dated 31 October 2016 are distinguished below:
+
+Sr. | Functions Duties of Sabre APAC Duties of Applicant
+No
+1 Strategic Planning, formulating and | No participation of the Applicant.
+Management implementation of business goals and
+functions vision inter alia based on inputs from
+the Applicant
+2 Engaging Directly enters into contract with | The Applicant would provide information for purpose
+distributors national marketing companies to | of identifying the potential customers to facilitate
+including partners | undertake various services including | license of CRS Software within the territory of India and
+and resellers marketing of the CRS software, | also provide marketing support once the subscribers
+support services, PR promotion, etc. are registered successfully. Further, the Applicant
+
+would also help Sabre APAC in disseminating details
+of CRS Software through promotions, sponsorships,
+ete.
+
+3 Right to market CRS | Sabre APAC has been sublicensed the | The Applicant has been granted the non-exclusive right
+Software within the | right to market and promote CRS | to market and promote CRS Software within the
+Asia Pacific region software within the Asia Pacific region. | territory of India. Pursuant the same, the Applicant
+It has also been sub-licensed its | identifies potential customers, demonstrates offerings,
+marketing Subscriber agreements are | etc.
+
+Awe ante by In context with the scope and explanation of Para 2.3
+: and 24 of the said agreement, it is evident that the
+applicant has the right to negotiate and execute
+
+agreements with Subscribers.
+
+Subscribers agreement entered into by the Applicant in
+its own name and on its own account. The clauses
+referred pertains to the incentives and other benefits
+that Sabre India may offer to the Subscribers viz. travel
+agents and others who may want to use the CRS. This
+is because the use of CRS is generally free and there is
+nothing of significance normally charged by Sabre
+India or Sabre APAC for registration of subscribers.
+
+4 Responding to | Provide inputs as and when | Attend to product and services related queries of the
+enquiries specifically sought by the Applicant potential and existing subscribers as and when
+required.
+5 Consultancy Basis the business analysis undertaken | The Applicant is required to provide consultancy and
+Services by the Applicant, Sabre APAC makes a | provision of information services in relation to potential
+decision on whether or not to allot the | customers.
+Pseudo City Code
+6 Acceptance or | Subscriber applications are accepted or | No participation of the of Applicant except as a
+rejections Subscriber | rejected directly by Sabre APAC at its | communication channel where required by Sabre
+Application sole discretion APAC
+a Execution of | Access to the CRS Software, by the | The Applicant provides marketing support services in
+contracts with | allotment of Pseudo CRS Software City | relation to which may include grievance redressal
+customers Code, is permitted by Sabre APAC service, repairs and maintenance services, etc.
+8 Promotional Involved, as may be required on case | Use of any and all advertising and promotion
+Activity to case basis techniques, service and support, promotion materials,
+participation in trade shows, sponsorship services, etc.
+9 Advising, on | Formulation and adoption of | Advise Sabre APAC on any changes in market,
+
+organization, any political, financial, legislative,
+industrial or other events in within the prescribed
+territory of India.
+
+marketing strategies | strategies, based on inputs of the
+and local market | Applicant
+
+conditions
+
+70 | Provide information | Decision making based on inputs | Advise Sabre APAC on any changes in market,
+on market trends, | received from the Applicant organization, any political, financial, legislative,
+competitors, and industrial or other events in within the prescribed
+new products and territory of India.
+
+services in the
+Territory
+
+
+
+]. Further, Article 11 of the Agreement provides that there is no partnership or agency activity performed by the
+
+applicant. The relevant Article is reproduced as below for ready reference:
+ARTICLE 11
+
+No Partnership/Agency Nothing in this agreement is intended to or shall operate to create a partnership or joint venture of any kind
+
+between Sabre APAC and Sabre India, or to authorize either Sabre APAC or Sabre India to act as an agent for the other, and neither
+
+Sabre APAC or Sabre India shall have authority to act in the name or on behalf of or otherwise to bind the other in any way (including,
+
+without limitation, the making of any representation or warranty, the assumption of any obligation or liability and the exercise of
+
+any right or power).
+
+K. Thus, the relationship of the Applicant and Sabre APAC established by the Agreement is on principal to principal
+basis and there is no relationship by way of an agent, broker or any other person by whatever name called and
+therefore, services provided by the Applicant to Sabre APAC are the main service provided by the applicant to Sabre
+APAC on applicant's own account.
+
+L. In light of the aforesaid facts, the Applicant seeks to determine the liability to pay tax on services rendered by the
+Applicant to Sabre APAC under the Marketing Agreement dated 31 October 2016 and to obtain a ruling with regard
+to the following questions of law as mentioned in Annexure II to this application and accordingly submits this
+application before the Hon'ble Authority for Advance Ruling.
+
+Grounds for Application / Interpretation of law in respect of the questions on which advance ruling is sought
+
+The Applicant makes the following factual and legal submissions in relation to the aforesaid questions:
+
+The Applicant is a registered Goods and Service Tax (hereinafter referred to as 'GST') assesse holding registration
+certificate bearing no. 27 AAACA4836H2ZR and is engaged in the business of providing marketing, promotion and
+distribution services to Sabre APAC.
+
+As per the definition of ‘Advance Ruling’ under Section 95(a) of the Central Goods and Service Tax Act, 2017 (hereinafter
+referred to as 'CGST Act’), an Applicant already engaged in business activities can seek an advance ruling in respect of
+matters or questions specified in Section 97(2) of the CGST Act, in relation to the supply of goods either proposed to be
+undertaken or is already being undertaken by the Applicant. Thus, an advance ruling can also be sought on the activity
+of supply of marketing and promotion services being undertaken by the Applicant.
+
+Further, the Applicant submits that the question for which an advance ruling is sought in the present case, is not pending
+before any Goods and Service tax Officer, the Appellate Tribunal or any Court. Further, to best of knowledge of the
+Applicant, the said question of law has not already been decided by the Appellate Tribunal or any court. Asa result, the
+iction as prescribed under Section 98(2) of the CGST Act with respect to issues already pending or decided under
+‘ovisions of the CGST Act would not apply in the present case.
+
+, in accordance with the legal provisions under Chapter XVII of the CGST Act, 2017 the Applicant is of the
+he present Application to ‘determine the liability to pay tax on services’ as prescribed under Section 97(2)(e)
+Act is maintainable before the Authority.
+
+al question raised by the Applicant is whether the the marketing, promotion and distribution services
+r referred to as "Said activities") provided by the Applicant to $abre APAC would be subject to tax under the
+Zoods & Services Tax Act 2017 and the Maharashtra Goods & Services Tax Act 2017 (hereinafter referred to as
+4x Acts") or would remain excluded under the said tax Acts as the said activities qualify as export of service in
+dance with Section 2(6) of the Integrated Goods & Services Tax Act 2017 read with the Said Tax Acts. In other words
+the question is as to whether the said activities provided to Sabre APAC qualifies as an export of service in accordance
+to Section 2(6) of the Integrated Goods and Service Tax Act 2017 (hereinafter referred to as 'IGST Act’) read with Section
+16 of the said Act so as to come under the definition of "zero rated supplies" which are eligible to qualify as export
+services and therefore remain excluded under the provision of the Said Tax Acts read with the IGST Act.
+
+In furtherance of the facts explained above, the Applicant wishes to draw kind attention to SABRE the facts and the more
+specific question of law on which the applicant craves for an Advance ruling, viz.:
+
+1. WHETHER THE SERVICES RENDERED BY SABRE INDIA TO SABRE APAC QUALIFY FOR
+EXCLUSION UNDER THE SAID ACTS AS AN EXPORT OF SERVICE:
+
+11 In view of the statement of facts given above, the Applicant is of the view that the various services rendered
+by them to Sabre APAC would remain excluded from the Said Acts since the same would qualify as export of services
+as defined under Section 2(6) of the Integrated Goods and Service Tax Act, 2017 (hereinafter referred to as 'IGST Act’)
+read with the said Acts. In order to substantiate the said proposition it is necessary to explain the provisions prescribed
+under the GST law which are analyzed as follows:
+
+12 It is submitted that under the GST Act, the eligibility to tax of any activity is dependent on two aspects, viz.
+whether it is taxable under the provisions of the GST Acts and secondly whether the same is eligible for any exclusion
+for purpose of taxation under the GST Acts. Accordingly, it is necessary to first identify the taxability of the services
+under GST Acts and further the parameters for any exclusion from tax as are applicable in the facts and circumstances
+of the present case.
+
+1.3 Determination of taxability:
+1.3.1 It is submitted that as opposed to the erstwhile indirect tax regime where the taxable event was identified on
+
+specific events such as manufacture, sale or provision of service; under the provisions of the GST Acts, all such events
+
+have been subsumed under the single umbrella of supply as prescribed under Section 7 of the CGST Act.
+4
+
+
+132 It is submitted that for a service to qualify as supply under Section 7 of the CGST Act, It is necessary for the
+provision of the same to occur in the normal course of business and within the taxable territory of India. The burden of
+tax is only on the final consumer. Further the scheme of the Acts is that no taxes should be exported outside the territory
+of India. The charge under the Acts is not on business but on the consumer, and being a destination based consumption
+tax the place of supply of goods or services plays a vital role in determining the eligibility to tax.
+
+1.3.3 Based on the facts presented above, the objective and the intent of the parties under the Marketing Agreement
+dated 31 October 2016 is that the services are to be rendered by the Applicant from India to Sabre APAC situated in
+Singapore. This is an inter-state supply as defined under Sec 13 of the IGST Act, 2017 read with Sec 2(57) of the CGST
+Act, 2017. A reference would have to be made to the definition of 'export of services' under Section 2(6) of the Integrated
+Goods and Service Tax Act 2017 (hereinafter referred to as 'IGST Act’).
+
+14 Exclusion from Tax:
+
+141 Further, in light of the above, the incidence of GST will follow the destination principle and the tax revenue
+will accrue to the state where the goods or services are consumed. For this reason only, specific provisions have been
+framed under the IGST Act for the determination of the place of consumption of goods and services. In this manner, for
+the supply of any services where the location of the supplier or the location of the recipient is located outside India, the
+place of supply would be determined as per SABR Section 13 of the IGST Act. The said provision reads as follows:
+
+13. (1) The provisions of this section shall apply to determine the place of supply of services where the location of the supplier of
+services or the location of the recipient of services is outside India.
+
+(2) The place of supply of services except the services specified in sub-sections (3) to (13) shall be the location of the
+recipient of services:
+
+Provided that where the location of the recipient of services is not available in the ordinary course of business, the place of supply
+
+shall be the location of the supplier of services.
+(emphasis supplied)
+
+1.4.2 Asa result, in cases where the location of the supplier is in India and that of the recipient is outside India, the
+place of supply of services shall be the location of the recipient of services.
+
+1.5 Applicability of the exclusion from tax in the present case:
+
+1.5.1 In view of the above, a taxable service provided by a person in India would be subject to tax only when in
+
+accordance with the aforesaid rules mentioned in para 1.4 above has been consumed in India and not when it has been
+consumed outside the territorial boundaries of India. Consequently, where the services are provided from India and
+consumed outside India, they said activities would be excluded from taxation if they satisfy the test as export of services
+Nae eval 1 Section 2(6) of the IGST Act. The said provision defines export of services as under:
+rt of services means the supply of any service when,
+the supplier of service is located in India;
+the recipient of service is located outside India;
+% \he place of supply of service is outside India;
+~ the payment for such service has been received by the supplier of service in convertible foreign exchange; and
+the supplier of service and the recipient of service are not merely establishments of a distinct person in accordance with
+~ Explanation 1 in Section 8".
+é term ‘establishment of distinct persons’ has been explained in explanation 1 under Section 8 of the IGST Act
+ds as follows:
+fation 1.--For the purposes of this Act, where a person has, -
+an establishment in India and any other establishment outside India;
+an establishment in a state or Union territory and any other establishment outside that State or Union territory; or
+
+(ii)
+
+(iii) anestablishment in a State or Union territory and any other establishment being a business vertical registered within that
+State or Union territory, then such establishments shall be treated as establishments of distinct persons.
+15.2 Taking the above into consideration, it is relevant to examine the conditions for export of services as prescribed
+
+under Section 2(6) of the IGST Act in the present case:
+i) The supplier of service is located in India: The Applicant is a service provider located in India and all its distinct
+branches are located within the territory of India as well. Further, the Applicant has obtained GST registration for each
+of the distinct locations as per the provisions of the CGST Act.
+ii) The recipient of service is located outside India: As per the Marketing Agreement dated 31 October 2016, the Applicant
+has a contractual obligation to provide services to Sabre APAC located at Abacus Plaza, 3 Tampines Central 1, Abacus
++ SABRE Plaza, #08-01, Singapore 529540. Thus, the recipient of services is located outside India. The expression
+"location outside India" for a service receiver has been defined in Sec 2(70) of CGST Act, 2017 and reads as follows.
+(a) where a supply is received at a place of business for which the registration has been obtained, the location of such place of business;
+(b) where a supply is received at a place other than the place of business for which registration has been obtained (a fixed establishment
+elsewhere), the location of such fixed establishment;
+(C) where a supply is received at more than one establishment, whether the place of business or fixed establishment, the location of
+the establishment most directly concerned with the receipt of the supply; and (d) in absence of such places, the location of the usual
+place of residence of the recipient;
+In the facts of the case, the Certificate of Registration for Sabre APAC is at its registered office in Abacus Plaza, 3
+Tampines Central 1, Abacus Plaza, #08-01, Singapore 529540 and is evidenced by the same copy of which is attached as
+Exhibit-c.
+iii) The place of supply of services is outside India: the services are provided by the_Applicant to Sabre APAC. As per
+Section 13(2) of the IGST Act, the place of supply of services shall be the location of the recipient of services. Sabre APAC
+is located in Singapore. Consequently, as the recipient is located in Singapore, the services shall be considered to be
+
+5
+
+
+
+supplied in Singapore. Thus, the place of supply of services is outside India. A copy of the GST registration certificate
+issued to the Applicants is attached as Exhibit-D and this would be the place of location of the supplier of service in
+accordance with Sec 2(71) of the CGST Act
+iv) The payment for such services is received in convertible foreign exchange: the consideration for the services rendered
+to Sabre APAC is received in convertible foreign exchange. Sabre India charges a fee on a cost plus markup basis in US
+Dollars which the Applicant is entitled to irrespective of the number of booking made on the said CRS Software by the
+Subscribers viz. travel agent. The Foreign Inward Remittance Certificates ("FIRC') showing that the receipt of
+consideration is in convertible foreign exchange is annexed and marked as Exhibit-E.
+v) The supplier of service and the recipient of service are not merely establishments of a distinct person in accordance
+with Explanation 1 in Section 8 of the IGST Act: The Applicant is located in India and Sabre APAC is located outside
+India. Thus, the Applicant and Sabre APAC are distinct entities as per the terms of explanation 1 in Section 8 of the IGST
+Act. Moreover, they undertake operation in their own capacity on principal to principal basis and are not merely
+establishments of distinct persons.
+153 It is submitted that the main service of the Applicant under the Marketing Agreement is solely to provide
+market access to the CRS Software and to build the Sabre System as defined in the said Agreement in India. The
+Applicant merely identifies potential clients and only on acceptance of the same by Sabre APAC does the Applicant
+provide any after-sale services as may be required under the Marketing Agreement. Moreover, considering the principal
+to principal nature of the said Agreement, the Applicant provides marketing, promotion and distribution services only
+to Sabre APAC and not to any other party. Thus, all the services provided by the Applicant accrues outside India to
+Sabre APAC. There is no remuneration, fee or any other consideration received by the Applicant from anyone in India
+including the Subscriber namely travel agents in connection with the marketing activities under the Agreement
+1.5.4 Therefore, in view of the facts and the provisions of law as applicable in the present case, the Applicant has
+satisfied all the conditions under Section 2(6) of the IGST Act and therefore the activities would remain excluded from
+the applicability of the Said Acts since the Applicant is entitled to claim the benefit of zero-rated supplies as prescribed
+under Section 16 of the IGST Act.
+2. SERVICES RENDERED BY THE APPLICANT CANNOT FALL UNDERINTERMEDIARY
+
+SERVICES AS PER THE TERMS OF SECTION 2013 OF THE IGST ACT:
+
+The services rendered by the Appellant are not in the nature of intermediary services.
+
+2.1 At the outset the Applicant wishes to reiterate and emphasize that, the Applicant provides the services to Sabre
+
+APAC on principal to principal basis with the only intention of promoting and marketing of CRS Software in India.
+
+is regard it is also necessary to examine the scope of the expression intermediary’ as defined under Section 2(13)
+
+IGST Act.
+
+itted that the Marketing Agreement between the Applicant and Sabre APAC do not intend to operate so as
+
+to reat a partnership or a joint-venture between the Applicant and Sabre India. It is a contractual relationship is
+
+wo distinct entities for the supply of services from India and the receipt of the same in Singapore.
+
+rnjpre, neither does any clause of the Marketing Agreement requires any facilitation or any similar
+
+‘« nt with respect to the Subscribers in India viz travel agents by the Applicant, nor does the said Agreement
+t obligation on the Applicant's part to facilitate or arrange the supply of goods or services by Sabre APAC to
+
+fe St cribers, Herein a reference can be made to Article 11 of the Marketing Agreement enclosed as Exhibit A.
+
+rsd Article 11 reads as follows:
+
+fe in this Agreement is intended to or shall operate to create a partnership or joint venture of any kind between Sabre APAC
+
+Sabre India, or to authorize either Sabre APAC or Sabre India to act as agent for the other, and neither Sabre APAC or Sabre
+
+India shall have authority to act in the name or on behalf of or otherwise to bind the other in any way (including, without limitation,
+
+the making of any representation or warranty, the assumption of any obligation or liability and the exercise of any right or power)."
+
+2.5 To ascertain whether the services provided by the Applicant are covered under the definition of ‘intermediary
+or not, it is pertinent to analyze the term ‘intermediary’ in detail vis-a-vis activities performed by the Applicant
+as per the agreement entered into with Sabre APAC.
+
+2.6 In terms of provisions of Section 2(13) of the IGST Act, ‘intermediary’ means a broker, an agent or any other
+
+person, by whatever name called, who arranges or facilitates the supply of goods or services or both or securities,
+
+between two or more persons, but does not include a person who supplies such goods or services or both or securities
+
+on his own account. As per the said definition, the person who arranges or facilitates transactions in securities will als
+
+be considered as an Intermediary.
+
+27 The above definition of intermediary has following three parts:
+
+* Such person should be a broker or an agent or similar person
+* Such person should arrange or facilitate supply of goods or services or both or securities between two or more persons
+
+* Should not be a person who supplies goods or services or both or securities on his own account
+
+2.8 In this context, it is important to note of the expression 'means'. It is trite law that the use of the word 'means'
+ina definition governs the words following and hasa restrictive meaning. Therefore, in the present case, an intermediary
+can mean only a broker, an agent or any other person, by whatever name called.
+
+2.9 In view of the above definition, it would be pertinent to understand the meaning and scope of the words 'broker'
+and ‘agent’. The words 'broker' and ‘agent’ have been defined in the Black's Law Dictionary as follows:
+
+Broker: "An agent employed to make bargains and contracts between other persons, in matters of trade, commerce, or
+
+navigation, for a compensation commonly called "brokerage."
+Agent: "One who represents and acts for another under the contract or relation of agency, q. v. Classification. Agents
+
+are either general or special. A general agent is one employed in his capacity as a professional man or master of an art
+6
+
+
+
+or trade, or one to whom the principal confides his whole business or all transactions or functions of a designated class;
+or he is a person who is authorized by his principal to execute all deeds, sign all contracts, or purchase all goods, required
+ina particular trade, business, or employment."
+2.10 The dictionary meanings extracted above, clearly indicate that, an element of ‘representation’ of ‘acting on
+behalf of the other person’ should be mainly present for a person to be considered a& 'broker' or ‘agent’, In other words,
+Agent or a Broker represent and act on behalf of another person i.e. the principal, and do not work at their own behest
+but as a representative of on behalf of their principal. Therefore, it can fairly be concluded that a principal - agency
+relationship between persons forms the core requirement of an agent or a broker.
+2.11 Besides, the last phrase in the means clause of the definition of 'intermediary' contains the clause "or any other
+person, by whatever name called". The most appropriate rule of interpretation which is to be used while interpreting the
+phrase 'by whatever name called’ is the principle of Ejusdem Generis. The application of this Rule is necessitated because
+of the use of a general phrase preceded by specific words. Ejusdem generis is a rule of interpretation that where a class
+of things is followed by general wording that is not itself expansive, the general wording is usually restricted things of
+the same type as the listed items.
+
+2.12 Thus, applying the interpretative rule of Ejusdem Generis, the phrase 'by whatever name dalled! will include a
+person in the same genus as that of a broker or an agent. In other words, the phrase "by whatever name called’, will
+mean a person who is also appointed in a representative capacity.
+
+213 Further, the second element of the definition provides the nature of activities performed by the broker or agent
+which would be classified as intermediary services. As per the definition, "only the activity of arranging or facilitating
+the supply of goods or services or both, or securities between two or more persons," by a broker or an agent would be
+tantamountata intermediary services.
+
+2.14 The said definition makes it clear that only a person being a broker or an agent or any person acting on behalf
+of the principal, arranging or facilitating the supply of goods or services or both between two or more persons would be
+construed to be an intermediary.
+
+2.15 Moreover, the said definition also contains an exclusion in as much as any person (including a broker, agent or
+any other person) who provides the main supply on his own account will not qualify as an intermediary. In other words,
+if a person provides the supply on his own account, then such a supplier is not covered under the definition of term
+intermediary.
+
+2.16 Accordingly, having regard to the analysis of definition of ‘intermediary services' it can clearly be said the
+Applicant being a person who supplies the main services on its own account does not qualify as an intermediary. As the
+services are provided on a principal-to-principal basis to Sabre APAC, the Applicant would be covered under the
+exclusionary clause of the above definition.
+
+It is submitted that the Marketing Agreement dated 31 October 2016 between the Sabre India and Sabre APAC
+it clear that Sabre APAC has been granted the authority to sub-license some of it rights to local distributors so as
+e and market the CRS Software. The said Agreement does not create an obligation on the part of the Applicant
+ila or arrange the supply of goods or services by Sabre APAC to the Subscribers. It only creates an obligation on
+dct'df the Applicant to provide marketing services to Sabre APAC with respect to the CRS Software belonging to
+nc. within the territory of India.
+ein, it is pertinent to note that, an agent typically facilitates supply of goods or services between two or
+; therefore, acts under a tripartite arrangement i.e. such arrangement ought to have at least three parties -
+and the agent. Whereas, no clause of the Marketing Agreement between the Applicant and Sabre APAC,
+the rendering of facilitation or arrangement of services by the Applicant between Sabre APAC and the
+r. The Agreement does not facilitate nor does it enable the facilitation of any supply of services between Sabre
+and the Subscriber. There is no privity of contract between the Applicant and the Subscriber namely travel agent
+in India where by the Applicant is under any obligation or duty owed to the Subscriber in terms of the arrangement with
+the Sabre APAC under the Marketing Agreement
+2.19 Hence, the Applicant does not qualify as an ‘intermediary’ as per Section 2(13) of IGST Act.Moreover,
+considering the principal to principal character of the agreement, the Applicant provides marketing, promotion and
+distribution services in relation to the CRS Software only tb Sabre APAC and not to any other party.
+
+2.20 Given that the definition of ‘intermediary’ under the IGST Act is largely in line with the definition of
+intermediary under the erstwhile Service Tax Legislation (Finance Act, 1994), the guiding principles provided under
+Education Guide released by Central Board of Excise and Customs under the erstwhile Service Tax legislation for
+determining whether a person acts as an intermediary can be referred in this context. The same are reproduced below
+for the purpose of discussion:
+
+° Nature and Value: An intermediary cannot alter the nature or value of the service, the supply of which he
+facilitates on behalf of his principal, although the principal may authorize the intermediary to negotiate a different price.
+Also, the principal must know the exact value at which the service is supplied (or obtained) on his behalf, and any
+discounts that the intermediary obtains must be passed back to the principal.
+
+° Separation of Value: The value of an intermediary's service is invariably identifiable from the main supply of
+service that he is arranging. It can be based on an agreed percentage of the sale or purchase price. Generally, the amount
+charged by an agent from his principal is referred to as "commission".
+
+° Identity and title: The service provided by the intermediary on behalf of the principal is clearly identifiable.
+Further the said Educational Guide at para 5.9.6 has stated as follows: "Similarly, persons such as call centres, who
+provide services to their clients by dealing with the customers of the client or the client's behalf, but actually provide
+these services on their own account, will not be categorised as intermediaries"............. (emphasis supplied)
+
+7
+
+
+2.21 It is imperative to analyze the nature of services rendered by the Applicant in light of the above guiding
+principles. Accordingly the same is discussed in the below paragraphs:
+
+¢ Nature and value: Applicant is facilitating service between travel agents and Sabre APAC, this structure cannot
+render them s intermediary. The question of altering the nature of value of service can apply only when the
+applicant qualifies as an agent, etc., and not otherwise.
+
+e Separation of Value: The consideration received by the Applicant is a service fee which is calculated on cost plus
+mark up method. It is submitted that the mere fact that the remuneration is by way of commission’ cannot alter the
+status of the Applicant to that of an agent when the basic agreement with Sabre APAC clearly states that there is
+no right of representation under Article 11. Further whether there are any registrations from the Subscriber viz
+travel agents in India or not even in that case the minimum establishment cost of the Applicant with the mark up
+as provided in para 5.1 of the Marketing Agreement will have to be paid by SABRE APAC to Sabre India. It is
+settled law that the person who is entitled to the receipt of service and who has the obligation to pay for the said
+service alone is the service receiver and no other person even if such other person were to indirectly benefit from
+the provision of the main service.
+
+e Identity and title: The third principle indicates that the service provided on behalf’ of the principal is clearly
+identifiable. The Applicant submits that as per Article 11 of the Agreement, the relationship between the parties is
+clearly restricts the performance of the activity in the nature of Agent. Therefore the Applicant submits that no
+services is provided by the Applicant on behalf of Sabre APAC. The activities performed by the Applicant directly
+to Sabre APAC is only ona principal to principal basis.
+
+2.22 Accordingly, the services rendered by the Applicant do not satisfy any of the guiding principles laid down
+under the erstwhile Service Tax regime in relation to intermediary services.
+2.23 In the light of the above detailed analysis and discussions, it is submitted that the services provided by the
+
+Applicant are only in the nature of marketing, promotion and distribution activities. As stated earlier with reference to
+
+Educational guide above the fact that the Applicants would interact with the Travel agents cannot take away the
+
+relationship with Sabre SABRE APAC from that of a principal to principal basis and bring them within the scope of
+
+Intermediary.
+
+2.24 Further, there is no privity of contract between the Applicant and the customers of Sabre APAC and the
+
+customers or are in no way connected with the services supplied by the Applicant to Sabre APAC. Nor is Sabre India
+
+accountable in any way to the Subscribers for any deficiency in the service provided by the Sabre APAC directly to the
+
+Subscribers by way of on line data access and retrieval services. Hence, services supplied by the Applicant cannot be
+
+characterized as an intermediary services.
+
+2.25 In summary, the services rendered by the Applicant in pursuance of the Marketing Agreement dated 31 October
+
+2016, do not qualify as intermediary services for the following reasons:
+
+Services provided by the Applicant only involve standalone activities such as market survey, advising Sabre
+arketing strategies, conducting promotional activities and responding to prospective queries that may arise
+me
+
+an\any case, the Applicant does not arrange or facilitate any supply of goods or services inter alia due to the
+eat
+
+T
+
+sons:
+Applicant cannot conclude the contracts on behalf of Sabre APAC or to make any commitment on the
+If 0 re APAC as an agent or otherwise or to bind Sabre APAC in any respect.
+by Applicant does not have any authority to allow the creation of the Pseudo City Code in favour of the
+sri to grant access to the CRS Software.
+The applicant's role is limited to undertaking marketing and promotional activities, undertake market research
+d informing of Sabre APAC of interest of potential customers immediately by raising a request for grant of a Pseudo
+City Code. It does not have any authority whatsoever to bind Sabre APAC with respect to issuance of the same. Sabre
+APAC may directly accept or reject such requests on its own discretion.
+- The information / any services provided by the Applicant are not the sole basis upon which Sabre APAC would
+accept or reject the orders received from customers. They would depend upon various other business factors taken into
+consideration by Sabre APAC. The decision to allow or reject access solely rest with the Sabre APAC
+- The Applicant plays no role in enabling Sabre APAC and the subscriber to enter into contract for access of CRS
+Software except feeding the information via the system to enable Sabre APAC register the admitted and only supports
+in providing product related information and engages in discussion as required by Sabre APAC.
+- Consideration for the service rendered is based on costs incurred by the Applicant in supplying services plus a
+pre-agreed mark-up which is independent of actual value / volumes of services, if any, ultimately provided by Sabre
+APAC. This evidences that the Applicant receives fee for provision of services to Sabre APAC and not any commission
+as in case of agency relationship and hence, does not arrange or facilitate any supply of services to Sabre APAC.
+2.26 In light of the above detailed analysis and discussions, it is submitted that, the services SABEN provided by the
+Applicant are limited to marketing, promotion, distribution activities and other support activities.
+
+3. THE SERVICES RENDERED BY THE APPLICANT IS CLASSIFIABLE AS A COMPOSITE SUPPLY AS
+PER THE TERMS OF SECTION 230) OF THE CGST ACT:
+
+a It is submitted that under the Marketing Agreement dated 31 October 2016 with the Sabre APAC, the Applicant
+provides in an integrated manner, a bundle of services in relation to marketing and promotion of CRS Software
+within the territory of India which includes advertising, identification of potential business opportunities,
+
+8
+
+
+demonstrating offerings, consultancy, promotion, sponsorships and other related support services necessary to
+perform its obligations under the terms of the agreement.
+
+3.2 All the services rendered by the Applicant are provided in conjunction with each other with the ultimate aim
+
+of providing better customer experience leading to the establishment of a trust with the Subscribers in India, which
+
+would collectively work towards augmenting the business of Sabre APAC in India. Herein, the supply of services like
+consultancy, promotion, sponsorships and other related support services rendered by the Applicant are supplementary
+to the main supply of marketing and promotion services provided to Sabre APAC.
+
+33 Considering the nature of the services offered by the Applicant and its operation under the Marketing
+Agreement, these are a bundle of services supplied by the Applicant to Sabre APAC and is a composite supply’
+as defined under Section 2(30) of the CGST Act. The said provision reads as follows:
+
+"composite supply means a supply made by a taxable person to a recipient consisting of two or more taxable supplies of goods or
+
+services or both, or any combination thereof, which are naturally bundled and supplied in conjunction with each other in the ordinary
+
+course of business, one of which is a principal supply"
+
+3.4 Thus, for a supply to be treated as a composite supply, it has to meet the following conditions:
+
+-the supply should consist of two or more taxable supplies;
+
+-they should be naturally bundled together;
+
+-they should be sold in conjunction with each other; and
+
+-One of the supplies should be the principal supply, i.e, the predominant portion of the supply to which the other supply
+
+is ancillary
+
+3.5 It is submitted that in the present case, the services like consultancy, promotion, sponsorships and other related
+
+support services are of a supplementary nature which facilitate the provision of the marketing and promotion services
+
+rendered by the Applicant to Sabre APAC. Therefore, said service of marketing access to the CRS Software is of principal
+nature with the other services being supplementary to it, as the other marketing support services cannot be rendered in
+the absence of the marketing services provided by the Applicant under the Marketing Agreement.
+
+3.6 Further, such services are not peculiar to the Applicant's case and similar services are provided by various
+
+Indian entities to their overseas customers as a single package. Besides, for the provision of the said services, the
+
+Applicant issues a single consolidated monthly invoices on a cost plus markup basis for the entire bundle of services,
+
+irrespective of the nature of actual supplies made during the said period. Consequently, the services of marketing,
+
+consultancy, promotion, sponsorships and other related support services provided under the Marketing Agreement are
+naturally bundled and supplied in conjunction with each and can be classified as a ‘composite supply’.
+
+SUMMARY OF INTERPRETATION OF LAW AND FACTS:
+
+Under the provisions of the Section 2(6) of the IGST Act, to avail the benefit of export of taxable services, the services are
+
+to be delivered outside India and used outside India and payment for services exported should have been received by
+
+he service provider in convertible foreign exchange.
+
+ittedly, the services provided by the Applicant of identification of potential customers are non-binding in nature
+
+Sabre APAC having the option to not follow the recommendations/ evaluations made by the Applicant. The
+
+Mt is not involved in the decision making process of the service recipients with regard to the provision of access
+
+Software. Further, the marketing support services too are provided by the Applicant to Sabre APAC under
+
+i keting Agreement. Thus, no part of the Marketing Agreement facilitates or arranges the supply of services,
+
+ally creates an obligation to provide the said services directly to Sabre APAC on a principal-to-principal basis.
+
+i lly, although the overseas clients use the services provided by the Appellant for augmenting their business in
+
+SivAs immaterial how beneficial the services have been to them for the payment of remuneration. In other words,
+thasofcideration is received by the Applicant irrespective of the number of bookings made through the CRS Software.
+
+A oférdingly, in view of the facts and legal provision the Applicant is of the view that as the services rendered by them
+
+% Sabre APAC, under the Marketing Agreement dated 31 October 2016, meets all the conditions prescribed under
+
+Section 2(6) of the IGST Act, it can be said that the said services are excluded from the Said Acts being in the nature of
+
+exports and qualify as zero-rated supplies under Section 16 of the IGST Act.
+
+Finally, as all the services rendered under the said Marketing Agreement are naturally bundled and provided in
+
+conjunction with each other for which a single invoice is raised by the Applicant the service may be classifiable as a
+
+composite supply’ as defined under Section (30) of the CGST Act and thus all such supplementary activities would also
+
+be excluded from the Said Acts.
+
+Without prejudice to above submission, the Applicant respectfully requests Your Honor to grant an opportunity of
+
+personal hearing in this matter in order to explain the matter more lucidly, The Applicant reserves their right to modify,
+
+rescind or alter any part of submissions and to place additional evidence in support of their contention at the time of
+
+personal hearing.
+
+WRITTEN SUBMISSION AT THE PERSONAL HEARING ON 10 JULY 2018
+Brief Background:
+
+A. Applicant is private limited company engaged in the provision of marketing, promotion & distribution of the
+Computer Reservation System Software ("CRS Software’) within the territory of India. The CRS Software has been
+developed by Sabre GLBL Inc. as a global distribution system which performs various functions including airline seat
+reservations, scheduling, automated ticketing & fare displays, booking for a variety of air, car & hotel services, etc.
+
+B. Sabre APAC, the Applicant's parent company situated in Singapore, has been sub-licensed the right to market
+and promote the said CRS Software for Asia specific jurisdictions. Further, it has been authorised to further sub-license
+
+certain parts of its marketing rights and obligations to local-country distributors. Accordingly, Sabre APAC has
+9
+
+
+appointed the Applicant as the National Marketing Company vide a Marketing Agreement dated 31 October 2016
+pursuant to which the Applicant has been granted a non-exclusive right to market and distribute the CRS Software to
+various travel agents in India.
+
+[ars Under the said Marketing Agreement, the Applicant provides a range of services relating to marketing and
+sales promotion which includes advertising, consultancy, public relations, promotions, marketing support services, etc.
+These services are rendered by the Applicant to Sabre APAC for which consideration is payable by Sabre APAC in the
+form of convertible foreign exchange, calculated on a cost-plus markup basis. The cost-plus markup basis comprises of
+the monthly qualifying cost which is the sum of all costs incurred by the Applicant in the process of provision of service
+together with a profit margin of ten percent thereon and is the basis adopted for purpose of Transfer Pricing provision
+under the Income tax Act. Herein, transfer pricing study and documentation is one of the procedures to be followed
+under the Income Tax laws of India and it forms the basis for assessment of corporate taxes by the Income Tax
+department
+
+D. However, the Marketing Agreement between the Applicant and Sabre APAC, does not establish any agency
+between the parties and all the services are rendered by the Applicant on a principal-to-principal basis. Further, the said
+Agreement does not operate to create any partnership or joint venture of any kind between the Applicant and Sabre
+APAC.
+
+E. In light of the above, the Applicant has preferred an Application before this Authority for Advance Ruling
+seeking to determine whether there arises any liability to discharge Goods and Service Tax ("GST") on the services
+rendered to Sabre APAC situated outside India.
+
+Submission:
+
+In order to avoid repetition and in the interest of brevity, the Applicant would like to reiterate the facts and submissions
+made in the Application and without prejudice to the same, make the following submission which it requests be
+considered as part of the Application itself:
+
+1. Submission with respect to the qualification of services rendered by the
+
+Applicant under Section 2(6) of the IGST Act
+
+11. It is submitted that the Marketing Agreement dated 31 October 2016 creates an obligation on the Applicant to
+provide marketing, promotion and distribution services to Sabre APAC in relation to the CRS Software, within the
+territory of India. The Applicant identifies potential customers and once the said customer is accepted by Sabre APAC,
+it provides after-sales services as may be required. Further, all promotion and marketing support services provided by
+the Applicant is towards the objective of building the customer base of the CRS Software in India or in relation to the
+same. Hereto annexed and marked as "Annexure 1" is a scope of the services rendered by the Applicant under the said
+Marketing Agreement dated 31 October, 2016.
+
+With respect to the services supplied by the Applicant, a reference is made to para 1.5 of the Application which
+ith the nature of the Agreement entered by the parties and the services rendered thereunder which constitutes
+4 services by the Applicant to Sabre APAC as per Section 2(6) of the Integrated Goods and Service Tax Act, 2017
+
+cordingly, GST being a destination based consumption tax, the liability to discharge tax shall not arise in
+the consumption of the supply is outside the taxable territory of India. As a result, in the present case, the
+ould be eligible to avail the benefit of zero-rated supplies as are available to exports under Section 16 of the
+
+oH this regard, reference is made to the Customs Excise Service Tax Appellate Tribunals (‘CEST. AT) Chandigarh
+wi der in the case of M/s Evalueserve.com Pvt. Ltd. v. CST, Gurgaon reported in 2018 (3) TMI 1430 - CESTAT
+Yearh wherein - as is the case with the Applicant - the Appellant, in the said order viz. M/S Evaluserve.com
+
+“Gis@tly interacted with the potential customers of its client and basis their research provided a report of the customers
+requirement to its client, subsequent to which the client would provide its deliverables. Here, M/s Evaluserve.com's
+plays a pivotal role in the building its client's customer base and subsequently its obligations would come to end once
+the said report is submitted. Thus, as in the present case, M/s Evaluserve.com's client act basis the report provided
+wherein the actual supply is made by the client of M/s Evaluserve.com. It is pertinent to note that, although M/S
+Evaluserve.com interacts with the client's customers, the actual service recipient is the client and not the client's end
+customers. Based on these facts, on the question of whether the services rendered by M/s Evaluserve.com qualifies as
+‘intermediary services’, the Hon'ble CESTAT at Chandigarh held as follows:
+
+"713, In view of the above analysis, we find that there are various decisions relied upon by the appellant in support of
+their argument and also had had observed the same. Therefore, we hold that the appellant are not intermediaries in
+terms of Rule 2(f) of the Place of Provision of Service Rules, 2012. Therefore, the appellants are not liable to pay service
+tax being provider of service in India in terms of Rule 9 of the Place of Provision of Service Rules, 2012. Therefore, the
+demands against the appellants are not sustainable. Consequently, refund claim filed by the appellants are admissible."
+
+(emphasis supplied)
+
+1.5. Further, in the ruling of the Hon'ble Advance Ruling Authority (under the Finance Act,1994) in the matter of
+GoDaddy India Web Services Pvt. Ltd. reported in 2016 (46) STR 806 (AAR), GoDaddy India was to provide a bundle of
+services such as direct marketing and promotion services, supervision of quality of third party customer care centre
+services and payment processing services under the category of ‘Business Support Services' to GoDaddy.com LLC
+(GoDaddy US’) in lieu of a proposed Service Agreement. In the said ruling, it was held by the Hon'ble Authority for
+Advance Ruling that the GoDaddy India was providing services on their own account to GoDaddy US and not to the
+Indian customers of GoDaddy US. Hence, the place of provision of service would be outside India in terms of Rule 3 of
+the place of Provision of Services Rules, 2012 and these services would qualify as export under Rule 6A of the Service
+Tax Rules. The relevant extract of the said advance ruling reads as follows:
+
+10
+
+
+"q4gee
+However, applicant is providing to GoDaddy US services viz.; direct marketing and promotion services, supervision of quality of
+third party customer care center services and payment processing services, as per draft Service Agreement between the applicant
+and GoDaddy US. There is no contract between the applicant and the customers of GoDaddy US based in India. GoDaddy US have
+used said services provided by the applicant as per the draft Service Agreement. Further, applicant would charge a fee equal to the
+operating costs incurred by the applicant plus a mark-up of 13% on such costs, which would be received by the applicant from
+GoDaddy US in US Dollars. The benefit of services provided by applicant accrues to GoDaddy US outside India. In view of above,
+judgments relied upon are of no avail to the Revenue, as services provided by the applicant are to be consumed in US and not in
+India. Further, the judgment in case of Microsoft Corporation (India) Put. Ltd. relied upon by the Revenue is an interim order
+regarding pre-deposit of the amount ordered by the Tribunal. Further, Hon'ble High Court observed that both sides have arguable
+case. In the case before us, Rule 3 ibid is applicable as the recipient of service is GoDaddy US, i.e., outside India.
+
+15. In view of above, we rule as under; In the facts and circumstances of the case, the place of provision of business support
+
+service provided by the applicant, is outside India in terms of Rule 3 of the Place of Provision of Service Rules, 2012
+ae
+
+17. In respect of Question 2 above, we held that the place of provision of service would be outside India. It is observed that in
+this case, provider of service, i.., the applicant, is located in India, which is the taxable territory; recipient, i.e., GoDaddy US is
+located in USA, the service to be provided by the applicant, i.e., business support services is not specified under Section 66D, i.e.,
+Negative List Services; applicant would receive payment for said services in convertible foreign exchange and applicant and GoDaddy
+US are not merely establishments of a distinct person in accordance with item of Explanation 3 of clause (44) of Section 65B of the
+Finance Act, 1994. As all the ingredients enlisted under Rule 6A ibid are satisfied, said service will qualify as export of taxable
+service. In view of above, we rule as under; In the facts and circumstances, the services to be provided by the applicant to GoDaddy
+US would fall to be classified under Rule 3 of the place of Provision of Services Rules, 2012 qualify as export of taxable services in
+terms of Rule 6A of the Service Tax Rules, 1994 (inserted vide Notification No. 36/2012-S.T., dated 20-6-2012) and therefore, remain
+non-taxable for purpose of payment of service tax under the Finance Act."
+
+1.6. Similar view has been taken by the Hon'ble Advance Ruling Authority at New Delhi in the case of M& Universal
+Services India Pot. Ltd. v. CST, Delhi- 1V reported in 2016 (42) STR 585 (AAR).
+47; With respect to the above, it is submitted that the criterion for the determination of export of services under
+
+the erstwhile service tax provision was similar to the provisions under the IGST Act. In this context, is may be relevant
+to refer to the CESTAT order in the case of Principal Commissioner of Central Excise -I v. Advinus Therapeutics Ltd
+reported in 2016-TIOL-3138-CESTAT-MUM wherein the Hon'ble Tribunal on the question of whether a transaction
+which enjoyed the benefit of export of service for the period prior to 2012 (before the Negative List) would have a
+different treatment under the new Rules answered as follows:
+
+"12. It is an admitted fact that the respondent had been rendering services that were, in the erstwhile pre-negative list regime, taxable
+wut for the provider being a Export Oriented Unit under the entry in section 65(105)(za) of Finance Act, 1994. In the scheme of
+Dw of Service Rules, 2005, the various taxable services had been categorized as object-based, performance-based and recipient-
+4 Nhe purpose of exemption Section 93 of Finance Act, 1994. Though those Rules are no longer valid for the purposes of rule
+N WAT Credit Rules, 1994, their guidance value cannot be discountenanced. The ‘negative list' regime was not intend to be
+ental or beneficial to existing assessees except where such intent was specifically sanctioned by legislation. The
+rior to Ist July 2012, was eligible for all benefits as the service rendered by them was treated as export with the recipient
+: being outside the country. The corresponding provision in Place of Provision of Service Rules, 2012 is rule 3 which
+brings the sffrvice within the ambit of export of service in rule 6A of Service Tax Rules, 1994. Revenue has not made any submission
+me af ey, if intent to deprive a provider of ‘scientific or technical consultancy service’ in the erstwhile regime of its status as exporter
+
+p
+
+yfuning to change in the regime.
+
+43,Typtie context of a catena of judgments and decisions that exports are not taxable and, with the most palpable manifestation of
+
+we A of invisibles being th i i i . ipi i
+xe ig the receipt of convertible foreign exchange from a recipient of service located outside the country, that
+
+Services are taxable at the destination, the scope of rule 4 must necessarily be scrutinized to ascertain if there was, indeed, legislative
+intent to deny acknowledgement as exporter to a certain category of service providers that were so privileged tell them. There is no
+dispute that the recipient of service is located outside India and that the consideration is received in foreign convertible currency.
+Yet, Revenue insists that performance of service is in India. A service is not necessarily, a single, discrete, identifiable activity; on
+the contrary, it is a series of invisibles that cater to the needs of a recipient; it is upon the consumption of the service by the recipient
+that service is deemed to have become taxable. This has been so held by the Hon'ble Supreme Court in All India Federation of Tax
+Practitioners v. Union of India & Others
+'7. In the light of what is stated above, it is clear that Service Tax is a VAT which in turn is destination based consumption tax in
+the sense that it is on commercial activities and is not a charge on the business but on the consumer and it would, logically, be leviable
+on services provided within the country.
+It would appear from the exposition in the judgment that the tax was intended as a levy on activities that would otherwise be
+performed by the recipient for itself. The new industry of hiving out or outsourcing of what was, conceivably, being done within the
+enterprise was intended to be subject to the new levy. In the matter of service rendered by respondent, this activity could, but for
+commercial viability, will be executed by the recipient within its own organization or the territory in which it exists. The satisfaction
+of the customer occurs upon an outcome which is possessed by the recipient. Hence, even if some of the activities are carried out in
+India, by no stretch can it be asserted that the fulfilment of the activity is in India. Therefore, the inescapable conclusion is that the
+location of the actual performance of the service is outside India and, even with the special and specific provision of rule 4 of Place of
+Provision of Services, 2012, the performance of service being rendered outside India would render it to be an export.
+oe
+1.8. By this elaboration, we have amplified our earlier decision in (re Sai Life Sciences Ltd) that it is contrary to law to isolate
+an expression in a rule to deny the general principle built into all indirect tax statutes for exempting export of services from levy."
+
+i
+
+
+1.8. In any event, as it has been held in a number of precedents, the nature of transaction and the scope of the
+contract depends on the intention of the parties which is to be determined on a construction of the contract. The
+Marketing Agreement between the Applicant and Sabre APAC clearly does not intend to create any agency, partnership
+or joint-venture between them.
+1.9. It is a settled principle in law that the intention of the parties to the document is more relevant than words used
+in the document. The same is even described in the legal maxim 'uihaeret in literahaeret in cortice.'
+1.10. In the case of Ramdev Food Products (P) Ltd. v. Arvindbhai Rambhai Patel reported in (2006) 8 SCC 726, the
+Supreme Court quoted with approval the principles of construction of contracts from ‘Interpretation of Contracts' by
+Kim Lewison, Q.C.which states that "for the purpose of the construction of contracts, the intention of the parties is the meaning of
+the words they have used. There is no intention independent of that meaning." Herein, reliance is also placed on the judgment
+in the case of G.S.Lambha & Sons v. State of Andhra Pradesh reported in 2015 (324) ELT 0316 AP which reiterates the
+same.
+141; Besides, it is also a settled position of law that a Contract or Agreement must be read as a whole and not
+piecemeal. In this respect, the Applicant relies on the Supreme Court in the case of Super Poly Fabriks v. CCE, Punjab
+reported in 2008 (10) STR 545 S.C wherein the Supreme Court held as follows:
+"8. There cannot be any doubt whatsoever that a document has to be read as a whole. The purport and object with which
+the parties thereto entered into a contract ought to be ascertained only from the terms and conditions thereof."
+1.12. Also, the Applicant also refers to para 5.9.6 of the Education Guide issued by the Central Board of Excise and
+Customs (hereinafter referred to as 'CBEC’) in the year 2012 which states that it is expected the intermediary or agent
+would have documentary evidence authorizing him to act on behalf of the provider of the main service.'
+118. In the present case, the Marketing Agreement does not entrust such authority on the Applicant, nor is there
+any other authorising document establishing agency between the Applicant and Sabre APAC. Thus, the services
+rendered by the Applicant are on a principal to principal basis and qualify as export as export of services and the same
+cannot be considered to be intermediary services as per Section 2(13) of the IGST Act.
+2. Submission with interpretation of the term intermediary services under Section 2(13) of the IGST Act
+24. Section 2(13) of the IGST Act, defines an intermediary to mean "a broker, an agent or any other person, by whatever
+name called, who arranges or facilitates the supply of goods or services or both, or securities, between two or more persons, but does
+not include a person who supplies such goods or services on his own account."
+2.2. It is submitted that the above definition can be divided into three parts, viz.
+(i) the means clause defining the nature of the service provider
+
+(ii) the nature of services provided and
+iii) the exclusiona: art which carves out an exception for the "person who supplies such goods or services on his own
+ry Pt Pp P PP! 8
+
+NATURE OF THE SERVICE PROVIDER
+
+Based on the above, it clear that an intermediary should 'mean'’, a broker or an agent or any other person, by
+ame called. Here, it is pertinent to note the use of the word 'means' in the said definition. It is trite law that
+ko Sf the word 'means' in a definition governs the words following it and has a restrictive meaning. Thus, in the
+a 4, an intermediary can mean only a broker, an agent or any other person, by whatever name called.
+
+Wnfthis respect, the first two words in the means clause are 'broker' or 'an agent’. The words 'broker' and ‘agent’
+
+in been defined in the Black's Law Dictionary as follows:
+nfgen
+
+mployed to make bargains and contracts between other persons, in matters of trade, commerce, or navigation, for a
+ion commonly called "brokerage"
+"One who represents and acts for another under the contract or relation of agency, 9. v. Classification. Agents are either
+general or special.
+
+Agent:A general agent is one employed in his capacity as a professional man or master of an art or trade, or one to whom the
+principal confides his whole business or all transactions or functions of a designated class; or he is a person who is authorized by his
+principal to execute all deeds, sign all contracts, or purchase all goods, required in a particular trade, business, or employment.
+2338. The dictionary meanings extracted above, clearly indicate that there is an element of 'representation' or ‘acting,
+on behalf of the other person' present in the words.In other words, ‘agent’ and a 'broker' do not work at their own behest
+or instruction but as a representative or on behalf of their principal. Further, the last phrase in the means clause of the
+definition of ‘intermediary! contains the clause "or any other person, by whatever name called". Accordingly, the
+question that has to be asked is whether the ‘any other person’ will have a nature/ character distinct from that of a broker
+or an agent or will it continue to have the same nature and character as that of a broker or an agent.
+2.3.4. The Golden Rule of Interpretation enunciated and espoused by various judicial pronouncements states that the
+words of a statute must be given their plain grammatical meaning. The intention of the legislature has to be gathered
+and deciphered in its proper spirit having due regard to the language uses therein. But, when the words are unclear or
+ambiguous, aid of other rules of interpretations must be used.
+2.3.5. The most appropriate rule of interpretation which is to be used while interpreting the phrase 'by whatever name
+called’ is the principle of 'ejusdem generis’. The application of this Rule is necessitated because of the use of a general
+phrase preceded by specific words. The words ‘ejusdem generis' mean 'of the same kind or nature’. 'Ejusdem generis' is
+a rule of interpretation whereby when a class of things is followed by general wording that is not itself expansive, the
+meaning of the general words are taken to be restricted by implication with the meaning of restricted words.
+2.3.6. The rule of 'ejusdem generis’ is applied in the following cases:
+- The statute enumerates the specific words
+- The subjects of enumeration constitute a class or category
+
+- That class or category is not exhausted by the enumeration
+12
+
+
+- The general terms following the enumeration, and
+- There is no indication of a different legislative intent.
+237. In the case of CIT v. Rani Tara Devi reported in [2013] 355 ITR 457 (P & H), the Hon'ble Punjab and Haryana
+High Court had held as follows:
+"The expression ‘by any other name' appearing in Item (a) of clause (iii) of Section 2 (14) of the Income Tax Act has to be read
+ejusdem generis with the earlier expressions i.e. municipal corporation, notified area committee, town area committee, town
+committee."
+2.3.8. The phrase 'by any other name’ and 'by whatever name called’ have a proximate purpose ina statute and hence
+the principle laid down by the P&H High Court supra will apply on all squares. In this respect, the Hon'ble Supreme
+Court in the case of Commissioner of Income Tax, Udaipur v. Mcdowell& Co. Ltd. in civil Appeal 2939/2009 decided
+on 8 May 2009 held as follows:
+"10. It would be pertinent to note that the expression now used in Section 43B (1)(a) is "Tax, Duty, Cess or, ‘fee or by whatever name
+called". It denotes that items enumerated constitute species of the same genus and the expression ‘by whatever name called' which
+follows preceding words 'Tax', ‘Duty’, 'Cess' or ‘fee' has been used ejusdem generis to confine the application of the provisions not
+on the basis of mere nomenclatures, but notwithstanding name, they must fall within the genus ‘taxation’ to which expression ‘Tax’,
+'Duty', 'Cess’ or 'Fee' as a group of its specie belong vis. compulsory exaction in the exercise of State's power of taxation where levy
+and collection is duly authorised by law as distinct from amount chargeable on principle as consideration payable under contract."
+23.9; The Applicant also relies on the CBEC Circular bearing No. 83/1/2006-ST dated 4 July 2006 issued by the
+CBEC, wherein the applicability of the principle of 'ejusdem generis’ with respect to the term ‘any other person'
+was interpreted to be mean as follows:
+"3. Banking and other financial services are defined under section 65(12). Such services provided to a customer by a banking company
+or a financial institution including a non-banking financial company or any other body corporate or any other person to a customer
+are liable to service tax under section 65(105)(zm). The expression ‘any other person'appearing in section 65(105)(zm) is to
+be read ejusdem generis with the preceding words. The expression ‘other financial services' appearing under section
+65(12)(a)(ix) is a residuary entry and includes; those services which are normally rendered by banks or financial
+
+institutions"
+(emphasis supplied)
+
+2.3.10.Thus, applying the principle laid down by the Hon'ble Supreme Court, supra, and the interpretative rule of
+‘ejusdem generis’, the phrase 'by whatever name called’ will include a person in the same genus as that of a broker or an
+agent. In other words, the phrase 'by whatever name called’, will mean a person who is also appointed ina representative
+capacity.
+2.4. NATURE OF THE SERVICE
+It is submitted that the said portion defines the nature of transactions which if provided by a broker or an agent
+any person (by whatever name called) would be covered under the services provided by an ‘intermediary’. As per
+@finition the broker, agent of any other person will arrange for the provision of service or facilitates the provision
+s@zvice (or supply of goods) between two or more persons. The words that have been used in the definition are - (i)
+8 d (ii) facilitates. As a result, it would be pertinent to understand the meaning of these words. The said two
+
+word9 are generally defined as under:
+
+4 Arrange: ‘plan, organize, and carry out’
+
+j Facilitate: 'to make (an action or process) easy or easier'
+
+AQ from the above definitions it is clear that the intermediary being a broker or an agent, or any person acting on
+ue he principal, arranges or facilitates the supply of goods or services between two or more persons. Thus, the
+r 4 or agreement between the principal and agent (broker/ any other person) assumes a great deal of importance
+
+‘derstand whether it facilitates or arranges for the provision of service or supply of goods between two or more
+
+persons.
+
+2.43. It is clear from the above that in order to qualify as an ‘intermediary’ the person should not be providing main
+
+service on his own account. Consequently, services rendered on principal-to-principal basis would not be covered under
+
+the subject definition.
+
+244, Based on the above, an intermediary is a person who arranges or facilitates the supply of goods or services, or
+
+both. For that reason, he would be involved with the provision of two supplies simultaneously, viz.:
+
+- The supply between the principal and the third party; and
+
+- The supply of his own service (agency service) to his principal, for which a fee or commission is usually charged.
+
+2.4.5. In the present case, all the activities carried out by the Applicant constitutes as a single supply which is the
+
+only supply to Sabre APAC. There are no two supplies made by the Applicant in this respect. Further, the supply made
+
+by the Applicant does not consist of any activity in the nature of ‘arrangement or ‘facilitation’ as explained above.
+
+2.4.6. The Applicant would also like to refer to qualifying conditions for ‘intermediary services’ described in para
+
+5.9.6 of the CBEC Education Guide. The said conditions are reproduced below for ease of reference:
+
+"Nature and value: An intermediary cannot alter the nature or value of the service, the supply of which he facilitates on behalf of his
+
+principal, although the principal may authorize the intermediary to negotiate a different price. Also, the principal must know the
+
+exact value at which the service is supplied (or obtained) on his behalf, and any discounts that the intermediary obtains must be
+passed back to the principal.
+
+Separation of value: The value of an intermediary's service is invariably identifiable from the main supply of service that he is
+
+arranging. It can be based on an agreed percentage of the sale or purchase price. Generally, the amount charged by an agent from his
+
+principal is referred to as ‘commission!
+Identity and title: The service provided by the intermediary on behalf of the principal is clearly identifiable."
+
+13
+
+
+24.7. The Applicant clearly does not fulfil the above conditions prescribed in CBEC Education Guide and cannot be
+treated as an intermediary as per the inclusionary part of the definition under Section 2(13) of the IGST Act. The
+Applicant draws support from the statement at the end of para 5.9.6 of the CBEC Education Guide which, in the context
+of 'Intermediary Service’ gives the following example:
+" Similarly, persons such as call centres, who provide services to their clients by dealing with the customers of the client on the client's
+behalf, but actually provided these services on their own account, will not be categorized as intermediaries."
+2.4.8. The Applicant would also like to refer to judgments under the UK VAT law, where the question of activities
+
+carried out by an ‘intermediary’ had been analysed. The relevant extract of the said judgements reads as follows:
+2.4.9. In M/s Bookit Ltd v Customs and Excise reported in (2004) UK V18626 (28 May 2004), it has been held that an
+intermediary ought to play an active role in the capacity of an agent of the insurancel finance company and a mere
+introductory role or generation of leads on prospective customers shall not suffice.The assessee therein was involved in
+the activity of providing credit card handling services to cinema customers booking tickets through various distribution
+channels including call centre, internet, WAP and digital TV. In addition, the assessee was also providing information,
+data processing services, credit management services and record keeping to cinema operator for other card transactions.
+The relevant para of the judgment has been excerpted:
+
+wee
+88. However the statute must be interpreted consistently with the Sixth Directive as interpreted by the Court of Justice. In CSC the
+Court of Justice said this at paragraph 39, * Negotiation is a service rendered to, and remunerated by a contractual party as a distinct
+act of mediation. It may consist, among other things, in pointing out suitable opportunities for the conclusion of such a contract,
+making contact with another party or negotiating, in the name of or on behalf of a client, the detail of the payments to be made by
+either side. The purpose of negotiation is therefore to do all that is necessary in order for two parties to enter into a contract, without
+the negotiator having any interest of his own in the terms of the contract."
+
+ee
+90. In our judgment the services of the employees of Bookit in obtaining card information and transmitting the
+same to Girobank do not involve any act of mediation on behalf of the customer. The only matters mentioned in
+paragraph 39 of CDC which could be relevant are "making contact with another party" here Girobank. However, it does
+not seem to us that the mere transmission of card information suffices for "negotiation" or it follows does such
+transmission come within "intermediary services" in item 5."
+
+(emphasis supplied)
+2.4.10. Similarly in Leadx v. Revenue & Customs reported in (2008) UKVAT V20904 (19 December 2008) it has been
+held that introducing customers to the seller is not sufficient for a service provider to qualify to be an intermediary. In
+this case the assessee was inter alia engaged in the activity of facilitating telecommunication and data services for trading
+of loan and insurance leads, In other words, the assessee was engaged in providing an open market for purchase/ sale
+of loans and insurance products from brokers via its internet based bidding system. The relevant para of the judgment
+is extracted hereunder for the ease of reference:
+"16. The Appellant's relationship with the seller and buyer was governed by the same generic contract. Under the contract the
+pellant granted the seller and buyer a non-exclusive licence to use the Appellant's software platform in return for consideration
+consisted of 10 per cent of the fee charged by the seller, and a commission of 15 per cent on the price paid by the buyer. The
+
+jdSeqtion was not dependent upon the buyer completing a contract for credit or insurance but triggered when the requirements
+
+ae
+
+lant's contact with potential consumers was for the purpose of enhancing the marketability of the lead not to secure a
+uct for the consumer or to match him with the most appropriate broker. | find that the Appellant's supplies were about
+i, not about the making and negotiation of credit.
+
+Obtain information for improving the marketability of the leads. The dealings were not entered into with a view to securing a contract
+fora loan. | find that the Appellant's supplies had no direct link with the process for negotiating credit arrangements between brokers
+and potential consumers.
+
+wae
+
+59.1, therefore, hold that the Appellant was not an insurance agent or broker. The Appellant had no relationship with the insurer or
+the insured. The Appellant sold leads and did not introduce potential clients. The Appellant's supplies were not related services.
+Their character had nothing to do with insurance. The information gathering and sorting exercise was for the purpose of making the
+lead marketable not to facilitate an insurance transaction. The supplies did not form a close nexus with an insurance transaction and
+effectively constituted a separate deal outside any insurance negotiations" 60. ** My findings that the Appellant had no relationship
+with potential consumers for insurance products or insurers and that its supplies constituted a discrete and self-contained activity
+between brokers with no connection with insurance transactions demonstrated that the Appellant did not provide the services of an
+insurance intermediary.”
+
+2.4.11. From the above judgments under UK VAT law, the following legal position emerges:
+
+- Mere introduction of buyer with the seller is not sufficient for a service provider to qualify to be an
+intermediary. Activity of gathering information / sorting the same does not necessarily mean that it is an act of
+facilitating provision of the main service.
+
+- The 'intermediary' plays a proactive part in putting in place the arrangements under which the supply of the
+main service is made. The ‘intermediary’ typically undertakes the arrangement or facilitation of a main service by way
+
+4
+
+
+of active introduction, support in order processing, support in negotiation of contractual terms, support in collection of
+price etc.
+- Negotiation is a pre-requisite for qualifying to be an intermediary. Negotiation means carrying out all the
+necessary activities end to end which would entail two parties to enter into a contract, without the negotiator having
+any interest of his own in the terms of the contract.
+2.4.12. The above-mentioned principles can be applied into the present factual matrix to determine whether the
+Applicant qualifies as an intermediary’. Thereby, as per the various clauses of the Marketing Agreement between the
+Applicant and Sabre APAC, the following factual position emanates:
+-The Applicant is providing business support services and allied activities to Sabre APAC
+-Services provided by the Applicant are preparatory and supportive in nature rather than facilitating any provision of
+services by Sabre APAC
+-No payments are routed through the Applicant.
+-The Applicant merely supports and has no right to actually negotiate, finalize or change the price already fixed by Sabre
+APAC.
+2.4.13. Also, considering the bi-partite nature of the Marketing Agreement, the Applicant provides marketing,
+promotion and distribution services only to Sabre APAC and not to any other party. Further, for the provision of the
+said services, the Applicant receives compensation from Sabre APAC, on a cost-plus markup basis, which it is entitled
+to irrespective of the number of booking made on the said CRS Software. Thus, even in the unlikely event of no business
+being generated from the territory, the Applicant will receive compensation as per the valuation enumerated in
+paragraph C of the background hereinabove. This itself should establish that there is no other supply except the supply
+to Sabre APAC and therefore the said Marketing Agreement does not create any agency between the Applicant and
+Sabre APAC, the services rendered by the Applicant cannot be categorized as intermediary services.
+2.4.14. Infact, Article 11 of the Marketing Agreement dated 31 October 2016 specifically establishes that the Applicant
+does not act as the agent of Sabre APAC nor does the Applicant does not have the authority to act in the name or on behalf of
+or otherwise bind' Sabre APAC in any manner in relation to the services rendered by them under the said Agreement.
+4.5. EXCLUSIONARY PART - 'SUPPLY ON HIS OWN ACCOUNT
+2.5.1. The exclusionary part of the said definition as stated in Para 2.2 above excludes from its purview any person
+(including a broker, agent or any other person) who provides the main supply on his own account will not qualify as an
+intermediary. In other words, if a person provides the supply on his own account, then such a supplier is not covered
+under the definition of term intermediary.
+2.5.2.  Hereinareference is made to para 5.9.6 of the CBEC Education Guide 2012, wherein the situation where services
+are rendered on the persons own account is specifically highlighted. The relevant extract reads as follows:
+"When the freight forwarder acts on his own account (say, for an export shipment) A freight forwarder provides domestic
+transportation within taxable territory (say, from the exporter's factory located in Pune to Mumbai port) as well as international
+freight service (say, from Mumbai port to the international destination), under a single contract, on his own account (i.e. he buys-
+in and sells fright transport as a principal), and charges a consolidated amount to the exporter. This is a service of transportation of
+oods for which the place of supply is the destination of goods. Since the destination of goods is outside taxable territory, this service
+ot attract service tax. Here, it is presumed that ancillary freight services (i.e. services ancillary to transportation-loading,
+, handling etc.) are "bundled" with the principal service owing to a single contract or a single price (consideration). ***"
+even persons who provide services to their clients by dealing with the customers of their client on the client's
+Oy tually provided these services on their own account, will not be categorized as intermediaries under the
+finitipn. Accordingly, in the present case, even if it is assumed that the Applicant arranges' or ‘facilitates’ the
+voen Sabre APAC and its customers, since all the services are rendered by the Applicant to Sabre APAC on
+principal basis, the services would get covered under the exclusionary clause of the said definition under
+of the IGST Act. Herein reliance is also placed on the ruling in the case of Global Transportation Services
+ported in 2016 (45) STR 574 (AAR).
+is further submitted that the relationship of the Applicant with Sabre APAC is separate from the relationship
+Sabre APAC and its clients. The Applicant engages with Sabre APAC's clients only in pursuance of the services
+~ vendered to Sabre APAC which it provides on its own account and not as an agent of Sabre APAC.
+25.5. Inthe CBEC Circular bearing No. 334/4/2006-TRU dated 28 February 2006,issued during the erstwhile regime
+on introduction of business support services’ the nature of the services covered under the said head has been clarified as
+
+follows:
+"3.13 Business Support Services: Business entities outsource a number of services for use in business or commerce. These services
+
+include transaction processing, routine administration or accountancy, customer relationship management and tele-marketing.
+There are also business entities which provide infrastructural support such as providing instant along with secretarial assistance
+known as ‘Business Centre Services’. It is proposed to tax all such outsourced services. If these services are provided on behalf of a
+person, they are already taxed under Business Auxiliary Service. biel
+2.5.6. Accordingly, the services rendered by the Applicant being outsourced services of Sabre APAC would have
+been clearly classifiable as ‘business support services’ under the erstwhile regime. In the GST regime, the said services
+head is includable under the HSN code 9985' relating to ‘other support services.' However, it is pertinent to note, that
+the said services are not provided by the Applicant on behalf of Sabre APAC, but on its own account on a principal-to-
+principal basis.
+257. Inthe above case, while there is an arrangement involving the Applicant, Sabre APAC as well as the customers
+of Sabre APAC, the Applicant's engagement with Sabre APAC's customers is in pursuance of the promotion and
+distribution activities carried out by the Applicant. The Applicant approaches the potential customer and subsequently
+may even undertake analysis of their business activities in order to determine the viability for use of the CRS Software,
+1s
+
+
+but the actual provision of the services of access to CRS Software is provided by Sabre APAC. Besides, even the
+interaction with the potential or confirmed customer of Sabre APAC is done by the Applicant on its own account and
+not as an agent of Sabre APAC.
+2.5.8. Herein, the Applicant places reliance on the following judgments of the CESTAT which hold that the person
+could at the same time act as an agent and also on principal to principal basis with respect to the same line of activity.
+(i) Greenwich Meridian Logistics (I) Pvt. Ltd. v. CST, Mumbai [2016 (43) STR 216 (Tri. - Bom.)]
+(ii) Phoenix International Freight Services Pvt. Ltd. v. CST, Mumbai - IT (2017 (47) STR 129 (Tri. - Mum.)]
+2.5.9. Therefore, the services rendered by the Applicant are not classifiable as under Section 2(13) of the IGST Act, the
+same being rendered by the Applicant's on its own account.
+2.6. In view of the facts and the legal provisions, the Applicant respectfully submits that the services rendered by
+them to Sabre APAC would would be treated as an export of services under Section 2(6) of the IGST Act and hence not
+be non-taxable for the purpose of payment of GST under the provisions of GST Law.
+
+Details of the Marketing Agreement dated 31 October 2016
+
+1. Background:
+
+1.1. The Applicant, viz. Sabre Travel Network India Pvt Ltd, has obtained a non-exclusive,royalty-free right and
+license from its parent company i.e., Sabre APAC, to distribute the CRS Software in India vide a Marketing
+Agreement dated 31 October 2016 with effect from 01 April 2016. The scope of the services provided by the
+Applicant under the terms of the said Marketing Agreement are:
+
+- Marketing services including advertising, identifying potential customers, identifying business opportunities,
+
+demonstrating offerings;
+
+- Consultancy and provision of information services;
+
+- Marketing support services, including PR, promotions, sponsorship, and special events and trade shows; and
+
+- Any other services necessary or advisable to perform its obligations under the said Marketing Agreement.
+
+1.2; The entire gamut of services are provided in an integrated manner to Sabre APAC, and for consideration the
+
+Applicant raises a consolidated monthly invoice for the fees to be received from Sabre APAC for all the services rendered
+
+to them. The said fees, which is received in the form of convertible foreign exchange, is calculated ona cost plus a markup
+
+basis as per the terms of the said Marketing Agreement. Further, the amount so received is in accordance to the domestic
+arm's length requirements under the local transfer pricing laws.
+
+13, A detailed explanation of the services rendered and duties of the parties under the said Marketing Agreement
+
+is explained hereunder:
+
+2. Marketing Agreement and its Operation:
+27 In view of the above, the Applicant undertakes the following activities in relation to the marketing and
+
+promotion services provided by them under the Marketing Agreement dated 31 October 2016:
+- While marketing access to the CRS Software, the sales team of the Applicant approaches potential subscribers in
+India to whom they explain the features of the CRS Software and the flexibility of same to integrate with the potential
+scriber's system for smooth functioning;
+fter, in the event of a positive response, the Applicant scans the credentials and the business potential of the
+to whom it proposes to market the CRS Software;
+an organizational and workflow analysis of the subscriber and following a background check of their prior
+the Applicant logs on a request into the system through the website maintained by Sabre APAC called
+Communication Management System. This is an automated process wherein a request is placed by the
+t to create a Pseudo City Code;
+ously, provided the subscriber agrees to use the CRS Software, order forms are collected from them to
+e process for activation of the CRS Software following the creation of the Pseudo City Code;
+subscriber meets all the criterion set forth by Sabre APAC for subscription, it is registered successfully and a
+o City Code is allotted in its favor. Once the Code is allotted and the setup is activated, the Applicant's engineers
+“Tnstall user interfaces to access the CRS Software in the subscriber's computer systems.
+24. In this manner, once the organizational and workflow analysis is complete, the Applicant undertakes reporting
+of the results in the Subscriber Communication Management System owned by Sabre APAC. Consequently, the scouting
+of potential subscribers and the said organizational and workflow analysis of such potential subscribers are the
+deliverables by the Applicant which is submitted in the Subscriber Communication Management System in the form of
+a non-binding request.
+23. Herein, the responsibility of the Applicant, stands completed on the identification of the potential subscribers
+to Sabre APAC. Subsequently, their responsibility of providing marketing support services (e.g. installation of interfaces
+to the CRS Software, consultancy, assistance, provision of information services, etc.) relating to the CRS System arises
+only once Sabre APAC decides to accept the potential customer based on the analysis provided by the Applicant.
+24. Thus, based on the analysis of the subscriber's business provided by the Applicant, Sabre APAC makes a
+decision on whether or not to allot a Pseudo City Code to the potential subscriber and it is only following an affirmative
+decision that the Applicant's engineers install user interfaces to access the CRS Software in the subscriber's computer
+systems. The decision to permit the subscriber's to have access to the CRS Software is based on the internal criterion set
+forth by Sabre APAC and the Applicant is not involved in the decision making process.
+
+3. Marketing Support Services:
+3:1, Additionally, the Applicant also undertakes sales promotion and marketing support activities to advance the
+
+business of Sabre APAC in India. This includes marketing support services such as PR, promotions, sponsorship, special
+
+16
+
+
+events and trade shows, as well as any other services necessary to perform its obligations under the Marketing
+
+Agreement.
+3.2. Such services are provided with the aim to make the CRS Software the reservation system of choice for
+
+subscribers and to strengthen the subscribers trust in the brand 'Sabre' so as to augment Sabre APAC's business in India.
+
+03. CONTENTION - AS PER THE CONCERNED OFFICER
+
+The submission, as reproduced verbatim, could be seen thus-
+
+M/s. Sabre Network (India) Pvt. Ltd. have filed an application with Advance Ruling Authority (ARA), GST
+Bhavan, Mazgaon, Mumbai - 400 010 on 13.04.2018. In the application, they asked the question as to :-
+
+“Whether the marketing, promotion and distribution services provided by M/s. Sabre India to Sabre
+APAC would be subject to tax under IGST Act 2017 and Maharashtra GST Act 2017 or would remain
+excluded under the said acts, as the said activities qualify as export of service in accordance to Section
+2(6) of the IGST Act 2017 read with the said Tax Acts. ?.”
+
+In support of their above question, during the course of personal hearing held on 17.07.2018, in the
+office of Authority of Advance Ruling, GST Bhavan, Mazgaon, Mumbai - 400 010, they submitted the
+following facts to the notice of the authority.
+
+M/s. Sabre Network (India) Pvt. Ltd. (hereinafter referred as the Applicant) is private limited
+company engaged in the provision of marketing, promotion and distribution of the Computer Reservation
+System Software ('CRS Software’) within the territory of India.
+
+The CRS Software has been developed by M/s. Sabre GLBL Inc. as a global distribution system which
+performs various functions including airline seat reservations, scheduling, automated ticketing and fare
+displays, booking for a variety of air, car and hotel services, etc.
+
+Sabre APAC, the Applicant's parent company situated in Singapore, has been sub-licensed the right to
+market and promote the said CRS Software for Asia specific jurisdictions.
+
+Further, it has been authorised to further sub-license certain parts of its marketing rights and obligations
+to local-country distributors. Accordingly, Sabre APAC has appointed the Applicant as the National
+Marketing Company vide a Marketing Agreement dated 31 October 2016. pursuant to which the Applicant
+has been granted a non-exclusive right to market and distribute the CRS Software to various travel agents
+in India.
+
+Under the said Marketing Agreement, the Applicant provides a range of services relating to marketing
+
+Bos d sales promotion which includes advertising, consultancy, public relations, promotions, marketing
+
+RULiMAPROrt services, etc. These services are rendered by the Applicant to Sabre APAC for which consideration
+i le by Sabre APAC in the form of convertible foreign exchange, calculated on a cost-plus markup
+isat cost-plus markup basis comprises of the monthly qualifying cost which is the sum of all costs
+oy incudyeg | the Applicant in the process of provision of service together with a profit margin of ten percent
+ay me “dnd is the basis adopted for purpose of Transfer Pricing provision under the Income tax Act. Herein,
+transf ¥%
+
+yjcing study and documentation is one of the procedures to be followed under the Income Tax laws
+‘d it forms the basis for assessment of corporate taxes by the Income Tax department.
+
+wever, the Marketing Agreement between the Applicant and Sabre APAC, does not establish any agency
+e parties and all the services are rendered by the Applicant principal-to-principal basis. Further, the said
+ent does not operate to create any partnership or joint venture of any kind between the Applicant
+
+“In light of the above, the Applicant has preferred an Application before this Authority for Advance Ruling seeking
+to determine whether there arises any liability to discharge Goods and Service Tax (‘GST’) on the services rendered
+to Sabre APAC situated outside India.
+
+FINDINGS:-
+
+In this context, it is to submit that:-
+
+e M/s. Sabre GLBL Inc, is the foreign company who developed the CR software.
+
+e Secondly, M/s. Sabre APAC, Singapore based company has been sub-licensed the right to
+market and promote the said CRS Software for Asia specific jurisdictions.
+
+e At lastly, Sabre APAC has appointed M/s. Sabre Network (India) Pvt. Ltd the National
+Marketing Company vide a Marketing Agreement dated 31.10.2016 granting a non-exclusive
+right to market and distribute the CRS Software to various travel agents in India.
+
+Section 2(13) of the IGST Act, defines an intermediary to mean "a broker, an agent or any other person, by whatever name
+called, who arranges or facilitates the supply of goods or services or both, or securities, between two or more persons, but does not
+include a person who supplies such goods or services on his own account."
+
+In their submission dated 17.07.2018,before Adjudicating authority, the applicant submitted their
+
+Marketing Agreement dated 31.10.2016, wherein it clearly stated that “
+
+1.1, It is submitted that the Marketing Agreement dated 31 October 2016 creates an obligation on the
+Applicant to provide marketing, promotion and distribution services to Sabre APAC in relation to the CRS
+Software, within the territory of India. The Applicant identifies potential customers and once the said
+customer is accepted by Sabre APAC, it provides after-sales services as may be required. Further, all
+promotion and marketing support services provided by the Applicant is towards the objective of building
+the customer base of the CRS Software in India or in relation to the same.
+
+17
+
+
+As stated above, M/s. Sabre Network (India) Pvt. Ltd. works for Sabre APAC, but does not appears
+to supply the CR software on his own account and therefore, falls under the services viz. Intermediary
+Services and the appears liable for tax under IGST Act 2017.
+
+None of the case laws, cited by the applicant are applicable to the present case as the facts and
+
+circumstances are different.
+04. HEARING
+The case was taken up for preliminary hearing on dt. 26.06.2018, with respect to admission
+
+or rejection of the application when Sh. Irshad Ahmed, Advocate along with Sh. Rajeev Pallath Advocate
+appeared and made oral and written submissions as per contentions made in ARA. The jurisdictional officer,
+Sh. Rajiv Kant Nirala, Inspector appeared and stated that they were not making any submissions today and
+would be making submission in due course.
+
+The application was admitted and final hearing was held on 17.07.2018, Sh. S. Thirumalai Advocate
+along with Sh. Irshad Ahmed, Advocate and Sh, Rajeev Pallath Advocate appeared and made additional
+written submissions . They orally made contentions as per their ARA application. The jurisdictional officer,
+
+Sh. Nijay Lande, Supdt., appeared and stated that they would be making submissions in due course.
+
+05. OBSERVATIONS
+We have perused the records on file and gone through the facts of the case and the submissions made
+
+by the applicant and the department.
+
+Briefly stated the Applicant has stated that they have obtained a non-exclusive, royalty-free right
+and license from its parent company i.e., Sabre APAC, to distribute the CRS Software in India vide a
+Marketing Agreement dated 31 October 2016 with effect from 01 April 2016. Pursuant to the said Agreement,
+the Applicant has been appointed as the National Marketing Company to conduct marketing and promotion
+
+In view of the Marketing Agreement dated 31 October 2016 between Sabre APAC and the applicant,
+to market the CRS software, the sales team of the Applicant approaches potential subscribers in India to
+whom features of the CRS Software and the flexibility of the same to integrate with the potential subscriber's
+system for smooth functioning are explained. In the event of a positive response from the subscriber, the
+Applicant scans the credentials and the business potential of the subscriber to whom it proposes to market
+the CRS Software and based on an organizational and workflow analysis of the subscriber and following a
+background check of their prior activities, the Applicant logs on a request into the system through the website
+maintained by Sabre APAC called Subscriber Communication Management System. This is an automated process
+wherein a request is placed by the Applicant to create a Pseudo City Code. Simultaneously, provided a subscriber agrees
+to use the CRS Software, the applicant collects order forms from the subscriber to begin the process for activation of the
+CRS Software following the creation of the Pseudo City Code. If the subscriber meets all the criterion set forth
+
+18
+
+
+by Sabre APAC for subscription, it is registered successfully and a Pseudo City Code is allotted in its favor.
+Once the Code is allotted and the setup is activated, the Applicant's engineers install user interfaces to access the
+CRS Software in the subscriber's computer systems.
+
+From the submissions made by the applicant it is clear that they are on the lookout for potential
+subscribers who are willing to use the CRS software in their business. It is also important to note that these
+potential subscribers also require such software for use in their business and require the help/assistance of
+
+the applicant to reach out to Sabre APAC to obtain the said software.
+
+Admittedly, the Applicant also undertakes sales promotion and marketing support activities to
+advance the business of Sabre APAC in India by way of giving marketing support services which includes
+activities such as PR, promotions, sponsorship, special events and trade shows, as well as any other services
+necessary to perform its obligations under the Marketing Agreement and to make the CRS Software the
+reservation system of choice for subscribers and to strengthen the subscribers trust in the brand 'Sabre' so
+
+as to augment Sabre APAC's business in India.
+
+Whilst making their submissions the applicant has claimed that the services being provided by them
+is only to Sabre APAC and since Sabre APAC is situated outside the taxable territory of India, and the same
+would qualify as export of services as defined under Section 2(6) of the Integrated Goods and Service Tax
+Act, 2017 (hereinafter referred to as 'IGST Act’) read with Central Goods & Services Tax Act 2017 and the
+Maharashtra Goods & Services Tax Act 2017 (hereinafter referred to as "Said Tax Acts"). They have also
+submitted that since they provide the services to Sabre APAC on principal to principal basis with the only
+
+maton of promoting and marketing of CRS Software in India, such services shall not qualify as
+<ypnck Uiltterniediary Services under the GST Laws.
+
+OX Ye.
+
+salar \ yen of the submissions made by the applicant we find that the issue before us is whether or not
+
+pa
+
+the ap icant is providing Intermediary Services. If the services provided are Intermediary Services then as
+
+per th i Laws the applicant will be liable to tax.
+
+Kg is seen that the applicant has given detailed submissions, which are reproduced above,
+sweSiiMding that the service provided by them are not in the nature of Intermediary Services and therefore
+
+it is their contention that the subject services provided by them to Sabre APAC are actually export of services
+
+as per the GST Laws.
+
+In view of the above details we need to examine whether the services provided by the applicant are
+Intermediary Services or not:
+
+In simple terms ‘intermediary’ can be taken to be as a firm or a person, etc. who acts as a link
+between parties for the conduction of business, etc. We find from the question posed that the applicant is
+having doubts as to whether their services are taxable under CGST Act and MGST Act or whether their
+services are exempt under the IGST Act, being export of services.
+
+To arrive at a decision we first take up the definition of an intermediary as per GST laws. The term
+‘Intermediary’ is defined in Section 2(13) of IGST Act, 2017 as:- 'intermediary' means a broker, an agent or
+
+any other person, by whatever name called, who arranges or facilitates the supply of goods or services or
+
+19
+
+
+both, or securities, between two or more persons, but does not include a person who supplies such goods or
+services or both or securities on his own account”
+
+From the above definition we find that an intermediary can be a broker, an agent or any other
+person and either facilitates the supply of goods and/or services between two or more persons and who
+cannot change the nature of supply as provided by the principal.
+
+From the facts before us we find that the applicant is covered by the said definition of an
+intermediary because they are definitely acting as a broker/agent, etc and facilitating the process for sale of
+CRS Software belonging to their foreign parent company, to the Indian subscribers because they identify
+such subscribers on their own in India. It is the sales team of the Applicant which approaches potential
+subscribers in India to whom they explain the features of the CRS Software and the flexibility of said
+software to integrate with the potential subscriber's system for smooth functioning. Once the applicant gets
+a positive response from the subscriber, they scan the credentials and the business potential of the subscriber
+to whom it is proposed to market the CRS Software. Based on an organizational and workflow analysis of
+the subscriber and following a background check of their prior activities, the Applicant logs on a request
+into the system through the website maintained by Sabre APAC called Subscriber Communication
+Management System. Provided the subscriber agrees to use the CRS Software, order forms are collected
+from them to begin the process for activation of the CRS Software. Once the subscriber is registered
+successfully and a Pseudo City Code is allotted in its favor. Once the Code is allotted and the setup is
+activated, the Applicant's engineers install user interfaces to access the CRS Software in the subscriber's
+computer systems.
+
+Thus from the above we find that first and foremost it is the job of the applicant to scout for
+
+th applicant explains and educates the subscriber about the software. Hence it is clear that the subscriber
+ops p\
+
+¢ ny id beco A= of the software only after the applicant approaches them. It is also mentioned that the
+
+soft does not belong to the applicant. Thus we find that the applicant actually acts as an Intermediary
+
+tware belongs to the parent company. The applicant educates the subscriber about the software
+
+sth
+eWhich they would not have known if the applicant was not present as an intermediary between them and
+
+the owner of the CRS software.
+
+It is very clear from the facts of transaction that the applicant is not providing services on their own
+account but on account of Sabre APAC, and thus it is very apparent that the applicant is providing
+Intermediary Services in the instant case.
+
+Since the applicant, being the supplier of service is located in India and the recipient of Service i.e.
+supplier of goods is located outside India, Section 13 of the IGST Act, 2017 would be applicable to determine
+the place of service. As per Section 13 (8) (b) of the said Act, the place of supply of Intermediary Services
+shall be the location of the supplier of services, in this case, the applicant. Since the place of supply of
+services in the instant case is in taxable territory, the said intermediary services cannot be treated as export
+
+of services under the provisions of the GST laws.
+
+20
+
+
+In order to classify as ‘export of service’, as per section 2(6) of the Integrated Goods and Service Tax
+Act, 2017, one of the crucial condition as contained under sub-clause (iii) requires that the place of supply of
+service should be outside India. In the subject case, the place of supply shall be location of the supplier of
+services and therefore such ‘intermediary services’ cannot be classified as ‘export of services’.
+
+We now discuss Inter-state provisions as well as Intra State provisions under the GST laws as
+
+follows:-
+
+Inter State provisions are contained under section 7 of the Integrated Goods and Service Tax Act,
+2017 and since none of the specific provisions are applicable, residuary provision contained under section 7
+(5) (c) shall be made applicable in the case of intermediary service, which states that inter-state supply of
+goods or services or both in the taxable territory shall be treated to be a supply of goods or services or both
+in the course of inter-state trade or commerce, however, the same should not be an intrastate supply and
+
+should not be covered elsewhere in section 7 of the IGST Act.
+
+Section 8 of the Integrated Goods and Service Tax Act, 2017 deals with the provisions of intra-state.
+Applying the provisions of section 8 (2) which states that ‘subject to the provisions of section 12, in case
+where the location of the supplier and the place of supply of services are in the same state or in the same
+
+union territory, the supply of service shall be treated as intra-state supply’.
+
+The above provisions of inter-state supply and intra-state supply has clarity when both the recipient
+and the supplier of services are located in India. However as in the subject case, when the recipient is located
+
+outside India provisions of section 7 (5) (c) shall be applicable. Section 7(5)(c) is reproduced as under-:
+
+Special Economic Zone developer or a Special Economic Zone unit: or
+
+Akble territory, not being an intra-State supply and not covered elsewhere in this section.
+
+of recipient of the services is in India. When recipient is located outside India the said provisions of section
+12 cannot be made applicable and since provisions of section 8(2) are inter-linked with provisions of section
+12, the same cannot be made applicable in case the recipient of service is located outside India.
+
+Thus we find that in case the intermediary services are provided to the recipient located outside
+India, the inter-state provisions as contained under section 7(5) (c) shall be applicable and hence IGST is
+
+payable under such transaction.
+
+With respect to the case laws cited by the applicant it is seen that none of the case laws are
+
+applicable in respect of the present case as the facts context and circumstances are different.
+
+06. In view of the extensive deliberations as held hereinabove, we pass an order as follows:
+
+21
+
+
+ORDER
+(Under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods and
+Services Tax Act, 2017)
+
+NO.GST-ARA- 08/2018-19B- 7G Mumbai, dt. 26: 907.22)58
+
+For reasons as discussed in the body of the order, the questions are answered thus -
+Question :- Whether the marketing, promotion and distribution services (hereinafter referred to as the
+"Said Services") provided by Sabre India to Sabre APAC would be subject to tax under the Central Goods
+& Services Tax Act 2017 and the Maharashtra Goods & Services Tax Act 2017 (hereinafter referred to as
+"Said Tax Acts") or would remain excluded under the said Acts as the said activities qualify as export of
+service in accordance to Section 2(6) of the Integrated Goods and Service Tax Act 2017 read with the said
+
+Tax Acts?
+
+Answer :- The marketing, promotion and distribution services provided by the applicant to Sabre APAC
+would be subject to tax under the provisions of the GST Act.
+
+——<d- —_<-| —
+B. V. BORHADE PANKAJ KUMAR
+(MEMBER) (MEMBER)
+
+CERTIFIED TRUE COPY
+
+Copy to:-
+
+1. The applicant.
+
+2. The concerned Central / State officer.
+
+3. The Commissioner of State Tax, Maharashtra State, Mumbai.
+
+4. The Jurisdictional Commissioner of Central Tax.
+5. Joint commissioner of State tax , Mahavikas for Website Mi BER
+i) Saar t ADVANCE RULING AUTHORITY
+
+MAHARASHTRA STATE, MUMBAI
+
+Note :- An Appeal against this advance ruling order shall be made before The Maharashtra Appellate
+Authority for Advance Ruling for Goods and Services Tax, 15" floor, Air India building, Nariman Point,
+Mumbai - 400021
+
+22

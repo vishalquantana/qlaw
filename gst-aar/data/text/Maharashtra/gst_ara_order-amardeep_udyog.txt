@@ -1,0 +1,513 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+GST Bhavan, Old Building, 1st floor, B-Wing, Room No.107, Mazgaon, Mumbai -
+400010.
+(Constituted under Section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+BEFORE THE BENCH OF
+
+(1) Shri. D. P. Gojamgunde, Joint Commissioner of State Tax, (Member)
+(2) Ms. Priya Jadhav, Joint Commissioner of Central Tax, (Member)
+
+ARA No. AD271124040256E
+GSTIN Number, if any/ User-id | 27AAXFA4776G1ZU
+Legal Name of Applicant M/s. AMARDEEP UDYOG
+
+Registered  Address/ Address | SHILPIN CENTRE COMMERCIAL PREMISES COOP
+provided while obtaining user id | SOCIETY LTD, 2ND FLOOR, G D AMBEKAR MARG,
+WADALA WEST, Maharashtra MUMBAI.
+
+Details of application _ | GST-ARA, Application No. 49 Dated 05.12.224
+Concerned officer Deputy Commissioner of SGST
+
+Nature of activity(s) (proposed/present) in respect of which advance ruling sought
+
+A | Category Wholesale business
+
+B | Description (in brief) The applicant M/s Amardeep Udyog is a partnership
+
+firm primarily engaged in trading of goods which
+includes stationary products, readymade garments
+etc.
+The Firm had received a purchase order from Brihan
+Mumbai Municipal Corporation (‘BMC’) on 11th June
+2024 for supply of stationery items to students of
+Education Department of BMC.
+Issue/s on which advance ruling |> Classification of any goods or services or both
+required > Determination of the liability to pay tax on any
+goods or services or both :
+Question(s) on which advance | As per reproduced in para no. 01 of the proceedings.
+ruling is required
+
+PROCEEDINGS
+
+(Under Section 98 of the Central Goods and Services Tax Act, 2017 and the
+Maharashtra Goods and Services Tax Act, 2017)
+NO.GST-ARA- 49/2024-25/B- | 55S Mumbai, dt. 26/03 |202 =
+
+The present application has been filed under Section 97 of the Central Goods and
+Services Tax Act, 2017 and the Maharashtra Goods and Services Tax Act, 2017
+[hereinafter referred to as “the CGST Act and MGST Act” respectively] by
+M/s. AMARDEEP UDYOG, the applicant, seeking an advance ruling in respect of the
+following questions.
+
+1. What is the HSN code of the Geometry Compass Box supplied by
+the Applicant to BMC.
+
+Page 1 of 10
+
+
+2. What is the GST rate at which the said supply should have been
+made to the BMC?
+
+That the provisions of both the CGST Act and the MGST Act are the same except
+for certain provisions. Therefore, unless a mention is specifically made to any
+dissimilar provisions, a reference to the CGST Act would also mean a reference to the
+same provision under the MGST Act. Further to the earlier, henceforth for the purposes
+of this Advance Ruling, the expression ‘GST Act’ would mean CGST Act and MGST
+Act.
+
+1. FACTS AND CONTENTIONS - AS PER THE APPLICANT
+
+1.1M/s. Amardeep Udyog is a partnership firm primarily engaged in trading
+of goods which includes stationary products, readymade garments etc.
+
+1.2 The Firm had received a purchase order from Brihan Mumbai Municipal
+Corporation (‘BMC’) on 11th June 2024 for supply of stationery items to
+students of Education Department of BMC.
+
+1.3 Out of the many items that were proposed to be procured, Geometry.
+
+Compass Box for Standard 4th to Standard 10th was to be procured. The
+HSN code mentioned in the Purchase order was 73102910 and the GST rate
+mentioned in the Purchase Order was 18% (i.e CGST 9% and SGST 9%).
+
+= 4 Further, said Purchase Order contained the Descriptions of Stationery
+
+a
+WIG. HWY
+SRA se
+ah Un
+
+Items. It was mentioned that the Geometry Compass Box should contain 1
+compass, 1 divider, 1 scale 15 cms, 1 set square 30°, 1 set square 45°, 1 set
+square 60°, 1 protractor 180°, 1 eraser, 1 pencil and 1 sharpner (Std 4th to
+10th).
+
+1.5 The Firm while supplying the product, classified the product under the
+HSN code 90172010 and applied GST rate of 18% ie (CGST 9% and SGST
+9%) as per applicable Notification 1/2017- Central Tax Rate dated 28th June
+2017 Schedule III Sr No 413.
+
+1.6 However, BMC is of the view that the aforementioned product should be
+classified under HSN 73102910 and GST rate applicable as per Notification
+1/2017- Central Tax Rate dated 28th June 2017 Schedule II Sr No 180.
+
+2. STATEMENT CONTAINING APPLICANT'S INTERPRETATION OF LAW
+
+AND/OR FACTS
+
+Page 2 of 10
+
+
+2.1 As per Sr. No. 413 of schedule III of CGST Act, 2017, following goods are
+taxable at 9% CGST rate.
+
+S.No. | Chapter/Heading/S | Description of Goods
+ubheading/ Tariff
+Item
+
+413 9017 DRAWING, MARKING-OUT OR MATHEMATICAL
+CALCULATING INSTRUMENTS (FOR EXAMPLE,
+DRAFTING MACHINES, PANTOGRAPHS,
+PROTRACTORS, DRAWING SETS, SLIDE RULES,
+DISC CALCULATORS); INSTRUMENTS FOR
+MEASURING LENGTH, FOR USE IN THE HAND
+(FOR EXAMPLE, MEASURING RODS AND TAPES,
+MICROMETERS, CALLIPERS), NOT SPECIFIED OR
+INCLUDED ELSEWHERE IN THIS CHAPTER
+
+2.2 As per Sr. No. 180 of Schedule II of CGST Act, following goods are
+applicable at 6% CGST rate.
+
+S.No. | Chapter Heading Description of Goods
+Subheading Tariff
+Item
+180 7310 or 7326 Mathematical boxes, geometry boxes and colour
+boxes
+
+The applicant would like to refer to the first schedule of customs tariff act
+1975 and analyse code 7310 and code 9017.
+
+"3A As per chapter 73 of the First Schedule of Customs Tariff Act, 1975 Heading |
+
+is
+
+7310 consists of following.
+
+7310 Tanks, casks, drums, cans, boxes and_ similar
+containers, for any material (other than compressed or
+liquefied gas), of iron or steel, of a capacity not
+exceeding 300 I, whether or not lined or heat-insulated,
+
+but not fitted with mechanical or thermal equipment
+
+7310 10 = Of a capacity of 50 1 or more: kg.
+
+73101010 -- — Tin plate containers kg.
+
+73101020. -- — Trunks and cases kg.
+
+73101090  -- — Other kg.
+
+— Of a capacity of less than 50 1: kg
+
+731021 — Cans which are to be closed by soldering or crimping: kg
+Page 3 of 10
+
+
+7310 21 10 -- Tin plate containers kg
+
+7310 21 90 Other kg
+7310 29 Other kg
+7310 29 10 Tin plate containers kg
+7310 29 20 Trunks and cases kg
+7310 29 90 Other kg
+
+2.5 As per chapter 90 of the First Schedule of Customs Tariff Act, 1975, Heading 9017
+consists of following.
+
+9017 Drawing, marking-out or mathematical calculating
+instruments (for example, drafting machines, pantographs,
+protractors, drawing sets, slide rules, disc calculators);
+instruments for measuring length, for use in the hand (for
+example, measuring rods and tapes, micrometers, callipers), not
+
+specified or included elsewhere
+
+90171000 Drafting tables and machines, whether or not automatic u
+9017 20 Other drawing, marking-out or mathematical calculating u
+instruments:
+90172010 Drawing and marking-out instruments u
+90172020 §=Mathematical calculating instruments u
+90172030 Pantograph u
+9017 20 90 Other u
+9017 30 Micrometers, calipers and gauges u
+90173010 Micro-meters and calipers Gauges: u
+9017 30 21 Plug u
+90173022 Ring u
+90173023 Slip u
+90173029 Other u
+9017 80 Other instruments: . u
+9017 8010 Measuring rods and tapes and divided scales u
+90178090 Other u
+90179000 Parts and accessories Kg.
+
+2.6 The product supplied by the Applicant is a Mathematical Drawing
+Instruments which are packaged in a box and the same is printed on the
+
+box and packaging. The applicant has attached pictures of the product.
+
+Page 4 of 10
+
+M/s. AMARDEEP UDYOG /49/ 2024-25
+
+
+2.7 While placing the order, BMC used the terminology 'Geometry Compass
+Box' which contains specified individual products which have to be curated
+into 1 set.
+
+2.8 The applicant is of the view that even though 'Geometry Box' is classified
+under HSN 73102910 as per GST rate notification, the product supplied by
+the applicant is not a Geometry Box and the product supplied by the
+applicant shall be classified under HSN code 90172010 on which GST rate
+applicable is 18%
+
+03. CONTENTION - AS PER THE CONCERNED OFFICER:
+
+OFFICER SUBMISSION DATED 16.10.2025:
+3.1 M/s Amardeep Udyog is a partnership firm holding GSTIN
+
+27AAXFA4776G1ZU primarily engaged in trading of goods which
+includes stationary products, readymade garments etc.
+
+3.2 The Firm had received a purchase order from Brihan Mumbai Municipal
+Corporation (‘BMC’) on 11th June 2024 for supply of stationery items to
+students of Education Department of BMC.
+
+3.3 Out of the many items that were proposed to be procured, Geometry
+
+Compass Box for Standard 4th to Standard 10th was to be procured. The
+HSN code mentioned in the Purchase order was 73100000.
+
+234 Taxpayer received order of geometry compass box. HSN code for this
+appears to be 73100000. As per the invoice also taxpayer had supplied
+these geometry compass box to Brihanmumbai Municipal Corporation.
+
+Officer's Standpoint/Interpretation
+
+e It appears that GST rate of 12 % will be applicable on these transactions.
+
+e No any proceeding on this issue is pending with this office.
+
+04. HEARING
+Preliminary e-hearing in the matter held on 18.12.2024. Mr. Chintan
+
+Rambhia, C.A., appeared and requested for admission of the application.
+Jurisdictional Officer Mr. Vishal C. Chandegave, Deputy Commissioner of
+CGST is available.
+
+The application was admitted and called for final e-hearing on 13.02.2025.
+Mr. Mr. Chintan Rambhia, C.A. (Authorized Representative) appeared made
+
+Page 5 of 10
+M/s. AMARDEFP UDYOG /49/ 2024-25
+
+
+oral and written submissions. Jurisdictional Officer Mr. Vishal C. Chandegave,
+Deputy Commissioner of CGST appeared. We heard both the sides.
+05. OBSERVATIONS AND FINDINGS:
+
+5.1 We have gone through the records of the case and the submissions made by
+the applicant along with the application and the submissions made at the
+time of personal hearing. It is seen that the applicant has supplied
+‘Geometry Compass Box’ containing 1 compass, 1 divider, 1 scale 15 cms, 1
+set square 30deg, 1 set square 45 deg., 1 set square 60 deg., 1 protractor 180
+deg., 1 eraser, 1 pencil and 1 sharpener to BrihanMumbai Municipal
+Corporation. The applicant vide this application is seeking the correct
+classification and rate of tax on the aforementioned supply.
+
+5.2. As the outset, Let’s analyse the HSN 7310. Chapter 73 is applicable to the
+articles of iron or steel. On perusal of the description of HSN 7310 as
+reproduced in para 2.4, it is seen that the HSN 7310 is applicable to the
+goods made up of iron or steel that are in the nature of container or box.
+Thus, the entry at Sr. No. 180 in respect of ‘Mathematical boxes, geometry
+boxes and colour boxes’ is only in respect of the container box or the case
+;\ that is made up of iron or steel. What the applicant is supplying is not just
+zg || the box but various articles that are put in the box are also supplied along
+with it. Hence, HSN 7310 is not applicable to the box when supplied
+
+alongwith the articles contained in it.
+
+. We find that the applicant is supplying various items as detailed in para
+5.1, placing them in a box, which is named as ‘Kores Max-Mathematical
+Drawing Instruments’. A number of items are kept in the box by the
+applicant who sells the same as a set by declaring the same as Geometry
+compass box. In order to examine the proper classification of the aforesaid
+product, it is essential to first establish whether the goods supplied by the
+applicant is a composite supply or a mixed supply. As per Section 2(30) of
+the CGST Act, 2017, defines Composite Supply as under:-
+
+"composite supply" means a supply made by a taxable person to a recipient
+consisting of two or more taxable supplies of goods or services or both, or any
+combination thereof, which are naturally bundled and supplied in conjunction
+
+Page 6 of 10
+
+
+with each other in the ordinary course of business, one of which is a principal
+supply.
+
+Illustration: Where goods are packed and transported with insurance. the supply
+of goods, packing materials, transport and insurance is a composite supply and
+supply of goods is a principal supply:"
+
+Section 2(74) of the CGST Act, defines Mixed Supply as under:-
+
+“mixed supply” means two or more individual supplies of goods or services
+or any combination thereof, made in conjunction with each other by a taxable
+person for a single price where such supply does not constitute a composite
+
+supply.
+
+5.4. In order to constitute a composite supply, the goods provided by the
+applicant should be naturally bundled in the ordinary course of business.
+The concept of ‘naturally bundled' supplies is not defined under CGST Act.
+For this, reliance can be placed on the flyer cum FAQ issued by CBIC to
+explain the concepts of 'composite supply' and 'mixed supply', which also
+refers to the Education Guide issued under service tax regime in
+determining whether a supply is a composite or a mixed supply under GST
+
+regime. The ‘Education Guide! issued by the Central Board of Excise &
+
+Customs ('CBEC’) in the year 2012 explains the 'Bundled service! to mean a
+
+bundle of provision of various services wherein an element of one service
+2
+
+©
+iE ‘is combined with an element or elements of any other service or services.
+
+\
+
+de | Para 9.2.4, Taxation of Services- An Education Guide reproduced as under:
+
+” Whether services is bundled in the ordinary course of business would depend upon
+the normal or frequent practices followed in the area of business to which services relate.
+Such normal and frequent practices adopted in a business can be ascertained from several
+indicators some of which are listed below:
+
+a) The perception of the consumer or the service receiver. If large number of
+service receivers of such bundle of services reasonably expect such services to
+be provided as a package, then such a package could be treated as naturally
+bundled in the ordinary course of business.
+
+b) Majority of service providers in a particular area of business provide similar
+bundle of services. For example, bundle of catering on board and transport by
+air is a bundle offered by a majority of airlines.
+
+c) Nature of the services offered is such that one is the main service and the other
+services combined with such a service are ancillary.
+
+d) Other illustrative indicators, not determinative but indicative of bundling of
+services in ordinary course of business are -
+
+Page 7 of 10
+
+M/s. AMARDEEP UDYOG /
+
+
+There is a single price or the custonier pays the same amount, no matter how
+much of the package they actually receive or use.
+
+The elements are normally advertised as a package.
+
+The different elements are not available separately.
+
+The different elements are integral to one overall supply - if one or more is
+removed, the nature of the supply would be affected.”
+
+5.5. We find that the said concept can also be equally applied for determining
+whether the goods supplied in a package can be termed as a composite
+supply or mixed supply. We find that the goods supplied includes a metal
+box inside which various articles such as compass, divider, scale,
+protractor, set squares, pencil, eraser and sharpener are supplied. It is seen
+that the customer i.e. BMC in this case, pays a single amount for the said
+goods, thereby fulfilling the condition that the customer pays one single
+price for the entire package. It is also well known in commercial and
+general parlance by the customer that a Geometry Box will contain certain
+instruments used for drawing such as Compass, divider, scale, protractor
+
+and set square. However, we find that in the instant case, in addition to the
+
+aforesaid items, the applicant is also supplying a pencil, an eraser and a
+“.\sharpener in the said box. Such items are not normally advertised as a
+ackage. Further, it is common knowledge that the customer can purchase
+a compass, a divider, a scale, a protractor, set squires, pencil, eraser and
+sharpener separately and the said items are sold separately in the market
+by various suppliers. Therefore, the fact that the goods are available
+separately, mitigates the assumption that the goods supplied by the
+applicant can be termed as a ‘composite supply’. By applying the
+aforementioned principles and guidelines to examine whether the goods
+provided by provided by the applicant can be considered as naturally
+bundled, in a Geometry Box, we find that such services are not naturally
+bundled with each other in the ordinary course of business. Each
+individual items can be purchased separately and the specific combination
+of goods supplied in the geometry box by the applicant is not a combination
+which can be termed as naturally bundled and sold in the commercial
+market. Therefore, this combination cannot be treated as naturally
+
+bundled in the ordinary course of business. Since the combination of goods
+
+Page 8 of 10
+
+M/s. AMARDEEP UDYOG /49/ 2024-25
+
+
+sold by the applicant cannot be treated as a composite supply, we hold that
+the goods sold by the applicant will be considered to be a mixed supply
+involving supply of various goods, which can be individually classified as
+
+under:-
+
+Sr. | Description of | Classification of | Classification | Rate | Schedule
+
+No. | the goods service heading of tax
+under GST
+
+1 Metal _—_ Box | Geometry 73102990 12% | II
+named Kores | Boxes/ Mathematical
+Max Boxes
+
+2 Compass, Mathematical 901720 12% II
+Divider, Instruments for
+Protractor, Set | calculating
+Squares
+
+3 Scale Instruments for | 90178010 18% Tl
+
+measuring length,
+for use in hand
+
+3 Sharpener Pencil Sharpener 82141010 12% |W
+4 Pencil Pencils with leads | 96091000 12% I
+encased in a rigid
+sheath
+5 Eraser Erasers 40169200 5% I
+
+. We find that Section 8 of the CGST Act, reads as under: - Tax liability on
+\\ composite and mixed supplies- The tax liability on a composite or a mixed
+7 supply shall be determined in the following manner, namely: -
+
+(a) a composite supply comprising two or more supplies, one of which is
+a principal supply, shall be treated as a supply of such principal supply;
+and
+
+(b) a mixed supply comprising two or more supplies shall be treated as a
+supply of that particular supply which attracts the highest rate of tax.
+
+Accordingly, In this case the highest rate of tax is 18% (9% CGST + 9%
+SGST) for scale falling under Chapter 90178010 and therefore in terms of
+Section 8 of the CGST Act, 2017, we hold that the goods supplied by the
+applicant would be considered as a mixed supply and the same shall be
+treated as supply of Mathematical Instruments boxes and classified under
+Chapter Sub Heading 90178010 which attracts the highest rate of tax of 18%
+(9% CGST + 9% SGST).
+
+Page 9 of 10
+
+M/s, AMARDEEP UDYOG /49/202
+
+
+06. In view of the extensive deliberations as held hereinabove, we pass an order
+as follows:
+
+ORDER
+(Under Section 98 of the Central Goods and Services Tax Act, 2017 and the
+
+Maharashtra Goods and Services Tax Act, 2017)
+NO.GST-ARA- 49/2024-25/B- |! 55 Mumbai, dt. 26/03/2025"
+For reasons as discussed in the body of the order, the questions are answered thus -
+Question No.1. What is the HSN code of the Geometry Compass Box supplied by the
+Applicant to BMC?
+
+Answer No.1 The Geometry Compass Box supplied by the applicant to BMC
+amounts to mixed supply u/s. 2 (74) and is appropriately classifiable
+under Chapter Sub Heading 90178010, being HSN of the goods that
+attracts highest rate of tax.
+
+Question No.2. What is the GST rate at which the said supply should have been
+made to the BMC?
+
+Answer No.2. The rate of GST applicable would be 18% (9% CGST + 9% SGST).
+
+= omy
+yw Way
+ye B
+D.P. GOJA UNDE PRIYA JADHAV
+
+(MEMBER) (MEMBER)
+
+1. The applicant
+
+2. The concerned Central / State officer
+
+3. The Commissioner of State Tax, Maharashtra State, Mumbai
+
+4. The Pr. Chief Commissioner of Central Tax, Churchgate, Mumbai
+5. The Joint commissioner of State Tax, Mahavikas for Website.
+
+Note: -An Appeal against this advance ruling order shall be made before The Maharashtra
+Appellate Authority for Advance Ruling for Goods and Services Tax, 15t floor, Air India
+Building, Nariman Point, Mumbai - 400021. Online facility is available on gst.gov.in for
+online appeal application against order passed by Advance Ruling Authority.
+
+Page 10 of 10

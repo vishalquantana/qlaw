@@ -27,3 +27,5 @@ gst-aar/ocr-benchmark/preview_*.png
 gst-aar/ocr-benchmark/images/
 gst-aar/ocr-benchmark/surya-out/
 gst-aar/ocr-benchmark/surya-rest/
+gst-aar/webapp/node_modules/
+gst-aar/webapp/.next/

@@ -1,0 +1,1782 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+(constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri B. V. Borhade, Joint Commissioner of State Tax
+(2) Shri Pankaj Kumar, Joint Commissioner of Central Tax
+
+GSTIN Number, if any/ User-id 27 AAAFF0535H1ZT
+
+Legal Name of Applicant Five Star Shipping
+
+Registered Address/Address provided while | 610, Vindhya Commercial Complex, Sec-11, C.B.D.
+obtaining user id Belapur, Navi Mumbai- 400 614
+
+Details of application GST-ARA, Application No. 20 Dated 19.01.2018
+Concerned officer Belapur Commissionerate, Belapur Division I,
+
+Range II, Navi Mumbai
+
+Nature of activity(s) (proposed / present) in
+respect of which advance ruling sought
+
+A Category Service Provision
+B Description (in brief) Marine Consultancy Service. A brief i
+the nature of activity in respect of which advance
+
+ruling is sought is inter alia mentioned in the
+document attached herewith and marked as
+
+Annexure-I.
+Issue/s on which advance ruling required (i) classification of goods and/or services or both
+Question(s) on which advance ruling is | As reproduced in para 01 of the Proceedings
+required below.
+PROCEEDINGS
+
+(under Section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+The present application has been filed under Section 97 of the Central Goods and
+Services Tax Act, 2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter
+referred to as “the CGST Act and MGST Act”] by Five Star Shipping, the applicant, seeking an
+
+advance ruling in respect of the following question :
+
+A.1_ Whether Marine Consultancy Service (“MCS”) provided to foreign ship owners constitutes “composite
+supply” with the principal supply of consultancy service?
+
+A.2_ Whether the place of supply of MCS (as a composite supply) will be determined in terms of Section 13(2)(a)
+of the Integrated Goods and Services Tax, 2017 (“IGST Act”), i.e. the ‘location of recipient of service’
+
+B.1 In the alternate, where services are provided to foreign ship owners distinctively as supply of consultancy
+service and support service with separate and demarcated fees for their consultancy service and for support
+service:
+
+a. Whether consultancy service will qualify as business consultancy service in terms of the scheme of
+classification of services [Annexure to Notification 11/ 2017 - Central Tax (Rate), dated 28'*June,
+2017]?
+
+Whether the place of supply of such consultancy service will be the ‘location of recipient of service’ in
+
+terms of Section 13(2)(a) of the IGST Act?
+
+
+
+c. Whether support service qualifies as “intermediary service” in terms of Section 2(13) of the IGST Act?
+And, if ruled that the support service qualifies as an intermediary service, the place of supply of support
+service as intermediary service will be the ‘location of supplier of service’ in terms of Section 13(8)(b) of
+the IGST Act?
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act
+and the MGST Act are the same except for certain provisions. Therefore, unless a mention is
+specifically made to such dissimilar provisions, a reference to the CGST Act would also mean a
+reference to the same provision under the MGST Act. Further to the earlier, henceforth for the
+purposes of this Advance Ruling, a reference to such a similar provision under the CGST Act /
+
+MGST Act would be mentioned as being under the “GST Act”.
+
+02. FACTS AND CONTENTION - AS PER THE APPLICANT
+
+The submissions,as reproduced verbatim, could be seen thus-
+
+“ANNEXURE I
+
+Statement of the relevant facts having a bearing on the question raised
+
+1. Five Star Shipping (“Applicant”) is a partnership firm in terms of (Indian) Partnership Act, 1932. Its office is located in
+Mumbai (State of Maharashtra). Its partnership deed inter alia records that the partnership business shall be that of
+consultants.
+
+2. The service provided by the Applicant includes collecting market intelligence and updates which is disbursed to the ship
+owners (i.e, consultancy service), as the principal service. Service provided by the Applicant also includes providing support
+service to Indian/ foreign ship owners to identify charterers outside India who are seeking to optimise revenue for their
+vessels and monitoring voyage execution, as the ancillary service. Consultancy service and the consequential support service
+provided by the Applicant is generically referred to as Marine Consultancy Service (“MCS”).
+
+3. MCS is provided by the Applicant in terms of a Consultancy Agreement executed by and between the Applicant and the ship
+owners. Details of service provided by the Applicant in terms of such Consultancy Agreement are provided below:
+
+i. As Spectalists in freight market movement, the consultant will analyse commodity, shipping and. freight markets, track movement of ships
+and cargoes and disseminate such information to the company.
+ii. Track, collate, analyse and monitor port development and logistics data originating from reliable source and update future tren
+iit. Monitor world-wide economic development, bulk commodity trade pattern development
+iv. Identify and provide information on port costs, bunker (fuel), trend, cost estimation and analysis
+v. Monitor voyage execution for smooth and efficient operations so as to optimize performance for the ship owners.
+vi. Examine lay time calculations and arrange for accounts reconciliation for objective of eventual settlement.
+vii, Preliminary evaluation of cargo volume, trade patterns, trend in commodity movement, port congestion, global and regional economic
+development and analysis
+viii, Techno commercial assessment of vehicle type utilization opportunities, infrastructure development in various regions, geographical
+impact on global trade in bulk commodities arising from weather, piracy, war, conflict, any other causes which have prospects to impact
+trade
+
+4. Fees for the abovementioned services is fixed pre-hand, and typically is a percentage of the gross revenue me and
+received by the foreign/ Indian ship owner as the case may be, A sample Consultancy Agreement dated 01 March, 2017
+entered between the Applicant and foreign ship owner Singapore Shipping International Pte. Ltd. (“the Agreement”) is
+attached as Enclosure 1. The tax position, as applicable under the erstwhile (pre-GST) regime must be appreciated and
+understood in the context of these facts and commercial circumstances to enable a considered conclusion under GST regime
+and law,
+
+Tax treatment prior to GST dl
+
+5. The Applicant had obtained Service Tax registration as per the erstwhile indirect tax regime in the State of Maharashtra.
+MCS service provided by the Applicant to foreign ship owners and Indian ship owners qualifies as Business Auxiliary
+service (“BAS”) in terms of Chapter V of the Finance Act, 1994 (“the Act”).Hitherto, MCS provided by the Applicant was
+treated as bundled service comprising of consultancy service and support service, wherein consultancy service was the
+principal service giving essential characteristics to MCS. These services did not qualify under specific rule of the Place of
+Provision of Service Rules, 2012 (“PPSR”) and therefore, Rule 3 of the PPSR which is the default rule under the PPSR was
+applicable. As per Rule 3 of PPSR, the place of provision of service was “the place of recipient of service’, Detailed analysis
+of tax treatment prior to GST is set out at para 27 to 33 of Annexure Il). il
+
+6. The Applicant is providing MCS to both Indian and foreign ship owners. There is clarity regarding the GST implication on
+
+service provided to Indian ship owner as both provider and recipient of service are located in India however, there is
+
+inadequate clarity regarding the GST implication on services provided to foreign ship owners (located outside India).
+
+Therefore, the Applicant has approached the Authority re MCS provided by the Applicant to foreign ship owners.
+
+Consequently, the following discussions are solely in respect of Applicant's MCS supplied to foreign ship owners.
+
+levant legal provisions of the Goods and Services Tax
+
+;, collection and scope of ‘supply’
+
+
+
+7. Per Section 9 of the Central Goods and Services Tax (*CGST Act”), a tax called the Central Goods and Services Tax
+(“CGST”) is to be levied on the intra-State ‘supplies’ of goods and services. The term “supply” is defined in Section 7 of the
+CGST Act to include:
+
+(a) “all forms of supply of goods or services or bath such as sale, transfer, barter, exchange, licence, rental, lease or disposal made or agreed to be made for a
+Consideration by a person in the course or furtherance of business:
+th)
+
+« and
+rs) the activities to be treated as supply of goods or supply of services as referred tw im Schedule I.”
+
+Relevant definition as set out in CGST Act and IGST Act
+
+8. Section 2(30) of the CGST Act defines the term ‘composite supply” to mean “a supply made by a taxable person to a recipient consisting
+of two or more tavable supplies of goods or services ur both, or any combination thereof, which are naturally bundled and supplied in conjunction wuh each
+other in the ordinary course of business, one of which 18 a principal supply”
+
+9. Section 2(74) of the CGST Act defines the term “mixed supply’ to mean “neo or more individual supplies of goods or services, or any
+combination thereof, made in conjunction with each other by a taxable person for a single price where such supply does not constitute a composite supply”.
+
+10, In terms of Section 2(13) of the Integrated Goods and Services Tax Act, 2017 (“IGST Act”) defined “intermediary” to mean
+
+cr name called, who arranges or faciluates the supply of goods or services or both, or securities, benveen
+
+“a broker, an agent or any other person, by whate
+
+hwo oF more persons, but does not include a person who supplies such goods or services or both or securities on his own account”
+11. In terms of Section 2(6) of the IGST Act, export of services means “the supply of any service when,
+
+(i) the supplier of service 1s located in India;
+
+(1) the reciprent of service us located outside India;
+
+(mi) the place of supply of service 1s outside India:
+
+(0) the payment for such service has been received by the supplier of service in convertible foreign exchange; and
+
+(V) the suppher of service and the recipient of service are not merely establishments of a distinct person im accordance with Explananon 1 1 section
+
+Place of supply of service as set out in Chapter V of the IGST Act
+
+12. In terms of Section 12(2)(a) of the IGST Act, which is the default rule for determining the place of supply of services where
+the location of supplier and recipient is in India, “the place of supply of services, except the services specified in sub-sections (3) to (14), made to
+a registered person shall be the location of such person.” In other words, the place of supply of service shall be the location of recipient
+of service.
+
+13. Default Rule: In terms of Section 13(2) of the IGST Act which is the default rule for determining the place of a i of
+services where the location of supplier or location of recipient is outside India, “she place of supply of services except the services
+specified in sub-sections (3) to (13) shall be the location of the recipient of services.”
+
+14. Intermediary service: Section 13(8)(b) of the IGST Act provides the place of supply of intermediary service where the
+location of supplier or the location of recipient is outside India. As per Section 13(8) of the IGST Act, place of supply of
+intermediary service “shall he the location of the supplier of services”.
+
+Scheme of classification
+
+15. Scheme of classification of services is provided in Annexure to Notification | 1/2017 — Central Tax (Rate), dated 28" June,
+2017. The Annexure classifies services into Chapter, Section, Heading and Groups and provides a unique 6 digit Service
+Code to each service. The Annexure also provides description of service and supports in determining the nature of service
+and rate of GST payable qua a service.”
+
+ANNEXURE I
+
+Statement containing the applicant's interpretation of law and/or facts, as the case may be, in respect of the question
+
+A. Interpretation of law and facts
+
+1. MCS provided by the Applicant constitutes of consultancy service and support service. Consultancy service provided by the
+Applicant includes analysing commodity, shipping and freight market, finding potential charterers for the foreign ship
+owners. Such supply of consultancy service to the foreign ship owners constitutes a substantial portion of the Applicant's
+business. For this the Applicant has trained professional research analysts stationed at its office who keep them abreast with
+market trends and help the foreign ship owners with valuable information re their business. The Applicant has appointed
+research analysts on the payroll to undertake market research, track, collate, analyse and monitor port development and
+logistics data to update future trends to ship owners and also customise this information as per the customer’s needs e.g. the
+type of vessel, cargo carrying capacity, free space available on the board of the vessels.
+
+2. MCS supplied by the Applicant also includes support service provided to the foreign ship owners which largely consists of
+optimising global trade and revenue therein for the foreign ship owner, For this, the Applicant relies on the database of
+information maintained by the Applicant. Further, the support service supplied by the Applicant includes monitoring voyage
+execution for the ship owners for smooth and efficient operations to optimize performance of their ships, examines lay time
+calculations, and arranges for reconciliation of accounts with the objective of eventual settlement with the charterers. The
+support services provided by the Applicant are provided to the foreign ship owner and are not meant to facilitate two parties.
+3
+
+3. The Applicant’s engagement with the foreign ship owners is not limited to finding potential charterers for their vessel but is
+initiated way earlier by way of continuously providing essential market intelligence which adds value for the foreign ship
+owners in their business and is continued with the Applicant monitoring the supply of service by foreign ship owner to
+ensure efficiency of provision of service. Thus, supply of both consultancy service and support service are bundled together
+in the form of MCS
+
+4. The Applicant is not a conduit between the ship owners and the charterers. The Applicant originates, orchestrates and
+manages the supply of providing market intelligence leading to potential business and monitoring the supply of service by
+the ship owner to the charterer to ensure smooth and efficient operations of the ship owner's ships, and also arranging
+reconciliation of the accounts of the foreign ship owners which helps in eventual settlement with the charterers. Reference in
+
+this regard may be made to para | of the Agreement which provides that “se implantation of such value-based and market driven advisory
+service 1s expected lead to increased cargo volumes, and the support from the Consultanis will provide the Company (foreign ship owner)with long term
+
+sustainable revenue.”
+5. The MCS is provided independently by the Applicant at the request of and in satisfaction of the customer's requirements.
+Reference in this regard may me made para | of the Agreement extracted below:
+
+“Ir as expressly understood that the consultant has fiductary obligation to “the Company” (foreign ship owner) based on contractual terms of this Agreement: -
+that Consultant's role is to provided independent advice uninfluenced by commercial concerns; and that service as a Consultant does not require him to be
+
+advocate for “the Company" or its products in any forum, public or private.
+
+
+6. Therefore, it is evident from the terms of the Agreement that supply of MCS by the Applicant is on its own account and the
+Applicant orchestrates the entire service directly to the foreign ship owners. The foreign ship owners approach only the
+Applicant in case there are any issues that need to be addressed or ironed out and the Applicant remains answerable to the
+ship owners from the point of entering into the contact for supply of MCS. Consequently, a significant as also certain degree
+of service is provided by the Applicant directly to and quite clearly directed at the foreign ship owner.
+
+7. The services supplied by the Applicant are described in para 3 of Annexure I and may be refereed to understand that the
+entire gamut of services supplied by the Applicant. Each service listed therein may be provided by the Applicant in isolation
+and there is no requirement to avail all the services supplied by the Applicant and it is the ship owner’s prerogative to avail
+all or some of the services offered by the Applicant. It is on the request of the foreign ship owners that the services are
+supplied in a cohesive manner, as a single offering. Typically, the Applicant is equipped to supply consultancy service and
+support service distinctly and occasionally does provides the services separately. However, it is practical for the foreign ship
+owner to avail both services offered by the Applicant as a bundle to increase effectiveness and for cost economies. Provision
+of consultancy service by the Applicant helps the foreign ship owner to zero in on a suitable charterer, which in turn ads to
+provision of service like tracking of voyage and assistance in billing by the Applicant. It is only on the request of the foreign
+ship owner that the two services are offered together. In return, the Applicant charges a fee which is a fixed percentage of
+gross revenue of charter hire earned by the foreign ship owner which is pre-decided between the Applicant and the foreign
+ship owner.
+
+I. MCS supplied by the Applicant will qualify as a composite supply with consultancy service as the principal supply
+
+8. From 01* July, 2017 (GST regime), all forms of supply of service made for a consideration by a person in the course of
+furtherance of business qualifies as supply which is liable to GST in terms of Section 7(1)(a) of the CGST Act. urther,
+where two or more services are provided by a supplied in conjunction, GST law has introduced the concepts of composite
+supply and mixed supply. A composite supply means a supply of two or more services which are “naturally bundled” and
+supplied in conjunction with each other in the ordinary course of business, one of which is the ‘principal supply’. A mixed
+supply is the supply of two or more services made in conjunction with each other by a taxable person for single price where
+such supply does not constitute a composite supply
+
+Supply of MCS is a composite supply
+
+9. The concept of composite supply is similar to the concept of naturally bundled service under the erstwhile negative list
+regime. A composite supply is defined in Section 2(30) of the CGST Act as below:
+
+“Secnon 2(30) ~ “composite supply" means a supply made by a taxable person to a recipient consisting of bwo or more taxable supplies of goods or services ur
+both, or any combination thereof, which are naturally bundled and supplied in conjunction with each other in the ordinary course of business, one of which
+is a principal supply”
+
+10. Supply of MCS by the Applicant consisting of consultancy service and support service will be construed as a supply of
+composite service made by the Applicant as these services (i.c. consultancy service and support service) are naturally
+bundled and supplied in conjunction with each other in the ordinary course of business, one of which (i.e. consultancy
+service) is the principal supply
+
+11. As stated in Annexure I, the Applicant’s activities of supply of MCS to foreign ship owners comprises of collecting
+intelligence on commodity shipping and freight market, track movement of ships, maintain information about the ports and
+the facilities provided the ports, monitor trade pattern and disseminate the information to foreign ship owners. MCS
+constitutes consultancy service provided to foreign ship owners as a specialist in the freight market and support service
+provided to the mtomonitor voyage execution, examine lay time calculations, etc. These services are provided in conjunction
+and as a bundle by the Applicant which in turn augments the capacity of foreign ship owners to serve clients globally
+
+Supply of MCS is not a mixed supply
+
+12. When two or more individual services are supplied in conjunction with each other for a single price and where suc! supply
+does not qualify as a composite supply, such supply is classified as a mixed supply. From the discussion in the foregoing
+para of this application, it is evident that consultancy service and support service supplied by the Applicant is i
+bundled and are supplied in conjunction in the ordinary course of business. Consequently, given that Applicant’s service
+qualifies as a composite supply of service, the service does not qualify as a mixed supply in terms of CGST Act.
+
+Consultancy service is the principal supply in the composite supply
+
+13. The Applicant is providing composite service comprising of consultancy service and support service. As a part of
+consultancy service, the Applicant collects market intelligence for which it hires trained professionals abreast with market,
+etc. Such market intelligence helps the Applicant in identifying possible charterers for their clients who are foreign ship
+owners who are seeking to optimise revenue for their vessel. Relying upon the information received from the Applicant, the
+foreign ship owners contact the charterers to discuss the provision of their service and the terms on which the service will be
+supplied. Therefore, the consultancy service is essential for the foreign ship owners to successfully enter into a service
+contract.
+
+14. Following the agreement for provision of service between the foreign ship owner and the charterer, the other part of the MCS
+ie., the support service is provided by the Applicant to the foreign ship owner. Thus, provision of consultancy service
+precedes the provision of support service. The Applicant in all cases in contacted by the foreign ship owner for pi oviding
+consultancy service and is thereon brought involved for provision of support service. In view of this, consultancy service
+provided by the Applicant to the foreign ship owner is the principal supply in the composite supply MCS
+
+15. Owing to this, the place of supply of MCS (with consultancy service as the principal supply) when provided to foreign ship
+owner shall be the ‘location of the recipient of service’ in terms of Section 13(2)(a) of the IGST Act (i.e. the default rule), as
+supply of MCS does not qualify in the specific place of supply rules prescribed under Section 13 of the IGST Act
+Therefore, when MCS as composite supply (consisting of consultancy service and support service) is supplie ci the
+Applicant from India to a foreign ship owner, the place of supply of service will be the location of the foreign ship
+
+owner located outside India. Resultantly, no GST is payable on this transaction and the transaction will qualify as
+
+export of service subject to fulfilment of criterion prescribed in this regard under Section 2(6) of the IGST Act. As the
+
+Applicant is able to satisfy the abovementioned criterion, supply of MCS by the Applicant to the foreign ship owner is an
+
+export of service
+
+
+
+16. In mode of assumption, if support service provided by the Applicant to the foreign ship owner is seen as a principal supply,
+support service cannot be an intermediary service and therefore MCS in entirety cannot be an intermediary service.
+
+17. Supply of support service as a part of the MCS by the Applicant is not an intermediary service in terms of Section 2(13) of
+the IGST Act, extracted below:
+
+“Sectton 2(13) “imtermediary” means a broker, an agent or any other person, by whatever name called, who arranges or factluates the supply of goods or
+services or hath, or securities, between two or more persons, but does not include a person who supplies such goods or services or both or securtnes on his own
+
+account.
+18. When the Applicant is providing support service under MCS, one may perceive support service as an intermediary service
+because (a) the applicant is engaged in identifying and then suggesting a potential charterer for the foreign ship owners; and
+(b) Revenue from MCS service supplied by the Applicant is earned upon successful completion of voyage. Resultantly, it
+may be argued that essence of the supply of MCS is to arrange and facilitate supply of service between the charterer and
+foreign ship owner; this is because If supply of consultancy service is successfully completed but the Applicant is not able to
+find a charterer for the foreign ship owner, no fees will accrue to or paid to the Applicant. In view of the above, support
+service provided by the Applicant to the foreign ship owners may be construed as “intermediary service’ in terms of Section
+2(13) of the IGST Act.
+19. Intermediary service provided by the Applicant along with consultancy service may qualify as naturally bundled service
+supplied in conjunction and together the service may be deemed as a composite supply in terms of Section 2(30 of the
+CGST Act. In this case, intermediary service may well be considered as the principal supply and the place of supply of
+service will be determined in terms of Section 13(8)(b) of the IGST Act which provides the ‘location of supplier of service
+as the place of supply, Resultantly, the place of supply of MCS (comprising of support service and intermediary service)
+will be the location of the Applicant in India and the transaction could be subjected to GST
+20. However, practically the Applicant under an agreement with the foreign ship owner supplies the following services:
+¢ The Applicant is continuously engaged in consultancy service and time-to-time reports from such consultancy is shared
+with foreign ship owners.
+
+¢ The Applicant recommends potential charterer to the foreign ship owners. These ship owners independently enter into an
+agreement with the charterers for transportation of goods by vessel, post negotiating terms of supply of service.
+
+© Once the foreign ship owner and the charterer concludes an agreement for transportation of goods by vessel, the Applicant
+steps back and supports the foreign ship owner in monitoring the voyage, calculating lay time and reconciling accounts:
+which benefits the foreign ship owner in the settlement of fee between the foreign ship owner and the charterer.
+
+21. Therefore, the Applicant is only introducing the foreign ship owner and the potential charterers which may be one or more
+than one in number. The foreign ship owner is at liberty to choose from the recommended charterers, negotiate the terms of
+supply of service. The foreign ship owners may decide not to provide service to any of the charterers recommended by the
+Applicant. The Applicant is neither arranging nor facilitating the supply of service between the foreign ship owner and the
+charterer. The role ends at the time of introduction of two parties (i.e. foreign ship owner and the charterer) and resumes once
+an agreement is signed between them, to ensure smooth voyage and settlement of payment. The supply of service by the
+Applicant is on its own account and directly to the foreign ship owner, Applicant has neither the wherewithal, nor the intent
+to deal with the charterer.
+
+22. The contract between the foreign ship owner (located outside India) and the charterer (located outside India) is negotiated by
+electronic means and executed outside India. The Applicant is involved by the foreign ship owner only at the stage of
+execution of the services (contractually agreed between the foreign ship owner and the charterer) in order to support the
+foreign ship owner in smooth provision of its service.
+
+23. The essential elements of a supply to qualify as an intermediary service in terms of the definition of ‘intermediary’ in the
+IGST Act and the clarification provided in the Service Tax Education Guide', and their applicability on the facts of the
+Applicant is summarized in the table below:
+
+From the Definition | From the Service Tax Education Guide Facts of the Applicant's case
+
+in IGST Act
+
+There is required to | To qualify as an intermediary, there should | In Applicant's case:
+
+be an arrangement or | be two supplies at any one time: + Applicant supplies MCS to the foreign ship owner which includes consultancy
+
+facilitation of the i) the supply between the principal service and suggesting of suitable charterers.
+
+supply of goods, and the third party; and © Subsequently, the foreign ship owner (upon independent negotiation) enters
+
+services or securities ii) the supply of his own service into an agreement for supply of service of transportation of goods by sea with
+(agency service) to his principal, the charterer.
+for which a fee or commission is | « Then the Applicant resumes its service to support the foreign ship owner in
+usually charged ensuring successful execution of voyage.
+
+Therefore, one supply of service precedes the other and at no occasion two services
+are supplied at one time,
+The facilitation of | An intermediary cannot on his own account | The nature and value of supply is independently negotiated between the foreign ship
+supply should be | alter the nature or value of the supply which | owners and the charterer. The Applicant is not equipped/ empowered by the foreign
+between two or more | he facilitates on behalf of his principal, | ship owner to negotiate the terms of contract between the foreign ship owner and
+persons although the intermediary may be | the charterer. Therefore, the supply is not to facilitate but to supply and service its
+authorized to negotiate a different price customers i.e. foreign ship owners,
+The supply of goods | The value of an intermediary's service | The Applicant is directly providing its support service to the foreign ship owner and
+or services or both or | should be identifiable and distinguishable | has no privity of contract between with the charterer, The service is provided on
+securities should not | from the main supply that he is arranging, | own account and its service is the key service or main service.
+be on own account but can be based on an agreed percentage of
+the sale or purchase price The fee of Applicants’ service is based on an agreed percentage of the supply of
+service between the foreign ship owner and the charterer however, this cannot be
+The service provided by the intermediary | the sole reason to characterize an Applicant’s service as an intermediary service.
+on behalf of the principal should be clearly | True nature of an agreement is to be determined, to understand the underlying
+identifiable transaction Hindustan Shipyard Ltd vs, State of Andhra Pradesh [2000] 119 STC
+533,
+
+4. The support service provided by the Applicant does not meet the criterion discussed above. These criteria must be satisfied
+to classify a service as an intermediary service, in absence of which the support service provided by the Applicant to the
+eign ship owner will not qualify as an intermediary service. By reference to the scheme of the GST law, the supply of
+
+
+
+service by the Applicant would be MCS constituted of consultancy service and support service (and not intermediary
+service), whereby consultancy service is the principal supply. In absence of consultancy service, the foreign ship owners do
+not engage with the Applicant for provision of support service to the ship owners even though it may be opted as separate
+service offering by the Applicant.
+
+25. It needs to be appreciated that prior to insertion of the concept of intermediary, the Applicant was treating the MCS as BAS
+and this position was adopted by the Applicant even after introduction of the concept of intermediary was introduced in the
+Statute Book in July, 2012. This position adopted by the Applicant before and after the introduction of the concept of
+intermediary was accepted by the service tax department given that the Applicant has recurrently disclosed this position in its
+self-assessment in the service tax returns filed by the Applicant from time to time.
+
+26. Previously, in terms of Section 80-O of the Income Tax Act, 1961 (“IT Act’), where technical and professional services were
+rendered from India for which payment was received in convertible foreign exchange a stipulated deduction from the income
+of an Indian resident by way of commission, fees, or any other similar payment was permissible. Similar service providers
+were eligible for and have claimed deduction in respect of MCS provided to foreign enterprises in terms of Section 80-O of
+the IT Act which was duly allowed by the income tax department. On this basis, it is submitted that MCS service provided
+by the Applicant was duly recognized as technical and professional service provided to its overseas clients.
+
+Position under the erstwhile law
+
+27. Up to 30 June, 2012 (pre-negative list regime), provision of MCS by the Applicant was classified as BAS in terms of
+Section 65(19) of the Act which means any service in relation to:
+
+1 “Promotion or marketing or sale of goods produced or provided by or belonging to the client; or
+1 promotion or marketing of service provided by the client: or
+1. any customer care service provided on behalf of the client; or
+tv. procurement of goods or services, which are inputs for the chent; or
+v. producnon or processing of goods for, or on behalf of, the chent;
+vi provisron of service on behalf of the cltent; or
+vi. a service incidental or auxiary to any activity specified in sub-clauses (i) to (vi), such as billing, issue or collection or recovery of cheques, payments,
+maintenance of accounts remitiance, ventory management, evaluation or development of prospective customer or vendor, public relanon services,
+
+management
+28. MCS provided by the Applicant to the foreign ship owner was treated as export of service in terms of Rule 3(iii) of the
+Export of Service Rules, 2005 (“Export Rules”) subject to the following requirements:
+MCS is provided in relation to business or commerce, such taxable service shall be treated as export of service if the
+following conditions are satisfied:
+(i) Provision of such service must be to a recipient located outside India; and
+(ii) Payment for such service is received by the service provider inconvertible foreign exchange
+If the recipient of taxable service has any commercial establishment or any office relating thereto in India, the taxable service
+
+shall be treated as export of services only if the order for provision of such service is made by the recipient of such service
+
+from any of his commercial establishment or office located outside India
+29. The Applicant was providing MCS to a foreign ship owner located outside India and the payment for provision of service
+
+was received by the Applicant in convertible foreign exchange. Therefore, MCS provided by the Applicant to foreign
+ship owner qualified as export of service in terms of the Export Rules and no service tax was applicable on this
+transaction between the Applicant and the foreign ship owner. Where MCS was provided by the Applicant to the Indian
+ship owner, the Applicant collected service tax on the transaction and deposited it in the Government treasury.
+
+30. From 01° July 2012 up to 30 June, 2017 (negative list regime), with the introduction of negative list the services were no
+longer classified. MCS service of Applicant (which includes consultancy service and support service) was characterized as
+BAS. Given the nature of MCS provided by the Applicant which comprised of consultancy service and conseq entially
+support service, the service was construed as naturally bundled service with consultancy service being the service which
+gave essential characteristics to the bundle of service in terms of Section 66F of the Act.
+
+31. MCS provided by the Applicant did not qualify under specific rules in terms of the PPSR. Accordingly, the place of
+provision of Applicant’s service was determined in terms of Rule 3 of the PPSR (default rule) as per which the place of
+provision of service is the “place of the service recipient’.
+
+32. Applying the above provisions, MCS when provided by the Applicant to service recipient (i.e. foreign ship owners), the
+place of provision of service was outside India at the location of overseas service recipient. Consequently, no service
+tax was payable on this transaction. MCS provided by the Applicant to overseas ship owner was treated as export of
+
+service in terms of Rule 6A of the Service Tax Rules, 1994 (“ST Rules”) extracted below:
+"6A, (1) The proviston of any service provided or agreed to be provided shall be treated as export of service when:
+
+a) the provider of service 1s located m the taxable territory,
+
+b) the recipient of service 1s located outside India
+
+©) the service is not a service specified in section 661) of the Act,
+
+d) the place of provision of the service 18 outside Indra,
+
+©) the payment for such service has been received by the provider of service in convertible foreign exchange, and
+
+D the provider of service and recipient of service are not merely establishments of a distinct person in accordance with tem (b) of 92bExplanation 3 of
+
+clause (44) of section 65B of the Act."
+33. Therefore, the position adopted by the Applicant in terms of the extant GST law is in line with the position of the Applicant
+under the erstwhile law, This has been disclosed by the Applicant and accepted by the tax authorities in the service tax
+returns filed by the Applicant up to June 30, 2017
+Il. Separate invoicing for consultancy service and support service
+34. Assuming that support service provided by the Applicant is construed as supply of intermediary service, supply of entire
+MCS by the Applicant should not be treated as intermediary service.
+35. MCS provided by the Applicant comprises of consultancy service and support service and the Applicant is able to separately
+allocate value for each service supplied under MCS, raise separate invoice and account for each service separately. If support
+service provided by the Applicant is construed as intermediary service, the entire revenue from MCS should not be offered to
+GST as intermediary service. If consultancy service is provided separately by the Applicant to foreign ship owner and a
+separate invoice is raised for this supply of service (split billing), we assume that the Applicant will be allowed to
+independently determine the GST incidence on consultancy service provided to foreign ship owner. Place of supply of
+nsultancy service provided by the Applicant to foreign ship owner will be determined in terms of Section 13(2) of the
+T Act, which provides place of supply as ‘the place of recipient’. As recipient of service in this case is the foreign ship
+
+6
+
+
+owner located outside India, the supply of consultancy service will not be exigible to GST and subject to the conditions
+prescribed in Section 2(6) of the IGST Act, the supply will qualify as export of service.
+
+36. It is implicit that only the value attributed by the Applicant to support service (which if construed as intermediary service)
+will be exigible to GST in terms of the scheme of GST law. Therefore, the Applicant will rightfully split the bill and allocate
+appropriate values to consultancy service and support service supplied by the Applicant.
+
+Conclusions
+
+37. On the basis of the extant law as discussed here and as also applicable to the factual matrix described, it is the Applicant’s
+understanding and view that the supply of MCS (which is comprised of consultancy service and support service) is a supply
+which in terms of Section 7(1)(a)of the CGST Act read with Section 2(30) of the CGST Act is to be regarded and classified
+as ‘composite supply’ of service, the principal supply of which is consultancy service,
+
+38. As a result of these being the positions, when the service is provided by the Applicant to a foreign ship owner, the transaction
+will not be liable to GST, as the place of supply of service (location of service recipient) is outside India in terms of Section
+13(2)(a) of the IGST Act
+
+39. Alternatively, where supply is distinctively provided (i.e. as consultancy service and support service for two fee terms
+associated with each) and support service by the Applicant is construed as intermediary service, the Applicant should offer
+(only) the revenue from the support services to GST since the place of supply of intermediary service is the location of
+supplier of service in terms of Rule 13(8)(b) of the IGST Act, whereas consultancy service will continue to be oul ide the
+ambit of GST, in view of the applicable place of supply rule i.e. Section 13(2)(a) of the IGST Act, which is outside India.
+
+Prayer
+
+40. In view of the factual matrix in the Applicant’s case and the extant legal provisions, the Applicant seeks an Advance Ruling
+from this Hon’ble Authority in respect of the composite supplies of MCS by the Applicant to foreign ship owners.”
+
+Sub n_dt.02.04.2018
+
+The Applicant makes the following submissions, which are being made without prejudice to, and is to be read along with the
+
+submissions made in the ARA, and at with submissions made during the hearings.
+
+FACTS AND BACKGROUND
+
+1 The Applicant is engaged in the supply of comprehensive Marine Consultancy Service (“MCS”) consisting of two
+elements i.e., Consultancy Service and Support Service. This AAR concerns only supplies made to overseas clients and is
+accordingly Limited and worded. MCS service of the Applicant is provided to the Foreign Ship Owners ("FSO") who wish
+to have and therefore seek out potential employment (charterers) for their vessels. Entire engagement between the
+Applicant and FSO is on principal to principal ("P2P") basis and has the essential nature of consultancy or market
+intelligence/ information. Reference in this regard may be made to a sample Consultancy Agreement dated 01 March,
+2017 entered between the Applicant and foreign ship owner Singapore Shipping international Pte. Ltd. ("the Agreement")
+is attached as Enclosure Ito Annexure | of the ARA.
+
+2: For the provision of MCS (which is always comprehensively rendered), FSS has employed resources which ier alia
+include management professionals, master mariners and chartered accountants. These professionals analyze market data
+available to them through the internet and other reliable trade sources or by projections. Such data is then converted into
+meaningful reports which help Foreign Ship Owner ("FSO") employment of its vessels.
+
+3. Nature of MCS provided by FSS to FSO
+
+3.1. MCS consists of consultancy services and support services (may include services for or completing employment)
+which are inherently tied up (bundled) and integrally enjoined, filed along with ARA as a commercial offering.
+Consultancy service rendered by FSS to FSO consists of the following services:
+
+& As Specialists in Freight market movement, the consultant will analysis commodity, shipping and freight markets, track movement of ships and
+cargoes and disseminate such information to the company.
+Track, collate, analyse and monuor port development and logistics data originating from reliable source and update future trends
+it, Monitor world-wide econome development, bulk commodity trade pattern development
+1. Identify and provide information on part costs, bunker (fuel), trend, cost estimation and analysts
+v. Preliminary evolution of cargo volume trade patterns, trend in commodity movement, port congestion, global and regional economic development and
+
+analysts
+ve Techno commerctal assessment of vehicle type utilization opportunities, infrastructure development in various regions, geographical impact on global
+trade in bulk commodities arising from weather, piracy, war, conflict, any other causes which have prospects to impact trade
+The foregoing services are provided as a single offering of Consultancy service, failing which the provision of service will
+not be meaningful. Consultancy service helps the client (i.e. FSO) with market intelligence and trade analysis, ete. which
+helps them in finding potential charterers. Thus, the Consultancy service provided by FSO in tune helps the FSO to
+augment its business and expand its client base and all these services are provided as one service.
+
+3.2, Support services provided by FSS to FSO (client) is usually at the end of the employment of vessel and involves FSS
+monitoring voyage execution, examining the lay time calculations and arranging for reconciliation of accounts to
+crystalize receivables of FSO. Occasionally, support may involve postal or ministerial acts of transmitting messages
+between FSO and charterer.
+
+3.3. Both Consultancy service and Support service are together provided, and Applicant does not offer these independ ently or
+separately and so has a comprehensive agreement and fee.
+
+4 Manner of supply of MCS
+
+4.1, While supplying the abovementioned services, Applicant and FSO converse, appreciate data, evolve best consumer
+strategy for employment of vessel. Typically, the Applicant is continuously studying/ analyzing the freight market and
+trade development across the world, On the basis of this analysis, the Applicant reaches out to FSO who have idle vessels
+and are looking out for charterers to provide such FSO with information which helps FSO to position their vessel and
+acquire charterers seeking to transport goods- The Applicant is only disseminating information which is useful for FSO to
+find potential charterers and this is the end of Consultancy service. FSS is not acting for or representing or an agent for or
+employed by or assists or advises the charterer in any form or manner.
+
+MCS is required by FSO and under contractual terms provided by Applicant to FSO in the following manner:
+
+FSO establishes contact with the potential charterers, communicates with and concludes the contract with the charterer
+
+with best mutual requirements. In limited manner FSS may act as a postman between the parties (FSS has no rights or
+
+bligations whatsoever to negotiate or enter into contract and the total time devoted by FSS in this process is lesser
+
+
+
+than 20% or less). Reference in this regard may be made to paragraph I(b) of the sample Agreement which provides
+that the service of Applicant does not require him to be an advocate for the FSO or its products in any forum, public or
+private,
+
+ii. Therefore, FSO provides service to charterer as per the terms and conditions agreed between them and freight charges:
+is earned, and GST on freight/charter hire is also paid by charterer if applicable, into government treasury.
+
+4.3. Agreements between Applicant and FSO are identical and are standard form of agreement which are entered with each
+FSO to whom services are provided by the Applicant, Reference in this regard may be made to the sample Agreement as
+all agreements concluded by the Applicant are in similar fashion,
+
+4.4. Service of Applicant to FSO is value based and market driven 2 and requires devoting time and attentions wherein FSS is
+not acting as an advocate to the FSO 4, Applicant has a fiduciary relationship with the FSO and Applicant carries risks
+under the Agreement, which may be that - inputs of Applicant may not be proper or meet the requirements of FSO or the
+market conditions may deteriorate, in which case no fees is payable to Applicant, since no engagement is crystallized by
+FSO.
+
+5 Timing of payment
+
+5.1. Fees for provision of MCS becomes payable to Applicant upon conclusion of contract between the FSO and su ccessful
+employment with the potential charterers identified by Applicant or otherwise, and completion of support activities. Only
+then has all contractual obligations of Applicant been completed. 6As per the ever evolving and highly competitive
+industry, fees are payable upon conclusion of the contract i.¢., it is paid upon the agreed additional support services, lay
+time calculations, etc. being provided to FSO by FSS. As an industry and market practice, fees is a percentage of revenue,
+which has been contractually agreed between the FSO and the Charterer. This arrangement is premised on concept of
+value added service i. E. ‘no contract’ will result in ‘no fee ’ , From another perspective, contingent fee is evolving
+globally as a payment structure/ terms like for consultancy and cost reduction assignments and factors in risk for Applicant
+(Service Provider).Such payment timing, i.e. upon full completion of agreed activities is the basic law of commission.
+
+ISSUES TO BE CONTEMPLATED UNDER ADVANCE RULING APPLICATION
+
+7. Given the above background and in context of question posed, the following notable features of the contractual arrangement
+
+of the Applicant with the FSO are:
+
+i. The MCS supplied by FSS is a "composite supply" (similar to bundled service in the erstwhile regime) with consultancy
+service as the principal supply [Section 2(30) of the Central Goods and Services Act, 2017 ("CGST Act")] and not a
+"mixed supply"?
+
+ii, MCS deserves to be classified as per SAC 9967 i.e. ‘support services in transportation, other than GTA! and not as (SAC
+9983) other professional, technical and business services (excluding advertisement service), which is a resin head,
+in terms of the following entry of Notification No. 11/ 2017 — IGST (Rate), even while GST rate notified is 18% for
+both.
+
+iii, The MCS qualifies as an export of service under Section 2(6) of the IGST Act and so is not liable to lax, which
+particularly involves the place of supply determined as per Section 13(2)(a) of the IGST Act in terms of which the
+place of supply of service will be the ‘location of the recipient of service’ and to be determined as per Section 13(3)(a) of
+the IGST Act in terms of which the place of supply of service will be’ where the service is performed"?
+
+OUR SUBMISSIONS
+
+1. MCS supplied by Applicant to FSO is a composite service of Consultancy service and Support service
+
+8. From Olst July, 2017 (GST regime), all forms of supply of service made for a consideration by a person in the course of
+
+furtherance of business qualifies as supply which is liable to GST in terms of Section 7(1)(a) of the CGST Act unless
+exported or exempted. Where two or more services are provided by a supplier in conjunction, GST law has continued the
+concept of composite supply and mixed supply as was given in Service tax law. A composite supply means a supply of two
+or more services which are ‘naturally bundled’ and supplied in conjunction with each other in the ordinary course of
+business. one of which is the ‘principal supply '. A mixed supply is the supply of two or more services made in conjunction
+with cach other by a taxable person for single price where such supply does not constitute a composite supply.
+
+9. Acomposite supply is defined in Section 2(30) of the CGST Act. as below:
+
+"Secnon 2/30) ~ "compostte supply" means a supply made by a taxable person to o recipient consisting of two or more taxable supplies of yoods or services or
+both, or any combination thereof, which ore naturally bundled and supplied in conjunction with each other in the ordinary course of business, one of which
+
+is a principal supply"
+10. The concept of composite supply is similar to the concept of ‘naturally bundled service’ under the erstwhile negative list
+regime. Applicant is supplying various services to the FSO (refer paragraph 3 above). These services consisting of
+Consultancy service and Support service is provided is provided together to the FSO in conjunction as one bundle of
+service. Conjunction means "condition of being joined ", MCS supplied by the Applicant is joined together where
+Consultancy service is provided at the time of initiation of service by the Applicant to the FSO and Support service is
+provided at the end of supply at the time of completion of employment of the FSO by the charterer. No FSO separately
+seeks provision of Support service, MCS has evolved over a period of time and Support service is typically provided as
+value addition to the FSO. Consultancy service in the ordinary course of business is provided in combination with Support
+service, this is indicated by the industry practice
+11, One of the service provided by the Applicant amidst the gamut of service is the principal supply or the main/ primary
+supply. In case of the Applicant, the principal or the primary supply by the Applicant is the Consultancy service which
+helps the FSO to initiate business by finding business and the Support service is ancillary service which is provid ed at the
+time of closure of service when the Applicant is called upon to calculate lay time, etc. and help FSO to close its service
+provided to the charterer, Both Consultancy service and Support service is provided to and for FSO on P2P basis and the
+Applicant has no wherewithal with the Charterer or paid by the Charterer-
+12. Supply of MCS by the applicant consisting of consultancy service and support service will be construed as a supply of
+composite service made by the applicant as these services (i.e. consultancy service and support service) are
+bundled and supplied in conjunction with each other in the ordinary course of business, one of which (i.e. consultancy
+service) is the principal supply
+_ The term ‘naturally bundled and supplied in conjunction with cach other in the ordinary course of business' is not
+CGST Act or IGST Act. However, this provision has been carried forward from the Service tax law and therefore, reference
+ay be made to taxation of Services: An Education Guide {June 20, 2012), which provides that to demonstrate that a
+
+
+
+service is supplied in conjunction with each other in the ordinary course of business, the supply of service should meet
+
+some of the following criterion:
+
+© The perception of the recipient of service i.c¢., a large number of service receivers expect these services to be provided
+as a package. Applicant is providing the service as a package as the FSO prefers to engage with one service provider to
+receive gamut of services which augments their business and it is convenient to pay singular consideration which is a
+percentage of the value of freight received by the FSO.
+
+¢ Majority of similar service provider in the industry provide similar bundle of service. Service provided by
+Applicant to FSO has an evolving nature. Previously, depending upon the market scenario the requirement was to find
+charterers, however, post global financial crisis about a decade ago, there is an increase in competition and service
+expectation by the FSO thus, Consultancy service is being provided with other value- added services. The FSO engages
+Applicant for Consultancy services and subsequent Support service usually provided in tandem. FSS is engaged in cross
+border supply-of service using latest technology and methods. More than domestic industry, Applicant has to compete on
+global platform to international standards to meet FSO requirements.
+
+© One service is the main service and other services provided in the bundle are incidental or ancillary to the main service
+As discussed above, Consultancy service provided by Applicant to FSO expands its business viability and profitability.
+FSS’s advice on vessel positioning, bunker trends, commodity market, etc. helps FSO to reach out to potential charterers
+which is the main objective of FSO’s business Once FSO enters into a contract with the charterers, FSS is called
+objective upon to provide Support service in relation to the voyage. Therefore, without Consultancy service FSO will not
+be able to efficiently contract with potential charterers and provide services and Applicant may not be called upon to
+provided Support service.
+
+e The service recipient pay single price regardless under of the services within the package, Applicant is obliged to
+provide all services under the Agreement including the Consultancy service and Support service. These services are
+provided by Applicant to and for paid FSO on need basis. MCS is never provided to or for Charterer and fee for MCS is
+only paid by the FSO. This is another important indicator of the perception in Service recipient's minds that fee is
+payable for a consolidated offering
+
+¢ Elements are normally advertised as a package. Applicant in all cases enters into an agreement with FSO to provide
+MCS consisting of Consultancy service and Support service. Applicant is not a conduit between the FSO and the
+Charterer, Generally, as discussed above, change in industry dynamics post globalization and increased competition both
+domestic and overseas, has made it necessary for FSS to provide the entire gamut of service as a package.
+
+© Different elements not available separately. Neither FSO approach applicant to provide only consultancy service or
+only Support service, nor is the Applicant able to or actually engaged to provide each of the elements of service
+separately. In fact, the Applicant has in the past not provided these two services separately and always provided these
+conjointly. The FSOs (industry) require generally the provision of services (MCS) as a bundle of service and owing to
+this expect Consultancy service and Support service together and as a result it is commercially inexpedient for Applicant
+to so offer it.
+
+Different elements are integral to one overall supply. Service recipient’s end objective is employment of vessel. FSS
+provides Consultancy service to FCO. The3 information disseminated by FSS under Consultancy service is used by FSO
+for employment of vessels. Once FSO itself fixes the charterer, Applicant is required to provide Support to FSO by
+enabling conclusion of the transaction inasmuch as reconciliation and calculation of lay time to receive charter hire
+earnings for the employed vessel. Thus, the supply is intrinsically linked and are integral to one another and so clearly in
+conjunction.
+
+14. The Applicant carries the risk as the Service provider providing MCS. The Applicant is providing MCS to the FSO
+pursuant to which FSO generates employment for its vessels. Applicant's consideration for MCS is paid by the FSO only
+when the advice of Applicant helps the FSO to find a Charterer and independently conclude contract with such Charterer.
+Applicant and the FSO are in a fiduciary relationship in terms of which the Applicant is obligated to act for the benefit and
+interest of FSO.
+
+15. In view of the aforesaid facts, MCS service provided by FSS to FSO consisting of consultancy service and Support service
+for which a unified consideration is charged, qualifies as naturally bundled service supplied in conjunction with each
+other, one of which (i.c. Consultancy service) is the principal supply. Thus, MCS supplied by FSS to FCO would qualify
+as composite service
+
+16. The Applicant in this regard would like to bring to your attention the submission made by State Tax officer (‘the officer’)
+before the Hon'ble Authority on March 13, 2018 (‘Revenue Submission’). In this Revenue Submission, the Officer has
+submitted that MCS is a composite supply of service in terms of Section 2(30) of the CGST Act.
+
+17. Contrary to the above contentions, a "mixed supply" is the supply of two or more services made in conjunction with each
+other by a taxable person for single price where such supply does not constitute a composite supply in terms 0 Section
+2(30) of the CGST Act. As MCS provided by FSS qualifies as composite supply given the discussion and analysis above,
+this service would not qualify as "mixed supply" in terms of Section 2(74) of the CGST Act.
+
+Il. MCS provided to FSO will qualify as an export of service in terms of Section 2(6) of the IGST Act
+
+18. Export of service is defined under Section 2(6) of the IGST Act as following:
+
+“2(6)'export of services means the supply of any service when, -—
+
+1. the supplier of service 1s located tn India;
+
+the recipient of service ts located outside India;
+
+im. the place of supply of service ts outside India;
+
+tv. the payment for such service has been recetved by the supplier of service in convertible foreign exchange;
+
+v. A spies apes and the reciptent of service are not merely establishments of a distinet person in
+accordance with Explanauon 1m secon 8"
+
+Applicant providing MCS to the FSO qualifies the conditions (i), (ii), (iv) and (v) prescribed above as the supplier of
+
+service i.e. the Applicant is located in India, the recipient of service i.e. the FSO is located outside India, payment for
+
+supply of MCS service is received from outside India in convertible foreign exchange and supplier of service and recipient
+service are not merely establishments of a distinct person in accordance with Explanation | in Section 8 of the IGST
+
+
+
+20. Applicant also satisfies condition (iii) above as the place of supply of MCS is outside India in terms of the discussion
+
+below:
+
+20.1. MCS will qualify_under Section 13(2)(ajof the IGST Act
+i. The place of supply of MCS (with consultancy service as the principal supply) when providedto FSO shall be the
+
+‘location of the recipient of service, in terms of Section 13(2)(a) of the IGST Act (i.e. the default rule), as supply of
+MCS does not qualify in the specific place of supply rules prescribed under Section 13 of the IGST Act. Therefore,
+when MCs as composite supply (consisting of consultancy service and support service) is supplied by the Applicant
+from India to FSO located outside India, the place of supply of service will be the location of the FSO located outside
+India.
+
+20.2. MCS does not qualify under Section 13(3)(a) of the IGST Act
+
+i. Section 13(3)(a) of the IGST Act provides that where services are supplied in respect of goods which are to be
+required to be made physically available by the recipient of service to the supplier of service, or to a person acting
+on behalf of the supplier of service in order to provide the service, the place of supply of service in such case shall
+be the location where the services are actually performed. Section 13(3) (a) In such of IGST Act shall is extracted
+below:
+
+"'13(3) The place of supply of the following services shall be the location where the services are actually performed, namely:-
+
+(a) services supplied in respect of goods which are required to be made physically available by the recipient of services to the supplier of services, or
+to a person acting on behalf of the supplier of services in order to Provide the services”
+
+ii. MCS is provided to FSS is in-turn utilized by the FSO to find a charterer looking for transportation of Goods and
+this also involves lay time calculation, arranging reconciliation of account and voyage monitoring. Both
+Consultancy service and Support service are intellectual services provided by Applicant from its office with its
+own resources thereat, who never have to or have in the past to deal with vessel of FSO or cargo of Charterer. In no
+case, the vessel or the cargo transported by the FSO is physically made available by the recipient of service (i.¢.
+FSO) to the provider of service (i.e. FSS), therefore, Section 13(3)(a) of IGST Act would not at all apply to MCS.
+
+iii, Since there is no definitive guidance, reference in this regard may be made to Taxation of Services: An Education
+Guide (June 20, 2012) which is the predecessor rule in Service tax (negative list), the relevant paragraph of which
+is extracted below:
+
+“The essential characteristic of a service to be covered under this rule is that the goods temporarily come into the physical possession or control
+of the service provider, and without this happening, the service cannot be rendered. Thus, the service involves movable objects or things that can
+be touched, felt or possessed. Examples of such services are repair, reconditioning, or any other work on goods (not amounting to
+manufacture), storage and warehousing, courier service, cargo handling service (loading, unloading, packing or unpacking of cargo), technical
+testing/inspection/certification/ analysis of goods, dry cleaning etc. It will not cover services where the supply of goods by the receiver is not
+material to the rendering of the service eg. where a consultancy report commissioned by a person is given on a pen drive elotging to the
+customer. Similarly, provision of a market research service to a manufacturing firm for a consumer product (say, a new detergent) will not fall in
+this category. even if the market research firm 1s given say, 1000 nos, Of | kilogram packets of the product by the manufacturer, to carry for door-
+to-door surveys.”
+
+iv. It is reiterated that in order to qualify under this rule, the goods temporarily come in the physical possession or
+control of the service provider, which is not the case of Applicant. Neither the vessel or the cargo is ever transferred
+to Applicant for provision of its service to FSO. The activity performed under MCS by the Applicant is not in the
+nature of stevedore who is a handler of goods on the maritime movement of commodities and helps in loading and
+unloading of vessels. Unlike stevedore, the Applicant is providing abstract MCS which does not involve the
+
+Applicant to touch the cargo of charterer or vessel of the FSO. The example above covers Consultancy service
+
+which is delivered to the customer on pen drive to the customer. In such case, the rule on performance-based service
+
+will not apply has been specifically classified. Similarly, FSS provides MCs service which is delivered to FSO via
+email and performance-based rule i.e. Section 13(3)(a)of the IGST Act would not apply on this transaction.
+
+Therefore, literally as also by Education Guide reference, Section 13(3) of the IGST Act cannot be applied.
+
+20.3. MCS does not qualify under Section 13(8) (b) of the IGST Act
+
+i. Section 13(8) (b) of the IGST Act would apply on supply of service which qualifies as ‘intermediary service’. an
+intermediary service in terms of Section 2(13) of the IGST Act, extracted below:
+
+"Secon 2(13) ~"imermediary” means a broker, on agent or any other person, by whatever name called, who arranges or facilitates the supply af goods
+
+or services or both, or securities, benween Iwo or more persons, but does not include a person who supplies such goods or services or both or securities
+
+‘on his own account.”
+
+ii. When the Applicant is providing MCS, it is a composite supply of service wherein Consultancy service is the principal
+supply. MCS is supplied on P2P basis to and for the FSO and would not qualify as’ intermediary service’ in terms of
+Section 2(13) of the IGST Act. Given this, place of supply of MCS will not be determined in terms of Section 13(8)
+(b) of the IGST Act which provides the ‘location of supplier of service’ as the place of supply. Resultantly, the place
+of supply of MCS (comprising of support service and intermediary service) will not be the location of the Applicant
+in India.
+
+iii, In arguendo, if the Applicant is characterized as a supplier of intermediary service, it must not be lost sight of that the
+service provided by FSS in this case would be in relation to a employment of a vessel {i.e. service provided) by the
+FSO located outside India - so the destination of Applicant's service is outside India, to the Charterer located outside
+India, and contract for plying of vessel between FSO and the Charterer is signed outside India and executed outside
+India. Therefore, as the service of Applicant is provided in relation to a services which is an intangible in nature and
+is initiated, executed and concluded outside India, between parties located outside India and the service of Applicant
+is used / consumed outside India, the transaction be regarded as being outside the territorial jurisdiction of GST law,
+which extends up to 200 nautical miles from baseline inside sea in India, In other words, it will be incongruous to
+levy GST on a transaction which is outside the geographical jurisdiction of the law.
+
+21. Inany case it be noted that the Officer in the Revenue Submission has submitted that the place of supply of service of MCS
+should be determined in terms of Section 13(2) of the IGST Act and the place of supply of service should be the place of
+the recipient of service.
+
+22. In view of the foregoing discussion pertaining to facts of the Applicant's case, supply of MCS would qualify all the
+
+RPA Mes en under Section 2(6) of the IGST Act and would qualify as export of service which is zero rated.
+
+MCS service provided by Applicant to FSO qualifies as Support service in relation to transport, other than Goods
+<o, Xransport Agency (‘GIA’)
+
+10
+
+
+23. Notification No. 11/2017 - Central Tax (Rate) dated June 28, 2017 (‘the Notification’) provides for the GST rate for service
+based on the classification of services read with Annexure to the Notification. Heading 9967 at Serial No. 1 1(1i)of this
+Notification deals with "support services in transport, other than GTA”. Given that MCS service provided by Appli
+FSO is in relation to transportation of goods by vessel only, in our submission, Heading 9967 under which SAC 9
+Serial No. 148 of the Annexure to the Notification ("other supporting services for water transport nowhere else cl
+is the specific entry which provides the appropriate description of activities provided by Applicant and therefor
+will be classified therein and leviable to GST at the rate of 18%.
+
+General Agreement on Trade in Services
+
+24. To substantiate the submission, reference is made to classification as per Service sectoral classification list of Wor
+Organization (‘WTO') which classifies MCS service provided by FSS as 'supporting services for maritime transpot
+745). Furthermore, the Schedule prescribed under the Served for India Scheme (‘SFIS’) of Foreign Trade Poli
+embraced the classification by the WTO. This Schedule of SEIS scheme also classifies MCS under the cat
+Maritime Transport Services [supporting services for maritime transport (745)]. Thus, it can be safely concluded t
+provided by Applicant to FSO would be classified as support services in transport, other than GTA,
+
+25. In the invoice raised by Applicant on FSO which categorizes the supply of service by FSS to FSO as MCS, a
+which invoice is enclosed as Annexure | supports the commercial understanding. Consequently, in the financial.
+for the year 2017-18 in the Profit and Loss accounts income from MCS has been reflected as revenue.
+
+26. MCS will not be classified under Heading 9983(ii) at Serial No. 21 as "other professional, technical and business services
+other than (i) above", Relevant entry under Heading 9983 is SAC 998399 at Serial No. 364 of the Annexure {1.¢. "other
+professional, technical and business services nowhere else classified"). Services classified under this head are leviable to
+GST at the same rate of 18%.It is evident that this is the residuary entry which is generic in nature. Reference in this
+regard may be made to the basic principal of classification in terms of which a specific entry will prevail over a generic
+entry. As this is a generic entry, the specific entry of SAC 995759 would prevail.
+
+CONCLUSION
+
+27. In light of the above and the ARA filed by the Applicant on January 19, 2018, the Applicant prays that the q estions
+referred to this Hon'ble Authority be decided by holding the following:
+
+i. The MCS consists of Consultancy service along with subsequent Support service which constitutes naturally bundled
+offerings in conjunction with each other, where consultancy service is the principal supply in supply. The MC is thus
+a Composite service for GST law,
+
+ii, The Applicant qualifies all the conditions prescribed for supply of MCS to FSO to qualify as export under Section 2(6)
+of the IGST Act including the condition that place of supply of service by Applicant to overseas FSO should be
+outside India. MCS provided by FSS do not qualify in the specific place of supply rules prescribed under Section 13 of
+the IGST Act, resultantly, place of supply of MCS would be determined in terms of Section 13(2) of the IGST Act,
+which is the default rule and provides that the place of supply be the place of the recipient of service, which in the facts
+in hand is the place of the FSO which is located outside India.
+
+iii, MCS would be classified under SAC 996759 at Serial No. 148 of the Annexure to the Notification (i.e, “other
+supporting services for water transport nowhere else classified”) as this is the specific entry which provides the
+appropriate description of activities provided by Applicant and therefore, MCS will be classified therein.”
+
+03. CONTENTION - AS PER THE CONCERNED OFFICER
+
+The submission, as reproduced verbatim, could be seen thus-
+
+“Submission of NIL date
+Qs.No_| Questions raised by the applicant Submission as per ACT & RULE
+All Whether Marine Consultancy Service (MCS) | The definition of Composite supply uses the words naturally
+provided to foreign ship owners constitutes | bundled. This is not defined in GST ACT but was used in Finance
+“Composite supply” with the principal supply | Act, 1994 (relating to service tax). Hence, clarifications given
+of consultancy services? under those provisions are relevant.
+Whether services are bundled in the ordinary course of business
+would depend upon the normal or frequent practices followed in
+the area of business to which services relate. Such normal and
+frequent practices adopted in a business can be ascertained from
+several indicators few of which are listed below:-
+¢ The perception of the consumer or the service receiver. If large
+number of service receivers of such bundle of services
+reasonably expect such services to be provided as a package
+then such a package could be treated as naturally bundled in
+the ordinary course of business.
+© The nature of the various services in a bundle of services will
+also help in determining whether the services are bundled in
+the ordinary course of business. If the nature of services
+combined with such service are in the nature of incidental or
+ancillary services which help in better enjoyment of a main
+service.
+© Other illustrative indicators, not determinative but indicative of
+bundling of services in ordinary course of business are —
+a. There is a single price or the customer pays the same
+amount, no matter how much of the package they actually
+receive or use
+
+i
+
+
+
+b. The elements are normally advertised as a package.
+
+c, The different elements are not available separately
+
+d. The different elements are integral to one overall supply —
+if one or more is removed, the nature of supply would be
+affected.
+
+A.2 Whether the place of supply of MCS ( as a | Section 13of the IGST Act has been reproduced.
+composite supply) will be determined in
+terms of Section!3(2) (a) of the Integrated
+Goods and Services Tax, 2017(°IGST Act”) ,
+Le. the * location of recipient_of services”?
+
+Bl In the alternate, where services are
+providedto foreign ship owners distinctively
+as supplyof consultancy service and support
+service with separate and demarcated fees
+fortheir consultancy service and for support
+service:
+
+(a) Whether consultancy service will qualify as | Heading 9983 — residual entry (ii)
+business consultancy service in terms of the
+scheme of classification of — services
+(Annexure to Notification 11/2017- Central
+Tax (Rate), dated 28" June, 2017?
+
+(b) Whether the place of supply of such | Section 13(2) of the IGST Act which is the default rule for
+consultancy service will be the ‘location of | determining the place of supply of services where the location of
+recipient of service’ in terms of section13(2) | supplier or location of recipient is outside India, “the place of
+(a) of the IGST Act? supply of services except the services specified in sub-section (3)
+
+to (13) shall be the location of the recipient of services.
+
+(c) Whether support service qualifies as | Section 2(13) of IGST Act “intermediary” means a broker, an
+“Intermediary Servi in terms of Section | agent or any other person, by whatever name called, who arrange
+2(13) of the IGST Act? And, if ruled that the | or facilitates the supply of goods or services or both, or securities,
+support service qualifies as an intermediary | between two or more persons, but does not include a person who
+service, theplace of supply of support service | supplies such goods or services or both or securities on his own
+as intermediary service will be the ‘location | account;
+of supplier of service’ in terms of Section
+13(8)(b) of the IGST Act?
+
+04. HEARING
+
+The case was taken up for preliminary hearing on dt.14.02.2018. Sh. Ranjeet Mahtani
+and Sh. Abhinay Kapoor, both Advocates, duly authorised, alongwith Sh. Jatin Mehta,
+Accountant appeared and reiterated the contention as made in the written submission.
+
+Sh. Ranjeet Mahtani, Advocate orally agreed and requested that his queries with
+respect to place of supply may not be considered for decision by the Authority.
+
+The final hearing was held on dt.13.03.2018. Sh. Ranjeet Mahtani and Sh. Abhinay
+Kapoor, both Advocates, appeared and made oral and written contentions as per detailed
+submission made in their application and documents submitted at the time of hearings.
+
+Ms. R. S. lyer, jurisdictional State Tax Officer appeared on both the hearings and has
+
+made a written submission.
+
+05. OBSERVATIONS
+We have gone through the facts of the case. Sub-section (2) of section 97 of the GST Act
+
+says that the question on which the advance ruling can be sought shall be in respect of,--
+
+classification of any goods or services or both;
+
+applicability of a notification issued under the provisions of this Act;
+determination of time and value of supply of goods or services or both;
+admissibility of input tax credit of tax paid or deemed to have been paid;
+determination of the liability to pay tax on any goods or services or both;
+12
+
+
+oO whether applicant is required to be registered;
+(g) whether any particular thing done by the applicant with respect to any goods or services or both amounts to or
+results in a supply of goods or services or both, within the meaning of that term.
+
+There being no specific question in respect of place of supply covered under Section 97
+of the GST Act, the applicant conceded that his queries with respect to place of supply may not
+be considered for decision by the Advance Ruling Authority. The questions for decision,
+
+therefore, are thus -
+
+Q.1_ Whether Marine Consultancy Service (“MCS”) provided to foreign ship owners constitutes “composite
+supply” with the principal supply of consultancy service?
+
+Q.2 In the alternate, where services are provided to foreign ship owners distinctively as supply of consultancy
+service and support service with separate and demarcated fees for their consultancy service and for support
+service:
+
+a. Whether consultancy service will qualify as business consultancy service in terms of the scheme of
+classification of services [Annexure to Notification 11/ 2017 - Central Tax (Rate), dated 28"'June,
+2017]?
+
+b. Whether support service qualifies as “intermediary service” in terms of Section 2(13) of the IGST Act?
+
+We shall now discuss each of the questions.
+
+Question 1
+
+Whether Marine Consultancy Service (“MCS”) provided to foreign ship owners constitutes
+“composite supply” with the principal supply of consultancy service?
+The applicant has tendered a sample Consultancy Agreement dated 01 March, 2017 entered
+between the applicant (‘The Consultant’)and foreign ship owner Singapore Shipping
+International Pte. Ltd. (‘The Company’) pursuant to the MV AM OCEAN PRIDE/ MARUBENI
+CEMENT CHARTER PARTY CONTRACT DATED 382MARCH 2017.
+
+The important clauses from this Agreement dt.01.03.2017 could be seen to have an
+
+understanding of the issue :
+
+WHEREAS ‘The Company” desires that the Consultant provide advice and assistance to “The Company” in their lide of
+expertise; and WHEREAS, the Consultant desires to provide such advice and assistance to “The Company’ under the terms and
+conditions of this Agreement,
+
+1.Consulting Services
+
+(a) ‘The Company’ hereby appoints Consultant as a consultant and technical advisor to perform the consulting
+services specifically set out in Exhibit A attached to this Agreement and made a part hereof (hereafter referred to as the
+“Services”), as said Exhibit may be amended in writing from time to time, and Consultant agrees, subject to the terms
+and conditions of this Agreement, render such Services during the term of this Agreement. Such services shall be limited
+to the area of expertise described in Exhibit A, as amended in writing form time to time. Consultant shall render services
+hereunder at such times and places as shall be mutually agreed by ‘The Company’ and Consultant.
+
+(b) It is understood that the purpose of the Consulting is to provide periodic review and advice relevant to Shipping
+and Maritime matters related to the MV AM OCEAN PRIDE/MARUBENI CEMENT CHARATER PARTY
+CONTRACT DATED 38° MARCH,2017. To that end. ‘The Company’ shall provide Consultant, in advance of meetings,
+with accurate, unbiased and sufficient information for him to review the subject matter thereof, and shall promptly provide
+further information that Consultant reasonably deems relevant to forming any pertinent conclusions relevant to the matter for
+discussion
+
+It is expressly understood that Consultant has fiduciary obligation to ‘The Company’ based on contractual terms of this
+Agreement; that Consultant's role is to provide independent advice uninfluenced by commercial concerns; and that service as a
+Consultant does not require him to be an advocate for ‘The Company’ or its products in any forum, public or private. The
+Consultant expressly agrees that under no circumstances will this role be compromised or inaccurately represen ed. The
+implementation of such value-based and market-driven advisory service is expected lead to increased cargo volumes, and the
+support from The Consultants will provide ‘The Company’ with long-term sustainable revenue.
+
+Consultant for a wide range of professional, engineering and other technical services in support of the Company’s acti ity. The
+‘onsultant will be used to augment ‘The Company’ resources, and will provide qualified technical and professional personnel
+rform the duties and responsibilities assigned under this agreement. The Consultant is obliged to provide technically&
+
+13
+
+
+required standard of Advisory Service.
+
+The Consultant shall ensure that competent technical & professionally qualified team of Chartered Accountants, Master Marine
+and/or Professional Marine Engineer with support associates having at least qualified at Narotham Morarjee Institute of Shipping
+or equivalent overseas qualification shall attend to render advisory service.
+
+3. Compensation and reimbursement.
+In consideration of the services to be provided by Consultant to ‘The Company’ hereunder, ‘The Company’ “(6 pay
+
+professionally qualified staff in every way proficient, individually or collectively as a team to render to “The om the
+
+unless otherwise agreed in each particular charterparty contract to Consultant a Fee of 1.25% of Gross Revenue (“Gross
+Revenue” meaning the freight, dead freight and demurrage received under contracts fixed through the Consultant).
+
+‘The Company” shall not reimburse Consultant for any travel or other out of pocket expenses Consultant incurs in connection
+with performing the Services.
+
+‘The Company’ shall endeavor to pay to Consultant invoiced amounts within thirty (30) days after the date of invoice or
+successful execution & completion of assigned contract whichever is later.
+
+4. Duties of The Consultant
+
+The Consultant shall, while this Agreement is in force or until the satisfactory completion of the Assignment, devote such of his
+time, attention and abilities to the Assignment as may be necessary for the satisfactory completion thereof as the same shall be
+determined by ‘The Company’. The Consultant agrees to advise and assist ‘The Company’ as required in accordance with their
+Technical & Professional ability with respect to all aspects in the performance of such duties the Consultant shall comply with
+all reasonable requests and directions of ‘The Company’ or its customer or nominee including subsidiaries & affiliate entities
+Complying with all local or internal policies and regulations operated by or affecting “The Company” or its customer or nominee
+as the case may be provided the Consultant has been appraised of them.
+
+5 Independent contractor stratus
+
+*The Company’ shall request Consultant services on an as-needed basis. There is no guarantee that any or all of the
+services described in this Agreement will be assigned during the term of this Agreement. Further, the Consultant will
+provide these services on a non-exclusive basis. ‘The Company’, at its option, may elect to have any of the seryices set
+forth herein performed by other consultants or ‘The Company’ staff. The parties agree that this Agreement creates an
+independent contractor relationship, not an employment relationship. The parties acknowledge that neither party has, or shall be
+deemed to have, the authority to bind the other party.
+
+6. Indemnification
+
+The Consultant shall attend to the affairs of “The Company’ in a prudent and business-like manner in good faith, with prior
+disclosure of any conflict of interest
+
+7. Intellectual Property
+(a) Consultant will be providing timely access to proprietary and valuable information that “The Company’ might
+
+otherwise not receive within time. Timing being the essence of efficient professional service. In addition, those p;
+
+improvements to “The Company’ resources, “The Company’ reasonably seeks to secure such improvements for its own use and
+practice. At the same time, ‘The Company’ understands and acknowledges that Consultant has pre-existing and on-going
+obligations to independent research, collaborative agreements within the scope of certain policies. These obligations
+duty on the part of Consultant to disclose and assign to “The Company’ any proprietary rights arising during the course of such
+engagement and any overlapping consulting arrangements
+
+(b) However, the parties agree that it is mutually beneficial that Consultant be able to participate fully in
+Services, as stated herein, without being obligated to constrain her or his comments or contributions based upon the coi
+
+Information provided by Consultant pursuant to this Agreement shall reside with “The Company’.
+8. Confidential Information
+
+(a) The parties acknowledge that in connection with Consultant's Services, the Consultant may disclose to ‘The
+Company’ time sensitive confidential information and trade reports of the Consultant which the Consultant may within
+and in the course of performing the Services
+
+Such information may take the form of, for example: data concerning risk assessment, discoveries made by the Consultant, the
+Consultant’s know-how; marketing strategies and processes.
+(b) Consultant hereby agrees that during the term of this Agreement: (i) Consultant shall not publicly divulge, disseminate,
+publish or otherwise disclose any ‘The Company’ Confidential information without ‘The Company’s prior written consent (ii)
+Consultant shall not use any such ‘The Company’ Confidential information for any purposes other than consultation with “The
+Company’
+(c) Consultant agrees that their obligations under the Agreement are of a unique character that gives “The Company” particular
+value, Consultant’s breach of any of such obligations will result in professional misconduct towards ‘The Company’.
+
+9. Term
+
+(a) This Agreement shall remain in effect for a term of | year commencing on the date first written above, unless sooner
+terminated as hereinafter provided, or unless extended by agreement of the parties.
+
+(b) This Agreement may be terminated by either party, with or without cause, upon thirty (30) days prior written notice
+
+to the other; provided that the Consultant shall, in accordance with the terms and conditions hereof, nevertheless wind up in an
+orderly fashion assignments for “The Company’ which Consultant began prior to the date of notice of termination hereunder.
+
+(c) Upon termination of this Agreement for any reason, Consultant shall be entitled to receive such compensation and
+reimbursement, if any, accrued under the terms of this Agreement, but unpaid, as of the date Consultant ceases work under this
+Agreement. In addition, Consultant shall be reimbursed for any no cancellable obligations, any cancellation penalties, and unless
+Consultant terminates the agreement without cause, any expenditures reasonably made in order to perform the Services that were
+to occur had cancellation not occurred.
+
+The Consultant shall not use any facilities, funds or equipment owned or administered by “The Company’ in the
+rmance of the Services, except with the prior written consent of “The Company’ and in accordance with all a plicable
+of ‘The Company’
+
+14
+
+
+(e) The parties hereby agree that this Agreement and the provisions hereof shall be construed in accordance with the laws
+of England
+
+Arbitration in Singapore, as per English law, conducted in accordance with rules of ‘London Court of Arbitration in Singapore,
+as per English Law, conducted in accordance with rules of “London Court of International Arbitration’ (LCIA’). Each party to
+appoint their own Arbitrator and incase of disagreement, the matter will be referred to Umpire whose decision will be final and
+binding,
+
+(fh The parties acknowledge that the Services are Professional &Technical in nature, and that from Consultant's
+perspective the specific identify of ‘The Company’ including its leadership, corporate culture, staff and reputation, is material to
+Consultant’s choice to enter into this Agreement. Therefore the parties expressly agree that no party may assign this Agreement
+without the written consent of the other.
+
+(g) The Consultant shall pooneuce all activity in the sole best interest of ‘The Company’.
+
+1) As Specialists in freight market movement, the consultant will analyse commodity, shipping and freight markets, track
+movement of ships and cargoes and disseminate such information to ‘The company’.
+
+2) Track, collate, analyze and monitor Port Development & Logistics data originating from reliable source and update future
+trends
+
+3) Monitor worldwide Economic Development, Bulk Commodity Trade pattern development
+
+4) Indentify and provide information on Port Costs, Bunker (fuel) trend, Cost Estimation & Analysis.
+
+5) Monitor Voyage Execution for smooth and efficient operations,
+
+6) so as to optimize performance for “The company’.
+
+7) Examine lay time calculations and arrange for accounts reconciliation for objectives of eventual settlement.
+
+8) Preliminary evaluation of cargo volume, trade patterns, trend in commodity movement, port congestion, Global as well as
+Regional economic development and analysis
+
+9) Techno-Commercial assessment of vehicle type utilization opportunities, infrastructure development in various regions,
+Geographical impact on global trade in bulk commodities arising from weather, piracy, war, conflict or any other causes
+which have prospects to impact trade.
+
+10) Consultancy Fee is deemed earned upon actual voyage being performed and reconciliation of voyage specific amount and in
+accordance with clause 3 of the Consultancy Agreement.
+
+With the above agreement and the arguments placed, we see the issue thus -
+It is the contention that the applicant is offering Consultancy as well as Support services
+
+which constitute a composite supply as defined under section 2(30) of the GST Act as under :
+
+(30) “composite supply” means a supply made by a taxable person to a recipient consisting of two or more taxable supplies of
+goods or services or both, or any combination thereof, which are naturally bundled and supplied in conjunction with each other
+in the ordinary course of business, one of which is a principal supply;
+
+Illustration.— Where goods are packed and transported with insurance, the supply of goods, packing materials, transport and
+insurance is a composite supply and supply of goods is a principal supply;
+
+As can be seen that a composite supply consists of -
+e two or more taxable supplies of goods or services or both, or any combination thereof;
+e these taxable supplies are naturally bundled;
+e these taxable supplies are supplied in conjunction with each other in the ordinary course of
+business;
+© one of these taxable supplies is a principal supply;
+The aforesaid parameters of a composite supply need to be applied to the facts at hand.
+If we look at the agreement, it says that the foreign ship owner appoints the applicant as a
+
+consultant _and_technical advisor to perform the consulting services specifically set out in
+
+Exhibit A attached to the Agreement. Thus, the supply of services rendered by the applicant
+would be governed by this Exhibit A. At the cost of repetition, let us reproduce the Exhibit A
+
+hereunder to understand the scope of supply -
+
+Exhibit A - Description of Consulting Activities Nature of Services:
+
+1) As Specialists in freight market movement, the consultant will analyse commo
+movement of ships and cargoes and disseminate such information to
+
+2) Track, collate, analyze and monitor Port Development & Logistics data originating from reliable source and update future
+trends
+
+Monitor worldwide Economic Development, Bulk Commodity Trade pattern development
+i Costs uel) trend, Cost Estimation & A
+
+15
+
+
+5) Monitor Voyage Executionfor smooth and efficient operations,
+
+6) so as to optimize performance for ‘The company’.
+
+7) Examine lay time calculations and arrange for accounts reconciliation for objectives of eventual settlement.
+
+8) Preliminary evaluation of cargo volume, trade patterns, trend in commodity movement, port congestion, Global as well as
+Regional economic development and analysis
+
+9) Techno-Commercial assessment of vehicle type utilization opportunities, infrastructure development in various regions,
+Geographical impact on global trade in bulk commodities arising from weather, piracy, war, conflict or any other causes
+
+which have prospects to impact trade.
+10) Consultancy Fee is deemed earned upon actual voyage being performed and reconciliation of voyage specific amount and in
+accordance with clause 3 of the Consultancy Agreement.
+
+In the submission, the applicant has stated thus -
+
+e@ MCS (Marine Consultancy Service) provided by the Applicant constitutes of consultancy service and support service
+
+© Consultancy service provided by the Applicant includes analysing commodity, shipping and freight market, finding potential
+charterers for the foreign ship owners.
+
+© MCS supplied by the Applicant also includes support service provided to the foreign ship owners which largely consists of
+optimising global trade and revenue therein for the foreign ship owner.
+
+© The support services provided by the Applicant are provided to the foreign ship owner and are not meant to facili ite two
+parties
+
+In the further submission, we find that the applicant has identified the following
+
+services as Consultancy and Support Services, respectively -
+
+Consultancy Services
+
+1) As Specialists in freight market movement, the consultant will analyse commodity, shipping and freight markets, track
+movement of ships and cargoes and disseminate such information to ‘The company’.
+
+2) Track, collate, analyze and monitor Port Development & Logistics data originating from reliable source and update future
+trends
+
+3) Monitor worldwide Economic Development, Bulk Commodity Trade pattern development
+
+4) Identify and provide information on Port Costs, Bunker (fuel) trend, Cost Estimation & Analysis.
+
+5) Preliminary evaluation of cargo volume, trade patterns, trend in commodity movement, port congestion, Global as well as
+
+Regional economic development and analysis
+6) Techno-Commercial assessment of vehicle type utilization opportunities, infrastructure development in various regions,
+
+Geographical impact on global trade in bulk commodities arising from weather, piracy, war, conflict or any other causes
+
+which have prospects to impact trade.
+
+Support Services
+1) Monitor Voyage Executionfor smooth and efficient operations,
+
+2) so as to optimize performance for ‘The company.
+3) Examine lay time calculations and arrange for accounts reconciliation for objectives of eventual settlement.
+
+The above services, as can be seen, are falling in Exhibit A which defines the services to
+be performed by the applicant. The applicant has contended that supply of Marine Consultancy
+Services (MCS) consisting of consultancy service and support service is a composite supply as
+these services (i.e. consultancy service and support service) are naturally bundled and su pplied
+in conjunction with each other in the ordinary course of business, one of which (i.e. consultancy
+service) is the principal supply. Having a look at the scope of work as set out in Exhibit A and
+the agreement clauses, we infer thus -
+
+1. The Agreement dt.01.03.2017 is in respect of a particular contract (MV AM OCEAN
+PRIDE / MARUBENI CEMENT CHARTER PARTY CONTRACT DATED 38° MARCH 2017)and is not a
+
+general agreement.
+
+2. The services, both consulting and technical services, have been specifically set out in
+
+the Agreement.
+
+There is a clear understanding that the foreign ship-owner shall request Consultant
+
+services on an as-needed basis.
+
+16
+
+
+
+4. There is no guarantee that any or all of the services described in this Agreement will
+be assigned during the term of this Agreement.
+
+5. It is expressly provided that the foreign ship-owner, at its option, may elect to have
+any of the services, as set forth in Exhibit A,performed by other consultants or the
+foreign ship-owner’s staff.
+
+6. The applicant can be called on to do any or all of the services or may not be called to
+do any of the services. The flyer on ‘composite supply and mixed supply’ as
+available on the website of the Central Board of Indirect Taxes and Customs says
+
+that - Whether services are bundled in the ordinary course of business would depend upon the normal or
+frequent practices followed in the area of business to which services relate. Such normal and frequent practices
+adopted in a business can be ascertained from several indicators. In the present case, the fact that the
+foreign ship-owner has categorically made it clear in the agreement that some of the
+services may also be availed from other Consultants should leave no doubt ¥ it the
+services are not needed to have been bundled together. It becomes clear from the
+agreement that the foreign ship-owner doesn’t desire to avail all of the services from
+the applicant as he is at liberty to get the same performed by other consultants or his
+staff. Even the applicant admits that-
+¢ — each service may be provided by the applicant in isolation
+
+© applicant is equipped to supply consultancy service and support service distinctly
+and occasionally does provides the services separately.
+
+Thus, if each service, as per the applicant's own admission, can be provided in
+isolation then one of the indicators of a ‘composite supply’ as per the flyer on
+‘composite supply and mixed supply’that “the different elements are not available
+separately” would not be fulfilled. Going by the above, it is clear that the services as
+set out in Exhibit A cannot be treated as a composite supply. The essential
+ingredients of a ‘composite supply’ are -
+
+e — the taxable supplies are naturally bundled;
+
+© — one of these taxable supplies is a principal supply
+Even if the applicant is called on to do all of the services, the same would still not
+amount to a composite supply as the foreign ship-owner’s natural course of
+business as understood from the agreement reveals that the services may or may not
+be assigned to the applicant or could be got done from outside, too. Thus when part
+of the services are performed by the applicant and the remaining by others, each has
+equal importance in terms of delivery thereof. By the specific design of the
+
+agreement in terms of the convenience of the foreign ship-owner, there cannot be
+
+identified any service which could be said to be a principal supply. The perception
+f the service receiver which is the foreign ship-owner in the instant case that the
+
+17
+
+
+services need not be bundled and could be got performed from different service
+providers or from his own staff, too. We see that the flyer on ‘composite supply and
+mixed supply’ has made a very clear observation that the illustrative indicators are
+not determinative but indicative of bundling of services in ordinary course of
+business. Hence, when the foreign ship-owner himself perceives the fii as
+being so, we need not even look at how the other players in the field, view the
+services to be. The requirement of ‘principal supply’ would, therefore, not ope in
+the facts of the instant case. It has been argued that the provision of consultancy
+service precedes the provision of support service. We feel that this certainly would
+not tantamount to making the consultancy services as being the principal supply. To
+the foreign ship-owner both the services are important and none could be identified
+as a principal supply. Just because one starts first and the other at a later stage
+would not lead to the prior supply being the principal supply.
+
+7. In view of the specific facts as seen from the agreement, we find no difficulty in
+concluding that the provision of services under the impugned agreement wot not
+be a composite supply under the GST Act.
+
+8. The arguments in favour of the impugned supply being a composite supply fail to
+
+make out a case.
+
+Question 2(a)
+
+In the alternate, where services are provided to foreign ship owners distinctively as supply of
+consultancy service and support service with separate and demarcated fees for their
+consultancy service and for support service:
+(a) Whether consultancy service will qualify as business consultancy service in terms
+of the scheme of classification of services [Annexure to Notification 11/ 2017 -
+Central Tax (Rate), dated 28" June, 2017]?
+To answer the question, we refer to the Annexure about Scheme of Classification of Services as
+appended to the Notification no.11/2017 - Central / State Tax (Rate) [as amended from time to
+
+time] as under-
+
+s. Chapter, Section, | Service Code | Service Description
+
+No. | Heading,Group | (Tariff)
+
+297 | Group 99831 Management consulting and management services; information
+technology services
+
+299 998312 Business consulting services including public relations services
+
+As can be seen, the business consultancy services of sr. no.299 are covered under the
+
+Group “Management consulting and management services”.
+
+A general understanding of the term ‘Management Consultancy’ is that it is the practice of
+
+keeping organizations to improve their performance, operating primarily through the analysis
+
+xisting organizational problems and the development of plans for improvement. As a result
+
+18
+
+
+of their exposure to and relationships with numerous organizations, consulting firms are
+typically aware of Industry Best practices. The consultancies may also provide onganteltional
+change management assistance, development of coaching skills, process analysis, technology
+implementation strategy development or operational improvement services.. Management
+Consultants often bring their own proprietary methodologies or frameworks, to vie the
+identification of problems and to save as the basis for more effective or efficient ways of
+
+performing work tasks.
+
+Thus, in the present case, it is very apparent that the consultancy services being provided by
+the applicant are not in the nature of guiding the ship owning company in the management of
+the ship owning company but are only in the nature of consultancy in respect of opportunities
+of marine transportation business, which is one of the support services in respect of marine
+transport and would therefore required to be classified under support services in transport or
+in case they are providing other professional, technical and business services or other support
+services nowhere classified, then they would have to classify their services in one of the below
+categories after taking into consideration the exact nature of service or services that they
+provide in a specific case.
+
+If we look at the Annexure, we find the following categories of services -
+
+125 Heading 9967 Supporting services in transport
+
+126 Group 99671 Cargo handling services
+
+127 996711 Container handling services
+
+128 996712 Customs house agent services
+
+129 996713 Clearing and forwarding services
+
+130 996719 Other cargo and baggage handling services
+
+125, Heading 9967 Supporting services in transport
+
+144 Group 99675 Supporting services for water transport (coastal, transoceanic and inland waterways)
+
+145 996751 Port and waterway operation services (excluding cargo handling) such as operation seryices of
+ports, docks, light houses, light ships and the like
+
+146 996752 Pilotage and berthing services
+
+147 996753 Vessel salvage and refloating services
+
+148 996759 Other supporting services for water transport nowhere else classified
+
+125 Heading 9967 Supporting services in transport
+
+154 Group 99679 Other supporting transport services
+
+157 996793 Other goods transport services
+
+158 996799 Other supporting transport services nowhere else classified
+
+296 Heading 9983 Other professional, technical and business services
+
+345 Group 99837 Market research and public opinion polling services
+
+346 998371 Market research services
+
+296 __| Heading 9983 Other professional, technical and business services
+
+356 Group 99839 Other professional, technical and business services
+
+359 998393 Scientific and technical consulting services
+
+364 998399 Other professional, technical and business services nowhere else classified
+
+400 Heading 9985 Support services
+
+444 Group 99859 Other support services
+
+445 998591 Credit reporting and rating services
+
+452 998598 Other information services nowhere else classified
+
+453 998599 Other support services nowhere else classified
+
+Heading 9997 Other services
+
+Group 99979 Other miscellaneous services
+
+999799 Other services nowhere else classified
+
+19
+
+
+
+The applicant would have to identify the category as per the services delivered in terms
+of Annexure about Scheme of Classification of Services. Thus the classification of their service
+
+will depend on the exact nature of service/services they would provide in specific case.
+
+Question 2(b)
+
+In the alternate, where services are provided to foreign ship owners distinctively as supply of
+consultancy service and support service with separate and demarcated fees for their
+consultancy service and for support service:
+(b) Whether support service qualifies as “intermediary service” in terms of Section
+2(13) of the IGST Act?
+The definition of “intermediary” as found in section 2(13) of the Integrated Goods and Services
+
+Tax Act, 2017 is as under :
+
+(13) “intermediary” means a broker, an agent or any other person, by whatever name called, who arranges or facilitates the
+supply of goods or services or both, or securities, between two or more persons, but does not include a person who supplies
+such goods or services or both or securities on his own account;
+
+As can be seen, an intermediary is to arrange or facilitate supply of services between two or
+more persons. We are not going by the applicant’s contention but by the agreement copy
+
+placed before us. At the cost of third repetition, we reproduce the Exhibit A as under -
+
+Exhibit A - Description of Consulting Activities Nature of Services:
+
+1) As Specialists in freight market movement, the consultant will analyse commodity, shipping and freight markets, track
+movement of ships and cargoes and disseminate such information to ‘The company’.
+
+2) Track, collate, analyze and monitor Port Development & Logistics data originating from reliable source and update future
+trends
+
+3) Monitor worldwide Economic Development, Bulk Commodity Trade pattern development
+
+4) Identify and provide information on Port Costs, Bunker (fuel) trend, Cost Estimation & Analysis.
+
+5) Monitor Voyage Executionfor smooth and efficient operations,
+
+6) so as to optimize performance for ‘The company’.
+
+7) Examine lay time calculations and arrange for accounts reconciliation for objectives of eventual settlement.
+
+8) Preliminary evaluation of cargo volume, trade patterns, trend in commodity movement, port congestion, Global as well as
+Regional economic development and analysis
+
+9) Techno-Commercial assessment of vehicle type utilization opportunities, infrastructure development in various regions,
+Geographical impact on global trade in bulk commodities arising from weather, piracy, war, conflict or any other causes
+which have prospects to impact trade.
+
+10) Consultancy Fee is deemed earned upon actual voyage being performed and reconciliation of voyage specific amount and in
+accordance with clause 3 of the Consultancy Agreement.
+
+We find that in the submissions made before us the applicant has contended that they
+are providing services only to the ship owners and not to the ship charterers. mower on
+going to the copies of the agreements and detailed submissions made before us by the
+applicant, we find that they have specifically mentioned that they are providing various
+services which are broadly covered under two headings i.e. Consultancy services and Support
+
+services which can be seen as under :-
+
+Consultancy Services
+1) As Specialists in freight market movement, the consultant will analyse commodit
+
+movement of ships and cargoes and disseminate such information to ‘The company’.
+2)Track, collate, analyze and monitor Port Development & Logistics data originating from reliable source and update future
+
+trends
+3)Monitor worldwide Economic Development, Bulk Commodity Trade pattern development
+ae Identify and provide information on Port Costs, Bunker (fuel) trend, Cost Estimation & Analysis.
+
+AF cE BUy iq SPeereliminary evaluation of cargo volume, trade patterns, trend in commodity movement, port congestion, Global as well as
+Pen TANS ional economic development and analysis
+fa
+
+20
+
+
+6) Techno-Commercial assessment of vehicle type utilization opportunities, infrastructure development in various regions,
+Geographical impact on global trade in bulk commodities arising from weather, piracy, war, conflict or any other causes
+which have prospects to impact trade.
+
+7) Monitor Voyage Executionfor smooth and efficient operations,
+
+8) so as to optimize performance for ‘The company’.
+Examine lay time calculations and arrange for accounts reconciliation for objectives of eventual settlement.
+
+On verification and examination of the nature of services as above being provided by
+the applicant it is very apparent that the claim made by them that they are providing services
+only to the ship owners and have no interaction with the ship charterers while providing these
+services would not be maintainable because the nature of Support services, being Monitoring of
+Voyage Execution for smooth and efficient operations and Examination of lay time calculations
+and arranging for accounts reconciliation for objectives of eventual settlement, are such services
+which cannot be performed until and unless the applicant interacts and works in coordination
+with the ship charterers on behalf of the ship owners.
+
+Thus from the very nature of support services that are being provided by the
+applicant, as visible from the terms of agreements as referred above and submitted to this
+authority, it is clear that the support services being provided by them would be ‘intermediary
+services’ and the applicant would be covered in the definition of an intermediary in terms of
+Section 2(13) of the IGST Act, 2017.
+
+Having seen thus, we would have to answer the question in the affirmative.
+
+06. In view of the deliberations as held hereinabove, we pass the order as follows :
+ORDER
+
+(under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+NO.GST-ARA-18/2017-18/B- 2.6 Mumbai, dt. 12/04 /r.0\¢
+For reasons as discussed in the body of the order, the questions are answered thus -
+
+Q.1 Whether Marine Consultancy Service (“MCS”) provided to foreign ship owners constitutes
+“composite supply” with the principal supply of consultancy service?
+
+A. The question is answered in the negative.
+
+Q.2 In the alternate, where services are provided to foreign ship owners distinctively as supply of
+
+consultancy service and support service with separate and demarcated fees for their consultancy
+
+service and for support service:
+
+21
+
+
+Q.2a Whether consultancy service will qualify as business consultancy service in terms of the
+scheme of classification of services [Annexure to Notification 11/ 2017 - Central Tax
+(Rate), dated 28June, 2017]?
+
+A.2a_ The question is answered in the negative.
+
+Q.2b Whether support service qualifies as “intermediary service” in terms of Section 2(13) of
+the IGST Act?
+A.2b The question is answered in the affirmative.
+
+An appeal against this order will lie with the Appellate Authority, Advance Ruling
+Maharashtra, 15th floor, Air India Building, Madame Cama Road, Churchgate, Mumbai-
+400020, as provided under Section 100 of the GST Act, 2017.
+
+The appeal should be filed in Form GST ARA-02 accompanied by a fee of Rs. 10,000/-
+
+pertaining to each Act. It shall be signed by the appellant or his authorised representative
+
+gh — — S4 Se
+B. V. BORHADE PANKAJ KUMAR
+(MEMBER) (MEMBER)
+
+Copy to:-
+
+1. The applicant CERTRIED
+TRUE Copy
+
+2. The concerned Central / State officer
+3. The Commissioner of State Tax, Maharashtra State, Mumbai
+4. The Chief Commissioner of Central Tax, Churchgate, Mumbai Slee
+
+5. The Jurisdictional Commissioner of Central Tax. ADVAN LING AUTHORITY
+MAHARASHTRA STATE, MUMBAL
+
+22

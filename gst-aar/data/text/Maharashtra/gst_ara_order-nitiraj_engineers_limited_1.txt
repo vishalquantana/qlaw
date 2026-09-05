@@ -1,0 +1,791 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+GST Bhavan, Room No.107, 1st floor, B-Wing, Old Building, Mazgaon, Mumbai - 400010.
+(Constituted under Section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+BEFORE THE BENCH OF
+
+(1) Shri. Dipak P. Gojamgunde Joint Commissioner of State Tax, (Member)
+(2) Ms. Priya Jadhav, Joint Commissioner of Central Tax, (Member)
+
+ARN No. AD2705220187048
+GSTIN Number, if any/ User-id | 27AABCN1116E1Z1
+Legal Name of Applicant M/s. NITIRAJ ENGINEERS LIMITED
+
+Registered | Address/ Address | J26, MIDC AWADHAN, NEAR LALING TOLL
+provided while obtaining user | NAKA, DHULE, MAHARASHTRA, DHULE,
+
+id 424006.
+
+Details of application GST-ARA, Application No. 19 Dated 24.05.2022
+
+Concerned officer DHULE DIVISION, DHULE-I, RANGE, DHULE-
+
+501.
+
+Nature of activity(s) (proposed/present) in respect of which advance ruling sought
+
+A | Category Factory Manufacturing, Wholesale Business,
+_ Retail Business, Office/Sale Office
+
+B_ | Description (in brief) The Applicant is a public limited company
+
+established in the year 1989 having its registered
+office at 306 A, Bhabha Building, N. M. Joshi Marg,
+Mumbai - 400 011 and factory at J25 & J26, M.I.D.C.,
+Awdhan, Dhule-424006. The Applicant is engaged
+in the manufacture and sale of electronic weighing
+io scales and systems under the brand name 'Phoenix'.
+% Issue/s on which advance |> Classification of any goods or services or both
+
+= ruling required _
+
+2 Question(s) on which advance | As reproduced in para 01 of the Proceedings below.
+2 )Jruling is required
+
+PROCEEDINGS
+nder Section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+The present application has been filed under Section 97 of the Central Goods and Services
+Tax Act, 2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred
+to as “the CGST Act and MGST Act” respectively] by M/s. NITIRAJ ENGINEERS
+LIMITED, the applicant, seeking an advance ruling in respect of the following questions.
+1. Whether Infantometer, being a diagnostic medical equipment, is covered
+under Tariff Heading 9018 and liable to GST @ 12%?
+2. Whether Stadiometer, being a diagnostic medical equipment, is covered under
+Tariff Heading 9018 and liable to GST @ 12%?
+At the outset, we would like to make it clear that the provisions of both the CGST Act
+
+and the MGST Act are the same except for certain provisions. Therefore, unless a
+
+Page 1 of 16
+
+
+mention is specifically made to any dissimilar provisions, a reference to the CGST
+Act would also mean a reference to the same provision under the MGST Act. Further
+to the earlier, henceforth for the purposes of this Advance Ruling, the expression
+‘GST Act’ would mean CGST Act and MGST Act.
+
+1. FACTS AND CONTENTION - AS PER THE APPLICANT:
+
+1.1 The Applicant is a public limited company established in the year 1989 having its
+registered office at 306 A, Bhabha Building, N. M. Joshi Marg, Mumbai - 400 011 and
+factory at J25 & J26, M.I.D.C., Awdhan, Dhule-424006. The Applicant is engaged in the
+manufacture and sale of electronic weighing scales and systems under the brand name
+'Phoenix'. The Applicant is registered under the Central Goods and Services Tax Act,
+2017 and Maharashtra State Goods and Services Tax Act, 2017 (hereinafter referred to
+as "CGST Act" and "MGST Act" respectively) having GSTIN 27AABCN1116EIZI.
+
+1.2 Among the product portfolio of the Applicant are two products, namely "Infantometer
+PIM-101" and “Stadiometer PSM-101", which are growth monitoring devices which are
+
+<C RUUAS manufactured using qualitative components and are integrated with advanced
+
+on IM rking mechanism, resulting in longer working life and accurate results. Infantometer
+%
+=
+a
+
+i
+
+\ iagnostic medical equipment used for measuring the recumbent length of an infant
+
+greater accuracy by holding the infant in position securely. It is a precision scale
+
+As per Wikipedia, a Stadiometer is a piece of medical equipment used for measuring
+the human height. It is used in routine medical examinations and also clinical tests and
+experiments. Both the products under consideration, ie. infantometer and
+stadiometer, are exclusively used for medical examination at medical centres /
+hospitals / anganwadis. They are described as medical equipment and used exclusively
+for medical purposes only. Both the products are presently being classified by the
+Applicant under HSN code 9017 80. Description of Tariff Heading 9017 reads as under:
+"Drawing, marking-out or mathematical calculating instruments (for example,
+drafting machines, pantographs, protractors, drawing sets, slide rules, disc
+
+calculators); instruments for measuring length, for use in the hand (for example,
+
+measuring rods and tapes, micrometres, callipers), not specified or included
+
+elsewhere in this chapter".
+
+(Emphasis supplied)
+
+Page 2 of 16
+
+
+1.4 The Applicant is charging GST @ 18% w.e.f. 1st July 2017 under the bonafide belief that
+the products supplied by the Applicant are covered under Entry No. 413 of Schedule
+IlI-9% of Notification No. 1/2017-Central Tax (Rate), dated 28th June 2017 and the
+corresponding entries under the MGST Act and IGST Act, which reads as under:
+
+Sr.No. | Chapter/Heading/ Description of Goods
+Sub-heading Tariff
+item nt _
+
+413 9017 Instruments for measuring length, for use in
+the hand (for example, measuring rods and
+tapes, micrometers, callipers), not specified
+or included elsewhere in the chapter
+
+The Applicant has recently come across two advance rulings delivered by the Authority
+
+for Advance Rulings, Haryana.
+
+a. In the case of Medi Waves Inc., vide Advance Ruling No. HAR/ HAAR/R/2018-19/52, dated
+26th April 2019 reported in [2021] 125 taxmann.com 3 (AAR-HARYANA) / [2021] 48 GSTL
+291 (AAR-HARYANA) [26-04-2019] the Haryana AAR has ruled that Infantometer and
+Stadiometer are medical instruments used exclusively for clinical and medical experimental
+
+purposes and are covered under the heading 9018 90 19 with rate of tax being 12 per cent.
+
+b. In the case of M/s. Precision Electronic Instruments Co., vide Advance Ruling No. -
+
+HR/HAAR/2021-22/17, dated 30th June 2021 the Haryana AAR has agreed with’ ~~ ~
+
+and Stadiometer are medical instruments used exclusively for clinical and medical
+experimental purposes and are not scale rods or divided scales of general nature.
+Hence, both the products are covered under Tariff Item 9018 90 19 other category)
+
+with rate of tax being 12%.
+
+the Applicant has observed that its competitors are classifying the same goods under
+HSN code 9018 and charging GST @ 12%. Therefore, to sustain itself in this competitive
+market, the Applicant has filed the present application for advance ruling before the
+Hon'ble Authority for Advance Rulings, Maharashtra.
+2. STATEMENT CONTAINING APPLICANT'S INTERPRETATION OF LAW
+
+2.1 Applicant is of the view that its present classification of Infantometer and Stadiometer
+under Tariff Heading 9017 is incorrect and that classification of the said products under
+Tariff Heading 9018 is more appropriate for the following reasons:
+
+Reason 1: Infantometer and Stadiometer are medical / diagnostic instruments
+
+Page 3 of 16
+
+the advance ruling pronounced in Medi Waves Inc. (supra) to hold that Infantometer ‘
+
+
+Entry at Sr. No. 218 of Schedule II -6% of Notification No. 1/2017-Central Tax (Rate),
+dated 28th June 2017 reads as under:
+
+Sr. ] Chapter/Heading Description of Goods
+No. | Sub-heading
+| Tariff item
+218 | 9018 Instruments and appliances used in medical,
+
+surgical, dental or veterinary sciences, including
+scintigraphic apparatus, other electro-medical
+apparatus and sight-testing instruments
+
+2.2 Since both the products in question, i.e., infantometer and stadiometer, are exclusively
+used as medical / diagnostic instruments, the Applicant is of the view that they merit
+classification under Tariff Heading 9018, specifically under Tariff Item 9018 90 19, and
+subjected to GST @ 12%.
+
+2.3 The Applicant also refers to the Sixth Edition (2017) of Explanatory Notes to the
+Harmonised Commodity Description and Coding System issued by the World
+Customs Organisation, Belgium. Page XVIII-9018-2 of Volume 5 of the said Explanatory
+
+Notes states as follows:
+
+"It should also be noted that a number of instruments used in medicine or surgery
+(human or veterinary) are, in effect, tools (e.g., hammers, nuallets, saws, chisels, gouges,
+forceps, pliers, spatulae, etc.), or articles of cutlery (scissors, knives, shears, etc.). Such
+articles are classified in this heading only when they are clearly identifiable as being for
+medical or surgical use by reason of their special shape, the ease with which they are
+dismantled for sterilisation, their better quality of manufacture, the nature of the
+constituent metals or by their get-up"
+
+2.4 In the present case, not only are products, i.e., Infantometer and Stadiometer, clearly
+identifiable as being for medical use, but also are exclusively meant for and used as
+medical equipment for measuring the height of an infant patient and adult patient
+respectively.
+
+2.5 The products under consideration, i.e., infantometer and stadiometer, are exclusively
+used for clinical and medical purposes and are categorised as medical equipment. The
+Applicant has been supplying the said instruments against contracts awarded by
+various State Government organisations through open tendering process. Some of the
+entities issuing purchase orders to the Applicant are listed below:
+
+i. Directorate of Women Development & Child Welfare, Telangana
+
+ii. Directorate of Women and Child Development, Kerala
+
+iii. Women and Child Development Department, Chhattisgarh
+
+Page 4 of 16
+
+
+iv. Odisha State Medical Corporation Limited
+v. Integrated Child Development Services Scheme (ICDS) operating
+under the Women and Child Development Department, Maharashtra
+2.6 All the entities mentioned above are exclusively working in the medical field wherein
+these instruments are used exclusively for medical purposes. Further, though the
+Applicant is the OEM and is supplying the products directly to various State
+Governments, under normal circumstances, the products are primarily available in
+surgical shops and not in hardware stores.
+2.7 Reason 2: Specific entry of classification shall prevail over a general entry
+Tariff Heading 9017 covers instruments for measuring length, for use in the hand, not
+
+specified or included elsewhere in the chapter. However, Infantometer and
+
+Stadiometer are specifically covered by Tariff Heading 9018. As such, the products
+
+cannot be classified under Tariff Heading 9017.
+2.8 Description of Tariff Heading 9017 is general in nature covering all types of instruments
+for measuring length, whereas the description of Tariff Heading 9018 is specific and
+restricted to instruments and appliances for medical use. As per Rule 3 of the general
+principles of interpretation of the tariff, the heading which provides the most specific
+description shall be preferred to headings providing a more general description.
+Therefore, the goods in question merit classification under the more specific Tariff
+Entry 9018.
+
+Reason 3: Existing advance rulings directly covering the questions raised
+
+As stated in the Statement of Relevant Facts, The Haryana Authority for Advance
+
+Rulings in the case of Medi Waves Inc. as well as M/s. Precision Electronic
+
+Instruments Co. has ruled that both, Stadiometer and Infantometer, are medical
+instruments used exclusively for clinical and medical experimental purposes and are
+not scale rod or divided scales of general nature. Hence, these are covered under tariff
+item 9018 90 19 (other category) with rate of tax being 12% (6% each under CGST and
+HGST Act). The Applicant, therefore, respectfully submits that the matter is squarely
+
+covered by direct rulings on the questions raised before the Hon'ble Authority.
+
+2.10 Applicant additional submission dated 24-05-2022
+
+Applicant has pleased to submit before the learned members the following additional
+
+points for your kind and sympathetic consideration:
+
+Page 5 of 16
+
+
+
+2.10.1 As per Explanation (iv) in Notification No. 1/2017-Central Tax (Rate), dated 28.06.2017,
+the rules for the interpretation of the First Schedule to the Customs Tariff Act, 1975,
+including the Section and Chapter Notes and the General Explanatory Notes of the First
+Schedule equally apply to the interpretation of the entries in the said notification.
+Therefore, it is incumbent upon us to refer to the General Rules for Interpretation of the
+First Schedule to the Customs Tariff Act, 1975.
+
+2.10.2 Rule 3(a) of the General Rules for Interpretation of the First Schedule to the Customs Tariff
+Act, 1975 reads as follows:
+
+“When by application of rule 2(b) or for any other reason, goods are, prima facie,
+
+classifiable under two or more headings, classification shall be effected as follows:
+
+a. The heading which provides the most specific description shall be preferred
+over to headings providing a more general description. However, when two or
+more headings each refer to part only of the materials or sub-stances contained in
+mixed or composite goods or to part only of the items in a set put up for retail sale,
+those headings are to be regarded as equally specific in relation to those goods, even
+if one of them gives a more complete or precise description of the goods.
+
+b. Mixtures, composite goods consisting of different materials or made up of different
+components, and goods put up in sets for retail sale, which cannot be classified by
+reference to (a), shall be classified as if they consisted of the material or component
+which gives them their essential character, insofar as this criterion is applicable..
+
+c. When goods cannot be classified by reference to (a) or (b), they shall be classified
+under the heading which occurs last in numerical order among those which
+equally merit consideration.”
+
+(Emphasis added)
+
+0.3 Heading 9017 refers to “Drawing, marking-out or mathematical calculating instruments
+(for example, drafting machines, pantographs, protractors, drawing sets, slide rules, disc
+calculators); instruments for measuring length, for use in the hand (for example, measuring
+rods and tapes, micrometers, callipers), not specified or included elsewhere in this
+chapter”. This heading covers instruments for measuring length, for use in the hand, which
+are not specified or included elsewhere in Chapter 90. Heading 9017, therefore, is a general
+/ residuary entry.
+
+2.10.4 Heading 9018 refers to “Instruments and appliances used in medical, surgical, dental or
+
+veterinary sciences, including scientigraphic apparatus, other electromedical apparatus
+
+and sight-testing instruments”. Sub-heading 9018 90 refers to “Diagnostic
+instruments and apparatus”. Heading 9018, therefore, is a specific entry covering
+
+medical / diagnostic instruments such as infantometer and stadiometer.
+
+2.10.5 As per rule 3(a) of the General Rules of Interpretation stated above, infantometer
+and stadiometer merit classification under Heading 9018, which is the more
+
+specific entry. The products cannot be classified under Heading 9017, since the
+
+Page 6 of 16
+
+
+heading covers only such goods which are not specified or included anywhere else
+in Chapter 90.
+
+2.10.6 Even if one were to ignore rule 3(a) by stating that both entries equally merit
+consideration and one cannot be said to be more specific over the other, the
+products still merit classification under Heading 9018 by virtue of rule 3(c) of the
+General Rules of Interpretation.
+
+2.10.7 It is settled law in case of classification of goods that a specific entry shall prevail
+over a general entry. Allahabad High Court in Commissioner of Commercial Tax,
+Lucknow vs. S/S Forever Living Imports (I) Pvt. Ltd. [2018 (9) G.S.T.L. 11 (AII.)]
+[20-09-2017] held that if there is a conflict between two entries leading to an
+opinion that it comes within the purview of a specific tariff entry and another
+residuary entry, the specific tariff entry would prevail over Supreme Court as
+reported in 2018 (13) G.S.T.L. J39 (S.C.) [16-04-2018].
+
+2.10.8 The Delhi Bench of the Customs, Excise and Gold (Control) Appellate Tribunal
+
+(CEGAT) in M/s. Prosoya Industries Ltd. v. Collector of Customs, New Delhi
+
+[1995 (78) E.L.T. 344 (Tri.-Del)] [10-02-1995] held that a multipurpose product
+
+having medical application is classifiable as medical appliance under sub-heading
+
+No. 9018.90 of Customs Tariff Act, 1975. In Para 10 of its order, the Tribunal also
+
+observed that how the goods are identified by the consumers as at present is a
+
+relevant criterion for their classification, as held by the Hon’ble Supreme Court int '
+
+the case of CCE v. Fusebase Eltoto Ltd. [1993 (67) E.L.T. 30 (SC)].
+
+2.10.9 Infantometer and stadiometer are understood to be diagnostic medical equipment
+in common parlance. In this regard, a useful reference may be made to the
+judgement of the Supreme Court in M/s Indo-International Industries vs.
+Commissioner of Sales Tax, UP [1981 (8) E.L.T. 325 (S.C.)] [25.03.1981]. Relevant
+portions of para 4 & 5 of the judgement have been reproduced hereunder:
+
+“4, It is well settled that in interpreting Items in statutes like the Excise Tax Acts
+or Sales Tax Acts, whose primary object is to raise revenue and for which purpose
+they classify diverse products, articles and substances resort should be had not to
+the scientific and technical meaning of the terms or expressions used but to their
+popular meaning, that is to say, the meaning attached to them by those dealing in
+them. If any terni or expression has been defined in the enactment, then it nust
+be understood in the sense in which it is defined but in the absence of any
+definition being given in the enactment the meaning of the term in common
+parlance or commercial parlance has to be adopted...
+
+5. Having regard to the aforesaid well-settled test the question is whether clinical
+syringes could be regarded as “glassware” falling within Entry 39 of the First
+
+Page 7 of 16
+
+
+Schedule to the Act? It is true that the dictionary meaning of the expression
+“glassware” is “articles made of glass” (See “Websters New World Dictionary).
+However, in commercial sense glassware would never comprise articles like
+clinical syringes, thermometers, lactometers, and the like which have specialised
+significance and utility. In popular or commercial parlance, a general merchant
+dealing in “glassware” does not ordinarily deal in articles like clinical syringes,
+thermometers, lactometers, etc. which articles though made of glass, are normally
+available in medical stores or with the manufacturers thereof like the assessee. It
+is equally unlikely that consumer would ask for such articles from a glassware
+shop. In popular sense when one talks of glassware such specialised articles like
+clinical syringes, thermometers, lactometers and the like do not come up to one’s
+mind. Applying the aforesaid test, therefore, we are clearly of the view that the
+clinical syringes which the assessee manufactures and sells cannot be considered
+as “glassware” falling within Entry 39 of the First Schedule of the Act."
+
+2.10.10 Infantometer and Stadiometer are neither advertised nor sold as measuring scales. They
+are advertised and sold as “Growth Monitoring Devices” primarily to medical centres /
+hospitals / anganwadis operated under the Integrated Child Development Services (ICDS)
+schemes of various State Goverments and used for the purposes of medical examination
+and to analyse malnutrition among children. A certificate to this effect dated 08.06.2022
+
+from the District Programme Officer, Zilla Parishad, Ahmednagar has already been placed
+
+on record on 21.06.2022. The same has been submitted by the applicant.
+
+The Supreme Court in Commissioner of Central Excise vs. M/s Madhan Agro
+
+ndustries (I) Pvt. Ltd. (2024) 25 Centax 269 (S.C.) [18-12-2024] has confirmed that
+
+he First Schedule to the Customs Tariff Act is based on the HSN, which is an
+internationally standardized system developed and maintained by the World
+
+Customs Organization for classifying products, and unless the intention to the
+
+contrary is found within the Customs Tariff Act itself, the HSN and the
+
+Explanatory Notes thereto, being the official interpretation of the Harmonized
+System at the international level, would be of binding guidance in understanding
+and giving effect to the headings in the First Schedule.
+
+2.10.12 It is in the context of the Hon’ble Supreme Court's ruling in M/s. Madhan Agro
+Industries (supra) that the Applicant has placed reliance on the Sixth Edition (2017)
+of Explanatory Notes to the Harmonised Commodity Description and Coding
+System issued by the World Customs Organisation. The said Explanatory Notes
+
+clarify that even tools or articles of cutlery can be classified under Heading 9018 as
+
+medical instruments / appliances provided that they are, inter-alia, clearly
+identifiable for medical or surgical use by virtue of their better quality of
+
+manufacture.
+
+Page 8 of 16
+
+
+2.10.13 Infantometer and stadiometer are high precision scales manufactured using high
+quality components which ensure a longer working life and accurate results. In
+support of the Applicant's claim, we are pleased to enclose herewith type-test
+reports as per specification of IS:1269(Part-1)/1997 issued by the Regional
+Reference Standard Laboratory of the Government of India wherein the products
+in question were tested against various parameters to certify their durability and
+accuracy. Type-test report for infantometer bearing Ref. No. RRSE-B-III(1)/21-
+22/BIS 760 dated 06.10.2021 and the said report for stadiometer bearing Ref. No.
+RRSE-B-III(1)/21-22/BIS 759 dated 06.10.2021.
+
+2.10.14 In addition to the two existing advance rulings of the Haryana AAR cited by the
+Applicant in its application, another advance ruling has been delivered by the
+Rajasthan AAR in the case of M/s. Bhawna Khandelwal (SRK Modular Furniture
+Co.) on 29.11.2023 (Advance Ruling No. RAJ/ AAR/2023-24/13). The said ruling
+also classifies infantometer and stadiometer as ‘diagnostic medical equipment’
+which is covered by tariff item 9018 90 19 with rate of tax being 12%. A copy of the
+said ruling has been submitted by the applicant.
+
+3. CONTENTION - AS PER THE CONCERNED OFFICER:
+
+Officer submission dated: 25.07.2022
+
+3.1 It appears that ‘Infantometer’ may find its use for medical purpose since the
+
+measurement of the length of an infant requires a special technique as the infants
+cannot stand on his/her own besides they also remain in a curled-up position while
+resting, such length of the infant is directly related to the quality of the nutrition
+being provided to them. Therefore, the measurement of infant's length may fall
+under the Medical category. However, ‘Stadiometer’ is used to measure the height
+of an adult which does not change with certain age and therefore, has no being on
+malnutrition or any other parameters of medical use. That way even weighing
+machine can be categized as an instrument for medical purpose which is not so, as it
+finds its use everywhere even for non-medical purposes. Thus the ‘Infantometer’
+may be considered as an instrument for medical purpose, as it has direct link with
+the malnutrition status of the infant by measuring growth in terms of length.
+
+3.2 However, the ‘Stadiometer’ is capable of being used anywhere even for non-medical
+purpose like assessing the eligibility on adult in some uniform services like Defense,
+police etc. It therefore appears that ‘Infantometer’ may be classified in Tariff HSN
+
+9018 Whereas ‘Stadiometer’ is classifiable under Tariff HSN 9017.
+
+Page 9 of 16
+
+
+4. HEARING
+Preliminary hearing in the matter was held on 29.05.2024 Mr. Aditya Surte, C.A.
+
+Appeared and requested for admission of the application. Jurisdictional Officer Mr.
+
+Alok Bihari, Superintedent, Range-Dhule-I, Dhule Division, Nasik also appeared.
+
+The application was admitted and called for final hearing on 20.03.2025. Mr.
+
+Aditya Surte C.A. Authorized Representative, appeared made oral and written
+
+submissions. Jurisdictional Officer Mr. Mr. Vijay Hedawakar, Superintendent of CGST
+
+appeared. We heard both the sides.
+5. OBSERVATIONS AND FINDINGS:
+
+5.1. We have gone through the application and the additional submissions made by the
+applicant and the submissions made by the jurisdictional officer vide letter dated
+25.07.2022. We find that the applicant is a manufacturer of weighing scales and is
+also manufacturing measuring equipment such as Infantometer and Stadiometer.
+As “Infantometer PIM 101” and “Stadiometer PSM 101” As per the applicant, these
+are precise measuring equipment, which are used to measure the growth of human
+beings. Infantometer is a diagnostic medical equipment used for measuring the
+recumbent length of an infant with greater accuracy by holding the infant in
+position securely. It is a precision scale useful for clinical and hospital purposes as
+
+well as research. Stadiometer is a diagnostic medical equipment used. for
+
+measuring height of an adult. It is used in routine medical examinations and also
+clinical tests and experiment. They have stated that both the products are used
+exclusively for medical examination at medical centers/hospitals/anganwadis.
+They have further stated that the said equipment are used for medical purposes
+only. They are supplying the said products against contracts awarded by various
+State Government Organizations exclusively working in the medical field and
+using such instruments for medical purposes. The applicant has also submitted
+copies of the brouchers for the said product. As per the said pamphlet, Stadiometer
+is designed to measure height of adults and children, with double sided graduation
+paralleled to board for easy measurement. The Pamphlet for Infantometer
+mentions that it is designed to measure height of baby/infant in recumbent
+position, made of high-quality ABS material, free from sharp edges and corners and
+approved by Legal Metrology Department.
+
+5.2. In order to determine the classification and tax liability on said goods, we will be
+
+required to refer to the Notification No.01/2017-Central Tax (Rate) dated 28.06.2017
+
+Page 10 of 16
+
+
+containing, the headings, sub-headings as well as the rates of Central Tax GST
+applicable to various goods which are covered under 6 schedules as under:
+
+(i) 2.5 per cent. in respect of goods specified in Schedule L,
+
+(ii) 6 per cent. in respect of goods specified in Schedule I,
+
+(iii) 9 per cent. in respect of goods specified in Schedule HI,
+
+(iv) 14 per cent. in respect of goods specified in Schedule IV,
+
+(v) 1.5 per cent. in respect of goods specified in Schedule V, and
+
+(vi) 0.125 per cent. in respect of goods specified in Schedule VI
+Further, Explanation (iii) and (iv) of the said Notification reads, as under:
+(iii) "Tariff item", "sub-heading" "heading" and "Chapter" shall mean respectively a
+tariff item, sub-heading, heading and chapter as specified in the First Schedule to
+the Customs Tariff Act, 1975 (51 of 1975).
+iv) The rules for the interpretation of the First Schedule to the Customs Tariff Act,
+1975 (51 of 1975), including the Section and Chapter Notes and the General
+Explanatory Notes of the First Schedule shall, so far as may be, apply to the
+interpretation of this notification. ;
+5.3 We will therefore, be required to refer to the First Schedule to the Customs Latif
+Act, 1975 (51 of 1975) in order to find out the correct classification of the said
+products. In this regard, we find that Chapter 90 of the Customs Tariff Act, 1975 is
+relevant which covers optical, photographic, cinematographic, measuring,
+checking precision medical or surgical instruments and apparatus: parts and
+accessories thereof. We find that following tariff headings are relevant in the
+present case: -
+
+a) 9017: Instruments for measuring length, for use in the hand (for example
+
+measuring rods and tapes, micro meters, calipers), not specified or included
+elsewhere in the chapter.
+
+b) 9018: - Instruments and appliances used in medical, surgical, dental or veterinary
+sciences, including scientigraphic apparatus, other electro-medical apparatus
+and sight testing instruments. Under this heading, the particular relevant tariff
+item referred to by the applicant is 90189019 i.e. Other Diagnostic instruments
+and apparatus. The applicant has stated that this is a specific entry covering their
+product.
+
+5.3. We find that the main thrust of the applicant’s submissions is that the products in
+
+question i.e. Infantometer and Stadiometer are used for medical examination at
+
+Page 11 of 16
+
+
+medical centres/hospitals/anganwadi’s. They have further stated that the said
+products are neither advertised nor sold as measuring scales. They are advertised
+and sold as Growth Monitoring devices to medical centres/hospitals/anganwadis
+operated under the integrated Child Development Services Schemes of various
+state government and used for the purposes of medical examination to analyses mal
+nutrition among children. They have further argued that the Infantometer and
+Stadiometer are high precision scales manufactured using high quality components
+which ensure longer working life and accurate results.
+5.4. We find that the term ‘diagnostic instrument or apparatus’ is not defined under the
+GST Act or the Customs Tariff. In order to understand as to what goods can be
+termed as a medical appliance used as a diagnostic instrument or apparatus, it is
+necessary to understand the meaning of the said term in general parlance and the
+way it is understood by common people and by persons who are engaged in the
+said profession. A diagnostic instrument is a tool used by healthcare professionals
+to identify the nature or cause of a medical condition, enabling accurate diagnosis
+and treatment. Diagnostic instruments are designed to measure, observe and
+analyze various aspects of patient's health, helping healthcare providers determine
+
+the presence nature and cause of a disease or condition. Such instruments can range
+
+— from simple tools like stethoscopes and thermometers, oxymeters etc., to complex
+
+%
+aS
+4, ~
+Cine
+
+TRa SINS imaging equipment like X ray machines, MRI and CT scanners. We find that in
+
+addition to certain specific instruments designed for such diagnostic purposes, the
+healthcare professionals also use various other general equipment for their day to
+day functioning. Such instruments like weighing scale, measuring tapes etc., will
+not qualify to be termed as an instrument used in medical sciences for the purpose
+of classifying them under Chapter 9018.
+
+5.5. We find that the word Stadiometer is defined in the Merriam-Webster Dictionary
+as a device for measuring height that typically consists of a vertical ruler with a
+sliding horizontal rod or paddle which is adjusted to rest on the top of the head.
+The Collins Dictionary defines stadiometer as an instrument that measures the
+length of curves, dashes, etc. by running a toothed wheel along them.
+Dictionary.com defines stadiometer as an instrument that measures the length of
+cures, dashes, etc., by running a toothed wheel along them. Stadiometers are used
+in various fields such as health, medical or doctor, public health sector, police and
+military tests, university entrance tests etc. Thus, basically stadiometer is a
+
+Page 12 of 16
+
+
+measuring instrument, which has medical uses but that alone would not render
+
+these products as classifiable under Chapter 9018 as diagnostic instruments.
+5.6. On verification of the pamphlet of the product, the pamphlet of Stadiometer
+mentions that it is designed to measure height of adults and children. We find that
+it is nowhere mentioned in the said pamphlet that the said goods are for medical
+purposes or are medical equipment/ diagnostic instrument or goods to be used by
+medical professionals in health care setting. In fact, we find that the said product
+is designed for measuring the height of children and adults. It would not be out of
+place to point out that the height of adults and children are not measured only for
+medical purposes. There are various reasons for measuring the height of a human
+being such as for general purposes of knowing the height for comparing it with
+children of similar age, in a gym, for recruitment of persons for various professions
+etc. Even though the applicant has emphasized that they are selling the said
+product to medical centers, that by itself does not make the product a diagnostic
+instrument. The primary purpose of the said product is measuring the height of
+children and adults. The actual use of the said data, collected by said measurement,
+may be manifold, including for diagnostic purposes but it cannot be said that the
+said equipment/ goods are used only in health care settings and that it is used only
+as a diagnostic instrument or apparatus. All instruments or tools used by a medical
+
+professional will not, for that only reason, be termed as a medical instrument. A
+
+medical professional uses various tools in his day to day work but all such tools
+
+(o)
+rs)
+3 will not be termed as a medical instrument. One of the major example will be a
+Le pz, weighing scale which is used by medical professionals to find out the weight ofa
+an ow.
+7 ASy patient. However, such weighing scale does not qualify as a medical equipment for
+A ST Me A
+
+the purposes of classification under Chapter 9018. A weighing scale being a
+weighing tool will be classified as a weighing scale rather than a diagnostic
+instrument or apparatus or instrument used in medical science. The use of a
+product would not be determinative of its classification, unless the goods have been
+designed and manufactured for that particular uses. We find that such goods i.e.
+stadiometers are nothing but measuring instruments used to measure length and
+in this particular case the height of children and adults. There is nothing on record
+to show that they were designed and manufactured to be used as diagnostic
+instruments. Merely because the goods are either sold directly by the manufacturer
+or through a particular channel i.e. the medical stores as claimed by the applicant,
+
+Page 13 of 16
+
+
+but unsubstantiated, would not render that product as diagnostic instrument. All
+goods sold through a medical store would not be a product or instrument used in
+medical science. It is also observed that similar goods are available for purchase of
+general public on e-commerce web sites also.
+
+5.7. We also find that the applicant has provided a test report from the Regional
+Reference Standard Laboratory, Government of India, Department of Consumer
+affairs to emphasis that the goods in the instant case are of good quality and
+therefore they qualify as a medical diagnostic instrument. We find that the said
+Test Report dated 6.10.2021 only mentions that the performance of stadiometer is
+satisfactory and conform to the specifications IS:1269 (Part-1)/1997. However, this
+does not come to the aid of the applicant for classifying the product as a diagnostic
+instrument as it is not uncommon that good quality weighing and measuring
+instruments are made and sold in the market, meeting various specifications. In
+fact, the said specification is the standard for -material measure of length : Part 1:
+
+Woven and glass fibre tape measures and would not render the goods to be
+
+classified under 9018 as a diagnostic instrument or apparatus. Such a certificate
+
+does not assist this office in determining the classification of the said product as a
+
+tariff to emphasize that a specific classification is to be preferred over a general one
+and that the stadiometers are instruments for diagnostic purposes used in medical
+science. We find that the applicant has failed to establish that the products sold by
+him are diagnostic instruments used in medical science. Therefore, it cannot be said
+that the said products are more specifically classifiable under Heading 9018 and
+therefore goes out of the purview of Heading 9018. We find that the stadiometer
+supplied by the applicant is a measuring instrument, the primary and only function
+of which is to measure the height of children and adults. The purpose of
+determining the height may vary from situation to situation and may not be only
+medical. Therefore, we find that stadiometer is more appropriately classifiable as
+other general instruments used for measuring length and are rightly classifiable
+under Heading 90178090.
+5.9. With respect to the product infantometer, we find that an infantometer is a
+measuring instrument used to measure the length of babies. The pamphlet of
+
+Infantometer mentions that the same is designed to measure height of baby in
+Page 14 of 16
+
+
+recumbent position and has been approved by the Legal Metrology Department.
+We find that the product infantometer is normally not used by the general public.
+It is basically used by a pediatrician to measure the length of the babies to identify
+whether there is malnutrition and to diagnose the proper growth of babies. They
+are also used by health care professionals/social workers to measure the length of
+babies so that the said data can be used for the purpose of diagnosing the rate of
+growth of babies and combat malnutrition. It is not usually sold in the market to
+general public and is used only by medical professionals or for medical purposes
+only. Verifying the length of infants or babies for purposes, other than medical, is
+usually unheard of. Even though the said product is a measuring instrument, since
+it is predominantly and exclusively used only by medical professionals as a medical
+device or diagnostic instrument, it can be more appropriately classified as a
+diagnostic instrument rather than a measuring instrument and therefore will be
+
+appropriately classified under Chapter 9018.
+
+5.10. We find that the applicant has relied upon the decision of the Rajasthan Advance
+Ruling Authority in the case of Bhawna Khandelwal (SRK Modular Furniture Co
+(RAJ/ AAR/223-24/13) and the decision of the Haryana Advance Ruling Authority
+in the case of Medi Waves Inc., JHAR/HAAR/R/2018-19/52). However, we do
+not agree to the findings of the said Advance Ruling Authority in respect of
+classification of ‘Stadiometer’ as they have failed to take into consideration the fact
+that the said product supplied by the applicant were measuring instruments which
+were being used by medical professionals. They were not designed or
+
+manufactured for the particular use as a medical/diagnostics instrument. The
+
+inference that the said goods are used exclusively for medical purposes in the said
+orders is not substantiated in this case and is different from the actual facts of this
+case. We would also like to place on record that an advance ruling pronounced by
+the Authority or the Appellate Authority shall be binding only on the applicant
+who had sought it, and the concerned officer or the jurisdictional officer in respect
+
+of the applicant.
+
+Page 15 of 16
+
+
+6. In view of the extensive deliberations as held hereinabove, we pass an order as follows:
+
+ORDER
+(Under Section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+NO.GST-ARA- 19/2022-23/B- 2.0 S Mumbai, dt. 2-04-2025”
+For reasons as discussed in the body of the order, the question is answered thus -
+
+Question 1: Whether Infantometer, being a diagnostic medical equipment, is covered
+
+under Tariff Heading 9018 and liable to GST @ 12%?
+
+Answer: - Yes.
+Question 2: Whether Stadiomeater, being a diagnostic medical equipment, is covered
+
+under Tariff Heading 9018 and liable to GST @ 12%?
+
+Answer: - No, this would be correctly classified under tariff Heading 9017 and liable
+to GST at 18%.
+
+Ce =—
+2
+\ uw me
+— Pa
+DIPAK P, GOJAMGUNDE PRIYA JADHAV
+(MEMBER) (MEMBER)
+
+1. The applicant
+
+2. The concerned Central / State officer
+
+3. The Commissioner of State Tax, Maharashtra State, Mumbai
+
+4, The Pr. Chief Commissioner of Central Tax, Churchgate, Mumbai
+5. The Joint commissioner of State Tax, Mahavikas for Website.
+
+Note:-An Appeal against this advance ruling order shall be made before The Maharashtra
+Appellate Authority for Advance Ruling for Goods and Services Tax, 15'" floor, Air India
+Building, Nariman Point, Mumbai - 400021. Online facility is available on gst.gov.in for
+online appeal application against order passed by Advance Ruling Authority.
+
+Page 16 of 16

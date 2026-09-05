@@ -1,0 +1,2097 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+(constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri B. V. Borhade, Joint Commissioner of State Tax
+(2) Shri Pankaj Kumar, Joint Commissioner of Central Tax
+
+GSTIN Number, if any/ User-id 2TAACCENS25D1Z8
+| Legal Name of Applicant Giriraj Renewables Private Limited
+Registered Address/Address provided while | Unit No 406, 4th Floor, Hubtown Solaries, N.S Phadke Road, Saiwadi, near
+obtaining user id Gokhle Flyover Bridge, Andheri (E), Mumbai 400 069
+Details of application GST-ARA, Application No. Ol Dated 24.11.2017
+Concerned officer MUM-VAT-C-709, NODAL DIVISION - MUMBAI-7.
+
+Nature of activity(s) (proposed / present) in
+
+respect of which advance ruling sought
+
+A Category Works Contract
+
+B Description (in brief) The applicant is an EPC contractor and enters into contract with various
+Developers who desire to set up and operate solar photovoltaic plants for
+supply of power generated. Typically the contracts are for supply of goods as
+well as services.
+
+Issue/s on which advance ruling required (v) determination of the liability to pay tax on any goods or services or both
+
+(vii) whether any particular thing done by the applicant with respect to any
+goods and/or services or both amounts to or results in a supply of goods
+and/or services or both, within the meaning of that term
+
+Question(s) on which advance ruling is required | As reproduced in para 01 of the Proceedings below.
+PROCEEDINGS
+
+(under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+NO.GST-ARA-01/2017/B- ©\ Mumbai, dt. (7 /OsJacw
+
+The present application has been preferred under section 97 of the Central Goods and
+Services Tax Act, 2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter
+referred to as “the CGST Act and MGST Act”] by Giriraj Renewables Private Limited, the
+
+Whether supply of turnkey Engineering, Procurement and Construction (‘EPC’)
+Contract for construction of a solar power plant wherein both goods and services
+are supplied can be construed to be a Composite Supply in terms of Section 2(30) of
+the Central Goods and Services Tax Act, 2017
+
+If yes, whether the Principal Supply in such case can be said to be ‘solar power
+generating system’ which is taxable at 5% GST.
+
+e Whether benefit of concessional rate of 5% of solar power generation system and
+parts thereof would also be available to sub-contractors.
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and
+the MGST Act are the same except for certain provisions. Therefore, unless a mention is
+specifically made to such dissimilar provisions, a reference to the CGST Act would also mean a
+
+reference to the same provision under the MGST Act. Further to the earlier, henceforth for the
+
+
+purposes of this Advance Ruling, a reference to such a similar provision under the CGST Act /
+
+MGST Act would be mentioned as being under the “GST Act”.
+
+02. FACTS AND CONTENTION - AS PER THE APPLICANT
+
+The submissions, as reproduced verbatim, could be seen thus-
+
+[A] AS SUBMITTED ALONGWITH APPLICATION
+
+Statement of the relevant facts having a bearing on the aforesaid clarification(s)/ transaction(s)
+
+1. “The Applicant is an EPC contractor and enters into contract with various Developers who desire to set up and
+operate solar photovoltaic plants for supply of power generated. In various cases, the Applicant also is a Project
+developer wherein it is engaged in operation of renewable energy power plant projects.
+
+2. Typically a turnkey contract is entered into by the Applicant to do end to end setting up of a solar power plant
+which includes supply of various goods (such as modules, structures, inverter transformer etc) as well as complete
+design, engineering and studies transportation, unloading, storage and site handling, installation and
+commissioning of all equipments and material, complete project management as well as supply and construction
+related to various other packages for complete PV plants.
+
+3. Accordingly, the contract entered into by the Applicant includes end to end activities i.e. supply of various goods
+and services intended for setting up, operation and maintenance of a solar power plant.
+
+4. The intent of the contract is that the entire contract would be undertaken by the Applicant for supply of both
+goods and services and setting up of the solar power plant as well as transmission lines for transmission of the
+electricity generated up to the storage or the GRID.
+
+5. There may be a single lump sum price for the entire contract for supply of both goods and services and
+payment terms may be defined depending on various milestones.
+
+6. A diagrammatic illustration of a solar power system is provided.
+
+Statement containing the applicant's understanding of rate of tax/ exigibility in respect of the aforesaid
+
+clarification(s)/transaction(s)
+
+The Applicant prefers to present the application before this Hon’ble Authority on the following, among other,
+
+grounds, each of which is taken in the alternative and without prejudice to the others:
+
+1. Legal provisions and applicability
+Rate of solar power generating system
+nder GST regime, various rates have been prescribed for goods and services. Per, Notification No. 1/2017 —
+[tegrated tax (Rate) (The notification is attached herewith as Annexure —A), dated 28 Jun 2017, solar power
+gen rating systems and parts for their manufacture are taxable at 5%. The relevant entry reads as follows:
+Chapter Heading Description
+84 Or 85 0r 94 Following renewable energy devices and parts for their manufacture
+
+a) | Bio-gas plant
+
+b) | Solar power based devices
+
+¢) | Solar power generating system
+
+d) | Wind mills and wind operated electricity generator
+
+e) | Waste to energy plants/devices
+
+f) | Solar lantern/solar lamp
+
+g) | Ocean waves/tidal waves energy devices/plants
+
+h) | Photo voltaic cells, whether or not assembled in modules or made up into panels
+
+Per the above, concessional rate of 5% has been provided to the following (when covered under heading 84,
+85 or 94):
+e PV modules
+e Solar power generating system — This term has not been defined
+e Parts for manufacture of solar power generating system and PV modules — There is no restriction provided
+on what would qualify as parts and in such case all goods which qualify as ‘parts’ of solar power generating
+system should be eligible for concessional rate of tax
+
+1.2 Concept of composite supply and mixed supply
+Section 2(30) of CGST Act defines composite supply to mean ‘a supply made by a taxable person to a recipient consisting
+of two or more taxable supplies of goods or services or both, or any combination thereof, which are naturally bundled and supplied in
+conjunction with each other in the ordinary course of business, one of which is a principal supply’.
+Section 2(90) defines principal supply as “principal supply” means ‘the supply of goods or services which constitutes the
+predominant element of a composite supply and to which any other supply forming part of that composite supply is ancillary’.
+Further, mixed supply has been defined under the Act as “mixed supply” means two or more individual supplies of goods
+or services, or any combination thereof, made in conjunction with each other by a taxable person for a single price where such supply does
+not constitute a composite supply”. Hence, for mixed supply there should be a single price and entire contract gets
+taxed at the supply with highest rate of tax.
+
+1.3 Concept of works contract
+Works contract has been defined under Section 2 (119) of CGST Act as follows:
+
+
+
+“a contract for building, construction, fabrication, completion, erection, installation, fitting out, improvement, modification, repair,
+maintenance, renovation, alteration or commissioning of any immovable property wherein transfer of property in goods (whether as goods
+or in some other form) is involved in the execution of such contract.”
+
+Works contract has been deemed to be a service under GST — Schedule II of GST law specifies that composite
+
+supply of works contract would be deemed to be a service. The general rate of works contract service is 18%.
+1.4 Our understanding in present context
+
+Per the above legal provisions, we understand that in present case, since the scope of work of the Applicant
+
+includes provision of both goods and services, the entire contract is one turnkey EPC contract and hence, would
+
+qualify as a composite supply. The principal supply in such case is provision of the solar power generating
+
+system and hence, the entire contract (including services portion) should be taxable at 5%.
+
+2. Ambit of composite supply
+
+2.1. Wide ambit of term ‘Composite Supply’
+Composite Supply has been defined in Section 2(30) of the Central Goods and Services Tax Act, 2017 as
+“composite supply means a supply made by a taxable person to a recipient consisting of two or more taxable supplies of goods or services
+or both, or any combination thereof, which are naturally bundled and supplied in conjunction with each other in the ordinary course of
+business, one of which is a principal supply,”
+Further, Principal Supply has been defined in Section 2(90) of the CGST Act as ‘principal supply means the
+supply of goods or services which constitutes the predominant element of a composite supply and to which any other
+supply forming part of that composite supply is ancillary’
+Thus, principal supply refers to the supply which is the predominant element in a composite supply.
+Illustration as provided in GST law is that In case goods are packed and transported with insurance, the supply
+of goods, packing materials, transport and insurance is a composite supply and supply of goods is a principal
+supply.
+Further, in terms of Section 8 of the CGST Acct, it has been clarified that a composite supply comprising two
+or more supplies, one of which is a principal supply will be treated as supply of such principal supply. The
+relevant para of Section 8 of the CGST Act provides as follows:
+“8. Tax liability on composite and mixed supplies. — The tax liability on a composite or a mixed supply, shall be determined in the following
+
+manner, namely:-
+(a)a composite supply comprising two or more supplies, one of which is a principal supply, shall be treated as a supply of such principal
+
+supply’
+
+Per the above, the essential conditions for a supply to qualify as composite supply can be highlighted as under:
+a. 2 or more taxable supplies of goods or services or both
+b. The taxable supplies should be naturally bundled
+@ The taxable supplies should be supplied in conjunction with each other
+
+d. One taxable supply should be a principal supply
+
+In such case, the supply which is the principal supply is treated as the main supply and the entire transaction
+
+is taxed as per the principal supply.
+
+In the present case, the Applicant would like to submit that the main intent of the contract is provision of the
+
+solar power generation system which consists of various components such as modules, structures, inverter
+
+transformers, cables, SCADA, transmission lines, etc. Services like civil construction are merely incidental to
+
+provision of such goods and form an ancillary part of the contract.
+
+is submitted that service portion of the contract is only ~10 to 15% and balance is supply of goods. This also
+
+\ “substantiates the fact that provision of services is incidental to supply of goods and hence, the supply of goods
+
+) Should form the principal supply and the entire contract should be taxed as supply of goods itself. It is
+
+sulmitted that the entire contract including goods supplied used in AC electrical, DC electrical, transmission
+
+itfes as well as other ancillary parts/ goods and services should get covered as composite supply and be taxable
+
+@s principal supply of ‘solar power generating system’.
+
+© It is further submitted that Ministry of New and Renewable Energy (‘MNRE’) in various instances has also
+
+“ approved entire BOQ consisting of various parts e.g. cables, module mounting structures, spares, transmission
+
+lines etc. as essential to solar power generating system and hence the concessions applicable have been
+
+extended to all goods to be used in solar power plant. Drawing a corollary, concessional rate of 5% should be
+
+applicable on all the goods approved under BOQ by MNRE as well. Further, as highlighted above, services
+
+being incidental to such supply should also get covered as composite supply and taxable at rate applicable to
+
+principal supply of ‘solar power generating system’.
+
+2.2. Wide ambit of term ‘solar power generation system’
+The term ‘solar power generating system’ has not been defined under GST. Solar power generating system
+generally are the systems which absorb sunlight and convert it into electricity which can be put to further use.
+Solar power system has been defined under Solar Power —Grid Connected Ground Mounted and Solar Rooftop
+and metering Regulation -2014 issued by State of Goa. Solar power system as per the regulation means ‘a
+grid-connected solar generating station including the evacuation system up to the Grid inter-connection point’.
+Typically the term system has a wide ambit. As per the Oxford Dictionary, the definition of the term ‘system!
+is “a complex whole, a set of things working together as a mechanism or interconnecting network”. Similarly,
+the system is defined in Chambers 20th Century Dictionary as “anything formed of parts placed together or
+adjusted into a regular and connected whole”. Hence, system typically includes various components/ parts
+which are manufactured/ assembled together for performing a function. In the present case, the term system
+
+
+
+should include all goods provided under the contract which help in end to end generation as well as
+transmission of electricity.
+Further, under erstwhile law also, solar power generating systems have not been defined. However, under
+erstwhile excise law, various exemptions were extended to non-conventional energy devices which included
+solar power generating systems - List 8 of Notification no. 12/2012-Central Excise, dated 17 March 2012.
+Reference is made to the judgment of Delhi Tribunal in the case of Rajasthan Electronics & Instruments
+Ltd. vs. Commr. Of C. Ex., Jaipur wherein it was held that ‘7.The adjudicating authority admitted the fact
+that Solar Photovoltaic Module is a Solar Power Generating System. We find that other parts are only panel
+housing consisting of controllers and switches. Hence the whole system is a Solar Power Generating System
+and is entitled for the benefit of notification. Therefore, the denial of benefit of notification by the adjudicating
+authority is not sustainable. The impugned order is set aside and the appeals are allowed’.
+Further, in the case of Bangalore Tribunal in the case of B.H.E.L. vs. Commissioner of Central Excise,
+Hyderabad it was held that “‘In the present case, the appellants have claimed exemption in respect of “inverter
+charger card” as solar power generating system. The appellants actually manufactured SPV lantern. The above
+lantern required electricity for its working. It is possible to convert solar energy to electricity with the help of
+inverter charger manufactured by the appellants. The Dy. General Manager has certified that the inverter
+merger constitutes solar power generating system as it performs the function of generating the required high
+frequency AC power from Sun-light with, the help of SPV module and supplying it to the compact fluorescent
+lamp ofa solar lantern. In view of the above, expert opinion, we hold that the impugned item can be considered
+as solar power generating system and is entitled for the benefit of the exemption Notification. Therefore, we
+allow the appeal with consequential relief.”
+Please find attached the aforesaid judgments as Annexure — B.
+Per the above, where a contract is awarded as a whole for supply of solar power generation system consisting
+of various components (as highlighted above) as well as services, the entire contract should qualify as a solar
+power generating system. This is in line with the concept of ‘composite supply’ in which case the taxability is
+as per the principal supply which is the solar power generating system.
+
+2.3. Reference to Education Guide issued under service tax regime
+
+It is to be noted that the concept of composite supply under GST is identical to the concept of naturally bundled
+
+services prevailing in the erstwhile Service Tax regime.
+
+Section 66F (3) of the Finance Act, 1994 (‘the Finance Act’) two rules have been prescribed for determining
+
+the taxability of such services. The rules prescribed are explained as under:
+
+1. If various elements of a bundled service are naturally bundled in the ordinary course of business, it shall be
+
+treated as provision of a single service which gives such bundle its essential character’
+
+2. If various elements of a bundled service are not naturally bundled in the ordinary course of business, it shall
+
+treated as provision of a service which attracts the highest amount of service tax.
+
+concept of naturally bundled services was explained in the Education Guide issued by the CBEC in the
+
+2012 (‘the Education Guide’). The relevant extract of the Education Guide is reproduced as under for
+
+led service means a bundle of provision of various services wherein an element of provision of one service is combined with an
+t or elements of provision of any other service or services. An example of ‘bundled service’ would be air transport services provided
+4 y ines wherein an element of transportation of passenger by air is combined with an element of provision of catering service on board.
+Pafecne involves differential treatment as a manner of determination of value of two services for the purpose of charging service tax
+‘ “ifferent.’ 2
+"The Education Guide also clarifies that in cases of composite transactions, i.e. transactions involving an
+element of provision of service and an element of transfer of title in goods in which various elements are so
+inextricably linked that they essentially form one composite transaction then the nature of such transaction
+would be determined by the application of the dominant nature test.
+Further, the following was provided in the Education Guide:
+“9.2.4 Manner of determining if the services are bundled in the ordinary course of business
+Whether services are bundled in the ordinary course of business would depend upon the normal or frequent practices followed in the area
+of business to which services relate. Such normal and frequent practices adopted in a business can be ascertained from several indicators
+some of which are listed below —
+¢ The perception of the consumer or the service receiver. If large number of service receivers of such bundle of services reasonably
+expect such services to be provided as a package then such a package could be treated as naturally bundled in the ordinary course of
+business
+¢ Majority of service providers in a particular area of business provide similar bundle of services. For example, bundle of catering on
+board and transport by air is a bundle offered by a majority of airlines
+© The nature of the various services in a bundle of services will also help in determining whether the services are bundled in the ordinary
+course of business. If the nature of services is such that one of the services is the main service and the other services combined with
+such service are in the nature of incidental or ancillary services which help in better enjoyment of a main service, For example service
+of stay in a hotel is often combined with a service or laundering of 3-4 items of clothing free of cost per day. Such service is an ancillary
+service to the provision of hotel accommodation and the resultant package would be treated as services naturally bundled in the ordinary
+course of business.
+© Other illustrative indicators, not determinative but indicative of bundling of services in ordinary course of business are:
+© There is a single price or the customer pays the same amount, no matter how much of the package they actually receive or use
+o The elements are normally advertised as a package
+o The different elements are not available separately.
+o The different elements are integral to one overall supply — if one or more is removed, the nature of the supply would be affected.
+Per the above, the following conclusions can be drawn:
+
+4
+
+
+e Incase more than two supplies are supplied together wherein one of the supply is principal supply would
+qualify as composite supply.
+
+e Further, goods supplied under the composite supply are supplied in conjunction with each other. Also, such
+composite supply is supplied in the ordinary course of business.
+
+e The composite supply would qualify as supply of the principal supply. Taxes would be applicable as on
+such principal supply.
+
+Drawing reference to the above, it is submitted that the customer perceives the entire contract is for supply of
+
+solar power generating system as the intent of both the parties is supply of the goods/ system which would
+
+help in generation of electricity. Hence, the entire contract (both goods and services) and bundled and linked
+
+wherein the main intent is provision of the goods which constitute solar power generating system.
+
+2.4. Global Jurisprudence — Meaning of Composite Supply
+
+The concept of ‘composite supply’ is a global concept and has been discussed in various countries.
+Provided below is relevant extract from various countries regarding the same:
+
+2.4.1. Australia
+
+In terms of Goods and Services Tax Ruling 2001/8 issued under Australia, Composite Supply means a supply
+
+that contains a dominant part and includes something that is integral, ancillary or incidental to that part.
+
+Composite supply is treated as supply of one thing.
+
+There have been various precedents in which the courts have defined a composite supply. Few are highlighted
+
+below:
+
+e The Full Federal Court in the case of Luxottica found that while 'supply' is widely defined it ‘invites a
+commonsense, practical approach to characterisation’. It was observed that while 'Supply' is defined
+broadly, it nevertheless invites a commonsense, practical approach to characterisation. An automobile has
+many parts which are fitted together to make a single vehicle. Although, for instance, the motor, or indeed
+the tyres, might be purchased separately there can be little doubt that the sale of the completed vehicle is a
+single supply. Like a motor vehicle, spectacles are customarily bought as a completed article and in such
+circumstances are treated as such by the purchaser. The fact that either the frame or the lenses may be
+purchased separately is not to the point. Similarly the fact that one component, the lenses, is GST-free or
+that one component is subject to a discount does not alter the characterisation.
+
+e Inthe case of Saga Holidays, Stone J focused on the 'social and economic reality' of the supply and found
+that there was a single supply of accommodation and the adjuncts to that supply (including the use of the
+furniture and facilities within each room, cleaning and linen services, access to common areas and facilities
+such as pools and gymnasiums and various other hotel services such as porterage and concierge) were
+incidental and ancillary to the accommodation part of the supply.’
+
+Per the above, composite supply is taxed as supply of the dominant activity to which others are merely
+
+ancillary. In the present case also, the dominant supply is those of goods (which constitutes solar power
+
+generating system’ and services is merely incidental to provision of such goods.
+
+European Union
+
+Per the European Union Directive, a composite supply is a transaction where supplies with different VAT
+
+treatments are sold together as one. The supplies with a composite supply may consist of parts that, if assessed
+
+‘Neparately, have different tax rates. Some have standard rates, reduced rates or are exempt from VAT.
+
+’ European Court of Justice (‘ECJ’) has delivered several judgements on the aspect of composite supply
+
+Sunder European Union Value Added Tax laws (‘EU-VAT’).
+
+fi the case of Card Protection Plan Ltd. Vs. C & E Commrs [1994] BVC 20 , the ECJ held that ‘a service must
+
+ge be regarded as ancillary to a principal service if it does not constitute for customers an aim in itself, but a
+
+_” » Ameans of better enjoying the principal service supplied’.
+
+oS Per the above principal, in the present case also, what the customer wishes or intends to obtain is the main
+
+~~ supply of solar power generating system and services are only a means to enjoy the same and hence, services
+
+are incidental to the main supply of goods.
+
+2.4.3. United Kingdom
+Under the UK VAT laws, a multiple supply (also known as a combined or composite supply) involves the
+supply of a number of goods or services. The supplies may or may not be liable to the same VAT rate.
+If a supply is seen as insignificant or incidental to the main supply, then for the purposes of VAT it is usually
+ignored — the liability is fixed by the VAT rate applicable to the main supply (or supplies).
+In the case of Tumble Tots (UK) Ltd v R & C Commrs [2007] BVC 179. Members of a playgroup received a
+T-shirt (children’s clothing is potentially zero rated) and a magazine (potentially zero rated) as well as the
+right to attend classes which would be standard rated. The Court decided that there was a single standard rated
+supply of the right to belong to the playgroup and the T shirt and magazine were incidental to that main supply.
+No one who was not in the playgroup would have bought the T shirt or magazine separately.
+Per the above, it is clear that globally also composite supply means a supply of more than one goods/services
+wherein one supply qualifies as principal supply. Therefore, taxes as applicable on the principal supply are
+applied on the whole composite supply.
+
+3s Intention of parties
+As discussed above, section 2(30) of CGST Act states that supply of two or more taxable supplies of goods or
+services or both or combination of both which are naturally bundled and are supplied in conjunction with each
+
+5
+
+
+
+other in ordinary course of business, one of which is a principal supply will be considered as a composite
+supply.
+Further, in terms of Section 2(90) of CGST Act, principal supply means the supply of goods or services which
+constitutes predominant element of a composite supply. Further, as per Section 8, in case of composite supply,
+the taxes applicable on principal supply would be applicable on the composite supply.
+In the present case, the intention of both the parties is to supply the whole of solar power generating system
+in totality which consists of various goods and services are incidental to provision of such goods. What the
+customer wants is a functional solar power system and services such as erection, commissioning etc are only
+a means to provide the main supply of goods.
+
+4, Contract does not constitute works contract
+It is submitted additionally that works contract is also defined as a composite contract and includes a contract
+for building, construction, fabrication, completion, erection, installation, fitting out, improvement,
+modification, repair, maintenance, renovation, alteration or commissioning of any immovable property
+wherein transfer of property in goods (whether as goods or in some other form) is involved in the execution
+of such contract.
+It is our case that the intent of the contract executed by the Applicant are not in the nature of erection,
+commissioning or fitting out, etc. Instead the contract is entered for provisioning of solar power generating
+system and the main intent of parties is to procure a solar power generating system to which the activity/
+services of erection/ commissioning etc are only incidental.
+In the present case, even if the contract qualifies as composite contract, the principal supply would be that of
+provision of solar power generating system and not provision of works contract services. This is because as
+highlighted above, the principal supply or dominant intent is provision of goods as solar power generating
+system and hence, entire contract should be taxable as the principal supply itself.
+
+5. Whether benefit would also be available to sub-contractor
+
+5.1 In certain cases, the turnkey contractor engages various sub-contractors (manufacturers/ supplies/ sub-
+contractors) who further supply the goods to such contractor or engage in provisioning of certain portion of
+the turnkey contract.
+
+5.2 Further, there may be cases wherein the Developer divides the EPC contract between two separate EPC
+Contracts of construction of solar power generation system.
+
+5.2 Notification no. 1/2017-Integrated Tax (Rate), which provides concessional rate on solar power generating
+
+system does not specify the persons who would be eligible for concessional rate of 5% i.e. developer, EPC
+
+Pte, contractor or manufacturer/ supplier/ sun-contractor.
+
+© Since the concessional rate of 5% is provided to renewable energy products and parts thereof, the same should
+
+applicable to all suppliers providing such products as long as it can be established (through certification or
+
+herwise) that these are to be used in solar power generation system. This would also be in line with practice
+so
+
+) Whder erstwhile excise law wherein benefit was extended to sub-contractors also through MNRE certification.
+
+‘eae j Rey, As per Section 2(30) of the CGST Act, in case more than one goods are supplied which are bundled
+
+; * together in the ordinary course of business, such supply would be considered as composite supply. Further,
+
+per Section 8 of the CGST Act, a composite supply comprising two or more supplies, one of which is a
+
+principal supply will be treated as supply of such principal supply. Therefore, GST applicable on the
+
+principal supply would be applied on such composite supply.
+
+e In view of the above, a position can be taken that the Applicant engaged in the business of EPC oeaitaate
+of supply of solar power generating system providing services, erection, testing and commissioning of
+solar power projects, should qualify as composite supply wherein the supply of the solar power generating
+system constitutes the principal supply. Other services, erection, testing and commissioning of solar power
+plants are ancillary to the supply of solar power generating system and hence, entire contract (including all
+goods as well as services) should qualify as solar power generating system taxable at 5%.
+
+e Concessional rate of 5% for supply of solar power generating system or its parts should also be available
+to sub-contractors.”
+
+[B] AS SUBMITTED DURING HEARING
+
+“1.5. Without prejudice and in addition to the submissions already made, the Applicant hereby make the following
+additional submissions.
+
+The Proposed transactions/ Contract is one for supply of ‘Solar Power Generating System’ as a whole and
+
+hence the rate of GST should be 5%.
+
+1.6. It is submitted that the intent of the parties is always for supply of Solar Power Generating system as a whole
+
+1.7. Reference is made to the draft contract (annexed herewith as Annexure A), which is a Contract for Supply of
+
+60Mw Solar Power Plant. Further, Clause B of the draft Agreement provides as following:
+
+“B, Owner has appointed the Contractor for supply of the Solar Power Plant which includes engineering, design, procurement, supply,
+development, testing and Commissioning of the Plant as per scope defined in relevant schedule of this Contract, as per Applicable Law
+and Technical Specifications”
+
+
+1.8, Additionally, reference can be made to the Schedule I of the agreement defines the scope of work to be
+executed by the Contractor ie the Applicant. The said schedule clearly outlines the entire scope to be
+
+undertaken and provides that the Applicant would be responsible for supply of Solar Power Plant.
+“The Contractor would be responsible for Supply of Equipment and undertake all necessary activities ancillary to such supplies (such
+as erection, civil work etc) to ensure complete supply of Solar Power Plant
+
+1.9. Typically the said contract is entered into for supply of solar power generating system which involves supply
+of equipment and undertaking certain services. Separate prices are specified for different equipment which
+are supplied under the agreement for commercial convenience such as movement of goods, claiming of
+payment or availing trade credits etc., however, as a general trade practice all the equipment which are being
+supplied under the agreement are supplied together for setting up/ supply of a solar power generating system.
+
+Contract does not constitute works contract
+
+1.10. It is submitted additionally that works contract is defined as a composite contract and includes a contract for
+building, construction, fabrication, completion, erection, installation, fitting out, improvement, modification,
+repair, maintenance, renovation, alteration or commissioning of any immovable property wherein transfer of
+property in goods (whether as goods or in some other form) is involved in the execution of such contract.
+
+1.11. Therefore, in order to determine whether the supply made by the Applicant is of works contract, it is
+imperative to understand (i) the essence of the contract and the intention of the parties involved in the contract
+to determine whether the parties intend to undertake works contract or supply of solar power plant and (ii)
+whether the activities are undertaken on an immovable property for the contract to qualify as works contract.
+
+1.12. Essence of the contract and intention of the parties involved in the contract is clearly to supply
+
+1.12.1. As explained above, the intention of the parties entering into a contract with the Applicant, is to procure a
+completely functional solar power plant wherein the Applicant undertakes end to end responsibility of supply
+of equipment for solar power plant including designing, engineering, supply, installation, testing and
+commissioning of the solar power plant. The intention of the parties is not to undertake any activity on an
+immovable property, but to supply Solar power plant.
+
+1.13. Solar power plant is not an immovable property
+
+1.13.1. It is submitted that it has been highlighted in various pronouncements by the judicial authorities that in cases
+where an object is installed/fastened to the land for better running of the said object, and not for the benefit
+of land, such object will not be considered as immovable property. Further, it has been held that if fixing of a
+plant to a foundation is only meant to give stability to the plant and where there is no intention to make such
+plant permanent, the foundation would not change the nature of the plant and make it an immovable property.
+
+1.13.2. Reliance is placed on a judgment by the Hon’ble Supreme Court in the matter of Sirpur Paper Mills Ltd. v.
+Collector of Central Excise, Hyderabad (/998 / SCC 400), wherein in case of a paper making machine, it
+was held that merely because the machinery was attached to the earth for operational efficiency, it does not
+automatically become an immovable property. If the appellant wanted to sell such goods, it could always
+remove it from the base and sell it. Relevant extract from the judgment is reproduced below for ease of
+
+reference: ,
+
+‘The Tribunal held that the machine was attached to earth for operational efficiency. The whole purpose behind attaching the machine
+a concrete base was to prevent wobbling of the machine and to secure maximum operational efficiency and also for safety. The
+unal further held that the paper making was saleable and observed "if somebody to purchase, the whole machinery could be
+ntled and sold to him in parts".
+
+w of this finding of fact, it is not possible to hold that the machinery assembled and erected by the appellant at its factory site was
+vable property as something attached to earth like a building or a tree. The tribunal has pointed out that it was for the operational
+fi¢jency of the machine that it was attached to earth. If the appellant wanted to sell the paper making machine it could always remove
+
+mm its base and sell it.
+
+Rose $3 view of Oe (finding, we ae Hane to pas the comenion ofthe = eal eee a he hiys na pe eaied a part of the hie oeed
+“s Arp ie = VS property of the company. Just because a plant and machinery are fixed in the eari for fer functioning, it does not automaticai
+plies cote, an cowl ronan i A = 2
+~~ 1.13.3. Relying on the aforesaid judgment, the Hon’ble Supreme Court, in the year 2010, in the matter of
+Commissioner of Central Excise v. Solid and Correct Engg Works & Ors. (2010 (175) ECR 8 (SC)), held
+that Asphalt Drum/Hot Mix Plants were not immovable property as the fixing of the plants to a foundation
+was meant only to give stability to the plant and keep its operation vibration free. Further, it was held that the
+setting up of the plant itself is not intended to be permanent at a given place. The plant can be moved and is
+indeed moved after the road construction or repair project for which it is set up is completed. Hence, the said
+plants were held to be movable. Relevant extract of the judgement is reproduced as under for ease of reference:
+‘Applying the above tests to the case at hand, we have no difficulty in holding that the manufacture of the plants in question do not
+constitute annexation hence cannot be termed as immovable property for the following reasons:
+(i) The plants in question are not per se immovable property.
+(ii) Such plants cannot be said to be "attached to the earth" within the meaning of that expression as defined in Section 3 of the Transfer
+of Property Act.
+(iii) The fixing of the plants to a foundation is meant only to give stability to the plant and keep its operation vibration free.
+(iv) The setting up of the plant itself is not intended to be permanent at a given place. The plant can be moved and is indeed moved after
+the road construction or repair project for which it is set up is completed. '
+1.13.4. In furtherance to the aforesaid judgment, the Madras High Court in the case of Board of Revenue, Chepauk,
+Madras v. K. Venkataswami Naidu (AJR /955 Mad 620, 1955 CriLJ 1369), held that if something is
+temporarily embedded in the earth, it cannot be termed as immovable property. The relevant extract of the
+
+judgement is reproduced as under:
+
+
+‘2. The answer to the question depends upon whether the equipment of the touring cinema would fall within the category of immoveable
+
+‘property. We have no hesitation in holding that it does not. In the question referred to us, the properties are described as collapsible
+
+and capable of being removed. In the very nature of things, properties of that nature cannot be immoveable property. The expression
+
+"permanently fastened" occurring in the question is a little misleading.
+
+Actually some of the machinery or the poles of the tent may be imbedded in the earth, but they are imbedded only temporarily and not
+
+permanently, If they were permanently fixed, the equipment would not form part of a touring cinema."
+
+1.13.5. Further, it is worthwhile to note that the Madras High Court in the matter of Sri Velayuthaswamy
+Spinning Mills v. The Inspector General of Registration and the Sub Registrar (20/3 (2) CTC 551),
+while deciding whether setting up of windmills can be treated as movable property for the purpose of payment
+of stamp duty, held that windmills were installed on the cemented platform on the land for running of
+windmills and not for the benefit of the land, and hence the same are to be considered as movable property.
+The judgment was passed on the basis of the principle that if, in the nature of things, the property is a movable
+property and for its beneficial use or enjoyment, it is necessary to imbed it or fix it on earth though
+permanently that is, when it is in use, it should not be regarded as immovable property for that reason.
+
+1.13.6. Similar principles were also adopted in the matter of Perumal Naicker vy. T. Ramaswami Kone and Anr.
+(AIR 1969 Mad 346), wherein the Madras High Court, while deciding whether the engine and pump set were
+an immovable property, held that the attachment of the oil engine to earth is for the beneficial enjoyment of
+the engine itself, and hence, such an attachment does not make the engine part of the land and as immovable
+property. Relevant extracts of the judgment are reproduced below for ease of reference:
+
+‘We find ourselves in agreement with the second part of these observations, which is apposite to the instant case. In the case before us,
+
+the attachment of the oil engine to earth, though it is undoubtedly a fixture, is for the beneficial enjoyment of the engine itself and in
+
+order to use the engine, it has' to be attached to the earth and the attachment lasts only so long as the engine is used. When it is not used,
+it can be detached and shifted to some other place. The attachment, in such a case, does not make the engine part of the land and as
+immovable property..."
+
+A copy of all the judgements is collectively marked and attached as Annexure — B.
+
+1.13.7. In view of the aforesaid judgments, it is submitted that in the instant case, the solar power plants supplied by
+the Applicant is commissioned and installed only for the purpose of better functioning of the plant and are
+capable of being removed and transferred from one place to another. Hence, the fact that the plant is firmly
+but not permanently attached to the land means that the same is not an immovable property.
+
+1.13.8. Reference can be made to Clause 4.1(xiii) of the draft agreement, which contemplates possibility of
+
+transferring the Plant:
+
+(xiii) Any costs incurred by the Contractor for any changes made in the land/premises of the Owner, while development of Plant, due to
+the requirement of transferring the Plant to another location, would be borne by the Owner. Such costs incurred would be charged by
+the Contractor from Owner separately and does not form part of the Contract price highlighted in Schedule 3 of the Contract. The
+amount to be charged due to the changes will be mutually decided between the parties.
+
+1.13.9. Reliance is also placed on the Chartered Engineer Certificate which clearly provides that Solar Power Plant
+if required can be shifted to another location and is highly moveable. The same is annexed herewith as
+Annexure C.
+
+0. The Central Board of Customs and Excise (‘CBEC’), vide 37B Order No. 58/1/2002 —.CX — under
+
+F.No. 154/26/99 — CX4 dated 15 January, 2002 (‘the Circular’), after realizing the anomaly i in case of plant
+
+>. ©, Yad machinery assembled at site, issued the Circular clarifying the following: .
+NG ©. If items assembled or erected at site and attached by foundation to earth cannot be dismantled without substantial damage to its
+
+Pp NS % mponents and thus cannot be reassembled, then the items would not be considered as moveable and will, therefore, not be excisable
+
+“oN DNCE Fe “py
+
+Wil If any goods installed at site (example paper making machine) are capable of being sold or shifted as such after removal from the
+3D / Bale and without dismantling into its components/parts, the goods would be considered to be movable and thus excisable. The mere
+many og Z, y t that the goods, though being capable of being sold or shifted without dismantling, are actually dismantled into their
+mponents/parts for ease of transportation etc., they will not cease to be dutiable merely because they are transported in dismantled
+
+A copy of the circular is marked and attached as Annexure — D.
+
+Relying on the aforesaid circular, in the case of Applicant, considering the solar power plant, once installed,
+
+is capable of being removed and transferred from one place to another without substantial damage, the same
+
+should qualify as movable property.
+
+1.13.11. In the instant case, the service portion of the contract constitutes a meagre 6% of the entire contract, solely
+for the purpose of operation of the solar power plant. The solar power plant can be easily transferred to
+another location in case required. Hence, it is abundantly apparent that the activity of erection,
+commissioning and installation is for the beneficial enjoyment of the solar power plant, and hence, solar
+power plant should not be considered as an immovable property.
+
+Without prejudice to the above and in the alternative, even if the agreement is construed as a Composite
+
+Supply, the most critical compo Major component of Solar Power System — Solar Photovoltaic module
+
+1.14. Section 2(30) of CGST Act defines composite supply to mean ‘a supply made by a taxable person to a recipient
+
+consisting of two or more taxable supplies of goods or services or both, or any combination thereof, which are naturally bundled and
+supplied in conjunction with each other in the ordinary course of business, one of which is a principal supply’.
+
+1.15. Section 2(90) defines principal supply as “principal supply” means ‘the supply of goods or services which constitutes
+the predominant element of a composite supply and to which any other supply forming part of that composite supply is ancillary’.
+1.16. Further, in terms of Section 8 of the CGST Acct, it has been clarified that a composite supply comprising two
+or more supplies, one of which is a principal supply will be treated as supply of such principal supply. The
+relevant para of Section 8 of the CGST Act provides as follows:
+‘8. Tax liability on composite and mixed supplies. — The tax liability on a composite or a mixed supply, shall be determined in the
+following manner, namely:-
+
+
+
+(a) acomposite supply comprising two or more supplies, one of which is a principal supply, shall be treated as a supply of such
+principal supply’
+
+1.17. Per the above, the essential conditions for a supply to qualify as composite supply can be highlighted as
+under:
+
+a. 2 or more taxable supplies of goods or services or both
+
+b. The taxable supplies should be naturally bundled
+
+c. The taxable supplies should be supplied in conjunction with each other
+
+d. One taxable supply should be a principal supply
+
+In such case, the supply which is the principal supply i is treated as the main supply and the entire transaction
+is taxed as per the principal supply.
+
+1.18. | The Applicant would like to highlight that mounted Photovoltaic module (PV module) comprises around
+60%-70% of the entire Solar Power Plant, and the rest of the components constitute for around 30-34% and
+are merely parts or sub parts which are required for panel housing or setting up the module such as controllers
+and switches. This is due to the fact that PV module is a packaged, connect assembly of typically 6x10
+photovoltaic solar cells, which constitute the photovoltaic array of a photovoltaic system that generates and
+supplies solar electricity. In other words PV modules are nothing but an assembly of solar cells that helps in
+converting solar power into electricity. Hence, PV module is the most important component of solar power
+generating system and therefore, would squarely qualify as the ‘principal supply’ as per the provisions of
+the GST law.
+
+1.19. Accordingly, it is submitted that the GST rate of PV modules which is 5% should be applicable on the whole
+of the contract.
+
+1.20. Reference can be made to the CERC Order dated 23 March 2016 involving determination of Benchmark
+Capital Cost Norm for Solar PV Power Project for FY 16-17. In the said case also, the CERC, of the total
+cost of the project including land cost, PV Modules cost is considered as 62%. A copy of the said order is
+annexed herewith as Annexure E.
+
+1.21. Reliance can also be placed on Chartered Engineer Certificate which provides that the most critical
+component is PV Modules both in terms of the value and the functionality that such Modules perform.
+
+1.22. Even in the draft agreement, reference can be made to Schedule I of the scope of work which provides as
+
+below:
+
+“The Contractor would be responsible for Supply of Equipment and undertake all necessary activities ancillary to such supplies (such
+
+erection, civil work etc) to ensure complete supply of Solar Power Plant.
+
+‘h parties agree that of the total supplies, the most critical part of the Plant are the supply of the mounted PV Module which constitute
+
+70% of the total contract value. Further, it is also agreed that the Contractor is responsible for the whole of the contract that is
+
+3 ietting-up/ supply of the Plant.
+Eotithe purpose of undertaking conan iaees under Laws constituted i in India, the parties may agree to define prices of the equipment
+
+irther, there is a definition in the draft agreement, “Major Equipment” [1.1.67] which clearly
+
+identifies PV Modules as the Major Equipment
+
+“Major Equipment(s)" means PV solar modules which is an assembly of solar cells that helps in converting solar power into electricity
+
+and all other Equipments specified in Schedule 3 (Contract Price and Payment Milestones) for facilitation of Payment under this
+
+Contract;
+
+1.24. Reference in this regard is made to the judgment of Delhi Tribunal in the case of Rajasthan Electronics &
+
+Instruments Ltd. vs. Commr. Of C. Ex., Jaipur wherein a Solar Photovoltaic Module was held to be a
+Solar Power Generating System. Relevant extract of the judgement is reproduced below for ease of
+reference:
+
+‘7. The adjudicating authority admitted the fact that Solar Photovoltaic Module is a Solar Power Generating System. We find that other
+parts are only panel housing consisting of controllers and switches. Hence the whole system is a Solar Power Generating System and
+is entitled for the benefit of notification. Therefore, the denial of benefit of notification by the adjudicating authority is not sustainable.
+The impugned order is set aside and the appeals are allowed’.
+
+1.25. Basis the above submissions, it is clearly evident that the PV Modules qualifies as ‘principal supply’ and
+hence the whole contract even if construed as composite supply should be liable to tax considering it to be
+supply of PV Modules, which is liable to GST at the rate of 5%.
+
+2. Whether benefit would also be available to sub-contractor
+
+2.1. In certain cases, the contractor engages various sub-contractors (manufacturers/ supplies/ sub-contractors)
+who further supply the goods to such contractor or engage in provisioning of certain portion of the contract.
+
+2.2. Further, there may be cases wherein the Developer divides the contract between two separate contracts of
+construction of solar power generation system.
+
+2.3. Notification no. 1/2017-Integrated Tax (Rate), which provides concessional rate on solar power generating
+
+system does not specify the persons who would be eligible for concessional rate of 5% i.e. developer,
+contractor or manufacturer/ supplier/ sun-contractor.
+
+2.4. Since the concessional rate of 5% is provided to renewable energy products and parts thereof, the same
+should be applicable to all suppliers providing such products as long as it can be established (through
+certification or otherwise) that these are to be used in solar power generation system. This would also be in
+line with practice under erstwhile excise law wherein benefit was extended to sub-contractors also through
+MNRE certification.
+
+3. Conclusion
+
+
+In view of the aforesaid submissions, the Applicant reiterates the following:
+3.1. The Applicant reiterates that the Applicant is engaged in the business of supply of ‘solar power generating
+system’ and the same should be liable to tax at 5%.
+
+3.2. The Applicant further prays that solar power generating system should not qualify as immovable property
+
+33 Alternatively, even if the agreement is construed as a composite supply, the principal supply would be the
+supply of PV Modules which again are liable to tax @5%.
+
+3.4. Hence, the Applicant submits that the proposed agreement with its customers should be taxable @5% GST,
+
+and the same should be applicable to sub-contractors as well.
+
+03. CONTENTION - AS PER THE CONCERNED OFFICER
+
+The submission, as reproduced verbatim, could be seen thus-
+
+“In support to their claim that EPC contract for construction of solar power plant is purely a Composite
+
+Supply and it should not be treated as works contract, they have submitted draft agreement, various case laws. In this
+
+connection, I am submitting by submission as under :
+
+A) M/s Giriraj Renewables Pvt Ltd is engaged in the work of construction of a solar power plant. This work is taken
+on Engineering, Procurement and Construction (EPC) basis. The dictionary meaning of ECP contract is
+“Engineering, Procurement, and Construction" (EPC) is a particular form of contracting arrangement used
+in some industries where the EPC Contractor is made responsible for all the activities from design, procurement,
+construction, to commissioning and handover of the project to the End-User or Owner.”
+
+B) Section 2(119) of GST Act defines works contract as “a contract for building construction fabrication, completion,
+erection, installation, fitting out, improvement, modification, repair, maintenance, renovation, alteration or commissioner
+of any immovable property wherein transfer of property in goods (whether as goods or in some other form) is involved into
+the execution of such contract.”. Thus in the works contract transfer of property in goods involved into the execution
+of contract, is very essential aspect. Transfer of property can take place by imbedding movable goods into
+immovable property.
+
+M/s Giriraj Renewables Pvt Ltd undertakes works of installation testing and commissioning of Solar power plant.
+
+The solar power system is designed to meet the demands of the buyer. The goods are procured as per the requirement,
+
+installed, tested and after commissioning the ownership of solar power plant is handed over to the buyer. So it is not
+
+the something sold out of shelf.
+
+s per Supreme Court decision in case of Larsen and Toubro V/s State of Karnataka
+
+ontract may involve both, a contract for work and labour and a contract for sale. In such composite contract,
+
+istinction between contract for sale of goods and contract for work or services is virtually diminished.
+
+ii) Fhe term “Works Contract” is broad and includes all obligations and all types of contracts. Even if some
+
+"; ations are imposed in addition to supply of goods and materials and performance of services, such contract
+
+_Jis's Il a “works contract”.
+
+ere is a composite contract for supply and installation it has to be treated as works contract as it is not chattel
+
+Tate Ds chattel. The solar power system cannot be shifted to any other place without dismantling the same. Further it
+“. ===*"{s tailor-made system, which cannot be sold as it is to the other person.
+
+In the chapter 99 Service Code 995426 specifies the Services Description as “General Construction services of
+Power Plants and its related infrastructure”. It does not specifies the type of power plants. So it is applicable to all
+type of power plant.
+
+The draft contract provided by the dealer specifies that principal supply is of photovoltaic module at around 60
+to 70% of entire solar power plant. However submission given by the dealer is not supported by documents, such as
+estimate, etc. Therefore this artificial bifurcation arrived by the dealer is not acceptable.
+
+So it is submitted that as per Section 2(119) of GST Act, the EPC contract for solar power plant comes under the
+purview of works contract.
+
+It is also submitted that since it is works contract, question of principal supply does not arises and so GST tax
+rate of Solar Power Generating system is not applicable to EPC contract.
+
+As the principal contract is treated as works contract, applicability of concessional rate of tax to the subcontractor
+does not arise.”
+
+04. HEARING
+
+The case was taken up for hearing on dt.17.01.2018 and on dt.12.02.2018 when Sh.
+Prashant Agarwal (Partner, PricewaterhouseCoopers Pvt. Ltd.) attended and reiterated the
+contention as made in the written submission. During the hearing on dt.12.02.2018, a sample
+
+copy of the agreements in such types of contracts was submitted and our attention was invited
+
+10
+
+
+to various clauses therein. Sh. Pravin Chavan, the concerned officer holding the post of State Tax
+Officer was also present during both the hearings. He requested time till dt.15.02.2018 to give a
+
+written submission in the matter.
+
+05. OBSERVATIONS
+
+We have gone through the facts of the case. The issue put before us is the classification
+of a future transaction which would be effected on the lines of a sample agreement copy as
+tendered during hearing. It has been submitted by the applicant that the sample agreement is
+customarily the way in which transactions of the nature as is before us are effected.
+
+As we go through the submission, we find that the applicant has been stressing that the
+impugned contract is not a ‘works contract’ but be treated as a ‘composite supply’. As we
+cursorily understand the issue, even before we look into the details of the agreement, a thought
+cannot be stifled when we look at the sentence “Owner has appointed the Contractor for supply of the Solar
+
+Power Plant which includes engineering, design, procurement, supply, development, testing and Commissioning (as defined
+
+later) of the Plant as per scope defined in relevant schedule of this Contract.....”. Sach type of contracts are
+commonly understood to be works contracts involving supplies of goods as well as services.
+However, it is equally true that since we would have to see these contracts from the perspective
+of the new Goods and Service Taxation regime. Hence, it would not be proper to even cursorily
+disregard the contention of the applicant before looking into the provisions of the GST Act. We
+feel that we proceed with the issue by first looking into this aspect of ‘works contract’ or a
+
+posite supply’. ‘Works contract’ is defined in clause (119) of section 2 of the GST Act as -
+
+tract” means a contract for building, construction, fabrication, completion, erection, installation, fitting out,
+5 ti, modification, repair, maintenance, renovation, alteration or commissioning of any immovable property wherein
+pNe jperty in goods (whether as goods or in some other form) is involved in the execution of such contract;
+
+cS = Donte
+
+om? rh
+
+lan be seen that works contract involves activities of building, construction, fabrication,
+
+ection, installation, fitting out, sii modification, alia maintenance, renovation, alteration or
+
+activities as building, construction, manufacture, processing, fabrication, erection, installation, fitting out, improvement,
+modification, repair or commissioning of any movable or immovable property. Thus, activities in relation
+to movable and immovable property were covered earlier whereas the GST regime requires it to
+be restricted to immovable property only. It is with this distinctive difference that the applicant
+puts before us the contention that the transaction of supply of the Solar Power Plant (“SPP” as
+would be henceforth referred to) does not result into transfer of an ‘immovable property’ as the
+SPP is a ‘movable property’. With this background, we proceed to see the clauses of the
+
+agreement :
+
+“WHEREAS:
+A. Owner intends to develop a 60 MWAC/ 81 MWDC solar power plant (“Plant’/ “Plant”’) in 7
+Karnataka (“Plant Site”), for onward sale of power to its consumers.
+
+11
+
+
+B. Owner has appointed the Contractor for supply of the Solar Power Plant which includes engineering, design,
+procurement, supply, development, testing and Commissioning (as defined later) of the Plant as per scope
+defined in relevant schedule of this Contract, as per Applicable Law and Technical Specifications.
+
+C. The Contractor is an entity involved in the business of supply and setting up of complete solar power
+generating system in various states of India.
+
+D. The document in title of the equipment imported and supplied is directly transferred to the Owner by way of High
+Seas Sale for commercial convenience and in order to avail benefit of concessional customs duty as the benefit
+of concessional rate of customs duty is only available to the Owner. However, as per this agreement, the risk
+and liabilities accruing in relation to all those equipment shall remain with the Contractor till the completion
+of the Plant. After the setting up/ supply of the Plant, the risk and liabilities are shifted to the Owner.
+
+E. The Owner has undertaken an independent due diligence of the Contractor and based on such due-diligence,
+agreed to award this Contract for the Supply of Equipment (which in common trade parlance, are supplied
+together for setting up of solar power generating plant) and performance of Works so as to complement such
+Supply naturally bundled to provide an effective operating solar power generating system, in accordance with
+the terms and conditions set out herein, on a lump sum fixed price basis.
+
+ye Definitions
+
+1.1.18. “Contract” means this contract along with general conditions, the appendices and Schedules annexed hereto;
+1.1.20. “Contract Price” shall have its meaning under Clause 6.1;
+
+1.1.22. “Commissioning” means _the functional operation of Plant (including each unit thereof), following the
+
+installation and energization of Evacuation Infrastructure _to Grid Substation and Installation and
+energization of the Plant to the Evacuation Infrastructure, subsequently and the evacuation of power is
+
+possible from the Plant to the Grid Substation;
+
+1.1.23. “Commissioning Certificate” shall have its meaning under Clause 15.5;
+
+1.1.24. “Completion Certificate” shall have its meaning under Clause 15.4;
+
+1.1.39, “Equipment” shall mean and include all the equipment and Major Equipment (as defined later) along with
+its associated accessories, conductors, electrical cables, instruments, apparatus and other items/ equipment
+required to be supplied by the Contractor for completing and integrating the SPP, as per the Technical
+Specification, excluding Free Issue Equipment;
+
+1.1.43. “Execution Schedule” means the schedule of Supply of Equipment, construction, installation and
+Commissioning of the SPP as elaborated under the Schedule 4 (Execution Schedule);
+
+1.1.67. “Major Equipment(s)” means PV solar modules which is an assembly of solar cells that helps in converting
+
+solar power into electricity and all other Equipments specified in Schedule 3 (Contract Price and Payment
+
+Milestones) for facilitation of Payment under this Contract;
+
+“Plant” shall have its meaning under Recital B;
+
+.\\‘Plant Site” shall have its meaning under Recital B;
+
+unch List” shall have its meaning under Clause 15.6; Fee
+
+Punch List Completion” shall have its meaning under Clause 15.6; a
+
+'‘SPP” shall mean 60MWAC/ 81MWDC Solar Power Plant to be Supplied, installed and Commissioned ai
+
+Mthe Plant Site by the Contractor, which is forming part of the solar power generating system; :
+
+y “Supply” means supplying of Equipment to the Plant Site in accordance with the Technical Specification
+
+and the terms of this Contract, for the purposes of installation, testing and Commissioning as part of the
+
+Works; and the term “Supplied” shall be construed accordingly;
+
+. “Works” mean the work to be performed by the Contractor including mainly (not limited to) supply of the
+
+equipment and also ancillary activities of installation, testing and Commissioning of the Plant, as per the
+terms of this Contract;
+
+3. SCOPE OF THE CONTRACT
+
+The Contractor shall Supply all the Equipment as per the terms of this Contract and in accordance with the Execution
+Schedule, to the Plant Site and complete development, installation and Commissioning of the Works in accordance
+with Technical Specifications, Applicable Law, Applicable Permits and the terms of this Contract, in addition to the
+detailed drawings/ documents finalized during engineering. The detailed Scope of the Contract (including the Supply
+of Equipment and the performance of Works) is set out under Schedule 1.
+
+4.2. Obligations of Contractor
+
+The Contractor shall be obligated under this Contract in respect of the following:
+
+(i) design and engineering of the Plant as per the Schedule 2 (Technical Specifications);
+
+(ii) procure the Equipment’s as per the Schedule 4 (Execution Schedule) and the terms of this Contract;
+
+(iii) construction of civil structures or buildings as per the Schedule 2 (Technical Specifications) approved/agreed
+between the Parties;
+
+(vii) The Contractor shall be responsible for providing or causing the provision of skilled Personnel, skilled/unskilled
+labour, specialists/experts (in addition to provision of personal protective equipment and other facilities for
+health, safety and security to such persons, as per the Applicable Laws and Prudent Utility Practices, in addition
+to the training required by such persons for the performance of obligations), technicians, material, equipment,
+machinery, cranes, tools and tackles, etc., required for the execution and completion of the Scope of the Contract
+
+12
+
+
+and all equipment, machinery, items, materials, consumables, accessories, components, etc. as required for the
+safe development and Commissioning of the Works.
+
+(viii) The Contractor shall provide all required tools and instruments for installation, testing and Commissioning of
+the Plant.
+
+6.1. Contract Price and Advance
+
+(iii) The Contract Price shall be paid by the Owner in accordance with the Payment Milestones specified in the
+Schedule 3 (Contract Price and Payment Milestones); and shall include all costs and charges incurred towards
+performance of the Scope of the Contract and all obligations as set out under this Contract.
+
+6.5. Effect of Payment
+
+No payment of the Contract Price or part thereof made by the Owner, shall be deemed to constitute acceptance by
+the Owner of the performance of (any part or whole) of the Scope of Contract by the Contractor, and shall not
+relieve the Contractor of any of its obligations under this Contract, solely on the basis of such aforesaid payments
+being made by the Owner.
+
+6.6. Final Payment
+
+The Contractor expressly agrees that the final payment shall be released by the Owner only upon completion of the
+necessary obligations as set out in the final Payment Milestone as set out under Schedule 3 (Contract Price and
+Payment Milestones).
+
+7.4. Performance Bank Guarantee
+
+Upon Commissioning of the Plant, the Contractor shall provide an unconditional and irrevocable performance
+bank guarantee to the Owner for 5% (five percent) of the Contract Price from a nationalized or scheduled
+commercial bank (“PBG"’), with respect to the Contractor's Defects Liability obligations under this Contract, which
+shall be valid for a period of 1 (one) year from the date of Commissioning of the Plant. The Performance Guarantee
+shall be immediately payable on demand and the Owner shall have the right to drawdown the PBG to recover any
+amounts due and payable by the Contractor in accordance with the terms of this Contract.
+
+8. LETTER OF CREDIT
+8.1. The Owner shall furnish an LC for the payments agreed under the Payment Milestones as per the timeline
+
+specified below.
+\SL_No- Milestone Payment Due Date for furnishing LC
+U Prior to dispatch of Major Components from Ex-Works on a pro-rata basis (40%) (5 days prior to dispatch of 1st lot of material to site
+2 Delivery of major components at the Plant Site on a pro-rata basis (40%) 15 days prior to dispatch of 1st lot of material to site
+B ‘Commissioning of Relevant MW Size of Plant_(4%) 15 days prior to SCOD
+Ly Punch List Completion of Plant (1%) 75 days prior to SCOD
+
+ost AONANE Rug REE ISSUE EQUIPMENTS
+
+OE Owner___agree to provide Free Issue Material as___agreed between the Parties. The said material
+woul Be over and above the Plant being supplied by the Contractor under this contract. The Parties would identify
+an Me such Free issue Material in an annexure as and when such case arises and the same would form part of
+this on ‘act
+
+12, SUI ‘CONTRACTING
+
+A APY 4 The Contractor shall have right to sub-contract part of its obligations under this Contract, with the approval
+hgtthe Owner, provided, if the vendors sub-contracted is not reflecting in the list set out in Schedule 13 (List of
+
+“Approved Vendors). In this regard, the Contractor ___ only sub-contract its obligations (in respect of Supply of
+
+~ Equipment) under this Contract to one of the pre-approved Sub-Contractors as set out under Schedule 13 (List of
+
+Approved Vendors).
+
+14.1. Time Schedule
+
+The Owner and the Contractor agrees that the time is of essence of this Contract and subject to the terms of this
+Contract, the Contractor shall execute the entire scope of Works to achieve Commissioning as per the below schedule
+(“Scheduled Commercial Operation Date/ SCOD”):
+
+(a) 20 MW by on or before sand
+(b) 40 MW by on or before
+
+15.5. Commissioning
+(i) | Upon being ready for Commissioning, the Contractor shall provide the Owner or the Owner's Representative,
+5 (five) Business Days' written notice for being present at the Commissioning (“Notice of Commissioning”). In
+this regard, the following shall be the pre-requisites for achievement of Commissioning:
+(a) successful installation, testing and Commissioning including generation of electrical energy and
+charging of 100% DC capacity of Relevant MW size of the Plant;
+(b) the Plant is mechanically and electrically completed meeting minimum functional, technical and safety
+requirements;
+(c) the data acquisition system has been commissioned and able to log data as required by the utility;
+(d) that the Plant has been continuously running for a minimum period of 3days except for minor faults
+and Grid non- availability.
+(ii) Upon receipt of the Notice of Commissioning, the Owner or Owner's Representative shall remain available for
+witnessing Commissioning. Upon inspection of the Commissioning, the Owner shall either:
+
+13
+
+
+(a) endorse the commissioning certificate (“Commissioning Certificate”) certifying that the Works (or the
+Works in respect of any particular unit of the Plant) is Commissioned, as per the format in Schedule 9; or
+
+(b) notify the Contractor in writing, detailing the shortfall or Defect and/or deficiencies within 5 (five) days
+thereof.
+
+(iii) In the event that if the Owner discovers any Defect during the Commissioning of the Plant and furnishes a notice
+
+as per Clause 15.5(ii)(b), Contractor shall, promptly correct/ rectify the Defects detailed in Owner's notice by
+repairing or rectifying the said Defects within 5 (Five) days and notify the Owner detailing the corrective or
+remedial actions undertaken with respect thereto. The Owner___within 5 (five) days of receipt of such notice,
+re-inspect such Commissioning and:
+(i) approve the milestone relating to Commissioning or the SPP; or (ii) in case of the Owner finding that the
+earlier discovered Defect is not been repaired/rectified effectively, provide another notice to the Contractor
+with respect to the defect, in which case the Contractor shall accept such Defect, correct/ rectify the Defect and
+which processes shall continue to apply mutatis mutandis until such Commissioning of SPP is approved by the
+Owner.
+
+(iv) If Owner or its representative is not available for inspection at the Plant Site within the said notice period or
+fails to communicate as per Clause 15.5(ii),(b) above or the Grid is not available for Commissioning the SPP:
+(i) 50% of the milestone payment shall be due within 7 days and balance 50% of the milestone payment shall
+be due on 30" , in such event, the Contractor shall issue a self-endorsed Commissioning Certificate
+(“Deemed Commissioning Certificate”), as per the Schedule 9 for facilitating the milestone payment under the
+LC. However, Deemed Commissioning Certification shall not relieve the Contractor from its Obligations for
+Commissioning of SPP as per Technical Specification
+
+15.6. Punch List and Completion
+
+(i) Parties shall within 15 (fifteen) Business Days from the date of Commissioning of the Entire SPP, jointly prepare
+
+a punch list of the outstanding items/works to be performed by the Contractor as per the Technical Specification
+(“Punch List”). The Contractor shall perform all the Punch List within 30(thirty) Business Days of the finalising
+the Punch List or the timeline mutually agreed and notify the Owner of such rectification and/or completion
+(“Punch List Completion”). It is hereby clarified that the Punch List shall not comprise any such items or Works
+the lack of completion of which would prevent the operation and function of the Plant as envisaged under the
+terms of this Contract and/or which would prevent the achievement of Functional Guarantees.
+
+(ii) The Owner shall within 10 (ten) Business Days of receipt of notice under Clause 15.6 (i) from the Contractor,
+
+inspect and verify that all items in the Punch List have been duly completed by the Contractor as per Technical
+
+Specifications and terms of this Contract. In the event that the Owner notifies any Defect or any failure in
+
+<jmplementing any Punch List item, then the Contractor shall promptly rectify such Defect or carry out the item
+
+What it confirms to Technical Specification and terms of this Contract. If that the Punch List items have been
+
+\ eclified and/or completed, the Owner shall within 7 (seven) Business Days thereafter endorse the punch list
+
+\cémpletion certificate (“Punch List Completion Certificate”), as per the format in Schedule 10. The date of
+eridlotsement of the Punch List Completion Certificate shall be the date when the SPP is finally accepted by the
+Owner (“Final Acceptance Date”). However, if the Punch List items have not been completed within the
+
+/ aforesaid time period, the Contractor shall be required to complete the same within 15 (fifteen) Business Days
+
+fa notice to this effect issued by the Owner detailing the deficiencies in completion of the Punch List items by
+
+a > the Contractor.
+
+" (iii) If the Owner fails to inspect the relevant Punch List after rectification or fails either to endorse the Punch List
+Completion Certificate or provide Contractor with the list of Punch List items not rectified within the period of
+15 (fifteen) Business Days as per the Clause 15.5(i) or the Grid is not available for Commissioning the SPP on
+or before , in such event, the Contractor shall issue a self-endorsed Punch List Completion Certificate
+(“Deemed Punch List Completion Certificate”) as per the Schedule 10 for facilitating the relevant milestone
+payment under the LC. However, Deemed Punch List Completion Certification shall not relieve the Contractor
+Jrom its Obligations for resolving and closing the Punch List with the Owner.
+
+16.1, Delay Liquidated Damages
+
+(a) In the event of delay in achievement of Commissioning by the SCOD, the Contractor shall pay Liquidated
+Damage at the rate 0.25% (zero point two five percent) of the Contract Price, exclusive of Taxes, of the delayed MW
+per week, till___. However, if the SCOD of the SPP is not achieved on or before__, Contractor shall be liable to
+pay a onetime Liquidated Damage of 5% of the total Contract Price, exclusive of Taxes
+
+(“Delay Liquidated Damages/ DLD”).
+
+16.4. Contractor’s Obligations
+
+The payment of Liquidated Damages by the Contractor in terms of this Clause does not in any way relieve the
+Contractor from any of its duties, obligations and responsibilities under this Contract and shall be without prejudice
+to any other rights available to the Owner under this Contract.
+
+20. RISKS AND LIABILITIES
+
+20.1. The risk and liabilities pertaining to all the equipment provided and to the development, design,
+procurement, supply, development, construction, testing and commissioning of the Plant shall be borne by the
+Contractor till the completion of the Plant. This is notwithstanding the fact that the document in title of the
+equipment imported and supplied is directly transferred to the Owner by way of High Seas Sale, or the other
+
+14
+
+
+equipment domestically supplied by the Contractor are priced separately under this contract for commercial
+convenience, but the risk and liabilities accruing in relation to all those equipment shall remain with the
+Contractor till the completion of the Plant.
+
+20.2. After the completion of the Plant, the risk and liabilities shall shift to the Owner after completion certificate is
+duly issued.
+
+22.1. Risk, Custody and Care
+
+All risk of the Contractor in the Equipment’s, Work and SPP shall stand transferred to the Owner from and upon
+Commissioning of the Relevant MW size of the Plant. However, Contractor shall be responsible for any damage in
+Equipment (excluding Free issue Material), Work and Plant due to any act by the Contractor or its representatives
+till Punch List Completion.
+
+22.2. Title Transfer
+
+All the risk and title of the Contractor in the Equipment and the Plant (forming part of the Supply), including every
+proprietary interest in the Equipment, shall be transferred to the Owner upon Commissioning of the Plant.
+
+SCHEDULE 1
+
+SCOPE OF WORK
+
+The Contractor would be responsible for Supply of Equipment and undertake all necessary activities ancillary to
+such supplies (such as erection, civil work etc) to ensure complete supply of Solar Power Plant.
+
+Both parties agree that of the total supplies, the most critical part of the Plant are the supply of the mounted PV
+Module which constitute 60%-70% of the total contract value. Further, it is also agreed that the Contractor is
+responsible for the whole of the contract that is for setting-up/ supply of the Plant.
+
+For the purpose of undertaking compliances under Laws constituted in India, the parties may agree to define prices
+of the equipment to be supplied as part of the contract. The same shall not in any manner exceed the lump sum price
+agreed between the Parties and also does not in any manner dilute the responsibility of the Contractor.
+
+As can be seen, the owner expects the contractor i.e the applicant to perform all activities
+from engineering, design to procurement of the materials and also perform the testing and
+commissioning. In contracts of such a nature, the liability of the contractor doesn’t end with the
+procuring of materials but it extends till the successful testing and commissioning of the system.
+
+The transaction is a ‘works contract’ but it is for us to decide whether it is a ‘works contract’ in
+
+of the GST Act. So, we come to the crux of the issue and which is as to whether the
+
+GNANCE UL,
+ay,
+man rane n results into any immovable property. The term ‘immovable property’ has not been
+
+der the GST Act. However, there are a plethora of judgments of the Hon. Supreme
+the Hon. High Courts which have helped understand the term ‘immovable property’.
+decision is of the T.T.G. Industries Ltd. v. CCE, (2004) 4 SCC 751. We would first
+
+“2. The facts of the case are not in dispute. The appellant Company pursuant to the acceptance of its tender, entered
+into an agreement with M/s SAIL, Bhilai Steel Plant for design, supply, supervision of erection and commissioning of
+four sets of hydraulic mudguns and tap hole-drilling machines required for Blast Furnaces Nos. 4 and 6 of Bhilai
+Steel Plant. For this purpose, it imported several components and also manufactured some of the components at their
+factory in Marai Malai Nagar, Chennai. These components were transported to the site at Bhilai where the
+manufacture and commissioning of the aforesaid machines took place. It is undisputed that duty was paid in respect
+of the components manufactured at its workshop in Chennai, but no duty was paid on manufacture of the aforesaid
+mudguns and drilling machines which were erected and commissioned on site.”
+
+We can now look at how the judgment has been delivered -
+
+“8. In their reply to the show-cause, the respondents explained the processes involved, the manner in which the
+equipments were assembled and erected as also their specifications in terms of volume and weight. It was explained
+that the function of the drilling machine is to drill hole in the blast furnace to enable the molten steel to flow out of
+the blast furnace for collection in ladles for further processing. After the molten material is taken out of the blast
+furnace, the hole in the wall of the furnace has to be closed by spraying special clay. This function is performed by
+the mudgun which is brought to its position and locked against the wall for exerting a force of 240-300 tons to fill up
+the hole in the furnace. The blast furnace in which the inputs are loaded is a massive vessel of 1719-cubic-metre
+capacity and the size of its outer diameter is 10.6 metres, and the height 31.25 metres. Hot air at 1200 degrees
+centigrade is fed into the blast furnace at various levels to melt the raw materials. With a view to protect the shell
+
+15
+
+
+against heat, the blast furnace is lined with refractory brick of one-metre thickness. Thus, the drilling machine has to
+drill a hole through one-metre thickness of the refractory brick lining. The drilling machine as well as the mudgun
+are erected on a concrete platform described as the cast house floor which is in the nature of a concrete platform
+around the furnace. The cast house floor is at a height of 25 feet above the ground level. On this platform concrete
+foundation intended for housing drilling machine and mudgun are erected. The concrete foundation itself is 5-feet
+high and it is grouted to earth by concrete foundation. The first step is to secure the base plate on the said concrete
+platform by means of foundation bolts. The base plate is 80 mm mild sheet of about 5 feet diameter. It is welded to
+the columns which are similar to huge pillars. This fabrication activity takes place in the cast house floor at 25 feet
+above ground level. After welding the columns, the base plate has to be secured to the concrete platform. This is
+achieved by getting up a trolley way with high beams in an inclined posture so that base plate could be moved to the
+concrete platform and secured. The same trolley helps in the movement of various components to their determined
+position. The various components of the mudgun and drilling machine are mounted piece by piece on a metal frame,
+which is welded to the base plate. The components are stored in a storehouse away from the blast furnace and are
+brought to site and physically lifted by a crane and landed on the cast house floor 25-feet high near the concrete
+platform where drilling machine and mudgun have to be erected. The weight of the mudgun is approximately 19 tons
+and the weight of the drilling machine approximately 11 tons. The volume of the mudgun is 1.5 x 4.5 * 1 metre and
+that of the drilling machine 1 x 6.5 x 1 metre. Having regard to the volume and weight of these machines, there is
+nothing like assembling them at ground level and then lifting them to a height of 25 feet for taking to the cast house
+floor and then to the platform over which it is mounted and erected. These machines cannot be lifted in an assembled
+condition.
+10. The judicial member noticing these facts observed that it is a physical and engineering impossibility to assemble
+mudguns or the tap hole-drilling machines elsewhere in a fully assembled condition and thereafter erect or install
+the same at a height of 25 feet on the cast floor of the blast furnace. She found that even the adjudicating authority
+conceded the fact that the equipments have to be assembled/erected on the base frame projection of the furnace. She
+also accepted the submission urged on behalf of the appellant that if the machines are to be removed from the blast
+furnace, they have to be first dismantled into parts and brought down to the ground only by using cranes and trolley
+ways considering the size, and also considering the fact that there is no space available for moving the machines in
+assembled condition due to their volume and weight. She considered the authorities on the subject and came to the
+conclusion that erection of mudgun and tap hole-drilling machine results in erection of immovable property. She
+noticed the judgment of this Court in Narne Tulaman Manufacturers (P) Ltd. [(1989) 1 SCC 172 : 1989 SCC (Tax)
+64 : (1988) 38 ELT 566 : 1988 Supp (3) SCR 1] and also noticed the judgment of the Tribunal in Gwalior Rayon Silk
+. (Wvg.) Co. Ltd. v. CCE [(1993) 65 ELT 121 (cegat)] which held that the issue of immovable property was never
+before the Supreme Court in Narne Tulaman Manufacturers (P) Ltd. [(1989) 1 SCC 172 : 1989 SCC (Tax) 64
+38 ELT 566 : 1988 Supp (3) SCR 1] She found support for her conclusion in the decision of this Court
+a ipal Corpn. of Greater Bombay v. Indian Oil Corpn. Ltd. [1991 Supp (2) SCC 18] and held that.the twin
+aiddown 1 by this Court to determine whether oo would result in immovable property or not were
+
+oN VANCE pg r)
+
+a:
+
+_~ tppPal even according to the finding of the Collector, mudguns and tap hole-drilling machines have to be dismantled and
+wisaSsembled from the cast floor before being erected or assembled elsewhere. We have also arrived at the same conclusion
+dependently, in para 10 above. Accordingly applying the test laid down by the Supreme Court we hold that the erection and
+installation of mudguns and tap hole-drilling machines result in immovable property. In the light of the ratio of the above case-
+law, we hold that the mudguns and tap hole-drilling machines do not admit of the definition of goods and, therefore, excise duty
+is not leviable thereon.”
+
+18. The core question that still survives for consideration is whether the processes undertaken by the appellant at
+Bhilai for the erection of mudguns and drilling machines resulted in the emergence of goods leviable to excise
+duty or whether it resulted in erection of immovable property and not “goods”.
+
+21. The appellant has placed considerable reliance on the principles enunciated and the test laid down by this Court
+in Municipal Corpn. of Greater Bombay [1991 Supp (2) SCC 18] to determine what is immovable property. In that
+case the facts were that the respondent had taken on lease land over which it had put up, apart from other structures
+and buildings, six oil tanks for storage of petrol and petroleum products. Each tank rested on a foundation of sand
+having a height of 2 feet 6 inches with four inches thick asphalt layers to retain the sand. The steel plates were spread
+on the asphalt layer and the tank was put on the steel plates which acted as bottom of the tanks which rested freely
+on the asphalt layer. There were no bolts and nuts for holding the tanks on to the foundation. The tanks remained in
+position by their own weight, each tank being about 30 feet in height, 50 feet in diameter, weighing about 40 tons.
+
+The tanks were connected with pump house with pipes for pumping petroleum products into the tank and sending
+them back to the pump house. The question arose in the context of ascertaining the rateable value of the structures
+under the Bombay Municipal Corporation Act. The High Court held that the tanks are neither structure nor a building
+nor land under the Act. While allowing the appeal this Court observed: (SCC p. 33, para 32)
+
+“32. The tanks, though, are resting on earth on their own weight without being fixed with nuts and bolts, they have permanently
+been erected without being shifted from place to place. Permanency is the test. The chattel whether is movable to another place of
+use in the same position or liable to be dismantled and re-erected at the latter place? If the answer is yes to the former it must be
+a movable property and thereby it must be held that it is not attached to the earth. If the answer is yes to the latter it is attached to
+the earth.”
+
+16
+
+
+22. Applying the permanency test laid down in the aforesaid decision, counsel for the appellant contended that having
+regard to the facts of this case which are not in dispute, it must be held that what emerged as a result of the processes
+undertaken by the appellant was an immovable property. It cannot be moved from the place where it is erected as it
+is, and if it becomes necessary to move it, it has first to be dismantled and then re-erected at another place. This
+factual position was also accepted by the adjudicating authority.
+
+23. The technical member, however, held that the aforesaid decision was of no help to the appellant inasmuch as a
+leading international manufacturing firm had offered such machines for export to different parts of the world. He
+further observed that though on account of their size and weight, it may be necessary to shift or transport them in
+parts for assembly and erection at the site in the steel plant, they must nevertheless be deemed as individual machines
+having specialised functions. We are not impressed by this reasoning, because it ignores the evidence brought on
+record as to the nature of processes employed in the erection of the machine, the manner in which it is installed
+and rendered functional, and other relevant facts which may lead one to conclude that what emerged as a result
+was not merely a machine but something which is in the nature of being immovable, and if required to be moved,
+cannot be moved without first dismantling it, and then re-erecting it at some other place. Some of the other
+decisions which we shall hereafter notice clarify the position further.
+
+24. In Quality Steel Tubes (P) Ltd. v. CCE [(1995) 2 SCC 372 : (1995) 75 ELT 17] the facts were that a tube mill
+and welding head were erected and installed by the appellant, a manufacturer of steel pipes and tubes, by purchasing
+certain items of plant and machinery in market and embedding them to earth and installing them to form a part of
+the tube mill and purchasing certain components from the market and assembling and installing them on the site to
+Sorm part of the tube mill which was also covered in the process of welding facility. After noticing several decisions
+of this Court, the Court observed that the twin tests of exigibility of an article to duty under the Excise Act are that it
+must be a goods mentioned either in the Schedule or under Item 68 and must be marketable. The word “goods”
+applied to those which can be brought to market for being bought and sold and therefore, it implied that it applied
+to such goods as are movable. It noticed the decisions of this Court laying down the marketability tests. Thereafter
+this Court observed: (SCC p. 376, para 5)
+
+“The basic test, therefore, of levying duty under the Act is twofold. One, that any article must be goods and second, that it should
+be marketable or capable of being brought to market. Goods which are attached to the earth and thus become immovable and do
+not satisfy the test of being goods within the meaning of the Act nor it can be said to be capable of being brought to the market
+for being bought and sold. Therefore, both the tests, as explained by this Court, were not satisfied in the case of appellant as the
+tube mill or welding head having been erected and installed in the premises and embedded to earth ceased to be goods within
+meaning of Section 3 of the Act.”
+
+25. In Mittal Engg. Works (P) Ltd. v. CCE [(1997) 1 SCC 203 : (1996) 88 ELT 622] this Court was concerned with
+the exigibility to duty of mono vertical crystallisers which are used in sugar factories to exhaust molasses of sugar.
+The material on record described the functions and manufacturing process. A mono vertical crystalliser is fixed on
+id RCC slab having a load-bearing capacity of about 30 tons per square metre. It is assembled at site in different
+ind consists of bottom plates, tanks, coils, drive frames, supports, plates, etc. The aforesaid parts were
+the premises of the appellants and the mono vertical crystalliser was assembled and erected at site. The
+
+tavylved welding and gas-cutting. The mono vertical crystalliser is a tall structure, rather like a tower with
+platfc 2 its summit. This Court noticed that marketability was a decisive test for dutiability. It meant that the
+ene) saleable or suitable for x sale, that is to say, they should be capable of being sold to consumers in the
+
+‘aning of the Act was neither raised nor decided in that case. After at a the material placed on the
+“Fecord it was held that the mono vertical crystalliser has to be assembled, erected and attached to the earth by a
+foundation at the site of the sugar factory. It is not capable of being sold as it is, without anything more. This Court,
+therefore, concluded that mono vertical crystallisers are not “goods” within the meaning of the Act and, therefore,
+not exigible to excise duty. In Triveni Engg. & Industries Ltd. v. CCE [(2000) 7 SCC 29 : (2000) 120 ELT 273] a
+question arose regarding excisability of turbo alternator. In the facts of that case, it was held that installation or
+erection of turbo alternator on a concrete base specially constructed on the land cannot be treated as a common
+base and, therefore, it follows that installation or erection of turbo alternator on the platform constructed on the
+land would be immovable property, as such it cannot be an excisable goods falling within the meaning of Heading
+85.02. In reaching this conclusion this Court considered the earlier judgments of this Court in Municipal Corpn. of
+Greater Bombay [1991 Supp (2) SCC 18] , Quality Steel Tubes [(1995) 2 SCC 372 : (1995) 75 ELT 17] and Mittal
+Engg. Works (P) Ltd. [(1997) I SCC 203 : (1996) 88 ELT 622] as also the earlier judgment of this Court in Sirpur
+Paper Mills Ltd. v. CCE [(1998) 1 SCC 400 : (1998) 97 ELT 3] . This Court observed: (SCC pp. 35-36, para 14)
+“14. There can be no doubt that if an article is an immovable property, it cannot be termed as ‘excisable goods’ for purposes of
+the Act. From a combined reading of the definition of ‘immovable property’ in Section 3 of the Transfer of Property Act, Section
+3(26) of the General Clauses Act, it is evident that in an immovable property there is neither mobility nor marketability as
+understood in the excise law. Whether an article is permanently fastened to anything attached to the earth requires determination
+of both the intention as well as the factum of fastening to anything attached to the earth. And this has to be ascertained from the
+facts and circumstances of each case.”
+26. It was also held that the decision of this Court in Sirpur Paper Mills Ltd.[(1998) 1 SCC 400 : (1998) 97 ELT 3]
+must be viewed in the light of the findings recorded by CEGAT therein, that the whole purpose behind attaching the
+machine to a concrete base was to prevent wobbling of the machine and to secure maximum operational efficiency
+
+17
+
+
+and also safety. In view of those findings it was not possible to hold that the machinery assembled and erected by
+
+the appellant at its factory site was immovable property as something attached to the earth like a building or a tree.
+
+27. Keeping in view the principles laid down in the judgments noticed above, and having regard to the facts of this
+case, we have no doubt in our mind that the mudguns and the drilling machines erected at site by the appellant on
+a specially made concrete platform at a level of 25 feet above the ground on a base plate secured to the concrete
+platform, brought into existence not excisable goods but immovable property which could not be shifted without
+first dismantling it and then re-erecting it at another site. We have earlier noticed the processes involved and the
+manner in which the equipments were assembled and erected. We have also noticed the volume of the machines
+concerned and their weight. Taking all these facts into consideration and having regard to the nature of structure
+erected for basing these machines, we are satisfied that the judicial member of CEGAT was right in reaching the
+conclusion that what ultimately emerged as a result of processes undertaken and erections done cannot be described
+as “goods” within the meaning of the Excise Act and exigible to excise duty. We find considerable similarity of facts
+of the case in hand and the facts in Mittal Engg. [(1997) 1 SCC 203 : (1996) 88 ELT 622] and Quality Steel
+Tubes [(1995) 2 SCC 372 : (1995) 75 ELT 17] and the principles underlying those decisions must apply to the facts
+of the case in hand. It cannot be disputed that such drilling machines and mudguns are not equipments which are
+usually shifted from one place to another, nor is it practicable to shift them frequently. Counsel for the appellant
+submitted before us that once they are erected and assembled they continue to operate from where they are
+positioned till such time as they are worn out or discarded. According to him they really become a component of the
+plant and machinery because without their aid a blast furnace cannot operate. It is not necessary for us to express
+any opinion as to whether the mudguns and the drilling machines are really a component of the plant and machinery
+of the steel plant, but we are satisfied that having regard to the manner in which these machines are erected and
+installed upon concrete structures, they do not answer the description of “goods” within the meaning of the term in
+the Excise Act.
+
+Thus, it can be seen that the Hon. Supreme Court while holding the machines as
+immovable property took into account facts such that the machines could not be shifted without
+first dismantling it and then re-erecting it at another site. It was also sought to distinguish as to
+how a concrete base meant just to prevent wobbling of the machine would not place the machine
+
+in the category of ‘immovable property’ as something attached to the earth.
+
+We would also look at the decision of the Hon. Supreme Court in the case of
+
+sioner of Central Excise, Ahmedabad v. Solid and Correct Engineering Woe i2p10) §
+
+]. The facts in this case were thus - m, s
+
+«x ‘Mi Solid and Correct Engineering Works, M/s Solid Steel Plant Manufacturers and M/s Solmec Earthmovers
+
+ent are partnership concerns engaged in the manufacture of parts and components for road and civil
+
+= © caxstruction machinery and equipments like asphalt drum/hot mix plants and asphalt paver machines, etc. M/s Solex
+
+“== Electronics Equipments is, however, a proprietary concern engaged in the manufacture of electronic control panel
+
+boards. It is not in dispute that the three partnership concerns mentioned above are registered with the Central Excise
+Department nor is it disputed that the proprietary concern is a small-scale industrial unit that is availing exemption
+from payment of duty in terms of the relevant exemption notification.
+4. M/s Solidmec Equipments Ltd. (hereinafter referred to as “Solidmec”, for short), the fifth unit with which we are
+concerned in the present appeals is a marketing company engaged in the manufacture of asphalt drum/hot mix plants
+at the sites provided by the purchasers of such plants. It is common ground that Solidmec advertises its products and
+undertakes contracts for supplying, erection, commissioning and after-sale services relating thereto, It is also
+admitted that all the five concerns referred to above are closely held by Shri Hasmukhbhai, his brothers and the
+members of their families.
+5. An inspection of the factories of the respondents by a team of officers from the Central Excise, Preventing Wing,
+Headquarters, Ahmedabad, led to the issue of a notice dated 30-11-1999 to the four manufacturing units as well as
+to Solidmec calling upon them to show cause why the amounts mentioned in the said notice be not recovered from
+them towards Central excise duty. The notice accused the four manufacturing units of having wrongly declared and
+classified parts and components being manufactured by them as complete plants/systems, even when they were merely
+parts and components and not machines or plants functional by themselves. The erroneous classification and
+declaration was, according to the notice, intended to avoid payment of higher rate of duty applicable to parts of such
+plants and machinery at the material point of time. The notice also pointed out that the units manufacturing parts and
+components of the plants had availed benefit of exemption wrongly and in breach of the provisions of Rules 9(1) and
+173-F and other rules regulating the grant of such benefit.
+6. Insofar as Solidmec marketing company was concerned, the show-cause notice alleged that Solidmec was engaged
+in the manufacturing of asphalt batch mix and drum mix/hot mix plants by assembling and installing the parts and
+
+18
+
+
+components manufactured by the manufacturing units of the group. According to the notice the process of assembly
+of the parts and components at the site provided by the purchasers of such plants was tantamount to manufacture of
+such plants as a distinct product with a new name, quality, usage and character emerged out of the said process.
+
+Resultantly, the end product, namely, asphalt drum/hot mix plants became exigible to Central excise duty, which duty
+Solidmec had successfully avoided. The notice also proposed to levy penalties upon all the five concerns under
+appropriate provisions of the Central Excise Act.”
+
+The Hon. Court has very elaborately dealt with the issue and it would be useful to go
+through the observations -
+
+“22. Section 3 of the Transfer of Property Act, 1882 does not spell out an exhaustive definition of the expression
+“immovable property”. It simply provides that unless there is something repugnant in the subject or context,
+“immovable property” under the Transfer of Property Act, 1882 does not include standing timber, growing crops or
+grass. Section 3(26) of the General Clauses Act, 1897 similarly, does not provide an exhaustive definition of the said
+expression. It reads:
+“3. (26) ‘immovable property’ shall include land, benefits to arise out of land, and things attached to the earth, or
+permanently fastened to anything attached to the earth;”
+23. It is not the case of the respondents that plants in question are per se immoveable property. What is argued is
+that they become immovable as they are permanently imbedded in earth in as much as they are fixed to a
+foundation imbedded in earth no matter only 1= feet deep. That argument needs to be tested on the touch stone of
+the provisions referred to above.
+24. Section 3(26) of the General Clauses Act includes within the definition of the term "immovable property” things
+attached to the earth or permanently fastened to anything attached to the earth. The term “attached to the earth”;
+has not been defined in the General Clauses Act, 1897. Section 3 of the Transfer of Property Act, however, gives the
+following meaning to the expression “attached to the earth”:
+(a) rooted in the earth, as in the case of trees and shrubs;
+(b) imbedded in the earth, as in the case of walls and buildings;
+(c) attached to what is so imbedded for the permanent beneficial enjoyment of that to which it is attached.”
+25. It is evident from the above that the expression “attached to the earth” has three distinct dimensions, viz. (a)
+rooted in the earth as in the case of trees and shrubs (b) imbedded in the earth as in the case of walls or buildings or
+(c) attached to what is imbedded for the permanent beneficial enjoyment of that to which it is attached. Attachment
+of the plant in question with the help of nuts and bolts to a foundation not more than 1= feet deep intended to provide
+stability to the working of the plant and prevent vibration/wobble free operation does not qualify for being described
+as attached to the earth under any one of the three clauses extracted above. That is because attachment of the plant
+the foundation is not comparable or synonymous to trees and shrubs rooted in earth. It is also not synonymous to
+nce, ing in earth of the plant as in the case of walls and buildings, for the obvious reason that a building imbedded
+aad inthis ‘h is permanent and cannot be detached without demolition. Imbedding of a wall in the earth is also in no
+able to attachment of a plant to a foundation meant only to provide stability to the plant especially
+attachment is not permanent and what is attached can be easily detached from the foundation. So also
+t of the plant to the foundation at which it rests does not fall in the third category, for an attachment to
+tegory it must be for permanent beneficial enjoyment of that to which the plant is attached.
+SM i 's case that the attachment of the plant to the foundation is meant for permanent beneficial enjoyment of
+. either | thefoundation or the land in which the same is imbedded.
+26,08) fglish law the general rule is that what is annexed to the freehold becomes part of the realty under the maxim
+id@quid plantatur solo, solo cedit. This maxim, however, has no application in India, Even so, the question whether
+a chattel is imbedded in the earth so as to become immovable property is decided on the same principles as those
+which determine what constitutes an annexation to the land in English law. The English law has evolved the twin tests
+of degree or mode of annexation and the object of annexation.
+27. In Wake V. Halt (1883) 8 App Cas 195 Lord Blackburn speaking for the Court of Appeal observed:
+“The degree and nature of annexation is an important element for consideration; for where a chattel is so annexed that it
+cannot be removed without great damage to the land, it affords a strong ground for thinking that it was intended to be annexed
+in perpetuity to the land.”
+28. The English law attaches greater importance to the object of annexation which is determined by the circumstances
+of each case. One of the important considerations is founded on the interest in the land wherein the person who causes
+the annexation possesses articles that may be removed without structural damage and even articles merely resting
+on their own weight are fixtures only if they are attached with the intention of permanently improving the premises.
+29. The Indian law has developed on similar lines and the mode of annexation and object of annexation have been
+applied as relevant test in this country also. There are cases where machinery installed by monthly tenant was held
+to be moveable property as in cases where the lease itself contemplated the removal of the machinery by the tenant
+at the end of the tenancy. The mode of annexation has been similarly given considerable significance by the courts in
+this country in order to be treated as fixture. Attachment to the earth must be as defined in Section 3 of the Transfer
+of Property Act. For instance a hut is an immovable property, even if it is sold with the option to pull it down. A
+mortgage of the super structure of a house though expressed to be exclusive of the land beneath, creates an interest
+in immovable property, for it is permanently attached to the ground on which it is built.
+
+19
+
+
+30. The courts in this country have applied the test whether the annexation is with the object of permanent beneficial
+enjoyment of the land or building. Machinery for metal-shaping and electro-plating which was attached by bolts to
+special concrete bases and could not be easily removed, was not treated to be a part of structure or the soil beneath
+it, as the attachment was not for more beneficial enjoyment of either the soil or concrete. Attachment in order to
+qualify the expression attached to the earth, must be for the beneficial attachment of that to which it is attached.
+Doors, windows and shutters of a house are attached to the house, which is imbedded in the earth. They are attached
+to the house which is imbedded in the earth for the beneficial enjoyment of the house. They have no separate existence
+from the house. Articles attached that do not form part of the house such as window blinds, and sashes, and
+ornamental articles such as glasses and tapestry fixed by tenant, are not affixtures.
+
+31. Applying the above tests to the case at hand, we have no difficulty in holding that the manufacture of the plants
+in question do not constitute annexation hence cannot be termed as immovable property for the following reasons:
+(i) The plants in question are not per se immovable property.
+
+(ii) Such plants cannot be said to be “attached to the earth” within the meaning of that expression as defined in
+Section 3 of the Transfer of Property Act.
+
+(iii) The fixing of the plants to a foundation is meant only to give stability to the plant and keep its operation vibration
+Sree.
+
+(iv) The setting up of the plant itself is not intended to be permanent at a given place. The plant can be moved and
+is indeed moved after the road construction or repair project for which it is set up is completed.”
+
+It can be seen that the Hon. Supreme Court has reiterated the same principles as were
+seen in the earlier decision of T.T.G. Industries Ltd. v. CCE (cited supra). The Hon. Court
+
+observed that the expression “attached to the earth” has three distinct dimensions - (a) rooted in the
+earth as in the case of trees and shrubs (b) imbedded in the earth as in the case of walls or buildings or (c) attached to what is
+
+imbedded for the permanent beneficial enjoyment of that to which it is attached. It has been categorically observed
+that the attachment of the plant to the foundation at which it rests does not fall in the third
+category [attached to what is imbedded for the permanent beneficial enjoyment of that to which it is attached], for the
+reason that an attachment to fall in the third category it must be for permanent beneficial
+
+joyment of that to which the plant is attached. The Hon. Court even went on to distinguish
+
+cord with approval earlier decisions on the issue of ‘immovable property’. We may have
+
+the same, too. Ze
+
+°
+ORE Ini ur Paper Mills Ltd. [(1998) 1 SCC 400] this Court was dealing with a near similar situation as in the
+preseptffase. The question there was whether the paper machine assembled at site mainly with the help of components
+_ bought from the market was dutiable under the Central Excise Act, 1944. The argument advanced on behalf of the
+~ .i8SesSee was that since the machine was embedded in a concrete base the same was immovable property even when
+the embedding was meant only to provide a wobble free operation of the machine. Repelling that contention this
+Court held that just because the machine was attached to earth for a more efficient working and operation the same
+did not per se become immovable property.
+34, The Court observed: (Sirpur Paper Mills Ltd. case [(1998) | SCC 400] , SCC p. 402, para 5)
+“5. Apart from this finding of fact made by the Tribunal, the point advanced on behalf of the appellant, that whatever is
+embedded in earth must be treated as immovable property is basically not sound. For example, a factory owner or a
+householder may purchase a water pump and fix it on a cement base for operational efficiency and also for security. That will
+not make the water pump an item of immovable property. Some of the components of the water pump may even be assembled
+on site. That too will not make any difference to the principle. The test is whether the paper-making machine can be sold in
+the market. The Tribunal has found as a fact that it can be sold. In view of that finding, we are unable to uphold the contention
+of the appellant that the machine must be treated as a part of the immovable property of the Company. Just because a plant
+and machinery are fixed in the earth for better functioning, it does not automatically become an immovable property.”
+38. Reliance was placed by Mr Bagaria upon the decision of this Court in Quality Steel Tubes (P) Ltd. v. CCE [(1995)
+2 SCC 372 : (1995) 75 ELT 17] and Mittal Engg. Works (P) Ltd. v. CCE [(1997) 1 SCC 203 : (1996) 88 ELT 622] .
+In Quality Steel Tubes (P) Ltd. case [(1995) 2 SCC 372 : (1995) 75 ELT 17] this Court was examining whether “the
+tube mill and welding head” erected and installed by the assessee for manufacture of tubes and pipes out of duty-
+paid raw material was assessable to duty under residuary Tariff Item 68 of the Schedule being excisable goods.
+Answering the question in negative this Court held that tube mill and welding head erected and installed in the
+premises and embedded to earth ceased to be goods within the meaning of Section 3 of the Act as the same no longer
+remained movable goods that could be brought to market for being bought and sold.
+39. We do not see any comparison between the erection and installation of a tube mill which involved a
+comprehensive process of installing slitting line, tube rolling plant, welding plant, testing equipment and galvanising,
+
+20
+
+
+etc. referred to in the decision of this Court in Quality Steel Tubes case [(1995) 2 SCC 372 : (1995) 75 ELT 17] with
+the setting up of a hot mix plant as in this case. As observed by this Court in Triveni Engg. & Industries Ltd.
+case [(2000) 7 SCC 29 : (2000) 120 ELT 273] , the facts and circumstances of each case shall have to be examined
+for determining not only the factum of fastening/attachment to the earth but also the intention behind the same.
+40. In Mittal Engg. Works (P) Ltd. case [(1997) 1 SCC 203 : (1996) 88 ELT 622] this Court was examining whether
+the mono vertical crystallisers erected and attached by a foundation to the earth at the site of the sugar factory could
+be treated as goods within the meaning of the Central Excise Act, 1944. This Court on facts noted that mono vertical
+crystallisers are fixed on a solid RCC slab having a load bearing capacity of about 30 tonnes per square metre and
+are assembled at site with bottom plates, tanks, coils, drive frames, supports, plates, distance places, cutters, cutter
+supports, tank ribs, distance plate angles, water tanks, coil extension pipes, loose bend angles, coil supports, railing
+stands, intermediate platforms, drive frame railings and flats, oil trough, worm wheels, shafts, housing, stirrer arms
+and support channels, pipes, floats, heaters, ladders, platforms, etc. The Court noted that the mono vertical
+crystallisers have to be assembled, erected and attached to the earth on a foundation at the site of the sugar factory
+and are incapable of being sold to the consumers in the market as it is without anything more.
+41. Relying upon the decision of this Court in Quality Steel Tubes (P) Ltd. case[(1995) 2 SCC 372 : (1995) 75 ELT
+17] , the erection and installation of mono vertical crystallisers was held not dutiable under the Excise Act. This
+Court observed that: [Mittal Engg. Works (P) Ltd. case [(1997) 1 SCC 203 : (1996) 88 ELT 622] , SCC p. 208, para
+10]
+“10. ... The Tribunal ought to have remembered ... that mono vertical crystallisers had, apart from assembly, to be erected
+and attached by foundations to the earth and, therefore, were not, in any event, marketable as they were.”
+This decision also, in our opinion, does not lend any support to the case of the assessee in these appeals as we are
+not dealing with the case of a machine like mono vertical crystallisers which is permanently embedded in the structure
+of a sugar factory as was the position in Mittal Engg. Works (P) Ltd. case [(1997) 1 SCC 203 : (1996) 88 ELT 622].
+The plants with which we are dealing are entirely over ground and are not assimilated in any structure. They are
+simply fixed to the foundation with the help of nuts and bolts in order to provide stability from vibrations during the
+operation.
+42. So also in T.T.G. Industries Ltd. v. CCE [(2004) 4 SCC 751 : (2004) 167 ELT 501] , the machinery was erected
+at the site by the assessee on a specially made concrete platform at a level of 25 ft height. Considering the weight
+and volume of the machine and the processes involved in its erection and installation, this Court held that the
+same was immovable property which could not be shifted without dismantling the same.
+43. It is noteworthy that in none of the cases relied upon by the assessee referred to above was there any element
+of installation of the machine for a given period of time as is the position in the instant case. The machines in
+question were by their very nature intended to be fixed permanently to the structures which were embedded in the
+earth. The structures were also custom-made for the fixing of such machines without which the same could not
+e functional. The machines thus becoming a part and parcel of the structures in which they were fitted were
+1 movable goods, It was in those peculiar circumstances that the installation and erection of machines at
+ere held to be by this Court to be immovable property that ceased to remain movable or marketable as
+V3 t the time of their purchase. Once such a machine is fixed, embedded or assimilated in a permanent
+3 ( fieeytruct re, 1e movable character of the machine becomes extinct. The same cannot thereafter be treated as movable
+f Hie so as t Be utiable under the Excise Act. But cases in which there is no assimilation of the machine with the structure
+Q , would stand on a different footing.
+instant case all that has been said by the assessee is that the machine is fixed by nuts and bolts to a
+fon not because the intention was to permanently attach it to the earth but because a foundation was
+
+tent of making the same permanent cannot, in our opinion, constitute permanent fixing, embedding or
+attachment in the sense that would make the machine a part and parcel of the earth permanently. In that view of
+the matter we see no difficulty in holding that the plants in question were not immovable property so as to be immune
+from the levy of excise duty. Our answer to Question 1 is accordingly in the affirmative.
+
+Thus, we see how the Hon. Courts have evolved the term ‘immovable property’ when
+faced with the question of what constitutes movable and immovable property. It is seen that the
+applicant, too, has referred to this decision but has failed to appreciate the decision in the correct
+sense.
+
+Though not issued for the purposes of the GST Act, we may as well mention herein the
+reference by the Hon. Bombay High Court in M/s. Bharti Airtel Ltd. (Earlier known as Bharti
+Tele-Ventures Ltd.) v. The Commissioner of Central Excise (2014 SCC OnLine Bom 907 : (2015)
+77 VST 434) with regard to a Circular being issued by the Central Board of Excise & Customs in
+
+a decision of the same Hon. Bombay High Court -
+21
+
+
+“(i) In the decision of the Division Bench of this Court in the case of “Commissioner of C.Ex, Mumbai-IV v. Hutchison
+Max Telecom P. Ltd., (2008 (224) E.L.T 191 (Bom.)”, the issue which fell for consideration of the Division Bench
+inter alia was pertaining to transmission tower set up by the assessee and whether the setting up of the towers
+amounted to manufacture as the towers being a new product with a distinct name, characteristics and use and is
+distinct from the components used in the manufacture as contended on behalf of the Revenue. The Division Bench
+after making the following observations in paragraphs 7 to 9 held that the towers being not moveable, saleable and
+marketable, they would not be subject to excise duty. Paragraphs 7 to 9 reads as under:-
+
+“7. It is, therefore, clear that the goods must be excisable or that the goods covered having the attributes of excisable goods as
+understood in Excise Law which includes marketability. The real question, therefore, that arises is whether, the Transmission
+Apparatus is goods and secondly if even so whether they are marketable. The Commissioner noting the various equipments held
+that the transmission apparatus meets the test of manufacture. The Commissioner further noted the various equipments installed
+at the BTS site room.
+
+The following equipments/apparatus were found to be installed in BTS site room:-
+
+a) Microwave Antennas
+
+b) Base station controller/Base Transreceiver station
+
+c) Microwave Terminal.
+
+d) GSM Antennas
+
+e) Power supplement with rechargeable battery back up.
+Sf) Air conditioners.
+
+g) Transmission tower was erected at the top of the building.
+
+h) The tower was fitted with microwave antennas.
+
+i) The BTS/BSC was installed in prefabricated building object.
+
+Based on this material the Commissioner held that what emerges is a new commodity. The argument advanced that only “Base
+station controller/Base trans-receiver station, cell site/Mobile Switching centre” were connected with the transmission and
+reception signals and other equipments were not part of the same, the argument was held as not acceptable as without the tower,
+UPS, Cable trays, AC., etc., the BTS would not be in a position to function as transmitting and receiving apparatus. The contention
+of the assessee that various equipments installed at site were individual machine was rejected. The Commissioner further held
+that with the assembly of various equipment installed what emerges is a commodity with a distinct name, identity, character and
+use; distinct from inputs and classifiable under chapter 8525 of Central Excise Tariff and the same is distinct and separate from
+the various equipments which have gone into manufacture of the above transmission apparatus. The argument that after
+installation of BTS of cell site it becomes immovable properly was rejected. The statement of Narayan in his statement dated
+28/1/2004 was partly relied upon to hold it was not immovable property.
+
+8. The Learned Tribunal re-examining the various aspects of what is described as determination of levy of duty of base station,
+noted that the appellant is engaged in providing Mobile Telecommunication Service (MTS) and is based on global system for
+mobile communication (GSM). The infrastructure for GSM is similar to other networks. The Tribunal then set out the various
+infrastructure required for GSM and noted that GSM Architecture consists of Radio Station Sub Systems (constitution of MS, BTS,
+BSCs) which are networked with the operation support subsystem (constitued MSCs) which networked with the Public network.
+ntire sub systems of BTSs and BSCs or MSCs and the number of constituents would depend on the Geographical area
+‘6ygP&q by the Cellular Network and there is no fixed designation numbers to constitute a component of transmission apparatus.
+Iisaoh\ ecessary to set out the other facts in detail considering the the Tribunal has in extenso set out the facts. The Tribunal
+rely m para 20 in the case of Triveni Engineering & India Ltd. (supra) on the test of marketability, held that the so called
+BTS Aa ite erected, installed and commissioned by the contractors of the company cannot be construed as marketable goods
+ed by the appellant since they cannot go to the market as such BTS/BSC site are not marketable. It also held that the
+
+WPC/SACFA a wing of Department of Telecommunications, Government of India has to be obtained which invariably is user
+specifi ‘and site specific, meaning thereby if one wishes to sell the site to another user, it is not permissible under law, as the
+‘ approval granted by the aforesaid authority for the frequency allocation and the site is for the user only and the purchaser would
+have to reapply for the license for that site. It cannot be sold/purchased marketed unattended and be equated to marketable goods.
+
+BTS/BSC site, therefore, are neither marketable nor capable of being marketed. The learned Tribunal also held that the appellants
+are not manufacturers and they are engaged in providing cellular mobile services by virtue of a license granted by the Government
+of India under the provisions of section 4 of the Indian Telegraph Act, 1885. Thus, their activity is purely service oriented. The
+Tribunal held that in such circumstances, the activity of installing and commissioning cell site cannot be an activity of either
+manufacture and no marketable goods arise. For the aforesaid reasons, the appeal was allowed and accordingly, the orders were
+set aside.
+
+9. It is not necessary for us to answer the issue as to whether the activities is purely service and consequently, the appellants are
+not manufacturers. We proceed on the footing that what has been assembled and installed is anew commodity having a distinct
+name from the components from which it was assembled. The question is whether this new commodity is marketable. We have
+already considered the test of marketability as laid down by the Supreme Court in Triveni Engineering & India Ltd. (supra) and
+also Moti Laminates Pvt. Ltd. (supra). At this stage, we also note that we proceed on the footing by ignoring the second finding
+of marketability recorded by the Tribunal namely that BTS/BSC is not marketable as licence is required from the Department of
+Telecommunication, Government of India. The facts on record would indicate that the equipments erected are embedded in the
+earth or on a building. The Tribunal noted that revenue does not contest or dispute the fact that whenever BTS/BSC site has to be
+relocated, all the equipments like BTS/BSC, Microwave Equipment, batteries, control panels, air conditioners, UPS, tower
+antennae are required to be dismantled into individual components, then they are to be moved from the existing site and
+reassembled at new site. This involves damages to certain parts like cable trays, etc. which are embedded/fixed to the Civil
+structure as also the BTS microwave equipment itself. All the components of the new product cannot be shifted as an illustration
+the room housing the equipment. This act of dismantling from the permanent site would render such goods not marketable.
+
+Apart from that the goods cannot be re-erected as in the previous place as the requirement of each place is different. Further,
+
+from the statement of Narayan as set out in the order of the Commissioner, it may be noted that he had stated that regarding
+installation of BTS the designing team after survey identified the location as per the requirements of the local coverage needs,
+
+22
+
+
+determining the shelter location, fabrication of I-beam and pole location. It may be possible for us to agree that by installing or
+erecting, a new product comes into being with a different name in the market from its components. However, as discussed the test
+of marketability is not satisfied. The product cannot be shifted without damage. Apart from that various items and components
+are embedded in the earth. The product, therefore, is immovable. The order dated 15/1/2002 of Central Board of Excise &
+Customs, New Dethi itself regards items assembled and erected on the site and attached to the foundation on earth which
+cannot be dismantled without substantial damage to their components and thus, cannot be reassembled, as non excisable. The
+new product would not be considered as movable and, therefore, will not be an excisable good. Para 6 of the said circular will
+not apply to the facts of this case. In our opinion, therefore, though a new product comes into existence, yet as it is not movable,
+saleable and marketable, it would not be subject to excise duty.”
+
+The principles laid down in the judgments discussed above stand good under all statutes
+unless any specific definition is available under the statute. What we want to say is that these
+principles cannot be circumscribed to any particular statute. An elaborate reproduction of the
+principles as laid down in the judgments alongwith their facts has made things clearer for us.
+
+The principles when seen in the light of the facts of the present case help us see thus -
+
+1. There is a definition of “SPP”- “mean 60MWAC/81MWDC Solar Power Plant to be Supplied, installed and
+Commissioned at the Plant Site by the Contractor, which is forming part of the solar power generating system”. The
+contract would be to develop a 60 MWAC/ 81 MWDC solar power plant for onward sale
+of power to its consumers. It is a big project and has a permanent location. Such a plant
+would, therefore, have an inherent element of permanency.
+
+2. Further, here the output of the project i.e the power would be available to an identifiable
+segment of consumers. Thus, this output supply would involve an element of
+
+permanency for which it would not be aaa and prudent to shift base from time to
+
+4. The definition of the word “Commissioning” as found in the agreement brings out the
+
+enormity of the scale of operations and how the transaction would fall in the scope of an
+
+immovable property -
+
+“Commissioning” permanent means the functional operation of Plant (including each unit thereof), following the
+installation and energization of Evacuation Infrastructure to Grid Substation and Installation and energization of the
+Plant to the Evacuation Infrastructure, subsequently and the evacuation of power is possible from the Plant to the Grid
+Substation;
+
+> The agreement clauses also refer to a definition of “GO” - means government order issued by
+Karnataka Renewable Energy Development Limited for development of the Plant. Such a renewable energy
+project would invariably have an essential element of permanency. There is also
+involvement of other agencies, as well [Karnataka Renewable Energy Development Limited and Karnataka Power
+Transmission Company Limited]. This means that the Project would be established under
+
+Governmental Rules and Regulations. It is most unlikely that a project would be moved
+
+23
+
+
+from place to place ONCE it has been put into place after obtaining the essential permits
+and licenses.
+6. The upshot of being a renewable energy project to generate electricity for consumers
+
+would be a connection to the Grid. And we find the definitions in the agreement clauses
+
+thus -
+“Grid” means Gird Substation to which Plant is to be connected for commercial operations;
+“Grid Substation” shall mean 110/33kV government substation situated at and in the state of Karnataka, India
+
+Thus, it can be seen that the Plant would be connected to the Grid Substation for the
+purposes of the commercial operations. After having established and commissioned such
+a Project which is connected to a Grid Substation, who would be taking the Project to a
+different location. It would be farfetched an argument that the Project could be shifted to
+a different location just to prove that the Project is movable.
+
+7. | The Owner has also to obtain approvals and permits (as per Applicable Law) required
+for Commissioning and operation of the Plant. Do such permits and documents have a
+frequent changeover in terms of the place, the owner and project name being constant?
+Such permissions definitely have an element of permanency.
+
+8. Under the clause about ‘Obligations of the Contractor’, we find that the contractor is
+responsible for the construction of civil structures or buildings as per the Schedule 2. The
+construction of a civil structure is a part of the Project, the transaction to be executed by
+
+the applicant. A civil structure cannot be moved. It has to be demolished. Does one still
+
+have to offer the argument that the transaction results into a moveable property?
+
+ny provision in the agreement to the effect that “Any costs incurred by the Contractor for any changes
+made in the land/premises of the Owner, while development of Plant, due to the requirement of transferring the Plant
+
+tb another location, would be borne by the Owners.” would by no means amount to making the
+
+clauses fall in the precautionary nature of clauses in legal documents.
+
+An overview of all above makes us observe that the impugned transaction for supply of
+the Solar Power Plant which includes engineering, design, procurement, supply, development, testing and
+
+Commissioning is a “works contract” in terms of clause (119) of section 2 of the GST Act.
+
+The case laws cited by the applicant in support of the argument that the transaction is
+not related to ‘immovable property’ need not be dealt with as we have so elaborately discussed
+the very case law in Solid and Correct Engineering Works (cited supra) on which reliance has
+been placed by the applicant. And we have observed earlier that the applicant has not
+understood the case law in the correct sense. Further, we have to observe that each judgment
+has to be understood in terms of the facts as available therein. The applicant has not appreciated
+
+the case laws in the sense in which they should have been understood. Like in Solid and Correct
+
+24
+
+
+Engineering Works (cited supra), the Hon. Court has held the product as ‘movable property’ for
+the reason that the plant was not intended to be permanent at a given place and the plant can be
+moved and is indeed moved after the road construction or repair project for which it is set up is
+completed. Such are not the facts of the instant case as has been explained above. We see that the
+applicant has not come up with any decision which overrules the laws laid down by the
+decisions of the Hon. Courts that we have discussed. Nor have we come across any adverse case
+laws.
+
+Having seen that the impugned transaction is a “works contract” in terms of clause (119)
+of section 2 of the GST Act., we find that para 6, as reproduced below, of SCHEDULE II
+[ACTIVITIES TO BE TREATED AS SUPPLY OF GOODS OR SUPPLY OF SERVICES] treats
+
+“works contracts” u/s 2(119) as supply of ‘services’ -
+“6. Composite supply
+The following composite supplies shall be treated as a supply of services, namely:—
+(a) works contract as defined in clause (119) of section 2;”
+In view of “works contracts” u/s 2(119) being deemed to be a supply of services, the
+impugned transaction would be a supply of “services”. The impugned transaction is not a
+supply to the Government. It would fall in the entry at sr. no.3 (ii) [Heading 9954 (Construction
+services)] for “composite supply of works contract as defined in clause 119 of section 2 of Central
+- a / Maharashtra Goods and Services Tax Act, 2017” as has been specified in the notification issued
+
+‘“ ee
+SEAMngriier section 9 of the GST Act.
+%\
+
+\s
+eS y 2 \Having seen thus, we would now look at each of the three questions posed before us -
+
+3 4
+|
+$< i
+
+x.
+
+oe ion 1
+
+‘Whether supply of turnkey Engineering, Procurement and Construction (‘EPC’) Contract for
+és “construction of a solar power plant wherein both goods and services are supplied can be construed to
+“== be a Composite Supply in terms of Section 2(30) of the Central Goods and Services Tax Act, 2017?
+
+The applicant poses for us to decide if the Engineering, Procurement and Construction (‘EPC’)
+Contract falls within the definition of ‘composite supply’ as found in the GST Act. Since we have
+elaborately discussed and observed above that the impugned transaction is a “works contract”
+u/s 2(119) the GST Act, we need not even enter into the discussion as to whether the impugned
+transaction is a ‘composite supply” u/s 2(30) the GST Act. In view thereof, we are constrained,
+
+with reasons, to answer the first question in the negative. We move on to the second question.
+
+Question 2
+
+If yes, whether the Principal Supply in such case can be said to be ‘solar power generating system’
+which is taxable at 5% GST?
+
+This question arises from the assumption of the applicant that the impugned transaction is a
+transaction of supply of ‘goods’. We have elaborately dealt with earlier as to how the impugned
+transaction is a ‘works contract’ u/s 2(119) the GST Act and further that, that para 6 of
+
+25
+
+
+SCHEDULE II [ACTIVITIES TO BE TREATED AS SUPPLY OF GOODS OR SUPPLY OF
+SERVICES] treats “works contracts” u/s 2(119) as supply of ‘services’. In view thereof, there
+arises no occasion to visit the entries prescribing tax rates for ‘goods’. Since the transaction is
+treated as a “works contract” and not as a “composite supply”, there would be no relevance of
+“principal supply”. And therefore, there arises no occasion to answer the question as to what
+
+would be the “principal supply” in the impugned transaction. We proceed to the third question.
+
+Question 3
+
+Whether benefit of concessional rate of 5% of solar power generation system and parts thereof would
+also be available to sub-contractors?
+
+We find that the applicant has informed that in certain cases, the contractor engages various sub-
+contractors (manufacturers/ supplies/ sub-contractors) who further supply the goods to such
+contractor or engage in provisioning of certain portion of the contract. It is also informed that
+there may be cases wherein the Developer divides the contract between two separate contracts
+of construction of solar power generation system. In this regard, the applicant argues that since
+the concessional rate of 5% [as clarified to be under Notification no. 1/2017-Integrated Tax (Rate)]
+is provided to renewable energy products and parts thereof, the same should be applicable to all
+
+pliers providing such products as long as it can be established (through certification or
+
+ise) that these are to be used in solar power generation system.
+A
+
+9 he applicant has laid claim to sr. no.234 of Schedule I of Notification No.1/2017-Central
+ax (Rate) which states thus -
+
+2 84, 85 or 94 Following renewable energy devices & parts for their manufacture
+Sic a ie (a) Bio-gas plant
+Fn state (b) Solar power based devices
+= (c) Solar power generating system
+
+(d) Wind mills, Wind Operated Electricity Generator (WOEG)
+
+(e) Waste to energy plants / devices
+
+(f) Solar lantern / solar lamp
+
+(g) Ocean waves/tidal waves energy devices/plants
+
+(h) Photo voltaic cells, whether or not assembled in modules or made up into panels
+
+As can be the seen, the above entry is under the notification prescribing the tax rate on
+‘goods’. We have to observe that the facts of the transactions have to be seen in terms of what the
+sub-contracting agreement says, what has been supplied, whether the item supplied is a part.
+Such and many other questions have to be answered. No details have been brought before us. If
+the transaction is a supply of “goods” then the applicable Schedules (exempt or taxable) would
+have to be seen. In the absence of any documents before us, we would not be able to deal with
+
+this question in the present proceedings.
+
+05. In view of the extensive deliberations as held hereinabove, we pass an order as follows :
+
+26
+
+
+ORDER
+
+(under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+NO.GST-ARA-01/2017/B- OS~ Mumbai, dt. \7/O~/,0\8
+
+For reasons as discussed in the body of the order, the questions are answered thus -
+
+Q1 Whether supply of turnkey Engineering, Procurement and Construction (‘EPC’)
+Contract for construction of a solar power plant wherein both goods and services are
+supplied can be construed to be a Composite Supply in terms of Section 2(30) of the
+Central Goods and Services Tax Act, 2017?
+
+Al The question is answered in the negative.
+
+Q.2 If yes, whether the Principal Supply in such case can be said to be ‘solar power
+
+generating system’ which is taxable at 5% GST?
+
+A.2 Since the transaction is treated as a “works contract” and not as a “composite supply”,
+there would be no relevance of “principal supply”. And therefore, there arises no
+occasion to answer the question as to what would be the “principal supply” in the
+
+impugned transaction.
+
+Q3 Whether benefit of concessional rate of 5% of solar power generation system and parts
+
+thereof would also be available to sub-contractors?
+
+A3 In the absence of any documents before us, we would not be able to deal with this
+
+question in the present proceedings.
+
+B. V. BORHADE PANKAJ KUMAR
+(MEMBER) (MEMBER)
+— CERTIFIED TRUE COPY
+
+1. The applicant Binal
+2. The concerned Central / State officer \ x V
+
+3. The Commissioner of State Tax, Maharashtra State, Mumbai
+
+3. The Jurisdictional Commissioner of Central Tax MAHARASHTRAST
+
+27

@@ -1,0 +1,928 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+(Constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri B. V. Borhade, Joint Commissioner of State Tax (Member)
+(2) Shri Pankaj Kumar, Joint Commissioner of Central Tax (Member)
+
+GSTIN Number, if any/ User-id 27 AAACI7163H1Z1
+
+Legal Name of Applicant INA Bearing India Private Limited
+
+Registered Address/ Address provided while Plot NO. A-3, Talegaon Industrial & Floricuture park,
+obtaining user id Village Ambi, Navalakha Umbre, Tal. Talegaon
+Dabhade, Dist. Pune 410507
+
+Details of application GST-ARA, Application No. 04 Dated 09.04.2018
+
+Concerned officer PUN-VAT-E- 610, PUNE
+
+Nature of activity(s) (proposed / present) in
+respect of which advance ruling sought
+
+A Category Factory / Manufacturing
+
+B Description (in brief) Manufacturer and trader of Bearings & other parts to
+cater to the needs of customer’s majorly in automotive
+sector and also in other industries. A fully owned
+subsidiary of Schaefffler Technologies AG & Co. Kg,
+Germany with state of the art manufacturing facilities
+at our Talegaon works.
+
+Issue/s on which advance ruling required (iv) admissibility of input tax credit of tax paid or
+
+deemed to have been paid
+(v) Determination of the liability to pay tax on any
+
+PoE
+WSS Rey goods or services or both.
+Ler —rt ion(s) on which advance ruling is | As reproduced in para 01 of the Proceedings below.
+
+“Bs a
+
+PROCEEDINGS
+(UhyteySection 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods and
+
+. aL. > Services Tax Act, 2017)
+Wy, im
+% St i y ws The present application has been filed under section 97 of the Central Goods and Services Tax Act,
+RA STRIE,
+
+Re
+NRA STRTE;
+
+"Scandi MA
+
+and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as “the CGST Act and
+MGST Act”] by INA Bearing India Private Limited, the applicant, seeking an advance ruling in respect of
+
+the following question.
+a) Whether the sale of goods, which are located outside India, would be liable to tax in India under section 7(5)
+
+(a) of Integrated Goods and Services Tax Act, 2017?
+b) If answer to (a) is yes, then whether the recipient, to whom such goods are sold, be eligible to avail the input
+
+tax credit of such goods?
+At the outset, we would like to make it clear that the provisions of both the CGST Act and the GST
+
+Act are the same except for certain provisions. Therefore, unless a mention is specifically made to such
+dissimilar provisions, a reference to the CGST Act would also mean a reference to the same provision
+under the MGST Act. Further to the earlier, henceforth for the purposes of this Advance Ruling, a reference
+to such a similar provision under the CGST Act / MGST Act would be mentioned as being under the “GST
+
+Act”.
+
+
+02. FACTS AND CONTENTION - AS PER THE APPLICANT
+The submission (Brief facts of the case), as reproduced verbatim, could be seen thus -
+
+STATEMENT OF THE RELEVANT FACTS HAVING A BEARING ON THE QUESTIONS AS PROVIDED IN
+ANNEXURE 1
+
+Brief Background of the Transaction:
+INA Bearings India Private Limited (hereinafter referred to as ‘Applicant’) is engaged in supply of bearings
+
+and tools. The Applicant supplies bearings to a wide range of customers which inter-alia include Original
+Equipment Manufacturers (OEM).
+It is pertinent to note that for manufacture of bearings for specific customer, a specific type of tool is required.
+These tools are developed basis the requirements of the customers. Using these specially designed tools, child
+parts are manufactured and supplied to our customer. Typically, while entering into a contract for supply of
+bearings, the customer issued two purchase orders viz:
+
+PO No. RNAIPL/2013/B4A/PTVT/230 dated 13.09.2013 for supply of tools and
+
+PO No. RN15-MP-113W-K316 dated 28.05.2015 for supply of tappets.
+The Applicant in-turn raised a purchase order on Scaheffler Technologies AG & Co. KG (for the purpose of
+brevity herein after referred as “Scaheffler Germany”) for supply of tools. The tools which are required for
+manufacturing is developed outside India by Scaheffler Germany. Once the tool was developed, Scaheffler
+Germany had raised an invoice bearing number 130213462 dated 16.03.2018 on the Applicant for the tools and
+the ownership of the said tools got transferred to the Applicant, however, there was no physical movement of
+tools i.e. the tools continue to remain in the possession of Scaheffler Germany.
+The Applicant had in turn raised an invoice bearing number 1045197 dated 16.03.2018 on its customer in India
+and thereby the ownership of the tools got transferred to the customer, however, the tools physically continue
+to remain under the possession of Scaheffler Germany.
+The diagrammatic representation of the transactions executed is as below:
+
+Schaeffler
+Gerrhany
+
+| Outside
+
+INA fndia > Customer
+(Applicant)
+
+yv 12
+S40, gine gy ‘ = Transfer of ownership of Tools from Schaeffler Germany to INA India without
+== movement of tools
+T2 = Transfer of ownership of Tools from INA India to Customer without movement of
+
+tools and where the tools are situated in Germany
+
+The issue under consideration is
+whether transfer of ownership to customer without physically moving goods from Germany would make the
+transaction liable to GST in light of provisions of section 7(5)(a) of Integrated Goods and Services Tax Act, 2017
+(IGST Act, 2017) and will the Applicant be required to charge IGST on the tools sold to its customer in India.
+If IGST is applicable on the transaction under consideration, then whether Applicant’s customer would be
+eligible to avail the input tax credit of IGST charged by the Applicant.
+The Applicant is making detailed submission herein below to demonstrate why IGST should not be applicable
+on the transaction under consideration.
+Statement containing the applicant's interpretation of law and/or facts, as the case may be, in respect of the
+uestions(s) on which advance ruling is required
+
+A. Levy of IGST cannot be extended beyond territorial jurisdiction of the said legislation.
+
+Evaluating IGST provisions to understand possibility of levying IGST
+
+A1, With reference to facts of the applicant summarized in Annexure 2, the transaction of supply of tool to
+customer in India by Applicant needs to be evaluated in terms of IGST Act to understand nature of transaction
+and to evaluate applicability of IGST.
+
+A2. Section 7 of IGST Act, 2017, lays down the principles to determine nature of transaction as inter-state
+transaction. In this regard, attention is invited to provision of section 7(5) which reads as under:
+“(5) Supply of goods or services or both,--
+(a) when the supplier is located in India and the place of supply is outside India;
+(b) to or by a Special Economic Zone developer or a Special Economic Zone unit; or
+
+
+
+(o) in the taxable territory, not being an intra-State supply and not covered elsewhere in this section, shall be treated to
+be a supply of goods or services or both in the course of inter-State trade or commerce.”
+
+(Emphasis provided)
+A3. Inorder to evaluate applicability of section 7(5)(a), it is pertinent to evaluate following aspects of transaction
+in question -
+e Supplier
+
+e Place of supply
+
+Supplier - IGST Act has not separately defined the term ‘supplier’ and hence the definition of CGST Act can be adopted
+in terms of section 2(24) of IGST Act. Section 2(105) of CGST Act defines ‘supplier’ as ” supplier in relation to any
+goods or services shall mean the person supplying the said goods or services and shall include an agent acting as such
+on behalf of such supplier in relation to the goods or services or both supplied”
+
+Accordingly, in case of T2 in question, tool is supplied by Applicant to customer even if there is no movement of tool
+and hence, Applicant would be construed as ‘Supplier’.
+
+Place of Supply - Section 10 of IGST Act provides for various scenarios to determine the place of supply of goods. In
+case of T2, the supply does not involve movement of goods. Hence, without prejudice to Applicant's submission herein
+below, it appears that the said supply would get covered under section 10(1)(c) of IGST Act which is reproduced
+
+below:
+
+“10, (1) The place of supply of goods, other than supply of goods imported into, or exported from India, shall be as under,--
+(a)
+(b)
+
+(c) where the supply does not involve movement of goods, whether by the supplier or the recipient, the place of
+supply shall be the location of such goods at the time of the delivery to the recipient;
+(e) ‘a
+
+In view of said Section 10(1)(c) of IGST Act, in case of T2, the place of supply appears to be location of such goods at
+
+the time of delivery to recipient. The tool is supplied to customer, however, goods continue to remain outside India
+
+and hence the same could be construed to be delivered to customer outside India. Accordingly, without prejudice to
+
+Applicant's submission herein below, the place of supply would be location of goods at the time of delivery i.e. outside
+
+India.
+
+From the conjoint reading of ‘supplier’ and ‘place of supply’ in case of T2, it appears that supplier is located in India
+
+ce of supply could be construed as outside India. Hence, the said transaction could get covered under the ambit
+
+rate supply’ in terms of section 7(5)(a) of IGST Act.
+
+would be levied on all inter-State supplies of goods or services or both in terms of Section 5 of IGST Act.
+
+the conjoint reading of abovementioned provisions, it appears that T2, could get covered within the
+
+w of ‘Inter-State supply’ and hence could become liable to IGST.
+
+A5. Klowbver, Applicant intends to draw your kind attention to section 1(2) of IGST Act which determines the
+
+xgerit of applicability of IGST Act. As per the said section IGST Act extends to whole of India except State of
+
+u and Kashmir. ‘India’ has been defined in section 2(56) of CGST Act read with section 2(24) of IGST
+
+‘0 mean ‘the territory of India as referred to in article 1 of the Constitution, its territorial waters, seabed and sub-
+
+“sil underlying such waters, continental shelf, exclusive economic zone or any other maritime zone as referred to in the
+erritorial Waters, Continental Shelf, Exclusive Economic Zone and other Maritime Zones Act, 1976, and the air space
+
+above its territory and territorial waters;’
+
+. Hence, Applicant wishes to contend that scope of IGST Act is limited to territorial jurisdiction to which it
+extends. Thus, IGST levy can be introduced only to supplies within the territorial jurisdiction of the IGST Act.
+In case of T2, the supply could be construed to take place outside the territorial jurisdiction of IGST Act.
+Hence, the levy in case of T2 in terms of section 5 of IGST Act read with section 7(5)(a) would mean traveling
+beyond the jurisdictional powers to levy IGST. In light of this, Applicant contends that levy of IGST on said
+transaction would be ultra vires the IGST Act.
+
+AZ. Further as discussed above, GST is limited to the territorial waters of India and hence all the applicable
+sections in terms of supply, time of supply, place of supply etc would be limited to goods or services or both
+as much as they take place in India. In order for section 7(5)(a) to come into play, the place of supply should
+be outside India and to determine the place of supply the provisions of Section 10(1)(c) seems to be relied on.
+The Applicant contends that the provisions of GST are travelling beyond its powers by stating that for the
+transaction under question where the goods are lying outside India ie. in Germany, the place of supply shall
+be outside India, Hence, the Applicant pleads it is outside the jurisdictional powers of the GST law to
+determine the place of supply for goods when such goods are not located in India.
+
+A8. Given the aforesaid, the tax cannot be said to be payable on the transaction under consideration as the subject
+i.e. goods (tools), on which tax is payable in outside India ie. beyond the jurisdictional extent of IGST Act,
+2017.
+
+B. Tax cannot be demanded on the said transaction as the collection, if at all tax is leviable, itself will be
+unconstitutional
+
+
+
+B1. Itis no more res-integra that no tax shall be collected unless there is constitutional validity to levy the same. The
+Constitution of India was amended vide 101s Constitution (Amendment) Act, 2016 to empower the Central
+Government and State Governments to levy GST.
+
+B2. To empower the Parliament to levy and collect IGST on inter-state transaction, Article 269A was inserted. The
+
+said article reads as under:
+
+“269A. (1) Goods and services tax on supplies in the course of inter-State trade or commerce shall be levied and
+collected by the Government of India and such tax shall be apportioned between the Union and the States in
+the manner as may be provided by Parliament by law on the recommendations of the Goods and Services Tax Council.
+Explanation. — For the purposes of this clause, supply of goods, or of services, or both in the course of import into the
+territory of India shall be deemed to be supply of goods, or of services, or both in the course of inter-State trade or
+commerce.
+
+B3. From the above, it is quite clear that Article 269A enables levy and collection of GST for supplies in the course
+of inter-state trade of commerce. An explanation has been inserted stating that import transactions will also
+be considered as inter-state supply of goods or services or both. If we consider the common parlance an inter-
+state transaction would mean transaction effected between two states and or union territories. It would be
+important to note that the Constitution has not defined the above transaction that is, where the supplier is
+located in India and the place of supply is outside India to be an inter-state supply. The provisions of section
+7(5)(a) is ultra vires since the law has defined a specific transaction to be an inter-state supply without having
+adequate powers to do so. Since the Constitution of India has neither defined such transactions to be an inter-
+state transaction nor given powers to determine so, the provisions ought to be treated as ultra-vires.
+
+C. Cross-border transactions are being covered under ‘Inter-State supply’ only to exclude the same from
+urview of State Government, however, that would not conclude IGST applicability unless authorised
+
+Cl. Applicant wishes to submit that section 7 and section 8 of IGST Act have been enacted to lay down principles
+to determine nature of supply to be ‘inter-State supply’ and ‘intra-State supply’ respectively. Thus, the
+objective appears to be to delineate powers of State Government to levy respective GST only on ‘intra-State
+supply’ and not to cover ‘Inter-State supply’. However, section 7 or section 8 should not, in isolation, be read
+as sections enabling levy of IGST on all supplies covered therein. IGST Act needs to be read in harmonious
+
+manner considering the constitutional empowerment and extent of its applicability to determine levy. Merely
+
+because a transaction gets covered under section 7(5)(a) would not empower Central Government to levy and
+collect IGST on the said transaction, unless there is express provision to that extent and unless it is covered
+under territorial jurisdiction of IGST Act.
+
+plicant wishes to draw your kind attention to proviso to section 8 which states that following supply of
+
+s shall not be treated as intra-State supply -
+
+( supply of goods to or by a Special Economic Zone developer or a Special Economic Zone unit;
+
+Ne ‘oods imported into territory of India till they cross the Customs frontiers of India; or
+i apres made to a tourist referred to in section 15
+he
+
+ve mentioned list has been excluded from ambit of ‘intra-State supply’ so that administrative and
+Uisdfictional powers would vests with Central Government and not State Government.
+ew of above submission, Applicant contends that section 7(5)(a) should be read only to exclude such
+thsactions from the purview of State Government and said section should not be considered as piece of
+egislation which is empowering Central Government to travel beyond territorial jurisdiction and levy IGST
+on all transactions covered therein.
+The term ‘Zero-rated supply’ should be read in liberal manner and should not be restricted only to taking
+
+of goods outside India
+D1. Attention is invited to section 16 of IGST Act, which provides that ‘Zero rated supply’ means any of the
+
+following supplies of goods:
+1. Export of goods; or
+2. Supply of goods to a Special Economic Zone developer or unit
+
+D2. Section 2(5) of IGST Act defines ‘export of goods’ with its grammatical variations and cognate expressions,
+means taking goods out of India to a place out of India.
+
+D3. From the conjoint reading of the abovementioned provisions it can be inferred that any inter-state supply
+would qualify to be zero-rated only if it falls within the purview of export or supply to SEZ.
+
+D4. Inorder to identify these supplies as Zero-rated the same have been covered under the purview of inter-State
+supply. However, this cannot be interpreted to mean that all other supplies falling within the purview of
+Section 7(5)(a) of IGST Act but not covered under section 16 of IGST Act would be considered as liable to
+IGST.
+
+D5. The terms ‘Export’ covers the cases of taking goods out of India, however, principally even tool being
+supplied to customer at a location outside India should get covered under the purview of term ‘Export’.
+Interpreting the term ‘Export’ to only cover supplies where goods are taken out of India would be restrictive
+and would disregard the principle of consumption based tax. “Export of goods’ should be interpreted in a
+broader way to cover such cross-border transaction where goods are delivered to a customer outside India
+even if not taken from India. Restricting the concept of export only to cases involving movement from India
+would mean disregarding the fact that place of supply is outside India. Thus, Applicant pleads for extending
+the meaning of ‘export of goods’ even to cases where goods are delivered to customer outside India even if
+
+not taken from India.
+4
+
+
+D6. Assuming without accepting that this transaction of tool supply would not qualify as ‘zero rated supply’,
+however, the same should at least be treated as not liable to GST since the concept of ‘exports’ could be
+deemed to be covering a case where the goods are consumed/ used outside India. Under erstwhile Service
+Tax legislation, if the place of provision of service was outside India but other conditions of ‘Export’ were not
+getting fulfilled then the export linked benefits would not made available to such services, however, the same
+would still not be liable to service tax. Accordingly, Applicant pleads that even if transaction in question may
+not be considered as ‘Export of goods’, the same should be considered as not liable to IGST even though no
+benefits of ‘Zero rated supply’ could be granted.
+
+E. Place of Supply of Service specifically covers case where recipient is located outside India, unlike Place
+of Supply of Goods
+
+El. Applicant submits that Section 12 and Section 13 of IGST Act delineates place of supply of service between
+the cases where location of both supplier and recipient is in India as against cases where either of the party is
+located outside India. Whereas in case of goods, place of supply is to be determined in terms of section 10 or
+11 of IGST Act which provides for determining place of supply separately for domestic supplies and for
+export/ import transactions.
+
+E2. Your kind attention in this regard, is invited to proviso to section 12(3) of IGST Act, 2017, which provides that
+in case of supply of service in relation to immovable property is outside in India and if both the supplier and
+recipient are in India then the place of supply shall be the location of recipient.
+
+E3. For your reference we have reproduced relevant portion of section 12(3) of IGST Act, 2017
+
+(3) The place of supply of services,-—
+
+(a) directly in relation to an immovable property, including services provided by architects, interior decorators,
+
+surveyors, engineers and other related experts or estate agents, any service provided by way of grant of rights to use
+
+immovable property or for carrying out or co-ordination of construction work; or
+
+(b) by way of lodging accommodation by a hotel, inn, guest house, home stay, club or campsite, by whatever name called,
+
+and including a house boat or any other vessel; or
+
+(c) by way of accommodation in any immovable property for organizing any marriage or reception or matters related
+
+thereto, official, social, cultural, religious or business function including services provided in relation to such function
+
+at such property; or
+
+(d) any services ancillary to the services referred to in clauses (a), (b) and (c), shall be the location at which the immovable
+
+‘wroperty or boat or vessel, as the case may be, is located or intended to be located:
+
+Rrovided that if the location of the immovable property or boat or vessel is located or intended to be located
+
+Dittside India, the place of supply shall be the location of the recipient.
+
+E4.’ It can be observed from the aforesaid provisions that there is specific provision in case of services wherein it
+) “is Specifically provided that the place of supply shall be the location of immovable property, however, if both
+-the supplier and recipient are in India and location of immovable property is outside India then the place of
+
+7 supply for the purpose of GST will be location of recipient of service.
+
+© Similar provisions were provided in Rule 8 of Place of Provision of Services Rules, 2011 under Service Tax
+regime. We have reproduced the said provisions below:
+
+“8. Place of provision of services where provider and recipient are located in taxable territory
+
+Place of provision of a service, where the location of the provider of service as well as that of the recipient of service is in
+
+the taxable territory, shall be the location of the recipient of service.”
+
+E6. It can be observed that in case of services the legislatures have always specifically provided for levying tax
+basis the location of supplier and recipient. However, in case of goods there is no such provision which states
+that, even where goods are situated/ used/ consumed outside India and the location of the supplier and the
+recipient is in India, the place of supply shall be outside India.
+
+E7. Accordingly, it can be inferred that for the purpose of levy of GST on services location of supplier and
+recipient would be relevant and if both are in India then the same would be liable to GST. However, in case
+of goods location of supplier and recipient is not relevant and levy would then get linked to location of goods.
+Thus, in case of transaction in question, since location of goods is outside India the levy should not arise in
+India in the absence of specific provision in this regard.
+
+F. Circular issued for High Sea Sales will be applicable to the transaction under consideration
+
+Fl. The CBEC vide Circular No. 33/2017-Customs dated 1t August 2017 clarified that in case of High Sea Sales
+the levy and collection of tax will be only at the time of importation of goods in India i.e. when import
+declarations are filed before Customs Authorities for customs clearance for the first time.
+
+F2. The relevant para of the circular is reproduced below:
+
+“4, GST Council has deliberated on the levy of Integrated Goods and Services Tax on high sea sales in the case of imported
+goods. The council has decided that IGST on high sea sale (s) transactions of imported goods, whether one or multiple,
+shall be levied and collected only at the time of importation i.e. when the import declarations are filed before Customs
+authorities for the customs clearance purposes for the first time. Further, value addition accruing in each such high sea
+shall form part of the value on which IGST is collected at the time of clearance.’
+
+F3. The Circular clearly mentions that the tax is leviable only at the time of importation of goods in India and
+not when the goods the sold while they are in High Seas. Similarly, when the goods are in Germany i.e.
+
+5
+
+
+outside India, it can be said that since, the goods are outside India, no GST is applicable on the same as the
+subject on which tax is being levied is outside the territory of India.
+| F4, Another circular was issued by CBEC to clarify the tax applicability of goods lying in bonded warehouse.
+| Circular No. 46/2017-Customs dated 24 November 2017, provided that in case the goods are sold while the
+same lying in bonded warehouse, the same shall be chargeable to GST.
+
+F5. It is pertinent to note that one of the basic reasons behind differential tax treatment in both the circulars above
+is that in case of High Seas the goods are not in India while in case of warehoused goods, the goods are in
+India.
+
+F6. Given the aforesaid, the Applicant hereby submits that the tax on supply of tools will not be applicable when
+the same are sold to its customers in India and where the physical location of the goods is outside India.
+
+G. Nostate code available in GST returns to mention the Place of Supply in case of these transactions
+
+Gl. A taxpayer is required to report all the transactions carried out by him in his GST returns i.e. GSTR-1 and
+GSTR-2. Further, the supplier of goods and/ or services has to mention State code of place of supply for each
+invoice in the GSTR-1 while reporting the outward supply.
+
+G2. Without prejudice to the aforesaid, even if the transaction is made taxable in GST, the place of supply, in
+accordance with section 10(1)(c) of IGST Act, 2017, is outside India. There is no mechanism in the GST returns
+to report the transaction in GSTR-1 mentioning the place of supply to be a place outside India. Accordingly,
+the collection mechanism of such IGST is unclear and consequently it is unclear as to whether only Central
+Government or both Central and State Government would receive this revenue.
+
+G3. In the absence of ambiguity around collection mechanism and revenue sharing of such GST, it appears that
+intention of legislatures was never to levy and collect IGST on such type of transaction.
+
+H. The transaction was not taxable under erstwhile indirect tax laws and hence, the same should not be liable
+to GST.
+
+H1. GST has been introduced with a view to subsume majority of indirect taxes applicable in India like service
+tax, central excise, entry tax, VAT, CST etc. The intention of the legislator has not been to tax the transactions
+which were not taxable under existing laws but to have a uniform tax regime throughout the country.
+
+H2. In the type of transaction under consideration, no tax was leviable under Customs Act, 1962, Central Excise
+Act, 1944, Central Sales Tax Act, 1956 and other State VAT laws prior to implementation of GST in India.
+
+H3. As per Article 286 of Constitution of India, the States were not empowered to levy tax on sale or purchase of
+goods which was carried outside the State or in the course of import or export of goods. Further, vide 101+
+oS appsaConstitution (Amendment) Act, 2016, article 286 was amended to bring the same in line with provisions of GST
+, ue Also, that Parliament is empowered to formulate the principles to determine when the supply is said to
+be made outside the State or in the course of import or export. However, no such principles have been
+rmulated till date for GST.
+levying section 6 of CST Act provided that CST shall be levied on all inter-State sale of goods. Similar to
+‘CST Act specifically defined inter-State supplies, sale in the course of import, sale in the course of export
+intya-State sale out of which only inter-State sale was made liable to CST.
+‘ont 5 of CST Act, 1956 provided for the principles to determine whether the transaction is a sale or purchase
+J 4 course of import or export and the same are reproduced below:
+~~ SYLfA sale or purchase of goods shall be deemed to take place in the course of the export of the goods out of the territory of
+ Midia only if the sale or purchase either occasions such export or is effected by a transfer of documents of title to the goods
+sao” after the goods have crossed the customs frontiers of India.
+
+(2) A sale or purchase of goods shall be deemed to take place in the course of the import of the goods into the territory of
+
+India only if the sale or purchase either occasions such import or is effected by a transfer of documents of title to the goods
+
+before the goods have crossed the customs frontiers of India.
+
+(3):
+
+(4).
+
+(5) sauces 4
+
+H6. From the above, it can be understood that even under CST Act, similar type of transaction was not liable to
+CST. Since, the transaction of sale/ supply was not taxable under erstwhile Indirect Tax laws the GST should
+not be payable on the said transaction. The intention behind introduction of GST was to bring uniformity in tax
+laws keeping the taxability principles as is. Hence Applicant pleads that such transaction should also not be
+made liable to tax under GST regime.
+Il. VAT is payable on the said transaction under European VAT Laws
+11. Applicant wishes to draw your kind attention to the fact that in case of supply of tools by INA Germany to
+Applicant, EUVAT is leviable since the goods are located in Germany at the time of supply.
+| 12. As per Article 31 of EU VAT Law the place of supply of goods which does not involve dispatch or transfer of
+goods, shall be the place where goods are located at the time of supply. We have reproduced the said provisions
+below:
+| ‘Article 31
+Where goods are not dispatched or transported, the place of supply shall be deemed to be the place where the goods are
+located at the time when the supply takes place.’
+13. It can be observed from the aforesaid provision of EU VAT that the place of supply for the transaction under
+consideration will be Germany and has already attracted EU VAT. Hence, the same should not be made liable
+| to GST in India. Levying GST on such transaction in India would lead to supply to same tools being taxed in
+6
+
+
+
+Germany as well as in India. Globally, various countries are adopting place of supply principles in a way to
+avoid double taxation. Hence, if the same goods have already been taxed under EU VAT they continue to
+remain in Germany the same tools should not be made subject to GST.
+
+J. Ifat all tax is applicable on the transaction, than input tax credit of the same should be available to the
+
+recipient of supply
+Jl. One of the major objective of introducing GST in India was to allow the seamless flow of credit to the trade
+
+and industry to make the Indian business and Indian products cost effective and competitive in the
+international market.
+J2. It is pertinent to note that provisions of section 16 of CGST Act, 2017 read with section 20 of IGST Act, 2017,
+input tax credit of all the goods and/ or services may be available to the registered person. Further, section
+16 of CGST Act, 2017 lays down various conditions for a person to become eligible to avail input tax credit
+which inter-alia include receipt of goods and/ or services.
+J3. The relevant provisions of section 16 of CGST Act, 2017 is reproduced below:
+(2) Notwithstanding anything contained in this section, no registered person shall be entitled to the credit of any input
+tax in respect of any supply of goods or services or both to him unless,—
+(a) he is in possession of a tax invoice or debit note issued by a supplier registered under this Act, or such other tax
+paying documents as may be prescribed;
+(b) he has received the goods or services or both.
+Explanation. — For the purposes of this clause, it shall be deemed that the registered person has received the goods where
+the goods are delivered by the supplier to a recipient or any other person on the direction of such registered person, whether
+acting as an agent or otherwise, before or during movement of goods, either by way of transfer of documents of title to
+goods or otherwise;
+(c) subject to the provisions of section 41,the tax charged in respect of such supply has been actually paid to the
+Government, either in cash or through utilization of input tax credit admissible in respect of the said supply; and
+(d) he has furnished the return under section 39:
+Provided that where the goods against an invoice are received in lots or instalments, the registered person shall be entitled
+to take credit upon receipt of the last lot or instalment:
+Provided further that where a recipient fails to pay to the supplier of goods or services or both, other than the supplies on
+which tax is payable on reverse charge basis, the amount towards the value of supply along with tax payable thereon within
+a eligibility and conditions for taking input tax credit period of one hundred and eighty days from the date of issue of
+invoice by the supplier, an amount equal to the input tax credit availed by the recipient shall be added to his output tax
+liability, along with interest thereon, in such manner as may be prescribed:
+atts Provided also that the recipient shall be entitled to avail of the credit of input tax on payment made by him of the amount
+
+es
+
+Lr,
+
+4, g een ty Yowards the value of supply of goods or services or both along with tax payable thereon.
+fi Se ]4-\. “Without prejudice to the aforesaid submission, if at all tax is payable on the transaction under consideration
+> / ene \ theh the recipient of supply should be eligible to avail input tax credit of the supply made to him and the
+
+‘condition of receipt should be deemed to have been complied with by applying explanation to section 16(2)(b)
+o£CGST Act, 2017.
+j5. ‘The Applicant contends that if a transaction is held to be liable qua the supplier and not the goods or services
+* or both, then in the same analogy on the very transaction, the credit of input tax needs to be allowed based on
+_ othe recipient and not whether the goods or services or both had been received or not.
+
+~~ ~-J@.5 AF the transaction is deemed to be an inter-state supply and if the same is made liable to GST then it should be
+<s6 deemed that such goods have been received from recipient's perspective and the credit should accordingly, be
+
+_ made available to him.
+
+J7. Further, in order to achieve the objective of introduction of GST, the seamless flow of credit should be
+maintained and the recipient of goods should be made eligible to avail the input tax credit.
+
+J8. Also, if the input tax credit is denied the domestic products may become expensive and that may have
+implications on ‘Make in India’ initiative of Government of India and State Governments as well.
+CONCLUSION
+
+iy In view of the above submissions, the transaction of sale/ supply of goods by the supplier in India should not
+
+be made liable to IGST under section 7(5) (a) of IGST Act, 2017 since, the intention behind section 7(5) (a) was
+to specifically provide that export or import of goods and/ or services should be treated as inter-state
+transaction and not to tax the transactions under consideration.
+
+2. If at all the transaction is made taxable, the recipient should be eligible to avail the input tax credit.
+
+03. CONTENTION - AS PER THE CONCERNED OFFICER
+The submission, as reproduced verbatim, could be seen thus-
+Question raised.
+(a) Whether the sale of goods, which are located outside India would be liable to tax in India u/s 7(5) (a) of IGST Act
+2017?
+Explanation:
+As per section 7(2) of IGST Act 2017 which is reproduced below:'
+Supply of goods imported into the territory of India, shall be treated to be a supply of goods in the course of inter-
+
+state trade or commerce.
+In this case goods doesn't move into the territory of India. Hence IGST Act will not apply in this case.
+
+
+
+Also section 10 of IGST Act provides for various scenarios to determine the place of supply of goods. In case of T2, the
+supply does not involve movement of goods. Hence, without prejudice to Applicant's submission herein below, it
+appears that the said supply would get covered under section 10(1) (c) of IGST Act which is reproduced below:
+
+"10(1) The place of supply of goods, other than supply of goods imported into, or exported from India, shall be as
+under,
+
+(b).
+
+(c) where the supply does not involve movement of goods, whether by the supplier or the recipient, the place of supply
+shall be the location of such goods at the time of the delivery to the recipient;
+(a).
+(C) seers
+In view of said Section 10(1)(c) of IGST Act, in case of T2, the place of supply appears to be location of such goods at
+the time of delivery to recipient. The tool is supplied to customer, however, goods continue to remain outside India
+and hence the same could be construed to be delivered to customer outside India. Accordingly, without prejudice to
+Applicant's submission herein below, the place of supply would be location of goods at the time of delivery i.e. outside
+India.
+
+Thus in this type of transaction IGST will not be leviable u/s 7(5) (a) of IGST Act (i.e. when the supplier is located
+in India and the place of supply is outside India).
+
+04. HEARING
+
+The case was taken up for preliminary hearing on dt. 16.05.2018, with respect to
+admission or rejection of the application when Sh. Nitin Shah, Advocate, Sh. Niraj Menon, C.A., and Sh.
+Anant Joshi, Manager Taxation appeared and requested for admission of application as per their
+contentions in ARA application. The jurisdictional officer, Sh. Y. A. Lokre, Dy. Commr. Of S.T. (PUN-
+VAT-E-610), Pune appeared and made written submissions.
+
+The application was admitted and final hearing was held on 26.06.2018, Sh. Nitin Shah, Advocate,
+
+e by the applicant and the department. The factual matrix of the case is as below:
+Applicant is engaged in supply of bearings and tools. The Applicant supplies bearings to a wide
+
+range of customers which inter-alia include Original Equipment Manufacturers (OEM). For manufacture
+
+of bearings for specific customer, a specific type of tool is required. These tools are developed on the basis
+
+of the requirements of the customers. Using these specially designed tools, child parts are manufactured
+
+and supplied to their customer. The sample transactions are submitted by the applicant before us which
+
+were entered into for supply of bearings between the applicant and one of the customer M/s. Renault
+
+Nissan Automotive India Pvt Ltd, Tamil Nadu. Applicant have two purchase orders as below:
+
+a. PO No. RNAIPL/2013/B4A/PTVT/230 dated 13.09.2013 for supply of tools and
+
+b. PO No. RN15-MP-113W-K316 dated 28.05.2015 for supply of tappets.
+
+In order to comply with purchase orders received by the applicant, applicant in turn places purchase
+orders for manufacture of tools on M/s. Schaeffer Technologies AG & Co. KG, Germany (for the purpose
+of brevity herein after referred as “Scaheffler Germany”). The tools which are required for manufacturing
+
+are developed outside India by Schaeffer Germany. Once the tools are developed, Schaeffer Germany raise
+
+8
+
+
+an invoice on applicant at Pune and as corollary of this the ownership of the said tools get transferred to
+the Applicant, without physical movement of tools from Germany to India i.e. the tools continue to remain
+in the possession of Scaheffler Germany. It means that there is no transfer of goods [Tools] in physical form
+and the Tool remain under the possession of Schaeffer Germany. The Applicant in turn raises an invoice
+to their customer M/s Renault Nissan Automotive India Pvt Ltd, Tamil Nadu and thereby the ownership
+of the tools get transferred to the customer without physical movement of tools, and the tools physically
+continue to remain under the possession of Schaeffer Germany. Thus we find that there are two different
+transactions effected in present matter between the parties for the supply of same tools. One from foreign
+supplier to the applicant (in short T1) and second between applicants to customer within India (in short
+T2). The transaction covered by the present application herein after will be referred to as T2 transaction.
+Applicant has laid much emphasis that the impugned transactions will not be liable to GST as per
+
+provisions of section 7(5) (a) of the IGST Act. In support of their contention applicant has made detailed
+submission to demonstrate why IGST would not be applicable on the transaction under consideration by
+virtue of transaction having following attributes:
+
+1. Levy of IGST cannot be extended beyond territorial jurisdiction of the said legislation.
+
+2. Tax cannot be demanded on the said transaction as the collection, if at all tax is leviable, itself will be
+unconstitutional.
+
+3. Cross-border transactions are being covered under ‘Inter-State supply’ only to exclude the same from
+purview of State Government, however, that would not conclude IGST applicability unless authorized
+The term ‘Zero-rated supply’ should be read in liberal manner and should not be restricted only to taking
+s outside India.
+
+ce f Supply of Service specifically covers case where recipient is located outside India, unlike Place
+‘Blof Goods
+
+wpitissued for High Sea Sales will be applicable to the transaction under consideration.
+
+“If at all tax is applicable on the transaction, then input tax credit of the same should be available to the
+recipient of supply
+
+In view of the above, applicant submits that the transaction of sale/ supply of goods by the
+supplier in India should not be made liable to IGST under section 7(5) (a) of IGST Act, 2017 since, the
+intention behind section 7(5) (a) was to specifically provide that export or import of goods and/ or services
+should be treated as inter-state transaction and not to tax the transactions under consideration.
+Alternatively the applicant submit that if at all the transaction is made taxable, the recipient should be
+
+eligible to avail the input tax credit.
+
+We feel the need to examine only the contentions of the applicant at (4), (5) and (6) above, as these
+
+would be sufficient to answer the questions raised by the applicant.
+
+From the facts of the case we find that the applicant would be purchasing from Schaeffer Germany,
+who is a manufacturer on principal to principal basis. The ownership of the said goods get transferred to
+
+the applicant without any physical movement of the goods from Germany to India. However the goods
+
+9
+
+
+_ remain in the possession of Schaeffer Germany. Once the first transaction takes place applicant transfers
+the ownership of the goods to Indian customer by way of sale. In this case also the goods remain under
+the possession of Schaeffer Germany. In short, the order received by the applicant from their customer in
+
+India and the order placed by applicant on Schaeffer Germany is in the nature of back to back order.
+
+On the basis of the above set facts we would be required to refer to the provisions of IGST Act, 2017.
+First of all to confirm the nature of supply of present goods i.e. whether inter-state or intra-state we are
+required to refer to Chapter IV of the IGST ACT, 2017, which reads as under:-
+
+CHAFTER IV DETERMINATION OF NATURE OF SUPPLY
+
+Inter-State supply
+
+7. (1) Subject to the provisions of section 10, supply of goods, where the location of the supplier and the
+place of supply are in,-
+
+(a) two different Stales;
+
+(b) two different Union territories; or
+
+(c) a State and a Union territory,
+
+shall be treated as a supply of goods in the course of inter-State trade or commerce.
+
+(2) Supply of goods imported into the territory of India, till they cross the customs frontiers of India, shall
+
+treated to be a supply of goods in the course of inter-State trade or commerce.
+
+ai f goods or services or both,--
+
+pythe — is located in India and the ees of ‘nai is outside India;
+
+Intra-State supply
+
+8. (1) Subject to the provisions of section 10, supply of goods where the location of the supplier and the
+place of supply of goods are in the same State or same Union territory shall be treated as intra-State supply:
+Provided that the following supply of goods shall not be treated as intra-State supply, namely:-
+
+(i) supply of goods to or by a Special Economic Zone developer or a Special Economic Zone unit;
+
+(ii) goods imported into the territory of India till they cross the customs frontiers of India; or
+
+(iii) supplies made to a tourist referred to in section 15.
+
+From the reading of Section 7(2) of the IGST Act We find that Supply of goods imported into the
+territory of India till they cross the customs frontier shall be treated as supply of goods in the course of
+
+inter-state trade or commerce.
+In addition to what is stated above we find that the location of the applicant as a supplier of goods
+is in India and the place of supply of goods is outside India i.e. Germany and such impugned transaction
+
+get clearly covered by the scope of section 7(5) (a) of the Act. As a result the transaction is in the nature of
+
+interstate trade and commerce.
+
+10
+
+
+Thus from the harmonious reading of Section 7(2) and Section 7(5)(a) of the IGST Act and the
+discussion held in this behalf herein above we clearly find that the transaction referred to as T2 gets covered
+under the ambit of Interstate trade and commerce. And thus liable to tax as per Section 5 of the IGST Act
+which reads as under:
+
+5. Levy and collection.
+
+(1) Subject to the provisions of sub-section (2), there shall be levied a tax called the integrated
+goods and services tax on all inter-State supplies of goods or services or both, except on the supply of
+alcoholic liquor for human consumption, on the value determined under section 15 of the Central Goods
+and Services Tax Act and at such rates, not exceeding forty per cent., as may be notified by the Government
+on the recommendations of the Council and collected in such manner as may be prescribed and shall be
+paid by the taxable person:
+
+Provided that the integrated tax on goods imported into India shall be levied and collected in
+accordance with the provisions of section 3 of the Customs Tariff Act, 1975 on the value as determined
+under the said Act at the point when duties of customs are levied on the said goods under section 12 of the
+Customs Act, 1962.
+
+(2) The integrated tax on the supply of petroleum crude, high speed diesel, motor spirit (commonly
+
+wn as petrol), natural gas and aviation turbine fuel shall be levied with effect from such date as may
+
+\%
+a on by the Government on the recommendations of the Council.
+
+\S _(3) The Government may, on the recommendations of the Council, by notification, specify
+
+cat ories of supply of goods or services or both, the tax on which shall be paid on reverse charge basis by
+es of such goods or services or both and all the provisions of this Act shall apply to such recipient
+asi, te is the person liable for paying the tax in relation to the supply of such goods or services or both.
+(4) The integrated tax in respect of the supply of taxable goods or services or both by a supplier,
+who is not registered, to a registered person shall be paid by such person on reverse charge basis as the
+recipient and all the provisions of this Act shall apply to such recipient as if he is the person liable for
+paying the tax in relation to the supply of such goods or services or both.
+
+(5) The Government may, on the recommendations of the Council, by notification, specify
+categories of services, the tax on inter-State supplies of which shall be paid by the electronic commerce
+operator if such services are supplied through it, and all the provisions of this Act shall apply to such
+electronic commerce operator as if he is the supplier liable for paying the tax in relation to the supply of
+such services:
+
+Provided that where an electronic commerce operator does not have a physical presence in the
+taxable territory, any person representing such electronic commerce operator for any purpose in the
+taxable territory shall be liable to pay tax:
+
+Provided further that where an electronic commerce operator does not have a physical presence
+in the taxable territory and also does not have a representative in the said territory, such electronic
+commerce operator shall appoint a person in the taxable territory for the purpose of paying tax and such
+
+person shall be liable to pay tax.
+
+ai
+
+
+From the transactions placed by the applicant before us there is no doubt that the goods of the
+applicant would be imported goods if they are brought from outside the country into India and it is clear
+that when the location of the supplier is in India and the said goods are delivered/supplied from a place
+outside India to a place outside India, these goods have not crossed the customs frontiers of India, thus
+clearly the transaction in these goods are in the nature of inter-state supply as per Section 7(2) and 7(5)(a)
+of the IGST Act.
+
+We find that proviso to Section 5(1) of the IGST Act states that “Provided that the integrated tax
+on goods imported into India shall be levied and collected in accordance with the provisions of section 3
+of the Customs Tariff Act, 1975 on the value as determined under the said Act at the point when duties of
+customs are levied on the said goods under section 12 of the Customs Act, 1962”.
+
+Thus from the above it is clear that integrated tax on goods imported into India is to be levied and
+collected in accordance with Section 3 of the Customs Tariff Act, 1975 and Section 12 of the Customs Act,
+1962 and the same is to be levied and collected at the time of import into India. The goods are considered
+to be imported into India only after they clear the customs frontier after compliance of applicable
+procedures and payment of duty as applicable.
+
+Thus as per Section 7(2) and 7(5) (a) of the IGST Act and proviso to Section 5(1) of the IGST Act it
+
+extegtin accordance with the provisions of Section 12 of the Customs Act, 1962 and Section 3 of the
+& Psustone Satiff Act, 1975. Section 12 of the Customs Act, 1962 provides that custom duties which includes
+
+clear that in respect of imported goods into the territory of India there is no levy and collection
+
+\
+
+57
+hid
+
+the
+
+‘war in respect of imported goods would be levied only at the time of import or export of goods.
+us in case of goods supplied on an out an out basis as is in the present case, there is no levy till
+of their customs clearance in compliance with Section 12 of the Customs Act and Section 3 of the
+
+G
+Tariff Act. In view of this the imported goods sold from and to a non-taxable territory, though
+
+they are clearly in the nature of inter-state supply would come in the category of “exempt supply” as no
+duty is leviable on them except in accordance with proviso to Section 5(1) of the IGST Act.
+
+We find that in the definition of exempt supply as given in Section 2(47) of the CGST Act is as
+under:-
+Section 2(47) of the Central Goods and Services Tax (CGST) Act, 2017, “exempt supply” means supply of
+any goods or services or both which attracts nil rate of tax or which may be “wholly exempt from tax under
+section 11, or under section 6 of the Integrated Goods and Services Tax Act, and includes non-taxable
+supply”.
+
+Further we find that Section 2(78) of the CGST Act defines non-taxable supply which is as under:-
+“ As per Section 2(78) of the Central Goods and Services Tax (CGST) Act, 2017, “non-taxable supply” means
+a supply of goods or services or both which is not leviable to tax under this Act or under the Integrated
+Goods and Services Tax Act”.
+
+Thus it is very clear that the goods sold in the subject transaction are non-taxable supply as no tax
+is leviable on them till the time of customs clearance in accordance with and compliance of Section 12 of
+
+the Customs Act, 1962 and Section 3 of the Customs Tariff act, 1975.
+
+12
+
+
+We find that the above legal position is further reiterated and confirmed by Circular No. 3/1/2018
+- IGST dated 25.05.2018 issued by the Central Board of Indirect Taxes and Customs, GST Policy Wing.
+6. In view of the extensive deliberations as held hereinabove, we pass an order as follows:
+ORDER
+
+(Under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+NO.GST-ARA- 04/2018-19/B- GO Mumbai,dt. 6 q | o7/ 20/8
+
+For reasons as discussed in the body of the order, the questions are answered thus -
+Question:-Whether the sale of goods, which are located outside India, would be liable to tax in India under
+section 7(5) (a) of Integrated Goods and Services Tax Act, 2017?
+
+Answer: - Answered in the Negative.
+
+Question:- — If answer to (a) is yes, then whether the recipient, to whom such goods are sold, be eligible
+
+input tax credit of such goods?
+
+—
+B. V. BORHADE PANKAJ KUMAR
+(MEMBER) MEMBER)
+
+Copy to:- Cc RTIFIED TRUE COPY
+
+1. The applicant
+2. The concerned Central / State officer
+
+3. The Commissioner of State Tax, Maharashtra State, Mumbai ————
+4. The Jurisdictional Commissioner of Central Tax.
+5. Joint commissioner of State tax , Mahavikas for Website. ER
+
+ADVANCE RULING AUTHORITY
+
+MAHARASHTRA STATE, MUMBA!
+Note :- An Appeal against this advance ruling order shall be made before The Maharashtra Appellate
+
+Authority for Advance Ruling for Goods and Services Tax, 15" floor, Air India building, Nariman Point,
+Mumbai - 400021.
+
+13

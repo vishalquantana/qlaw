@@ -1,0 +1,1289 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+
+“GST Bhavan, Old Building, Ist floor, B-Wing, Room No.107, Maz Mumbai - 400010.
+(Constituied under Section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri. D. P. Gojamgunde, Joint Commissioner of State Tax, (Member)
+(2) Ms. Priya Jadhav, sac Commissioner of Central Tax, (Member)
+
+ARN No. | AD270222027038G wail
+
+GSTIN Number, ifany/ | User-id | 27AABCU4383J1Z0 i
+
+Legal Name of Applicant M/s. EPIGENERES BIOTECH PRIVATE
+LIMITED
+
+Registered Address/Address B BLOCK, KON HOUSE, SUN MILL
+provided while obtaining user COMPOUND, SENAPAT! BAPAT MARG,
+
+id sao ta _ LOWER PAREL, MUMBAI, 400013 —_
+Details of application GST-ARA, Application No. 61 Dated 15.02.2022 |
+Concerned officer Zone-Mumbai, Division-III, Range- -11 |
+
+Nature of activity(s) (proposed/present) in respect of which advance ruling sought |
+ol
+
+Service Provision |
+
+Applicant is engaged in the following business: -
+
+1) Manufacturing and trading of Nutraceutical
+products
+
+2) Provision of Laboratory/ testing/ Diagnostic
+
+at: services
+
+Iss eye on which advance |* Applicability of a notification issued under the
+
+dsl required |___ provision of the Act |
+sstion(s) on which advance As reproduced in para 01 of the Proceedings below.
+
+ing is required |
+
+NO.GST-ARA- 61/21-22/2024-25B- | 6% barnibcl dt. 2°7/03/ 2025
+PROCEEDINGS
+
+(Under Section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+
+Goods and Services Tax Act, 2017)
+
+[A | Category
+
+The present application has been filed under Section 97 of the Central Goods and Services
+Tax Act, 2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to
+as “the CGST Act and MGST Act” respectively] by M/s. EPIGENERES BIOTECH PRIVATE
+LIMITED, the applicant, seeking an advance ruling in respect of the following questions.
+
+1, Whether the provision of diagnostic services by the applicant would qualify for
+
+exemption from GST under entry no. 74 of the Notification no. 12/2017 - CT(R) dated
+28th June 2017 (herein after referred to as ‘Exemption Notification’) and consequently
+the proposed services would get classified under service accounting code 9993?
+
+2, Lf Service accounting code 9981 would become relevant in case where the proposed
+
+services would not qualify for exemption under entry No. 74 of the Notification No.
+
+Page 1 of 25
+M/s, EPIGENERES BIOTECH PRIVATE LIMITED /61/2021.22
+
+
+12/2017-CT(R) dated 28th June 2017 in absence of exemption for specified service
+
+accounting code.
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and
+the MGST Act are the same except for certain provisions. Therefore, unless a mention is
+specifically made to any dissimilar provisions, a reference to the CGST Act would also mean
+a reference to the same provision under the MGST Act, Further to the earlier, henceforth for
+the purposes of this Advance Ruling, the expression ‘GST Act’ would mean CGST Act and
+MGST Act.
+
+01. FACTS AND CONTENTION - AS PER THE APPLICANT FACTS:
+1.1 Epigeneres Biotech Private Limited ('EBPL’ or ‘Epigeneres’ or ‘the Company’ or ‘the
+Applicant’) is an entity incorporated in India having its place of business at B Block, Ikon
+House, Sun Mill Compound, Senapati Bapat Marg, Lower Parel, Mumbai, Mumbai City,
+Maharashtra, 400013, India. The Company is registered under CST in the state of
+Maharashtra vide GSTIN -27AABCU4383]120 and other Indian tax laws (as applicable
+in India),
+PK 3 URE he applicant's business can be bifurcated into two divisions iain
+
+operationalizing the laboratory wherein using defined standard protocols, blood-based
+test would be undertaken. The outcome of blood tests would assist in the early detection
+of cancer.
+1.5 For better understanding of the business, we have provided below the key understanding
+about the diagnostic business operation as follows:
+
+* The diagnosis / testing process / technology is an algorithm-based technology which
+is operated with the help of next-generation sequencing (NGS) data analysis
+machines and Real-time PCR (RTPCR) machines.
+
+* Next-generation sequencing (NGS) has been widely implemented for whole-genome
+sequencing, whole-exome sequencing, transcriptome sequencing, targeted region
+sequencing, epigenetic sequencing, and other sequencing. With the advent of this
+technology, there is great potential for NGS application in disease management and
+treatment, genetic counseling, and tisk assessment. From a clinical perspective, the
+technology can be used for but is not limited to molecular diagnosis of genetic disease
+
+Page 2 of 25
+M/s. EPIGENERES BIOTECH PRIVATE LIMITED /61/2021-22
+
+
+and infectious disease, prenatal diagnosis, carrier detection, medical genetics and
+pharmacogenomics, cancer molecular diagnosis, and prognosis. Cancer is a
+heterogeneous disease that arises from accumulation of DNA mutations. New
+sequencing technologies have a significant impact on cancer diagnosis, management,
+and treatment. NGS analysis provide a landscape of mutations in cancer genomes
+across many cancer types. This allows to better understand the molecular mechanism
+of oncogenesis and the rationale for molecule-guided therapies.
+
+* As per genomics article on next generation 2021, next-generation sequencing (NGS)
+has transitioned from research to clinical use during past five years. At least 14
+countries have created initiatives to sequence large populations and it is projected
+that more than 60 million people worldwide will have their genome sequenced by
+2025. However, there has not been an assessment of global NGS implementation.
+
+* The technology to be used by the applicant is a type of DNA/RNA
+
+sequencing/ amplification, gene expression profiling testing. By using the specified
+
+technology, the result on HrC scale marker would be provided by the applicant which
+could be used as the base for further treatment of the disease. The testing would
+involve human intervention to read the HrC scale and identification of disease.
+
+dy for next one-year basis the DNA/ RNA genes in the human body.
+° ‘The said test will help in detecting if cancer is absent, imminent, or present.
+"S16 The! Jab which is to be set up by the applicant would be at Ikon House, B-Block, Sun Mill
+
+4
+
+y, SG ;mpound, Senapati Bapat Marg, Lower Parel, Mumbai, Pin-400013, Maharashtra,
+
+1.7 The brief of technical process from extraction of blood to generation of report is as under:
+
+* Blood samples are subjected to RNA extraction using standard protocols.
+* This RNA is quantitated and then a fixed amount is subjected to qRT-PCR for specific
+markers.
+* The results are compared between control and cancer patient. Fold change is
+suggestive of presence of cancer, This data is shared with the patients.
+1.8 The summary (i.e., Qualification and Count of current laboratory Staff} is provided as
+
+follows:
+| Qualification Count of
+| Employee
+rom 1
+BHMS 7 1
+‘BSC (Botany) ; ceil
+
+Page 3 of 25
+M/s, EPIGENERES BIOTECH PRIVATE LIMITED/61/2021-22
+
+
+| BSC. IT fi 1
+
+M. Se. In Bio-medical science 1
+| MSc. Biotechnology 2
+M.Sc. Pharmacoinformatic a
+MTech (Biotechnology) - zi 2
+MSe - Microbiology al
+| Ph.D. (Bioscience) 1
+| Ph.D. (Chem. Engg) 1
+Ph.D. (Molecular Oncology) | 1
+
+Ph.D. Post -Doc 1
+
+: are various machines used for processing of report/ testing process. We have
+‘hed list of Machine with this application.
+applicant has applied for below specified licenses to undertake diagnostic tests, the
+Certificates are attached with this application.
+
+OS" NABL: National Accreditation Board for Testing and Calibration Laboratories.
+* GLP: The Principles of Good Laboratory Practice
+* DSIR: Department of Scientific and Industrial Research.
+
+Machinery/equipment used for processing of report/ testing process
+
+| Sr. | Name of Equipment | Company
+| No. |
+1 | RTPCR te | Thermo Fisher
+2 | Oubit ‘Theme faba:
+3 | Deep Freezer (-20°C) ~~ | Thermo Fisher
+4 Deep Freezer (-80°C) Thermo Fisher
+| 5 | Centrifuge (Refrigerated) Thermo Fisher
+| 6 | Biosafety Cabinet (Level ~~ | Thermo Fisher
+| 7 | NanoDrop Thermo
+| Scientific
+
+Page 4 of 25
+M/s. EPIGENERES BIOTECH PRIVATE LIMITEDy61/2021-22
+
+
+8 Gel Doe LAS 500
+
+9. Water Purifier Millipore
+
+; 10 Pipettes Eppendorf
+11 Weighing Balance Sartorious
+12. Refrigerator (+4°C) Large |Bluestar |
+13 Agarose Gel Electrophoresis (AGE) | Biorad
+14 Refrigerator (+4°C) Small Kelvinator
+
+| 15 | Micro centrifuge REMI
+16 Microwave Votas
+17 Thermal cycler Thermo Fisher
+18 lee Maker ~~ | Labman
+19 Autoclave Labline
+20 | Incubator Labline
+
+a Magnetic Strirrer Istir
+99 Bacteriological Incubator Metalab
+
+23 | Static Pass Box MOC: $8304
+24 Single Phase Servo Stabilizer ~~ | Technova
+25 | Laminar Airflow (ft) =| ‘Imset
+
+26 | Vortex Mixer Tarson
+27 | Rotospin | Tarson
+28 | Hot waterbath Laban
+
+02. STATEMENT CONTAINING APPLICANT'S INTERPRETATION OF LAW:
+
+2.1 At the outset, the applicant would like to draw your attention to Section 2(47) of the CGST
+Act, 2017 which defines "exempt supply" and as per section 11(1) of the CCST Act, 2017,
+the Government may issue notification exempting a goods or service from tax.
+
+2.2. It may be noted that healthcare services provided by clinical establishment has been
+exempted under the Notification no. 12/2017 - CT(R) dated 28th June 2017 (herein after
+
+referred to as ‘Exemption Notification’).
+
+Page 5 of 25
+M/s, EPIGENERES BIOTECH PRIVATE LIMITED/61/2021-22
+
+
+2.3, The relevant extract of entry which provides exemption to health care services under the
+
+Exemption Notification is as follows:
+
+SI Chapter, Section, | Description of Services | Rate Condition
+| No. | Heading, (%)
+| Group or Service
+| Code (Tariff)
+| 74 | Heading Services by way of- NIL | NIL
+9993 (a) health care services by a clinic
+
+establishment, an  — authorisec
+| medical practitioner or para medics;
+
+|
+
+2.4, The term “Health care services” is defined in the said notification vide clause (zg), which
+
+is also reproduced hereunder:
+
+“(ze) “health care services” means any service by way of diagnosis or treatment or care for
+illness, injury, deformity, abnormality or preonancy in. any recognised system of medicines
+int India and includes services by way of transportation of the patient to and froma clinical
+establishment, but does not include hatr transplant or cosmetic or plastic surgery, except
+when undertaken to restore or to reconstruct anatont nections of body aj ed due ta
+congenital defects, developmental abnormalities, injury or trauma;”
+
+eatin or care for illness, injury, Seeredie abnormality or pregnancy in any recognised
+J system of medicines in India, or a place established as an independent entity or a part of an
+
+establishment to carry out diagnostic or investigative services of diseases,”
+
+2.6. Further, the term “authorised medical practitioner” is defined in the said notification
+
+vide clause (lc), which is also reproduced hereunder:
+
+(k) “authorised medical practitioner” means a medical practitioner registered with any of the
+councils of the recognised system of medicines established or recognised by law in India and
+
+includes a medical professional having the requisite qualification to practice in any recognised
+systent of medicines in India as per any law for the time being in :
+
+2.7. It may be noted that similar exemption also exists in state GST law and Integrated GST
+law vide entry No, 74 of Notification No. 12/2017- State Tax (Rate) and No. 77 of
+Notification No. 9/2017-Integrated Tax (Rate).
+
+2.8. Theoretically, the person who wishes to claim exemption under above referred needs to
+
+fulfil two-fold conditions, which are as follows:
+
+Page 6 of 25
+M/s. EPIGENERES BIOTECH PRIVATE LIMITED/61/2021-22
+
+
+* To provide services by way of Health Care service; and
+* To fall under the ambit of Clinical Establishment
+The interpretation and analysis of each of the above qualification tests is discussed below
+in detailed for your reference:
+2.9, The term “healthcare services” as defined above can be divided into following branches:
+
+i. It means services provided by way of diagnosis or treatment or care for illness, injury,
+deformity, abnormality, or pregnancy. Further, the said services should be provided
+in any recognised system of medicines in India.
+
+(‘Means’ part of the definition)
+
+ii, It includes services by way of transportation of the patient to and from a clinical
+establishment.
+
+(‘Inclusionary’ part of the definition)
+
+iii, It does not include services of hair transplant or cosmetic or plastic surgery, except
+when undertaken to restore or to reconstruct anatomy or functions of body affected
+due to congenital defects, developmental abnormalities, injury, or trauma.
+
+(‘Exclusion’ to the definition)
+2.10. Out of above three limbs, the first limb of the definition is read as “services provided by
+way of diagnosis or treatment or care for illness..." seems more relevant to the activities to be
+
+performed by the company. With the backdrop of the proposed business of the company, the
+
+es company humbly makes below subrnission:
+
+a It may be noted that the word ‘by way of diagnosis’ as used in the above-mentioned
+efinition has not been defined in GST law. The general interpretation of the term “by
+ay of diagnosis” could be used to construe it to be wide enough to cover any process
+
+SN tae i* /Antrinsically linked or associated with “diagnosis” or which assist in diagnosis. Hence,
+
+Ne _/&“/ it is pertinent to note that the phrase “by way of diagnosis” would also include all
+Naka gt a activities that preludes a complete diagnosis i.e. prognosis.
+
+“—ss==" pb) The word ‘treatment or care for illness’ as used in the above-mentioned definition has
+
+not been defined in GST law. General interpretation of the term “treatment or care for
+illness” is wide enough to cover any process associated to cure the disease and any of
+the term treatment is the first stage towards cure of illness.
+
+c) In this context, the applicant believes that that applicant's scope to analyse the disease
+and stage of cancer through blood test and to know the current medical condition of
+the patients can be said to fall within the ambit of the term “by way of diagnosis” for
+the purpose of aforesaid entry in the Notification.
+
+d) It is important to understand that diagnosis is the first and most crucial stage in a
+patient's journey when he reaches doctor with a complaint. The diagnostic services
+so rendered by the Company are imperative and must for a comprehensive and
+accurate diagnosis of the medical condition of the patient. Thus, an act of providing
+analysis report representing the interior condition of human body or function of some
+major organs or tissues is a steppingstone for any treatment or cure of the disease.
+
+Page 7 of 25
+M/s. EPIGENFRES BIOTECH PRIVATE LIMITED/61/2021.-22
+
+
+e) Considering the above, it appears to the applicant that the activity carried oul by the
+applicant qualifies as services provided by “way of diagnosis of disease” for the
+purpose of healthcare services as defined under the Notification.
+
+f) Thus, the applicant requests your good self to validale and confirm this
+understanding.
+
+2.11. The first limb of the definition also emphasize that the said services should be provided
+
+“in any recognised system of medicines in India”. In this regard, the applicant humbly
+submits that, GST Law do not provide referencing to any recognised system of
+Medicines in India. It is pertinent to note that, the Molecular Testing is one of the
+recognised disciplines of testing in India as provided in the grouping of medical
+laboratory division of NABL (discussed in para deals with clinical establishment).
+
+2.12. Further, it is submitted that the definition of clinical establishment (as provided above)
+can be divided in following twe limbs / categories:
+
+I. It means a hospital, nursing home, clinic, sanatorium, or any other institution that
+offers services or facilities of diagnosis or freatment or care for illness, injury,
+deformity, abnormality, or pregnancy in any recognised system of medicines in India,
+
+Means a place established as an independent entity or a part of an establishment to
+7 out diagnostic or investigative services of diseases,
+a)’ ihe above backdrop, the applicant may not fall under the first category since the
+applicant i is not a hospital, nursing home etc. However, the set up under which the
+epican would perform diagnostic services may get qualify under second
+JS egory since the applicant is working as an independent entity at its premises
+Se 4g ~Arom where the testing/ laboratory services are uncertaken.
+
+“SS ="b) The applicant also bring notice to your good self that they have applied for a licence
+from National Accreditation Board for Testing and Calibration Laboratories)
+which is an autonomous body under the aegis of Department of Science and
+Technology, Government of India which has been authorised as the sole
+accreditation body for Testing and calibration laboratories. NABL accredits the
+laboratories that have aligned their quality management system with
+internationally accepted standards and guidelines i.c., ISO/TEC17025:2005.
+
+¢) NABL has further categorised into following three fields:
+i. Testing Laboratories
+ii. Calibration Laboratories
+iti. Medical Laboratories
+d) The sub-category of Medical Laboratories as per NABL includes various
+disciplines, below are relevant to our case:
+
+Page 8 of 25
+M/s. EPFIGENERES BIOTECH PRIVATE LIMITED/61/2021-22
+
+
+i. Clinical pathology supports the diagnosis of disease using laboratory testing of
+blood and other bodily fluids, tissues, and microscopic evaluation of
+individual cells.
+
+ii. Molecular Testing, a diagnostic test that detects genetic material from the
+virus. Reverse Transcription Polymerase Chain Reaction (RT-PCR) is one
+type of molecular diagnostic test. Nucleic Acid Amplification Test (NAAT)
+is another type of molecular diagnostic test.
+
+e) The applicant has also opted for good laboratory practice (“GLP”) which is a
+quality system of management controls for research laboratories and
+organizations to ensure the uniformity, consistency, reliability,
+reproducibility, quality, and integrity of products in development for human
+or animal health (including pharmaceuticals) through non-clinical safety tests;
+from physio-chemical properties through acute to chronic toxicity tests.
+
+f) Additionally, the company humbly submit that the scope of work of the
+
+applicant would, inter alia, include and cover the following:
+
+- Collection of blood sample of the patients at the patient's premise, this can
+
+be in-housed or outsourced.
+
+- Processing/ testing the sample to know the disease, if any.
+
+- Preparation of report basis the HrC scale of the patient's condition; and
+
+- Communicating the results to the patients to start the treatment, if required.
+
+Further, the services shall be provided by the applicant to the patients on
+Business to customer model. Separately, the applicant is an independent
+establishment which shall deploy its own qualified / competent personnel
+and relevant medical equipment for provision of the above service.
+
+h) Basis above detailed discussion with respect to condition of clinical
+establishment, the applicant believes that it is a clinical establishment as
+required by the referred entry.
+
+i) Thus, the applicant requests your good self to validate and confirm this
+understanding.
+
+2.13. We hereby also attached various news article which were published for the research
+
+undertaken by the applicant.
+2.14. In view of the above, we would like to draw reference to various rulings:
+
+i. We would like to draw reference to Kerala Advance ruling in case of M/s Medivision
+Scan and Diagnostic Research Centre (P) Ltd [KER/41/2019 dated: 12.04.2019] wherein
+it has been held that services provided in diagnostic sentinels such as clinical
+biochemistry, micra biology, chemotology, clinical pathology, radiology, ECG,
+radiometry, pulmonary function test qualify as health care services and a diagnostic
+centre are clinic establishment. The relevant para of the judgement is reproduced as
+under:
+
+Page 9 of 25
+Mjs. FPIGENERES BIOTECH PRIVATE LIMITED/61/2021-22
+
+
+Quote:
+The diagnostic centres are organized facilities to provide diagnostic procedures such as
+radiological investigation supervised by a radiologist and clinical laboratory services by
+laboratory specialists usually performed through referrals from physicians and other health
+care facilities. Clinical/Medical diagnostic laboratory means a laboratory with one or more
+of the following; where microbiological, serological, chemical, hematological,
+immunehematological, immunological, toxicological, cytogenetic, exfoliative cytogenetic,
+histological, pathological or other examinations are performed of materials/fluids derived
+from the human body for the purpose of providing information on diagnosis, prognosis,
+prevention, or treatment of disease. These types of diagnosis or investigations rightly come
+under the category of health care services and are, therefore, eligible for exemption from GST
+
+Unquote:
+
+It has been held that the services provided by diagnostic center is a clinical
+establishment and providing Health Care Service therefore exempted from GST.
+Further, a place established as an independent entity or part of an establishment in
+connection with the diagnosis or treatment of diseases where pathological,
+bacteriological, genetic, radiological, chemical, biological investigations or other
+diagnostic or investigative services with the aid of laboratory or other medical
+equipment’s, are usually carried on come under the definition of ‘clinical
+establishments.
+
+i. In case of M/s Sayre Therapuetics Private Limited [KAR ADRG 5 / 2018 dated:
+3.2018], it has been held that the services dealing with oncology and immunology
+and diagnostics related products offered / provided by the Applicant qualify
+Meath Care Services. To give brief background, Sayre is involved in the diagnosis,
+qaatatgenet therapy and praverition of diseases by providing tests Serene
+
+In the instent case the applicant offers services/facilities requiring diagnosis such as patient
+counselling, suggesting the relevant test for the patient, collecting samples, obtaining the
+result of the test, sharing the lest resulls and post counselling. The medical team of te
+applicant discusses with the oncologist/pathologist, takes samples of required tissues and
+send it for the tests to US/Germany, with regard to the oncology/auto immune diseases. They
+play the role of referral/physician and also advice doctors for line of treatment to the
+establishment. They provide the said services in “Allopathy" system of medicines, recognised
+in India. Therefore, they qualify to be a clinical establishment
+
+Unquote:
+
+In the given case, the medical team of the applicant is involved in complete cycle of
+
+testing process, similar corollary can be drawn im the given case if EBPL would
+
+undertake end to end activity till the time reports are being submitted. However, as
+
+Page 10 of 25
+M/s, EPIGENERES BIOTECH PRIVATE LIMITED /61/2021-22
+
+
+per as-is business plan, the outcome of tests undertaken by EBPL would be a first step
+which may require further assessments to support the outcome of the presence and
+stage of cancer,
+
+iii. The reference is being drawn to ruling in case of M/s DKMS BMST Foundation India
+[KAR ADRG 24/2020 dated: 23.04.2020], wherein it has held that Human Leukocyte
+Antigen (HLA) testing services performed by an overseas laboratory outside India on
+Human Buccal Swabs sent by a nonprofit organisation in India would be exempled
+from GST as it would be covered under healthcare services by a clinical establishment.
+The brief summary of the case is provided as below:
+
+Quote:
+
+The service of HLA typing is to identify the potential donors and is related directly to a
+
+transplantation to be done on a future date to a patient requiring such transplant.
+
+Analogous to testing of Blood Group, HLA typing identifies the alleles of the donor and
+
+these alleles are matched with the alleles of the recipient of transplant. The applicant gets
+
+the HLA of the potential donors typed and uploaded to the databases for the doctors to
+identify the potential donors. Hence the service is to be received only to shortlist the
+potential donors and increase chences of getting the perfect donors from a big list of
+potential donors and going through the entire process of testing ab initio and matching
+between the patient.and the donor individually. This testing is sine qua non for any
+transplantation of an organ not restricted to blood stem cell transplantation and tt is only
+
+a preponement af such testing or diagnosis of the potential donor to obtain the blood stem
+
+cells which is for the treatment, Other than for obtaining an organ from a potential donor,
+
+\\ this HLA testing is not done for any olher purpose in clinical set up and hence this ts a for
+
+|| the treatment of an illness, the same is covered under “health care services” as per the
+
+|) definition given to it, It is seen that the HLA testing involves various tests which are for
+the identification of the alleles of the donor cells and also the suitability of the potential
+donor for treatment ofa patient of illness, i.e., blood cancer and other blood disorders. Hence
+any institution which does these investigative services would be covered under the
+definition of “clinical establishment” as contemplated in the said definttion. Hence, the
+LSL DE is a clinical establishment under the meaning given to tt.
+Unquote:
+Other than for obtaining an organ from a potential donor, the specified HLA
+testing is not done for any other purpose in clinical set up, still it is held by the
+authorities to construe it for the treatment of an illness covering under the
+umbrella of "health care services", it appears that the tax officials are considered
+the definition of “health care services” wider enough to include any act which
+supports treatment of illness also. Further, the services of HLA Typing received
+by DKMS BMST Foundation India from the overseas laboratory is covered under
+the definition of “health care services by a clinical establishment” and thereby is
+exempted from IGST leviable thereon and accordingly not taxable in the hands of
+the applicant under reverse charge mechanism.
+
+Page 11 of 25
+M/s, EPIGENERES BIOTECH PRIVATE LIMITED/61/2021-22
+
+
+iv. In case of M/s J C GENETIC INDIA PRIVATE LIMITED [23/2018 dated 21-01-19], it
+has been held that the services such as activities in the diagnosis pre- and post-
+counselling therapy and prevention of diseases by providing necessary sophisticated
+tests are health care services however, the Applicant has failed to prove their legal
+status as Clinical Establishment and they are merely working as ancillary or sub-
+contractors to other accredited companies. The relevant para is quoted below:
+
+Quote:
+The applicant also provides required treatment by Physician for oncology, Cardiology,
+Nephrology, Dermatology, Neurology, Haematology, Rheumatology, Gastroenterology,
+Immunology, Retinopathy, etc. They also provide sophisticated and relevant tests by sequencing
+BRCA 1 & BRCA 2 gene muctation tests and also predict patient risk for ovarian cance,
+It is pertinent to mention here that the exemption for which the instant application has been
+filed is Service Specific as well as Service Provider Specific. Thus, to qualify for the said
+exemption an establishment has to satisfy dual conditions of providing Healthcare Service
+as well as being a Clinical Establishment. Thus, while the service provided by the Applicant
+may be Healthcare Service, they do not qualify to be a Clinical Establishment as observed
+
+supra.
+
+Having considered the factual position as detailed by the Applicant, we find that the
+applicant has categorically mentioned that they have collaboration with companies, which in
+turn are aceredited by NABL and DSIR, We find that the Applicant has netther come
+vard with the names of such conipanies with which the Applicant claims to have
+1 tion, nor have the Applicant produced any document evidencing their own status
+rreditation by NABL, which obviously is the sole accreditation body for testing and
+iitation laboratories. In absence of anything brought on record by the Applicant, we are
+F ee lied to beliewe that the Applicant is making a vain attempt to cireuntvent the essential
+~ Seghdition for qualification of Clinical Establishment. Needless to say, that irrespective of the
+work being undertaken try the Applicant, we do not have any evidence before us even to
+indicate that the Applicant is a Clinical Establishment. Mere involvement in sophisticated
+testing and providing consultancy would not be a sufficient criterion, though necessary, for
+qualifying as a Clinical Establishment per se.
+
+Unquote:
+
+In the given case, the Applicant is dealing in genetic testing for prevention,
+management and precision diagnostics in detecting origin of the Cancer and thereby
+predicting risk of various diseases and providing precise medicines for the diseases
+and overall healthcare. The specified services appear to proximate to services proposed
+by EBPL. The Applicant did not have their own authority for giving clear report/
+opinion of their own for the tests, and they have to get all the tests conducted and
+certified by the said NABL accredited laboratory. To put it in precise words, the
+Applicant were functioning as sub-contractors to the said accredited companies and
+not as an independent Clinical Establishment.
+
+Page 12 of 25
+M/s, EPIGENERES BIOTECH PRIVATE LIMITEIY61/2021.-22
+
+
+2.15. Basis detailed submission, the applicant is of a belief that two-fold conditions ie.
+provision of healthcare services by a clinical establishment is being fulfilled. However,
+to obtain a confirmation on this understanding, the applicant has opted for advance
+ruling.
+
+2.16. Given the above in-depth discussion and our understanding with respect to qualification
+for exemption, we hereby kindly draw your attention to the classification of services. It
+is to be noted that the description of services as provided in the above entry covers
+service accounting code (‘SAC’) 9993 within its purview. SAC 999316 i.e. Medical
+Laboratory and Diagnostic-imaging services is a part of Group 99931 human Health
+Services which is under Heading 9993 Human Health and Social Care Services.
+
+Service Accounting Code | Particulars/ Description
+(SAC)
+
+999316 | Medical laboratory and diagnostic-imaging
+| services
+
+2.17. The interpretation/ reference is drawn to the “Explanatory Notes to the Scheme of
+
+\“Survice Accounting Code 999316 - Medical laboratory and diagnostic-imaging services -
+
+\ ¢ * ) Service Accounting Group Heading “9993” covers all types of ‘Human health & social care
+
+, jp Service Accounting Code "999316", which falls within Group Heading “9993”, specifically
+
+covers ‘Medical Laboratory and Diagnostic-imaging services.
+- Medical Laboratory and Diagnostic-imaging services have been explained to specifically
+include ‘Analysis and testing services provided by medical laboratories.
+
+a) Basis the above, it is pertinent to note that to fall within the ambit of SAC 999316, the
+service is mandatorily required to be provided by the medical laboratories. The term
+laboratory has nowhere been defined under the GST law. As per general meaning
+available on Wikipedia, a medical laboratory or clinical laboratory is a laboratory
+where tests are carried out on clinical specimens to obtain information about the health
+of a patient to aid in diagnosis, treatment, and prevention of disease. Clinical Medical
+laboratories are an example of applied science, as opposed to research laboratories that
+focus on basic science, such as found in some academic institutions.
+
+b) In given case, since the applicant is obtaining licenses / affiliations with the recognised
+institute of medical science as a medical laboratory in India, the activity performed by
+the applicant can be said to be falling in the general meaning as per Wikipedia, it can
+be concluded that the applicant is a medical laboratory in India.
+
+Page 13 of 25
+M/s. EPIGENERES BIOTECH PRIVATE LIMITED /61/2021-22
+
+
+c) Additionally, as discussed in para relevant for “clinical establishment”, currently,
+NABL accreditation is given in the various fields and disciplines. The applicant has
+applied for “Molecular Testing” & “Clinical Pathology” in Medical Laboratories field.
+
+d) Therefore, applicant being medical laboratory in India, the belief is formed that
+‘service accounting code 999316- Medical laboratory and diagnostic-imaging
+services’ shall be applicable. We request your good self to kindly confirm the
+
+understanding.
+2.18, Whilst the above classification appears to be relevant along with availability of exemption
+
+(as discussed in ensuing paras), we also wish to draw your kind attention to service
+
+accounting code 998113 which has come to our notice also appearing to be relevant to
+
+the proposed activity:
+
+‘Service Accounting Code | Particulars/ Deseription
+(SAC) |
+
+Research and experimental development
+services in
+medical sciences and pharmacy
+
+998113
+
+2.19. The interpretation/ reference is drawn to the “Explanatory Notes to the Scheme of
+Classification of Services” as issued by the CBIC on their website.
+
+WEN Service Accounting Code 998113 - Research and experimental development services in
+‘SON medical sciences and pharmacy
+
+\2:\- Service accounting code “998113” which fall within group “9981" ie. Research and
+\2!| development services, specifically covers ‘Research and experimental development
+services in medical sciences and pharmacy’
+
+- “Research and experimental development services in medical sciences and pharmacy tiave
+
+been explained to specifically include basic and applied research services and experimental
+
+development services related to treatment of diseases, preventive hygiene, pharmacy, etc.”
+
+- Service accounting code “998111” which fall within group "9981" ie., Research and
+development services, specifically covers ‘Research and experimental development services
+in natural sciences’,
+
+— We hereby borrow the explanation provided for service accounting code “998111” for
+“Research and experimental development services in natural sciences”, it covers basic and
+applied research services in natural sciences, experimental or theoretical work undertaken
+primarily to acquire new knowledge of the underlying foundations of phenomena
+and observable facts, without any particular application of use in view and experimental
+development services involving systematic work, drmving on knowledge gained from
+research and practical experience, that is directed.
+
+iv. in biatechnology related to knowledge requiring one or more of the
+techniques: ;
+
+DNA/RNA like genomics, pharmacogenomics, gene probes, genetic engineering,
+DNA/RNA sequencing/synthesis/amplification, gene expression profiling, and
+the use of antisense technology; proteins and other molecules like
+
+Page 14 of 25
+Mys, EPIGENERES BIOTECH PRIVATE LIMITEDy61/2021-22
+
+
+sequencing/ synthesis/ engineering of proteins and peptides (including large
+molecule hormones); proteomics, protein isolation and purification, signalling,
+identification of cell receptors.
+
+a) Here, it is to be noted that the activity to be undertaken by the applicant would also
+include testing relating to DNA/RNA _ like genomics, DNA/RNA
+sequencing/ synthesis/ amplification in medical sciences which in our view is covered
+in SAC 998111.
+
+b) We hereby draw references to certain definitions:
+
+i, As per UNESCO, the term “Research and experimental development (R&D)”
+comprise creative and systematic work undertaken to increase the stock of
+knowledge (including knowledge of humankind, culture, and society). The term
+R&D covers three types of activity:
+
+i. Basic research.
+ii. Applied research; and
+iii, Experimental development.
+ii. For an activity to be an R&D activity, it must satisfy five core criteria. The activity
+must be:
+i. Novel (to be aimed at new findings)
+a. creative (to be based on original, not obvious, concepts and hypotheses)
+ii. Uncertain (to be uncertain about the outcome)
+
+iii. Systematic (to be planned and budgeted)
+
+iv. Transferable and/or reproducible (to lead to results that could be possibly
+reproduced).
+
+Further, basis the UK research and innovation ‘Experimental development’ means
+
+and other relevant knowledge and skills with the aim of developing new or improved
+
+“Y products, processes, or services. This may also include, for example, activities aimed
+
+os at the conceptual definition, planning and documentation of new products, processes,
+or services,
+
+d. Experimental development may comprise prototyping, demonstrating, piloting,
+testing and validation of new or improved products, processes, or services in
+environments representative of real-life operating conditions.
+
+e. In given case where the testing to be undertaken by EBPL would be newly launched
+method which would aim at new findings which may be uncertain for each human-
+being and can be construed to assist in gaining knowledge regarding presence of
+cancer, ;
+
+2.20. Itis pertinent to note that amongst two Heading 9993 and 9981, the exemption under GST
+
+is available only for heading 9993. Hence, it becomes imperative to correlate
+classification with the exemption.
+
+2.21, Having stated above, Notification No. 12/2017 - Central tax (rate) provide an explanation
+in Note 3: the relevant extract of which is as under:
+
+Page 15 of 25
+M/s, EPIGENERES BIOTECH PRIVATE LIMITED /61/2021-22
+
+
+3. Explanation. For the purposes 0 if this notification, -
+
+(i) Reference to “Chapter”, “Section” or “Heading”, wherever they occur, unless the context
+otherwise requires, shall mean respectively as “Chapter, “Section” and “Heading” in the
+scheme of classification of services.
+
+(ii) Chapter, Section, Heading, Group, or Service Code mentioned in Colusmn (2) of the
+Table are only indicative.
+
+2.22, With the above detailed legal background of classification and relevant notes, the
+
+applicant seeks relevant service accounting code for classifying the novel activity which
+is anon-invasive method to detect early onset of cancer.
+
+2.23, Given the above, the applicant seeks ruling from with respect to services to be rendered
+by the Applicant to the customers to squarely fall within the scope of aforesaid
+classification and to qualify in exemption entry no, 74 of Notification No, 12 / 2017 - CT
+
+{R).
+
+PRAYER:
+
+In light of the above, we respectfully pray for the following:
+
+* To provide clarification w.r.t applicability of exemption under Exemption Notification
+(which is available for service accounting code 9993) for proposed diagnostics services to
+be undertaken by EBPL.
+
+* To confirm on the understanding regarding classification of services provided by the
+
+pplicant as healthcare service.
+
+d\gonfirm if services provided by the applicant would fall in SAC 999316 or 998113.
+
+. .= hearing (incl. virtual) should be granted in order to put forth the contentions and
+
+pain the submissions (if required).
+> Adi tional information should be allowed to be produced (if required).
+
+Nae o CONTENTION - AS PER THE JURISDICTIONAL OFFICER:
+SRA oS: 1 Itis hereby submitted that the applicant broadly seeks to avail:
+
+a) Benefit of exemption vide Sr. 74 (a) of Notification no. 12/2017-Central Tax dated
+28.06.2017, which exempts services falling under Chapter heading 9993
+provided by way of - ‘Health care services by a clinical establishment, an
+authorized medical practitioner or para-medics’. The applicant have claimed
+their services to be regarded as that of a ‘medical laboratory’,
+
+b) Classification of the proposed services under Service Accounting Code (SAC)
+999316 or SAC- 998113 as deemed fit.
+
+3.2 (i) The technology to be used by the applicant is informed to be a type of DNA/RNA
+
+sequencing/ amplification, gene expression profiling testing. By using the specified
+technology, the result on HrC scale marker would be provided by the applicant which
+
+Page 16 of 25
+M/s. EPIGENERES BIOTECH PRIVATE LIMITED/$1/2021-22
+
+
+could be used as the base for further treatment of the disease. The testing would involve
+human intervention to read the HrC scale and identification of disease. The report
+generated would highlight the chances/ possibilities of cancer in human bedy for
+next one year basis the DNA/ RNA genes in the human body, The said test will
+help in detecting if cancer is absent, imminent, or present.
+(ii) The applicant has applied for below specified licenses to undertake said tests:
+* NABL: National Accreditation Board for Testing and Calibration
+Laboratories.
+* GLP: The Principles of Good Laboratory Practice
+* DSIR: Department of Scientific and Industrial Research.
+Comments on the application and proposed relief sought by the party are
+submitted as under:
+
+3.3 (a) It prima-facie appears from the submissions made by the party that they would be
+carrying out blood-based tests and the outcome of such blood tests would assist
+in prognosis of cancer. The applicant have sought benefit of exemption under
+
+Notification No. 12/2017-Central Tax dated 28.06.2017.
+
+fe) In this regard entry 74(a) of the said notification 12/2017 ibid extends
+
+: @Xemption to services falling under Chapter heading 9993 provided by way of -
+
+4) La } ‘Health care services by a clinical establishment, an authorized medical
+
+<cs» _/cipractitioner or para-medics', Thus to be eligible to avail exemption under the said
+
+motification primary conditions viz. Classification of services under SAC 9993 and
+
+that the nature of services shall be Health care services and the same shall
+be provided by a clinical establishment need to be satisfied.
+
+3.4, In this connection it is observed that although in Annexure-4 under Para 12 (d), the
+
+applicant have mentioned clinical pathology and molecular testing as their
+relevant sub-category. which is said to be falling under medical laboratory
+category; however the copy of specimen Certificate attached by the applicant
+shows them under 'Testing and calibration laboratories category. Hence, their
+activity does not appear to qualify within the four corners of "Health care
+services" to avail the benefit of exemption notification.
+
+(ii) Needless to mention that their above said certificate also describes the
+scope of activity to be 'Development of Cancer Prognostic Diagnostic Technologies.
+Building & Commercializing Innovative Test. Therefore, it seems that the
+
+Page 17 of 25
+M/s, EPIGENERES BIOTECH PRIVATE LIMITED/61/2021-22
+
+
+proposed activity of the applicant for which exemption is being sought is oriented
+towards ‘Research & development of technology’ rather than ‘Health care’,
+
+(iii) The activity proposed to be carried out by the applicant hints it to be
+‘Contract research and manufacturing services! whereby they could act as contract
+research organization (CRO). Furthermore, the submissions of the party itself
+show that they are in talks with investors to raise funds for clinical trial, which
+substantiates that the technique is still in experimental stage and does not qualify
+as diagnostic tests.
+
+(iv) In this regard, as per definition of 'Drug' under Drugs & Cosmetics Act
+8[(b) “drug” includes-(iv) such devices intended for internal or external use in the
+diagnosis, treatment, mitigation or prevention of disease or disorder in human
+beings or animals, as may be specified from time to time by the Central
+Government by notification in the Official Gazette, after consultation with the
+Board,]. As such, if the purpose of services proposed by the applicant is diagnosis
+or prognosis of cancer, then it would get regulated under the aforesaid Act.
+
+(v) As per Medical Device Rules, 2017 “Application for manufacture for sale
+
+or for distribution of Class A or Class B and Class C or D medical device." is
+covered under Chapter lV; Rules 20/21. Such application needs to be made to the
+“concerned Licensing authority as mentioned therein.
+(vi) Also, under Chapter VII Clinical Investigation of Medical Device And
+inical Performance Evaluation of New In Vitro Diagnostic Medical Device
+le 49, Conduct of clinical investigation, it is forthcoming that; 'No person or
+sponsor shall conduct any clinical investigation in respect of investigational
+medical device in human participants except in accordance with these rules and in
+accordance with the permission granted by the Central Licensing Authority."
+
+(vii) In this case, no license under the Drugs & Cosmetics Act ibid has been
+obiained so far, as forthcoming from the documents under submission. Also, it's
+apparent that permission from the given Central/ State Licensing Authority as per
+Medical Device Rules, 2017 ibid is needed in their case, for it to qualify as
+diagnostic services by a clinical establishment, which does not seem to have been
+complied with by the applicant.
+
+(viii) In absence of such permission/ license/ certificate, the tests proposed
+to be conducted by the applicant could not be regarded as approved ‘diagnostic
+tests’ and hence such tests get more akin to clinical trials for ‘Research &
+Development experiment' purpose rather than ‘Health care services' and therefore
+ineligible for the exemption under Notification 12/2017- C.T ibid.
+
+Page 18 of 25
+M/s, EPIGENERES BIOTECH PRIVATE LIMITED /61/2021-22
+
+
+3.5. (a) Without prejudice to above, it is also interalia observed from Literature and other
+details given under Annex 3 & 4 of the application that they are in talks with
+investors to raise $200 million to fund large clinical trials, with 10,000-20,000
+subjects, in western markets, It is also mentioned ynder Para 19{a) of Annexure-
+4 ibid that the proposed activity to be undertaken by the applicant would also
+include testing relating to DNA/RNA like genomics. DNA/RNA
+sequencing/synthesis/amplification in medical sciences etc., this activity gets
+appropriately covered under Service accounting code (SAC) 998111.
+
+(b) Explanation of SAC CODE 998111 is reproduced hereunder; wherein point 4
+is particularly indicative that their service deserves to be classified under this SAC
+itself;
+This service code includes basic and applied research services in natural sciences,
+
+experimental or theoretical work undertaken primarily to acquire new knowledge
+of the underlying foundations of phenomena and observable facts, without any
+particular application of use in view and experimental development services
+oO \, involving systematic work, drawing on knowledge gained from research and
+fia, ” * practical experience, that is directed.
+
+af Sa Yolo producing new materials, products, and devices; to installing new processes, systents
+
+arid services; or
+> “1 i improving substantially those already produced or installed in physical sciences
+_ Yelated to heat, light, electromagnetism, astronomy, etc;
+
+ne) © in chemistn y and biology related to catalyses, fermentation, physiology and biology
+~ of animals and plants, micro-organisms, etc;
+4. in biotechnology related to knowledge requiring one or more of the techniques:
+DNA/RNA like genontics, pharmacogenomics, gene probes, genetic engineering,
+DNA/RNA sequencing/synthesis/amplification, gene expression profiling, and the use of
+antisense technology; proteins and other molecules like sequencing/synthesis/engineering
+of proteins and peptides (including large molecule hormones); proteomics, protein isolation
+and purification, signaling, identification of cell receptors,
+5. cell and tissue culture and engineering like cell/tissue culture, tissue engineering
+(including disuse scaffolds and biomedical engineering), cellular fusion, vaccine/immune
+stimulants, embryo manipulation process biotechnology techniques like bioreactor
+fermentation, bioprocessing, bioleaching, biopulping, biosulphurization, bioremediation,
+biofiltration, and phytoremediation;
+6. gene and RNA vectors likegene therapy, viral vectors;
+7. bioinformatics,
+nanobiotechnology
+Since the primary activity here is development of Cancer Prognostic and
+Diagnostic Technologies, it seems to be aptly covered under the SAC
+
+Page 19 of 25
+M/s, EPIGENERES BIOTECH PRIVATE LIMITED/61/2021-22
+
+
+998111/998113 and therefore ineligible for the benefit of exemption under
+notification 12/2017 ibid and consequently chargeable to GST at the appropriate
+rate.
+
+3.6 In view of the foregoing, it is concluded that;
+
+() the applicant is not qualifying for exemption from GST under Notification No.
+12/2017- CT dated 28.06.2017 ibid as claimed and is therefore required to discharge
+
+GST at appropriate rate.
+(ii) the proposed activity is appropriately classifiable under SAC 9981 for which no
+
+exemption is allowed.
+
+04. HEARING
+Preliminary e-hearing in the matter held on 05.04.2022. Smt. Sakshi Hasija, Learned GST
+
+Consultant & Mr. Jigar Doshi, Learned GST Consultant were present, requested for
+admission of the application. Jurisdictional Officer Mr. Hari Narayan, Superintendent,
+Mumbai South Division-VI, Range-II, also appeared.
+
+The application was admitted and called for final hearing on 06.02.2025. Mr. Aman
+Gurwada, Senior Vice President, Authorized Representative of the applicant, appeared and
+made oral and written submissions. Jurisdictional Officer, Mr. Ravikiran C Nirhavane,
+
+—== Superintendent, of CGST appeared. We heard both the sides.
+
+eben ATIONS AND FINDINGS:
+
+me tN
+
+* BL, we ave gone through the records of the case and the submissions made by the applicant
+
+Rstt Acbasiseicns made by the jurisdictional officer vide letter dated 23.06.2022.
+
+"5.2 We find that the applicant in this case, M/s. Epigeneres Biotech Pvt. Ltd., is engaged in
+providing services in the field of laboralory/testing/ diagnostic services. They conduct
+blood tests which would assist in early detection of cancer. They claim that their diagnosis
+process/ technology is an algorithm-based technology which is operated with the help of
+next generation sequencing data analysis machines and real time PCR Machines. Next
+Generation Sequencing (NGS) has been implemented for various tests such as whole
+genome sequencing, whole exome sequencing, transcriptome sequencing, targeted region
+sequencing, epigenetic sequencing and other sequencing. The technology can be used for
+
+molecular diagnosis of genetic disease and infectious disease including cancer molecular
+
+Page 20 of 25
+M/s. EPIGENERES BIOTECH PRIVATE LIMITEDY61/2021-22
+
+
+diagnosis and prognosis. As per the applicant, Cancer is a heterogeneous disease that
+arises from accumulation of DNA mutations and new sequencing technologies have
+significant impact on cancer diagnosis, management and treatment. They claim that NGS
+has transitioned from research to clinical use during the last five years. However, there
+has not been a assessment of global NGS implementation. The technology used by the
+applicant is a type of DNA/RNA sequencing/ amplification, gene expression profiling
+testing. By using the specified technology, the result on HrC scale Marker would be
+provided by the applicant which could be used as a base for further treatment of the
+device, The report generated would highlight the chances/ possibilities of cancer in
+human body in next one-year basis the DNA/RNA genes in the human body. They claim
+
+that the said test will help in detecting if cancer is absent, imminent or present.
+
+5.3. The process of diagnosis has been mentioned as extraction of blood samples which are
+then subjected to RNA extraction using standard protocols. The RNA is quantitated and
+then a fixed amount is subjected to qRT-PCR for specific markers. The results are
+
+aqpared between control and cancer patient. Fold igh is su ab of presence of
+
+Good Laboratory Pactice certificate from Ethiopacific Cestification and Inspection, for
+
+“ development of cancer prognostic, diagnostic technologies, building and
+commercializing innovative test.
+
+They also claim to have applied for a licence from National Accreditation Board for
+
+Testing and Calibration Laboratories under the category of medical laboratories and
+DISR: Department of Scientific and Industrial Research to undertake diagnostic tests.
+
+5.4 The first question on which the applicant is seeking advance ruling is whether the provision
+of diagnostic services by the applicant would qualify for exemption from GST under Entry
+No.74 of the Notification No.12/2017 Central Tax (Rate) dated 28,6.2017 and whether the
+proposed services would get classified under the service accounting code 9993. We find
+that Sr.no.74 of Notification No.12/2017 CT (R) dated 26.6.2017 provides exemption to
+services classified under Heading 9993. It provides exemption from GST to services by
+way of health care services by a clinical establishment, an authorized medical practitioner
+
+Page 21 of 25
+Mjs. EPIGENERES BIOTECH PRIVATE LIMITED /61/2021-22
+
+
+or para medics, Clause (zg) of the said notification defines Health care services as under:
+
+“(2g) “health care services” means any service by way of diagnosis or treatment of care
+for illness, injury, deformity, abnormality or pregnancy in any recognized system of
+medicines in India and includes services by way of transportation of the patient to and
+from a clinical establishment, but does not include hair transplant or cosmetic or plastic
+surgery, except when undertaken to restore or to reconstruct anatomy or functions of
+body affected due to congenital defects, developmental abnormalities, injury or
+trauma”.
+Further, the term ‘Clinical Establishment” is defined in the said notification vide clause
+(Is) which reads as under: -
+“(s) “clinical establishment” means a hospital, nursing home, clinic, sanatorium or any
+other institution by, whatever name called, that offers services or facilities reuiring
+diagnosis or treatment or care for illness, injury, deformity, abnormality or pregnancy
+in any recognized system of medicines in India, or a place established as an
+independent entity or a part of an establishment to carryout diagnostic or investigative
+services of diseases”
+It is in the background of these definitions that we undertake to examine whether the
+“\\ services provided by the applicant fulfill the requirement of a ‘health care service’
+ovided by a ‘clinical establishment’ to enable them to avail the benefit of Notification
+io.12/2017 Central Tax (R) dated 28.6.2017.
+» find that the applicant provides details of the work done by the applicant in the field of
+
+et diagnosis which is directly related to the issue in hand i.e. HrC test co-developed by
+applicant with Singapore based Tzar Labs Pte. Ltd.
+
+It is observed that said the test claimed to be a diagnostic test by the applicant is still in its
+developmental stage and is not yet validated by the medical regulatory bodies.
+Diagnosis has been described as “pre-existing set of categories agreed upon by the
+medical profession to designate a specific concern.” Any inconclusive research, not
+agreed to by the medical fraternity nor approved by the regulatory authorities in India
+such as the DCGI through CDSCO, the ICMR or any other regulatory body under the
+Drugs & Cosmetics Act, would not qualify as a Health Care Service as envisaged under
+the Notification No.12/2017. In order to qualify as Health Care Service, the diagnosis
+should be recognized and validated by the medical fraternity and the Indian regulatory
+authorities. It is only then that the tests carried out by the applicant would qualify as a
+health care service. Till that time, it remains under the realm of research and development
+of new technology in the field of bio technology and medicine.
+
+4 Page 22 of 25
+M/s, EPIGENERES BIOTECH PRIVATE LIMITED/61/2021-22
+
+
+ary
+
+5.5. We find that the applicant has not produced any license or certificate from the Central Drugs
+Standard Control Organisation (CDSCO) or the Indian Council for Medical Research
+validating their research and the resultant test provided by them as a proper diagnostic test
+for cancer detection. In vitro diagnostics (IVD’s) are medical devices used to perform tests
+on samples of blood, urine, tissue etc., to diagnose diseases or monitor health conditions
+including cancer biomarker tests. Under Meclical Devices Rules, 2017, [VDs are classified
+as medical devices and regulated by CDSCO. Companies manufacturing or importing
+TVDs must obtain a licence from CDSCO and must comply with quality standards such as
+ISO 13485. A Medical Device includes any instrument, apparatus, appliance, implant,
+material or other article, whether used alone or in combinations, including software or an
+accessory, intended by the manufacturer to be used specifically for human beings or
+animals for one or more of the specific purposes of diagnosis, prevention, monitoring or
+
+alleviation of any disease or disorder. Software used for medical purposes is explicitly
+
+€ UI [> Se in the definition. We find that the applicant has not produced any licence or
+
+¢ . to function as a Diagnostic Laboratory from CDSCO, They have also not provided
+copied of any approval from the Indian Council for Medical Research (ICMR) with respect
+to sgpreptance of their tests for cancer detection as a valid diagnostic test for the said
+
+- piirpose. In view of the above, we find that the tests carried out by the applicant cannot
+
+. be treated as a proper diagnostic test but is more in the nature of clinical research and
+development and as a result it does not qualify as a Health Care Service as envisaged under
+Notification No.12/2017 Central Tax (Rate) dated 28.6.2017.
+
+5.6. On the other hand, we find that the tests conducted and provided by the applicant is in the
+nature of clinical trials for ‘Research and Development’ purposes, It is also seen that at Para
+19(a) of Annexure 4 that the applicant would also include testing relating to DNA/RNA
+like genomics, DNA/RNA sequencing/synthesis/ amplification in medical sciences. Such
+activity gets appropriately covered under Service Accounting Code 998111 under the
+category of Research and Experimental Development in natural sciences. Explanation of
+SAC Code 998111 reads as under: -
+
+This service code includes basic and applied research services in natural sciences,
+
+experimental or theoretical work undertaken primarily to acquire new knowledge of the
+
+Page 23 of 25
+M/s, EPIGENERES BIOTECH PRIVATE LIMITED Y61/2021-22
+
+
+underlying foundations of phenomena and observable facts, without any particular
+application of use in view and experimental development services involving systematic
+work, drawing on knowledge gained from research and practical experience, that is
+directed
+
+i. to producing new materials, products, and devices; to installing new processes,
+systems and services; or
+
+ii, to improving substantially those already produced or installed in physical sciences
+related to heat, light, electromagnetism, astronomy, etc;
+
+iii. in chemistry and biology related to catalyses, fermentation, physiology and
+bielogy of animals and plants, micro-organisms, etc;
+
+iv. in biotechnology related to knowledge requiring one or more of the techniques:
+
+DNA/RNA like genomics, pharmacogenomics, gene probes, genelic engineering,
+
+DNA/RNA sequencing/synthesis/ amplification, gene expression profiling, and
+
+the use of antisense technology; proteins and other molecules like
+
+sequencing/synthesis/engineering of proteins and peptides (including large
+
+molecule hormones); proteomics, protein isolation and purification, signaling,
+
+identification of cell receptors;
+
+cell and tissue culture and engineering like cell/ tissue culture, tissue engineering
+
+(including disuse scaffolds and biomedical engineering), cellular fusion,
+
+vaccine/immune stimulants, embryo manipulation process biotechnology
+
+techniques like bioreactor fermentation, bioprocessing, bioleaching, bio-pulping,
+
+bio-sulphurization, bioremediation, biofiltration, and phytoremediation;
+
+_ yj. gene and RNA vectors like gene therapy, viral vectors;
+
+Uxii. bioinformatics; nanobiotechnology
+
+experimental development work undertaken in natural science primarily to acquire new
+knowledge of the underlying foundations of phenomena anc observable facts, without
+any particular application of use in view and experimental development services
+involving systematic work, drawing on knowledge gained from research and practical
+experience in the field of biotechnology, gene and RNA vectors like gene therapy, viral
+vectors etc. ‘The primary activity is research and experimental development of Cancer
+Prognostic and Diagnostic Technologies. The said services are aptly covered under SAC
+998111 and therefore, the applicant is not eligible for the benefit of exemption Notification
+12/2017 Central Rate (Tax) dated 28.6.2017.
+
+Page 24 of 25
+M/s, EPIGENERES BIOTECH PRIVATE LIMITED/61/2021-22
+
+
+6, In view of the extensive deliberations as held hereinabove, we pass an order as follows:
+
+RDER
+(Under Section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+NO.GST-ARA- 61/2021-22/ I3-|6% Mumbai, dt. 2% /6F/ 202.5"
+For reasons as discussed in the body of the order, the questions are answered thus -
+Question 1: - Whether the provision of diagnostic services by the applicant would qualify for
+exemption from GST under Entry No.74 of Notification No.12/2017 Central Tax
+(Rate) dated 28.6.2017 and consequently the proposed services would get classified
+under Service Accounting Cocle 9993?
+
+Answer: - No.
+
+Question 2: If Service Tax Accounting Code 9981 would become relevant in case where the
+proposed services would not qualify for exemption under Entry No.74 of
+Notification No.12/2017 Central Tax (Rate) dated 28.6,2017 in absence of
+exemption for specified accounting code?
+
+; SON Gy \qul yu
+a): a Ai
+‘2 D.P. GOJA DE PRIYA JADHAV
+re ) (MEMBER) (MEMBER)
+
+"
+. aa xt “<
+
+DACE® Mumbai. /
+wa
+
+1. The applicant
+
+2, The concerned Central / State officer
+
+3. The Commissioner of State Tax, Maharashtra State, Mumbai
+
+4, The Pr, Chief Commissioner of Central Tax, Churchgate, Mumbai
+5, The Joint commissioner of State Tax, Mahavikas for Website.
+
+Note: -An Appeal against this advance ruling order shall be made before The Maharashtra
+Appellate Authority for Advance Ruling for Goods and Services Tax, 15 floor, Air India
+Building, Nariman Point, Mumbai - 400021. Online facility is available on gst.gov.in for
+online appeal application against order passed by Advance Ruling Authority.
+
+Page 25 of 25
+M/s. EPIGENERES BIOTECH PRIVATE LIMITEI61/2021-22
+
+
+te

@@ -1,0 +1,516 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+GST Bhavan, Room No.107, Ist floor, B-Wing, Old Building, Mazgaon, Mumbai — 400010.
+(Constituted under Section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Ms. Vinitha Sekhar, Additional Commissioner of Cen‘ral Tax, (Member)
+(2) Mr. A. A. Chahure, Joint Commissioner of State Tax, (Member)
+
+GSTIN Number, if any/ User-id 27AABCP1023G1ZX
+
+Legat Name of Applicant M/s. Prasa Infocom & Power Solutions Private
+Limited
+
+Registered Address/Address | 1001, Casablanca, Sangam press road, Kothrud,
+
+provided while obtaining user id Pune -411 038. ee -
+
+Details of application GST-ARA, Application No, 26 Dated 10.07.2019 |
+
+Concerned officer Division-IV,Commissionerate Pune-I]
+
+Nature of activity(s)
+
+(proposed/present) in respect of
+which advance ruling sought
+A_| Category Works Contract
+B_ | Description (in brief) Supply of gocds and services thereof by way
+of commissioning, installat‘on, compietion, fitting
+out, repair, maintenance, renovation, or alteration
+resulting in setting up of Data “enter at Pune.
+Issue/s on which advance ruling | (i) Classification of goods and/or services or both |
+(ii) Determination of the liability to pay tax on any
+goods or services or both
+(vii) Whether any particular thing done by
+the applicant with respect to any goods and/or |
+services or both amounts to or results in a supply
+of goods and/or services or both, within the
+ee — meaning of that term. _
+which advance | As reproduced in para 01 of the Proceedings below.
+
+PROCEEDINGS
+
+(Under Section 98 of the Central Goods and Services Tax Act, 2317 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+The present application has been filed under Section 97 of the Central Goods and Services
+
+Tax Act, 2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as
+
+
+“the CGST Act and MGST Act” respectively | by M/s. Prasa Infocom & Power Solutions
+
+Private Limited , the applicant, seeking an advance ruling in respect of the following questions.
+
+Whether supply of goods and service by Prasa Infocom & Power Solutions Private Limited
+to Cray Inc. (Cray) qualify as 'works contract’ as defined under Section 2(19) of the Central
+Goods and Services Tax Act, 2017 (CGST Act)?
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and
+the MGST Act are the same except for certain provisions. Therefore. unless a mention is
+specifically made to any dissimilar provisions, a reference to the CGST Act would also mean a
+reference to the same provision under the MGST Act. Further to the earlier, henceforth for the
+purposes of this Advance Ruling, the expression ‘GST Act’ would mean CGST Act and MGST
+Act.
+
+2. FACTS AND CONTENTION — AS PER THE APPLICANT
+
+The submissions of the applicant is as under:-
+
+21 Prasa Infocom & Power Solutions Private Limited ("Applicant"), is engaged in the business
+
+of providing data center construction and contracting services.
+
+M/s Cray Inc. (‘Cray’) has entered into a Contract with Indian Institute of Tropical
+
+nance) and preparation and maintenance of Data Center. Cray has sub-contracted
+
+rtion related to preparation of Data Center (including its maintenance) to the
+
+on} sant vide contract dated 05.05.2017 (‘hereinafter referred to as the Contract’) for a
+
+‘edgsh center project for the Ministry of Earth Sciences at Pune.
+
+A
+
+, The 'scope of services’ in the contract dated 05.05.2017 provided that the parties, may from
+_time to time enter into mutually agreed written order for services and products, to be called
+"statement of work’, and accordingly shall undertake tasks that are necessary for fulfilling
+obligations under the Contract. Subsequently, on 13.06.2017, both the parties entered into
+an agreement (amending the Contract dated 05.05.2017). The said amendment agreement
+also incorporated the ‘statement of work' dated 20.05.2017 which encapsulated the works
+to be undertaken for completing the data center project on turnkey basis like: Design
+
+approval for the complete data center; Civil and Mechanical Works; Supply of items;
+
+2
+
+
+_loading unloading of items at site: Installation of items; testing and commissioning of the
+installed equipment and detailed documentation, namely, built drawings, operational
+manuals, warranty and test certificates, detailed hand over along with training to end
+customer and providing process flow chart for maintaining ali the equipment.
+
+2.4. Before supplying and subsequently commissioning the equipment, Applicant was required
+to undertake civil and mechanical works, namely construction of a civil structure to house
+the equipment. Applicant also undertook supply and installation of other ancillary
+equipment necessary in a civil structure namely UPS and batteries, fire alarm system,
+chillers, air conditioners, surveillance systems, etc. All such activities undertaken by the
+Applicant were required to set up Data Center, as a whole. Thus the Contract does not limit
+itself to mere supply of equipment but extends to civil and mechanical works, installation,
+testing and commissioning as well. Thus, the Contract invo!ves a composite supply of
+goods as well as services that are naturally bundled in the ccurse of setting up of a ‘data
+center’. The Data Center cannot be shifted to another location without first dismantling and
+
+‘then re-erecting it at another site.
+
+235 The applicant has cited the various provisions and definitions of the GST Act and stated
+
+Ab Government; Supply of works contract shall be treated as supply of service.
+p ica has reproduced relevant provision of Notification No - 8/2017 — I.T. (Rate)
+
+BR 6.2017 ("Rate Notification") and has stated that analyzing the provisions of the
+
+=
+“Act and the relevant entries of the aforementioned Rat2 Notification, it is pertinent
+
+a
+
+ca that in order to be eligible to pay GST under the aforementioned entry of the Rate
+TE, NA
+==N otification, the supply of services by the Applicant will have to be in the nature of works
+
+contract.
+
+2.6 Applicant has reproduced the definition of ‘Works Contract’ 4s per Section 2 (119) of the
+CGST Act, and the various dictionary meanings of the words/terms used in the said
+definition and submitted that to qualify as a 'works contrac:', a contract shall not be a
+contract for mere supply of goods or supply of services but zhall be a composite supply
+involving supply of both goods as well as services, which results in the creation or
+
+repair/maintenance/renovation/improvement etc. of an immovable property as a whole.
+
+
+2.7 Applicant has submitted that they have agreed to complete the project on a turn-key, end-
+to-end basis as is evident from the statement of work dated 20.05.2017 and all
+such activities undertaken by the Applicant are required to set up Data Center, as a whole.
+Additionally, Cray is required to provide its acceptance after inspection of services
+or deliverables as mentioned in the statement of works. Further, the Applicant is required
+to employ competent and qualified staff for operation/ performance of works. The payment
+on milestone basis is linked to successful completion of the project i.e. preparation of data
+center. Referring to the decision of the Hon'ble Bombay High Court in the case of National
+Organic Chemical Industries Ltd. vs State of Maharashtra, 2012 SCC Online Bom 2128,
+applicant has stated that the predominant nature of the services undertaken is to provide an
+end-to-end solution to Cray which is nothing but performance of works contract service.
+
+2.8 Applicant has submitted that as per Section 2(119) of the CGST Act, performance of works
+contract must be in relation to an ‘immovable property’. Since the term ‘immovable
+property’ has not been defined under CGST Act the applicant, nas cited the decision of the
+Hon'ble Supreme Court in the case of 7.7.G. Industries Limited v. CCE, 2004 4 SCC 751
+
+as well as the decision of the Maharashtra Authority for Advence Ruling in Fermi Solar
+
+arms Private Limited, 2018 VIL 14 AAR, in support of their contention that, Applicant
+
+4
+fea plying goods and services which is resulting in setting up of a Data Center, which
+
+clr be shifted to another location without first dismantling and then re-erecting it at
+
+a r site and hence, Data Center shall be treated as an immovable property under the
+
+Act and the transaction, as a whole, shall be regarded as supply of 'works
+
+ntract'. Applicant has also referred to various online web sources to explain the structure
+and design of a data center reference and submitted that essentially, a data center is referred
+to as an immovable structure with various security and temperature control features
+housing enormous servers which cannot be moved or shifted.
+
+2:9 In view of above, applicant has submitted that it is supplying goods and services which
+are in the nature of works contract service as the supply not only involves supply of goods
+but also installation, fitting out, repair, maintenance of an immovable property i.e. Data
+Center. Such activities fall under the ambit of works contract under CGST Act, hence all
+
+supplies under Contract should be subject to GST at the rate of 18%.
+
+
+03. CONTENTION — AS PER THE JURISDICTIONAL OFFICER:
+
+The submissions made by the jurisdictional officer are as under:-
+
+3.1 Applicant under letter dated 08.11.2019 has intimated that the works with respect to
+construction and commissioning of the service in relation to the said contract has been
+completed, and further, invoicing in relation to the said work done has been done
+separately for goods and services and GST has been paid acccrdingly. Thus, in the instant
+case, the supply of goods and service is already completed and therefore their application
+is liable for rejection, because in advance ruling, as per the previsions of Section 95 of the
+CGST Act, 2017, only those cases are eligible where the supaly of goods or services or
+
+“both being undertaken or proposed to be undertaken by the applicant and not already
+completed at the time of filing of the application.
+
+3.2. From the definition of Works Contract under the GST Laws, it is clear that works contract
+is applicable only in immovable properties for GST purpose arid where the value of goods
+and services are not distinct. Perusal of the copy of agreemen: / documents submitted by
+
+the applicant reveal that the value of goods/equipment is clearly distinct and separated
+
+the value of services. Therefore, their project/work is net classifiable under “Works
+
+ct". The same view has also been taken by Hon'ble Authority for Advance Ruling,
+2
+
+Maharashtra in case of M/s Jalaram Feeds (GST-ARA ¢3/ 2018-18/ B-03) dated
+
+= 0 cul 019 which is squarely applicable to this case as this project is also a “Turn Key
+
+eee ‘ptdject" as claimed by the applicant. Further it is submitted that on going through the list
+TRA STATE) a
+
+ss? Of goods and services, it is seen that items at Sr. No. 2 to 17 are in nature of
+
+machine/instruments/equipment and are all replaceable and hence cannot be said to be of
+‘immovable’ nature.
+
+a3 Further, with respect to the claim of applicant that subject supply is classifiable under
+Chapter 9954 (Construction Services) and falls under description of services- (ii)
+Composite supply of works contract as defined in clause (119° of Section 2 of CGST Act,
+2017 it is to submit that only those supply are classifiable under Chapter 9954 which are
+mainly related to the construction service. In this case, i is found that there is a
+construction of a room to fit/ install the equipment/machinery/other various apparatus and
+the value of construction is not significant, as compared to the value of such
+
+equipment/machinery/apparatus. The major portion in this project is of fitting/ installation
+
+
+of equipment/Machinery/other various apparatus. It is also submitted that since their
+work/project does not qualify under the definition of works Contract", the benefit of
+Notification No. 08/ 2017- I.T. (Rate) dated 28.06.2017 is not available to them. Further,
+it is to say that vide Not. No. 03/2019 IT (Rate) dated 29.03.2019, the item (ii) of S. No. 3
+which relates to works contract" is omitted.
+
+3.4. Hence it is requested to reject the claim of applicant classifving the said project/ work
+
+under as “works Contract" as defined under Section 2 (119) of CGST Act, 2017.
+
+04. HEARING
+Preliminary hearing in the matter was held on 14.11.2019. Shri Onkar Sharma,
+Advocate & Authorized Representative appeared and requested for admission of their
+application. Jurisdictional Officer Shri. Shailendra Nath, Cuperintendent., Range-Ill,
+Division — IV, (Kothrud), Pune- I] Commissionerate also appeared and requested for time
+
+to make submissions.
+
+—" The application was admitted and called for final hearing on 22.01.2020. Shri.
+
+7,sck RUUN, , ; ‘
+Ay at Can ar Sharma, Advocate & Authorized Representative appeared made oral and written
+
+on
+NO ig
+ores KS. HISCUSSIONS AND FINDINGS:
+
+5.1 We have gone through the facts of the case, documents on record and oral and written
+contentions made by both, the applicant as well as the jurisdictional officer. The question
+before us is whether supply of goods and services by the applicant to M/s Cray Inc. (Cray)
+qualify as ‘works contract’ as defined under Section 2(19) of the Central Goods and Services
+Tax Act, 2017 (CGST Act)?
+
+5.2 M/s Cray Inc. (‘Cray’) has entered into a ‘Services and Devz!opment Agreement’ with
+the Applicant on 04.04.2017 wherein the applicant, acting as an independent contractor,
+and not as an agent of Cray, shall furnish personnel and services pursuant to the terms and
+
+conditions mentioned under Article Nos. | to XXX of the said agreement.
+
+
+5.2.1 The ‘scope of services' as per Article I of the impugned agreement states that both the
+parties may enter into mutually agreed upon written orders for services and products to be
+fulfilled by the applicant as per Cray’s requirements with each written order to be called as
+“Statement Of Work”.
+
+5.2.2 As per Article V, the Agreement shall be effective as of the first date stated in the
+Agreement and shall remain in effect for a period of one year, and thereafter shall
+automatically renew for successive one year terms until terminated under the terms
+mentioned in the Article V of the Agreement.
+
+5.2.3 Article XX VII of the Agreement refers to ‘Exhibit 1’ and the said Exhibit, signed by the
+applicant’s Director mentions the Scope of Work as including Detailed Statement of Works
+Activities dated 25.04.2017 and Layouts of Data Centre, UPS, DG Set, etc. Sr. No. 2 of the
+Exhibit mentions that if the applicant fails to supply and instal the necessary components
+required for Cray to install its system then the applicant is liab!e for liquidated damages.
+
+5.2.3.1 The detailed Statement of Works Activities is dated 24.04.2017 and therein the applicant,
+
+a tabular form, has given separately, the costs of goods supplied, the Installation Price
+
+=== fhe applicant, in a tabular form, has given separately, the costs of goods supplied, the
+
+Installation Price and the AMC Fees for a three-year period along with VAT/CST/Service
+Tax thereon. There is again an unexplained Buyback cost mentioned which would
+presumably be in respect of the goods supplied by the applice1t to Cray. The total cost as
+per this Statement is Rs. 34,60,95,168/-, after deduction of a Buyback cost of Rs. | crore.
+The value of goods supplied is Rs. 26.03 (excluding taxes), the value of Civil and
+Mechanical Work is Rs. 0.34 crores, the installation cost is Ks. 1.02 crores and the AMC
+cost (post warranty) for a one year period and three year period is Rs. 0.86 crores and
+Rs.2.59 crores. There is a further cost shown against Onsite Resources for a period of 3
+
+years totaling Rs. 2.01 crores.
+
+
+5.2.3.3 It is therefore seen, as per the Exhibit that, the costing of goods and services are shown
+separately and the major value of the contract exceeding 85% of the total cost of the project
+is pertaining to supply of goods.
+
+5.3. The applicant has also submitted the Amendment dated 05.05.2017, made to the
+Agreement mentioned at 5.3 above. While the amendment is dated 05.05.2017, it
+incorporates a Statement of Work in letter format dated much after i.e. on 20.05.2017 and
+a Cost Summary dated 17.05.2017.
+
+5.3.1 The Statement of Work mentioned in 5.3 above includes Design approval for the complete
+data center, Supply of items, Installation of items, Testing and commissioning of the
+installed equipment, Detailed documentation, namely as built drawings, operational
+manuals, warranty and test certificates, detailed hand over along with training to end
+customer and providing process flow chart for maintaining all the equipment.
+
+5.3.2 The Cost Summary mentioned in 5.3 above, against ‘Funds Flow’, mentions that 40%
+advance to be paid to applicant for supply of large value items and the balance against
+
+rial readiness before delivery. For supply of small value items, 100% amount to be
+
+ee The questions raised by the applicant is with respect to a Data Center project
+awarded to them by Cray for supply of various equipment along with installation, testing
+and commissioning thereof at site. The applicant has further submitted that the scope of the
+work involves complete design of data Centre, supply of equipment, transport and delivery
+to sites, training, installation, testing and commissioning of such equipment. They have
+further submitted that maintenance of the Data Centre for furtaer period of three years are
+also being undertaken by them. It is seen from the documents submitted by them that,
+separate prices are indicated for each of the activity for supply of various materials and the
+activity for installation, testing & commissioning, maintenance, etc. Since the agreement
+was entered prior to the introduction of GST, they have, in their documents, shown levy of
+Value Added Tax (VAT)/Central Sales Tax (CST) and Service Tax.
+
+
+5.5 Since the applicant is claiming that the subject activities undertaken by them amounts to
+Works Contract as per GST Laws, we shall therefore discuss all the provisions relating to
+Works Contract. GST Schedule II clearly mentions that the following are supply of
+services:-
+
+a. construction of a complex, building, civil structure or a part thereof, including a complex
+or building intended for sale to a buyer, wholly or partly,
+
+b. works contract including transfer of property in goods (whether as goods or in some other
+form) involved in the execution of a works contract
+Hence Works contract will be treated as service and tax would be charged accordingly. As
+per Section 2(119) of the CGST Act, 2017, unless the context otherwise requires, the term
+"works contract" means a contract for building, construction, fabrication, completion,
+erection, installation, fitting out, improvement, modification, repair, maintenance,
+renovation, alteration or commissioning of any immovable property wherein transfer of
+
+property in goods (whether as goods or in some other form) is involved in the execution of
+
+t we need to find out is whether the applicant in the subject case is dealing in any
+
+e property which is transferred in the execution of the contract. The applicant has
+
+installation of equipment within the Data Centre and becomes a part of such data Centre
+and therefore inherits the characteristics of an “immovable property” and therefore their
+transaction is a transaction of “works contract”, covered undei Section 2(119) of the Act.
+5.5.2. The documents submitted by the applicant reveal that the contract pricing is different for
+Equipment/Materials, their Installation and Maintenance. For goods supplied, the prices
+are shown exclusive of VAT/CST and for services rendered the prices are shown excluding
+Service Tax. The Statement of Works Activities dated 17.05.2017 has clearly bifurcated
+the contract into a supply of goods and supply of services. Further, Amendment dated
+05.05.2017, made to the Agreement dated 04.04.2017 incorporates a Cost Summary dated
+17.05.2017, which, against ‘Funds Flow’, envisages separate payment for supply of works
+
+and for supply of materials /equioment. There appears to b< a clear bifurcation, in the
+
+
+subject Agreement and other documents submitted by the appiicant, with respect to supply
+of goods and supply of services.
+
+5.5.3. Thus, from all the documents submitted by the applicant we find that the agreement is
+considering a clear demarcation of goods and services to be provided by the applicant but
+such supplies are naturally bundled and in conjunction with each other. Hence we now
+refer to the definition of ‘Composite Supply’ as mentioned in’ sub-section (30) of Section
+
+2 of CGST Act, 2017 and which is as under:-
+
+‘Composite supply means a supply made by a taxable person to a recipient consisting of
+hwo or more taxable supplies of goods or services or both, or any combination thereof,
+which are naturally bundled and supplied in conjunction with each other in the ordinary
+
+course of business, one of which is a principal supply’.
+
+5.5.4. From the discussions made above we find that, as per the subject agreement and documents
+
+mitted by the applicant, the major part of the contract is suoply of goods. These goods
+
+to the client by the applicant and they receive separete payment for such goods
+
+)Mher we find that the goods that are supplied are used by the applicant to provide
+
+composite supply in the subject case but there is no building, construction, fabrication,
+completion, erection, installation, fitting out, improvement, modification, repair
+maintenance, renovation, alteration or commissioning of any immovable property
+wherein transfer of property in goods (whether as goods or in some other form) is involved
+in the execution of the contract. Therefore there is no works contract involved in the subject
+case.
+
+5.6 Further, with respect to the claim of applicant that subject supply is classifiable under
+Chapter 9954 (Construction Services) and falls under description of services- (ii)
+Composite supply of works contract as defined in clause (119) of Section 2 of CGST Act,
+2017 it is to state that only those supply is classifiable under Chapter 9954 which are
+
+mainly related to the construction service. In this case, it is found that there is absolutely
+
+10
+
+
+no construction of any kind. The Data Centre, as per the submissions made, appears to be
+a space /room where the equipment /machinery /other various apparatus are installed. The
+value of Civil Construction shown is insignificant, as compared to the value of goods/
+services. The major portion in this project is of sale of equipment/ Machinery/ other various
+apparatus.
+
+5.7. The jurisdictional officer has submitted that the Applicant, under letter dated 08.11.2019
+has intimated that the works with respect to construction and ccmmissioning of the service
+in relation to the said contract has been completed and therefcre their application is liable
+for rejection, because in advance ruling, as per the provisions of Section 95 of the CGST
+Act, 2017, only those cases are eligible where the supply of gocds or services or both being
+undertaken or proposed to be undertaken by the applicant and not already completed at the
+time of filing of the application. It has been further submitted that invoicing in relation to
+the said work done has been done separately for goods and services and GST has been paid
+accordingly.
+
+We do not agree with this submissions for rejection of the application made by the
+
+sdictional officer because we observed that the maintenance work is ongoing and is a
+
+af the subject agreement.
+
+irisdictional officer has also submitted that, in the event the application is not
+
+] ‘rehedted, from the definition of Works Contract under the GST Laws, it is clear that works
+
+ore << “contract i is applicable only in immovable properties for GST purpose and where the value
+
+of goods and services are not distinct and in the subject case, perusal of the copy of
+agreement/documents submitted by the applicant reveal that tre value of goods/equipment
+is clearly distinct and separated from the value of services. Therefore, their project/work
+is not classifiable under “Works Contract".
+
+5.8.1 We agree with these submissions of the jurisdictional officer and for reasons mentioned in
+the aforesaid paras we hold that the supply of goods and service by the applicant to
+Cray Inc. (Cray) does not qualify as 'works contract’ as defined under Section 2(19) of the
+
+Central Goods and Services Tax Act, 2017 (CGST Act)?
+
+5.9 The decision of the Authority for Advance Ruling, Maharasitra in case of M/s Jalaram
+Feeds, as cited by the jurisdictional officer, is not applicable in the subject case because
+
+the facts of both the matters are totally different.
+
+a
+
+
+5.10 The jurisdictional officer has submitted that, on going thrcugh the list of goods and
+services, it is seen that items at Sr. No. 2 to 17 are in nature of
+machine/instruments/equipment and are all replaceable and hence cannot be said to be of
+
+‘immovable’ nature. We agree with this observation made by the jurisdictional officer.
+
+06. In view of the above discussions, we pass an order as follows:
+
+ORDER
+
+(Under Section 98 of the Central Goods and Services Tax Act, 2617 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+NO.GST-ARA- 26/2019-20/B- 43 Mumbai, dt. [8-03-2020
+
+For reasons as discussed in the body of the order, the questions are answered thus —
+
+Question: - Whether supply of goods and service by Prasa Infocom & Power Solutions Private
+Limited to Cray Inc. (Cray) qualify as 'works contract’ as defined under Section 2(19)
+
+of the Central Goods and Services Tax Act, 2017 (CGST Act)?
+
+Answer: - Answered in the negative.
+
+Sd- Sol
+A. AACCHAHURE P. VIN: THA SEKHAR
+Ads (MEMBER) (| TEMBER)
+
+Copy to:-
+
+L The apolicant CERTIFIED TRUE COPY
+
+2. The concerned Central / State officer ®
+
+3. The Commissioner of State Tax, Maharashtra State, Mumbai (Brame
+
+4. The Chief Commissioner of Central Tax, Churchgate, Mumbai —
+MEMBER
+
+5. Joint Commissioner of State Tax, Mahavikas for Website.
+
+ADVANCE RULING AUTHORITY
+MAHARASHTRA STATE, MUMBA!
+
+Note _:- An Appeal against this advance ruling order shall be made before The Maharashtra
+Appellate Authority for Advance Ruling for Goods and Services Tax, 15" floor, Air India
+Building, Nariman Point, Mumbai — 400021.
+
+12

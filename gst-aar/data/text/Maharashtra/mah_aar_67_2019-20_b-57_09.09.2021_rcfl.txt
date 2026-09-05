@@ -1,0 +1,1490 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+GST Bhavan, Room No.107, 1st floor, B-Wing, Old Building, Mazgaon, Mumbai — 400010.
+(Constituted under Section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri. Rajiv Magoo, Joint Commissioner of Central Tax, (Member)
+(2) Shri. T. R. Ramnani, Joint Commissioner of State Tax, (Member)
+
+GSTIN Number, if any/ User-id 27AAACR2831H1ZK
+
+ARN Number AD271119008609W
+
+Legal Name of Applicant M/s.Rashtriya Chemicals and Fertilizers Limited
+Registered Address/Address provided | RCF Office Complex Priyadarshini 9th floor Eastern Express
+while obtaining user id Highway ,Sion Maharashtra Mumbai 400022
+
+Details of application GST-ARA, Application No. 67 Dated 27.11.2019
+
+Concerned officer Division-1, Commissionerate-Mumbai-East
+
+Nature of activity(s) (proposed/present) in respect of which advance ruling sought
+
+A Category Factory/Manufacturing
+B Description (in brief) The Applicant is engaged in business of manufacture and
+sale of fertilizers and industrial chemicals to customers.
+
+Issue/s on which advance ruling | (ii) Applicability of a notification issued under the provisions
+required of this Act
+
+n(s) on which advance ruling | As reproduced in para 01 of the Proceeding
+i= sree
+
+PROCEEDINGS
+
+s below.
+
+of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods and Services
+
+AH ef Tax Act, 2017)
+
+TATE The present application has been filed under Section 97 of the Central Goods and Services Tax Act,
+
+2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as “the CGST Act and
+MGST Act” respectively ] by M/s. Rashtriya Chemicals and Fertilizers Limited the applicant, seeking an
+advance ruling in respect of the following questions.
+
+1. Whether “Treated Water" obtained from STP (classifiable under Chapter 2201) will be eligible for
+
+exemption from GST by virtue of SI. No. 99 of the Exemption Notification No. 02/2017- Integrated Tax
+
+(Rate) dated 28 June 2017 (as amended) as "Water (other than aerated, mineral, purified, distilled,
+
+medical, ionic, battery, de-mineralized and water sold in sealed container]"? or
+
+2. Whether "Treated Water" obtained from STP [classifiable under Chapter 2201] is taxable at 18% by
+
+virtue of SI. No. 24 of Schedule - Ill of Notification No. 01/2017- Integrated Tax (Rate) dated 28th June 2017
+
+Page 1 of 27
+
+
+(as amended) as "Waters, including natural or artificial mineral waters and aerated waters, not containing
+added sugar or other sweetening matter nor flavoured (other than Drinking water packed in 20 liters
+bottles]"?
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and the MGST
+Act are the same except for certain provisions. Therefore, unless a mention is specifically made to any
+dissimilar provisions, a reference to the CGST Act would also mean a reference to the same provision under
+the MGST Act. Further to the earlier, henceforth for the purposes of this Advance Ruling, the expression ‘GST
+
+Act’ would mean CGST Act and MGST Act.
+
+2. FACTS AND CONTENTION — AS PER THE APPLICANT
+
+The submissions, as reproduced verbatim, could be seen thus-
+
+A. Statement of relevant facts having a bearing on the question (s) raised
+
+1. RCF is engaged in the business of manufacture and sale of fertilizers and industrial chemicals to
+customers. RCF has two manufacturing plants located in Maharashtra — one at Trombay and the other
+
+at Thal. RCF has warehouses/ distribution network across various states in India.
+
+2. _RCF has been successfully operating one STP at its Trombay premises since January 2000. This plant uses
+
+the fertilizers. The water supplied by the STP meets about 60% of the daily process water
+
+,requireme t=of Trombay unit. The balance process water requirement is being met by Municipal
+
+=
+oe
+Ccotporatigh
+owed mn
+
+eferred to as ‘New STP’) with an objective of becoming self-dependent in meeting daily process
+
+reater Mumbai (‘MCGM’).
+
+water requirements of Trombay unit. RCF has entered into an MOU with BPCL for supply of treated water
+
+which is suitable for use in industry. The surplus treated water from the new STP is being supplied to BPCL
+
+as per the terms and conditions of MOU as under:
+
+® The new STP shall be named as “RCF-BPCL Sewage Treatment Plant” and shall be displayed at the site.
+
+* RCF shall commit to supply pre-agreed quantum of treated water from the said STP to BPCL through
+the pipeline on daily basis for the period of 15 years commencing from the date of commissioning of
+plant.
+
+= Quality of treated water shall be in accordance with the parameters as stated in Annexure-|I of MOU.
+
+RCF shall make best efforts to maintain the treated water quality as per / better than that specified at
+
+Page 2 of 27
+
+
+Annexure-Il of MOU.
+® RCF is under obligation to provide daily analysis report of the treated water.
+
+= Incase, STP is unable to generate treated water at design capacity due to reasons beyond the control
+of RCF, the Company shall commit to supply treated water to BPCL on pro-rata basis, till the production
+level reaches its designed capacity.
+
+" In case RCF is capable of supplying more than the pre-agreed quantum of water from the STP, the
+same shall be received by BPCL based on their requirement.
+
+4. The process followed by the Applicant for generation of treated water from sewage water is given below:
+
+= Sewage is received in a receiving chamber;
+
+= From receiving chamber, the said sewage is passed through screen chamber. The screen chamber has
+auto operated fine bar screens. These screens remove suspended particles above a particular size;
+
+" After screening, sewage passes through the grit separation units where inorganic grit having higher
+specific gravity is removed from the sewage;
+
+® De-gritted sewage then flows to Raw Waste Water Channel containing Parshall flume for flow
+
+measurement;
+
+‘ore, sewage flows to second stage fine screening chamber (with 2 mm opening) to remove
+
+impurities > 2mm from the waste water. These operations will remove floating and grit like
+
+\2
+impuritiés from sewage and increase the life of rotating equipment;
+
+ened rhe’ ho after grit separation units is led to Nutrient removal sections for removal of Nitrogen and
+
+Sosy orous called pre-anoxic tank;
+
+rom this stage treated sewage flows to Aeration section. The aeration tank is designed with diffused
+aeration system;
+
+" The aerobic tank is provided for reduction of Biological Oxygen Demand ( “BOD”) and Chemical
+Oxygen Demand (“COD”) and Ammonical nitrogen from raw sewage.
+
+. The aerobic treatment is a biological process that uses oxygen to break down organic matter and
+remove other pollutants like nitrogen and phosphorus. It converts the organic matter into carbon
+dioxide and new biomass. The forced air from an air blower is mixed with the waste water where the
+aerobic bacteria feed on the waste in the water and aerobic treatment takes place;
+
+= MBR process comprises of a suspended growth biological reactor integrated with a membrane based
+solids/liquid separation system. Membranes are immersed in an aerated tank, in direct contact with
+
+Page 3 of 27
+
+
+mixed liquor. The reactor is housed in a tank having membrane cassettes, a permeate collection
+
+system, recirculation pumps, compressed air and membrane cleaning systems;
+
+= The permeate (i.e. the good water) from the MBR is fed to the R.O. membranes using high pressure
+pumps. The basic purpose of R.O. system is to reduce the dissolved solids present in water. The
+Reverse Osmosis system consist of auxiliary systems such as Maintenance Cleaning (MC) and
+Cleaning in Place (CIP) Systems and continuous Inlet online dosing of SMBS (Sodium Meta bi sulphite)
+& Antiscalant. The complete system shall be automated to the maximum possible extent and will be
+
+operated through PLC.
+2 Then water is then passed through the degasser unit to remove dissolved Carbon Dioxide.
+
+= The treated water (15 MLD) from the R.O. trains shall be treated for pH adjustment and then shall be
+flows to Final Storage Tank (FST) for pumping and distribution. This tank is made up of concrete
+where chlorine solution is added to prevent formation of algae and for disinfection.
+
+A copy of the Sewage Treatment Plant Package having complete steps / sequence are followed for
+
+treatment of sewage along with Screenshot is enclosed here-with as “Exhibit -2”
+
+From the above process, it can be observed that the sewage water is converted into a treated water by
+
+VA cS Aunnce <* Healoghe sewage through various advanced process to make it suitable for industrial use and as per the
+
+{$/ St specific ‘quality parameter agreed between the parties.
+{i> § 3: In order to determine how a treated water does is different from normal drinking water, a comparative
+\* \ statemert of quality of new STP treated water and MCGM drinking water is given below for ease of
+ae sey certified copy of the same is also enclosed and marked as ‘Exh.-3”
+Saas a Sr. Parameter New STP | MCGM
+No treated water | drinking water
+parameters
+
+Ps pH 6.8-7.2 7.1-7.3
+
+2 Total Suspended Solids (TSS), ppm Nil 10-20
+
+3 Total dissolved solids (TDS), ppm Max.25 80-120
+
+4 Total Hardness as CaCO3,ppm Max.50 60-80
+
+5 Chemical Oxygen Demand (COD), ppm Not traceable Not traceable
+
+6 Biological oxygen Demand (BOD) ppm Not traceable Not traceable
+
+7 Chlorides as Cl, ppm __| Max.15 15-30
+
+8 Sulphates as SO4, ppm Max.15 15-25
+
+9 Silica as SiO2, ppm <1 7-8
+
+10 Oil and Grease, ppm Not traceable Not traceable
+
+11 Ammonical Nitrogen as N, ppm Not traceable Not traceable
+
+Page 4 of 27
+
+
+From the above parameter, it can be seen that while MCGM water can be used for drinking purposes as
+
+well as for other purpose. However, the treated water can be used only for specified industrial use.
+
+6. The broad process involved for treatment of sewage water is summarized below for ease of reference:
+
+Steps Process involved
+
+Step 1 | Receipt of sewage
+
+Step 2 | Removal of suspended particles through screen chamber
+
+Step 3 | Inorganic grit having higher specific gravity is removed from sewage
+
+Step 4 | Remove floating and grit like impurities from sewage and increase the life of rotating
+equipment
+
+Step 5 | Removal of Nitrogen and Phosphorous called pre-anoxic tank
+
+Step 6 | Biological process that uses oxygen to break down organic matter and remove other
+pollutants like nitrogen and phosphorus
+
+Step 7 | Converts the organic matter into carbon dioxide and new biomass
+
+Step 8 | Air blower is mixed with the waste water where the aerobic bacteria feed on the waste in
+the water
+
+Step 9 | Membranes are immersed in an aerated tank, in direct contact with mixed liquor
+
+Step 10 | R.O. system to reduce the dissolved solids present in water.
+
+Step 11 | Removal of dissolved Carbon Dioxide
+
+Step 12 | Water from the R.O. shall be treated for pH adjustment and then flows to Final Storage
+
+Tank.
+
+VAS cr te
+
+fi Pe
+fis a Statément containing the Applicant's interpretation of law and /or facts
+<
+
+ie Y 2
+iS ~ A. Submission on admission / maintainability of Advance Ruling
+
+i *\ 1. Section 95(c) of the CGST Act states that an application for Advance Ruling can be made by an ‘applicant’.
+
+\ The relevant extract of the definition of the term ‘applicant’ is given below:
+
+a
+oe toeBelicant” means any person registered or desirous of obtaining registration under this Act
+eo the Applicant submits that it is registered under GST law in Maharashtra having GSTIN
+27AAACR2831H1ZK. Copy of GST registration certificate of the Applicant in the State of Maharashira is
+enclosed herewith as ‘Exhibit - 4’. Therefore, the Applicant submits that it is an eligible person to make an
+application for Advance Ruling.
+
+3. Sub Section 2 of Section 97 of the CGST Act prescribes the questions, which can be raised before the
+Advance Ruling Authority, which specifically covers questions pertaining to applicability of notification
+issued under the provisions of the GST Act. An extract of the relevant clause is as follows:
+
+(2) The question on which the advance ruling is sought under this Act, shall be in respect of-
+“(a) classification of any goods or services or both;
+
+(b) Applicability of a notification issued under the provisions of this Act;
+
+Page 5 of 27
+
+
+er,
+
+(G) sas FP ae
+
+(e) Determination of the liability to pay tax on any goods or services or both;
+
+le
+
+The Applicant submits that the questions of law sought in this application, is neither pending nor has been
+
+decided in any proceedings in the Applicant’s case, under any of the provisions of the Act. Accordingly, the
+Applicant submits that this application of Advance Ruling satisfies the above condition and should be
+allowed by the Honorable Members.
+
+The Applicant prefers this application for Advance Ruling under Section 97 of Central Goods and Services
+Tax Act, 2017 (“CGST Act”) and Maharashtra Goods and Services Tax Act, 2017 (“MGST Act”) on the
+question of law as to:
+
+Whether “Treated Water” obtained from STP [classifiable under Chapter 2201] will be eligible for
+exemption from GST by virtue of SI. No. 99 of the Exemption Notification No- 02/2017- Integrated Tax
+(Rate) dated 28 June 2017 (as amended) as “water [other than aerated, mineral, purified, distilled,
+medical, ionic, battery, de-mineralized and water sold in sealed container]”
+
+OR
+
+AACE RUA rather “Treated Water” obtained from STP [classifiable under Chapter 2201] is taxable at 18% by virtue
+
+MWe
+of. Sk No. 24 of Schedule- III of Notification No. 01/2017 — Integrated Tax (Rate) dated 28°" June 2017 (as
+
+amended) as "Waters, including natural or artificial mineral waters and aerated waters, not containing
+
+added'sugar or other sweetening matter nor flavoured [other than Drinking water packed in 20 litres
+
+For determining the applicable GST rate of Treated Water, we have extracted the relevant entries from
+the GST rate schedule and the Exemption Notification (supra), pertaining to water for ease of reference:
+
+Exemption Notification No. 2/2017 — Integrated Tax (Rate) dated 28 June 2017 (as amended):
+
+Sl.No | HSN Description of goods GST rate
+
+99 2201 Water [other than aerated, mineral, purified, distilled, medicinal, | Exempt
+ionic, battery, de-mineralized and water sold in sealed container]
+
+Schedule III — Notification No. 01/2017 Integrated Tax (Rate) dated 28 June 2017 (as amended):
+
+Sl.No | HSN Description of goods GST rate
+
+24 2201 Waters, including natural or artificial mineral waters and aerated 18%
+waters, not containing added sugar or other sweetening matter nor
+flavoured [other than Drinking water packed in 20 litres bottles]
+
+Page 6 of 27
+
+
+The treated water obtained through the process carried out by the Applicant in the STP plant may be
+categorized under HSN 2201. However, the question that arises for consideration is whether the
+treated water can be said to be exempt and covered under Entry 99 of the Exemption Notification No.
+02/2017 (supra). Further, if such water cannot be said to be exempt, then can the same be said to attract
+GST @18% as per SI. No. 24 of Notification 01/2017-IGST (supra).
+2. Submissions to understand the scope of Entry 99 of the Exemption Notification
+2.1 As per Entry 99 of the Exemption Notification, the following is exempt:
+= All water
+Further, as per exclusion clause in Entry 99, the following has been excluded from the purview of
+
+exemption and hence will be liable to GST at the applicable rate:
+
+* Aerated water, Mineral water, Purified water, Distilled water, Medicinal water, lonic water, Battery
+water, Demineralized water and Water sold in sealed container
+2.2. It is herein submitted that to understand the scope of the exemption notification, it would be relevant
+to understand the meaning of the term ‘Water’ and what it covers so that the scope of the exemption
+can be clearly understood. The term ‘Water’ has not been defined in the GST Law. Thus, the dictionary
+
+ning of the word ‘Water’ from the law lexicon has been reproduced here-in below for ease of
+
+“#0 ers more than seventy percent of the earth’s surface. It fills the oceans, rivers and lakes and
+
+V & a y
+gS a
+af
+
+[= nv is in the grognd and in the air we breathe. Without water there can be no life. Today more than ever,
+
+hater is bop slave and master to the people. We use water in our homes for cleaning, cooking, bathing
+
+g away wastes. We use water to irrigate dry farmlands so that we can grow more food. Our
+
+shies use more water than any other mineral. We use water in rushing rivers and thundering water
+
+falls to produce electricity.
+The word ‘water’ has been used in the Act in both the senses namely (i) it is a mineral and (ii) the
+most common, readily and freely available substance on earth [Ichchapur Industrial Coop. Society Ltd.
+vs. Competent Authority ONGC (1997) 2 SCC 42 , 52, para 28] [Petroleum and Minerals Pipelines
+(Acquisition of Rights of User in Land) Act (50 of 1962), S. 2 (ba) ]
+
+2.3. From the above it can be seen that water used in factories as an industrial input is also covered under
+the term ‘Water’ and has been considered by the Law Lexicon to be included in the definition of the
+word ‘Water’.
+
+2.4 It is also worthwhile to note that as per the scheme of classification under the erstwhile Central Excise
+
+Tariff Act (here-in-after referred to as ‘CETA’), manufacture and sale of water was exempt from Central
+
+Page 7 of 27
+
+
+Excise.
+
+2.5 Further, in the case of Commissioner of C.Ex. Jamshedpur vs. Kamani Foods [1999 (114) ELT 644
+
+{Tribunal)], the Hon’ble Calcutta Tribunal in respect of matter related to classification of the product
+‘Treated Pure Water’ held that the treated pure water is not excisable as no mineral salts are added in
+the treated water.
+In this respect, it is most humbly submitted that the process carried out by the Applicant involves
+converting the sewage water into treated water of an agreed quality to make it suitable for industrial
+use but does not involve addition of any minerals to the water to make it fit for drinking purposes. The
+comparative presented by the Applicant between the water generated from sewage and between
+normal drinking water (not mineral water) has been submitted in Para 5 of Annexure Il. From the
+difference, it can be seen that the processes through which the sewage water is subjected to certainly
+purifies the water and make it suitable for industrial use but the same does not contain the essential
+characteristics to make it fit for drinking.
+
+2.6 Thus, such treated water generated from the STP Plant and used in the factory by either RCF or by
+
+BPCL is squarely covered under the term ‘Water’ as used by SI. No. 99 of the Exemption Notification.
+
+Banc Run
+
+her, as per the Maharashtra VAT Act, 2002 (here-in-after referred to as ‘MVAT Act, 2002’) also,
+
+has been covered under Schedule A which is for NIL rated goods. Thus, even in MVAT regime,
+
+i] 2 f Pe, there was no VAT on sale of ‘Water’ in the State of Maharashtra.
+l=
+
+oc)
+
+Thus, as iacnmanee above, even as per the erstwhile excise regime and the MVAT law, the intention
+
+0) bo levy excise duty or VAT on ‘Water’.
+
+3 ions from the exemption clause:
+
+“As mentioned in Paragraph 2.1 above, certain categories of water have been excluded from the
+exemption notification which have been listed in the same paragraph. The meaning of such categories
+of waters are not defined in the GST law. Hence, we have extracted the dictionary meaning (or the
+meaning understood in common parlance) for ease of reference as under:
+
+Aerated Water:
+
+Aerated water (https://en.wikipedia.org/wiki/Aerated_ water)
+
+“Aerated water is, correctly speaking, water to which air is added”.
+“The term is, however, frequently applied to carbonated water”.
+Mineral water:
+
+Mineral water (https://dictionary.cambridge.org/dictionary/english/mineral-water)
+
+Page 8 of 27
+
+
+“natural water from underground, containing dissolved minerals that are believed to be good
+for your health”
+Purified Water:
+Purify - Dictionary meaning (http://www.dictionary.com/browse/purify)
+“to make pure; free from anything that debases, pollutes, adulterates, or contaminates”
+“to free from foreign, extraneous, or objectionable elements”
+
+Purified Water (https://encyclopedia.thefreedictionary.com/purified+water)
+
+“Purified water is water that has been mechanically filtered or processed to remove impurities and make
+
+it suitable for use Purified water in colloquial English can also refer to water which has been
+treated ("rendered potable") to neutralize, but not necessarily remove contaminants considered harmful
+to humans or animals.”
+
+Distilled water:
+
+Distilled water (https://dictionary.cambridge.org/dictionary/english/distilled-water)
+
+“Water that has been made purer by being heated until it becomes a gas and then cooled until
+
+it becomes a liquid again”
+
+aie, “Having the properties of medicine; adopted to medical use or purpose; curative (Century Dict.) Having
+{sj “healing properties, attributes, relating or pertaining to the science and art concerned with the cure,
+
+Rw i
+
+\: . = alleviation and prevention of disease and with restoration and prevention of health”.
+
+4
+bt / x
+oe 40 Swe ter:
+~~ ° " 4e@fiic (https://dictionary.cambridge.org/dictionary/english/ionic)
+
+“relating to an atom or small group of atoms that has an electrical charge because it
+
+has added or lost one or more electrons”
+
+Battery Water:
+Water battery (https://www.thefreedictionary.com/Water+battery)
+
+“(Elec.) A voltaic battery in which the exciting fluid is water”.
+“(Mil.) A battery nearly on a level with the water”.
+
+Demineralized Water:
+
+Demineralized water (https://envicaresystems.com/demineralization-water-treatment plants-
+
+pune.html). “Demineralised Water is Water completely free ( or almost ) of dissolved minerals as a
+
+result of one of the following processes :
+
+Page 9 of 27
+
+
+Sia Distillation
+5.1.2 Deionization
+5.1.3. Membrane filtration (reverse osmosis or nanofiltration)
+5.1.4 — Electrodyalisis
+S15 Or other technologies”.
+2.8.2 As per the erstwhile Central Excise Tariff Act, 1985, under Chapter Heading 2201, what was covered was
+‘Water including natural or artificial mineral water and aerated water, not containing added sugar or
+other sweetening matter or flavoured; ice and snow’.
+
+2.8.3 As per the Explanatory Notes to the HSN published by the World Customs Organisation, the terms
+
+‘Mineral Water’ including ‘Natural Mineral Water’ and ‘Artificial Mineral Water’ and the term ‘Aerated
+
+Water’ have been specifically explained.
+Further, as per the explanatory notes, it also includes ‘Ordinary natural water of all kinds (other than sea
+
+water), whether clarified or purified, except that distilled or conductivity water and water of similar
+
+purity which is covered under Chapter 28.53.
+
+2.8.4 Of the above categories of water, treated water obtained through the STP may be said to
+
+It is here4in submitted that all the other categories of water as mentioned in the exclusion clause have
+
+some’ ecial characteristics and specialised uses such as they are use in aerated drinks, medicinal/
+
+Finns ith uses, automotive cooling system, sterilisation, Laboratory application, Car battery, etc.
+
+However, as the term ‘purified’ has not been defined, it is not clear whether the process carried out by
+the Applicant to convert sewage water into water fit for industrial consumption can be said to be
+covered under ‘purified water’.
+
+2.8.6 In the case of the Applicant, the process essentially involved is removing bio-waste, grit and removing
+undesirable chemicals, biological contaminants, suspended solids, and gases from sewage water. The
+goal is to produce water fit for being used in the factory of RCF as well as if available in surplus then
+the same shall be also sold for usage as an Industrial Input. The process carried out on raw sewage
+water in the STP, making it suitable for industrial use may be said to be covered under ‘purification
+process’.
+
+2.8.7. While on the above, it would also be relevant to note that to further understand the meaning of the
+
+word ‘purified water’ in the exclusion to the exempted water, one should apply the legal maxim of
+
+Page 10 of 27
+
+
+noscitur a sociis i.e. the meaning of a word may be construed in conjunction with the other words
+and phrases used in the text.
+
+Thus, as the words ‘purified water’ have not been defined under the GST Law, the meaning of the
+accompanying words should be looked into to derive the intent of the usage of the words in SI. No. 99
+after ‘other than’. The words ‘aerated’, ‘mineral’, ‘purified’, ‘distilled’. ‘medicinal’ etc. excluded from
+the exemption notification seem to indicate the intent to excluding water which has been processed
+from naturally available water and also used for specialised purposes. Thus, the source of initial
+
+process is water whereas in case of Applicant, the source is sewage.
+
+2.8.8 In this regard, reliance is placed on the judgment of CTO, Anti-Evasion, Circle-I, Jaipur vs. MRF Ltd.
+[2009 (235) ELT 802 (Raj.)] wherein the Hon’ble Rajasthan High Court has held that Words of general
+and wider import used in an entry surrounded by other relevant terms has to draw its colour and
+meaning from such surrounding words and that cannot be lost sight of. The relevant text of the
+judgment is reproduced here-in-below for ease of reference:
+
+“The principles of ejusdem generis or noscitur a sociis are well settled principles of interpretation and
+the words of general and wider import used in an entry surrounded by other relevant terms has to
+
+its colour and meaning from such surrounding words and that cannot be lost sight of. Though
+
+i whether the same would apply to the commodity in question or not but this being the only relevant
+» entry laden synthetic adhesives providing for 16% rate of tax and this being the only core question
+of Id ‘ising out of the order of the Tax Board and there being no other competing entry prescribing
+te of tax exercised on synthetic adhesive, this question can very well be decided in the present
+revision petitions and this Court is of the opinion that there is no need to remand the case back to the
+Appellate Courts below for this purpose.”
+
+As submitted above, the intention of the usage of the word ‘purified’ seems to indicate purification for
+some specialized purpose. The Applicant is using sewage water and is carrying out certain processes
+such that the water can be used for Industrial purposes. There are no processes carried out on naturally
+available water by the Applicant and such water is also not used specifically for certain specialized
+purposes. The water can be used by the Applicant or it can also be sold to any other industry which uses
+water as an Industrial input. Thus, ideally such water should not be covered under the exclusion clause
+of Entry 99 and may be said to be exempt. However, as discussed above, owing to the lack of clarity in
+understanding the term ‘purified’ in the exclusion clause, the Applicant is hereby filing this Advance
+
+Ruling to understand whether the Water generated and supplied by the Applicant from the STP plant
+
+Page 11 of 27
+
+
+can be said to be covered under the main entry ‘Water’ of SI. No. 99 or would be covered under
+‘Purified’ and hence covered under the exclusion part of the exemption notification.
+
+3. Treated water supplied by RCF is not sold in sealed container and is thus eligible for exemption from
+
+GST
+
+3.1 The treated water is supplied by RCF to BPCL through a pipeline and not in a sealed container. On a
+perusal of the position in the erstwhile VAT and Excise regime, it is evident that the intention of the law is
+to tax only those waters which are normally sold in sealed containers. In other words, the intention of the
+law is never to levy any tax on “water which is not cleared in sealed containers.” Hence, even under GST
+regime, the intention of law seems to provide the exemption from levy of GST for any kind of water which
+is not cleared in sealed container as the rates for various goods prescribed in the GST Tariff have been
+almost aligned with the earlier rates of Excise/ VAT.
+
+3.2 It is pertinent to note that “waters” excluded from the exemption notifications as per Entry 99 of
+Notification No. 2/2017 - C.T.(Rate) (supra) are of specific nature, which, if not sold in sealed containers,
+shall be susceptible to losing their distinguishing characteristic. For example, aerated water is necessarily
+
+ired to be sold in a sealed container as it will lose the “aerated” nature of the same if sold otherwise.
+
+distilled, medicinal, ionic, battery, de-mineralised and waters of like nature, are necessarily
+
+\ +
+Pipeeauire be sold in sealed containers as the quality/ nature of such water may get compromised due
+
+3 ;
+to any kindof contamination in an open container or any other manner of sale of the same.
+
+\
+\
+
+2
+\4 : 3:3" Furt Greular No. 52/26/2018 dated 09.08.2018 at Paragraph Number 6 also clarifies that
+or ne ‘ingly, supply of water, other than those excluded from S. No. 99 of Notification No. 2/2017
+
+== (Supra) would attract GST at “NIL” rate. Therefore, it is clarified that supply of drinking water for public
+purposes, if it is not supplied in sealed container, is exempt from GS + Foi
+3.4 Accordingly, it can be said that the Exemption Entry also applies to sewage treated water which is not
+cleared in sealed containers i.e. the same is nothing but treated water cleared through pipelines.
+
+4. Submissions to understand the scope of Entry 24 of Schedule Ill of Notification No. 01/2017
+
+4.1 As per Entry 24 of Schedule Ill i.e. goods taxable under 18%, the following categories of water is covered:
+° Waters
+¢ Water including:
+- Natural or artificial mineral water
+- Aerated water
+The following are excluded:
+
+- The above water should not contain added sugar or other sweetening matter and
+
+Page 12 of 27
+
+
+- The water should be other than drinking water packed in 20 litres bottles
+
+4.2 Basis the above, it is seen that mineral water and aerated water which were covered under the
+exclusions as per SI. No. 99 of the exemption notification have been specifically included in SI. No. 24 and
+chargeable to 18% rate of GST.
+
+4.3 Further, this entry at Sl. No. 24 has mentioned the words ‘Waters, including..’ which essentially means
+that all kinds of water apart from the one that is specifically excluded i.e. water containing sugar /
+sweetened matter and water packed in 20 litres bottles, rest all kinds of water should be included in this
+entry.
+
+4.4. In this regard, it would be worthwhile to understand the meaning of the term ‘including’ and that by
+usage of the words ‘including’, the law draftsmen have intended to widen the scope of the words
+preceding it.
+
+Reliance in this regard is placed on the decision of The Supreme Court in the case of Krishi Utpadan
+
+Mandi Samiti vs. Shankar Industries, (1993) Supp (3) SCC 361(1) wherein it was held that where the
+
+legislature uses the words 'means' and ‘includes' such definition is to be given a wider meaning and is
+= ot exhaustive or restricted to the items contained or included.
+
+— ——~“Fhupglocing reliance on the above, SI. No.24 is starting with the word ‘Water’ and then after a comma
+
+ & separat mentions “including natural or artificial mineral water .... “. Thus, one may contend that the
+
+othet ee of water is excluded from SI. No. 99 of the exemption Notification and is sought to be
+
+# included:in this SI. No. 24 and liable to GST rate of 18%.
+
+4. 5 Hebeler, if the actual intention of this entry is understood, it seems that the intention is to charge GST
+Sore Serre si oo O13 8% on all kinds of water which is fit for human consumption such as ‘Aerated Water’ or ‘Mineral
+water’ and the intention is not to levy tax on sewage which has been subjected to certain process to
+purify the water. Hence, question is whether the same can be said to be excluded from the exemption
+notification and covered under SI. No. 24 under ‘Waters including ... “and thus subject to GST at 18%.
+4.6 In the instant case, the treated water generated in the STP plant of the Applicant is neither natural or
+
+artificial water nor aerated water but it may be included in first part of this entry as ‘Water’ and it may
+be said that by specifically including aerated and mineral water the other categories of water excluded
+in SI. No. 99 are also intended to be included here.
+
+4.7 Thus, in view of the above, due to lack of clarity as to whether the water supplied from the STP Plant by
+the Applicant is covered under the exemption notification or the same should be subject to GST at 18%.
+The Applicant is herein filing this Advance Ruling before your good self to provide clarity as regard to the
+
+classification of the water generated from the STP Plant and supplied for industrial use to BPCL.
+
+Page 13 of 27
+
+
+PRAYER IN ADVANCE RULING
+
+In view of the above facts and circumstances, the Applicant prays before the Hon’ble Authority that:
+
+1. The Applicant for advance ruling on the determination of applicable GST rate on supply of treated water
+be accepted/ admitted for advance ruling.
+
+2. The Applicant be granted an Advance Ruling on the determination of applicable rate i.e. whether supply
+of treated water will be liable to GST at 18% or will be exempted from GST.
+
+3. Any other or further relief as Hon’ble Authority deems fit, proper and reasonable, on the facts of the
+case, may be granted.
+
+APPLICANT SUBMISSION DATED 03.08.2021:-
+
+A. Description in brief:
+Rashtriya Chemicals and Fertilizers Limited ( “Applicant”) is engaged in business of manufacture and sale of
+
+fertilizers and industrial chemicals to customers.
+
+The Applicant has set up a Sewage Treatment Plant (‘STP’) with an objective of becoming self-dependent in
+
+eeting daily process water requirements of Trombay unit. In sewage treatment process, sewage water is
+
+=
+Zon “teated through various processes to make it suitable for industrial use. The surplus water from the STP is
+ig being supplied to Bharat Petroleum Corporation Limited (‘BPCL’) through a pipeline.
+
+uestion(s} on which advance ruling is required:
+
+SeRcr has sbught Advance Ruling on the applicable rate of GST on supply of the sewage treated water to
+3 ‘
+
+BPCL Yader the following entry:
+
+4
+
+yy x EZ
+ss 4 Exemption Notification no. 2/2017-Integrated Tax (Rate) dated 28 June 2017:
+
+Entry | HSN Description of goods GST Rate
+99 2201 Water [other than aerated, mineral, purified, distilled, medicinal, Exempt
+ionic, battery, de-mineralized and water sold in sealed (NIL rate)
+container]
+Schedule lil — Notification no. 1/2017 Integrated Tax (Rate) dated 28 June 2017:
+Entry HSN Description of goods GST Rate
+24 2201 Waters, including natural or artificial mineral waters and 18%
+
+aerated waters, not containing added sugar or other
+sweetening matter nor flavoured
+
+Page 14 of 27
+
+
+C. Additional submissions on merit:
+
+1. Applicable GST rate on goods has been determined by GST Council considering the tax rates under the
+
+erstwhile regime (Central excise, VAT regime):
+
+It is worthwhile to note that during planning and implementation of GST, the Hon’ble Finance Minister
+Mr. Arun Jaitley had announced that the tax rates under GST would be more or less in the similar band as
+the rates under the erstwhile indirect taxes (i.e. Central excise, VAT, etc.). An extract of the statement
+
+made by the Finance Minister and reported in https://www.news18.com/news/business/arun-jaitley-
+
+promises-no-surprises-in-gst-rate fixation-1386285.html is given below:
+
+"We are now in final stages of fixing tariffs for different commodities.
+
+"The formula under which it is being done has also been explained and therefore nobody is going to
+be taken by surprise, it's not going to be very significantly different (from present)," he
+said. Fitment will be done by adding the total incidence of current taxation (central plus state
+levies) and then putting the goods or service in the tax bracket closest to it. And therefore all
+states representing different political complexions, have all agreed (onGST structure),”" he
+
+said Further, an Extract of the 14" GST Council Meeting held on 18 & 19" May 2017 is
+
+oN N reproduced below:
+
+fw
+| is: dy
+oy ‘Sy Agenda Item 9: Approval of the Fitment of goods and services into the various rate slabs: 15.1.
+j
+
+)
+Introglicing this agenda item, the Secretary stated that in the 4th Council Meeting (held on 3-4
+November, 2016), the Council had laid down a set of quiding principles in respect of bands of
+
+ateetened
+we - antes of GST and GST Compensation mechanism and that officers of the Fitment Committee
+oy sate
+So “consisting of the Central Government and ten State Governments met three times (for a total of
+
+six days) and finalized its recommendations on rates on the basis of these quiding principles. He
+
+stated that the Committee had recommended the rates after taking into account the present
+
+tax incidence on account of Central Excise, Service Tax and VAT (including cascading on account
+
+of these taxes) as well as embedded taxes and the incidence of CST, Octroi, Entry Tax, etc.
+
+[http://www. gstcouncil.gov.in/14th-gst-council-meeting]
+In view of the above, under the erstwhile Central Excise Tariff Act, manufacture and sale of water
+
+not sold in sealed containers was exempt from Central Excise Duty as stated below:
+
+Page 15 of 27
+
+
+General Exemption No.50:
+
+Sr. No Chapter Descriptions of excisable goods Rate | Condition No.
+
+39 22019090 Waters not cleared in sealed containers Nil -
+
+Further, as per the Maharashtra VAT Act, 2002, ‘Water’ was covered under Schedule A which is for
+NIL rated goods. Thus, even in MVAT regime, there was no VAT on sale of ‘treated water’ in the State
+of Maharashtra. The relevant entry is reproduced below:
+
+Schedule A- Maharashtra VAT Act, 2002:
+
+Sr. Name of the commodity Conditions Rate of Tax
+No and exceptions
+49 Water other than,- x 0%
+
+(a) aerated, mineral, distilled, medicinal,
+ionic, battery, demineralized water, and
+
+(b) Water sold in sealed container.
+
+(c) Water for injection.
+
+In view of exemption for water under excise and the MVAT law and the decision taken by the GST
+Council, it is evidently clear that the intention of the Government was not to levy any tax on sale of
+VAScaat CE Run ater’. Accordingly, supply of water (not sold in sealed container) should be exempted from
+a “pajorbet of GST.
+z Pe) If dny. theatment on water would amount to purification of water, then nothing should fall under
+& be exerpgtii entry:
+
+As you gre aware, raw water obtained from ground (well/pond/bore well) and rain cannot be used in
+
+ay, Baral form for any purpose without any minimal treatment to it. It is a general practice across
+=<, globe that water would need to be processed to the extent required for the specific end use.
+
+Basis the generic meaning of purified water, any water on which any treatment is done
+would amount to purified water. If that be the case, no supply of water would be eligible for
+such exemption as every supply would be subject to minimal treatment and would fall under
+the meaning of purified water and be excluded from the exemption entry.
+
+In case of the above, the intention of the Government to grant exemption for supply of water would
+be defeated wholly.
+
+3. Test of purposive interpretation:
+
+We understand that objective of the law was not to levy tax on supply of water (other than aerated,
+
+mineral, distilled, medicinal, purified, ionic, battery, de-mineralized and water soldin sealed
+
+Page 16 of 27
+
+
+container). It is well settled principle that the law would have to be interpreted having regard to the
+
+objective it seeks to achieve. Hence, it is important to look at the substance of the transaction and
+
+determine the levy of GST accordingly.
+
+When supply of water from well or bore well is not subject to GST, how can water obtained from STP
+
+be treated as purified water and levy tax thereon.
+
+In this regard, reference can be made to the decision in the case of State of West Bengal vs. Union of
+
+India [AIR 1963 SC 1241 at p. 1265], wherein the learned Chief Justice stated that the Court must
+
+ascertain the intention of the legislature by directing its attention not merely to the clauses to be
+
+construed but to the entire statute; it must compare the clause with the other parts of the law, and
+
+the setting in which the clause to be interpreted occurs.
+
+The said principle has been reiterated in R.S. Raghunath vs. State of Karnataka and another [AIR 1992
+
+SC 81 at p. 89].
+
+With reference to the above judicial precedents, the exemption entry must be read with the intention
+
+of the Government on exempting supply of water (other than in sealed containers) from tax in
+—_— erstwhile as well as GST regime. The entry should be interpreted having regard to the objective of the
+
+Zinn ease
+
+$/ 4, ter su; iby by RCF is not ‘Purified Water’ as contemplated under the GST law:
+
+Purified ‘water is water that has been processed to remove impurities like chemicals and other
+
+“
+NX i ty cope nts such as bacteria, algae, fungi, parasites, metals like copper and lead, chemical
+
+\e \
+
+S'™\e@ worthwhile to note that water obtained from STP and sent to BPCL contains bacteria, virus etc.
+
+The Applicant has not undertaken ultraviolet treatment on such treated water for removing the
+bacteria, virus and E. coli. Therefore, water obtained from STP cannot be construed to be purified
+water as the same still contains impurities.
+
+Further, in the case of Commissioner of C.Ex. Jamshedpur vs. Kamani Foods [1999 (114) ELT 644
+(Tribunal)], the Hon’ble Calcutta Tribunal in respect of matter related to classification of the product
+‘Treated Pure Water’ held that the treated pure water is not excisable as no mineral salts are added
+in the treated water.
+
+5. Wikipedia post are not authentic and reliable:
+
+On perusal of the comments provided by Pr. Commissioner, GS T/CX, we understand that reliance has
+been placed on the definition of ‘Water treatment’ available on Wikipedia basis which it has been
+
+concluded that water obtained from STP is ‘Purified water’.
+
+rs
+
+Page 17 of 27
+
+
+However, it is a well-settled position that Wikipedia posts are not authentic and reliable. Wikipedia
+posts can be edited by anyone at any time, any information it contains at a particular time could be a
+work in progress or just wrong. Wikipedia entries are made by volunteer editors and contributors and
+are always subject to corrections and revisions. Further, the Hon’ble Supreme Court in its judgment
+in Comm. of Customs, Bangalore vs. ACER India Pvt. (Citation 2007(12) SCALE581) held that
+Wikipedia is an online encyclopedia and information can be entered therein by any person and as
+such it may not be authentic and cannot be relied upon"
+
+In view of the above submissions, the Applicants pleads before the Hon’ble Advance Ruling Authority
+to issue appropriate order clarifying on the applicable rate of GST on the supply of treated sewage
+water to the customer.
+
+03. CONTENTION — AS PER THE CONCERNED OFFICER:
+
+The submissions, as reproduced verbatim, could be seen thus-
+“The assessee engaged in the manufacture and sale of fertilizers and industrial chemicals to
+customers. They have its factories at Trombay and Thal in Maharashtra. They have already an existing
+
+Sewage Treatment Plant at Trombay which is unable to meet the complete requirement. Hence, the
+
+Z ypnce R
+
+fan ee
+
+VA Ay - “to Become independent in meeting daily process of water requirements of their factory at Trombay.
+
+ui Fosessee has set another Sewage Treatment Plant (hereinafter referred to as "STP”) with an objective
+
+< After, thid new STP plant becomes operational and there will be surplus water after meeting the
+=; he +
+( a complete requirement at Trombay.
+
+\ —— ~~ j ]
+% ia /s Bharat Petroleum Corporation Limited (hereinafter referred to as "BPCL) desired of
+
+ae Ae
+: Oe Ae 9 . .
+Sonsacied such surplus water from the assessee i.e. M/s RCF Ltd. and for this purpose, both the
+
+companies entered into “Memorandum of Understanding (MOU) to the effect. On the basis of MOU,
+the sewage water procured by M/s RCF Ltd. shall be subjected to various process and once the water
+has reached its level of quality as prescribed in the Annexure to MOU, the water then would be
+supplied through pipelines by M/s RCF Ltd. to BPCL. The said water has been manually referred by
+
+both the companies as Treated Water.
+
+Therefore, M/S RCF Ltd. has preferred an application for Advance Ruling under Section 97 of
+Central Goods and Services Tax Act, 2017 (hereinafter referred to as "CGST Act and Maharashtra
+Goods and Services Tax Act, 2017 (hereinafter referred to as "SGST Act") on the question of law
+
+relating to applicable rate of GST on supply of the treated water to BPCL as to:
+Whether Treated Waters obtained from ST) (classified under Chapter 2201) will be eligible for
+exemption from GST by virtue of SI.No:99 of the Exemption Notification No. 02/2017 - Integrated Tax
+Page 18 of 27
+
+
+(Rate) dated 28.06.2017 (as amended as "Water (other than aerated, mineral, purified, distilled,
+medical, tonic, battery, de mineralized and water sold in sealed container}
+
+(1) Whether Treated Water" obtained from STP (Classified under Chapter 2201) is taxable at 18% by virtue of
+SI.No.24 of Schedule-IIl of Notification No.01/2017-Integrarted Tax (Rate) dated 28.06.2017 (as amended)
+as “Water, including natural or artificial mineral waters and aerated water, not containing added sugar
+or other sweetening matter nor flavoured (other than Drinking water packed in 20 litres bottled")
+
+GST Provision: Exemption Notification No.2/2017 - Integrated Tax (Rate) dated 28.06.2017 (as amended)
+
+SILNO | HSN | Description of goods GST Rate
+99 2201 | Water (other than aerated, mineral, purified, distilled, medicinal,
+tonic, batter, de-mineralized and water sold in sealed container Exempt
+
+Schedule-Ill — Notification No.01/2017-Integrated Tax (Rate) dated 28.06.2019 (as mended)
+
+SILNO | HSN | Description of goods GST Rate
+24 2201 | Waters, including natural or artificial mineral waters and aerated
+waters, not containing added sugar or other sweetening matter 18 %
+nor flavoured (other than Drinking water packed in 20 litres
+bottle)
+
+PRAYER
+1. According to Wikipedia "Water treatment is any process that improves the quality of water to make it
+
+i
+or me ‘enone acceptable for a specific end-use. The end use may be drinking, industrial water supply,
+
+4 a irrigation, river flow maintenance, water recreation or many other uses, including being safely
+
+returned to the environment. Water treatment removes contaminants and undesirable components,
+\" or reduces their concentration so that the water becomes fit for its desired end-use. This treatment is
+didetro human health and allows humans to benefit from both drinking and irrigation use"
+
+.
+
+NC ‘ee
+
+omrenetie water obtained from Sewage Treatment Plant can be considered as ‘purified water.
+Se
+
+2. Entry SI. No. 99 of the Exemption Notification No-02/2017- Integrated Tax(Rate) dated 28 June 2017
+(as amended) as "water (other than aerated, mineral, purified, distilled, medical, ionic, battery, de-
+mineralized and water sold in sealed container}" clearly excludes “purified” water from the scope of
+exemption.
+
+3. As per Exhibit 1, BPCL and RCF entered in Memorandum of Understanding and "BPCL has agreed to
+pay interest free deposit for a sum of Rs.8284.70 lakhs for an estimated capital cost of STP Project of
+Rs19778.91 lakhs (including Interest during Construction of Rs 487.64 lakhs and pipeline cost of Rs.
+621.89 lakhs between RCF and BPCL) to RCF by way of a Demand Draft/Cheque in consideration”.
+
+Page 19 of 27
+
+
+Also RCF is taking consideration for day to day supply of treated water to BPCL. BPCL will use this water in
+
+course of furtherance of business that is industrial use
+
+4. As per Exhibit 2, Sewage Treatment Plant undertakes processes of screening, grit removing, nutrient
+removing, aeration, Reverse Osmosis on the sewage water. This amounts to treating water and
+
+purifying it.
+
+Hence department contends that “Treated Water” obtained from STP (classifiable under Chapter
+2201) will not be eligible for exemption from GST by virtue of SI. No. 99 of the Exemption Notification No-
+02/2017- Integrated Tax (Rate) dated 28 June 2017 (as amended) as "water (other than aerated, mineral,
+
+purified, distilled, medical, ionic, battery, de-mineralized and water sold in sealed container”
+
+And "Treated Water" obtained from STP (classifiable under Chapter 2201) is taxable at 18% by virtue of SI
+No, 24 of Schedule- Ill of Notification No.01/2017 - Integrated Tax (Rate) dated 28th June 2017 (as
+amended) as & quote; Waters, including natural or artificial mineral waters and aerated waters, not
+containing added sugar or other sweetening matter nor flavoured (other than Drinking water packed in 20
+
+litres bottles)" .
+
+BNCE Ly
+EI ~avbhigary hearing in the matter was held on 07.01.2020. Shri. Santosh Sonar, learned CA appeared,
+
+and req ested for admission of the application. Jurisdictional Officer Shri. Rajeev Kadam,
+
+ie ( Superint dent also appeared.
+*
+had Th ication was admitted. Final e-hearing was conducted on 03.08.2021. The Authorized
+
+ntatives of the applicant, Shri. Santosh Sonar, CA, Shri. Pravin Jain, Senior Manager, Shri. Nagesh
+andan, Asst. Manager and Smt. Mrudula Godbole were present. The Jurisdictional officer Shri. Ashok
+Gamre, Superintendent, Range IV, Division |, Mumbai East was present. The Authorized representatives
+made oral and written submission.
+
+4.3 Heard both sides.
+
+05. OBSERVATIONS AND FINDINGS:
+
+bat We have perused the records on file and gone through the facts of the case and the submissions
+made by the applicant and the department. The issue involved is limited to the rate of tax i.e.
+Classification of the impugned product, l,e. ‘Treated Water’ processed from sewage water;
+
+whether it is exempt or not and the applicable tax rate thereon under the GST ACT.
+
+Page 20 of 27
+
+
+5.2 M/s RCF, the applicant engaged in the business of manufacture and sale of fertilizers and industrial
+chemicals to customers, has been successfully operating one Sewage Treatment Plant (STP) at its
+Trombay premises since January 2000, which uses sewage water and converts it into water fit for
+industrial use. This water is then used in the RCF factory for manufacture of the fertilizers. Applicant has
+set up a New Sewage Treatment Plant (New STP) which is operational since 10'* September 2019 and has
+entered into an MOU with BPCL for supply of treated water which is suitable for use in industry. The
+surplus treated water from the new STP is being supplied to BPCL as per the terms and conditions as
+
+mentioned in MOU.
+
+5.3 We find that, the process followed by the Applicant for obtaining the treated water from the sewage
+water, is given in its aforesaid submission in point no. 4 of statement of facts in para 2 in details. It is
+not repeated here. Applicant has submitted that from the process of sewage treatment, the sewage
+water is converted into a treated water; by treating the sewage water through various advanced
+
+processes to make it suitable for industrial use and output water is as per the specific quality
+parameters agreed between the parties. The treated water obtained through the process carried out
+by the Applicant in the STP plant may be categorized under HSN 2201. However, the question that
+arises for consideration is whether the treated water can be said to be exempt and covered under
+
+_ EPtry 99 of the Exemption Notification No. 02/2017 (supra). Further, if such water cannot be said to be
+
+“excinp, then can the same be said to attract GST @18% as per SI. No. 24 of Notification 01/2017-IGST
+
+Be (supra). \t
+
+5g The applicant has submitted that the process carried out it involves converting the sewage water into
+treated Water of an agreed quality to make it suitable for industrial use but does not involve addition
+
+* sus ny minerals to the water to make it fit for drinking purposes. The comparative details (presented by
+the Applicant) of the waters showing the comparison between the water generated from sewage and
+the normal drinking water (not mineral water) is submitted in Para 5 of Annexure II. From the perusal
+of the comparison, it can be seen that the processes through which the sewage water is subjected to,
+certainly purifies the sewage water and makes it suitable for the industrial use but the same does not
+contain the essential characteristics to make it fit for drinking.
+
+5.5 It is contended by the applicant that such treated water generated from the STP Plant and used in the
+factory by either RCF or by BPCL is squarely covered under the term ‘Water’ as used by SI. No. 99 of the
+Exemption Notification. In addition, it is submitted that, as per the Maharashtra VAT Act, 2002 also,
+‘Water’ was covered under Schedule ‘A’ which has NIL rate of tax. The above category of water, i.e.
+
+treated water obtained through the STP, may be said to resemble ‘purified water’. However, it
+
+Page 21 of 27
+
+
+is noticed that since the water generated from the STP Plant is purified or treated water which makes it
+is suitable for industrial use, the same is to be held as excluded from the exemption notification.
+
+5.6 We find from the submission of the applicant that the essentially involved process is removing bio-waste,
+grit and removing undesirable chemicals, biological contaminants, suspended solids, and gases from
+sewage water. The goal is to produce the water which is fit for being used in the factory of RCF, as well
+as, if it is available in surplus then the same shall be also sold; for usage as an Industrial Input. The
+processes are carried out on raw sewage water in the STP, making it suitable for industrial use, may be
+said to be covered under the term ‘purification processes’. The Applicant is using sewage water as an
+input and is carrying out certain processes on said sewage water so that the output water obtained can
+be used for Industrial purposes. These processes are not carried out on naturally available water by the
+Applicant. The output water can be used by the Applicant for captive consumption or it can also be sold
+to any other industry which uses water as an Industrial input. According to applicant, such water should
+not be covered under the exclusion clause of Entry 99 and may be said to be exempt.
+
+5.7. In view of the above, the applicant has raised a specific question about such ‘treated water’ which is
+the forward supply of the applicant. To decide the present issue of rate of tax thereon, we find that, the
+
+Zo ROR is covered under Chapter heading 2201 of GST Tariff. We also find that there are two schedule
+
+Vengo
+4 ys
+
+fier entries for ‘water’ under Chapter headings 2201 under the CGST ACT. The first is Entry No. 99 of
+l & a
+
+iE: ; ‘ag notificgh No. 02/2017-Central Tax (Rate), dt. 28-06-2017 which is an exemption notification. The
+i\ " Apasecondis Si No. 24 of Notification No. 1/2017-Central Tax (Rate) dt. 28.06.2017.
+\ 5 8.1 Sr. W,/99 of exemption Notification No. 2/2017 dt. 28.6.2017, is reproduced as under:
+tomate” Chapter, Description of Services Rate Conditi
+“Ss =T"No. Section, (%) on
+Heading,
+Group or
+Service
+Code
+(Tariff)
+(1) (2) (3) (4) (5)
+99 2201 Water [other than aerated, Nil Nil
+
+mineral, purified, distilled,
+medicinal, ionic, battery, de-
+mineralized and water sold in
+sealed container]
+
+5.8.2 The aforesaid entry at Sr. No. 99 reveals that it covers “water” other than aerated, mineral,
+
+purified, distilled, medicinal, ionic, battery, de-mineralized and water sold in sealed container.
+
+Page 22 of 27
+
+
+The said entry and HSN speaks about only “water” whereas other category of waters mentioned
+therein including purified water, are not provided exemption from tax. The said entry therefore
+covers simple and natural type of water and further it does not contain water which has been
+subject to processes like purification or treated etc.
+
+5.8.3. It is observed that the applicant has processed the sewage water which contains various kinds of
+organic and inorganic impurities like sand, silt, clay, chemicals, organisms, etc. It is found from
+the processes undertaken by the applicant that it essentially involves removing bio-waste, grit
+and removing undesirable chemicals, biological contaminants, suspended solids, and gases from
+sewage water. The sewage water cannot be used, in any way, in its original form. Sewage water
+can be used only after it is purified and even the purified sewage water is not used for drinking
+purposes. It is, however, found to have industrial uses. Such sewage water is purified by applying
+different processes in the STP plant as mentioned by the applicant in the above written
+submission. Thereafter, such obtained water is called as treated water and is sold to the ‘BPCL’
+
+for the industrial use. We do not find that Applicant has used it as potable or drinking water for
+
+mineral, distilled, medicinal, ionic, battery, de-mineralized and water sold in sealed container,
+
+only will get exemption, therefore the impugned product being purified sewage water will not
+get benefit of exemption.
+
+5.8.5 It is clear from the wording used by the legislation that it is not expected to exempt such purified
+water from GST. We feel that the subject product is out of purview of this entry and hence the
+subject product, is not covered under “water” as prescribed in the schedule entry no. 99 of
+Notification no. 2/2017-C.T. (Rate) dated 28.6.2017. The contention of the applicant that the
+treated water should be covered under water of entry 99 of notification 2/2017-C.T. (Rate) dated
+28.6.2017 and is exempted from Taxes is not found acceptable.
+
+5.9 The second Entry No. 24 prescribed in Schedule III of Notification No. 1/2017-Central Tax (Rate) dt.
+
+28.06.2017 is reproduced as below: -
+
+Page 23 of 27
+
+
+Sr. Chapter, Description of Services Rate Condition
+No. Section, (%)
+Heading,
+Group or
+Service Code
+(Tariff)
+
+(3) (4) (5) (6)
+
+24 2201 Waters, including natural or 9 Nil
+artificial mineral waters and
+aerated waters, not containing
+added sugar or other sweetening
+matter nor flavoured.
+
+5.10.1 It is further observed from the said Entry 24 of Schedule III of Notification No. 1/2017 which
+relates to “Waters” that it is amended vide Notifications No. 06/2018- Central Tax (Rate), dt. 25-
+01-2018. New entry relating to water is inserted vide the said amended Notification (at Sr. No.
+
+46B of Schedule II of the Notification). Effect of all above mentioned notifications, with effect
+
+from 29.02.2018, is reproduced as under:
+
+Schedule St Chapter, Description of Services Rate Con
+No. Section, (%) diti
+Heading, Group on
+or Service Code
+(Tariff)
+(3) (4) (5) (6)
+ScheWule 46B 2201 Drinking water 6 Nil
+‘ro packed in 20 litres
+Rall’ bottles
+Le eepeaute 24 2201 Waters, __ including 9 Nil
+x oy, |- 9% natural or artificial
+A mineral waters and
+aerated waters, not
+containing added
+
+sugar or other
+sweetening matter
+nor flavoured other
+than Drinking water
+packed in 20 litres
+bottles
+
+5.10.2 On perusal of the above notification entries, it is found that, “Drinking water packed in 20 litres
+bottles” are liable to tax 12% and the “Waters, including natural or artificial mineral waters and
+aerated waters, not containing added sugar or other sweetening matter nor flavoured other than
+
+Drinking water packed in 20 litres bottles” are taxable and liable to tax @18% GST.
+
+Page 24 of 27
+
+
+5.10.3 In the subject case, the impugned water is used by the applicant for its own use i.e. in its factory
+and is also supplied to BPCL. The said water is obtained after the treatment to sewage water as
+submitted by the applicant and the said water is not potable i.e. it is not potable. It is not
+mentioned in the written contention of the applicant that the said water is used as normal
+drinking water for human consumption or is used for any manufacturing of ‘aerated water’ or
+‘Mineral water’ or ‘distilled’ or ‘iconic’ or ‘sweetening matter’ etc’. So it is clear that the said
+water is never to be used for human consumption as well as never to be used as normal water.
+Hence in our view entry No. 46 B which pertains to drinking water only is not applicable to the
+impugned product.
+
+5.10.5 The Dictionary meaning of Purification is “the removal of contaminants from something.” Thus,
+Purified water means water on which any process has been carried out for removal of
+contaminants for making it fit for use. In the present case applicant has undertaken certain
+processes which involves removing of bio-waste, grit and removing undesirable chemicals,
+biological contaminants, suspended solids, and gases from sewage water. As per the applicant’s
+submissions, it is clear that various contaminants are removed from the sewage water, thus
+
+purifying it to make it purified sewage water which is useful for Industrial purpose. As per the
+
+——
+
+VS ‘ “RBatention of applicant ‘Treated Water’ is not potable but it can be used for Industrial use. Hence
+oy ; theseentention of the applicant that it is to be covered under exemption entry no 99 of
+f Notification No. 2/2017 is not correct. We do not find any reasons to agree with the applicant’s
+; \ #:- views We are of the firm opinion that, the Treated water obtained from the STP supplied by the
+Se ee <aplicant is “purified Water” and is covered Entry No.24 of Notification No. 01/2017-C.T. (Rate)
+
+NL STE dated 28.6.2017.
+
+5.10.6 Entry No. 24 of Schedule III of Notification No. 01/2017-C.T. (Rate) dated 28.6.2017, as amended,
+uses the word “Waters” including natural or artificial mineral waters and aerated waters, not
+containing added sugar or other sweetening matter nor flavoured other than Drinking water
+packed in 20 litres bottles”. The words ‘waters’ is used in plural form and further specifically
+mentions inclusion of different type of waters which are to be covered under the said Sr. No. 24.
+Thus, it is clear that different type of waters are covered in Entry No. 24, prescribed as “waters”
+and the same excludes the entries of ‘water’ covered under Sr.No. 99 of Notification No.
+02/2017-C.T. (R) dated 28.06.2017 and Entry 46B of Schedule II of Notification No. 01/2017-C.T.
+(Rate) dated 29.2.2018. The words mentioned in the statute and notification under GST Act is to
+
+be read strictly to allow any exemption of taxes.
+
+Page 25 of 27
+
+
+6/2018 dated 09.08.2018 at Paragraph Number 6
+e excluded from S. No. 99 of Notification
+
+plicant has submitted that Circular No. 52/2
+supply of water, other than thos
+
+5.10 Ap
+
+clarifies that “Accordingly,
+uld attract GST at “NIL” rate. Therefore, it is cl
+
+ot supplied in sealed container, is exempt from
+
+arified that supply of drinking
+
+No. 2/2017 (supra) wo'
+GST.” Accordingly, it
+
+water for public purposes, if it isn
+plies to sewage treated water which is not cleared in
+
+can be said that the Exemption Entry also ap,
+ater cleared through pipelines.
+
+ontainers i.e. the same is nothing but treated w
+oned that ‘supply of drinking water
+
+sealed c
+
+On the perusal of the clarification, we find that it is clearly menti
+t supplied in sealed container, is exempt from GST’ but in the present
+
+for public purposes, if it is no
+
+matter, we find that the treated wate
+
+ris neither supplied for to be use as drinking water for public
+
+nking water, to BPCL. Applicant has not submit
+
+ing water for public purposes, hence it
+
+purposes, nor supplied in sealed container, as dri ted
+
+that the said treated water from sewage, is used for drink
+
+should be liable for exemption under entry 99 of notification 2/2017. Therefore the contention of
+the applicant to allow the exemption to its impugned product, is not found acceptable.
+with views of jurisdictional officer and hold that the
+
+5.11 In view of the above discussions, we agree
+impugned goods, called as “Treated Water”, is purified water which is used for own factory
+antity sold to ‘BPCL’ for its further industrial use falls under Entry No. 24 of
+
+Ace Pu, pRUTPOSES and excess qu
+3 ~ Natification No. 01/2017 mention
+=/ 5.12. During\the course of hearing and in the
+
+ed above.
+written submission, applicant has cited diff
+
+evy of GST is based on supplies made an
+
+erent case laws
+
+\
+which gre on record. The same are considered. L d the
+~ description shown i
+
+sale Z
+Sa the present matter, we h
+
+n the HSN code mentioned in Notification Schedule rate entries under GST Act.
+
+ave considered the proper wording as use
+Therefore, the contention
+
+d in the statute i.e. specific
+
+of the applicant in
+
+e thereon.
+
+== Schedule Entry to decide the GST Rat
+ned goods (Treated water) as exempt of ta
+
+xes is not
+
+aforesaid written submission to allow the impug'
+
+found acceptable.
+5.13 Considering the facts of the case and provisions of specific notifications of entries under CGST
+s specifically prescribed for the levy of taxes under Entry No.24 of
+
+CGST/IGST Act, the term ‘waters’ i
+“Treated water” from the sewage
+
+schedule rates. Eventually, we conclude and hold that the purified
+
+is covered under Entry No. 24 of HSN 2201.
+“Treated water” obtained from sewage is covered under
+
+% (9% SGST & 9% CGST)/ IGST
+) dtd.28.06.2017 as
+
+s, in our opinion, the
+ble and same would be taxable @18
+
+tification No. 1/2017 Central Tax (Rate
+| Tax (Rate) dtd.25.01.2018.
+
+5.14 Considering above fact
+term “waters”. Hence it is taxa
+under Entry 24 of Schedule-lll of No
+
+y Notification No. 06/2018 and Centra
+
+amended b
+Page 26 of 27
+
+
+06. In view of the discussions made above, we pass order as follows:
+ORDER
+(Under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods and Services
+Tax Act, 2017)
+NO.GST-ARA- 67/2019-20/8- [J Mumbai, dt. 04.04 -2D2)|
+For reasons as discussed in the body of the order, the questions are answered thus —
+Question 1. Whether “Treated Water" obtained from STP (classifiable under Chapter 2201) will be
+
+eligible for exemption from GST by virtue of SI. No. 99 of the Exemption Notification No.
+02/2017- Integrated Tax (Rate) dated 28 June 2017 (as amended) as "Water (other than
+aerated, mineral, purified, distilled, medical, ionic, battery, de-mineralized and water sold in
+sealed container]"?
+
+Answer:- Answered in the negative.
+
+Question 2. Whether "Treated Water" obtained from STP [classifiable under Chapter 2201] is taxable at
+18% by virtue of SI. No. 24 of Schedule - III of Notification No. 01/2017- Integrated Tax (Rate)
+dated 28th June 2017 (as amended) as "Waters, including natural or artificial mineral waters
+and aerated waters, not containing added sugar or other sweetening matter nor flavoured
+(other than Drinking water packed in 20 litres bottles}"?
+
+ns Swered in the Affirmative.
+
+nce Muniba
+
+bare 98 r
+RAsTY MAGOO T.R. v a
+
+Ve i) (MEMBER) (MEMBER)
+
+1. The applicant
+
+2. The concerned Central / State officer
+
+3. The Commissioner of State Tax, Maharashtra State, Mumbai
+
+4. The Pr. Chief Commissioner of Central Tax, Churchgate, Mumbai
+5. Joint commissioner of State Tax, Mahavikas for Website.
+
+Note:- An Appeal against this advance ruling order shall be made before The Maharashtra Appellate Authority
+for Advance Ruling for Goods and Services Tax, 15" floor, Air India Building, Nariman Point, Mumbai —
+400021. Online facility is available on gst.gov.in for online appeal application against order passed by
+
+Advance Ruling Authority.
+
+Page 27 of 27

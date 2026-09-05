@@ -1,0 +1,395 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+GST Bhavan, 1* floor, B-Wing, Mazgaon, Mumbai ~ 400010.
+(Constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+BEFORE THE BENCH OF
+
+(1) Shri B. Timothy, Addl. Commissioner of Central Tax, (Member)
+(2) Shri B. V. Borhade, Joint Commissioner of State Tax, (Member)
+
+GSTIN Number, if any/ User-id_| 27AAAF10796B1ZN
+
+Legal Name of Applicant IMPERIAL MOTOR STORES
+
+Registered Address/ Address | 431 Sanghrajka House 4th Floor Dr.D.B.Marg, Opera
+provided while obtaining user id | House, Maharashtra Mumbai - 400 004
+
+Details of application GST-ARA, Application No. 124 Dated 25.02.2019
+Concerned officer Dy. Commissioner of S.T.(E-812), Nodal -2, Mumbai
+
+Nature of activity(s) (proposed /
+
+present) in respect of which
+
+advance ruling sought
+
+A_| Category Wholesale Business
+
+B_ | Description (in brief) We are Distributors of Veethree Range of Automotive
+Dashboard Instruments, Clusters & sensors manufactured by
+M/s Indication Instruments Ltd., Plot 19, Sector 6, Faridabad-
+121006 (Haryana). Veethree Dashboard Instruments are
+mounted on front end of Cars, Trucks, Tractors, Two
+Wheelers, Three wheelers Compressors etc. as also Stationary
+Engines.
+
+Some Instruments are individually made and supplied to
+buyers by Indication Instruments Ltd. Also, Indication
+Instruments Ltd. makes Clusters in which such instruments
+(basic movements) are clustered together with added features
+such as Warning Indicators etc. and are empanelled and
+supplied accordingly to our buyers for mounting as it as on
+front end of the vehicle/Chassis.
+
+Indication Instruments Ltd, have been treating supply of
+individual instruments covered under CH. 90 under
+appropriate sub heading and charging IGST or CGST/SGST as
+applicable @ 18% and supply of clusters under HSN 8.708 @
+29% GST Tax Rate.
+
+However, our Competitors are charging CGST/SGST
+or IGST @ 18% treating supply of clusters as covered, Under
+HSN 9026/9029.
+
+We have to request you to kindly provide us a ruling
+as to whether clusters are to be treated as covered under CH...
+90 under new classification.
+
+Issue/s on which advance ruling
+required
+
+Question(s) on which advance | As reproduced in para 01 of the Proceedings below.
+ruling is required
+
+(i) Classification of any goods or services or both
+
+PROCEEDINGS
+
+(Under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods
+and Services Tax Act, 2017)
+
+The present application has been filed under section 97 of the Central Goods and
+
+Services Tax Act, 2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter
+
+1
+
+
+referred to as “the CGST Act and MGST Act “respectively ] by M/s. IMPERIAL MOTOR
+STORES, the applicant, seeking an advance ruling in respect of the following question.
+1. Classification of Instruments Cluster Whether Fall Under 8708 or 9026/9029.
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act
+and the MGST Act are the same except for certain provisions. Therefore, unless a mention is
+specifically made to any dissimilar provisions, a reference to the CGST Act would also mean a
+reference to the same provision under the MGST Act. Further to the earlier, henceforth for the
+
+purposes of this Advance Ruling, the expression ‘GST Act’ would mean CGST Act and MGST Act.
+
+2: FACTS AND CONTENTION — AS PER THE APPLICANT
+
+1. The submissions, as reproduced verbatim, could be seen thus-
+
+“We are Distributors of Veethree Range of Automotive Dashboard Instruments, Clusters &
+sensors manufactured by: M/s Indication Instruments Ltd., Plot 19, Sector 6, Faridabad - 121
+006 (Haryana). Veethree Dashboard. Instruments are mounted on front end of Cars, Trucks,
+Tractors, TWO Wheelers, Three Wheelers Compressors etc, as also Stationary Engines.
+
+Some Instruments are individually made & supplied to buyers by Indication Instruments Ltd.
+
+Also, Indication Instruments Ltd, makes Clusters in which such instruments (basic movements)
+
+Ov together with added features such as Warning Indicators etc. & are empanelled &
+ccordingly to our buyers for mounting as it as on front end of the Vehicle/Chassis.
+
+su
+mossy hs of both individual type Instruments and Clusters, enclosed (Annexure- A).
+
+Indicftiod Instruments Ltd have been treating supply of individual instruments covered under
+
+es
+
+a, ay geal appropriate sub heading and charging IGST or CGST/SGST as applicable @ 18%.
+
+Sima se Aliowing Supreme Court judgement in 2015 (321) E.L.T.A 130 (SC) & are charging
+
+supply of Clusters under HSN 8708 @ 28% GST Tax Rate (copy of their invoice is enclosed.
+
+(Annexure- B), relevant portion of the said judgment is given herein below:
+
+IT 17
+
+"Cluster sets comprising of Speedometer, Temp. Gauge, Fuel Gauge, Oil Gauge & Warning
+
+Lights are classifiable as parts of Motor Vehicles under heading 8708 of Central Excise Tariff
+
+Act, 1985 - Commissioner V/s Premier Instruments and Controls Ltd. - 2004 (174) E.L.T 49
+
+(Tri-Chennai)". This order was maintained by Supreme Court vide their decision reported in
+
+2015 321) E.L.T.A 130. (S.C).
+
+However, our Competitors are charging CGST/SGST or IGST @ 18% treating supply of
+
+clusters as covered under HSN 9026/9029 (copies of some such invoices are enclosed for your
+
+look up please). (Annexure- c(i) & C(ii)).
+
+We have to request you to kindly provide us a ruling as to whether Clusters are to be treated as
+
+covered under Ch. 90 under new classification.
+
+
+We are following the honorable supreme court Judgment in the matter of Premier Instruments
+
+& Controls Ltd. 2015(321) E.L.T.A130(S.C) (Annexure-D) “
+
+3: CONTENTION — AS PER THE CONCERNED OFFICER
+
+The submission, as reproduced verbatim, could be seen thus-
+“M/s Imperial Motor Stores supply the clusters sets comprising speedometer, temperature
+gauge, fuel gauge, oil gauge & warning lights.
+Brief information of cluster product is reproduced as below
+Instruments clusters are a combination of instrumentation including Speedometer, Tachometer,
+Odometer, Fuel Gauge, Temp. Gauges, Buzzers & Clock Display etc. With the increased
+complexity of vehicle electronics, greater functionality requires status information to be
+displayed to the driver. The instrument cluster is the primary data source for the driver,
+delivering information about vehicle and engine status .Cluster instruments of vehicle generally
+have following components
+
+e Speedometer-Mechanical Drive Straight or Angular
+e Fuel Gauge-Cross-coil Movement
+e Pointer-Solid type
+
+e Illumination And Warning Indicators-Lamps.
+SPNCE RUL yy,
+a: Ncioek che Gauge
+‘N
+
+fi, ye eA lock (12hr - 24hr)
+
+ae . “Distance to empty
+| ‘4 \, ° Battery Voltage - Level Indicator
+\ \ pd Service or Maintenance Indication
+
+Ne
+eee Mean And Maximum Speed
+rm 8 os Fue! Consumption (average -instantaneous)
+=~. Pointer And IIlumination-Self-illuminated type
+
+e Warning Indicators-LEDS
+M4 Imperial Motor Stores stated that the some of the vendors or competitor are supplying
+
+cluster @ 18% treating supply of cluster as covered under excise Tariff 9026 or 9029 & some of
+them are supplying @ 28% treating supply of cluster as covered under Excise Tariff 8708.
+Excise heading & subheading details of 8708, 9026 & 9029 are elaborated as below.
+
+Tariff Item Description of goods
+8708 PARTS AND ACCESSORIES OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705
+Tariff Item Description of goods
+9026 INSTRUMENTS AND APPARATUS FOR MEASURING OR CHECKING THE FLOW,
+
+LEVEL, PRESSUREOR OTHER VARIABLES OF LIQUIDS OR GASES (FOR EXAMPLE,
+FLOW METERS, LEVEL GAUGES, MANOMETERS, HEAT METERS), EXCLUDING
+INSTRUMENTS AND APPARATUS OF HEADING 9014, 90.15, 9028 OR 9032
+
+9026 10 For measuring or checking the flow or level of liquids:
+9026 10 10 Flow meters
+9026 10 20 Level gauges
+
+9026 10 90 Other
+
+
+
+9026 20 00 For measuring or checking pressure
+
+9026 80 Other instruments or apparatus:
+
+9026 80 10 Heat meters
+
+9026 80 90 Other
+
+9026 90 00 Parts and accessories
+
+Tariff Item Description of goods
+
+9029 REVOLUTION COUNTERS, PRODUCTION COUNTERS,TAXIMETERS,
+
+MILEOMETERS, PEDOMETERS AND THE LIKE;SPEED INDICATORS AND
+TACHOMETERS, OTHER THAN THOSE OF HEADING 9014 OR 9015;
+
+STROBOSCOPES
+9029 10 Revolution counters, production counters, taximeters, mileometers, pedometers _and the like:
+9029 10 10 Taximeters
+9029 10 90 Other
+9029 20 Speed indicators and tachometers; stroboscopes:
+9029 20 10 Tachometers, non-electrical
+9029 2020 Speedometers, non-electrical
+9029 20 30 Stroboscopes
+9029.20 90 Other
+9029 9000 Parts and accessories
+
+As per submission of M/s Imperial Motor Stores, it clearly indicates that the person supplying
+the cluster of vehicles. He is not supplying the separate component of cluster (Such as taximeter,
+flow meter, level gauge, heat meter, speedometer etc.)
+
+If person supply the individual taximeter, flow meter, level gauge, heat meter, speedometer etc
+separately then those product surely covered under excise tariff either 9029 or 9026.
+
+But M/s Imperial Motor Stores supplying the cluster - combinations of instrumentation including
+
+prce RUL ometer, Tachometer, Odometer, Fuel Gauge, Temp Gauges and various Tell Tales,
+
+S|
+a Bixzérs\& Clock Display etc. Those electronic cluster are generally used in the vehicle &
+
+PC. cae > *
+» mounted 6n front end of car, truck, tractor, two wheeler, three wheelers.
+
+Section 2(72) of MGST act 2017 define the Manufacture as
+"manufacture" means processing of raw material or inputs in any manner that results in
+She Guemprdence of a new product having a distinct name, character and use and the term
+= “*manufacturer" shall be construed accordingly;
+Electronic cluster is the distinct product having distinct name, use from its component. It is
+manufacture by using various component such as Speedometer, Fuel Gauge, Pointer,
+Illumination And Warning Indicators-lamps, Temperature Gauge, clock (12hr - 24hr), Battery
+Voltage -Level Indicator, Service or Maintenance Indication, Mean And Maximum Speed,
+Warning Indicators-LEDs; etc.
+It also note that the various component used for manufacturing of the cluster is having different
+tax rate under GST period. Dealer cannot supply individual component such as speedometer by
+detaching it from cluster. Cluster is purely a different manufactured product resulted by way of
+
+assembling and connecting various component on single electronic platform and which are
+
+solely used in vehicles.
+
+
+Also Hon. Supreme Court given judgment vide their decision in case of Commissioner V/s M/S
+Premier Instrument and control Ltd -2004(174) ELT 49 (Tri-Chennai) that Cluster sets
+comprising of speedometer, temp Gauge, Fuel gauge, oil Gauge and warning lights are
+classifiable as parts of motor vehicles under heading 8708 of central Excise Tariff act 1985.
+Hence this office feels that the products sold by M/s Imperial Motor Stores is parts of motor
+vehicle & same will be covered under excise chapter heading number 8708.
+
+As per schedule rate under GST act, products supplied under excise chapter heading 8708 (Parts
+and accessories of the motor vehicles of headings 8701 to 8705 (other than specified parts of
+tractors) liable to tax @ 28 % (CGST-14% & SGST-14%).
+
+The entry is as follows:
+
+Chapter/ Section | Description of Service CGST_ | SGST/UTGST | IGST
+/ Heading
+8708 Parts and accessories of the motor vehicles 14 14 28
+
+of headings 8701 to 8705 (other than
+specified parts of tractors)
+
+Hence this office feels that Electronic cluster product sold by M/s Imperial Motor Stores will be
+
+liable to tax @ 28% under GST act.
+
+4. HEARING
+Preliminary hearing in the matter was held on 13.03.2019. Sh. Sunil Bhargav and Ms.
+
+chi Shroff, employee, appeared and requested for admission of their ania
+
+ae
+The application was admitted and called for final hearing on 07.06.2019. Ms. Suruchi
+oe Shroff employee appeared made oral and written submissions. She was informed that her
+“colttention will be considered only if she filed an authority letter. Jurisdictional Officer Sh. C. R.
+oke, Dy. Commr of S.T (E-812) Nodal 2, Mumbai appeared & made written submissions. We
+heard both the sides.
+
+5: OBSERVATIONS
+
+We have gone through the facts of the case, written submission and other documents.
+The issue put before us is in respect of classification of goods and applicable rate of tax under
+GST Act which would be on the lines thus —
+
+Applicant, a registered person under GST ACT are engaged in Distribution of Veethree
+Range of Automotive Dashboard Instruments, Clusters and sensors which are mounted on front
+end of Cars, Trucks, Tractors, Two Wheelers, Three Wheelers Compressors etc, as also
+
+Stationary Engines. We find from the photographs submitted on record that the supply is in the
+
+5
+
+
+form of Clusters in which instruments are clustered together with added features such as
+Warning Indicators & are empanelled for mounting as it is on front end of the Vehicle/Chassis.
+
+We find from the contention of applicant and the submissions made by the jurisdictional
+officer that "Cluster” consists of Speedometer, Temp. Gauge, Fuel Gauge, Oil Gauge and
+Warning Lights etc. It is the contention of the applicant that they classified supply of clusters
+under HSN Code 8708 with applicable rate of GST of 28%, whereas some of the competitors
+supply impugned goods under HSN 9026/9029 and charging GST at 18%. In order to have a
+clarity on the classification issue applicant has approached this authority with following questions.
+Question :- Classification of Instruments Cluster Whether Fall Under 8708 or 9026/9029.
+
+From a perusal of the submissions of the applicant & the jurisdiction officer, undisputed
+facts of the present case is that the applicant supply ‘clusters’ in which several instruments are
+clustered. Thus, there is no supply of individual instrument. We agree with the contention of the
+jurisdiction officer that Electronic cluster is the distinct product having distinct name, use from
+its component. It is manufactured by using various component such as Speedometer, Fuel
+
+Gauge, Pointer, Illumination And Warning Indicators-lamps, Temperature Gauge, clock (12hr -
+
+24hr), Battery Voltage Level Indicator, Service or Maintenance Indication, Mean & Maximum
+
+Th s proposition of law as made by the jurisdictional officer gets support from the
+= decision of Hon. Supreme Court which upheld the decision of the Tribunal in case of
+Commissioner V/s M/s Premier Instrument and Control Ltd — [2004(174) ELT 49 (Tri-
+SC nnai)], that Clusters/sets which did not find place in Chapter 90 and that each set was
+
+principally and solely meant for use in motor vehicles. Therefore as held by the Tribunal,
+Clusters/sets comprising of speedometer, temp Gauge, Fuel gauge, oil Gauge and warning lights
+are classifiable as parts of motor vehicles under heading 8708.
+
+In this view of the matter we are of the clear opinion that the product sold by applicant is
+
+parts of motor vehicle. The same will be covered under excise chapter heading number 8708 and
+
+is liable to tax @ 28 % (CGST-14% & SGST-14%) as per the entry as below:
+
+Chapter /Section | Description of Service CGST | SGST/UTGST | IGST
+/ Heading
+8708 Parts and accessories of the motor vehicles | 14 14 28
+
+of headings 8701 to 8705 (other than
+specified parts of tractors)
+
+Bs In view of the extensive deliberations as held hereinabove, we pass an order as follows:
+
+
+ORDER
+
+(Under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods
+and Services Tax Act, 2017)
+
+NO.GST-ARA- 124/2018-19/B- 69 Mumbai, dt. /# 7 06 /20/ 7;
+
+For reasons as discussed in the body of the order, the questions are answered thus —
+Question 1:- Classification of Instruments Cluster Whether Fall Under 8708 or 9026/9029.
+
+Answer :- _ As per above discussion, we hold that the classification of Instrument Cluster is
+
+covered under HSN 8708, as parts of motor vehicles.
+
+— cy a so
+B. TIMOTHY B. V. BORHADE
+(MEMBER) (MEMBER)
+
+comyt CERTIFIED TRUE COPY
+opy to:-
+
+Vee
+1. The applicant \st eee
+
+2. The concerned Central / State officer
+
+3. The Commissioner of State Tax, Maharashtra State, Mumbai MEMBER
+4. The Chief Commissioner of Central Tax, Churchgate, Mumbai ADVANCE RULING AUTHORITY
+5. Joint commissioner of State Tax , Mahavikas for Website. MAHARASHTRA STATE, MUMBAI
+
+Note :- An Appeal against this advance ruling order shall be made before The Maharashtra
+Appellate Authority for Advance Ruling for Goods and Services Tax, 15" floor, Air India
+building, Nariman Point, Mumbai - 400021.

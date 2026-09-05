@@ -1,0 +1,940 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+GST Bhavan, 8th floor, H wing, new building, Mazgaon, Mumbai-400010.
+
+(Constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri B. Timothy, Addl. Commissioner of Central Tax, (Member)
+(2) Shri B. V. Borhade, Joint Commissioner of State Tax,( Member)
+
+GSTIN Number, if any/ User-id URD
+
+Legal Name of Applicant Technip UK Limited
+
+Registered Address/ Address | One St Paul's Churchyard-London- EC4M 8AP-UK
+provided while obtaining user id Juju Mathew
+
+Unit 602, Wing A and Unit Nos. 601 & 602,
+Wing B-1, Boomerang, Chandivli
+
+Farm Road, Near Chandivli Studio,
+Andheri East, Mumbai- 400072.
+
+Details of application GST-ARA, Application No. 77 Dated 18.09.2018
+
+Concerned officer Commissioner of CGST/CX, Mumbai _ East
+Commisionerate, Mumbai Zone.
+
+Nature of activity(s) (proposed /
+present) in respect of which advance
+ruling sought
+
+A_ | Category
+Service provision, Works Contract
+
+B_ | Description (in brief) Tenders issued by ONGC normally relates to erection,
+commissioning and installation of plant and
+machinery for ONGC. In terms of the NIT, bids are
+invited for overall responsibility of entire project.
+
+~~ ~==rIssue/s on which advance ruling | (i) classification of goods and /or services or both
+
+reqitired (ii) applicability of a notification issued under the
+a SAN provisions of the Act
+y \ oh (v) determination of the liability to pay tax on any
+» a4 goods or services or both
+
+Question{s) on which advance ruling | As reproduced in para 01 of the Proceedings below.
+
+~ | is requiréd
+CS 4 PROCEEDINGS
+
+5 (Under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+The present application has been filed under section 97 of the Central Goods and Services Tax
+Act, 2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as “the
+CGST Act and MGST Act”] by M/s. Technip UK Limited, seeking an advance ruling in respect
+of the following questions.
+
+(a) Whether the terms of the NIT, in particular its self-styled description as ‘lump sum turnkey’
+contract, renders it as a ‘works contract as understood under the GST law?
+
+(b) In the event the answer to (a) is in the affirmative, does it imply that each and every supply made
+to ONGC under the contract would be subject to rate of tax as applicable to a ‘works contract'?
+
+(c) In the event the answer to (a) is in the affirmative;
+
+
+(A) Will the position change if the members of the consortium raise distinct invoices and ONGC
+also pays directly to the members?
+
+(B) Can it be said that in such circumstances the individual invoices will not be affected by the
+overall description as a ‘works contract'?
+
+(d) In the event the answer to (a) is in the affirmative and only one single rate of tax applies to the
+entire contract, can the members of the claim rate of tax in terms of Notification No. 39/2017 -
+Integrated Tax (Rate) dated 13.10.2017?
+
+(e) In the given facts of the instant application, can the member of the consortium supplying goods
+alone claim concessional rate of tax of 5% in terms of Notification No. 3/2017-Integrated Tax
+(Rate) dated 28.06.2017?
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and
+the MGST Act are the same except for certain provisions. Therefore, unless a mention is
+specifically made to such dissimilar provisions, a reference to the CGST Act would also mean a
+reference to the same provision under the MGST Act. Further to the earlier, henceforth for the
+purposes of this Advance Ruling, a reference to such a similar provision under the CGST Act /
+MGST Act would be mentioned as being under the “GST Act”.
+
+02. FACTS AND CONTENTION - AS PER THE APPLICANT
+
+The submissions, as reproduced verbatim, could be seen thus-
+
+STATEMENT OF FACTS
+The relevant facts leading to the application are set out as under:
+L We, M/s Technip UK Limited (hereinafter referred as 'we' /'Technip' or 'Applicant’) are making
+
+this application under the provisions of Section 97 of the Maharashtra Goods and Service Tax Act,
+2017 (MGST Act’) read with (i) Section 97 of the Central Goods and Services Tax Act, 2017 (CGST
+“ Act') and (ii) Section 20 of the Integrated Goods and Services Tax Act, 2017 (‘IGST Act).
+
+nn a
+a UAL BACKGROUND
+“The present application has been filed before this Hon'ble Authority to seek clarity on the applicable
+Yate of tax on the transaction proposed to be executed in relation to tenders issued by the Oil and
+\ Natural Gas Corporation of India Ltd. ((ONGC’) for executing erection, commissioning and
+
+‘installation work on turnkey basis for petroleum operations.
+
+j ‘I this regard, a sample Notice Inviting Tender (‘NIT’) issued by ONGC is enclosed with this
+
+J application as ANNEXURE - 3. Further, the 'General Conditions of Contract (GCC’) appended to the
+
+“DaIT is also enclosed herewith as ANNEXURE - 4. Bid Evaluation Criteria released by ONGC is
+
+iP ‘enclosed as ANNEXURE - 5.
+
+For ease of reference of this Hon'ble Authority, in the following paragraphs the Applicant is herein
+summarizing the relevant clauses and also reproducing appropriate clauses of the NIT and BEC in
+so far as it is relevant for this application.
+
+5. Tenders issued by ONGC normally relates to erection, commissioning and installation of plant and
+machinery for ONGC. In terms of the NIT, bids are invited for overall responsibility of entire project.
+Further, as per the NIT and its accompanying Annexures, the bidders are required to give an ‘overall
+lump sum price’ towards carrying out the obligations under the NIT. A detailed breakup of the price
+is also required by the ONGC.
+
+6. It is also pertinent to point out that the NIT permits a consortium of members to bid as well. In this
+regard, the following may be noted:
+
+i) With respect to certain tenders, the Applicant would like to participate not individually but
+as part of a consortium. This consortium would comprise of the Applicant and another
+member, and there will be a joint bid.
+
+ii) In the above scenario, the members of the consortium will separately supply the goods and
+services i.e. one member will supply the goods and other member will supply the service.
+
+iii) In terms of the NIT, the members of the consortium are required to (i) make separate
+supplies to the ONGC and (ii) can raise invoices upon ONGC directly for their respective
+supplies.
+
+2
+
+
+iv) These invoices will be separately and directly paid by the ONGC to the respective member
+of the consortium.
+
+7. In the aforesaid background a question has arisen as to the applicable rate of GST to be charged on
+the respective invoices of the members of the consortium which would be raised upon ONGC. The
+question has arisen inter alia in view of the characterization of the NIT in consideration. The precise
+issue is whether in the facts of the NIT described above and taking into account its relevant clauses
+the NIT (when it is eventually executed into a contract) render it into (i) a 'works contract under
+GST law taking into consideration the supplies of both the members of the consortium conjointly,
+or (ii) the supplies made by the respective members would be treated as distinct supplies for GST
+purposes,
+
+8. The reason for this confusion inter alia stems from the provisions of the GST laws which are
+discussed below.
+
+RELEVANT PROVISIONS OF THE 'GST' LAW
+% The Applicant understands that certain provisions of the GST legislations may be relevant, though
+not conclusive, in respect of the inquiry at hand. These are discussed in conjunction with the
+relevant factual aspect of the NIT in the following paragraphs below.
+10. The definition of 'works contract under CGST Act, which corresponds to the definition under the
+MGST Act, is to the following effect;
+
+"(119) "works contract" means a contract for building, construction, fabrication, completion, erection, installation,
+
+fitting out, improvement, modification, repair, maintenance, renovation, alteration or commissioning of any
+
+immovable property wherein transfer of property in goods (whether as goods or in some other form) is involved in
+the execution of such contract;"
+
+11. The above definition may be relevant to determine whether the lump-sum-turnkey contract that
+
+will be executed by ONGC will be a works contract or not.
+
+12, Schedule II to CGST Act, deems 'works contract as defined in Section 2(119) as a 'service'. We
+further understand that Notification No. 39/2017 - Integrated Tax (Rate) dated 13.10.2017 ‘offshore
+works contract services' for oil and gas exploration and production attract a GST rate of 12 percent.
+As per this Notification, 'onshore works contract services’ for oil and gas exploration and
+production attract a GST rate of 18 percent. Entry no 3(viii) and 3(ix) of the Notification are to this
+effect.
+
+13. Besides the above, it is also relevant to point out that Notification No. 3/2017 Integrated Tax (Rate)
+‘=x, dated 28.06.2017 may also be applicable in the present case. The said Notification provides for a
+
+“Ss. concessional rate of GST i.e. 5% on specified goods supplied in relation to petroleum projects.
+
+fi ep “=. Relevant entry of the said Notification is extracted below:
+fi Ff f \ {| Chapter/Headi | Description of Goods Rate
+GS-3 ng/Subheading
+{ /Yariff item
+
+Any Chapter Goods specified in the List annexed to this Table required in | 5%
+connection with:
+(1) Petroleum operations undertaken under petroleum
+exploration licenses or mining leases, granted by the
+Government of India or any State Government to the Oil and
+Natural Gas Corporation or Oil India Limited on nomination
+basis, or
+(2) Petroleum operations undertaken under specified
+contracts, or
+(3) Petroleum operations undertaken under specified
+contracts under the New Exploration Licensing Policy, or
+(4) Petroleum operations undertaken under specified
+contracts under the Marginal Field Policy (MFP), or
+(5) Coal bed methane operations undertaken under specified
+contracts under the Coal Bed Methane Policy
+14. The Applicant is desirous of knowing whether such contract shall be considered as a works
+contract for the purpose of GST and accordingly the rate of tax applicable on such work contract
+shall apply on each and every invoice raised by them. Alternatively, whether the members of the
+consortium supplying goods alone can claim concessional rate of tax of 5% in terms of Notification
+No. 3/2017-Integrated Tax (Rate) dated 28.06.2017.
+
+
+
+15. __ It is in the aforesaid background, that the instant application is being filed for a ruling from this
+Hon'ble Authority so as to ascertain the rate of tax applicable for supplies under the terms of the
+said proposed contract. It is requested that this Hon'ble Authority may issue its ruling (/s) on the
+following questions:
+
+(a) Whether the terms of the NIT, in particular its self-styled description as ‘lump sum
+turnkey contract, renders it as a ‘works contract as understood under the GST law?
+(b) In the event the answer to (a) is in the affirmative, does it imply that each and every
+
+supply made to ONGC under the contract would be subject to rate of tax as applicable to
+a ‘works contract?
+
+(c) In the event the answer to (a) is in the affirmative;
+
+(A) Will the position change if the members of the consortium raise distinct invoices and
+ONGC also pays directly to the members?
+
+(B) Can it be said that in such circumstances the individual invoices will not be affected
+by the overall description as a 'works contract'?
+
+(d) In the event the answer to (a) is in the affirmative and only one single rate of tax applies
+to the entire contract, can the members of the claim rate of tax in terms of Notification No.
+39/2017 - Integrated Tax (Rate) dated 13.10.2017 ?
+
+(e) In the given facts of the instant application, can the member of the consortium 16.
+Supplying goods alone claim concessional rate of tax of 5% in terms of Notification No.
+3/2017-Integrated Tax (Rate) dated 28.06.2017?
+
+16. It is submitted that the instant application is maintainable. The present Applicant is an eligible
+applicant as it is desirous of obtaining registration under the CGST Act. The said application relates
+to a question specified in terms of clause (e) of Section 97 (2) of the MGST Act/CGST Act read with
+Section 20 of the IGST Act. The Applicant further submits that there is no bar under proviso to
+Section 98(2) of the MGST Act / CGST Act applicable to the instant application as the question
+involved in the application is neither pending nor decided in any proceedings in the case of an
+applicant under any of the provisions of this Act. It is therefore prayed that the instant application
+may be decided on merits
+
+APPLICANT’S INTERPRETATION OF LAW
+1. The Applicant submits that it is not clear on the applicable rate of tax in respect of the supplies which
+_* “<=. will be made to the ONGC in the factual position of the present case as described above.
+
+\\The Applicant understands the following;
+> agreement which qualifies as a works contract in terms of Section 2(119) of the MGST Act /
+
+GST Act is necessarily a 'composite supply in terms of entry 6(a) of the Schedule II to the MGST
+Act / CGST Act.
+The liability of composite supply has to be determined in terms of Section 8(a) of the MGST Act
+/ © If CGST Act.
+/ Works Contract is accordingly considered a 'supply of service in terms of this entry 6(a) of the
+i Schedule Il to the MGST Act /CGST Act.
+> Notification No. 39/2017 - Integrated Tax (Rate) dated 13.10.2017 specifies the rate of tax on
+
+supply of works contract service.
+3. At the outset the Applicant requests this Hon'ble Authority to confirm if the aforesaid understanding
+of the Applicant reflects correct appreciation of legal position.
+
+4. In view of the aforesaid, it is prayed that this Hon'ble Authority be pleased to issue the ruling
+clarifying the legal position generally as also opine upon the specific questions raised by the Applicant
+as set out above.
+
+5. It is further prayed that this Hon'ble Authority also be pleased to;
+
+(a) Grant personal hearing to the Applicant along with an authorized representative.
+
+(b) Permit the Applicant to file further / additional submissions in these proceedings; and (c) Pass such other
+order this Hon'ble Authority may feel appropriate in the factual circumstances in these proceedings, and
+oblige.
+
+03. CONTENTION - AS PER THE CONCERNED OFFICER
+The submission, as reproduced verbatim, could be seen thus-
+
+It is submitted that, Issue on which advance ruling is required:
+
+Mé. Technip UK Limited, Unit No.602, Wing-A, and Unit Nos.601 & 602,Wing-B-1, Boomerang, Chandivli
+
+Farm Road, Near Chandivli Farm Road, Near Chandivli Studio, Andheri (East) Mumbai 400072.(GSTIN:
+4
+
+
+
+Un registered) (here in after referred to as 'the applicant’) has filed above application under Section 98 of
+the Central Goods and Service Tax Act, 2017 read with Rule 104 (1) of the CGST Rules, 2017 seeking
+advance ruling on:
+
+(a) Whether the terms of the NIT, particular its self-styled description as 'lump sum turnkey' contract,
+renders it as a 'works contract ‘as understood under the GST law?
+
+(b) In the event the answer to (a) is in the affirmative, does it imply that each and every supply made
+to ONGC under the contract would be subject to rate of tax as applicable to a 'works contract'?
+
+(c) In the event the answer to (a) is in the affirmative;
+(A) Will the position change if the members of the consortium raise distinct invoices and
+ONGC also pays directly to the members?
+(B) Can it be said that in such circumstances the individual invoices will not be affected by
+the overall description as a 'works contract'?
+(d) In the event the answer to (a) is in the affirmative and only one single rate of tax applies to the
+
+entire contract, can the members of the claim rate of tax in terms of Notification No.39/2017 -
+Integrated Tax (Rate) dated 13.10.2017?
+
+(e) In the given facts of the instant application, can the member of the consortium supplying goods
+alone claim concessional rate of tax of 5% in terms of Notification No.3/2017-Integrated Tax (Rate)
+dated 28.06.2017?
+
+2 In point No.15 of the application regarding statement of relevant facts having a bearing on the
+
+question(s) raised, the applicant has stated the following are as under:
+Mé. Technip UK Limited (the applicant), registered address at One St Paul's Churchyard, London,
+EC4M 8AP-UK and address for correspondence at Unit No.602, Wing-A, and Unit Nos.601 & 602, Wing-
+B-1, Boomerang, Chandivli Farm Road, Near Chandivli Farm Road, Near Chandivli Studio, Andheri
+(East) Mumbai 400072, Maharashtra, India. The Applicant Company seek to clarity on the applicable rate
+of tax on the transaction proposed to be executed in relation to tenders issued by the oil and Natural Gas
+Corporation of India Ltd. ('ONGC) for executing erection, commissioning and installation work on turnkey
+basis for petroleum operations.
+Further, in this regard, the applicant has submitted a sample Notice Inviting Tender (NIT) issued
+by ONGC (Annexure-3), the 'General Conditions of Contract ("GCC')(Annexure-4) appended to the NIT
+~="*sand Bid Evaluation Criteria (Annexure-5) released by ONGC
+peek “thy he The Tenders issued by ONGC normally relates to erection, commissioning, and installation of
+"aid ” ‘plant and machinery for ONGC. In terms of the NIT, bids are invited for overall responsibility of entire
+ii * urther, as per the NIT and its accompanying Annexures, the bidders are required to give an
+is f % erg ral ho -sum price’ towards carrying out the obligations under the NIT. A detailed break-up of the
+=< } pric isalso required by the ONGC.
+eit So}. The Ni) ermits a consortium of members to bid as well. In this regard, the following may be noted:
+weraeae i) J ith respect to certain tenders, the applicant would like to participate not individually but as part
+_ot consortium. This consortium would comprise of the applicant and another member, and there will be
+t bid.
+
+Seseeerees in the above scenario, the members of the consortium will separately supply the goods and
+services i.e., one member will supply the goods and other member will supply the service.
+iii) in terms of the NIT, the members of the consortium are required to (1) make separate supplies to
+
+the ONGC and (ii) can raise invoices upon ONGC directly for their respective supplies.
+iv) These invoices will be separately and directly paid by the ONGC to the respective member of the
+consortium.
+In the aforesaid background a question has arisen as to the applicable rate of GST to be charged on the
+respective invoices of the members of the consortium which would be raised upon ONGC. The question
+has arisen inter alia in view of the characterisation of the NIT in consideration. The precise issue is whether
+in the facts of the NIT described above and taking into account its relevant clauses the NIT (when it is
+eventually executed into a contract) render it into.(i) a ‘works contract under GST law taking into
+consideration the supplies of both the members of the consortium conjointly, or (ii) the supplies made by
+the respective members would be treated as distinct supplies for GST purposes. The reasons for this
+confusion are discussed below.
+As per Section 2(119) of CGST Act, 2017; works contract is defined as:
+"works contract" means a contract for building, construction, fabrication, completion, erection, installation,
+fitting out, improvement, modification, repair, maintenance, renovation, alteration or commissioning of any
+
+$
+
+
+immovable property wherein transfer of property in goods (whether as goods or in some other form is involved
+
+in the execution of such contract
+
+The above definition may be relevant to determine whether the lump-sum-turn-key contract that
+will be executed by ONGC will be a works contract or not.
+
+Schedule 11 to CGST Act, deems 'works contract' as defined in Section 2(119) as a 'service'. Further,
+applicant understands that as per Notification No.39/2017- Integrated Tax (Rate) dated 13.10.2017,
+"offshore works contract services' for oil and gas exploration and production attract a GST rate of 12
+percent. As per this Notification, ‘Onshore works contract services' for oil and gas exploration and
+production attract a GST rate of 18 percent. Entry No.3 (viii) and 3(ix) of the Notification are to this effect.
+
+Besides the above, it is also relevant to point that Notification No.3/2017-Integrated Tax (Rate)
+dated 28.06.2017 may also be applicable in the present case. The said Notification provides for a
+concessional rate of GST i.e.5% on specified goods supplied in relation to petroleum projects.
+
+The applicant is desirous of knowing whether such contract shall be considered as a works contract
+for the purpose of GST and accordingly the rate of tax applicable on such work contract shall apply on
+each and every invoice raised by them. Alternatively, whether the members of the consortium supplying
+goods alone can claim concessional rate of tax of 5% in terms of Notification No.3/2017-Integrated Tax
+(Rate) dated 28.06.2017.
+
+3. In point No.16 of the application regarding statement containing the applicant's interpretation of
+law and/or facts, as the case may be, the applicant's view point and submissions on issues on which the
+advance ruling is sought;, the applicant has stated the following are as under:
+
+1. The applicant submits that it is not clear on the applicable rate of tax in respect of the supplies which
+will be made to the ONGC in the factual position of the present case as described above.
+
+2. The applicant understands the following:
+
+- An agreement which qualifies as a works contract in terms of Section 2(119) of the MGST
+Act/CGST Act is necessarily a ‘composite supply in terms of entry 6(a) of the Schedule. II to the
+MGST Act/CGST Act.
+
+- The liability of composite supply has to be determined in terms of Section 8(a) of the MGST
+“\, Act/CGST Act.
+
+4 oe) orks Contract is accordingly considered a 'supply of service in terms of this entry 6(a) of
+} 7 e Schedule II to the MGST Act/CGST Act.
+
+bok Ip otification No.39/2017-Integrated Tax (Rate) dated 13.10.2017 specifies the rate of tax on
+/ upply of works contract service.
+
+FINDINGS
+-_4. = Mf: Technip UK Limited (the applicant), registered address at One St Paul's Churchyard,
+“London, ECAM SAP-UK and address for correspondence at Unit No.602, Wing-A, and Unit Nos.601 &
+602, Wing-B-1, Boomerang, Chandivli Farm Road, Near Chandivli Farm Road, Near Chandivli Studio,
+Andheri (East) Mumbai 400072; Maharashtra, India. Therefore, the applicant does not appear to have any
+"fixed establishment in India. As per Section 95(C) of CGST Act, 2017, M/s.Technip UK Limited does not
+satisfy the scope of the term 'Applicant' as they are neither registered with the department nor they have
+expressed any desire to take registration. Therefore, the application merits rejection on this account only.
+
+Further, the basic issue to be decided in the application is to
+
+(a) Whether the terms of the NIT, particular its self-styled description as lump sum turn key' contract,
+renders it as a ‘works contract’ as understood under the GST law?
+
+(b) In the event the answer to (a) is in the affirmative, does it imply that each and every supply made to
+ONGC under the contract would be subject to rate of tax as applicable to a ‘works contract?
+
+(c) In the event the answer to (a) is in the affirmative;
+
+(A) Will the position change if the members of the consortium raise distinct invoices and ONGC also pays
+directly to the members?
+
+(B) Can it be said that in such circumstances the individual invoices will not be affected by the overall
+description as a ‘works contract?
+
+(d) In the event the answer to (a) is in the affirmative and only one single rate of tax applies to the entire
+contract, can the members of the claim rate of tax in terms of Notification No.39/2017 - Integrated Tax
+(Rate) dated 13.10.2017?
+
+
+(e) In the given facts of the instant application, can the member of the consortium supplying goods alone
+claim concessional rate of tax of 5% in terms of Notification No.3/2017-Integrated Tax (Rate) dated
+28.06.2017?
+
+In this regard, based on the statements of facts forwarded, the para-wise comments to the queries raised
+by M/s Technip UK Ltd., are as follows:
+
+i) As per Section 2(119) of CGST Act, 2017, works contract is defined as:
+"works contract" means a contract for building, construction, fabrication, completion, erection, installation, fitting
+out, improvement, modification, repair, maintenance, renovation, alteration or commissioning of any immovable
+property wherein transfer of property in goods (whether as goods or in some other form) is involved in the execution
+of such contract
+
+Therefore, it can be seen that a contract wherein transfer of property in goods (whether as goods
+or in some other form) is involved in the execution of the contract for the above specified
+activities/purposes (.e. building, construction, fabrication etc.) of any immovable property, Thus, the
+contract has to be in respect of any immovable property involving transfer of goods in its execution for
+these specified purposes.
+
+Also, as per para 6 of Schedule-Il to the CGST Act, 2017, the following composite supplies shall
+be treated as a supply of service, namely: -
+a) Works contract as defined in clause (119) of Section 2; and
+
+Therefore, supply of Works Contract is necessarily a Composite supply to be treated as supply of service.
+
+Further, as per clause 30 of Section 2 of CGST Act, 2017, "composite supply" means a supply made by
+a taxable person to a recipient consisting of two or more taxable supplies of goods or services or both, or
+any combination thereof, which are naturally bundled and supplied in conjunction with each other in the
+ordinary course of business, one of which is a principal supply.
+
+Thus, the composite supply has to be provided by a taxable person. As per clause 107 of Section 2
+wo...  CGST Act, 2017, "taxable person" means a person who is registered or liable to be registered under Section
+_. %,22 or Section 24. Further, as per clause 84 of Section of the CGST Act, 2017, “person” includes -
+mn Sg “a)An individual;
+\b)A Hindu Undivided family;
+
+\opA\company;
+
+-A firm;
+) A Limited Liability Partnership;
+f fy" An association of persons or a body of individuals, whether incorporated or not, in India or
+ & Mutside India;
+~ .¥ g¥ Any corporation established by or under any Central Act, State Act or Provincial Act or a
+* Government company as defined in clause 45 of Section 2 of the Companies Act, 2013 918 of
+2013);
+
+h) Any body corporate incorporated by or under the laws of a country outside India;
+i) A co-operative society registered under any law relating to co-operative societies;
+j) A local authority;
+k) Central Government or a State Government;
+1) Society as defined under the Societies Registration Act, 1860 (21 of 1860)
+m) Trust; and
+n) Every artificial juridical person, not falling within any of the above
+
+The applicant, in their application has stated that they would like to participate not individually
+but as a part of consortium. This consortium would comprise of the applicant an another, member, and
+there would be a joint bid.
+
+Thus, from the above, the consortium may fall under the category of person as per Section 2(84) of
+CGST Act, 2017 as an “association of persons" and may be taxable as such. Therefore, to be able to determine,
+whether the supply under the said contract would be a Composite Supply, or otherwise, it would be
+important to decide whether the Consortium would fall under the category of Association of Persons and
+taxable person as such. However, in order to decide the status of Consortium as an Association of Persons
+or otherwise, it shall be important to understand the contractual arrangements amongst the participating
+members of the consortium, the existence of some common management, the arrangement of sharing
+
+7
+
+
+profit, the composition of the consortium, roles of the applicant and members of the consortium in the
+course of the supply etc. However, nothing in respect of these has been provided by the applicant.
+
+Also, as per the annexures, provided by the applicant, the Scope of Work Summary paragraph
+states that the scope of Work is the Engineering, Procurement, Construction, Installation and
+Commissioning (EPCIC), of the KG DWN 98-2 Development Subsea Facilities, comprising of:
+
+"i) Subsea Production System (SPS), including Subsea Production Tree Systems (Oil and Gas production trees),
+Water Injection Tree: System, Infield Manifold System (oil and gas production manifolds), Subsea Riser Base
+Manifold System (gas lift and water injection), SSIV System (Oil and Gas production flowlines, gas lift line; and
+gas export pipelines), Subsea Connection System, Subsea Tooling System, Subsea Control System (topsides,
+onshore and subsea installed components), and ancillary systems.
+
+ii) Subsea Umblical Risers, and Flowlines (SURF), including Dynamic and Static Umbilical System (production
+controls and SS/V} and associated UTAS; Production(oil and gas production), Water Injection, and Gas Lift Risers
+and Flowlines, Gas Export Risers and Pipelines, Flowline and Pipeline Jumpers, and ancillary systems.
+
+iii) The Scope of WORK also includes Life of Field Support (LOS), containing services and provision
+of a Local. Service Support Base, located in Kakinada, India.
+
+iv) Equipment testing, System integration Testing (SIT), pre-commissioning, commissioning, and
+start-up support are also contained in the scope of Work.
+
+v) Quantity for each item can be found in Pricing Format document provided by COMPANY."
+
+Further, as already stated above, to be able to consider a contract as Works Contract as defined
+under clause 119 of Section 2 of CGST Act, 2017, the contract has to be in respect of any immovable
+property involving transfer of goods in its execution. The term “immovable property" has not been
+defined under the CGST Act, 2017 and the Rules made thereunder. However, reference can be had to
+Section 3(26) of General Clauses Act, 1897, which defines "immovable property" as follows:
+
+"immovable property’ shall include land, benefits to arise out of land, and things attached the earth, or
+permanently fastened to anything attached to the earth."
+
+AS er Section 3 of the Transfer of Property Act, 1882,"attached to the earth" means
+
+, \% \@) rooted in the earth, as in the case of trees and shrubs:
+“< \ 2) imbedded in the earth, as in the case of walls or buildings: or
+
+} ~< (6) attached to what is so embedded for the permanent beneficial enjoyment of that to which it is
+d*® i attached:
+
+FZ /? Therefore, to be able to conclude whether the contract is a Works Contract or otherwise, it is
+inipottant to determine whether the activities as per the contract would be related to immovable property
+‘ornot which itself depends upon the meaning as defined under Section 3(26) of the General Clauses Act,
+
+* 1897 to include things attached to the earth (as per the meaning assigned under Section 3 of the Transfer
+
+of Property Act, 1882) or permanently fastened 10 anything attached to the earth.
+
+However, from the annexures, including sample Notice Inviting Tender (NIT) and General
+Clauses and Conditions (GCC) provided; the exact description about the above work i.e. SPS, SURF,
+LOFS etc is not found and therefore, it cannot be concluded as to whether the above described work (as
+per the scope of Work Summary provided) is that of immovable property or not. The same is not coming
+out of the scope of Work. Therefore, the Hon'ble authority may like to direct the applicant to provide
+detailed description of scope of work so as to enable to determine whether the contract is that of
+immovable property or otherwise.
+
+In view of the above, this office requests the Hon'ble authority to direct the applicant to provide
+additional details regarding the scope of work as above so as to offer comments on whether
+
+(a) the said 'Lump Sum Turn Key' Contract would render it as a 'works contract’ under the provisions
+of CGST Act, 2017..
+
+(b) This question stems from question a). Therefore, if on providing relevant information the contract
+is found to be a Works Contract and the subject consortium is found to be meriting as 'Association
+of Persons' then, the supplies made under the contract shall attract the rate applicable to Works
+Contract Supply since the Works Contract, which is a composite supply, is to be treated as a
+supply of services in terms of Schedule II to the CGST Act, 2017.
+
+
+(c) This question also stems from question a). However, it has not been provided in the application
+what are the supplies to be made by the individual members of the consortium; whether the
+supply can be identified as composite supply or otherwise
+
+Therefore, no comments can be offered as above,
+
+As per Section 7(1) of CGST Act, 2017, the expression "supply" includes, inter alia, all forms of supply of
+goods or services or both such as sale, transfer, barter, exchange etc. made or agreed to be made for a consideration
+by a person in the course or furtherance. of business. Further, as per Section 8(1) of CGST Act, read with Section
+5(1) of GST Act, 2017, there shall be levied a tax on intra-state for inter-state) supplies of goods or services or both
+at specified rates.
+
+Therefore, if on providing relevant information the contract is found to be a Works Contract and the
+subject consortium found to be meriting as 'Association of Persons', (involving transfer of goods as well)
+then it will be treated as a supply of services in terms of Schedule - | to CGST Act, 2017, even if the
+members of the consortium raise distinct invoices and ONGC also pays directly to the member, the supply
+shall be that of Works Contract alone and tax shall be levied on supply of Works Contract. Individual
+members' invoices, however, may make supply of goods and services independently of the contract,
+however, they shall be required to differentiate in their invoices, whether the supply is towards the
+fulfilment of the subject work contract and they should also provide a mechanism for tracking the
+quantification of such supplies towards the fulfilment of the subject work contract. The said supplies
+under the work contract should clearly be distinguishable from any other individual supplies:
+
+(d) This question also stems from question a). Therefore, if on providing relevant information the
+Contract if found to be a Work Contract and the subject consortium found to be meriting as
+‘Association of Persons', only then members of Consortium (AOP) will be eligible for benefit of
+Notification No:39/2017 subject to the fulfilment of the Criteria and conditions laid down in the
+said notification. The position shall not change even if the members of the consortium raise distinct
+invoices, the supply shall remain that of Works Contract and the rate of tax in terms of notification
+no. 39/2017- Integrated Tax(Rate) dated 13.10.2017 will apply.
+
+> \\if on providing relevant information the Contract if found to be a Work Contract, member of the
+fx , ~ Consortium, supplying goods alone, cannot claim concessional rate of tax of 5% in terms of
+is f o> \ tate No. 3/2017- Integrated Tax(Rate) dated 28.06.2017 since the supply of such goods
+
+f F } 3 Y uld be the part of supplying Works Contract which is a service and the notification No. 3/2017
+BS tegrated Tax (Rate) applies for the supply of goods alone and the rate as applicable to Works
+
+f iia Gontract supply shall apply.
+_-PRAEYER
+
+Considering the facts discussed in foregoing paragraphs, the question framed by the applicant in
+Point No. 14,
+
+(a) Whether the terms of the NIT, particular its self-styled description as 'lump sum turn key contract;
+renders it as a 'works contract! as understood under the GST law? The answer is this office prays Hon'ble
+Authority to direct the applicant to provide additional relevant details of the scope of work and the
+contractual framework of the members of the consortium detailing its composition and contractual
+arrangements amongst the participating members of the consortium, the existence of some common
+management, the arrangement of sharing profit, the composition of the consortium, roles of the applicant
+and members of the consortium in the course of the supply etc. as stated in para 4 above.
+
+(b) In the event the answer to (a) is in the affirmative, does it imply that each and every supply made to
+ONGC under the contract would be subject to rate of tax as applicable to a 'works contract? The answer
+is, This question stems from question (a). Therefore, if on providing relevant information the contract is
+found to be a Works Contract and the subject consortium is found to be meriting as ‘Association of Persons’
+then, the supplies made under the contract shall attract the rate applicable to Works Contract Supply since
+the Works Contract, which is a composite supply, is to be treated as a supply of services in terms of
+Schedule II to the CGST Act, 2017. Therefore, this office prays Hon'ble Authority to direct the applicant to
+provide additional relevant details of the scope of work and the contractual framework of the members
+of the consortium detailing its composition and contractual arrangements amongst the participating
+members of the consortium, the existence of some common management, the arrangement of sharing
+profit, the composition of the consortium, roles of the applicant and members of the consortium in the
+course of the supply etc.: as stated in para 4 above,
+
+(©) In the event the answer to (a) is in the affirmative;
+
+
+(A) Will the position change if the members of the consortium raise distinct invoices
+and ONGC also pays directly to the members?
+
+(B) Can it be said that in such circumstances the individual invoices will not be
+affected by the overall description as a 'works contract?
+
+The answer is, this question stems from question a).
+
+Therefore, if on providing relevant information the contract is found to be a Works Contract and
+the subject consortium found to be meriting as 'Association of Persons', (involving transfer of goods as
+well) then it will be treated as a supply of services in terms of Schedule - I to CGST Act, 2017, even if the
+members of the consortium raise distinct invoices and ONGC also pays directly to the member, the supply
+shall be that of Works Contract alone and tax shall be levied on supply of Works Contract. Individual
+members' invoices, however, may make supply of goods and services independently of the contract,
+however, they shall be required to differentiate in their invoices, whether the supply is towards the
+fulfilment of the subject work contract and they should also provide a mechanism for tracking the
+quantification of such supplies towards the fulfilment of the subject work contract. The said supplies under
+the work contract should clearly be distinguishable from any other individual supplies,
+
+Therefore, this office prays Hon'ble Authority to direct the applicant to provide additional relevant
+details of the scope of work and the contractual framework of the members of the consortium, detailing
+its composition and contractual arrangements amongst the participating members of the consortium, the
+existence of some common management, the arrangement of sharing profit, the composition of the
+consortium, roles of the applicant and members of the consortium in the course of the supply etc. as stated
+in para 4 above.
+
+(d) Inthe event the answer to (a) is in the affirmative and only one single rate of tax applies to the entire
+contract, can the members of the claim rate of tax in terms of Notification No.39/2017 - Integrated
+
+Tax (Rate) dated 13.10.2017? The answer is, This question stems from question a). Therefore, if on
+
+Th, providing relevant information the Contract if found to be a Work Contract and the subject
+‘onsortium found to be meriting as ‘Association of Persons', only then members of Consortium
+OP) will be eligible for benefit of Notification No.39/2017 subject to the fulfilment of the Criteria
+\ seca laid down in the said notification. The position shall not change even if the members
+
+, \of the consortium raise distinct invoices, the supply shall remain that of Works Contract and the
+rate! f tax in terms of notification no. 39/2017- Integrated Tax(Rate) dated 13.10.2017 will apply.
+
+? | thgrefore, this office prays Hon'ble. Authority to direct the applicant to provide additional relevant
+
+details of the scope of work and the contractual framework of the members of the consortium
+
+étailing its composition and contractual arrangements amongst the participating members of the
+
+“consortium, the existence of some common management, the arrangement of sharing profit, the
+composition of the consortium, roles of the applicant and members of the consortium in the course
+of the supply etc. as stated in para 4 above.
+
+(e) In the given facts of the instant application, can the member of the consortium supplying goods
+alone claim concessional rate of tax of 5% in terms of Notification No.3/2017 Integrated Tax (Rate)
+dated 28.06.2017? The answer is, If on providing relevant information the Contract if found to be
+a Work Contract, member of the Consortium, supplying goods alone, cannot claim concessional
+rate of tax of 5% in terms of Notification No. 3/2017- Integrated Tax(Rate) dated 28.06.2017 since
+the supply of such goods would be the part of supplying Works Contract which is a service and
+the notification No. 3/2017 -Integrated Tax (Rate) applies for the supply of goods alone and the
+rate as applicable to Works Contract supply shall apply. Hence, this office prays Hon'ble Authority
+to direct the applicant to provide additional relevant details of the scope of work and the
+contractual framework of the members of the consortium detailing its composition and contractual
+arrangements amongst the participating members of the consortium, the existence of some
+common management, the arrangement of sharing profit, the composition of the consortium, roles
+of the applicant and members of the consortium in the course of the supply etc. as stated in para 4
+above to arrive at proper conclusion.
+
+Further, M/s. Technip UK Limited (the applicant) has registered address at One St Paul's
+Churchyard, London, EC4M 8AP-UK and address for correspondence at Unit No.602, Wing-A,
+and Unit Nos.601 & 602, Wing-B-1, Boomerang, Chandivli Farm Road, Near Chandivli Farm Road,
+Near Chandivli Studio, Andheri (East) Mumbai 400072, Maharashtra, India. Therefore,
+
+10
+
+
+M§s.Technip UK Limited does not appear to have any "fixed establishment" in India. As per Section
+95(c) of CGST Act, 2017, M/s. Technip UK Limited does not satisfy the scope of the term 'Applicant'
+as they are neither registered with the department nor they have expressed any desire to take
+registration. Therefore, the application merits rejection on this account only.
+
+The answers of all the questions raised by the applicant depend on the complete facts about the
+nature of their consortium being an Association of Persons or not and the nature of supply to
+ONGC being works contract or not. Any answer to these questions will result into varied
+implications in the form of applicability of a higher rate of 12% on goods against 5% if the contract
+qualifies as Works Contract. However, the same fact, i.e. if the contract is a works contract, would
+result into applicability of lower rate of 12% on services which otherwise are chargeable @ 18%.
+Therefore, the providing of complete facts on both accounts is very important in this case.
+
+Additional Required submission is made by the applicant on 23.01.2019.
+
+Applicant submitted that, this is in reference to hearing dated 09 January 2019 before your good self
+in the captioned matter. During the hearing, we were directed to submit the due dates of invitation
+to tender and the date of award of the tender.
+
+In response to this query, we would like to state that the bid was submitted by us on 19 February
+2018. As regards the second part of the query, we are enclosing as Annexure - 1 the printout of ONGC
+website in respect of this tender which clearly indicates that the Contract was awarded on 01 October
+2018. This is clearly after the filing of the present application before this Hon’ble Authority on 18
+September 2018.
+
+In our respectful submission, since the award of contact is subsequent to our application, as on the
+date of filing of the application it was indeed a proposed transaction. In this respect would like to
+4 “point out the decision of the Hon’ble Delhi High Court in the case of Netapp B.V. v. Authority for
+
+The applicant submitted that the details of award of relevant contracts as follows,
+
+ONGC awards contract for integrated (SPS+SURF) Work Package for Development of its Mega
+Deep Water Project KG-DWN-98/2(Cluster-2) in East Coast.
+
+ONGC’s mega deep water development initiative for integrated development of KG-DWN_98/2
+(Cluster-2) Project in East Coast of India took a leap forward with the award of a major work package,
+viz. SPS+SURF (Subsea Production System + Subsea Umbilical, Risers & amp; Flow lines) to
+Consortium of BHGE, McDermott and L& T hydrocarbon on 01.10.2018 with awarded cost of Rs.
+11,740.86 Crores (USD 1694.45 Million). This tender is one of the biggest integrated (SPS+SURF)
+tenders awarded globally in recent years.
+
+ONGC took a strategic of integrating hitherto separate work packages of SPS and SURF into a single
+
+integrated (SPS+SURF) work package tender. This will help to eliminate major interface issues among
+
+SPS and SURF packages, resulting in time and cost optimization to the company. This innovative
+
+approach by ONGC has been widely appreciated by global major contractors of SPS and SURF.
+
+Cluster-2 development will have water depths ranging from 350m to 1,400m and is one of the most
+capital intensive and technologically challenging projects in East Coast of India. Total peak gas
+production rate from Cluster-2 is envisaged to be about 16 MMSCMD and peak oil production rate of
+80,000 BPD.
+
+ONGC envisages commencement of first gas production by December 2019, first oil by March 2021
+and over all project completion by August 2021. This project will also have key contribution in
+fulfilling Hon’ble Prime Minister's clarion call to achieve 10% reduction in import dependency on
+energy by 2022. This information issued by: Corporate Communications, Oil and Natural Gas
+Corporation Ltd.
+
+
+04. HEARING
+
+The Preliminary hearing in the matter was held on 11.12.2018, Sh. Tarun Jain, Advocate
+appeared and requested for admission of application as per contentions made in their
+application. Jurisdictional Officer Sh. Mohan Rout, Supptt. Mumbai East Commissionerate
+appeared and submitted written submissions.
+
+The application was admitted and called for final hearing on 09.01.2019, Sh. Tarun Jain,
+Advocate along with Ms. Divya Mahajan, C.A., appeared and argued as per submissions. In the
+course of hearing Applicant was asked to submit date and events of the contract including final
+award of the contract. Jurisdictional Officer did not appear. The additional information called
+during the course of hearing, was made available by the applicant on 23.01.2019. Both the parties
+were heard.
+
+05. OBSERVATIONS
+We have gone through the facts of the case and written submission given by both the parties.
+The issue put before us is in respect of a proposed transaction which would be on the lines thus
+The Applicant is an unregistered person under the provisions of the GST Act. The present
+application has been filed before us to seek clarity on the applicable rate of tax on the transaction
+proposed to be executed by them in relation to tenders issued by the Oil and Natural Gas
+Corporation of India Ltd. ('ONGC’) for executing erection, commissioning and installation work
+on turnkey basis for petroleum operations. Applicant has submitted documents such as a sample
+Notice Inviting Tender ('NIT') and Bid Evaluation Criteria released by ONGC. Tenders issued
+by, ONGC normally relates to erection, commissioning and installation of plant and machinery
+for ONGC. In terms of the NIT, bids are invited for overall responsibility of entire project for an
+‘overall lump sum price! towards carrying out the obligations under the NIT. NIT permits a
+consortium of members to bid. Accordingly applicant would like to participate not individually
+but as part of consortium. This consortium would be of applicant and other member/members
+for making joint bid. Further, members of the consortium will separately supply goods and
+services. Members of the consortium will raise invoice separately on ONGC and ONGC will pay
+
+them separately. On this factual matric applicant has raised many questions as above.
+
+During the course of hearing the members of the Bench informed the applicant to submit
+details as to date and event of the contract including the status of the contract as on the date. In
+response, Shri. Taru Jain, Adv., for the applicant submitted a written reply on 23.01.2019. As per
+the written reply, bid was submitted by the applicant to ONGC on 19.02.2018. The impugned
+contract was awarded by ONGC to the successful bidder i.e. consortium of BHGE McDermott
+and L & T Hydrocarbon on 01.10.2018. Thus, undisputedly the contract was awarded subsequent
+
+to the present ARA. In view of the same, the applicant submits that their application is as per the
+12
+
+
+provisions of Section 95 of the Act and they are desirous of obtaining a ruling on the questions
+
+raised by them and on matters specified in subsection (2) of section 97 of the GST Act.
+
+From the information made available to this authority vide their second written submission
+the undisputed fact is that ONGC has awarded contract to consortium BHGE and not to the
+applicant's consortium. Applicant is also not a member of BHGE consortium. We shall now
+examine the provision of Chapter XVI of the CGST Act, 2017 to find out whether the present
+application is covered by the scope of Chapter XVII - Advance Ruling. We reproduce the relevant
+
+provisions as below:
+95. Definitions.
+In this Chapter, unless the context otherwise requires,--
+
+(a) “advance ruling” means a decision provided by the Authority or the Appellate
+Authority to an applicant on matters or on questions specified in sub-section (2) of
+section 97 or sub-section (1) of section 100, in relation to the supply of goods or services
+Lo : or both being undertaken or proposed to be undertaken by the applicant;
+
+From a perusal of the provisions relating to Advance Ruling, it is seen that “Advance
+
+Ruling” means a decision provided by this authority to an applicant on specified questions and
+
+matters in relation to the supply of goods or services or both or being undertaken or proposed to
+
+SZ ___ be undertaken by the applicant. Thus the broad objective for setting up this mechanism is to -
+
+i). provide certainty in tax liability in advance, in relation to an activity proposed to be
+undertaken by the applicant;
+
+ii) attract Foreign Direct Investment (FDI);
+
+iii) reduce litigation;
+
+iv) pronounce ruling expeditiously in transparent and inexpensive manner;
+
+An Advance Ruling, thus helps the applicant in determining the liability to pay GST. It
+also brings certainty in determining the tax liability with no litigation as the ruling is binding on
+the Government authorities besides the applicant. On the contrary we find in the present case
+that the tender contract is awarded to a consortium other than the applicant and as such the
+possibility of supply of goods or services or both by the applicant pertaining to the said tender
+
+contract is no more available.
+
+Under the circumstance we feel that the vowed purpose of giving advance ruling would
+not be served if we answer the questions raised in the ARA.
+05. In view of the extensive deliberations as held hereinabove, we pass an order as follows:
+
+ORDER
+13
+
+
+(Under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+NO.GST-ARA- 77/2018-19/B- |%  Mumbai,dt. 2-9 ji Joe i)
+
+For reasons as discussed in the body of the order, the questions are answered thus -
+
+Question: (a) Whether the terms of the NIT, in particular its self-styled description as ‘lump sum
+turnkey' contract, renders it as a ‘works contract as understood under the GST law?
+
+(b) In the event the answer to (a) is in the affirmative, does it imply that each and every supply
+made to ONGC under the contract would be subject to rate of tax as applicable to a ‘works
+contract'?
+
+(c) In the event the answer to (a) is in the affirmative;
+
+(A) Will the position change if the members of the consortium raise distinct invoices and
+ONGC also pays directly to the members?
+
+(B) Can it be said that in such circumstances the individual invoices will not be affected by
+the overall description as a ‘works contract'?
+
+(d) In the event the answer to (a) is in the affirmative and only one single rate of tax applies to
+the entire contract, can the members of the claim rate of tax in terms of Notification No.
+39/2017 - Integrated Tax (Rate) dated 13.10.2017?
+
+(e) In the given facts of the instant application, can the member of the consortium supplying
+goods alone claim concessional rate of tax of 5% in terms of Notification No. 3/2017-
+Integrated Tax (Rate) dated 28.06.2017?
+
+Answer: As per the above discussion, we find ARA application filed by the applicant is
+
+infructiious and hence the questions raised in the application are not answered.
+a X
+“ PLACE-Mumbai |.
+
+DATE - 23) |e
+
+poe ti 5
+
+B. TIMOTHY B. V. BORHADE
+. . (MEMBER) (MEMBER)
+S ee CERTIFIED TRUE COPY
+
+Copy to:-
+
+1. The applicant
+
+2. The concerned Central / State officer
+
+3. The Commissioner of State Tax, Maharashtra State, Mumbai ee
+4. The Chief Commissioner of Central Tax, Churchgate, Mumbai. MBER
+
+5. Joint commissioner of State tax, Mahavikas for Website. ADVANCE RULING AUTHORITY
+
+MAHARASHTRA STATE, MUMBAI
+Note :- An Appeal against this advance ruling order shall be made before The Maharashtra
+Appellate Authority for Advance Ruling for Goods and Services Tax, 15 floor, Air India
+building, Nariman Point, Mumbai - 400021.
+
+14

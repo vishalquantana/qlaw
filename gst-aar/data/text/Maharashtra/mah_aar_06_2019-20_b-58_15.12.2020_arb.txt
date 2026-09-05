@@ -1,0 +1,702 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+GST Bhavan, Room No.107, Ist floor, B-Wing, Old Building, Mazgaon, Mumbai —
+400010.
+(Constituted under Section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Ms. P. Vinitha Sekhar, Addl. Commissioner of Central Tax, (Member)
+(2) Mr. T. R. Ramnani, Joint Commissioner of State Tax, (Member)
+
+| GSTIN Number, if any/ User-id URD
+
+Legal Name of Applicant M/s. AMOGH RAMESH BHATAWADEKAR
+Registered Address/Address |KALPATARU HILLS, POKHARAN ROAD NO-3.
+provided while obtaining user id MANPADA, OPP TIKUJINI WADI, THANE 400607
+Details of application GST-ARA, Application No. 06 Dated 18.04.2019
+Concerned officer Division-I, Commissionerate Bhiwandi
+
+Nature of activity(s)
+
+(proposed/present) in respect of
+which advance ruling sought
+
+A_| Category Service Provision
+
+B_ | Description (in brief) The Applicant, Mr. AMOGH RAMESH
+BHATAWADEKAR is a supplier in digital goods i.e.
+online games. He is located at Thane and has not
+obtained GSTIN under the impression that whatever
+services they are rendering is export of e-goods. It is a
+proprietary concern.
+
+Issue/s on which advance ruling | (i) classification of goods or services or both
+
+required (v) determination of the liability to pay tax on any
+goods or services or both
+
+(vi) whether applicant is required to be registered under
+the Act
+
+on which advance | As reproduced in para 01 of the Proceedings below.
+
+PROCEEDINGS
+
+Maharashtra Goods and Services Tax Act, 2017)
+
+The present application has been filed under Section 97 of the Central Goods and
+Services Tax Act, 2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter
+referred to as “the CGST Act and MGST Act” respectively] by M/s). AMOGH RAMESH
+BHATAWADEKAR, the applicant, seeking an advance ruling in respect of the following
+questions.
+
+1) Whether "e-goods”, as commercially known in the market, are "goods" as defined in the
+GST Acts or are they services as per GST Act?
+
+
+2) If they are goods, what is the HSN classification and if services, what is the service
+classification and rate of GST on its sale/ supply within state?
+
+3) Whether they are exempted from GST?
+4) If Not exempted, what is the rate of GST on supply?
+
+5) In what circumstances will IGST, under reverse charge, be applicable or whether it is
+applicable in the situation of procurement from foreign supplier and supply from out of
+India as discussed above?
+
+6) If the customer is from India and paying the consideration in dollar, whether it will be
+allowed as exports or if not allowed as exports then whether GST is leviable? What is rate
+of SGST & CGST or IGST? Under which HSN Code or SA Cc?
+
+7) If customer pays for the e goods in Indian rupees and goods delivered through CLOUD
+located outside India whether SGST & CGST or IGST leviable on such transactions?
+
+8) In case where customer / buyer is from out of India and payment is done in dollar,
+according to us it is export of goods / services and therefore neither SGST & CGST is
+
+leviable? Please clarify the same.
+
+tside India, therefore even though payment is received in rupees, it is again
+rvices being services are received from distantly installed servers . Hence No
+
++r SGST is leviable?
+
+11) If suppose RCM is applicable then its rate? May please be clarified.
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act
+and the MGST Act are the same except for certain provisions. Therefore, unless a mention is
+specifically made to any dissimilar provisions, a reference to the CGST Act would also mean
+a reference to the same provision under the MGST Act. Further to the earlier, henceforth for
+
+the purposes of this Advance Ruling, the expression ‘GST Act’ would mean CGST Act and
+MGST Act.
+
+
+2. FACTS AND CONTENTION — AS PER THE APPLICANT
+2.1. The applicant, Amogh Bhatavdekar, located in Thane is a proprietor supplying digital
+
+goods, in the subject case ‘online gaming’ and has not obtained GSTIN because he is
+
+of the opinion that the services rendered by him is export of e-goods (Digital Goods).
+
+2.2. Applicant has submitted that, in electronic commerce, digital goods are described as
+goods, which are stored, delivered and used in electronic format and shipped
+
+electronically to the consumer through email or downloaded from the Internet.
+
+2.3. Applicant has reproduced the definition of ‘Digital Goods’ from Wikipedia and
+submitted that, Digital goods are products and services that are completely delivered
+
+using information technology i.e. they don't involve an exchange of physical things.
+
+2.4 Applicant’s website address is MMOPLAYSTORE.COM. Applicant contacts the
+suppliers of digital products requesting a list of digital products that are available with
+them. Digital Goods are then sent to the applicant by Email or Instant message service
+and payout is issued. These received digital goods are assessed and stored on Cloud
+Servers for dispatching to customers of the applicant. Customers visit the Website of
+
+the applicant online and make payments to the applicant, after which Digital Goods
+
+then delivered by cloud server to customer by Email. Applicant has submitted that
+Suppliers are located abroad and include NewGameway from China,
+
+Global and MmoBay LLC from the USA. Suppliers are contacted by Email or
+
+Once, payment is received, the merchant provides the customer with a digital item as
+
+an e-mail attachment or may provide a secure link where the item can be
+downloaded.
+
+2.6 No invoice is raised for delivering digital said goods, which have limited life of say, a
+
+few days or weeks. Payments are done by applicant’s customers on line. It is not a
+
+software sale and does not require license. There is no work involved at the site of the
+client.
+
+2.7. Applicant has stated that: a) Digital goods/e-goods are not necessarily goods as
+commonly understood & as defined in the GST Acts but they can at best be called as
+
+"services.” (b) They are supply of services done through internet or mails. There is no
+
+3
+
+
+delivery of e-goods as such. (c) The said e-goods, are stored on CLOUD which are
+located outside India, & are purchased from vendors outside India who send it to the
+CLOUD as identified by the buyer / vendor/ the applicant. (d) The e-goods are not
+received by the seller in India but are stored on CLOUD hence it cannot be said to be
+imports in India, hence out of purview of reverse charge mechanism under the IGST
+Act. (e) The buyers are usually from abroad, who pay in dollars directly through
+PAYPAL, therefore it is supply outside India taking it outside purview of IGST levy.
+It is export of services i.e. it is out and out services not liable to either IGST or CGST
+
+& SGST It is covered by the clarificatory Circular No.78/52/2018 -GST New Delhi
+dated 31//2/2018.
+
+2.8 Their services are covered under HSN Chapter Nos. SAC 99841 to 99846 and not
+liable to GST or IGST, being stored on/ received on CLOUD servers which are
+usually located abroad and delivery/supply of the e-goods to customers is done from
+
+the CLOUD server itself. It is therefore fully outside India and not liable to GST,
+
+being export of services.
+
+03. CONTENTION — AS PER THE JURISDICTIONAL OFFICER:
+
+application. Jurisdictional Officer was absent.
+
+Application was admitted and called for final hearing on 26.11.2019. Sh. D.V.
+Retharekar, Advocate and Authorized Representative, appeared along with applicant,
+made oral and written submissions. Jurisdictional Officer was not present.
+
+4.3 Further online hearing was given to the applicant on 10.11.2020 and 01.12.2020. On
+
+both occasions the applicant requested for adjournment.
+
+05. OBSERVATIONS AND FINDINGS:
+
+5.1 We have gone through the facts of the case, documents on record and oral and written
+
+submissions made by both, the applicant as well as the jurisdictional officer.
+
+
+5.2 Applicant is a supplier in digital goods and has submitted that, in electronic
+commerce, digital goods/e-goods are used to describe any goods that are stored,
+delivered & used in its electronic format. These goods are shipped electronically
+through email or are downloaded from the Internet.
+
+5.3 In the subject case the e-goods, referred to by the applicant are ‘online gaming’, as
+stated by him during the course of Final Hearing. Section 2(17) of the IGST Act,
+2017, defines ‘online information and database access or retrieval services’ (OIDAR)
+as “services whose delivery is mediated by information technology over the internet or
+an electronic network and the nature of which renders their supply essentially
+automated involving minimal human intervention and impossible to ensure in the
+absence of information technology and includes electronic services such as,-
+
+....(vii) online gaming.”
+
+This definition will answer the first question posed by the applicant i.e. e-goods (in
+this case online gaming) will be considered as services under the GST Laws.
+
+5.4 The next three questions are regarding classification of the above said services, and
+the rate of GST on such, if the same are not exempted.
+
+5.4.1 The Code wise List of services finds mention in Notification No. 11/2017-Central Tax
+
+(Rate) dated 28.06.2017. In the subject case we find that the applicant is supplying
+
+Chapter, Service | Service Description
+Section, Code
+
+Heading — or | (Tariff)
+
+Group
+
+Group 99843 On-line Content Services
+
+998431 On-line text based information such as online
+books, newspapers, periodicals, directories and the
+
+like
+381 998432 | On-line Audio Content
+382 998433 | On-line Video Content
+383 998434 Software Downloads
+384 998439 Other On-line Contents Not Elsewhere specified _|
+
+“From the submissions made by the applicant, we find that the subject services i.e.
+online gaming falls under SAC 998439. Ail services covered under the Heading 9984
+
+attract a GST rate of 18%.
+5.5 The next question is, under what circumstances would IGST, under reverse charge, be
+applicable or whether it is applicable in the situation of procurement from foreign
+
+supplier & supply from out of India as in the subject case?
+
+
+5.5.1 The first part of the query asks for circumstances, under which IGST would be
+applicable on reverse charge basis. In other words, the applicant is not asking as to
+whether GST is applicable under reverse charge. What is being asked is the
+circumstances under which reverse charge would be applicable. The circumstances
+under which reverse charge is applicable finds mention in the IGST Act, 2017. The
+provisions of Section 97 (2) of the CGST Act, do not envisage raising of such
+
+question in an Advance Ruling Application as can be seen from the provisions which
+
+are reproduced under:
+
+Section 97:
+
+(1) an applicant desirous of obtaining an advance ruling under this Chapter may
+make an application in such form and manner and accompanied by such fee as
+may be prescribed, stating the question on which the advance ruling is sought.
+
+(2) The question on which the advance ruling is sought under this Act, shall be in
+
+respect of,—
+
+(a) classification of any goods or services or both;
+
+(b) applicability of a notification issued under the provisions of this Act;
+
+(c) determination of time and value of supply of goods or services or both;
+
+(a) admissibility of input tax credit of tax paid or deemed to have been paid;
+
+(¢) determination of the liability to pay tax on any goods or services or both;
+
+whether applicant is required to be registered;
+
+whether any particular thing done by the applicant with respect to any goods or
+
+in the meaning of that term.
+
+applicable in the situation of procurement from foreign supplier & supply from out of
+India as in the subject case.
+
+5.5.3. A perusal of the submissions made by the applicant reveals that Digital Goods are
+purchased by applicant from the suppliers based abroad. Such digital goods, in this
+case online gaming, are then sent to the applicant by Email or Instant message service.
+Thus we find that there is a supply of OIDAR services to the applicant from suppliers
+based abroad. The nature of OIDAR services are such that it can be provided online
+from a remote location outside the taxable territory. A similar service provided by an
+
+Indian Service Provider, from within the taxable territory, to recipients in India would
+
+
+be taxable. In cases where the supplier of such service is located outside India and the
+recipient is a business entity (registered person) located in India, the reverse charge
+mechanism would get triggered and the recipient in India who is a registered entity
+under GST will be liable to pay GST under reverse charge and undertake necessary
+compliances. If the supplier is located outside India and the recipient in India is an
+individual consumer not registered under GST Laws, in such cases also the place of
+supply would be India and the transaction is amenable to levy of GST. In such case
+the individual should obtain registration and pay GST under reverse charge.
+
+5.6 The applicant’s further question is, if their customer is from India and paying
+consideration in dollars, whether it will be allowed as exports or if not, whether GST
+is leviable? What is rate of SGST &CGST or IGST? Under which HSN Code or
+SAC?
+
+5.6.1. We find that in case applicant’s customer is from India i.e. taxable territory. Hence,
+GST would be liable on such transactions. In the case of supply of taxable service the
+word ‘consideration’ is the key. As per Section 2 ((31) of the CGST Act, 2017,
+Consideration, includes any payment to be made, whether in money or otherwise,
+
+The definition of the term ‘consideration’ speaks in terms of payment to be
+
+made in money. The applicant, an Indian citizen is supplying services to Indian
+
+“aitizens in India. In such cases transaction can only be in Indian Rupees and not in
+Y
+
+Nars. Further, the applicant has not submitted any permissions/documents issued by
+
+‘appropriate authority in India, permitting him to transact in dollars. The
+
+4 fication and rate of GST is already mentioned in para 5.4.1 above.
+
+CGST or IGST leviable on such transactions?”
+
+5.7.1. The applicant has not mentioned whether the said customer is located in India or
+abroad but since the applicant has mentioned that the payment is in Indian Rupees we
+assume that the customer is in India which is a taxable territory and since the
+applicant is also located in India, GST is leviable on such supply of services.
+
+5.8 The applicant vide question nos. 8 has asked for a clarification as to whether their
+services are export of services, in case when customer / buyer is from out of India and
+payment is received in dollars, and therefore neither SGST & CGST is leviable.
+
+5.8.1 To decide this question, “place of supply” is required to be discussed. This authority
+
+in earlier instances has not been inclined to discuss issues pertaining to “place of
+
+7
+
+
+supply”, relying on the decisions made by the Appellate Authority of Advance Ruling
+(AAAR), Maharashtra State in the case of M/s. NES Global Specialist Engineering
+Services Pvt. Ltd. vide its Order No. MAH/ AAAR/55-R/03/2019-20 dated
+02.08.2019, M/s Micro Instrument (Mrs. Vishakha Prashant Bhave), vide appeal order
+no. MAH/AAAR/SS-RJ/26/2018-19 dated 22.03.2019, M/s Sabre Travel Network
+India Pvt. Ltd., vide appeal Order No. MAH/AAAR/SS-RJ/30/2018-19 dated
+10.04.2019, M/s Asahi Kasei Pvt. Ltd., vide appeal Order No. MAH/AAAR/SS-
+RJ/01/2019-20 dated 19.06.2019, and in the case of M/s Segoma Imaging
+Technologies India Pvt Ltd, vide appeal order no. MAH/AAAR/SS-RJ/28/2018-19
+dated 03.04.2019.
+
+5.8.2 However, in the case of Sutherland Mortgage Services INC Vs_ Principal
+Commissioner, the Hon’ble Kerala High Court has observed that even though the
+issue relating to determination of place of supply is not expressly enumerated in any
+of the clauses as per clauses (a) to (g) of Section 97(2) of the CGST Act, the said issue
+relating to determination of place of supply, would come within the ambit of the
+larger issue of ‘determination of liability to pay tax on any goods or services or both’
+as envisaged in clause (e) of Section 97(2) of the CGST Act.
+
+5.8.3 The said decision in the case of Sutherland Mortgage Services INC has been cited and
+
+the determination of the liability to pay tax including the liability under RCM
+
+(Reverse Charge Mechanism) can be sought by the Applicant in terms of the
+provisions related to the Advance Ruling as provided under Chapter XVII of the
+CGST Act, 2017.”
+
+5.8.4 It is seen from 5.82 and 5.8.3 above that both, the Hon’ble Kerala High Court and the
+Hon’ble Maharashtra Appellate Authority for Advance Ruling, are of the view that
+the clause (e) of Section 97 (2) of the CGST Act, 2017 has got a very wide
+
+connotation and would cover all sorts of transactions, where the Advance Ruling on
+
+
+the questions related to the determination of the liability to pay tax can be sought by
+the Applicant.
+
+5.8.5 Hence, in view of the decision of the Hon’ble Kerala High Court and the Hon’ble
+Maharashtra Appellate Authority for Advance Ruling we now discuss the “place of
+supply” as under:
+
+5.8.6 The term export of service has been defined under Section 2(6) of the Integrated
+Goods and Services Tax Act, 2017 (IGST Act) as under:-
+
+"export of services" means the supply of any service when,--
+
+(i) the supplier of service is located in India;
+
+(ii) the recipient of service is located outside India;
+
+(iii)the place of supply of service is outside India;
+
+(iv) the payment for such service has been received by the supplier of service in
+convertible foreign exchange I[or in Indian rupees wherever permitted by the
+Reserve Bank of India); and
+
+(v) the supplier of service and the recipient of service are not merely establishments
+
+of a distinct person in accordance with Explanation 1 in section 8;"
+
+5.8.7. The seni transaction satisfies the conditions mentioned in clauses (i), (ii), (iv) and
+
+j - boty. Hence we take up the issue of place of supply in the subject case.
+
+q
+
+v4 therefore refer to the provisions of Section 13 of the IGST Act, 2017 which will
+be applicable to determine the place of supply since, in this case, the applicant
+supplying the services is in India and the client/sponsor to whom the services are
+
+supplied is situated outside India. Sec 13(2) of IGST Act, 2017 is reproduced below -
+
+"13(2) The place of supply of services except the services specified in sub-sections (3)
+to (13) shall be the location of the recipient of services: Provided that where the
+location of the recipient of services is not available in the ordinary course of business,
+
+the place of supply shall be the location of the supplier of services."
+
+Sub -sections (3) to (12) of Sec 13 of IGST Act, 2017 is reproduced as under.
+
+
+Section
+
+Extract
+
+Applicability ?
+
+13(3)
+
+(3) The place of supply of the following services
+shall be the location where the services are
+actually performed, namely:
+
+(a) services supplied in respect of goods .........;
+(b) services supplied to an individual, «0.1.0.0.
+
+Applicant does not
+provide such services
+
+13(4)
+
+(4) The place of supply of services supplied
+
+Applicant does not
+provide such services
+
+13(5)
+
+directly in relation to an immovable property,
+(5) The place of supply of services supplied by
+
+Applicant does not
+provide such services
+
+13(6)
+
+(6) Where any services referred to in sub-section
+(3) or sub-section (4) or sub-section (3)...
+
+Applicant does not
+provide such services
+listed in sub-section
+(3), (4),(5) explained
+above.
+
+13(7)
+
+way of admission to, or organisation of a cultural,
+(7) Where the services referred to in sub-section
+(3) or sub-section (4) or sub-section (5) are
+
+Applicant does not
+provide such services
+listed in sub-section
+(3), (4),(5) explained
+above.
+
+8) The place of supply of the following services
+shall be the location of the supplier of services,
+namely: ---
+
+(a) services supplied by a banking company.,....,
+(b) intermediary services;
+
+(c) services consisting of hiring of means of
+PONSPOGE wccomosssoborecnens
+
+Applicant does not
+provide such services.
+
+Z
+SIE 13(9)
+
+supplied in more than one __ State
+(9) The place of supply of services of
+transportation ....
+
+Applicant does not
+provide such services
+
+13(10)
+
+(10) The place of supply in respect of passenger
+transportation ........
+
+Applicant does not
+provide such services
+
+13(11)
+
+(11) The place of supply of services provided on
+board a CONVEYANCE .......100+
+
+Applicant does not
+provide such services
+
+13(12)
+
+(12) The place of supply of online information
+and database access or retrieval services shall be
+the location of the recipient of services.
+Explanation.—For the purposes of this sub-
+section, person receiving such services shall be
+deemed to be located in the taxable territory, if amy
+two of the following non-contradictory conditions
+
+Applicant is providing
+OIDAR services.
+
+10
+
+
+are satisfied, namely:—
+
+(a) the location of address presented by the
+recipient of services through internet is in the
+taxable territory;
+
+(b) the credit card or debit card or store value
+card or charge card or smart card or any other
+card by which the recipient of services settles
+payment has been issued in the taxable territory;
+(c) the billing address of the recipient of services
+is in the taxable territory;
+
+(d) the internet protocol address of the device
+used by the recipient of services is in the taxable
+territory;
+
+(e) the bank of the recipient of services in which
+the account used for payment is maintained is in
+the taxable territory;
+
+@) the country code of the subscriber identity
+module card used by the recipient of services is of
+taxable territory;
+
+(g) the location of the fixed land line through
+which the service is received by the recipient is in
+the taxable territory.
+
+5.8.9 We have found that the applicant is supplying OIDAR services in the subject case and
+as per the provisions of Section 13 (12) of the IGST Act, in such cases, the place of
+
+supply of online information and database access or retrieval services shall be the
+
+be subject case, the applicant has not provided details mentioned in the aforesaid
+seven non-contradictory conditions and therefore we are not able to come to any
+conclusion with respect to place of supply i.e whether the recipient in the subject case
+is in non-taxable territory or is deemed to be located in taxable territory. Also, the
+applicant did not attend online hearings scheduled on 10.11.2020 and 01.12.2020 and
+requested for adjournment. The first request for adjournment in respect of online
+hearing dated 10.11.2020 was received from the applicant vide email dated
+
+05.11.2020 and adjournment was granted. The second request for adjournment in
+
+id
+
+
+respect of online hearing dated 01.12.2020 was not granted as already sufficient
+
+opportunities had been given to the applicant for presenting his case on the said issue.
+
+5.8.8.2 Hence, in view of details having not been submitted by the applicant, we are unable to
+
+answer this question.
+
+5.9 The applicant vide question nos. 8 has asked for a clarification as to whether their
+services are export of services, in case buyer is from India, the goods/ services are
+stored in CLOUD which are the servers outside India therefore even though payment
+
+is received in rupees, being services are received from distantly installed servers.
+
+5.9.1 In respect of this question, it is seen that the service is supplied by the applicant from
+taxable territory to recipients who are also located in taxable territory. The taxable
+event under GST Laws is ‘supply” of goods or services or both and the supplier of
+such goods or services or both, is liable to pay GST. In this situation since both, the
+supplier and recipient of services are located in taxable territory, the subject services
+will not be considered as exported and the applicant will have to discharge his GST
+
+liability on the amounts received for supplying such services.
+
+5.10 The last two questions raised by the applicant are “whether IGST is applicable under
+section 5(3) & 5(4) of the IGST Act and if yes, then its rate May please be clarified”
+
+ORDER
+
+(Under Section 98 of the Central Goods and Services Tax Act, 2017 and the
+Maharashtra Goods and Services Tax Act, 2017)
+
+NO.GST-ARA- 06/2019-20/B- 5 @ Mumbai, dt.4 6,12. 2020
+
+For reasons as discussed in the body of the order, the questions are answered thus —
+
+Question. 1) Whether "e-goods” as commercially known in the market are "goods" as defined
+
+in the GST Acts or are they services as per GST Act?
+
+12
+
+
+Answer: - — E-goods, in this case- ‘Online Gaming’ will be covered under services under the
+
+GST Act.
+
+Question. 2) If they are goods what is the It's HSN classification and or if services what is
+SAC classification& rate of GST on its sale/ supply within state?
+
+Answer: - _ In view of observations made above the SAC will be 998439.
+
+Question. 3) Whether they are exempted from GST?
+
+Answer: - Answered in the negative.
+
+Question.4) If Not exempted, what is the rate of GST on supply?
+Answer: - — GST rate will be 18%.
+
+Question.5) In what circumstances IGST under reverse charge will be applicable or whether
+it is applicable in the situation of procurement from foreign supplier & supply
+from out of India as discussed above?
+
+In the situation of procurement from foreign supplier & supply from out of India
+
+the applicant has to discharge IGST liability under reverse charge mechanism.
+
+If the customer is from India and paying the consideration in dollar, whether it
+will be allowed as exports or if not allowed as exports then whether GST is
+leviable? What is rate of SGST & CGST or IGST? Under which HSN Code or
+SAC?
+
+Since both, the customer and the applicant are in India, GST would be liable
+@18% under SAC 998439.
+
+Question.7) _ If customer pays for the e-goods in Indian rupees and goods delivered through
+CLOUD located outside India whether SGST & CGST or IGST leviable on
+such transactions?
+
+Answer: - GST is leviable, in view of the discussions made above.
+
+Question.8) In case where customer / buyer is from out of India and payment is done in
+dollar according to us it is export of goods / services and therefore neither
+SGST & CGST is leviable? Please clarify the same.
+
+Answer: - Not answered in view of discussions made above.
+
+13
+
+
+Question.9) In case buyer is from India the goods/ services are stored in CLOUD which
+are the servers outside India therefore even though payment is received in
+rupees ,it is again export of services being services are received from distantly
+installed servers. Hence No CGST and or SGST is leviable?
+
+Answer: - Said services are not export of services and hence GST must be discharged by
+
+the applicant.
+
+Question.10) Whether IGST is applicable under section 5( 3 ) & 5( 4) of the IGST Act,
+according to us it is not because it is not imported into India and the services
+are stored on CLOUD and therefore it cannot be said to be imports and thus
+not liable for RCM?
+
+Answer: - IGST is applicable under section 5( 3 ) & 5( 4) of the IGST Act.
+
+Question.11) If suppose RCM is applicable then its rate? May please be clarified.
+
+“i ° BP
+9 e'* a ww
+
+T. R. RAMNANI P. VINITHA SEKHAR
+(MEMBER) (MEMBER)
+
+Copy to:-
+1. The applicant
+
+2. The concerned Central / State officer
+3. The Commissioner of State Tax, Maharashtra State, Mumbai
+4. The Chief Commissioner of Central Tax, Churchgate, Mumbai
+
+5. Joint Commissioner of State Tax, Mahavikas for Website.
+
+Note :- An Appeal against this advance ruling order shall be made before The Maharashtra
+Appellate Authority for Advance Ruling for Goods and Services Tax, 15" floor, Air India
+building, Nariman Point, Mumbai — 400021.
+
+14

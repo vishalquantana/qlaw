@@ -1,0 +1,1153 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+(constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri B. V. Borhade, Joint Commissioner of State Tax
+(2) Shri Pankaj Kumar, Joint Commissioner of Central Tax
+
+GSTIN Number, if any/ User-id 27 AACCB8750D1ZS
+
+Legal Name of Applicant Behr-Hella Thermocontrol India Pvt. Ltd.
+Registered Address/ Address provided while | Elpro Compound, City Survey No. 4270,
+obtaining user id Chinchwadgaon, Pune 411 033
+
+Details of application GST-ARA, Application No. 12 Dated 17.04.2018
+Concerned officer PUNE-BST-E-001 , PUNE DIV, PUNE
+
+Nature of activity(s) (proposed / present) in
+respect of which advance ruling sought
+
+A Category Service Provision
+B Description (in brief) Testing Services
+Issue/s on which advance ruling required (v) determination of the liability to pay tax on any
+
+goods or services or both
+
+Question(s) on which advance ruling is | As reproduced in para 01 of the Proceedings below.
+required
+
+fio: Ce Rap PROCEEDINGS
+bi Su} er section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods and
+
+fg
+
+aN, Services Tax Act, 2017)
+
+a he present application has been filed under section 97 of the Central Goods and Services Tax Act,
+2017 andithe Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as “the CGST Act and
+ct”] by Behr-Hella Thermocontrol India Pvt. Ltd., the applicant, seeking an advance ruling in
+
+of the following question.
+Whether in the facts and circumstances of the case, the Applicant is liable to pay Integrated Goods and
+
+Srvices Tax on the testing services provided to its overseas group entities, being a zero-rated supply?
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and the
+MGST Act are the same except for certain provisions. Therefore, unless a mention is specifically made to
+such dissimilar provisions, a reference to the CGST Act would also mean a reference to the same provision
+under the MGST Act. Further to the earlier, henceforth for the purposes of this Advance Ruling, a reference
+to such a similar provision under the CGST Act / MGST Act would be mentioned as being under the “GST
+
+Act”.
+02. FACTS AND CONTENTION - AS PER THE APPLICANT
+
+The submission (Brief facts of the case), as reproduced verbatim, could be seen thus -
+Statement of the relevant facts having a bearing on the question(s) on which the advance ruling is required (refer
+SI. No. 15 of Form ARA-01)
+if The Applicant is a private limited company incorporated under the Companies Act, 1956. The registered
+office of the Applicant is situated at Elpro Compound, City Survey No. 4270, Chinchwadgaon, Pune - 411 033. The
+Applicant is a 100% subsidiary of Behr-Hella Thermocontrol GmBH, Lippstadt, Germany (hereinafter referred to as
+“BHTC Germany”). The Applicant is registered under GSTIN No. 271800000581 ARQ.
+2; In the normal course of business, the Applicant has entered into service agreements with BHTC Germany
+and its other overseas group entities such as Behr-Hella Thermocontrol, Inc. (hereinafter referred to as “BHTC USA”)
+and Behr-Hella Thermocontrol (Shanghai) Co. Ltd. (hereinafter referred to as “BHTC Shanghai”), inter alia, for
+
+
+
+providing testing services. Hereto annexed and marked as Exhibit “A” is the copy of the Service Agreement entered
+into by the Applicant with BHTC Germany.
+
+3: The testing services provided by the Applicant are in relation to the prototype goods supplied by the overseas
+group entities to determine whether the products so tested function in accordance with the requisite standards based
+on certain identified parameters such as temperature, environment, durability, etc. The tests are directly carried out
+on the prototype goods provided by the overseas group entities.
+
+4. By way of deliverable, the Applicant sends across the testing report to the overseas group entities usually
+through emails. The prototype goods are usually not sent back. Hereto annexed and marked as Exhibit “B” is the
+specimen test report prepared and sent by the Applicant.
+
+5. For providing the said testing services, the Applicant receives the consideration in convertible foreign
+exchange. Hereto annexed and marked as Exhibit “C” are the specimen invoices raised by the Applicant on its
+overseas group entities for providing the said testing services.
+
+Based on the above facts, the Applicant now wishes to confirm its analysis that the “Place of Supply” of the testing
+services rendered by the Applicant to its overseas group entities is “outside India”, as detailed in Annexure-II of this
+application, and accordingly, the Applicant submits this Advance Ruling application to the Hon'ble Authority for
+Advance Ruling.
+
+The Applicant craves leave to submit such further facts as may be relevant after admission of the application or at the time of
+hearing.
+
+Statement containing the applicant's interpretation of law and/or facts, as the case may be, in respect of the
+questions(s) on which advance ruling is required
+
+In light of the facts of the case (as explained in Annexure I) and the question in respect of which the Applicant seeks
+an Advance Ruling, the Applicant's interpretation of facts and law in respect of the aforesaid questions is as follows:
+Question: Whether in the facts and circumstances of the case, the Applicant is liable to pay Integrated Goods and
+Services Tax on the testing services provided to its overseas group entities, being a zero-rated supply?
+Applicant’s submissions
+
+11 With effect from 01 July 2017, indirect tax regime in India has shifted from multiple taxes by multiple
+authorities at multiple times to a consolidated Goods and Services Tax (“GST”) regime.
+1.2 Conceptually, GST is a “destination based tax on consumption of goods and services”, meaning thereby that
+
+the tax would accrue to the taxing authority which has jurisdiction over the “place of consumption” which is also
+termed as the “place of supply”. In this regard, a reference is made to the Frequently Asked Questions on GST issued
+by the Central Board of Excise & Customs, New Delhi dated 31 March 2017 (24 Edition) which highlights the
+conceptual understanding of GST as under:
+
+ewe | Q1. What is Goods and Services Tax (GST)?
+= <teass It is a destination based tax on consumption of goods and services. It is proposed to be levied at all stages right from
+
+poe YLiAnaitefacture up to final consumption with credit of taxes paid at previous stages available as setoff. In a nutshell, only value
+Agorquill be taxed and burden of tax is to be borne by the final consumer,
+
+Q Celine exactly is the concept of destination based tax on consumption?
+yx would accrue to the taxing authority which has jurisdiction over the place of consumption which is also termed as
+
+ply.
+
+ction 7(5) of the Integrated Goods and Service Tax Act, 2017 (hereinafter referred to as the “IGST Act”)
+at supply of service shall be treated as a supply of service in the course of inter-State trade or commerce
+supplier is located in India and the place of supply is outside India.
+As per Section 16 of the IGST Act, “export of service” shall qualify as “Zero rated supply” and can be supplied
+t payment of IGST.
+, Thus, even if a supply is in the course of inter-State trade or commerce, the same can be supplied without
+payment of IGST if it qualifies as an export of service.
+1.6 In terms of Section 2(6) of the IGST Act, a supply of service shall qualify as export of service when:
+
+(a) the supplier of service is located in India;
+
+(b) the recipient of service is located outside India;
+
+(c) the place of supply of service is outside India;
+
+(d) the payment for such service has been received by the supplier of service in convertible foreign
+
+exchange; and
+(e) the supplier of service and the recipient of service are not merely establishments of a distinct person
+in accordance with Explanation 1 in section 8;
+
+17 The terms “supplier of service” and “recipient of service” defined under Section 2(105) and Section 2(93) of
+the Central Goods and Services Tax Act, 2017 (hereinafter referred to as the “CGST Act”) are reproduced herein below
+for ease of reference:
+2. Definitions
+
+ete
+
+(93) “recipient” of supply of goods or services or both, means —
+
+where a consideration is payable for the supply of goods or services or both, the person who is liable to pay that
+
+consideration;
+
+where no consideration is payable for the supply of goods, the person to whom the goods are delivered or made available,
+
+or to whom possession or use of the goods is given or made available; and
+
+where no consideration is payable for the supply of a services, the person to whom the service is rendered,
+
+
+
+and any reference to a person to whom a supply is made shall be construed as a reference to the recipient of the supply
+and shall include an agent acting as such on behalf of the recipient in relation to the goods or services or both.
+sete
+(105) “supplier” in relation to any goods or services or both, shall mean the person supplying the said goods or
+services or both and shall include an agent acting as such on behalf of such supplier in relation to the goods or services
+or both supplied
+fore
+
+18 In the facts and circumstances of the present case, it is not in dispute that the Applicant is the “supplier of
+services” in terms of Section 2(105) of the CGST Act, and the overseas group entities, being liable to pay the
+consideration for the services supplied by the Applicant, are the “recipient of services” in terms of section
+
+2(93) of the CGST Act.
+
+19 Thus, condition provided under clause (a) and (b) of Section 2(6) of the IGST Act are satisfied in the present
+case.
+
+1.10 It is not in dispute that the Applicant is receiving the consideration for the supply of the service in the form
+
+of convertible foreign exchange from the overseas group entities. Thus, condition provided under clause (d)
+of Section 2(6) of the IGST Act is also satisfied.
+
+gk Further, the Applicant and its overseas group entities are not merely establishments of a distinct person in
+accordance with Explanation 1 in Section 8 of the IGST Act.
+
+1.12 Explanation 1 to Section 8, inter alia, provides that where a person has an establishment in India and another
+establishment outside India, then such establishments shall be considered to be establishments of distinct
+persons.
+
+1.13 In the present case, the Applicant and the overseas group companies are not merely establishments of a
+singular entity but are separate entities in themselves.
+
+1.14 Thus, condition provided under clause (e) of Section 2(6) of the IGST Act is also satisfied.
+
+115 Now the only condition that needs to be satisfied for the testing service provided by the Applicant to its
+overseas group entities to qualify as export and therefore a “zero rated supply” which can be supplied
+without payment of IGST is whether the “place of supply” is outside India.
+
+1.16 Hence, the “place of supply” is relevant to decide the taxability and the status of taxability of the testing
+services provided by the Applicant to its overseas group entities.
+
+1.17 The provisions for determining the place of supply of services are contained under Section 13 of the Integrated
+Goods and Service Tax Act, 2017 (hereinafter referred to as the “IGST Act”). The relevant extracts of Section
+13 of the IGST Act are reproduced below for ready reference:
+
+13. Place of supply of services where location of supplier or location of recipient is outside India
+(1) The provisions of this section shall apply to determine the place of supply of services where the location of the
+supplier of services or the location of the recipient of services is outside India.
+
+(2) The place of supply of services except the services specified in sub-sections (3) to (13) shall be the location of
+
+the recipient of services:
+
+Provided that where the location of the recipient of services is not available in the ordinary course of business,
+
+the place of supply shall be the location of the supplier of services.
+
+The place of supply of the following services shall be the location where the services are actually performed,
+
+namely:-
+
+services supplied in respect of goods which are required to be made physically available by the recipient of
+
+services to the supplier of services, or to a person acting on behalf of the supplier of services in order to provide
+
+the services:
+
+Provided that when such services are provided from a remote location by way of electronic means, the place
+
+of supply shall be the location where goods are situated at the time of supply of services:
+
+Provided further that nothing contained in this clause shall apply in the case of services supplied in respect
+
+of goods which are temporarily imported into India for repairs and exported after repairs without being put to
+
+any other use in India, than that which is required for such repairs;
+be
+1.18 The terms “location of the recipient of services” and “location of the supplier of services
+under Section 2(14) and Section 2(15) of the IGST Act as under:
+Definitions
+2 In this Act, unless the context otherwise requires, -
+wane
+(14) “location of the recipient of services” means, -
+(a)where a supply is received at a place of business for which the registration has been obtained, the location of such
+place of business;
+(b)where a supply is received at a place other than the place of business for which registration has been obtained (a
+‘fixed establishment elsewhere), the location of such fixed establishment;
+(c)where a supply is received at more than one establishment, whether the place of business or fixed establishment,
+the location of the establishment most directly concerned with the receipt of the supply; and
+(d)in the absence of such places, the location of the usual place of residence of the recipient;
+(15) “location of the supplier of services” means, - ,
+(a) where a supply is made from a place of business for which the registration has been obtained, the
+location of such place of business;
+
+” have been defined
+
+
+(b) where a supply is made from a place other than the place of business for which registration has been
+obtained (a fixed establishment elsewhere), the location of such fixed establishment;
+
+(©) where a supply is made from more than one establishment, whether the place of business or fixed
+establishment, the location of the establishment most directly concerned with the provision of the
+supply; and
+
+(a) in absence of such places, the location of the usual place of residence of the supplier;
+
+1.19 The term “usual place of residence” has been defined under Section 2(113) of the CGST Actas under:
+Definitions
+
+2. In this Act, unless the context otherwise requires, -
+
+sppbet
+
+(113) “usual place of residence” means -
+(a) in case of an individual, the place where he ordinarily resides;
+(b) in other cases, the place where the person is incorporated or otherwise legally constituted;
+
+1.20 In view of the above, while the location of the Applicant is in India in terms of Section 2(15)(a) of the IGST
+Act, the recipient of services (i.e., the overseas group entities) are located outside India in terms of Section
+2(14)(d) of the IGST Act.
+
+1.21 Further, a bare perusal of Section 13 of the IGST Act would reveal that generally, the place of supply of
+services shall be the location of the recipient of services in terms of Section 13(2) of the IGST Act, except in
+case of the services specified in sub-sections (3) to (13) of Section 13 of the IGST Act.
+
+1.22 The Applicant understands that sub-sections (4) to (13) of Section 13 of the IGST Act are irrelevant in the
+present case for the purpose of determination of the “place of supply” of the testing services provided by the
+Applicant to its overseas group entities.
+
+1.23 Itis further submitted that the case of the Applicant does not fall within the ambit of Sub-section (3) of Section
+13 of the IGST Act as well.
+
+1.24 In terms of section 13(3)(a) of the IGST Act, the place of supply of services provided in respect of goods which
+are required to be made physically available to the supplier of services shall be the location where the services
+are actually performed.
+
+1.25 In the present case, having regard to the nature of services rendered by the Applicant to its overseas group
+entities, it is mandatory for the overseas group entities to provide prototype goods to the Applicant. Further,
+the Applicant would be conducting tests in India and thereafter sending the test reports outside India to the
+overseas group entities on whose behalf the Appellant has carried out the testing services.
+
+1.26 The Applicant is required to submit a test report and the contractual obligation of the Applicant towards
+overseas group entities in terms of the provision of testing services is complete only when the test reports are
+
+delivered to them. In other words, the provision of service is complete only when the test report is delivered
+
+to the overseas group entities.
+
+It is submitted that the delivery of the test report by the Applicant to its overseas group entities is the most
+
+important part of the services rendered by the Applicant. In fact, the overseas group entities, as recipient of
+
+vices, are expecting the test report and nothing apart from that.
+
+s stated above, GST is a destination based tax on consumption of goods and services. Further, “Services”
+
+e something intangible in nature. Thus, service is something which is not visible but the person receiving
+
+e same is deriving some benefit from its performance. Thus, GST is levied where the service is actually
+
+/&etting consumed.
+It is submitted that Section 13(3)(a) of the IGST Act covers within its ambit those cases where the ultimate
+
+deliverable is the performance of a particular activity on the “goods”. Thus, the recipient is concerned with
+the goods and performance of the desired activity on the goods. For example, in case of storage of goods, the
+service recipient is concerned with the storage of goods for a particular time period. The provision of service
+is complete once the goods are stored for the said period.
+1.30 In the instant case, the overseas group entities are neither concerned with the prototype goods made available
+by them nor with the tests performed by the Applicant on the said goods. The provision of service by
+Applicant is not complete by merely testing the said prototype goods. The Applicant is under an obligation
+to prepare the test report recording the findings of the tests performed by it and submit the report to the
+overseas group entities. In other words, the ultimate deliverable or the actual provision of service is the
+provision of the test report.
+1.31 Further, there is no compulsion on the Applicant to return the prototype goods to the overseas group entities
+which further confirms that the overseas group entities are not concerned with the goods. Therefore, the
+actual consumption of the testing services performed by the Applicant is happening outside India in the form
+of the test reports.
+1.32 The aforesaid position is further substantiated by the second proviso to Section 13(3)(a) of the IGST Act which
+provides that even though the repairing of goods is done in India, the place of supply shall be outside India
+if the goods after repairs are exported out of India. The rationale behind such exclusion appears to be that no
+GST should be levied as the goods will be ultimately used or consumed outside India.
+1.33 The above contention is also supported by the judgment of the Hon’ble Bombay High Court in the case of
+Commissioner of Service Tax, Mumbai - II v. SGS India (P.) Ltd. reported in 2014 (34) S.T.R. 554 (Bom.),
+wherein the Hon'ble Bombay High Court held that service tax is a destination based consumption tax and
+therefore, even though the testing of goods has happened in India, the service will be treated as export of
+
+service as the benefit of service is accruing outside India. Ina nutshell, the Hon’ble Bombay High Court held
+4
+
+
+that since the delivery of the test report to the foreign clients was an essential part of testing services, the said
+services must be treated to be consumed abroad and therefore, falling within the ambit of “export of services”
+not liable to service tax. The relevant extracts of the judgment are reproduced below for ready reference:
+
+24. In the present case, the Tribunal has found that the assessee like the respondent rendered services, but they were
+consumed abroad. The clients of the respondents used the services of the respondent in i nspection/test analysis of the
+goods which the clients located abroad intended to import from India. In other words, the clients abroad were desirous of
+confirming the fact as to whether the goods imported complied with requisite specifications and standards. Thus, client
+of the respondent located abroad engaged the services of the respondent for inspection and testing the goods. The goods
+were tested by the respondents in India. The goods were available or their samples were drawn for such testing and
+analysis in India, However, the report of such tests and analysis was sent abroad. The clients of the respondent were
+foreign clients, paid the respondent for such services rendered, in foreign convertible currency. It is in that sense that
+the Tribunal holds that the benefit of the services accrued to the foreign clients outside India. This is termed as ‘export
+of service’. In these circumstances, the Tribunal takes a view that if services were rendered to such foreign clients located
+abroad, then, the act can be termed as ‘export of service’. Such an act does not invite a Service Tax liability. The Tribunal
+relied upon the circulars issued and prior thereto the view taken by it in the case of KSH International Pot. Ltd. v.
+Commissioner and B.A. Research India Ltd. The case of the present respondent was said to be covered by orders in these
+fvo cases. To our mind, once the Hon'ble Supreme Court has taken the view that Service Tax is a value added tax which
+in turn is destination based consumption tax in the sense that it taxes non-commercial activities and is not a charge on
+the business, but on the consumer, then, it is leviable only on services provided within the country. It is this finding and
+conclusion of the Hon'ble Supreme Court which has been applied by the Tribunal in the facts and circumstances of the
+present case.
+
+25. The view taken by the Tribunal therefore, cannot be said to be perverse or vitiated by an error of law apparent on the
+face of the record. If the emphasis is on consumption of service then, the order passed by the Tribunal does not raise any
+substantial question of law.
+
+1.34 The aforesaid judgment of the Hon’ble Bombay High Court has been followed by it in the case of The Pr.
+Commissioner of Mumbai Commissionerate v. QIndia Investment Advisory Pvt. Ltd. reported in 2017-
+TIOL-2171-HC-MUM-ST.
+
+1.35 Since GST is also a “destination based consumption tax” on goods and services, relying upon the judgment
+of the Hon'ble Bombay High Court in SGS India (P.) Ltd. (supra) and QIndia Investment Advisory Pvt. Ltd.
+(supra), it is submitted that the place of supply in case of the testing service provided by the Applicant to its
+overseas group companies is also outside India.
+
+1,36 In this regard, it is further submitted that even if the services are provided from India, since the actual
+consumption of the testing services is taking place outside India, the place of supply of services ought to be
+
+outside India in terms of Section 13(2) of the IGST Act.
+
+Basis the above discussion, it is submitted that the “place of supply of service” in respect of the testing services
+
+ovided by the Applicant to the overseas group entities is to be determined in terms of Section 13(2) of the
+
+Act which provides that the place of supply shall be the location of the recipient of service i.e. outside
+
+Ps .
+% 9 1.38 1@y Rw of the above, it is submitted that the testing services provided by the Applicant to its overseas group
+ie rilitis qualify as export of services and therefore, zero rated supply as defined under Section 16 of the IGST
+rs *, Pe rther, the Applicant can supply the said testing services to its overseas group entities without payment
+enbe of I@ST in terms of Section 16(3)(a) of the IGST Act.
+i. ae TESTING SERVICE AGREEMENT
+tig Vd Effective as of January 1, 2014
+ATRAET ‘BETWEEN
+
+Behr-Hella Thermocontrol GmbH, a company incorporated under the laws of the Federal Republic of
+
+Germany, having its registered office at Stuttgart, register court HRB 20260, and its principal place of business
+
+at Hansastrafe 40, 59557 Lippstadt, Federal Republic of Germany, represented by its Managing Directors Mr.
+
+Thomas Schulte and Dr. Andreas Teuner (hereinafter called "BHTC") of ONE PART
+
+AND
+
+Bebr-Hella Thermocontrol India Private Limited, a Company incorporated in India and having its Registered
+
+Office at Elpro Compound, City Survey No. 4270, Chinchwadgaon, Pune - 411033, India, , represented by its
+
+Director and CEO Mr. Shrivardhan Gadgil (hereinafter called “BHTCIN”) of OTHER PART.
+
+Whereas —
+
+a) BHTCIN was incorporated on February 10, 2006. BHTCIN is in the process of undertaking activities as
+developer, manufacturer, producer, purchaser, seller, importer, exporter, distributor, dealer,
+commission agent and market representatives of all kinds of Control Equipment and Units for Air
+conditioning and Climate Control systems and to render services related to design, development and
+testing of Control Equipments and Climate Control systems;
+
+b) BHTC desires to engage BHTCIN for testing services related to Control Pani
+its group companies. The nature of work inter alia include:
+
+Providing testing services for automotive specifically related to air condition control panel and
+accessories, on physical product sample for the customers located in different geographics. Activities
+carried out broadly include:
+
+° Functional tests
+
+° Electrical tests
+
+eee!
+
+el projects with BHTC and
+
+
+° Mechanical tests
+
+° Life cycle tests
+° Endurance tests
+° Illumination tests
+° Environmental tests -
+° Software tests
+° Product robustness tests
+
+All the test activities are carried out using climate chambers, test & measuring equipments etc. Above tests
+
+will result in respective test report generation. Deliverables in this case includes test reports, compliance
+
+reports, conformance/non conformance reports etc. Testing is carried in manual mode and also in automated
+
+mode
+
+c) BHTCINis interested in accepting such engagements from BHTC and willing to provide services related
+to man and machine resources as per requirement of BHTC (hereinafter referred to as "Services"); and
+
+d) BHTC and BHTCIN mutually desire to set forth in this Agreement certain terms and conditions
+applicable to all such engagements;
+
+Now it is hereby agreed as follows:
+
+1. Scope, Duties and Responsibilities of BHTCIN
+
+a. BHTCIN shall recruit and maintain duly qualified, skilled and experienced resources to provide
+services to BHTC and its group companies as agreed in the beginning of each calendar year with
+BHTC. These services will be provided from BHTCIN facility or on-site as per requirement of BHTC
+or its affiliates.
+
+b. BHTCIN will track its resources in the manner agreed with BHTC and will ensure that the time
+booking is done properly on respective projects, BHTCIN is expected to take care that their own
+project hours are not captured on BHTC projects. BHTC will receive corresponding documentation
+which will be a matter of a separate, operational notification.
+
+¢. BHTCIN will enter the hours in SAP system or any other tool as may be defined in consultation with
+BHTC on fortnightly basis under the respective project codes. At the end of each month, the same
+will form basis of invoicing by BHTCIN. The due dates for the closing of the monthly accounts will
+be adhered to.
+
+d. BHTCIN will have administrative and operational control on resources available with it. BHTCIN
+will ensure maintenance of IT tools, equipments and other infrastructure as necessary to provide
+services in timely manner and with desired quality. BHTC will receive corresponding
+documentation which will be a matter of separate, operational notification.
+
+ope, Duties and Responsibilities of BHTC
+
+_ BHTC shall ensure full work load for resources planned and available at BHTCIN with all
+
+information and details about the projects. All resources identified and agreed in the business plan
+
+will have to be used by BHTC and will be invoiced by BHTCIN.
+
+BHTC will provide. 4.rolling plan on services required from BHTCIN in the beginning of each
+
+calendar month covering next three months outlook of the project jobs which could be assigned to
+
+resources at BHTCIN
+
+¢. The technical coordinators at BHTC shall work closely with Dianagers/ supervisors at BHTCIN and
+will be responsible for the quality of deliverables and the project timelines.
+
+d. BHTC will support BHTCIN for building competencies and enhance efficiency and productivity
+through sufficient workloads, exposure to now projects/ technologies, training and mentoring.
+BHTC will plan and send its experts to visit BHTCIN for technical training of resources at its own
+costs and the same will be invoiced separately from: BHTC to BHTCIN.
+
+e. BHTC will help BHTCIN to develop an induction training program for the new resources hired at
+BHTCIN which will define the initial training roadmap and also the time period after which they
+will be considered eligible for working on the projects. Such training costs will be bome by BHTCIN
+
+3, Invoicing
+BHTCIN shall submit invoices to BHTC on Time basis once a month based on available resource
+hours for BHTC projects. All invoices shall be due and. payable within thirty (30) days of
+presentment, subject to the approval and acceptance by BHTC and shall be addressed to BHTC's
+Technical Coordinator.
+
+The invoice will mention the brief description of the project as well as the project number (TCE
+number or similar as requested by BHTC). In case resource available for BHTC projects are not fully
+utilized, the appropriate cost code will be provided by BHTC to BHTCIN to enable invoicing for the
+
+same.
+The hourly rate to be considered for invoicing shall be reviewed between the parties in the beginning
+
+of each calendar year commencing from January 2014 and shall be notified separately.
+
+BHTC will pay the hourly rate plus travel expenses (Air ticket, Transportation, Lodging, Meals or
+allowance), which will be approved in advance by BHTC for each Professional on project
+assignment on site at BHTC Lippstadt or at any other location. (BHTC will receive corresponding
+
+documentation)
+
+
+Except as expressly agreed with BHTC, BHTCIN shall bear all of its own expenses arising from its
+performance of its obligations under this Agreement, including (without limitation) expenses for
+facilities, work spaces, training, utilities and the like.
+4. Ownership and Rights
+In relation to jobs received by BHTCIN from BHTC, all original and intermediate written material,
+including programs, documentation, CDs, diskettes, listings and any other material generated by
+BHTCIN personnel for BHTC shall belong exclusively to BHTC.
+5. Confidentiality
+a. Except as provided by clause 5(b) herein below, BHTC and BHTCIN shall at all times during the
+currency of this Agreement and thereafter:
+i. Use their best endeavours to keep all Restricted Information confidential and
+accordingly not to disclose any Restricted Information to any other person; and
+
+ii. Not use any Restricted Information for any purpose other than the performance
+of their respective obligations under this Agreement
+b. Any Restricted Information may be disclosed by BHTCIN to any employees of the
+
+Company to such extent only as is necessary for the purposes contemplated by this
+Agreement subject in each case to BHTCIN using all reasonable endeavours to ensure that
+the recipient employee keeps the same confidential and does not use the same except for
+the purposes for which the disclosure was made.
+
+6. Export Compliance
+
+BHTCIN agrees that they shall not violate Indian export laws and regulations and this Agreement
+shall indemnify, defend and hold BHTC harmless from and against any and all claims, proceedings,
+damages, penalties and obligations arising directly or indirectly from a breach of this provision.
+
+Ze Assignment
+
+BHTCIN is not allowed to assign this Agreement or any part of this Agreement to a third Party
+without prior written consent of BHTC.
+
+8. Change of ownership
+
+BHTCIN must inform BHTC of any pending change in ownership of the BHTCIN as soon as the
+change is more likely than not. Upon notice of a pending change in ownership BHTC reserves the
+right to change the terms and conditions of this agreement without any concurrence of BHTCIN.
+
+9. Term and Termination:
+
+a. This Agreement supersedes the Service Agreement between BHTC and BHTCIN dated
+January 1, 2012 and amendments thereof and shall come into force on the date of its
+execution and shall lasts until 315 December 2015 and will be automatically renewed if
+none of the parties terminates within ninety (90) days in advance.
+
+b. If BHTCIN commits any act of insolvency or any provision for winding up is admitted
+against BHTCIN, BHTC shall be entitled to forthwith terminate this Agreement.
+
+¢. If BHTCIN commits a material breach of the provisions of this Agreement which is not cured
+within thirty (30) days of the date of receipt of a cure notice by BHTCIN, BHTC shall be
+entitled to terminate this Agreement.
+
+Force Majeure
+If the performance of this Agreement is impeded or there are reasonable grounds for anticipating
+
+that the same is or threatens to be impeded or rendered impossible by Force Majeure, such imminent
+
+outbreak of existence of hostilities or war like operations, whether declared or not, international or
+
+civil, involving the Government or either of the parties to this Agreement or the Major Powers, or
+
+Force Majeure of any other kind and such situation continues for a prolonged period, then either
+
+Party may by giving a notice to the other, terminate this Agreement provided that such termination
+
+shall be without prejudice to existing rights and obligations at the date of the termination.
+
+11. Severability Clause
+If a provision of this agreement is or becomes illegal, invalid or unenforceable in any jurisdiction,
+the contract shall be construed as if the same had not been inserted. The Parties hereby agree to
+make an amendment to the contract containing a legal, valid or enforceable provision.
+
+12; Amendments and Modifications
+Allamendments or modifications to this Agreement must be in writing, identified as an amendment
+to this Agreement and signed by an authorized representative of each Party
+
+13. Governing LAW
+
+This Agreement shall be subject to the laws of the Federal Republic of Germany. For all claims
+
+arising out of or in connection with this Agreement -- as far as statutorily allowed -, the courts
+
+competent for Behr-Hella Thermocontrol GmbH domicile shall have jurisdiction.
+
+Additional submissions 06.09.2018
+
+WRITTEN SUBMISSIONS
+
+Ti At the outset, the Applicant expresses their gratitude to this Hon'ble Authority for Advance Ruling for
+granting a patient hearing to the Applicant on 29 August 2018. Pursuant to the liberty granted, the Applicant
+hereby makes the following submissions in addition and without prejudice to the submissions made in the
+Application dated 19 June 2018 and during the course of the hearing on 08 August 2018 and 29 August 2018.
+
+BRIEF FACTS:
+‘ 7
+
+
+2 Behr-Hella Thermocontrol India Pvt. Ltd., the Applicant herein, has entered into service agreements with its
+holding company, BHTC Germany, and other overseas group companies, inter alia, for providing testing
+services in respect of prototype goods, being air condition control panel and accessories for automobiles. A
+copy of a sample service agreement is attached at page 17 of the application.
+
+3. Pursuant to the agreements, the overseas group companies sent the prototypes to the Applicant. The
+Applicant directly carries out tests based on certain identified parameters and sends across the test reports to
+the overseas group companies, usually, via email. The prototype goods are not usually sent back. The copy
+of the test report us attached as page 27 of the application.
+
+4. On the basis of the said test reports, the overseas group companies then make the suggested alterations to the
+product design and manufacture products based thereon.
+SUBMISSIONS:
+
+A. We refer to and reiterate the submissions made in para 1.1 to 1.38 of the application. The said submissions
+are summarized as follows:
+
+(i) The services of testing of the prototypes provided by the Applicant to its group companies are
+appropriately classified under Section 13(2) of the Integrated Goods and Services Tax Act, 2017
+(“IGST Act");
+
+(ii) The services of testing of prototype and providing the report based on which mass production is
+
+undertaken is more in the nature of advisory/ consultancy service, rather than the services
+prescribed under Section 13(3) of the IGST Act which, inter alia, entail provision of service on the
+goods made available physically by the recipient of service and which are subsequently returned to
+the recipient. The classic examples of services prescribed under Section 13(3) of the IGST Act are
+repair of car, maintenance of machines etc.; ,
+
+(ii) The service of the Applicant is not complete until the report is delivered to the overseas group
+companies, i.e., the recipients of services. The said recipients of services are interested in the result
+of the testing of the prototypes based on which the mass production can be undertaken;
+
+(iii) All the conditions as prescribed under Section 2(6) of the IGST Act for the purpose of qualification
+of “export of services” are satisfied and hence the services rendered to the group companies qualify
+as export of service.
+
+B. Without prejudice to the submissions made in the Application, it is submitted that the issue regarding the
+place of supply / place of provision of service in case of Technical Testing and Analysis Services, where the
+report is delivered outside India, is settled by various decisions of the Hon'ble High Court and Hon'ble
+Appellate Tribunal.
+
+It is submitted that the Hon'ble High Court and the Hon'ble Appellate Tribunal have taken a consistent view
+at service tax being a destination based consumption tax, the place of supply/ place of provision of the said
+ices are outside India and the said services qualify as export of services.
+
+er the service tax regime, as applicable prior to 2012, i.e., prior to the negative list based approach of
+tion of services, the conditions prescribed for qualifying as export of services were laid down in the
+rt of Services Rules, 2005, The relevant extracts of the Export of Services Rules, 2005 are reproduced
+
+oe’ Phe export of taxable service shall mean, -
+WS fo
+’ (2) in relation to taxable services specified in sub-clauses (a), (), (h), (i), (i), (1), (ny, (n), (0), (5), (t), (u), (w), (Xx), (y),
+(2), (zb), (zc), (zi), (zi), (zn), (zo), (29), (zr), (zt), (2), (zu), (zw), (22a), (220), (z2d), (22f), (22g), (22h), (221), (22}), (zzl),
+(zzm), (zzn), (zzo), (zzp), (228), (z2t), (zz), (zz), (2zx) and (zzy) of clause (105) of section 65 of the Act, such services
+as are performed outside India:
+Provided that if such a taxable service is partly performed outside India, it shall be considered to have been performed
+outside India;
+Provided further that for the purposes of this sub-rules, any taxable services provided shall be treated as export of services
+
+only if -
+(a) such service is delivered outside India and used in business or for any other purpose outside India; and
+(b) payment for such service provided is received by the service provider in convertible foreign exchange;"
+BE A bare perusal of the above makes it clear that even under the Export of Services Rules, 2005, the Technical
+
+Testing and Analysis Services, as defined under Section 65(105)(zzh) of the Finance Act, 1994, were deemed
+to be exported only if such services were performed outside India. It is submitted that the said provisions are
+substantially similar to the provisions of the Place of Supply Rules as provided under Section 13 of the IGST
+Act.
+
+F, Further, w.e.f. 01 April 2011, Rule 3(2) of the Export of Services Rules, 2005 was amended and condition for
+the Technical Testing and Analysis Services for qualifying as export of services was changed from the place
+of performance of service to the location of the recipient of service.
+
+G. The aforesaid amendment indicates that the intention of the legislature at all times was to treat the said testing
+and analysis services, the report for which was issued to the overseas service recipient as export of service,
+based on the location of the recipient of service. The key factor being that service tax was a destination based
+consumption tax and the services with regard to the said testing were being consumed outside India. The
+Frequently Asked Questions (FAQs) to the Central Goods and Services Tax Act, 2017 published by the CBI&C
+
+8
+
+
+states that Goods and Services Tax is also a destination based consumption tax and hence, the same intent
+should be applicable to the Goods and Services Tax law as well.
+
+The copy of the Export of Service Rules, 2005 (prior and post the amendment of 2011) is annexed at page
+numbers 6 to 16 of the second compilation of documents. The copy of the FAQs to the Goods and Services
+Tax Act is annexed at page 19 of the first compilation of documents.
+
+H. W.e.f. 01 July 2012, i.e., post the implementation of negative list based taxation of services, the qualification
+of Export of Service was determined by Rule 6A of the Service Tax Rules, 1994, read with Place of Provision
+of Services Rules, 2012. The provisions of said Rule 6A of the Service Tax Rules, 1994 are substantially
+identical to the Section 2(6) of the IGST Act and the provisions of Rule 4 of the Place of Provision of Service
+Rules, 2012 are identical to the provisions of Section 13(3) of the IGST Act. The relevant extracts of the Place
+of Provision of Services Rules, 2012 have been reproduced below:
+
+RULE 4. Place of provision of performance based services. -
+
+The place of provision of following services shall be the location where the services are actually performed, namely:
+
+(a) services provided in respect of goods that are required to be made physically available by the recipient of service to
+the provider of service, or to a person acting on behalf of the provider of service, in order to provide the service.
+Provided that when such services are provided from a remote location by way of electronic means the place of provision
+shall be the location where goods are situated at the time of provision of service
+
+Provided further that this clause shall not apply in the case of a service provided in respect of goods that are temporarily
+imported into India for repairs and are exported after the repairs without being put to any use in the taxable territory,
+other than that which is required for such repair;
+
+(b) services provided to an individual, represented either as the recipient of service or a person acting on behalf of the
+recipient, which require the physical presence of the receiver or the person acting on behalf of the receiver, with the
+provider for the provision of the service.
+
+L In view of the aforesaid, it is submitted that the provisions of Section 13(3) and 2(6) of the IGST Act are
+substantially identical to the provisions of the erstwhile Finance Act, 1994 (supra). Hence, the ratio of the
+judgments of the Hon'ble High Court and the Hon'ble Appellate Tribunal issued under the erstwhile Finance
+Act, 1994 remain applicable to the present case and the same cannot be brushed aside merely on the grounds
+of being issued under the erstwhile Finance Act.
+
+Is The judgment of the Hon’ ble Bombay High Court in Commissioner of Service Tax, Mumbai-II v/s. SGS India
+
+Pvt. Ltd. reported in 2016 (34) STR 554 (Bom.) is a leading judgment on the prevalent issue wherein, the
+
+Hon'ble Bombay High Court while interpreting the Export of Services Rules, 2005 has held as follows:
+
+24. In the present case, the Tribunal has found that the assessee like the respondent rendered services, but they were
+
+consumed abroad, The clients of the respondents used the services of the respondent in inspection/test analysis of the
+
+ods which the clients located abroad intended to import from India. In other words, the clients abroad were desirous
+nfirming the fact as to whether the goods imported complied with requisite specifications and standards. Thus, client
+
+7 respondent located abroad engaged the services of the respondent for inspection and testing the goods. The goods
+
+ier\tested by the respondents in India, The goods were available or their samples were drawn for such testing and
+
+jail is in India. However, the report of such tests and analysis was sent abroad. The clients of the respondent were
+
+\(SFeign clients, paid the respondent for such services rendered, in foreign convertible currency. It is in that sense that
+
+/ the [ribunal holds that the benefit of the services accrued to the foreign clients outside India. This is termed as export of
+
+“ Seepice'. In these circumstances, the Tribunal takes a view that if services were rendered to such foreign clients located
+
+voad, then, the act can be termed as ‘export of service? Such an act does not invite a Service Tax liability. The Tribunal
+
+relied upon the circulars issued and prior thereto the view taken by it in the case of KSH International Put. Ltd. v.
+
+Commissioner and B.A. Research India Ltd. The case of the present respondent was said to be covered by orders in these
+
+two cases, To our mind, once the Hon'ble Supreme Court has taken the view that Service Tax is a value added tax which
+
+in turn is destination based consumption tax in the sense that it taxes non-commercial activities and is not a charge on
+the business, but on the consumer, then, it is leviable only on services provided within the country. It is this finding and
+conclusion of the Hon'ble Supreme Court which has been applied by the Tribunal in the facts and circumstances of the
+
+present case.
+The copy of the said judgment in the case of SGS India Pvt. Ltd. has been attached at page 25 of the first
+
+Sy
+
+compilation of documents.
+K. It is submitted that said judgment in the case of SGS India Pvt. Ltd. (supra) has been followed by the Hon'ble
+
+Bombay High Court in the case of QIndia Investment Advisory Pvt. Ltd. reported in 2017-TIOL-2171-HC-
+MUM-GST. The copy of the said judgment has been attached at page 31 of the first compilation of documents.
+
+L. The aforesaid two judgments are issued under the Export of Services Rules, 2005. The Hon'ble Tribunal, in
+Commissioner of Central Excise, Pune-I v/s. Sai Life Sciences Ltd. reported in 2016 (42) STR 882 (Tri. Mum.)
+relying upon the judgment of SGS India Pvt. Ltd. (supra) has held that even for the period post 01 July 2012,
+i.e., post the insertion of the Place of Provision of Services Rules, 2012 and the negative list based taxation of
+services, the testing services provided to overseas entities wherein the report is sent outside India qualify as
+export of services. A copy of the said judgment of Sai Life Sciences Ltd. (supra) is attached at page 35 of the
+first compilation of documents.
+
+M. As submitted above, the said Rule 4 of the Place of Provision of Services Rules, 2012 and Section 13(3) of the
+IGST Act are identical and hence, the judgment of the Hon'ble Appellate Tribunal in the case of Sai Life
+Sciences (supra) is squarely applicable to the facts of the present case.
+
+N. Without prejudice to the above it is submitted that the aforesaid judgments are binding judicial precedents.
+Merely because an appeal has been preferred against the judgment of the Hon'ble Bombay High Court in the
+
+9
+
+
+case of SGS (supra), the ratio of the said judgment cannot be said to be in jeopardy, as no stay has been granted
+
+against the same. In this regard, reliance is placed on the following judgments:
+
+(i) Union of India v/s. Kamlakshi Finance Corporation Ltd. reported in 1991 (55) ELT 433 (SC);
+
+(ii) Mycon Construction Ltd. v/s. Union of India reported in 2017 (350) ELT 514 (Bom.);
+
+(IL) Shree Sai Vamika Industries v/s. Union of India reported in 2017 (347) ELT 93 (Gau.)
+
+The copies of the said judgments are attached at pages 31 to 36 of the second compilation of documents.
+
+In view of the aforesaid, it is submitted that the place of supply of the testing services provided by the
+Applicant is outside India and the testing services qualify as export of service in terms of Section 2(6) of the IGST Act.
+
+03. CONTENTION - AS PER THE CONCERNED OFFICER
+
+The submission, as reproduced verbatim, could be seen thus-
+
+M/s. Behr Hella Thermocontrol India Pvt. Ltd. have raised the following question on which advance ruling
+is required.
+"Whether in the facts and circumstances of the case, the applicant is liable to pay Integrated Goods and
+Services Tax on the testing services provided to its overseas group entities, being a zero-rated supply?"
+
+Above question of M/s. Behr Hella Thermocontrol India Pvt. Ltd. is examined in light of section 13 of IGST
+Act, 2017.
+
+Section 13(1) to (13)(3) reads as under:
+
+Sec(13): Place of supply of services where location of supplier or location of recipient is outside India.
+
+1) The provisions of this section shall apply to determine the place of supply of services where the location of
+
+the supplier of services or the location of the recipient of services is outside India.
+
+(2) The place of supply of services except the services specified in sub-sections (3) to (13) shall be the location
+
+of the recipient of services:
+
+Provided that where the location of the recipient of services is not available in the ordinary course of business, the
+
+place of supply shall be the location of the supplier of services.
+
+(3) The place of supply of the following services shall be the location where the services are actually performed,
+
+namely:
+
+(a) services supplied in respect of goods which are required to be made physically available by the recipient of
+services to the supplier of services, or to a person acting on behalf of the supplier of services in order to
+provide the services:
+
+°\. Provided that when such services are provided from a remote location by way of electronic means, the place
+
+‘cof supply shall be the location where goods are situated at the time of supply of services:
+
+Provided further that nothing contained in this clause shall apply in the case of services supplied in respect
+“of\goods which are temporarily imported into India for repairs and are exported after repairs without being
+) puto any other use in India, than that which is required for such repairs;
+
+(b) services supplied to an individual, represented either as the recipient of services or a person acting on behalf
+of the recipient, which require the physical presence of the recipient or the person acting on his behalf, with
+the supplier for the supply of services.
+
+The applicant has entered into service agreement with BHTC Germany. The prototype goods are supplied by BHTC
+
+Germany on which tests are conducted by the applicant. The test reports are sent to BHTC Germany by e mail. The
+
+consumption of test reports takes place outside India. Hence this office is of the opinion that section 13(3) is not
+
+applicable to the applicant. Subsections (4) to (13) of section 13 are also not applicable to the applicant. The transaction
+of applicant falls under subsection (2) of section (13) and the place of supply is outside India.
+"Export of Service" is defined u/s 20)(6) of IGST Act as under:
+(6) "export of services” means the supply of any service when,
+(i) the supplier of service is located in India;
+(ii) the recipient of service is located outside India;
+(iii) the place of supply of service is outside India;
+(iv) the payment for such service has been received by the supplier of service in convertible foreign exchange;
+and
+(v) the supplier of service and the recipient of service ar
+accordance with Explanation 1 in section 8;
+The applicant satisfies the clauses of sec(2)(6) and as the place of supply of service is outside India, this office is of the
+view that the applicant is not liable to pay Integrated Goods and Services Tax on the testing services provided to its
+
+overseas group entities.
+The applicant may carry out export of service under LUT,
+with payment of IGST and claim refund later on.
+
+e not merely establishments of a distinct person in
+
+/Bond without payment of IGST or may carry out export
+
+04. HEARING
+
+The case was taken up for preliminary hearing on dt. 13.06.2018, with respect to admission or
+
+rejection of the application when Sh. Prasad Paranjape, Advocate along with Sh. Arun Jain, Advocate
+
+10
+
+
+appeared and requested for admission of application as per their contentions in ARA application. They
+
+were specifically informed that the question that they have raised in application is with respect to place of
+
+supply which is not covered in the scope of section 97 of CGST Act and therefore cannot be entertained.
+tions and submissions
+
+The
+
+Accordingly they were requested to immediately reframe their question and conten
+
+if required within one week and accordingly application would be treated as fresh application.
+
+jurisdictional officer was not present.
+The applicant filed revised application and preliminary hearing was held on 08.08.2018 when Sh.
+
+Mihir Mehta, Advocate along with Sh. Suyog Bhave Advocate appeared and requested for admission of
+
+application as per contentions in their application. The jurisdictional officer Sh. Ramesh Phadtare, Dy.
+
+Commr. S. T. (PUNE-BST-E-001), Pune Division, Pune appeared and stated that they will be making
+
+detailed submissions in due course.
+
+The application was admitted and final hearing was held on 29.08.2018, Sh. Mihir Mehta,
+Advocate along with Sh. Suyog Bhave Advocate and Sh. Sandeep Deshmukh, D G M Finance appeared
+and made oral and written submissions and requested time for further submissions before 06.09.2018.
+
+The jurisdictional officer, Sh. Ramesh Phadtare, Dy. Comm. S. T. (PUNE-BST-E-001), Pune Division, Pune
+
+appeared and made written submissions.
+
+05. OBSERVATIONS
+
+case and the submissions
+
+e applicant and the department.
+facts of the subject matter are that the Applicant has entered into service agreement for
+
+provi ik esting services in relation to the prototype goods supplied by their overseas clients. The tests
+
+y carried out on the prototype goods provided by the overseas group entities and based on the
+
+he Applicant prepares the testing report and sends across the said report to their
+pe goods are usually not sent back and the Applicant receives the
+
+overseas clients
+
+by way of emails. The prototy
+
+consideration in convertible foreign exchange. The issue that has been raised by the applicant is with
+
+respect to ‘place of such supply’ of services rendered by them. They are contending that the place of supply
+is outside India and therefore such services have been exported by them and accordingly they have made
+their submissions in support of their contention. Therefore we find that the basic issue before us is to
+
+ascertain whether such supply of services provided by the applicant are export of services or not.
+
+oh
+outside India and therefore as per Section 7(5)
+
+In the subject case it is seen that the supplier of service is in India and the receiver of the service is
+
+of the IGST Act we find that the supply of service in this
+
+case shall be treated as a supply of service in the course of Inter-State trade.
+
+5.4 Now we take the opportunity to discuss whether the supply of service by the applicant in this case
+
+attracts the provisions of Section 2(6) of the IGST Act, so as to be treated as an export of service so as to
+
+qualify as “Zero rated supply” under the provisions of Section 16 of the IGST Act.
+
+5.5 An exporter of services in the case of Inter-State trade must satisfy all the conditions of Section 2(6)
+of the IGST Act which is reproduced as under:-
+
+Section 2(6) “export of services” means the supply of any service when,-~
+W
+
+
+(i) the supplier of service is located in India;
+
+(ii) the recipient of service is located outside India;
+
+(iii) the place of supply of service is outside India;
+
+(iv) the payment for such service has been received by the supplier of service in convertible foreign
+
+exchange; and
+(v) the supplier of service and the recipient of service are not merely establishments of a distinct person
+
+in accordance with Explanation 1 in section 8;
+5.6 There is no doubt that the, supply of service in the present case satisfies clauses (i), (ii), (iv) and
+
+(v) of Section 2(6) of the IGST Act. However to qualify as an export all the conditions must be satisfied and
+therefore we now take upon ourselves to discuss whether the applicant also satisfies clause (iii) i.e.
+whether the place of supply in the subject case is outside India. We agree with the applicant that the “place
+of supply” is relevant to decide the taxability and the status of taxability of the testing services provided
+by them to their overseas clients and would therefore require detailed examination.
+
+57 Section 13 of the IGST Act contains the provisions for determining the place of supply of services
+where the location of the supplier of services or the location of the recipient of services is outside India. As
+per Section 13(2) generally, the place of supply of services shall be the location of the recipient of services
+except in case of the services specified in sub-sections (3) to (13) of Section 13 of the IGST Act. We agree
+with the applicant that sub-sections (4) to (13) of the said Section 13 are irrelevant in the present case for
+
+the purpose of determination of the “place of supply” of the testing services provided by them to their
+
+= | BPexgeas clients and therefore we restrict ourselves to the provisions of sub-section (3) of Section 13 of the
+
+tnd
+
+5 A which is as under:-
+
+>| perforrye mely: —
+
+ics Supplied in respect of goods which are required to be made physically available by the recipient of services
+r of services, or to a person acting on behalf of the supplier of services in order to provide the services:
+
+@ed/phat when such services are provided from a remote location by way of electronic means, the place of supply
+
+she Ll fe” location where goods are situated at the time of supply of services:
+
+-Prdptded further that nothing contained in this clause shall apply in the case of services supplied in respect of goods
+
+fich are temporarily imported into India for repairs and are exported after repairs without being put to any other
+
+use in India, than that which is required for such repairs;
+
+(b) services supplied to an individual, represented either as the recipient of services or a person acting on behalf of the
+
+recipient, which require the physical presence of the recipient or the person acting on his behalf, with the supplier for
+
+the supply of services.
+5.8 We find that in the subject case the prototypes are made physically available by the recipient of
+
+services (the overseas clients) to the supplier of services (the applicant). The applicant is providing testing
+services on physical product samples i.e. prototypes, made available to them in India by their overseas
+clients in respect of prototypes after due examination and testing of these prototypes. From a reading of
+the agreement it is very clear that the testing activities that are carried out include Functional tests,
+Electrical tests, Mechanical tests, Life cycle tests, Endurance tests, Illumination tests, Environmental tests,
+Software tests, Product robustness tests, etc. The facts and situation in the present case clearly attract the
+provisions of Section 13 (3)(a) of the IGST Act and therefore it can be inferred that the said services of
+testing of the protypes, which are physically made available by the service receiver to the service provider,
+are provided in India and therefore liable to tax.
+
+Be) The argument of the applicant is that the services provided by the applicant in this case, as per the
+
+agreement, are completed only when the test reports are sent to their overseas clients is not tenable for the
+12
+
+
+reason that first of all the service of testing provided by the applicant on the basis of examination and
+physical verification of prototypes is in respect of verification of traits, characteristics and defects, if any,
+in respect of prototypes sent to the applicant and this service of testing is over once on the basis of
+examination and verification of prototype, the test report is generated and sent via mail as stated by the
+applicant and therefore provision of testing service is over and it is clear as per detailed discussions above,
+that the service is completed and is clearly provided in India.
+
+Thus the event and provision of testing service is over and the service is clearly provided in India
+as per Section 13(3) of the IGST Act, 2018.
+
+The applicant's main arguments are that the service is completed only when it is used by the
+applicant in manufacture of goods and their upgradation or removal of defects if any, on the basis of this
+test report is not sustainable and maintainable as the agreement between the applicant and the service
+recipient is only with respect to conducting of tests and providing of test report and is not with respect to
+its further use or otherwise by the service recipient as we can clearly see that even if the findings of test
+report are not used in any way by the service recipient, it cannot be said that the service of testing is not
+provided by the applicant to the service recipient as the provision of testing services as per the agreement
+between them is clearly there whether or not the test report is used by the service recipient. Thus the
+applicant's argument does not hold any ground and we are of the opinion that in the present case it can
+
+safely be inferred from a reading of the provisions of Section 13(3) that the services supply of which has
+
+ndered by the applicant to their overseas client as per the agreement is taxable under IGST Act.
+“A rther we specifically find that in the SGS case cited by the applicant, the facts are different. In
+3 e overseas clients of SGS used the services of SGS in inspection/ test analysis of the goods which
+ocated abroad intended to import from India. The tests were conducted on sample goods and
+ods were not made physically available by their overseas client. In fact the overseas clients
+port the goods only after the goods were tested by SGS and a report was sent to that effect. The
+port would occur only the reports sent were found to confirm that the goods imported complied with
+requisite specifications and standards. In the subject case the situation is different. Here the overseas client
+had made the goods physically available to the applicant in order to enable them to conduct the tests. If
+the goods were not made physically available to the applicants for testing purposes, the tests could not
+have been conducted and therefore no reports could be generated. Hence it is clear that the facts of the
+SGA case are different from the facts of the subject matter. It is also seen that the applicant have also cited
+other case laws but the facts of the cited case laws are different from the facts of the matter at hand and
+therefore the decisions in those cases cannot be applied to the present case.
+06. In view of the extensive deliberations as held hereinabove, we pass an order as follows :
+
+ORDER
+(under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods and
+
+Services Tax Act, 2017)
+
+NO.GST-ARA- 12/2018-19/B- 116 Mumbai, dt. |$.09-20\8
+
+For reasons as discussed in the body of the order, the questions are answered thus -
+
+13
+
+
+Question:- Whether in the facts and circumstances of the case, the Applicant is liable to pay Integrated
+Goods and Services Tax on the testing services provided to its overseas group entities, being a zero-rated
+supply?
+
+Answer:- In view of the discussion made under ‘Observations’ above we hold that the testing services
+being provided by the applicant in the present case is liable to IGST and cannot be treated as zero rated
+
+— = ait
+B. V. BORHADE PANKAJ KUMAR
+(MEMBER) (MEMBER)
+
+CERTIFIED TRUE COPY
+
+2. The concerned Central / State officer NO
+
+3. The Commissioner of State Tax, Maharashtra State, Mumbai
+4. The Jurisdictional Commissioner of Central Tax. Churchagte M
+5. Joint commissioner of State tax , Mahavikas for Website. ADVANCE RULING AUTHORITY
+
+Note :- An Appeal against this advance ruling order shall be made before The Maharashtra Appellate
+Authority for Advance Ruling for Goods and Services Tax, 15'* floor, Air India building, Nariman Point,
+Mumbai - 400021
+
+14

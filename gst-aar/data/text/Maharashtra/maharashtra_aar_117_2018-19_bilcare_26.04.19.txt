@@ -1,0 +1,583 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+GST Bhavan, 8 floor, H-Wing, Mazgaon, Mumbai - 400010.
+(Constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri B. Timothy, Addl. Commissioner of Central Tax, (Member)
+(2) Shri B. V. Borhade, Joint Commissioner of State Tax, Member)
+
+GSTIN Number, if any/ User-id 27 AABCB2242F1Z6
+
+Legal Name of Applicant BILCARE LIMITED
+
+Registered Address/ Address | 1028, Shiroli, Rajgurunagar, Pune-410505
+provided while obtaining user id
+
+Details of application GST-ARA, Application No. 117 Dated 31.01.2019
+Concerned officer Dy. Commr. of S.T.(PUN-VAT-E-624), Pune.
+
+Nature of activity(s) (proposed /
+present) in respect of which advance
+
+ruling sought
+A_| Category Service provision
+B_ | Description (in brief) The applicant is a global leader and an innovation-
+
+led packaging solutions provider that partners with
+the pharmaceutical industry to improve patient
+healthcare outcomes. We endeavor to deliver
+effective and affordable solutions that enhance the
+speed and quality of drug discovery and help build
+and protect brands by ensuring the delivery of
+genuine medicines to patients.
+Issue/s on which advance ruling | (v) determination of the liability to pay tax on any
+
+required goods or services or both
+Question(s) on which advance ruling | As reproduced in para 01 of the Proceedings below.
+is required
+CE
+lyon ON PROCEEDINGS
+
+Foe 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods
+and Services Tax Act, 2017)
+}
+
+present application has been filed under section 97 of the Central Goods and Services Tax
+Act, 20 4 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as “the CGST
+— ale MGST Act” respectively ] by M/s. BILCARE LIMITED, seeking an advance ruling in respect of
+“the following questions.
+1. Determining whether the various services provided to foreign clients i.e. situated outside India and for
+which the place of supply is in the taxable territory shall be liable to Integrated Tax (herein referred to as
+"IGST") or Central Goods and Service Tax (herein referred to as "CGST") and State Goods and Service
+Tax (herein referred to as "SGST") for the purpose of levy of Goods and Services Tax (GST) under the
+GST Law.
+2. Incase it is ruled that IGST is payable, the procedure to be followed for payment of IGST as the GST
+portal does not permit the payment of IGST where the place of supply is indicated as state of Maharashtra.
+At the outset, we would like to make it clear that the provisions of both the CGST Act and the
+
+MGST Act are the same except for certain provisions. Therefore, unless a mention is specifically made to
+
+
+any dissimilar provisions, a reference to the CGST Act would also mean a reference to the same provision
+under the MGST Act. Further to the earlier, henceforth for the purposes of this Advance Ruling, the
+expression ‘GST Act’ would mean CGST Act and MGST Act.
+
+02. FACTS AND CONTENTION — AS PER THE APPLICANT
+
+The submissions, as reproduced verbatim, could be seen thus-
+
+I M&. Bilcare Ltd. (herein referred to as the "Applicant") is a company engaged in the following
+
+e Applicant is an innovation-led packaging solutions provider that partners with the pharmaceutical
+industry to improve patient healthcare outcomes. We endeavor to deliver effective and affordable
+solutions that enhance the speed and quality of drug discovery and help build and protect brands
+by ensuring the delivery of genuine medicines to patients.
+
+e Applicant PPI offers Innovative Pharmaceutical Packaging Solutions comprising of a wide range
+of specialty Polymer Films and Aluminum Foils mainly used for packaging of solid dosage
+pharmaceutical products.
+
+e Applicant GCS provides Global Clinical Material Supplies for new drug discovery projects.
+
+e Applicant Technologies provides track and trace, authentication and Anti counterfeit (nCID —
+nonclonableID) solutions for product & people ID authentication and security.
+
+2. The applicant's GCS (Global Clinical Material Supplies) division provides various types of
+services to its foreign clients. The foreign clients can be a Pharmaceutical Company or a CRO
+(Clinical Research Organization). The standard quotation submitted to Clients and sample PO
+received from those Clients for the various services provided by the GCS Division for which the
+
+ruling is sought is attached as Annexure-1.
+
+re Statement of nature of services provided and questions thereto;
+ANCE RY Ty
+NY, Nature of services provided:
+
+Cir Storage and Distribution Services quotation, applicant provides services of receipt, storage,
+
+=
+Bp ' hi
+
+€ %y (Retde ‘Agnexure 1 (Pages 11 to 16) of standard quotation - Pages: 2 to 3 of Storage and Distribution
+
+—
+
+tution, return & destruction of IPs (Investigational Products/Drugs) in India.
+
+Services ‘quotation for detailed explanation of nature of services). For a brief description of the services
+
+ers
+
+RA Sapte “ proyided refer Table 1 below:
+ae Tablet:
+
+Services No. of | Unit Rate | Total Cost | Cost Assumptions
+
+Units in USD in USD
+Logistic Project 21 590 12390 This is the cost of Logistic Project Management
+Management Fees fees for 21 months and it will be charged based on
+
+utilization per month @ USD 590.
+(From period Apr 2017 to Dec 2018)
+Receipt 2 148 296 This is the cost of receipt and reconciliation of drug
+Reconciliation fees product. It is assumed that Bilcare will receive
+vials in 2 receipts and this will be charged as per
+utilization of man hours.
+Storage Cost 21 299 6279 This is the storage cost of drugs for 21 months. We
+(2-8 Deg C) have assumed that | cubicles (1 product) of 0.5
+cubic meter size will be required per month at 2-8
+Deg C to store drug product and will be charged as
+per the utilization @ USD 299 per 0.5 Cu. Mtr.
+
+2
+
+
+Cubicle per Month for 2-8. Deg C. (21 months X1
+cubicle/month=21 Bins)
+
+Note: If we receive both the products (Herceptin
+and Hercules ) then 2 cubicles of 0.5 cu m will be
+charged for 21 months period (21 months X2
+cubicle/month=42 Bins= 12558 USD)
+
+Storage Cost for PK 12 299 3588 This is the storage cost of PK retains received from
+Retain site at end of the study for min. 6 months. We have
+(2-8 Deg C) kits assumed that 2 cubicles (for 2 products) of 0.5.
+
+cubic meter size will be required per month at 2-8
+Deg C to store Herceptin and Hercules and will be
+charged as per the utilization @ USD 299 per 0:5
+Cu. Mtr. Cubicle per Month for 2-8 Deg C. (6
+months X2 cubicle/month=12 Bins)
+
+Distribution 48 100 4800 This cost includes the cost of pick and pack service
+Processing Fee for 48 shipments to 4 sites in India per site 12
+(2-8 DegC) shipments. It is assumed each shipment would have
+
+11-17 vials and 1 shipper. Hence, the total
+distribution processing fees would be charged on
+the basis of utilization shipper per shipment
+@USD 100. (48 shipments x 1 shipper per
+shipment=48 shippers)
+
+Distribution 1 200 200 This cost includes the cost of pick and pack
+Processing Fee service for Ishipment to Ireland depot. It is
+(2-8 Deg Cc) assumed that shipment would have approx 34 vials
+Shipment to Ireland (Total PK retains - 23 Herceptin kits and 11
+Depot Hercules kits the total distribution processing fees
+
+would be charged on the basis of number of
+shipments per shipment @USD 200.
+
+Freight Charges 48 459 22032 These are the freight charges for 48 shipments to
+
+(2-8 Deg C) site in India, Each shipment will be with 1 shipper.
+(Shipments.at 2 to 8 Deg C in Validated shipper
+with one temperature monitoring device) Note:
+Gov. service tax will be extra @15%
+
+Freight Charges for 20 459 9180 These are the freight charges for 4 return shipments
+
+rn shipment from site to Bilcare depot. Each shipment will be
+ANCE Rhy 2-8Deg C) with 1 shipper.
+eames - a (20 shipments at controlled temperature condition
+o>. \ % with validated shipper with temperature monitoring
+e eca'3 device either for redistribution or as PK retains)
+a8 Note: Gov. service tax will be extra @ 15%
+Return |} Receipt 20 148 2960 This is the cost of return receipt and reconciliation
+Reconciliation per site. We have assumed there will be 20 return
+(2-8 Deg C) shipments from sites and it will be charged based
+: on utilization per return receipt reconciliation as
+a ae per utilization.
+= |Record Retention 21 83.50 1753:5 This is the cost of retention of project specific
+Fees documents for 21 months.
+Sub-Total 63478.5
+Add: Government 9521.8
+Service Tax @15%
+Total Cost in USD 73000.3
+
+2. Under Packaging Services quotation, the applicant provides services of Primary packaging which
+includes Blistering, Bottling; Liquid & Ointment Filling etc. of Tablets, Liquids, Ointments, Creams, Etc
+and Secondary packaging which includes Labelling, Kitting, Block Box Preparation, Cartoning, etc. of
+Primary packed material and also storage, distribution and destruction of primary and secondary packed
+
+material if required by the client.
+
+
+[Refer Annexure 1 (Pages 19 to 24) of standard quotation - Page No. 20 of Packaging Services
+quotation for detailed explanation of nature of services). For a brief description of the services provided
+refer Table 2 below
+
+Table 2;
+SUMMARY OF PRICES FOR | Cost Assumptions Cost in USD
+SERVICES PROVIDED BY
+BILCARE
+(Currency USD) Cost Head
+Secondary Packaging and | This cost includes: 3,691.00
+Labelling fees 1. One Batch setup
+2. Additional Labelling of IP Monocarton containing
+Vial: Application of one single panel label of new retest
+date to Vial and Vial Monocarton and sealing of vial
+monocarton.
+3. Activity will be carried out at 15-25 Deg C.
+4. Assumed relabeling of 202 vials and mono cartons.
+Label Cost This is cost of 252.00
+1, Label design/setup
+2. Preparation of label proofs
+3. Printing of New Retest Date Labels
+4, Label Inspection and Release
+5. Printing of Total 210 labels
+6. Label language: English
+Note: Tamper seals will be provided by PPD
+Storage Cost (Shelf- Labels) Storage cost includes storage of labels for 1 83.00
+month during packaging run. The storage of labels will
+be charged as per actual utilization @ USD 83 per shelf
+
+per month.
+Total Cost in USD 4,026.00
+Add Government Service Tax @ 15% in USD 603.90
+Grand Total in USD (Including Government Service Tax 15%) 4,629.90
+
+A. Question 1: Common for all the above-mentioned nature of services provided
+
+@ whether the various services provided to foreign clients i e. situated outside India and for
+e place of supply is in the taxable territory shall be liable to Integrated Tax (herein referred to
+") or Central Goods and Service Tax (herein referred to as "CGST") and State Goods and
+
+sl] ‘ hid aed ax (herein referred to as "SGST”) for the purpose of levy of Goods and Services Tax (GST)
+
+aa" inderfhe GST Law.
+
+Noon ene Be Question 2:
+
+ee In case it is ruled that IGST is payable, the procedure to be followed for payment of IGST as the GST
+
+portal does not permit the payment of IGST where the place of supply is indicated as state of
+
+Maharashtra.
+3.1 Statement containing the applicant's interpretation of law:
+ly Section 9(1) of CGST Act, 2017 states that Central Goods and Service Tax (herein referred to as
+
+"CGST') shall be levied on all intra-State supplies of services. The relevant extract of the section is
+reproduced below:
+
+9. (1) Subject to the provisions of sub-section (2); there shall be levied a tax called the central
+goods and services tax on all intra-State supplies of goods or services or both, except on the
+supply of alcoholic liquor for human consumption, on the value determined under section 15 and
+
+4
+
+
+at such rates, not exceeding twenty per cent, as may be notified by the Government on the
+recommendations of the Council and collected in such manner as may be prescribed and shall be
+
+paid by the taxable person.
+
+(2) (3) 4) (3) ....
+
+2, Section 9(1) of Maharashtra Goods and Service Tax CGST Act, 2017 states that Central Goods
+and Service Tax (herein referred to as “SGST") shall be levied on all Intra-State supplies of
+services.
+
+33 Further, Section 5(1) of IGST Act, 2017 states that Integrated Goods and Service Tax (herein
+
+referred to as IGST) shall be levied on all Inter-State supplies of services. The relevant extract of
+the section is reproduced below:
+5. (1) Subject to the provisions of sub-section (2), there shall be levied a tax called the integrated
+goods and services tax on all inter-State supplies of goods or services or both, except on the
+supply of alcoholic liquor for human consumption, on the value determined under section 15 of the
+Central Goods and Services Tax Act and at such rates, not exceeding forty per cent, as may be
+notified by the Government on the recommendations of the Council and collected in such manner
+as may be prescribed and shall be paid by the taxable person:
+(2) (3) (4) (5) -o.-
+Therefore, for the purpose of levying IGST or CGST and SGST on a supply we first need to
+determine whether the supply is an Intra-State supply or Inter-State supply of services. Sections 7
+& 8 of the IGST Act, 2017 deals with determination of the nature of supply:
+
+4. Both, Section 7 & Section 8 determines the nature of supply having regard to the ‘location of
+
+supplier’ and 'place of supply’. In the instant case, the location of supplier, location of service
+
+recipient and place of supply is as below:
+
+a. Location of supplier of service — The location of supplier (i.e. the applicant) is in Pune.
+Further, the applicant is registered under GST in the State of Maharashtra.
+
+. Location of recipient of service - The location of recipient is outside India. Further, the service
+recipients are Pharmaceutical Companies or a CRO (Clinical Research Organization) situated
+outside India.
+
+¢. The place of supply - Since the service recipient is located outside India, place of supply of
+
+services provided shall be determined as per the provisions of Section 13 of the IGST Act.
+Further, the place of supply for all the services provided by the applicant shall be determined as
+per the applicable sub sections of Section (13)(3) and thus the place of supply for all the
+services, will be in the taxable territory i.e. in India.
+
+5: Determination of Nature of Supply
+
+1. As per Section 8(2) of IGST Act, where the ‘location of supplier’ & 'place of supply’ are in
+
+same State, it will be treated as "intra-state supply". The said section is reproduced below:
+“ 8. (2) Subject to the provisions of section 12, supply of services where the location of
+the supplier and the place of supply of services are in the same State or same Union
+
+territory shall be treated as intra-State supply:”
+
+
+However, the said section reads as "subject to provisions of Section 12". Here, it is important to
+interpret the meaning of the words 'subject to the provisions". The submissions are as follows —
+a. The same is interpreted in" Words and Phrases of Central Excise, Customs & Service
+Tax". (4th Edition, p. 4311):
+Subject to means conditional upon--Exemption from tax "subject to such restrictions and
+conditions as may be prescribed-means that the exemption is conditional upon the
+observance of the conditions prescribed and upon the restrictions which are imposed -
+KR.C.S. Balakrishna v. State of Madras - (1961) 12 STC 114 (S.C.).
+b. The meaning of the phrase can also be referred in Black Law's Dictionary -
+Liable, subordinate, subservient, inferior, obedient to; governed or affected by; provided
+that; provided; answerable for. Homan vi Employees Reinsurance Corp., 345 Mo. 650,
+136 S.W.2d 289, 302,
+
+Cc. The meaning of the phrase is also defined in P. Ramanatha Aiyar-The Law Lexicon
+(Second Edition, 1997) as
+Under the control of someone or something subordinate to [ S. 16, Sale of Goods Act);
+(S.40(1). Motor Transport Workers Act)
+
+Thus, from above it can be inferred that the words "Subject to the provisions of Section 12'
+appearing in Section 8(2) shall be read in the sense that the provisions of Section 8(2) are conditional
+upon Section 12 only. Hence from above it can be concluded that Section 8(2) will apply only for
+those cases where Section 12 is applicable. The relevant extract of the definitions from the various books
+and case laws as mentioned above is attached as Annexure-2.
+
+Il. As mentioned in point 4(c) above, the place of supply for the services provided by the Applicant
+
+will be determined as per the provisions of sub-sections of Section (13)(3) of the IGST Act.
+
+z \ Hence, for determining whether the services provided by the Applicant is “inter-state” or “intra-
+a state", Section 8(2) will not apply. ;
+
+A}
+Provisions of Section 7(5)(C) of the IGST Act, specifies that - supply of services in the taxable
+
+f stghritory which is not an intra-state supply, and which is not covered elsewhere shall be treated as
+
+> fhter-State supply. The said section is reproduced below:
+we “6) Supply of goods or services or both, -
+(a) when the supplier is located in India and the place of supply is outside India;
+(b) to or by a Special Economic Zone developer or a Special Economic Zone unit;
+
+or
+
+(C) in the taxable territory, not being an intra-State supply and not covered elsewhere in this
+section, shall be treated to be a supply of goods or services or both in the course of inter State
+trade or commerce.
+Therefore, where the place of supply as per sub-sections of Section (13)(3) of the IGST Act for the
+services mentioned in Annexure-A, comes to a location in India i.e. services are provided in the taxable
+territory then the nature of supply of such services shall be determined as per the provisions of Section
+
+7(5)(C) of the IGST Act.
+
+
+Thus, it is submitted that as per Section 7(5)(c) of the IGST Act, the supply of services shall
+be treated as Inter-State supply and accordingly as per Section 5(1) of IGST Act, 20/7, on supply of
+such services IGST shall be levied.
+
+Submissions for Question 2
+
+1 It can be inferred from above that IGST shall be discharged on supply of such services. Further,
+the details of the outward supply shall be provided in Form GSTR-1 and payment of tax shall be
+made by filing Form GSTR-3B of the relevant month in which supplies are made.
+
+2 The details of outward supply of services shall be filled in Table 7 GSTR-1. In case of services for
+which the place of supply comes to be in Maharashtra then the Maharashtra State shall be selected
+in ‘place of supply’ field in the Table 5 or Table
+
+3 However, on selecting so the portal automatically freezes the supply type as- Intra State supply
+and therefore only CGST and SGST can be discharged on that supply.
+
+4, Thus, even though the supply is an Inter-State supply however due to the system functionality
+IGST on such services cannot be discharged. The screen shot of the error is attached as Annex-3.
+
+3 Therefore, it is submitted that in case the supply of services is liable to IGST and then how the
+
+same shall be discharged due to technical glitches on the GST Portal.
+
+03. CONTENTION — AS PER THE CONCERNED OFFICER
+
+The submission, as reproduced verbatim, could be seen thus-
+
+In this regard it is to submit as under:
+e The applicant M/s. Bilcare Ltd. is having various divisions, one of which is GCS (Global Clinical
+Material Supplies). The nature of services provided by this division are as under:
+(a) Storage and Distribution Services such as receipt, storage, distribution, return
+and destruction of IPs (Investigational Products / Drugs) in India. These services includes logistic
+
+... Project management, receipt and reconciliation of drug product, to store drug product, storage of
+
+PK retains received from the site at the end of the study, pick and pack services for shipment to
+
+land depot, freight charges for return shipment, return receipt and reconciliation per site,
+
+\, ire
+
+ret tion of project specific documents.
+
+by; e packaging services provided includes primary packaging such as blistering, bottling, liquid
+
+asd ointment filling of tablets, liquids, ointments, creams, etc.. and secondary packaging such as
+j “labelling, kitting, block 'box preparation, cartoning, etc. of primary packed material and also
+storage distribution and destruction of primary and secondary packed material.
+The applicant M/s. Bilcare Ltd, is having the place of business and is registered in State of
+Maharashtra under the GST Law. Thus, the location of the supplier is in India but the location of recipient
+of the services is outside India.
+
+In order to classify service as export of service as per sub-clause (iii) of sub-section (6) of Section
+
+2 of the integrated Goods and Services Tax Act, 2017, the place of supply of service should be outside
+India. Since the applicant, being supplier of service is located in India and. its recipient is located outside
+
+India, the provisions of Section 13 of the IGST Act, 2017 will be applicable in the subject case.
+
+
+As per provisions of clause (a) of sub-section (3) of Section 13, the place of the supplier of the
+above services viz, services supplied in respect of goods which are required to be made physically
+available by the recipient of services by the supplier of services shall be the location where the services are
+actually performed.
+
+Thus, in view of the provision of sub-clause (iii) of sub-section (6) of Section 2 read with
+clause (a) of sub-section (3) of Section 13 of the IGST Act, the place of supply shall be in the State of
+Maharashtra as in the present case the services are actually performed within the State by the
+supplier. Hence, the transaction seems to be eligible SGST & CGST as per the provisions stipulated
+therein in the CGST / SGST Act.
+
+04. HEARING
+
+Preliminary hearing in the matter was held on 27.02.2019. Sh. Karan Awtani, C.A., appeared and
+requested for admission of their application. Jurisdictional Officer Dr. Nilima Nagarkar, DC (PUN-VAT-
+
+E-624) Pune appeared in this matter.
+
+The application was admitted and called for final hearing on 03.04.2019. Sh. Mehul Jivani, C.A,
+appeared, & made oral and written submissions. Jurisdictional Officer Dr. Nilima Nagarkar DC (PUN-
+VAT-E-624) Pune appeared and made written submissions. We heard both the parties.
+
+05. OBSERVATIONS AND FINDINGS:-
+
+We have gone through the facts of the case, written submission from both the parties and oral
+
+arguments made while hearing. The issue put before us is in respect of nature of supply as either interstate
+or intra state and the liability to pay tax under IGST Act or CGST+SGST respectively.
+
+Applicant is a registered person under GST Act and is engaged in providing of various types of
+services to its foreign clients. The foreign clients can be Pharmaceutical Companies or a CROs (Clinical
+
+BY ‘, Research Organizations). The Nature of services provided includes (a) Storage and Distribution Services
+
+: which includes receipt, storage, distribution, return and destruction of IPs (Investigational Products/Drugs)
+in India\and (b) Packaging Services of Primary packaging which includes Blistering, Bottling; Liquid &
+Oink Filling etc. of Tablets, Liquids, Ointments, Creams, Etc and Secondary packaging which includes
+Labellifg, Kitting, Block Box Preparation, Cartoning, etc. of Primary packed material and also storage,
+
+/ distribution and destruction of primary and secondary packed material if required by the client.
+
+a Based on the above, applicant is seeking ruling in respect of two questions mentioned above. We
+
+shall now deal with each question separately-
+
+Ques 1- . Determining whether the various services provided to foreign clients i.e. situated outside
+
+India and for which the place of supply is in the taxable territory shall be liable to Integrated Tax
+
+(herein referred to as "IGST") or Central Goods and Service Tax (herein referred to as "CGST")
+
+and State Goods and Service Tax (herein referred to as "SGST") for the purpose of levy of Goods
+
+and Services Tax (GST) under the GST Law.
+
+The answer to the above question can be found in the Section 13 of the IGST Act,2013 which is
+
+reproduced below:
+
+“Section 13.
+
+
+13. (1) The provisions of this section shall apply to determine the place of supply of services where the
+location of the supplier of services or the location of the recipient of services is outside India.
+(2) The place of supply of services except the services specified in sub-sections (3) to (13) shall be the
+location of the recipient of services:
+Provided that where the location of the recipient of services is not available in the ordinary course of
+business, the place of supply shall be the location of the supplier of services.
+(3) The place of supply of the following services shall be the location where the services are actually
+performed, namely:—
+(a) services supplied in respect of goods which are required to be made physically available by the
+recipient of services to the supplier of services, or to a person acting on behalf of the supplier of services
+in order to provide the services:
+Provided that when such services are provided from a remote location by way of electronic means, the
+place of supply shall be the location where goods are situated at the time of supply of services:
+Provided further that nothing contained in this clause shall apply in the case of services supplied in respect
+of goods which are temporarily imported into India for repairs and are exported after repairs without
+being put to any other use in India, than that which is required for such repairs;
+(b) services supplied to an individual, represented either as the recipient of services or a person acting on
+behalf of the recipient, which require the physical presence of the recipient or the person acting on his
+behalf, with the supplier for the supply of services.”
+
+In the present case we find that, though the location of the recipient is outside India, the services
+supplied are in respect of goods which are made physically available by the recipient of the services to the
+supplier of the services for the services to be performed. We can therefore say that the provisions of sub-
+
+ection (3)(a) of Section 13 of IGST Act, 2017 mentioned above are squarely applicable for the supply in
+
+> Since the ‘place of supply’ and the ‘service provider’ are in the same State, CGST and SGST are
+
+= paatie for this transaction.
+
+aad “Question 2: In case it is ruled that IGST is payable, the procedure to be followed for payment of
+IGST as the GST portal does not permit the payment of IGST where the place of supply is indicated
+as state of Maharashtra.
+
+The question is not answerable as IGST is not applicable.
+
+06. In view of the extensive deliberations as held hereinabove, we pass an order as follows:
+
+ORDER
+(Under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods and
+Services Tax Act, 2017)
+
+
+NO.GST-ARA- 117/2018-19/B- AS Mumbai, dt. 5 ¢/ 9 /) /20/9
+
+For reasons as discussed in the body of the order, the questions are answered thus —
+
+Question: - 1. Determining whether the various services provided to foreign clients i.e. situated outside
+India and for which the place of supply is in the taxable territory shall be liable to
+Integrated Tax (herein referred to as "IGST") or Central Goods and Service Tax (herein
+referred to as "CGST") and State Goods and Service Tax (herein referred to as "SGST")
+for the purpose of levy of Goods and Services Tax (GST) under the GST Law.
+
+Answer: - _As per above discussion, the services are liable to CGST and SGST as the location of
+‘supplier of service’ and the ‘place of supply’ is in the same State, in terms of Section
+13(3)(a) of IGST Act, 2017.
+
+Question: - 2. In case it is ruled that IGST is payable, the procedure to be followed for payment of IGST
+as the GST portal does not permit the payment of IGST where the place of supply is
+indicated as state of Maharashtra.
+
+Answer: - Not answered since IGST is not applicable.
+
+Ss d — —s. ¢ ~~
+B. TIMOTHY B. V. BORHADE
+(MEMBER) (MEMBER)
+CERTIFIED TRUE Copy
+1. The applicant
+2. The concerned Central / State officer oy
+3. The Commissioner of State Tax, Maharashtra State, Mumbai
+4. The Chief Commissioner of Central Tax. Churchgate Mumbai MEMBER
+5. Joint commissioner of State Tax , Mahavikas for Website. ADVANCE RULING AUTHORITY
+
+MAHARASHTRA STATE, MUMBA!
+Note :- An Appeal against this advance ruling order shall be made before The Maharashtra
+Appellate Authority for Advance Ruling for Goods and Services Tax, 15 floor, Air India
+building, Nariman Point, Mumbai - 400021.
+
+10

@@ -1,0 +1,498 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+GST Bhavan, Room No.107, ist floor, B-Wing, Old Building, Mazgaon, Mumbai — 400010.
+(Constituted under Section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri. Rajiv Magoo, Additional Commissioner of Central Tax, (Member)
+(2) Shri. T. R. Ramnani, Joint Commissioner of State Tax, (Member)
+
+ARN No. AD271220012682L
+
+GSTIN Number, if any/ User-id 27AANCM2659M1ZR
+
+Legal Name of Applicant M/s. MH Ecolife E-Mobility Pvt. Ltd.
+
+Registered Address/Address | Sector 20, c/o NMMT City Bus Depot, Besides Turbhe
+
+provided while obtaining user id Railway Station, Turbhe, Navi Mumbai, Maharashtra,
+400705
+
+Details of application GST-ARA, Application No. 60 Dated 23.12.2020
+
+Concerned officer Commissionerate- Belapur, Division-lil, RANGE-III.
+
+Nature of activity(s) (proposed/present) in respect of which advance ruling sought
+
+A | Category Service Provision
+
+B | Description (in brief) The applicant has entered into an Operator Agreement with
+NMMT wherein they shall supply, operate and maintain the
+electrically operated AC buses which shall be plied on the
+routes identified by NUMT.
+
+Issue/s on which advance ruling | > admissibility of input tax credit of tax paid or deemed to
+
+required have been paid
+> determination of the liability to pay tax on any goods or
+services or both
+> Classification of services
+
+Question(s) on which advance | As reproduced in para 01 of the Proceedings below
+
+ruling is required
+
+__NO.GST-ARA- 60/2020-21/B- \ (1% Mumbai, dt. 2.2 .12+7.O7L)
+? S.
+\ PROCEEDINGS
+: (Under.Section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods
+we e and Services Tax Act, 2017)
+
+The present application has been filed under section 97 of the Central Goods and Services Tax
+Act, 2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as “the CGST
+Act and MGST Act” respectively] by M/s. MH Ecolife E-Mobility Pvt. Ltd. ,the applicant, seeking an
+
+advance ruling in respect of the following questions:
+
+Page 1 of 10
+
+S
+
+
+rE: Whether services provided by the applicant to NMMT under the Agreement, by way of
+supplying, operating and maintaining air-conditioned electrically operated buses are taxable
+and subject to GST?
+
+2. If the answer to (i) above is yes, what will be appropriate SAC (Services Accounting Code) for
+classifying the services provided by the applicant and applicable GST rate thereon?
+
+=F Whether Applicant shall be eligible to avail the input tax credit of tax paid on the procurement
+
+of input supplies used in supplying services to NMMT under the Agreement?
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and the
+MGST Act are the same except for certain provisions. Therefore, unless a mention is specifically made to
+any dissimilar provisions, a reference to the CGST Act would also mean a reference to the same provision
+under the MGST Act. Further to the earlier, henceforth for the purposes of this Advance Ruling, the
+
+expression ‘GST Act’ would mean CGST Act and MGST Act.
+
+2. FACTS AND CONTENTION — AS PER THE APPLICANT
+
+2.1 MH Ecolife E-Mobility Pvt. Ltd., the Applicant with principle place of business at Sector 20, c/o
+NMMT City Bus Depot, Turbhe, Navi Mumbai, Maharashtra, 400705, is registered under GST.
+
+22 Applicant and Navi Mumbai Transport Undertaking ("NMMT") have entered into an Operator
+Agreement dated 25.02.2020 vide which, Applicant shall be responsible to procure and supply air-
+conditioned electric buses to NVMT on gross contract basis to be plied on the routes identified by
+NMMT. During the term of the Agreement, ownership of the buses to be vested with the
+Applicant.
+
+ae, ee “‘In-terms of the Agreement, the Applicant, as an Operator, will be responsible for operating and
+
+Vi we maintaining the buses by employing drivers and other staff necessary for the operation and
+
+‘ maintenance of buses. Further, Applicant shall incur all expenses for operating the buses including
+
+" \ ‘. expenses On repairs, maintenance, procurement of spare parts, charging of batteries etc. NUMT
+or a third party appointed by NMMT, shall collect appropriate fare from the passengers.
+
+2A ‘ TI he ‘Scope of work required to be undertaken by the Company as an Operator under the
+
+eS “Agreement is set out at Article 2 thereof. The obligations and entitlement of the Applicant under
+
+the Agreement is set out in Article 3.1.2. For rendering services under the Agreement, the
+
+remuneration received by the Company is based on the total distance travelled by each bus.
+
+STATEMENT CONTAINING APPLICANT'S INTERPRETATION OF LAW AND/OR FACTS
+
+The services provided by the Applicant constitute supply and are subject to GST
+
+Page 2 of 10
+
+%
+
+
+2.5 The services provided by the Applicant constitute supply defined under Section 7 of the Central
+Goods and Services Tax Act (“CGST Act") and are taxable under GST.
+
+2.6 Based on the above, it is explicit that the Applicant is essentially transferring the goods owned by
+it (along with requisite personnel) to NMMT for use in return for a consideration, which qualifies
+as a supply of service under entry 5(f) of Schedule II of CGST Act. As the services supplied by the
+Operator are essentially services of rental of buses along with operation and maintenance of the
+same, they are akin to those described under Entry. No. 10(i) of Notification No 11/2017-C.T.(R)
+dtd 28.06.2017 (“Rate Notification”), falling under SAC Code 9966, which pertains to "Renting of
+any motor vehicle designed to carry passengers where the cost of fuel is included in the
+consideration charged from the service recipient.”.
+
+2.7 Alternatively, if the Authority decides that the services provided by the Applicant are not covered
+by Entry no. 10(i) supra, they shall be covered by the residual entry i.e. Entry no. 10(iii) of the Rate
+Notification, which pertains to “Rental services of transport vehicles with operators, other than (i)
+and (ii) above" and taxable at the rate of 18%.
+
+2.8 Reliance in this regard is placed on the decision of the Advance Ruling Authority, Maharashtra in
+In Re: SST Sustainable Transport Solutions India Pvt. Ltd. [2019 (20) G.S.T.L. 317 (A.A.R. - GST)]
+wherein in a similar situation to the present facts, the Authority held that the applicant was
+rendering services to Nagpur Municipal Corporation, by way of giving out on rent/hire, buses
+which were further used by NMC for transportation of passengers. Such renting of buses by the
+
+applicant squarely fell under Sr. No. 10, Heading No. 9966, sub clause (ii) as rental Service of
+oe transport vehicles, in this case with operators and therefore attracted CGST and SGST @ 9% each
+on remuneration received for such services rendered by the applicant."
+
+2.9 As per EntHy ho. 3 of the Exemption Notification, “Pure services (excluding works contract service
+or other, coniposite supplies involving supply of any goods) provided to the Central Government,
+
+: State Government or Union territory or local authority or a Governmental authority or a
+
+Government Entity by way of any activity in relation to any function entrusted to a Panchayat
+
+under article 243G of the Constitution or in relation to any function entrusted to a Municipality
+under article 243W of the Constitution is exempted."
+
+2.10 NMMTis a Special Purpose Vehicle Company incorporated under the provisions of Companies Act,
+1956 whose shares are held by the Navi Mumbai Municipal Corporation ("NMMC") and further, it
+has been entrusted with the responsibility to provide City bus service in Navi Mumbai by the State
+
+Government of Maharashtra. Thus, NUMT qualifies as Government Entity. While NAMT qualifies
+
+Page 3 of 10
+
+ce
+
+
+2.11
+
+2:13
+
+: charged by the Applicant under the contract is inclusive of all the charges including the cost of
+
+as government entity, the activity of providing passenger transportation services does not fall
+under any of the functions entrusted to Municipality under Article 243W of the Constitution. Thus,
+the services provided by Applicant are not covered by Entry no. 3 of above Exemption Notification
+as the services provided to NMMT are not in relation to any of the functions listed in Twelfth
+Schedule of the Constitution. Hence, services provided by Company would not qualify for
+exemption supra.
+
+The services provided by the Applicant shall be covered under Entry 10(i) of the Rate Notification
+which reads as follows: “Renting of any motor vehicle designed to carry passengers where the
+cost of fuel is included in the consideration charged from the service recipient”. Under Entry 10(i)
+of the Rate Notification, the tax is payable at the rate of 12%. However, the supplier has an option
+to pay tax at the rate of 5% provided it does not avail the input tax credit of tax paid on input
+supplies used for providing the services. If the supplier does not exercise the option of 5%, it shall
+be liable to pay tax at the rate of 12% with eligibility to avail the input tax credit. The condition for
+service to fall under Entry 10(i) is that the cost of fuel is included in the consideration charged
+from the service recipient. In the present case, the buses to be given on hire to NVMT shall run on
+electricity with help of Lithium lon batteries fitted in the buses. As these buses do not run on petrol
+
+/ diesel, electricity acts as a fuel in the case of Electrically Operated buses. The consideration
+
+lithium jon batteries, and thus it can be said that the cost of fuel is included in the consideration
+
+charged by the Applicant. Therefore, the services supplied by Applicant are eligible to GST at the
+rate of 12% (with the availment of input tax credit on input supplies) or 5% (without availment of
+credit).
+However, if the authority decides that the services are not covered under Entry 10(i) of the
+Rate Notification, tax shall be payable at the rate of 18% under residuary Entry 10(iii) which reads
+as follows: "Rental services of transport vehicles with operators, other than (i) and (ii) above"
+Hence, the services to be provided by the Operator shall be classified under SAC Code 9966: “Rental
+services of transport vehicles with operators” eligible to GST at the following rates:
+(i) 12%, if the authority decides that services are covered by Entry 10(i) of the Rate Notification;
+or
+
+(ii) 18%, if the authority decides that services are not covered by Entry 10/(iii) of the
+
+Rate Notification.
+
+Page 4 of 10
+
+3
+
+
+Availability of input tax credit to the Applicant
+2.14 Under Entry 10(i), as the services provided by the Applicant are taxable, the Applicant shall be
+
+eligible to avail the input tax credit of tax paid on the procurement of input supplies used for
+supplying services to NMMT, if the Applicant opts to pay tax at the rate of 12% under Entry 10(i).
+Further, even if the tax is payable under Entry 10(iii) at the rate of 18%, the Applicant shall be
+eligible to avail the input tax credit as there is no condition under the said Entry which restricts
+the eligibility to avail the input tax credit.
+
+APPLICANT’S SUBMISSION DATED 08.11.2021:-
+
+SERVICE PROVIDED BY THE APPLICANT IS IN THE NATURE OF RENTING OF MOTOR VEHICLE AND IS
+TAXABLE AT THE RATE OF 12% (WITH AVAILMENT OF CREDIT)
+2.15 The service provided by the Applicant is covered under "Serial No. 10(i) — renting of any motor
+
+vehicle designed to carry passengers where the cost of fuel is included in the consideration
+charged from the service recipient" under Rate Notification as amended and is thus taxable at
+the rate prescribed against the said Entry.
+
+2.16 The issue may also arise that the service provided by Applicant is covered under "Sr. No. 22
+: services by way of giving on hire to a state transport undertaking, a motor vehicle meant to
+carry more than twelve passengers" of Notification no. 12/2017 - CTR dated 2806.2017 and is
+thereby exempt from GST.
+
+2.17. The impugned agreement reveals that, there is transfer of right given to NMMT to use the buses.
+
+ot “Effective possession (as distinguished from physical possession) and effective control is with
+nimts The buses are used by NMMT as “stage carriage" and are plying as per directions and
+
+\
+control of NMMT. The Applicant is not free to use the said buses for any purpose other than
+
+i! complete dedication to NMMT. Applicant has no right and/or authority in deciding routes,
+
+\ schedules and the frequency of the buses and to decide the fares. Even though the drivers are
+
+aN -appointed-by the Applicant, it is NMMT which decides the routes for them. The said activity,
+
+shall ai to ‘renting of motor vehicle’ and qualify as a taxable activity @12% (with credit)
+under Notification No. 11/2017 CT(R) dated 28.06.2017 for the reasons explained above.
+
+2.18 Reliance is further placed on the following judicial precedents to establish as to what
+constitutes ‘renting’ i.e., 'transfer of right to use and how the instant case is of ‘renting of motor
+vehicle’:
+
+(a) Hon'ble Supreme Court Judgement in case of State of AP V/s Rashtriya Ispat Nigam
+Limited (89 AIR 1305 SC)
+
+Page 5 of 10
+
+oe
+
+
+(b) Hon'ble Andhra Pradesh High Court judgment in case of G. S. Lamba and Sons V/s State
+of Andhra Pradesh [2011 (1) TMI 1196]:
+
+(c) Hon'ble Orissa High Court judgment in case of Krushna Chandra Behera V/s State of
+Orissa (1991 83 STC 325):
+
+(d) Hon'ble Uttarakhand High Court judgment in case of CCE V/s Sachin Malhotra [2014 (10)
+TMI 816):
+
+2.19 Based on the aforesaid submissions and judicial precedents, it may be concluded that transaction
+between the Applicant and NMMT is in the nature of "renting of motor vehicle" and "not of
+hiring". As a consequence, the same shall not be exempt in terms of Serial No. 22 mentioned
+above. As the transaction undertaken by the Applicant is in the nature of ‘renting of motor
+vehicle’, the same shall be taxable in terms of Sr. No. 10(i) of Notification No. 11/2017 - CTR
+dated 28.06.2017. The Applicant shall have an option to pay GST at the rate of 12% (with input
+tax credit).
+
+03. CONTENTION — AS PER THE CONCERNED OFFICER:
+
+The jurisdictional/concerned officer has not made any submissions in the matter.
+
+04. HEARING
+4.1 Preliminary e-hearing in the matter was held on 09.11.2021 The Authorized representative of the
+applicant, Shri. Pranav Pagariya, learned CA, Shri. Nishant Shah, learned advocate and Shri.
+~“\iayur Pawaskar, Manager were present. The Jurisdictional officer was absent. The Authorized
+Representatives made oral submission with respect to admission of their application. The
+Application was admitted on said date with certain directions to Applicant to produce details as
+to who provides the parking and the details as to who pays/bears electricity charges. Applicant
+
+\ was also directed to produce details i.e. agreement copies.
+oor ia matet was fixed for final hearing on 07.12.2021. The Authorized representative of the
+==<gpphicant, Shri Milan Soni, learned Advocate, Shri Sachin Jain, learned Advocate, Shri. Nishant
+Shah, learned advocate and Shri. Mayur Pawaskar, Manager were present. These Authorized
+Representatives, appeared made oral submission and reiterated contentions made in written
+submissions. The Jurisdictional Officer was absent. The jurisdictional officer was directed to file
+
+written submissions (within a weeks’ time). But no written submissions are filed by the
+
+jurisdiction officer.
+
+Page 6 of 10
+
+Q
+
+
+05. OBSERVATIONS AND FINDINGS:
+
+54 We have gone through the facts of the case, documents on record and submissions, both oral
+and written, made by the applicant.
+
+5.2 It is noticed that a very similar issue which was involved in the case of M/s. M P Enterprises &
+Associates Limited, Advance Ruling No. GST-ARA 37/2020-21/B-16, dated 14 June 2021, was
+decided by this Authority. The only difference is that in the subject case, the fuel supplied by the
+applicant is in the form of electricity, instead of diesel which was used as fuel in the above
+referred case.
+
+53 In the M/s. M P Enterprises & Associates Limited case mentioned above, it was observed that :
+(i) the applicant had an agreement with BEST for operation and maintenance of AC mini buses in
+
+Mumbai and suburban areas, the applicants owned the buses, provided drivers and also
+incurred expenses on fuel and maintenance of the buses. For all these services provided by the
+applicant, BEST was paying them service charges on kilometer basis. Further, it was BEST
+which was controlling the deployment of the fleets, the schedules and routes and also the
+applicant’s drivers for operating these buses. The applicant could not run the buses on their
+own because the overall control of the buses was with BEST. Even the buses were required to
+
+be as per the specifications approved by BEST.
+(ii) In the said case, there was transfer of right to use the buses given by the applicant to BEST by
+_~«» way of effective possession as well as effective control as was seen from the fact that : the
+blise were plying as per directions and control of BEST ; applicant was not free to use the said
+buses. sof any purpose other than complete dedication to BEST ; the buses were parked only in
+the depots. owned by BEST ; applicant had no right and/or authority in deciding the routes,
+schedules and the frequency of the buses and to decide the fares. All the buses were painted in
+
+red colour and were embodied with “BEST” logo on all sides. The drivers were also under the
+
+YTRp = oC
+: a . administrative control of BEST, who decided the routes for them.
+
+(iii) the consideration for supply of service was charged from BEST and not the passenger.
+Therefore, the recipient of service was BEST. Hence, the said activity, amounted to ‘renting of
+motor vehicle’ and qualified as a taxable activity under the provisions of the GST Laws and the
+case was clearly covered by Entry Sr. No. 10 of Notification No. 11/2017 — CT (Rate) dated
+28.06.2017 in as much as there was a Rental services of transport vehicles with or without
+operators.
+
+5.4 In the subject case, the applicant has entered into Operator Agreement dated 25 February 2020
+
+_Page 7 of 10
+
+“e-
+
+
+with the Navi Mumbai Transport Undertaking ("NMMT") as per which the following are also
+included : Applicant shall procure and supply air-conditioned electric buses to NMMT on gross
+contract basis to be plied on routes identified by NMMT; the ownership of the buses shall remain
+vested with the Applicant ; Applicant will be responsible for operating and maintaining the buses
+by employing drivers and other staff necessary for the Operation and maintenance of buses ;
+Applicant shall be responsible for incurring all the expenses for Operating the buses including
+expenses on repairs and maintenance, procurement of spare parts, charging of batteries etc. ;
+Applicant shall be paid an amount on the basis of kilometers logged by the Buses ; in the subject
+case, the fuel used to run the buses is electricity with help of Lithium lon batteries fitted in the
+buses.
+
+5.4 The consideration charged by the Applicant under the contract is inclusive of all the charges
+including the cost of lithium ion batteries, and thus it can be said that the cost of fuel is included
+in the consideration charged.
+
+55 From a perusal of the subject agreement we find that, the facts in the case of M/s M.P.
+Enterprises & Associates Limited and the present case are identical in nature and terms of
+underlying contracts are also similar. The only difference is, in that case the fuel was diesel and in
+the present case it is the electricity. The applicant during the course of oral arguments informed
+
+that it bears the cost of electricity required for charging of buses. Further the parking charges in
+
+respect of the buses are also borne by them. Since the facts of M/s MP Enterprises & Associates
+— ~Limited.and the facts of the present case are same, there is no reason for us to deviate from the
+decision.taken in the said case of M/s MP Enterprises & Associates Limited.
+
+5.6 In the ‘case: of transportation of passengers, the recipient of service would be the passenger
+
+whereas in the case of renting of any motor vehicle, the recipient would not be the Passenger. In
+N te, thesubject case, the consideration for supply of service is charged from NMMT and not the
+= STF passeriger. Therefore in the subject case it is clear that the recipient of service is NMMT. Hence,
+we have no hesitation in holding that the subject activity, amounts to ‘renting of motor vehicle’
+and shall qualify as a taxable activity under the provisions of the GST Laws. Since the subject
+activity is taxable, the provisions of Notification No. 12/2017-CT (R) dated 28.06.2017 is not
+applicable in the subject case. The subject case is clearly covered by Entry Sr. No. 10 of
+Notification No. 11/2017 — CT (Rate) dated 28.06.2017 as amended in as much as there is a
+Rental services of transport vehicles with or without operators and the activities of Renting of
+
+any motor vehicle/transport vehicle which is designed to carry passengers where the cost of fuel
+
+Page 8 of 10
+
+(
+
+be
+
+
+is included in the consideration charged from the service recipient are chargeable to either 2.5%
+GST or 12% GST depending on availment of Input Tax Credit. Therefore in the subject case since
+there is a Renting of motor vehicle/transport vehicle which is designed to Carry passengers where
+the cost of fuel is included in the consideration charged from the service recipient i.e. NMMT, the
+applicant will have to pay GST @ 5%, if credit of input tax charged on goods and services used in
+supplying the service, other than the input tax credit of input service in the same line of business
+(i.e. service procured from another service provider of transporting Passengers in a motor vehicle
+or renting of a motor vehicle) has not been taken. If credit of input tax charged on goods and
+services used in supplying the service, is taken then the rate of output tax would be 12%.
+
+53 Thus, the service of operating AC buses by the applicant for NMMT would be subject to GST
+@12% under Tariff Heading 9966 i.e. ‘renting of any motor vehicle designed to carry passengers
+where the cost of fuel is included in the consideration charged from the service recipient’
+inserted by way of Notification No.31/2017 dated 13.10.2017 (Amended Notification No.11/
+2017-CT(R) dated 28.06.2017) wherein the applicant is eligible to claim set off, as discussed
+
+above, on its outward supplies, as provided in the above notification.
+
+06. In view of the extensive deliberations as held hereinabove, we pass an order as follows:
+ORDER
+ae “(Under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods
+sae and Services Tax Act, 2017)
+
+For reasons as discussed in the body of the order, the questions are answered thus —
+
+Question1: Whether services provided by the applicant to NMMT under the Agreement, by way of
+
+EX aes j supplying, operating and maintaining air-conditioned electrically operated buses are
+
+~Aaxable and subject to GST?
+
+~
+
+Answer: Answered in the affirmative, as discussed above.
+
+Question 2: If the answer to (i) above is yes, what will be appropriate SAC (Services Accounting
+Code) for classifying the services provided by the applicant and applicable GST rate
+thereon?
+
+Answer: As discussed above, the appropriate SAC (Services Accounting Code) for classifying the
+services provided by the applicant is Tariff Heading 9966. The rate of GST is 12% (with
+
+availment of ITC) or 5% (without availment of ITC), as discussed above.
+
+Page 9 of 10
+
++
+
+
+Question 3: Whether Applicant shall be eligible to avail the input tax credit of tax paid on the
+procurement of input supplies used in supplying services to NMMT under the
+Agreement?
+
+Answer: The Applicant shall be eligible to avail the input tax credit of tax paid on the
+procurement of input supplies used in supplying services to NMMT under the
+
+Agreement only if they pay tax @ of 12% on output service, as discussed above.
+
+oF = Yc yr as
+AMINANI
+
+Ses : r IV MAGOO T.R.R
+Nm te (MEMBER) (MEMBER)
+
+—
+
+‘
+
+i
+tH ~
+
+\\ *
+
+DATE QUiL2\ }
+
+Copy to:-
+
+1. The applicant
+
+2. The concerned Central / State officer
+
+3. The Commissioner of State Tax, Maharashtra State, Mumbai
+4. The Chief Commissioner of Central Tax, Churchgate, Mumbai
+5. The Joint Commissioner of State Tax, Mahavikas for Website.
+
+Note:-An Appeal against this advance ruling order shall be made before, The Maharashtra Appellate
+Authority for Advance Ruling for Goods and Services Tax, 15" floor, Air India Building, Nariman Point,
+Mumbai — 400021. Online facility is available on gst.gov.in for online appeal application against order
+passed by Advance Ruling Authority.
+
+Page 10 of 10
+
+%

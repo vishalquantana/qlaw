@@ -1,0 +1,713 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+GST Bhavan, Room No.107, ist floor, B-Wing, Old Building, Mazgaon, Mumbai — 400010.
+(Constituted under Section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri. Rajiv Magoo, Additional Commissioner of Central Tax, (Member)
+(2) Shri. T. R. Ramnani, Joint Commissioner of State Tax, (Member)
+
+ARN No. AD2701220217500
+GSTIN Number, if any/ User-id 27AAJCB4681Q1ZW
+Legal Name of Applicant M/s. BARANJ COAL MINES PRIVATE LIMITED
+
+Registered Address/Address | 1st Floor, Plot No. 7, Gawande Lay Out, Khamla Ring Road,
+provided while obtaining user id | Nagpur- 440015, Maharashtra
+
+Details of application GST-ARA, Application No. 57 Dated 17.01.2022
+
+Concerned officer NAG-VAT-C-038, NAGPUR
+
+Nature of activity(s) (proposed/present) in respect of which advance ruling sought
+
+A_| Category Service Provision
+
+B_ | Description (in brief) The Applicant is a Mine Developer and Operator (“MDO”)
+
+and is presently engaged in the developing and operating a
+Coal mine at Kiloni, District Chandrapur, Maharashtra. This
+mine has been allotted to Karnataka Power Corporation
+Limited (“KPCL") for mining of coal and to be used only for
+captive purpose in generation of power.
+Issue/s on which advance ruling | > Classification of goods and /or services or both
+required > Determination of time and value of supply of goods or
+services or both
+> Determination of the liability to pay tax on any goods or
+services or both
+> Whether any particular thing done by the applicant
+with respect any goods and/or services or both
+amounts to or results in a supply of goods and/or
+services or both, within the meaning of that term
+Question(s) on which advance | As reproduced in para 01 of the Proceedings below.
+ruling is required
+
+NO.GST-ARA- 57/2021-22/B- SOQ} Mumbai, dt. O4.0¢.2022_
+
+PROCEEDINGS
+tion 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods and
+Services Tax Act, 2017)
+
+at
+ct and MGST Act” respectively] by M/s. BARANJ COAL MINES PRIVATE LIMITED, the applicant, seeking
+
+an advance ruling in respect of the following questions:
+
+“ws
+
+- a
+.. Page 1 of 15
+
+
+Question 1 - Whether the activity carried out by the Applicant under the Agreement is supply of Goods
+or is a supply of Service and should accordingly be subject to GST under HSN 2701 (chargeable @ 5% as
+supply of coal) or under HSN 9986 (chargeable @ 18% as Support Services to Mining)?
+
+Question 2: Since, in terms of Article 24.3 of the Agreement, the right and ownership on the Coal mined
+by the Applicant always vests in and remains with KPCL and the Applicant is only responsible for
+excavation, transport and delivery, and as such cannot transfer ownership to the coal, whether the
+applicant should raise an invoice under MGST/CGST or under IGST in as much as the Applicant is of the
+view that the entire activity takes place in the State of Maharashtra only.
+
+Question 3: Can the present contract be treated as a single consolidated contract or a divisible contract
+in view of the fact that four components of the contract (viz. Excavation of Coal, Transport Service,
+Handling Charges (incl. Additional Handling Charges) and Restoration and Rehabilitation charge] are
+clearly distinguishable and separately identifiable and therefore the tax treatment under GST shall also
+be different and separate?
+
+If the contract is treated as divisible, should:
+
+(a) In so far as Excavation of coal is concerned, whether the Applicant should raise a separate
+invoice on KPCL Karnataka for mining support services under HSN 9986 or under any other
+head and charge GST under MGST and CGST each or charge IGST keeping in mind that entire
+excavation activity takes place in Maharashtra.
+
+“Ssb) In so far as Transport Service is concerned, whether the Applicant should raise a separate
+invoice as Goods Transport Services under HSN 9965 or HSN 9967 or under any other head
+hin the State of Maharashtra on KPCL Karnataka and charge GST under MGST and CGST
+h or charge IGST keeping in mind that this charge relates to transport of mined coal from
+
+pplicant should raise a separate invoice as Business Support Service under HSN 9985 or
+under any other head within the State of Maharashtra on KPCL Karnataka and charge GST
+MGST and CGST each or charge IGST keeping in mind that this charge relates to services
+towards transport of coal from the loading point in Maharashtra) to the delivery point (in
+Karnataka) whereby rail freight for this segment is paid directly by KPCL to railway and the
+Applicant provides necessary support and monitoring services to facilitate transport of coal.
+(d) In so far as Restoration and Rehabilitation charge is concerned, whether the Applicant should
+raise a separate invoice as Business Support Service under HSN 9985 or under any other head
+within the State of Maharashtra on KPCL Karnataka and charge GST MGST and CGST each or
+charge IGST keeping in mind that this charge relates to work done towards rehabilitating
+people affected because of the mining operations and restoring the environmental impact
+caused due to mining which gets carried out entirely in the State of Maharashtra.
+
+Question 4: There are certain other components like Royalty, MMDR, DMF Fund, Cess, Stowing Excise
+Duty, Reserve Price, etc. which are levied on the coal excavated from the Mine which is payable directly
+by KPCL to the Government of India and the State Government of Maharashtra. The Applicant neither
+
+vw
+Y Page 2 of 15
+
+
+has any liability to pay nor does it makes any payment of such amount. Under the circumstances, is the
+Applicant required to consider such amounts/payments for the purpose of determining the transaction
+price in any of the situation as enumerated above?
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and the
+MGST Act are the same except for certain provisions. Therefore, unless a mention is specifically made to
+any dissimilar provisions, a reference to the CGST Act would also mean a reference to the same
+provision under the MGST Act. Further to the earlier, henceforth for the purposes of this Advance
+
+Ruling, the expression ‘GST Act’ would mean CGST Act and MGST Act.
+
+2. FACTS AND CONTENTION — AS PER THE APPLICANT FACTS:
+
+2:1 The Applicant, M/s. Baranj Coal Mines Pvt. Ltd., a company with its registered office in State of
+West Bengal is a Mine Developer and Operator (“MDO”) and is presently engaged in the
+developing and operating a Coal mine at Kiloni, District Chandrapur, Maharashtra (“the Mine").
+This mine has been allotted to Karnataka Power Corporation Limited (“KPCL") by the Govt. Of
+India, for mining of coal and to be used only for captive purpose in generation of power BY KPCL.
+
+22 Vide an Agreement dated 19.03.2021, the Applicant has been tasked by KPCL with developing
+
+and operating the Mine & excavating coal! & delivering it to KPCL for generation of power. The
+
+Agreement lays down detailed guidelines & terms & conditions which governs the rights of KPCL
+
+Bathe Applicant and also lays down various parameters of performance of the Applicant. It is this
+
+ity of the Applicant and the Agreement which is the basis for the subject issues.
+
+as been allotted Baranj I-IV, Manoradeep and Kiloni Coal Blocks (hereinafter referred to as
+
+') situated in Chandrapur district of Maharashtra. Applicant has been appointed as the
+
+tion & Maintenance contractor to undertake development & Operation of above-
+
+tioned coal mines for 25 years & is required to excavate coal & deliver it to KPCL's Karnataka
+
+Se STATE: wer plant.
+
+ee, The scope of the project includes : Development of Mines on the Sites, Operation & maintenance
+of Mines ; Excavation, Washing (if required) & Delivery of Coal ; & Performance & fulfilment of
+all other obligations of the Mine Operator in accordance with provisions of impugned Agreement
+and matters incidental thereto, for which KPCL has appointed the applicant, as the mine
+operator. For the purposes of the Mines Act, 1952, KPCL shall be the Owner of the Mines.
+
+2.4.2 KPCL is also responsible for undertaking all Rehabilitation & Resettlement (R&R) Obligations,
+including procuring approval of the plan for rehabilitation & resettlement of PAPs (Project
+Affected Persons) & applicant has to undertake all such activities in relation to R&R Obligations
+on behalf of KPCL including employing of PAPs in accordance with the R&R agreement dt
+15.12.2016 between the prior allottee & the Govt of Maharashtra, as per R&R Policy & other
+Applicable Laws.
+
+2.4.3 The applicant shall ensure transportation of the Coal to the Delivery Points and undertake all
+necessary precautions in relation to ensuring the safety and quality of the Coal in transit.
+
+ase
+L Page 3 of 15
+
+
+2.4.4 As per the Agreement, KPCL shall pay, all Taxes and levies, duties, Royalties including demands, if
+any, cesses and all other statutory charges payable in respect of excavation and delivery thereof
+directly to the Government since the entire Coal, is the property of KPCL and the right, title and
+interest in the Coal vests in KPCL.
+
+2.4.5 All costs and expenses in relation to the transportation of the excavated Coal is done by KPCL
+and applicant is to be paid excavation charge per Ton of Coal Delivered by the applicant to KPCL.
+The price of Coal, in respect of excavation of Coal, Washing of Coal and Delivery thereof, payable
+by KPCL is exclusive of all Taxes and all applicable Taxes (except GST) to be paid by KPCL directly
+to the Government. GST paid by the applicant is to be reimbursed by KPCL upon submission of
+supporting documents evidencing payment by the applicant.
+
+25 Post signing of the Agreement, applicant started developing the mine & the first coal was mined
+& delivered to KPCL in March 2021 & Applicant raised its first invoice on 21.04.2021 for the
+period 20.03.2021 to 31.03.2021 for Rs. 77,76,106.71 towards mining of 3944 MT of Coal
+including IGST of Rs. 2,95,166.99 @ 5% under HSN 27011200 as Supply of Coal, since KPCL
+informed the Applicant vide its email dated 03.03.2021 that the instant delivery of coal was sale
+and supply of Coal and the Applicant should raise its invoice as sale of coal under HSN 2701
+charging IGST @ 5%.
+
+2.6 The Applicant conveyed to KPCL that, the instant delivery of mined coal to KPCL is not supply-sale
+
+of coal but is provision of mining support services. However, KPCL has stated that the impugned
+
+ply by the Applicant to KPCL is sale of coal and sii be subject to GST under HSN 2701.
+
+‘ tted the Mine to o KPCL for mining coal only for its captive use in the Thermal Power Plant.
+= y mined & supplied to KPCL in excess of its requirement shall be sold by KPCL to Coal India
+
+to KPCL in excavating and delivering coal from mines to KCPL's site.
+
+2.9 Applicant relies on the observation made by the Rajasthan Authority for Advance Ruling vide
+Ruling No. RAJ/AAR/2020-21/03 dated 14.05.2020, in the case of M/s KSC Buildcon Private
+Limited.
+
+2.10 The very intention of the parties to the impugned Agreement was to treat the contract as a
+service contract & not a sales contract. Hence, Applicant feels that the instant contract may be
+considered as a contract of service under HSN 9986 - being mining support service chargeable to
+GST @ 18%.
+
+2.11 The impugned Agreement is a divisible contract whereby separate considerations are mentioned
+for different responsibilities of the applicant which are clearly identifiable & distinguishable i.e.
+Excavation of coal from the mines; Transport of coal from site (in Maharashtra) to loading point
+(in Maharashtra); Handling Charges in relation to transport of coal from loading point to delivery
+point; Restoration and Rehabilitation charge (entire work done is in Maharashtra).
+
+2.12 Applicant submits that the agreement is such that each of the above element has been
+negotiated separately, separate consideration is mentioned for the same and separate
+
+Ae
+Pees 4o0f 15
+
+
+responsibilities are also earmarked for it. It is a settled principle of law that if there are different
+components of a single agreement which are independent of each other and have been
+negotiated separately, the same should be dealt with separately under the relevant fiscal
+statute.
+
+2.13 The Applicant therefore submits that the instant Agreement be considered as a divisible
+agreement and all the four components of consideration as laid down in the Agreement may be
+treated separately under the GST Statute.
+
+Additional submission dated 28.03.2022-
+The Applicant has reiterated its submissions made earlier and have further submitted as under:-
+
+2.14 Pursuant to Hon’ble Supreme Court’s order 24.09.2014, allocation of all coal blocks in the
+
+country were cancelled. Applicant’s Holding Company was working under Joint Venture
+
+Arrangement for Eight (8) coal blocks which also stood cancelled. Entire investment made by the
+
+Applicant in various coal blocks went down the drain. From 2014 till 2021, the Applicant was
+
+bleeding and has incurred losses in thousands of crores. Appointment of the Applicant as the
+
+MDO for the instant coal block of KPCL provided some breather to the Applicant and rekindled a
+
+hope for its survival. Accordingly, when the Mining Agreement was being negotiated, KPCL
+
+informed the Applicant vide its email dated 03-03-2021 that the instant delivery of coal by the
+
+Applicant to KPCL is sale and supply of Coal and the Applicant should raise its invoice as sale of
+
+coal under HSN 2701 charging IGST @ 5%.
+
+obtain certainty on the issue, the Applicant conveyed to KPCL its stand that the instant
+
+(ery of mined coal to KPCL is not supply-sale of coal but is provision of mining support
+
+and requested to opt for an Advance Ruling on the matter.
+
+ler these circumstances that invoices were raised by the Applicant, under protest, as
+
+coal and not as mining support services. The Applicant is of the view that the activities
+
+out by it squarely falls under the Mining Support Services and should be taxable to 18%
+
+nce the impugned Contract is for supply of services (mining support services)
+
+e Applicant submits that the Hon’ble Bench to examine the relevant clauses of the impugned
+agreement, a perusal of which, reveals that the relationship between KPCL and the Applicant is
+of a service recipient and a service provider and not of a buyer-seller.
+
+APPLICANT SUBMISSION DATED 11.04.2022
+Query raised during the course of hearing held on 29-03-2022
+
+2.18 The jurisdictional officer has submitted that the invoices raised by the Applicant also reflects
+amounts towards Royalty, MMDR, DMF Fund and Reserve Price and therefore these amounts are
+includible in the transaction value in light of Section 15 of the CGST Act, 2017.
+
+2.19 In this connection, the Applicant submits as under:-
+
+2.19.1 The amounts towards Royalty, MMDR, OMF Fund & Reserve Price are shown in the invoices only
+as directed by KPCL. None of these amounts are paid to Applicant because they are not due to
+the Applicant. The said amounts are payable to the Govt of Maharashtra by KPCL and are
+accordingly paid directly by KPCL in view of Article 29.1.2 of the Mining Agreement. KPCL insisted
+to show the aforesaid amounts so that the entire transaction can be shown as supply of coal and
+not supply of services. The reason why these amounts find mention in the invoice raised by the
+Applicant has already been explained in detail in earlier submissions. The Applicant want to be
+
+La
+'¥ Page 5 of 15
+
+
+on the right side of the law in paying its taxes and would not like to be saddled with litigation in
+future due to less payment of taxes.
+
+2.19.2 Applicant submits sample challans towards payment of Royalty by KPCL to the Department of
+Geology & Mining. Charges like Royalty (ad valorem on value of coal), MMDR (ad valorem on
+Royalty), DMF Fund (ad valorem on Royalty) & Reserve Price (fixed rate of Rs. 100 per MT) is paid
+in single challan to the Department of Geology & Mining, by KPCL directly, without any
+involvement or recourse to the Applicant. The amounts towards Royalty, MMDR, DMF Fund and
+Reserve Price are neither receivable nor are received by the Applicant and therefore there is no
+question of GST liability on the Applicant on Royalty, MMDR, DMF Fund and Reserve Price.
+
+2.19.3 Since the aforesaid amounts are neither receivable nor received by the Applicant, there is no
+charge for the same in the Applicant’s books of accounts. However, since the invoices contain
+these aforesaid charges, all the Components of Govt Payments (as is collectively called) i.e.
+Royalty, MMDR, DMF Fund and Reserve Price are recorded at the first instance while recording
+the Invoice being raised upon KPCL by the applicant, but on the same day a simultaneous
+reversal entry is also taken in the books to repudiate the liability of Govt Payments since such
+liability is being discharged by KPCL and more so it is not the liability of the Applicant at all.
+
+2.19.4 As per the ledger account of KPCL as maintained in the books of the Applicant for F.Y. 2021-22
+
+neither have the said amounts been received by us nor have the said amounts shown as
+
+receivables in our books. It is reiterated that, the said amounts are not due to us and are neither
+
+context, the Applicant relies on Section 15 (1) of the CGST Act as per which, the
+tion value (value of supply) on which tax is required to be paid is the price payable or
+lly paid to the supplier of service (applicant) by the recipient of service (KPCL).
+
+instant case the amounts towards Royalty, etc. as mentioned above are payable and paid
+
+Applicant. Therefore, the said amounts cannot and should not be included in the transaction
+value for taxable purposes in view of Section 15 of the CGST Act.
+
+03 CONTENTION — AS PER THE CONCERNED OFFICER:
+
+The jurisdictional Officer made Submissions vide letter dated 28.03.2022 which are as under:-
+
+3a As per Registration record of the applicant, the service mentioned is ‘Support Services to other
+Mining’ with Service Accounting Code as 998622.
+
+3.2 Question No.1:
+
+3.2.1 The impugned Coal Mine, where excavation is carried out by the applicant is allotted to the
+Karnataka Power Corporation Limited (KPCL) by the Govt of India. As per the Mining Agreement,
+the applicant is acting as the ‘Mine Operator’ and is responsible for the excavation of coal from
+
+the Mine, transportation of the excavated coal to the Delivery Point and loading/ Delivery of the
+
+ae
+qe 6 of 15
+
+
+coal on the Railway Rakes/ Waggons for supply exclusively to the KPCL (Clause 21.3). Also
+responsible for services, ancillary or incidental thereto. (Clause 2.1 in the Mining Agreement)
+
+3.2.2 The Transportation of Coal from the Mine to the Railway Depot is a part of service to be provided
+by applicant to KPCL, while transportation of the coal from Railway depot to the KPCL is
+responsibility of the KPCL. The railway transportation charges are paid by the KPCL itself (Clause
+24.2 of the Mining Agreement).
+
+3.2.3 Therefore, it is obvious that applicant has not been allotted lease of the coal mine and therefore
+has no right over the Coal mined. Moreover, as per clause 24.3 of the impugned Agreement, the
+right, title & interest in the coal mined by applicant always vest in & remains with KPCL. Thus,
+the applicant’s impugned activity is purely in the nature of services or supportive services for
+mining. Hence the activity carried out by the applicant falls under services with Service
+Accounting Code 9986, and attracts GST at the rate of 18% (IGST 18%, CGST 9% and SGST 9%).
+
+ce | Question No 4:
+
+3.3.1. The copy of sample Invoice sought from the applicant shows that the invoice value is split into
+
+three parts viz;
+
+duties, cesses, fees & Charges levied under any law for the time being in force (Excluding SGST,
+
+UTGST and the GST (Compensation to States) Act, if charged separately by the supplier;), &
+
+hence the Royalty & other charges mentioned under subtotal (B), are part of value of supply &
+
+taxable.
+
+3.3.3. As per clause 6.1.3 of the impugned agreement, it has been agreed that KPCL, shall pay directly
+to the Govt., all taxes, levies, duties Royalties, including all statutory charges in respect of
+excavation & delivery thereof. However, Applicant being Mine Operator, undertakes actual
+excavation of coal on behalf of KPCL & possess rights for actual excavation by virtue of the
+Mining Agreement with KPCL & therefore bears liability to pay royalty & other charges.
+
+3.3.4. Moreover, Clause (b) of subsection (2) of Section 15 provides that any amount that the supplier is
+
+liable to pay in relation to such supply but which has been incurred by the recipient of the supply
+
+aoe
+
+oad 7 of 15
+
+
+whether or not included in the price shall be the part of Value of Supply. Therefore, components
+like Royalty, MMDR, DMF fund Cess, Stowing Excise duty, Reserve Price, etc. are required to be
+
+considered for determining the transaction price.
+
+04 HEARING
+
+4.1 Preliminary e-hearing was held on 08.03.2022. The applicant’s Authorized representative, Shri.
+Ayan Sinha, AGM and Shri. Dipankar Mukherjee, AGM Finance were present. Jurisdictional
+officer Shri. P. S. Wagh, STO-NAGPUR-VAT-C-038 was also present. The authorized
+representatives made submissions for admission of their application. The applicant was
+informed that Question No.2 & 3 are not covered under the scope of Advance Ruling and so, the
+same were withdrawn by the applicant.
+
+4.2 The Application was admitted and called for final e-hearing on 29.03.2022. The applicant’s
+Authorized representatives, Shri. Sandip Khemka, CA & Shri. Ayan Sinha, AGM were present. The
+Jurisdictional officer Shri. P.S. Wagh, STO, Nagpur-VAT-C-038, was also present.
+
+4.3 The matter was heard.
+
+purpose in generation of power by KPCL.
+
+53 The Applicant, M/s. Baranj Coal Mines Pvt. Ltd., is a Mine Developer and Operator (“MDO”), and
+has been contracted by KPCL to develop and operate the said Coal mine, vide an Agreement
+dated 19th March 2021. The Applicant has been tasked with developing and operating the Mine
+and excavating coal and delivering it to KPCL. The Agreement lays down detailed guidelines and
+terms & conditions which governs the rights of KPCL and the Applicant and also lays down
+various parameters of performance of the Applicant. It is this activity of the Applicant and the
+impugned Agreement which is the basis for the subject issues raised by the applicant.
+
+5.4 The scope of the project is mentioned in the submissions made by the applicant and is not
+
+reproduced for the sake of brevity. Further, KPCL is also responsible for undertaking all
+Ae
+
+ye 8 of 15
+
+
+Rehabilitation & Resettlement (R&R) Obligations, including procuring approval of the plan for
+rehabilitation & resettlement of PAPs (Project Affected Persons) and applicant has to undertake
+all such activities in relation to R&R Obligations on behalf of KPCL including employing of PAPs in
+accordance with the R&R agreement dated 15.12.2016 between the prior allottee and the
+Government of Maharashtra, as per the R&R Policy and other Applicable Laws.
+
+55 The first question raised by the applicant is whether the impugned activity carried out by the
+Applicant under the subject Agreement is supply of Goods or is a supply of Service and whether
+the said activity should accordingly be subject to GST under HSN 2701 (chargeable @ 5% as
+supply of coal) or under HSN 9986 (chargeable @ 18% as Support Services to Mining).
+
+5.5.1 The applicant has submitted the impugned agreement dated 19.03.2021. From a reading of
+clause 3.1.1 of the Agreement, we find that, the applicant has been appointed as the mine
+operator to develop and operate and maintain the Mines and to excavate Coal for Delivery
+thereof, to KPCL for a period of 25 (twenty five) years commencing from the Appointed Date.
+
+5.5.2 The scope of applicant’s work/activity finds mention in Article 2.1 of the impugned Agreement
+
+and includes : Development of Mines on the specified Sites while conforming to the
+
+worm===— Specifications and Standards and the Revised Mining Plan set forth in Schedule-D of the
+
+A siPSCE RUGS
+
+emo Breement; Operation and maintenance of Mines in accordance with the provisions of the
+
+t from excavation of the coal to the delivery of the same to M/s KPCL. The impugned
+agreement does not envisage the sale of any goods, including the coal which has been mined by
+the applicant to KPCL.
+
+5.5.3. The coal, as goods, belongs to the Mine Owner i.e. the Government of India and the
+Government of India has allotted the Mines to Karnataka Power Corporation Limited (“KPCL")
+for mining of coal, to be used only for captive purpose in generation of power by the KPCL. The
+fact that the KPCL has been given the authority as the owner of the Mines is reflected in Article
+5.7.1 of the impugned Agreement which states that, “Subject to the provisions of this
+Agreement, the Authority (i.e. KPCL) shall be the Owner of the Mines for the purposes of the
+Mines Act, 1952. Thus, the said Article of the Agreement clearly proves that the owner of the
+coal is KPCL and not the applicant. Therefore, there is no supply of coal by the applicant, purely
+
+because the applicant neither has any ownership rights on the coal nor has any rights to sell the
+
+Ae
+
+Page 9 of 15
+
+
+coal that has been excavated by it. Hence, the applicant is involved in supply of services in the
+instant case (as seen from the ‘Scope of Supply” in the Agreement) and there is no supply of coal
+by the applicant.
+
+5.5.4 Thus we hold that, the impugned activity carried out by the applicant is supply of services and
+not supply of goods. Now that we have held that the impugned supply is a ‘supply of services’
+the next issue to be decided is under which Service Accounting Code (SAC) does the impugned
+supply fall under.
+
+5.5.5 Notification No. 11/2017 — Central Tax (Rate) dated 28.06.2017 notifies the rate of tax for supply
+of services under the CGST Act, 2017. The relevant provision of the said notification is
+
+reproduced as under:
+
+Sr. | Chapter, Section | Description of Service Rate | Condition
+No. | or Heading (%)
+
+1 2 3 4 5
+
+24 | Heading 9986 EDS rexonnaaneen NIL --
+
+(ii) Support services to mining, electricity, gas | 9 --
+and water distribution
+
+id Sr No 24 (ii) of Notification No. 11/2017 — Central Tax (Rate) dated 28.06.2017 was
+ed vide Notification No. 01/2018 — Central Tax (Rate) dated 25.01.2018 and the relevant
+
+Sr. | Chapter, Description of Service Rate | Condition
+Section or (%)
+Heading
+1 2 3 4 5
+24 Heading 9986  _— NIL --
+
+(ii) Service of exploration, mining or drilling | 6 --
+of petroleum crude or natural gas or both.
+
+(iii)Support services to mining, electricity, | 9
+gas and water distribution other than (ii)
+above.
+
+5.5.7. In view of the amendment made to Sr. No. 24 (ii) and since the impugned services cannot be
+considered as Service of exploration, mining or drilling of petroleum crude or natural gas or
+both, the impugned service is not covered under Sr. No. 24 (ii) of the amended Notification No.
+
+11/2017 — Central Tax (Rate) dated 28.06.2017.
+AEE
+
+Page 10 of 15
+
+
+We also find that a new entry Sr. No 24 (iii) was introduced vide the said amendment which
+covers Support services to mining, electricity, gas and water distribution other than Sr. No 24
+(ii).
+
+In view of the amendment, we therefore find that the impugned services related to mining of
+coal, is covered under Sr. No. 24 (iii) with effect from the date of the amendment i.e.
+25.01.2018, attracting 18% GST.
+
+5.6 Question No. 2 & 3 were withdrawn by the applicant during the course of the Final Hearing held
+on 29.03.2022. Therefore we now take up Question No. 4 raised by the applicant wherein it is
+asked whether the Applicant required to consider other components like Royalty, MMDR, DMF
+Fund, Cess, Stowing Excise Duty, Reserve Price, etc. (which are levied on the coal excavated
+from the Mine and is payable/paid directly by KPCL to the Government of India and the State
+Government of Maharashtra and which the Applicant neither has any liability to pay nor does it
+makes any payment of such amount), for the purpose of determining the transaction price.
+
+5.6.1 From the submissions and documents presented before us by the applicant we observe that
+
+directly to the Governmental Instrumenitality.
+
+5.6.2 The applicant does not show any liability on account of any of the aforesaid Government
+Payments (Royalty, MMDR, DMF Fund and Reserve Price) in its books. As per Article 5.6 of the
+Agreement, the applicant shall pay all GST and cess payable in respect of supply of goods (or)
+services under the impugned Agreement directly to the Government instrumentality and which
+shall be reimbursed by KPCL to the applicant.
+
+5.6.3. Thus, from a reading of Articles 6.1.3 and 5.6 of the Agreement it is crystal clear that, GST is
+payable by KPCL to the applicant while all other taxes are payable and paid by the KPCL to the
+
+concerned Governmental Authority.
+
+Aa
+.,. Page 11 of 15
+
+
+5.6.4 In this connection, we also refer to Article 29.1.2 of the Mining Agreement which clearly
+mentions that the KPCL shall directly pay Taxes and Duties other than GST and Compensation
+Cess, to the Government Instrumentality.
+
+5.6.5 The jurisdictional officer has submitted that, the Value of supply is defined u/s 15(1), and 15(2)
+of the MGST/CGST Act 2017 and as provided under subsection 2 of Section 15, the value of
+supply includes all taxes, duties, cesses, fees and Charges levied under any law for the time
+being in force (Excluding the SGST, the UTGST and the Goods and Services Tax (Compensation to
+States) Act, if charged separately by the supplier;), and hence the Royalty and other charges
+mentioned under subtotal (B), are part of value of supply and therefore taxable.
+
+5.6.6 We therefore reproduce the provisions of Section 15 of the CGST Act, 2017 as under:-
+
+Section 15. Value of Taxable Supply.-
+(1) The value of a supply of goods or services or both shall be the transaction value, which is the
+price actually paid or payable for the said supply of goods or services or both where the supplier
+
+and the recipient of the supply are not related and the price is the sole consideration for the
+
+Ra ATS ) any amount that the supplier is liable to pay in relation to such supply but which has been
+
+———"
+
+incurred by the recipient of the supply and not included in the price actually paid or payable for
+the goods or services or both;
+(c) incidental expenses, including commission and packing, charged by the supplier to the
+recipient of a supply and any amount charged for anything done by the supplier in respect of the
+supply of goods or services or both at the time of, or before delivery of goods or supply of
+services;
+(d) Interest or late fee or penalty for delayed payment of any consideration for any supply; and
+(e) Subsidies directly linked to the price excluding subsidies provided by the Central Government
+and State Governments.
+Explanation.-For the purposes of this sub-section, the amount of subsidy shall be included in the
+value of supply of the supplier who receives the subsidy.
+
+ov
+
+<a
+page 12 of 15
+
+
+5.6.7 As per Section 15 (1) mentioned above: firstly, the value of a supply of goods or services or both
+shall be the transaction value; secondly the transaction value is the price actually paid or
+payable for the said supply of goods or services or both; thirdly the supplier and the recipient of
+the supply are not related; and fourthly the price is the sole consideration for the supply.
+
+5.6.8 In the subject case, we find that the applicant (supplier of service) and KPCL (recipient of service)
+are not related persons and price is the sole consideration for the supply.
+
+5.6.9 Further, from Article 6.1.3 and Article 29.1.2 of the Mining Agreement it is clear that the
+amounts towards Royalty, MMDR, DMF Fund and Reserve Price are payable by KPCL directly to
+Government of Maharashtra and which is being paid accordingly by KPCL. Therefore, the said
+amounts are not payable by KPCL to the applicant. From the submissions we also find that the
+said amounts are not paid by KPCL to the applicant. Thus the amounts towards Royalty,
+MMDR, DMF Fund and Reserve Price are neither payable nor paid to the applicant by KPCL.
+Hence the provisions of Section 15 (1) are not satisfied in the subject case.
+
+5.6.10 From the submissions we also find that there is no amount that the supplier i.e the applicant, is
+
+liable to pay in relation to the impugned supply which has been incurred by the recipient i.e.
+
+CL of the supply and not included in the price actually paid or payable for the services.
+
+that any amount that the supplier is liable to pay in relation to such supply but which has been
+
+incurred by the recipient of the supply whether or not included in the price shall be the part of
+Value of Supply. Therefore, components like Royalty, MMDR, DMF fund Cess, Stowing Excise
+duty, Reserve Price, etc. are required to be considered for determining the transaction price.
+5.7.2. We do not agree with the jurisdictional officer on this count. A perusal of the impugned
+agreement (relevant Articles discussed above), reveals that the components like Royalty,
+MMDR, DMF fund Cess, Reserve Price are not at all liable to be paid by the supplier of service, in
+this case, the applicant and further, the said components are liable to be paid exclusively by
+KPCL who is the recipient of the impugned supply. Thus KPCL is incurring the expenses towards
+the said components on its own behalf and not on behalf of the applicant as is seen from the
+
+relevant clauses of the impugned agreement.
+AS
+q Page 13 of 15
+
+
+5.8 In view of the above we hold that the amounts towards Royalty, MMDR, DMF Fund and Reserve
+Price, payable and paid by KPCL directly to the concerned Governmental Authority of
+Maharashtra are not includible in the Value of Supply for the purpose of levy of GST. However,
+in future if it is agreed between the applicant and KPCL to make payable and pay, the amounts
+towards Royalty, MMDR, DMF Fund and Reserve Price by KPCL to the applicant, in such a case,
+
+the amounts will be included in the Value of Supply of the impugned services and will be taxed
+
+at 18% GST.
+06 In view of the above discussions, we pass an order as under:
+ORDER
+(Under Section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods and
+Services Tax Act, 2017)
+
+For reasons as discussed in the body of the order, the question is answered thus —
+
+Question 1: Whether the activity carried out by the Applicant under the Agreement is supply of
+Goods or is a supply of Service and should accordingly be subject to GST under HSN
+2701 (chargeable @ 5% as supply of coal) or under HSN 9986 (chargeable @ 18% as
+Support Services to Mining)?
+
+ince, in terms of Article 24.3 of the Agreement, the right and ownership on the Coal
+¥ mined by the Applicant always vests in and remains with KPCL and the Applicant is only
+responsible for excavation, transport and delivery, and as such cannot transfer
+ownership to the coal, whether the applicant should raise an invoice under MGST/CGST
+or under IGST in as much as the Applicant is of the view that the entire activity takes
+place in the State of Maharashtra only.
+
+Answer: - Not answered in view of the fact that the said question has been withdrawn by the
+
+applicant.
+
+Question 3: Can the present contract be treated as a single consolidated contract or a divisible
+contract in view of the fact that four components of the contract (viz. Excavation of
+Coal, Transport Service, Handling Charges (incl. Additional Handling Charges) and
+Restoration and Rehabilitation charge] are clearly distinguishable and separately
+identifiable and therefore the tax treatment under GST shall also be different and
+separate?
+
+Answer: - Not answered in view of the fact that the said question has been withdrawn by the
+applicant
+
+AS
+\, Page 14 of 15
+
+
+Question 4: There are certain other components like Royalty, MMDR, DMF Fund, Cess, Stowing
+Excise Duty, Reserve Price, etc. which are levied on the coal excavated from the Mine
+which is payable directly by KPCL to the Government of India and the State Government
+of Maharashtra. The Applicant neither has any liability to pay nor does it makes any
+
+payment of such amount. Under the circumstances, is the Applicant required to
+
+poeta salina
+‘AJIV MAGOO T. R. RAMINANT-————
+(MEMBER) (MEMBER)
+
+Copy to:-
+
+1. The applicant
+
+2. The concerned Central / State officer
+
+3. The Commissioner of State Tax, Maharashtra State, Mumbai
+
+4. The Pr. Chief Commissioner of Central Tax, Churchgate, Mumbai
+5. The Joint Commissioner of State Tax, Mahavikas for Website.
+
+Note:-An Appeal against this advance ruling order shall be made before, The Maharashtra Appellate
+Authority for Advance Ruling for Goods and Services Tax, 15" floor, Air India Building, Nariman Point,
+Mumbai — 400021. Online facility is available on gst.gov.in for online appeal application against order
+passed by Advance Ruling Authority.
+
+Asa
+Page 15 of 15

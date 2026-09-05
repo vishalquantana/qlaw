@@ -1,0 +1,2082 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+
+GST Bhavan, Old Building, 1st floor, B-Wing, Room No.107, Mazgaon,
+Mumbai - 400010.
+
+(Constituted under Section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+BEFORE THE BENCH OF
+(1) Shri. D. P. Gojamgunde, Joint Commissioner of State Tax, (Member)
+(2) Ms. Priya Jadhav, Joint Commissioner of Central Tax, (Member)
+
+ARN No. AD270419019782S
+GSTIN Number, if any/ | 974 aECM2936N1Z2
+User-id
+
+Legal Name of Applicant M/s. Maharashtra State Electricity
+Transmission Company Limited
+
+Registered C-19, E-Block, Prakashganga, BKC, Bandra,
+Address/ Address provided | Mumbai Suburban, Mumbai, Maharashtra,
+while obtaining user id 400051
+
+Details of application GST-ARA, Application No. 83 Dated 21.03.2022
+Concerned officer MUMBAI-LTU-4
+
+Nature of activity(s) (proposed/present) in respect of which advance ruling sought
+
+A | Category Service Provision
+
+B | Description (in brief) Advance Ruling for applicability of GST on.)
+
+Deposit for Out-right Contracts (ORC) work,
+
+Qsue/s on which advance | > Classification of any goods or services or
+
+ing required both Fie
+
+> Applicability of a notification issued under
+the provisions of this Act
+
+> Determination of time and value of supply
+of goods or services or both
+
+> Admissibility of input tax credit of tax paid
+or deemed to have been paid
+
+>» Determination of the liability to pay tax on
+any goods or services or both
+
+> Whether applicant is required to be
+registered
+
+> Whether any particular thing done by the
+applicant with respect to any goods or
+services or both amounts to or results in a
+supply of goods or services or both, within
+the meaning of that term.
+
+Question(s) on which | As reproduced in para 01 of the Proceedings
+
+advance ruling is required below.
+
+PROCEEDINGS
+(Under Section 98 of the Central Goods and Services Tax Act, 2017 and the
+Maharashtra Goods and Services Tax Act, 2017)
+
+Page 1 of 44
+
+Maharashtra State Electricity Transmission Company Limited /83/ 2021-22
+
+
+The present application has been filed under Section 97 of the Central Goods
+and Services Tax Act, 2017 and the Maharashtra Goods and Services Tax Act, 2017
+[hereinafter referred to as “the CGST Act and MGST Act” respectively] by M/s.
+Maharashtra State Electricity Transmission Company Limited, the applicant,
+seeking an advance ruling in respect of the following questions.
+1. Whether the following works undertaken by MSETCL can be termed as
+"supply" to the Dedicated Consumers?
+2. If the following works are decided as "supply, then:
+a. What shall be the time of supply?
+b. What shall be the HSN/SAC Code and rate of GST for such "supplies"?
+c. Whether ITC on the running bills received from the contactor can be
+claimed by MSETCL? If ITC can be claimed by MSETCL, then whether
+ITC can be claimed in the period in which the running bill is received or
+on the receipt of the final invoice/completion of entire work?
+
+d. What shall be the value of supply at a particular moment when
+
+consideration is received?
+
+works get completed even after a lapse of 2-3 years. ©
+4. In case, the deposit obtained from the Dedicated Consumers falls short on the
+final completion of the works and if such amount is recovered from the end
+user, then whether we shall be liable to pay GST on the same and if yes, then
+what shall be the time of supply in this case? This question is asked because
+the works get completed even after a lapse of 2-3 years.
+a. Transaction One: Shifting/Height raising of Transmission Towers/Lines,
+belonging to MSETCL through a contractor on the request of the Dedicated
+Consumers such as railways, National Highway Authority of India etc. on receipt
+
+of payment of consideration in the form of adjustable deposit.
+
+Page 2 of 44
+
+M/s. Maharashtra State Electricity Transmission Company Limited /83/ 2021-22
+
+
+
+b. Transaction Two: Construction of EHV Substations and EHV Lines for
+dedicated user of Dedicated Consumers by MSETCL through a contractor
+on the request of the end users on receipt of payment of consideration in the form
+of adjustable deposit.
+
+c. Transaction Three: Construction of new transmission bay/express feeder
+for dedicated use of Consumer by MSETCL through a contractor on the
+request of the Dedicated Consumers on receipt of payment of
+consideration in the form of adjustable deposit.
+
+d. Transaction Four: Spare existing asset available with MSETCL (like
+express feeder, bay etc.) is allotted by MSETCL to the Dedicated
+Consumers for its dedicated use on payment for a specified duration:
+
+At the outset, we would like to make it clear that the provisions of both the
+CGST Act and the MGST Act are the same except for certain provisions. Therefore,
+unless a mention is specifically made to any dissimilar provisions, a reference to
+the CGST Act would also mean a reference to the same provision under the MGST ~
+
+Act. Further to the earlier, henceforth for the purposes of this Advance Ruling, the:
+
+S AND CONTENTION - AS PER THE APPLICANT FACTS:
+
+ature of business of the applicant:
+
+aharashtra State Electricity Transmission Company Limited ("MSETCL' or
+
+‘the Company’) is a leading state transmission utility in the country. MSETCL
+
+owns and operates largest Electricity Transmission System in the state. The
+
+Company is a wholly owned corporate entity of Maharashtra Government
+
+incorporated on May 31, 2005 after restructuring and trifurcation of the
+
+erstwhile Maharashtra State Electricity Board.
+
+Business of the applicant can be classified broadly into three types:
+
+1.2 Transmission of electricity: Service by way of transmission of electricity by an
+electricity transmission utility is exempt from GST under Notification No,
+12/2017-CT (R), SI. No. 25, hence no Input Tax Credit (ITC) claim is availed by
+MSETCL for such activities. No question is posed in Advance Ruling.
+
+Page 3 of 44
+
+M/s. Maharashtra State Electricity Transmission Company Limited /83/ 2021-22
+
+
+
+1.3 Construction and maintenance of Extra High Voltage (EHV) network for
+transmission to electricity between generation and distribution companies in
+the state:
+
+The company carries out the construction and maintenance of Extra High
+Voltage (EHV) network to cater the Transmission of Electricity between the
+generation and distribution companies in the state of Maharashtra, The EHV
+Substations & EHV Lines are constructed as per the State Transmission Utility
+(STU) Plan and approval of Maharashtra Electricity Regulatory Commission
+(MERC). Such assets are capitalized for the compounded value of the total cost
+incurred including and cost. The construction activities are carried out through
+the outside agency i.e. contractors appointed by MSETCL as per the rules and
+regulation of MSETCL the contractors are reimbursed with the total cost of
+construction (including GST). The MERC allows MSETCL Return on Equity
+(ROE) and Operation & Maintenance (O&M) charges on asset constructed as
+
+per the regulatory framework of MERC in the form of tariff for transmission
+
+services which is borne by electricity consumer (i.e., general public) of
+
+truction and maintenance of Extra High Voltage (EHV) network for
+stomers/ users as per their requirements:
+SETCL executes such works/services for the customers/users as per their
+specific requirements. These works/ services are executed in two models i-e. on
+out right Contracts (ORC) basis and only supervisory basis. These
+works/services are not part of the regulated business.
+1.5 Model One - Outright Contracts:
+Consideration received from the Dedicated Consumers in ORC has two
+components i.e. "cost" of the works and the "supervision charges" for the
+services provided by MSETCL. The cost charges charged from the specific users
+are as per the "Estimates." based on the Schedule of Rates (SOR) prepared by
+MSETCL 1, "cost" of the works. The "supervision charges." for the services
+
+provided by MSETCL is at 15% of the cost of works. The amount is recovered
+
+Page 4 of 44
+
+M/s. Maharashtra State Electricity Transmission Company limited /83/2021-22
+
+
+in advance from the dedicated consumers through a "demand note” based on
+the estimates prepared by MSETCL.
+
+The cost part of the demand note is treated as deposits, hence at present no GST
+is charged on the same. It is shown in the liability side of the balance sheet of
+the MSETCL. This amount is finally set off against the actual cost of the
+construction works at the time of completion of all activities of the works. Till
+the constructions stage, the expenditure incurred on these works is shown as
+Capital WIP and finally on completion of the works this deposit amount is set-
+off against the total works cost. For these works, no depreciation is claimed in
+the books of accounts of MSETCL. Here, it is pertinent to mention that the
+amount of deposit is recovered in advance by MSETCL whereas the completion
+of works takes approx. 3 to 24 months to complete as per the nature of works.
+Hence, the deposits are set off with the capital expenditure once works are
+complete in all respect and the Asset is capitalized in the books of MSETCL at
+Re. 1. The Operation & Maintenance (O&M) of asset is carried out by MSETCL
+
+In turn, MSETCL awards these contracts to a contractor, the contractor raises
+
+running bills and is paid out of the deposit amount collected from the end user.
+e supervision charges are booked as income in the Profit & Loss Account of 5
+SETCL GST is duly recovered on Supervision Charges and paid to the Govt.
+reasury within due date.
+
+odel Two- Supervisory basis:
+
+For some contracts, only Supervision is executed by MSETCL and tender,
+contractor selection, agreement with contractors, execution and payments to
+contractors etc is handled/ managed by the Dedicated Consumers. In this case,
+the supervision charges plus GST on Supervision Charges are calculated are
+collected from the respective user thru a Demand Note. Charges, other than the
+supervision charges are paid by the end user to the contractor directly.
+Therefore, in this scenario, we are of the view that there is no supply of services
+by MSETCL (other than supervision) and hence no question of any GST liability
+
+on the same.
+
+Page 5 of 44
+
+
+The following are the works carried by the company on ORC basis as per the
+requirement of respective dedicated user.
+
+1.7 In this business model, the contracts are of following types:
+1.7.1 Sub-type One: Shifting/ Height raising of Transmission Towers/ Lines:
+
+i. Nature of contract: in this case, the concerned Dedicated Consumers
+for their project works like Construction/ Widening of Highways,
+laying of Railway Networks. etc.; approach the MSETCL for shifting of
+transmission towers/lines. As transmission tower lines that belongs to
+MSETCL, the ORC Consumer for their project work approach the
+MSETCL for shifting of Transmission Tower Lines that belongs to
+MSETCL. For example, NHAI approaches the MSETCL for shifting/
+height raising of the existing Transmission Lines/towers or shifting of
+Transmission Lines/Towers towards widening/ construction of roads.
+
+ii. Consideration from recipient of services. The respective ORC
+
+Consumer make remittance (Deposit) of cost of shifting diversion along
+
+with supervision charges to MSETCL.
+
+iii. Execution of contract: MSETCL further award the contract to the
+contractor for shifting/diversion of Transmission Tower Lines by .
+floating a tender,
+
+iv.Consideration paid to contractor Contractor raises Running Account
+Bills including GST as per stages of completion of work.
+
+v. Capitalization of property in asset: After the completion of work the
+Asset so created is adjusted against the remittance received from
+dedicated user/consumer, The Asset is capitalized in the MSETCL
+books at Re. 1.
+
+1.7.2 Sub-type Two: Construction of EHV Substations and EHV Lines for
+dedicated user of EHV Consumer:
+
+i. Nature of contract: in this case, concerned Dedicated Consumers for
+their uninterrupted dedicated supply of electricity approaches the
+MSETCL for construction of new EHV Substations/lines. For example,
+Indian Railways approaches the MSETCL for construction of the new
+
+aie Page 6 of 44
+
+M/s. Maharashtra State Electricity Transmission Company Limited /83/ 2021-22
+
+
+
+M
+
+substation or/and the Transmission Lines for their upcoming new
+railways network.
+
+ii. Consideration; The respective ORC Consumer make remittance
+(Deposit) of cost of new substation or land the Transmission Lines with
+supervision charges to MSETCL,
+
+iii. Execution of contract: MSETCL further awards the contract to the
+contractor for construction of new substation orland the Transmission
+Lines by floating a tender,
+
+iv. Consideration paid to contractor: Contractor raises Running Account
+Bills including GST as per stages of completion of work.
+
+v. Capitalization of property in assets: After the completion of work the
+
+Asset so created is adjusted against the remittance received from
+
+dedicated user/consumer. The Asset is capitalized in the MSETCL-
+
+books at Re. 1:
+1.7.3 Sub-Type Three: Construction of new transmission bay / express feeder
+for dedicated user of EHV Consumer: :
+
+i. Nature of contract: in this case, concerned Dedicated Consumers for
+electricity supply. They approach the MSETCL for construction of
+
+the MSETCL for construction of the new bay towards
+dedicated/ uninterrupted power supplies for their IT Set-up.
+
+ii. Consideration: The respective ORC Consumer makes remittance
+(Deposit) of cost of construction of new transmission / electrical bay
+along with supervision charges to MSETCL.
+
+iii. Execution of contract: MSETCL further award the contract to the
+contractor for construction of new transmission / electrical bay by
+floating a tender.
+
+iv.Consideration paid to contractor: Contractor raises Running Account
+
+Bills, including GST as per stages of completion of work.
+
+Page 7 of 44
+
+;, Maharashtra State Electricity Transmission Company Limited/83/2021-22
+
+the dedicated transmission bay/express feeder for uninterrupted
+
+new transmission / electrical bay. For example, IT Hub approaches
+
+
+v. Capitalization of property in assets: After the completion of work the
+Asset so created is adjusted against the remittance received from
+dedicated user/consumer. The Asset is capitalized in the MSETCL
+books at Re 1.
+
+1.7.4 Sub-Type Four: Existing asset available with MSETCL (like express feeder,
+
+bay etc.) is allotted to the Dedicated Consumers for its dedicated use.
+
+i. Nature of contract: In this case, the existing Asset (like bay etc.)
+available as a spare with MSETCL, is allotted to the Dedicated
+Consumers for their demand for its dedicated use by respective
+consumer. For example, IT Hub approaches the MSETCL for allotment
+of spare bay / feeder towards dedicated / uninterrupted power supplies
+for their IT Set-up.
+
+ii. Consideration: The cost of asset already constructed is recovered from
+the consumer and deposit received from the consumer is adjusted
+against the asset. Entire consideration as per the latest Schedules of
+Rates (SOR) is received upfront and bay is then used by Dedicated
+Consumers.
+
+iii. Transfer of asset: Needs clarity on these issues. Whether it is renting of
+
+immovable property? Cost of asset is recovered from customer, how is
+
+the asset valued? Is the asset transferred to the consumer?
+
+2. CONTENTION - AS PER THE CONCERNED OFFICER: ;
+(a) Classification of Goods and their Central Excise Tariff Beadie.
+
+Major Commodity - Electricity
+Supply of electricity is exempted under GST as per the Notification 02/2017
+(Central Tax) dated 28 June 2017 under the heading “Electrical Energy” (HSN
+Code: 27160000). Further, services provided by an electricity transmission or
+distribution utility (e.g. state electricity board) by way of transmission or
+distribution of electricity is exempted under GST as per the Notification
+12/2017 under heading 9969.
+Supply of other goods-
+Iron and Steel Ferrous Scrap Waste Scrap of Assets
+
+Page 8 of 44
+
+M/s. Maharashtra State Electricity Transmission Company Limited /83/ 2021-22
+
+
+(b) Rate of GST on works contract.
+The rate of GST on the supply being made under the contract referred to in
+Col. 3 shall be also 9 percent CGST and 9 percent SGST as per the Notification
+No. 11/2017 - Central Tax (Rates), issued under CGST Act/MGST Act, 2017.
+(c) Details of benefit of notification under GST if any availed.
+Not available
+(5) (a) Classification of Service/Services as applicable.
+(b) Rate / Rates of Service Tax as applicable to services provided.
+(c) Details of benefits of Notification of Service Tax if any availed.
+
+Section Service | Service Description *Rate of
+Chapter Code Tax
+Heading/Gr | Tarrif
+
+oup :
+
+99542 995423 | General construction services of long- | As per
+
+distance underground/ overland/ | separately
+submarine pipelines, communication | given
+
+and electric power lines (cables);
+
+pumping stations and related works;
+transformer stations and _ related ;
+
+works &
+Heading Composite supply of works contract | As per
+9954 as defined in clause 119 of section 2 of | separately
+(Constructio Central Goods and Services Tax Act, | given, :
+n 2017.
+services)
+Heading 995461 | Electrical installation services | As per
+9954 including Electrical wiring & fitting | separately
+(Installation services, fire alarm installation | given
+services) services, burglar alarm system
+
+installation services.
+
+995461 | 1. special trade installation services | As per
+involving the installation of basic | separately
+electrical wiring circuits or fittings in | given
+buildings and other construction
+projects;
+
+995461 | 2. electrical wiring and fitting services | As per
+for emergency power supply systems; | separately
+
+given
+995461 | 3. electrical services arising from the | As per
+installation of appliances; separately
+given
+
+Page 9 of 44
+
+Maharashtra State Electricity Transmission Company. Limited /83/ 2021-22
+
+
+995461 | 4. installation services of meters; | As per
+installation services of fire alarm | separately
+systems; given
+
+995461 | 5. installation services of burglar | As per
+alarm systems at the construction site; | separately
+
+given
+
+995461 | 6. installation services of all types of | As per
+residential antenna including satellite | separately
+antenna; given
+
+995461 | 7. installation services of cable | As per
+television lines within a building; | separately
+installation services of lightning | given
+
+conductors;
+995461 | 8. electrical installation services of | As per
+telecommunications equipment; separately
+
+given
+995461 | 9. electrical installation services of | As per
+illumination and signalling systems | separately
+for roads, railways, airports, harbours | given
+and similar premises;
+995461 | 10. installation services of heavy | As per
+electrical equipment; separately
+given
+
+*Rate of MGST
+
+e rate of GST for Works Contract service has been prescribed in serial number
+= // 3 of Notification No. 11/2017-Central Tax (Rate) dated 28.06.2017 as amended by
+Notification No. 20/2017-Central Tax (Rate) dated 22.08.2017 &.’ notification
+no.24/2017-Central Tax (Rate) dated 21.09.2017. F
+
+The rate of MGST on the supply being made under the contract referred to in Col.
+3 shall be 9 percent CGST and 9 percent SGST as per the Notification to the
+Notification No. 11/2017 - Central Tax (Rates), issued under MGST Act, 2017.
+
+(6) Copies of Advance Ruling Application/orders if any obtained by applicant
+under the provisions of Central Excise, Service Tax and Sales Tax and their present
+status in case of your company / related company or sister concern.
+
+Comment - Not available
+
+(7) Copy of Show Cause Notices / Adjudication orders in respect of Central Excise
+or Service Tax if any issued during Last Five years, in case of your company /
+related company or sister concern.
+
+Comment - Not available
+
+Page 10 of 44
+
+M/s. Maharashtra State Electricity Transmission Compar
+
+
+
+(8) Cases of violation of Central Excise / Service Tax if any booked during Last
+Five years.
+Comment - Not available
+
+(9) Whether any proceeding is pending before any authority on said subject
+matter or otherwise.
+Comment - Not available
+
+As stated in the Statement of relevant facts, the business of the applicant can be
+
+broadly classified into 03 types of Works-
+
+1. Transmission of Electricity
+
+2. Construction and maintenance of EHV Network (EHV Substations and EHV
+Lines) for Transmission of Electricity between Generation Company and
+Distribution Companies.
+
+3. Construction and maintenance of EHV Network (EHV Substations and EHV
+Lines) for Transmission of Electricity for Customers or Users as per their
+requirement.
+
+a) Nature of Business of the applicant g
+
+Maharashtra State Electricity Transmission Company Limited (MSETCL) is a
+
+leading State Transmission Utility in the Country. MSETCL owns and operates
+
+ed corporate entity of Maharashtra Government incorporated on 31st May,
+after reconstruction and trifurcation of erstwhile Maharashtra State
+tricity Board. (MSEB).
+
+‘3 oe ‘usiness Models
+
+1. Transmission of Electricity
+
+2. Construction and maintenance of Extra High Voltage (EHV) Network for
+transmission of electricity- (Generation to Distribution as per MERC
+guidelines)
+
+3. Construction and maintenance of Extra High Voltage (EHV) Network for
+
+transmission of electricity- (for Customer as per specific requirement.)
+
+Model-1 Outright Contracts-
+
+Page 11 of 44
+
+Maharashtra State Electricity Transmission Company Limited /83/2021-22
+
+
+
+Consideration ‘received from the dedicated consumer in ORC has two
+components i.e. Cost of the work (advance deposit on estimated basis) and the
+Supervision charges (15% of the estimated cost).
+
+Model-2 Supervisory basis
+
+Transaction Type 1:
+
+Shifting/ Height Raising of transmission Tower/Lines belonging to MSETCL
+through a contractor on the request of the ‘Dedicated Consumer’ such as
+Railways, National Highway Authority of India, etc. on receipt of payment of
+consideration in the form of adjustable deposit.
+
+Transaction Type 2:
+
+Construction of EHV Substations and EHV Lines for dedicated user of
+Dedicated Consumers by MSETCL through a contractor on the request of
+Dedicated Consumers on receipt of payment of consideration in the form of
+
+adjustable deposit.
+
+Transaction Type 3:
+
+Construction of New Transmission Bay/ Express Feeder for dedicated use of
+onsumer by MSETCL through a contractor on the request of Dedicated
+‘ Consumers on receipt of payment of consideration in the form of adjustable
+Transaction Type 4: e
+
+Spare Existing Asset available with MSETCL (like express feeder, bay’ etc.) is
+allotted by MSETCL to the dedicated consumers for its dedicated use on
+payment for a specified duration.
+
+Questions raised for Advance Ruling
+
+Sr. No.14- Following are the questions on which advance ruling is sought
+
+1. Whether the following works undertaken by MSETCL can be termed as
+“supply” to Dedicated Consumers?
+
+Comment- From the statement of facts as submitted by MSETCL, it can be
+concluded that above referred works undertaken by MSETCL can be termed
+as supply to dedicated consumers.
+
+2. If the following works are decided as “supply” then,
+
+a. What shall be the time of supply?
+Page 12 of 44
+
+M/s. Maharashtra State Electricity Transmission Company Limited /83/ 2021-22
+
+
+
+Comment -
+
+As per the provisions u/s 12 13 and 14 of the CGST/MGST Act, 2017, the time
+of supply is determined with reference to the time when the supplier receives
+payment with respect to the supply as well as a few other references like issue
+of invoice, receipt of goods etc.
+
+In general, the time of supply is earliest of issuance of invoice or receipt of
+payment. Therefore, in case of advance received for any supply, time of supply
+is fixed at the point when advance is received, irrespective of the fact whether
+the supply is made or not.
+
+Accordingly, GST needs to be paid with reference to the time at which advance
+is received, if any, and this requires compliances with a few procedures,
+documentation and reconciliation of taxes paid on the advances and supply
+made.
+
+As per the explanation 1 to Section 12 of the CGST Act, 2017 a “supply” shall
+
+be deemed to have been made to the extent it is covered by the invoice or, as —
+
+the case may be, the payment. J
+b. What shall be the HSN/SAC Code and Rate of GST for such supplies? ©
+
+Comments -
+
+Section Service | Service Description *Rate of
+
+Chapter Code Tax
+
+Heading/Group | Tarrif
+
+99542 995423 | General construction services of | As per
+long-distance separately
+underground/overland/ given
+submarine pipelines,
+communication and electric power
+lines (cables);
+
+pumping stations and related
+works; transformer stations and
+related works
+
+Heading 9954 Composite supply of works | As per
+
+(Construction contract as defined in clause 119 of | separately
+
+services) section 2 of Central Goods and | given
+Services Tax Act, 2017.
+
+Heading 9954 995461 | Electrical installation services | As per
+
+(Installation including Electrical wiring & | separately
+
+services) fitting services, fire _ alarm | given
+
+Page 13 of 44
+
+arashtra State Electricity Transmission Company Limited/83/ 2021-22
+
+TiN
+
+ay
+
+
+installation services, burglar alarm
+system installation services.
+
+995461 | 1. special trade installation services | As per
+involving the installation of basic | separately
+electrical wiring circuits or fittings | given
+in buildings and other
+construction projects;
+
+995461 | 2. electrical wiring and _ fitting | As per
+services for emergency power | separately
+
+supply systems; given
+995461 | 3. electrical services arising from | As per
+the installation of appliances; separately
+given
+
+995461 | 4. installation services of meters; | As per
+installation services of fire alarm | separately
+systems; given
+
+995461 | 5. installation services of burglar | As per
+alarm systems at the construction | separately
+site; given
+
+995461 | 6. installation services of all types | As per
+of residential antenna including | separately
+satellite antenna; given
+
+995461 | 7. installation services of cable | As per
+television lines within a building; | separately
+installation services of lightning | given
+conductors;
+
+995461 | 8. electrical installation services of | As per
+telecommunications equipment; , | separately
+
+4, | given
+
+995461 | 9. electrical installation services of | As per
+illumination and __ signalling s¢parately
+systems for roads, railways, | given
+airports, harbours and sit ni ar
+
+premises;
+995461 | 10. installation services of heavy | As per
+electrical equipment; separately
+given
+*Rate of MGST-
+Comments -
+
+The rate of GST for Works Contract service has been prescribed in serial
+number 3 of Notification No. 11/2017-Central Tax (Rate) dated 28.06.2017 as
+amended by Notification No. 20/2017- Central Tax (Rate) dated 22.08.2017 &
+notification no.24/2017-Central Tax (Rate) dated 21.09.2017.
+
+Page 14 of 44
+
+M/s. Maharashtra State Electricity Transmission Company Limited /83/ 2021-22
+
+
+The rate of MGST on the supply being made under the contract referred to in
+Col. 3 shall be 9 percent CGST and 9 percent SGST as per the Notification to the
+Notification No. 11/2017 - Central Tax (Rates), issued under MGST Act, 2017.
+c. Whether ITC on the Running Bills received from the Contractor can be
+claimed by MSETCL?
+
+If ITC can be claimed by MSETCL, then whether ITC can be claimed in the
+period in which Running bill is received? Or on the receipt of the final Invoice?
+Or on Completion of entire work?
+
+Comments -
+
+As per section 17(5) (c) of the CGST Act, 2017, input tax credit shall not be
+available in respect of the works contract services when supplied for
+construction of an immovable property (other than plant and machinery)
+except where it is an input service for further supply of works contract service.
+Thus, ITC for works contract can be availed only by one who is in the same line
+of business and is using such services received for further supply of works
+contract service. When a works contract is for the construction of plant and
+
+machinery, the ITC of the tax paid to the works contractor would be available
+
+to the recipient, whatever is the business of the recipient. This is because works
+ontract in respect of plant and machinery comes within the exclusion clause
+f the negative list and ITC would be available when used in the course or
+furtherance of business.
+
+d. What shall be the value of supply at a particular moment when consideration
+is received?
+
+Comments - Valuation of a works contract service is dependent upon whether
+the contract includes transfer of property in land as a part of the works contract.
+In case of supply of service, involving transfer of property in land or undivided
+share of land, as the case may be, the value of supply of service and goods
+portion in such supply shall be equivalent to the total amount charged for such
+supply less the value of land or undivided share of land, as the case may be,
+
+and the value of land or undivided share of land, as the case may be, in such
+
+Page 15 of 44
+
+Maharashtra State Electricity Trarismission Company Limited/83/2021-22
+
+
+supply shall be deemed to be one third of the total amount charged for such
+supply.
+
+Explanation. - For the above purpose, “total amount” means the sum total of,-
+(a) consideration charged for aforesaid service; and (b) amount charged for
+transfer of land or undivided share of land, as the case may be.
+
+3. In case the deposit obtained from the end users becomes excess on the final
+on the final completion of the works and the excess amount is refunded back
+to the dedicated Consumes, then whether credit can be claimed for the purpose
+of GST liability in respect of the said amount?
+
+Above 3 and 4 are asked because the works get completed even after lapse of
+2-3 yrs.
+
+Comment - Credit notes may be issued to the Recipient of service.
+
+4. Incase the deposit obtained from the Dedicated Consumers falls short on the
+
+inal completion of the works and if such amount is recovered from the end
+er then whether we shall be liable to pay GST on the same and if yes, what
+all be the time of supply in this case?
+bove 3 and 4 are asked because the works get completed even after lapse of
+2-3 yrs.
+Comment - Debit notes may be issued to the Recipient of service.
+3. HEARING a .
+Preliminary e-hearing in the matter held on 26.04.2022. Mr Pushkar Patil, Tax *
+Consultant, Mr. Ashok Relekar, Learned GM & Mr. Parshuram Patil, Learned Senior
+Manager appeared, and requested for admission of the application: Jurisdictional Officer
+Mr. B.B. Pawar, Deputy Commissioner of SGST, appeared. res
+The application was admitted and called for final e-hearing on 09.04.2025. Mr. Arpit
+Jain C. A. Authorized Representative, appeared made oral and written submissions.
+Jurisdictional Officer Mrs. Sudarshana J Patil, Deputy Commissioner of SGST appeared.
+We heard both the sides.
+4. OBSERVATIONS AND FINDINGS:
+4.1 We have gone through the records of the case and the submissions made by the
+applicant and the jurisdictional officer. We find that the applicant is engaged in
+
+Page 16 of 44
+
+M/s. Maharashtra State Electricity Transmission Company Limited /83/2021-22
+
+
+the business of transmission of electricity which is procured by them from the
+generators of electricity like MAHAGENCO and then transmitted by them to
+various dedicated users / consumers and to distribution companies like
+MSEDCL. Maharashtra State Electricity Transmission Company Limited
+(‘MSETCL ' or 'the applicant’) is a leading state transmission utility in the country.
+MSETCL owns and operates largest Electricity Transmission System in the state.
+The Company is a wholly owned corporate entity of Maharashtra Government
+incorporated on May 31, 2005 after restructuring and trifurcation of the erstwhile
+Maharashtra State Electricity Board. We find that in terms of S.No.25 to
+Notification No.12/2017 Central Tax (Rate) dated 28.6.2017, transmission of
+electricity by a electricity transmission or electricity distribution
+company /utility is exempted from tax. Thus, the basic function of transmission
+
+of electricity carried out by the applicant is exempted from GST.
+
+4.2 We find that the applicant has raised certain questions, based on the various
+
+business models followed by them. In order to examine whether the services
+
+charges the cost of the contract + 15% supervisory charges for the said
+contract. The cost of the contract is recovered as a deposit and the supervisory
+charges are booked to the profit and loss account.
+b) Supervisory Basis: Here, the contract is between the Consumer and the
+contractor and the role of the applicant is only that of a supervisor of the said
+work. The payment for the contract is made directly by the user to the
+contractor and the supervisory charges is recovered by the applicant by
+raising a demand note for the services provided.
+
+In the light of the above models, the applicant has submitted details of
+
+four types of transactions undertaken by them and has sought a ruling on the
+
+Page 17 of 44
+
+a State Electricity Transmission Company Limited /83/2021-22
+
+
+taxability of the said transactions, amongst other questions. Therefore, it is
+imperative that we look into these transactions separately.
+
+4.3 Before we delve into the various transactions, it would not be out of place to
+mention the amendment to the Notification No.12/2017 dated 28.6.2017 by
+Notification No.8/2024 Central Tax (Rate) dated 8.10.2024 which introduced a
+S.No.25 A to the said exemption notification which states that supply of services
+by way of providing metering equipment on rent, testing for meters/
+transformers / capacitors etc., releasing electricity connection, shifting of meters/
+service lines, issuing duplicate bills etc., which are incidental or ancillary to the
+supply of transmission and distribution of electricity provided by electricity
+transmission and distribution utilities to their consumers are exempted. Thus
+from 8.10.2024, both the services of transmission of electricity falling under
+heading 9969 and support services to transmission and distribution of electricity
+which are in the nature of incidental or ancillary to the main service falling under
+heading 9986 are exempted from payment of tax. Prior to 8.10.2024, only the
+transmission of electricity services were exempted.
+
+4.4 The first type of transaction on which the ruling is sought is that of
+
+Shifting/ Height Raising of transmission Tower/Lines belonging to MSETCL :
+
+Sie xo through a contractor on the request of the ‘Dedicated Consumer’ such as
+bia \e ailways, National Highway Authority of India, etc. on receipt es payment of °
+\ aA if = j onsideration in the form of adjustable deposit. The applicant in his submissions
+
+has given further clarification on the nature of the services as under:-
+
+i, Nature of contract: in this case, the concerned Dedicated Consumers pr their
+project works like Construction/ Widening of Highways, laying of Railway
+Networks. etc.; approach the MSETCL for shifting of transmission towers/lines.
+As transmission tower lines that belongs to MSETCL, the ORC Consumer for
+their project work approach the MSETCL for shifting of Transmission Tower
+Lines that belongs to MSETCL. For example, NHAI approaches the MSETCL for
+shifting/ height raising of the existing Transmission Lines/towers or shifting of
+
+Transmission Lines/Towers towards widening/construction of roads.
+
+Page 18 of 44
+
+M/s. Maharashtza State Electricity Transmission Company Limited/83/2021-22
+
+
+li, Consideration from recipient of services. The respective ORC Consumer make
+remittance (Deposit) of cost of shifting diversion along with supervision charges
+to MSETCL.
+
+iit, Execution of contract: MSETCL further award the contract to the contractor for
+shifting/diversion of Transmission Tower Lines by floating a tender.
+
+iv. Capitalization of property in asset: After the completion of work the Asset so
+created is adjusted against the remittance received from dedicated user/consumer,
+The Asset is capitalized in the MSETCL books at Re. 1.
+
+It is seen from the nature of the contract that in this case, the transmission
+
+towers and lines have already been laid out by the applicant and the customer
+
+approaches the applicant for shifting of the transmission tower lines or raising
+the height of the towers for widening /construction of roads etc. We find that
+the said services are neither services of transmission of electricity or any service
+incidental or ancillary to the said service. In fact, this service is not even
+provided to the actual consumers or users of the electricity. It is a service of
+shifting of transmission lines so that there is no hindrance for the various
+
+persons such as National Highway Authority, Railways etc., in widening of_--
+
+oads, giving ee of way etc. For the said shifting of the ieee eS Une
+
+No.12/2017 Central Tax (Rate) dated 28.6.2017, the said services are taxable
+
+services. The said services are in the nature of agreeing to do an act for a
+consideration. As per Circular No.178/10/2022 - GST dated 3.8.2022, agreeing
+to do an act is nothing but a contractual agreement. In the said agreement there
+are two parties and where one party agrees to do something and the other party
+agrees to pay consideration to the first party for doing the said thing. In the
+instant case, the applicant is agreeing to shift the transmission towers/ raise the
+
+height of the transmission lines/ towers and for this purpose, consideration is
+
+Page 19 of 44
+
+M/s. Maharashtra State Electricity Transmission Company Limited /83/2021-22
+
+
+paid by the customer. In this regard, para 6.1 of the said circular is relevant
+
+which reads as under:-
+6.1 A perusal of the entry at serial 5(e) of Schedule I! would reveal that it
+comprises the aforementioned three different sets of activities viz. (a) the
+obligation to refrain from an act, (b) obligation to tolerate an act or a situation
+and (c) obligation to do an act. All the three activities must be under an
+“agreement” or a “contract” (whether express or implied) to fall within the
+ambit of the said entry. In other words, one of the parties to such
+agreement/contract (the first party) must be under a contractual obligation to
+either (a) refrain from an act, or (b) to tolerate an act or a situation or (c) to do
+an act. Further some “consideration” must flow in return from the other party
+to this contract/agreement (the second party) to the first party for such (a)
+refraining or (b) tolerating or (c) doing. Such contractual arrangement must be
+an independent arrangement in its own right. Such arrangement or agreement
+can take the form of an independent stand- alone contract or may form part of
+another contract. Thus, a person (the first person) can be said to be making a
+
+supply by way of refraining from doing something or tolerating some act or
+
+situation to another person (the second person) if the first person was under an
+
+obligation to do so and then performed accordingly. oe
+
+.
+
+erefore, we find that the said services provide by the applicant would be aptly
+vered under the service of agreeing to do an act for a consideration’ and
+} ‘therefore such services would be classifiable under 999792.
+The decision with respect to the various questions which arise in light of the °
+aforesaid findings are as under:- :
+a) What shall be the time of supply?
+Since no specific contract details are available, we find that in general, the
+time of supply shall be the time prescribed under Section 13 of the CGST Act,
+2017.
+b) What shall be the HSN/SAC Code and rate of GST for such "supplies"?
+The service would be covered under the services of agreeing to do an act for
+a consideration and would be classifiable under Heading 999792 and
+
+chargeable to 18% GST (9% SGST + 9% CGST).
+Page 20 of 44
+
+1/22/9009
+
+M/s. Maharashtra State Electricity Transmission Compan) nited / 83/ 2021-22
+
+
+
+c) Whether ITC on the running bills received from the contractor can be
+claimed by MSETCL? If ITC can be claimed by MSETCL, then whether ITC
+can be claimed in the period in which the running bill is received or on the
+receipt of the final invoice/completion of entire work?
+
+The issue of admissibility of input tax credit is covered under the provisions
+
+of Section 16 and 17 of the CGST Act, 2017. Subject to the fulfilment of all
+
+the conditions laid down under Section 16, the applicant would be entitled
+
+to avail the ITC if it is not restricted under Section 17 of the CGST Act, 2017.
+
+We find that the work of shifting of transmission line is handed over by the
+applicant to sub-contractors. The said work done by the contractors would
+
+be a works contract service. We find that under Section 17(5)(d) of the Act,
+goods or services or both received by a taxable person for construction of
+immovable property (other than plant or machinery) on his own account,
+including when the goods or services are used for furtherance of business is
+
+not admissible. We find that the transmission towers are embedded to earth
+and can be dismantled only by destroying the structure and cannot be
+shifted from one place to another place and therefore the said goods which
+
+are embedded to earth shall be considered as an immovable Prope: The_
+term ‘Plant and Machinery’ has been defined in the Explanation under =
+Section 17 as apparatus, equipment and machinery fixed to eatth by Z
+foundation or structural support that are used for making outward. supply =
+of goods or services or both and includes such foundation and structural -, Be
+
+support but excludes land, building or any other civil structures;
+
+telecommunication towers and pipelines laid outside the factory premises.
+The Hon’ble Supreme Court of India in various decisions have held that
+whether a immovable property can be termed as a plant or machinery
+depends on various factors and facts of each case, the nature of the structure,
+the nature of business etc. In the instant case, for a generic question, it is not
+possible to decide whether any structure is a plant and machinery, without
+going into the facts and details in a particular case. Therefore, it is not
+possible to come to a conclusion whether in the generic situation mentioned
+
+Page 21 of 44
+
+Maharashtr tate Electricity Transmission Company Limited /83/ 2021-22
+
+
+by the applicant, the service provided by the sub-contractors to the applicant
+for construction of an immovable property, can be covered under the
+definition of plant or machinery. Under the circumstances, it would not be
+possible to give any decision as to whether the input tax credit would be
+available to the applicant. However, on the basis of general understanding,
+if the activity of construction is in respect of plant and machinery, input tax
+credit would be available. If the activity of construction is in respect of any
+immovable property, that does not satisfy the definition of plant and
+machinery laid down in the Explanation under Section 17 of the CGST Act,
+2017, no input tax credit would be available to the applicant. If input tax
+credit can be availed, it will be on the basis of the running bills raised by the
+sub-contractors.
+
+d. What shall be the value of supply at a particular moment when
+consideration is received?
+
+The value of supply shall be the value as determined under Section 15 of the
+CGST Act, 2017.
+
+4.6 Transaction Type 2:
+
+Construction of EHV Substations and EHV Lines for dedicated user of
+Dedicated Consumers by MSETCL through a contractor on the request of
+Dedicated Consumers on receipt of payment of consideration in the form of
+
+adjustable deposit. a
+The nature of the activity as propagated by the applicant is as under: »**
+
+i. Nature of contract: in this case, concerned Dedicated Consumers for their
+uninterrupted dedicated supply of electricity approaches the MSETCL.
+for construction of new EHV Substations/lines. For example, Indian
+Railways approaches the MSETCL for construction of the new substation
+or/and the Transmission Lines for their upcoming new railways
+network.
+
+ii. Consideration; The respective ORC Consumer make remittance (Deposit)
+of cost of new substation and the Transmission Lines with supervision
+
+charges to MSETCL,
+
+Page 22 of 44
+
+M/s. Maharashtra State Electricity Transmission Company Limited /83/202
+
+We have gone through the submissions made by the applicant in this regard.
+
+
+iii. Execution of contract: MSETCL further awards the contract to the
+contractor for construction of new substation or land the Transmission
+Lines by floating a tender,
+
+iv. Consideration paid to contractor: Contractor raises Running Account Bills
+including GST as per stages of completion of work.
+
+v. Capitalization of property in assets: After the completion of work the Asset
+so created is adjusted against the remittance received from dedicated
+user/consumer. The Asset is capitalized in the MSETCL books at Re. 1
+
+From the nature of the service described by the applicant, it is seen that
+dedicated users of the electricity, approach the applicant for supply of electricity
+and in order to provide uninterrupted and dedicated supply of electricity, the
+applicant proposes that EHV Substations/lines have to be constructed and for
+the said construction, a contract is entered into with the dedicated user, who
+provides for the cost of construction of the substation in addition to 15%
+
+Supervision charges to the applicant. The applicant, in turn, enters into contract
+
+with sub-contractors who do the actual construction of the EHV Sub Station/*
+EHV Lines under the supervision of the applicant. After completion of the
+truction, the EHV Sub Station/ EHV Line so created is capitalized in the
+loks of the applicant as an asset. Thus, we find that in such a transaction, the
+
+Substation and EHV Lines remain the property of the applicant and there
+
+that the said construction of EHV Sub Station/ EHV lines would be an activity
+incidental or ancillary to the transmission of electricity and therefore the said
+services would be covered under S.No.25 A of the Notification No.12/2017
+dated 28.6.2017 (as amended by Notification 8/2024 Central Tax (Rate) dated
+10.10.2024). Ongoing through a sample contract provided by the applicant we
+find that such type of work involves the following work:-
+a) establishment of traction substation along with gantry foundation,
+equipment foundation, control room, meter room, cable trench, RCC road,
+metal spreading and GI pipeline, chain link fencing and gantry foundation
+
+etc.
+
+Page 23 of 44
+
+1/s. Maharashtra State Electricity Transmission Company Limited/83/2021-22
+
+
+b) Construction of DCDC Line across a length of 9.6 Km along with end bays
+between two sub stations.
+
+c) Conversion of existing conductor with equivalent HTLS conductor.
+
+d) Metering CT, PT, Isolator.
+
+e) PLjCC & FOTE equipment, OPGW 9.6 Km or actual.
+
+f) 220V & 48V battery and battery charger.
+
+g) Suitable ABT metering arrangement capable of measuring Four Quadrant
+Reative Energy alongwith AMR facility with integration to control Center at
+SLDC.
+
+h) Establishment of SCADA for remote end control and monitoring alongwith
+real time data visibility at SLDC.
+
+Thus, from the aforesaid scope of work in establishing an EHV Sub Station, it is
+
+seen that these are major works of creating an asset for the purpose of
+
+transmission of electricity. Without construction of these sub stations, it would
+not be possible to transmit electricity to the dedicated consumer. The applicant
+is claiming that such works would be covered under S.No.25A of the
+
+Notification 12/2017 dated 28.6.2017, which reads as under:-
+
+“Supply of services by way of providing metering equipment on rent, testing
+
+for meters/ transformers/capacitors etc., releasing electricity connection,
+
+shifting of meters/ service lines, issuing duplicate bills etc., which are
+
+incidental or ancillary to the supply of transmission and distribution of
+electricity provided by electricity transmission and distribution utilities to
+their consumers.”
+
+On perusal of the said entry, it is seen that the services envisaged under the
+
+said entry are services which are incidental or ancillary to the supply of
+
+transmission of electricity provided by electricity transmission utilities to their
+consumers. The type of services covered include providing metering
+equipment on rent, testing of meters/transformers/ capacitors etc., releasing
+electricity connection, shifting of meters/service lines, issuing duplicate bills
+etc. Such services are generally minor services which are incidental or ancillary
+to the transmission of electricity. These incidental services result from certain
+
+business exigencies which necessitates such support services are normally
+Page 24 of 44
+
+M/s. Maharashtra State Electricity Transmission Compan nited /83/ 2021-22
+
+
+minor and insignificant in nature and scale. Such services are normally
+provided after establishment of transmission equipment and after the start of
+the provision of service of transmission by the transmission utility. By
+applying the principle of ejusdem generis for interpretation, the activities
+covered as incidental and ancillary would be similar in nature and scale to
+those mentioned preceding them such as shifting of meters, issue of duplicate
+bills, testing of meters/transformers/ capacitors etc.
+
+We find that the term ‘incidental’ has been defined in various dictionaries as
+under:
+
+Oxford Dictionary - the happening as part of something more important.
+Cambridge Dictionary - less important than the thing something is
+connected with or part of
+
+Dictionary.com - happening or likely to happen in an unplanned or
+subordinate conjunction with something else.
+
+Similarly word ‘ancillary’ has been defined as under:
+
+Oxford Dictionary - provide necessary support to the main work or
+activities of an organization.
+
+- In addition to something else but not as important.
+
+Cambridge Dictionary: providing support or help. yt
+Dictionary.com - supporting, secondary, subsidiary shi! A
+
+e reading of all above definitions establishes that any activity, which
+supports the main activity or necessary to carry out the principal activity,‘is Ah
+activity or transaction incidental or ancillary to the principal activity. Such
+activities are not the main activity but supporting activities. We find that
+setting up of a EHV Sub Station and EHV Lines are major activity of creating
+basic infrastructure for the purpose of transmission of electricity. It is sine qua
+non and a non-negotiable activity for the purpose of transmission of electricity
+without which the transmission of electricity safely and in the required
+quantity is not possible. Under the said circumstances, it is not possible to term
+such activity as incidental or ancillary activity but such activities will have to
+be termed as the core and main activity of the applicant. Therefore, we find
+
+Page 25 of 44
+
+rashtra State Electricity Transmission Company Limited /83/ 2021-22
+
+
+that such an activity would not qualify as a activity incidental or ancillary to
+the activity of transmission of electricity by the applicant and therefore the said
+activity would not be covered under the said exemption notification. This is
+also not covered by entry 25 of the notification no. 12/2017 dated 28.08.2017
+which only covers the services of transmission of electricity and not creation of
+infra for such transmission. The services provided by the applicant of setting
+up of infrastructure for transmission of electricity are more akin to managing
+the construction of infrastructure for provision of supply of electricity by
+providing skills of engineering, project management and supervision of the
+actual construction. Supply has been defined under the CGST Act under
+Section 7 as all forms of supply of goods or services or both such as sale,
+transfer, barter, exchange, license, rental, lease or disposal made or agreed to
+be made for a consideration by a person in the course of furtherance of
+business. In the instant case, the applicant is providing a service to the
+
+customer for a consideration in the course of furtherance of their business.
+
+of the customer for providing dedicated and uninterrupted supply of electricity
+would be a supply in terms of the CGST Act, 2017. ow
+4.7 The decision with respect to the various questions which arise in light of the
+aforesaid finding are as under:- v
+a) What shall be the time of supply? ee
+Since no specific contract details are available, we find that in general, the
+time of supply shall be the time prescribed under Section 13 of the CGST Act,
+2017.
+b) What shall be the HSN/SAC Code and rate of GST for such "supplies"?
+We find that the applicant is managing the entire project of construction and
+setting up of EHV Sub Station/EHV Lines on behalf of the customer. We
+also find that the asset so constructed is capitalized in the books of the
+applicant and is the property of the applicant. Since there is not transfer of
+property, the services provided by the applicant cannot be termed as a
+‘works contract’ because in terms of Section 2(119) works contract means a
+
+Page 26 of 44
+
+1/s. Maharashtra State Electricity Transmission Company Lin 1/83/ 2021-2
+
+Therefore the activity of managing a project of setting up a substation on behalf
+
+
+
+contract for building, construction, fabrication, completion, erection
+installation, fitting out, improvement, modification, repair, maintenance,
+renovation, alteration or commissioning of any immovable property
+wherein transfer of property in goods (whether as goods or in any other form
+) is involved in the execution of such contract. Further, we find that the
+service provided by the applicant is in the nature of assuming overall
+responsibility for the successful completion of a construction project on
+behalf of a client, including organizing the design, requesting tenders,
+performing management and control function falling under Heading
+998339.. Such services are chargeable to 18% GST (9% SGST + 9% CGST).
+
+Whether ITC on the running bills received from the contactor can be claimed
+by MSETCL? If ITC can be claimed by MSETCL, then whether ITC can be
+
+claimed in the period in which the running bill is received or on the receipt
+
+of the final invoice/completion of entire work? ae oan
+
+The issue of admissibility of input tax credit is covered under the provisions
+of Section 16 and 17 of the CGST Act, 2017. Subject to the fulfilment of all
+the conditions laid down under Section 16, the applicant would be entitled
+to avail the ITC if it is not restricted under Section 17 of the CGST Act, 2017.
+We find that the work of construction of EHV Sub Station/ EHV Lines is
+handed over by the applicant to sub-contractors. It appears that the said
+work done by the contractors would be a works contract service. We find
+that under Section 17(5)(d) of the Act, goods or services or both received by
+a taxable person for construction of immovable property (other than plant or
+machinery) on his own account, including when the goods or services are
+used for furtherance of business is not admissible. We find that the EHV Sub
+Stations and EHV Lines are embedded to earth and can be dismantled only
+by destroying the structure and cannot be shifted from one place to another
+place and therefore the said goods which are embedded to earth shall be
+considered as an immovable property. The term ‘Plant and Machinery’ has
+been defined in the explanation under Section 17 as apparatus, equipment
+
+and machinery fixed to earth by foundation or structural support that are
+
+Page 27 of 44
+
+Maharashtra State Electricity Transmission Company Limited /83/2021-22
+
+
+used for making outward supply of goods or services or both and includes
+such foundation and structural support but excludes land, building or any
+other civil structures; telecommunication towers and pipelines laid outside
+the factory premises. The Hon'ble Supreme Court of India in various
+decisions have held that whether a immovable property can be termed as a
+plant or machinery depends on various factors and facts of each case, the
+nature of the structure, the nature of business etc. In the instant case, for a
+generic question, it is not possible to decide whether any structure is a plant
+and machinery, without going into the facts and details in a particular case.
+From the sample agreement provided by the applicant, it is seen that the
+construction of EHV Substations involve setting up of civil structures such
+as control rooms, meter rooms, cable trenches, RCC Roads, pipelines, gantry
+foundations etc. Such structures would not qualify as plant and machinery
+as envisaged in the explanation under Section 17 of the CGST Act., 2017.
+However, it is not possible to arrive at a conclusion whether in the generic
+situation mentioned by the applicant, the service provided by the sub-
+contractors to the applicant for construction of an immovable property, can
+be covered under the definition of plant or machinery. Under the
+
+circumstances, it would not be possible to give any decision as‘to whether
+
+the input tax credit would be available to the applicant. However, on the
+basis of general understanding, if the activity of construction is in respect of
+plant and machinery, input tax credit would be available. If the activity of
+construction is in respect of any immovable property, that does not satisfy
+the definition of plant and machinery laid down in the Explanation under
+Section 17 of the CGST Act, 2017, no input tax credit would be available to
+the applicant. If input tax credit can be availed, it will be on the basis of the
+running bills raised by the sub-contractors.
+
+d. What shall be the value of supply at a particular moment when
+consideration is received?
+
+The value of supply shall be the value as determined under Section 15 of the
+CGST Act, 2017.
+
+Page 28 of 44
+
+M/s. Maharashtra State Electricity Transmission Compan mited/83/2021-22
+
+
+
+4.8 Transaction Type 3:
+Construction of New Transmission Bay/ Express Feeder for dedicated use of
+consumer by MSETCL through a contractor on the request of Dedicated
+Consumers on receipt of payment of consideration in the form of adjustable
+deposit.
+We find that the nature of service as informed by the applicant is as under:-
+
+i. Nature of contract: in this case, concerned Dedicated Consumers for the
+dedicated transmission bay/express feeder for uninterrupted electricity
+supply approach the MSETCL for construction of new transmission /
+electrical bay. For example, IT Hub approaches the MSETCL for
+construction of the new bay towards dedicated/uninterrupted power
+supplies for their IT Set-up.
+
+ii. Consideration: The respective ORC Consumer makes remittance (Deposit)
+of cost of construction of new transmission / electrical bay along with
+supervision charges to MSETCL. ne
+
+iii. Execution of contract: MSETCL further award the contract to the contractor
+
+for construction of new transmission / electrical bay by floating a tender.
+iv.Consideration paid to contractor: Contractor raises Running Account Bills,
+including GST as per stages of completion of work.
+
+v. Capitalization of property in assets: After the completion of work the
+Asset so created is adjusted against the remittance received from dedicated
+user/consumer. The Asset is capitalized in the MSETCL books at Re 1.
+
+We find that transmission bay is a functional unit where specific equipment in
+which circuit breakers, transformers and transmission lines are connected and
+managed. It facilitates the control, protection and isolation of electric power
+equipment ensuring the safe and efficient operation of the power system. It is
+a dedicated area within a substation that allows for the connection and
+management of a specific circuit or component. It is a part of a substation.
+Establishing a bay is a major part of the business of transmission of electricity.
+It is necessary to establish a bay for a dedicated consumer who requires
+
+uninterrupted power supply of certain megawatts and a feeder bay ensures
+
+Page 29 of 44
+
+Maharashtra State Electricity Transmission Company Limited /83/2021-22
+
+
+
+that the electricity can be provided to the consumer in an uninterrupted
+manner and ensuring that the grid is safe from surges and shortfalls. On
+verification of the sample agreement provided by the applicant between them
+and M/s. Afcons Infrastructure, it is seen that the construction of a new feeder
+bay involves lot of civil work in addition to electrical equipment, transmission
+towers, etc. We find that constructing and providing a feeder bay is a major
+activity of creating and using infrastructure by a transmission utility. It cannot
+be termed as incidental or ancillary activity of supply or transmission of
+electricity. As already discussed hereinabove, we find that the activities
+covered under S.No.25A of the Notification 12/2017 dated 28.6.2017 covers
+minor activities which are incidental or ancillary to the transmission. They
+involve functions to support the business of the dedicated consumer, which are
+minor in nature such as testing, repair, shifting of meters etc. Major activities
+such as setting up separate dedicated infrastructure to provide electricity does
+not form a part of the activities envisaged under Sr.No.25A. Such activities of
+setting up and construction of a Feeder Bay are major infrastructural
+
+development activities which are neither incidental nor ancillary but are
+
+= \)primary task of a transmission company. The activity of transmission cannot
+
+function of the applicant and it cannot be termed as incidental or ancillary
+activity. Therefore, we find that the provisions of S.No.25A of Notification
+No.12/2017 dated 28.6.2017, as amended, from time to time, would not be
+applicable to the services provided by the applicant of setting up of a feeder
+bay for the dedicated consumer. This is also not covered by entry 25 of the
+notification no. 12/2017 dated 28.06.2017 which only covers the services of
+transmission of electricity and not creation of infra for such transmission. The
+services provided by the applicant of setting up of infrastructure for
+transmission of electricity are more akin to managing the construction of
+
+infrastructure for provision of supply of electricity by providing skills of
+
+Page 30 of 44
+
+s. Maharashtra State Electricity Tr: mission Company Limite 83/ 2021-22
+
+be safely and successfully concluded without these critical infrastructures.
+Providing such infrastructure, constructing the same after - conducting,
+feasibility study and enabling construction of such infrastructure is the primary s
+
+
+engineering, project management and supervision of the actual construction.
+The services provided by the applicant of setting up of infrastructure for
+transmission of electricity are more akin to managing the construction of
+infrastructure for provision of supply of electricity by providing skills of
+engineering, project management and supervision of the actual construction.
+Supply has been defined under the CGST Act under Section 7 as all forms of
+supply of goods or services or both such as sale, transfer, barter, exchange,
+license, rental, lease or disposal made or agreed to be made for a consideration
+by a person in the course of furtherance of business. In the instant case, the
+applicant is providing a service to the customer for a consideration in the course
+of furtherance of their business. The activity of managing a project of setting
+up a feeder bay on behalf of the customer for providing dedicated and
+uninterrupted supply of electricity would be a supply in terms of the CGST
+Act, 2017.
+
+4.9 The decision with respect to the various questions which arise in light of the .—
+aforesaid finding are as under: -
+
+a) What shall be the time of supply?
+
+Since no specific contract details are available, we find that in general, the
+
+time of supply shall be the time prescribed under Section 13 of the CGST
+
+Act, 2017.
+
+What shall be the HSN/SAC Code and rate of GST for such "supplies"?
+
+We find that the applicant is managing the entire project of construction
+
+and setting up of feeder bay on behalf of the customer. We also find that
+
+the asset so constructed is capitalized in the books of the applicant and is
+the property of the applicant. Since there is not transfer of property, the
+services provided by the applicant cannot be termed as a ‘works contract’
+because in terms of Section 2(119) works contract means a contract for
+building, construction, fabrication, completion, erection installation, fitting
+out, improvement, modification, repair, maintenance, renovation,
+alteration or commissioning of any immovable property wherein transfer
+of property in goods (whether as goods or in any other form ) is involved
+
+Page 31 of 44
+
+1/s. Maharashtra State Electricity Transmission Company Limited/83/2021-22
+
+
+in the execution of such contract. Further, we find that the service provided
+by the applicant is in the nature of assuming overall responsibility for the
+successful completion of a construction project on behalf of a client,
+including organizing the design, requesting tenders, performing
+management and control function falling under Heading 998339. Such
+services are chargeable to 18% GST (9% SGST + 9% CGST).
+
+c) Whether ITC on the running bills received from the contactor can be
+claimed by MSETCL? If ITC can be claimed by MSETCL, then whether ITC
+can be claimed in the period in which the running bill is received or on the
+receipt of the final invoice/completion of entire work?
+
+The issue of admissibility of input tax credit is covered under the provisions
+
+of Section 16 and 17 of the CGST Act, 2017. Subject to the fulfilment of all the
+
+conditions laid down under Section 16, the applicant would be entitled to avail
+the ITC if it is not restricted under Section 17 of the CGST Act, 2017. We find
+that the work of construction of feeder bay is handed over by the applicant to
+sub-contractors. It appears that the said work done by the contractors would
+be a works contract service. We find that under Section 17(5)(d) of the Act,
+goods or services or both received by a taxable person for construction of
+immovable property (other than plant or machinery) on his own account,
+
+including when the goods or services are used for furtherance. of business is
+
+not admissible. We find that the feeder bay which comprises of transformers,
+transmission towers and structures are permanent structures embedded to. -
+earth and can be dismantled only by destroying the structure and cannot be
+shifted from one place to another place and therefore the said goods which are
+embedded to earth shall be considered as an immovable property. The term
+‘Plant and Machinery’ has been defined in the explanation under Section 17 as
+apparatus, equipment and machinery fixed to earth by foundation or
+structural support that are used for making outward supply of goods or
+services or both and includes such foundation and structural support but
+excludes land, building or any other civil structures; telecommunication
+towers and pipelines laid outside the factory premises. The Hon’ble Supreme
+
+Page 32 of 44
+
+M/s. Maharashtra State Electricity Transmission Company Limited /83/ 2021-22
+
+
+Court of India in various decisions have held that whether a immovable
+property can be termed as a plant or machinery depends on various factors
+and facts of each case, the nature of the structure, the nature of business etc.
+In the instant case, for a generic question, it is not possible to decide whether
+any structure is a plant and machinery, without going into the facts and details
+in a particular case. From the sample agreement provided by the applicant, it
+
+is seen that the construction of feeder bay involve lot of civil work. Its main
+
+components include setting up of transformers, transmission lines, and circuit
+
+breakers etc. Such structures would generally not qualify as plant and
+machinery as envisaged in the explanation under Section 17 of the CGST Act.,
+2017. However, it is not possible to arrive at a conclusion whether in the
+generic situation mentioned by the applicant, the service provided by the sub-
+contractors to the applicant for construction of an immovable property, can be
+covered under the definition of plant or machinery. Under the circumstances,
+
+it would not be possible to give any decision as to whether the input tax credit
+
+would be available to the applicant. However, on the basis of provisions of
+
+law, if the activity of construction is in respect of plant and machinery, input
+
+tax credit would be available. If the activity of construction is in respect of any
+
+achinery laid down under Section 17 of the CGST Act, 2017, no input tax
+
+redit would be available to the applicant. If input tax credit can be availed,
+
+it will be on the basis of the running bills raised by the sub-contractors.
+
+d. What shall be the value of supply at a particular moment when
+
+consideration is received?
+The value of supply shall be the value as determined under Section 15 of the
+CGST Act, 2017.
+
+4.10 We find that one of the issues raised by the applicant is whether they can be
+treated as a pure agent of the recipient of service as they recover only the cost
+which is incurred for construction of the EHV Substations, shifting of
+transmission towers and feeder bay and if there is any excess recovered, the
+
+same is returned back. They only keep their 15% supervisory charges. In this
+
+Page 33 of 44
+
+state E tricity [rar ssion Con ny Limited /83/2021-22
+
+immovable property that does not satisfy the definition of plant and ©
+
+9 da woe
+
+< 4445
+é
+
+/
+
+
+regard, it would be necessary to examine the facts of each particular case and
+the provisions of Rule 33 of the CGST Rules, 2017. Rule 33 of the CGST Rules,
+2017, reads as under: -
+
+Rule 33, Value of supply of services in case of pure agent. -
+
+Notwithstanding anything contained in the provisions of this Chapter, the
+expenditure or costs incurred by a supplier as a pure agent of the recipient of
+supply shall be excluded from the value of supply, if all the following conditions
+
+are satisfied, namely, -
+
+(i) the supplier acts as a pure agent of the recipient of the supply, when he
+makes the payment to the third party on authorisation by such recipient;
+
+(ti) the payment made by the pure agent on behalf of the recipient of supply has
+
+been separately indicated in the invoice issited by the pure agent to the recipient
+
+of service; and
+
+(iii) the supplies procured by the pure agent from the third party as a pure
+agent of the recipient of supply are in addition to the services he supplies on his
+
+own account.
+
+Explanation. - For the purposes of this rule, the expression "pure agent" 4
+means a person who- es
+
+(a) enters into a contractual agreement with the recipient of supply to act as ..*
+
+his pure agent to incur expenditure or costs in the course of supply of goods or * *
+services or both;
+
+(b) neither intends to hold nor holds any title to the goods or services or both ~~
+so procured or supplied as pure agent of the recipient of supply;
+
+(c) does not use for his own interest such goods or services so procured; and
+
+(d) receives only the actual amount incurred to procure such goods or services
+
+in addition to the amount received for supply he provides on his own account.
+Illustration. - Corporate services firm A is engaged to handle the legal work
+pertaining to the incorporation of Company B. Other than its service fees, A
+
+also recovers from B, registration fee and approval fee for the name of the
+company paid to the Registrar of Companies. The fees charged by the Registrar
+
+of Companies for the registration and approval of the name are compulsorily
+levied on B. A is merely acting as a pure agent in the payment of those fees.
+
+Page 34 of 44
+
+M/s. Maharashtra State Electricity Transmis n Comy ) ted /§3/2021-22
+
+
+Therefore, A' s recovery of such expenses is a disbursement and not part of the
+value of supply made by A to B.
+
+In order to exclude the cost incurred by the applicant for providing the services
+
+to the customer, from the value of the services, as a pure agent, the applicant
+
+should qualify as a pure agent. For the said purpose, all the conditions laid
+down for being eligible as a pure agent should be fulfilled.
+
+a) The first condition is that the supplier acts as a pure agent of the recipient of
+the supply. A pure agent means a person who enters into a contractual
+agreement with the recipient of supply to act as his pure agent to incur
+expenditure or costs in the course of supply of goods or services or both.
+
+b) The second condition is that he neither intends to hold nor hold any title to
+the goods or services or both so procured or supplied as pure agent of the
+recipient of supply.
+
+c) The third condition is that he does not use for his own interest such goods or“
+services so procured.
+
+d) The fourth condition is that he receives only the actual amount incurred to
+
+procure such goods or services in addition to the amount received for supply
+
+Zend the recipient, it is seen that the entire work has to be carried out by the
+applicant. In one other contract, it is seen that the option was given to the
+consumer to decide whether the service should be on the basis of 15% Supervision
+charge basis or all work to be executed by MSETCL on 100% deposit basis and the
+approval is given for the work to be executed by MSETCL on 100% basis. Such
+contracts are ‘cost plus contracts’. All the responsibility for completion of the
+work satisfactory lies on the applicant. They are not acting as agents of the
+recipient of the service. Secondly, the second condition that the applicant shall
+not hold any title to the goods or services provided by the sub-contractor also does
+not get satisfied as the applicant holds the title of all the goods and services
+
+supplied by the sub-contractor. In fact, the constructed asset is capitalized in the
+
+Page 35 of 44
+
+Maharashtra State Electricity Transmission Company Limited /83/2021-22
+
+
+books of the applicant. Thirdly, such goods or services should not be used by the
+agent for his own interest. In the instant case, the constructed sub stations,
+transmission lines etc., are used by the applicant for providing their services of
+transmission of electricity. Thus, we find that the applicant does not fulfill the
+conditions laid down for a pure agent and therefore, the applicant would not be
+
+treated as a pure agent in these types of transactions.
+
+4.12. Transaction Type 4:
+Spare Existing Asset available with MSETCL (like express feeder, bay etc.) is
+allotted by MSETCL to the dedicated consumers for its dedicated use on payment
+for a specified duration.
+The scope of such type of activities are explained by the applicant as under:-
+
+i. Nature of contract: In this case, the existing Asset (like bay etc.) available as a
+spare with MSETCL, is allotted to the Dedicated Consumers for their demand
+for its dedicated use by respective consumer. For example, IT Hub
+approaches the MSETCL for allotment of spare bay/feeder , towards
+dedicated/uninterrupted power supplies for their IT Set-up. t ; ApS
+. Consideration: The cost of asset already constructed is recovered from the
+consumer and deposit received from the consumer is adjusted against the
+
+asset. Entire consideration as per the latest Schedules of Rates (SOR) is
+
+received upfront and bay is then used by Dedicated Consumers.
+
+iii. Transfer of asset: Needs clarity on these issues. Whether it is renting of ~
+
+immovable property? Cost of asset is recovered from customer, how is the
+
+asset valued? Is the asset transferred to the consumer?
+From the nature of the activity, it is seen that the applicant has already constructed
+a feeder bay which is not used by any dedicated user. When a new user seeks
+electricity from the applicant for a particular period of time, they allot the spare
+feeder bay to the said consumer for a specified duration. For the said purpose,
+they recover the cost of the already constructed feeder bay as charges for the
+infrastructure required for dedicated supply of electricity. It can be seen that the
+said activity of allotment of a feeder bay for a specified period is in the nature of
+renting out of immovable property for use by a consumer for a specified period.
+
+Page 36 of 44
+
+M/s. Maharashtra State Electricity Transmission Compe nited / 83 / 2021-22
+
+“
+
+
+Though the applicant is silent about the transfer of asset, it is seen that the asset
+was already on the books of the applicant and that the allotment of the feeder bay
+is only for a specified period. The applicant is silent about who will maintain the
+said asset, whether it will be run by the applicant or the consumer, but taking into
+consideration the fact that transmission of electricity through a feeder bay is a
+dedicated and sophisticated task which will be handled by the transmission
+utility ie. the applicant and such tasks would not be handed over to consumers
+of the electricity. Thus, it can be safely concluded that the activity of allotment of
+feeder bay to the consumer for a consideration which is equal or the present cost
+of construction of the said asset is an activity which is in the nature of renting out
+of an immovable property. We have already discussed hereinabove that the
+feeder bay constructed by the applicant is an immovable property and therefore
+allotment of the same for use by the dedicated consumer for a consideration, for
+
+a specified period would amount to supply of services. Further, these services are
+
+minimum fixed quantity of electricity over a specified period of time. Therefore,
+these activities cannot be termed as incidental or ancillary to the service of
+transmission of electricity but has to be considered as one of the main activities of
+the transmission utility so as to ensure optimum utilization of resources.
+Therefore, we find that such an activity would not get covered under the services
+mentioned under S.No.25 A of Notification No.12/2017 Central Tax (Rate) dated
+28.6.2017. Further, since the said activity is undertaken by the applicant for a
+consideration under a contract for the furtherance of their business, such activity
+would amount to supply of services.
+
+4.13 With regard to the various issues raised in respect of transaction, we rule as under:-
+
+a) What shall be the time of supply?
+
+Page 37 of 44
+
+y Limited /83/ 2021-22
+
+
+Since no specific contract details are available, we find that in general, the time
+of supply shall be the time prescribed under Section 13 of the CGST Act, 2017.
+b) What shall be the HSN/SAC Code and rate of GST for such "supplies"?
+
+We find that the applicant is renting out immovable property for
+consideration. Renting of immovable property includes renting, letting,
+leasing, licencing or other similar arrangements of the immovable property.
+Such activity is a service and is subject to GST. It is classifiable under heading
+997212 which includes services such as rental or leasing services concerning
+industrial property by owners and is chargeable to GST @ 18% i.e. (9%CGST
++ 9%SGST).
+c) Whether ITC on the running bills received from the contactor can be
+claimed by MSETCL? If ITC can be claimed by MSETCL, then whether ITC
+
+can be claimed in the period in which the running bill is received or on the
+
+receipt of the final invoice/completion of entire work?
+ot applicable in this type of transaction.
+
+). What shall be the value of supply at a particular moment when
+consideration is received?
+The value of supply shall be the value as determined under Section 15 of the
+
+CGST Act, 2017.
+4.14 Another issue raised by the applicant is that in cases where, the deposit obtained
+
+from the end users becomes excess on the final completion of the works and the
+excess amount is refunded back to the Dedicated Consumers, then whether credit
+can be claimed for the purposes of GST liability in respect of the said amount?
+This question is asked because the works get completed even after a lapse of 2-3
+years. It would not be out of place to mention that the amount received by the
+applicant is in respect of the services provided by them for setting up of Sub
+Stations, Shifting of transmission lines and construction of feeder bay etc.
+
+4.15 After getting request from Dedicated Consumer for transaction enlisted above,
+the applicant gives estimated value of work to be done along with applicable GST
+and asks the dedicated consumer to deposit whole amount into applicant's
+account. Then, applicant issue invoice to Dedicated Consumer along with
+
+applicable GST. Some time, estimate given and amount received from the end
+
+Page 38 of 44
+
+1/5, Maharashtra State Electricity Transmission Compan) nited /83/ 2021-22
+
+
+users becomes excess on the final completion of the works and the excess amount
+is refunded back to the Dedicated Consumers. The, question raised is whether
+credit can be claimed for the purposes of GST liability in respect of the said
+amount refunded. To claim credit, Applicant has to issue credit note to Dedicated
+Consumer. As per section 2(37), “credit note“means a document issued by a
+registered person under sub-section (1) of section 34.
+
+The provisions of Section 34 (1) and (2) are as under-
+
+1.Where one or more tax invoices have been issued for supply of any goods or
+services or both and the taxable value or tax charged in that tax invoice is found
+to exceed the taxable value or tax payable in respect of such supply, or where the
+goods supplied are returned by the recipient, or where goods or services or both
+supplied are found to be deficient, the registered person, who has supplied such
+goods or services or both, may issue to the recipient one or more credit notes for”
+supplies made in a financial year] containing such particulars as may be
+prescribed. i
+2.Any registered person who issues a credit note in relation to a supply of goods
+or services or both shall declare the details of such credit note in the return for the
+month during which such credit note has been issued but not later than ( The
+thirtieth day of November) following the end of the financial year in which such
+supply was made, or the date of furnishing of the relevant annual return,
+whichever is earlier, and the tax liability shall be adjusted in such manner as may
+e prescribed:
+
+rovided that no reduction in output tax liability of the supplier shall be
+ermitted, if the incidence of tax and interest on such supply has been passed on
+= /fo any other person.
+
+#f applicant fulfill the conditions mentioned in section 34(2), he is eligible to take
+credit of such credit notes issued failing which no credit can be availed.
+
+4.16 Another issue raised by the applicant is in cases where, the deposit obtained from
+the Dedicated Consumers falls short on the final completion of the works and if
+such amount is recovered from the end user, then whether the applicant shall be
+liable to pay GST on the same and if yes, then what shall be the time of supply in
+this case. The applicant claims that some time, estimate given and amount
+received from the Dedicated Consumers falls short on the final completion of the
+works and if such amount is recovered from the end user then question raised by
+the applicant that whether we shall be liable to pay GST on the same. We find
+
+that to claim additional amount, Applicant will have to issue debit note to
+
+Page 39 of 44
+
+a State Electricit ransmission Company Limited /83/ 2021-22
+
+
+Dedicated Consumer. As per section 2(38), “debit note“ means a document issued
+by a registered person under sub-section (3) of section 34.
+The provisions of Section 34 (3) and (4) are as under-
+
+(3) Where one or more tax invoices have been issued for supply of any goods or
+services or both and the taxable value or tax charged in that tax invoice is found to
+be less than the taxable value or tax payable in respect of such supply, the registered
+person, who has supplied such goods or services or both, shall issue to the recipient
+[one or more debit notes for supplies made in a financial year] containing such
+particulars as may be prescribed.
+(4) Any registered person who issues a debit note in relation to a supply of goods
+or services or both shall declare the details of such debit note in the return for the
+month during which such debit note has been issued and the tax liability shall be
+adjusted in such manner as may be prescribed.
+
+Explanation.--For the purposes of this Act, the expression “debit note” shall
+include a supplementary invoice.
+
+In view of the above provision, it is clear that any person who issues a debit
+
+in relation to a supply of goods or services or both shall declare the details of
+
+5. In view of the extensive deliberations as held hereinabove, we pass an order as
+follows:
+ORDER
+(Under Section 98 of the Central Goods and Services Tax Act, 2017 and the
+Maharashtra Goods and Services Tax Act, 2017)
+
+NO.GST-ARA- 83/2021-22/B- 21 G4 Mumbai,dt. 20] 04) 20 2—-
+
+For reasons as discussed in the body of the order, the question is answered thus -
+1. Whether the following works undertaken by MSETCL can be termed as "supply"
+to the Dedicated Consumers?
+
+a. Transaction One: Shifting/Height raising of Transmission Towers/Lines,
+belonging to MSETCL through a contractor on the request of the Dedicated
+Consumers such as railways, National Highway Authority of India etc. on
+receipt of payment of consideration in the form of adjustable deposit.
+Answer: Yes.
+
+2(a) If the works are decided as "supply, then:
+Page 40 of 44
+
+M/s. Maharashtra State Electricity Transmission Company Limited /83/2021-22
+
+
+a. What shall be the time of supply?
+
+Answer: Time of Supply shall be the time prescribed under Section 13 of the .
+CGST Act, 2017.
+
+b. What shall be the HSN/SAC Code and rate of GST for such "supplies"?
+
+Answer: The service would be covered under the services of agreeing to do
+an act for a consideration and would be classifiable under Heading
+999792 and chargeable to 18% GST (9% SGST + 9% CGST).
+
+c. Whether ITC on the running bills received from the contactor can be claimed
+by MSETCL? If ITC can be claimed by MSETCL, then whether ITC can be
+claimed in the period in which the running bill is received or on the receipt
+of the final invoice/completion of entire work?
+
+Answer: Not answered due to generic nature of the question.
+
+d. What shall be the value of supply at a particular moment when consideration
+is received? :
+Answer: Value of supply shall be the value determined under Section 15 of
+
+the CGST Act, 2017.
+1(b) Whether the following works undertaken by MSETCL can be termed as
+
+"supply" to the Dedicated Consumers?
+
+b. Construction of EHV Substations and EHV Lines for dedicated user of
+Dedicated Consumers by MSETCL through a contractor on the request of the
+end users on receipt of payment of consideration in the form of adjustable deposit.
+swer: Yes.
+the works are decided as "supply, then:
+a. What shall be the time of supply?
+Answer: Time of Supply shall be the time prescribed under Section 13 of the
+CGST Act, 2017.
+b. What shall be the HSN/SAC Code and rate of GST for such "supplies"?
+Answer: The services provided by the applicant is classifiable under
+Heading 998339.. Such services are chargeable to 18% GST (9%
+SGST + 9% CGST).
+
+Page 41 of 44
+
+Maharashtra State Electricity n ssion Compar nited /$3/ 2021-22
+
+
+c. Whether ITC on the running bills received from the contactor can be claimed
+by MSETCL? If ITC can be claimed by MSETCL, then whether ITC can be
+claimed in the period in which the running bill is received or on the receipt
+of the final invoice/completion of entire work?
+
+Answer: Not answered due to generic nature of the question.
+d What shall be the value of supply at a particular moment when
+consideration is received?
+Answer: Value of supply shall be the value determined under Section 15
+of the CGST Act, 2017.
+1(c) Whether the following works undertaken by MSETCL can be termed as
+"supply" to the Dedicated Consumers?
+
+c. Construction of new transmission bay/express feeder for dedicated use of
+Consumer by MSETCL through a contractor on the request of the
+Dedicated Consumers on receipt of payment of consideration in the
+form of adjustable deposit:
+
+Answer: Yes.
+
+If the works are decided as "supply, then:
+a. What shall be the time of supply?
+Answer: Time of Supply shall be the time prescribed under Section 13 of
+the CGST Act, 2017.
+b. What shall be the HSN/SAC Code and rate of GST for such "supplies"?
+Answer: The services provided by the applicant is classifiable under
+Heading 998339. Such services are chargeable to 18% GST (9%
+SGST + 9% CGST).
+
+c. Whether ITC on the running bills received from the contactor can be
+claimed by MSETCL? If ITC can be claimed by MSETCL, then whether
+ITC can be claimed in the period in which the running bill is received or
+on the receipt of the final invoice/completion of entire work?
+
+Answer: Not answered due to generic nature of the question.
+d. What shall be the value of supply at a particular moment when
+
+consideration is received?
+
+Page 42 of 44
+
+M/s. Maharashtra State Electricity Transmis
+
+
+
+Answer: Value of supply shall be the value determined under Section 15
+of the CGST Act, 2017.
+1(d) Whether the following works undertaken by MSETCL can be termed as
+
+"supply" to the Dedicated Consumers?
+
+d. Spare existing asset available with MSETCL (like express feeder, bay etc.)
+is allotted by MSETCL to the Dedicated Consumers for its dedicated use
+on payment for a specified duration:
+
+Answer: Yes.
+2(d) If the works are decided as "supply, then:
+
+a. What shall be the time of supply?
+
+Answer: Time of Supply shall be the time prescribed under Section 13 of
+the CGST Act, 2017.
+b. What shall be the HSN/SAC Code and rate of GST for such "supplies"?
+
+Answer: The services are classifiable under heading 997212 which
+includes services such as rental or leasing services concerning
+industrial property by owners and is chargeable to GST @ 18%
+
+ie. (9%CGST + 9%SGST).
+Whether ITC on the running bills received from the contactor can be
+claimed by MSETCL? If ITC can be claimed by MSETCL, then whether
+ITC can be claimed in the period in which the running bill is received or
+
+on the receipt of the final invoice/completion of entire work?
+
+Answer: Not applicable.
+d. What shall be the value of supply at a particular moment when
+consideration is received?
+Answer; Value of supply shall be the value determined under Section 15
+of the CGST Act, 2017.
+
+3: In case, the deposit obtained from the end users becomes excess on the final
+completion of the works and the excess amount is refunded back to the
+Dedicated Consumers, then whether credit can be claimed for the purposes
+of GST liability in respect of the said amount? This question is asked because
+
+the works get completed even after a lapse of 2-3 years.
+
+Page 43 of 44
+
+M/s. Maharashtra State Electricity Transmission Company Limited /83/2021-22
+
+
+M
+Ml
+
+Answer: - Answered in negative.
+
+4: In case, the deposit obtained from the Dedicated Consumers falls short on the
+final completion of the works and if such amount is recovered from the end
+user, then whether we shall be liable to pay GST on the same and if yes, then
+what shall be the time of supply in this case? This question is asked because
+the works get completed even after a lapse of 2-3 years.
+
+Answer: - Answered in positive. The time of supply is time at which advance is
+
+received.
+
+ae
+OO; mud
+
+a
+
+PRIYA JADHAV
+(MEMBER)
+
+3. The Commissioner of State Tax, Maharashtra State, Mumbai
+4. The Pr. Chief Commissioner of Central Tax, Churchgate, Mumbai
+5. The Joint commissioner of State Tax, Mahavikas for Website.
+
+Note: -An Appeal against this advance ruling order shall be made before The
+Maharashtra Appellate Authority for Advance Ruling for Goods and Services Tax,
+15th floor, Air India Building, Nariman Point, Mumbai - 400021. Online facility is
+available on gst.gov.in for online appeal application against order passed by
+Advance Ruling Authority.
+
+Page 44 of 44
+
+/s. Maharashtra State Electricity Transmission Company Limited /83/2021-22

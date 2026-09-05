@@ -1,0 +1,1431 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+(constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri B. V. Borhade, Joint Commissioner of State Tax
+(2) Shri Pankaj Kumar, Joint Commissioner of Central Tax
+
+GSTIN Number, if any/ User-id 27AABCB1518LIZS
+
+Legal Name of Applicant Bajaj Finance Limited
+
+Registered Address/ Address provided | 3rd Floor, Panchshil Tech Park, Viman Nagar, Pune-
+while obtaining user id 411 014
+
+Details of application GST-ARA, Application No, 22 Dated_09.05.2018
+
+Concerned officer State Tax Officer (VAT-C-707) Pune
+
+Nature of activity(s) (proposed /
+
+present) in respect of which advance
+
+ruling sought
+
+A Category Service Provision
+
+B Description (in brief) e The Applicant is a non-banking financial institute and is
+inter alia engaged in providing various types of loan to the
+customers such as auto loans, loan against the property,
+personal loan, consumer durable goods loan, etc.
+
+e Incase of delay in repayment of dues by the customers,
+the Applicant collects penal/default interest as an
+additional interest for the number of days of delay in terms
+of the agreements executed by the customers.
+
+on which advance ruling | (ii) applicability of notification issued under the provisions
+of the Act
+(iii) determination of time and value of supply of goods or
+services or both
+(vii) whether any particular thing done by the applicant with
+respect to any goods and/or services or both amounts to or
+results in a supply of goods and/or services or both, within
+the meaning of that term
+
+Question(s) on which advance ruling is | As reproduced in para 02 of the Proceedings below.
+
+required
+
+PROCEEDINGS
+
+(under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods and
+Services Tax Act, 2017)
+
+The present application has been filed under section 97 of the Central Goods and Services Tax Act,
+2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as “the CGST Act and
+MGST Act”] by Bajaj Finance Limited, the applicant, seeking an advance ruling in respect of the following
+
+questions:
+
+i) Whether the Penal Interest is to be treated as interest for the purpose of exemption under Sr. No.
+27 of Notification No. 12/2017Central Tax (Rate) dated 28.06.2017, Sr. No. 27 of Maharashtra State
+Notification No. 12/2017-State Tax (Rate) dated 29.06.2017, and Sr. No. 28 of Notification No.
+9/2017Integrated Tax (Rate) dated 28.06.2017?
+
+ii) If the answer to the above is negative, whether the activity of collecting penal interest by the
+
+Applicant would amount to a taxable supply under the GST regime?
+
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and the
+MGST Act are the same except for certain provisions. Therefore, unless a mention is specifically made to
+such dissimilar provisions, a reference to the CGST Act would also mean a reference to the same provision
+under the MGST Act. Further to the earlier, henceforth for the purposes of this Advance Ruling, a reference
+to such a similar provision under the CGST Act / MGST Act would be mentioned as being under the “GST
+
+Act”.
+02. FACTS AND CONTENTION - AS PER THE APPLICANT
+The submissions, as reproduced verbatim, could be seen thus-
+1, The Applicant is a non-banking financial company and is inter alia engaged in providing various types of
+
+loan to the customers such as auto loans, loan against the property, personal loans, consumer durable goods
+loans, etc. All these loans are interest bearing loans.
+
+2, The Applicant inter alia enters into agreements with borrower/ customers for providing loans to them. The
+loan agreements provide for repayment of the outstanding dues/Equated Monthly Installments (EMI)
+through cheque/ Electronic Clearing System (ECS) National Automated Clearing House ('NACH) or any
+other electronic or clearing mandate. The illustrative copies of loan agreement entered into between the
+Applicant and the customers are collectively enclosed as Annexure-1.
+
+3. The installment of a loan is computed taking into consideration the amount of loan, duration of the loan and
+the amount of EMI that would be payable by the customer to the Applicant. EMI paid by the customer is a
+fixed amount payable at a specified date. EMI are used to pay-off both interest and principal amount.
+
+4. In case of delay in repayment of EMI by the customers, the Applicant collects penal/default interest
+
+(hereinafter referred to as "penal interest’) as an additional interest for the number of days of delay in terms
+
+of the agreements executed by the customers. The penal interest is calculated at a fixed percentage on the
+
+overdue loan amounts of the customer. The percentage of penal interest varies from customer to customer,
+and generally ranges between 2% to 4% per month depending on the product.
+
+The illustrative copies of customer account statement reflecting the penal interest collected by the Applicant
+
+are collectively enclosed as Annexure-2.
+
+he relevant extract of clauses of a sample auto loan agr
+
+low for ease of reference:
+
+"1. DEFINITIONS AND ABBREVIATIONS,
+r. “Penal Charges" shall mean and include overdue charges on non paymen
+
+eement in respect of penal interest is reproduced
+
+t of installment on the due date.
+
+I. TERMS OF THE LOAN:
+as 3. The Borrower agrees and confirms that:
+L— $f (iv) BFL is entitled to levy penalty as follows on default
+
+AS ;
+eo contining non payment of amount due, a penalty not exceeding 3% per month on amount due calculated on pro-rata basis
+aeFrom due date till actually paid as per clause B of the schedule.
+
+asin Emphasis Supplied
+
+6. The amount of penal interest collected from the customers are accounted by the Applicant in its core
+accounting platform i.e. SAP under General Ledger Code 60000150.
+
+z Under the GST (implemented from July 01, 2017), the Applicant is of
+from the customer is in the nature of additional interest, and therefore,
+However, given the ambiguity on taxability of penal interest under the GST law,
+Applicant is filing the present application for Advance Ruling.
+
+Statement containing the Applicant's interpretation of law and/or facts, as the case may be, in respect of question(s)
+
+on which Advance Ruling is sought
+
+2. Issue(s) requiring Advance Ruling
+
+21 Based on the above, the Applicant would like to seek an advance ruling, on the following questions:
+|) Whether the Penal Interest is to be treated as interest for the purpose of exemption under Sr. No. 27
+of Notification No. 12/2017-Central Tax (Rate) dated 28.06.2017, Sr. No. 27 of Maharashtra State
+Notification No. 12/2017-State Tax (Rate) dated 29.06.2017, and Sr. No. 28 of Notification No.
+
+9/2017-Integrated Tax (Rate) dated 28.06.2017?
+If the answer to the above is negative, whether the activity of collecting penal interest by the
+
+the view that penal interest collected
+the same is not subjected to GST levy.
+as an abundant caution, the
+
+ii)
+Applicant would amount to a taxable supply under the GST regime?
+3. Applicant's Interpretation
+3.1 With respect to the questions framed above, the Applicant has analyzed the relevant legal provisions in the
+ensuing paras.
+A. Penal Interest is an additional interest on the overdue loan installment, and therefore, would be exempt
+
+from GST. To further emphasis, penal interest should be treated as a part of interest, and therefore, would
+be exempt from GST.
+Al Under the GST regime,
+'supply' is provided under Sectio
+services such as sale, transfer, barter, exchange, license, rental, lease or dis,
+
+the taxable event shall be the supply of goods or services. The scope of the term
+
+n 7 of the CGST Act, which includes all forms of supply of goods and/or
+posal made or agreed to be made
+
+2
+
+
+for a consideration in the course or furtherance of business and importation of services. It also includes
+activities specified in Schedule I made or agreed to be made without a consideration.
+
+A2 Vide Notification No. 12/2017-Central Tax (Rate) dated 28.06.2017, the Central Government, in view of
+powers conferred by Section 11 of the CGST Act, has notified various intra-state supply of services which are
+exempt from CGST. The Serial No. 27 of the said Notification, inter alia, grants exemption to the services by
+way of extending loans, in so far as the consideration is represented by way of interest. The relevant portion
+of the said Exemption Notification is reproduced herein below:
+
+SI. Chapter, Section, Heading, Group | Description of Services Rate (per | Condition
+or Service Code (Tariff) cent.)
+
+(1) (2) (3)
+
+27 Heading 9971 Services by way of (a) extending | Nil Nil
+
+deposits, loans or advances in so far as
+the consideration is represented by way
+of interest or discount (other than
+interest involved in credit card services):
+
+A3 Similar exemption has been granted by the respective State Governments in respect of the State Goods and
+Services Tax (SGST’) leviable on intra-state supplies. The Serial No. 27 of Maharashtra State Notification No.
+12/2017-State Tax (Rate) dated 29.06.2017 provides for the exemption to the above said services provided in
+the State of Maharashtra. Further, similar exemption has been granted by the Central Government vide Serial
+No. 28 of Notification No. 9/2017-Integrated Tax (Rate) dated 28.06.2017, in respect of the Integrated Goods
+and Services Tax ("IGST') leviable on inter-state supply of the above said services.
+
+AA In view of the above, it is submitted that services of providing loans is exempt under the GST regime, in so
+far as the consideration of the said services is represented by way of interest. In other words, interest on loans
+is not subjected to GST levy.
+
+In this regard, attention is kindly brought towards the definition of the term ‘interest provided under clause
+
+(zk) of para 2 of the above said Exemption Notifications, which reads as under:
+
+“(zk) "interest" means interest payable in any manner in respect of any moneys borrowed or debt
+urred (including a deposit, claim or other similar right or obligation) but does not include any service fee or other
+¢ in respect of the moneys borrowed or debt incurred or in respect of any credit facility which has not been utilised;"
+9 or | rr) Emphasis Supplied
+
+| Ab } Thd}above definition clearly states that interest’ means interest payable in any manner in respect of any
+
+‘agfeys borrowed or debt incurred. It is submitted in this regard that the Penal Interest collected by the
+
+licant is an additional interest for the delay in payment of loan installment beyond the due date. It is
+
+Yon the assumption that all the installments would be paid on time. However, in case, there is any delay in
+payment of the installments, the interest for the period of delay is not included in the EMI / installment
+amount, and is therefore charged separately from the customers as penal interest. It is therefore submitted
+that the penal interest collected by the Applicant, which represents the time value of money for the period of
+delay in making payment of installment, is nothing but additional interest on loan. Therefore, the penal
+interest shall be given similar treatment as that of the principal interest which is factored in EMI / installment
+amount, and hence, the same shall also be covered under the definition of interest.
+
+A7 It is further submitted that the amount of overdue loan installment is virtually a new loan transaction given
+to the borrower/ customer for the period of delay, the consideration for which is the penal interest charged
+on such overdue loan installment. It is submitted in this regard that where the Applicant grants loan to a
+customer for a specified duration of time, it earns interest on such loan, which represents consideration for
+use of money for that specified period of time. Similarly, when the customer delays the payment of
+installment of loan beyond the due date as provided in the agreement, the Applicant levies additional interest
+(which is termed as "Penal Interest’) for use of the money beyond the stipulated period of time by the
+borrowers/ customers. The manner of calculation of such Penal Interest substantiates that the penal interest
+is the time value of money, in as much as the same is calculated at a fixed rate per annum on the overdue
+loan installments for the period of delay. In this regard, the sample working of the penal interest is already
+enclosed as Annexure-3.
+
+As Hence, in view of the above, it is submitted that the penal interest collected by the Applicant is nothing but
+interest on loans only.
+Ad It is relevant to note that the term interest has been discussed at length by various Courts holding that interest
+
+is the return or compensation for the use or retention by one person, of a sum of money belonging to or owed
+to another. In this regard, reliance is placed on the Supreme Court judgment in the case of Central Bank of
+India vs. Ravindra, reported at 2002 (1) SCC 367.
+
+A.10 Reliance is this regard is also placed on the following judgments of the Hon'ble Madras High Court, wherein
+it was held that any amount paid over and above the principal amount was interest:
+¢ Edupuganti Pitchayya and Ors. vs. Gonuguntla Venkata Ranga Row, AIR 1944 (Mad) 243
+e V. Srinivasachariar vs. Conjeevaram Hodgsonpet Dharamarakshaka Nidhi Ltd, 1940 APR (Mad) 937
+
+3
+
+
+All From the above judgments, it comes out clearly that any consideration received for money is nothing but
+interest only. In the present case, the Penal Interest charged by the Applicant is the additional interest for
+usage of the amount of overdue loan installment by the borrowers/ customers for additional time beyond the
+stipulated time period. This additional interest received is therefore in the nature of interest’ only. Therefore,
+the above said judgments explaining The meaning of the term ‘ interest’ would be applicable in the present
+case as well.
+
+A112 It is further submitted that the nomenclature given to a particular. object/ transaction would not affect its
+taxability. It is a settled principle of law that nomenclature alone would not determine the nature of
+transaction. In this regard, reliance is placed on the decision of the Hon'ble Supreme Court in the case of
+Moped India Limited reported at 1986 (23) ELT 8 (SC). It is therefore submitted that even though, the interest
+for the use of money (i.e. the overdue loan installment) by the defaulting customers for an additional time
+period beyond the due date is being termed as "penal interest", the same would not change its nature from
+being interest".
+
+A.13 In view of the above, it is submitted that the Penal Interest collected by the Applicant, which represents the
+consideration for time value of money, is interest only, and therefore, shall be exempt from GST under the
+Exemption Notifications referred to in para A.2 & A.3 above.
+
+A114 Without prejudice to the above, it is submitted that in view of clause (d) of sub-section (2) of Section 15 of the
+CGST Act, the penal interest being an interest/ penalty for delayed payment of any consideration for a supply
+would be included in the value of that supply, which is interest. Therefore, any treatment given to the main
+consideration (i.e. interest) shall also be equally applicable to such amount (i.e. penal interest). Hence, even
+by applying the said provision in the present case, the penal interest so collected by the Applicant would be
+having the same tax treatment as in the case of interest, and therefore, it would be exempt from GST under
+the Exemption Notifications referred to in para A.2 & A.3 above.
+
+B. Without prejudice to the above, assuming that Penal Interest is not interest, the same shall not be treated
+as a consideration for any supply.
+B1 Without prejudice to the above, assuming without accepting that Penal Interest is not interest, the same shall
+
+not be treated as a consideration for any supply. It is submitted that the term ‘consideration is defined under
+Section 2 (31) the CGST Act as under:
+" (31) "consideration" in relation to the supply of goods or services or both includes
+(a) any payment made or to be made, whether in money or otherwise, in respect of, in
+response to, or for the inducement of the supply of goods or services or both, whether by the recipient or by any
+other person but shall not include any subsidy given by the Central Government or a State Government;
+(b) the monetary value of any act or forbearance, in respect of, in response to, or for the inducement of the
+supply of goods or services or both, whether by the recipieni or by any other person but shall not include any
+subsidy given by the Central Government or a State Government."
+ce the above definition is an inclusive one, the meaning of the term ‘consideration will have to be
+derstood from various external aids, including the natural meaning given in various dictionaries, meaning
+ven to the term in rulings by various forums, etc.
+t is submitted that the concept of consideration has been derived from the Latin phrase "quid pro quo" which
+va means "something for something". It is a well settled principle that "where there is no consideration, there is
+
+\S
+
+Z wee pe
+~% TRA ee no contract".
+“SSG 4 Reference in this regard is made to the definition of the term ‘consideration provided in Section 2(d) of the
+Indian Contract Act, 1872 (hereinafter referred to as 'the Contract Act), which reads as under:
+"When, at the desire of the promisor, the promisee or any other person has done or abstained from doing,
+or does or abstains from doing, or promises to do or to abstain from doing, something, such act or abstinence
+or promise is called a consideration for the promise."
+
+BS Furthermore, it is submitted that various dictionaries define the term ‘consideration as follows:
+
+BLACK LAW DICTIONARY
+
+Consideration means something which is of value in the eye of liv, moving from the plaintiff., either of benefit
+to the plaintiff or of detriment 10 the defendant.
+
+WEBSTER DICTIONARY
+
+Something of value given or done in exchange for something of value given or clone by another, in order to
+make binding contract; inducement for a contract,
+
+B.6 From the above discussed meaning of the term consideration’, it can be said that consideration would
+necessarily mean "quid pro quo", i. e. Something in return. It is a benefit which must be bargained for between
+the parties, and is essential reason for a party entering into a contract. Further, the consideration for an activity
+must be at the desire of the other person.
+
+B7 In the present case, the penal interest is collected by the Applicant on account of default committed by the
+customers in making repayment of overdue loan installments in time. Therefore, it is submitted that the penal
+interest is not recovered by the Applicant in lieu of, or, in return for any activity performed by the Applicant.
+
+B8 The Applicant would like to bring your attention to clause (d) of sub-section (1) of Section 7 of the CGST Act,
+which states that the expression supply also includes the activities to be treated as supply of goods or supply
+of services as referred to in Schedule II. Entry 5 of Schedule II specifies the list of activities to be treated as
+supply of services, which inter alia contains clause (e), which‘ reads as agreeing to the obligation to refrain from
+an act, or to tolerate an act or a situation, or to do anact’..
+
+
+
+B.9. It is submitted in this regard that the expression to tolerate an act’ used in the above clause. should be
+understood to cover instances where the consideration is being charged by one person. in order to allow
+another person to undertake any particular activity. These are the cases, where it is clear at the very inception
+that the intention of one party is to undertake an activity and the other party shall allow the same without
+any hindrance. Such a contract is entered with an intention to allow the other person to carry out an activity,
+and not as a penalty/ line to deter such person to repeat the act in future. Even if such activity is repeated in
+future, there is no intention to deter the happening of the same,
+
+3:10. The expression agreeing to tolerate in act' cannot be construed to include situations wherein liquidated
+damages/ penalty is charged by a party for defaults! breach committed by other party under the contract. In
+fact, the very intention of such penal clauses is to create a deterrent effect and ensure that the
+defaults/ violations are not repeated by the erring party,
+
+Bll It is further submitted that the word ‘obligation used in Clause (e), Entry 5 of Schedule II of the CGST Act,
+indicates the need for the existence of the desire in the person for whom the activity is done. In other words,
+when the service recipient requests the service provider to tolerate an act/ situation and the service provider
+obliges to tolerate for a consideration, then such a contractual relationship will get covered by the said clause
+of Schedule II of the CGST Act. In such situation, the service provider binds himself to act in a particular
+manner as desired by the service recipient and there is consensus ad idem between the contracting parties to
+this effect.
+
+B.12 Contrary to the above, the penal interest is collected only on happening of any event of default by the
+customers in making the payment of loan installments. It is submitted in this regard that the intention of the
+parties entering into loan agreement is to grant/avail loan and not to tolerate non-payment of loan dues.
+Therefore, it would be erroneous to assume that the party granting loan (i.e. the Applicant) are entering the
+loan agreement to tolerate the default of the borrowers/ customers. Therefore, merely because of existence of
+the clause of penal interest in the contract for breach of the performance of the contract, it does not mean that
+the parties have entered into the contract for the penal interest. Hence, it is submitted that there is no
+obligation on the Applicant to tolerate the act of the delay in payment of loan installments by the
+customer/ borrower.
+
+B.13 Therefore, the activity of collecting penal interest does not even fall under the ambit of the deemed supply
+under Clause (e), Entry 5 of Schedule II of the CGST Act. Hence, the penal interest collected for the delay in
+
+rie payment of loan installment cannot be treated as consideration for any supply, and accordingly, is not taxable
+
+Lthy, under the GST regime.
+
+Without prejudice to the above, penal interest is in the nature of liquidated damages/penalty.
+
+Without prejudice to the above submissions, it is further submitted that the penal interest collected by the
+plicant is merely in the nature of penalty/liquidated damages for default in loan repayments by the
+<¢ilstomers, which would not be subjected to GST levy.
+C2 ) “ffs submitted in this regard that liquidated damages/ penalty are merely compensation for making good the
+S »W lifss suffered by a contracting party due to breach of terms of the contract by other contracting party. There is
+‘0 additional benefit given under the main contract of supply of service, in return for the liquidated damages.
+‘Attention in this regard is brought towards Section 73 of the Contract Act, which statutorily allows the
+aggrieved party to recover damages from the defaulting party in case of default or breach of terms of the
+contract by such party to the contract. Relevant portion of Section 73 of the said Act is extracted hereunder
+for ready reference:
+Section 73. Compensation of loss or damage caused by breach of contract-
+When a contract has been broken; the party who suffers by such breach is entitled to receive from the party who has
+broken the contract, compensation for any loss or damage caused to him thereby, which naturally arose in the usual
+course of things from such breach, or which the parties knew, when they made the contract, to be likely to result from the
+breach of it."
+
+... «. Emphasis Supplied
+
+C4 In view of the above, it is submitted that the liquidated damages / penalty charged for breach of contract are
+legal consequences of the defaulting party, and therefore, the said amount shall not be treated as
+consideration for any activity. It is further submitted that the consideration for breach of contract, in the form
+of liquidated damages, cannot be treated as the consideration for the contract per se, hence, would not be
+taxable under the GST regime:
+
+Cs It is submitted that even internationally, it is a settled position that the damages received in compensation
+for termination or breach of a contract cannot be treated as a supply and therefore not subjected to GST/ VAT.
+
+C6 In this regard, reference is made to GSTR 2001/4, issued by the Australian Tax Office (ATO),explains the GST
+treatment of court orders and out-of-court settlements. In the said ruling at Para 73, it has been clarified that
+the damages are the most common form of remedy arising out of the termination or breach of contract. The
+damage, loss or injury, being the substance of the dispute, cannot in itself be characterized as a supply made
+by the aggrieved party. This is because the damage, loss or injury in itself does not constitute a supply under
+the provision of Australian GST
+
+C7 Reference is further made to GSTR 2003/11, pertaining to "payment on early termination of a lease of goods.
+It has been clarified therein that a payment received to compensate the lessor for damage or loss flowing from
+early termination as a result of a default by the lessee is not consideration for a supply, even though the lessor
+brings the lease to an end by exercising the right to terminate the lease. The Ruling further provides that in
+
+such cases, there will be no taxable supply because a payment for genuine damages, which is not
+F]
+
+
+consideration for any earlier or current supply, cannot be said to be made in connection with any supply. The
+lessor merely exercises his right to terminate and the payment is in the nature of damages for the lessee's
+breach of the lease which gave rise to the lessor's right to terminate. Thus, in the above Ruling issued under
+Australian GST, it has been clarified that mere payment of an amount under a damages claim is not a ‘supply
+and hence, GST is not payable on such payment.
+
+C8 Further, GST Determination No. 2005/6 has been issued to answer the question as to whether a club,
+association, trade union, society or co-operative (referred to as "association in the Determination) makes a
+supply when it imposes a non-statutory fine or penalty on a member for a breach of the association's
+membership rules. The said GSTD clarifies that there is no supply made by an association when it imposes a
+fine or penalty on its member for a breach of its membership rules, and the payment of the fine or penalty is
+therefore not a consideration for a supply and hence not subjected to GST. It has been clarified in the above
+GSTD that if the true nature of fine or penalty is a punishment and/or to act as a deterrent, it does not accord
+with that nature to suggest that there is a supply to the member in return for its payment.
+
+Ca Further, in New Zealand case S65 (1996) 17 NZTC 7408, the Determination stated that an association, in
+accepting the payment of fine or penalty, does not enter into an obligation with the particular member to
+tolerate the misconduct, but rather is fulfilling its obligation to all members to enforce the rules. The member
+does not gain rights additional to those which are already enjoyed by virtue of being a member. That is, upon
+payment of the fine or penalty, the member continues to enjoy the same rights and privileges and it follows
+that the association is required to continue to provide the benefits of membership. In this sense, it cannot be
+said that the association ‘makes' a supply where it already has a pre-existing obligation to continue to provide
+the benefits of membership
+
+C10 In view of the above discussed rulings, the Applicant would like to submit that the very purpose of liquidated
+damages / penalty is to restitute or make good, the loss incurred by a person because of a default, non-
+compliance, etc. of the other person. Such liquidated damages/ penalty may be in relation to some other
+supply of service or goods which would have a separate consideration and would be subject to certain terms
+and conditions to certain terms and conditions. When such terms and conditions are not fulfilled, the
+defaulting party is obligated to make good the loss by paying liquidated damages. Such liquidated
+damages/ penalty cannot itself become consideration for continuing with the main supply of service/ goods
+by terming the same as towards tolerating the acts of the defaulting party.
+
+Cal In view of the above, it is submitted that the penal interest collected by the Applicant, is in the nature of
+
+liquidated damages/ penalty received from the borrowers/customers for defaults/ breach committed by
+< them by defaulting in loan repayments.
+
+AZN, Hence, in view of the above submissions, even if it is assumed that the penal interest collected by the
+
+6 Applicant, is not interest on loans, then, the same being in the nature of liquidated damages/ penalty, would
+
+5 Apt be treated as a consideration for any supply, and therefore, will be outside the levy of GST.
+
+nclusion
+
+{ “Baked on the above provisions and discussions, the Applicant is convinced that the activity of collecting the
+
+1 xP al interest will not be subjected to GST, in as much as the same is in the nature of interest on loans, which
+
+; “ifexempt from GST. Further, even if it is assumed that the penal interest collected by the Applicant, is not
+
+terest on loans, then, the same being in the nature of liquidated damages/ penalty, would not be treated as
+
+fonal_submissions on 06.08.2018
+ynopsis of submissions made in AppIn. dt 09.05.2018 & during personal hearing held on 27.06.2018 & 18.07.2018.
+
+A. The Applicant is only engaged in the business of lending/financing to customers, and the amount charged
+as penal interest is nothing, but interest on loans, which is exempt from GST.
+Al The Applicant is a Non-Banking Financial Company, inter alia engaged in providing various types of loans
+
+to the customers such as auto loans, loan against property, personal loan, consumer durable goods loan, etc.
+It is submitted that interest on loans have always been kept outside the levy of tax.
+
+Position prior to GST
+From 10.09.2004 upto 18.04.2006 - Interest on loans was excluded from Value of Taxable Service under Section 67 of
+
+the Finance Act, 1994
+A2 Lending as a service was first time brought into the ambit of Service Tax, with effect from 10.09.2004, by an
+
+amendment in the definition of banking and other financial services’ under Section 65(12) of the Finance Act,
+
+1994, The amended definition read as under:
+
+*(12) "banking and other financial service" means --
+(a) the following services provided by a banking company or a financial institution including a non-banking financial company or
+any other body corporate or any other person, namely:
+(i)_financial leasing services including equipment leasing and hire-purchase;
+
+(ix) other financial services, namely, lending issue of pay order, demand draft, cheque, letter of credit and bill of exchange,
+
+transfer of money including telegraphic transfer, mail transfer and electronic transfer, providing bank guarantee, overdraft facility,
+
+bill discounting facility, safe deposit locker, safe vaults, operation of bank accounts;”
+..... Emphasis Supplied
+
+
+A3 At the same time, with effect from 10.09.2004, an amendment was carried out in the Service Tax Valuation
+provisions to exclude interest on loans! from the value of taxable service under clause (viii) of Explanation I
+to Section 67 of the Finance Act, 1994. The relevant provision as inserted with effect from 10.09.2004 is
+extracted herein below:
+
+SECTION 67, Valuation of taxable services for charging service tax. — For the purposes of this Chapter, the value of any
+taxable service shall be the gross amount charged by the service provider for such service rendered by him.
+Explanation 1. - For the removal of doubts, it is hereby declared that the value of a taxable service, as the case may be includes, -
+
+but does not include -
+
+(viii) interest on loans."
+... Emphasis Supplied
+From 19.04.2006 upto 30.06.2012 -- Interest on loans excluded from Value of Taxable Service under Rule 6(2)(iv) of
+the Service Tax (Determination of Value) Rules, 2006
+AA With effect from 19.04.2006, the valuation provisions contained in the Finance Act, 1994 were shifted to the
+Service Tax (Determination of Value) Rules, 2006. Accordingly, with effect from 19.04.2006, the interest on
+loans was excluded from the value of taxable service under clause (iv) of Rule 6(2) of the said Rules. The said
+provision is extracted herein below for reference:
+*6. Cases in which the commission, costs, etc. will be included or excluded. -
+(1) Subject to the provisions of section 67, the value of the taxable services shall include, -
+(2) Subject to the provisions contained in sub-rule (1), the value of any taxable service, as the case may
+be, does not include -
+
+(iv) interest on loans."
+... Emphasis Supplied
+
+From 01.07.2012 upto 30.06.2017 - Interest on loans was exempted under Negative List clause (n) of Section 660 of the
+Finance Act, 1994.
+
+AS With effect from 01.07.2012, the Negative List regime was introduced, wherein all services, except those
+covered in the negative list or exemption notification, were taxed. The interest on loans was exempted under
+Negative List clause (n) of Section 66D of the Finance Act, 1994, which read as under;
+
+“SECTION 66D. Negative list of services, — The negative list shall comprise of the following services, namely: —
+
+_{t) services wa Lo} -
+
+\ % iew of the above provisions, it is submitted that since beginning, interest on loans have been kept outside
+, thallevy of service tax, and therefore, any amount charged as interest was not taxable in the pre-GST regime.
+
+er the GST regime, interest on loans are exempted from payment of CGST under Serial No. 27 of the
+Notification No. 12/2017-Central Tax (Rate) dated 28.06.2017. Similar exemption has been granted by the
+espective State Governments for the SGST leviable on intra-state supplies (refer Serial No. 27 of Maharashtra
+State Notification No. 12/2017 State Tax (Rate) dated 29.06.2017). The relevant portion of the said Exemption
+
+ts Lae Z Notification is reproduced herein below:
+SI. Chapter, Section, Heading, Group | Description of Services Rate Condition
+or Service Code (Tariff) (per cent.)
+(1) (2) (3)
+27 Heading 9971 Services by way of (a) extending | Nil Nil
+deposits, loans or advances in so far as
+the consideration is represented by way
+of interest or discount (other than
+interest involved in credit card services):
+A8 In view of the above, it is submitted that even under the GST regime, services of providing loans are exempt,
+in so far as the consideration of the said services is represented by way of interest.
+Ad In this regard, attention is kindly brought towards the definition of the term interest provided under clause
+
+(zk) of para 2 of the above said Exemption Notifications, which reads as under:
+“ (zk) “interest” means interest payable in any manner in respect of any moneys borrowed or debt incurred (including
+a deposit, claim or other similar right or obligation) but does not include any service fee or other charge in respect of the moneys
+borrowed or debt incurred or in respect of any credit facility which has not been utilised,"
+... Emphasis Supplied
+A.10 The above definition clearly states that interest! means interest payable in any manner in respect of any
+moneys borrowed or debt incurred. This would not only include the normal interest charged on loan
+installments, but also the interest charged for the delayed payment of such loan installments.
+
+7
+
+
+A111. In the present case, the Applicant is primarily engaged in the business of lending/financing. As a
+consideration for lending/ financing, the Applicant charges interest from the customers at a particular rate,
+for the period for which such loan is granted. The principal and interest amount on such loan is repaid by the
+customers by way of equated monthly installments (hereinafter referred to as EMI’) over the tenure of loan.
+Accordingly, while computing the EMI, the Applicant charges and factors pro-rata interest payable on each
+due date, on the underlying assumption that the customers would not default in payment of the EMI on the
+due dates. However, in case of any default, the Applicant charges additional interest for the number of days
+of default. This interest is commonly known as penal/default interest. The sample working of computing the
+penal interest is enclosed as Annexure-3 to the application submitted on 09.05.2018 (refer page no. 81, along
+with page no. 71 to 76). For ease of reference, the following illustration is made to explain the manner of
+charging penal interest:
+
+S.No. Particulars : Amount
+A EMI Amount Rs. 10,000/-
+B EMI Due Date 10th of every month
+6] Due Date for the month of June 2018 10th June 2018
+D Interest factored in EMI upto due date Rs. 3,000/-
+E Actual Date of Payment 30th June 2018
+F Period of Delay/Default 20 days
+G Penal Interest rate 2% p.m.
+H Penal Interest for the period of delay Rs. 133/-
+(Rs. 10000 * 2% * 20/30)
+A.12 It is submitted that the amount of overdue loan installment is virtually a new loan given to the
+
+borrower/ customer for the period of delay, the consideration for which is the penal interest charged on such
+overdue loan installment. In the above illustration, the overdue loan installment of Rs. 10,000/- is an
+additional loan given to the customer, for which penal interest is charged, from the date of default till the
+date of payment of such installment, i.e., from 10th June 2018 to 30th June 2018.
+aed It is submitted in this regard that where the Applicant grants loan to a customer for a specified duration of
+Te time, it earns interest on such loan, which represents consideration for use of money for that specified period
+ff he q eX of time. Similarly, when the customer delays the payment of installment of loan beyond the due date as
+Lt ae ovided in the agreement, the Applicant levies additional interest (which is termed as ‘Penal Interest) for
+—_ ¥ Ou » of the money beyond the stipulated period of time by the borrowers/customers. The manner of
+& ; ) ‘caltulation of such Penal Interest substantiates that it is nothing but the time value of money, in as much as
+el is calculated at a fixed rate per annum on the overdue loan installments for the period of delay.
+relevant to note that the position in the GST regime is similar to the position in the pre GST regime.
+refore, reference is made to the Revised Education Guide on Taxation of Services dated 20.06.2012 issued
+4 the CBEC in erstwhile Service Tax regime. Para 4.14.2 of the said Education Guide, clarifies that the
+hegative list clause (n) in Section 66D of the Finance Act, 1994, shall include any facility by which an amount
+of money is lent or allowed to be used or retained on payment of what is commonly called the time value of
+money which could be in the form of an interest or a discount. The relevant portion of the said Education
+Guide is reproduced herein below:
+“4.14.2 What are the "services by way of extending deposits, loans or advances in so far as the consideration
+is represented by way of interest or discount"?
+The negative list entry covers any such service wherein moneys due are allowed to be used or retained on payment of interest or
+ona discount. The words used are ‘deposits. loans or advances' and have to be taken in the generic sense. They would cover any
+facility by which an amount of money is lent or allowed to be used or retained on payment of what is commonly called the time
+value of money which could be in the form of an interest or a discount. This entry would not cover investments by way of equity
+or any other manner where the investor is entitled to a share of profit. Illustrations of such services are ~
+
+$ the
+
+ff. 4 A14
+
+Seay,
+“SHIRA ge
+
+© Providing a loan or overdraft facility or a credit limit facility in consideration for payment of interest.
+© — Mortgages or loans with a collateral security to the extent that the consideration for advancing such
+loans or advances are represented by way of interest.
+
+-sss+. Emphasis Supplied
+A.15 The above said negative list clause (n) of Section 660 of the Finance Act, 1994, is pari materia to Serial No. 27
+of the Notification No. 12/2017-Central Tax (Rate) dated 28.06.2017, read with Maharashtra State Notification
+No. 12/2017-State Tax (Rate) dated 29.06.2017. Therefore, the Explanation given in CBEC Education Guide
+in respect of the said negative clause shall also be equally applicable to the present GST Exemption
+Notifications. Hence, the Penal Interest charged by the Applicant, which represents the consideration for time
+value of money (as explained above) would fall under the ambit of the GST Exemption Notifications, and
+
+accordingly, shall be exempt from GST.
+
+
+A.16 _ Inview of the above, it is submitted that the Penal Interest is nothing but interest on loans. Hence, the same
+shall be exempted from payment of GST under the Exemption Notifications.
+
+A117 Further, even under UK VAT law, the charges levied for deferment of payment beyond the time of supply
+have been treated as consideration for an exempt supply of credit. In this regard, reference is made to the UK
+VAT Notice 701/49: Finance, the relevant portion of which is extracted herein below:
+*4.5 Deferred payments
+
+You may allow customers to defer payment but make an extra charge for allowing them to do so. If the charge relates to periods
+
+before and up to the time of the supply (see VAT Notice 700: the VAT Guide) it is not a charge for credit, but is further
+
+consideration for the supply of the goods or services. Alternatively, where you agree to defer payment beyond the time of
+supply and make an additional charge for doing so, such a charge will be consideration for an exempt supply of credit."
+
+...... Emphasis Supplied
+A18 _ In view of the above, it is submitted that even internationally, the charges for deferment of payment are
+treated as consideration for exempt supply of credit, and therefore, the penal interest charged in the present
+case for deferment of the loan instalment should be treated as a consideration for exempt supply of loan, and
+hence, shall not be leviable to GST.
+B. In any case, penal interest is liable to be included in the value of main supply under Section 15(2)(d) of
+the CGST Act, and therefore, any treatment given to the main supply shall be given to the penal interest,
+
+and hence, shall be exempt from GST.
+B.1 Without prejudice to the above, it is submitted that in view of clause (d) of sub-section (2) of Section 15 of the
+
+CGST Act, the penal interest being an interest/ penalty for delayed payment of any consideration for a supply
+would be included in the value of that supply, which is interest. The said provision is extracted herein below
+for reference:
+
+"15. Value of taxable supply.
+
+(2) The value of supply shall include
+
+(d) interest or late fee or penal v for delayed payment of any consideration for any supply;"
+peas Emphasis Supplied
+B.2 In view of the above provision, any interest or late fee or penalty charged/levied or collected for delayed
+payment of any consideration for a supply, shall be includible in the value of the said supply.
+B3 It is relevant to note that the said provision does not have a restricted application to 'taxable supply’; the said
+
+provision is applicable for determination of value of any supply’, either taxable or exempt. Therefore, even if
+i the main supply is exempt by way of any exemption notification, still, the provisions of Section 15(2) shall be
+As
+
+pplicable to determine the value of such exempt supply. It would be incorrect to say that the provisions of
+ction 15(2) are not applicable for exempt supplies, in as much as, the valuation of exempt supplies is equally
+
+ortant as that of taxable supplies, as the quantum of reversal of input tax credit under Section 17(2) of the
+
+\ T Act is determined on the basis of the value of exempt supplies. Hence, the provisions of Section 15(2)
+are @pplicable to determine the value of exempt supplies as well.
+
+BA ‘In view of Section 15(2)(d) of the Act, any treatment given to the main consideration of supply shall also be
+
+eg lly applicable to the amount of interest or late fee or penalty charged/levied or collected for delayed
+Ze \ — / aj ment of any consideration for a supply. Hence, by applying the said provision, the penal interest so
+g
+
+% ™" SF lected by the Applicant in the present case, would be having the same tax treatment as that of the main
+NG eH orien ie. interest, and therefore, it would also be exempt from GST under the Exemption
+bee
+
+seosl
+ST Notifications. woo
+or liquidated damages
+
+In any case, the penal interest charged by the Applicant is in the nature of penal
+
+for breach of contract, which does not amount to consideration for any contract, and therefore, there cannot
+be any supply of service.
+
+GI In any case, if the penal interest is not treated as interest on loan, then, the same shall be treated either as
+penalty or as liquidated damages for the default committed by the customers.
+C2 It is submitted that upon breach of contract, the aggrieved party is entitled to claim compensation for breach
+
+of contract. Such compensation is a legal and statutory right provided under Section 73 and 74 of the Indian
+Contract Act, 1872, and even without any specific clause in the contract for the damages or compensation
+payable upon the breach of contract, the party suffering such breach has the statutory right to claim damages
+or compensation from the party who has broken the contract.
+C3 The provisions of Section 73 and 74 are extracted herein below for reference:
+*73. Compensation for loss or damage caused by breach of contract. -
+When a contract has been broken, the party who suffers by such breach is entitled to receive from the party who has broken the
+contract, compensation for any loss or damage caused to him thereby which naturally arose in the usual course of things from such
+breach, or which the parties knew, when they made the contract, to be likely to result from the breach of it.
+74. Compensation for breach of contract where penalty stipulated for. -
+When a contract has been broken, if a sum is named in the contract as the amount to be paid in case of such breach, or if the contract
+contains any other stipulation by way of penalty, the party complaining of the breach is entitled, whether or not actual damage or
+loss is proved to have been caused thereby to receive from the party who has broken the contract reasonable compensation not
+exceeding the amount so named or, as the case may be, the penalty stipulated for.
+
+Explanation. - A stipulation for increased interest from the date of default may be a stipulation by way of penalty.”
+... Emphasis Supplied
+
+
+
+C4
+
+cs
+
+C6
+
+C7
+
+C8
+
+C9
+
+C.10
+
+Cll
+
+C2.
+
+D.1
+
+D.2
+
+D3
+
+Both, Section 73 and 74, provide for reasonable compensation, but Section 74 contemplates that the maximum
+reasonable compensation may be the amount which may be named in the contract, but not more, even
+though, according to Section 7), the amount of compensation may exceed the sum named. In other words,
+Section 74 is narrower in scope and limits the compensation to the extent provided for, or stipulated in the
+contract.
+
+It is submitted that the damages in Section 74 may either be in the nature of liquidated damages or penalty.
+If the sum stipulated in the contract is a genuine pre-estimate of damages likely to flow from the breach, it is
+called liquidated damages. If it is not a genuine pre-estimate of the loss, but an amount intended to secure
+performance of the contract, it may be penalty. The question whether a particular stipulation in a contract, is
+in the nature of penalty has to be determined by the court against the background of various relevant factors,
+such as the character of the transaction and its special nature.
+
+It is relevant to note that the Explanation to Section 74 (supra), clearly states that a stipulation for increased
+interest from the date of default may be a stipulation by way of penalty.
+
+In the present case, the Applicant lends money to the customers with one of the conditions in the loan
+agreement that the customers shall make timely repayment of loan installments on the due dates as per the
+repayment schedule, and in case of any default, the Applicant shall be entitled to charge penal/default
+interest for the period of default at the specified rate (Refer Pg. No. 23, 26, 36 of the submissions made on
+09.05.2018). Therefore, upon default in payment of the installments, the Applicant shall be entitled to receive
+damages stipulated in the contract in accordance with Section 74 of the Indian Contract Act, 1872.
+
+The Explanation to Section 74 (supra) directly covers the case of penal interest, wherein, higher rate of interest
+is charged from the customers from the date of default, so as to deter the customers from making such default
+in future. Therefore, looking from this angle, the penal interest charged by the Applicant may be treated as
+penalty for the breach of the contract. In any case, if it is held to be not penalty, then, the same shall be treated
+as liquidated damages.
+
+Therefore, in view of the above discussions, it is submitted that the penal interest charged in the present case
+shall be treated either as penalty or liquidated damages.
+
+It is submitted that payment of penalty or liquidated damages is not a consideration for any service, and
+therefore, the penal interest charged by the Applicant being in the nature of penalty or liquidated damages,
+cannot be treated as a consideration for supply of service, as they are merely damages for the breach of
+contract.
+
+It is a settled position in law that the stipulation for payment of damages upon breach of contract does not
+constitute a separate contract. It is only a part of the original contract. The payment of damages arises only
+on account of the primary contract, and it would be an incorrect interpretation to say that the payment is a
+consideration for any other contract. In the present case, there is only one contract between the Applicant and
+the borrower, which is the agreement for loan, for which consideration is payable by the borrower in the form
+of interest. The penal interest is payable by the borrower, only upon the breach of such contract, and therefore,
+such payment does not constitute a second contract. Therefore, the payment of penal interest by the borrower
+cannot be treated as a consideration either for the primary contract of loan, or for any other contract.
+
+Hence, in the absence of any consideration, the penal interest charged in the present case does not amount to
+a supply under Section 7 of the CGST Act, and therefore, the same shall not be leviable to GST.
+
+Penal Interest charged by the Applicant for the breach of contract by the customer, is not covered under
+the ambit of Deemed Services under clause (e) of Entry 5 of Schedule II to the CGST Act.
+
+It is further submitted that the penal interest shall not be covered by clause (e) of Entry 5 of Schedule (I to the
+CGST Act, which reads as agreeing to the obligation to refrain from an act, or to tolerate an act or a situation, or
+to do an act. It is submitted that the expression “agreeing to the obligation" is a prefix to all the three entries, viz.
+‘to refrain from an act: to tolerate an act or a situation, and to do an act. Therefore, the correct interpretation of the
+law would be to read the above said clause as under:
+- agreeing to the obligation to refrain from an act,
+- agreeing to the obligation to tolerate an act or a situation,
+- agreeing to the obligation to do an act
+Therefore, to attract the above said clause, there must be an agreement to the obligation in respect of any of
+the three entries. In absence of any such agreement, there cannot be a service. For a valid agreement, there
+has to be a consideration between the promisor and the promisee. However, as submitted above, the penal
+interest levied by the Applicant in the present case are merely damages for the breach of contract of loan, and
+are not consideration for any contract per se, and therefore, in the absence of any consideration, there can be
+no agreement to tolerate.
+Further, the above said clause uses the word ‘obligation’, therefore, it is important to understand the meaning
+of the said term to give correct interpretation to the entry. The said term has not been defined in the Finance
+Act, 1994, or the Rules made thereunder, therefore, reference is being made to the meaning given to itin other
+Statutes, and its dictionary meaning, as under:
+© — Section 2(a) of the Specific Relief Act, 1963:
+"Obligation" includes every duty enforceable by law.
+© — Commentary on Section 2(a) of the Specific Relief Act, 1963, by Pollock & Mulla, at Pg. No. 1837
+of Volume II, 14th Edition, reads as under:
+“Clause (a): Obligation
+
+10
+
+
+igation i: i i i ing; it implies a right in another person
+
+to which it is correlated, and it restricts the freedom of the obligee with reference to definite acts and forbearances;
+but in order to be enforceable, it must be an obligation recognised by law; and not merely a moral, social or religious one. An
+obligation may not be a legal one, where it cannot be reduced to a money value; legal obligation includes every duty
+enforceable by law so that when a legal duty is imposed on the person in respect to another, the other is invested with
+a corresponding legal right. This definition is used in its wider juristic sense as covering duties arising ex contractu or ex
+delicto, and may cover any other enforceable duty under any statute,
+¢ — Black's Law Dictionary:
+
+e¢ “Obligation, (n.)
+
+t A legal or moral duty to do or not do something. The word has many wide and varied meanings. It may refer to
+
+anything that a person is bound to do or forbear from doing, whether the duty is imposed by law, contract, promise, social relations,
+
+courtesy, kindness, or morality
+2. A formal, binding agreement or acknowledgement of a liability to pay a certain amount or to do a certain thing for
+
+a particular person or set of persons; esp., a duty arising by contract.
+
+3. Civil law. A legal relationship in which one person, the obligor, is bound to render a performance in favor of another, the obligee.'
+* Oxford Dictionary:
+
+obligation n.
+
+1, an act or course of action to which a person is morally or legally bound. | the condition of being so bound. 2. a debt of
+
+gratitude for a service or favour.
+
+asa Emphasis Supplied
+D4 In view of the above, it is submitted that the word "obligation can be understood to be an act or course of
+action to which a person is morally or legally bound. It is a bond or tie, which constrains a person to do or
+suffer something and it implies a right in another person to which it is correlated. As defined in the Specific
+Relief Act, 1963, obligation includes every duty enforceable by law, so that when a legal duty is imposed on
+the person in respect to another, the other is invested with a corresponding legal right. Therefore, an
+obligation comes into existence, only when there is a duty or a liability on the person making the obligation,
+with a corresponding right to the other person to enforce such obligation.
+DS However, in the present case, there is no obligation upon the Applicant to tolerate the act of non-payment or
+delayed payment by the borrower, in as much as, neither the Applicant has any duty or liability towards the
+borrower, for the borrower has any right on the Applicant. The payment of penal interest neither obligates
+the Applicant not to take any legal action against the borrower, nor the borrower gains any right to sue the
+Applicant for any legal action taken by the Applicant. On the contrary, the borrower is under the contractual
+obligation to make timely repayment of the loan to the Applicant, and upon the breach of such obligation,
++. We Applicant is legally entitled to recover damages for such breach and also sue the borrower for such breach.
+.6 \, 4ltis further submitted that a sum which is payable in pursuance of a contractual obligation is different from
+\ ‘a Sum payable on a breach of contractual obligation. Therefore, the penal interest payable by the borrower on
+' bréach of its contractual obligation cannot be treated as a payment for any obligation on the Applicant
+towards the borrower.
+5 Ij view of the above discussion, it is submitted that in the absence of an agreement by the Applicant to any
+“Obligation to tolerate the act of non-payment or delayed payment of loan installments by the borrowers, the
+mere recovery of penal interest for breach of the contract does not constitute a service by the Applicant to the
+borrower.
+Hence, in view of the above submissions, as penal interest is not a consideration for any supply, no GST shall
+be levied on such penal interest.
+
+B. Even internationally, the damages for breach of contract are not taxed.
+El It is further submitted that internationally, the damages received by way of compensation for termination or
+
+breach of a contract are not treated as a supply and therefore not subjected to GST/VAT levy.
+
+E2 In Australian Law, the GST is levied on supply under 'A New Tax System (Goods and Services Tax) Act,
+1999’. The term "supply' is defined under Section 9(10) of the said Act. Clause (g) of sub-section (2) is pari
+materia the provisions of clause (e) of Entry 5 of Schedule II to the CGST Act, which reads as under;
+
+“9-10 Meaning of Supply
+
+(1) A supply is any form of supply whatsoever.
+
+(2) Without limiting subsection (1), supply includes any of these;
+(g) an entry into, or release from, an obligation:
+
+(i) to do anything; or
+
+(ii) to refrain from an act; or
+
+(iii) to tolerate an act or situation."
+
+E3 In the above context, reference is made to GSTR 2001/4, issued by the Australian Tax Office (ATO), which
+explains the GST treatment of court orders and out-of-court settlements. In para 73 of the said ruling, it has
+been clarified that the damages are the most common form of remedy arising out of the termination or breach
+of contract. The damage, loss or injury, being the substance of the dispute, cannot in itself be characterized as
+a supply made by the aggrieved party. This is because the damage, loss or injury in itself does not constitute
+a supply under the provision of Australian GST.
+
+E4 It is pertinent to bear in mind that the definition of supply" under the Australian GST legislation includes
+within its ambit an obligation to tolerate an act". Thus, when the aforesaid GSTR namely GSTR 2001/4 states
+that payment of liquidated damages is not towards, any supply, it is reasonable to conclude that the GSTR
+
+MW
+
+
+has also considered the clause "an obligation to tolerate an act”. In other words, the GSTR impliedly concludes
+that the acceptance of liquidated damages does not amount to tolerating an act and hence would not fall
+within the ambit of "supply" for the purposes of GST.
+
+E.5 Further, in New Zealand case $65 (1996) 17 NZTC 7408, the Determination stated that an association, in
+accepting the payment of fine or penalty, does not enter into an obligation with the particular member to
+tolerate the misconduct but rather is fulfilling its obligation to all members to enforce the rules. The member
+does not gain rights additional to those which are already enjoyed by virtue of being a member. That is, upon
+payment of the fine or penalty, the member continues to enjoy the same rights and privileges and it follows
+that the association is required to continue to provide the benefits of membership. In this sense, it cannot be
+said that the association "makes' a supply where it already has a pre-existing obligation to continue to provide
+the benefits of membership.
+
+E6 Further, ina decision of the Court of Appeal (U.K.) in case of M/s. Vehicle Control Services Limited reported
+at (2013) EWCA Civ 186, it has been observed that payment in the form of damages/penalty for parking in
+wrong places/wrong manner is not a consideration for service as the same arises out of breach of contract
+with the parking manager.
+
+E.7 In view of the above discussed rulings, itis submitted that the very purpose of liquidated damages or penalty
+is to restitute or make good the loss incurred by a person because of a default, non-compliance, etc., by the
+other person. Such liquidated damages or penalty may be in relation to some other supply of service or goods
+which would have a separate consideration and would be subject to certain terms and conditions. When such
+terms and conditions are not fulfilled, the defaulting party is obligated to make good the loss by paying
+liquidated damages. Such liquidated damages or penalty cannot itself become consideration for continuing
+with the main supply of service/ goods by terming the same as towards tolerating the acts of the defaulting
+party.
+
+E8 Thus, liquidated damages or penalty are merely for making good the loss suffered by a contracting party due
+to breach of terms of the contract by other contracting party. There is no additional benefit given under the
+main contract of supply of service, in return for the liquidated damages.
+
+E9 Hence, in view of the above submissions, the penal interest levied by the Applicant cannot be treated as a
+supply of service, and therefore, is not liable to GST.
+bi It is submitted that the above submissions are in addition and without prejudice to the submissions made by
+
+the Applicant in its application dated 09.05.2018.
+
+03. CONTENTION - AS PER THE CONCERNED OFFICE
+Comments and submission regarding above referred application as fallows.
+
+eS RRIEF HISTROY:
+
+fiw Ra M/S.BAJAJ FINANCE LIMITED is a Non-Banking Financial Company and inter alia engaged in providing
+e, {riGuSypes of loan to the customers such as auto loans, loans against the property, personal loans, consumer durable
+
+fs etc. All these loans are interest bearing loans.
+
+/ 2 e applicant inter alia enters into agreements with borrower/customers for providing loans to them. The
+
+ents provide for repayment of the Loano are equated monthly instalments(*EMI) through ECS i. e.
+
+learing System/ NACH i.e. National Automated Clearing House/Cheque/any other electronic or clearing
+
+=
+= loan agre
+Electronic
+
+mandate. f
+
+case of dishonour of Cheque/ECS/NACH or any other electronic or clearing mandate by the customers,
+‘ant collects penal / bounce charges which is in line with the agreed terms and conditions. The bounce charges
+erally a fixed amount per default commited by the customer for e.g.Rs.350/- for each dishonour of cheque/ECS
+e breach of the terms and conditions of the loan.
+
+The amount of bounce charges collected from the customers are accounted by the Applicant in its core
+accounting platform i.e. SAP under General Ledger Code 60000150.
+3. Scope of Supply :
+
+Section 7 of the Central Goods and Services Tax Act 2017 (CGST 2017) defines scope of supply.
+
+As per Sec 7(1) (d) the activities to be treated as a supply of good or supply of services as referred in the schedule 2.
+
+As per schedule 2 para 5 clause (e) "agreeing to the obligation to refrain from an act, or to tolerate an act ora
+
+situation, or to do an act"
+
+As per above provision Bounce Charges on Non-performance of a contract is an activity or transaction which is
+treated as a supply of service and the Applicant is deemed to have received the consideration in the form of charges,
+liquidated Damages and is accordingly, required to pay tax on such amount.
+
+2) Definitions :- 31) “Consideration' in relation to the supply of goods or services or both includes
+a) any payment made or to be made, whether in money or otherwise, in respect of, in response to, or for the inducement
+of the supply of goods or services or both, whether by the recipient or by any other person but shall not include any
+subsidy given by the Central Government or a State Government;
+3) Value of Supply:
+As per sub-section 1 of section 15 the value of a supply of goods or services or both shall be the transaction value,
+which is the price actually paid or payable for the said supply of goods or services or both where the supplier and the
+recipient of the supply are not related and the price is the sole consideration for the supply.
+As per sub-section 2 of section 15 The value of supply shall include-
+
+12
+
+
+a) any taxes,duties,cesses fees and charges levied under any law for the time being in force other than this
+Act, the Central Goods and Services Tax Act and the Goods and Services Tax (Compensation to States) Act, if charged
+
+separately by the supplier;
+
+d) interest or late fee or penalty for delayed payment of any consideration for any supply
+
+As per above provision Bounce Charges on Non-performance of a contract is an activity or transaction which
+is treated as a supply of service and the Applicant is deemed to have received the consideration in the form
+of charges, liquidated Damages and is accordingly, required to pay tax on such amount.
+
+04. HEARING
+The Preliminary hearing in the matter was held on 27.06.2018, Sh. Sandeep Sachdeva, Advocate
+
+along with Sh. Chaitanya Bhatt, C.A. and Sh, Arpit Chaturvedi, Advocate appeared and made contentions
+‘or admission of application as per their ARA. Sh. Sandeep Sachdeva, Advocate specifically mentioned
+that the same issue is pending for adjudication at Commissioner, Pune under Service Tax. Jurisdictional
+Officer Sh. Vinit Thite, State Tax Officer (VAT-C-707) Pune appeared and made written submissions.
+The final hearing was held on 18.07.2018, Sh. Sandeep Sachdeva, Advocate along with Sh. Arpit
+Chaturvedi, Advocate and Sh. Ganesh Mandhane National Head Taxation appeared and reiterated their
+submissions and contentions as per their submissions in case of GST ARA no.21 in their own case.
+Jurisdictional Officer Sh. Vinit Thite, State Tax Officer (VAT-C-707) Pune appeared and stated that they
+
+have already made written submissions earlier.
+
+05. OBSERVATIONS
+We have gone through the facts of the case, submissions made by the applicant and the documents
+
+tt “Jen record
+ER ‘ .
+figs Ut LN
+
+S
+ea The Applicant, a non-banking financial company are providing various types of loan such as auto
+Bate
+
+a y
+( i chargé ifiterest on such loans disbursed, for which they enter into agreements with borrower/customers.
+
+loahs; Jen against the property, personal loans, consumer durable goods loans, etc, to their customers and
+“4
+
+sments provide for repayment of the loan in the form of Equated Monthly Installments (EMI) vide
+‘ sé/Electronic Clearing System (ECS), etc. The installment of the loan is computed taking into
+> ‘sideration the amount of loan, duration of the loan and the amount of EMI that would be payable. The
+
+EMI paid by the customers is a fixed amount payable at a specified date, which includes both interest
+
+and the principal amount. In cases of delay in repayment of such EMI by the customers, the Applicant
+collects penal/default interest (hereinafter referred to as “penal interest’), in terms of the agreements
+executed by the customers. The same is calculated at a percentage not exceeding a fixed percentage, on the
+
+overdue loan amounts of the customer. The percentage of penal interest varies from customer to customer.
+
+The Applicant is of the view that penal interest collected from the customer is in the nature of
+additional interest, and therefore, the same is not subjected to GST levy, the applicant has reproduced the
+relevant extract of clauses of a sample auto loan agreement in respect of penal interest which is as follows:
+
+"J, DEFINITIONS AND ABBREVIATIONS,
+r. “Penal Charges" shall mean and include overdue charges on non payment of installment on the due date.
+II. TERMS OF THE LOAN:
+
+3. The Borrower agrees and confirms that:
+(iv) BFL is entitled to levy penalty as follows on default
+13
+
+
+(a) for continuing non payment of amount due, a penalty not exceeding 3% per month on amount due
+calculated on pro-rata basis from due date till actually paid as per clause B of the schedule.
+
+A perusal of the above extract reproduced by the applicant from a sample auto loan agreement
+submitted by them in support of their argument that Penal Charges, collected by them is in the nature of
+dditional interest) reveals that while drafting the agreement they themselves have defined ‘Penal
+Charges” as ‘overdue charges’ for non-payment of installment on due dates. The definition nowhere
+mentions that the said charges are additional interest costs to be incurred by their customers. Further as
+per their extract the applicant ‘is entitled to levy penalty for continuing non-payment of amount due, a
+penalty not exceeding 3% per month on amount due calculated on pro-rata basis from due date till actually
+paid as per clause B of the schedule’. It is very clear by a reading of this clause that the applicant themselves
+are treating the Penal Charges collected by them as “Penalty: It is also seen that such penal charges/ penalty
+collected by them would be “not exceeding 3% per month on amount due calculated on pro-rata basis from
+due date till actually paid’. It would be pertinent to mention here that interest charges in general course of
+business are fixed at a certain rate and not at a rate ‘not exceeding a certain percentage’. Thus it is very
+obvious that the amounts collected by the applicant from their customers are nothing but amounts towards
+Penalty / Penal Charges and can in no way be construed as additional interest. Such penalty / penal charges
+lare collected by them from their customers for the reason that the said customers have delayed the
+payment of EMI and the applicant has tolerated the said act of their customers of delaying payment of
+such EMI.
+It is therefore seen that the transaction is about the receipt by the applicant, of certain sums towards -
+
+a. Compensation in the form of penal charges for delayed payment of EMIs by their customers.
+
+“aT Section 9 of the GST Act says that there shall be levied a tax on su lies of goods or services or
+a y’ PP. 8
+
+NS cP
+ye Laoth,
+
+we need to understand as to whether the aforesaid receipt of penal charges/ penalty amounts
+
+for a supply made by the applicant. A ‘supply’ defined under Section 7 of the GST Act is as
+
+ae |°7. | the purposes of this Act, the expression “supply” includes—
+Ps ye a) all forms of supply of goods or services or both
+
+v
+4 oa (b) import of services for a consideration whether or not in the course or furtherance of business;
+ba
+
+(c) the activities specified in Schedule I, made or agreed to be made without a consideration; and
+
+(d) the activities to be treated as supply of goods or supply of services as referred to in Schd. Il.
+(2) Notwithstanding anything contained in sub-section (1),--
+
+(a) activities or transactions specified in Schedule III; or
+
+(b) such activities or transactions undertaken by the Cen tral Government.......0.++++
+
+shall be treated neither as a supply of goods nor a supply of services.
+
+(3) Subject to the provisions of sub-sections (1) and (2), the Government may, on the recommendations of the
+
+Council, specify, by notification, the transactions that are to be treated as —
+
+(a) a supply of goods and not as a supply of services; or
+(b) a supply of services and not as a supply of goods.”
+
+SCHEDULE I [See section 7] ACTIVITIES TO BE TREATED AS SUPPLY EVEN IF MADE WITHOUT
+
+CONSIDERATION
+1. Permanent transfer or disposal of business assets where input tax credit has been availed on such assets.
+
+2. Supply of goods or services or both between related persons or between distinct persons as specified in sec 25.........
+
+3. Supply of goods —
+14
+
+
+(a) by a principal to his agent where the agent undertakes to supply such goods on behalf of the principal; or
+(b) by an agent to his principal where the agent undertakes to receive such goods on behalf of the principal.
+. Import of services by a taxable person from a related person or from any of his other establishments outside India,
+
+n the course or furtherance of business.
+
+SCH. II [See Sec.7] ACTIVITIES TO BE TREATED AS SUPPLY OF GOODS OR SUPPLY OF SERVICES
+
+. Transfer
+
+a) any transfer of the title in goods is a supply of goods;
+
+(b) any transfer of right in goods or of undivided share in goods without the transfer of title thereof, is a supply of
+services;
+
+c) any transfer of title in goods under an agreement which stipulates that property in goods shall pass at a future
+late upon payment of full consideration as agreed, is a supply of goods.
+
+Pi reieawescnware
+
+4.
+
+5. Supply of services
+
+The following shall be treated as supply of services, namely: —
+Chex
+(d)
+
+(A) ssonseserseveavacanens
+(e) agreeing to the obligation to refrain from an act, or to tolerate an act or a situation, or to do an act;
+
+(b) ..
+
+and
+
+ee From the above, we find that under sub-section (1) of Section 7 ---
+gree Ruy, aSesupply’ as per clause (a) is for supply of goods or services or both. It is for a consideration AND has
+in the course or furtherance of business.
+
+‘Supply’ as per clause (b) is for import of services. It is for a consideration AND may or may not be in
+thee urse or furtherance of business.
+. pe ly’ as per clause (c) are the activities specified in Schedule I appended to the GST Act. It is not
+
+or consideration. And though it has not been specifically mentioned in the clause, if we look at
+Sel dule I, as reproduced above, the ‘supply’ herein would be in the course or furtherance of business.
+supply’ as per clause (d) is the enumeration or categorization as given in Schedule II appended to
+the GST Act as to which activities should be treated as supply of ‘goods’ and which activities to be
+treated as supply of ‘services’. The clause does not define ‘supply’ but classifies the supply into
+
+either ‘supply of goods’ or ‘supply of services’. [Clause (e) of Schedule II defines “agreeing to the
+obligation to refrain from an act, or to tolerate an act or a situation, or to do an act” as a Supply of
+
+Services].
+Further, Sub-section (2) of section 7 states that —-
+
+e certain, specified or notified activities shall be treated neither as a supply of goods nor a supply of
+
+services.
+We also find that Sub-section (3) of section 7 states_---
+
+e that certain activities would be notified as being -
+
+(a) a supply of goods and not as a supply of services; or
+(b) a supply of services and not as a supply of goods.
+
+In the case before us we find that :-
+- The applicant has given loans to their customers.
+
+15
+
+
+The said loans were repayable by way of payment of EMI, which includes principal amount and
+
+interest.
+- The EMIs are to be paid within due dates.
+Failure to repay EMIs by their customers result in penalty /penal charges being levied by the
+applicant on the amount of EMI default. They are contending that the said charges, which is a
+percentage of the EMI amount, are in the nature of interest. Thus what they are effectively
+submitting is that they are charging penal interest on the original interest amount also.
+In the process the applicant has agreed to do an act (tolerating the delayed payment of EMIs of
+their customers) in lieu of such penal charges/penalty payment being made to them as per the
+agreements.
+Thus, the applicant has agreed to do an act (the act of tolerating, of delayed payment of EMIs by
+their customers) and such act, by the applicant, squarely falls under clause 5(e) of the Schedule II
+thentioned above and therefore the amounts received by the applicant for having agreed to do such an act,
+
+vould attract tax liability under GST laws.
+The applicant has reproduced Sr.No. 27 of Notification No. 12/2017-Central Tax (Rate) dated
+
+48.06.2017, and has submitted that the said Serial No. 27, grants exemption to the services by way of
+
+éxtending loans, in so far as the consideration is represented by way of interest.
+
+sl. | Chapter, Section, | Description of Services Rate Condition
+
+Heading, Group or (per
+Service Code (Tariff) cent.)
+@ | Q) (3)
+Nil Nil
+
+Heading 9971 Services by way of (a) extending deposits, loans or
+advances in so far as the consideration is represented by
+
+way of interest or discount (other than interest involved
+
+in credit card services):
+
+~~ fit isSvery clearly seen from a reading of the sai
+Ke
+
+TRA STN ‘ : 5 sitar ; :
+ao ftOAns or advances is exempted in so far as the consideration is represented by way of interest or discount.
+their
+
+In this particular matter the amount of default charges are received by the applicant only because
+
+d Sr. No. 27 that Services by way of (a) extending deposits,
+
+customer/s have defaulted in making the due EMIs. This amount is over and above the interest amount
+
+received by them on account of extending deposits, loans, etc.
+s further in A5 of their submissions stated that "interest" means interest payable
+
+fad and therefore the word interest
+
+The applicant ha:
+
+in any manner in respect of any moneys borrowed or debt incurred
+
+includes interest payable in any manner in respect of any moneys borrowed or debt incurred. They have
+
+further submitted that the Penal Charges collected by them is an additional interest for the delay in
+
+payment of loan installment beyond the due date and that while computing the EMI/installment amount,
+
+the interest is factored in the EMI on the assumption that all the installments would be paid on time. Here
+
+we would like to mention that the interest is calculated on the entire tenure of the loan given and then on
+
+that basis and the amount of loan EMIs are collected from their customers. The interest amounts are not
+
+calculated on a monthly basis and therefore it cannot be said that the default charges is for the period of
+
+16
+
+
+delay not included in the EMI/installment amount. They have also submitted that the amount of overdue
+Idan installment is virtually a new loan transaction, the consideration for which is the penal interest
+charged on such overdue loan installment. This assumption by the applicant that the EMI is nothing but a
+new loan amount advanced to the applicant is not only fallacious but also devoid of merit because from
+
+e agreements it is seen that the rate of interest on the loan advanced and the rate at which penal charges
+
+e collected on the so called new loan amount (i.e. the defaulted EMI) are also different. Further from their
+bmissions it would seem that the penal charges, which are termed by them as additional interest, such
+called additional interest is also levied on interest component of the EMI. Another important point is
+at the applicant themselves have submitted that the percentage of penal interest varies from customer to
+stomer, and generally ranges between 2% to 4% per month depending on the product. This clearly shows
+at such amount collected by them in case of default by their customers does not have a fixed rate as in
+e case of interest on advances of loans, etc. In their copy of agreement at page 19 of their submissions,
+ith Punya Nath Mishra, in respect of an auto loan it is seen that the rate of interest on the loan is a flat
+te i.e. 7.99%. At point no. q of the said Auto-Loan Agreement it is mentioned that “Penal Charges shall
+ean and include overdue charges on non payment of installment on the due date.
+
+We observe herein that the receipt of penal charges on delayed payment of EMIs would be receipt
+f amounts for tolerating the act of their customers for having delayed/ defaulted on their EMI payments
+ithin due dates In view thereof, the same would definitely be a ‘supply’ under the GST Act and therefore,
+
+ere arises an occasion to levy tax under the GST Act on the impugned transactions.
+
+of EMI by their customer, the applicant would tolerate such act of default or a situation and
+ng party i.e their customer was required to compensate the applicant by way of payment of
+
+nts in addition to principal and interest as per the terms and conditions of the Agreement. It is
+
+‘tional interest to be received by the applicant if these are suitable compensation only for tolerating the
+ct of default or situation of default by their customers and are not additional interest as claimed by the
+pplicant. We see from the definition of ‘Additional Interest’ is given in the referred agreement which
+learly indicate that the additional interest is not in the nature of interest but is penal charges.
+
+Thus we find that the consideration if any as received by the applicant would clearly qualify as
+supply’ as per Sr. No. 5(e) of Schedule I! of the CGST Act which reads as under:-
+
+5) Supply of Services : The following shall be treated as supply of services:-
+“(e) Agreeing to the obligation to refrain from an act or to tolerate an act or a situation or to do an act.
+
+In the present case as per details presented before us, we clearly find that there is a clear
+understanding or agreement between the parties to foresee and tolerate an act or a situation of default on
+he part of loanees for a monetary consideration which is actually a consideration received by the applicant,
+hough in the agreement they may be giving this consideration, other names such as ‘penal interest’, penal
+
+charges, penalty, etc. as thought proper by them, but these different nomenclatures in their Agreement
+
+7
+
+
+ould in no way change the actual nature of monetary “consideration” which would clearly be taxable for
+
+the supply of services as per Sr.No. 5(e) of Schedule II of the CGST Act, 2018.
+
+We find that the exemption for financial transactions under GST laws is only in respect of the
+ihterest/ discount earned or paid for loans, deposits or advances. If the transaction, as in the subject case
+deviates from the above the same fails the test of being a “loan”, “deposit” or “advance”, or the
+consideration is not an interest or discount, the exemption is not admissible. In the subject case the amount
+
+no“
+
+gf penal charges cannot be said to form a part of interest on “loan”, “deposit” or “advance”. It is
+recovered/imposed only because the loanee has delayed the payment of EMI (which consists of the
+principal amount and interest amount). This recovery of penal charges is made in view of toleration of the
+act of the loanee by the applicant and therefore construes as ‘supply’ as per as per Sr. No. 5(e) of Schedule
+Il of the CGST Act and is therefore taxable under the GST Act.
+
+06. In view of the deliberations as held hereinabove, we pass an order as follows:
+
+ORDER
+
+(under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods and
+Services Tax Act, 2017)
+
+NO.GST-ARA- 22/2018-19/B- 8s Mumbai, dt. OF 08. 20) &
+For reasons as discussed in the body of the order, the questions are answered thus —
+
+Question 1.:- Whether the Penal Interest is to be treated as interest for the purpose of exemption under Sr. No. 27 of
+lotification No. 12/2017Central Tax (Rate) dated 28.06.2017, Sr. No. 27 of Maharashtra State Notification No.
+2/2017-State Tax (Rate) dated 29.06.2017, and Sr. No. 28 of Notification No. 9/2017Integrated Tax (Rate) dated
+8.06.2017?
+
+Answer :- Answered in the negative.
+
+Question 2.:- If the answer to the above is negative, whether the activity of collecting penal interest by the Applicant
+vould amount to a taxable supply under the GST regime?
+
+Answer :~ Answered in the affirmative. The said activity squarely falls under clause 5(e) of the Schedule II of the GST
+FPexefore such amounts received, would attract tax liability under GST lavs.
+
+—s1— — sa
+B. V. BORHADE PANKAJ KUMAR
+(MEMBER) (MEMBER)
+
+CERTIFIED TRUE COPY
+
+oncerned Central / State officer
+. The Commissioner of State Tax, Maharashtra State, Mumbai m
+4. The Chief Commissioner of Central Tax, Churchgate, Mumbai 4
+_ Joint commissioner of State tax , Mahavikas for Website. — ADVANCE RULING AUTHORITY
+MAHARASHTRA STATE, MUMBAI
+
+ote :- An Appeal against this advance ruling order shall be made before The Maharashtra Appellate
+Authority for Advance Ruling for Goods and Services Tax, 15th floor, Air India building, Nariman Point,
+
+umbai - 400021
+
+18

@@ -1,0 +1,1010 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+(Constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri B. V. Borhade, Joint Commissioner of State Tax, (Member)
+(2) Shri Pankaj Kumar, Joint Commissioner of Central Tax, (Member)
+
+GSTIN Number, if any/ User-id 27AAACK7310G1ZT
+
+Legal Name of Applicant KOLTE PATIL DEVELOPERS LTD
+
+Registered Address/ Address provided while | First 201A, City Point,
+
+obtaining user id Dhole Patil Road, Pune , Maharashtra - 411001
+
+Details of application GST-ARA, Application No. 40 Dated 19.06.2018
+
+Concerned officer Division - VI, Koregaon Park, CGST,
+Commissionerate Pune I
+
+A Category Service Provision
+
+B Description (in brief) The Company is engaged in the activity of
+Construction of Residential and Commercial complex.
+
+Issue/s on which advance ruling required (iv) admissibility of input tax credit of tax paid or deemed to
+
+have been paid.
+(v) determination of the liability to pay tax on any goods
+or services or both
+Question(s) on which advance ruling is | As reproduced in para 02 of the Proceedings below.
+required
+
+PROCEEDINGS
+
+(Under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+The present application has been filed under section 97 of the Central Goods and Services
+9 2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as
+
+retained, for cancellation (after discussion with customer)
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and
+the MGST Act are the same except for certain provisions. Therefore, unless a mention is
+specifically made to such dissimilar provisions, a reference to the CGST Act would also mean a
+reference to the same provision under the MGST Act. Further to the earlier, henceforth for the
+purposes of this Advance Ruling, a reference to such a similar provision under the CGST Act /
+MGST Act would be mentioned as being under the “GST Act”.
+
+02. FACTS AND CONTENTION - AS PER THE APPLICANT
+
+This application is being filed by KOLTE PATIL DEVELOPERS LTD which is engaged in the activity
+of Construction of Residential and Commercial complex.
+
+When the flats were booked by the customer, the applicable service tax and MVAT was
+deposited. Given this, indirect tax burden borne by the individual customer on flat booked in
+pre-GST regime ranged from 4.50%- 5.50%. However, due to certain reasons, the flats are
+
+
+
+cancelled by the customer on or after 1% July 2017 (i.e. after implementation of GST) which are
+booked by the customer in the pre-GST regime.
+
+In pre-GST regime, Developer was entitled to avail service tax credit in case of cancellation flat
+as per Rule 6(3) of Service Tax Rules, 1944. Hence, the customer who cancelled flat was not
+required to bear indirect tax cost as the cenvat credit for the same was available to the Developer
+In view of the above, the issue for determination before the Authority for Advance Ruling (‘AAR’)
+is - whether GST input tax credit of Service Tax and State VAT paid while booking of flat is
+available to the Developer, if cancelled in GST regime? What will be the methodology to avail
+Input Tax Credit on the said taxes paid?
+
+STATEMENT CONTAINING THE APPLICANT'S INTERPRETATION OF LAW AND/OR FACTS, AS THE CASE
+MAY BE, IN RESPECT OF THE QUESTION(S) ON WHICH THE ADVANCE RULING IS REQUIRED
+
+1. ISSUE FOR DETERMINATION —
+
+The question/ issue before Your determination is — What is the legal procedure for cancellation of flat
+which is booked in pre-GST Regime and cancelled in post-GST Regime. Also, GST liability in cases where
+some small amount is retained, for cancellation (after discussion with customer).
+
+OUR SUBMISSIONS
+
+In terms of Section 142 (2) of the CGST Act, credit note can be raised:
+
+, in pursuance of a contract entered into prior to the appointed day, the price of any goods or
+or both is revised downwards on or after the appointed day, the registered person who had
+or provided such goods or services or both may issue to the recipient a credit note, containing
+pal culars as 3 may be prescribed, within thirty days of such price revision and for the purposes of
+
+reduction of tax liability.
+
+We submit that, the situation like revision of price upward or downward is addressed via sub clause (a)
+and sub clause (b) of Section 142 (2) of the CGST Act wherein credit note can be raised if the revision of
+price is downward. However, said section does not appear to exclude cancellation of contract cases.
+
+Hence, can cancellation of flat be equated with revision of contract price is the question of law. Given
+this, we submit that, there could be two scenarios:
+
+Cancellation of flat can be equated with the downward revision of price
+Cancellation of flat cannot be equated with the downward revision of price
+Cancellation of flat can be equated with the downward revision of price
+
+In said scenario, as discussed aforesaid as per section 142(2)(b) of the CGST Act, credit note can be raised
+for cancellation of flat by the builder and same is treated as ‘Outward Supply’. Further, as per proviso to
+said section tax liability on account of issue of credit note can be reduced only if the recipient of credit
+
+note has reduced his input tax credit.
+
+As regards to said legal pronouncement tax liability is to be reduced to the extent of input tax credit
+reduced/reversed by the recipient. With respect to cancellation of flat this could be construed as the
+Builder/Developer is required to reduce GST to the extent of Service Tax or VAT paid at the time of
+booking of flat. Also, it is to be noted that in case of citizen, who were not registered under indirect tax,
+the question of availment of cenvat credit not arises. Further, cenvat credit with respect to construction
+
+2
+
+
+service in Service Tax was not available as per Finance Act, 1994 hence, in case of registered business
+entity also, the same was not available.
+
+In this regard, it is to be noted that, the Developer has paid service tax at the rate of 4.50% and MVAT
+@1% in pre-GST regime. Given this, indirect tax burden on flat booked in pre-GST regime was ranges
+from 4.50%- 5.50%.
+
+Additionally, the Proviso to section 142 (2) specifically provides that ‘Provided that the registered person
+shall be allowed to reduce his tax liability on account of issue of the credit note only if the recipient of the
+credit note has reduced his input tax credit corresponding to such reduction of tax liability.’. Thus, this
+proviso specifically appears to link and then restrict the amount of re-credit to the extent of amount paid
+by recipient (as the credit note is permissible only if the recipient of the credit note has reduced his input
+tax credit corresponding to such reduction of tax liability). Thus, it can be construed as the credit note
+can be issued to the extent of earlier taxes paid (which effectively could be 5.50%) than 12% (i.e. the GST
+rate applicable on under-construction flats in GST regime).
+
+Additionally, we would like to submit that, the disclosing the aforesaid credit note, may be a disclosure
+challenge in GST return and thus, needs to be addressed by GSTN.
+
+Cancellation of flat cannot equated with the downward revision of price
+
+TCE ROT regard, we would like to refer Rule 6(3) of Service Tax Rules, 1944 states-‘Where an assessee has
+ip {éitgethan invoice, or received any payment, against a service to be provided which is not so provided by
+hi r wholly or partially for any reason or where the amount of invoice is renegotiated due to
+
+SS
+
+nded the payment or part thereof, so received for the service provided to the person from
+as received; or
+
+invoice had been issued ‘
+
+As per the aforesaid rule of Service Tax Rules, 1944 if an invoice is issued for which service is not provided
+then the taxpayer allowed to avail credit of such excess service tax paid.
+
+Also, we would like to bring your kind attention towards Sub Section 5 of Section 140 of CGST Act,
+reproduced below:
+
+“Every claim filed by a person after the appointed day for refund of tax paid under the existing law in
+respect of services not provided shall be disposed of in accordance with the provisions of existing law and any
+amount eventually accruing to him shall be paid in cash, notwithstanding anything to the contrary contained under
+the provisions of existing law other than the provisions of sub-section (2) of section 11B of the Central Excise Act,
+
+1944.”
+
+Given the aforesaid, the amount already paid in pre- GST regime towards Service tax or Excise, could be
+refunded in cash, as it is specifically not carried forward in GST regime.
+
+Further, we would like to bring your kind attention to the fact that, in accordance with Section 11B of
+Central Excise Act, 1944 ‘ Any person claiming refund of any duty of excise may make an application for
+refund of such duty to the Assistant Collector of Central Excise before the expiry of one year from the
+relevant date in such form as may be prescribed and the application shall be accompanied by such
+documentary or other evidence ‘
+
+As the cancellation of flats would have entitled the developer claim credit of the same in Service Tax
+Returns, the date of cancellation needs to be considered as the relevant date. This is particularly true as
+
+Z
+
+
+introduction of GST Law may not have the intention of creating a burden of double taxes (i.e. Service Tax/
+VAT as well as GST) on the sale of same property.
+
+Further, citizen of India who will cancel flats for any reason may not have to bear the impact. Also,
+anyways, the developers will pay the GST, if applicable, on the supply of said flats to another customer.
+Certainly, levying double taxes is not the intention of Government having deliberate shift of focus towards
+building more affordable homes for citizens.
+
+Also, as per Section 173 of the CGST Act, the taxpayer has to reduce the prices and pass on GST benefit
+of increased input tax credit and reduced tax rate. However, double taxation of in aforesaid cases may
+not be intention of the law.
+
+Additionally, even section 142 (6) (a) provides, inter-alia, cash refund in specified scenarios, in respect of
+admissible credit.
+
+Thus, developers and property buyers are seeking clarity on the aforesaid as to whether the Service
+Tax/VAT paid earlier can be claimed as credit or allowed as refund to property buyers.
+
+Prayer
+
+In view of the submissions made above, it is most humbly prayed that Hon’ble authorities may kindly pass
+a ruling to clarify the legal procedure for availment of Service Tax and VAT paid on cancellation of flat
+ich is booked in pre-GST Regime and cancelled in post-GST Regime.
+
+ABD CIQNAL SUBMISSION TO BE CONSIDERED AND CLARIFIED WITH RESPECT TO
+oot _SUBMISS IN ON CANCELLATION OF FLAT DATED -24.07.2018
+
+4 4a wel refer the application filed by KOLTE PATIL DEVELOPERS LTD (‘The Company") dated 19th
+) June 2otg here in the Company intent to sought clarification on behalf of property buyers, whether the
+Ps Servic? JaW/VAT paid earlier can be claimed as credit or allowed as refund to property buyers.
+
+ditionally, we request to consider following submissions as well.
+
+UBMISSIONS
+Two options available as discussed given below can be considered while cancellation of contract
+
+A. The cancellation of contract could be equated with downward revision of price then it will be
+covered under Section 142 (2) of the CGST Act, where the credit note can be raised with GST.
+
+B. Cancellation of flat cannot equated with the downward revision of price and builder is eligible
+for refund as per Rule 6(3) of Service Tax Rules,1944
+
+A. The cancellation of contract could be equated with downward revision of price then if will be
+covered under Section 142 (2) of the CGST Act, where the credit note can be raised with GST.
+
+A.1 Cancellation is covered under downward revision as there is no restriction in the law
+
+|. With respect to cancellation of flat this could be construed as the Builder/Developer is required
+to reduce GST to the extent of Service Tax or VAT paid at the time of booking of flat. Also, it is to
+be noted that in case of citizen, who were not registered under indirect tax, the question of
+availment of cenvat credit not arises. Further, cenvat credit with respect to construction service in
+Service Tax was not available as per Finance Act, 1994 hence, in case of registered business
+entity also, the same was not available.
+
+il. Further we would like to bring your kind attention to the fact that Rule 6(3) of Service Tax
+Rules, 1944 states-'Where an assessee has issued an invoice, or received any payment,
+against a service to be provided which is not so provided by him either wholly or partially for any
+reason or where the amount of invoice is renegotiated due to deficient provision of service, or
+any terms contained in the contract, the assessee may take credit of such excess service
+tax paid by him, if the assessee,
+
+(a) has refunded the payment or part thereof, so received for the service provided to the person
+from whom it was received; or
+
+(b) has issued a credit note for the value of the service not so provided to the person to whom
+such an invoice had been issued'
+
+
+
+lll. As per the aforesaid rule of Service Tax Rules, 1944 if an invoice is issued for which service
+is not provided then the taxpayer allowed to avail credit of such excess service tax paid.
+
+IV. Given the aforesaid, cancellation of flat can be equated with downward revision of the price
+as the intention behind Section 142 (2) of the CGST Act is to allow the credit of taxes paid in the
+pre-GST regime in case of revision of contract.
+
+V. As per the principle of interpretation of statute words must be ascribed that natural, ordinary
+or popular meaning which they have in relation to subject matter with reference to which and
+context in which they have been used in the statute.
+
+Vi. Further, as per the ‘cardinal Rule of interpretation’, “whenever you have fo constitute a statute
+or a document you do not constitute it according to the mere ordinary general meaning of the
+words, but according to the mere ordinary meaning of the word as applied to the subject
+matter which regards to which they are used."
+
+VII. Therefore, in determining the meaning of any word or phrase in a statute the first question to
+be asked is- "What is the natural or ordinary meaning of the word or phrase in its context in the
+statute?
+
+Vill. The meaning should lead to some result which is reasonably be supposed to have been
+the intention of the legislature’.
+
+Ix In the case of ICICI Bank v. Municipal Corporation of Greater Mumbai (2005 (6) SCC 404,
+P. 414) it was held that 'In the construction of Statutes means the Statute as a whole, the previous
+state of the Law, other Statutes in the pari-materia, the general scope of the Statutes and the
+mischief that the intend to remedy’.
+
+X. Thus, if we see this from holistic perspective then it can be stated that the context i.e. change
+of tax regime from erstwhile Service Tax regime to the new GST regime also should be considered
+“sto interpret the terminology.
+
+Hence, we submit that, considering the intention of the inclusion of the section 142 (2) of the
+u Act is to allow the credit of taxes paid in the pre-GST regime in case of revision of contract
+' Gancellation of flat can be equated with the downward revision of price.
+
+law cannot create a situation to deny the benefit available under earlier law as
+sions
+
+Erstwhile in the Finance Act, 1994 the Builder/ Developer is allowed to avail service tax
+dit with respect to cancellation of flat by way of issue of credit note as per Rule 6(3) of Service
+ax Rules, 1944.
+
+IL. Further, the section 142 (2) of the CGST Act is allowed to avail the credit of taxes paid in
+the pre-GST regime in case of downward revision of contract price. Hence, question under
+consideration is whether cancellation of contract can be considered as a downward revision of
+price or not.
+
+Ml. In this regard, reference can be given to the principle of interpretation of statute wherein
+beneficent construction involves giving the widest meaning possible to the statutes. When there
+are two or more possible ways of interpreting a section or a word, the meaning which gives relief
+and protects the benefits which are purported to be given by the legislation, should be chosen.
+
+IV. A beneficial statute has to be construed in its correct perspective so as to fructify the
+legislative intent. Given this, in case of legislations which have may two different interpretations,
+the legislation which favours the class of persons for which it is purported should be preferred.
+
+V. The rule of beneficial construction requires that even ex post facto law of such a
+
+type should be applied to mitigate the rigour of the law. The principle is based both on sound
+reason and common sense (T. Barai Vs Henry Ah Hoe (1983 1-SCC-177)].
+
+VI In the case of Commissioner of Central Excise, Ludhiana V. Ralson IndiaLtd 2006 (202)
+ELT 759 (P&H) has ruled that "this provision allows to a manufacturer credit of any duty of excise
+etc. paid on the goods used in the manufacture of the specified goods and being a beneficial
+legislation, its object of input duty relief to a manufacturer should not be defeated on technical and
+strict interpretation of the Rules governing Modvat".
+
+vil Hon'ble Supreme Court in the case of UOI, Suksha International and Nutron Gems &
+Others, 1989 (39) E.L.T. 503 (S.C.), has observed that an interpretation unduly restricting the
+scope of beneficial provision is to be avoided so that it may not take away with one hand what the
+policy gives with the other.
+
+
+
+B. Cancellation of flat cannot equated with the downward revision of price and builder is eligible for
+refund as per Rule 6(3) of Service Tax Rules, 1944
+
+B.1 when the transaction itself is cancelled the Government has no right over the taxes from the
+citizen
+ts In this regard, we would like to refer Rule 6(3) of Service Tax Rules, 1944 states that, in
+accordance with Section 11B of Central Excise Act, 1944 ‘Any person claiming refund of any duty
+of excise may make an application for refund of such duty to the Assistant Collector of Central
+Excise before the expiry of one year from the relevant date in such form as may be
+prescribed and the application shall be accompanied by such documentary or other evidence’
+
+ll. The expression ‘relevant date’ has been defined in clause (f) of Explanation (B) to Section
+11B of the CE Act as "the date of payment of duty”
+
+Il. We would like to bring your kind attention that Construction of immovable property is a
+continuous supply service and required sufficient time to complete the same. The one-year time
+limit is not justifiable in the said case.
+
+IV. Hon'ble Apex Court in the case of Mafatlal Industries Ltd Vs. UO! 1997 (89) ELT 247 held that, All
+refund claims to be adjudicated under Sec. 11B except where the levy is held to be
+
+unconstitutional.
+
+V. Given the aforesaid, it is important to analyse whether the one-year time limit is applicable in case
+of excess of payment of service tax due to cancellation of flat.
+
+Vi. As per Section 66B of the Finance Act, 1994 specifies the charge of service tax which is essentially
+
+that service tax shall be levied on all services provided or agreed to be provided in a taxable
+territory, other than services specified in the negative list.
+
+Vil. Given this, in case of cancellation of flat service is not provided which is agreed to be provided.
+Hence, service tax is not levied at all.
+
+iven this, if assessee has paid service tax which was not payable at all, then time limit does not
+ply to amount paid which is not service tax (as no service is provided).
+
+this regard, reference can be had to the case of Madhvi Procon Pvt.Limited [2015 (38) S.T.R.
+(Tri. - Anmd.) wherein it was held that, ‘The issue involved in the present proceedings is as to
+hether amount of Rs. 19,11,331/- paid by the Respondent should be considered as payment of
+duty' or an amount paid as ‘deposit. From the facts available on records Service Tax was paid on
+the amount of advances received by the Respondent but ultimately no service could be
+provided as the said works contract got terminated. In the case of Addition Advertising v.
+UO! (supra) jurisdictional Gujarat High Court has, inter alia, held that if no service is provided then
+there is no Service Tax. It means that once service is not rendered then no Service Tax is
+payable. Similarly Karnataka High Court in the case of CCE, Bangalore v. Motorola Private Limited
+(supra) held that any duty paid by mistake cannot be termed as ‘duty’. Similar view has been taken
+in the other case laws relied upon by the Respondent. In view of the above, it has to be held that
+the amounts paid by the Respondent cannot be termed as payment of duty but has to be
+considered as a ‘deposit’ to which provisions of Section 11B of the Central Excise Act, 1944
+will not be applicable.
+
+Xl. Further, In the case of Jyotsana D. Patel (2014 (35) S.T.R. 77 (Tri. - Mumbai) it is held that,
+
+‘It is admitted fact that the appellant was not required to pay any service tax for acquisition of
+residential unit as held by the Hon'ble High Court in K.V.R. Constructions (supra). As it is not an
+amount of service tax, therefore, provisions of Section 11B of the Central Excise Act are not
+applicable to the facts of this case. Therefore, the time limit prescribed under 11B is not applicable.
+Hence impugned order deserves no merit and same is set aside. Appeal is allowed with
+consequential relief. Stay petition also disposed of in the above terms.
+
+XIl. Karnataka high could in the case of KVR Construction (2012 (26) S.T.R. 195 (Kar.) held that,
+
+‘Where the claim of the respondent/assessee is on the ground that they have paid the amount by
+mistake and therefore they are entitled for the refund of the said amount. If we consider this
+payment as service tax and duty payable, automatically, Section 11B would be applicable. When
+once there was no compulsion or duty cast to pay this service tax, the amount of Rs. 1,23,96,948/-
+paid by petitioner under mistaken notion, would not be a duty or "service tax" payable in law.
+Therefore, once it is not payable in law there was no authority for the department to retain such
+
+6
+
+
+amount. By any stretch of imagination, it will not amount to duty of excise to attract Section 11B.
+Therefore, it is outside the purview of Section 11B of the Act.’
+
+XIll. In the case of ITC Limited (1993 (67) E.L.T. 3 (S.C.)] honourable Supreme court upheld the view
+taken by the Division Bench of the Delhi High Court with regard to the question of limitation. On
+the question of limitation, the Division Bench of the Delhi High Court had observed that “the duty
+of excise is that which is levied in accordance with law" and that "any money which is realised in
+excess of what is permissible in law would be a realisation made outside the provisions of the
+Act”.
+
+XIV. Therefore, in case service tax paid which was not payable then refund of same is allowable and
+Section 11B of Central Excise Act is not applicable as for period of time limitation.
+
+XV. Also, we would like to bring your kind attention towards Sub Section 5 of Section 140 of CGST Act,
+reproduced below:
+
+"Every claim filed by a person after the appointed day for refund of tax paid under the existing
+law in respect of services not provided shall be disposed of in accordance with the
+provisions of existing law and any amount eventually accruing to notwithstanding anything
+to the contrary contained under the provisions of existing law other than the provisions of sub-
+section (2) of section 11B of the Central Excise Act, 1944."
+
+XVI. Given the aforesaid, the amount already paid in pre-GST regime towards Service tax or Excise,
+could be refunded in cash, as it is specifically not carried forward in GST regime.
+
+XVII. Further, citizen of India who will cancel flats for any reason may not have to bear the impact. Also,
+anyways, the developers will pay the GST, if applicable, on the supply of said flats to another
+customer. Certainly, levying double taxes is not the intention of Government having deliberate shift
+of focus towards building more affordable homes for citizens.
+
+Thus, we submit that, refund of service tax paid on cancellation of flat where service is not provided
+shall be allowed without limitation of time as prescribed in the section 11B of the Central Excise
+
+New law cannot create a situation to deny the benefit available under earlier law as
+visions (i.e. to claim credit of excess paid)
+
+i Without prejudice to other arguments we submit it is settled position in law that procedural
+spect should not take away substantial benefits of the assesse. The substantial benefit of refund
+Would not be denied.
+
+The erstwhile law did not provide for any restriction on cancellation (as even the wholly
+
+cancelled contracts were eligible for the benefit of Rule 6 (3) of Service Tax Rules, 1994) and thus,
+the new provision which essentially is to cover the scenarios provided for under earlier law, cannot
+
+curtail the rights of the taxpayers.
+Ul. Thus, we submit that, the substantial benefit should not be denied to the applicant that
+because of new law which assesse was eligible under pre-GST regime
+B.3 Time limit should apply from date of cancellation as that is the trigger point (and not payment of
+tax) - Law cannot enforce impossible condition to claim within one year if the contract is
+cancelled after 1 year (say in July 2018)
+L. Without prejudice to aforesaid submission even we consider that the time limit of one year
+is applicable in the given case it should be considered from the date of cancellation of flat.
+Il. As per the Principles of Interpretation it is well settled law that there are two exceptions to
+non-compliance of mandatory requirement viz:
+a. When the performance of the requirement is impossible in such cases the performance
+is excused
+b. If the requirements are provided by Statute in the interest of a particular person, the
+requirement although mandatory may be waived by him. In such cases the act done
+will be considered as valid act [Wilson v. McIntosh (1894) AC 129).
+WM. In the given case it is not possible for the assesse to file a claim of refund by complying
+conditions of one year due to implementation of GST law from 1st July 2017 and hence based on
+the aforesaid principle it can be said that the requirement is impossible to be complied with.
+IV. Further, there are a plethora of judicial pronouncements wherein it has been held that the
+
+time limit of one year is to be considered from the date of revision of price, or cancellation of
+contract (i.e. from the date of issue of credit note and not from the date of payment of service tax.)
+
+7
+
+
+| No. | Case law Decisions
+
+Is M/s.Chambal Fertilizers And | It was held that for the purpose of computing the time limit
+Chemical Ltd [2017- TIOL-407- | under Section 11B, the date of issue of credit notes is
+CESTAT- DELHI = 2017 (52) S.T.R. | relevant and then only the provisional price gets finalized
+329 (Tri. - Del.)]
+
+V. It may be noted that had the earlier regime continued, the taxpayer was having right to
+utilise the excess tax paid (arising due to cancellation of booked flats) against any other Service
+Tax liability. Now, as the cancellation is taking place in GST regime, typically, cancellation is the
+trigger point which should either enable the taxpayer (i.e. developer) to claim credit or the customer
+claim the refund.
+
+Vi. Also, it is to be noted that erstwhile in the Pre-GST regime as per rule 6(3) of Service Tax
+Rules, 1944 the builder/ developer is allowed to avail credit of such excess service tax paid against
+the invoice issued for which service is not provided then the taxpayer.
+
+VI. Thus, practically the period of one year should be reckoned from the date of cancellation
+of flat and not from the date of payment of service tax. Thus, refund should be allowed in such
+cases as per new law without any time restriction to file refund claim.
+
+22 Developers and property buyers are seeking clarity that Whether cancellation of flat can be
+equated with the downward revision of price where the credit note can be raised with GST as per
+Section 142 (2) of the CGST Act.
+
+or
+
+Whether cancellation of flat cannot be equated with the downward revision of price and hence
+service Tax/VAT paid earlier can be claimed as credit or allowed as refund to property buyer as
+per Rule 6(3) of Service Tax Rules, 1944 along with applicability of time of limitation for refund as
+specified under section 11B of Central Excise Act.
+
+CONTENTION - AS PER THE CONCERNED OFFICER
+
+COMMENTS ON THE APPLICATION NO.40 DATED 19.06.2018 FILED BY
+
+M/S. KOLTE PATIL DEVELOPERS LTD., PUNE
+
+/s Kolte Patil Developers Ltd.,, Pune, having GSTIN Number 27AAACK7310G1ZT having it's
+d office at First, 201A, City Point, Dhole Patil Road, Pune-411001, have filed an application No.
+49.06.2018 for Advance Ruling before the Authority for the Advance Ruling.
+j M/s Kolte Patil Developers Ltd., Pune, in the pre-GST regime, had obtained registration under
+Service Tax (No. AAACK7310GST001) w.e.f. 20.03.2007 for services rendered,
+3; Mis. Kolte Patil Developers Ltd., Pune (hereinafter referred to as “Appellant”), is engaged in the
+activity of Construction of Residential and Commercial Complex. When the flats were booked by the
+Customer, the applicable Service Tax and MVAT was deposited. Given this, Indirect Tax burden borne by
+the Individual Customer on the flat booked in Pre-GST regime ranges from 4.50% -5.50%. However, due
+to certain reasons, the flats are cancelled by the Customer on or after 18' July 2017 (i.e. after
+implementation of GST) which are booked by the Customer in the Pre-GST regime.
+
+4. Interms of Section 142 (2) of the CGST Act, credit note can be raised:
+Be Oars
+
+6. where, in pursuance of a contract entered into prior to the appointed day, the price of any goods
+or services or both is revised downwards on or after the appointed day, the registered person
+who had removed or provided such goods or services or both may issue to the recipient a credit
+note, containing such particulars as may be prescribed, within thirty days of such price revision
+and for the purposes of this Act such credit note shall be deemed to have been issued in respect
+of an outward supply made under this Act:
+
+
+7. Provided that the registered person shall be allowed to reduce his tax liability on account of issue
+of the credit note only if the recipient of the credit note has reduced his input tax credit
+corresponding to such reduction of tax liability.
+
+8. We submit that, the situation like revision of price upward or downward is addressed via sub
+clause (a) and sub clause (b) of Section 142 (2) of the CGST Act wherein credit note can be raised
+if the revision of price is downward. However, said section does not appear to exclude
+cancellation of contract cases.
+
+9. Hence, can cancellation of flat be equated with revision of contract price is the question of law.
+Given this, we submit that, there could be two scenarios:
+
+10. Cancellation of flat can be equated with the downward revision of price
+
+11. In said scenario, as discussed aforesaid as per section 142(2)(b) of the CGST Act, credit note can
+be raised for cancellation of flat by the builder and same is treated as ‘Outward Supply’. Further,
+as per proviso to said section tax liability on account of issue of credit note can be reduced only
+if the recipient of credit note has reduced his input tax credit.
+
+12. As regards to said legal pronouncement tax liability is to be reduced to the extent of input tax
+credit reduced/reversed by the recipient. With respect to cancellation of flat this could be
+construed as the Builder/Developer is required to reduce GST to the extent of Service Tax or VAT
+paid at the time of booking of flat. Also, it is to be noted that in case of citizen, who were not
+registered under indirect tax, the question of availment of cenvat credit not arises. Further,
+cenvat credit with respect to construction service in Service Tax was not available as per Finance
+Act, 1994 hence, in case of registered business entity also, the same was not available.
+
+As claimed by the Appellant in their application before Advance Ruling Authority (hereinafter
+
+a) Whether GST Input Tax Credit of Service Tax and State VAT paid while booking of Flat is available
+to the Developer, if cancelled in GST regime? What will be the methodology to avail Input Tax Credit
+on the said taxes paid?
+
+b) What is the legal procedure for cancellation of flat which is booked in Pre-GST Regime and
+cancelled in Post-GST Regime. Also, GST liability in cases where some small amount is retained,
+for cancellation.
+
+COMMENTS ON 5(a):-
+
+6. As regards to the Point 5(a), attention is drawn to the Cenvat Credit Rules, 2004, as quoted below.
+
+“Effect of Refund or Receipt of Credit Note on CENVAT Credit: According to third proviso to
+
+substituted Rule 4(7) [substituted Vide Notification No. 13/2011- Central Excise (N.T.) dated 31.03.2011
+with effect from 01.04.2011], if any payment or part thereof made towards an input service is refunded or
+a credit note is received by the service provider after availing the CENVAT Credit on such input service,
+then he shall be required to pay an amount equal to the CENVAT Credit availed in respect of the amount
+so refunded or credited. In other words, in case of refund or Receipt of Credit Note, the proportionate
+
+amount of CENVAT Credit is to be reversed by the service recipient. ”
+7. Therefore, the input tax credit of service tax while booking of flat is not available to the Developer
+
+as the said service has not been ultimately provided and they might have refunded the amount to the
+9
+
+
+Customer/client. As the assessee has to pay the Cenvat credit availed on such services in terms of Rule
+4(7) of Cenvat Credit Rules, they should not take recourse to Rule 6(3) of the Service Tax Rules, 1994.
+Before discussing what are the options in GST, let’s take a look on the provisions of the Rule 6(3) of the
+Service Tax Rules, 1994, which is reproduced below for ready reference.
+“(3) Where an assessee has issued an invoice, or received any payment, against a service to
+be provided which is not so provided by him either wholly or partially for any reason, [or where the
+amount of invoice is renegotiated due to deficient provision of service, or any terms contained ina
+contract], the assessee may take the credit of such excess service tax paid by him, if the assessee.-
+(a) has refunded the payment or part thereof, so received for the service provided to the person from
+whom it was received; or] (b) has issued a credit note for the value of the service not so provided to
+the person to whom such an invoice had been issued. “
+
+8. There is no provision like the earlier provision of ‘Rule 6(3) of Service Tax Rules, 1944’ in GST
+
+because the very essence of GST is matching of input tax credit both at Supplier's and Receiver's end and
+therefore, situation like excess credit paid on the same transaction or excess credit paid by the Supplier to
+be adjusted against his future tax liability will not arise in GST, because in GST there is choice for correction
+and matching of the data by the Supplier and Receiver. So, if the excess service tax is paid, the option of
+refund to the Appellant or to their customer on submission of application for refund by them, as per Section
+11B of the Central Excise Act, 1944 is available. In case, Appellant is filing refund application, they should
+
+as cancellation took place after implementation of GST w.e.f 1.7.2017. Further, the developer
+ve notified their clients, the terms of cancellation in any important documents of the contract (like
+ice, Builder Buyer Agreement etc.)m ade in this regard and therefore, they have to go as per the terms
+
+of cancellation notified by them.
+
+COMMENTS ON 5(b):-
+
+10. It should be noticed that cancellation of flats have taken place after 1.7.2017 i.e. after
+implementation of GST, as such this service (cancellation of flat) will be governed by the provisions of GST
+Act. When the contract (providing of house to customer) itself is cancelled and refund to the said customer
+is paid by the developer (and also GST on cancellation charges is being paid), there is no question of
+upward revision or downward revision of contract price. Hence, cancellation of flat cannot be equated with
+revision of contract price.
+
+44, In GST, Cancellation of service may lead to cancellation of invoice and hence, no input tax credit
+can be availed on such invoice. Only the remedy available to customer /developer for claiming excess
+service tax paid by them for cancellation of flat booked in Pre-GST Regime and cancelled during Post-GST
+Regime is to file an application for refund of excess service tax paid by them in terms of Section 11B of the
+Central Excise Act, 1944 read with Section 140 of the CGST Act.
+
+12. There is no question of burden of double taxes as discussed by the Appellant, as the avenue of
+Refund is open to them. Hence refund can be claimed by filing the application for refund either by the
+Appellant or by their clients, who booked the flat and the relevant date for claiming the refund will be as
+
+10
+
+
+per the provisions of Section 11B of Central Excise Act, 1944 read with relevant provision of Finance Act,
+1994 & rules made there under, as made applicable vide Section 83 of the Finance Act.
+
+COMMENTS ON THE ADDITIONAL SUBMISSIONS W.R.T. APPLICATION NO.40 DATED 19.06.2018
+FILED BY M/S. KOLTE PATIL DEVELOPERS LTD., PUNE
+
+di, M/s Kolte Patil Developers Ltd.,, Pune, having GSTIN Number 27AAACK7310G1ZT having it’s
+registered office at First, 201A, City Point, Dhole Patil Road, Pune-411001, have filed an application No.
+40 dt. 19.06.2018 for Advance Ruling before the Authority for the Advance Ruling. They have also
+submitted additional submissions on 19.06.2018 to the Authority for the Advance Ruling.
+
+pe The taxpayer, in their additional submissions, submitted to the Advance Ruling Authority on
+19.06.2018, has mentioned that the case under consideration is covered under clause (d) of Section 97(2)
+of CGST Act called as ‘admissibility of input tax credit of tax paid or deemed to have been paid’. In their
+submissions, they dwelled on following issues to justify. that their case can be admitted before the
+Advance Ruling Authority :-
+
+Cancellation of contract can be equated with the revision in contract.
+
+Express and implied intention of repealed statute shall be used for interpretation of the provisions of the
+new statute.Cancellation is covered under downward revision as there is no restriction in the law.
+
+New law cannot be interpreted to restrict the rights of old statute.
+
+New law cannot create a situation to deny the benefits available under earlier law.
+
+3. Though this office’s reply dt.13.7.2018 is sufficient to decide the admissibility of the case and the
+issues raised therein, even then, the comments on the issues raised by the taxpayer, in their additional
+submissions is as under:-
+
+Comments on Point 1 - Cancellation of contract can be equated with the revision in contract.
+
+When the contract (providing of house to customer) itself is cancelled and refund to the said
+er is paid by the developer (and also GST on cancellation charges is being paid), there is no
+q n of upward revision or downward revision of contract price. Hence, cancellation of flat cannot be
+equated with revision of contract price. For a contract to be revised, it has to be remain live. When contract
+ig cancelled, there is no question of revision. Only the remedy available to customer /developer for
+g excess service tax paid by them for cancellation of flat booked in Pre-GST Regime and cancelled
+Post-GST Regime is to file an application for refund of excess service tax paid by them in terms of
+ion 11B of the Central Excise Act, 1944 read with Section 140 of the CGST Act.
+
+b) Comments on Point 2 - Express and implied intention of repealed statute shall be used for
+interpretation of the provisions of the new statute.
+To understand the issue raised by the taxpayer, let's understand the provisions as mentioned
+
+in Section 173 and 174 of “THE CENTRAL GOODS AND SERVICES TAX ACT, 2017 (hereinafter
+referred to as “CGST Act”. The same are reproduced below:-
+
+“173. Save as otherwise provided in this Act, Chapter V of the Finance Act, 1994 shall be omitted.
+174. (1) Save as otherwise provided in this Act, on and from the date of commencement of this Act, the
+Central Excise Act, 1944 (except as respects goods included in entry 84 of the Union List of the Seventh
+Schedule to the Constitution), the Medicinal and Toilet Preparations (Excise Duties) Act, 1955, the
+Additional Duties of Excise (Goods of Special Importance) Act, 1957, the Additional Duties of Excise
+(Textiles and Textile Articles) Act, 1978, and the Central Excise Tariff Act, 1985 (hereafter referred to as
+the repealed Acts) are hereby repealed. (2) The repeal of the said Acts and the amendment of the
+Finance Act, 1994 (hereafter referred to as “such amendment” or “amended Act”, as the case may be)
+to the extent mentioned in the sub-section (1) or section 173 shall not— (a) revive anything not in force
+or existing at the time of such amendment or repeal; or (b) affect the previous operation of the amended
+Act or repealed Acts and orders or anything duly done or suffered thereunder; or ; (c) affect any right,
+privilege, obligation, or liability acquired, accrued or incurred under the amended Act or repealed Acts
+or orders under such repealed or amended Acts:”
+
+As regards the interpretation of Section 174(2)(a), the GST Law has not revived anything that
+was in force or existing at the time of such amendment of the Finance Act, 1994 or repealment of Central
+
+i
+
+
+Excise Act, 1944 and other Acts mentioned in said Section 174(1) of the CGST Act, on the issue raised by
+the taxpayer.
+
+As regards the interpretation of Section 174(2)(b), the GST Law has not affected the previous
+operation of the Amended Act i.e. the Finance Act, 1994, on the issue raised by the taxpayer. Rule 6(3)
+of the Finance Act, 1994 still holds good, if any case or issue pertaining to it is to be decided or
+adjudicated in said terms of the Finance Act, 1994.
+
+As regards the interpretation of Section 174(2)(c), the GST Law has not affected any right,
+privilege, obligation, or liability acquired, accrued or incurred under the amended Act (the Finance Act,
+1994,) or repealed Acts (Central Excise Act, 1944 and other Acts mentioned in said Section 174(1) of the
+CGST Act), on the issue raised by the taxpayer in as much as it was open to the said taxpayer to take
+credit of the excess service tax paid by them, either by filing revised Service Tax Return within stipulated
+time on the services not offered to the clients or by filing refund claim of the excess service tax paid by
+them as per the provisions of the Finance Act, 1994 read with the provisions envisaged in Section 11B
+of the Central Excise Act, 1944 and Section 140 of the CGST Act.
+
+Hence, it seems that the taxpayer has mis-construed the said provisions of the CGST Act.
+
+c) Comments on Point 3 - Cancellation is covered under downward revision as there is no
+restriction in the law.
+No restriction in the law does not mean that a situation or case can be interpreted as
+suitable to one’s needs and convenience. No comments can be offered on the points/issue
+not existing in the GST law.
+d) Comments on Point 4 - New law cannot be interpreted to restrict the rights of old statute.
+
+As per the comments offered on Point 2 & 3.
+
+Comments on Point 5 - New law cannot create a situation to deny the benefits available under
+arlier law.
+As per the comments offered on Point 2 & 3.
+
+rther, the taxpayer, does not appear in the active registration list of assessee of the Range Il,
+Park Div, Pune | CGST Commissionerate, at the GST Portal even though Principal unit of the
+falls in the jurisdiction of the said Range. On verbal enquiry with the said assessee, they
+ied the amended registration certificate issued to them by the Maharashtra Goods and Service
+uthorities, which is enclosed herewith for information. However, in GST Portal on searching
+axpayer details for the GSTIN No. 27AAACK7310G1ZT, it is observed that the said assessee is registered
+under Centre jurisdiction of Range-lill, Division-lV, MUMBAI-EAST COMMISSIONERATE (document
+showing taxpayer details for the said GSTIN is enclosed). Hence, it is requested to the Advance Ruling
+Authority (GST), Mumbai that further enquires/correspondence/proceedings in the matter be conducted
+with the officers of the said jurisdiction.
+
+5) In view of above, the Advance Ruling Authority (GST), Mumbai may like to decide whether case
+
+should be admitted on merits or not.
+04. HEARING
+
+The case was taken up for preliminary hearing on dt. 17.07.2018 with respect to
+admission or rejection of the application when Sh. Pritam Mahure, C.A.,along with Ms. Vaishali
+Kharde, C.A. and Sh. Ramchandra Bhong, Sr. Manager Accounts appeared and requested for
+admission of application as per details in their application. Further with respect to admissibility
+U/s. 97 (2) of CGST Act,it was decided that the applicant would make further written
+submissions latest by 24.07.2018 and then the admissibility would be decided. Jurisdictional
+Officer MS. Ritu N Bijwar, Supt., Pune-I, Commissionerate appeared and made written
+submissions.
+
+Further hearing in respect of admission/ rejection of application as mentioned at the time
+of earlier hearing was held on 01.08.2018 when Sh. Pritam Mahure, C.A., along with Ms. Vaishali
+
+12
+
+
+Kharde, C.A. and Sh. Ramchandra Bhong, Sr. Manager Accounts appeared and requested for
+admission of application on the basis of further submissions. Jurisdictional Officer MS. Ritu
+Bijwar, Supt., Pune-I, Commissionerate appeared and made written submissions.
+
+05. OBSERVATIONS
+
+We have gone through the facts of the case. At different places in the application and the
+submission thereafter, we find that the following issues have been raised for our consideration
+thus -
+
+i. Clarification about the legal procedure for availment of Service Tax and VAT paid on
+cancellation of flat which is booked in pre-GST Regime and cancelled in post-GST Regime.
+
+ii, Whether cancellation of flat can be equated with the downward revision of price where the
+credit note can be raised with GST as per Section 142 (2) of the CGST Act.
+
+tii. Whether cancellation of flat can be equated with the downward revision of price and hence
+service Tax/VAT paid earlier can be claimed as credit or allowed as refund to property buyer
+as per Rule 6(3) of Service Tax Rules, 1944 along with applicability of time of limitation for
+refund as specified under section 11B of Central Excise Act.
+
+iv, Whether GST input tax credit of Service Tax and State VAT paid while booking of flat is
+available to the Developer, if cancelled in GST regime? What will be the methodology to
+avail Input Tax Credit on the said taxes paid?
+
+v. What is the legal procedure for cancellation of flat which is booked in pre-GST Regime and
+cancelled in post-GST Regime?
+
+KSos RU Lig:
+
+y
+
+bs so, GST liability in cases where some small amount is retained, for cancellation (after
+discussion with customer).
+
+.
+*
+
+I
+>”
+o
+
+2
+
+, “Ne begin our consideration of the issues with the observation that the present
+
+' a) proc etlings are under the provisions of the GST Act. As is informed the transaction of booking
+ee Ok at was undertaken prior to the implementation of the GST Act in the State of Maharashtra
+sees pheretorathat sets the record clear that no transaction of booking has happened under the
+provisions of the GST Act. However, we hasten to add what has been additionally informed is
+that one fallout of the aforesaid transaction has occurred in the GST regime. This fallout is that
+the transaction of booking has been cancelled in the GST regime. This cancellation has two
+aspects. One where the cancellation comes with retention of some amount for cancellation. The
+other, though not expressly stated, is cancellation without retention of any amount for
+cancellation. It has been submitted before us that the cancellation with retention of some amount
+is being considered as a service by the applicant and GST is being discharged in respect of the
+same. For the reason being so, the applicant has decided not to contest, in the present
+proceedings, the issue about cancellation with retention of some amount. We therefore move to
+the issue of cancellation of booking without any consideration for effecting the cancellation. It is
+a admitted fact that the transaction of booking has taken place in the pre-GST regime. That being
+so, it would be but obvious an inference that no transaction has taken place in the GST regime.
+There is no ‘supply’ under the GST Act. However, we find the following provisions under the
+
+GST Act -
+
+13
+
+
+MGST ACT
+CGST ACT
+
+142. (1) Where any goods on which duty, if any, had been paid | 142. (1) Where any goods on which tax, if any, had been
+under the existing law at the time of removal thereof, not being | paid under the existing law at the time of sale thereof, not
+earlier than six months prior to the appointed day, are returned | being earlier than six months prior to the appointed day,
+to any place of business on or after the appointed day, the | are returned to any place of business on or after the
+registered person shall be eligible for refund of the duty paid | appointed day, the registered person shall be eligible for
+under the existing law where such goods are returned by a | refund of the tax paid under the existing law where such
+person, other than a registered person, to the said place of | goods are returned by a person, other than a registered
+business within a period of six months from the appointed day | person, to the said place of business within a period of six
+and such goods are identifiable to the satisfaction of the proper | months from the appointed day and such goods are
+officer: identifiable to the satisfaction of the proper officer :
+
+Provided that if the said goods are returned by a registered | Provided that if the said goods are returned by a registered
+person, the return of such goods shall be deemed to be a supply. | person, the return of such goods shall be deemed to be a
+supply.
+
+(3) Every claim for refund filed by any person before, on or | (3) Every claim for refund filed by any person before, on
+after the appointed day, for refund of any amount of CENVAT | or after the appointed day for refund of any amount of
+credit, duty, tax, interest or any other amount paid under the | input tax credit, tax, interest or any other amount paid
+existing law, shall be disposed of in accordance with the | under the existing law, shall be disposed of in accordance
+provisions of existing law and any amount eventually accruing | with the provisions of existing law and any amount
+to him shall be paid in cash, notwithstanding anything to the | eventually accruing to him shall be refunded to him in
+contrary contained under the provisions of existing law other | cash in accordance with the provisions of the said law :
+
+than the provisi b-section (2, tion 11B of the
+Ch at Packed rs sections(3) of: section of Provided that where any claim for refund of the amount
+
+of input tax credit is fully or partially rejected, the amount
+Provided that where any claim for refund of CENVAT credit is | so rejected shall lapse :
+fully or partially rejected, the amount so rejected shall lapse:
+
+ae Provided further that no refund shall be allowed of any
+
+prce RUE | Regvided | further that no refund shall be allowed of any amount | amount of input tax credit where the balance of the said
+
+ey e7) ‘NVAT credit where the balance of the said amount as on | amount as on the appointed day has been carried forward
+e inted day has been carried forward under this Act. under this Act.
+
+claim filed by a person after the appointed day for
+tax paid under the existing law in respect of services
+led shall be disposed of in accordance with the
+of existing law and any amount eventually accruing
+
+With the facts as attending and the above provisions, we observe thus -
+
+a) The amounts received towards construction of a flat was considered a taxable event, a
+sale, under the provisions of the Maharashtra Value Added Tax Act, 2002 [MVAT Act].
+The MVAT Act applied to tangible and intangible goods and not to services. The sale of
+a flat after its construction was complete was not taxable under the MVAT Act, being a
+transaction for sale of immovable property.
+
+b) Similarly, Chapter V of the Finance Act, 1994 [Service Tax Act] providing for taxation of
+Services applied to the transaction of sale of a flat except where the entire consideration
+was received after issuance of completion-certificate by the competent authority.
+
+c) The applicant has not provided any details as to when the flat was sold. Neither any detail
+as to when the booking was cancelled is provided. We have been given no agreement or
+document as such. Therefore, applicability of MVAT Act or Finance Act, 1994 cannot be
+checked.
+
+14
+
+
+d) The above provision says that the goods which are being returned should have been sold
+not earlier than six months prior to the appointed day and which is 1st July 2017. Since no
+document has been provided, the date of sale is not known to us. Further, the provision
+says that the goods should have been returned within a period of six months from the
+appointed day and such goods are identifiable to the satisfaction of the proper officer.
+Even this information about date of return of goods is not available to us. But the point
+to be noted is that mere return of goods within the specified time is not enough. The
+return has to survive the test of identification to the satisfaction of the proper officer. goo
+
+e) The return of such goods is deemed to be a supply under the GST Act if the return of such
+goods is by a registered person. No information on this aspect is available to us.
+
+f) In respect of services not provided, claim is to be filed by a person after the appointed
+day for refund of tax paid under the existing law. Such a claim shall be disposed of in
+accordance with the provisions of the existing law which would be the Service Tax Act in
+the instant case.
+
+g) We know no more than the fact that a transaction of booking of flat in the pre-GST regime
+
+has been cancelled in the GST regime. Having said so, we invite attention to the questions
+
+Act. Sub-section (2) of section 97 about “ Application for advance ruling” says thus -
+
+e question on which the advance ruling is sought under this Act, shall be in respect of,—
+(a) classification of any goods or services or both;
+(b) applicability of a notification issued under the provisions of this Act;
+(c) determination of time and value of supply of goods or services or both;
+(d) admissibility of input tax credit of tax paid or deemed to have been paid;
+(e) determination of the liability to pay tax on any goods or services or both;
+i) whether applicant is required to be registered;
+(g) whether any particular thing done by the applicant with respect to any goods or services or both amounts
+to or results in a supply of goods or services or both, within the meaning of that term.
+
+h) Having regard to the transaction in the instant case, the questions which are being
+
+contested are not about -
+i. the classification of any goods or services or both.
+
+ii. the applicability of a notification issued under the provisions of the GST Act.
+iii. the determination of time and value of supply of goods or services or both.
+iv. the admissibility of input tax credit of tax paid or deemed to have been paid.
+
+Input tax credit is defined u/s 2(63) of the GST Act as being “input tax credit" means
+the credit of input tax; Input tax is defined u/s 2(62) of the GST Act thus -
+
+(62) “input tax" in relation to a registered person, means the central tax, State tax, integrated tax or
+Union territory tax charged on any supply of goods or services or both made to him and includes—
+(a) the integrated goods and services tax charged on import of goods;
+(b) the tax payable under the provisions of sub-sections (3) and (4) of section 9;
+(c) the tax payable under the provisions of sub-sections (3) and (4) of section 5 of the Integrated
+Goods and Services Tax Act;
+(d) the tax payable under the provisions of sub-sections (3) and (4) of section 9 of the respective
+State Goods and Services Tax Act; or
+(e) the tax payable under the provisions of sub-sections (3) and (4) of section 7 of the Union Territory
+Goods and Services Tax Act, but does not include the tax paid under the composition levy;
+
+15
+
+
+The above definitions help us to see that the refund of tax sought in the present
+proceedings is not in respect of input tax credit of tax paid or deemed to have been paid
+under the GST Act.
+v. the determination of the liability to pay tax on any goods or services or both.
+vi. | Whether the applicant is required to be registered.
+
+vii. whether any particular thing done by the applicant with respect to any goods
+or services or both amounts to or results in a supply of goods or services or
+both, within the meaning of that term.
+
+i) In view of points above, it can be seen that the questions posed before us are not the
+questions in respect of which an Advance Ruling can be sought under the GST Act. In
+view thereof, the impugned application is not maintainable. No proceedings of Advance
+Ruling under the GST Act lie in the instant case. For want of any merit, we discuss no
+further.
+
+06. In view of the deliberations hereinabove, we pass an order as follows:
+
+ORDER
+
+(Under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+NO.GST-ARA- 40/2018-19/B- 1/8 Mumbai, dt. 2 4/04 louie
+
+For reasons as discussed in the body of the order, the application for advance ruling is
+
+ee Ws po 380g
+B. V. BORHADE PANKAJ KUMAR
+
+(MEMBER) (MEMBER)
+
+CERTIFIED TRUE COPY
+
+Copy to:-
+
+1, The applicant ‘ oh
+2. The concerned Central / State officer S ee
+
+3. The Commissioner of State Tax, Maharashtra State, Mumbai ‘
+MEMBER
+
+4. The Jurisdictional Commissioner of Central Tax
+5. Joint commissioner of State tax , Mahavikas for Website.
+
+ADVANCE RULING AUTHORITY
+MAHARASHTRA STATE, MUMBA!
+Note :- An Appeal against this advance ruling order shall be made before The Maharashtra Appellate
+
+Authority for Advance Ruling for Goods and Services Tax, 15th floor, Air India building, Nariman Point,
+
+Mumbai - 400021.
+
+16

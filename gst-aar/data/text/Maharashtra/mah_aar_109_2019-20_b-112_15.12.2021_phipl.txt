@@ -1,0 +1,511 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+GST Bhavan, Room No.107, 1st floor, B-Wing, Old Building, Mazgaon, Mumbai — 400010.
+(Constituted under Section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri. Rajiv Magoo, Additional Commissioner of Central Tax, (Member)
+(2) Shri. T. R. Ramnani, Joint Commissioner of State Tax, (Member)
+
+GSTIN Number, if any/ User-id 27AAACP6820G1ZI
+
+Legal Name of Applicant M/s. Parker Hannifin India Private Limited
+
+Registered Address/Address provided | Plot EL-26 MIDC TTC Industrial Area, Mahape, Navi Mumbai,
+
+while obtaining user id India 400 709
+
+Details of application GST-ARA, Application No. 109 Dated 17.02.2020
+
+Concerned officer RAI-VAT-E-002, Raigad Division
+
+Nature of activity(s) (proposed/present) in respect of which advance ruling sought
+
+A_ | Category Factory/Manufacturing
+
+B_ | Description (in brief) (As per | Parker Hannifin India Private Limited, the “Applicant” having
+applicant) manufacturing premises at Plot EL-26, MIDC, TTC Industrial
+
+Area, Navi Mumbai, manufactures and supplies various
+products for use in the railway/ construction /oil & gas as also
+other industries. The present application concerns classification
+of “Compressed Natural Gas Dispenser” manufactured by the
+applicant, which is supplied for use at Compressed Natural Gas
+(“CNG”) dispensing stations for vehicles and automobiles,
+which are operated by city gas distribution Companies like
+Mahanagar Gas Ltd, Gujarat Gas Ltd etc.
+
+Issue/s on which advance ruling >» Classification of goods and/or services or both
+
+required
+
+Question(s) on which advance ruling | As reproduced in para 01 of the Proceedings below.
+
+is required
+
+NO.GST-ARA- 109/2019-20/B- | | 2- Mumbai, dt. (¢/j2-/202)
+PROCEEDINGS
+
+(Under Section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+The present application has been filed under Section 97 of the Central Goods and Services
+Tax Act, 2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as “the
+CGST Act and MGST Act” respectively ] by M/s. Parker Hannifin India Pvt. Ltd. the applicant,
+
+seeking an advance ruling in respect of the following questions.
+
+Page 1 of 10
+
+
+
+Whether the CNG Dispenser manufactured and supplied by the Applicant is correctly
+covered in SL, No. 422, Schedule II of Notification No. 1/2017-Central Tax (Rate) dated 28 June
+2017 as amended and corresponding notification issued under integrated GST and State GST Act.
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and the
+MGST Act are the same except for certain provisions. Therefore, unless a mention is specifically
+made to any dissimilar provisions, a reference to the CGST Act would also mean a reference to the
+same provision under the MGST Act. Further to the earlier, henceforth for the purposes of this
+Advance Ruling, the expression “GST Act’ would mean CGST Act and MGST Act.
+
+2. FACTS AND CONTENTION — AS PER THE APPLICANT
+
+2.1 Parker Hannifin India Private Limited, Applicant having manufacturing premises at Plot EL-
+26, MIDC, TTC Industrial Area, Mahape Navi Mumbai, has filed the present application
+which concerns manufacture of “Compressed Natural Gas Dispenser” (hereinafter referred
+to as “CNG Dispenser”), supplied for use at Compressed Natural Gas (“CNG”) dispensing
+stations for vehicles and automobiles.
+
+a2 The CNG Dispenser, constantly measures and regulates the mass and pressure of natural gas
+being transferred to the vehicle so as to ensure that the rated pressure capacity of the CNG
+tank in the vehicle is not exceeded. Upon the pre-set values being reached, the CNG
+Dispenser, automatically, by way of a control unit and actuator, cuts the supply of CNG to
+the CNG tank in the vehicle.
+
+Pie 5 To commence refueling of CNG vehicles, the drivers / operators unhook the NGV/NZS nozzle
+from the CNG Dispenser and hook-up to the receptacle of the CNG tank in the vehicle.
+Thereafter, the dispensing of CNG would commence upon activation. Throughout the process
+of dispensing, the CNG Dispenser measures and regulates the pressure.
+
+2.4 Presently, the Applicant is clearing the CNG Dispensers under Heading 84.13, covered in Sl.
+No. 117, Schedule IV of Notification No. 1/2017-C.T. (Rate) dated 28.06.2017. The CNG
+Dispenser does not have a pump or a pumping function. Rather, it has inlets and outlets
+which allows for movement of the CNG from the storage tank to the vehicle via the CNG
+Dispenser. The reason for movement of the CNG is that the pressure in the tank is low, while
+that of being dispensed is high. Hence, by principle of simple physics, viz., gas moves from a
+region of high pressure to low pressure. Further, there is no application of external force for
+
+causing movement of CNG into the vehicle.
+
+ZOONCE RUS
+Sp ANY %
+fo WG
+
+ad
+
+Page 2 of 10
+
+
+2.5 Applicant now feels that the CNG Dispenser is not classifiable Sl. No. 117, Schedule IV of
+
+Notification No. 1/2017-Central Tax (Rate) dated 28 June 2017 (Heading 84.13) since the
+
+same covers “pumps for dispensing fuel of the type used in filling stations or garages”.
+
+2.6 Applicant submits that as per Explanation (iv) of Notification No. 1/2017-C.T (Rate) dtd
+28.06.2017, the rules for interpretation including Section Notes and Chapter Notes to the
+Customs Tariff shall apply for the interpretation of the present notification also. The scope of
+
+Heading 84.13 is as under:
+
+Tariff Item Description of Goods
+8413 Pumps for liquids, whether or not fitted with a measuring device;
+liquid elevators
+
+- Pumps fitted or designed to be fitted with a measuring device
+
+8413 11 -- Pumps for dispensing fuel or lubricants, of the type used in filling
+stations or garages
+
+27 Heading 84.13 and sub-heading 84.13 11 supra, is identical to Sr. No. 117 as reproduced
+above. Further, as evidenced from a reading of Heading 84.13 and sub-heading 84.13 11, a
+sine qua non for classification therein is that, the goods in question must be a pump. If there
+is no pump, there is no applicability of Heading 84.13 at all. This is supported by Rule 1 of
+General Rules of Interpretation to the Customs Tariff that the most specific heading is to be
+preferred for classifying goods.
+
+2.8 Further, the relevant extract of the HSN Explanatory Notes to Heading 84.13 is reproduced
+below:
+
+“This heading covers most machines and appliances for raising or otherwise continuously
+displacing volumes of liquids (including molten metal and wet concrete), whether they are
+operated by hand or by any kind of power unit, integral or otherwise.
+
+The heading also includes delivery pumps equipped with measuring or price-calculating
+
+mechanisms _such_as are used for supplying petrol or oil in garages, and also pumps
+
+specially designed for use with other machines, vehicles, etc. (including petrol, oil or water
+pumps for internal combustion engines, and pumps for manmade textile fibre spinning
+machines).
+
+The machines of this heading can be subdivided, according to their system of operation, into
+the following five categories.
+
+(A) Reciprocating Positive Displacement Pumps
+
+ya Ti -
+Vn ee ——(B). Rotary Positive Displacement Pumps
+a
+
+Page 3 of 10
+
+
+
+(©) Centrifugal Pumps
+
+(D) Other Pumps
+
+Subheading Explanatory Note.
+Subheadings 8413.11 and 8413.19
+
+These subheadings cover only those pumps, of whatever type, which form, or have been
+
+designed to form, a unit with a device permitting the volumetric control of the quantity of
+
+liquid discharged, whether or not this device is presented at the same time as the pump.
+
+These subheadings cover, for example, pumps for delivering petrol or other motor fuels and
+lubricants as well as pumps with a measuring device for use in food shops, laboratories and
+various industrial activities.”
+
+2.9 From the above, it is necessary that there be present (a) pump and (b) the pump must be for
+continuously displacing volume of liquid. Further, per the sub-heading explanatory note, sub-
+heading 84.13 11 covers only those pumps which are a unit permitting the volumetric control
+of the quantity of liquid discharged.
+
+2.10 In the present facts, the CNG Dispenser merely regulates the pressure and mass of the CNG
+and it does not pump, by way of suction, rotation, electro-magnetic forces or the like.
+
+2.11 In addition to the above, as per the explanatory notes for classifying a product in Heading
+84.13/ sub-heading 84.13 11, the same must be a pump for a liquid. This is equally fortified
+by the explanatory notes to sub-heading 84.13 11 which provides that “these subheadings
+cover only those pumps... which ... have been designed to form... device permitting the
+
+volumetric control of the quantity of liquid discharged”
+
+2.12 In the present case, no liquid is being discharged by the CNG Dispenser. Rather what is
+being transmitted is gas and nothing else, which the CNG Dispenser only regulates.
+Therefore, it is submitted that there not being a “pump” for a “liquid”, the CNG Dispenser
+cannot be classifiable under Heading 84.13 and consequently, is not covered vide Sr. No.
+117, Schedule IV of Notification No. 1/2017-C.T. (Rate) dated 28.06.2017. The appropriate
+
+classification is Heading 90.32 whose text is reproduced below:-
+
+Tariff Item Description of Goods
+
+9032 Automatic regulating or controlling instruments and apparatus
+
+2.16 The relevant part of HSN Explanatory Notes to Heading 90.32 is reproduced below.-
+
+“In accordance with Note 7 to this Chapter, this heading covers:
+(A) Instruments and apparatus for automatically controlling the flow, level,pressure or
+
+\'2\ Page 4 of 10
+
+
+
+whether or not their operation depends on an electrical phenomenon which varies
+according to the factor to be automatically controlled,_which are designed to bring
+
+this factor to, and maintain it at, a desired value, stabilised against disturbances, by
+
+constantly or periodically measuring its actual value; and
+
+() INSTRUMENTS AND APPARATUS FOR AUTOMATICALLY CONTROLLING THE
+
+FLOW, LEVEL, PRESSURE OR OTHER VARIABLES OF LIQUIDS OR GASES, OR
+
+FOR AUTOMATICALLY CONTROLLING TEMPERATURE
+
+Automatic control apparatus for liquids or gases and apparatus for automatically
+
+controlling temperature form part of complete automatic control systems and consist
+
+essentially of the following devices:
+
+(A) A device for measuring the variable to be controlled (pressure or level in a tank,
+temperature in a room, etc.); in some cases, a simple device which is sensitive to
+changes in the variable (metal or bi-metal rod, chamber or bellows containing an
+expanding liquid, float, etc.) may be used instead of a measuring device.
+
+(B) A control device which compares the measured value with the desired value and
+actuates the device described in (C) below accordingly.
+
+(C) A starting, stopping or operating device.
+
+Apparatus for automatically controlling liquids or gases or temperature, within the meaning
+
+of Note 7 (a) to this Chapter, consists of these three devices forming a single entity or in
+
+accordance with Note 3 to this Chapter, a functional unit.”
+
+2.17 Therefore, in accordance with the HSN Explanatory Notes, the goods in question must be an
+automatic control device with three seminal criterion in terms of which the particular item
+would be classifiable under Heading 90.32. It is submitted that the CNG Dispenser in
+question satisfies all the requirements, as shown infra:
+
+(A) Device for measuring the variable to be controlled: In the present case, the CNG
+Dispenser measures both mass and pressure of the CNG being dispensed into the
+vehicle by the mass flowmeter and the pressure sensor;
+
+(B) Control device which compares the measured value with the desired value and
+actuates the device described in (C) below: Controller unit of the CNG Dispenser
+continuously compares the mass and pressure of the CNG in the CNG tank and
+actuates by way of stopping or cutting-off the supply of natural gas once the desired
+
+values are reached;
+
+,~4 Page 5 of 10
+
+
+
+(C) A starting, stopping or operating device: As explained in (B) above, the control unit
+keeps a check on the pressure and mass and as and when the desired/ safe values are
+reached, supply is stopped by way of actuators and valves.
+
+2.18 Hence, as evidenced from supra, the pre-requisites of an automatic control system stand
+satisfied and hence, the device is correctly classifiable under Heading 90.32 and
+consequently, covered vide Sl. No. 422, Schedule III of Notification No. 1/2017-Central Tax
+(Rate) dated 28 June 2017.
+
+2.19 In addition to the above, it is submitted that the exclusion provided for in the HSN
+Explanatory Notes to Heading 90.32 is also not applicable in the present case.
+
+2.20 Basis a bare reading HSN Explanatory Notes to Heading 90.32, it is clear that if the
+controlling device is combined with the appliance which carries out the orders of pumping/
+compressing etc., only then is the measuring device liable to be classified in the entry relating
+to the appliance which carries out the orders. In the present case, the CNG Dispenser does
+not do the job of compression and is never presented along with a compressor. Rather, it is
+sold as a separate and distinct unit. Hence, there is no application of the exclusion thereto.
+
+2.21 Further, even vide Section Note 3 to Section XVIII, the CNG Dispenser deserves to be
+classified under Heading 90.32 itself. Section Note 3 to Section XVIII provides that Section
+Notes 3 and 4 to Section XVI apply mutatis mutandis to Chapter 90. Section Note 3 of Section
+XVI provides that machines having two or more complimentary functions are to be classified
+basis the principal function. Per the HSN Explanatory Notes thereto, this note is not to be
+relied upon in case the composite machine is covered by a particular heading. In the present
+case, even if assuming that the CNG Dispenser is a composite machine, it is specifically
+covered by Heading 90.32 and hence, deserves to be classified therein itself. Hence, by this
+yardstick classification under Heading 90.32 is correct. Without prejudice, even if it is
+assumed that the mass and pressure functions are both principal, then per the HSN
+Explanatory Notes, Rule 3(c) of the General Rules of Interpretation is to be applied, i.e., the
+entry that occurs last. Measuring instruments are covered in Heading 90.26 and regulating
+apparatus in Heading 90.32. By application of Rule 3(c), Heading 90.32 is the appropriate
+classification.
+
+2.22. Section Note 4 to Section XVI provides that a combination of machines intended to contribute
+to a clearly defined function are to be classified in the heading appropriate to that function,
+which is regulating in the present case. The same parity of reasoning that is provided for
+
+ss. Section Note 3 of Section XVI supra applies herein also and therefore the correct
+
+E RU jp, SS
+~“elassification would be Heading 90.32 itself.
+\ 2, Page 6 of 10
+
+
+
+Applicant Submission dated 10.11.2021:-
+
+2.23 The department has claimed that the CNG Dispenser is correctly classifiable under Heading
+84.13 for the reason that since the function of the said item is to dispense fuel, it would be
+covered therein itself.
+
+2.24 It is submitted that the submission of the department is ex-facie bad in law and without
+any basis. As the text of Heading 84.13 itself states, what is covered is a “pump for
+dispensing fuel in filling stations or garages’. It is an undisputed and accepted position by
+the department that there is no pump in the CNG Dispenser of the Appellant. Hence, on first
+principles itself, there being no pump or pumping function, Heading 84.13 is inapplicable
+and deserves to be discarded forthwith.
+
+2.25 It is further submitted that it is also evident from a plain reading of the HSN Explanatory
+Notes to Heading 84.13 which have been annexed to the application. A bare perusal thereof
+would show that the sine qua non for inclusion is Heading 84.13 is the existence of a pump,
+
+which undisputedly so, is not in the present case.
+
+03. CONTENTION — AS PER THE CONCERNED OFFICER:
+OFFICER SUBMISSION ON 20.01.2021:-
+Ay The applicant stated that there is no liquid being discharged by the CNG Dispenser. Rather
+
+what is being transmitted is gas and nothing else, which the CNG Dispenser only regulates.
+But the main purpose of CNG dispenser is to transmit the fuel & as per the Notification No.
+1/2017-Central Tax (Rate) dated 28 June 2017, CNG dispenser covered under heading 8413
+"Pumps for dispensing fuel or lubricants of the type used in filling stations or garages [8413
+11], Fuel, lubricating or cooling medium pumps for internal combustion piston engines [8413
+30]." Therefore CNG dispenser is liable to tax 14% CST & SGST both or 28% IGST.
+
+04. HEARING
+
+4.1 Preliminary e-hearing in the matter was held on 21.01.2021. Shri. Shridhar Khedkar & Shri.
+Abhishek Naik, CA appeared, and requested for admission of the application. Jurisdictional
+Officer Shri. Thombare, Deputy Commissioner, LTU Division, Navi Mumbai also appeared.
+
+4.2 The application was admitted and called for final e-hearing on 22.10.2021. The Authorized
+representative of the applicant, Shri. Mayank Jain, learned Advocate and Shri. Dinesh
+Agarwal, learned C.A were present. The Jurisdictional officer Shri. Subhash Mohite, Deputy
+
+--»--.Commissioner, LTU-002, Raigad was also present.
+
+——
+
+fee heard both the sides
+Aye NEO
+
+i! & : ~ &
+
+} Page 7 of 10
+
+
+
+05. OBSERVATIONS AND FINDINGS:
+
+5:1 We have perused the records on file, facts of the case and the submissions made by the
+
+applicant as well as the jurisdictional officer. The matter is related to the classification of
+CNG Dispenser manufactured and supplied by the Applicant; whether it is correctly covered
+in Sr. No. 422, Schedule III of Notification No. 1/2017-Central Tax (Rate) dated 28 June
+2017 as amended and corresponding notification issued under integrated GST and State GST
+Act.
+
+S22 M/s Parker Hannifin India Private Limited, the Applicant, manufactures and supplies
+“Compressed Natural Gas Dispenser” (“CNG Dispenser”), for use at Compressed Natural
+Gas (“CNG”) dispensing stations for vehicles and automobiles. The applicant has submitted
+that they are currently clearing the CNG Dispensers under Heading 84.13 of the GST Tariff
+under Sr. No. 117, Schedule IV of Notification No. 1/2017-Central Tax (Rate) dated
+28.06.2017. As per applicant’s submissions, since the CNG Dispenser neither has a pump,
+nor a function of a pump or similar thereto and merely measures and controls the amount of
+CNG being filléd, the Applicant has preferred the current application for a determination of
+the classification and are of the opinion that the impugned product is correctly covered under
+Sr. No. 422, Schedule III of Notification No. 1/2017-Central Tax (Rate) dated 28.06.2017 as
+amended, and therefore applicant has made submissions accordingly.
+
+5.3 The crux of their contention is, to cover the impugned product under Sr. No. 422, Schedule
+Ill of Notification No. 1/2017-Central Tax (Rate) dated 28.06.2017, and that the said product
+is classifiable under HSN 90.32 of the GST Tariff since the CNG Dispenser does not have a
+pump or a pumping function but merely measures and controls the amount of CNG being
+filled and is therefore nothing but an Automatic regulating or controlling
+instrument/apparatus.
+
+5.4 As per the Merriam Webster dictionary, a ‘pump’ is a device that raises, transfers, delivers,
+or compresses fluids or that attenuates gases especially by suction or pressure or both.
+
+5.5 Further, as per the Cambridge dictionary, a “pump” is a piece of equipment that is used
+to cause liquid, air, or gas to move from one place to another:
+
+5.6 Finally, as per Collins Dictionary, A ‘pump’ is a machine or device that is used to force a
+liquid or gas to flow in a particular direction.
+
+57 Further, as per the Definitions.net, a “Fuel Dispenser” is a machine at a filling station that is
+used to pump gasoline, petrol, diesel, CNG, CGH2, HCNG, LPG, LH2, ethanol fuel, biofuels
+
+“slike biodiesel, kerosene, or other types of fuel into vehicles. Fuel dispensers are also known
+
+Page 8 of 10
+
+
+as bowsers (in Australia), petrol pumps (in Commonwealth countries), or gas pumps (in
+North America).
+
+5.8 The impugned product causes the CNG to flow from the filling station to the CNG Tank of
+the vehicle. Thus there is a flow of gas in one particular direction and it is the CNG Dispenser
+which is causing the CNG to move from one place to another. Thus the impugned product is
+also functioning as a pump in view of the definitions mentioned above. It can therefore be
+said that CNG fuel dispensers are used for distribution of Compressed Natural Gas (CNG)
+which is a fuel and as per the submissions of the applicant, they are equipped with electronic
+counters of quantity and price of pumping.
+
+52 The product catalog submitted by the applicant of CNG Dispenser clearly indicates that the
+product is a complete system meant for dispensing CNG and is fitted with hoses,
+Electronics, tubes & fittings, regulators, valves, nozzles, filters, solenoid and actuators etc. It
+has been amplified in catalog that “the System is extremely safe, uses low power, dispenses
+accurately, uses all stainless steel tubes, fittings and connections and has a high resilience to
+wear and tear”
+
+5.10 We find that Chapter Heading 8413 11 of the GST Tariff covers “Pumps for dispensing
+fuel or lubricants of the type used in filling stations or garages”. The impugned product is
+designed to dispense fuel, in this case CNG, which are used in filling stations, and acts as a
+pump which causes CNG, a gas, to move from one place to another. Thus the impugned
+product can be said to be a type of pump which are used for dispensing fuel and are therefore
+classifiable under HSN 8413 11 91 of the GST Tariff.
+
+5.11 Section XVI of the GST Tariff covers Chapter Heading 84 and 85 of the GST Tariff. Note
+1 (m) of the Section Notes states that, articles of Chapter 90 of the GST Tariff are not
+covered under Section XVI i.e. Chapters 84 and 85 of the GST Tariff. Further primary
+function of the impugned product is to dispense CNG Fuel and has an inbuilt mechanism
+to constantly measure and regulate the mass of Gas being transferred to the vehicle.
+
+5.12 As per Note 4 of Section XVI of GST Tariff, where a machine (including a combination of
+machines) consists of individual components (whether separate or interconnected by piping,
+by transmission devices, by electric cables or by other devices) intended to contribute
+together to a clearly defined function covered by one of the headings in Chapter 84 or
+Chapter 85, then the whole falls to be classified in the heading appropriate to that function. In
+the instant case the product performs function of a pump of type used in filling stations to
+
+“dispense CNG Fuel, thus merits classification under HSN 8413 11.
+
+Page 9 of 10
+
+
+5.13. Further as per WCO Harmonized Commodity Description and Coding System, Explanatory
+Notes to Subheadings 8413.11 and 8413.19, “these subheadings cover, for example, pumps
+for delivering petrol or other motor fuels and lubricants as well as pumps with a measuring
+device for use in food shops, laboratories and various industrial activities”.
+
+5.14. Since we have found that the impugned product is covered under Chapter Heading 8413
+
+11 of the GST Tariff, it is not covered under in SL. No. 422, Schedule III of Notification
+No. 1/2017-Central Tax (Rate) dated 28 June 2017 as amended as the impugned product
+cannot be classified under Chapter 90.32 of the GST Tariff.
+
+06. In view of the above discussions, we pass an order as follows:
+
+ORDER
+
+(Under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods
+and Services Tax Act, 2017)
+
+For reasons as discussed in the body of the order, the questions are answered thus —
+
+Question:- | Whether the CNG Dispenser manufactured and supplied by the Applicant is correctly
+covered in SL. No. 422, Schedule III of Notification No. 1/2017-Central Tax (Rate)
+dated 28 June 2017 as amended and corresponding notifications issued under
+
+integrated GST and State GST Acts?
+
+Answer: - Answered in the negative.
+» ‘
+Ce Ramiro,
+V MAGOO TR-RAMNANT
+(MEMBER) (MEMBER)
+
+“PLACE - Mumbai
+RE iad
+
+1. The applicant
+
+2. The concerned Central / State officer
+
+3. The Commissioner of State Tax, Maharashtra State, Mumbai
+
+4. The Pr. Chief Commissioner of Central Tax, Churchgate, Mumbai
+5. The Joint Commissioner of State Tax, Mahavikas for Website.
+
+Note:-An Appeal against this advance ruling order shall be made before, The Maharashtra
+Appellate Authority for Advance Ruling for Goods and Services Tax, 15" floor, Air India
+Building, Nariman Point, Mumbai — 400021. Online facility is available on gst.gov.in for online
+appeal application against order passed by Advance Ruling Authority.
+
+Page 10 of 10

@@ -1,0 +1,755 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+(constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri B. V. Borhade, Joint Commissioner of State Tax
+(2) Shri Pankaj Kumar, Joint Commissioner of Central Tax
+
+GSTIN Number, if any/ User-id 27AAACB4599E1ZL
+
+Legal Name of Applicant BASF India Limited
+
+Registered Address/ Address | Mr. Satish Dhawan
+
+provided while obtaining user id | Finance and Accounts
+BASF India Limited,3rd Floor, Shree Sawan Knowledge Park, Plot
+No D 507, MIDC, Turbhe, 400 705 Navi Mumbai, India.
+
+Details of application GST-ARA, Application No. 27 Dated 21.02.2018
+
+Concerned officer Dy. Commissioner of Sales Tax(E-619) Large Tax Unit-II, Mumbai.
+
+Nature of activity(s) (proposed /
+
+present) in respect of which
+
+advance ruling sought
+
+A Category High Sea Sales
+
+B Description (in brief) The applicant is engaged, inter alia, in the manufacture & trading
+of chemicals and allied products.
+The applicant will be selling its products purchased from its
+overseas related party to its customers in India before the goods
+are entered for customs clearance (commonly referred to as a High
+sea sale transaction). The customer to whom the goods are being
+sold is known to the Applicant at the time of placing order on their
+overseas supplier.
+
+Issue/s on which advance ruling | (iv) admissibility of input tax credit of tax paid or deemed to have
+
+required been paid
+(v) determination of the liability to pay tax on any goods or
+
+services or both
+Question(s) on which advance | As reproduced in para 01 of the Proceedings below.
+ruling is required
+
+PROCEEDINGS
+
+(under clause (xviii) of section 20 of the Integrated Goods and Services Tax Act, 2017 read
+ith section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods
+and Services Tax Act, 2017)
+
+he present application has been filed under clause (xviii) of section 20 of the Integrated
+
+\, ea Y
+
+\
+Gootls dd Services Tax Act, 2017 [hereinafter referred to as “the IGST Act”] read with section 97
+ntral Goods and Services Tax Act, 2017 and the Maharashtra Goods and Services Tax
+
+1. The Applicant will be purchasing the goods from its overseas related party situated abroad based on purchase
+
+order received from its customers. While the goods are in transit, the goods will be sold by the Applicant to its
+customers before the goods are entered for customs clearance in India. Whether IGST will be leviable on such sale
+
+effected by the Applicant to customers who are known to them at the time of placing order on the overseas party?
+
+2. Whether input tax credit will have to be reversed, to the extent of inputs, input services and common input
+services used by the Applicant, in case the above transaction is not subjected to the levy of IGST by treating the
+
+sante as an exempt supply for the purpose of Section 17 of the CGST Act?
+1
+
+
+At the outset, we would like to make it clear that the provisons of both the CGST Act and the
+MGST Act are the same except for certain provisons. Therefore, unless a mention is specifically made to
+such dissimilar provisons, a reference to the CGST Act would also mean a reference to the same provison
+under the MGST Act. Further to the earlier, henceforth for the purposes of this Advance Ruling, a reference
+to such a similar provison under the CGST Act / MGST Act would be mentioned as being under the “GST
+Act”.
+
+02. FACTS AND CONTENTION - AS PER THE APPLICANT
+
+The submissions, as reproduced verbatim, could be seen thus-
+
+OF RELEVANT FACTS HAVING A BEARING ON THE QUESTION(S) ON WHICH ADVANCE
+JIRED.
+1. BASF India ited (hereinafter referred to as “Applicant’) having its corporate head office at, 3rd Floor, Shree Sawan
+
+Knowledge Park, Plot No D 507, MIDC, Turbhe, Navi Mumbai, India-400 705, is a subsidiary of BASF Germany and is
+
+engaged in the business of manufacturing and trading of, inter alia, chemicals and allied products.
+
+2. The Applicant was registered under the erstwhile tax regime, and was discharging excise duty, service tax and value added tax
+
+(VAT) on the manufacture, on commission and sale of the products, as applicable.
+
+3. Under the current regime, the Applicant is registered as per the provisons of the GST Laws.
+4. The Applicant seeks the Ruling of the Advance Ruling Authority on the following transaction —
+
+a) The Applicant is engaged in the trading of chemicals and allied products (‘Products’):
+
+b) In connection with the said activity, the Applicant will be buying the Products from an overseas supplier who will be the
+Applicant’s related party. The said transactions will be at arm’s length pricing.
+
+c) The Applicant will be buying the Products from such overseas party against purchase orders received from the Applicant's
+customers in India. In other words, it will be a back to back purchase order.
+
+d) As against the purchase order, the overseas party will export the products. The export documents such as the Bill of Lading
+will show the Applicant as the buyer of the goods.
+
+e) Before the goods cross the customs frontier of India and is entered for customs clearance, the goods in question will be
+sold by the Applicant to its customer who are known to them;
+
+f) The sale will be effected by executing an agreement of sale (known as high sea sale agreement) and by endorsing the bill
+of lading in the name of the end customer. Sale invoice indicating the price at which goods are sold by the Applicant to the
+end customer will also be issued;
+
+g) Therefore, the sale of goods will be by the Applicant to their customers who were identified at the time of placing order on
+the overseas related party.
+
+h) The Import General Manifest (*IGM’) will be filed in the name of the end customer (final buyer) by the shipping line.
+
+i) Thereafter, the Bill of Entry will be filed by the end customer who will discharge the applicable duties of customs and
+IGST on the imported goods and will clear the goods for home consumption/warchousing, as the case maybe.
+
+A complete set of the draft documents which will be involved in the transaction is being annexure herewith as Exhibit — A
+
+(Only for the purpose of illustration and better understanding)
+
+5. In trade parlance, the transaction as proposed above, is commonly referred to as a “High sea sale transaction’.
+6. The proposed transaction consists of (a) sale of goods by the oversea related party to the Applicant (First sale); and (b) Sale of
+the same goods by the Applicant to its customers for whom the goods were bought by the Applicant its related party (Second
+ale). The customers of the Applicant will be known to them at the time of placing order on the foreign supplier itself.
+WO ttgerms of the proviso to Section 5(1) of the Integrated Goods and Services Tax Act, 2017(‘IGST Act’), on imported goods,
+\G would be levied at the point when duty of customs becomes payable in terms of Section 12 of the Customs Act and the
+sid (GST would be levied in terms of Section 3(7) of the Customs Tariff Act, 1975 (‘Customs Tariff Act’).
+
+8. How er, the sale transaction by the Applicant to the customer also qualifies as an inter-state supply of goods in terms of
+Sectigh 7 of the IGST Act, Therefore, as far as this sale is concerned, a question is arising as to whether the said sale of goods
+Wi ount to a supply subject to levy of IGST under the IGST Act, when the same goods will once again be subject to a levy
+
+ST under Section 3(7) of the Customs Tariff Act at the time of importation into India.
+
+NTERPRETATION OF LAW_AND/OR FACTS, AS THE CASE MAY
+NG IS REQUIRED.
+
+A IGIBILITY TO FILE PRESENT ADVANCE RULING APPLICATION.
+
+Sub-section (c) of Section 95 of the Central Goods and Services Tax Act, 2017 (hereinafter referred to as “CGST Act”),
+defines the term ‘applicant’ as under:-
+
+“applicant” means any person registered or desirous of obtaining registration under this Act”
+... Emphasis Supplied
+A.2 In the present matter, the Applicant is registered under the GST regime and hence covered under the definition of the term
+“applicant” for the purpose to presenting an application before the Advance Ruling Authority under the GST regime. Copy
+of GST Registration certificate for the state of Maharashtra is enclosed as Exhibit-B.
+A3 Further, Section 97(2) of the CGST Act specify the issues for which, an advance ruling can be sought. Section 97(2) of the
+CGST Act reads as under: -
+“97. (I) An applicant desirous of obtaining an advance ruling under this Chapter may make an application in such form and manner and
+accompanied by such fee as may be prescribed, stating the question on which the advance ruling is sought.
+(2) The question on which the advance ruling is sought under this Act, shall be in respect of. —
+fa) classification of any goods or services or both;
+
+
+
+(b) applicability of a notification issued under the provisons of this Act;
+(c) determination of time and value of supply of goods or services or both;
+(d) admissibility of input tax credit of tax paid or deemed to have been paid;
+(e) determination of the liability to pay tax on any goods or services or both;
+() whether applicant is required to be registered;
+(g) whether any particular thing done by the applicant with respect to any goods or services or both amounts to or results in a supply of
+goods or services or both, within the meaning of that term."
+«+. Emphasis Supplied
+Thus, as per the said section, advance ruling may be sought by the Applicant on the questions concerning determination of
+the liability to pay tax on goods or services or both and on the eligibility to avail input tax credit. The Applicant submits that
+the questions for determination in the instant advance ruling application concern (a) admissibility of input tax credit of tax
+paid; and (b) determination of the liability to pay tax on the goods
+
+A.4 Therefore, the Applicant in the instant case is eligible to file the present advance ruling application before the Maharashtra
+Authority for Advance Ruling, Mumbai, appointed vide Notification No. MGST-1017/CR 193/Taxation, dated 24.10.2017
+read with Section 99 of Maharashtra Goods and Service Tax Act, 2017.
+
+C. APPLICANT'S INTERPRETATION
+THE SALE OF GOODS MADE BY THE APPLICANT TO THE END CUSTOMER BEFORE THE GOODS CROSSING THE customs
+FRONTIER OF INDIA ON THE BASIS OF A BACK TO BACK PURCHASE ORDER WILL NOT QUALIFY AS A SUPPLY SUBJECT TO LEVY
+or IGST
+
+C.1 Itis submitted that the sale of goods made prior to the customs clearance of the goods cannot qualify as a supply subject to a
+levy of IGST under the IGST Act
+
+C.2 The relevant provisons under the IGST Act are being reproduced herein as under —
+
+5. Levy and collection. — (1) Subject to the provisons of sub-section (2), there shall be levied a tax called the integrated goods and
+services tax on all inter-State supplies of goods or services or both, except on the supply of alcoholic liquor for human consumption, on the
+value determined under section 15 of the Central Goods and Services Tax Act and at such rates, not exceeding forty per cent., as may be
+notified by the Government on the recommendations of the Council and collected in such manner as may be prescribed and shall be paid by
+the taxable person :
+
+Provided that the integrated tax on goods imported into India shall be levied and collected in accordance with the provisons of section 3
+of the Customs Tariff Act, 1975 (51 of 1975) on the value as determined under the said Act at the point when duties of customs are levied
+on the said goods under section 12 of the Customs Act, 1962 (52 of 1962).
+
+7, Inter-State supply. — (1) Subject to the provisons of section 10, supply of goods, where the location of the supplier and the place of
+supply are in -
+
+(a) two different States,
+
+(6) two different Union territories; or
+
+(c) a State and a Union territory,
+
+shall be treated as a supply of goods in the course of inter-State trade or commerce.
+
+(2) Supply of goods imported into the territory of India, till they cross the customs frontiers of India, shall be treated to be a supply of
+goods in the course of inter-State trade or commerce.
+
+C.3 As per Section 5 of the IGST Act read with Section 7, inter-state supply of goods will be subject to a levy of IGS: ‘ Supply
+of goods imported into India will also qualify as an inter-state supply of goods subject to a levy of IGST. However, in respect
+of the imported goods, the levy would be in accordance with proviso to Section 5(1) of the IGST Act.
+
+C.4 In other words, where goods are imported into India, IGST will be levied at the point of levy of duty of customs in accordance
+with the provisons of the Customs Act, 1962 and the IGST will be levied under Section 3(7) of the Customs Tariff Act.
+
+C.5 In the instant scenario, the imported goods will be sold by the Applicant to its end-customer before the goods are entered for
+customs clearance. This leg of the transaction will also qualify as an inter-state supply in terms of Section 7 of the IGST Act.
+Therefore, the essential question is whether this sale of goods happening before the goods are entered for customs clearance
+will be subject to a levy of IGST in terms of the provisons of the IGST Act.
+
+C.6 It is submitted by the Applicant that from a combined reading of Section 5(1) and the proviso to Section 5(1) of the IGST
+Act, it is evident that IGST on imported goods will be leviable only at the time of importation and at the point when duty of
+customs under Customs Act is leviable. Therefore, it is submitted that levying IGST once again on sale transactions which
+have happened prior to the importation of the same goods, does not arise.
+
+C7 This view of the Applicant has also been fortified vide the Circular No. 33/2017- Cus dated 1.08.2017 issued by the Central
+
+Board of Excise & Customs, New Delhi. The said circular has also been reproduced under:
+
+"1. Reference has been received in the Board regarding clarity on Leviability of Integrated Goods and Services Tax (IGST) o1 High Sea
+
+Sales of imported goods.
+
+2. The issue has been examined in the Board. 'High Sea Sales’ is a common trade practice whereby the original importer sells the goods to
+
+a third person before the goods are entered for customs clearance. After the High sea sale of the goods, the Customs declarations i.e. Bill of
+
+try etc is filed by the person who buys the goods from the original importer during the said sale. In the past, CBEC has issued various
+
+uctions regarding high sea sales appropriating the contract price paid by the last high sea sales buyer into the Custom: valuation
+ular No, 32/2004-Cus., dated 11-5-2004 refers].
+
+nentioned earlier, all inter-state transactions are subject to IGST. High sea sales of imported goods are akin to inter-state transactions.
+
+‘tin to this, it was presented to the Board as to whether the high sea sales of imported goods would be chargeable to IGST bvice i.e. at
+
+hetime of Customs clearance under sub-section (7) of section 3 of Customs Tariff Act, 1975 and also separately under Section 5 of The
+Inipgtfited Goods and Services Tax Act, 2017.
+
+StS, * council has deliberated the levy of Integrated Goods and Services Tax on high sea sales in the case of imported goods. The council
+
+4 lecided that IGST on high sea sale (s) transactions of imported goods, whether one or multiple, shall be levied and collected only at
+
+time of importation i.e. when the import declarations are filed before the Customs authorities for the customs clearance purposes for
+fe first time. Further, value addition accruing in each such high sea sale shall form part of the value on which IGST is collected at the time
+
+of clearance.
+5. The above decision of the GST council is already envisioned in the provisons of subsection (12) of section 3 of Customs Tari, f Act, 1975
+inasmuch as in respect of imported goods, all duties, taxes, cessess etc shall be collected at the time of importation i.e. when the import
+declarations are filed before the customs authorities for the customs clearance purposes. The importer (last buyer in the chain) would be
+required to furnish the entire chain of documents, such as original Invoice, high-seas-sales-contract, details of service charges/commission
+paid etc, to establish a link between the first contracted price of the goods and the last transaction. In case of a doubt regarding the truth or
+accuracy of the declared value, the department may reject the declared transaction value and determination the price of the imported goods
+as provided in the Customs Valuation rules.
+
+3
+
+
+6. Field formations are requested to decide the cases of high sea sales of imported goods accordingly. Difficulties, in the implementation of
+this circular may be brought to the knowledge of the Board.
+«+. Emphasis Supplied
+
+C.8 Thus, the above circular also affirms the view that high sea sale of goods in the course of import into India will not qualify as
+a supply subject to a levy of IGST. Only at the time of importation, at the point where the goods are entered for customs
+clearance will IGST be levied. Therefore, the question of levying IGST on high sea sale of goods before they are entered for
+customs clearance does not arise. In other words, IGST will be leviable only at the point of importation of goods into India
+and therefore only once.
+
+C.9 In view of the above, it is submitted that no IGST will be leviable on the sale of goods made by the Applicant to its end
+customer. IGST will be payable only at the time of import and the same will be discharged by the customer at the point when
+duties of customs will be levied.
+
+D. Input TAX CREDIT OF THE INPUTS, INPUT SERVICES, COMMON INPUT SERVICES USED IN CONNECTION WITH THE PROPOSED
+TRANSACTION DOES NOT HAVE TO BE REVERSED.
+
+D.1 The sale of goods by the Applicant to its end-customer before the goods are entered for customs clearance will not qualify as
+an exempt supply. It is therefore submitted that input tax credit on the inputs, inputs services and common input services used
+in connection with the said transaction does not have to be reversed.
+
+D.2. Relevant provisons under the Central Goods and Services Tax Act, 2017 ((CGST Act’) is reproduced herein as under —
+
+17. Apportionment of credit and blocked credits.
+a
+
+(2) Where the goods or services or both are used by the registered person partly for effecting taxable supplies including zero-raté Ld supplies
+
+under this Act or under the Integrated Goods and Services Tax Act and partly for effecting exempt supplies under the said Acts, the amount
+
+of credit shall be restricted to so much of the input tax as is attributable to the said taxable supplies including zero-rated supplies
+
+Section 2(47) of the CGST Act, defines the term “exempt supply” as under;
+“2(47). “exempt supply" means supply of goods or services or both which attracts nil rate of tax or which may be wholly exempt from tax
+under section 11, or under section 6 of the IGST Act, and includes non-taxable supply."
+
+D.3 Section 17 of the CGST, Act states that credit shall be restricted only to so much of input tax as is attributable to taxable
+supplies including zero-rates supplies. In other words, input tax credit as is attributable to exempt supplies will have to be
+
+reversed.
+D.4 As per Section 2(47) of the CGST Act, an exempt supply is that —
+7) which attracts nil rate of tax; or
+(ii) which may be wholly exempt from tax under Section 11; or
+
+(iii) wholly exempt from tax under Section 6 of the IGST Act; or
+(iv) anon-taxable supply.
+
+D.5 Interms of Section 2(79) of the CGST Act, a ‘non-taxable supply’ means a supply of goods or services or both which is not leviable to
+tax under this Act or under the IGST Act.”
+
+D.6 In the instant case, on the supply of goods from the Applicant to the end customer, IGST is being discharged by the customer
+at the time of importation of the goods into India. Therefore, the said transaction is not falling within the scope of exempt
+supply as contemplated under Section 2(47) of the CGST Act.
+
+D.7 Since the said supply is not an exempt supply, it is submitted that input tax credit in respect of the inputs, input services and
+common input services used in connection with the proposed transaction is not required to be reversed.
+
+Applicants understanding
+
+E.1 As explained in the above para C, the proposed transaction of sale which will be undertaken by the Applicant will qualify as
+a high sea sale and will not be subject to levy of IGST. IGST will be leviable on the said goods only at the point of import
+into India.
+
+E.2 As explained in the above para D, the said supply will not qualify as an exempt supply falling within the purview of the
+provisons of the IGST Act/CGST Act and thus, ITC reversal will not be required under the provisons of the same.”
+
+CONTENTION - AS PER THE CONCERNED OFFICER
+
+The submission, as reproduced verbatim, could be seen thus-
+
+jon -1
+oviso to Section 5 of IGST Act regarding levy and collection of tax which reads as
+
+that the integrated tax on goods imported into India shall be levied and collected in accordance with the provisons of section 3 of the
+uriff Act. 1975 (5) of 1975) on the value as determined under the said Act at the point when duties of customs are levied on the said
+ler section 12 of the Customs Act, 1962 (52 of 1962).
+
+uncil has decided that IGST’ on high seu sale (s) transactions of imported goods, whether one or multiple, shall be levied and collected
+the time of importation i.e. when the import declarations are filed before the Customs authorities for the customs clearance purposes for
+
+Hence answer to question | is affirmative and whosoever files bill of entry at the time of importation before custom authorities for
+custom clearance purpose for the first time is exigible to levy of IGST tax.
+Question 2:-
+
+A:-Relevant provisons under the Central Goods and Services Tax Act, 2017 (‘CGST Act) is reproduced herein as under --
+17. Apportionment of credit and blocked credits.
+w
+(2) Where the goods or services or both are used by the registered person partly for effecting taxable supplies including zero-rated supplies under
+this Act or under the Integrated Goods and Services Tax Act and partly for effecting exempt supplies under the said Acts, the amount of credit
+shall be restricted to so much of the input tax as is attributable to the said taxable supplies including zero-rated supplies.
+Section 2(47) of the CGST Act, defines the term "exempt supply as under:
+*2(47). “exempt supply" means supply of goods or services or both which attracts nil rate of tax or which may be wholly exempt from tax under
+section |], or under section 6 of the IGST Act, and includes non-taxable supply,"
+
+4
+
+
+If the above transaction is not subjected to the levy of IGST then the same will be treated as an exempt supply for the purpose of
+Section 17 of the CGST Act and input tax credit will have to be reversed, to the extent of inputs, input services and common input
+services used by the Applicant.”
+
+04. HEARING
+
+The case was taken up for preliminary hearing on dt.27.03.2018 with respect to admission
+or rejection of the application when Sh. R. Nambirajan (Advocate) alongwith Sh. Asish Philip
+Abraham (Advocate) and Sh. Satish Dhawan, Dy. General Manager appeared and requested for
+admission of application as per their contentions made in the application. The application was
+admitted and called for final hearing on dt.17.04.2018 when all the aforementioned persons and
+Sh. Nirav Karia (Advocate) appeared and made written submissions and orally contended as
+per their written submission. The Jurisdictional Officer, Sh. Rahul Walse, Dy. Commr. of State
+Taxes (E-619), Large Tax Payers Unit -II, Mumbai was present on both the occasions and has
+
+made written submissions in the matter.
+
+05. OBSERVATIONS
+We have gone through the facts of the case. The issue put before us is thus -
+° The applicant will be buying products from an overseas supplier who will be the applicant's
+related party. The said transactions will be at arm’s length pricing.
+
+° The applicant will be buying the Products from such overseas party against purchase orders
+received from the applicant's customers in India. It will be a back to back purchase order.
+
+e As against the purchase order, the overseas party will export the products. The export documents
+such as the Bill of Lading will show the applicant as the buyer of the goods.
+
+° Before the goods cross the customs frontier of India and is entered for customs clearance, the
+goods in question will be sold by the applicant to its customer who are known to them.
+
+° The sale will be effected by executing a high sea sale agreement and by endorsing the bill of
+lading in the name of the end customer. Sale invoice indicating the price at which goods are sold
+by the Applicant to the end customer will also be issued;
+
+° The sale of goods will be by the applicant to their customers who were identified at the time of
+placing order on the overseas related party.
+
+° The Import General Manifest will be filed in the name of the end customer (final buyer) by the
+shipping line
+
+° The Bill of Entry will be filed by the end customer who will discharge the applicable duties of
+customs and IGST on the imported goods and will clear the goods for home
+consumption/warehousing, as the case maybe.
+
+In the light of the above facts, we move on to discuss the questions posed for our decision.
+
+Question 1
+
+The Applicant will be purchasing the goods from its overseas related party situated abroad
+based on purchase order received from its customers. While the goods are in transit, the goods
+will be sold by the Applicant to its customers before the goods are entered for customs clearance
+in India. Whether IGST will be leviable on such sale effected by the Applicant to customers who
+are known to them at the time of placing order on the overseas party?
+
+To proceed, we would see certain clauses from the draft High Sea Sales Agreement as
+
+furnished by the applicant -
+
+
+Whereas the seller has placed an order to buy certain goods from M/s. BASF Malaysia hereinafter called the foreign pupplter.
+hereby agrees to sell the said goods to M/s, XYZ Ltd. on high sea sales.
+
+Details
+
+2. Payment
+
+The buyer agrees to make payment for the goods by the seller on High Sea through advance cheque.
+
+3. Delivery
+
+The seller will transfer the rights & Title of the goods to the buyer by endorsing the Bill of Lading in favour the buyer after
+realization of the cheque.
+
+4. Freight & Insurance
+
+a) Freight
+
+Considering the fact, that current shipment is on Ex-works terms, the seller shall be responsible for the payment of insurance
+with respect to this High Sea Sales.
+
+b) Insurance
+
+Considering the fact, that current shipment is on Ex-works terms, the seller shall be responsible for the payment of freight other
+related expenses with respect to this high sea sales.
+
+5. Customs Clearance
+
+In view of disposal of goods on high sea sales basis and transfer of title by the seller in favour of the buyer, the buyer shall
+arrange clearance of goods from Customs at its sole risk and responsibilities. The buyer shall be responsible for payment of
+the customs duties, clearing of goods, port expenses, demurrage container charges, octroi, inland transportation and any other
+related expenses.
+
+6. Post Procedure
+
+The Buyer shall hand over to the seller the Original exchange control copy of the Bill of Entry, copy of Gonos attested
+invoice and other documentary proof of having cleared the material from the Customs as are required by the Seller to the Bank
+and or RBI or any other State or Central Govt. Agency.
+
+7. Sales Tax
+
+As the goods are being sold on high sea sales, no central sales tax will be charged under the provison of Central Sales Tax Act
+and rules thereof. However, in the event of any amendments, modifications, notifications to the contrary the liability if any shall
+be borne by the buyer.
+
+8. Consideration
+
+In consideration of this sale, the buyer shall pay to the seller (as per payment terms enumerated above in clause) as detailed
+
+below.
+
+SI. No. Particulars Amount
+1 Cost of Matertal
+
+2 Freight
+
+3 Insurance
+
+4 Consideranon
+
+This amount shall present the entire amount payable by the buyer to the seller and shall include all cost of the seller.
+
+The Bill of Lading and draft invoices raised in the transactions have details thus -
+
+e Bill of Lading
+
+Consignor — BASF (Malaysia), Sdn. Bhd
+
+Consignee (not negotiable unless consigned to order) — BASF India Limited, Navi Mumbai, Maharashtra
+
+Notify address (Carrier not responsible for failure to notify, see clause 20(1) hereof): XYZ Ltd.
+
+Port of lading —- Hamburg
+
+Port of Discharge — Nhava Sheva
+
+One original Bill of Lading, duly endorsed must be surrendered by the Merchant to the Carrier in exchange for the Good or
+“xq delivery order in accepting this Bill of Lading the Merchant expressly accepts and agrees to all its terms and ¢ nditions
+ether printed; stamped or written, or otherwise incorporated notwithstanding the non-signing of this Bill of Lading by the
+
+er of original Bs/L - 3
+
+bill raised by the overseas seller
+
+nee — BASF India Limited, Navi Mumbai, Maharashtra
+- BASF India Limited, Navi Mumbai, Maharashtra
+
+(COTERM: CIP ICD Khodiyar
+raft bill raised by the Indian seller
+Description Locl sale
+
+Invoice dispatached to — XYZ Ltd
+Bill to— XYZ Ltd.
+
+Consignee — XYZ Ltd.
+
+MOT: To Truck vehicle No
+Transporter name: Party to collect
+LR No, LR Date
+
+Road Permit
+
+Destination: SA AND
+
+From the detailed submissions of the applicant and the draft High Sea sales agreement
+
+submitted by them it is clear that the applicant would be importing the goods and would be
+6
+
+
+selling the goods on high seas sale basis to another buyer. In view of this we would be required
+
+to refer to the provisons of IGST Act, 2017.
+
+First of all to confirm the nature of supply of present goods i.e. whether inter-state or
+
+intra-state we are required to refer to Chapter IV of the IGST ACT, 2017, which reads as under:-
+
+CHAPTER IV DETERMINATION OF NATURE OF SUPPLY
+
+Inter-State supply
+
+7. (1) Subject to the provisons of section 10, supply of goods, where the location of the supplier and the place of supply are in—
+(a) two different States;
+
+(b) two different Union territories; or
+
+(c) a State and a Union territory,
+
+shall be treated as a supply of goods in the course of inter-State trade or commerce.
+
+(2) Supply of goods imported into the territory of India, till they cross the customs frontiers of India, shall be treated to be a
+supply of goods in the course of inter-State trade or commerce.
+
+Intra-State supply
+
+8. (1) Subject to the provisons of section 10, supply of goods where the location of the supplier and the place of supply of, ‘goods
+are in the same State or same Union territory shall be treated as intra-State supply:
+
+Provided that the following supply of goods shall not be treated as intra-State supply, namely:—
+
+(i) supply of goods to or by a Special Economic Zone developer or a Special Economic Zone unit;
+
+(ii) goods imported into the territory of India till they cross the customs frontiers of India; or
+
+(iii) supplies made to a tourist referred to in section 15.
+We find that Section 7(2) of the IGST Act reads as under:-
+
+“Section 7(2) Supply of goods imported into the territory of India, till they cross the customs frontiers of India, shall te treated
+
+to be a supply of goods in the course of inter-State trade or commerce”.
+
+Thus it is very clear that supply of goods imported into the territory of India till they cross the customs frontier shall be
+
+treated as supply of goods in the course of inter-state trade or commerce.
+
+From the proposed transactions placed by the applicant before us there is not an iota of doubt that the goods of the
+applicant are imported goods and when the applicant is selling these goods on high seas sale basis, these goods have not crossed
+the customs frontiers of India. Thus clearly the transaction in these goods are in the nature of inter-state supply as per Sedtion 7(2)
+of the IGST Act.
+
+Now when we are clear that the sale on high seas of these goods are in the nature of inter-state sales, the liability to tax
+in respect of these goods would be as per Section 5 of the IGST Act which reads as under:-
+CHAPTER II LEVY AND COLLECTION OF TAX
+Levy and collection
+
+AES (1) Subject to the provisons of sub-section (2), there shall be levied a tax called the integrated goods and services on all
+
+“MS 4 i r-State supplies of goods or services or both, except on the supply of alcoholic liquor for human consumption, on the value
+Ve mined under section 15 of the Central Goods and Services Tax Act and at such rates, not exceeding forty per cent., as may
+
+ay \@n tified by the Government on the recommendations of the Council and collected in such manner as may be prescribed and
+
+shal e paid by the taxable person:
+
+* Prov fed that the integrated tax on goods imported into India shall be levied and collected in accordance with the provisons of
+
+(het /saetion 3 of the Customs Tariff Act, 1975 on the value as determined under the said Act at the point when duties of customs are
+po f levidd on the said goods under section 12 of the Customs Act, 1962.
+a BE SY "he integrated tax on the supply of petroleum crude, high speed diesel, motor spirit (commonly known as petrol), natural gas
+3, <=] 8 Ghd aviation turbine fuel shall be levied with effect from such date as may be notified by the Government on the recommendations
+m Serra sw of the Council.
+aaa (3) The Government may, on the recommendations of the Council, by notification, specify categories of supply of goods or services
+
+or both, the tax on which shall be paid on reverse charge basis by the recipient of such goods or services or both and all the
+provisons of this Act shall apply to such recipient as if he is the person liable for paying the tax in relation to the supply of such
+goods or services or both,
+(4) The integrated tax in respect of the supply of taxable goods or services or both by a supplier, who is not regist red, loa
+registered person shall be paid by such person on reverse charge basis as the recipient and all the provisons of this Act shall
+apply to such recipient as ifhe is the person liable for paying the tax in relation to the supply of. such goods or services or both.
+(5) The Government may, on the recommendations of the Council, by notification, specify categories of services, the tax on inter-
+State supplies of which shall be paid by the electronic commerce operator if such services are supplied through it, and all the
+provisons of this Act shall apply to such electronic commerce operator as if he is the supplier liable for paying the tax in relation
+to the supply of such services:
+
+7
+
+
+Provided that where an electronic commerce operator does not have a physical presence in the taxable territory, any person
+representing such electronic commerce operator for any purpose in the taxable territory shall be liable to pay tax:
+
+Provided further that where an electronic commerce operator does not have a physical presence in the taxable territory and also
+does not have a representative in the said territory, such electronic commerce operator shall appoint a person in the taxable
+
+territory for the purpose of paying tax and such person shall be liable to pay tax.
+
+We find that proviso to Section 5(1) of the IGST Act states that “Provided that the integrated tax on goods imported
+into India shall be levied and collected in accordance with the provisons of section 3 of the Customs Tariff Act, 1975 on the
+
+value as determined under the said Act at the point when duties of customs are levied on the said goods under section 12 of the
+
+Customs Act, 1962”.
+
+Thus from the above it is clear that integrated tax on goods imported into India is to be
+levied and collected in accordance with Section 3 of the Customs Tariff Act, 1975 and Section 12
+of the Customs Act, 1962 and the same is to be levied and collected at the time of import into
+India. The goods are considered to be imported into India only after they clear the customs
+
+frontier after compliance of applicable procedures and payment of duty as applicable.
+
+Thus as per Section 7(2) of the IGST Act and proviso to Section 5(1) of the IGST Act it is
+very clear that in respect of import goods there is no levy and collection except in accordance
+with the provisons of Section 12 of the Customs Act, 1962 and Section 3 of the Customs Tariff
+Act, 1975. Section 12 of the Customs Act, 1962 provides that custom duties which includes
+integrated tax in respect of imported goods would be levied only at the time of import or export
+
+of goods.
+
+Thus in case of goods sold on high seas sale basis there is no levy till the time of their
+customs clearance in compliance with Section 12 of the Customs Act and Section 3 of the
+Customs Tariff Act. In view of this the import goods sold on high seas sale basis, though they
+
+are clearly in the nature of inter-state supply would come in the category of “exempt supply” as
+
+wholly exempt from tax under section 11, or under section 6 of the Integrated Goods and
+Services Tax Act, and includes non-taxable supply”.
+
+Further we find that Section 278 of the CGST Act defines non-taxable supply which is
+as under:-
+“As per Section 2(78) of the Central Goods and Services Tax (CGST) Act, 2017, “non-taxable
+supply” means a supply of goods or services or both which is not leviable to tax under is Act
+
+or under the Integrated Goods and Services Tax Act’.
+
+
+Thus it is very clear that the goods which are sold on high seas sale basis are non-taxable
+supply as no tax is leviable on them till the time of customs clearance in accordance with and
+
+compliance of Section 12 of the Customs Act, 1962 and Section 3 of the Customs Tariff act, 1975.
+
+We find that the above legal position is further reiterated and confirmed by Circular
+No. 3/1/2018 - IGST dated 25.05.2018 issued by the Central Board of Indirect Taxes and
+Customs, GST Policy Wing.
+
+Question 2
+Whether input tax credit will have to be reversed, to the extent of inputs, input services and
+common input services used by the Applicant, in case the above transaction is not subjected to
+the levy of IGST by treating the same as an exempt supply for the purpose of Section 17 of the
+CGST Act?
+
+Yes. In view of the detailed discussions and observations in respect of Question 1 above, the
+goods sold on High Seas sale basis being non-taxable supply as per Section 2(78) of the CGST
+Act and being exempt supply as per Section 2(47) of the CGST Act, the input tax credit to the
+extent of inputs, input services and common input services would be required to be reversed by
+
+the applicant as per Section 17 of the CGST Act.
+
+05. In view of the deliberations as held hereinabove, we pass an order as under :
+
+ORDER
+
+(under clause (xviii) of section 20 of the Integrated Goods and Services Tax Act, 2017 read
+with section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods
+and Services Tax Act, 2017)
+
+Mumbai, dt. 2.\ /os/s.0\8
+
+em
+
+, 2
+4.Q1 }F Applicant will be purchasing the goods from its overseas related party situated
+
+entered for customs clearance in India. Whether IGST will be leviable on such sale
+effected by the Applicant to customers who are known to them at the time of placing
+order on the overseas party?
+
+A. Answered in the negative.
+
+Q.2. Whether input tax credit will have to be reversed, to the extent of inputs, input services
+and common input services used by the Applicant, in case the above transaction is not
+
+9
+
+
+subjected to the levy of IGST by treating the same as an exempt supply for the purpose of
+Section 17 of the CGST Act?
+
+A.2. Answered in the affirmative.
+
+An appeal against this order will lie with the Appellate Authority, Advance Ruling
+Maharashtra, 15th floor, Air India Building, Madame Cama Road, Churchgate, Mumbai- 400020,
+as provided under Section 100 of the GST Act, 2017.
+
+The appeal should be filed in Form GST ARA-02 accompanied by a fee of Rs. 10,000/-
+pertaining to each Act. It shall be signed by the appellant or his authorised representative.
+
+jae lM cane’ ee Bt
+B. V. BORHADE PANKAJ KUMAR
+(MEMBER) (MEMBER)
+Copy to:-
+1. The applicant CERTIFIED
+
+2. The concerned Central / State officer
+3. The Commissioner of State Tax, Maharashtra State, Mumbai
+
+4. The Jurisdictional Commissioner of Central Tax, Churchgate, Mypbai. LING AU RITY |
+MAHARASHTRASTATE, MUMBAI
+
+10

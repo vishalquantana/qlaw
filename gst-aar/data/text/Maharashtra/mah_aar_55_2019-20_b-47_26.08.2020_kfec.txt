@@ -1,0 +1,869 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+GST Bhavan, Room No.107, Ist floor, B-Wing, Old Building, Mazgaon, Mumbai — 400010.
+(Constituted under Section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Ms. P. Vinitha Sekhar, Additional Commissioner of Central Tax, (Member)
+(2) Mr. A. A. Chahure, Joint Commissioner of State Tax, (Member)
+
+GSTIN Number, if any/ User-id 22AAECK 0826HIZO
+
+Legal Name of Applicant Kolhapur Foundry and Engineering Cluster
+Registered Address/Address | Ground Floor, Plot No P-62, MIDC Shiroli,
+provided while obtaining user id Kolhapur - 4116122
+
+Details of application GST-ARA, Application No. 55 Dated 14.10.2019
+Concerned officer KOL-VAT-C-041, Kolhapur division, Kolhapur
+Nature of activity(s)
+
+(proposed/present) in respect of
+
+which advance ruling sought
+
+A | Category Factory / Manufacturing , Service Provision
+
+B_ | Description (in brief) SAND RECLAMATION PLANT
+
+Issue/s on which advance ruling | (i) Classification of any goods or services or both
+(iii) Determination of time and value of supply of goods
+or services or both
+
+which advance | As reproduced in para 01 of the Proceedings below.
+
+PROCEEDINGS
+
+ection 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+The present application has been filed under Section 97 of the Central Goods and Services
+Tax Act, 2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as
+“the CGST Act and MGST Act” respectively ] by Kolhapur Foundry and Engineering Cluster,
+
+the applicant, seeking an advance ruling in respect of the following questions.
+
+1. Whether the activity of Applicant is Supply of Goods or Supply of Job Work Services?
+2. The used waste sand which is of the value 'Nil' (Refer separate Valuation Certificate by
+
+Engineer) will have any impact on valuation?
+
+1
+
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and
+the MGST Act are the same except for certain provisions. Therefore, unless a mention is
+specifically made to any dissimilar provisions, a reference to the CGST Act would also mean a
+reference to the same provision under the MGST Act. Further to the earlier, henceforth for the
+purposes of this Advance Ruling, the expression ‘GST Act’ would mean CGST Act and MGST
+Act.
+
+2. FACTS AND CONTENTION — AS PER THE APPLICANT
+2.1 The submissions made by the Ms. Kolhapur Foundry & Engineering Cluster, the applicant
+
+is as under:-
+
+2.2 Applicant, is involved in promotion of commercial activities relating to Foundry Industry
+& preservation of environment through its Sand Reclamation Plants.
+
+2.3 Used/ waste sand of Foundry Industry is neither capable of being reused nor being capable
+
+of being dumped anywhere in open, due to environmental reasons like, contamination of
+
+without segregation before it is used for production activity.
+
+(iii) The sand is processed and approximately 80% of the Input (Waste Sand) is recovered as
+finished material (Fresh Sand). The 20% loss includes the layer of chemicals which was
+affixed on the surface of the Sand during Foundry operations & clay, rubber/vooden/metal
+partials mixed with sand during foundry operation & other sand clots etc.
+
+(iv) During this process the chemical properties of Sand are changed in such a manner due to
+heat and other processes, that the quality of the reclaimed sand is better for foundry use as
+
+compared to freshly mined sand.
+25 The following are the applicable rate of Tax considering the HSN /SAC Codes:
+
+
+HSN/SAC code & Category Ra*e of Tax (CGST=SGST)
+
+2505: Natural sands of all kinds, whether or not 5%
+coloured, other than metal-bearing sands of chapter 26
+
+250510: Silica sands and quartz sands 5%
+25051020: Quartz sands 5%
+9988: Manufacturing Services on Physical Inputs 18%
+
+(goods) owned by others
+
+2.6 — The definition of job work' under the GST as under:
+Section2 (68): "job work" means any treatment or process undertaken by a person on
+goods belonging to another registered person and the expression “job worker" shall be
+construed accordingly.
+
+2.6.1 From a combined reading of, the definition of job work as aforesaid and the procedure of
+job work as prescribed u/s 143 of the CGST Act and Rule 45 of GST Rules, it is the
+
+principal who will send inputs to the job work for undertaking any treatment or process
+
+> NX
+
+orks, Thus the person, who sends goods to the job worker, is a principal and the
+%.
+
+hoaindertakes treatment/ processing is a job worker.
+
+identify whether output sand is recovered from the used sand of any particular foundry.
+
+2.6.3 The product i.e. Sand is then handed over to the recipient on completion of the production.
+
+2.6.4 In order to appreciate whether the activity undertaken by the applicant is job work GST
+Flyers have been referred to, as under:-
+It is mentioned that Job work sector constitutes a significant industry in Indian economy.
+It includes outsourced activities that may or may not culminatz into manufacture. The term
+Job-work itself explains the meaning. It is processing of goods supplied by the principal.
+The concept of job work already exists in Central Excise, wherein a principal manufacturer
+can send inputs or semi-finished goods to a job worker for further processing. Many
+facilities, procedural concessions have been given to the job workers as well as the
+principal supplier who sends goods for job work. The whole idea is to make principal
+
+responsible for meeting compliances on behalf of the job worker on the goods processed
+
+3
+
+
+by him (job worker), considering the fact that typically the job- workers are small persons
+who are unable to comply with the discrete provisions of the law. The GST Act makes
+special provisions with regard to removal of goods for job-work and receiving back the
+goods after processing from the job worker without payment of GST. The benefit of these
+provisions shall be available both to the principal and the job-worker.
+
+2.7. There is no direct correlation between the exact amount of Sand supplied by the Foundry
+Units and then taken up by the said units after processing. This basically goes against the
+basic principle of job work which is ‘process is undertaken on materials belonging to
+another registered person’. To understand this contention let's take a hypothetical example:
+There is opening stock of 50 Tons of Waste Sand at the plant en 01.10.2019, Foundry Unit
+A dumped 10 Tons of Waste Sand on 01.10.2019, and Foundry Unit B dumped 30 Tons of
+Sand on the same day. On the same day on a continuors basis, a complete lot of
+50+10+30= 90 Tons was processed. Considering the normai loss of processing let's say
+90*80%= 72 Tons of fresh sand was processed. The freshly processed sand was given to
+
+Joelle bs 8 Tons & Foundry B: 24 tons.
+
+We w in this example it is impossible to segregate the quantities and understand and identify
+
+fi = “ sand was given to who as the processing is done for a complete lot. Also
+
+—
+
+ng pl if separately for each lot received separately is nc: feasible commercially.
+
+In the
+94 (755 E.L.T.497 (SC)], the Hon'ble Supreme Court has considered various examples
+
+of job work and observed that the real spirit of job work is that where the principal sends
+
+“ of M/s. Prestige Engineering (India) vs Coll. of Central Excise, Merut
+.
+
+minor input to the job worker and all other inputs and goods utilized in the final products
+belongs to the job worker then the said process cannot be considered as a job work.
+In the subject case as a matter of fact the value of final procuct only consists of Plant &
+Machinery, Operation Cost and Cther overheads since the vzlue of inputs received from
+customer i.e. used waste sand, is having Nil valuation in the costing of final product. The
+value of the material used, skills used, set up cost of plant and labor applied by the applicant
+is the value of final product. The value of input supplied by the customer i.e. Sand, is
+nowhere considered at the time of final product valuation.
+
+2.9 Further, there are differences in the quantities of waste sand 4umped by the foundry units
+
+and quantity of fresh sand picked up by them. To qualify the activity as job work, out of
+
+
+the quantities dumped by the foundries of waste sand after rormal losses of about 20%,
+remaining 80% quantities should be picked up by the foundry units. But the arrangement
+in the case of applicant is operating more or less on convenience basis, meaning, as the
+waste sand is to be dumped in the specified areas only not anywhere else, the foundries
+may dump whatever sand is available with them at any given point in time with applicant,
+whereas only those quantities which are required by them at any given point in time only
+will be picked up which may be more or less than actuall:y dumped waste sand after
+deducting normal loss. So it gives this transaction the color of supply of goods.
+
+Hence, the said transaction based on its nature, characteristics and unique attribute does
+not satisfy the criteria to qualify it as Job Work and shoulc be construed as Supply of
+Goods. If this is to be treated as Supply of Goods in that case we also seek the clarity
+
+je one of aapent pertaining to the valuation of the same.
+
+Funding Source Percentage
+
+IIUS Grant : Central Government T3%
+Maharashtra State Govt. Contribution | 10%
+Industry Contribution 17%
+Total 100%
+
+2.11 Industry Contribution of 17% is done by the way of contribution from 5 Trade Associations
+in the Kolhapur District. Also, the Board & Managing Comra*‘tee constituted for applicant
+hereunder have the all of members of these associations who are involved in management
+and decision making on both sides.
+
+2.12 Considering that, waste sand is supplied by the foundries, Section 15(4) of CGST Act
+becomes appropriate for determining the value of supply of fresh sand, which further talks
+about valuation is to be determined as per the Rules of CGST Act.
+
+2.12.1 As per Rule 27 of CGST Rules,
+
+
+Where the supply of goods or services is for a consideration nct wholly in money, the value
+of the supply shall,
+
+(a) be the open market value of such supply;
+
+(b) if the open market value is not available under clause (a), be the sum total of
+consideration in money and any such further amount in money as is equivalent to the
+consideration not in money, if such amount is known at the tire of supply;
+
+(c) if the value of supply is not determinable under clause (a) or clause (b), be the value
+of supply of goods or services or both of like kind and quality;
+
+(d) if the value is not determinable under clause (a) or clause (b) or clause (c), be the sum
+total of consideration in money and such further amount in money that is equivalent to
+
+consideration not in money as determined by the application of rule 30 or rule 31 in that
+
+order.
+
+§ engineer is Nil (Annexure: Used Sand Valuation Certificate). Waste sand
+
+drded and has no value attached to it. So clause (a) becomes irrelevant.
+
+2.12.4 As per Trae Rule 30 of CGST Rules,
+Where the value of a supply of goods or services or both is nct determinable by any of the
+preceding rules of this Chapter, the value shall be one hundred and ten percent of the cost
+of production or manufacture or the cost of acquisition oj such gocds or the cost of
+provision of such services.
+Even this rule does not become applicable since waste sad is not usually produced/
+manufactured but it is just a by-product of Foundry operatio..s, hence there is no Cost of
+Production attached directly to his waste used sand.
+
+2.12.5 Also taking into consideration point no point no 1, 2 & 3 abcve, as per Rule 28 of CGST
+Rules,
+The value of the supply of goods or services or both between distinct persons as specified
+in sub-section (4) and (5) of section 25 or where the supplier and recipient are related,
+
+other than where the supply is made through an agent, shall
+
+
+(a) be the open market value of such supply;
+(b) if the open market value is not available, be the value of supply of goods or services of
+like kind and quality;
+(c) if the value is not determinable under clause (a) or (b), be the value as determined by
+the application of rule 30 or rule 31, in that order: ,
+Provided that where the goods are intended for further supply as such by the recipient, the
+value shall, at the option of the supplier, be an amount equivalent to ninety percent of the
+price charged for the supply of goods of like kind and quolity by the recipient to his
+customer not being a related person:
+Provided further that, where the recipient is eligible for fui input tax credit, the value
+declared in the invoice, shall be deemed to be the open mzrket value of the goods or
+services.
+
+2.12.6 In above scenario also similar to points 6 & 7 clause (a) & () become not applicable or
+
+<<
+Sohne BN But in this scenario means when the fresh sand ic supplied to related person,
+
+"
+y, }S
+I ‘Sy rovise 2: ~~ crucial which talks about value declared in the invoice will be deemed
+/ =
+fi ry e thel yas of goods/ services ‘init which is Nil.
+
+\
+
+2.13 Background: Sand Reclamation Plant
+Major manufacturing industries in Kolhapur are foundries & Machine shops; producing
+ferrous & non-ferrous components for well-known OEMs throughout the country.
+Considering the same, Government of India, Ministry cf Commerce & Industry,
+Department of Industrial Policy & Promotion approved the IIUS project, mentioned above.
+
+2.13.1 Constitution of project:
+Applicant Company, formed by 5 industrial associations from Ko'hapur district, is
+
+registered under Section 25 of the Companies Act 1956, on tre basis of NO PROFIT NO
+LOSS. Availability of required sand, which is the basic production factor for foundry
+industry is crucial for sustenance of foundry industry. The subject reclamation plant
+
+will serve all foundry and sand related industry in Kolhapur Cistrict. The said project will
+
+
+be acommon facility coupled with social reason to cater founcry industry as well as for the
+benefit of common people in this region by avoiding pollution.
+
+2.13.2 Funding of Project: The funding is already mentioned in 2.10 above.
+
+2.13.3 Purpose - Best from Waste:
+The major component of cluster is Sand Reclamation Plant, established for reclamation of
+
+used & disposable sand by the foundries for reuse. Under this project two sand reclamation
+plants are established, at Shiroli MIDC and at Gokul Shirgaon MIDC, Kolhapur.
+
+2.13.4 Waste disposable sand:
+Waste disposable sand are of mainly two types; Black sand (di sposable green sand) and core
+sand. Disposable black sand is non reusable sand generated in foundry molding process. Core
+is a solid block of sand used in molding process. Such core becomes obsolete once it is used
+
+ding process. This core sand also is to be used for reclemation. This disposable black
+
+‘oxe sand generation process is continuous in foundry process and it is necessary to
+A . . .
+se thisg&nerated sand. This disposable sand do not have any commercial value.
+
+2
+ironmént Impact:
+fi resource for foundry unit for casting preduction, is becoming scarce.
+
+sand cannot be dumped anywhere in open as it may lead to wa-er pollution and contamination
+of farming land. Sand reclamation is the answer for such prob'ems. Further, waste generated
+during reclamation process will be used for bricks making. Thus this plant will ensure 100%
+conversion of waste to reusable material.
+
+2.13.6 Conservation of Natural Resource:
+
+The reclamation plant will enable foundries to reuse reclaimed sand in their process which
+
+will result in reduction in the demand for fresh mining sane. This wil! lead to minimize
+
+excavation of land in want of foundry sand.
+
+2.13.7 Plant Operations:
+In the Sand Reclamation Plant, waste sand will be received fo- treatment, from the foundry
+
+units as well as from sand related manufacturing units and rec’-aimed sand will be given for
+reuse. In the treatment of waste sand there are chances of pracess loss. Such process loss
+
+cannot be co-related with a particular supplier of waste <nd disposable sand as the
+
+8
+
+
+sand reclamation process is continues process. Hence, there will not be a fixed ratio of
+received sand and sand given to a particular supplier/party Secause a party may supply
+more quantity of waste or disposable sand and may take or may not take treated sand due
+to their technical reasons. Also there will be some units which will not be able to provide
+any waste or disposable sand for treatment but may be inter2sted to use treated sand. In
+some cases foundry units and other sand related business utits fail to provide waste or
+
+disposable sand for treatment then the plant has to procure the sand wherever it is available
+
+from waste sand storages. '
+
+2.14 A detail of process is as given below.
+A) Waste sand storage: Sand reclamation plant receives waste frm foundry and stores it in,
+Waste Core sand storage and waste raw black sand storage.
+
+B) Process flow: With the reference of schematic diagram follo-ving is the description and
+ae .
+
+per
+fo)
+
+ere are wo hoppers each of 4 MT, used to feed waste material to plant. One hopper is
+ed forser shed core sand and another one is used for waste raw black sand. Flow of sand
+ai ed with mechanical sliding dampers and VFD dri-en trolley under the hopper.
+
+we y,
+* sThisatso helps to attain proper mixing of waste crushed core sand and waste raw black
+
+sand. Screens are given to hoppers for separation of big size o:* wastages from material e.g.
+
+plastic, glass and paper waste.
+2. Belt Conveyor No 1
+
+Is used to transfer mixed waste material from 4 MT hoppers “> Bucket etevator No |
+3. Magnetic separator
+
+This unit is used to separate out iron metzl particles from was:e sand.
+
+4. Bucket Etevator No 1
+Bucket elevator is a machine which is only used to transfer sard from lover height to upper
+
+height. It transfer waste mixed sand from conveyor no | to dryer.
+
+5. Dryer
+As name suggests the dryer does drying of mixed waste material. Removing moisture from
+
+waste material will help to reduce fuel consumption. For drying purpose hot air blower (ID
+
+
+fan) extract fumes and hot air from furnace top to dryer. This is very energy efficient
+process in which excess energy in the form of hot air and fumes reused.
+
+6. Bucket Elevator No 2
+It is used to transfer material from dryer to crusher.
+
+7. Crusher
+The crusher ensures that the sand obtained is of homogenecus size and smooth surface.
+The binder on the sand surface is also removed by crushing. 4 mesh of crusher separates
+metal waste, paper waste, plastic waste and wooden waste.
+
+8. Reject belt conveyor
+It's a part of crusher which removes foreign waste and unwarted material from processed
+crushed sand. In specified frequency reject belt conveyor goes inside of the crusher,
+
+collects waste and come to its discharge position.
+
+from incoming waste sand flow. Below the hopper there are two outlets to control the flow
+of sand.
+
+12. Metering conveyor
+This belt conveyor is driven by VFD, VFD helps to control th= speed of sand flow towards
+
+furnace through metering conveyor which decides the per hous MT flow.
+
+13: Bucket Elevator No 4 ‘
+
+It is used to transfer material from metering conveyor to augr- conveyor.
+
+14. Augur conveyor
+
+It's a screw conveyor. The shaft cf the rotating spiral rotates *n the material tube to drive
+
+the material along. This type of conveyor is used for carry weste mixed sand in horizontal
+way up to furnace top.
+
+15. Furnace
+
+10
+
+
+This furnace is a type of energy-saving mobile furnace whrh is specially designed for
+foundry sand reclamation process. The main target of foundry sand reclamation process is
+to get rid of combustible substances such as clay. In terms of thermal energy consumption,
+most of heat is utilized for heating of sand. The outer coatings of waste sand particles are
+burned in the furnace and loosen too. Loss on ignition value and acid demand value get
+controlled here. Root blower is used to fluidize the sand bed inside the furnace. After
+burning of sand, fluidization effect separate out unburned clay from sand particles.
+
+It can fully recycle and utilize substantial accumulation of heat left in the heated sand, using
+it as the heat source for the newly input sand. Moreover, it also improves the quality of the
+reclaimed sand through all kinds of optimization. Compared ~with the traditional furnaces,
+
+this furnace not only reduce half of its fuel consumption, devionstrating obvious energy-
+
+Vib Conveyor
+
+This rhatHine is working on the basis of forward and reverse vibration. Output of furnace
+
+It is used to transfer thermally reclaimed sand from vibrating conveyor to Fluid bed cooler.
+18. Fluid bed cooler
+Fluid bed cooler is used for cooling and dust cleaning. Fluid bed cooler is composed of
+base, perforated plate, blower system and cooling system, e‘*. The hot sand fall into the
+perforated plate from chain bucket elevator. The blower sysi7m blows in cool air to take
+down temperature of heated sand. Then the cooling system strays water to perform heat-
+exchange cooling. The air fully contacts with hot sands to teke away the moisture of the
+hot sands. Newly-processed sands collide end rub with ezch other to bring forward
+reproducing function. During the movement, the rubbing ef"sets between sand particles
+peel off the stuck micro coating and discharge them throug. the dust collector system.
+Thus, the hot sand gets cooled and de-dusted. The sand mc’ve towards the outlet by the
+
+fluidized bed and air strike, and the cooled sand is dischargec: through the sand outlet.
+
+19. Bucket elevator No 5
+
+11
+
+
+It is used to transfer thermally reclaimed sand from fluid bed cooler to MMR machines
+(Granulators).
+20. Surge Arrestor Tank No 1
+
+Sand flow is not constant every time so that to achieve exact Sutput surge arrestor tank is
+
+vt
+
+used. When tank get full then only its pneumatic valve allow sand to flow towards MMR.
+21. MMR 1 to 12 (Granulators)
+
+It's a granulator machine used for mechanical reclamation cf thermally reclaimed sand.
+
+MMR centrifuge is composed of shell, base, motor, belt wheels and other devices. It raises
+the sands through the high-speed rotation of the shaft. Then the sands collide and rub with
+each other. Only particles with certain diameter can fall into the sand outlet through the
+gap and can be discharged, thus realizing the aim of granulztion. Multiple machines are
+gether to obtain better result. As per requirement machines can be on/off.
+
+elevator No6
+
+is used ( transfer thermally reclaimed sand from MMR mechines | to 12 (Granulators)
+
+achines 13 to 24 (Granulators).
+
+3 fo24 (Granulators)
+
+Same gasttion and principle used from MMR 1 to 12 mechines. As per requirement
+
+nes can be on or kept off.
+
+24. ‘Fluid bed de-duster
+This machine is used for de-dusting i.e. dust removing yrocess. During mechanical
+reclamation sharp corners of sand gets break and came to c‘rcular shape which is good
+result, but it's also generate dust and it needs to be removed from sand. Principle of
+operation #s same as fluid bed cooler except only cooling system not used. Forced air
+creates fluidization of sand and air flow conveys dust from s?ad to dust collector point. It
+also removes clay particles which reduces sand total clay per-entage.
+
+25. Bucket elevator No 7
+It is used to transfer reclaimed sand from Fluid bed de-duster to Surge arrestor tank.
+
+26. Surge Arrestor Tank No 3
+This tank absorb surge of sand flow and maintain constant ‘low towards sieve shaker
+
+machines with 2 no's of outlets. iN
+
+21s Sieve shaker machine
+
+12
+
+
+Sieve Shaker is composed of screen mesh, frame, base, eccentric shaft, motor and other
+parts. The motor rotates the eccentric shaft through belt and belt wheels. The frame rotates
+cyclonically a circle around the fixed point driven by the eccentric sleeve. The movement
+direction of the frame is vertical to the central line of the eccentric shaft. Due to the cyclical
+rotation of the frame, the material on the screening surface move towards the discharge end
+at a fixed speed. Material of different sizes goes through the screen mesh so as to be sieved
+and separated. Selection of sieves depends upon needs and requirements of finished
+reclaimed sand. There are total 2 no's of sieve shaker machines.
+
+28. Bucket elevator No 8 & 9
+It is used to transfer reclaimed sand from sieve shaker 1 and 7 to reclaimed sand hopper 1
+& 2 respectively.
+
+29. Reclaimed sand hopper
+
+2; In the said submission, the learned authority has mentioned “hat “The facts involved in
+
+this case lead to conclude that, it is not Job Work Service’, but 'Outward Supply of Goods'
+and hence may be taxed @ 18% under the HSN Code No 3824.
+
+35 We agree with the authority regarding first part of the sentene that 'The facts involved in
+this case lead to conclude that, it is not Job Work Service’, but Outward Supply of Goods".
+
+4. Regarding the remaining part of the sentence that 'hence it mzy be taxed @18% under the
+HSN Code No 3824' we have a different opinion as follows:
+
+a. In our submission on October 09, 2019 In Annexure No 5: AA 2 Application (Statement of
+Relevant Facts), on Page No 3 of the Annexure we have given a table of applicable
+HSN/SAC Category with Applicable Rates. Hence we are of the opinion that the best
+fitment for our final product, would be 250510: Silica Sands and Quartz Sands taxable at
+5%. :
+
+13
+
+
+03.
+
+Also HSN Code mentioned by authorities in their submission is 3824:
+
+PREPARED BINDERS FOR FOUNDRY MOULDS OR CORES; CHEMICAL
+PRODUCTS AND PREPARATIONS OF THE CHEMICAL OR ALLIED
+INDUSTRIES (INCLUDING THOSE CONSISTING | OF MIXTURES OF
+NATURAL PRODUCTS), NOT ELSEWHERE SPECIFI OR INCLUDED.
+
+In our opinion this above entry sounds unfit for the type of our finished goods, also
+the manufacturing procedure is not based on chemical processing but is mainly
+thermal (Heat Treatment) based. So the output which is coming out of the said
+manufacturing process should be treated as Silica Sand, whica is completely
+
+different product than the input i.e. waste sand which has zerc valuation
+
+CONTENTION — AS PER THE JURISDICTICNAL OFFICER:
+
+SG Ade emissions made by the jurisdictional officer is as under:-
+
+ctalds the first question raised ud the applicant, subject activity may constitute Job
+
+‘Zerg eof material ownership is not in existence. Further, the processed sand is entirely
+
+<redftherent commodity, processed, by taking in waste sands obtained from various
+
+- foundries. But, consequently cannot be correlated to the original owners. In addition to
+
+3.2
+
+3.3
+
+these facts, the invoice obtained from the applicant, bearing 10. 19-20/SH/DEC/37 dated
+7-Dec-2019 shows the rate of sand is at Rs.2.50 per kg. The market rate of fresh sand is at
+Rs.3.00 per kg. When compared these two prices, it appears that both prices are nearly
+one and the same. Therefore, there is reason to believe, that, chis is not merely job work,
+but supply of goods.
+
+As regards the second question, value of inward supply does “ot have direct bearing on the
+outward value, in this case, as the applicant has admitted, the inward supply of the waste
+
+sand is at Rs. Nil. As such, there is no impact of inward value on the outward supply.
+
+Socio-Ecological parameters in the said case is already taken into account by the
+system, as 83% of setting cost is born by Central and State governments together and hence,
+
+may not cause any impact on taxation.
+
+14
+
+
+3.4 Facts involved in this case lead to the conclusion that, iis not Job Work Service!
+
+but 'Cutward Supply of Goods' and hence may be taxed @ 12% under the HSN Code No
+3824.
+
+3.5 Further submissions are made by the jurisdictional officer as under:-
+
+3.5.1 The material value of the inward of waste foundry sand is nil.
+3.5.2 The assesse has claimed set-off of ITC during April-19 to Dec-19.
+3.5.3 Expenses as per the balance sheet produced by the applicant for 2018-19
+
+Direct expenses Rs.29596448/-.
+
+Indirect expenses Rs.3035850/-.
+
+Purchases : 18130598/-.
+s@.expenses are against the total Receipts of Rs.71 166825; ,
+
+y d supply value includes Transporiation changes an< applicant nas paid the GST
+
+or
+
+87 a
+“Sinipurities and by again coating it, this sand becomes reusable. Such addition of adhesive
+
+material benaves as a binder and therefore, classification of t'xis product under HSN code
+no. 3824 is correct and hence outward supply of reclaimed sand shall be taxed @18%.
+
+3.5.6 Hence, it is not Job Work Service' but ‘Outward Supply of Goods' and taxable @ 18%
+under HSN Code No 3824.
+
+04, HEARING
+Preliminary hearing in the matter was hel4 or 12.12.2019. Sh-- Girish Kuikarni, C.A., Shri
+Raviraj Gajageshwar, Representative Appeared, and requasted for admission of the
+application. Jurisdictional Officer Shri Kirankumar Salokhe, Assistant Commissioner of
+
+State Tax, Kolhapur Division also appeared. .
+The application was admitted and called for final hearing on 11.02.2020. Shri Girish
+
+Kulkarni, C.A.,, Authorized Representative, appeared made oral and written submissions.
+
+15
+
+
+Jurisdictional Officer Shri Kirankumar Salokhe, Assistant Commissioner of State Tax,
+I
+
+Kolhapur Division appeared and made submissions. We hear? both the sides.
+
+05. DISCUSSIONS AND FINDINGS:
+
+5.1 We have gone through the facts of the case, documents on record and submissions made
+
+by both, the applicant as well as the departmental officer.
+
+5.2. The applicant receives waste sand which is processed with heat treatment (Thermal Plant)
+& various other set of small procedures and is reclaimed and rade re-usable.
+
+a) The first question raised by the applicant is whether the activity of Applicant is Supply of
+Goods or Supply of Job Work Services. To answer this question, we need to examine
+whether the subject activity undertaken by the applicant is cov2red under supply of goods
+or Job work, for which we will examine the definition of “Coods”, “Manufacture” and
+
+a ACE ROS ssajob work” under the provisions of CGST ACT.
+a 8 ak egtion 2(52) of the GST Act defines ‘goods’ as:
+
+, OVE = means every kind of movable property other thet: money and securities but
+
+: yd which are ree to be severed before supply or unde: a contract of supply.
+
+f tion 2(72) of the GST Act defines ‘manufacture’ as: .
+
+(72) “Manufacture” means processing of raw material or inpu:s in any manner that results
+
+in emergence of a new product having a distinct name, character and use and the term
+
+“manufacturer” shall be construed accordingly
+
+5.3.3 Section 2(68) of the GST Act defines ‘jobwork’ as:
+
+Section 2 (68): “job work” means any treatment or process undertaken by a person on
+goods belonging to another registered person and the ex>ression “job worker” shall
+be construed accordingly.
+
+5.3.4 Fromacombined reading of the definition of “job work” and “ae procedure of job work as
+prescribed u/s 143 of the CGST Act and Rule 45 of GST Rule, it is the principal who will
+send inputs to the job worker for undertaking any treatment 0% process that may or may not
+amount to manufacture and will bring back same after the ce-npletion cf job work. Thus
+the person who send goods to the job worker is a principal an< the person who undertakes
+
+treatment/ processing is a job worker.
+
+16
+
+
+5.3.5 Inthe present case we find that applicants have received waste.sand, having no commercial
+and market value, at their plants from the different foundries under the cover of Rule 55
+Challans. Further, there is no commercial use of this waste sand. We find that the used
+waste sand is stored at common pool Storage Location for preduction activity and it is not
+possible to segregate the sand as per the receipt from found:ies. The finished reclaimed
+sand is obtained by applying different processing steps whick is narrated by the applicant
+in their written contention.
+
+5.3.6 It is submitted that the quantity of finished product i.e. usable sand is approximately 80%
+of the input waste sand. The remaining 20% loss includes the layer of chemicals which was
+affixed on the surface of the Sand during Foundry operaticns and clay, paper/rubber/
+wooden/metal particles etc.
+
+5.3.7. The chemical properties of Sand are changed in such a manner due to heat and other
+
+processes that, the quality of the sand is good for foundry use and is ready for foundry
+
+Ventiogs who are interested in buying the said fresh product.
+
+a find that, the applicant by applying different processes and treatments on the waste
+
+oe ie the activity undertaken by the applicant satisfic? the conditions of term
+
+ere utncture” ws 2(72) of CGST Act. Hence such activity at1ounts to ‘manufacture’.
+
+5.3.9 We find, from the submission that, the finished product is different in character, name and
+use than the waste sand which is the input supplied. The emerg2d produc* has a commercial
+value, goods quality and is used by the specific foundry iz dustry. The new product is
+manufactured from waste sand and has market value. The nev product is kind of movable
+property. Considering the quality, composition, distinct character and use of the product
+emerges from the process and treatment undertaken, we fixd that the finished product
+satisfied the definition of the term ‘Goods’ mentioned u/s 2 (£2) of CGST Act. We do not
+hesitate io treat as this new product as “Goods”.
+
+5.3.10 We further find from the documents and submissions made bere us that the input received
+is waste material which is dumped at applicant’s location due to environmental concerns.
+The foundries/Suppliers have supplied unusable and non-va}able material in the form of
+
+waste sand. The intention of the foundries/Suppliers is not te treat the waste sand as semi
+
+Li
+
+
+or finished goods for the purposes of further process. Actually waste sand is a raw material
+for the applicant and after the processing, usable sand is produced which is then sold to
+foundries as and when orders are received. The sand is not so:d to the foundries in a fixed
+ratio to the waste sand received. No processing charges are collected by the applicant. In
+fact, the applicant, as reported by the jurisdictional officer, sells the final product to the
+foundries at Rs. 2.5 per kg. Whereas freshly mined sand is avzilabie at Rs. 3.00 per kg and
+the difference being very minor shows that the applicant is nct a job worker in the subject
+case. It is cleariy seen that the foundries have not supplied g7ods to the applicant for job
+work purpose. The supplied material is only waste of the fowndry industry and not a by-
+product or outcome of any manufacturing process.
+
+5.3.11 The concept of job work already exists in Central Excise, whe~?in a princ‘pal manufacturer
+can send inputs er semi-finished goods to a job worker for fur‘her processing. In our view,
+applicant does not satisfy the conditions mentioned for the term “Job work” u/s 2(68) of
+
+pds, UGST ACT. Hence the activity carried out by the applicant is not covered under ‘Job work
+
+ces’ and is out of scope of supply of services.
+Applicant has referred to the decision of the Hon’ble Supreme court in the matter of M/s.
+Prestige Engineering (India) vs Collr. of Central Excise, Merv: [1994 (73)E.L.T.497 (SC)]
+(herein the Court has considered various examples of job work. The Hon’ble Court has
+SE observed that addition of minor items by the job worker woul-l not detract from the nature
+and character of his work. For example, « tailor entrusted wi“ a cloth piece and asked to
+stitch a shirt, a pant or a suit piece may add his own three 4, buttons and lining cloth.
+However, if the additions made are not minor additions i.e th=y are of a substantial nature
+and of considerable value, then in such a case the work done cannot be characterized as a
+job work. a
+5.3.13 From the observations made by the court we ‘ind that additiox-1 application of minor items
+is permissible in job work. In the subject case, the applican*-nas categorically stated that
+their activity is an activity of manufacture of a new commodity by using its own raw
+material end skill and labour as well as the input material sup=lied, value of which is NIL.
+5.3.14 Finally, the jurisdictional officer bas submitted that, invoice bearing No. 19-20/SH/DEC/37
+dated 7-Dec-2019, obtained from the applicant, shows the rate of sand is at Rs.2.50 per kg.,
+
+while the market rate of fresh sand is at Rs.3.90 per kg and herze when compared, it appears
+
+18
+
+
+that both prices are nearly one and the same. Hence the jurisdictional officer has opined
+that, subject activity is not merely job work, but supply of goods
+
+5.3.14 We find that, the applicant cannot be considered as a job werker within the meaning of
+Section 2(68) and Section 143 of the GST Act and corresponding rules. The real spirit of
+job work as explained by the couri is that where the principal sends minor input to the job
+worker and all other inputs and goods utilized in the final products belongs to the job
+worker then the said process cannot be considered as a jot work. In the case at hand
+applicant has accepted as a matter of fact that, the value is only of the material used/ skill
+
+and labour applied by them and the value of input supplied by *1e customer is nil. Therefore
+
+i
+2 in our opinion, the subject transaction undertaken is a supply of goods, +, e. sale of ready
+to use sand for the foundry industry and not supply of job we~< services.
+fc e second question raised by the applicant is “The used was*> sand which is of the value
+on RULES.
+
+(Refer separate Valuation Certificate by Engineer) will have any impact on
+
+\ in
+ee has admitted that the inward supply of the waste san is at Rs. Nil. As such, there
+
+is no impact of inward value on the outward supply. The juvisdictional officer has also
+submitted that Socio-Ecological parameters in the said case ‘s already taken into account
+by the system, as 83% of setting cost is bern by Central ana’ State governments together
+and hence, may not cause any impact on iaxetion.
+
+5.4.2 The applicant seeks to know whether the consideration of ‘? IL’ value for the input i.e.
+used sand, will have any impact on valuation and whether the-r understanding to consider
+the 'Nil' value of the used waste sand in valuation (no impa*’) is approvriate. It appears,
+from the submissions made by the applicant that, the value c’* input is considered by the
+applicant to be Nil is probably because they are not paying consideration for receipt of
+such used sand. We are of the opinion that in cases like in the. subject matter, the value of
+inward supply will always have a bearing on the value of ov‘ward supply. In the subject
+case, the applicant has themselves admitted that the value of ixput used sand is “NIL” and
+
+the same has been accepted by the jurisdicticnal office also ard not disputed.
+
+19
+
+
+~
+
+5.4.3. To surmise, it appears from the applicant’s submissions that their rate of Rs. 2.50 per kg.
+on output supply of sand has taken into account the valuation cf input sand at ‘NIL’ value.
+In normal situations, in the subject case, if there is a price atiached to the input supply of
+used sand, then it may have a proportionate impact on the rate of outward supply of sand.
+
+06. In view of the discussions held above, we pass an order as foliows:
+
+ORDER
+
+(Under section 98 of the Central Goods and Services Tax Act, 7.017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+NO.GST-ARA- 55/2019-20/B- Ly Mumbai, dt. 2h . OQ, 2©2D
+
+For reasons as discussed in the body of the order, the questiors are answered thus —
+
+Question 1. | Whether the activity of KFEC is Supply of Goods or S »pply of Job Work services?
+Answer: - The activity of KFEC, the applicant, is a Supply of Goods.
+
+Question 2. The used waste sand which is of the value 'Nil' (Refer separate Valuation
+
+s4 — Sol ——
+A. A. CHAHURE P. VINIT TA SEKBAR
+(MEMBER) (ME MBER)
+Copy to: CERTIFIED TRUE COPY
+1. The applicant V7
+2. The concerned Central / State officer a,
+3. The Commissioner of State Tax, Maherashtre State, Mumbai MBER
+
+4. The Chief Commissioner of Central Tax, Churchgate, MunftiavANCE RULING AUTHORITY
+5. Joint Commissioner of State Tax, Mahavikas for Website. MAHARASHTRA STATE, MUMBAL
+
+Note :- An Appeal against this advance ruling order shall be mate before The Maharashtra
+Appellate Authority for Advance Ruling for Goods and Services Tax, * 5" floor, Air India building,
+Nariman Point, Mumbai — 400021.
+
+20

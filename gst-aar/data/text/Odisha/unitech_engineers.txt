@@ -1,0 +1,911 @@
+DISHA AUTHORITY FOR ADVANCE RULING
+GOODS AND SERVICE TAX (GST)
+JASWAVIHAR, BHUBANESWAR-751007 (ODISHA)
+PROCEEDINGS OF THE AUTHORITY FOR ADVANCE RULING
+U/S.98 OF THE GOODS AND SERVICE TAX ACT, 2017
+
+Members Present:
+1. Sri Harsh Vardhan, IRS, Additional Commissioner, Office of the
+Chief Commissioner, GST, Central Excise & Customs, Bhubaneswar.
+2. Ms. Pratima Mohanty, OFS (SAG), Additional Commissioner, CT &
+GST Office of the Commissioner of CT &GST Odisha, Banijyakar
+Bhawan, Cantonment Road, Cuttack-753001- Odisha.
+
+Name and Address of the Applicant M/s. UNITECH ENGINEERS
+(Prop: Mr. Naresh Arya).
+Unitech House, Udit Nagar,
+Rourkela, 769012.
+
+GSTIN or User ID 21ABOPA8813E1Z2
+Date of Filing of Form GST ARA-01/ | 30.01.2026
+
+Date of submission of required
+
+documents
+
+Present for the Applicant in the |Shri Kartik Kurmy, Advocate,
+
+Personal hearing. AR
+Shri Naresh Arya (Prop: M/s.
+Unitech Engineer)
+
+Date of final Personal Hearing 22.04.2026
+
+VV
+
+1|Page
+
+
+ORDER NO.01/ODISHA-AAR/2026-27, Date: 29.04.2026
+
+Subject: M/s Unitech Engineer, (Prop: Mr. Naresh Arya) (herein after referred to as the
+‘Applicant’) having principal place of business at Unitech House, Udit Nagar, Rourkela, 769012.
+bearing GSTIN: 21ABOPA8813E1Z2 has filed an application for Advance Ruling under Section
+97 of the CGST Act, 2017 read with Rule 104 of the CGST Rules, 2017 and Section 97 of the
+
+OGST Act, 2017 read with Rule 104 of OGST Rules, 2017, in FORM GST ARA-01 discharging the
+fee of Rs. 5,000/- each under the CGST Act and the OGST Act.
+
+1.0 The Applicant is proprietorship firm and has sought advance ruling in respect of the
+
+following question:
+
+Q.1. Whether or not, on the facts and in the circumstances of the case, the supplies of Coursera
+
+User License made by the Petitioner to OSDA is classifiable under Heading 9992
+(Education Service) ?
+
+Q.2 Whether or not, on the facts and in the circumstances of the case, the Exemption under
+SLNo.72 of Notification No.12/2017-Central Tax (Rate) Dated 28-06-2017, as amended, is
+available to the Petitioner for supplies made by the Petitioner to OSDA ?
+
+Q.3 Whether, on the facts and in the circumstances of the case, the supplies made by the
+
+Petitioner is more appropriately classifiable under Heading 9973 (Leasing or Rental
+Services) ?
+
+Q.4 Alternatively, whether, on the facts and in the circumstances of the case, the supplies of
+
+User License to access online content of Coursera, proprietary digital platform made by the
+
+Petitioner is classifiable under Heading 9984 (Online Content Services) ?
+
+1.1 At the outset, we would like to make it clear that the provisions of both the CGST Act and
+the OGST Act are the same except for certain provisions. Therefore, unless a mention is
+specifically made to such dissimilar provisions, a reference to the CGST Act would also
+
+mean a reference to the same provision under the OGST Act. The present application has
+
+[Page
+
+
+
+2.0
+
+been filed under Section 97(1) of the CGST Act, 2017 and OGST Act, 2017 seeking advance
+ruling on taxability of transactions undertaken by the applicant. The questions raised relate
+to determination of liability to pay tax on the arrangement and fall within the scope of
+Section 97(2) (e) of the CGST Act, 2017. The application is, therefore, admitted under
+Section 98 of the CGST Act, 2017.
+
+The applicant furnishes some facts relevant to the stated activity :
+
+2.1 The applicant, M/s Unitech Engineer, (Prop: Mr. Naresh Arya) (hereinafter
+referred to as the “Applicant”), is a proprietorship concern having its office and
+place of business at Unitech House, Uditnagar, Rourkela - 769012, District -
+Sundargarh, in the State of Odisha. The Applicant is registered under the Goods
+and Services Tax Law bearing GSTIN No.21ABOPA8813E1Z2, and is
+administratively assigned to Central GST Authorities.
+
+2.2 The applicant is appointed as a Sub-Contractor by M/s Coursera Inc., USA, for
+the supply of Coursera User Licenses to the Odisha Skill Development Authority
+(OSDA), Government of Odisha.
+
+2.3 That, the OSDA is an autonomous body formed under the Societies Registration
+Act, 1860, and operating under the Government of Odisha, Department of Skill
+Development & Technical Education. OSDA acts as an unified agency of the
+Government of Odisha to coordinate, implement and oversee all skill
+development programs aiming to create a global brand of “Skilled in Odisha” by
+
+empowering youth with market led skill development programs for better
+
+employment.
+
+24 That, M/s Coursera Inc., is a Company incorporated in the United State of
+America (USA), and offers its educational content through their proprietary
+digital platform. M/s Coursera Inc., USA, is offering its educational content
+
+through its digital platform, and has global presence. M/s Coursera Inc., is one
+
+l,
+
+|Page
+
+
+
+2.5
+
+2.6
+
+2.7
+
+of the world’s largest online education organization having 200+ university
+partners and 100+ industry partners. M/s Coursera Inc., USA, is offering courses
+
+and specialization from World’s Top Universities and Instructors.
+
+That, OSDA and M/s Coursera Inc., entered into a Memorandum of
+Understanding (MOU) dated 24-12-2023, where-under Coursera will supply
+User License to OSDA to enable Technical students to access digital content ice.
+
+courses on digital skill and other skill available in the proprietary platform of
+
+Coursera.
+
+That, under the Memorandum of Understanding dated 24- 12-2023, entered into
+between OSDA and M/s Coursera Inc., USA, the Petitioner, as a Sub-Contractor
+of M/s Coursera Inc., shall distribute/ supply Coursera User Licenses to OSDA
+and undertake implementation of User License. The User License will enable
+technical students to access digital skills courses as well as other skill-based
+
+programs under the Nutana Unnata Abhilasha (“NUA”) Odisha Scheme of the
+
+Government of Odisha.
+
+The salient features of the MOU dated 24-12-2023 entered into between OSDA
+and Coursera Inc., are as under:-
+
+(i) The MOU is entered into for supply of Coursera User Licenses (minimum
+
+5000 user licenses) for a period of one year. The Coursera will provide super
+Admin rights to OSDA to access educational content in Coursera proprietary
+digital platform;
+
+(ii) The said User Licenses supplied to OSDA by Coursera shall enable technical
+
+students across colleges and universities to access courses on digital and other
+
+skill-based programmes, thereby providing them an opportunity to learn from
+
+the world’s best courses in emerging technologies such as Artificial Intelligence,
+Machine Learning, Industrial [OT,. Data
+
+Y
+
+Analytics, Engineering, Digital
+
+4|Page
+
+
+Manufacturing, Robotics, 3D Printing, GIS, Cyber Security, AR/VR, Data
+Warehouse Development, Cloud Development, and i0S/Android Application
+
+Development, etc.;
+
+(iii) The courses offered by Coursera on its platform, will be made the courses
+identified under the RFP No.OSDA/2023/OSDA-TRG-MISC-0002- 2023/03/DE,
+Dated 27-10-2023 to impart Digital Skill under Nutana Unnata Abhilasha (NUA)
+Odisha, Government of Odisha;
+
+(iv) The said courses on the Coursera Digital Platform may be made a part of the
+academic programs or which may be added to such academic programs offered
+by the Universities in Odisha. This will enable the OSDA and SDTE to offer
+courses identified in the Coursera Digital Platform to the students for acquiring
+
+additional employable skills in emerging technologies;
+
+(v) The Coursera platform will provide students with Co-branded certificate of
+Coursera and its partner organization. The platform has provisions to award
+
+Digital Skill badges to the learners;
+
+(vi) The OSDA will procure Coursera License and services through the Petitioner
+
+(Unitech Engineers) as Distributor and Sub-Contractor of Coursera;
+(vii) The OSDA will issue work order on the Petitioner (Unitech Engineers);
+
+(viii) The Coursera will supply the User License to OSDA through the Petitioner;
+
+(ix) The Petitioner will launch the licenses as per guidance of the Coursera;
+
+(x) The Petitioner (Unitech Engineers) will raise invoices in INR on OSDA for
+
+realization of payments for supply of Coursera User License;
+
+(xi) The payment will be made to the Petitioner with taxes within 60 days of
+
+invoice;
+
+|Page
+
+
+
+(xii) OSDA will be responsible for the payment of all taxes including GST levied
+validly;
+
+(xiii) The OSDA shall not copy, sub-license, rent, lease, resell or commercialize,
+
+transfer, transmits etc. the Coursera Platform;
+
+(xiv) The word “User Services”, “Content Services”, “Courses” or
+
+“Specialisation” and “User License” are defined in the MOU as follows-
+“User Services” means
+
+- Customer Landing Page featuring the OSDA and selected courses
+
+- User engagement report
+
+- Enterprise-Level User Support
+
+“Content Services” means access to Coursera’s Course and/or specialization
+certificate services, including access to course assessment and grades, for certain
+massive online open content offerings to be mutually agreed upon in writing by
+
+Coursera and OSDA
+
+“Courses” or “specialization” means courses and specialization from the world’s
+top universities and instructors, for consumption via the proprietary platform
+
+developed by Coursera (“Platform”)
+
+“User License” means the right for a single use to access the content services for
+
+unlimited number of Enrollments
+
+“Enrollment” means registration to participate in a single course and such
+Enrollment shall be deemed used once a User registers for a course. If a course or
+
+specialization becomes unavailable prior to the end of the Terms due to Coursera
+
+6|Page
+
+
+
+2.8
+
+and its agreement with its content partner, Coursera may replace such course or
+specialization. The courses and specialization offered in the Coursera for campus
+catalog are determined by such factors as availability, pricing, and/or other
+restriction. As of the date hereof, Stanford and University of Pennsylvania are
+
+not available to OSDA through Coursera for campus.
+
+That, Coursera Inc., USA and the Petitioner (Unitech Engineers) entered into an
+Agreement dated 26-12-2023 (with Managed Service Provider (MSP) Addendum
+
+thereto) whereunder the Petitioner is appointed as Managed Service Provider
+(MSP) and a Sub-Contractor (also termed as “Partner”, “
+Partner”).
+
+Intermediary”, “Channel
+
+That, the salient feature of the said Agreement dated 26-12-2023 between
+
+Coursera and the Petitioner are as follows-
+
+(i) Coursera will provide User Licenses to OSDA through Petitioner
+(MSP)/ (Clause 7);
+
+(ii) Petitioner (MSP) will launch User Licenses under guidance of Coursera
+(Clause 7);
+
+(iii) From the license start date, the Coursera will grant OSDA and its users a
+non-exclusive, nontransferable, revocable right to access and use the User
+
+Services and content services;
+(iv) The Petitioner (MSP) will only distribute Coursera products;
+(v) Coursera will invoice the Petitioner (MSP) in USD;
+
+(vi) The Petitioner (MSP) shall be solely responsible for invoicing End Customer
+(OSDA) and for obtaining payment;
+
+7|Page
+
+
+
+(vii) Petitioner (MSP) will be responsible for payment of all taxes including
+
+Goods and Services Tax;
+
+(viii) The pricing between Coursera and Petitioner (MSP) is fixed as per which
+the Petitioner (MSP) shall add a markup (profit margin) on the Annual Unit Price
+of Coursera products which shall be the selling price by Petitioner (MSP) of
+Coursera’s product to OSDA;
+
+(ix) The Petitioner (MSP) shall lead the sale with OSDA and Coursera render
+
+support as needed;
+
+(x) Coursera will enter into Agreement with OSDA directly where Petitioner
+
+(MSP) will act as subcontractor
+
+2.9 That, the intention of the parties (Coursera and the Petitioner) under the
+Agreement dated 26-12-2023 is that the Petitioner would act as distributor of Coursera products
+where Coursera will raise its invoice on the Petitioner and the Petitioner will raise invoice on
+OSDA after adding a markup (profit margin) on the price charged by Coursera to the Petitioner.
+The contract between Coursera and the Petitioner is on principal to principal basis going by the
+intentions of the parties to the contract irrespective of the terminologies used ie. “sub-
+contractor”, “partner”, “intermediary”, “channel partner”. The Petitioner is not an
+“intermediary” within the meaning of Section 2(13) of the IGST Act, 2017, but a
+distributor/reseller of Coursera’s product, and supplies the User License on its own account
+after purchasing from Coursera where the Coursera supplies the User License to the Petitioner,
+Coursera raises its invoice/bill on the Petitioner and the Petitioner pays the Coursera’s Bill
+irrespective of whether it is realized from OSDA or not. The Petitioner upon supply of Coursera
+products to OSDA issues its own tax invoice on OSDA and the Petitioner receives payment
+from OSDA directly. The Petitioner acts as a principal of its own right, and the relationship
+between the parties and the transactions in the instant case in substance are on principal to
+
+principal basis and the Petitioner is not an “intermediary” of Coursera.
+
+8|Page
+
+
+
+210 That, in accordance with the said MOU dated 24-12-2023, the OSDA issued Work
+Orders vide 4765 dated 29.12.2023 & 4233 dated 13.08.2024 for supply of Coursera User License
+with 18% GST. Further, the Petitioner raised Tax Invoice No.UE/RK/25-26/093 Dated 14-04-
+
+2025 on OSDA as agreed upon classifying the said supply under description of service “Other
+
+Education and Training Services, nowhere else -classified” (SAC 999294, charging GST@18%
+
+(CGST 9% + SGST 9%). Thereafter, the Petitioner issued another Tax Invoice No.UE/RK/25-
+26/559 dated 21-07-2025 for supply of 10,000 Coursera User License to OSDA, classifying the
+
+same under description of service “Licensing Services for the right to use computer software
+
+and databases” under SAC 997331 charging GST @ 18% (CGST 9% + SGST 9%). During the
+
+period 01-05-2024 to 10-09-2025, the Petitioner raised total 17 Tax Invoices for supply of
+
+Coursera User License charging GST @18% including Tax Invoice No.UE/RK/25-26/093 Dated
+
+44-04-2025 and Tax Invoice No.UE/RK/25-26/559 Dated 21-07-2025 as above, OSDA has
+
+reimbursed GST @18% against first 3 Tax Invoices and then stopped reimbursing GST which is
+
+only of the reason for present advance ruling being sought.
+
+211 The Directorate of Skill Development-cum Employment, Odisha Skill
+
+Development Authority (OSDA), initially reimbursed the GST @18% against 3 Tax Invoices but
+
+later stopped reimbursing the GST charged on Petitioner's Bill considering that the NUA
+
+Odisha Scheme is 100% funded by the Government of Odisha and the supply of User License is
+
+exempt from GST under Serial No. 72 (Heading 9992) of GST Exemption Notification No.
+
+12/ 2017-Central Tax (Rate) dated 28-06-2017,
+
+3.0 Submission of jurisdictional tax authority on Advance Ruling Application:
+
+The Jurisdictional Tax Authority vide letter dated 03.12.2025 has made following
+
+submissions:
+
+On Admissibility 1. The issue for determination pertains to the classification of the
+
+service supplied by the Petitioner and whether such supply qualifies for exemption
+
+under Sl. No. 72 of Notification No. 12/ 2017-Central Tax (Rate) dated 28.06.2017.
+
+9|Page
+
+
+
+2. No proceeding on the same issue is pending or have been decided in the case of the
+applicant under the provisions of the GST Acts. In terms of Section 98 (2) of the CGST
+Act, an application for advance ruling shall not be admitted only where question raised
+is already pending or has been decided in any proceeding under the Act. Since no such
+proceeding exist in the present matter, the bar under Section 98 (2) is not attracted.
+Accordingly, the application appears admissible for consideration.
+
+B. On Merits: Reply to Question raised by the Applicant; Q.1. Whether or not, on the
+facts and in the circumstances of the case the supplies of Coursera User License made by
+the petitioner to OSDA (Odisha Skill Development Authority) is classifiable under
+Heading 9992 (Education Service)
+
+1.1 Submission:- The supply is NOT classifiable under Heading 9992 (Education
+Services).
+
+The Jurisdictional Authority concurs with the Applicant's own submission that the
+supply of Coursera User License is not classifiable under Heading 9992 (Education
+Services). This conclusion is supported by the following factual and legal considerations:
+1.2 The core obligation of the Applicant is limited to the supply of a 'User License! that
+grants OSDA access to the digital content hosted on Coursera's proprietary platform.
+The Applicant does not impart, provide, or deliver any education, training, coaching, or
+instruction to the students or to OSDA. The supply is of a right of access - not of a
+teaching or training service.
+
+1.3 Under the MOU dated 24.12.2023, Coursera provides rights to OSDA to access its
+platform. The platform hosts courses and specializations from worldclass universities
+and instructors. However, neither the Applicant nor Coursera is obligated under the
+MOU to deliver any Education and Training to the technical students. The courses are
+made available; the act of teaching is performed by third-party universities and
+instructors on Coursera's platform, not by the Applicant.
+
+1.4 The CBIC Explanatory Notes to the Scheme of Classification of Services (dated 01-10-
+2019) describe SAC 999293 (Commercial Training and Coaching Services) as training or
+coaching 'provided by any institute or establishment’ for imparting skill, and SAC
+
+10|Page
+
+
+
+999294 as including computer training services and education services not definable by
+level. In both cases, the active provision of training/instruction is the core element. The
+Applicant provides no such active service.
+
+1.5 The specific description principle under the Explanatory Notes mandates that where
+a service is capable of differential treatment, the most specific description shall be
+preferred over a more general one. The supply of a 'User License! to access digital
+content is a far more specific description than the general umbrella of ‘Education
+Services' under Heading 9992.
+
+16 OSDA's position (vide letter dated 02-05-2025 bearing No. OSDA-
+EX15/2024/2129/DE) that the supply is exempt under Sl. No. 72 of Notification No.
+12/2017-CT (Rate) under Heading 9992 is therefore not legally sustainable on this
+ground alone, since the supply itself is not classifiable under Heading 9992 in the first
+place.
+
+Reply to Q.1: The supply of Coursera User License by the Applicant to OSDA does NOT
+constitute 'Education Services' under Heading 9992. Neither the Applicant nor Coursera
+provides education or training to students. The supply is of a User License (right of
+access). Classification under Heading 9992 is not appropriate.
+
+Q.2. Whether or not, on the facts and in the circumstarces of the case, the Exemption
+under SI.No.72 of Notification No. 12/2017-Central Tax (Rate) Dated 28-06-2017, as
+amended, is available to the Petitioner for supplies made by the Petitioner to OSDA.
+Submission:- Exemption under Sl. No. 72 of Notification No. 12/2017-CT (Rate) is NOT
+available.
+
+For the exemption under Sl. No. 72 to apply, ALL of the following conditions must be
+cumulatively satisfied: The supply must be classifiable under Heading 9992 (Education
+Services);
+
+AND The services must be provided directly to the Central Government or a State
+
+Government or Union Territory Administration (not to their agencies, authorities, or
+
+4
+
+11|Page
+
+autonomous bodies);
+
+AND The supply must be under a 'training programme’;
+
+
+
+AND
+
+75% the Central/State or more of the Government/ UT total expenditure of that training
+programme must be borne by Administration.
+
+2.3 Ground 1 — Classification under Heading 9992 is absent: As submitted in Reply to
+Question No. I above, the supply of User License is not classifiable under Heading 9992.
+Since classification under Heading 9992 is itself the pre-condition for this exemption, the
+exemption is not available on this ground alone.
+
+2.4 Ground 2 — OSDA is not the 'State Government: The exemption under S1. No. 72
+applies to services provided directly to the Central Government, State Government, or
+Union Territory Administration. OSDA is an autonomous body registered under the
+Societies Registration Act, 1860. It is not the State Government of Odisha. It cannot be
+equated with the State Government for the purpose of an exemption notification, which
+must be construed strictly.
+
+2.5 Ground 3 — OSDA does not qualify as 'Government for this exemption:
+Explanations 4(ix) and 4(x) of Notification No. 11/2017-CT (Rate) define 'Governmental
+Authority! and ‘Government Entity! respectively. Critically, the exemption under SI. No.
+72 of Notification No. 12/2017-CT (Rate) does not extend its benefit to supplies made to
+‘Government Entities' or 'Governmental Authorities’ - it is strictly limited to supplies
+made to the Central Government / State Government / UT Administration. The
+exemption has not expanded to Government Entities/ Authorities. OSDA, being a
+society under the Societies Registration Act, falls outside even the limited category of
+‘State Government’ specified in SI. No. 72.
+
+2.6 Ground 4 - No 'Training Programme' in the strict sense: The NUA Odisha Scheme
+involves making Coursera User Licenses available to technical students. The supply by
+the Applicant is of a User License, not the conduct of a training programme per se. The
+Act of training is performed by third parties (universities and instructors) on Coursera's
+
+platform. The exemption contemplates services rendered 'under' a training programme,
+
+/
+
+12|Page
+
+implying active participation in delivering the training.
+
+
+
+2.7 The Jurisdictional Authority therefore agrees with the Applicant's own position that
+
+the exemption under Sl. No. 72 is not available, and respectfully differs from the stand
+
+taken by OSDA in its letter dated 02-05-2025,
+
+Reply to Q.2: The exemption under SI. No. 72 of Notification No. 12/2017-CT (Rate) is
+
+NOT available to the Applicant because: (a) The supply is not classifiable und
+
+er
+Heading 9992;
+
+(b) OSDA is not the 'State Government' - it is an autonomous society and cannot be
+
+equated with the State Government;
+
+(c) The supply is of a User License, not an active training/education service; (d)
+
+Exemption notifications must be construed strictly and cannot be extended beyond their
+literal scope.
+
+Q.3 Whether, on the facts and in the circumstances of the case the supplies made by
+
+the Petitioner is more appropriately classiflable under Headin
+
+'§ 9973 (Leasing or
+Rental Services).
+
+Submission:- The supply may be classifiable under Heading 9973, specifically under
+SAC 997339,
+
+3.1 The Jurisdictional Authority broadly agrees with the Applicant's alternative
+submission that the supply of Coursera User License is more appropriately classifiable
+under Heading 9973 (Leasing or Rental Services), specifically under SAC 997339 —
+‘Licensing services for the right to use other intellectual property products and other
+
+resources, nowhere else classified'. The following analysis supports this:
+
+3.2 Nature of the Supply: The supply in question is of a
+MOU as
+
+‘User License! defined in the
+‘the right for a single use to access the content services for unlimited number of
+
+enrollments'. This is a grant of a non-exclusive, non-transferable, revocable right to
+
+access the digital content of Coursera's proprietary platform. The essential character of
+the transaction is the licensing of a right of access - which falls squarely within Heading
+9973 (Leasing or rental services with or without Operator, including licensing services
+
+for intellectual property and similar products).
+
+13|Page
+
+
+3.3 The Scheme of Classification under Notification No. 11/ 2017-CT (Rate) provides
+under Heading 9973: Group 99733 - Licensing services for the right to use intellectual
+property and similar products 997331 — Licensing services for the right to use computer
+software and databases 997339 - Licensing services for the right to use other intellectual
+property products and other resources, nowhere else classified
+
+3.4 The CBIC Explanatory Notes for Group 99733 clarify: "This group includes
+permitting, granting or otherwise authorizing the use of intellectual property products
+and similar products...Note: This covers rights to exploit those products, such as
+licensing to third parties; reproducing and publishing software, books, etc.' This
+description aptly covers the grant of a User License to access Coursera's platform, which
+is an intellectual property-based digital platform.
+
+3.5 The question arises whether SAC 997331 (Licensing services for computer software
+and databases) or SAC 997339 (Licensing for other intellectual property) is more
+appropriate. The Coursera platform is not 'computer software’ in the conventional sense
+- it is a proprietary digital educational content platform hosting courses from
+universities and instructors. The User License grants access to curated course content
+(not to the software itself for reproduction, distribution, or integration). Accordingly,
+SAC 997339 (‘Licensing services for the right to use other intellectual property products
+and other resources, nowhere else classified’) is the more appropriate classification.
+
+3.6 Transaction Structure: The transaction is on a principal-to-principal basis. Coursera
+invoices the Applicant; the Applicant raises its own tax invoice on OSDA in INR with a
+markup. The Applicant pays Coursera irrespective of OSDA's payment. This is a classic
+distributor/reseller arrangement where the Applicant acquires and resells a User
+License on its own account - classifiable as a licensing service under Heading 9973.
+
+3.7 Rate of Tax: The applicable GST rate under SAC 997339 is 18% (9% CGST + 9%
+SGST), which is the rate the Applicant has been charging on its Tax Invoices. This is
+consistent with the correct classification. is
+
+3.8 It is noted that the Applicant in Tax Invoice No. UE/RK/25-26/559 dated 21- 07-2025
+classified the supply under SAC 997331_(Licensing Services for the right to use
+
+Moan
+
+14|Page
+
+
+
+computer software and databases’) also at 18% GST. While the rate identical, the
+Jurisdictional Authority is of the view that SAC 997339 is a better fit given the nature of
+Coursera's platform (educational content hosting platform as opposed to computer
+software proper). Both, however, attract the same rate of 18% GST.
+
+Reply to Q.3: YES, the supply of Coursera User License by the Applicant is more
+appropriately classifiable under Heading 9973, specifically under SAC 997339 -
+‘Licensing Services for the right to use other intellectual property products and other
+resources, nowhere else classified’ - attracting GST @ 18% (CGST 9% + SGST 9%). The
+Applicant correctly charged GST @18% on all its Tax Invoices.
+
+Q.4. Alternatively, whether, on the facts and in the circumstances of the case, the
+supplies of User License to access online content of Coursera proprietary digital
+platform made by the Petitioner is classifiable Heading 9984 (Online under Content
+
+Services).
+Submission:- Classification under Heading 9984 is possible but less specific than
+
+Heading 9973.
+
+4.1. Heading 9984 covers 'Telecommunications, Broadcasting and Information Supply
+Services', and Group 99843 thereunder deals with ‘On-line Content Services! including
+SAC 998439 (‘Other on-line contents, nowhere else classified'). The Explanatory Notes
+describe SAC 998439 as including ‘software that is intended to be executed on-line,
+except game software! and content delivered by subscription, membership fee, pay-per-
+play or pay-per-view.
+
+4.2 However, the Jurisdictional Authority is of the considered view that Heading 9973
+
+(SAC 997339) is a more specific and appropriate classification for the following reason:
+
+The predominant element of the transaction is the ‘grant of a User License’ - a right to
+
+access Coursera's intellectual property-based platform. The specific classification of a
+
+licensing service (Heading 9973) is more precise than the residual ‘online content'
+
+classification (SAC 998439 under Heading 9984). As per the Explanatory Notes: 'where a
+
+service is capable of differential treatment, the most specific description shall be
+
+preferred over a more general description.
+
+15|Page
+
+
+
+4.3. The alternative classification under heading 9984/ SAC 998439 would, however,
+result in the same GST rate of 18% (CGST 9% + SGST 9%). Therefore, from a tax liability
+perspective, the outcome is identical under both classifications.
+
+Reply to Q.4: The supply could alternatively be classified under Heading 9984 (SAC
+998439 — Other Online Content Services). However, Heading 9973 (SAC 997339) is the
+more specific and preferred classification. Both classifications attract GST @ 18% with
+no exemption available. The alternate classification under Heading 9984 does not
+
+change the tax liability.
+
+4.0 Personal Hearing:
+
+During personal Hearing, Sri Kartik Kurmy, Advocate, Authorized Representative of
+the applicant & Sri Naresh Arya, (proprietor M/s. Unitech Engineer) appeared before the
+Advance Ruling Authority on 22.04.2026 wherein they have reiterated the facts made in their
+
+written submission.
+
+5.0 Discussion& findings:
+
+5.1 We have gone through the advance ruling application, question on which
+advance ruling has been sought and the Applicant’s interpretation of law and/or facts,
+as the case may be, in respect of the question asked. We observe that, the issue before
+us is squarely covered under Section 97(2) of the CGST Act, 2017 and therefore we
+admit the application for consideration.
+
+5.2 On going through advance ruling application, it is observed that, the applicant
+primarily acting as sub-contractor of M/s. Coursera (based on the contract made
+between M/s. Coursera & OSDA) and rendering supply of user license to Odisha Skill
+Development Authority, to access digital content in proprietary digital platform of M/s.
+
+Coursera Inc., USA.
+5.3. The OSDA and M/s. Coursera Inc., USA have entered into a Memorandum of
+
+Understanding dated 24.12.2023 where under the M/s. Coursera shall provide user
+
+7 o
+
+
+
+license to OSDA for enabling technical student to digital content i.e. courses on digital
+skills and other skills available in the proprietary platform on Coursera Inc., USA. The
+applicant in the subject case has been appointed by M/s. Coursera Inc., USA for
+providing the aforementioned digital content to OSDA.
+
+5.4 The user license supplied by Coursera to OSDA through applicant shall enable technical
+students across colleges and universities to access courses on digital and other skill-based
+programmes, thereby providing them an opportunity to learn from the world’s best courses in
+emerging technologies such as Artificial Intelligence, Machine Learning, Industrial [OT, Data
+Analytics, Engineering, Digital Manufacturing, Robotics, 3D Printing, GIS, Cyber Security,
+AR/VR, Data Warehouse Development, Cloud Development, and i0S/ Android Application
+Development, etc.
+
+5.5. The OSDA will procure user license from Coursera through the applicant and as such
+the applicant acts as a distributor or sub-contractor for M/s. Coursera Inc., USA. The work
+order shall be issued by OSDA to the applicant and the applicant shall raise invoices to OSDA
+in INR for realization of payment for supply of Coursera user license.
+
+5.6 The applicant has raised invoices to OSDA classifying the service as “other
+educational and training services, nowhere else classified” (SAC 999294) in some
+invoices and classifying “licensing service for right to use computer software and data
+bases” under SAC code 997331 charging GST 18% (CGST @9% & SGST @9%) in both
+the cases. However, the recipient of the supply (OSDA), upon denying to reimburse
+
+GST part against the bills raised by the applicant, the present advance ruling has been
+
+sought.
+
+5.7 Based on the facts placed before us, the core issues that have to be determined are:
+“Whether the supply made by the applicant to Coursera would fall under any of the
+following three supplies as per scheme of classification of Services.
+a. Under Heading 9992 (Education Service).
+b. Under Heading 9973 (Leasing or Rental Services)
+c. Under Heading 9984 (Online Content Services)
+Before discussing the submission and interpretation of Applicant with regards to the
+
+,
+
+question asked in the application, let us examine the business model of the applicant and its
+
+
+
+role in between OSDA and Coursera. Odisha Skill Development Agency has signed
+memodorandum of understanding with M/s. Coursera Inc. USA, a proprietary digital
+platform for supply of Cousera user license that will enable technical students to access
+courses on digital skills as other skills under NUA Odisha scheme.
+5.8 We have gone through the MOU dated 24.12.2023 signed by OSDA & M/s. Coursera
+Inc. wherein it the following observations are found:
+- User license to access the services in the digital platform of coursera shall be supplied by
+the sub-contractor from Coursera.
+- Coursera appoints Unitech Engineer (the applicant in the present case) as a distributor
+and sub-contractor for providing the services under this MOU.
+- The Work order shall be raised against sub-contractor by OSDA for the ease of invoicing
+in INR and the payment will be made to the subcontractor by OSDA.
+
+- The Coursera will register in the portal www.nua.skillodisha.gov.in and get it approved
+
+by the department. Once they have registered, they will have to schedule a program
+which has to be also approved by the department.
+
+- The license rights set out in the MOU do not include the right to, and OSDA or Institutes
+registered with OSDA will not copy, sublicense, rent , lease barter, swap, resell, or
+commercialize the platform, courses, or specialization, in whole or in part.
+
+5.9 We have also also gone through the Agreement dated 26.12.2023 made between the
+applicant and M/s. Coursera wherein it has been observed that;
+
+- Coursera grants to Coursera channel partner (herein M/s. Unitech Engineer) a-non
+exclusive, non-transferable, Non-sublicensable, revocable rights during the terms of this
+Agreement.
+
+- The products of the Coursera are licensed not sold. The products are subjected to
+copyrights, trademarks, trade secret and other intellectual Property Rights. Coursera
+channel platform shall not use any Coursera intellectual property or confidential
+information shared to create a competitive product or service.
+
+From the above Agreements, it appears that, the applicant in the case in hand, acts as
+
+intermediaries/sub-contractor between OSDA and Coursera for supply of user-based licenses
+
+
+
+enabling designated users to access online courses. Now the issue before us to classify the
+
+nature of service in the above transaction between OSDA and the applicant.
+
+5.10 As far as classifying the said transaction as Educational Service (Question No. 01 of in
+the Application) is concerned, we find that, heading 9992 applies where:
+
+The supplier is engaged in imparting education or training.
+
+However, in the present case, the core obligation of the Applicant is limited to supply of
+a “User license” that grant OSDA access to the digital content hosted on Coursera’s proprietary
+platform. The applicant does not conduct training and no faculty, curriculum control, or
+instructional responsibility lies with the applicant. The role of the applicant is limited to
+facilitating access to third-party educational content. Further, under the MOU dated
+24.12.2023, Coursera provides rights to OSDA to access its platform and the platform hosts
+courses and specializations from world class universities and instructors. However, neither the
+Applicant nor Coursera is obligated under the MOU to deliver any Education and Training to
+the technical students. The courses are made available; the act of teaching is performed by third-
+party universities and instructors on Coursera's platform, not by the Applicant. Therefore, the
+
+supply cannot be classified as education service.
+
+5.11 With regards to classifying the supply in question under heading SAC 9973 (Leasing and
+Rental Service), we find that, the OSDA in the subject case procures Coursera License and
+services through the applicant and the applicant will launch the licenses as per the guidance of
+the Coursera. In a nutshell, it is apparent that, the applicant while acting as sub-contractor for
+Coursera, supply user license to OSDA for accessing digital content in the Coursera proprietary
+platform as per the agreed terms and condition between Coursera & OSDA. Hence the core of
+the dispute rests on whether the "User License" constitutes a lease of an asset or a license to use
+
+intellectual property are discussed below:
+
+9|Page
+
+
+Absence of Transfer of Right to Use: In a "Lease" (typically under Heading 9973), there
+is usually a transfer of the right to use an asset for a specified period. However, the
+
+MOU clarifies that the license is only a "right for a single use to access content services".
+
+Distinction from Leasing: Because OSDA is strictly prohibited from sub-leasing or
+transferring the access to third parties for commercial gain, the transaction lacks the
+
+fundamental characteristics of a "Lease of Goods" or "Equipment Rental".
+
+5.12 With regards to classifying the subject transaction under Heading 9984 (online content
+services) as contended by the applicant (Question No. iv), this authority find it prudent to
+classify more specifically and more appropriately under Heading 9973 as the predominant
+element of the transaction is the 'grant of a User License’ - a right to access Coursera's
+intellectual property-based platform. The specific classification of a licensing service (Heading
+9973) is more precise than the residual ‘online content' classification (SAC under Heading 9984).
+As per the Explanatory Notes: where a service is capable of differential treatment for any purpose
+based on its description, the most specific description shall be preferred over a more general
+description.'
+
+In view of the above findings, we have arrived in a considered conclusion that, the
+supply of Coursera User Licenses by the applicant to OSDA is more appropriately classifiable
+under Heading 9973, specifically under SAC 997331 ("Licensing services for the right to use
+computer software and databases"), as it involves the transfer of a non-exclusive right to access
+a proprietary digital platform.
+
+6.0 Inview of the above, we pass the following order:
+
+RULING
+
+Q.1. Whether or not, on the facts and in the circumstances of the case, the supplies of Coursera
+User License made by the Petitioner to OSDA is classifiable under Heading 9992 (Education
+Service)?
+
+Ans: Negative.
+
+/~ a
+
+20|Page
+
+
+
+Q.2 Whether or not, on the facts and in the circumstances of the case, the Exemption under
+SLNo.72 of Notification No.12/2017-Central Tax (Rate) Dated 28-06-2017, as amended, is
+available to the Petitioner for supplies made by the Petitioner to OSDA ?
+
+Ans: Not applicable.
+
+Q.3 Whether, on the facts and in the circumstances of the case, the supplies made by the
+Petitioner is more appropriately classifiable under Heading 9973 (Leasing or Rental
+
+Services)?
+
+Ans: The supply of Coursera User Licenses by the applicant to OSDA is more appropriately
+classifiable under Heading 9973, specifically under SAC 997331 ("Licensing services for the
+right to use computer software and databases")
+
+Q.4 Alternatively, whether, on the facts and in the circumstances of the case, the supplies of
+User License to access online content of Coursera, proprietary digital platform made by the
+Petitioner is classifiable under Heading 9984 (Online Content Services) ?
+
+Ans: Refer answer to Question No.03 above.
+
+(Harsh Vardhan)
+Member, CGST
+
+C. No. V (30)08/ ARA/ODISHA/BBSR/2025-26/08 | casi Dated: $0 .04.2026
+
+()
+M/s. Unitech Engineers, (Prop: Mr. Naresh Arya),
+
+Unitech House, Rourkela-769012.
+Copy forwarded to:
+
+1. The Pr. Commissioner/Commissioner, CGST & Central Excise, Rourkela
+
+Commissionerate, Rourkela.
+2. The Commissioner, CT & GST Odisha, Banijyakar Bhawan, Old Secretariat
+
+Compound, Cuttack-753001, Odisha.
+3. Office copy.
+
+\,
+
+1|Page

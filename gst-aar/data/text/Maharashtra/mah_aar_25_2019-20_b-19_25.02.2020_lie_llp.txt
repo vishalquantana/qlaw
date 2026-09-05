@@ -1,0 +1,367 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+GST Bhavan, Ist floor, B-Wing, Mazgaon, Mumbai — 400010.
+
+(Constituted under Section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+BEFORE THE BENCH OF
+
+(1) Ms. P. Vinitha Sekhar, Addl. Commissioner of Central Tax, (Member)
+(2) Mr. A. A. Chahure, Joint Commissioner of State Tax, (Member)
+
+GSTIN Number, if any/ User-id 27AAHFL9362K1ZQ
+
+Legal Name of Applicant Lear India Engineering LLP
+
+Registered Address/Address provided | Gat.No. 426/6/7,8,9, Chakan-Talegaon Road,
+
+while obtaining user id Mahalunge, Pune, 410551
+
+Corresponding Address Lear Corporation, 2nd Floor, E-25,26,27 , MIDC,
+Bhosari, Pune, Maharacntra, 411026
+
+Details of application GST-ARA, Applicatior. No, 25 Dated 09.07.2019
+
+Concerned officer
+
+Nature of activity(s) (proposed /
+present) in respect of which advance
+ruling sought
+
+A_| Category Service Provision , Service Recipient
+
+B_ | Description (in brief) Services provided for conduct of examination
+Issue/s on which advance ruling | (v) determination of the liability to pay tax on any
+required goods or services or bo.h
+
+Question(s) on which advance ruling is | As reproduced in para C1 of the Proceedings below.
+required |
+
+———=
+
+PAA ANCE Uy
+Ags ZN PROCEEDINGS
+a,
+efeUndeh Sec ion 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+
+Goods and Services Tax Act, 2017°
+
+iFesent application has been filed under Section 97 of the Central Goods and Services
+Act} 201 17 and the Maharashtra Goods and Services Tax Act, 7017 [hereinafter referred to as
+CEST Act and MGST Act”] by M/s. Lear India Engineering LP, the applicant, seeking an
+advance ruling in respect of the following questions.
+
+1. Whether the design & Development services provided © Lear India to Lear entities
+
+situated abroad would amount to Export of service.
+2. Whether the design & Development services provided + y Lear India to Lear entities
+
+situated aboard would fall under the category of OIDAR services.
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and
+the MGST Act are the same except for certain provisions. Therefore, unless a mention is
+
+specifically made to any dissimilar provisions, a reference to the CGST Act would also mean a
+
+
+reference to the same provision under the MGST Act. Further to ‘he earlier, henceforth for the
+
+purposes of this Advance Ruling, a reference to “GST Act” would mean CGST Act and MGST Act.
+
+2. FACTS AND CONTENTION ~ AS PER THE APPLICANT
+
+The submissions made by the applicant are as under:-
+
+2 Lear India Engineering LLP (hereinafter referred to as “Applicant”) is engaged in
+providing research and development services in respect of various automotive
+applications to its overseas group companies.
+
+22 The subject application is filed in respect of the Technical services provided by Applicant
+in respect of seating systems and electronic control units to service recipients situated
+outside India. Applicant entered into a technical assistance agreement with the other Lear
+entities situated abroad as per which, the Applicant is requived to perform activities such
+as engineering, R&D and technical assistance including atvanced product and process
+development, product design and product engineering. The intangible that are developed
+as a result of these activities are owned by the Service reciver and in consideration for
+providing such services, the Applicant is charging based cn the number of hours spent
+along with certain agreed reimbursements.
+
+Applicant has bifurcated the activities performed in lieu of the aforementioned agreement
+
+we divisions, namely:
+»
+
+A c,
+fy f 9. * Seatiig Division; and
+
+mer E-Sysiems Division.
+
+es In the Seating Division, the Applicant carries out development of design of seats and seat
+parts aS per the requirement of the customer. Applicant's team conceptualizes the design
+¥ rawing or technical illustrations in computer environment using various computer
+software including Computer Aided Design software upen completion of which, the
+Applicant checks whether such design meets the requirement of the customer or not. For
+this, Applicant uses computer graphic simulation teck iologies which enables the
+Applicant to create 3-D graphic simulations that replaces fa‘ ricated prototypes. The entire
+testing is carried out in virtual environment, no prototyp«s are ever received from the
+service receiver for testing purposes. Once the design is tested and approved in India, the
+same is stored on the server of the customer for verificat‘on and approval. In case the
+customer has any suggestions, comments, etc. the design is again modified by the
+Applicant and above referred process is reiterated. Once the design is finally approved by
+
+the customer, the activity of Applicant is concluded. In the subject case there is no import
+
+
+of prototype from the service receiver for testing purposes. This activity was being treated
+by the applicant as export of service under the Service Tax Laws.
+
+2.5. In the E-Systems Division, applicant develops Electronic ontrol Units (“ECU") as per
+the requirements of its customers. ECU is a composite box which controls
+various electronic functions of the car such as power window, audio system, wiper, auto
+lock, lighting, etc. These are embedded systems and control <he electrical sub-systems that
+are present in a transport vehicle. On receipt of orders from Original Equipment
+Manufacturers (OEM) to develop ECU, the concerned Overseas Lear entity places back
+to back orders to different Lear entities (including the Applicant) for developing software
+for each of the operations which are controlled by ECU as mentioned above. Generally,
+the whole work is divided among multiple entities depending upon their available capacity
+to ensure that the development of ECU is completed in a defined timeline as per the
+requirement of the end customers. Out of the entire lifecycle for development of integrated
+software, initial 5-6 weeks are attributed towards development of function specific
+software by each Lear entity including the Applicant ‘vho are participating in the
+
+development project. Upon completion of the function specific development of software,
+
+the last 2-3 weeks are allocated for verification of functioning of integrated software and
+ompatibility with the hardware on which it would be loaded. During the process of
+
+lopment of functional software, post conceptualizing the software. i.e. after
+
+software developed in India is uploaded on the server of Lear upon successful testing
+thereof. Similarly, other Lear entities which are assigned the task to develop software in
+respect of other functions of ECU also carry out the development of software which is
+allocated to them and the said patches of the software for other functions are also uploaded
+on the common server of Lear.
+
+The above said process of development of function specific software is explained with the
+help of example hereinafter:
+
+Example:
+
+In case of developing software for an ECU, Applicant is assigned the task to develop
+software pertaining to power window. Similarly, other Lear !ocations are assigned the task
+of developing software for wiper, steering, audio system, auto lock, lighting, etc. The
+respective Lear locations including the Applicant would upload the functional software
+
+developed by them on the common server within the defined timeline agreed.
+3
+
+
+Once the functional software developed by each Lear entities are uploaded on the
+Lear server, the said software is integrated together by the overseas Lear entity which
+has placed order with other Lear entities. Such integration of all the functional software
+is important to test their performance and identify the problems if any faced in the
+interface between such functional software after integration. The integrated software is
+thereafter uploaded on the Lear server which is downloaded by each location who have
+developed the functional software. Thereafter, such integrated software is loaded on a
+hardware i.e. ECU which is supplied by overseas Lear entity, to carry out the testing of
+respective functional software in the overall integrated software. Further, the purpose of
+sending the common hardware to all the Lear locations is to provide the uniform platform
+on which the software is to be uploaded for testing purposes. The applicant neither has
+the capacity nor undertakes any testing operations on the hardware so supplied by
+its customer. The whole purpose of sending the hardware to provide uniformity in the
+platform on which the entire software has to work once it is installed in the vehicle. This
+activity was also treated by the Applicant as export of service under the Service Tax Laws.
+2.6 The applicant has made various submissions to state that the present services fall under
+
+the purview of "Export of Services” and thus seeks the present advance ruling to
+
+understand whether the present services provided by the Applicant would fall under
+=xport of service” under the GST laws. . ,
+
+’ % e letter dated 23.01.2020 Applicant has submitted thet it is withdrawing the first
+i tion posed in its Advance Ruling Application i.e. Whether the design & development
+i si fvices provided by Lear India to Lear entities situated abvoad would amount to Export
+of service?, since the same would require a discussion on the place of supply of
+services, which is outside the purview of this Authority
+
+2.8 The second question raised is whether the design & Developmer: services provided by Applicant
+
+to Lear entities situated aboard would fall under the category of OIDAR services.
+
+2.8.1 The applicant has submitted that the subject services are not in the nature of OIDAR
+services and would rather qualify as consulting engineer services. Applicant has submitted
+various reasons in support of their contention that the present services rendered by them
+is Consulting Engineer Services and not OIDAR. It is also submitted by the applicant that
+the department had issued a SCN dated 27.08.2018 proposing to classify the services of
+the Applicant under "On-line database access services” wherein the SCN has alleged that
+the services provided by the Applicant is bundled service of design, prototype, testing in
+virtual world through computer network and online database access gives the
+
+essential characteristic of OIDAR to the said bundled service. The applicant has also
+4
+
+
+submitted that the second question falls directly under the, category of classification of
+any goods or services or both and since the said question falls under Section 97(2)(a) of
+the CGST Act, 2017, the present application should be admitted and accepted by this
+Authority.
+
+03. CONTENTION —- AS PER THE JURISDICTIONAL O¥FICER
+
+The submissions of the jurisdictional office are as under:-
+
+3:1 This advance ruling is sought to ascertain whether the Technical services provided by the
+Applicant should be treated as an "Export of Services under the GST Regime?
+
+3.2 The jurisdictional officer has referred to the provisions of Section 2(6) of the IGST Act
+and the relevant provisions of Section 13 of the IGST Act. It is submitted that in the
+given case, the services carried out by Applicant are performance based and the activities
+performed in the seating division would squarely fall under the provisions of the Section
+13(2) of the IGST Act. It is also submitted that the activity carried out in the E- systems
+division of Applicant is confined to the development of scftware and is integral part of
+overall software development undertaken by Applicant. Consequently, the general rule
+provided under sub-section (2) of Section 13 of the IGST Act would be applicable and the
+POS would be the location of the service recipient. In the given case, since the location of
+
+recipient of services is outside India, it can be construed that the POS for the services
+
+ao formed by Applicant is outside India. The jurisdictional officer has also submitted
+\ oni ntion to state that the present services cannot be said to fall under the category of
+OID R services and even if they are classified as OIDAR services they would qualify as
+
+ont ome
+
+éxpgrt of service under the GST regime. The jurisdictional officer has concluded that, it
+
+Nee tt oiyAlear that the present transaction undertaken by Applicant is cumulatively satisfying all
+
+ape
+oF Five conditions provided for ‘export of service and there fore, the Technical services
+provided by the Applicant would qualify as ‘export of services’.
+
+04. HEARING
+Preliminary hearing in the matter was held on 20.11.2019. Sh. Arpit Pushp Chaturvedi,
+
+Advocate, along with Sh. Sandip Sachdeva, Advocate and $1: Sanjay Bhalerao, employee
+of the applicant, appeared and requested for admission of teir application. Jurisdictional
+Officer Sh. S. S. Umrani, State Tax Officer (PUN-VAT-C-705) Pune also appeared.
+
+The application was admitted and called for final hearing cr. 07.01.2020, Sh. Arpit Pushp
+Chaturvedi, Advocate, along with Sh. Sandip Sachdev2z, Advocate and Sh. Sanjay
+
+Bhalerao, applicant appeared and made oral and written st‘smissions. The case was kept
+
+
+reserved for submissions from applicant. The Jurisdictional © fficer Sh. S. S. Umrani, State
+Tax Officer (PUN-VAT-C-905) Pune appeared and made written submissions.
+Applicant made final written submissions vide letter dated 23.01.2020 and was called for
+hearing on 06.02.2010. Sh. Sandip Sachdeva, Advocate appeared and made oral
+submissions.
+
+05. OBSERVATIONS
+
+5.1. We have gone through the facts of the case, documents on record and submissions made
+by both, the department as well as the jurisdictional officer.
+
+52 A letter dated 23.01.2020 was submitted by applicant, wherein it was requested that they
+may be allowed to voluntarily withdraw the first question made in the subject application.
+The request of the applicant to withdraw the first question of application voluntarily and
+unconditionally is hereby allowed, without going into the merits or detailed facts of the case.
+
+5.3. The second question raised in the application is whether the Design & Development
+services provided by the Applicant to Lear entities situatec aboard would fall under the
+category of OIDAR services. Prima facie this is a question pertaining to classification and
+is covered by Section 97(2)(a) of the CGST Act, 2017.
+
+5.4. We find, from the submissions made by the applicant, hat the subject services are
+
+presently being classified by them as ‘Consulting Engineering Services’. However, the
+
+GST department has issued them a Show Cause Notice 27.98.2018 proposing to classify
+
+e services of the Applicant under "On-line database access services” wherein the SCN
+
+alleged that the services provided by the Applicant is bundled service of design,
+otype, testing in virtual world through computer netwc:k and online database access
+/ 8 es the essential characteristic of OIDAR to the said buncled service.
+
+‘S98 An light of the facts mentioned at 5.4 above, we feel that a re‘erence is required to be made
+Nl to the provisions of Section 98 of the CGST Act, which is reproduced below:-
+
+Section 98 of CGST Act 2017: Procedure on Receipt of ¢ pplication (CHAPTER XVII
+
+~ ADVANCE RULING)
+(1) On receipt of an application, the Authority shall cause é copy thereof to be forwarded
+
+to the concerned officer and, if necessary, call upon him tg furnish the relevant records:
+Provided that where any records have been called for by the Authority in any case, such
+records shall, as soon as possible, be returned to the said’concerned officer.
+
+(2)The Authority may, after examining the application and-ie records called for and after
+hearing the applicant or his authorised representative ar/1 the concerned officer or his
+
+authorised representative, by order, either admit or rejec: the application:
+
+
+Provided that the Authority shall not admit the applicat‘on where the question raised
+in the application is already pending or decided in any sroceedings in the case of an
+applicant under any of the provisions of this Act.
+
+Provided further that no application shall be rejected under this sub-section unless an
+opportunity of hearing has been given to the applicant:
+
+Provided also that where the application is rejected, the r2asons for such rejection shall
+
+be specified in the order.
+
+(7)
+5.6 In view of the provision to Saotion 98(2) of the CGST Act, 2:17, we find that this authority
+
+cannot admit the application in respect of this question beccuse the question raised in the
+application is already pending before the department under the provisions of this Act as is
+seen from the SCN issued to the applicant on 27.08.2018. +
+
+06. In view of the extensive deliberations as held hereinabove, ,ve pass an order as follows:
+
+ORDER
+
+(Under Section 98 of the Central Goods and Services Tax Act. 2017 and the Maharashtra
+Goods and Services Tax Act, 2017:
+
+NO.GST-ARA- 25/2019-20/B- Mumbai, dt. 0« J 92 1/2020
+For reasons as discussed in the body of the order, the questions are answered thus —
+Question 1- Whether the design & Development services provide« by Lear India to Lear entities
+
+situated aboard would amount to Export of service.
+
+Answer :- This question has been voluntarily withdrawn by “he applicant.
+
+Question 2- Whether the design & Development services providec by Lear India to Lear entities
+
+situated aboard would fall under the category of OIDA™ services.
+
+Answer :- This question is not admitted in view of the provi-ions of Section 98 (2) of the
+
+GST Act.
+
+—~gd — —s-| —
+A. A. CHAHURE P. VIN THA SEKHAR
+(MEMBER) (TEMBER)
+CERTIFIED TRUE COPY
+Ry n4
+MEMBER
+
+ADVANCE RULING AUTHORITY
+MAHARASHTRA STATE, MUMBAI
+
+
+Copy to:-
+1. The applicant
+
+2. The concerned Central / State officer
+
+3. The Commissioner of State Tax, Maharashtra State, Mumbai :
+4. The Chief Commissioner of Central Tax, Churchgate, Mumbai
+§. Joint Commissioner of State Tax, Mahavikas for Website.
+
+Note:- An Appeal against this advance ruling order shall be trade before The Maharashtra
+Appellate Authority for Advance Ruling for Goods and Serviczs Tax, 15" floor, Air India
+Building, Nari int, Mumbai — 400021.

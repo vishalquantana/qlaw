@@ -1,0 +1,962 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+GST Bhavan, Room No.107, 1st floor, B-Wing, Old Building, Mazgaon, Mumbai - 400010.
+(Constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri B. Timothy, Addl. Commissioner of Central Tax, (Member)
+(2) Shri A. A. Chahure, Joint Commissioner of State Tax, (Member)
+
+GSTIN Number, if any/ User-id 27AAACT4033H1ZK
+
+Legal Name of Applicant Vertiv Energy Private Limited
+
+Registered Address/Address | Plot No C-20, Road No 19, Wagle Industrial Estate,
+provided while obtaining user id Thane. (West) Maharashtra 400 604
+
+Details of application GST-ARA, Application No. 17 Dated 17.05.2019
+Concerned officer Division VI, Range VI, Commissionerate Thane
+
+Nature of activity(s)
+
+(proposed/present) in respect of
+which advance ruling sought
+A_ | Category Factory/Manufacturing
+
+(v) Determination of the liability to pay tax on any goods
+or services or both
+
+(vii) Whether any particular thing done by the applicant
+with respect to any goods and/or services or both
+
+B_ | Description (in brief) That applicant is engaged in the manufacture, supply,
+amounts to or results in a supply of goods or services or
+both, within the meaning of that term
+
+erection installation of UPS Systems.
+which advance ruling | (i) Classification of goods and services or both
+e
+w “
+ow Ie ti on which advance | As reproduced in para 01 of the Proceedings below.
+sl iline 16 required
+
+PROCEEDINGS
+
+(Under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+The present application has been filed under section 97 of the Central Goods and Services
+
+Tax Act, 2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as
+
+“the CGST Act and MGST Act” respectively ] by M/s.Vertiv Energy Private Limited, the
+applicant, seeking an advance ruling in respect of the following questions.
+
+1 Whether the contract entered into with DMRC_ for supply, erection,
+
+installation, commissioning and testing of UPS system qualifies as a supply of works contract
+
+under Section 2(119) of the CGST Act?
+
+
+2. If yes, whether such supply made to DMRC would be taxable at the rate of 12% in terms
+of Sr. no. 3(v) of Notification No. 11/2017 - C.T. (Rate), as amended w.e.f. 25.1.2018?
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and
+the MGST Act are the same except for certain provisions. Therefore, unless a reference is
+specifically made to any dissimilar provisions, a reference to the CGST Act would also mean a
+reference to the same provision under the MGST Act. Further to the earlier, henceforth for the
+
+purposes of this Advance Ruling, the expression “GST Act’ would mean CGST Act and MGST Act.
+
+2: FACTS AND CONTENTION - AS PER THE APPLICANT
+The submissions, as reproduced verbatim, could be seen thus-
+
+i. STATEMENT OF THE RELEVANT FACTS HAVING A BEARING ON THE QUESTION
+(ON WHICH THE ADVANCE RULING IS SOUGHT)
+
+1. Vertiv Energy Private Limited (hereinafter referred to as "the applicant") having
+
+its corporate head office at Mumbai is, inter-alia, engaged in the manufacture of
+various types of UPS systems, which serve as an alternate source of power for a
+
+.specific period of time in the event of power failure. The applicant also supplies
+
+Se PULne ation commissioning and maintenance and other services to its customers.
+
+j ei “URS is typically used to protect hardware such as computers, data
+
+centers, ;} telecommunication equipment or other electrical equipment where an
+
+=, uneXpegted power disruption could cause injuries, fatalities, serious business disruption or
+aia A UPS units range in size from units designed to protect a single computer without
+
+a ideo monitor to large units powering entire data centers or buildings:
+
+3. The applicant is manufacturing UPS and its components at its manufacturing unit located
+at Ambernath and Pune in the state of Maharashtra. Some components like battery and
+cables are either manufactured by the applicant or purchased by the applicant from third
+party vendors. The applicant has obtained GST registration in the state of Maharashtra.
+
+4. Further, the applicant has also obtained GST registration in other states where the applicant
+is rendering supply of Goods and services to its customers,
+
+5. UPS is classified under Heading 8504 and attracts GST @18% as supply of goods.
+
+Contract with DMRC for supply of UPS
+
+
+
+6. The applicant entered into a contract with Delhi Metro Railway Corporation ("DMRC")
+for Supply, installation, testing, and commissioning of UPS systems (hereinafter referred
+to as "the said contract”) on 20.1.2014. The said contract, though entered in the pre-GST
+regime, is an on-going contract and the applicant has been making supplies to DMRC in
+the GST regime as well.
+
+7. The scope of work agreed with DMRC provides the detailed description of various goods
+and services to be supplied by the applicant. The relevant portion of the contract with
+DMRC is extracted as under;
+
+“3, SCOPE OF THE WORKS; SUPPLY AND SERVICES
+
+3.1 General
+
+3.1.1 The scope of the works includes but not limited to supply, manufacture, inspection,
+packing, shipping, transportation, storage, delivery, handling, insurance, installation,
+interfacing, integration, testing & commissioning, maintenance support, spares,
+special tools, test equipment, training, documentation and providing DLP for the UPS
+system.
+
+3.2 Scope of supply
+The Uninterruptible Power Supply (UPS) system shall include, but not be limited to
+
+al following: -
+aan
+nline redundant UPS;
+
+attery bank;
+
+pare cell charger;
+
+/ Isolation Transformer Cubicle o SCVS;
+
+Output isolation transformer;
+
+e Equipment cabinets, racks & cubicles; o Distribution boxes;
+¢ Cable trays/Trenches/Supports / Foundations;
+
+e ATS (Automatic Transfer Switch);
+
+e All software required for UPS system;
+
+° All external cables (Zero Halogen FRLS), connectors;
+
+e Accessories, earthings necessary for works;
+
+¢ Spares for DLP of 3 years;
+
+e Surge protection devices;
+
+¢ Special tools and test equipment;
+
+¢ Remote monitoring equipment and accessories including voltage free contacts for
+
+Alarms;
+e Spares;
+
+
+¢ Furniture for C$05 equipment
+e Any other supply needed to provide a complete UPS system
+3.3. Scope of services
+
+3.3.1. The services to Uninterruptible Power Supply (UPS) system shall include, but not
+be limited to the following:
+
+e Design, manufacture, supply, system assurance, installation, testing and
+commissioning of the UPS System;
+
+¢ Presentations, reviews and audit support as specified in the Specification;
+Transportation, Handling and Storage of the material;
+
+e Insurance Cover for the material supplied till taking over by Employer;
+User's Certificates and Test Reports as per specifications;
+
+¢ Documentation; (Chapter 15)
+
+° Provide all information, documents requested by Signaling, Telecommunication and
+AFC Contractors;
+
+e Interface management as specified in the Specification;
+
+e System operations and maintenance support services;
+
+e Training for operations and maintenance staff;
+
+e Preparation of Operation, Maintenance and Training Manuals;
+
+¢ Decommissioning, removal and/ or disposal of Temporary Works;
+
+e Design, manufacture, delivery and installation of foundations/ fixtures for equipment;
+ne period and defect liability support after commissioning;
+
+oe Rroviding necessary support and documents required including compliance for
+\ geiting approval of the UPS system from Commissioner of Railway Safety;
+
+° laihtenance support;
+
+"4 _ it equipment necessary to allow the installation, testing and introduction of
+
+N aN wee, /stryices on this line without disruption to Phase III services;
+N Lone se ¢ “Any other service needed to provide a complete UPS system”.
+
+“8 : Further the Annexure to the Tender document released by DMRC clearly provides a
+“detailed break-up of value of various goods and services to be supplied under the contract.
+
+The relevant portion of the said Annexure is extracted as under
+
+S | Description Quantity Quantity Unit Unit rate | Price (INR)
+N (Part-1) (Part-2) (INR)
+JICA Non JICA Non
+JICA JICA
+A. Supply
+120 KVA_ for Depot
+complete in online 2 0 2 2 Nos:
+. redundant configuration 20,39,403.00 1,22,36.418.
+along with isolation
+
+transformer and ATS
+cubicle, Battery Sharing
+
+
+
+cubicle/ Battery Circuit
+Breakers, SCVS.
+60 KVA UPS for Inter-
+2 | locking station complete in | 4) 0 8 6 | Nos. | 14,42,079.00 |  3,60,51,975.00
+online redundant configu-
+ration along with isolation
+transformer and ATS
+cubicle, Battery Sharing
+cubicle/Battery Circuit
+Breaker, SCVS.
+30KVA UPS for Secondary
+3 | Station complete in on line | 9¢ 1 27 8 Nos. | 10,50,539.00 |  6,51,33,418.00
+redundant configuration
+along with Isolation
+transformer and ATS
+cubicle Battery Sharing
+cubicle/ Battery Circuit
+Breaker, SCVS
+Appropriate capacity (for
+4 | imerlocked stations and | 43 0 10 8 sets | 24,18,000.00 | — 7,49,58,000.00
+depots) VRLA maintenance
+free batteries (Having Two
+sets and another set of 6
+cells)
+5 | Appropriate capacity (for 26 1 27 8 Sets 12,09,000.00 7,49,58,000.00
+secondary stations) VRLA
+maintenance free batteries
+ke “(Having Two sets and
+‘cL dnother set of 6 cells)
+© Documentation, Installation, Testing & Commissioning
+
+S | Defeription Quantity Quantity Unt] Unit rate | Price (INR)
+Nj = (INR)
+we JICA | Non JICA | Non
+mee JICA JICA
+S& cumentation,
+fo Pistallation, | Testing | 13 0 10 | 8 | Per 68,250.00 | __21,15,750.00
+se EA Commissioning of complete station/
+a” | system at ___ interlocking Depot
+stations/depot with earthing.
+Documentation,
+2 | Installation, — Testing | 26 1 27 8 | Per 68,250 | 42,31,500.00
+Commissioning of complete station
+system at secondary stations
+with earthing
+D. Training
+S | Description Quantity (JICA Unit Unit rate | Price (INR)
+N (INR)
+Part—1 Part - 2
+1 | Trainer's mandays 60 0 Man- 8,000.00 4,80,000.00
+days
+2 GRAND TOTAL _[30,50,00,001.00
+
+9. A copy of the contract entered with DMRC is submitted.
+10. A perusal of the above tender document and contract makes it clear that the applicant is
+required to supply the UPS systems to DMRC. Further, the applicant is also required to
+
+undertake the erection, installation and commissioning of the UPS system at the sites
+
+5
+
+
+designated by DMRC. Further, separate consideration for supply of goods and services
+have been provided. In other words, it is not a case where the supply of goods and services
+is for one lump-sum consideration.
+
+11. Further, the UPS system are manufactured from the applicant's factory at Maharashtra.
+Therefore, the goods are supplied by the applicant from Maharashtra. However, the service
+portion of the contract i.e. erection, installation and commissioning service are rendered by
+the New Delhi branch of the applicant, which is separately registered under GST law.
+
+12. In view of the above, the applicants have been treating the supplies made to DMRC as under:
+
+¢ Supply of UPS from the state of Maharashtra as supply of goods
+* Supply of Erection, installation, commissioning, testing etc., of UPS system services
+from New Delhi as supply of services.
+
+13. Accordingly, the applicant has been raising separate invoices on DMRC for supply of
+goods and supply of services. Illustrative copies of the invoices raised by the applicant on
+DMRC for supply of goods and supply of services are submitted. Thus, in the pre-GST as
+well as post GST regime, the applicant has been treating the supplies made to DMRC as
+
+om, Separate supply of goods and services.
+
+NCE R
+; Unde bove fact is corroborated by the dispatch clearance certificates issued by DMRC
+
+irect the applicant to supply the UPS system along with the accessories to the
+
+d locations for installation/erection. The said certificates issued by DMRC
+
+Ra serve 4
+
+SRA ES he goods are dispatched to the locations designated by DMRC under the cover of an E-way bill
+generated in the name of DRMC. Illustrative copy of the e-way bills e-way are submitted.
+
+16. Further, the Lorry receipts issued by the transporter for the transport of the goods also
+mentions the name of DMRC as the consignee of the goods. Illustrative copy of the lorry
+receipts issued by the transporters are submitted.
+
+17. Further, prior to the erection/installation of the UPS system, DMRC officials also inspect
+the UPS system and the accessories and give a go-ahead to the applicant
+for erection/installation of the UPS system.
+
+18. The applicant further submits that once the goods are received by DMRC at the designated
+
+locations, the said goods cannot be removed and used elsewhere by the applicant. In other
+
+
+words, the UPS systems once dispatched to DMRC's site cannot be diverted and supplied
+by the applicant to any other customer.
+
+19. The above factual position demonstrates that the title/property in the goods
+stands transferred to DMRC prior to the installation/erection of the UPS system.
+
+20. In the pre-GST regime, the applicants were discharging Central Excise Duty
+and VAT/Sales tax on the clearance and sale of UPS system. Further, the service
+of erection, installation and commissioning of UPS system was treated by the applicants
+as ‘works contract service and thus the applicants were paying service tax accordingly.
+
+21. The applicant submits that DMRC also treated the service of erection, installation and
+commissioning of UPS system undertaken by the applicants as 'works contract in the pre-
+GST regime and deducted WCT TDS, as applicable. The documents corroborating this factual
+position regarding the tax treatment in the pre-GST regime are collectively enclosed.
+
+STATEMENT CONTAINING APPLICANT'S INTERPRETATION OF LAW _AND/OR FACTS,
+
+AS THE CASE MAY BE, IN RESPECT OF THE QUESTIONS(S) ON WHICH
+
+ADVANCE RULING IS REQUIRED
+
+A. APPLICANT'S ELIGIBILITY TO FILE PRESENT ADVANCE RULING APPLICATION.
+A.1 Section 95(c) of the CGST Act defines the term applicant as under:
+
+nt" means any person registered or desirous of obtaining registration under this Act"
+
+vO, .. Emphasis Supplied
+t| of the above clarifies that scope of the term ‘applicant includes both, the person
+
+"22. (1) Every supplier shall be liable to be registered under this Act in the State or Union
+
+territory, other than special category States, from where he makes a taxable supply of goods
+
+or services or both, if his aggregate turnover in a financial year exceeds twenty lakh rupees:
+
+... Emphasis Supplied
+
+A.4__ The above referred Section can be vivisected into following essentials: -
+
+a. A supplier shall be liable to be registered under CGST Act in the State or
+Union Territory, from where he makes taxable supply of goods or services or both;
+
+b. If the aggregate turnover in the financial year exceeds rupees twenty lakh.
+
+
+A.5 The applicant submits that it is registered in the state of Maharashtra and is also making
+taxable supplies of goods and services from the state of Maharashtra to its customers located
+in state of Maharashtra and elsewhere. Further, the turnover of the applicant exceeds rupees
+twenty lakhs in the financial year. Given this, it is submitted that applicant clearly satisfies
+the definition of 'applicant under sub Section (c) of the Section 95 of the CGST Act.
+
+A.6 Section 95(1) of the CGST Act defines the term ‘advance ruling’ as under:-
+
+"(a) "advance ruling" means a decision provided by the Authority or the Appellate
+
+Authority to an applicant on matters or on questions specified in sub-Section (2) of
+
+Section 97 or sub-Section (1) of Section 100, in relation to the supply of goods or services
+
+or both being undertaken or proposed to be undertaken by the applicant;"
+
+... Emphasis Supplied
+A7_ Perusal of the above clarifies that the advance ruling can be sought on the issues/matters
+
+specified under Section 97(2) of the CGST Act. The relevant portion of Section 97 of the
+CGST Act is extracted hereunder:
+"97. (1) An applicant desirous of obtaining an advance ruling under this Chapter may
+
+>>, gatke an application in such form and manner and accompanied by such fee as may
+»\belpreseribed, stating the question on which the advance ruling is sought.
+ja fr question on which the advance ruling is sought under this Act, shall be in respect of,
+Fi ay lassification of any goods or services or both;
+Applicability of a notification issued under the provisions of this Act;
+
+(c) Determination of time and value of supply of goods or services or both;
+(a) Admissibility of input tax credit of tax paid or deemed to have been paid;
+
+(e) Determination of the liability to pay tax on any goods or services or both;
+
+(f) Whether applicant is required to be registered;
+
+(g) whether any particular thing done by the applicant with respect to any goods or
+services or both amounts to or results in a supply of goods or services or both, within
+the meaning of that term."
+
+... Emphasis Supplied
+A8& In view of the above, an advance ruling may be sought on the issue of classification of any
+
+goods or services and also on the issue as to whether a particular activity/transaction results
+in a supply of goods or supply of services. Further, a ruling may also be sought regarding
+
+the liability to pay tax on any supply of goods or services or both.
+
+
+A.9 — The applicant submits that the question for determination in the present application concerns
+classification of the supply made by the applicant under the contract with DMRC. In other
+words, the applicant is seeking a ruling on the issue as to whether the transaction with
+DMRC qualifies as a supply of goods or a supply of services. Additionally, the applicant is
+also seeking a ruling regarding the applicable rate of tax on the supply made to DMRC.
+
+A.10 Further, Section 96 of the CGST Act provides for appointment of advance ruling authority
+and reads as under:
+
+"96. Subject to the provisions of this Chapter, for the purposes of this Act, the
+Authority for advance ruling constituted under the provisions of a State Goods and
+Services Tax Act or Union Territory Goods and Services Tax Act shall be deemed to
+be the Authority for advance ruling in respect of that State or Union territory."
+
+... Emphasis Supplied
+
+A.11 Hence, an Advance Ruling Authority appointed by the concerned State or
+Union Government under concerned State or Union Territory Goods and Service Tax
+
+Act, shall be the deemed to be the Advance Ruling Authority for the purpose of CGST Act.
+
+@
+z Government shall, by notification, constitute an Authority to be known as the
+)
+wy Maha shtra Authority for Advance Ruling:
+a _Previ ed that the Government may, on the recommendation of the, Council, notify any
+
+STR ele “thority located in another State to act as the Authority for the State.
+
+(2) The Authority shall consist of
+(i) One member from amongst the officers of central tax; and
+(ii) One member from amongst the officers of State tax,
+to be appointed by the Central Government and the State Government respectively.
+(3) The qualifications, the method of appointment of the members and the terms and
+conditions of their services shall be such as may be prescribed.
+
+A.12. The applicant submits that in terms of the above referred Section 96 of the Maharashtra
+Goods and Service Tax Act, 2017, the Government of Maharashtra has issued a Notification
+No. MGST-1017/ CR 193/Taxation dated 24.10.2017, which constitutes this authority as
+Maharashtra Authority for Advance Ruling.
+
+
+A.13 The applicant submits that the applicant has its manufacturing unit in Maharashtra where
+the UPS for DMRC contract are being manufactured. Thus, the applicant is making a
+taxable supply from Maharashtra.
+
+A.14 Therefore, the applicant submits that by virtue of Section 96 of the Maharashtra Goods and
+Service Tax Act, 2017, the questions for determination in advance ruling lie before the
+Maharashtra Authority for Advance Ruling.
+
+A.15 In view of the foregoing, the applicant submits that it is eligible to file the present advance
+ruling application before the Maharashtra Authority for Advance Ruling, Mumbai,
+appointed vide Notification No. MGST-1017/CR 193/Taxation, dated 24.10.2017 read
+with Section 96 of Maharashtra Goods and Service Tax Act, 2017.
+
+B. QUESTIONS REQUIRING ADVANCE RULING
+
+The question on which Advance Ruling is sought by the applicant is as under:
+
+° Whether the contract entered into with DMRC_ for supply, erection,
+installation, commissioning and testing of UPS system qualifies as a supply of works
+
+contract « under Section 2(119) of the CGST Act?
+
+a 5 sence to DMRC namely supply of UPS Systems i.e. goods and the supply of
+
+erection, installation and commissioning service i.e. pure services. Thus, the applicant is
+of the view that GST liability would have to be discharged on the two supplies separately.
+C.2. The aforesaid submission is clearly supported by the fact that the scope of work under the
+contract with DMRC (read with the tender documents) clearly specify the various goods
+and services to be supplied to DMRC and also provides separate consideration to be
+paid/payable by DMRC to the applicant for the supply of goods and for the supply of services.
+C.3. The applicant submits that the applicant makes a supply of goods i.e. UPS system to DMRC
+
+from state of Maharashtra and issues a tax invoice for this supply. A perusal of the tax invoice
+
+10
+
+
+for supply of UPS system establishes that the applicant has transferred the title in the goods to
+DMRC. The goods are consigned to DMRC at the time of removal from the manufacturing unit.
+
+C.4 Thus, at the time of removal of the goods from the factory, the goods are appropriated
+towards the contract entered into with DMRC. The applicant submit that the goods once
+removed from the factory and consigned to DMRC's location cannot be diverted by the
+applicants for supply to any other customer. This proves that the property in the goods stands
+transferred to DMRC once the said goods are dispatched by the applicants from the factory.
+
+C.5 In view of the above, the applicant is of the view that the supply of UPS system made from
+the state of Maharashtra would be leviable to GST at the rate of 18% as supply of goods.
+Similarly, the applicant is of the view that supply of erection, installation, commissioning,
+
+testing etc., of UPS system made from New Delhi registration for DMRC would be leviable
+
+to GST at the rate of 18% as supply of services.
+C.6 Sr. no. 3(v) of Notification no. 11/2017-C.T. (Rate) dated 28.6.2017 as amended w.e.f.
+
+completion, erection, installation, fitting out, improvement, modification, repair,
+maintenance, renovation, alteration or commissioning of any immovable property wherein
+transfer of property in goods (whether as goods or in some other form) is involved in the
+execution of such contract;"
+C.8 Schedule II of the CGST Act specifies the activities to be treated as supply of goods or
+supply of services. Entry 6(a) of Schedule II is reproduced as under:
+"6. Composite supply
+The following composite supplies shall be treated as a supply of services, namely
+(a) Works contract as defined in clause (119) of section 2; and"
+C.9 Entry 6(a) of Schedule II of the CGST Act has deemed a 'works contract under Section
+2(119) as a 'supply of service’.
+
+11
+
+
+C.10 Section 2(119) of the CGST Act provides that a contract for construction,
+erection, installation, maintenance, etc. of an ‘immovable property’ which involves
+transfer of property in goods during the execution of such contract would qualify as
+a ‘works contract’.
+
+C.11 In the present case, the applicant first supplies the UPS system to DMRC. Thereafter, the
+applicant also undertakes erection, installation, commissioning and testing etc., of the UPS
+system. The invoices and other documents attached with the application proves that the
+property in the goods is transferred to DMRC.
+
+C.12. The above documents establish that the property in the goods i.e. UPS system is not
+transferred to DMRC during the execution of the contract. Once this is the factual position, the
+applicant submits that the contract entered into with DMRC would not qualify as 'works contract.’
+
+C.13 Further, for a supply to be treated as 'works contract, the pre-requisite is that the same
+should be in relation to an ‘immovable property’. In other words, the contract should result
+
+in the emergence of an immovable property.
+
+NEE R ot A : . 3 5
+CS tiatib resent case, the applicant submits that the UPS system supplied by the applicant is
+
+Vis
+Ye Sn * - :
+f, “¢_.» merely4ixed to a foundation by way of nuts and bolts for its proper 17 functioning. Further,
+
+2(119) of the CGST Act.
+
+C.15 The above submission is supported by the decision of Hon'ble Supreme Court in case of
+CCE, Ahmedabad vs. Solid & Correct Engineering Works reported at 2010 (252) E.L.T.
+481 (S.C.). In the said case, one of the respondent (M/s. Solidmec Equipments Ltd) was
+engaged in supply of Asphalt Drums/ Hot Mix Plants and also undertook its erection,
+installation and commissioning at the customer's premises. The respondent was issued a
+Show cause notice on the grounds that the process of assembly of the parts and components
+of Asphalt Drums/Hot Mix Plants at the customer's site amounted to manufacture of such
+plants and thus leviable to Excise duty.
+
+C.16 In that case, the Supreme Court held that the Asphalt Drums/Hot Mix Plants
+
+were assembled and installed by the respondent only in order to enable the said machine to
+
+12
+
+
+operate in a wobble-free state and fixing of the said machinery to the ground/earth would
+not make it an immovable property. Hence, the said activity was held to be manufacture of
+movable goods leviable to excise duty. The relevant portion of the said decision is extracted
+as under
+
+"19. It is evident from the above that the expression "attached to the earth" has three
+distinct dimensions, viz. (a) rooted in the earth as in the case of trees and shrubs (b)
+imbedded in the earth as in the case of walls or buildings or (c) attached to what is
+imbedded for the permanent beneficial enjoyment of that to which it is attached.
+Attachment of the plant in question with the help of nuts and bolts to a foundation not more
+than 11/2 feet deep intended to provide stability to the working of the plant and prevent
+vibration/wobble free operation does not qualify for being described as attached to the
+earth under any one of the three clauses extracted above. That is because attachment of
+the plant to the foundation is not comparable or synonymous to trees and shrubs rooted in
+earth. It is also not synonymous to imbedding in earth of the plant as in the case of walls
+and buildings, for the obvious reason that a building imbedded in the earth is permanent
+and cannot be detached without demolition. Imbedding of a wall in the earth is also in no
+
+way comparable to attachment of a plant to a foundation meant only to provide stability to
+
+“the plant especially because the attachment is not permanent and what is attached can be
+fis ¥ . “easily detached from the foundation. So also the attachment of the plant to the foundation
+
+rare atwhich it rests does not fall in the third category, for an attachment to fall in that category
+
+it must be for permanent beneficial enjoyment of that to which the plant is attached.
+a %
+
+20: “ It is nobody's case that the attachment of the plant to the foundation is meant for
+TRA SHEN t ebmaneni beneficial enjoyment of either the foundation or the land in which the same is
+imbedded.
+
+24. Applying the above tests to the case at hand, we have no difficulty in holding that
+
+the manufacture of the plants in question do not constitute annexation hence cannot be
+termed as immovable property for the following reasons:
+
+(i) The plants in question are not per se immovable property.
+
+(ii) Such plants cannot be said to be "attached to the earth" within the meaning of
+
+that expression as defined in Section 3 of the Transfer of Property Act.
+
+13
+
+
+(iii) The fixing of the plants to a foundation is meant only to give stability to the
+
+plant and keep its operation vibration free.
+
+(iv) The setting up of the plant itself is not intended to be permanent at a given
+place. The plant can be moved and is indeed moved afier the road construction or
+repair project for which it is set up is completed.
+29. Applying the above test to the case at hand, the plants in question were neither
+attached to earth within the meaning of Section 3(26) of the General Clauses Act nor was
+there any intention of permanently fastening the same to anything attached to the earth
+BS evssnen In the instant case all that has been said by the assesse is that the machine is fixed
+
+by nuts and bolts to a foundation not because the intention was to permanently attach it to
+
+the earth but because _a foundation was necessary to provide a wobble free operation to
+
+the machine. An attachment of this kind without the necessary intent of making the same
+
+permanent cannot, in our opinion, constitute permanent fixing, embedding or attachment
+
+in the sense that would make the machine a part and parcel of the earth permanently. In
+
+that view of the matter we see no difficulty in holding that the plants in question were not
+immovable property so as to be immune from the levy of excise duty”.
+C.17 In the present case as well, the UPS system is affixed on a foundation/platform for its
+
+ficient performance. Further, the said UPS system can be uninstalled without causing any
+
+‘v4 applicant submit that the contract for supply of UPS system to DMRC does not
+
+Goalify as a ‘works contract’ under Section 2(119) of the CGST Act since the installed UPS
+
+system cannot be said to result in the emergence of an immovable property.
+
+C.20 Once the contract does not qualify as a 'works contract under Section 2(119) of the CGST
+Act, the applicant is of the view that the concessional rate of tax under the amended Sr. no.
+3(v) of Notification no. 11/2017-C.T. (Rate) dated 28.6.2017 will not be available in
+respect of the supply made by the applicant to DMRC.
+
+C.21. However, since certain foundation/ civil works is required for making the UPS system
+
+operational, a doubt may arise that the UPS system supplied by the applicant results in the
+
+14
+
+
+emergence of an immovable property and therefore the entire contract entered into with
+DMRC would qualify as a works contract under Section 2(119) of the CGST Act. If the
+contract is treated as a 'works contract, the applicable rate of tax would be 12% and not
+18% which the applicant has been paying till date. C.22 In view of the above possibility of
+the contract with DMRC being treated as a 'works contract' under Section 2(119) of the
+CGST Act and the tax consequences that may follow, we request the authority for advance
+ruling to expedite the resolution of the matter at hand and issue a ruling on the question as
+to whether contract entered into with DMRC for supply, erection and installation of
+UPS system qualifies as a supply of 'works contract service under Section 2(119) of
+the CGST Act and whether such supply would be taxable at the rate of 12% in terms of
+amended Sr. no. 3(v) of Notification No. 11/2017 - C.T. (Rate).
+
+03. CONTENTION - AS PER THE CONCERNED OFFICER:
+
+“Comments
+C-1 to C-20 - No comments
+C-21 Though the foundation/civil work is required, the UPS system can be uninstalled without
+
+causing any significant damage to its parts are be shifted to another location, if required,
+
+property in goods (whether as goods or in some other form) is involved in the execution of
+such contract.
+
+Thus, from the above it can be seen that the term works contract has been restricted
+to contract for building construction, fabrication etc. of any immovable property only. As
+per Para 6 (a) of Schedule II to the CGST Act, 2017, works contracts as defined in section
+2(119) of the CGST Act, 2017 shall be treated as a supply of services. Thus, there is a clear
+
+demarcation of a works contract as a supply of service under GST,
+
+4 is}
+
+
+In the instant case, it cannot be treated as a works contract as it is not a contract
+which deal with any immovable property. The applicant is supplying UPS system which is
+not immovable property and the services rendered by them is not related to immovable
+property. Further, even if the contract with DMRC is treated as works contract the rate of
+duty will be 18% as metro is not included.
+
+The rate of GST for Works Contract Service has been prescribed in serial number
+3 of Notification No. 11/2017-Central Tax (Rate) dated 28.06.2017 as amended by
+Notification No. 20/2017-Central Tax (Rate) dated 22.08.2017 & notification no.24/2017-
+Central Tax (Rate) dated 21.09.2017 and is as under. Composite supply of works contract
+as defined in clause (119) of section 2 of the Central Goods and Services Tax Act 2017,
+supplied by way of construction, erection, commissioning, or installation of original works
+pertaining to — 6% CGST + 6%. SGST
+(a) Railways, excluding monorail and metro;
+
+(b) a single residential unit otherwise than as a part of a residential complex;
+
+(c) low-cost houses up to 4 carpet area of 60 square metres per house in a housing project
+
+approved by competent authority empowered under the Scheme of Affordable Housing in
+
+Partnership’ framed by the Ministry of Housing and Urban Poverty Alleviation,
+NCE Ru RJowernment of India;
+
+ta) fo cost houses up to a carpet area of 60 square metres per house in a housing project
+
+Cy app owed by the competent authority under- (1) the *Affordable Housing in Partnership’
+snent of the Housing for All. (Urban) Mission/Pradhan Mantri Awas Yojana; (2) any
+
+for such purposes; or
+
+(f) mechanized food grain handling system, machinery or equipment for units processing
+agricultural produce as food stuff excluding alcoholic beverages Services provided to the
+Central Government, State Government, Union Territory, a local authority or a
+governmental authority by way of construction, erection, commissioning, installation,
+completion, fitting out, repair, maintenance, renovation, or alteration of —
+
+(a) a civil structure or any other original works meant predominantly for use other than for
+
+commerce, industry, or any other business or profession;
+
+16
+
+
+(b) a structure meant predominantly for use as (i) an educational, (ii) a clinical, or(iii) an
+art or cultural establishment; or
+
+(c) aresidential complex predominantly meant for self-use or the use of their employees or
+other persons specified in paragraph 3 of the Schedule III of the Central Goods and Services
+Tax Act, 2017.
+
+Composite Supply under GST
+
+Under GST, a composite supply would mean a supply made by a taxable person to a
+recipient consisting of two or more taxable supplies of goods or services or both, or any
+
+combination thereof, which are naturally bundled and supplied in conjunction with each
+
+other in the ordinary course of business, one of which is a principal supply:
+
+In the instant case, supply of UPS cannot be treated as Composite Supply. The recipient of
+UPS has the option to opt for installation or without installation.
+In view of the above, the applicant's contract with DMRC cannot be treated as works
+contract and will be treated as supply of goods and supply of services separately and will
+attract 18% rate of GST.
+
+04. HEARING
+
+Preliminary hearing in the matter was held on 20.09.2019. Sh. Kunal Nikumbh
+
+s per applicant’s request. Jurisdictional Officer was not present.
+
+he representative of applicant has explained that their main activity was,
+
+manufactures UPS and supplies to the DMRC and their Delhi office performs the
+commissioning and erection of part. They raised the question, whether the whole supply
+
+could be treated as works contract.
+05. OBSERVATIONS AND FINDINGS:
+
+We have gone through the facts of the case, documents on record and submissions
+
+made by the applicant.
+Applicant’s corporate head office at Mumbai manufactures various types of UPS
+systems. Applicant, formerly known as Emerson Network Power (India) Pvt. Ltd also
+
+supplies installation, commissioning, maintenance & other services to its customers.
+
+17
+
+
+The applicant has submitted that they have entered into a contract with Delhi Metro
+Railway Corporation ("DMRC") for Supply, installation, testing, and commissioning of
+UPS systems and the scope of the works includes but not limited to supply, manufacture,
+inspection, packing, shipping, transportation, storage, delivery, handling, insurance,
+installation, interfacing, integration, testing & commissioning, maintenance support,
+spares, special tools, test equipment, training, software, documentation and providing DLP
+for the UPS system. They have submitted of supply of both goods as well as services to be
+provided by the under the said contract. We find that they will be supplying various UPS
+systems which will be installed, tested and commissioned by them. They have also
+mentioned that they will give Presentations, reviews and audit support; handle
+Transportation, Handling and Storage of the material; provide Insurance Cover for the
+material supplied, Provide all information, documents requested by Signaling,
+Telecommunication and AFC Contractors; provide System operations and maintenance
+support services, Training for operations and maintenance staff, prepare Operation,
+Maintenance and Training Manuals, etc. The applicant has submitted that from the tender
+
+a ===dgcument and contract it is clear that separate consideration for supply of goods and
+
+(ores Rug y
+A men have been provided and therefore this is not a case where the supply of goods and
+
+SRA —
+
+Ss From a perusal of the Agreement submitted by the applicant we find that even
+though the contract is for Supply, installation, testing, and commissioning, etc., of
+Uninterrupted Power Supply System for Signalling, Telecommunication and Automatic
+Fare Collection System for the Mass Rapid Transport System of DMRC there is a provision
+for separate consideration for supply of goods and services. Even though the applicant has
+bifurcated the work into supply of goods from their Maharashtra GST registered premises
+and supply of services from their New Delhi GST registered office and accordingly raising
+separate invoices on DMRC for supply of goods and supply of services, we find that the
+contract has been entered into, by the applicant’s Maharashtra office and not by their New
+
+Delhi GST registered office. Thus we are taking up the contract as one contract for which
+
+18
+
+
+agreement has been entered into, by DMRC and the applicant situated in Maharashtra. We
+observed that the applicant is seeking a ruling on the issue as to whether their transaction
+with DMRC qualifies as a supply of goods or a supply of services and the applicable rate
+of tax on the supply made to DMRC.
+
+On perusing the submissions of the applicant & the documents submitted by them,
+jurisdictional office, we find that the basic issue before us is whether in the subject case
+there is supply of Works Contract or Composite Supply. In the subject case we find that
+the applicant first despatches the goods to DMRC under an Invoice and E Way Bill. Thus
+the title in property of the said goods are transferred as soon as the delivery is completed.
+It is only thereafter that installation, etc takes place. We agree with the applicant’s
+contention that the contract for supply of UPS system to DMRC does not qualify as a
+‘works contract’ under Section 2(119) of the CGST Act since the installed UPS system
+cannot be said to result in the emergence of an immovable property. We shall now discuss
+the provisions relating to Works Contract and Composite Supply. GST Sch.-II clearly
+mentions that the following are supply of services:-
+
+a. construction of a complex, building, civil structure or a part thereof, including a
+
+complex or building intended for sale to a buyer, wholly or partly,
+
+a rks contract including transfer of property in goods (whether as goods or in some
+\ Ot r form) involved in the execution of a works contract.
+
+books Works contract will be treated as service and tax would be charged accordingly.
+ection 2(119) of the CGST Act, 2017, unless the context otherwise requires, the
+"works contract" means a contract for building, construction, fabrication,
+completion, erection, installation, fitting out, improvement, modification, repair,
+maintenance, renovation, alteration or commissioning of any immovable property
+wherein transfer of property in goods (whether as goods or in some other form) is involved
+in the execution of such contract"
+
+We have already observed that, the applicant, in the subject case UPS is not as
+immovable property as it can be dismantled and moved to a different location without any
+damage. We find from their submissions and agreement that the contract is considering a
+clear demarcation of goods & services to be provided by the applicant. Now we have to
+
+decide whether the supplies are naturally bundled & in conjunction with each other as
+
+19
+
+
+required by the definition of composite supply. Hence we refer to the definition of
+‘Composite Supply’ as mentioned in sub-section (30) of Section 2 of CGST Act, 2017
+which is as under:-
+
+‘Composite supply means a supply made by a taxable person to a recipient consisting of
+two or more taxable supplies of goods or services or both, or any combination thereof,
+which are naturally bundled and supplied in conjunction with each other in the ordinary
+course of business, one of which is a principal supply’.
+
+From the discussions made above we find that in the contract submitted by the
+applicant the major part of the contract is supply of goods. i.e. UPS Units, etc. These goods
+are delivered to the client by the applicant and such goods that are supplied are used by
+the applicant to provide services of installation, testing and commissioning of the
+substations. Without these goods the services cannot be supplied by the applicant and
+therefore we find that the goods and services are supplied as a combination and in
+conjunction and in the course of their business where the principal supply is supply of
+goods. Thus we find that there is a composite supply in the subject case.
+
+Now that we have found that there is no works contract involved in the subject case
+
+§ taxable at the rate of 12% in terms of Sr. no. 3(v) of Notification No. 11/2017
+, as amended w.e.f. 25.1.2018?
+
+classification under the appropriate heading. The principal goods in the subject case is UPS
+units which are most important for the applicant to render supply as per the contract.
+
+We find from the submissions made by the applicant that UPS is classified under
+Heading 8504 and attracts GST @18% as supply of goods. Hence the principal supply in
+their composite supply being goods as described under heading 8504, the applicant is liable
+to pay GST on the whole contract @ 18%.
+
+06. In view of the extensive deliberations as held hereinabove, we pass an order as follows:
+
+20
+
+
+ORDER
+
+(Under section 98 of the Central Goods and Services Tax Act, 2017 and the
+Maharashtra Goods and Services Tax Act, 2017)
+
+NO.GST-ARA- 17/2019-20/B- \oF Mumbai, dt. 4.10, 2019
+
+For reasons as discussed in the body of the order, the questions are answered thus —
+
+Question 1. Whether the contract entered into with DMRC for supply, erection,
+installation, commissioning and testing of UPS system qualifies as a supply of
+works contract under Section 2(119) of the CGST Act?
+
+Answer: - Answered in the negative.
+
+Question 2. _ If yes, whether such supply made to DMRC would be taxable at the rate of 12%
+in terms of Sr. no. 3(v) of Notification No. 11/2017 - C.T. (Rate), as amended
+w.e.f. 25.1.2018?
+
+Answer: - — Not answered as the answer to the first question is in the negative.
+
+<4 — ——<d —
+
+B. TIMOTHY A. A. CHAHURE
+(MEMBER) (MEMBER)
+Copy to:- CERTHIED TRUE COPY
+1. The applicant
+2. The concerned Central / State officer wk
+3. The Commissioner of State Tax, Maharashtra State, Mumbai a
+4. The Chief Commissioner of Central Tax, Churchgate, Mumbai MEMBER
+5. Joint commissioner of State Tax, Mahavikas for Website. ADVANCE RULING AUTHORITY
+
+MAHARASHTRA STATE, MUMBAI
+
+Note :- An Appeal against this advance ruling order shall be made before The Maharashtra
+Appellate Authority for Advance Ruling for Goods and Services Tax, 15 floor, Air India
+building, Nariman Point, Mumbai - 400021.
+
+21

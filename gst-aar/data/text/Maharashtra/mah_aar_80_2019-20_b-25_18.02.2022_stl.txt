@@ -1,0 +1,717 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+GST Bhavan, Room No.107, 1st floor, B-Wing, Old Building, Mazgaon, Mumbai — 400010.
+(Constituted under Section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+(1) Shri. Rajiv Magoo, Additional Commissioner of Central Tax, (Member)
+(2) Shri. T. R. Ramnani, Joint Commissioner of State Tax, (Member)
+
+ARN No AD271219018846Q
+GSTIN Number, if any/ User-id 27AAECS8719B1ZC
+Legal Name of Applicant M/s. Sterlite Technologies Limited
+
+Registered Address/Address provided | E1, £2, £3, MIDC Waluj, Aurangabad, Maharashtra - 431136
+
+while obtaining user id
+Details of application
+
+GST-ARA, Application No. 80 Dated 20.12.2019
+
+Concerned officer AUR-VAT-E-003, Aurangabad Division
+Nature of activity(s) (proposed/present) in respect of which advance ruling sought
+
+A | Category Service provision
+
+B_ | Description (in brief) Applicant manufactures telecom products such as
+
+optic fiber, optic fiber cable, etc.; lays these optic fiber
+cables (either underground or hung overhead) to create a
+network, sets up control centres, installs equipment
+necessary to operate the network for desired purpose,
+commissions network and any other ancillary activity that
+may be necessary for creation of network infrastructure for
+its customers in telecom industry. Scope of these activities is
+contractually stipulated and is typically recognized as a
+‘turnkey contract’ in the industry.
+
+Issue/s on which advance ruling e Classification of goods and/or services or both
+
+Applicability of a notification issued under the
+
+required e
+provisions of the Act
+
+Question(s) on which advance ruling As reproduced in para 01 of the Proceedings below.
+
+is required
+
+NO.GST-ARA- 80/2019-20/B- 5 Mumbai, dt. | & | 02 |2»22.
+
+PROCEEDINGS
+(Under Section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods and
+Services Tax Act, 2017)
+
+The present application has been filed under Section 97 of the Central Goods and Services Tax
+the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as “the CGST
+
+Q As
+Page 1 of 12
+
+
+Act and MGST Act” respectively ] by M/s. Sterlite Technologies Limited, the applicant, seeking an
+
+advance ruling in respect of the following question.
+What is the rate of tax applicable to the supplies made under the contract?
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and the
+MGST Act are the same except for certain provisions. Therefore, unless a mention is specifically made to
+any dissimilar provisions, a reference to the CGST Act would also mean a reference to the same
+provision under the MGST Act. Further to the earlier, henceforth for the purposes of this Advance
+Ruling, the expression ‘GST Act’ would mean CGST Act and MGST Act.
+
+2s FACTS AND CONTENTION — AS PER THE APPLICANT
+The submissions made by M/s Sterlite Technologies Limited, the applicant are as under:-
+
+22: Applicant manufactures telecom products such as optic fiber, optic fiber cable, etc.; lays the optic
+fiber cables (either underground or hung overhead) to create a network, sets up control centers,
+installs equipment necessary to operate network for desired purpose, commissions network and
+any other ancillary activity that may be necessary for creation of network infrastructure for its
+customers in telecom industry by way of ‘turnkey contracts’.
+
+22; To establish countrywide IP/MPLS based multiprotocol converged network, Naval
+Communication Network (collectively referred as "network"), as core infrastructure for
+supporting strategic and operational needs, the Indian Navy has entrusted the setting up of
+these networks to Bharat Sanchar Nigam Limited (“BSNL”), which in-turn has contracted the
+work to the applicant who has to supply all material and services required; training services to
+operate the same and supply of satellite connectivity vehicles for ensuring seamless connectivity
+
+during breakdown of network.
+2.3 The network to be created includes the following key activities which are narrated
+
+below stepwise:
+(a) Construction of buildings and civil structures necessary to house data centres, nearline
+
+data centres, disaster recovery station, satellite data centre and connectivity equipment
+
+at Naval ports across mainland and coastal region in India
+
+(b) Installing rack, stack in the buildings and other civil infrastructures necessary to house
+the equipment and enable operation of all the centres/ports
+
+(c) Assemble/install all equipment and powering it up by connecting with power supply and
+back-up generators.
+
+(d) interconnecting and configuring all the equipment in all the data centres, nearline data
+centres, disaster recovery station, satellite data centre, etc. with each other to enable
+information exchange across the network as desired.
+
+2.4 Relevant clauses of the contract which stipulate the requirement of an exhaustive civil wol
+be undertaken by the Applicant to house the said network are reproduced below:
+
+rk to
+
+Network Architecture
+Tier | would interconnect 11 major locations of the Indian Navy across the country
+
+lefence owned OFC and DWDM network infrastructure.
+
+Tier I.
+
+AM, —
+Yeage 2 of 12
+
+
+Tier Il. The remaining 33 locations of the Indian Navy would be connected over defence
+owned OFC and DWDM network infrastructure
+
+Tier Ill. Tier Ill consists of the regional metro aggregation network at Delhi, Mumbai, Vizag,
+Kochi, Goa, Chennai and Port Blair. The regional metro aggregation network for Tier III shall be
+present at few locations at various metro cities across the country. These locations would be
+connected over a DWDM infrastructure that the bidder will have to provide
+
+Civil Infrastructure
+
+1. A central building would be built at the very site to house Type 1/Type 2/Type
+3 Infrastructure, Tele presence/Networking/Optic fiber Equipment, Staging area and other
+operational and administrative buildings. The scope of work includes civil construction, water
+supply, sanitary and plumbing, electrical installation, landscaping, air conditioning, roads, and
+firefighting and interior works All buildings should be constructed with RCC (Reinforced Concrete
+Construction) Partition walls (non-load bearing walls) may be of high quality bricks. The
+construction would be governed by the latest standards Indian Standards in vogue for
+construction of buildings. The minimum distance between this complex and the data center
+building etc should be governed by the TIA 942 standards. The bidder is to ensure that standards
+followed for construction of buildings, electrical fittings, plumbing etc should also meet the
+minimum specifications published by BSNL. On completion of construction, the buildings
+would have to be handed over to the MES/CPWD.
+
+2. Along with the building following additional infrastructure for the complex is also required:-
+2.1 Approach road to building within Naval Station, Provision of security lights around the
+complex, Security Cameras inside and outside building, Guard post including rest room,
+Automatic Barrier at main/emergency gates. Access Control Mechanism at entrances to the
+building, Smoke detector, provisioning of small firefighting appliances, PA system.
+
+2.2 Underground electrical wiring will be done as per the requirement. All switches, cutout,
+CBS and wires, cables are to be supplied and fitted. All electrical fittings including air
+conditioners, fans, tube lights, CFL, exhaust fans, call bells, lightning arrester etc. is to be
+provided and fitted. False roofing with 2'X2' meshed tube light fittings and wall paneling with
+synthetic enamel paints.
+
+3. In addition, a power room to house the silent generators also needs to be
+constructed. Provisioning of DG sets along with control panel, day tank and other accessories
+required for operation of the power plant. DG Sets should be in weather proof shelters. Electrical
+wiring and associated equipment from power house to UPS room.
+
+Pace The said network comes into existence when the building, civil structures are erected, and all
+the equipment are installed and interconnected with each other through its data centers,
+nearline data centres, disaster recovery station, etc. Such network cannot be moved to another
+place in ‘as is' form but it requires the optic fiber cables to be disengaged, existing civil structures
+to be demolished, all the equipment to be removed and undertake altogether a fresh activity to
+re-erect the civil structure and re-install all the necessary equipment and re-engage the same
+
+with the optic fiber cables at such other place.
+
+B us Application for Advance Ruling:
+
+had earlier approached this Authority to determine following questions:
+
+th
+
+Yo page 3 of 12
+
+
+i Whether the supply of goods or services for ‘setting up of network' would qualify as
+‘works contract as defined in Section 2(119) of the CGST Act?
+
+ii. If supplies contemplated as per the contract with BSNL are not treated as works
+contract, can these continue to qualify as composite supply? if yes what is the principle
+supply?
+
+iii. What is the rate of tax applicable to the supplies made under the contract?
+
+27) In pursuance of the said questions, Applicant made submissions and also referred to Notification
+No. 11/2017 - C.T. (R) dated 28.06.2017, as amended (‘rate Notification’) stating that the works
+contract to be undertaken by it was covered under Entry No. 3(vi)(a) of rate Notification and
+attracted GST at the rate of 12%.
+
+2.8. The Authorities vide Order No. GST-ARA-106/2018-19/B-34 dt 28.03.2019 held that the supply of
+goods or services for ‘setting up of network’ would qualify as a composite supply of 'works
+contract’ as defined under Section 2(119) of the CGST Act and activities of the Applicant were
+covered by sub-clause (ii) of Entry No. 3 of rate Notification and attract GST at the rate of 18%.
+
+2.9 Post issuance of Order dated 28.03.2019 the rate Notification was amended vide Notification No.
+3/2019 C.T.(R) dated 29.03.2019 (“Amendment Notification") whereby Entry No. 3 (ii) as referred
+in aforesaid Order was omitted with effect from April 01, 2019. Hence, with the said
+amendment, ratio of Order relating to applicability of tax rate to subject supplies under the
+contract was rendered redundant with effect from 01.04.2019.
+
+2.10. Hence, Applicant’s activities necessitate an analysis qua other relevant entries of rate
+Notification and Entry No. 3(vi)(a) of the rate Notification appears to appropriately cover its
+
+activities.
+
+B. Statement containing the Applicant's interpretation of law and /or facts
+
+2.11. The relevant Entry No. 3(vi)(a) of the rate Notification, is reproduced as under:-
+
+SL. CHAPTER DESCRIPTION OF SERVICE RATE CONDITION
+NO. SECTION OR %
+HEADING
+3 Heading 9954 (vi). Composite supply of works contract as 6% Provided that where
+(Construction se | defined in clause (119) of Section 2 of the the services
+rvices) central Goods and Service Tax Act, 2017 are supplied toa
+other than that covered by items (i), (ia), Government Entity,
+(ib), (ic), (id), (ie) and (if) above, provided to they should have
+the Central_Government, State been procured by
+Government, Union Territory, a the said entity
+local authority or a governmental in relation to a work
+Authority or a Government Entity by way entrusted to it by
+
+the Central Governm
+
+of construction, erection,
+ent, State Governme
+
+commissioning, installation, completion,
+fitting out, repair, maintenance renovation, nt, Union territory or
+or alteration of - local authority, as
+(a) a civil structure or any other original the case may be
+works meant predominantly for use other
+than for commerce,
+industry, or any other business or
+profession;
+i) ee
+
+Se te
+age 4 of 12
+
+
+
+2.12 Ona bare perusal of above entry, services of works contract are covered by Entry No. 3(vi)(a) of
+
+rate Notification if following conditions are fulfilled:
+
+ip Recipient must be either of Central Government, State Government, Union Territory, a
+local authority, a governmental authority or a Government Entity
+
+ii. The works contract must result in construction, erection, commissioning,
+installation, completion fitting out, repair, maintenance, renovation, or alteration of a
+‘civil structure’ or any other Original works
+
+iii. Resultant civil structure or any other original works must be used predominantly for
+other than commerce, industry, or any other business or profession.
+
+Each of the criteria summarized above is analyzed in ensuing paragraphs qua supply.
+
+THE APPLICANT IS ENGAGED IN MAKING SUPPLY TO ‘GOVERNMENT ENTITY'
+
+2.13 Entry No. 3(vi) envisages supplies made to Government Entity. The term Government Entity is
+defined under clause 4 (x) of the Explanation appended to rate Notification.
+
+Government Entity means an Authority or a board or any other body, -
+
+(i) Set up by an Act of Parliament or a State Legislature; or
+
+(ii) Established by any Government
+
+With 90% or more participation by way of equity or control, to carry out a function entrusted
+by the Central Government, State Government, Union Territory or a local authority.
+
+2.14 In view of above, anybody established by Government with 90% or more participation qualifies
+as a Government Entity. In this regard, the network is to be built for BSNL which is set up by
+Central Government and the Central Government continues to hold 100% equity in BSNL. Hence,
+BSNL fulfills the necessary criteria set out under clause 4(x) of the Explanation of the said rate
+Notification and qualifies as a Government Entity. Consequently, applicant’s activities fulfill the
+condition of ‘making supply to Government Entity' as in Entry No. 3(vi) of the rate Notification.
+ACTIVITIES UNDERTAKEN BY THE APPLICANT RESULT IN CREATION OF 'ORIGINAL WORKS'
+
+2.15 The Applicant submits that the term ‘original works' as referred in Entry No. 3(vi)(a) is neither
+defined under rate Notification nor under the CGST Act. However, Notification No. 12/2017 C.T.
+(R) dated June 28, 2017 ("Notification No. 12/2017") defines the term ‘original works’. Relevant
+portion of the said exemption notification is reproduced below:
+
+2. Definitions. - For the purposes of this notification, unless the context otherwise requires, -
+
+(zs) "original works" means- all new constructions;
+(i) all types of additions and alterations to abandoned or damaged structures on land
+
+that are required to make them workable;
+(ii) erection, commissioning or installation of plant, machinery or equipment or
+structures, whether pre-fabricated or otherwise;
+
+2.16 Both, the rate Notification as well as Notification No. 12/2017 are issued by the Central
+Government in exercise of its powers conferred under CGST Act and as such contents of both
+these notifications form part of the same statutory framework which further supports the
+persuasive force of the definition of original works' as provided under Notification No. 12/2017
+
+€ Ruts determine the scope of ‘original works' as referred in Entry No. 3(vi)(a) of rate Notification.
+
+e is made to the ruling of the Rajasthan Authority for Advance Ruling in the case of Tata
+
+d. - SUCG Consortium wherein the Authorities deliberated applicability of Entry No.
+wy
+
+page 5of12
+
+
+
+3(vi)(a) of rate Notification to applicant's activities & referred to Notification No. 12/2017 to Rule
+that recipient of service viz. Jaipur Development Authority qualified as 'Governmental Authority’.
+
+2.18 Without prejudice to the above, in absence of the definition of ‘original works' under
+rate Notification, reference may also be drawn from the definition as provided in the Service
+Tax (Determination of Value) Rules, 2006 ("Service tax valuation rules') as notified under
+Finance Act, 1994. Said definition is identically worded as the definition under Notification No.
+12/2017 and thus also possesses persuasive force to determine the meaning of ‘original works'
+as referred to in Entry No. 3(vi)(a) of rate Notification.
+
+2.19 Therefore, Applicant submits that the term ‘original works' as defined in Notification No.
+12/2017 as well as Service tax valuation rules, covers activities in the nature of erection,
+commissioning or installation of machinery or structure. Applicant also refers to the scope of
+contract which necessitates the Applicant to build structures in the form of buildings, roads, etc.
+and undertake the activity of installing the equipment therein. Relevant portion of the contract is
+
+as under:-
+CLAUSES OF THE CONTRACT
+
+Civil Infrastructure:
+
+1. A central building would need to be built at very site to house Type 1/Type 2/Type
+3 Infrastructure, Telepresence equipment, Networking Equipment, Optic fibre Equipment,
+Staging area and other operational and administrative buildings.
+
+The scope of work includes civil construction, water supply, sanitary and plumbing,
+electrical installation, landscaping, air conditioning, roads, and firefighting and interior works All
+the buildings should be constructed with RCC (Reinforced Concrete Construction) Partition walls
+(non load bearing walls) may be of high-quality bricks.
+
+2. Along with the building the following additional infrastructure for the complex would also
+
+be required: -
+
+2.1 Approach road to building within Naval Station
+
+2.5 Underground electrical wiring will be done as per the requirement
+
+3. In addition, a power room to house the silent generators also needs to be constructed.
+
+2.20 Applicant therefore submits that, activities to be undertaken by it are in the nature of erection,
+commissioning, installation of structure, machinery, construction etc. and therefore duly covered
+by the term ‘original works' as referred to under Entry No. 3(vi)(a) of rate Notification.
+
+2.21. Without prejudice to the above, reference is also drawn to the meaning of the term
+‘original works' in its common parlance. The ‘Oxford Advanced Learner's Dictionary’ explains the
+term ‘original’ to mean “existing at the beginning’ while the term 'works' is explained to mean
+activities or putting efforts to use materials and achieve a desired result. Relevant portion of the
+
+dictionary is reproduced below:
+Original, Adj.:
+1' [only before a noun) existing at the beginning of a particular period, process or activity
+Works,
+ne HAVE RESULT/EFFECT 10 (VN) to cause or produce something as a result of efforts;
+TERIAL 11 (VN) sth (in to sth) to make a material into a particular shape of form
+
+® Se
+Page 6 of 12
+
+, stretching, hitting it, etc.
+
+
+EFFORT 6 [U] the use of physical strength or mental power in order to do or make something
+PRODUCT OF WORK 7 [U] a thing or things that are produced as a result of work
+
+2.22 In view of the above, ‘original works' together would refer to an activity of creating something
+ie. being brought to existence at the first instance. Having derived the meaning of ‘original
+works' in common parlance, Applicant refers to the scope of contract which requires it to
+perform activities to bring structures in the form of buildings, roads, etc. into existence. The
+Applicant therefore submits that since its activities result in bringing a new structure
+into existence, these activities indeed qualify as ‘original works' as referred in Entry No. 3(vi)(a)
+of the rate Notification.
+
+THE NETWORK IS INTENDED TO BE USED FOR PURPOSE OTHER THAN COMMERCE, INDUSTRY, OR ANY
+
+OTHER BUSINESS OR PROFESSION
+
+2.23. The Applicant submits that, the network to be set up by the Applicant is eventually intended
+to be used for various activities relating to defense. This purpose of is evident from various
+clauses of the contract itself as per which, the network is intended to be used for war fighting
+operations of Indian Navy. The works contract required therefore is set up with the predominant
+purpose of defense, which is other than or commerce, industry, business or profession as
+excluded under Entry No. 3(vi)(a) of rate Notification. Accordingly, activities of the Applicant
+fulfill all the conditions stipulated under Entry No. 3(vi)(a) of rate Notification and are duly
+covered thereunder.
+
+2.24 The Applicant also submits that as the Entry no. 3(vi)(a) specifically covers activities of Applicant,
+the said activities ought to assessed at the rate of tax as specified for the said Entry No. 3(vi)(a).
+Reliance in this regard is placed on the decision of Hon'ble High Court of Gauhati in case of CCE v.
+Jellalpore Tea Estate, [2011 (268) E.L.T. 14 (Gau. )] wherein the Hon'ble Court held that
+"what is required to be done in a manner prescribed by law, ought to be done in that manner
+only or not at all.”. Reliance in this regard is also placed on the decision of the larger Bench of
+Hon'ble Tribunal in the case of M/s. Avis Electronics Pvt. Ltd., [2000 (11 7) E.L.T. 571 (Tri.-LB)]
+
+CONTENTION — AS PER THE CONCERNED OFFICER:
+
+03. > ——E————— Oe
+The jurisdictional officer has not made any submissions in the matter.
+
+04, HEARING
+4.1 Preliminary hearing in the matter was held on 25.02.2020. Shri. Rohit Jain, Advocate, Shri. Nitin
+
+Garg and Shri. Vivek Baj, CA appeared, and requested for admission of the application.
+Jurisdictional Officer Shri. Sunil Thombare, STO, AUR-VAT-C-013, Aurangabad also appeared.
+
+4.2 The application was admitted and online final hearing held on 14.09.2021 was attended by Shri.
+Rohit Jain, Advocate and Shri Kali (Cost Accountant). Jurisdictional officer remained absent.
+
+4.3 We heard the matter.
+05. OBSERVATIONS AND FINDINGS:
+
+SA. We have gone through the facts of the case, submissions made by the applicant and order of
+Advance Ruling in appellant’s own case vide Order No. GST-ARA-106/2018-19/B-34 dated
+
+h, 28th, 2019.
+
+age 7 of 12.
+
+
+5.2 The Applicant, registered under GST Laws is engaged in manufacturing of telecom products
+such as optic fiber optic fiber cable, etc.; laying of these optic fiber cables to create a network,
+setting up of control centers, installation of equipment necessary to operate the network for
+desired purpose, commissioning of network and any other ancillary activity that may be
+necessary for creation of network infrastructure for its customers in telecom industry.
+
+5.3 The Indian Navy has entrusted the setting of a countrywide IP/MPLS based multiprotocol
+
+twork, Naval Communication Network (referred to as "network"), as core
+
+converged ne
+Nigam
+
+infrastructure for supporting strategic and operational needs of Navy, to Bharat Sanchar
+Limited ("BSNL") which in turn has contracted with the Applicant to set up the network
+including the responsibility to supply all the material and services required for setting up of
+network, training services to operate the same and supply of satellite connectivity vehicles
+required for ensuring seamless connectivity during breakdown of network. Applicant has
+further submitted that the entire project as per the contract is bifurcated into different
+
+the purchase order is presently raised by BSNL with reference to cost break up of
+
+packages and
+packages.
+
+each of the material and services required to be supplied by Applicant under these
+
+5.4 As per applicant’s submissions, the said network to be so created mainly involves activities like :
+
+Construction of holdings and raising of civil structures necessary to house data centers, nearline
+data centers, disaster recovery station, satellite data center and connectivity equipment at
+various Naval ports; Installing rack, stack in the buildings and other civil infrastructures
+necessary to house the equipment and enable operation of all the centers/ports; Assemble
+/install all equipment and powering it up by connecting with power supply and back-up
+
+and Interconnecting and configuring all the equipment in all the data centers, near
+
+generators;
+llite data center, etc. with each other to enable
+
+line data centers, disaster recovery station, sate’
+information exchange across the network as desired.
+
+55 The applicant has submitted that it had previously approached for advance ruing in the same
+matter and that this Authority had ruled that (i). The supply of goods or services for ‘setting up
+of network' would qualify as a composite supply of ‘works contract' as defined under Section
+2(119) of the CGST Act and (ii) Activities of the Applicant were covered by sub-clause (ii) of
+
+Entry No. 3 of rate Notification and attracted GST at the rate of 18%.
+
+5.6 Since, the activities discussed in above mentioned order and the activities under the present
+
+application for which applicant has sought Advance Ruling are one and the same and further,
+
+since there is no additional information/submission provided by the applicant in the present
+
+application, there is no point to deviate from the finding given in the earlier determination,
+
+since neither, any appeal seems to have been filed nor any further order is received in the said
+earlier matter.
+57 The applicant contends that the Schedule Entry 3(ii) of Notification 11/2017 -CT (Rate) is
+deleted Vide Notification No 3/2019 CT (Rate) dated 29th March, 2019. Therefore, the applicant
+prays that its activities as per the Contract now attracts GST at the rate of 12% vide Entry No.
+3(vi)(a) of Notification No. 11/2017-CT (Rate) dated June 28, 2017.
+ecide under which Schedule entry, the applicant’s activities would get covered, after the
+ese of Entry No. 3 (ii) or replacement thereof, for that purpose, we have to understand the
+
+a,
+4%
+UN
+
+7 Page 8of12—
+
+
+
+further substitutions made to the said Entry 3 of Notification No. 11/2017-CT (Rate) by way of
+
+subsequent amendments.
+59 Entry No. 3 of Notification No. 11/2017-CT (Rate), as amended till 25.01.2018 is reproduced as
+
+under:-
+Ss! Chapter, Description of Service Rate Condition
+No. | Section or {%)
+
+Heading
+()__| (2) (3) (4) (5)
+
+(i) Construction of a complex, fo
+
+3 Heading (ii) composite supply of works contract as | 9
+
+9954 defined in clause 119 of section 2 of Central
+
+(Construction | Goods and Services Tax Act, 2017.
+
+Services) (iii) .....
+
+(a), (b), (c)
+(iv) Composite supply of works contract
+(a), (b), (c), (d), (da), (db)
+
+(e), (Ff), (g) -rssseecerererrensereee
+(v) Composite supply of works contract.......- eaneesscis
+(vi) Composite supply of works contract as | 6 Provided that where the
+defined in clause (119) of section 2 of the Central services are supplied to a
+Goods and Services Tax Act, 2017, provided to Government Entity, they should
+the Central Government, State Government, have been procured by the said
+Union Territory, a local authority, a entity in relation to a work
+Governmental Authority or a Government Entity entrusted to it by the Central
+
+by way of construction, erection, commissioning, Government, State
+installation, completion, fitting out, repair, Government, Union territory or
+maintenance, renovation, or alteration of - local authority, as the case may
+(a) a civil structure or any other original works be
+meant predominantly for use other than for
+commerce, industry, or any other business or
+profession;
+(b)
+(c)
+(vii)Composite supply of works contract ........++ -do--
+(viii) Composite supply of works contract
+ne 6 Provided that where the
+
+(ix) Composite supply of works contract
+provided by a sub-contractor to the main
+contractor providing services specified in item
+(iii) or item (vi) above to the Central
+Government, State Government, Union territory,
+a local authority, a Governmental Authority or a
+
+Government Entity.
+
+services are supplied to a
+Government Entity, they should
+have been procured by the said
+entity in relation to a work
+entrusted to it by the Central
+Government, State
+Government, Union territory or
+local authority, as the case may
+be.
+
+--do--
+
+(x) Composite supply of works contract .....
+provided by a sub-contractor to the main
+contractor providing services specified in item
+(vii) above.......
+
+(xi) Services by way Ct ee
+(xii) Construction services other than (i), (ii), (iii), | 9
+(iv), (v), (vi), (vii), (viii), (ix), (xjand (xi) above.
+
+Sraitt
+Page 9 of 12
+
+
+
+5.10 Vide Notification No 3/2019-CT(Rate), dated 29th March, 2019, Serial number 3, item (ii) was
+omitted and further amendments were made in Sr. No 3(i), 3 (iv), 3 (v), 3 (vi) and 3 (xii) and
+therefore, amended Notification no. 11/2017 — CTR dated 28.06.2017 is as under:-
+
+sl Chapter, Description of Service Rate Condition
+No. | Section or (%)
+Heading
+(1)__| (2) (3) (4) (5)
+(i), (ia), (ib), (ic), (id), (ie), (if)... Ee
+3 Heading (ii) DELETED
+9954 (ii
+(Construction | (a), (b), (c
+Services) (iv) Composite supply of works........
+(v) Composite supply sec nates | tesssntessntnsenns
+(va) —
+(vi) Composite supply of works contract as 6 Provided that where the services are
+defined in clause (119) of section 2 of the supplied to a Government Entity,
+Central Goods and Services Tax Act, 2017, they should have been procured by
+provided to the Central Government, State the said entity in relation to a work
+Government, Union Territory, [a local entrusted to it by the Central
+authority, a Governmental Authority or a Government, State Government,
+Government Entity by way of construction, Union territory or local authority, as
+erection, commissioning, installation, the case may be}
+
+completion, fitting out, repair, maintenance,
+renovation, or alteration of —
+
+(a) a civil structure or any other original
+works meant predominantly for use other
+than for commerce, industry, or any other
+business or profession;
+
+(Db) sxevserccasasenanereeenn
+(Cfeascsncisascsancssvarezzgnceranees
+
+{vii)Composite supply of works contract
+(viii) Composite supply of works contract | .... -
+
+(ix) Composite supply of works contract 6 Provided that where the services are
+wapeani bi provided by a sub-contractor to the supplied to a Government Entity,
+main contractor providing services specified they should have been procured by
+in item (iii) or item (vi) above to the Central the said entity in relation to a work
+Government, State Government, Union entrusted to it by the Central
+territory, a local authority, a Governmental Government, State Government,
+Authority or a Government Entity. Union territory or local authority, as
+
+the case may be.
+
+(x) Composite supply of works contract
+provided by a sub-contractor to the main
+contractor providing services specified in
+item (vii) above.......
+
+[(xi) Services by way of house-
+keeping,...-...+
+
+(xii) Construction services other than (i), (ia), | 9 -
+(ib), (ic), (id), (ie), (if), (iii), (iv), (v), (va), (vi),
+
+(vii), (viii), (ix), (x) and (xi) above.
+
+Drage 10
+age 10 of 12
+
+
+
+5.11 It is seen from the amendments made as above, the activities which were earlier covered by the
+Entry 3(ii), after deletion of said sub-clause (ii), would get covered (said activities) under
+respective residual entry i.e Sr. No. 3 (xii) of the Notification No. 11/2017 — CTR dated
+28.06.2017 as amended by Notification No 03/2019 CGST (Rate) dated 29th March, 2019. The
+Authority, vide its earlier order (referred by the applicant) had classified the subject activities
+under the Entry 3(ii) of Notification No. 11/2017 — CTR- dated 28.06.2017, after considering all
+the headings of the said notification including Sr. No. 3 (vi) (a). The remaining headings are still
+in existence today and no new headings have been incorporated in the said notification after
+Notification No 3/2019 Dated 29th March, 2019, which can be considered to be relevant to the
+applicant’s subject activities. Further, at this stage it is crucial to mention that the applicant had
+accepted the earlier ruling of this Authority. In view of the above, we feel that the subject
+activity of the applicant will be covered under Since Entry No 3 (xii) of Notification No. 11/2017
+-CTR- dated 28.06.2017 as amended till date.
+
+5.12 Therefore, activities of the applicant were covered under entry 3(ii) of the Notification No
+11/2017 CGST (Rate) dated June 28, 2017 and thereafter with effect from 01.04.2019, the said
+activities are covered under Sr. No. 3 (xii) as amended by Notification No 03/2019 CGST (Rate)
+dated 29th March, 2019, taxable at the rate of 18%.
+
+06. In view of the extensive deliberations as held hereinabove, we pass an order as follows:
+ORDER
+(Under Section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods and
+Services Tax Act, 2017)
+
+For reasons as discussed in the body of the order, the questions are answered thus —
+
+Question. What is the rate of tax applicable to the supplies made under the contract?
+Answer:- The supplies of the Applicant are covered by sub-clause (xii) of Entry No. 3 of Notification
+0. 11/2017 — CTR dated 28.06.2017 as amended and taxable @ 18% GST.
+
+»
+™
+CQ Yawmnew we,
+RASIV MAGOO 7.R.RAMNANI
+(MEMBER) (MEMBER)
+
+—
+1. The applicant
+2. The concerned Central / State officer
+3. The Commissioner of State Tax, Maharashtra State, Mumbai
+4. The Pr. Chief Commissioner of Central Tax, Churchgate, Mumbai
+5. The Joint Commissioner of State Tax, Mahavikas for Website.
+
+ay
+
+Sree
+Page 11 of 12
+
+
+Note:-An Appeal against this advance ruling order shall be made before, The Maharashtra Appellate
+Authority for Advance Ruling for Goods and Services Tax, 15" floor, Air India Building, Nariman Point,
+Mumbai — 400021. Online facility is available on gst.gov.in for online appeal application against order
+
+passed by Advance Ruling Authority.
+
+An
+
+Page 12 of 12

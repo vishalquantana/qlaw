@@ -1,0 +1,1150 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+(Constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri B. V. Borhade, Joint Commissioner of State Tax
+(2) Shri Pankaj Kumar, Joint Commissioner of Central Tax
+
+GSTIN Number, if any/ User-id 27AAGCV2195LIZS
+
+Legal Name of Applicant VSERVGLOBAL PRIVATE LIMITED
+
+Registered Address/ Address provided while | 201, Dhantak Plaza, Opp. Waman Center, Makwana
+obtaining user id Road, Andheri East, MUMBAI, Mumbai Suburban,
+Maharashtra, 400059
+
+Details of application GST-ARA, Application No. 03 Dated 09.04.2018
+
+Concerned officer MUM-VAT-C-713 Nodal Division 7, Mumbai
+
+Nature of activity(s) (proposed / present) in
+respect of which advance ruling sought
+
+A Category Service Provision
+
+B Description (in brief) The company is incorporated to provide back office
+support services to overseas companies (hereinafter
+referred to as ‘Clients'). Clients are engaged in Trading
+of Chemicals and other products in International
+Trade. Vserv will come into picture after finalization of
+Purchase / Sale order by a Client.
+
+ww
+‘TssyXs on which advance ruling required (i) classification of goods and/or services or both
+Bac determination of the liability to pay tax on any goods
+
+or services or both
+
+oo
+
+\3
+Question{s) on which advance ruling is | As reproduced in para 01 of the Proceedings below.
+
+req &
+
+Lah
+
+J x o
+
+PROCEEDINGS
+
+(Under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+The present application has been filed under section 97 of the Central Goods and Services
+
+Tax Act, 2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as
+“the CGST Act and MGST Act”] by VSERVGLOBAL PRIVATE LIMITED., the applicant, seeking
+an advance ruling in respect of the following question.
+
+The Applicant Vserv request this Hon'ble Authority to decide as to whether the aforesaid
+services proposed to be rendered qualify as ‘Zero Rated Supply in terms of Section 16 of the
+
+Integrated Goods & Service Tax Act, 2017 or not.
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and
+the GST Act are the same except for certain provisions. Therefore, unless a mention is specifically
+made to such dissimilar provisions, a reference to the CGST Act would also mean a reference to
+
+1
+
+
+the same provision under the MGST Act. Further to the earlier, henceforth for the purposes of
+this Advance Ruling, a reference to such a similar provision under the CGST Act / MGST Act
+would be mentioned as being under the “GST Act”.
+02. FACTS AND CONTENTION - AS PER THE APPLICANT
+
+The submission (Brief facts of the case), as reproduced verbatim, could be seen thus -
+
+FACTS OF THE CASE
+
+1. The Applicant M/s. Vservglobal Private Limited (hereinafter referred to as 'Vserv’), is an Indian
+Company having its office at Mumbai. The company is incorporated to provide back office support services
+to overseas companies (hereinafter referred to as ‘Clients'). Clients are engaged in Trading of Chemicals
+and other products in International Trade. Vserv will come into picture after finalization of Purchase / Sale
+order by a Client. Vserv will undertake following activities for and on behalf of Clients.
+
+a) Get SDF (Sales Detail Form) & PDF (Purchase Detail Form) from concerned party
+
+b) Generate order no in VOSS
+
+c) Create PO (Purchase Order) & SC (Sales Contract) in VOSS
+
+d) Send SC (Sales Contract) & PI (Proforma Invoice) to customer & get SI (Shipping Instructions) as
+
+well
+e) Send PO (Purchase Order) to supplier & Seek PI (Proforma Invoice) & Share SI
+(Shipping Instructions)
+f) Liaise with supplier for Cargo Readiness
+g) Liaise with inspection authorities if pre-shipment inspection is needed
+h) Inform Customer on tentative schedule
+mal), Process payment request in VOSS
+a Sand payment request to Client.
+Ovide forwarder/ carrier nomination to supplier if FOB (Free on Board)
+¥ 3 ~ |) Barrier booking details and share with supplier & customer
+m) quew up for smooth SOB (Shipping on Board) with supplier and forwarder
+n) og jin Excel Order Sheet - ETD -ETA (Estimated Date of Arrival -Estimated date of Departure)
+
+\ yy, 1. Gevtrat BL (Bill of Lading) prior to sailing
+‘. Sh RAST ‘Py \low up for full shipping documents with supplier
+: eG) Raise payment request in VOSS for supplier for balance or final payment
+r) Send payment request to Group Company for supplier for balance or final payment.
+s) Arrange inspection certificates if applicable
+t) Raise payment request for freight and inspection charges as applicable
+u) Arrange to send originals to Hong Kong
+v) Follow up for Originals sent to Customer from Group Company
+
+w) Notify ETA - reminder to Customer (ETA -Estimated time of arrival)
+
+x) Troubleshooting
+2 Apart from above, Vserv will also maintain records of employees of Clients, their payroll
+processing etc. All the payments to third parties like, supplier, Inspection Agency, Shipping Line,
+employees etc. will be done directly by Clients and Vserv will maintain accounting of the same. Vserv will
+be compensated for its services either on fixed monthly basis or as per the volume of transactions, on
+mutually agreed terms, in convertible foreign Exchange.
+
+Question--
+
+3; The Applicant Vserv request this Hon'ble Authority to decide as to whether the aforesaid services
+proposed to be rendered qualify as 'Zero Rated Supply in terms of Section 16 of the Integrated Goods &
+Service Tax Act, 2017 or not.
+
+
+Statement containing the applicant's interpretation of law and/or facts, as the case may be, in
+respect of the questions(s) on which advance ruling is required
+
+4. As per legal understanding of Applicant, the aforesaid services rendered by the Applicant qualify
+as “Zero Rated Supply" in terms of Section 16 of the Integrated Goods & Service Tax Act, 2017 for the
+reasons stated hereinafter. The provisions contained in Section 16 of the Act, ibid are reproduced below
+for ready reference.
+
+"16. Zero rated supply. - (1) “zero rated supply" means any of the following supplies of goods or
+services or both, namely:
+(a) export of goods or services or both; or
+
+(b) supply of goods or services or both to a Special Economic Zone developer or a Special
+Economic Zone unit.
+
+(2) Subject to the provisions of sub-section (5) of section 17 of the Central Goods and Services
+Tax Act, credit of input tax may be availed for making zero-rated supplies, notwithstanding that
+such supply may be an exempt supply.
+
+(3) A registered person making zero rated supply shall be eligible to claim refund under either of
+the following options, namely:
+
+(a) he may supply goods or services or both under bond or Letter of Undertaking, subject to such
+conditions, safeguards and procedure as may be prescribed, without payment of integrated tax
+and claim refund of unutilised input tax credit;
+
+or
+
+(b) he may supply goods or services or both, subject to such conditions, safeguards and procedure
+as may be prescribed, on payment of integrated tax and claim refund of such tax paid on goods or
+services or both supplied,
+
+in accordance with the provisions of section 54 of the Central Goods and Services Tax Act or the
+rules made thereunder."
+
+‘ As per the above stated legal provisions Export of Services is a zero rated supply. The phrase
+“Export of Service’ is defined in Section 2(6) of the Act, ibid and read as under:
+
+YY export of services" means the supply of any service when, -
+
+supplier of service is located in India;
+
+recipient of service is located outside India;
+
+_@xchange; and
+
+(v) the supplier of service and the recipient of service are not merely establishments of a distinct
+person in accordance with Explanation 1 in section 8.
+
+6. It is humbly submitted that the services rendered by applicant satisfy all the aforesaid conditions,
+
+as explained hereinafter.
+re The supplier of Service is located in India. - The phrase ‘location of Supplier of Service is defined
+in Section 2(71) of the Central Goods and Service Tax Act, 2017 which reads as under:
+
+“(71) "Location of the supplier of services” means -
+
+(a) where a supply is made from a place of business for which the registration has been obtained,
+the location of such place of business,
+
+(b) where a supply is made from a place other than the place of business for which registration has
+been obtained (a fixed establishment elsewhete), the location of such fixed establishment;
+
+(c) where a supply is made from more than one establishment, whether the place of business or
+fixed establishment, the location of the establishment most directly concerned with the provisions
+of the supply; and
+
+(d) in absence of such places, the location of the usual place of residence of the supplier;"
+
+7 (a). Inthe instant case, the applicant is supplier of Services, which is a corporate entity incorporated in
+
+India and having its registered office in Mumbai. The Appellant's Mumbai office is registered under
+
+GST. The orders for supply of said services are received in its Mumbai office and also services are
+3
+
+
+executed from its office situated in Mumbai. Therefore, the condition that the location of service
+provider should be in India is met.
+
+8, The Recipient of Service is located Outside India - The phrase ‘Location of Recipient of Service’ is
+defined in Section 2(70) of the CGST Act, 2017 which reads as under.
+
+"(70) “location of the recipient of services" means,
+(a) where a supply is received at a place of business for which the registration has been obtained,
+the location of such place of business;
+
+(b) where a supply is received at a place other than the place of business for which registration
+has been obtained (a fixed establishment elsewhere), the location of such fixed establishment;
+
+(c) where a supply is received at more than one establishment, whether the place of business or
+fixed establishment, the location of the establishment most directly concerned with the receipt of
+
+the supply; and
+(d) in absence of such places, the location of the usual place of residence of the recipient;"
+
+B(a). The Applicant is providing services to the overseas offices of Recipient of Services and such
+services are used by Recipients for their business conducted by such overseas offices. The said
+overseas offices of Recipients are covered under the definition of ‘fixed establishment’ as
+contained in Section 2(50) of the Central Goods & Service Tax Act, 2017, and therefore, the said
+second condition is also fulfilled. The definition of ‘fixed establishment is reproduced here for ready
+
+reference.
+
+"(50) "fixed establishment" means a place (other than the registered place of business) which is
+characterized by a sufficient degree of permanence and suitable structure in terms of human and
+technical resources to supply services, or to receive and use services for its own needs;"
+
+g. The place of supply of service is outside India - As per sub-section (2) of Section 13 of Act, ibid,
+the place of supply of services - other than those specified under Sub-section (3) to sub-section
+
+13, will be the location of recipient of services. In simple terms, if the service is not specified under
+
+al any sub-section from (3) to (13) then place of supply will be the location of Service Recipient. The
+if _ aforesaid services, are prime-facie not specified under any of the sub-section from (3) to (13) of
+
+' s: “Section 13. The Government have notified Classification scheme of Services, Section 8 of the said
+
+a: scheme covers Business and Production Services. The relevant entries of said
+
+se yon are reproduced below.
+
+Settjon 8: Business and Production Services
+
+| | Hkaging no. 9981
+
+oP féading no. 9982
+\S\ 2° Group 99821
+
+Research and development services
+
+Legal and accounting services
+
+Legal services
+
+Group 99822 Accounting, auditing and bookkeeping
+services
+998221 Financial auditing services
+
+998222 Accounting and bookkeeping services
+998223 Payroll services
+998224 Other similar services n.e.c
+
+ayroll Services and similar other Services. In view
+of Applicant, Services supplied /to be supplied by Applicant are covered under Group 99822
+covering Accounting Services. The Accounting Services are not covered under any sub-section
+from Sub-section (3) to (13) of IGST Act, 2017 and hence, default provisions contained in Section
+43(2) of the IGST Act, 2017 is applicable and place of supply would be the location of recipient of
+services which would be outside India.
+
+ent in Convertible Foreign Exchange - As stated above, the payment for services will be
+eign Exchange. Thus, the said condition is also satisfied.
+
+ablishment of Distinct Person - The last condition is that the supplier
+of service are not merely establishments of a distinct person in
+
+9(a). Vserv will be providing Accounting Services, P:
+
+10. Paym
+received in Convertible For
+
+Ts Supplier & Recipient Not Est
+of service and the recipient
+
+4
+
+
+accordance with Explanation 1 in section 8. The said Explanation 1 to Section 8 of Integrated Goods
+and Service Tax Act, 2017 reads as under:
+
+"Explanation 1. - For the purposes of this Act, where a person has, -
+
+(i) an establishment in India and any other establishment outside India;
+
+(ii) an establishment in a State or Union territory and any other establishment outside that State or
+Union territory; or
+
+(iii) an establishment in a State or Union territory and any other establishment being a business
+vertical registered within that State or Union territory,
+
+Then such establishments shall be treated as establishments of distinct persons.
+
+11(a). As already submitted the supplier of service and recipient of services are separate incorporated
+companies and therefore they are not merely establishment of distinct person in terms of aforesaid
+statutory provisions. Thus the said condition is also satisfied.
+
+12. From the above discussions it is clear that the services proposed to be rendered by the applicant
+satisfy all the condition of "Export of Services" and therefore, covered under the definition of "Zero
+
+Rated Supply".
+Further Submissions made on 02.07.2018-
+
+1. That, applicant M/s Vservglobal Private Limited, is highly obliged to the Hon’ble Authority for patient
+Personal Hearing on 26" June 2018 and allowing to file Written Submissions within a weeks’ time. During
+Personal hearing a question was posed as to how the services rendered / proposed to be rendered by applicant
+is not covered under the definition of ‘Intermediary Services’ as defined under Section 2(13) of the Integrated
+
+Goods & Service Tax, 2017. The said definition is reproduced below for ready reference:
+
+“(13) “intermediary” means a broker, an agent or any other person, by whatever name called, who arranges
+
+or facilitates the supply of goods or services or both, or securities, between two or more persons, but does
+
+1 include a person who supplies such goods or services or both or securities on his own account; ”
+
+per the above definition, a person who arranges or facilitates supply of goods or services between two
+
+=
+péfsins is an intermediary. The said definition also contains an exclusion as per which the person who
+
+lies goods or services on his own account is not included.
+
+In the instant case, the applicant proposes to maintain accounts of its client, liaison with buyers and sellers
+
+Of clients with respect to delivery, transportation of goods and payment etc. All the said services are proposed
+to be provided as a package and are bundled in natural course of business. Therefore, the said services are
+“Composite Supply’ as defined in Section 2 (30) of the Central Goods & Service Tax Act, 2017 and therefore
+
+tax would be levied in terms of Section 8 of the Act, ibid. above referred statutory provision are reproduced
+below for ready reference.
+
+” means a supply made by a taxable person to a recipient consisting of two or
+undled
+
+“(30) “composite supply
+more taxable supplies of goods or services or both, or any combination thereof, which are naturally b
+and supplied in conjunction with each other in the ordinary course of business, one of which is a principal
+supply;
+
+Illustration. -
+materials, transport and insurance is a composite supply and supply of goods is a principal supply;
+
+8. Tax liability on composite and mixed supplies. — The tax liability on a composite or a mixed supply
+
+Where goods are packed and transported with insurance, the supply of goods, packing
+
+shall be determined in the following manner, namely:—
+
+(a) acomposite supply comprising two or more supplies, one of which is a principal supply, shall be treated
+
+as a supply of such principal supply; and
+ipply ‘
+
+
+(b) a mixed supply comprising two or more supplies shall be treated as a supply of that particular supply
+
+which attracts the highest rate of tax.”
+
+4. In the instant case, the applicant proposes to supply “Business Support Service’ comprising of ‘Back Office
+Support’ and “Accounting” which is its Principle Supply. If these services also facilitate supply of goods
+then it is only an incidental supply to the Principle Supply. As already submitted, the applicant would come
+into picture only after finalization of Purchase / Sale deals by the clients. They said ‘Business Support
+Services’ would be provided by applicant to its client would be on Principle to Principle basis. Therefore,
+the instant case is covered by exclusion clause in definition of ‘Intermediary’.
+
+5 It is submitted that the term ‘Intermediary’ was also defined in aforesaid definition is exactly same, as it
+was in Service Tax Regime. In Service Tax the term was defined in Rule 2(f) of the Place of Provision
+Rules, 2012 which read as under.
+
+() “intermediary” means a broker, an agent or any other person, by whatever
+name called, who arranges or facilitates a provision of a service (hereinafter
+called the ‘main’ service) or a supply of goods, between two or more persons,
+but does not include a person who provides the main service or supplies the
+goods on his account; "
+
+6 From the above, it is clear that the definition of ‘intermediary’ in GST Law is identical to its definition under
+Service Tax. The above definition also contain an identical exclusion clause. CBEC in the Educational Guide
+released by it had explained the concept of ‘Intermediary’ and its exclusion clause in para 5.9.6, which read
+
+as under
+“Similarly, persons such as call centers, who provide services to their clients by dealing with the
+
+customers of the client on the client's behalf, but actually provided these services on their own
+
+account’, will not be categorized as intermediaries."
+
+806 (A.A.R.) (copy enclosed.).
+In Godaddy (supra) the applicant proposed to provide support services in relation to marketing, branding,
+offline marketing, oversight of quality of third party customer care Centre and payment processing, on
+principal to principal basis. Those services were proposed to be provided with the sole intention of promoting
+the brand GoDaddy US in India and thus augmenting its business in India. Therefore, those services proposed
+to be provided by the applicant, would support the business interests of GoDaddy US in India. The said
+service were proposed to be provided as a package. Hon’ble Authority accepted that the said services are
+bundled in natural course of business. The relevant portion of the said Ruling is reproduced below for ready
+reference.
+
+“11. Applicant proposes to provide support services in relation to marketing, branding,
+
+offline marketing, oversight of quality of third party customer care Centre and payment
+
+processing, on principal to principal basis. These services are proposed to be provided
+
+with the sole intention of promoting the brand GoDaddy US in India and thus augmenting
+
+its business in India. Therefore, these services proposed to be provided by the applicant,
+
+would support the business interests of GoDaddy US in India.
+
+
+12, It has been submitted by the applicant that services to be provided by the applicant
+are not peculiar only in applicant's case but are provided by various Indian entities to
+their overseas customers in India as a single package. Further, supporting the business
+of GoDaddy US in India is the main service and processing payments and oversight of
+services of third party Call Centers are ancillary and incidental to the provision of main
+service, ie., business support service. Further, applicant would provide said services as
+a package and the payment for the entire package would be a consolidated lump sum
+payment. Applicant submits that in view of all these indicators, service provided by them
+to GoDaddy US is a bundle of services, which is bundled in normal course of business.
+This point has not been controverted by the Revenue. We agree with the submissions of
+the applicant that proposed services are a bundle of services, bundled in normal course
+of business and not intermediary service.
+
+19. It observed that business support services are proposed to be provided by the
+applicant to GoDaddy US on principal to principal basis. It is the main service. Further,
+applicant is not concerned in respect of services provided by GoDaddy US to Indian
+Customers, which relates to domain name registration, transfer services, web hosting
+services, designing services, etc. In case, applicant was providing service to Indian
+Customers, he would have received “consideration” from Indian Customers, Fact is that
+no remuneration/consideration is received by the applicant from Indian Customers.
+Applicant is to only receive from GoDaddy US, a fee equal to the operating cost incurred
+by the applicant plus mark up of 13% on such costs. It is noticed that applicant is to
+receive said fees from GoDaddy US, even in respect of Indian Customers, who directly
+remit service charges to GoDaddy US through International Credit Card, wherein
+
+applicant is not in the picture. This fact further shows that the applicant is not providing
+
+me any service to Indian Customs. In view of above we rule as under;
+
+thaw point involved in the instant case and Godaddy (supra) case is identical. Rather, in Godadddy, the
+
+= TRA giant Reniicant had proposed to render services in respect of Indian Customers of Godaddy, USA, and in the instant
+2s Ne pp! prop Pp y.
+
+case, the services proposed to be provided would not be limited to Indian buyers / sellers of clients and they
+
+may be stationed anywhere in the world.
+
+10 As submitted during Personal Hearing, the Applicant have already started serving M/s.Vikudha Overseas
+Corporation Limited, Hong Kong. A copy of Contract was also submitted. The trading business of M/s. Vikudha
+Overseas is spread in more than Twenty Countries and majority of its business is done with the suppliers /
+customers situated in countries other than India. In Godaddy (supra) the applicant had to deal with Indian
+Customers of its client. Whereas, in the instant case, the buyers / sellers are not limited to India, but are spread
+across the Globe. Thus, the case of applicant is at much better footing.
+
+11 Itis correct that the Ruling of Authority for Advance Ruling is binding only in respect of Applicant. However,
+
+it certainly has persuasive value. It should also be taken into consideration that Authority for Advance Ruling
+
+under Service Tax was consisting of very senior Tax Officers and was headed by a retired Supreme Court Judge.
+
+Therefore, interpretation of law by such a senior body should be given due regard. Attention is also drawn to the
+
+relevant portion of judgment of Hon’ble Supreme Court in Columbia Sportswear Co. Vs. Director of Income
+
+Tax, 2012 (283) E.L.T. 321 (S.C.) (copy enclosed).
+
+The Authority, thus, held that the advance ruling of the Authority is binding in the case of one transaction only
+
+and the parties involved in respect of that transaction and for other parties, the ruling will be of persuasive nature.
+7
+
+
+The Authority, however, has clarified that this is not to say that a principle of law laid down in a case will not be
+followed in future. This decision of the Authority in Cyril Eugene Pereira, In re. (Supra) has been taken note of
+by this Court in Union of India & Anr. v. Azadi Bachao Andolan & Anr. [(2003) 263 ITR 706 at 742] to hold that
+the advance ruling of the Authority is binding on the applicant, in respect of the transaction in relation to which
+the ruling had been sought and, on the Commissioner, and the income-tax authorities subordinate to him and has
+persuasive value in respect of other parties. However, it has also been rightly held by the Authority itself that this
+does not mean that a principle of law laid down in a case will not be followed in future.
+
+12 From the above, it is clear that the applicant cannot be termed as ‘intermediary’ and therefore Sub-section (8) of
+Section 13 Integrated Goods & Service Tax, 2017 have no application. In the instant case, the services being
+provided is not specified under any of the Sub-section from (3) to (13), Section 13 of the Integrated Goods &
+Service Tax, Act, 2017. Therefore, place of supply of these services will be determined under Section 13(2) of
+the Act, ibid and would be the location of Recipient of services which is outside India.
+
+13 In view of the above and submissions already made, the Hon’ble Authority is humbly prayed to rule that the
+
+Services being provided / proposed to be provided are ‘Zero Rated Supplies’.
+
+03. CONTENTION - AS PER THE CONCERNED OFFICER
+
+The submission, as reproduced verbatim, could be seen thus-
+
+Applicant has raised the question that “The applicant ‘Vsero’ request this Hon'ble Authority to decide as
+to whether the aforesaid services proposed to be rendered qualify as ‘Zero Rated Supply’ in terms of section 16 of the
+Integrated Goods & Service Tax Act, 2017 or not”.
+
+2
+
+AY dn ¥eply to this it is submitting as under:
+
+“As per provision of u/s 97(2 ) the application is not maintainable, due to the question pertains to
+
+; en "Ze d Supply”, it means it relates to place of supply and question pertains to place of supply cannot
+mals soug tH ‘ore Hon. Advance Ruling Authority.
+tal : 4 e stly we have to see the provision same has reproduced as under:-
+\%, \. a . MGST Section 97 (1)--An applicant desirous of obtaining an advance ruling under this Chapter
+XS | anlage ke an application in such form and manner and accompanied by such fee as may be prescribed,
+~. ve StAtifg the question on which the advance ruling is sought.
+
+CGST Section 97 (2)-The question, on which the advance ruling is sought under this Act, shall be
+in respect of,-
+
+(a) Classification of any goods or services or both;
+
+(b) Applicability of a notification issued under the provisions of this Act;
+
+(c) Determination of time and value of supply of goods or services or both;
+
+(d) Admissibility of input tax credit of tax paid or deemed to have been paid;
+
+(e) Determination of the liability to pay tax on any goods or services or both;
+
+(f) Whether applicant is required to be registered;
+
+(g) whether any particular thing done by the applicant with respect to any goods or services or both
+amounts to or results in a supply of goods or services or both, within the meaning of that term.
+The issue posed by the applicant before Advance Ruling Authority, is pertains to Zero Rated supply,
+it means it relates to place of supply, only above stated (a) to (g) questions are sought for Advance
+Ruling before Hon. Advance Ruling Authority, place of supply is not covered under the above (a)
+to (g), hence, my office argument is the application submitted by the applicant is not maintainable.
+
+In this regard, if Advance Ruling Authority has accepted the application and treated is
+
+maintainable then my alternative submission is as under.
+The dealer has stated that, he has exported the services, and claiming that, the said services are
+Zero rated supply u/s 16 of IGST Act 2017.
+As per definition u/s 2 (23) of IGST Act 2017 “Zero Rated Supply”, means a supply of any goods or
+Services or both in terms of section 16 of IGST Act 2017.
+
+
+As per Section 16 of IGST Act “Zero Rated Supply” means any of the following supplies of goods or
+services or both, namely:- Export of goods or services or both; or
+
+1. Supply of goods or services or both to a Special Economic Zone developer or a Special Economic Zone unit.
+Means any supply of goods or service which is exported outside of India or supplied to any SEZ
+Developer or any SEZ unit will be treated as Zero rated supply.
+We are here restricted up to Export of services, to qualify Zero Rated supply Export of service is
+The main condition. It means services should be exported.
+In the instant case it is not happened, firstly we have to see the definition of Export of Services;
+same has reproduced for ready reference.
+As per section 2 (6) Export of services means the supply of any service when,—
+e The supplier of service is located in India;
+e The recipient of service is located outside India;
+e The place of supply of service is outside India.
+e The payment for such service has been received by the supplier of service in convertible foreign
+exchange; and
+e The supplier of service and the recipient of service are not merely establishments of a distinct
+person in accordance with Explanation 1 in section 8.
+In this case supplier M/s Vservglobal Pvt Ltd is private Limited company situated at 201, Dhantak Plaza,
+Opp. Waman Center, Makwana Road Andheri (E), and Mumbai-400059. The said firm located in India.
+In this case Recipient of service M/s Vikudha Overseas Corporation Limited, having registered
+office at Unit No. 1201-02A, 12! Floor, The Centrium, 60 Wyndham Street, and Central Hong Kong, China.
+The said firm is located outside India.
+In this case main issue is the place of supply of service is outside India or inside India, and if it is
+inside India then, it is intra state or inter-state. Firstly we have to crystallize supply of service.
+Section 12 - Place of supply of services where location of supplier and recipient is in India.
+
+IGST Section 12 (1) the provisions of this section shall apply to determine the place of supply
+s where the location of supplier of services and the location of the recipient of services is in India.
+
+ad¢/to any person other than a registered person shall be,—
+
+i Ane) cation of the recipient where the address on record exists; and
+i}  \ocation of the supplier of services in other cases.
+Ction 12 (1) — Place of Supply of Services Where Location o
+India.
+
+Section 12 (2) -
+provides place of sup
+is in India.
+
+f Supplier or Location of Recipient is Within
+
+Place of Supply of Services If Not Prescribed in Subsection (3) To (14). This section
+ply of services for all supplies of services where the location of supplier and recipient
+
+1. If the location of supplier of service and the recipient is in India then the place of supply
+
+of services shall be determined under section 12 of IGST act.
+
+2. When the place of supply of service cannot be determination under section 12(3) to 12(14) i.e. when
+there is no special provision specified for determination of place of supply then place of supply
+determined in section 12(2) which is as follows:
+
+a. Where the services made to registered person - Location of such recipient.
+b. Where the services made to person other than registered person -
+i. If address of recipient exists in records of supplier - Such address of the recipient.
+
+ii. In any other case - Location of the supplier.
+
+Location of the Recipient of Services - Section 2 (14)
+
+1. Where a supply is received at a place of business for which the registration has been obtained, the
+
+location of such place of business.
+
+
+2, Where a supply is received at a place other than the place of business for which registration has
+been obtained (a fixed establishment elsewhere), the location of such fixed establishment.
+
+3. Where a supply is received at more than one establishment, whether the place of business or fixed
+establishment, the location of the establishment most directly concerned with the receipt of the
+
+supply, and
+4, Inabsence of such places, the location of the usual place of residence of the recipient.
+
+Now we have to see how above provision is applied to this case.
+
+In the instant case M/s Vikudha Overseas Corporation Limited, having registered office at Unit
+No. 1201-02A, 12!" Floor, The Centrum, 60 Wyndham Street, and Central Hong Kong, China. on website
+of company it is learnt that, company has operated throughout world, and it is operated his business in
+India. The company has stated in website pertains to his business as under:-
+
+Some content of website http:/ /www.vikudha.com/global-presence/ has reproduced
+for ready reference:- Vikudha India is devoted to sourcing and trading varieties chemical
+products from India and subcontinent countries. The products are ranging from food &
+agriculture, pain & coating, water treatment, consumer care products raw materials. India is
+being a home ground for our well trained and experienced traders, those who are having close
+relationships with manufacturers. The thorough local chemical industry knowledge makes our
+India team to know the season, production cycle, market fluctuations, rules and regulations
+
+changes in advance and this helps ourselves to put ahead to the competitors.
+
+The M/s Vikudha Overseas Corporation Limited, has operated in India through its Branch,
+whatever name called Group Company, sister concern, etc. M/s Vikudha India Trading Limited., having
+register office DI IANTAK PLAZA, 201, OPP. WAMAN CENTER MA KWANA ROAD, MAROL,
+ANDI IER BAST MUMBAI Mumbai City MH 400059 IN (AS per Website of ministery of Commerce) , and
+é _thtedirector of companies are Mr. Deapkumar Balkishan Adukia, and Seema Sanjau Enand
+“fhe promoters M/s Vikudha Overseas Corporation Limited, is Vikash Balkishan Adukia , Group
+AQ Mr. Deap Adukia, Group COO. Mr. Deap Balkishan Adukia is also Director of M/s Vikudha
+
+om the above discussion it is clear that, the M/s Vikudha India Trading Limited, is operated
+01, Dhantak Plaza, Opp Waman Center Makwana Road, Marol, Andheri (E), Mumbai, for M/s
+
+a Overseas Corporation Limited.
+
+The nature and scope of the works of services stated in agreement are provided by Vservglobal
+Pvt Ltd to M/s Vikhudha India Trading Limited, which is operated in India for M/s Vikhudha Overseas
+Corporation Limited. It means all services provided to M/s Vikudha India Trading Limited by the
+Applicant. It means location of recipient of service is in India, at 201, Dhantak Plaza, Opp Waman Center
+
+Makwana Road, Marol, Andheri (E), and Mumbai.
+
+The Applicant of this ARA M/s Vservglobal Pvt Ltd, is private
+
+It is also pertinent to note that,
+Opp. Waman Center, Makwana Road Andheri (E), and
+
+Limited company situated at 201, Dhantak Plaza,
+Mumbai-400059.
+
+Another condition of location of the recipient of service is located outside India, and the place of
+supply of service is outside India is not fulfilled. Only mere agreement by foreign company with Indian
+
+company is not suffice to determine Export of services.
+It is also seen from the bank account of the M/s Vservglobal Pvt Ltd, that payment for such service
+has not been received by the supplier of service in convertible foreign exchange.
+
+on is that the supplier of service and the recipient of service are not merely
+
+The last conditi
+ation 1 in section 8, is also not satisfied.
+
+establishments of a distinct person in accordance with Explan
+
+Section 8 of IGST Act is reproduced for ready reference.
+10
+
+
+IGST Section 8
+(1) Subject to the provisions of section 10, supply of goods
+
+(2) Subject to the provisions of section 12, supply of services where the location of the supplier and the place
+of supply of services are in the same State or same Union territory shall be treated as intra-State supply:
+Provided that the intra-State supply of services shall not include supply of services to or by a Special Economic
+Zone developer or a Special Economic Zone unit.
+Explanation 1.--For the purposes of this Act, where a person has,--
+
+(i) an establishment in India and any other establishment outside India;
+
+(ii) an establishment in a State or Union territory and any other establishment outside that State or Union
+
+territory; or
+(iii) an establishment in a State or Union territory and any other establishment being a business vertical
+registered within that State or Union territory, then _such establishments shall be treated as
+
+establishments of distinct persons.
+
+Explanation 2.--A_person carrying on a business through a branch or an agency or a representational
+office in any territory shall be treated as having an establishment in that territory.
+
+This section provides certain cases where the supply of goods and services will be treated as Intra-
+
+State supply; we are here restricted up to Supply of services.
+Supply will be treated as intra state supply of service, if the location of supplier and place of supply
+
+of service( as provided under section 12) is in the same State or union Territory, on such supply CGST and
+SGST will be payable. Hence Supply of Services to be treated as Intra-state.
+
+Distinct Person-
+In the following cases the person will be required to take different registration as per section 25 of
+
+CGST Act and will be treated as distinct person(i.e. two different person) - Explanation il
+
+erson having establishment in India and outside India.
+tablishment located in different states and union territory - As per section 25(5) Registration
+ill be required to be obtained for each establishment located in different state or union territory.
+
+Itiple business verticals in same state or union territory -
+
+. Be
+
+f fhe person is carrying out any business through its branch or agency or representational office
+ory, it will be considered as having establishment in that territory.
+
+ofivom the above after carefully perusal of distinct person provision, M/s Vikudha Overseas
+oration Limited, and M/s Vikhudha India Limited, and M/s Vservglobal Pvt Ltd, are not a distinct
+
+person, for this provision, thus there cannot be export of service to own branch outside India.
+
+.
+SRA ST
+
+Form the above aforesaid fact, and related provision under the statute, the above transaction is not
+qualify export of services, hence not qualified under “Zero rated supply”, it is Supply of Services to be
+
+treated as Intra-state.
+
+If we see the nature and scope of work, the all nature is office work, or we can call it back office
+work. Co ordination with buyer and sellers, and other parties for execution of purchase and sale contracts
+entered in to by M/s Vikudha Overseas Corporation Limited.
+
+Explanation 1.--For the purposes of this Act, where a person has,--
+(i) an establishment in India and any other establishment outside India;
+(ii) an establishment in a State or Union territory and any other establishment outside that State or
+
+Union territory; or
+(iii) an establishment in a State or Union territory and any other establishment being a business
+
+vertical registered within that State or Union territory, then such establishments shall be treated
+as establishments of distinct persons.
+
+1
+
+
+04. HEARING
+
+The case was taken up for preliminary hearing on DT. 15.05.2018, with respect to
+admission or rejection of the application when Sh. Bharat Bhushan, Advocate along with Sh.
+Mukesh Bagri, Director appeared and requested time to submit copy of their contract with the
+Foreign Service recipient. Nobody was present from the side of the jurisdictional officer.
+
+The application was admitted and final hearing was held on 26.06.2018, Sh. Bharat
+Bhushan, Advocate along with Sh. Mukesh Bagri, Director appeared and made contentions as
+per their written submissions and ARA application specifically insisting that they were not
+covered in definition of intermediary. They also requested for time to make further submissions
+latest by 02.07.2018 which was granted. The jurisdictional officer, Sh. Sachin Jadhav, State Tax
+Officer (C- 713), Nodal -7, Mumbai appeared and stated that they would be making submissions
+
+in due course.
+
+05. OBSERVATIONS
+
+We have perused the records on file and gone through the facts of the case and the
+
+submissions made by the applicant and the departmental authority. It is seen that:-
+
+ine, ‘The.applicant is registered person under GST ACT who is supplier of Services, which is a
+
+~ worpoyate entity incorporated in India and having its registered office in Mumbai. The orders
+
+for sip
+its offis
+
+J
+/ «Tite applicant has submitted sample copy of service agreement entered into between the
+4
+
+of said services are received in its Mumbai office and also services are executed from
+
+ated in Mumbai.
+
+4 x
+Tax invoices issued, bank statements etc. to represent the transactions effected between
+
+he parties. The relevant clauses of the agreement for the present purpose are as below:
+
+1. This service agreement is made between the party M/s. Vikhuda Overseas Corporation Ltd.
+Hong Kong (Herein referred party A) and M/s. Vservglobal Pvt. Ltd. Andheri, (Herein
+referred party B) .This agreement is executed on 30.12.2017 of the office of party A situated in
+Hong Kong. Party A is global firm specializing in trading and distribution of chemical and
+Agricultural/Consumer products in different geographies. Party B is an India based corporate
+
+entity and has started its operation in the year 2017.
+
+2. Party A is desirous of obtaining back office administrative and accounting service and party B
+is having necessary competence to provide the said services. As such the party A has agreed
+to hire the party B to provide the said services and the Party B agreed to render the same in
+
+accordance with the provision of this contract.
+
+3. Article-1 :-Object of contract:- This service agreement aims to establish terms and conditions
+
+under which the party B commits to provide for party A for the services of back office
+12
+
+
+administrative and accounting support. The nature and details of services to be provided to
+
+the party A by the party B throughout this are specified in Article 2 of this contract.
+
+Article 2: Nature and scope of work: -- The Party B will coordinate with buyer, seller and other
+
+necessary parties for execution of purchase and sale contracts entered into by the party A. The
+of all these transactions. Party A will provide access to
+
+party B will also maintain accounting
+The major service
+
+its software “VOSS” to the Party B for rendering the agreed services.
+activities to be undertaken by the Party B for and on behalf of party A are mentioned at [(a )
+
+to (x) of the facts of the case at para 2 of this agreement as above.
+
+Article 3: Obligation of parties:
+
+e The party B commits itself carrying out hereby services in accordance with the
+
+instruction of party A.
+
+Party B commits not to disclose business dealing of party A to any third
+
+party/ parties.
+e The party B commits no to allow access “VOSS” to anybody except its employees
+entrusted with the job of working on it.
+er before a third party/parties
+
+. “Se e Both the parties commit not to represent each oth
+any kind of binding
+
+as an agent/ principal of the other parties and entered in to
+
+= \ 3 agreements.
+
+= adily : The Service Fee and Invoicing:- In return for the performance of services entrusted
+
+\%, : ony! “basis of the terms of this contract, the party B shall receive a remuneration of US $ 380
+00/- per month.
+
+purchase/sale transaction handled, subject to minimum of US $ 10,0!
+Rates may be 10% or less depending upon man hours involved in each transaction. The
+
+services performer will be invoiced by 7% day of the following month. This invoice thus
+
+issued shall be payable by the end of the month in which the invoice is issued.
+
+On the basis of this service agreement applicant submits that the services proposed to be
+
+ck office administrative and accounting support services, a Pay roll
+
+rendered such as ba
+of records of employees of the client satisfy all the elements of
+
+processing and maintenance
+
+“export of services as defined under the GST Act and therefore qualify as zero rated supply as
+
+‘per section 16 of the IGST Act.
+
+aw is strongly opposed by the jurisdictional officer. The jurisdictional
+
+This proposition of I
+bout M/s Vikudha Overseas Corporation Limited Hong Kong
+
+officer has collected information a
+5 Vikudha India Trading Limited., having registered
+
+“China (the client), sister concern, etc. M/
+| office at DHANTAK PLAZA, 201, OPP. WAMAN CENT ER MAKWANA ROAD, MAROL, ANDHERI
+
+EAST Mumbai City MH 400059 IN (AS per website of Ministry of Commerce), and The Applicant
+13
+
+
+of this ARA M/s Vserv Global Pvt Ltd, is private Limited company situated at 201, Dhantak
+Plaza, Opp. Waman Center, Makwana Road Andheri (E), Mumbai-400059. The officer has
+| collected this information from the website of the client. He has also collected information
+pertaining to the promoters of the client and the sister concern. Based on this information the
+| officer submits that all the above firms are related companies. He further has drawn a conclusion
+_ that the applicant is providing services to M/s. Vikudha India Trading Limited, a sister concern
+
+located in India and thus the provision of services is in India and not as export of services
+
+contended by the applicant.
+
+During the course of final hearing held on 26.06.2018 and having regards to the facts of the
+case applicant was called on to submit his written contention specifically insisting that how they
+are not covered in the definition of ‘ intermediary’ as defined u/s.2(26) of the IGST Act. In
+response applicant made further submission dated 02.07.2018 which is already reproduced
+
+above.
+
+We carefully have considered rival submissions and also scrutinized in detail different
+clauses of service agreement, Invoices and the bank statement. Admittedly appellant is to
+provide back office support services, payroll processing, to maintain records of employee to
+
+ong companies i.e. clients and after finalization of — /sale between the client and its
+
+= as ‘Zero rated supply’ in term of sec.16 of the IGST Act. In order to have seal of
+
+n the issue, the present application! is made and —a has sill this aie
+
+Section 16 of the IGST Act: (1) “zero rated supply” means any of the following supplies of goods or
+services or both, namely:—-
+
+(a) export of goods or services or both; or
+
+__ (b) supply of goods or services or both to a Special Economic Zone developer or a Special Economic Zone
+unit.
+
+] (2) Subject to the provisions of sub-section (5) of section 17 of the Central Goods and Services Tax Act,
+credit of input tax may be availed for making zero-rated supplies, notwithstanding that such supply may
+be an exempt supply.
+
+| (3) A registered person making zero rated supply shall be eligible to claim refund under either of the
+following options, namely:--
+
+14
+
+
+(a) he may supply goods or services or both under bond or Letter of Undertaking, subject to such conditions,
+safeguards and procedure as may be prescribed, without payment of integrated tax and claim refund of
+unutilised input tax credit; or
+
+(b) he may supply goods or services or both, subject to such conditions, safeguards and procedure as may
+be prescribed, on payment of integrated tax and claim refund of such tax paid on goods or services or both
+supplied, in accordance with the provisions of section 54 of the Central Goods and Services Tax Act or the
+rules made thereunder.
+
+Further considering the nature of transaction covered by the application understanding of the
+
+definition export of services as defined in the IGST Act is must, we reproduce the definition here
+in below:
+
+Section 2(6) of the IGST Act:
+
+“export of services” means the supply of any service when,—-
+
+(i) the supplier of service is located in India;
+
+(ii) the recipient of service is located outside India;
+
+applicant and the jurisdictional officer is already reproduced above. It is therefore necessary first
+
+to understand the definition of ‘intermediary’ as defined in the act.
+
+Section 2(13) of the IGST Act:
+
+“intermediary” means a broker, an agent or any other person, by whatever name called, who arranges or
+facilitates the supply of goods or services or both, or securities, between two or more persons, but does not
+
+include a person who supplies such goods or services or both or securities on his own account;
+
+In the context of definition of ‘Intermediary’ as mentioned above, we now examine the service
+agreement as a whole to ascertain whether the applicant is an Intermediary or not. This is
+necessary because the provisions of place of supply which decide the nature of supply of a
+
+transaction as to Intrastate supply, interstate supply or export supply. For a supply to be called
+
+1s
+
+
+as ‘export of services’ one of the condition is that the place of supply shall be outside India. The
+
+important clauses of the service agreements are as below:
+
+e Applicant commits to client to provide for services of back office administrative and
+
+accounting support.
+
+e Applicant will coordinate with buyers, sellers and other necessary parties for execution
+of purchase and sell contract entered into by the clients.
+
+¢ Clients will provide access to its software ‘VOSS’ to the applicant for rendering agreed
+
+services.
+
+¢ GetSDF(Sales Detail Form) & PDF(Purchase Detail Form) from concerned party
+e Generate order no in VOSS
+
+e Create PO (Purchase Order) & SC(Sales Contract) in VOSS
+
+e Send SC (Sales Contract) & Pl (Proforma Invoice) to customer & get Si(Shipping
+
+Instructions) as well Send PO (Purchase Order) to supplier & Seek PI (Proforma Invoice)
+
+& Share SI (Shipping Instructions)
+Liaise with supplier for Cargo Readiness
+
+ise with inspection authorities if pre-shipment inspection is needed
+
+e Seek carrier booking details and share with supplier & customer
+
+e Follow up for smooth SOB (Shipping on Board) with supplier and forwarder
+
+e Log it in Excel Order Sheet - ETD -ETA (Estimated Date of Arrival -Estimated date
+of Departure)
+
+e Get draft BL(Bill of Lading) prior to sailing
+
+e Follow up for full shipping documents with supplier
+
+e Raise payment request in VOSS for supplier for balance or final payment
+
+e Send payment request to Group Company for supplier for balance or final payment.
+
+e Arrange inspection certificates if applicable
+
+e Raise payment request for freight and inspection charges as applicable
+16
+
+
+e Arrange to send originals to Hong Kong
+
+e Follow up for Originals sent to Customer from Group Company
+
+e Notify ETA - reminder to Customer (ETA -Estimated time of arrival)
+e Troubleshooting
+
+e Applicants commits itself carrying out services in accordance with the instructions of the
+
+client.
+e Applicant commits not to disclose business dealing of client to any third party / parties
+
+e Applicant and client commit not to represent each other before a third party as agent and
+
+principal of the other party and entered into any kind of binding agreements.
+e Applicant shall receive remuneration per purchase per sale.
+
+A sum of all activities mentioned above indicate applicant as a person who arranges or
+facilitate supply of goods or services or both between the overseas client and customers of the
+overseas client, and therefore applicant is clearly covered and falls in the definition of an
+intermediary as defined under the IGST Act. As the applicant is held as Intermediary the
+
+provisions pertaining to place of supply in case of intermediary services as provided in
+
+~ gub8ection 8 of section 13 are relevant. In the instant case and as per applicants own admission
+
+»
+of factth, t applicant is supplier of Services, which is a corporate entity incorporated in India and
+
+~~
+provi Jed ly the applicant being intermediary would be the location of the supplier of services
+
+a S,
+“trafisaétion of supply of services as export of services that transaction has to satisfy all five
+
+the condition at (iii) of the above definition is not satisfied and hence without examining and
+
+getting into the contention of the jurisdictional officer with regards to condition at (v) of the said
+definition as to distinct person which would require more specific and detailed examination and
+verification on their part to get correct factual position in this regard, we hold that the services
+proposed to be rendered by the applicant do not qualify as ‘export of services’ as defined u/s.2(6)
+
+and thus nota ‘zero rated supply’ as per sec.16(1) of the IGST Act, 2017.
+
+Applicant submits that his case is covered by exclusion clause in definition of intermediary
+and in support of the same has strongly relied upon decision of advance ruling authority New
+Delhi in case of Godaddy India Web services Pvt Ltd reported as 2016(46) STR806(AAR) dated
+04.03.2016 (in short Godaddy). We have gone through the facts of the case and the ruling and
+we find that facts of the present case are different and not similar to facts of M/s. Godaddy. In
+
+17
+
+
+case of Godaddy the provision of support services was admittedly on principal to principal basis
+and were provided with sole intention of promoting the brand Godaddy US in India for
+augmenting its business. In the present case we find that the activities undertaken by the
+applicant are for and on behalf of clients to facilitate supply of goods and services between the
+clients their customers. In view of this we are of the opinion that the judgement cited by the
+
+applicant is not applicable to the facts of the present case.
+
+06. In view of the extensive deliberations as held hereinabove, we pass an order as follows:
+
+ORDER
+
+(Under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+__NO.GST-ARA- 03/2018-19/B- 59 Mumbai, dt. OF. 07.2013
+
+For reasons as discussed in the body of the order, the questions are answered thus -
+Question = | The Applicant Vserv request this Hon'ble Authority to decide as to whether the
+
+aforesaid services proposed to be rendered qualify as 'Zero Rated Supply in terms of Section 16
+
+tae { FLAG? - eines
+%
+Spare KS fe
+Noire STINE a 5
+eee B. V. BORHADE PANKAJ KUMAR
+(MEMBER) (MEMBER)
+
+Copy to:- CERTIFIED TRUE COPY
+1. The applicant
+2. The concerned Central / State officer gy
+3. The Commissioner of State Tax, Maharashtra State, Mumbai MEMBER
+5, Jt. Commissioner of S.T., Mahavikas, Mumbai for website. ADVANCE RULING AUTHORITY
+
+MAHARASHTRA STATE, MUMBAI
+Note :- An Appeal against this advance ruling order shall be made before The Maharashtra Appellate Authority for
+Advance Ruling for Goods and Services Tax, 15'* floor, Air India building, Nariman Point, Mumbai - 400021
+
+18

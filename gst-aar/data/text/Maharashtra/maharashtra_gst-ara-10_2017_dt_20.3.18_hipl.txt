@@ -1,0 +1,901 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+(constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri B. V. Borhade, Joint Commissioner of State Tax
+(2) Shri Pankaj Kumar, Joint Commissioner of Central Tax
+
+GSTIN Number, if any/ User-id 27 AABCH2726A1Z5
+
+Legal Name of Applicant Hafele India Private Limited
+
+Registered Address/Address provided | Office No. 3, Building “A” Beta, | - Think Techno Campus,
+while obtaining user id OFF J.V.L.R., Opp. Kanjurmarg Station, Kanjurmarg
+
+(East), Mumbai - 400 042
+Correspondence address, if different from | Same as above
+above &
+Mr. Abhishek Rastogi
+C/o Khaitan &amp; Co.
+3rd Floor, 1, One Forbes, VB Gandhi Marg, Kala Ghoda,
+Fort, Mumbai - 400 023
+Details of application GST-ARA, Application No. 10 Dated 21.12.2017
+Concerned officer Central GST, Range- III, Div-II, Navi Mumbai.
+Nature of activity(s) (proposed / present)
+in respect of which advance ruling sought
+A Category Wholesale business
+B Description (in brief) As per Exhibit A as reproduced in para 01 of the
+Proceedings below.
+Issue/s on which advance ruling required | (i) classification of goods and/or services or both
+
+Question(s) on which advance ruling is | Whether Caesarstone imported by the Applicant can be
+required classified under HSN Code 2506 or 6810?
+
+PROCEEDINGS
+
+(under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+The present application has been filed under section 97 of the Central Goods and Services
+
+Tax Act, 2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as
+“the CGST Act and the MGST Act”] by Hafele India Pvt. Ltd., seeking an Advance Ruling for
+determination of the correct classification of Caesarstone under the MGST Act.
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and
+the MGST Act are the same except for certain provisions. Therefore, unless a mention is
+specifically made to such dissimilar provisions, a reference to the CGST Act would also mean a
+reference to the same provision under the MGST Act. Further to the earlier, henceforth for the
+purposes of this Advance Ruling, a reference to such a similar provision under the CGST Act /
+
+MGST Act would be mentioned as being under the “GST Act”.
+
+02. FACTS AND CONTENTION - AS PER THE APPLICANT
+
+The submissions, as reproduced verbatim, could be seen thus -
+
+“Exhibit A — Statement of Facts
+
+er. Ss
+N
+
+. ~
+é JANCE Ruy
+
+
+1. M/s Hafele India Private Limited (hereinafter referred to as the “Applicant”) is a Private Limited Company having a
+registered place of business at Office No. 3, Building “A” Beta, [— Think Techno Campus, OFF J.V.L.R., Opp. Kanjurmarg
+Station, Kanjurmarg (East), Mumbai — 400 042. The Applicant has obtained GST registration in Maharashtra bearing
+registration number 27AABCH2726A 1Z5. The applicant is also registered in other states in India.
+
+2. The Applicant is engaged in the business of importation of kitchen and bathroom fittings along with furniture and
+other home accessories (hereinafter called as goods) for onward selling. The Petitioner while importing these
+goods is subject to Basic Customs Duty and Integrated Goods and Services Tax (“IGST”) under Customs Tariff
+Act, 1975 on goods cleared for home consumption.
+
+3. The Applicant also imports Caesarstone quartz surfaces (hereinafter referred to as “Caesarstone/impugned goods”)
+for onward sale to domestic customers in India. The Applicant while importing the impugned goods is liable to
+pay Basic Customs Duty, Integrated Goods and Services Tax (“IGST”) under Customs Tariff Act 1975 on goods
+cleared for home consumption. Further on making the outward supply of the impugned goods, depending on the
+nature of supply, the applicant is liable to discharge the applicable tax i.e. Central Goods and Services Tax
+(“CGST”) and State Goods and Services Tax (“SGST”) or IGST as the case may be.
+
+4. In the pre-GST regime, the Company, being an Importer dealer was not required to pay Excise duty on its sale to
+customers. It was merely liable to pay VAT / CST on such sale as per the rate schedule provided in the respective
+States VAT Act. Further, the rate Schedule under the respective VAT / CST laws was not linked to the HSN
+classification of the commodity. Under the Maharashtra Value Added Tax Act 2005 (“MVAT Act”), Caesarstone
+was taxed at 13.50% VAT in terms of the residuary entry contained in Schedule E to the MVAT Act.
+
+5. GST has been introduced w.e.f. July 1, 2017 which seeks to subsume most of the existing Indirect taxes. Further,
+the Government has also released various Schedules for classification of goods / services along with applicable
+GST rates. It is pertinent to note that unlike the VAT / CST laws, the GST rates have now been aligned to the
+HSN classification of the goods.
+
+6. It is pertinent to note that the classification of goods as per the GST rate Schedules has been aligned as per the
+classification adopted in the tariff entries provided under the First Schedule of the Customs Tariff Act, 1975
+(hereinafter referred to as the “Customs Tariff Act”). However, in certain cases, there is an inconsistency in
+classification, resulting in a situation wherein the goods could be classified in a different heading for import
+whereas the same may fall in the different entry under the respective states schedule for levy of tax on outward
+supply. Considering the said inconsistency between the classification of the product as per the GST rate Schedule
+vis-a-vis the Customs Tariff Act Schedule, it becomes necessary for the Applicant to re-determine classification
+of Caesarstone under the GST regime instead of continuing the classification adopted under the pre-GST era.
+
+7. Based on the examination, the Applicant realized that Caesarstone merits classification under HSN 2506 or 6810
+of the GST Schedule. At the time of importation, the same is being classified in chapter 6810 for the purpose of
+levy of BCD and IGST on the same.
+
+8. Considering the ambiguity in classification, the Applicant has initiated an application for an Advance Ruling
+before this Hon’ ble Advance Ruling Authority for determination of the correct classification of Caesarstone under
+the Maharashtra Goods and Services Tax Act 2017.
+
+9. The Applicant wishes to submit that Caesarstone can be classified in either of the following tariff entries:
+
+SR NO. HSN CODE DESCRIPTION OF GOODS |_IGST RATE
+ts 2506 Quartz (other than natural sands). quartzite, whether or not roughly trimmed or merely cut, by sawing or otherwise, 5%
+into blocks or slabs of a rectangular (including square) shape |
+% 6810 Articles of cement. of concrete or of artificial stone. whether or not reinforced 18%
+
+Exhibit B — Merits of the case
+
+1. At the outset, the Applicant submits that it has fulfilled all the conditions for filing the Advance Ruling in terms
+of Section 97 of the Central Goods and Services Tax Act 2017 (“CGST Act”). For ready reference, these
+conditions are reproduced hereunder:
+
+a. The Applicant has obtained registration in Maharashtra and would therefore be covered within the scope of
+the term “applicant” as defined under Section 95(c) of the CGST Act;
+
+b. The question on which advance ruling is sought is in relation to the classification of Caesarstone thereby
+fulfilling the condition provided under Section 97(2) of the CGST Act; and
+
+c. The question raised in the application is neither pending nor decided in any proceedings in the case of the
+Applicant under any provisions of the CGST Act.
+
+2. Having complied with the pre-requisite conditions for filing the present Advance Ruling Application, we may
+now proceed to determine the classification of Caesarstone under the GST regime. The guiding principles
+determining the classification of a product under the GST regime can be broadly bifurcated as under:
+
+a. Classification under the Customs Tariff Act 1975 (“Customs Tariff Act”) along with relevant Chapter Notes pertaining
+to Chapter 25 and 68 (attached and annexed as Exhibit C);
+
+b. General Rules for Interpretation of the First Schedule to the Customs Tariff Act (hereinafter referred to as the “General
+Rules for Interpretation”) which is attached and annexed as Exhibit D;
+
+¢. HSN Explanatory Notes released by the World Customs Organization attached and annexed as Exhibit E;
+
+In this application, we shall independently examine classification under 2506 as well as 6810 to determine the
+
+correct classification of the Impugned product.
+
+Classification of Caesarstone under heading 2506 of the Customs Tariff Act
+
+3. At the outset, it is imperative to understand that the composition of Caesarstone contains 93% crushed quartz.
+
+Quartz is combined with high-quality polyester resins and pigments and is then compacted under intense
+
+ibration, vacuum and pressure into dense and non-porous slabs.
+
+2
+
+
+4. The previously mentioned fact is substantiated from the Technical Data Manual — Section 6 (“TDM”) issued by
+the Applicant’s vendor. A copy of the TDM issued by the vendor is attached and annexed as Exhibit F.
+
+5. Quartz is a mineral composed of silicon and oxygen atoms in a continuous framework of SiO Silicon-Oxygen
+tetrahedra. It is the second-most abundant mineral in Earth’s continental crust behind feldspar.
+
+6. Section V of the First Schedule to the Customs Tariff Act deals with various Mineral Products. Section V is
+further bifurcated into 3 Chapters viz., Chapter 25, Chapter 26 and Chapter 27. Chapter 25 covers “Salt; Sulphur,
+earths and stone; plastering materials, lime and cement’. The Customs Tariff provides that quartz of the following
+description can be classified under Chapter heading 2506 of the Customs Tariff:
+
+“Quartz (other than natural sands); quartzite, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of
+a rectangular (including square) shape”
+
+7. Ascan be seen from the above that Caesarstone is approximately 90 percent crushed quartz. In this connection,
+we refer to Rule 2(a) of the General Rules for Interpretation which provides that a reference to a material or
+substance shall be taken to include a reference to mixture or combination of that material or substance with other
+materials or substances. Further, as per Rule 3(b) of the General Rules for Interpretation, mixtures, composite
+goods that consist of different materials or are made up of different components shall be classified as such
+material or component that gives the product its essential character.
+
+8. Applying the above criterion, it is beyond doubt that Caesarstone consists of approximately 90 percent crushed
+quartz. Consequently, Caesarstone imported by the Applicant shall be construed as a Quartz.
+
+9. Further the tariff entry 2506 specifically excludes natural sand. Sand is a naturally occurring material composed
+of finely divided rock and mineral particles. Sand is characterized by the size which is finer than gravel and
+coarser than silt. However, Caesarstone is the processed form of quartz in the form of slabs and thus, the same
+would not be construed as a natural sand.
+
+10. Although the GST regime do not seek to classify goods in excess of 4-digit classification, for a better co-relation
+of classification under the Customs Tariff Act, we are hereby evaluating the 8-digit classification provided under
+the Customs Tariff Act. In this connection, it is pertinent to note that Quartz under heading 2506 can either be in
+powder form or in the form of lumps.
+
+11. The term lump has not been defined under the Customs Tariff Act. Therefore, recourse needs to be made to the
+dictionary definition of the term lump. This has been defined in The Concise Oxford Dictionary [Pg. 846] as “4
+compact mass, especially the one without a definite or regular shape”. Applying the aforesaid definition, one may construe
+that Caesarstone can be termed to be in the form of lumps a lump may or may not have a definite shape.
+
+12. Further, we refer to the Chapter Notes provided under Chapter 25 of the Customs Tariff Act. Chapter Note | to
+
+Chapter 25 provides the various process that are permitted to be conducted on a product to qualify for
+classification under this Chapter. The relevant extract of the said Chapter Note | is reproduced hereunder:
+“1. Except where their context or Note 4 to this Chapter otherwise requires, the headings of this Chapter cover only products which are in
+the crude state or have been washed (even with chemical substances eliminating the impurities without changing the structure of the product),
+crushed, ground, powdered, levigated, sifted, screened, concentrated by floatation, magnetic separation or other mechanical or physical
+processes (except crystallization), but not products that have been roasted, calcined, obtained by mixing or subjected to processing beyond
+that mentioned in that heading.”
+
+13. In view of the above, it can be construed that only such products that are in crude form or have undergone inter
+alia the mechanical or physical processes are permitted to be classified under Chapter 25 of the Customs Tariff.
+Thus, while a product may not be supplied in crude form, if the same is subjected to the processes mentioned
+under Chapter Note 1 to Chapter 25, such product would also be construed to form part of Chapter 25 of the
+Customs Tariff Act Schedule. For this, it needs to be evaluated whether the processes carried on by the
+Applicant’s vendor falls within the purview of the term “mechanical process” as specified in Chapter Note | to
+Chapter 25.
+
+14. The term “mechanical process” has been defined in the Advanced Law Lexicon (5 Edition) as “A process involving
+the use of machine”. While this definition explains the meaning of the term “mechanical process”, we can also refer
+to the individual meanings of the terms “mechanical” and “process” to understand the meaning in greater depth.
+For reference, the definitions of the terms “mechanical” and “process” are reproduced hereunder:
+
+a. Mechanical: -
+i. Working or produced by machines [The Concise Oxford Dictionary — Tenth Edition, Page 884),
+ii, Pertaining to the science of mechanics or mechanism; depending upon mechanism or machinery [Advanced Law Lexicon (5" Edition)],
+b. Process: -
+i, A series of actions or steps towards achieving a particular end; perform a series of operations to change or preserve [The Concise
+Oxford Dictionary - Tenth Edition, Page 1139]
+
+ii, A method, operation, or series of actions intended to achieve some end or result; The natural meaning of the word “process” is a
+mode of treatment of certain materials in order to produce a good result, a species of activity performed on the subject matter in
+order to transform or reduce it to a certain-stage; “Process” connotes a substantial measure of uniformity of treatment or system of
+treatment. According to the Oxford English Dictionary, it means ‘a continuous and regular actions, taking place or carried on in
+definite manner’ [Advanced Law Lexicon (5" Edition)].
+
+Copies of the relevant extract of the aforesaid definitions have been collectively attached and annexed as Exhibit G.
+15. In view of the above, the term mechanical process can be understood to mean a series of operations with the use
+of machines. We shall co-relate this with the manufacturing processes carried on by the Applicant’s vendor. The
+entire process of manufacturing Caesarstone is set out hereunder:
+a. Inspection of raw materials: The manufacturing process begins with a rigorous inspection of all incoming materials so as
+to ensure only high quality raw materials are used in the manufacture of Caesarstone.
+b. Feeding and mixing: The best quality raw materials are blended at a ratio of up to 93% natural quartz aggregates with
+
+
+
+c. Moulding: The blended mixture is then poured into a mold and formed into slab sizes of 3050x1440mm,
+
+d. Pressing: Subsequently, the slab is compacted by a special vacuum and vibration process at a pressure of 100 tons.
+
+e. Curing: The slabs are moved to the curing kiln and heated to 90°C for 45 minutes which gives Caesarstone its ultimate
+
+strength and solidity.
+
+f. Polishing: Slabs are then gauged, calibrated and polished to a perfect finish in a wide range of colors and designs in one
+
+of our three textural surface finishes: Polished, Honed or Viento.
+
+The processes explained above have also been elaborated by the Applicant’s vendor in its website. A copy of the
+
+same is attached an annexed as Exhibit H.
+
+16. Ona combined reading of the definition of the term mechanical process with the manufacturing process carried
+on by the Applicant’s vendor, it can be construed that entire manufacturing process is within the scope of the
+term mechanical process. Consequently, in terms of Chapter Note | to Chapter 25, the manufacturing operations
+conducted by the Applicant’s vendor are within the ambit of permissible processes.
+
+17. Besides this, the Applicant further submits that the HSN system of coding goods is based on the HSN developed
+by the World Customs Organization (“WCO”). The WCO, periodically releases an Explanatory Note to each of
+the Chapters / Products of the HSN.
+
+18. We refer to the Explanatory Notes released by the WCO which are annexed to Chapter heading 2506 of the HSN
+Code. The relevant extract of the same is as under:
+
+“Quartz is the naturally occurring crystal form of silica.
+
+It falls in this heading only if complying with both of the following two conditions:
+
+(a) It must be in the crude state or have not undergone any process beyond that allowed in Note | to this Chapter; heat treatment designed
+solely to facilitate crushing is regarded as a process permitted by Chapter Note 1.
+
+(b) It must not be of a variety and quality suitable for the manufacture of gem-stones (eg. Rock crystal and smoky quartz, amethyst and
+rose quartz). Such quartz is excluded (heading 71.03), even if intended to be used for technical purposes, eg. As piezo-electric quart=
+or for the manufacture of parts of tools.
+
+Quartzite is the name of the very hard compact rock composed of grains of quartz agglomerated by a siliceous binder.
+
+Quartzite falls in this heading when in the crude state or when it has not undergone any process beyond that allowed by Note 1 to this Chapter
+
+or when it has been roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape.”
+
+19. It is pertinent to note that Chapter Note 1 to Chapter 25 of the HSN is identical to the Chapter Note 1 of the
+Customs Tariff Act and hence, the same is not replicated again for the sake of brevity. Therefore, on a harmonious
+reading of the Customs Tariff Act and HSN Explanatory note, it can be construed that the impugned goods merit
+classification under tariff heading 2506 of the Customs Tariff Act.
+
+20. It may also be noted that the description of the product used by the vendor in its invoice is “Agglomerated Fabricated
+Quartz Slab”. Thus, further substantiating classification under Chapter heading 2506 of the Customs Tariff Act.
+
+21. In light of the aforesaid analysis, it is beyond doubt that Caesarstone merits classification under Chapter 2506 of
+the Customs Tariff Act. However, before concluding on the classification, it would be imperative to evaluate
+tariff heading 6810 of the Customs Tariff Act.
+
+Classification of Caesarstone under heading 2506 of the Customs Tariff Act
+
+22. The other heading that merits consideration for determining the classification of Caesarstone is 6810 of the
+Customs Tariff. Chapter heading 6810 covers “Articles of cement, of concrete or of artificial stone, whether or not reinforced”.
+In this connection, it is humbly submitted that Caesarstone is neither an article of cement nor a concrete article.
+It can at the maximum be classified only under the entry “Articles of artificial stone”.
+
+23. Moreover, tariff entry 6810 inter alia covers various products like tiles, flagstones, bricks, prefabricated structural
+components for building or civil engineering and concrete boulder. While it is beyond doubt that Caesarstone is
+different from tiles, bricks and prefabricated components for building or civil engineering, it would also be
+important to understand the meaning of the terms “flagstones” and “concrete boulder”.
+
+a. As per Rule 22 of the Madhya Pradesh Mineral Rules 1996, Flagstone is a natural sedimentary rock which is
+used for flooring, roof top, etc. and used in the cutting and polishing industry. The meaning of the term
+flagstone clarifies that the same is different from Caesarstone.
+
+b. We would also refer to the meaning of the term “concrete boulder”. The word concrete boulder has not be
+defined anywhere and thus, we would refer to the dictionary definitions. As per The Concise Oxford
+Dictionary, the word concrete refers to the building material made from a mixture of gravel, sand, cement and
+water. Further, the word boulder refers to a large rock. Thus, on a combined reading of both the
+aforementioned definitions, it can be construed that a concrete boulder would mean a large rock made from a
+mixture of gravel, sand, cement and water.
+
+In view of the above, the product can merit classification only under the residuary category of tariff entry
+
+68109990.
+
+24, Further, it would be worthwhile to refer to Chapter Note 1 to Chapter 68 which clearly provides that Chapter
+does not cover goods falling under Chapter 25. The relevant extract of the same is as follows:
+
+“1. This Chapter does not cover:
+
+(a) Goods of Chapter 25; ...”
+
+25. Thus, if Caesarstone qualifies to be classified under Chapter heading 2506, it automatically gets excluded from
+the applicability of tariff entry 6810. Consequently, the entire issue that merits consideration in the instant case
+is whether Caesarstone can be classified under Chapter heading 2506 of the Customs Tariff.
+
+26. At the cost of repetition, it is humbly submitted that the manufacturing processes carried on by the Applicant’s
+
+vendor would be considered to be a mechanical process and therefore, merit classification under heading 2506.
+
+
+
+27. Further, we would also refer to Rule 3(a) of the General Rules for Interpretation which provides the manner of
+determination of classification when the goods are classifiable under two or more headings. The analysis
+pertaining to the same is as follows:
+
+a. At the outset, it is submitted that due to a specific exclusion of goods falling under Chapter 25 in Chapter
+Note | to Chapter 68, it appears that there does not exist a possibility of a scenario where a particular product
+can be classified under Chapter 25 as well as Chapter 68 of the Customs Tariff Act.
+
+b. Without prejudice to the aforesaid argument, if one intends to apply Rule 3(a) of the General Rules for
+Interpretation, the said rule provides that a specific description should be prevailed over a generic description.
+In the instant case, the two headings that merit consideration is Quartz — In lumps (2506) and Other Artificial
+Stones (6810). In the instant case, the most specific description that relates to the nature of the impugned
+goods is under tariff entry 2506.
+
+¢. The Hon’ble Apex Court, in plethora of judgments held that the heading that provides a more specific
+description shall be preferred to the headings providing a more general description.
+
+i. In Indian Metals & Ferro Alloys Ltd., Cuttack ys. Collector of Central Excise, Bhubaneshwar, [1991 Supp (1) SCC 125), the
+Hon’ble Apex Court held that a residuary item can be referred to and such item can be applied only when
+goods are shown to be not falling under any other specific item. If they are covered by a specific item,
+residuary item has no application. It was further held that unless the department can establish that the
+goods in question can, by no conceivable process of reasoning, be brought under any of the specific
+items mentioned in the tariff, resort cannot be had to the residuary item.
+
+ii. Similarly, the Hon’ble Apex Court in the case of Speedway Rubber Company vs. CCE, Chandiarh [2002 (143) ELT
+0008 (SC)] has laid down the principle that while determining the classification of a product, the specific
+entry provided under the Tariff should prevail and overrule a general entry.
+
+28. From the above, it is evident that Caesarstone merits classification under heading 2506 of the GST Schedule on
+account of the following reasons:
+
+a. Although the manufacturing process carried on by the Applicant’s vendor involves use of machines, the same
+is purely within the ambit of the term “mechanical process” and accordingly, is within the scope of the
+processes permitted by Chapter Note 1 to Chapter 25 of the Customs Tariff
+
+b. Chapter Note | to Chapter 68 specifically excludes goods falling under Chapter 25. Thus, if the goods are
+capable to be classified under Chapter 25, classification under Chapter 68 is automatically excluded;
+
+¢. On analyzing the dominant-composition test, it appears that the product has approximately 90% quartz sand
+classifiable under Chapter 25 of the Customs Tariff Act. Consequently, applying the Rule 2 / Rule 3(b) of the
+General Rules for Interpretation, Caesarstone would also be classified under Chapter heading 2506 of the
+Customs Tariff; and
+
+d. The description used by the vendor is in line with the Explanatory Notes to Chapter 25 issued by the WCO.
+
+29. However, the GST law in India is at its infancy and the Applicant intends to ensure minimum litigations under
+the GST regime. Therefore, the Applicant has approached this Hon’ble Advance Ruling Authority to determine
+the correct classification of Caesarstone under the GST regime.
+
+30. In light of the above, the Applicant has approached the Hon’ble Advance Ruling Authority to seek the following
+reliefs:
+
+a. Determination of classification of Caesarstone imported by the Applicant under the GST regime in HSN Code
+2506 in light of the discussions made in the forgoing paragraphs;
+
+b. Any other relief as this Hon’ ble Advance Ruling Authority may deem fit.”
+
+03. CONTENTION - AS PER THE CONCERNED OFFICER
+
+The submission, as reproduced verbatim, could be seen thus -
+
+“In case of above mentioned Advance Ruling Application No 10 dated 21.12.2017 filed by M/s Hafele India Pvt Ltd.
+
+Mumbai 400 042, it is respectfully submitted as under:
+
+1. M/s Hafele India Pvt Ltd.(hereinafter referred to as the applicant) are registered with Central Government under
+GST Act with GSTIN No 27AABCH2762A1Z5.
+
+2. The applicant has filed an application with the Advance Ruling Authority (hereinafter referred to as “authority”
+for brevity) for determination of classification of the product “Caesarstone” imported and sold in domestic market
+by the applicant.
+
+3. The question before the authority is to decide whether the product “Caesarstone” imported by the applicant can
+be classified under HSN Code 2506 or 6810.
+
+4. The applicant while submitting their case before the authority have submitted the manufacturing process by
+which the product “Caesarstone” is manufactured and it’s composition. In para 3 of Exhibit B, it has been
+submitted by the applicant that the said product is manufactured by combining Quartz with high quality polyster
+resin and pigments which is then compacted under intense vibration, vacuum and pressure into dense and non-
+porous slabs. The submission is supported by the technical literature (pg 41) submitted by the applicant
+alongwith the application.
+
+5. The HSN code 2506 & 6810 describes the product as under:
+
+| Description of Goods |
+
+
+
+2506 Quartz (other than natural sands), quartzite, whether or not roughly trimmed or merely cut, by sawing or
+otherwise, into blocks or slabs of a rectangular (including square) shape
+6810 Articles of Cement, of concrete or of artificial stone, whether or not reinforced.
+
+6. The classification of any product is governed by Section & Chapter Notes, HSN explanatory notes and General
+Rules for interpretation. For classifying any product in particular chapter, the chapter notes are of utmost
+importance. Therefore it is very much essential to examine the chapter notes of both the chapters i.e. Chapter 25
+& Chapter 68 before deciding to classify the product under particular chapter.
+
+7. The Chapter Note | of Chapter 25 clearly states that “....zhe headings of this Chapter cover only products which are in the crude
+state or which have been washed (even with chemical substances eliminating the impurities without changing the structure of the product),
+crushed, ground, powdered, levigated, sifted, screened, concentrated by floatation, magnetic separation or other mechanical or physical
+processes (except crystallisation), but not products that have been roasted, calcined, obtained by mixing or subjected to processing beyond
+
+that mentioned in each heading”.
+
+8. As per chapter note | of Chapter 25 only mineral products which are in crude state or have been mechanically or
+physically processed without changing the character of the mineral product can only be classified under Chapter
+25.
+
+9. As submitted by the claimant, the mineral product “quartz” is crushed, combined with pigments and resins and
+then under intense vacuum and pressure the product caesarstone is manufactured. The processes adopted for
+manufacturing the said product are not only mechanical or physical but also chemical in nature by which the
+quartz which is a mineral product gets converted into a differently identifiable product, commercially known as
+“ Caesarstone”. As per the literature submitted by the applicant along with the application, it can be seen that
+the product gets manufactured in high tech industrial plant which can carry out mechanical, physical as well as
+chemical processes on mineral product. Further, as per chapter note 1 of chapter 25 for classification of the
+product under any particular sub-heading of Chapter 25, the processes mentioned against the chapter sub heading
+are only required to be carried out and not beyond that. The processes mentioned against Chapter sub-heading
+are only cutting or mere trimming by sawing or otherwise and not beyond that. In the instant case as more
+processes are carried out than mentioned in chapter sub heading 2506, the product cannot be classified under
+chapter 2506.
+
+10. Thus, the classification of the product under Chapter 25 is ruled out in view of Chapter note 1 of Chapter 25.
+
+11. The Chapter 68 includes Articles of Stone, plaster, Cement, asbestos, mica or similar material. Quartz being
+similar product, the articles made of quartz i.e. “Caesarstone” can be classified under Chapter 68. Chapter 6810
+specifically mentions “Articles of Cement, of concrete or of artificial stone, whether or not reinforced” and
+includes Tiles, flagstones, bricks and similar articles. The product Caesarstone being similar article as Tiles, the
+same is correctly classifiable under Chapter 6810.
+
+12. In view of the above submission it is prayed that the authority may give ruling that the product “Caesarstone” is
+appropriately classifiable under Chapter 6810 and not 2506.
+
+13. As the above submission is interim in nature, we reserve our right to make further submission before the authority
+give it’s ruling.”
+
+04. HEARING
+
+The case was taken up for preliminary hearing on dt.31.01.2018. However, none attended on
+behalf of the applicant. Since one opportunity was decided to be given, the hearing was scheduled on
+dt.06.02.2018. On dt.06.02.2018 and on dt.15.02.2018 (the final hearing), Sh. Abhishek A. Rastogi
+(Advocate) attended alongwith Sh. Ankit Shah (Advocate) and reiterated the contention as made in the
+written submission and also submitted copies of Bill of Entries of their imports during the last three years.
+
+On dt.31.01.2018, Ms. Farah Zachariah, Assistant Commissioner appeared and made oral
+submission. On dt.15.02.2018, Sh. Sudhakar Pandey, Dy. Commissioner GST & Central Excise, Div- II,
+
+Navi Mumbai attended and furnished a written submission.
+
+05. OBSERVATIONS
+We have gone through the facts of the case. We have been called upon to decide the
+
+classification of the product ‘Caesarstone’ under the GST Act. Before we move on to determine
+
+the classification, we need to understand the product. Let us see how the product has been
+
+described -
+
+
+
+e Composition Caesarstone is 90 percent crushed quartz (silicon dioxide — SiO2), one of nature’s hardest minerals.
+Quartz is combined with high-quality polyester resins and pigments, and then compacted under intense vibration,
+vacuum, and pressure into dense, non-porous slabs. The slabs are gauged to precise thickness, and polished to an enduring
+shine or attractive honed finish. After passing inspection, the back of each Caesarstone slab is imprinted with a zigzag
+trademark to simplify jobsite identification.
+
+Colors and Styles Caesarstone offers the widest spectrum of design options in the quartz surface industry. Our styles
+range from fine-grained salt-and-pepper patterns to coarse-grained color blends with a variegated visual texture. See our
+website or contact Caesarstone for color brochures and samples.
+
+Stocked Standards: 59 colors are available with a polished finish — 8 of them are also available in a honed (matte) finish.
+Three colors are available with a concrete finish.
+
+Finishes Caesarstone offers 4 distinctive surface finishes that offer added character beyond the color offering.
+Caesarstone can be finished on two faces by special order requiring a minimum order quantity and additional lead-time.
+Polished surfaces have a silk gloss finish with a ratio greater than or equal to 35% at 50°.
+
+Honed is matte finish surface with the look and feel of natural stone, requiring more maintenance yet no sealants.
+Concrete™ matte, textured finish which introduces an industrial aged feel to the surface. This unique finish never requires
+sealing and is designed to acquire a natural patina over time which adds to the character of the surface, yet remains easy to
+clean and maintain.
+
+Motivo® is a pattern-design application applying a patented embossed effect.
+
+e Caesarstone® is the original engineered quartz surface. Use it as an attractive, versatile, and distinctive finish for
+residential, commercial and institutional buildings.
+
+° Manufacturing Process Caesarstone has three state-of-the-art production facilities and five fully automated
+production lines servicing a global distribution network.
+We use advanced Breton technologies, and employ highly skilled and trained staff members to ensure a quality product
+that is unrivaled in the industry today.
+Caesarstone quartz surfaces meet exacting standards of excellence from the initial procurement of raw materials to the final
+quality control check.
+one’s manufacturing process begins with a rigorous inspection of all incoming raw materials. Only the best quality raw
+materials are blended at a ratio of up to 93% natural quartz aggregates with pigments and polymer resins. Our
+strictly monitored automated process includes the following:
+Feeding & Mixing
+Raw materials are inspected, then fed into mixers and blended together.
+Molding
+The mixture is then poured into a mould and formed into slab sizes of 3050x1440mm.
+Pressing
+The slab is then compacted by a special vacuum and vibration process at a pressure of 100 tons.
+
+Curing
+
+The slabs are moved to the curing kiln and heated to 90°C for 45 minutes which gives Caesarstone its ultimate strength and
+solidity.
+
+Polishing
+
+Slabs are then gauged, calibrated and polished to a perfect finish in a wide range of colours and designs in one of our three
+textural surface finishes: Polished, Honed or Viento.
+
+Quality Assurance
+
+Finally, the slabs pass through quality inspection to ensure our customers receive a top quality product.
+
+Labelling
+
+Each slab is then marked and labelled with all relevant information necessary for the smooth operation of fabrication and
+logistics.
+
+e Use Caesarstone for:
++ Countertops and backsplashes * Shower and tub surrounds * Lavatory and sinks + Interior wall cladding * Table and desk
+tops * Wainscots and wall bases * Toilet compartment partitions + Fireplace mantles and surrounds* * Elevator cab walls
+* Service counters * Stair and mezzanine railing systems*
+
+e Sustainable Standards and Certifications
+ISO 14001 and 9001 Certification: Caesarstone is the first quartz surfacing company to receive ISO 14001 and 9001
+Environmental Management Systems certification.
+
+e Sustainable Composition of Product
+¢ — Approximately 90% quartz, an abundant natural resource and by-product from mining other minerals.
+¢ Low volatile organic compound (VOC) emissions, contributing to indoor-air quality.
+¢ Less toxic than wood according to the UPITT standard in New York City building code.
+¢ Continually developing recycled colors to add to our product line.
+
+Having seen as above, let us reproduce the schedule entry in respect of which claim is
+
+being laid and also, the entry which is claimed as being not applicable -
+
+S.No | Chapter / Heading / | Description of Goods GST Rate
+Subheading / Tariff item {CGST + MGST]
+
+7
+
+
+114. 2506 Quartz (other than natural sands); quartzite, whether or not roughly | 5% [2.5% +
+trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a | 2.5%]
+rectangular (including square) shape.
+
+181. 6810 Articles of cement, of concrete or of artificial stone, whether or not reinforced | 18% [9% + 9%]
+
+It can be seen that the Heading 2506 covers “Quartz”. However, the entry says that the
+quartz would be one which may or may not be roughly trimmed or merely cut. The process of
+trimming or cutting is further specified as being by the method of sawing or otherwise. Such
+quartz would be in blocks or slabs of a rectangular (including square) shape. A look at the
+information reproduced above reveals that the impugned product is not “quartz” per se.
+“Quartz” is one of the raw materials to produce the impugned product which is an engineered
+quartz surface and which has use as an attractive, versatile, and distinctive finish for residential,
+commercial and institutional buildings, Such a finished product containing polyester / polymer
+resins and pigments alongwith quartz is but certainly not envisaged by the description of the
+Heading 2506. Any arguments about composition of quartz in the impugned product being
+about 90% would lead to no different inference than the one had in the preceding sentence. It
+would be far-fetched a proposition to say that the impugned product surface containing quartz
+as its major raw material is covered by the natural quartz as falling in the Heading 2606. What
+we say finds confirmation from the Harmonized Commodity Description and Coding System
+
+Explanatory Notes (HSN) Notes of Chapter 25 -
+
+1. Except where their context or Note 4 to this Chapter otherwise requires, the headings of this Chapter cover only products
+
+which are in the crude state or which have been washed (even with chemical substances eliminating the impurities without
+changing the structure of the product), crushed, ground, powdered, levigated, sifted, screened, concentrated by flotation,
+
+magnetic separation or other mechanical or physical processes (except crystallization), but not products that have been roasted,
+
+calcined, obtained by mixing or subjected to processing beyond that mentioned in each heading.
+
+The impugned product is not in the crude state. The addition of polyester / polymer
+resins and pigments alongwith quartz changes the structure of the product. The impugned
+product is obtained by the process of mixing quartz with other substances. The impugned
+product contains quartz as a raw material. The final product cannot be said to be one which has
+been washed, crushed, ground, powdered, levigated (polish, smooth, 10 grind to a fine smooth powder),
+sifted, screened, concentrated by flotation, magnetic separation or other mechanical or physical
+processes. The words “other mechanical or physical processes” in the Note cannot be taken to
+cover the manufacturing of the impugned product. These words take colour from the words
+“crude state, without changing the structure of the product, crushed, powdered, etc.”. The
+Chapter Note, by specific mention, states that it does not cover products that have been roasted,
+calcined or obtained by mixing. The impugned product is obtained by blending the raw
+materials which consist of quartz aggregates, pigments and polymer resins in a mixer. This
+
+mixture is put through processes which includes heating in a kiln. We see above that even
+
+roasting is not allowed by the Chapter Note. The General Notes of this Chapter further say that-
+
+“Minerals which have been otherwise processed (e.g., purified by re-crystallisation, obtained by mixing minerals falling in the
+same or different headings of this Chapter, made up into articles by shaping, carving, etc.) generally fall in later Chapters (for
+example, Chapter 28 or 68).””
+
+
+
+As can be seen the above General notes throw light on the words “otherwise processed”.
+It can be seen that these words do not cover activities such as mixing with other minerals, let
+alone polymers or pigments. Further, the words “otherwise processed” do not cover activities
+such as making up of articles by shaping, curving, etc. HSN Notes of the Heading 2506 make
+
+things clearer when they say -
+
+“Quartz is the naturally occurring crystal form of silica.
+
+It falls in this heading only if complying with both of the following two conditions :
+
+(a) It must be in the crude state or have not undergone any process beyond that allowed in Note I to this Chapter; for this
+purpose, heat treatment designed solely to facilitate crushing is regarded as a process permitted by Chapter Note 1.
+
+(b) It must not be of a variety and quality suitable for the manufacture of gem-stones (e.g., rock crystal and smoky quartz,
+amethyst and rose quartz). Such quartz is excluded (heading 71.03), even if intended to be used for technical purposes, e.g..
+as piezo-electric quartz or for the manufacture of parts of tools.”
+
+All above help us understand that the Chapter 25 covers the naturally occurring quartz
+which has undergone changes without changing the structure of the product. The way the
+impugned product comes into existence should leave no doubt that the same would not be
+covered by the Chapter 25 and the Heading 2506. The rules for interpretation of the Customs
+Tariff would not apply herein as the Chapter 25 specifically excludes goods of the nature as the
+impugned product. None of the arguments and case laws in support of this Heading fail to make
+a point. Without any further discussion, we would conclude that the impugned product would
+not be covered by the Heading 2506.
+
+The applicant has argued that the impugned product would not be covered by the
+Heading 6810 as it falls in Heading 2506. Import documents submitted by the applicant reveals
+
+import from Caesarstone, Israel thus-
+
+> Agglomerated Fabricated Quartz Slab of different grades is under Customs Tariff Heading (CTH) 68109990.
+> Agglomerated Slabs (Artificial Slabs) of different grades under Customs Tariff Heading (CTH) 68109100.
+
+Let us look at the Customs Tariff Heading 6810 -
+
+6810 ARTICLES OF CEMENT, OF CONCRETE OR OF ARTIFICIAL STONE, WHETHER OR NOT
+REINFORCED
+- Tiles, flagstones, bricks and similar articles :
+6810 11 -- Building blocks and bricks :
+68101110  --- Cement bricks
+68101190 --- Other
+6810 19 -- Other:
+68101910  --- Cement tiles for mosaic
+68101990 --- Other
+- Other articles :
+681091 00 -- Prefabricated structural components for building or civil engineering
+681099 -- Other:
+68109910 = --- Concrete boulder
+68109990 = --- Other
+
+We have reproduced hereinabove the description against the Heading 6810 for the
+purposes of the schedule entry under the GST Act. The entire description as appearing in the
+Customs Tariff Heading 6810 has been taken for the purposes of the GST entry. It, therefore,
+means that all item falling in the Customs Tariff Heading 6810 would fall in the description
+against the Heading 6810 for the purposes of the schedule entry under the GST Act.
+
+Now, we see that the Heading covers artificial stone. Artificial stone is understood thus-
+
+9
+
+
+
+Artificial stone is a name for various kinds of synthetic stone products used from the 18th century onward. As well as artistic uses,
+they have been used in building construction, civil engineering work, and industrial uses such as grindstones.
+
+Engineered stone/edit]
+
+See also: Engineered stone
+
+Engineered stones are the latest development of artificial stones, it was invented in the early 1980s and have since been
+continuously developed by the Italian company Breton S.P.A.'s late founder Marcello Toncelli.
+
+Engineered stones are a mix of marble powder, resin, and pigment cast using vacuum oscillation to form blocks. Slabs are then
+produced by cutting, grinding, and polishing. Some factories have developed a special, low-viscosity, high-strength polyester resin
+to improve hardness, strength, and gloss and to reduce water absorption.
+
+There are two major varieties of engineered stones based on the main composition of its aggregates (stone
+powders), marbles and quartz. The process is more or less similar except in certain details, however the two product have different
+commercial applications.
+
+Engineered marbles are most commonly used as flooring for large commercial projects. Engineered quartz is widely used in the
+developed world for counter tops, window sills, and floor and wall coverings.
+
+http/Avww.stone-tech.com.aw/stone-products/reconstituted-stone.htm
+Reconstituted Stone
+
+Reconstituted stone (also known as Engineered, re-composed agglomerated and synthetic stone) is manufactured from a mix
+of stone aggregate chips (most commonly quartz or marble, but also igneous rocks such as granite and basalt); mineral fillers
+(generally the ground aggregate); a resin binder (typically an unsaturated polyester); pigments and additives.
+
+The impugned product is described as “ Caesarstone® is the original engineered quartz surface” . It also
+contains quartz aggregates, pigments and polymer resins. We may also view some other
+
+information as available on the Internet -
+
+https://www.washingtonpost.com/realestate/with-countertops-quartz-has-supplanted-granite-as-the-peoples-
+choice/2017/01/19/16a89ac2-dec9-11e6-acdf-14da832ae861_ story.html?utm_term=.1d10fd5c785f
+
+To fabricate the artificial stone, manufacturers such as Caesarstone, Silestone and Cambria blend crushed quartz with resins
+and pigments, pour the mixture into molds and apply pressure to compact the slabs, which are cured and polished into the final
+product. The quartz is then cut and finished like real stone.
+
+http://www.veritas.It/en/artificial-stone/caesarstone/
+The Caesarstone ® artificial stone surface is very comfortable in size and lightness.
+
+http://townsvillestone.com.au/articles/natural-stone-vs-engineered-stone-kitchen-bathroom
+Engineered stone is a man-made product and was introduced into the market in the late 1980's.
+
+The need for a manufactured stone arose due to a demand for more consistency in the look of the finished product, and
+a denser product. The main component in engineered stone is naturally forming quartz which is a highly strong
+mineral.
+
+Engineered stone has general consistency in colour and style due to each piece being made to exact recipes. It contains
+almost nil porosity which makes it resistant to scratches, chips and stains, giving it an added hygiene factor when used
+in a kitchen setting.
+
+As the product is made primarily from naturally forming quartz, a difference of up to two shade tones can be viewed
+between sample and slab, i.e. the sample you see may not be exactly the same as the slab. This is an important
+consideration if choosing engineered stone — which is a different process to if selecting natural stone, (where you can
+chose the specific slab).
+
+A look at all above helps understand that the impugned product is an article made from
+artificial stone. It is a product made using artificial or engineered stone. The product certification
+
+explains things, beyond doubt -
+
+Deciare—.
+
+Quserts Surrace
+Sasiaratane
+
+10
+
+
+
+Itcan, therefore, be understood as to why the impugned product is being cleared under
+the Heading 6810. We have also found a Ruling dt.27.08.2002 in respect of the product
+classification of Silestone™ (as seen above) agglomerated stone slabs under the Harmonized
+
+Tariff Schedule of the United States (HTSUS). The information about the product was thus — The
+slabs are composed of 93% quartz and 7% resm binder. After the slabs are imported. they are sold only to U.S, distributors who
+
+use them to produce various counter tops, vanities und fireplace surrounds. It was held that the agglomerated quartz
+sheets are classified under subheading 6810.99.00, HTSUS, which provides for other articles of
+artificial stone. We have also come across an article explaining the nuances of classification of
+
+stones as can be seen thus -
+
+>
+
+js ion=com_content&view=article&id=380:us-customs-classification-of-building-
+
+i &showall=1&limitstart=& Itemid=234
+
+PUBLISHED: 18 DECEMBER 2008 - By Jacob Bunin - National Import Specialist - U.S. Customs and Border Protection
+
+Generally, Chapter 25 of the Harmonized Tariff Schedule of the United States (HTS) covers crude stone and minerals, as well
+
+as stone and minerals worked in very simple physical ways (e.g., crushed, ground, powdered, washed, etc.). Stone worked
+
+beyond the point allowable in Chapter 25 is classifiable in Chapter 68. Importations of worked stone classifiable in Chapter 68
+
+are more common than importations of crude and slightly worked stone classifiable in Chapter 25.
+
+Chapter 25 vs. Chapter 68
+
+While headings 2515 and 2516 cover crude or roughly trimmed monumental/building stone and monumental/building stone merely
+
+cut into rectangular (including square) blocks or slabs, stone worked beyond this point is classifiable in heading 6802. Any cutting
+
+that goes beyond simple cutting from the quarry block requires classification in Chapter 68.
+Operations that dictate classification in Chapter 68 include honing and other processes designed to create a smooth or flat
+
+surface; the same operations applied to the edges of a stone; polishing applied to either the face or edges of the stone; dressing,
+
+grinding, chamfering, molding, carving, etc. All workings which goes beyond the simplest cutting associated with the quarry
+
+shifts the classification of stone from Chapter 25 to Chapter 68.
+
+Heading 6802 covers monumental or building stone worked beyond the point allowed in Chapter 25 —i.e., stone processed beyond
+
+the stage of simple shaping into blocks, sheets or slabs by splitting, roughly cutting or squaring. Heading 6802 covers the forms
+
+of stone created by the mason or sculptor. This heading includes roughly sawn blanks and non-rectangular sheets.
+The 6802 forms also encompass any stone (including blocks, slabs or sheets) that has been polished, dressed, furrowed, planed,
+
+ground, chamfered, molded, carved, ornamented, beveled, edge worked, etc. In addition to worked monumental or building stone,
+
+heading 6802 covers articles of monumental and building stone. A significant exception to this rule involves articles of precious
+
+or semiprecious stone classifiable in Chapter 71.
+
+Heading 6802 (Worked Natural Stone) vs. Heading 6810 (Artificial Stone)
+
+Worked monumental/building stone is classifiable in heading 6802, assuming the stone is natural. However, artificial stone is
+
+classifiable in heading 6810.
+
+Artificial stone is formed when pieces of natural stone, or crushed or powdered natural stone, is agglomerated with plastic
+
+resins, cement or other binders. In artificial (agglomerated) stone, the binding material and the natural stone are uniformly
+
+agglomerated throughout the body of the article.
+
+The classification of floor and wall tiles of agglomerated stone is dependent on the precise type of binding material used in the
+
+products, Subheading 6810.19.12 provides for floor and wall tiles of stone agglomerated with binders other than cement (e.g.,
+
+plastic resins). Floor and wall tiles of stone agglomerated with cement are classifiable in subheading 6810.19.14.
+
+All above leads to the inevitable inference that the impugned product would merit
+
+classification in Chapter 68 and the Heading 6810.
+
+05. In view of the extensive deliberations as held hereinabove, we pass an order as follows :
+
+ORDER
+
+(under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+NO.GST-ARA49/2017/B- 13 Mumbai, dt. 2° /39/20)&
+
+For reasons as discussed in the body of the order, the question is answered thus -
+
+
+
+Q Whether Caesarstone imported by the applicant can be classified under HSN code 2506 or 6810?
+A. Caesarstone imported by the applicant is to be classified under HSN code 6810.
+
+a _- Sd —
+B. V. BORHADE PANKAJ KUMAR
+(MEMBER) (MEMBER)
+
+Copy to:-
+
+1. The applicant
+
+2. The concerned Central / State officer
+
+3. The Commissioner of State Tax, Maharashtra State, Mumbai
+
+CERTIFIED TRUE COPY
+
+a
+
+LING AUTHORITY
+MAHARASHTRA STATE, MUMBA!
+
+4. The Jurisdictional Commissioner of Central Tax
+
+12

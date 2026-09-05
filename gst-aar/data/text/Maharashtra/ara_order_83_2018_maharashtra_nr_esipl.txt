@@ -1,0 +1,1052 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+GST Bhavan, 8'h floor, H-Wing, Mazgaon, Mumbai - 400010.
+(Constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri B. Timothy, Addl. Commissioner of Central Tax, (Member)
+(2) Shri B. V. Borhade, Joint Commissioner of State Tax,( Member)
+
+GSTIN Number, if any/ User-id 27AADCN9254B1ZI
+USER ID : 271800000892ARH
+Legal Name of Applicant M/S NR Energy Solutions India Pvt Ltd
+Registered Address/ Address | Plot No.89, Panvel Industrial Co-op. Estate Ltd., Opp.
+provided while obtaining user id__| Garden Hotel, Panvel, Raigad - 410 206.
+Details of application GST-ARA, Application No. 83 Dated 04.10.2018
+Concerned officer Asstt. Commr, CGST &CX, Raigad Coomissionerate
+Nature of activity(s) (proposed /
+present) in respect of which
+advance ruling sought
+A_| Category Manufacturing & Suppliers
+B_ | Description (in brief) Exporter, Manufacturer and Supplier of electrical control
+panels, power system, protection, automation, flexible
+AC transmission system, HVDC transmission etc,
+Issue/s on which advance ruling | (i) classification of goods and /or services or both
+required
+Question(s) on which advance | As reproduced in para 01 of the Proceedings below.
+ruling is required
+
+PROCEEDINGS
+
+Under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+esent application has been filed under section 97 of the Central Goods and Services
+
+Me nature of Works Contract Services and therefore liable to GST @ 18% under the HSN Code
+995461 ?
+
+I. If the answer to above is in negative, whether the said transaction is Supply of Goods?
+a) If yes, liable to GST at what rate of tax and under which HSN Code ?
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and
+the MGST Act are the same except for certain provisions. Therefore, unless a mention is
+specifically made to such dissimilar provisions, a reference to the CGST Act would also mean a
+reference to the same provision under the MGST Act. Further to the earlier, henceforth for the
+purposes of this Advance Ruling, a reference to such a similar provision under the CGST Act /
+MGST Act would be mentioned as being under the “GST Act”.
+
+
+02. FACTS AND CONTENTION - AS PER THE APPLICANT
+The submissions, as reproduced verbatim, could be seen thus-
+
+“ANNEXURE "B": STATEMENT OF FACTS (Clause 15 of Form GST ARA-01]
+
+1: M/S NR Energy Solutions Pvt Ltd (hereinafter referred to as "the Applicant’) is engaged
+into the business as Manufacturer, Exporter & Supplier of Electrical Control Panels,
+Power System, protection, automation , flexible AC transmission system, HDVC
+transmission etc.
+
+2: They have been awarded turnkey projects by M/s TRANSMISSION CORPORATION OF
+ANDHRA PRADESH LIMITED (hereinafter referred to as “M/s APTRANSCO") for
+supply, installation, testing and commissioning of Relay & Protection Panels with
+Substation Automation System (SAS) compatible to IEC 61850 protocol, at their various
+sites/locations enumerated as under:
+
+SR | PURCHASE ORDER NO| DATED | SITE/LOCATION CONTRACT
+
+N | [Po] VALUE
+
+oO.
+
+1 | 236- 28th Oct.,| Visakhapatnam, Rs.8,82,93,950/-
+PMM/2016/CE/CONS 2016 Vijayawada &
+T/SE/P&MM/DE2/SAS/PM Kadapa Zones
+M22-e-17 2016/D.No.240/20
+235
+235- 28th Oct.,| Salur, Chigurukota, | Rs.
+PMM/2016/CE/CONS 2016 Rapur, .Garbham, | 7,20,64,380/-
+T/SSE/P&MM/DE2/SAS/P Chodavaram,
+
+MM22-2-14 Narayanapuram,
+2016/D.No.239/2016 Srikakulam town,
+Ponnuru &
+Yernagudem
+Repeat Order 328- | 26th Duvva Sub Station| Rs.3,57,01,707/-
+PMM/2017/CE/CONSTS | May, and other zones
+E/P&MM/DE2/SAS/PMM_ | 2017
+22-e-17-
+2016/D.No.122/2017
+
+The copies of all the 3 PO's are enclosed herewith at Annexure D, E & F respectively.
+
+3: The brief scope of the work involves "Supply of Relay & Protection Panels and
+Substation Automation System (SAS), complete design, manufacture, packing,
+insurance, transport and delivery to sites, training, installation, testing and
+commissioning of protection panels with Substation Automation System compatible to
+IEC 61850 protocol, to control and operate the 220 KV, 132 KV & 33 KV feeders, Power
+Transformers and equipments". [Refer Clause 2 of above specified PO's]
+
+4. As per Schedule-A of the above referred PO, separate prices are indicated for each of the
+activity for supply of various materials and the activity for installation, testing &
+commissioning etc. [Refer Clause 6 and Schedule A of above specified PO's]
+
+5; The above prices are inclusive of all the taxes such as Excise Duty, Central Sales tax and
+Service Tax as applicable from time to time. [Refer Clause 6 and Schedule A of sabove
+specified PO's]
+
+6. Acontrol & relay panel are designed for controlling & monitoring of electrical equipments
+such as transformers, generators and circuit breakers.
+
+7 Substation automation is the act of automatically controlling the substation via
+
+instrumentation and control devices. It refers to using data from Intelligent electronic
+
+devices (IED), control and automation capabilities within the substation, and control
+
+commands from remote users to control power-system devices. In other words,
+2
+
+
+Substation Automation (SA) is a system to enable an electric utility to remotely monitor,
+control and coordinate the distribution components installed in the substation.
+
+8. The pictures of the Control & Relay Protection panels erected & installed in the SAS
+control room and SAS architecture drawing are enclosed herewith at Annexure G.
+
+9. The process involves erection of panels in the control room. Thereafter, control cable and
+fibre optic cable are laid, to connect the substation with the panels. The installation of
+control panels also includes computers and printers for the purpose of automation
+process.
+
+10. In the pre GST era, the applicants levied excise duty and central sales tax along with
+applicable cess on the value of various equipments supplied and levied service tax on
+installation, testing and commissioning charges recovered under the category of
+“Erection, Commissioning and Installation services” [Refer Clause 7 of above specified
+PO's]. The sample copies of sale invoices raised during pre-GST regime are enclosed
+herewith at Annexure H.
+
+11. The above specified PO’s were amended by M/s APTRANSCO, in order to
+commensurate the implications of GST in the contract price. The details of the revised
+/amended PO’s and contract values is given as under:
+
+SR | REFERENCE OF LETTER FOR ORIGINAL REVISED
+NO. | AMENDEMENT IN PO CONTRACT | CONTRACT
+VALUE VALUE
+(i) | Lr.No. Rs.8,82,93,950/ | Rs.8,95,27,573/-
+et, CE/Const./SE/P&MM/DE2/SAS/ -
+y ZNANC 8 : ie 236- PMM/2016/D.No.252/2017
+. , dated 25'» October,2017
+
+Lr.No. Rs.7,20,64,380/ | Rs.7,27,98,306/
+CE/Const./SE/P&MM/DE2/SAS/235-P - -
+MM/2016/D.No.226/2017 dt
+26.09.2017
+Lr.No. Rs.3,57,01,707/ | Rs.3,67,38,631/-
+
+CE/Const./SE/P&MM/DE2/SAS/328- -
+PMM/2016/D.No.238/2017 dated
+66October,2017
+
+The copies of the above revised PO’s/ amendment letter are enclosed herewith at
+Annexure I, J&K respectively
+
+12. M/s APTRANSCO while revising the respective PO's for giving the effect of GST in the
+contract price, mentioned that the GST rate applicable on above contract shall be 18%
+under the HSN (SAC) code - 995461. [Refer revised schedule /annexure for process of
+each component of material and installation, testing etc]
+
+13. The applicants charged and collected GST as described below in the initial period from
+
+M/s APTRANSCO :
+NATURE OF HSN CODE RATE
+SUPPLY OF
+GST
+Supply of materials | 8537 2000 - 28%
+/ goods - as | Boards, panels, consoles, desks, cabiaets and other bases,
+specified in | equipped with two or more apparatus of heading 8535
+
+Schedule A of the | or 8536, for electric control or the distribution of
+
+
+
+agreement ie. | electricity, including those incorporating instruments or
+power apparatus of chapter 90, and numerical control
+transformers , relay | apparatus, other than switching apparatus of heading
+panels etc 8517
+
+Supply of services | 9954 61- 18%
+- as specified in | Electrical installation services including Electrical wiring
+Schedule A of the | & fitting services, fire alarm installation services, burglar
+agreement ie. | alarm system installation services.
+
+installation , testing
+
+, commissioning
+
+etc
+
+14. Vide letter no. CE/Constn/SE/P&MM/DE-II/PMM22-e-17/16/328-PMM/D.No.2018
+dated 34 January,2018& letter no. FA & CCA(Accounts)/SAO (Audit, S&TA) /AO(IA) /
+D.No.562/18 dated 7 February,2018, the applicants were intimated by principal M/s
+APTRANSCO that applicable rate of GST is not 28% in respect of supply of materials
+/ goods under the above contracts. The correct rate would be 18% as the said turnkey
+projects essentially is a “works contract” as it involves erection and installation of goods
+into immovable property and the goods involved in the execution of the said Substation
+Automation System [SAS] gets transferred to M/s APTRANSCO. The copy of said letters
+is enclosed herewith at Annexure L
+
+15. The applicant has issued credit notes for refund of GST charged @ 28% on supply of
+equipments / goods and thereafter issued revised invoice levying GST @ 18% under HSN
+code 995461. The sample copies of sale invoices, corresponding credit notes and revised
+invoices are enclosed herewith at Annexure M.
+
+16. The applicant therefore is filing present application before Hon’ble Authority for
+Advance ruling.
+
+ANNEXURE “C”: STATEMENT CONTAINING THE APPLICANTS INTERPRETATION
+
+4 Ss ioe > \THE CONTRACT BEING INSTALLATION, COMMISSIONING OF COMPLETE
+2 , og \aurowarion SYSTEM WITH THE CONTROL & RELAY PANELS WITHIN A
+ie # Bart SUBSTATION, IT RESULTS INTO COMPOSITE SUPPLY IN NATURE OF “WORKS
+
+ts t Ae, - <GONTRACT”
+sed ew /“ 44) As per Section 7(1) of the CGST Act,2017 (“the Act”), the term “supply” includes
+Nan Lest all forms of supply of goods or services or both such as sale, transfer, barter,
+YY Sasa! cr exchange, licence, rental, lease or disposal made or agreed to be made for a
+
+=cAig ea consideration by a person in the course or furtherance of business.
+
+1.2) The applicant submits that their contracts with M/s APTRANSCO is an turnkey
+project wherein they are under an obligation to
+* complete design, manufacture of equipments
+¢ packing, insurance, transport and delivery of equipments to various sites
+* installation, testing and commissioning of various equipment at Substation and
+
+thereafter render training.
+
+1.3) Thus, the final outcome or deliverable is ready to operate Substation Automation
+System, which can control and operate the 220kv, 132kv & 33kv feeders & Power
+Transformers. It essentially emerges that applicant here are involved in supply of
+goods & services which are naturally bundled and are supplied in conjunction to
+each other. Infact,the applicant are providing end to end activity, which involves
+vide range of activities to be carried out for setting up Substation Automation
+system to control and operate the Power Transformers.
+
+
+1.4) The term “works contract” is defined in section 2(119) of CGST Act, 2017 as
+
+under :
+“2(119)- WORKS CONTRACT : means a contract for building, construction,
+fabrication, completion, erection, installation, fitting out, improvement,
+modification, repair maintenance, renovation, alteration or commissioning of any
+immovable property wherein transfer of property in goods (whether as goods or
+in some other form) is involved in the execution of such contract;
+
+1.5) In the instant case, the applicants are required to design and manufacture,
+erection of the control & relay protection panels & other equipments which are
+interconnected to make the substation automatically operated which is compatible
+to IEC 61850 protocol. Once the panels and other equipments are installed, the
+process of testing and commissioning takes place to check that entire system is
+fully operative to control the feeders and power transformers.
+
+1.6) This automated system within the substation is operative locally as well as
+remotely, which is used to efficiently control and deliver power. Thus, it is
+developing & installation of automated substation system fully equipped with all
+the control devices which can be monitored and operated from remote area.
+
+1.7) |The whole system is tailor made and as per the specifications of individual
+customer, i.e. M/s APTRANSCO.
+
+1.8) It may be noted that all the control devices, relay & protection panels and other
+
+equipments are installed in the substation. The same cannot be dismantled and
+
+removed after installation without substantially damaging the entire substation.
+
+Asa result, it is more or less in the nature of permanent installation of equipments
+
+within the substation & becomes part of the substation.
+
+The term “immovable property” is not defined under the CGST Act, 2017. As per
+
+Section 3(26) of the General Clauses Act, 1897, "immovable property’ shall include
+
+land, benefits of arise of land and things attached to the earth or permanently
+
+. fastened to anything attached to the earth.
+
+1.10) ~ As per Section 3 of Transfer of Property Act, 1882, "immovable property" does not
+
+-sinclude standing timber, growing crops or grass.
+
+1.11) As per Section 2(6) of the Registration Act,1908, "immovable property" includes
+
+‘ ie ' Jand, buildings, hereditary allowances, rights to ways, lights, ferries, fisheries or
+
+\ : » ~ jfany other benefit to arise out of land, and things attached to the earth or
+
+\ .\ .* permanently fastened to anything which is attached to the earth, but not standing
+
+/ “ge ’’ timber, growing crops nor grass.
+
+7.12) A substation basically is a part of an electrical generation, transmission, and
+distribution system. A substation is a place where high-voltage electricity from
+power plants is converted to lower-voltage electricity for homes or factories.
+
+1.13) Substations are usually constructions which may be on the surface in fenced
+enclosures, underground, or located in special-purpose buildings. To put it in
+simple words, substation is itself a civil structure which is a place constructed on
+land and is immovable.
+
+1.14) Therefore, installation of various devices, equipments and control & relay
+protection panels ina substation forms part of the substation and therefore inherits
+the characteristics of an “immovable property”.
+
+1.15) In view of above, the supply, installation, testing and commissioning activity of
+various equipments and control & relay panels carried out by applicant for
+electrical substations belonging to principal at various location, is a transaction of
+“works contract” and covered within definition of section 2(119) of the Act.
+
+1.16) As per Section 7(1) (d) read with Entry No.6(a) of Schedule II, the activity of
+composite supply of works contract is treated as “Supply of Service”.
+
+
+
+1.17) The applicant draws your honours attention to various judicial pronouncements,
+wherein it is held that equipment and devices fastened to the earth, for its
+beneficial enjoyment will partake the character of “immovable property”.
+
+1.18) The Hon’ble Constitution Bench of the Apex Court in case of M/s Kone Elevators
+India Pvt Ltd Vs. State of Tamil Nadu and Others [(2014) TIOL 57SC CT CB]
+observed that
+“A contract may involve both a contract of work and labour and a contract for sale. In
+composite contract, the distinction between contract for sale of goods and contract for work
+(or service) is virtually diminished for the purposes of Art. 366(29-A)(b). Now by legal
+fiction under Article 366(29-A)(b), it is permissible to make such contract divisible by
+separating the transfer of property in goods as goods or in some other form from the
+contract of work and labour. The dominant nature test has no application and the
+traditional decisions which have held that the substance of the contract must be seen have
+lost their significance where transactions are of the nature contemplated in Article 366(29-
+A).
+
+The court relied on the Larger Bench decision of SC in case of Larsen and Toubro, the
+question arose whether taxing of sale of goods in an agreement for sale of flat which is to be
+constructed by the developer-promoter is permissible under the Constitution. The three- Judge
+Bench opined that though the ultimate transaction between the parties may be sale of the flat, yet
+it cannot be said that the characteristics of works contract are not involved in that transaction
+because the term "works contract" is nothing but a contract in which one of the parties is obliged
+to undertake or to execute the work and such an activity cf construction bears all the
+characteristics and elements of works contract.
+
+Coming back to the present case, it is perceivable that the three-Judge Bench has referred
+to the statutory provisions of the 1957 Act and thereafter referred to the decision in Hindustan
+
+Shipyard Ltd., and has further taken note of the customers’ obligation to do the civil construction
+
+ie and the time schedule for delivery and thereafter proceeded to state about the major component
+fi ey , s facet and how the skill and labour employed for converting the main components into the end
+product wastonly incidental and arrived at the conclusion that it was a contract for sale. The
+principal logic applied, i.e., the incidental facet of labour and service, according to us, is not
+correct. It may be noted here that in all the cases that have been brought before us, there is a
+composite contract for the purchase and installation of the lift. The price quoted is a composite
+one for both. As has been held by the High Court of Bombay in Otis Elevator (supra), various
+~~technitaVaspects go into the installation of the lift. There has to be a safety device. In certain
+‘ States: it is controlled by the legislative enactment and the rules. In certain States, it is not, but
+the fact remains that a lift is installed on certain norms and parameters keeping in view
+numerous factors. The installation requires considerable skill and experience. The labour and
+service element is obvious. What has been taken note of in Kone Elevators (supra) is that the
+company had brochures for various types of lifts and one is required to place order, regard being
+had to the building, and also make certain preparatory work. But it is not in dispute that the
+preparatory work has to be done taking into consideration as to how the lift is going to be attached
+to the building. The nature of the contracts clearly exposit that they are contracts for supply and
+installation of the lift where labour and service element is involved. Individually manufactured
+goods such as lift car, motors, ropes, rails, etc. are the components of the lift which are eventually
+installed at the site for the lift to operate in the building. In constitutional terms, it is transfer
+either in goods or some other form. In fact, after the goods are asse:nbled and installed with skill
+and labour at the site, it becomes a permanent fixture of the bui:ding. Involvement of the skill
+has been elaborately dealt with by the High Court of Bombay in Otis Elevator (supra) and the
+factual position is undisputable and irrespective of whether installation is regulated by statutory
+law or not, the result would be the same. We may hasten to add that this position is stated in
+respect of a composite contract which requires the contractor to install a lift in a building. It is
+necessary to state here that if there are two contracts, namely, purchase of the components of the lift from a
+dealer, it would be a contract for sale and similarly, if separate contract is entered into for installation, that
+would be a contract for labour and service. But, a pregnant one, once there is a composite contract for supply
+
+6
+
+
+and installation, it has to be treated as a works contract, for it is not a sale of goods/chattel simpliciter. It is
+not chattel sold as chattel or, for that matter, a chattel being attached to another chattel. Therefore, it would
+not be appropriate to term it as a contract for sale on the bedrock that the components are brought to the
+site, i.e., building, and prepared for delivery. The conclusion, as has been reached in Kone Elevators
+(supra), is based on the bedrock of incidental service for delivery. It would not be legally correct
+to make such a distinction in respect of lift, for the contract itself profoundly speaks of obligation
+to supply goods and materials as well as installation of the lift which obviously conveys
+performance of labour and service. Hence, the fundamental characteristics of works contract are
+satisfied. Thus analysed, we conclude and hold that the decision rendered in Kone Elevators does
+not correctly lay down the law and it is, accordingly, overruled”.
+The copy of said decision is enclosed herewith at Annexure N.
+1.19) The Hon'ble Apex Court in case of M/s CCE Ahmedabad Vs. Solid & Correct
+Engineering Works [(2010) 252 ELT 481 SC]while analyzing that Setting up of
+Asphalt Drum Mix Plant using duty paid components amounts to manufacture or
+not observed that Machines intended to be fixed permanently to structures
+embedded in earth. Moveable character of machine becomes extinct once fixed,
+embedded or assimilated in permanent structure. Such machine not treatable
+moveable is not dutiable. The Hon’ble Apex Court has made following observations
+
+Para 17 : Section 3 of the Transfer of Property Act, 1882 does not spell out an exhaustive
+definition of the expression “immovable property”. It simply provides that unless there is
+something repugnant in the subject or context ‘immovable property’ under the Transfer of
+Property Act, 1882 does not include standing timber, growing crops or grass. Section 3(26)
+of the General Clauses Act, 1897, similarly does not provide an exhaustive definition of the
+said expression. It reads :
+
+“Section 3(26) : “immovable property” shall include land, benefits to arise out of land, and
+things attached to the earth, or permanently fastened to anything attached to the earth.”
+
+is not the case of the respondents that plants in question are per se immoveable
+property. What is argued is that they become immovable as they are permanently
+imbedded in earth in as much as they are fixed to a foundation imbedded in earth no
+'-*rilatter only 11 feet deep. That argument needs to be tested on the touch stone of the
+_> provisions referred to above. Section 3(26) of the General Clauses Act includes within
+“the definition of the term “immovable property” things attached to the earth or
+permanently fastened to anything attached to the earth. The term “attached to the
+earth” has not been defined in the General Clauses Act, 1897. Section 3 of the Transfer
+of Property Act, however, gives the following meaning to the expression “attached to
+the earth”:
+“(a) rooted in the earth, as in the case of trees and shrubs;
+(b) imbedded in the earth, as in the case of walls and buildings;
+(c) attached to what is so imbedded for the permanent beneficial enjoyment of that to which it
+is attached.
+
+20. It is nobody’s case that the attachment of the plant to the foundation is meant for
+
+permanent beneficial enjoyment of either the foundation or the land in which the same
+
+is imbedded
+
+21. In English law the general rule is that what is annexed to the freehold becomes part of
+the realty under the maxim “quid quid plantatur solo, solo cedit”. This maxim,
+however, has no application in India. Even so, the question whether a chattel is
+imbedded in the earth so as to become immovable property is decided on the same
+principles as those which determine what constitutes an annexation to the land in
+English law. The English law has evolved the twin tests of degree or mode of
+annexation and the object of annexation. In Wake v. Halt (1883) 8 App Cas 195 Lord
+
+Blackburn speaking for the Court of Appeal observed :
+7
+
+
+“The degree and nature of annexation is an important element for consideration; for where a
+chattel is so annexed that it cannot be removed without great damage to the land, it affords a
+strong ground for thinking that it was intended to be annexed in perpetuity to the land.”
+
+The copy of said decision is enclosed herewith at Annexure O.
+
+1.20) The Hon'ble Allahabad High Court in case of M/s Kranti Steel Pvt Ltd Vs. Chief
+Controlling Revenue Authority & Ors dismissed the writ petition vis a vis the
+applicability of rate of stamp duty on the plant and machineries installed within
+industrial unit purchased has held that the revenue authority is correct in holding
+that stamp duty was chargeable on entire sale consideration at the rates applicable
+to land and building, including the plant and machineries installed therein. The
+Hon’ble Apex Court observed that :
+
+14. Whether plants and machinery set up in a factory premises, fastened to earth or
+things attached to earth, can be held to be a moveable or immoveable property, came
+to be considered before this Court in Official Liquidator Vs. Sri Krishna Deo and Ors.,
+AIR 1959 All 247. The Court appointed an Advocate Commissioner to inspect
+premises of company to ascertain whether machinery and plants were fixed and
+attached to earth or not. The report submitted shows that plants and machinery of
+company were either embedded in the earth or permanently fastened to things
+attached to earth. On behalf of State, argument was raised that most parts of
+machinery are fixed to their bases with bolts and ruts, and can be removed by
+removing the nuts. It thus cannot be said that such machineries are permanently
+fastened inasmuch as, the same can be moved away by removing the nuts and hence
+should be held "movable property". The argument was noticed and rejected, by
+following House of Lords decision in Reynolds Vs. Ashby & Son, 1904 ACJ 466,
+wherein Lord Lindley has observed:
+
+"The purpose for which the machines were obtained and fixed seems to me unmistakable; it
+was tocomplete and use the building as a factory. It is true that the machines could be removed
+if necessary, but the concrete beds and bolts prepared for thorn negative any idea of treating
+themachines when fixed as movable chattels."
+
+15. This decision in Official Liquidator Vs. Sri Krishna Deo (supra) has been affirmed
+and approved in Duncans Industries Ltd. Vs. State of U.P. and Ors., AIR 2000 SC 355.
+The Court held :"We are inclined to agree with the above finding of the High Court
+that the plant and machinery in the instant case are immovable properties. The
+question whether a machinery which is embedded in the earth is movable property or an
+immovable property, depends upon the facts and circumstances of each case. Primarily, the
+court will have to take into consideration the intention of the parties when it decided to embed
+the machinery whether such c was intended to be temporarv or permanent. A careful perusal
+of the agreement of sale and the conveyance deed along with the attendant circumstances and
+taking into consideration the nature _of machineries involved clearly shows that_the
+machineries which have_been embedded in the earth to ccnstitute a fertiliser plant in the
+instant case, are definitely embedded permanently with a view to utilise the same asa fertilizer
+plant. The description of the machines as seen in the Schedule attached to the deed of
+conveyance also shows without any doubt that they were set up permanently in the land in
+question with a view to operate a fertilizer plant and the same was not embedded to dismantle
+and remove the same for the purpose of sale as machinery at any point of time. The facts as
+could be found also show that the purpose for which these machines were embedded
+was to use the plant as a factory for the manufacture of fertiliser at various stages of
+its production. Hence, the contention that these machines should be treated as
+movables cannot be accepted. Nor can it be said that the plant and machinery could
+
+8
+
+
+have been transferred by delivery of possession on any date prior the date of
+conveyance of the title to the land."
+
+18. In the present case it is not disputed that besides plants and machinery, entire
+land and building was sold and there was no provision/agreement that plants and
+machinery shall be severed or removed from earth. In fact, the industrial unit has
+been leased out for the purpose of running. Removal of plants and machinery would
+not have allowed the factory to run. There is no agreement between parties that
+plants and machinery shall be severed or removed from earth.
+
+19. Even according to definition of 'goods' under Sale of Goods Act, in my view it
+cannot be included therein. One has to understand the concept of fastening of plants
+and machinery to earth or its fixing or attached to earth in a reasonable and
+practicable manner. Scientifically speaking, nothing can be treated immoveable. In
+the context of plants and machinery, where it is permanently fastened or attached
+to earth, it has to be seen from the point of utility also. If it cannot be used without
+being attached to earth, it may be immovable property in the industries like one up
+for_consideration in this matter. Unless, such fastening is there, the plant and
+machinery cannot be put to a rational use. They generally do not move or taken
+away unless a particular plant and machinery has become obsolete or when the
+factory is closed or otherwise circumstances so warrant and the owner decide to
+remove and sell it. Such contingency do not arise every day. They are very rare and
+
+occasional. Removal of plants and machinery from earth in a working unit is a
+. decision which is not normally taken in ordinary circumstances, that too when entire
+
+“and, building along with machinery is leased out for the purpose of running the
+same.
+e copy of said decision is enclosed herewith at Annexure P.
+
+a Hon'ble Bombay High Court in case of M/s Bharti Airtel Ltd Vs. Commissioner
+oh ; oF Central Excise , Pune-III [(2014) 35 STR865 BOMJvis a vis availment of cenvat
+\ y ,¢redit of duty paid on items such as towers/ prefabricated buildings with antenna,
+
+‘. . = y Base trans receiver station etc classifying it under rule 2(l) of CCR,2004 i.e. Capital
+
+goods held that said items are fastened and are fixed to the earth and after their
+erection become immovable and therefore cannot be goods. It was further observed
+that :
+They are immovable structures, non-marketable and non excisable. They could not
+be capital goods also as they were neither components, spares and accessories of
+goods falling under any of Chapters or Headings of Central Excise Tariff as specified
+in sub- clause (i) of definition of capital goods in Rule 2(a)(A) of Cenvat Credit Rules,
+2004. It was held that tower and parts thereof are not directly utilised for output
+service as the same has been basically a structural support for certain equipment. It
+was further observed that it may not be necessary if suitable alternate support is
+available. Such towers by no stretch of imagination can be considered parts of
+telecom equipment or as telecom equipment by themselves and it was thus held that
+tower and parts thereof do not qualify as capital goods
+
+The copy of said decision is enclosed herewith at Annexure Q.
+
+1.22) The Hon’ble Supreme Court in case of M/s T.T.G. Industries Vs. CCE vis a vis the
+levy of excise duty on the contract for design, supply, supervision of erection and
+commissioning of four sets of Hydraulic Mudguns and Tap Hole Drilling Machines
+required for blast furnace of the Bhilai Steel Plant held that :
+
+
+“The mudguns and the drilling machines erected at site by the appellant on a specially made
+concrete platform at a level of 25 feet above the ground on a base plate secured to the concrete
+platform, brought into existence not excisable goods but immovable property which could not be
+shifted without first dismantling it and then re-erecting it at another site. Having regard to the
+nature of structure erected for basing these machines, we are satisfied that the judicial member
+of the CEGAT was right in reaching the conclusion that what ultimately emerged as a result of
+processes undertaken and erections done cannot be described as "goods" within the meaning of
+the Excise Act and exigible to excise duty. We find considerable similarity of facts of the case in
+hand and the facts in Mittal Engineering and Quality Steel Tubes and the principles underlying
+those decisions must apply to the facts of the case in hand.
+
+In Quality Steel Tubes (P) Ltd. Vs. Collector of Central Excise, UP 1995 (75) ELT 17
+(SC);his Court observed :
+
+" The basic test, therefore, of levying duty under the Act is two fold. One, that any article, must be
+a goods and second, that it should be marketable or capable of being brought to market. Goods
+which are attached to the earth and thus become immoveable do not satisfy the test of
+being goods within the meaning of the Act nor it can be said to be capable of being brought
+to the market for being bought and sold. Therefore, both the tests, as explained by this
+Court, were not satisfied in the case of appellant as the tub2 mill or welding head having
+been erected and installed in the premises and embedded to earth they ceased to be goods
+within meaning of Section 3 of the Act
+
+Thus, It cannot be disputed that such drilling machines and mudguns are not equipments which
+
+are usually shifted from one place to another, nor it is practicable to shift them frequently. Counsel
+
+pp »»., for the appellant submitted before us that once they are erected and assembled they continue to
+
+“operate from where they are positioned till such time as they are worn out or discarded. According
+
+to'him they really become a component of the plant and machinery because without their aid a blast
+
+furtiace cannot operate. It is not necessary for us to express any opinion as to whether the mudgun
+
+and the drilling machines are really a component of the plant and machinery of the steel plant, but
+
+we ate satisfied that having regard to the manner in which these machines are erected and installed
+
+“upon concrete structures, they do not answer the description of " goods" within the meaning of the
+
+tem in the Excise Act”
+
+Ate copy of said decision is enclosed herewith at Annexure R.
+
+1.23) The Hon’ble Supreme Court in case of M/s Ibex Gallagher Pvt Ltd Vs. CCE, Bangalore
+held that erection of electric power fencing system by use of solar poweris not leviable to
+excise duty and observed as under :
+
+“The adjudicating authority was not justified in holding that fabrication of the plants in
+question out of duty paid bought out items amounts to manufacture of a new marketable
+commodity and therefore dutiable. Also Circular No.58/1/2002-CX dated 15th January,
+2002 has been issued by the GOI, CBEC, indicating to clarify the question of excisability of
+plant and machinery assembled at site is referred. It laid down following guidelines to
+determine the excisability of plant and machinery assembled at site which is enumerated
+as under :
+
+a) For goods manufactured at site to be dutiable they should have a new identity, character
+and use, distinct from the inputs/components that have gone into its production. Further,
+such resultant goods should be specified in the Central Excise Tariff as excisable goods
+besides being marketable i.e. they can be taken to the market and sold (even if they are not
+actually sold). The goods should not be immovable.
+
+10
+
+
+b) Where processing of inputs results in a new products with a distinct commercial name,
+identity and use (prior to such product being assimilated in a structure which would
+render them as a part of immovable property), excise duty would be chargeable on such
+goods immediately upon their change of identity and prior to their assimilation in the
+structure or other immovable property.
+
+c) Where change of identity takes place in the course of construction or erection of a
+structure which is an immovable property, then there would be no manufacture of goods
+involved and no levy of excise duty.
+
+d) Integrated plants/ machines, as a whole, may or may not be goods. For example, plants
+for transportation of material (such as handling plants) are actually a system or a net work
+of machines. The system comes into being upon assembly of its component. In such a
+situation there is no manufacture of goods as it is only a case of assembly of manufactured
+goods into a system. This cannot be compared to a fabrication where a group of machines
+themselves may be combined to constitute a new machine which has its own
+identity / marketability and is dutiable (e.g. a paper making machine assembled at site and
+fixed to the earth only for the purpose of ensuring vibration free movement)
+
+e) If items assembled or erected at site and attached by foundation to earth cannot be
+dismantled without substantial damage to its components and thus cannot be
+reassembled, then the items would not be considered as moveable and will, therefore, not
+be excisable goods.”
+
+The copy of said decision is enclosed herewith at Annexure S.
+SG “a5, II. APPLICANTS INTERPRETATION & CONCLUSION OF THE IMPUGNED TRANSACTION
+j Les
+
+2.1) Based on the above facts, analysis of legal provisions supported by various judicial
+
+ay ‘ yay pronouncements, the applicants hereby submit that the contract of design, manufacture,
+
+(ef ae 1 \ supply, installation, testing & commissioning of various equipments at electrical
+
+q “se ) © \ substation of principal ie. M/s APTRANSCO, is transaction of supply of works contract
+\* } P ; and leviable to GST @ 18% under HSN Code 995461.”
+
+C4 j
+Va _/0.,. CONTENTION - AS PER THE CONCERNED OFFICER
+~~~ 2° The submission, as reproduced verbatim, could be seen thus-
+
+X. REA
+SSF" is submitted that, Issue on which advance ruling is required:
+
+(2) In this connection, this is to inform you that the copy of application made before the Advance
+Ruling Authority by M/s. NR Energy Solutions Pvt. Ltd., was not received by this office.
+Therefore a copy of the same was obtained from the assessee on 06.12.2018 late evening under
+the acknowledgement.
+
+(3) The applicant M/s. NR Energy Solutions Pvt Ltd., has stated In their additional submission
+dated 05.1.2018 to the Advance Ruling Authorities (point No.8) that no SCN was issued in respect
+of C. Excise and Service tax matter in past 5 years. Whereas as per range office record, one SCN
+dt.29.12.2014 amounting to Rs.1,59,179/- regarding wrong availment and utilisation of cenvat
+credit, was issued to the assessee which was adjudicated and the duty amount was appropriated
+alongwith interest and assessee has also paid the applicable penalty.
+
+(4) On going through the application received, it is observed that the question on which Advance
+Ruling is sought by the applicant is -
+“ whether the transaction/contract referred in the present application to M/s. APTRANSCO is in the
+nature of Works Contract Services and therefore liable to GST 18% under the HSN Code 995461 ?
+
+If the answer to above is in negative, whether the said transaction is Supply of Goods?
+
+iW
+
+
+a) Ifyes, liable to GST at what rate of tax and under which HSN Code ? “
+
+(5) On perusal of the documents submitted by the applicant M/s N R Energy Pvt. Ltd, Mumbai It
+appears that they have been awarded three (3) turnkey project by M/s Transmission Corporation
+of Andhra Pradesh Ltd. having contracts details are as under-
+
+Se, Purchase Order (PO) No/Date Site/ Locations Revised Contract
+| No value
+Kandukur, chakrapeta,
+236-PMM/2016/CE/Const./SE/ Machumarri, Kuppam,
+1 P&MM/DE2/SAS/PMM22-e-17- Guntur, Ramsamudram & Rs.8,95,27,573/-
+2016 dated 28.10.2016 Taticherala
+
+Salur, Chigurukota, Rapur,
+
+235-PMM/2016/CE/Const./SE/ Chadiee an takien.
+
+P&MM/DE2/ SAS/235-PMM22-e-
+
+2 14-2016/ D.No.239/2016 dated Narayanapuram, Srikakulam Rs.7,27,98,306/-
+town, Ponnuru &
+28.10.2016
+Yernagudem
+328-PMM/2017/CE/Const./SE/
+P&MM/ DE2/SAS/PMM22-e-17- Duvva in West Godavari
+2 2016/D.No.122/ 2017 dated Distt. Res sLaneel/-
+26.05.2017
+
+) The said contracts consisting of supply of goods viz. supply of Relay & Protection Panels and
+£ = nce Substation Automation System (SAS), power transformers etc. and also supply of services viz.
+we --~training, installation, testing, commissioning etc. Thus the project involved both supply of goods
+
+jj $ a _ and services.
+
+“ (7) As per the definition as referred in sub-section (30) of Section 2 of CGST Act, 2017 ‘Composite
+supply megnssa supply made by a taxable person to a recipient consisting of two or more taxable supplies
+“Of goods’ or - services or both, or any combination thereof, which are naturally bundled and supplied in
+
+f with each other in the ordinary course of business, one of which is a principal supply’.
+
+-(8)-Piierefore, it appears that the transaction involved in the said projects is covered under the
+composite supply and not under the works contract as claimed by the applicant.
+
+(9) On going through the contract value of the above projects, it is observed that the value of the
+goods supplied for completion of the projects comprising of more than 97.5% of the project value
+and the rest 2.5% cost is towards supply of services. Thus the supply of goods for completion
+of project is covered under principal supply having HSN code 85372000 attracting 28% of GST.
+
+St. | purchase Order (PO) No/Dat Genesio Value of Valse @
+No. aneeeenaenes ian ine oem (Rs.) Goods (Rs.) | service (Rs.)
+236- 4,58,24,810/-| 4,45,94,310/-| _ 12,30,500/-
+1 | PMM/2016/CE/Const./SE/ 4,37,02,763/- | 4,27,82,363/-| __9,20,400/-
+P&MM/DE2/SAS/PMM22-e- | Tota
+ae le dete 1k A 8,95,27,573/-| 8,73,76,673/-|  21,50,900/-
+235- 4,6781,760/-| 4,54,01,760/-| _ 13,80,000/-
+PMM/2016/CE/Const./SE/ 2,60,16,546/- | 2,53,08,546/- 7,08,000/-
+> | P&MM/DE2/SAS/235-
+PMM22-e-14- Tota
+2016/D.No.239/2016 dated| — ae il ls al a ae
+
+28.10.2016
+
+12
+
+
+328- 1,67,12,033/- |_1,63,69,833/- 3,42,200/-
+
+PMM/2017/CE/Const./SE/ 1,46,93,218/- | 1,42,21,218/- 4,72,000/-
+
+3. | PRMM/DE2/SAS/PMM22-e- 53,33,380/- 53,33,380/- 0/-
+
+17-2016/D.No.122/ 2017 dated | Tota
+proteins : 3,67,38,631/- | 3,59,24,431/- 8,14,200/-
+
+(10) It is to submit that more specific classification will prevail over general classification. The
+HSN Code 9954 of Chapter Heading 99 deals with construction service which is charged to IGST
+@18%.. The service has to be predominantly a construction service. The present case does not
+involve foundation of steel structure /RCC Structure or any other activity involving substantial
+work done at site. Further the removal of electrical panel doesn’t involve total dismantling with
+loss or damage. (Refer Advance Ruling decision- in the case of Precision Automation and
+Robotics India Ltd. - 2018 (17) G.S.T.L. 90 (A.A.R.-GST). The necessary elements described in the
+ruling are absent in the present case.
+
+(11) In view of above, the answer to the questions on which Advance Ruling is sought by the
+
+applicant is : -
+
+Q: whether the transaction/contract referred in the present application to M/s APTRANSCO is in the
+
+nature of Works Contract Services and therefore liable to GST 18% under the HSN Code 995461 ?
+
+A: The answer is in negative.
+
+Q: If the answer to above is in negative, whether the said transaction is Supply of Goods?
+
+a) If yes, liable to GST at what rate of tax and under which HSN Code ? “
+-,, A: The answer is that the said transaction is covered under the composite supply attracting 28%
+
+2”. -GST%nder HSN Code 85372000.
+is issue with the approval of the Commissioner, CGST & CX, Raigad.
+
+ion. Jurisdictional Officer was not present.
+
+The application was admitted and called for final hearing on 12.12.2018, Sh. Rajiv Luthia,
+C.A., appeared and argued as per submissions. The Jurisdictional Officer Sh. D.A. Bhusari, Asstt.
+Commissioner CGST & CX, Raigad Commissionerate and Sh. Virendra Kothari, Suptt., appeared
+
+and made written submissions.
+
+05. OBSERVATIONS
+
+5a We have gone through the facts of the case, documents on record and submissions made
+
+by both, the applicant and the jurisdictional officer.
+
+5.2. The questions raised by the applicant is with respect to turnkey projects awarded to them
+by Mf’ TRANSMISSION CORPORATION OF ANDHRA PRADESH LIMITED (hereinafter
+referred to as “M/s APTRANSCO") for supply, installation, testing and commissioning of Relay
+& Protection Panels with Substation Automation System (SAS) at various sites/locations. The
+applicant has further submitted that the scope of the work involves complete design,
+
+manufacture, packing, insurance, transport and delivery to sites, training, installation, testing
+
+13
+
+
+operate the 220 KV, 132 KV & 33 KV feeders, Power Transformers and equipments". They have
+also submitted that in the PO that they have entered into with their client separate prices are
+indicated for each of the activity for supply of various materials and the activity for installation,
+testing & commissioning etc. The applicant has also explained what a control panel and
+substation automation is, in their case and also the processes involved in the subject case. Prior
+to the introduction of GST, the applicants levied excise duty and central sales tax along with
+applicable cess on the value of various equipments supplied and levied service tax on
+installation, testing and commissioning charges recovered under the category of “Erection,
+Commissioning and Installation services”.
+
+5.3 On the other hand the jurisdictional office has submitted that the said contracts are
+consisting of supply of goods viz. supply of Relay & Protection Panels and Substation
+Automation System (SAS), power transformers etc. and also supply of services viz. training,
+installation, testing, commissioning etc. Thus the project involved both supply of goods and
+services and on the basis of the submissions made by the applicant and the terms and conditions
+of the 3 POs, it appears that the transaction involved in the said projects is covered under the
+
+composite supply and not under the works contract as claimed by the applicant. Further it has
+
+3 {} Services. Therefore the jurisdictional office is of the opinion that the subject case is a composite
+supply, with supply of goods being the major component and therefore covered under principal
+ce
+
+ving HSN code 85372000 attracting 28% of GST.
+
+“fiiid that the basic issue before us is whether in the subject case there is supply of Works Contract
+or Composite Supply. We shall therefore discuss all the provisions relating to Works Contract
+and Composite Supply. GST Schedule II clearly mentions that the following are supply of
+services:-
+
+a. construction of a complex, building, civil structure or a part thereof, including a complex
+or building intended for sale to a buyer, wholly or partly,
+b. works contract including transfer of property in goods (whether as goods or in some
+
+other form) involved in the execution of a works contract
+
+Hence Works contract will be treated as service and tax would be charged accordingly. As
+per Section 2(119) of the CGST Act, 2017, unless the context otherwise requires, the term "works
+contract" means a contract for building, construction, fabrication, completion, erection, installation,
+
+fitting out, improvement, modification, repair, maintenance, renovation, alteration or commissioning of
+
+14
+
+
+any immovable property wherein transfer of property in goods (whether as goods or in some other form)
+
+is involved in the execution of such contract"
+
+5.5 Thus what we need to find out is whether the applicant in the subject case is dealing in
+any immovable property which is transferred in the execution of the contract. The applicant has
+submitted that their contracts with M/s APTRANSCO is an turnkey project wherein they are
+under an obligation to
+
+(a) complete design, manufacture of equipments, (b) packing, insurance, transport and delivery
+of equipments to various sites and (c) installation, testing and commissioning of various
+equipment at Substation and thereafter render training. Thus, they have submitted that, the final
+outcome or deliverable is ready to operate Substation Automation System, which can control and
+operate the 220kv, 132kv & 33kv feeders & Power Transformers. Their contention is that all the
+control devices, relay & protection panels and other equipments are installed in the substation
+and cannot be dismantled and removed after installation, without substantially damaging the
+entire substation. As a result, it is more or less in the nature of permanent installation of
+equipments within the substation & becomes part of the substation. According to them substation
+
+is itself a civil structure which is a place constructed on land and is immovable and installation
+
+eee ‘Various devices, equipments and control & relay protection panels in a substation forms part
+A ed Sie x .
+
+of the substation and therefore inherits the characteristics of an “immovable property” and
+He therefore their transaction is a transaction of “works contract” and covered within definition of
+
+a
+section 2(119) of the Act.
+i
+
+: 5.6 InsPO No. 235 dated 28.10.2016, submitted by the applicant, the contract value is Rs.
+
+Ya ~7,2064,35 /- and para 6 of the said schedule deals with prices and it is seen from 6.1 and 6.2 that
+
+= we aheeOtract pricing is different for Equipment of Materials for ‘works. For items listed in Sr. No.
+1 to 16 of the Schedule A to this PO, the prices are inclusive of all taxes and duties, etc and prices
+for items 17 and 18 of the Schedule included services tax. Thus the PO also has clearly bifurcated
+the contract into a supply of goods and supply of services. Further clause no, 11 of the PO deals
+with TERMS OF PAYMENTS. The PO envisages separate payment for supply of works and for
+supply of materials/equipments. There appears to be a clear bifurcation in the PO with respect
+to supply of goods and supply of services.
+
+5.7 Similarly is the case with PO No. 236 dated 28.10.2016. The contract value is Rs.
+8,82,93,950/- and para 6 of the said schedule deals with prices and it is seen fron 6.1 and 6.2 that
+the contract pricing is separate for Equipment of Materials and for ‘works. For items listed in Sr.
+No. 1 to 21 of the Schedule A to this PO, the prices are inclusive of all taxes and duties, etc and
+prices for items 22 and 23 of the Schedule included services tax. Further clause no. 11 of the PO
+
+deals with TERMS OF PAYMENTS. The PO envisages separate payment for supply of works
+Is
+
+
+Ke
+
+prs
+
+CE RULIN,
+
+and for supply of materials/equipments. There appears to be a clear bifurcation in the PO with
+respect to supply of goods and supply of services.
+
+5.8 Finally in PO No. 328 dated 26.05.2017, submitted by the applicant, the contract value is
+Rs. 3,57,01,707/- and para 4 (GENERAL CONDITIONS) mentions that “all the terms and
+conditions stipulated in the specification No. PMM22-3-017/2016 are binding (i.e PO No. 236
+mentioned above)”. For items listed in Sr. No. 1 to 17 of the Schedule A to this PO, the prices are
+inclusive of all taxes and duties, etc and prices for items 18 of the Schedule included services tax.
+Here too, the PO envisages separate payment for supply of works and for supply of
+materials/equipments and there appears to be a clear bifurcation in the PO with respect to
+
+supply of goods and supply of services.
+
+5.9 Thus we find from all the three POs that the contracts are considering a clear demarcation
+of goods and services to be provided by the applicant but such supplies are naturally bundled
+and in conjunction with each other. Hence we now refer to the definition of ‘Composite Supply’
+
+as mentioned in sub-section (30) of Section 2 of CGST Act, 2017 and which is as under:-
+
+‘Composite supply means a supply made by a taxable person to a recipient consisting of two or
+Stes Daxable supplies of goods or services or both, or any combination thereof, which are naturally bundled
+¥
+
+fp} jed in conjunction with each other in the ordinary course of business, one of which is a principal
+
+the applicant and they receive separate payment for such goods sold. Further we find that the
+goods that are supplied are used by the applicant to provide services installation, testing and
+commissioning of the substations. Without these goods the services cannot be supplied by the
+applicant and therefore we find that the goods and services are supplied as a combination and
+in conjunction and in the course of their business where the principal supply is supply of goods.
+Thus we find that there is a composite supply in the subject case since in the subject case there
+is no building, construction, fabrication, completion, erection, installation, fitting out,
+improvement, modification, repair maintenance, renovation, alteration or commissioning of any
+immovable property wherein transfer of property in goods (whether as goods or in some other
+form) is involved in the execution of the contract. The Financial Advisor & Chief Controller of
+Accounts, APTRANSCO, their client in point no. iii of his letter dated 07.02.2018, has opined that
+“It is essentially emerges that the supply involves both supply of goods and services, which are naturally
+
+bundled together and are supplied in conjunction with eacg other. Such a supply is treated as a composite
+
+”
+
+supply
+
+16
+
+
+5.11 Now that we have found that there is no works contract involved in the subject case and
+the supply is nothing but a composite supply with supply of goods being the principal supply,
+we come to the second question raised by the applicant which is, whether their transaction
+would be treated a “supply of goods” if their transaction is not considered a works contract and
+
+if yes, what would be the HSN code and rate of tax.
+
+5.12 The principal supply as mentioned above in this case is a supply of goods and therefore
+the GST will have to be paid on the goods at the appropriate rate after classification under the
+appropriate heading. The applicant has submitted that a ‘Substation Automation’, is a system
+which is used by an electric utility to remotely monitor, control and coordinate the distribution
+components installed in the substation. An electrical substation is the part of a power system in
+which the voltage is transformed from high to low or low to high, for transmission, distribution,
+
+transformation and switching. We find that the final deliverable is nothing but ready to operate
+
+& Power: ‘Transformers and are required for the substation to function. The applicant have
+. ihemselyes accepted that they were collecting GST on these goods classifying the same under
+A haptey Sub Heading No. 85372000. However they have submitted that as against the said sub
+~ sea they have been collecting GST @ 28%. We find from the GST Tariff that goods falling
+oa waded, Sine said sub heading are taxable @ 18%. We also find from their submissions and as
+“~SssmgéGepted by them that the goods supplied by them are in the form of Boards, Panels, etc
+equipped with 2 or more apparatus of heading 8535 or 8536 like fuses, switches, etc, for electric
+control and distribution of electricity. Hence the principal supply in their composite supply
+being goods as described under heading 8537, the applicant is liable to pay GST on the whole
+
+contract @ 18%.
+
+06. In view of the extensive deliberations as held hereinabove, we pass an order as follows :
+
+ORDER
+
+(Under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+NO.GST-ARA- 83/2018-19/B- Mumbai, dt. asfol loo 19
+
+For reasons as discussed in the body of the order, the questions are answered thus -
+
+Question :- I. Whether the transaction / contract referred in the present application to M/S
+APTRANSCO is in the nature of Works Contract Services and therefore liable to
+GST @ 18% under the HSN Code 995461 ?
+
+Answer :- Answered in the negative.
+7
+
+
+Question :- II. If the answer to above is in negative, whether the said transaction is Supply of
+Goods?
+
+a) If yes, liable to GST at what rate of tax and under which HSN Code ?
+
+Answer :- _ The said transaction is a composite supply where the principal supply majorly is a
+supply of goods
+
+a) On the basis of submissions made by the applicant we find that the entire
+
+1q
+me SS d mama —S d —
+B. TIMOTHY B. V. BORHADE
+(MEMBER) (MEMBER)
+Copy to:- CERTIFIED TRUE COPY
+
+1. The applicant
+2. The concerned Central / State officer
+
+3. The Commissioner of State Tax, Maharashtra State, Mumbai d eae
+4. The Jurisdictional Commissioner of Central Tax. ER
+5. Joint commissioner of State Tax , Mahavikas for Website. ADVANCE RULING AUTHORITY
+
+MAHARASHTRA STATE, MUMBAI
+Note :- An Appeal against this advance ruling order shall be made before The Maharashtra
+
+Appellate Authority for Advance Ruling for Goods and Services Tax, 15t floor, Air India
+building, Nariman Point, Mumbai - 400021.
+
+18

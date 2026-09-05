@@ -1,0 +1,883 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+GST Bhavan, 8' floor, H-Wing, Mazgaon, Mumbai - 400010.
+(Constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri B. Timothy, Addl. Commissioner of Central Tax, (Member)
+(2) Shri B. V. Borhade, Joint Commissioner of State Tax, (Member)
+
+(GSTIN Number, ifany/ User-id _ ___ 27AADAD5976G1ZH
+
+[Legal Name of Applicant IDAEWOO-TPL JV ;
+
+Registered Address/Address provided whilegrd Floor ,Transocean House,Lake Boulevard Road,
+obtaining user id Powai ,Maharashtra ,Mumbai 400076
+
+Details of application : GST-ARA, Application No. 113 ,DATED 25.01. 2019 | |
+(Concerned officer MUM-VAT-E-638, LTU-4,MUMBAI
+
+i}
+
+Nature of activity(s) (proposed / present) in
+respect of es advance ruling sought
+A (Category __ Works Contract, Service Provision
+B Description (in brief) Daewoo-TPL JV, is a joint venture between
+M/s.Daewoo Engineering and Construction
+Company Limited and MA. Tata Projects Limited.
+| The said joint venture formed with the sole
+| | objective to bid and secure the contract for design,
+engineering and construction of Long Bridge -
+Mumbai Trans Harbour Link project ((MTHL
+= ns) : Project).
+i) 5 J :
+Issye/ s on whieh\advance ruling required i) Applicability of a notification issued under the
+ai provisions of this Act
+i ii) Admissibility of input tax credit of tax paid or
+— LO deemed to have been paid |
+
+See pin advance ruling is required As reproduced in para 01 of the Proceedings below. |
+STATE,
+
+PROCEEDINGS
+
+(Under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+The present application has been filed under section 97 of the Central Goods and Services
+Tax Act, 2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as
+“the CGST Act and MGST Act” respectively ] by M/s. DAEWOO-TPLJV, seeking an advance
+ruling in respect of the following question.
+1. The questions / issues before Hon'ble Bench for determination are as follows:
+e The Applicant though eligible to claim for refund of inverted duty structure under
+Section 54(3) of the CGST Act, wishes to understand the in-principle applicability
+
+
+of Notification 21 and 26 in as much whether the same allow for refund of ITC
+availed on input services (and remaining unutilized) in whole or part thereof.
+
+e Where the answer to above is negative, the Applicant wishes to understand how
+does the Notification 21 and 26 apply in a scenario where factually following
+
+financials may exist:
+
+A. Revenue streams
+Works contract services liable to 12% GST INR 1,000
+Output GST @ 12% INR 120
+Total Revenues incl. GST INR 1,120
+B. Input Tax Credit Data
+Particulars Amount (INR)
+ITC on inputs 65
+ITC on input services 90
+Sub-total 155
+
+BCE RU; a Less: Total tax on outward supplies 120
+4 Net balance remaining unutilized 35,
+iprcrd oe placed for determination before the Hon'ble Bench has to be appreciated in
+
+whe of the fellpwing position of law and its applicability to the facts of the Applicant's business
+AY, discussed above and detailed hereunder, as may be necessary.
+
+e outset, we would like to make it clear that the provisions of both the CGST Act
+
+specifically made to any dissimilar provisions, a reference to the CGST Act would also mean a
+
+reference to the same provision under the MGST Act. Further to the earlier, henceforth for the
+
+purposes of this Advance Ruling, the expression ‘GST Act’ would mean CGST Act and MGST Act.
+
+02 FACTS AND CONTENTION — AS PER THE APPLICANT
+The submissions, as reproduced verbatim, could be seen thus-
+
+“STATEMENT OF FACTS:
+
+(i) Daewoo-TPL JV, is a joint venture between M/s Daewoo Engineering and Construction
+Company Limited & M/s. Tata Projects Limited, formed with the sole objective to bid &
+secure the contract for design, engineering and construction of Long Bridge - Mumbai
+
+Trans Harbour Link project (MTHL Project’). During the month of July 2017, Mumbai
+
+
+Metropolitan Region Development Authority (MMRDA) has awarded Package 2 of
+MTHL project to Daewoo-TPLIV.
+
+(ii) | The supplies under the said contract qualify as works contract defined at Section 2(119)
+of the CGST Act & in turn have also been deemed as supply of services by virtue of
+Entry 6(a) of Sch. 1 as appended to the CGST Act.
+
+(iii) | Such Works Contract services is taxable @ 12% outward GST.
+
+(iv) Execution of construction of large projects such as MTHL Project entails procurement of
+various inputs, input services & capital goods viz. cement, concrete, steel & steel
+structures, bridge accessories, formworks, plant & equipments, labour, etc. All such
+goods & services attract GST at varied rates, depending on the nature of such
+procurement.
+
+(v) Based on the past experience and budgets prepared by Daewoo-TPL JV, following are
+
+critical procurements required for execution of MTHL Project:
+
+Description Nature of Applicable
+Oe rocurement Rate of GST
+“Cement 7 Input 28%
+‘Conkrete additives as micro silica, GGBFS,Input 18%
+___Adimixture, etc _ I
+Reinforcement steel and structural steel Input 18%
+
+Bridge accessories as bearings, expansion joint and PT|Capital goods /18%
+strands, etc
+
+6 Supply of labour from third party Inputs services |18 %
+7 Geo technical investigation work Inputs services 18% _
+8 Pile testing works Inputs services {18%
+9 (Other works such as deck water-proofing, road|Inputs services {18%
+works, steel span erection, plant and equipment
+installation - ; :
+10 | Formworks ____ Inputs services [28%
+11 ‘Plant and equipment hire cost __ Inputs services 18%
+12. Spares and consumables, lubricants, etc _ 7 Inputs 18%
+13. Design, insurance and finance charges _ Inputs services 18% |
+
+14 ~~ Indirect cost such as site office, labour camp, ITInputs services |18%
+infrastructure, land lease, vehicle rental, furniture, site|
+running expense, etc |
+
+*The rate mentioned is total of CGST and State GST rates, as may be applicable, to supply of
+
+attendant goods and services.
+
+
+(vi) (3) Subject to the provisions of sub-section (10), a registered person may claim refund of
+
+any unutilised input tax credit at the end of any tax period:
+
+Provided that no refund of unutilised input tax credit shall be allowed in cases other than
+i) zero rated supplies made without payment of tax; ii) where the credit has accumulated
+on account of rate of tax on inputs being higher than the rate of tax on_output supplies
+(other than nil rated or fully exempt supplies), except supplies of goods or services or
+both as may be notified by the Government on the recommendations of the Council:
+
+Provided further that no refund of unutilised input tax credit shall be allowed in cases
+
+where the goods exported out of India are subjected to export duty:
+
+Provided also that no refund of input tax credit shall be allowed, if the supplier of goods
+or services or both avails of drawback in respect of central tax or claims refund of the
+integrated tax paid on such supplies.
+
+(vii) Thus, a registered person can in-principle claim a refund of accumulated ITC in case the
+
+rate of GST on inputs is higher than rate of GST on its outward supplies provided that:
+
+in case of notified supplies, such benefit would not be allowed; and
+
+mount of refund that can be claimed as refund is to be determined basis specific
+
+(viii) In so fat as condition (a) above is concerned, it is Applicant's position that its eligibility
+
+i nn Fe gus fresen instance is not restricted by any Notification and hence, such hurdle does
+
+we
+
+(ix) | Moving further, the condition (b) i.e. determination of eligible quantum of refund is
+based upon formula prescribed at Rule 89(5) of the CGST Rules (as amended).
+
+(x) The said rule has been amended by Notification No 21/ 2018— C. T. (Rate) dated April
+18, 2018 (‘Notification 21"). Both amendments were made effective retrospectively from
+July 1, 2017 vide Notification No 26/ 2018 — C.T. (Rate) dt June 13, 2018 (‘Notification 26'):
+
+(xi) The formula for refund, amended by the Notifications above, stands as under:
+(5) In the case of refund on account of inverted duty structure, refund of input tax credit
+shall be granted as per the following formula:
+Maximum Refund Amount = {(Turnover of inverted rated supply of goods and services) x
+Net ITC + Adjusted Total Turnover} - tax payable on such inverted rated supply of goods
+
+and services.
+
+
+Explanation:- For the purposes of this sub-rule, the expressions --
+
+(a) "Net ITC" shall mean input tax credit availed on inputs during the relevant period
+
+other than the input tax credit availed for which refund is claimed under sub-rules (4A)
+
+or (4B) or both; and (b) "Adjusted Total turnover" shall have the same meaning as
+
+assigned to it in sub-rule (4).]
+
+(xii) | The amendments made by the (2) notifications, essentially aimed at following changes in
+scheme of refund for inverted duty structure under GST regime:
+
+(a) Extension of benefit to outward supplies of 'services' - Prior to amendment,
+formula for computing maximum refund amount only considered the turnover of
+supply of 'goods'. Acknowledging this error, the formula was rectified by
+retrospective amendment whereby turnover of supply of service was also
+included. This amendment underlined the intent of Government to extend benefit
+in all cases, whether supply of goods or services.
+
+(b) Exclusion of ‘input service from definition of 'Net ITC' — Prior to amendment,
+
+definition of 'Net ITC' was borrowed from sub-rule (4) of Rule 89 which included
+
+XS,
+‘ in its ambit 'inputs' as well as ‘input services’. However, as per the amended
+\. t
+
+\ definition, the definition of Net ITC only covers ITC availed on 'inputs'. Thus, the
+amendment has restricted the benefit of refund only to procurement of inputs
+
+S ¢ pion are used for inverted rated supply of goods or services.
+
+e above, the Notification 21 & 26 leads to several ambiguities in its applicability.
+The relevant issues for determination have thus been, listed herein below.
+
+(xiv) In addition to above, it may be noted that the based on the nature of MTHL Project and
+its execution requirements & parameters, the Applicant envisages procurement mix of
+Daewoo-TPLIV shall tentatively comprise of 55% of materials (inputs) and 45% of
+services. This reflects that input services comprises of a considerable share of gross
+procurement made by Daewoo-TPL JV. Notably, the ratio of procurement mix is similar
+across all large scale projects undertaken by contractors with minor variance on a case to
+case basis.
+
+(xv) In light of above, the Applicant has put forth various questions for determination by this
+
+Hon'ble bench of Authority for Advance Ruling duly constituted under the GST laws.
+
+
+ADDITIONAL SUBMISSIONS:
+
+Issue 1 - Benefit of refund, whether extendable _to input services as well post amendments
+
+vide Notification 21 and 26.
+
+(i). As discussed in foregoing paragraphs, the formula prescribed (for determination of
+eligible refund amount) under Rule 89(5) of CGST Rules i.e. for “Net ITC" only
+considers ITC on ‘inputs’, for computing the amount of eligible refund. Thus, impliedly
+any portion of the ITC availed inter alia on ‘input services' may prima facie not be
+available as refund under the said Rule.
+
+(ii). | Our below submissions, based on holistic analysis of provisions of GST law, however
+demonstrate that aforementioned restriction on refunding ITC corresponding to ‘input
+services’ is uncalled for and hence, may be ruled accordingly.
+
+(iii). | At the outset, Applicant would like to make reference to Section 54(3) of the CGST Act.
+Section 54(3) is the enabling Section which extends benefit of refund on account of
+inverted duty structure. The relevant extract thereof is reproduced again, for ease of reference:
+
+(3) Subject to the provisions of sub-section (10), a registered person may claim refund of
+
+PENCE Ru ey unutilised input tax credit at the end of any tax period:
+
+a a Provided that no refund of unutilised input tax credit shall be allowed in cases other
+ce than (2) zero rated supplies made without payment of tax; (ii) where the credit has
+
+es ‘ accumulated on account of rate of tax on inputs being higher than the rate of tax on
+
+output supplies (other than nil rated or fully exempt supplies), except supplies of
+
+96 ids or services or both as may be notified by the Government on the
+
+recommendations of the Council:
+
+Provided further that no refund of unutilised input tax credit shall be allowed in cases
+
+where the goods exported out of India are subjected to export duty:
+
+Provided also that no refund of input tax credit shall be allowed, if the supplier of
+
+goods or services or both avails of drawback in respect of central tax or claims refund
+
+of the integrated tax paid on such supplies
+
+(10) Where any refund is due under sub-section (3) to a registered person who has
+
+defaulted in furnishing any return or who is required to pay any tax, interest or penalty,
+
+
+which has not been stayed by any court, Tribunal or Appellate Authority by the
+specified date, the proper officer may --
+
+(a) withhold payment of refund due until the said person has furnished the return or
+paid the tax, interest or penalty, as the case may be;
+
+(b) deduct from the refund due, any tax, interest, penalty, fee or any other amount
+which the taxable person is liable to pay but which remains unpaid under this Act or
+under the existing law.
+
+Explanation. For the purposes of this sub-section, the expression "specified date" shall
+mean the last date for filing an appeal under this Act.
+
+(iv). As per said Section, refund of unutilized ITC can be claimed in (2) instances as stated
+above. As per the said Section, in case of inverted duty structure, benefit of refund is
+available on unutilized balance of ITC. Notably, the Section provides a sweeping benefit
+on entire balance of unutilized ITC without discrimination whether the same is on
+account of inputs, input services or capital goods. Alternatively said, the section does not
+restrict ITC on input services.
+
+: wigs settled position of law that Rules, which are notified as a delegated legislation,
+RY 4
+
+fo i onflict (i.e. expand or restrict) the substantive provision empowering the issuance
+
+f such? es under the main enactment (i.e. CGST Act, in the present instance).
+
+Perce first proviso to Section 54(3) merely prescribes Instances wherein such
+
+=~ benefit would be available. As per the verbatim of point (ii) of proviso to the said
+
+“refund is available in case where credit has accumulated on account of rate of tax
+
+n inputs being higher than the rate of tax on output supplies.
+
+(vii). Notably, the proviso merely specifies scenario or instances wherein such benefit would
+be available. As per the said proviso, the test required to be fulfilled is that ITC
+accumulation is on account of rate of tax on inputs being higher than rate of tax on
+outward supplies. The said provision, in no manner, prescribes the quantum of refund
+eligible or that refund would be restricted on input services.
+
+(viii). In the Applicant's case, above test is duly fulfilled and thus, Applicant should in principle
+be eligible to claim refund on entire balance of unutilized ITC, including ITC on input services.
+
+(ix). Thus reiteratively, the restriction to claim refund on ‘input services' merely arises from
+
+specific formula prescribe under Rule 54(3). It needs to be analyzed whether substantive
+
+
+benefit of refund on input services, which is allowed by CGST Act, 2017, can be
+curtailed or restricted by CGST Rules, which is a subordinate legislation.
+
+(x). In this regard, reference is invited to Hon'ble Tribunal ruling in case of Nahar Spinning
+Mills Ltd vs Commissioner of Central Excise, Bhopal (2000 (121) ELT 60] where in the
+context of determining due date for filing refund application, it was observed by the
+Hon'ble Tribunal that rules framed under subordinate legislation cannot over-ride
+statutory provisions contained in the section. Similar view has also been upheld in Ashok
+Granites Ltd vs CCE & ST, Salem (2016 (46) STR 875 (Tri - Chennai)]. Applying the
+said principle in the instant case, benefit available to Applicant by Section 54(3) of CGST
+Act should not be curtailed by Rule 89(5) of CGST Rules.
+
+(xi). Additionally, Applicant would also like to submit that in the event CGST Act intended
+certain condition or restriction to be placed on quantum of refund to be granted, the
+CGST Act itself would expressly provide for same. Alternatively, CGST Act would
+provide specific stipulation to the effect that condition prescribed in CGST Rules should
+
+for determining the amount of refund. However, Section 54 in no manner, provides
+
+lates that amount of refund would be granted subject to restriction specified in
+rule Glyen this, Applicant humbly believes that amendment to refund formula, effected
+by way of issuance of Notfn No 21/2018, should not apply in the instant case.
+or Gi). Py his, it is prayed off the Hon'ble Bench that it may be ruled that the Applicant
+Thea SARI ipafid be entitled to claim refund of unutilized balance of inputs as well as ‘input
+, services’, on account of inverted duty structure and that the Notifications 21 and 26
+should not be applicable to restrict the same.
+Issue 2 — The applicability of the formula prescribed vide Notifications 21 and 26 on factual
+scenario indicated by the Applicant
+(xiii). Whereas assuming for sake of argument & without admitting to such position, where
+
+benefit of refund (supra) is restricted to ITC on inputs alone, the Applicant has raised another
+
+issue for determination of the manner of applicability of the amendment notifications (supra).
+
+(xiv). The case financial are restated below for ease of reference:
+A. Revenue streams
+
+Works contract services liable to 12% GST INR 1,000
+Output GST @ 12%_ INR 120
+Total Revenues incl. GST INR 1,120
+
+
+B. Input Tax Credit Data
+
+Particulars Amount (INR)
+ITC on inputs 65
+
+ITC on input services 90
+Sub-total 155
+Less: Total tax on outward supplies 120
+
+Net balance remaining unutilized 35
+
+(xv) _ Interposing the case financials into the formula it finds that, no refund may be allowed in
+
+such scenario since the eligible figure, due to the formula, goes below NIL or zero.
+
+Formulas as stipulated vide the amendmentiase financials interposed in the formula
+Notifications 21 and 26
+
+aximum Refund Amount = {(Turnover of invertedMax Refund = (1000 X 65 ] - 120
+Te
+
+rated supply of goods and services) x Net ITC / Adjusted'1000 |
+
+otal Turnover) - tax payable on such inverted rated= - 55 |
+supply of goods and services (PS: effectively no refund since the figure is
+| negative.] _|
+
+(xvi). The above seem to not grant the Applicant any benefit despite there being (a) an inverted
+duty structure; and (b) unutilized ITC remaining in its hands.
+
+_(oevii).~Can the Applicant therefore, apply the amended formula as per Notification 21 and 26, in
+
+Fipnc& RUCusPamanner whereby it:
+
+~, “. Kirst utilized the ITC of input services towards payment of outward tax
+
+2" Total Liability 120
+ci | Less: ITC on input services 90
+Balance liability to be paid 30
+he balance liability if any is set off against the ITC of inputs
+Total ITC on inputs 65
+Balance to be utilized(see (i) above 30
+Balance remaining unutilized 35
+(c) And the refund formula is populated only with such utilization as it noted at (ii)
+above.
+
+Formulas as stipulated vide the amendmentcase financials interposed in the formula
+Notifications 21 and 26
+
+Maximum Refund Amount = {(Turnover of inverted|Max Refund = (1900 X 65 ] - 30
+
+rated supply of goods and services) x Net ITC +1000 |
+Adjusted Total Turnover) - tax payable on such inverted= 35
+rated supply of goods and services
+
+(xviii) The correct applicability of the Notifications may kindly be determined by the Hon'ble Bench.
+PRAYER
+
+1 The Hon'ble Bench may be pleased to take the aforesaid application on record and
+
+
+pronounce a ruling in light of attendant facts as well as legal/ judicial position.
+
+I. The ruling sought from the Hon'ble Bench is as follows:
+"The refund of ITC on input services could also be claimed in case of an inverted duty
+structure scenario." And/ or
+"In any case, the unutilized balance (so long it does not exceed) the gross ITC availed on
+inputs, could still be refunded in full."”
+
+03. CONTENTION — AS PER THE CONCERNED OFFICER
+
+The questions / issues before Hon'ble Bench for determination are as follows:
+
+(i). The Applicant though eligible to claim for refund of inverted duty structure under Section
+54(3) of the CGST Act, wishes to understand the in-principle applicability of Notification
+21 and 26 in as much whether the same allow for refund of ITC availed on input services
+(and remaining unutilized) in whole or part thereof.
+
+(ii) Where the answer to above is negative, the Applicant wishes to understand how the
+Notification 21 and 26 applies in a scenario where factually following financials may exist:
+
+A. Revenue streams
+mee Works contract services liable to 12% GST INR 1,000
+
+‘
+
+‘~ “Output GST @ 12%_ INR 120
+Total Revenues incl. GST INR 1,120
+
+B. } “Input Tax Credit Data
+
+} * Particulars Amount (INR)
+
+‘TL. on inputs 65
+
+“on input services 90
+Sub-total 155
+Less: Total tax on outward supplies 120
+Net balance remaining unutilized 35
+
+The issues placed for determination before the Hon'ble Bench has to be appreciated in light
+of the following position of law and its applicability of the facts of the Applicant's business and
+activity as discussed above and detailed hereunder, as may be necessary.
+
+e FACTS:
+
+(i) Mumbai Metropolitan Region Development Authority (MMRDA) has awarded Package
+
+2 of MTII project to Daewoo-TPL JV.
+(ii) The supplies under the said contract qualify as works contract defined at Section 2(119)
+
+of the Central Goods and Services Tax Act, 2017 ("CGST Act) and in turn have also
+
+10
+
+
+been deemed as supply of services by virtue of Entry 6(a) of Schedule Il as appended to
+the CGST Act.
+
+(iii) Such Works Contract services is taxable @ 12% outward GST.
+
+(iv) execution of construction of large projects such as MTHL Project entails procurement of
+various inputs, input services and capital goods such as cement, concrete, steel and steel
+structures, bridge accessories, formworks, plant and equipment's, labour, etc. All such
+goods and services attract GST at varied rates, depending on the nature of such
+procurement.
+
+(v) The critical procurements (goods and services both) required for execution of MTHL
+Project viz. : cement, Concrete additives as micro silica, GGBFS, Admixture, etc,
+Reinforcement steel and structural steel, Bridge accessories as bearings, expansion joint and
+PT strands, etc, Other material as bridge furniture such as crash barrier, view barrier, sound
+barrier, fence, fenders, etc, labour, geo technical investigation work, pile testing works,
+Other works such as deck water-proofing, road works, steel span erection, plant and
+
+i installation, formworks, Plant and equipment hire cost, Spares and consumables,
+
+Gat etc, Design, insurance and finance charges, and Indirect cost such as site office,
+
+1p, IT infrastructure, land lease, vehicle rental, furniture, site running expense, etc
+
+ig Seti 54(3) of GST Act reads as follows.
+Kubject to the provisions of sub-section (10), a registered person may claim refund of
+any unutilized input tax credit at the end of any tax period:
+
+Provided that no refund of unutilized input tax credit shall be allowed in cases other than
+-zero rated supplies made without payment of tax:
+
+where the credit has accumulated on account of rate of tax on inputs being higher than
+the rate of tax on output supplies (other than nil rated or fully exempt supplies), except
+supplies of goods or services or both as may be notified by the Government on the
+recommendations of the Council:
+
+Provided further that no refund of unutilized input tax credit shall be allowed in cases
+
+where the goods exported out of India are subjected to export duty:
+
+Provided also that no refund of input tax credit shall be allowed, if the supplier of goods
+
+11
+
+
+or
+services or both avails of drawback in respect of central tax or claims refund of the
+integrated tax paid on such supplies.
+
+e Rule 89(5) of GST Rule reads as follows :-
+
+e Incase of refund on account of inverted duty structure, refund of input tax credit shall be
+granted as per following formula
+
+e Maximum refund amount= {(Turnover of inverted rated supply of goods)* Net
+ITC/Adjusted Total Turnover}- tax payable on such inverted rated supply of goods
+
+e As discussed in foregoing paragraphs, the formula prescribed (for determination of
+eligible refund amount) under Rule 89(5) of CGST Rules i.e. for "Net ITC" only
+considers ITC on ‘inputs', for computing the amount of eligible refund. Thus, impliedly
+any portion of the ITC availed inter alia on ‘input services' may prima facie not be
+available as refund under the said rule
+
+e Section 1 (59) input definition of GST Act reads as follows :-
+
+e Input means any goods other than capital goods used or intended to be used by a
+
+ier in the course of furtherance of business
+
+we 4
+‘ 5 Seale (63) ITC definition of GST Act reads as follows :-
+
+"Input fax Credit" means the credit of input tax;
+
+“i
+
+, The AAR being vires and creature of GST Act and the interpretation of notification and
+
+“enhancement
+wy
+are:
+
+Section-2(59) input clearly mentions the inputs with regards to goods only.
+
+f scope of notification to services is beyond jurisdiction of AAR authority, The
+
+Hence in view of above the ARA-1 is not maintainable before ARA.
+04. HEARING
+
+Preliminary hearing in the matter was held on 26.02.2019. Sh. Gopal Mundra appeared
+and requested for admission of their application. During the hearing, applicant was asked to
+clarify whether the questions raised in the ARA was covered under the Section 97(2) of CGST
+ACT .Jurisdictional Officer was not present.
+
+Applicant was called for hearing on 26.03.2019. Sh. Gopal Mundra appeared, made oral
+& written submissions. Jurisdictional Officer Sh. Jadhav, Dy. Commr., State Tax, MUM-VAT-
+E-638, LTU-4 , Mumbai, also appeared & made written submissions. We heard both the sides.
+
+12
+
+
+05. OBSERVATIONS
+
+5.1. We have gone through the facts of the case, documents on record and written submission
+made by both, the applicant as well as the jurisdictional office. The issue raised before us is in
+respect of the applicant’s eligibility for refund of unutilized input tax credit.
+
+5.2 We find that M/s Daewoo-TPL JV, a joint venture between M/s Daewoo Engineering and
+Construction Company Limited and M/s. Tata Projects Limited is registered under the GST Act
+and have been awarded the contract from MTHL in the form of works contract. The contract in
+the nature of services. Execution of construction of large projects such as MTHL Project entails
+procurement of various inputs, input services and capital goods such as cement, concrete, steel
+and steel structures, bridge accessories, formworks, plant and equipment, labour, etc. All such
+goods and services attract GST at varied rates, depending on the nature of such procurement. The
+ITC paid on the inputs and services are higher than output supply. Therefore, the transaction is
+covered under Inverted duty structure. In such cases as in the subject case, to avoid the cascading
+effect, Govt. has allowed relief in the form of Refund of unutilized Input tax Credit as provided
+
+in Section 54 of the CGST Act, and the relevant provision (3)(ii) of the said section is
+
+Sectio’ » Refund of Tax.
+
+) Subjects o the provisions of sub-section (10), a registered person may claim refund of any
+
+ii) where the credit has accumulated on account of rate of tax on inputs being higher
+than_the rate of tax on_output supplies (other than nil rated or fully exempt
+supplies), except supplies of goods or services or both as may be notified by the
+Government on the recommendations of the Council:
+
+Provided further that no refund of unutilised input tax credit shall be allowed in cases
+
+where the goods exported out of India are subjected to export duty:
+Provided also that no refund of input tax credit shall be allowed, if the supplier of goods or
+services or both avails of drawback in respect of central tax or claims refund of the integrated
+tax paid on such supplies.
+
+The procedure for filing such application for refund and for process of the same is also
+
+43
+
+
+mentioned in the said Section 54.
+5.3 The CGST Rules, 2017 was notified vide Notification No. 3/2017- Central Tax, dated
+19.06.2017. Rule 89 (1) (2) and (3) of the CGST Rules deals with such application and
+enumerates the procedure and the documents required to be filed for claiming such refunds.
+
+Clause No. (5) of Rule 89 mentioned above was substituted vide Notification No.
+21/2018 dated 18.04.2018 and the said clause (5) prescribes the formula for the maximum refund
+amount that may be granted which is reproduced as under :-
+
+Maximum Refund Amount = {(Turnover of inverted rated supply of goods and services) x
+Net ITC + Adjusted Total Turnover) - tax payable on such inverted rated supply of goods and
+services
+
+The said formula considers “input tax credit”. As per Section 2(63) of the CGST Act,
+‘input tax credit’ means the credit of input tax. And as per Section 2(62) of the CGST Act, “input
+tax” MEANS |... , the Central Tax, State Tax, Integrated Tax or Union Territory tax charged
+
+ere & includes ”
+
+on any supply of goods or services or both
+
+Section 2(59) defines as “input means any goods other than capital goods used or
+
+~ ‘SC
+Seton 54 (3¥
+\
+
+being higher i the rate of tax on output supplies’ \t is clear that the said clause (ii) speaks only in
+
+ut would mean goods and tax on inputs would mean tax on goods.
+i) talks of ‘where the credit has accumulated on account of rate of tax on inputs
+
+respect of edi vailed on inputs being higher i.e. credit availed on tax paid on goods being higher.
+AS
+
+Seely ding of the provisions of Section 54 (3) (ii) and Notification No 21 of 2018 implies
+that the formula prescribed (for determination of eligible refund amount) under Rule 89(5) of
+CGST Rules i.e. for “Net ITC" only considers ITC on ‘inputs’, for computing the amount of
+eligible refund. Therefore any portion of the ITC availed on ‘input services' is not available as
+refund under the said Rules.
+
+5.4. The said refund formula was made retrospectively effective from 01.07.2017, vide
+Notification No. 26/2018-Central Tax dated 13.06.2018. Thus the effect of both the above
+Notifications i.e. Notfn Nos. 21 & 26 of 2018, taken together, has the effect of having introduced
+the above said refund formula with effect from 01.07.2017.
+
+5.5. Section 54 (3) mentions that “Provided that no refund of unutilised input tax credit shall
+
+be allowed in cases other than (i) zero rated supplies made without payment of tax; (ii) where
+
+14
+
+
+the credit has accumulated on account of rate of tax on inputs being higher than the rate of
+tax on output supplies (other than nil rated or fully exempt supplies), except supplies of goods
+or services or both as may be notified by the Government on the recommendations of the Council:
+
+Thus it is clear that refund of unutilized input tax credit (comprising of both goods and
+services) shall be allowed only in cases mentioned in (i) and (ii) i.e the allowance of such refund
+of credit is only when credit availed on goods is higher that the tax rate on output supplies.
+
+5.6 In their first query the applicant wishes to understand the in principle applicability of
+Notification 21 & 26 in as much whether the same allow for refund of ITC availed on input
+services (and remaining unutilized) in whole or part thereof. We are of the view that the said
+Notifications are prescribing the formula for maximum refund to be given to the applicant. We
+find that the said Notifications have prescribed the formula effective retrospectively, on refund
+claims to be made on account of inverted duty structure.
+
+5.7. While we agree with the Applicant’s argument that rules framed under subordinate
+legislation cannot override statutory provisions contained in the section, we do not agree with
+their contention: ‘Section 54 in no manner provides or stipulates that amount of refund would be
+
+subject to restriction specified in rules’ because the Section 164 in subsection (1) of the
+
+( the Rule 89 of CGST Rules, 2017. Therefore whenever the Section 54 is to be applied, it has
+at fbisb applied Dn in accordance with the Rule 89 of CGST Rules, 2017 as amended from time to
+
+jgnificance and the necessity of subordinate legislation and how it has become a
+
+ent of legislation has been summed up by the Hon’ble Supreme Court, quoting John
+Salmond, in the Gwalior Rayon Mills Mfg. (Wing.) Co. Ltd. V. Asstt. Commissioner of
+Sales Tax and Others [All India Reporter 1974 SC 1660 (1667)] thus:
+
+“Most of the modern socio-economic legislations passed by the legislature lay down the guiding
+principles and the legislative policy. The legislatures because of limitation imposed upon by the
+time factor hardly go into matters of detail. Provision is, therefore, made for
+delegated legislation to obtain flexibility, elasticity, expedition and opportunity _ for
+experimentation. The practice of empowering the executive to make subordinate legislation
+within a prescribed sphere has evolved out of practical necessity and pragmatic needs of a
+
+modern welfare State.
+
+15
+
+
+In modern times, it is not always possible for the legislatures to make laws providing
+every detail. In view of newer areas emerging, law-making today has become not only time
+consuming but also an increasingly complicated and technical affair. What a legislature can
+possibly do and actually does is that it lays down the policy and purpose of the legislation and
+leaves it to the executive, experts and technocrats to provide for working details within the
+framework of the enactment by way of rules, regulations, bye-laws or other statutory
+instruments. That is why, delegated legislation is increasingly assuming an important role in the
+process of law-making, comprising an important component of legislation. Powers have also
+been conferred under various provisions of the Constitution of India on the different
+functionaries to frame rules, regulations or schemes dealing with various aspects.”
+
+Therefore, we do not see anything in the Rule 89 of the CGST Rules, 2017, as amended
+by the Notifications 21 and 26 of 2018, that overrides the Section 54 of the CGST Act, 2017 and
+they have to be read together harmoniously while granting refunds.
+
+5.7. Their second query is “Where the answer to above is negative, the Applicant wishes to
+
+understand how does the Notification 21 and 26 apply in a scenario where factually following
+
+“(1) an applicant desirous of obtaining an advance ruling under this Chapter may make an
+
+and they have gone on to list five actual financials.
+
+Re Noriy can give rulings only as per the provisions mentioned in Sections 95 and
+
+# the Acts \
+“| Sectign 195 says that, the term ‘advance ruling’ means a decision provided by this
+
+ce © gst ¢ applicant on matters or questions specified in subsection 2 of Section 97, in
+
+e supply of goods or services or both being undertaken or proposed to be undertaken
+
+y the applicant. For the sake of better understanding, Section 97 is reproduced as below:
+
+Section 97 reads as below:
+
+application
+(2) The question on which the advance ruling is sought under this Act, shall be in respect of —
+
+(a) classification of any goods or services or both;
+
+(b) applicability of a notification issued under the provisions of this Act;
+
+(c) determination of time and value of supply of goods or services or both;
+(a) admissibility of input tax credit of tax paid or deemed to have been paid;
+(e) determination of the liability to pay tax on any goods or services or both;
+(fp whether applicant is required to be registered;
+
+16
+
+
+(g) whether any particular thing done by the applicant with respect to any goods or
+services or both amounts to or results in a supply of goods or services or both,
+within the meaning of that term”.
+
+5.9 We find from the above subsection 2 of Section 97, that the method of calculation of
+
+refund is not covered therein. The provisions of Section 95 state that the applicant shall ask the
+
+question in relation to the supply of goods or services or both being undertaken or proposed to be
+
+undertaken by them on matters or questions specified in, and to that extent only, the authority
+
+shall answer/give a ruling to those category of issues.
+
+5.10 From the perusal of the question it is seen that the query no. 2 above is with respect to the formula
+
+involved in calculation of refund. Such queries do not fall under Section 97 of the CGST Act.
+
+5.11 We find that in the present case, applicant has posed the question no 2 that is not covered
+
+under the category mentioned from (a) to (g) of subsection (2) of section 97 of CGST ACT.
+
+Hence we refrain from taking up the question for any discussion.
+
+06. In view of the extensive deliberations as held hereinabove, we pass an order as follows:
+ORDER
+
+Under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+
+\ at Goods and Services Tax Act, 2017)
+NQ.GST-ARAL 113/2018-19/B- Al Mumbai, dt. 2 “ [iy/
+elt The Applicant though eligible to claim for refund of inverted duty structure under
+
+20/4
+
+fon 54(3) of the CGST Act, wishes to understand in-principle applicability of
+
+ANS otification No 21 and 26 in as much whether the same allow for refund of ITC
+
+availed on input services (and remaining unutilized) in whole or part thereof.
+
+Answer: Both the Notifications Notification No 21/ 2018 - Central Tax (Rate) dated April
+18, 2018 and Notification No. 26/2018-Central Tax dated 13.06.2018 21 do apply
+to the Applicant which prescribe the method for carrying out provisions of
+Section 54 (3) of the CGST Act, 2017 and therefore do not allow refund of ITC
+availed on input services (and remaining unutilized) in whole or part thereof, in
+view of the definition of ‘input’ contained in the sub-section (59) of Section 2 of
+the GST Act, 2017 and the definition of ‘Net ITC’ contained in the Notification
+No. 26/2018-Central Tax dated 13.06.2018.
+
+17
+
+
+Q.No.2) :Where the answer to above is negative, the Applicant wishes to understand how does
+
+the Notification 21 and 26 apply in a scenario where factually following financials
+
+may exist:
+A. Revenue streams
+Works contract services liable to 12% GST INR 1,000
+Output GST @ 12%_ INR 120
+Total Revenues incl. GST INR 1,120
+B. Input Tax Credit Data
+Particulars Amount (INR)
+ITC on inputs 65
+ITC on input services 90
+Sub-total 155
+Less: Total tax on outward supplies 120
+Net balance remaining unutilized 35
+
+Answer : This question pertains to formulae for calculation of refund and hence does not
+
+fall within the purview of Section 97 of the CGST Act and is therefore not
+
+sd
+
+B. TIMOTHY B. V. BORHADE
+(MEMBER) (MEMBER)
+CERTIFIED TRUE COPY
+1. The applicant .
+2. The concerned Central / State officer . ee
+3. The Commissioner of State Tax, Maharashtra State, Mumbai - EMBER
+4, The Chief Commissioner of Central Tax, Churchgate, Mumbai
+
+RUt AUTHORITY
+5. Joint commissioner of State Tax, Mahavikas for Website. ADVANCE Pines poh MUMBAI
+
+Note :- An Appeal against this advance ruling order shall be made before The Maharashtra
+
+Appellate Authority for Advance Ruling for Goods and Services Tax, isth floor, Air India
+building, Nariman Point, Mumbai - 400021.
+
+18

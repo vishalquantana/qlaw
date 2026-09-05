@@ -1,0 +1,626 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+(constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri B. V. Borhade, Joint Commissioner of State Tax, (Member)
+(2) Shri B. Timothy, Addl. Commissioner of Central Tax, (Member)
+
+GSTIN Number, if any/ User-id 27AAACC7258B1ZW
+
+Legal Name of Applicant Cummins India Limited
+
+Registered Address/Address provided | Cummins India Office Campus, Tower A, 5th floor,
+while obtaining user id Survey No. 21, Balewadi, Pune - 411045
+
+Details of application GST-ARA, Application No. 65 Dated 10.08.2018
+Concerned officer Range I, Div-V (Khadakwasla), Pune II Commissionerate,
+
+Nature of activity(s) (proposed / present)
+
+in respect of which advance ruling sought
+
+A Category Service provision
+
+B Description (in brief) The Applicant is inter alia engaged in the business of
+manufacturing diesel and natural gas engines
+
+Issue/s on which advance ruling required | i) classification of goods and/or services or both
+(v) determination of the liability to pay tax on any goods
+or services or both
+
+Question(s) on which advance ruling is | As reproduced in para 01 of the Proceedings below.
+
+required
+
+PROCEEDINGS
+
+(under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods and
+Services Tax Act, 2017)
+
+The present application has been filed under section 97 of the Central Goods and Services Tax Act,
+
+@17 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as “the CGST Act and
+
+Determination of GST liability by deciding principal supply of the composite supply qua
+
+<
+W® Maintenance contracts executed between the customer and the Applicant”.
+
+x the outset, we would like to make it clear that the provisions of both the CGST Act and the
+
+STAYS br Act are the same except for certain provisions. Therefore, unless a mention is specifically made to
+such dissimilar provisions, a reference to the CGST Act would also mean a reference to the same provision
+under the MGST Act. Further to the earlier, henceforth for the purposes of this Advance Ruling, a reference
+to such a similar provision under the CGST Act / MGST Act would be mentioned as being under the “GST
+Act”.
+
+02. FACTS AND CONTENTION - AS PER THE APPLICANT
+
+The submissions, as reproduced verbatim, could be seen thus-
+STATEMENT OF THE RELEVANT FACTS HAVING A BEARING ON THE QUESTION(S) ON
+WHICH THE ADVANCE RULING IS REQUIRED
+
+E, This Application is being preferred by Cummins India Limited, Maharashtra ("Applicant/
+Company’), a company incorporated in India under the provisions of the Companies Act, 1956
+having its registered office at Cummins India Office Campus, Survey No. 21, 5th Floor, Tower A,
+Balewadi, Pune-411045.
+
+iD The Applicant is engaged in providing goods and services which qualify as ‘supply' as per
+provisions of the Central Goods and Service Tax Act, 2017 ("CGST Act") and is duly registered
+thereunder bearing GSTIN 27 AAACC7258B1zW,
+
+
+
+3. The Applicant is inter alia engaged in the business of manufacturing diesel and natural gas engines
+and this business can broadly be bifurcated as follows:
+
+¢ Engine business - It manufactures engines of 60 HP which is generally used in automobile
+industry
+
+e Power Systems business - This unit manufactures high horsepower engines of 700 HP to 4500
+HP which are used in marine, railways and defense.
+
+¢ Distribution business - It provides after sales services to its customers which includes supply
+of spare parts, maintenance services, rebuilding of engines and batteries.
+
+4. The Applicant executes an Annual Maintenance Contract ("AMC") with end customers to provide
+maintenance services to their customers which aid in keeping customer's engines in a good
+working condition. These services are provided for a fixed charge based on the nature of
+maintenance activity that may be required, which could be one or more of the activities enlisted
+but limited to below:
+
+- To carry out preventive maintenance;
+- Routine maintenance
+
+- To check safety controls;
+
+- General inspection of parts;
+
+- Supply of consumables;
+
+- Other repairs and replacements.
+
+5. As per terms of the AMC agreement between the customer and the Applicant, the Applicant is
+responsible to upkeep the engines in good working condition by undertaking regular
+maintenance. In order to provide immediate services to the customer and to keep the minimum
+downtime of the engines, the Applicant has engaged dealers which inter-alia provide maintenance
+services to the customers on behalf of the Applicant. If in the course of providing the maintenance
+services, the dealer is required to utilize consumables, parts etc., it can do so at his discretion (i.e:
+without any prior permission of the Applicant or customer) and the value for such parts or
+onsumables are recovered from the Applicant under AMC.
+
+ese goods, consumables etc. required for undertaking activities referred under AMC are made
+ilable to the customers by dealers themselves, except customers. Engaged in mining industry
+
+>Given the above background and keeping in mind the fact that the transaction involves supply of
+fervices and goods, present application is being preferred before the Hon'ble Authority for
+Advance Ruling to decide the taxability of the underlying transaction.
+
+STATEMENT CONTAINING APPLICANTS INTERPRETATION OF LAW IN RESPECT OF THE
+QUESTIONS RAISED
+
+Statement containing the applicant's interpretation of law and/or facts, as the case may be, in respect of
+the aforesaid question(s)
+1. ISSUE FOR DETERMINATION
+
+Determination of GST liability by deciding principal supply of the composite supply qua maintenance
+contracts executed between the customer and the Applicant.
+
+OUR SUBMISSIONS
+SUBJECT TRANSACTION IS A COMPOSITE SUPPLY COMPRISING OF SERVICE AS
+"PRINCIPAL SUPPLY’
+
+Zads As the underlying transaction involves rendering of maintenance services along with supply of
+
+necessary parts, it is necessary to analyze the definition of ‘works contract’ as given in Section
+2(119) of the CGST Act. Relevant extract of the same is reproduced below for ease of reference:
+
+"(119) "works contract" means a contract for building, construction, fabrication, completion, erection,
+installation, fitting out, improvement, modification, repair, maintenance, renovation, alteration or
+commissioning of any immovable property wherein transfer of property in goods (whether as goods or in
+some other form) is involved in the execution of such contract;"
+
+
+Dake, On perusal of the above definitions, it can be stated that repair and maintenance relating to any
+immovable property would fall under the ambit of 'works contract’. In the present facts, the
+Applicant is engaged in providing repair and maintenance in respect of engines which are
+movable in nature and hence, it would not be considered as 'works contract’. Therefore, it is
+necessary to analyze the definition of ‘composite supply as given in Section 2(30) of the CGST Act.
+Relevant extract of the same is reproduced below for ease of reference:
+
+"(30) "composite supply" means a supply made by a taxable person to a recipient consisting of two or more
+taxable supplies of goods or services or both, or any combination thereof, which are naturally bundled and
+supplied in conjunction with each other in the ordinary course of business, one of which is a principal
+supply;"
+
+2.3, On perusal of the above definition, it appears that a composite supply means and includes multiple
+supplies of goods or services or both which are supplied together in the ordinary course of
+business. Accordingly, the definition of composite supply provides for twofold condition as stated
+below for any supply to qualify as a composite supply: a) Supply of two or more goods or services
+together; and b) Such goods or services are provided together in the normal course of business.
+
+2.4. In the present facts, the AMC covers in its scope the services of maintenance and supply of
+parts/consumables as may be required. Mere supply of parts/consumables does not fulfill the
+requirement of the customer unless the same is appropriately used by the professional expert.
+Consequently, supply of service and parts is considered as naturally bundled and intrinsically
+linked with each other to effectively perform the obligations as stipulated under AMC. Given the
+fact that both the conditions as prescribed under Section 2(30) of CGST Act have been fulfilled, the
+underlying transaction constitute as a ‘composite supply’.
+
+25. It is further submitted that once any ‘supply’ qualifies as 'composite supply’ then in view of Section
+8 of the CGST Acct, the tax structure applicable thereto including determination of assessable value,
+classification, tax rate etc. needs to be determined with reference to the principal supply comprised
+thereunder. The term ‘principal supply! is defined under Section 2(90) of the CGST Act and is
+reproduced below:
+
+"(90) "principal supply" means the supply of goods or services which constitutes the predominant
+element of a composite supply and to which any other supply forming part of that composite
+supply is ancillary;"
+
+It is submitted that even though the AMC covers rendition of service as well as supply of goods
+in its scope, the very intention of the Applicant is to provide the maintenance services (i.e. upkeep
+the machine) and as such supply of goods follows as a part and parcel of providing the
+maintenance service comprehensively. In such a case, supply of maintenance service appears to
+be the dominant intention of the scope of services as envisaged under AMC and thus supply of
+maintenance service partakes the character of a ‘principal supply’.
+
+2.8. At this stage, it would be relevant to refer the past judicial precedents which inter alia discuss the
+dominant intention of the transaction to decide the taxability of the same under erstwhile regime.
+Reference is made to the Supreme Court Ruling in the case of Commissioner of Sales Tax, Madhya
+Pradesh Vs. Purushottam Premji [(1970) 26 STC 38 (SC)] wherein some of the tests were evolved
+to determine taxability of the contract. Relevant extract of the judgment is reproduced below for
+your easy reference:
+
+"The primary difference between a contract for work or service and a contract for sale of goods is that in the
+
+former there is in person performing work or rendering service and no property in the thing produced as a
+whole..... In case of a contract for sale, the thing produced as a whole had individual existence as the sole
+property of the party who produced it, at some time before delivery, and the property therein passes only
+under the contract relating thereto the other party price."
+
+29, The above judgment has laid down the primary test to determine the taxability of the transaction.
+It states that the contract whose main object is transfer of property in a chattel to the buyer even
+though some work may be required to be done under the contract, is incidental to the sale. Based
+
+3
+
+
+on the aforesaid analogy, the Hon'ble Courts in the following judgments have held that the
+contract is for work or labour even though it involves supply of material:
+
+Hindustan Aeronautics Ltd. V. State of Karnataka (MANU/SC/0312/1983) The Appellant was
+engaged in the business of assembling, servicing, repairing, overhauling of aircrafts, their
+instruments and accessories. In this regard, the Court held that the activity undertaken by the
+Appellant is in the nature of service and accordingly not liable to sales tax.
+
+M/s. Rainbow Colour Lab & Anr. Vs. The State of Madhya Pradesh & Ors
+(MANU/SC/0061/2000) The Appellant is engaged in taking photographs, developing and
+printing films. In this case, it was held that property passing on to the customer in the form of
+photographic paper is only incidental to the service contract. This activity cannot be subjected to
+sales tax.
+
+M/s. Everest Copiers through R.A. Partner, etc. Vs. The State of Tamil Nadu
+[MANU/SC/0671/1996] The Appellant is engaged in the business of photocopying. It was
+decided that the contract between the Appellant and the customer is a contract of work or service,
+not a contract of sale.
+
+2.10. Accordingly, in the present facts, it is submitted that there is no intention of transfer of property
+in goods to the customer. The engines on which maintenance activity is being carried out by the
+Applicant belongs to the customer itself. Further, the maintenance contract has been executed by
+the customer to avail the services of professionals who are expert in the field of maintenance of the
+engines attached to the machines such as gensets, excavators, dumpers etc. It is submitted that the
+intention of an annual maintenance agreement is to ensure that systems/ machines should function
+properly. Maintenance of the machines helps to extend the life of the machine, maximize the
+energy efficiency of the equipment and eliminate unexpected system failure. Such AMC's are
+generally executed to stop larger failures by periodic and systematic inspection and necessary
+overhauling of the equipment.
+
+this regard; we would like to refer the clauses of the contract executed between customer and
+pplicant which substantiates that the purpose of the contract is that of providing services,
+nt clauses are provided below:
+
+"Maintenance Agreement
+mprehensive Annual Maintenance Contract for DG sets (installed at various locations Of. HDFC
+
+Further, CUMMINS has expressly agreed that it shall employ its best efforts and provides all necessary
+resources to perform its services and maintain an uptime of 92% per annum of the DG sets installed at the
+bank's premises. CUMMINS shall discuss and review the progress and status of the current/and all
+assignments, on a regular basis as agreed and in addition as and when required with the Bank
+
+‘mited - Pan India as per Annexure I) is made on this 1st day of April 2017 at Pune by and between:
+Failing which the Bank, will decide for location/DG set specific (as the case may be) penalty to be levied @
+10% of AMC amount payable/paid under. Annual Maintenance Contract in respect of assets installed at
+such location locations, per instance of delayed TAT's for the SLA as agreed in Annexure il attached
+herewith.
+
+1. Four preventive maintenance visits per annum - Mandatory Quarterly PM visit
+
+2. Maintenance of DG Set will be carried out as per manufacturer's standérd practice.
+
+Pre For C and D check only filters and lube oil shall be provided by Cummins.
+
+Part-II : Obligations of Cummins
+a. To ensure that uptime of equipment will be to an extent of 92% per annum
+
+b. CAMC scope is revised with inclusion of out of jobs like all minor and major repairs providing rental
+DG sets during down time, Battery etc will be part of CAMC scope.
+
+C. Requesting services
+
+All other parts and repairs sholl be charged at actual.
+
+
+3. To supply all mointenance consumables covered under this contract
+
+4. To carry out periodic maintenance and trouble shooting in Engine and alternator
+
+Diwesseranan *
+2.12. On perusal of the above, it can be stated that the purpose behind executing the contract is to keep
+the engines unimpaired and operative at all times. The same can be substantiated by the following:
+° Primary obligation of the Applicant is to ensure that equipment is in working condition
+at least for minimum specified period;
+e Incase of major repairs or downtime of the DG sets, the Applicant is req tired to provide
+DG set on rental basis to the customer so that there would not be any disturbance to the
+customer's operations;
+e The Applicant is liable to pay penalty to the customers in case they are not able to up-keep
+the machine for minimum period of time as prescribed in the agreement;
+e Supply of consumables and small parts such as filters, hoses, gaskets are covered in the
+contract;
+e Replacement or supply of major parts of the machine are specifically excluded from the
+scope of contract.
+e Fixed price has been decided for the AMC.
+2.13. It is settled position: that intention of the contract is required to be understood in terms of the
+clauses of the agreement. Considering the factuat position narrated in Para 2.12 above, it is also
+
+submitted that the dominant intention of the activity would be considered as service where skill
+is important rather than supply of goods. The same can be corroborated by the following facts:
+
+© Mere availability of parts/components, in absence of an engineer competent to use this,
+neither suffices the customer's requirement nor discharges Applicant from its obligation
+under AMC;
+
+Applicant's obligation under AMC had been at numerous times suitable discharged by
+merely applying intellect, efforts and monitoring, without necessitating any
+part/component
+
+Ha ing available of parts/components is ancillary to the same. Consequently, the principal supply
+e transaction is 'service' and GST implications shall be determined accordingly.
+
+4
+s the principal supply of the transaction is service; place of supply would be determined in terms
+
+%,
+
+of the default Section 12(2) of the Integrated Goods and Services Tax Act("IGST Act") which states
+that the location of the recipient would be the place of supply. Relevant portion of the Section is
+reproduced below:
+(2) The place of supply of services, except the services specified in sub-sections (3) to (14),
+(a) made to o registered person shall be the location of such person;
+(b) made to any person other than a registered person shall be,
+(i) the location of the recipient where the address on record exists, and (ii) the location of the supplier of
+services in other cases."
+2.16. Further, the location of the supplier of service would be determined as per the definition provided
+under Section 2(15) of the IGST Act which is as under:
+"location of the supplier of services means, — .
+(a) where o supply is made from a place of business for which the registration has been obtained, the location
+of such place of business;
+
+(b) where a supply is made from a place other than the place of business for which registration has been
+obtained a fixed establishment elsewhere), the location of such fixed establishment;
+
+(c) where a supply is made from more than one establishment, whether the place of business or fixed
+establishment, the location of the establishment most directly concerned with the provision of the supply;
+and
+
+
+(d) in absence of such places, the location of the usual place of residence of the supplier"
+
+2.17. In view of the above definition, registered premises from where supply is made is considered as
+location of the service provider. Accordingly, in the present facts, maintenance services are
+provided by the Applicant from Maharashtra. This is also supported by the fact that contract is
+executed with the Applicant. Thus, the location of the supplier of service is Maharashtra.
+
+2.18. | Consequently, where the customers are located outside Maharashtra, the Applicant is charging
+IGST. On the other hand, where the customers are located in Maharashtra, the Applicant is
+
+charging CGST and SGST.
+IT IS SETTLED POSITION THAT 'SERVICE' FORMS PRINCIPAL SUPPLY OF AMC
+TRANSACTION
+
+2.19. | We would like to refer to the Advance Ruling pronounced by the Uttar Pradesh Advance Ruling
+Authorities on identical issue on May 16, 2018 wherein it has been held that AM transactions is
+composite supply and service forms a principal supply thereunder: Relevant portion of the Ruling
+is reproduced below for your easy reference:
+
+"a) Whether supply of comprehensive annual maintenance service which may also involve incidental supply
+of spare parts/ goods should be classified as a composite supply or mixed supply? Ans. -Since the supply of
+maintenance service is for a one and fixed price with or without supply of spare parts/goods and supply of
+service and goods is made in conjunction with each other in the ordinary course as per maintenance
+contracts, this maintenance service to the extent of presence of all the necessary ingredients cited in the legal
+provisions quoted supra, is naturally. bundled with the incidental supply of goods., it is case of composite
+supply of service. b) In case the said contract is considered as composite supply, what is the principal supply
+between goods or services? Ans. - The said contract merits to be considered to be a composite supply of
+service, and principal supply is service inasmuch as the supply of goods is merely incidental to the
+maintenance contract in the given facts and circumstances."
+
+On a bare perusal, it is submitted that the Ruling referred above relates to identical issue of
+pce Ruins determination of principal supply involved in a composite supply. It is submitted that even though
+%) Ruling passed by an Authority is not binding on any other proceedings sub-judice before
+EN thority for Advance Ruling, existence of identical issue brings substantial pervasive force to the
+ES red Ruling in the present facts. Therefore, based on the logical analogy explained under
+réffrred Ruling, Applicant submits that 'service forms principal supply of AMC.
+
+Ss
+
+ff
+@ ii view of the submissions, it is most humbly prayed that Hon'ble authorities may kindly pass a
+“ruling to clarify that AMC's are in the nature of ‘composite supply’ of which service forms principal
+
+supply.
+
+03. CONTENTION - AS PER THE CONCERNED OFFICER
+The submission, as reproduced verbatim, could be seen thus-
+BRIEF FACTS OF THE CASE
+Applications made by M/s Cummins India Ltd. (hereinafter referred as “the applicant”) vide their
+letters dated 26.07.2018 are examined and it is noticed that the applicant have made two applications
+seeking advance ruling on three issues. Comments on their application are as under:
+
+5 Determination of Principal Supply
+
+The applicant stated that they are engaged in the business of manufacturing diesel and natural gas
+engines and also engaged in distribution business which provides after sales services to its customers
+which includes supply of spare parts, maintenance services, rebuilding of engines and batteries. As per
+their submissions, they execute an Annual Maintenance Contract (AMC) with end customers to provide
+maintenance services to keep customer's engines in a good working condition. The AMC primarily include
+carrying out routine maintenance, preventive maintenance, inspection of parts, supply of consumables
+and other repairs and replacements.
+
+The applicant submitted that the AMC undertaken by them falls under ‘composite supply’ as it
+consists of two or more taxable supplies of goods or services or both and hence, the applicable tax structure
+is to be determined with reference to the principal supply comprised there under. As per the definition of
+‘principal supply’ defined under Section 2(90) of the CGST Act, 2017 means the supply of goods or services
+
+
+which constitutes the predominant element of a composite supply and to which any other supply forming
+part of that composite supply is ancillary.
+
+Hence, as defined, the predominant element of a composite supply can be determined on the basis
+of conditions of the supply agreements (in this case Annual Maintenance Contract). The applicant has been
+requested to submit a copy of the AMC for examination of the case. The applicant submitted copy of
+Maintenance Agreement between HDFC Bank Limited and them wherein the obligations of the applicant
+is to ensure the uptime of equipment to an extent of 92 percent per annum and will provide services like
+four preventive visits per annum, maintenance of DGE SET as per manufacturer standard practices
+wherein all other parts and repairs shall be charged at actual. They also carry out supply of all maintenance
+consumables, periodic maintenance and troubleshooting in engines and alternators. Also, in their
+application, at para 2.11 the applicant submitted text of a portion of the AMC agreement which explains
+the obligations of Cummins under the maintenance agreement which is reproduced as under:
+
+Part-II: Obligations of Cummins
+
+a. To ensure that uptime of equipment will be to an extent of 92% per annum.
+b. CAMC scope is revised with inclusion of out of jobs like all minor and major repairs
+providing rental DG sets during down time, Battery etc. will be part of CAMC scope
+c. Requesting services
+e Four preventive maintenance visits per annum-Mandatory Quarterly PM visit
+e Maintenance of DG set will be carried out as per manufacturer’s standard
+PRACH CE sisceswawes For C and D check only filters and lube oil shall be provided by
+Cummins. All other parts and repairs shall be charged at actual.
+¢ To supply all maintenance consumables covered under this contract.
+¢ To carry out periodic maintenance and trouble shooting in Engine and alternator
+
+Further, as per the submissions made by the applicant in their application at Para 2.12 that the
+y e behind executing the contract is to keep the engines unimpaired and operative at all times. The
+€ Tarte substantiated by the following:
+
+4
+
+2h Primary obligation of the applicant is to ensure that equipment is in working condition at
+
+least for minimum specified period;
+
+In case of major repairs or downtime of the DG sets, the Applicant is required to provide
+
+DG set on rental basis to the customer so that there would not be any disturbance to the
+
+customer's operations;
+
+The applicant is liable to pay penalty to the customers in case they are not able to up-keep
+
+the machine for minimum period of time as prescribed in the agreement;
+
+IV. | Supply of consumables and small parts such as filets, hoses, gaskets are covered in the
+contract;
+
+V. — Replacement or supply of major parts of the machine are specifically excluded from the
+scope of contract.
+
+VI. Fixed price has been decided for the AMC.
+
+In view of the above and the fact mentioned in the copy of the Maintenance agreement submitted to
+this office, it appears that the predominant element of supply under AMC is supply of service.
+
+04. HEARING
+
+The case was scheduled for 11.09.2018 for Preliminary hearing when Sh. Rohit Jain,
+Advocate along with Sh. Narender Vaidya, DGM Taxation appeared and made oral contentions
+for admission of application as per contentions in their ARA application. Jurisdictional Officer
+Sh. B. K. Mishra, Supt., Pune II, CGST Commissionerate appeared and stated that they would be
+
+making submissions in due course.
+
+
+The application was admitted and called for final hearing on 27.11.2018, Sh. Rohit Jain,
+Advocate along with Deepak L Bahirwani, Tax Director-Cummins India Group, Group CFO's
+Officer and Sh. Vivek Baj, C.A. ELP appeared and made oral contentions as per details submitted
+by them. No one from the side of the department was present.
+
+05. OBSERVATIONS
+
+We have gone through the facts of the case. The issue put before us is in respect of the
+
+agreement entered into, by the applicant with their clients, the salient features of which have
+
+been enumerated above by both, the applicant as well as the jurisdictional officer.
+
+The Applicant has submitted that they are engaged in the business of manufacturing
+diesel and natural gas engines which is supplied to their end customers. They also provide after
+sales services to their customers on account of engines supplied by them and also by various
+other parties,which includes supply of spare parts, maintenance services, rebuilding of engines
+
+and batteries.
+
+The applicant has submitted two agreements entered into with M/s HDFC bank and M/s
+Yes Bank. They have also submitted a correspondence received from M/s BEML Limited for
+“Work Order to execute the Guaranteed spares and availability contracts for 18Nos. QSK 19C
+Engines fitted on BH160M Dumpers a/c CCI”. We find that the applicant executes an Annual
+
+sup Ry 5 7 consumables, etc. As per terms of the AMC agreement between the customer and the
+¥ _ the Applicant is responsible to upkeep the engines in good working condition by
+undertaking regular maintenance. In order to provide immediate services to the customer and to
+keep the minimum downtime of the engines, the Applicant has engaged dealers who provide
+maintenance services to the customers on their behalf and if required to utilize consumables,
+parts etc., they can do so at their discretion (i.e: without any prior permission of the Applicant or
+customer) and the value for such parts or consumables are recovered from the Applicant under
+AMC. Thus it is seen that the underlying transaction in all the agreements involve rendering of
+maintenance services along with supply of necessary parts, if and when necessary. Hence it is
+clear that the main purpose behind executing the contract is to keep the engines unimpaired and
+operative at all times for which a fixed price has been decided for the AMC. In order to provide
+immediate services to the customer and to keep the minimum downtime of the engines, the
+
+Applicant has engaged dealers who inter-alia provide maintenance services to the customers on
+
+behalf of the Applicant. Considering the factual position narrated in Para 2.12 above, it is also
+
+8
+
+
+submitted that the dominant intention of the activity would be considered as service where skill
+is important rather than supply of goods and the skill is supplied by the dealers who use
+competent engineers to perform the services mentioned in the contract. The goods, material,
+spare parts, etc. are required to be supplied only when necessary i.e. when, during the course of
+maintenance services it is found by the skilled personnel that there is a need for such parts which
+
+will effectively keep the runtime of the DG Sets at maximum acceptable time.
+
+Now, to arrive at a decision, we first of all will refer to the definition of ‘composite supply
+
+which is given in Section 2(30) of the CGST Act, 2017 and is reproduced below:-
+
+"(30) "composite supply" means a supply made by a taxable person to a recipient consisting of two or more
+taxable supplies of goods or services or both, or any combination thereof, which are naturally bundled and
+supplied in conjunction with each other in the ordinary course of business, one of which is a principal
+supply;"
+
+Thus it is clear that a composite supply means that there is a supply of two or more goods
+or services together and such goods or services are provided together in the normal course of
+
+business. In the present case, a perusal of the agreements reveal that there is definitely is a supply
+
+——
+
+‘S EiANCE Ruepf two or more goods or services together and such goods or services are provided together in
+, al course of business and therefore there is no doubt that there is a composite supply by
+ant in this case As both the conditions as prescribed under Section 2(30) of CGST Act
+
+fulfilled, the underlying transaction constitute as a ‘composite supply'. The agreements
+als, Fy éal that the applicant is engaged in providing repair and maintenance in respect of
+So
+
+Some SIRT
+
+since works contract under the GST laws envisages immovable property wherein transfer of
+
+s which are movable in nature and hence, it would not be considered as a “Work Contract”
+
+property in goods is involved in the execution of such contract.
+
+Now that we find that there is a rendering of composite supply we need to find out as to
+what is the principal supply in this case, whether it is a supply of goods or supply of services.
+Therefore we refer to the definition of the term ‘principal supply' which is defined under Section
+2(90) of the CGST Act and is as under:-
+
+"(90) "principal supply" means the supply of goods or services which constitutes the
+predominant element of a composite supply and to which any other supply forming part of that
+
+composite supply is ancillary;"
+
+In the subject case it is seen that even though the AMC covers both, supply of goods and
+service, the predominant intention is to provide maintenance services for the proper upkeep of
+the machines belonging to their clients and, supply of goods follows as a consequent to the
+supply of maintenance service. Hence we find that supply of maintenance service is the dominant
+
+intention of the contracts and can be considered as the ‘principal supply’.
+
+
+Now that we have found that the principal supply in the transaction before us is supply
+of service, then the place of supply is required to be determine. The place of supply would be
+determined in terms of the default Section 12(2) of the IGST Act which states that the location of
+
+the recipient would be the place of supply.
+
+Further, in view of the definition provided under Section 2(15) of the IGST Act the
+location of the supplier of service would be the registered premises from where supply is made
+
+is considered i.e in this case the place would be Maharashtra where the applicant is registered.
+
+To sum up, since the supply of maintenance service in the present case is for a single price
+with supply of spare parts/ goods as and when required, the supply of both, goods and services
+are made in conjunction with each other in the ordinary course of business and therefore
+considering the provisions of the GST Laws we find that supply of services/ goods in the present
+case is naturally bundled, with the supply of goods being incidental to the supply of services and
+therefore such contract are to be considered as a composite supply of service where the principal
+
+supply is service and the supply of goods is incidental to such supply of service.
+05. In view of the extensive deliberations as held hereinabove, we pass an order as follows :
+
+ORDER
+
+(under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+NO.GST-ARA- 65/2018-19/B- 16) Mumbai, dt. 19 .\2.: 20\¢%
+
+For reasons as discussed in the body of the order, the questions are answered thus -
+
+Question :- Determination of GST liability by deciding principal supply of the composite supply qua
+
+maintenance contracts executed between the customer and the Applicant.
+
+B. V. BORHADE B TIMOTHY
+(MEMBER) (MEMBER)
+
+CERTIFIED COPY
+2. The concerned Central / State officer —
+
+3. The Commissioner of State Tax, Maharashtra State, Mumbai M
+
+4. Th isdictional Commissioner of Central Tax. Churchgate Mumbai
+5, joteunre ieee of State tax , Mahavikas for Wate ADVANCE RULING AUTHORITY
+MAHARASHTRA STATE, MUMBAI
+
+Note :- An Appeal against this advance ruling order shall be made before The Maharashtra Appellate
+Authority for Advance Ruling for Goods and Services Tax, 15th floor, Air India building, Nariman Point,
+Mumbai - 400021.
+
+10

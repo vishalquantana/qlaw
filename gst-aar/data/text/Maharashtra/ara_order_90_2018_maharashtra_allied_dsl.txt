@@ -1,0 +1,1119 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+(Constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri B. Timothy, Addl. Commissioner of Central Tax, (Member)
+(2) Shri B. V. Borhade, Joint Commissioner of State Tax,( Member)
+
+GSTIN Number, if any/ User-id | 27AAACASS09K1ZP
+Legal Name of Applicant Allied Digital Services Ltd
+
+Registered Address/Address | 13A, 13 floor, Earnest House, Back Bay Reclamation,
+provided while obtaining user | NCPA ROAD, Block III, Nariman Point, Mumbai — 400021.
+
+id
+Details of application GST-ARA, Application No. 90 Dated 03.11.2018 |
+Concerned officer Dy. Commr. S.T.(E-806), Nodal — I, Mumbai
+
+Nature of activity(s) (proposed /
+
+present) in respect of which
+
+advance ruling sought
+
+A__| Category Works Contract
+
+B | Description (in brief) Setup a comprehensive CCTV based Surveillance system for the
+city of Pune and Pimpri Chinchwad for the Govt. of
+Maharashtra(Home Dept )
+
+lIssue/s on which advance |i) classification of goods and/or services or both
+ruling required (ii) applicability of a notification issued under the provisions of the
+
+Act
+
+(v) determination of the liability to pay tax on any goods or
+
+services or both
+
+(vii) whether any particular thing done by the applicant with
+
+respect to any goods and/or services or both amounts to or results
+
+in a supply of goods and/or services or both, within the meaning
+
+of that term
+
+As reproduced in para 02 of the Proceedings below.
+
+*
+oh i PROCEEDINGS
+Ng
+Kb frestion 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Key Goods and Services Tax Act, 2017)
+
+The present application has been filed under section 97 of the Central Goods and
+Services Tax Act, 2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter
+referred to as “the CGST Act and MGST Act”] by Allied Digital Services Ltd, the applicant,
+
+seeking an advance ruling in respect of the following questions:
+
+Question | :- Whether the amount received for supply of services during the post GST
+period to the Government of Maharashtra (Home Department) as per the contract in
+question are taxable under SGST/CGST Act ?
+
+Question 2 :- If answer to the question No.1 is in affirmative then what is the rate of tax
+under SGST/CGST?
+
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act
+and the MGST Act are the same except for certain provisions. Therefore, unless a mention is
+specifically made to such dissimilar provisions, a reference to the CGST Act would also mean a
+reference to the same provision under the MGST Act. Further to the earlier, henceforth for the
+purposes of this Advance Ruling, a reference to such a similar provision under the CGST Act /
+
+MGST Act would be mentioned as being under the “GST Act”.
+
+02. FACTS AND CONTENTION - AS PER THE APPLICANT
+
+The submissions, as reproduced verbatim, could be seen thus-
+
+Statement of relevant facts having a bearing on the question(s) on which advance ruling is
+
+required.
+
+L The Government of Maharashtra (for short "GOM") has envisaged to setup a comprehensive
+CCTV based City Surveillance System for the city of Pune and Pimpri-Chinchwad (hereinafter
+referred to as the "Surveillance Project").
+
+ies The GOM published the Request for proposal (for sort’ RFP") to seek services of a reputed IT
+
+firm as a System Integrator for Design, Development, Implementation & Maintenance of CCTV
+based Surveillance System For Pune and Pimpri-Chinchwad areas. Accordingly the Applicant,
+
+has submitted its proposal for the same.
+3 The GOM has selected the Applicant as successful bidder and issued Letter of Intent dated 17th
+September 2013 to the Applicant. the Applicant in turn signed and returned the same as a token
+of acceptance of Letter of Intent.
+
+Therefore the agreement dated 28th day of October, 2013 is made between the Home
+™», Department of GoM and the Applicant. The Applicant is referred to as ‘Systems Integrator” or
+4
+
+" in the contract document.
+
+VEN
+Tie, pplicant has certain queries regarding the applicability of GST tax on the payments made
+
+thd GoM to the Applicant under above stated contract.
+portant clauses of the said agreement relevant for deciding the issue are as follows:
+
+LH
+Lf Definitions
+
+in the Agreement, the following terms shall be interpreted as indicated,
+
+(a) 'GOM' means Home Department, Government of Maharashtra;
+
+(b) Contract’ means this Agreement entered into between GOM and the Systems Integrator
+including all attachments and annexure thereto and all documents incorporated by reference
+therein;
+
+(c) 'Systems Integrator’ means M/s. Allied Digital Services Limited interchangeably referred to as
+"SI" in the contract; and
+
+(d) 'RFP' means the Tender Published by GOM (Ref. No. ISS 1012/CR-71/Spl-4) and the
+subsequent corrigenda / Clarifications issued.
+
+(e) 'GO Live’ means the date on which the proposed solution becomes operational after successfu
+conclusion of all acceptance tests to the satisfaction of GOM.
+
+(f) "Deliverable" means any action/output generated by the SI while discharging their contractua
+obligations. This would include feeds, analytics, information and all the other services rendere
+
+as per the scope of work and as per the SLAS.
+
+
+(g) "Assets" refer to all the hardware / Software / furniture / data / documentations / manuals
+catalogs / brochures /or any other material procured, created or utilized by the SI or the GOM for
+the Pune Surveillance Project.
+
+3) Term of the Agreement
+
+The term of this agreement shall be a period of 5 years and 10 months from the date of execution of
+this Agreement. This includes the estimated period of 42 weeks for implementation of the project and
+60 months from the date of successful go live of the project.
+
+4 Fees
+
+Total fees to be paid to the Systems Integrator for the execution of this Contract are Rs
+2,24,31,50,105.50. GOM shall pay the Systems Integrator the total fees in following manner : (a) 20°
+of the total fees against Project Go Live (i.e. successful FAT) and (b) Remaining 80% of total fees i
+20 equal installments (Rs. 8,97,26,004.22 /per quarter). The fees shall be inclusive of Value Addei
+Tax or Sales Tax, Service Tax, Income Tax, duties, fees, levies, charges, and commissions ai
+applicable under the relevant Laws of India. Should there be a change in applicable taxes, the actu:
+
+taxes on the date of billing would prevail.
+
+The payment shall be made at the end of every three months starting from the date of Successful Go
+Live and shall be subject to strict adherence of the respective SLAS. If the Systems Integrator is liable
+for any penalty/liquidated damages as per the SLAs (refer to the clause no. 7 of this agreement), the
+same shall be adjusted from quarterly payments due to the System Integrator.
+
+GOM will release the payment within 30 days of submission of valid invoice subject to the condition
+that invoice and all supporting documents produced are in order and work is performed to the
+satisfaction of GOM. GOM shall be entitled to delay or withhold the payment of any invoice or part of
+it delivered by SI. where GOM dispute such invoice or part of it provided that such dispute is
+bonafide. The disputed amount shall be settled in Resolution of dispute.
+
+6) Work Completion Timelines
+SS
+
+eee
+
+List of the broad activities to be carried out by the Systems Integrator and the timelines from the
+ok Order are given in the table below. "T" stands for the date of issue of the Work Order.
+
+ity Time Line
+eh
+¥ Mobilization of Resources, Preparation of the Inception Report T +3 weeks
+
+Nias SLA
+ RaseTRA SA “Prepare the Detailed Technical Architecture of the Overall System in
+< alll consultation with all the Stakeholders T + 6 weeks
+Prepare FRS for the Video Surveillance Solution, Finalise Reporting Formats
+3 / Base Rules T +8 weeks
+Prepare SRS, SDD for the Entire Video Surveillance System
+4 T +12 weeks
+Supply, Installation, Configuration of various equipments, components,
+5 systems at Data Center T + 18 weeks
+Preparing and implementing the Surveillance system information security
+6 policy, Including policies on backup T +20 weeks
+Installation of the Video Surveillance System, including customized system at
+7 Data Center T +20 weeks
+. i 7 T+ 23 weeks
+8 Final Acceptance Testing (FAT) for Video Surveillance System, Data Center
+Equipments
+Phase | : Operationalization at Is Zone
+Supply, Installation of Cameras for 1" Zone (Approx. 350 cameras) T +21 weeks
+
+Development of the Command Center at CP office & Addnl. CP Office | T +21 weeks
+10 Viewing Center at Zone 1, Supply & Installation of equipments at
+
+3
+
+
+corresponding Police Stations
+Establishing connectivity for Zone 1 Cameras, Command Center & Police | T+23 weeks
+
+11
+
+Stations
+2 Training and Capacity Building for the Police Personnel for Phase I T+25 weeks
+13 FAT for Phase I cameras, Command / Viewing Center Setup, Police Station | T + 26 weeks
+4 Setups
+14 FAT for Data Centers T + 26 weeks
+15 Go Live for the Ist Zone T + 26 weeks
+Phase II Operationalization at 2nd 3rd & 4th Zone
+16 Supply, Installation of Cameras for 2nd, 3rd & 4th Zones T +31 weeks
+7 Development of the remaining viewing Centers, Supply & Installation of | T + 26 weeks
+equipments at corresponding Police Stations
+18 Establishing connectivity for Phase II Cameras, Viewing Center, Police | T +33 weeks
+Stations
+c Training and Capacity Building for the Police Personnel for Phase II T +35 weeks
+20 FAT for phase II Cameras, Viewing Center Setup, Police Station T +37 weeks
+21 Go Live for the 2nd, 3rd & 4th Zones T + 40 weeks
+2 System Documents, User Documents as per ITIL (Information Technology | T +41 weeks
+Infrastructure Library) standards
+7 formal Go Live for the Entire Project T +42 weeks
+>
+74 Operations and Maintenance post Go-live 5 years
+it AS e essence of the agreement
+WAY
+7) Servier evel Agreement (SLA)
+
+c=
+
+rf a is looking at a very professional approach in the project implementation and it
+> operhif6rs. System Integrator is expected to match these expectations of the service levels given in
+A III of this agreement. Any non-adherence to the SLAS would lead to the penalty, to be
+Ist ed as per the details given in Annexure III to this agreement.
+
+8) Use & Acquisition of Assets during the term
+
+System Integrator shall
+
+a) Take all reasonable & proper care of the entire hardware & software, network or any other
+information technology infrastructure components used for the project & other facilities leased/owned
+by the system integrator exclusively in terms of the delivery of the services as per this Agreement
+(hereinafter the "Assets") in proportion to their use & control of such Assets which will include all
+upgrades/enhancements & improvements to meet the needs of the project arising from time to time.
+
+b) Term "Assets" also refers to all the hardware / Software / furniture / data / documentations
+manuals / catalogues / brochures / or any other maternal procured, created or utilized by the SI or the
+GOM for the Pune Surveillance Project.
+
+c) Maintain 3% of installed camera quantity as spare inventory at all times, for an types of cameras.
+
+d) Keep all the tangible Assets in good & serviceable condition (reasonable wear & tear excepted)
+&/or the intangible Assets suitably upgraded subject to the relevant standards as stated in of the RFP
+to meet the SLAs mentioned in the contract & during the entire term of the Agreement.
+
+
+9) Provide a well-prepared documentation for users in the manual, a clear plan for training, education
+& hand holding the users & shall form part of hand holding phase until bringing up the users to use
+software solution with speed & efficiency.
+
+h) To the extent that the Assets are under the control of the system Integrator, keep the Assets suitably
+housed & in conformity with any statutory requirements from time to time applicable to them.
+
+j) Not, knowingly or negligently use or permit any of the Assets to be used in contravention of any
+statutory provisions or regulation or in any way contrary to law.
+
+k) Use the Assets exclusively for the purpose of providing the Services as defined in the contract.
+
+m) Use the Assets only in accordance with the terms hereof & those contained in the SLAS.
+
+n) Maintain standard forms of comprehensive insurance including liability, system & facility insurance
+& any other insurance for the Assets, data, software, etc. in the joint names of GOM & the System
+Integrator, where the SI shall be designated as the loss payee’ in such insurance policies; & SI shall be
+"able to pay premium for the insurance policy & shall ensure that each & every policy shall keep
+updated from time to time.
+
+0) Ownership of the Assets shall vest with GoM on Go Live of the project. Ownership of an
+asset, created during the contractual period after go live, shall also vest with GOM upon creation
+of such asset.
+
+p) Ensure the integration of the software with hardware to be installed and the current Assets in order
+to ensure the smooth operations of the entire solution architecture to provide efficient services to GO
+of this project in an efficient and speedy manner.
+
+q) Obtain a sign off from GOM or its nominated agencies at each stage as is essential to close each of
+the above considerations.
+
+®):Ensure that the Mobile Vans mentioned in RFP shall be registered under the provisions containe;
+“tls 39. of Motor Vehicle Act, 1988 in the name of GoM.
+
+s) Polio /observe the conditions laid down under the provisions contained u/sub Section 2 of Sectio
+sa “Motor Vehicle Act, 1988.
+
+j
+
+19), Dat Ownership
+
+3 ‘es 4
+Qutithe data created as the part of the project shall be owned by GOM. The SI shall take utmost care
+Aintaining security, confidentiality and backup of this data. Access to the data / systems shall be
+given by the SI only to the personnel working on the projects and their names & contact details shall
+be shared with GOM in advance. GOM / its authorized representative(s) shall conduct periodic /
+
+surprise security reviews and audits, to ensure the compliance by the SI Vendor to data / syste
+security.
+
+20) Intellectual Property Rights
+
+(A) For the customized solution developed for the project, IPR of the solution would belong
+exclusively to the GOM. The SI shall transfer the source code to GOM at the stage of Go Live.
+The SI shall also submit all the necessary instructions for incorporating any modification
+changes in the software and its compilation into executable /installable product. Government of
+Maharashtra may permit the SI, right to use the customized software for any similar project
+being executed by the same SI, with payment of reasonable royalty to GoM for the same.
+
+(B) GOM has sovereign rights & nothing herein shall or will be construed or deemed to grant to t
+System Integrator any right, title, license, sub-license, proprietary right or other claim against or
+interest in to or under (whether by estoppels, by implication of otherwise) to the Intellectual
+
+Property Rights.
+
+
+Miscellaneous
+j) Personnel/Employees
+
+i, Personnel/employees assigned by System Integrator to perform the services shall be employees of
+System Integrator and/or its subcontractors, & under no circumstances will such personnel be
+considered as employees of GOM. System Integrator shall have the sole responsibility for supervision
+& control of its personnel & for payment of such personnel's employee's entire compensation.
+including salary, legal deductions withholding of Income taxes & social security taxes, worker's
+compensation, employee & disability benefits & the like & shall be responsible for all employer
+obligations under all laws as applicable from time to time. The GoM shall not be responsible for the
+above issues concerning to personnel of System Integrator.
+
+ii. System Integrator shall use its best efforts to ensure that sufficient System Integrator personnel are
+employed to perform the Services, & that, such personnel have appropriate qualifications to perform
+the Services. GOM or its nominated agencies shall have the right to require the removal ot
+replacement of any system Integrator personnel performing work under this Agreement. in the even’
+that GOM requests that any System Integrator personnel be replaced, the substitution of such
+personnel shall be accomplished pursuant to a mutually agreed upon schedule & upon clearance of the
+personnel based on profile review & upon schedule & upon clearance of the personnel based on
+profile review & personal interview by GOM or its nominated agencies, within not later than 30
+working days. System Integrator shall depute quality team for the project & as per requirements, GoM
+shall have the right to ask System Integrator to change the team.
+
+m) Entire Agreement
+
+This MSA, the SLAs & all schedules appended thereto & the contents & specifications of the volume:
+I, Il, Ill & IV of the RFP subsequent corrigenda issued thereon & clarification (undertakings
+accepted by the GOM constitute the entire agreement between the parties with respect to their subjec’
+
+matter."
+
+7-From the schedule forming part of the contract it is clear that the entire project cost, as per th
+Pact, is at Rs. 224,31,50, 106-- The goods used in the project that is capital cost of the project i
+35,70,545/-; and the balance operation cost for 5 years of the entire project which is
+
+Rs. 433,95,79,561/
+
+* y
+
+; pe he contract the project went "Go Live" on 27th October 2015. This shows that the proje
+4
+As
+
+nh, 8.A
+- We) ional in all respect on or before Ist July 2017 i.e. before the GST regime.
+s
+al
+
+per the contract the ownership of the assets that i
+
+Ware/so ftware/furniture/data/documentation/manuals/catalogue/ broachers / or any other material
+eck created or utilised by the applicant will be transferred to the GOM on the date of "Go Live",
+The Project went live on 27th October 2015 and hence, as per the contract, all the Assets of Rs,
+90,35,70,545/-(Rupees Nine Thousand Thirty Five Lakhs Seventy Thousand Five Hundred Forty Fiv
+Only) are transferred on 16th June 2015 to the Government of Maharashtra by the applicant and fc
+that purpose he has raised the invoice on the Government of Maharashtra for the above amount.
+
+10. At the same time the applicant also paid applicable VAT on the entire amount
+Rs. 90,35,70,545/-on entire value of transfer of capital assets to the government of Maharashtra.
+
+11. The Applicant submits that prior to the GST regime service tax was an exempted on the contract.
+
+12. It is submitted that as per the agreement the government of Maharashtra released 20% amount of thi
+entire project cost as per the agreement after project "Go Live" on or about 27 October 2015. T!
+balance amount that is 80% of the total contract value is being released in 20 quarterly equal installments
+for the further period of 5 years from 27 October 2015 onwards. The quarter is comprised of 3 months
+viz. April to June, July to September, October to December and January to March of each financial
+
+years.
+13. The applicant has paid necessary fee for this application of Rs. 5000/- (Five Thousand only).
+
+6
+
+
+14. The Copy of the contract along with the Schedules forming part of the contract are annexed herewith
+for ready reference.
+
+15. According to us the contract in question is a composite supply of works contract as defined in the
+clause 119 of section 2 of the CGST Act and hence it will be liable for tax @6% under the CGST Act as
+
+well as under the SGST Act.
+
+16. Considering the above facts and circumstances the applicant raises the following questions
+before the honorable Advance Ruling authority for its kind consideration and decision
+
+Question | :- Whether the amount received for supply of services during the post GST period to
+the Government of Maharashtra (Home Department) as per the contract in question are taxable
+under SGST/CGST Act ?
+
+Question 2 :- If answer to the question No.1 is in affirmative then what is the rate of tax under
+SGST/CGST?
+
+The Appellant prays to decide the above questions.
+
+03. | CONTENTION — AS PER THE CONCERNED OFFICE
+
+Please find required information of Advance Ruling Application No.90 in the case of M/s.
+Allied Digital Services Ltd. as under
+
+The dealer has entered into agreement between Government of Maharashtra to set up
+comprehensive CCTV based surveillance system on dt.28.10.2013 for desing, development,
+implementation and maintaince of CCTV based surveillance system for Pune and Pimpri -
+Chinchwad area. The total fees paid to the applicants as per the agreement for the execution of
+this contract are at Rs. 2,243,150,105.50/- which includes all the cost components as per
+stheduled AtoS, fora period of 5 years and 10 months of the execution. The Government of
+“ Mahata htra released 20% amount of entire project cost. As per agreement after project “GO
+_ LIV 2 or about 27 October 2015. The balance amount i.e. 80% of the total contract value is
+
+* being réldased in 20 quarterly equal installments for the further period of five years from 27
+} October<4)15 onwards. The Government of Maharashtra has issued letter to the Applicant for
+\-. 2 Final/Acgeptance Certificate for Design, Development, Implementation & Maintaince of CCTY
+rveillance System for Pune & Pimpri-Chinchwad and declared the project GO LIVE
+
+ba!
+fee issuance date of letter on 27 October 2015.
+
+=
+
+The Applicant has submitted invoices dt. 25 July 2017, dt. 26 October 2017, dt.25
+January 2017 of Pune city Survillance Project as per agreement dt.28 October 2013 to the
+Government of Maharashtra by levying tax under CGCT - 9% and SGST- 9%. by way of
+notification no.20/2017 dtd. 22/08/2017. Thereafter the Applicant also submitted invoices dt. 25
+April 2018 and dt. 25 October to the Government of Maharashtra by levying tax under CGCT -
+6% and SGST- 6%. by way of notification no 46/2017 dtd.14/11/2017.
+
+In the Advance Ruling Application para no. 15 the applicant has mentioned that the
+contract in question is a composite supply of works contract as defined in the clause 119 of
+section 2 of the CGST Act and hence it will be liable for tax @6% under the CGST Act as well
+
+as under the SGST Act.
+
+In view of above and documents submitted by the dealer the question in the
+application of advance ruling is commented as under
+
+
+Question 1 : Whether the amount received for supply of services during the post GST period te
+the Government of Maharashtra (Home Department) as per the contract in question are taxable
+under SGST/CGST Act ?
+
+Comments :- This activity of the Applicant is Works contract as defined in section 2(119) 0
+CGST Act is a composite supply and shall be treated as ‘supply of service ’-para 6(a)
+Schedule II of CGST Act and which attracts tax under SGST CGST Act.
+
+Question 2 : If answer to the question No.1 is an affirmative then what is the rate of tax under
+SGST/CGST ?Comments :- As per sr.no. 3(xii) of Notification No.11/2017-Central Tax (Rate
+(updated version of the Notification No.1 1/2017-Central Tax(Rate) dated the 28th June, 2017 as
+amended upto 27th July, 2018) New Delhi, the 28th June,2017 the tax rate is SGST- 9% &
+
+CGST- 9%)
+
+04. HEARING
+The Preliminary hearing in the matter was held on 05.12.2018, Sh. Prakash Shah
+
+Director, Sh. Vijay Walunj, Authorized signatory,Sh. Pradeep Rawal, Manager Account
+Finance, along with Sh. V. V. Guthe, Advocate appeared and made oral and written submissions
+and stated that they have made full submissions and they do not need final hearing in the matter
+They requested to take decision on records submitted. Jurisdictional Officer Sh. S. V. Sawant,
+Dy. Commr. of S.T.(E-806), Nodal I, Mumbai appeared and made oral and written
+
+missions. We were heard from both the sides.
+
+-<*" The Government of Maharashtra has awarded contract to the applicant to render
+services of system integrating design, development, implementation and maintenance of CCT
+based surveillance system for the use by the Police in the jurisdiction of cities of Pune and
+Pimpri-Chinchwad. The agreement was entered between the Home Department of GOM and
+the Applicant on the 28th day of October, 2013, which falls in the period prior to
+implementation of GST. We refer this contract as "Surveillance Project".
+
+The issues before us are: Question 1: whether there is liability to pay tax under the GST
+law on the amount received post GST for supply of services as per the contract executed prior to
+the implementation of GST and Question 2: if the said amount is held to be taxable, then at what
+
+rate tax should be be paid.
+
+Both the questions are inter-connected. Answers to both the questions depend on t
+determination of the nature of the activity being carried out by the applicant and once the nature
+of the activity is determined the question both the questions as to whether the activity is covered
+under the GST law or not, and the applicable rate of duty can be determined.
+
+
+To determine the nature of activity of the applicant it is required to be determined
+whether the contract involves composite supply as defined under the SGST/CGST Act and
+further whether such supplies constitute a Works Contract as defined in clause (119) of section 2
+of the GST Act.
+
+We would now look at relevant clauses of the agreement to understand the exact nature
+of the transaction envisaged by the said agreement which we have already reproduced in para 2
+pertaining to the facts and contention of the applicant.
+
+The perusal of clauses of the agreement leads us to the following inferences:
+
+1) The agreement clearly mentions that the applicant firm is responsible for design,
+development, implementation and maintenance of CCTV based surveillance system.
+
+2) As per the contract there is single price payable in prescribed manner.
+
+3) The ownership of the Assets shall vest with GOM.
+
+4) IPR of the customized solution would belong to GOM.
+
+5) This MSA, SLA and all schedules and corrigendum clarification issued and accepted
+
+by GOM constitute the entire agreement between the parties.
+
+A sum of above inferences would mean that applicant supplies more than two taxable
+supplies of goods or services or combination thereof and the provision consists of different
+supplies such as design, development, implementation and maintenance of CCTV based
+surveillance system and are integrated in such way that all of them constitute, on the over all, a
+supply to set up a comprehensive CCTV based city surveillance system. In this view of the
+matter we are convinced that various supplies as contemplated by the contract constitute
+osite supply as defined u/s 2(30) which reads as follow-
+
+aN ection 2(30): “Composite supply means a supply made by a taxable person to a
+, recipicht consisting of two or more taxable supplies of goods or services or both, or any
+combination thereof, which are naturally bundled and supplied in conjunction with each other
+
+in thé grdinary course of business, one of which is a principal supply;
+
+“/ Mustration: Where goods are packed and transported with insurance, the supply of
+
+goods, packing materials, transport and insurance is a composite supply and supply of
+goods is a principal supply”
+
+As a corollary of above finding, the next issue to be decided by us is whether this
+composite supply is ‘Works Contract’ as defined in clause (119) of section 2 of the SGST/CGST
+Act.
+
+Section 2(119) reads: “works contract means a contract for building, construction,
+fabrication, completion, erection, installation, fitting out, improvement, modification, repair,
+maintenance, renovation, alteration or commissioning of any immovable property wherein
+transfer of property in goods (whether as goods or in some other form) is involved in the
+
+execution of such contract;”
+
+
+Works contract is essentially a contract of service which may involve supply of goods in
+the execution of the said contract. However, under the GST Act ‘Works Contract’ has been
+restricted to any work undertaken for an immovable property which is a complete departure
+from the erstwhile VAT and Service tax regimes where the provisions were applicable to both
+
+movable and immovable property.
+
+In the present contract, we find that the liability of the contractor-applicant does not end
+with the supply of goods but it extends till the successful testing, commissioning and also to
+maintenance of the system. The present contract in our view is a works contract as it involves
+provision of services and goods, but it is for us to decide whether it is works contract as defined
+under the GST Act cited supra. The term ‘immovable property’ has not been defined under the
+GST Act. However, there are plethora of judgments of the Hon. Supreme Court and the Hon.
+High Courts which have helped understand the term ‘immovable property’. One such decision is
+
+TTG Industries Ltd. vs. CCE reported as (2004)4SCC751.
+
+We can now look at how the judgment has been delivered -
+
+“8. In their reply to the show-cause, the respondents explained the processes involved, the
+manner in which the equipments were assembled and erected as also their specifications in
+terms of volume and weight. It was explained that the function of the drilling machine is to drill
+hole in the blast furnace to enable the molten steel to flow out of the blast furnace for collection
+in ladles for further processing. After the molten material is taken out of the blast furnace, the
+“hele in the wall of the furnace has to be closed by spraying special clay. TI his function is
+“pévformed by the mudgun which is brought to its position and locked against the wall te
+exer{ingy force of 240-300 tons to fill up the hole in the furnace. The blast furnace in which th
+
+3 "Sm loaded is a massive vessel of 1719-cubic-metre capacity and the size of its out
+
+diamelgrig 10.6 metres, and the height 31.25 metres. Hot air at 1200 degrees centigrade is fe
+
+into the blast furnace at various levels to melt the raw materials. With a view to protect the shell
+
+against] t, the blast furnace is lined with refractory brick of one-metre thickness. Thus, th
+drilking achine has to drill a hole through one-metre thickness of the refractory brick lining,
+
+The'd ing machine as well as the mudgun are erected on a concrete platform described as th
+east house floor which is in the nature of a concrete platform around the furnace. The cast
+house floor is at a height of 25 feet above the ground level. On this platform concrete foundatio
+intended for housing drilling machine and mudgun are erected. The concrete foundation itself
+5-feet high and it is grouted to earth by concrete foundation. The first step is to secure the ba.
+plate on the said concrete platform by means of foundation bolts. The base plate is 80 mm mi
+sheet of about 5 feet diameter. It is welded to the columns which are similar to huge pillars. Th
+fabrication activity takes place in the cast house floor at 25 feet above ground level. Aft
+welding the columns, the base plate has to be secured to the concrete platform. This is achieve:
+by getting up a trolley way with high beams in an inclined posture so that base plate could
+moved to the concrete platform and secured. The same trolley helps in the movement of vario
+components to their determined position. The various components of the mudgun and drilli
+machine are mounted piece by piece on a metal frame, which is welded to the base plate. TI
+components are stored in a storehouse away from the blast furnace and are brought to site ai
+physically lified by a crane and landed on the cast house floor 25-feet high near the concre:
+platform where drilling machine and mudgun have to be erected. The weight of the mudgun is
+approximately 19 tons and the weight of the drilling machine approximately 11 tons. The volume
+
+of the mudgun is 1.5 x 4.5 x 1 metre and that of the drilling machine 1 x 6.5 x I metre. Having
+10
+
+
+
+regard to the volume and weight of these machines, there is nothing like assembling them at
+ground level and then lifting them to a height of 25 feet for taking to the cast house floor and
+then to the platform over which it is mounted and erected. These machines cannot be lifted in an
+assembled condition.
+
+10. The judicial member noticing these facts observed that it is a physical and engineering
+impossibility to assemble mudguns or the tap hole-drilling machines elsewhere in a fully
+assembled condition and thereafter erect or install the same at a height of 25 feet on the cast
+floor of the blast furnace. She found that even the adjudicating authority conceded the fact that
+the equipments have to be assembled/erected on the base frame projection of the furnace. She
+also accepted the submission urged on behalf of the appellant that if the machines are to be
+removed from the blast furnace, they have to be first dismantled into parts and brought down t
+
+the ground only by using cranes and trolley ways considering the size, and also considering the
+fact that there is no space available for moving the machines in assembled condition due to their
+volume and weight. She found support for her conclusion in the decision of this Court
+in Municipal Corpn. of Greater Bombay vy. Indian Oil Corpn. Ltd. [1991 Supp (2) SCC 18] and
+held that the twin tests laid down by this Court to determine whether assembly/erection would
+result in immovable property or not were fully satisfied in the facts of this case. She concluded:
+
+“The test laid down by the Supreme Court is that if the chattel is movable to another place as
+such for use, it is movable but if it has to be dismantled and reassembled or re-erected at
+another place for such use, such chattel would be immovable. In the present appeal, even
+according to the finding of the Collector, mudguns and tap hole-drilling machines have to be
+dismantled and disassembled from the cast floor before being erected or assembled elsewhere,
+We have also arrived at the same conclusion independently, in para 10 above. Accordingly
+applying the test laid down by the Supreme Court we hold that the erection and installation of
+mudguns and tap hole-drilling machines result in immovable property. In the light of the ratio of
+the above case-law, we hold that the mudguns and tap hole-drilling machines do not admit of
+
+~xthe definition of goods and, therefore, excise duty is not leviable thereon.”
+
+“25. lnc Digral Engg. Works (P) Ltd. v. CCE [(1997) 1 SCC 203 : (1996) 88 ELT 622] this Cour:
+was conceyned with the exigibility to duty of mono vertical crystallisers which are used in sugar
+exhaust molasses of sugar. The material on record described the functions ang
+
+s acity of about 30 tons per square metre. It is assembled at site in different section
+‘and <oxysts of bottom plates, tanks, coils, drive frames, supports, plates, etc. The aforesaid
+pdrtswere cleared from the premises of the appellants and the mono vertical crystalliser wa.
+
+led and erected at site. The process involved welding and gas-cutting. After considering
+material placed on the record it was held that the mono vertical crystalliser has to b
+assembled, erected and attached to the earth by a foundation at the site of the sugar factory. It
+is not capable of being sold as it is, without anything more. This Court, therefore, concluded
+that mono vertical crystallisers are immovable property and hence not “goods” within th
+meaning of the Act and, therefore, not exigible to excise duty.
+
+In Triveni Engg. & Industries Ltd. v. CCE [(2000) 7 SCC 29: (2000) 120 ELT 273] a questio
+arose regarding excisability of turbo alternator. In the facts of that case, it was held that
+installation or erection of turbo alternator on a concrete base specially constructed on the land
+cannot be treated as a common base and, therefore, it follows that installation or erection of
+turbo alternator on the platform constructed on the land would be immovable property, as such
+it cannot be an excisable goods falling within the meaning of Heading 85.02. In reaching this
+conclusion this Court considered the earlier judgments of this Court in Municipal Corpn. of
+Greater Bombay [1991 Supp (2) SCC 18] , Quality Steel Tubes [(1995) 2 SCC 372 : (1995) 75
+ELT 17] and Mittal Engg. Works (P) Ltd. [(1997) 1 SCC 203: (1996) 88 ELT 622] as also the
+
+iW
+
+
+earlier judgment of this Court in Sirpur Paper Mills Ltd. v. CCE [(1998) 1 SCC 400: (1998) 97
+ELT 3]. This Court observed: (SCC pp. 35-36, para 14)
+
+“14, There can be no doubt that if an article is an immovable property, it cannot be termed a.
+‘excisable goods’ for purposes of the Act. From a combined reading of the definition of
+‘immovable property’ in Section 3 of the Transfer of Property Act, Section 3(26) of the Genera
+Clauses Act, it is evident that in an immovable property there is neither mobility no
+marketability as understood in the excise law. Whether an article is permanently fastened to
+anything attached to the earth requires determination of both the intention as well as the factun
+of fastening to anything attached to the earth. And this has to be ascertained from the facts and
+circumstances of each case.”
+
+42. So also in T.T.G. Industries Ltd. v. CCE [(2004) 4 SCC 751 : (2004) 167 ELT
+501] , the machinery was erected at the site by the assessee on a specially made concrete
+
+platform at a level of 25 ft height. Considering the weight and volume of the machine and the
+
+processes involved in its erection and installation, this Court held that the same was
+
+immovable property which could not be shifted without dismantling the same.
+
+43. It is noteworthy that in none of the cases relied upon by the assessee referred to above wa:
+
+there any element of installation of the machine for a given period of time as is the position in
+
+the instant case. The machines in question were by their very nature intended to be fixed
+permanently to the structures which were embedded in the earth. The structures were also
+
+custom-made for the fixing of such machines without which the same could not become
+
+functional. The machines thus becoming a part and parcel of the structures in which they
+
+were fitted were no longer movable goods. It was in those peculiar circumstances that the
+
+installation and erection of machines at the sites were held to be by this Court to be
+
+immovable property that ceased to remain movable or marketable as they were at the time of
+their purchase. Once such a machine is fixed, embedded or assimilated in a permanent
+structure, the movable character of the machine becomes extinct.
+
+Thus, it can be seen that the Hon. Supreme Court held those machines to be immovable
+property when they cannot be shifted without first dismantling it for re-erecting it at another
+site. In the instant case CCTV cameras are permanently fastened to the street lighting poles
+which are not intended to be removed but to provide surveillance to police authorities on a real
+time and continuous basis to control criminal activities or to gather evidence for prosecution of
+offenders. If at all they have to be re-located to another place the cameras and the related
+
+equipment have to be dismantled for re-erection elsewhere.
+
+Applying the principles that emerges from the reading of above cited judgments, it can
+be concluded that comprehensive ‘CCTV based City Surveillance System’ can be termed as
+
+immovable property for following reasons:
+12
+
+
+1) CCTV based Surveillance System have permanently been fastened to the things
+attached to the earth.
+
+2) The CCTV based Surveillance System cannot not be shifted without first
+dismantling it and then erecting it at another site.
+
+In the facts before us and having regard to the principles laid down in the judgments
+discussed above, we are of the firm view that set up of a comprehensive CCTV based city
+surveillance system for the city of Pune and Pimpri-Chinchwad does result into
+installation/commissioning of immovable property wherein transfer of property in goods is
+involved in the execution of the contract and thus the ‘Surveillance Project’ is a works contract
+as defined in Sub-section 119 of Section 2 of the GST Act and is supply of services as per 6(a)
+of Schedule II of the GST Act. And therefore the amount received for the supply of services post
+GST are taxable under the provision of GST Act.
+
+Question No. 2: Having answered the question No.1 in the affirmative, then the rate of
+tax applicable under GST Act is determined as under:
+
+While dealing with Que no. | above, we have drawn a conclusion that the
+applicant is supplying works contract services, we now reproduce the Notification
+no.1 1/2017 — Central Tax (Rate) dated 28/06/2017 which is applicable to the present case.
+
+Sl. | Chapter, Description of Service Rate Condition
+No. | Section or (per
+Heading. cent.)
+1 2 3 4 5
+a ae Chapter 99 All Services
+
+Section 5 Construction Services
+
+leading (ee eee 9 -
+
+54 (ii) composite supply of works contract as defined in clause | 9 -
+instruction | 119 of section 2 of Central Goods and Services Tax Act,
+
+ices) 2017.
+
+(iii) construction services other the (i) and (ii) above. 6 -
+
+ence as per the said Notification it is very clear that the composite supply of works contract as
+
+subject case falls under (ii) attracting 18% GST. The said Notification was amended on
+
+SB 08.201 7 vide Notification No. 20/2017 — Central Tax (Rate) and is reproduced as under:-
+
+Sl. | Chapter, Description of Service Rate Condition
+No. | Section or (per
+Heading. cent.)
+I 2 3 4 5
+Chapter 99 All Services
+Section 5 Construction Services
+Heading ee | 9 -
+9954 (ii) composite supply of works contract as defined in clause | 9 -
+(Construction | 119 of section 2 of Central Goods and Services Tax Act,
+services) 2017.
+
+(iii) Composite supply of works contract as defined in 6 -
+clause (119) of section 2 of the Central Goods and Services
+Tax Act, 2017, supplied to the
+Government, oo. cc 00. ......alteration of, (a) a historical
+monument, archaeological site or remains of national
+importance, archaeological excavation, or antiquity
+specified under the Ancient Monuments and Archaeological
+Sites and Remains Act, 1958 (24 of 1958); (b) canal, dam or
+
+13
+
+
+other irrigation works; (c) pipeline, conduit or plant for (i)
+water supply(ii) water treatment, or (iii) sewerage
+treatment or disposal.
+
+(iv) Composite supply of works contract as defined in| 6
+clause (119) of section 2 of the Central Goods and Services
+
+Tax Act, 2017, supplied by way of construction, ............0f
+- (a) a road, bridge, tunnel, or terminal .......; (b) a civil
+structure- ..... under Jawaharlal Nehru National Urban
+
+Renewal Mission or Rajiv Awaas Yojana; (c) a civil
+structure ......... under the Housing for All (Urban)
+Mission/Pradhan Mantri Awas Yojana, ...... ; @ a civil
+structure or any other original works pertaining to .........
+under the Housing for All (Urban) ission/Pradhan Mantri
+Awas Yojana; (e) a pollution control or effluent treatment
+Plant, ssivss
+
+(v) Composite supply of works contract as 6 defined in | 6
+clause. (119) of section 2 of the Central Goods and Services
+Tax Act, 2017, supplied by way of construction, erection,
+commissioning, or installation of ORIGINAL WORKS
+pertaining to, (a) railways, excluding monorail and metro
+
+(vi) Construction services other than (i), (ii), (iii), (iv), (v) | 6
+and (vi) above.
+
+As per the said Notification with the amendment mentioned above also it is very clear that the
+composite supply of works contract as in the subject case falls under (ii) attracting 18% GST. The said
+
+Notification 11/2017 was further amended on 21.09.2017 vide Notification No. 24/2017 — Cen Tak
+
+(Rate) and is reproduced as under:-
+
+Sl. | Chapter, Description of Service Rate Condition
+,| Section or (per
+
+eading. cent.)
+3 4 5
+All Services
+Construction Services
+Ox en 9 -
+
+(ii) composite supply of works contract as defined in clause | 9 -
+Pr J fifonsiruction 119 of section 2 of Central Goods and Services Tax Act,
+‘lServices) 2017.
+
+| , (iii) Composite supply of works contract .
+
+(iv) Composite supply of works contract .
+
+(v) Composite supply of works contract as 6 defi ined in| 6
+clause. (119) of section 2 of the Central Goods and Services
+Tax Act, 2017, supplied by way of construction, erection,
+commissioning, or installation of ORIGINAL WORKS
+pertaining to, (a) railways, excluding monorail and metro
+
+(vi)Services provided to the Central 6 Government, State 6
+Government, Union Territory, a local authority or a
+governmental authority by way of construction, erection,
+commissioning, installation, completion, fitting out,
+repair, maintenance, renovation, or alteration of — (a) a
+civil structure or any other original works meant
+predominantly for use other than for commerce, industry,
+or any other business or profession; (b) a structure meant
+predominantly for use as (i) an educational, (ii) a clinical,
+or(iii) an art or cultural establishment; or (c) a residential
+
+14
+
+
+complex predominantly meant for self-use or the use of
+their employees or other persons specified in paragraph 3
+of the Schedule Ill of the Central Goods and Services Tax
+Act, 2017
+
+(vii) Construction services other than (i), (ii), (iii), (iv), (v)
+and (vi) above.
+
+Vide amendment Notification No. 31/2017, dated 13.10.2017, the original Notification No. 11/2017
+stood as under:-
+
+Sl. | Chapter, Description of Service Rate | Condition
+No. | Section or (per
+Heading. cent.)
+1 2 3 4 5
+Chapter 99 All Services
+Section 5 Construction Services
+Heading (ee | 9 :
+9954 (ii) Composite supply of works contract as | 9 -
+(Construction | 6 defined in clause. (119) of section 2 of
+services) the Central Goods and Services Tax Act,
+2017
+(iii) Composite supply of works contract | 6 Provided that where the
+
+services are supplied to a
+Government Entity, the
+
+should have been procured
+by the said entity in
+relation to a worl
+
+entrusted to it by the
+Central Government, State
+Government, Union
+territory or local authority,
+as the case may be
+
+(iv) Composite supply of works contract | 6
+
+(v) Composite supply of works contract as | 6
+6 defined in clause. (119) of section 2 of
+the Central Goods and Services Tax Act,
+2017, supplied by way of construction,
+erection, commissioning, or installation of
+ORIGINAL WORKS pertaining to, (a)
+railways, excluding monorail and metro
+
+(vi) composite supply of works contract as | 6 Provided that where t
+defined in clause 119 of section 2 of services are supplied to
+Central Goods and Services Tax Act, 2017 Government Entity, th
+provided to the Central Government, State should have been procur
+Government, Union Territory, a local by the said entity i
+authority or a governmental authority by relation to a wOoi
+way of construction, erection, entrusted to it by t
+commissioning, installation, completion, Central Government, State
+fitting out, repair, —_ maintenance, Government, Union
+renovation, or alteration of — (a) a civil territory or local authority,
+structure or any other original works as the case may be
+
+meant predominantly for use other than
+for commerce, industry, or any other
+business or profession; (b) a structure
+meant predominantly for use as (i) an
+educational, (ii) a clinical, or(iii) an art or
+
+1S
+
+
+cultural establishment; or (c) a residential
+complex predominantly meant for self-use
+or the use of their employees or other
+persons specified in paragraph 3 of the
+Schedule Ill of the Central Goods and
+Services Tax Act, 2017
+
+Notification 25 Provided that where the
+
+31/2017 “(vii)Composite supply of works services are supplied to
+
+Dt.13.10.2017 contract as defined in clause (119) of a Government Entity,
+section 2 of the Central Goods and they should have been
+Services Tax Act, 2017, involving procured by the said
+predominantly earth work (that is, entity in relation to a
+constituting more than 75per cent. of work entrusted to it
+the value of the works contract) by the Central
+provided to the Central Government, Government, State
+State Government, Union territory, Government, Union
+local authority, a Governmental territory or local
+Authority or a Government Entity. authority, as the case
+
+may be
+Notification (viii) Composite supply of works | 6 -
+31/2017 contract as defined in clause (119) of
+
+Dt.13.10.2017 | section 2 of the Central Goods and
+Services Tax Act, 2017 and associated
+services, in respect of offshore works
+contract relating to oil and gas
+exploration and production (E&P) in the
+offshore area beyond 12 nautical miles
+from the nearest point of the appropriate
+E pla base line.
+le % SNotification (ix) Construction services other than (i), 9 ag
+*Y 32017 (ii), (iii), (iv), (Vv), (vi), (viiand (viii)
+aay 1A43.10.2017 | above.
+Even\witt the amendment the applicant’s position has not changed. Their composite supply of works
+
+in the subject case falls under (ii) attracting 18% GST. The said Notification 11/2017 was also
+ended on 25.01.2018 vide Notification No. 01/2018 — Central Tax (Rate) the relevant portion
+
+=) for item (ix) and the entries relating thereto in columns (3), (4) and (5), the following
+
+shall be substituted, namely: -
+
+3 ] 4 5
+
+“(ix) Composite supply of works contract as | 6 Provided that where the services are
+defined in clause (119) of section 2 of the Central supplied to a Government Entity, they
+Goods and Services Tax Act, 2017 provided by a should have been procured by the said
+sub-contractor to the main contractor providing entity in relation to a work entrusted to it
+services specified in item (iii) or item (vi) above to by the Central Government, State
+the Central Government, State Government, Union Government, Union territory or local
+territory, a local authority, a Governmental authority, as the case may be.
+
+Authority or a Government Entity
+
+16
+
+
+(x) Composite supply of works contract as defined ] Provided that where the services are
+in clause (119) of section 2 of the Central Goods | supplied to a Government Entity, they
+and Services Tax Act, 2017 provided by a sub- | should have been procured by the said
+
+contractor to the main contractor providing entity in relation to a work entrusted to it
+services specified in item (vii) above to the Central by the Central Government, State
+Government, State Government, Union territory, a Government, Union territory or local
+local authority, a Governmental Authority or a authority, as the case may be.
+
+Government Entity.
+
+(xi) Services by way of housekeeping, such as | 2.5 | Provided that credit of input tax charged
+plumbing, carpentering, etc. where the person on goods and services has not been taken
+supplying such service through electronic [Please refer to Explanation no. (iv)].
+commerce operator is not liable for registration
+
+under subsection (1) of section 22 of the Central
+
+Goods and Services Tax Act, 2017.
+
+(xii) Construction services other than 9 5
+(i), (ii), (iii), (iv), (Vv), (vi), (vii), (viii),(ix), (x)and
+
+(xi) above.
+
+Even with the amendment aforesaid the applicant’s position has remained unchanged.
+The Surveillance project remains works contract as in the subject case falls under (ii) attracting
+GST @18%. However in the subject it is seen that applicant is providing composite supply of
+
+works contract in respect of surveillance project to Government of Maharashtra but the reduced
+
+rate of tax is available only if the work is of the type of original work. The expression ‘Original
+
+1 B¥ riginal Works
+Js
+phe shall mean:
+
+“a
+‘ Ai) all new constructions,
+
+(ii) all types of additions, alterations and/or special repairs to newly acquired assets, abandoned
+or
+damaged assets that are required to make them workable.
+(iii) major replacements or remodeling of a portion of an existing structure or installation or
+other works, which results in a genuine increase in the life and value of the property.
+
+Thus’ Original Works’ would mean ; all new constructions; all types of additions and
+alterations to abandoned or damaged structures on land that are required to make them
+workable; erection, installation etc. that results in increase in life and value of property . In the
+
+present case the work done by the applicant does not appear to be original works.
+
+Hence from the above discussions we find that in the present case, the contract is not
+related to any original work and is in the nature of composite supply of Works Contract. Hence
+
+17
+
+
+we hold that the activity of the applicant in the present case is nothing but a composite supply of
+Works Contract, not being original works and they will be covered under Sr. No. 3, item no. (ii
+of Notification No. 11/2017 dated 28.06.2017 as amended by Notification No. 1/2018 dated
+25.01.2018 and attract 18% GST (9% each of CGST and SGST).
+
+06. In view of the deliberations as held hereinabove, we pass an order as follows:
+
+ORDER
+
+(Under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+NO.GST-ARA- 90/2018-19/B- Te ee Mumbai, dt. | 9 uf } 24 22)&
+
+For reasons as discussed in the body of the order, the questions are answered thus —
+
+Question | :-Whether the amount received for supply of services during the post GST
+period to the Government of Maharashtra (Home Department) as per the
+contract in question are taxable under SGST/CGST Act ?
+
+Answer :- Answer is in the affirmative.
+
+Question 2 :- If answer to the question No.1 is in affirmative then what is the rate of tax
+
+under SGST/CGST?
+Answer :- As per above discussion, the applicant’s taxable supply of services would be liable
+
+oto tax at the rate of 18% (9 % each for CGST and MGST ).
+
+== S 4 a —_— = ro) oe
+B. TIMOTHY B. V. BORHADE
+(MEMBER) (MEMBER)
+
+CERTIFIED TRUE COPY
+
+Copy to:-
+1. The applicant
+2. The concerned Central / State officer
+3. The Commissioner of State Tax, Maharashtra State, Mumbai Va
+«4, The Jurisdictional Commissioner of Central Tax. \e
+M ER —_
+
+5. Joint commissioner of State tax, Mahavikas for Website.
+
+ADVANCE RULING AUTHORITY
+
+MAHARASHTRA STATE, MUMBAI
+Note :- An Appeal against this advance ruling order shall be made before The Maharashtra
+Appellate Authority for Advance Ruling for Goods and Services Tax, 15" floor, Air India
+building, Nariman Point, Mumbai — 400021.
+
+18

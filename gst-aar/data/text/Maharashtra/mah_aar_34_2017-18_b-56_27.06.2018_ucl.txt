@@ -1,0 +1,890 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+(constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri B. V. Borhade, Joint Commissioner of State Tax
+(2) Shri Pankaj Kumar, Joint Commissioner of Central Tax
+
+GSTIN Number, if any/ User-id 27 AAACL6442L1ZA
+Legal Name of Applicant M/s. Ultratech Cement Limited
+
+Registered Address/Address provided while | U]traTech Cement Limited
+
+obtaining user id
+: (Unit: Awarpur Cement Works) |
+
+Taluka: Korpana, District: Chandrapur, |
+Maharashtra - 442 917
+Details of application GST-ARA, Application No. 34 Dated 06.03.2018
+Concerned officer D.C.CGST & CE, Divion - Chandrapur
+
+Nature of activity(s) (proposed / present) in
+respect of which advance ruling sought
+
+A Category Factory / Manufacturing
+
+B Description (in brief) That applicant is engaged in the
+manufacture and supply of cement and
+Clinker.
+
+Issue/s on which advance ruling required (v) determination of the liability to pay tax
+
+on any goods or services or both
+Question(s) on which advance ruling is required | As reproduced in para 01 of the Proceedings below.
+
+PROCEEDINGS
+
+(under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods and
+Services Tax Act, 2017)
+
+The present application has been filed under section 97 of the Central Goods and Services Tax Act,
+2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as “the CGST Act and
+MGST Act] by M/s. Ultratech Cement Limited, the applicant, seeking an advance ruling in respect of the
+
+following question :
+
+Whether the amount paid to dealer towards “rate difference” post supply can be considered for the
+purpose of arriving at the ‘transaction value’ in terms of Section 15 of the Central Goods and Service Tax
+Act (“CGST Act”).
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and the
+MGST Act are the same except for certain provisions. Therefore, unless a mention is specifically made to
+such dissimilar provisions, a reference to the CGST Act would also mean a reference to the same provision
+under the MGST Act. Further to the earlier, henceforth for the purposes of this Advance Ruling, a reference
+to such a similar provision under the CGST Act / MGST Act would be mentioned as being under the “GST
+Act”.
+02. FACTS AND CONTENTION - AS PER THE APPLICANT
+
+The submissions, as reproduced verbatim, could be seen thus -
+
+STATEMENT OF RELEVANT FACTS HAVING A BEARING ON THE QUESTION(S) ON WHICH ADVANCE
+RULING IS REQUIRED.
+
+
+
+1. M/s. UltraTech Cement Limited (hereinafter referred to as “the applicant”) having its corporate head office at
+“B” Wing, 24 Floor, Ahura Center, Mahakali Caves Road, Andheri (East), Mumbai-400093 is, inter-alia engaged
+in the manufacture and supply of cement and allied products (hereinafter referred to as “goods”) which are
+taxable under GST law.
+
+2. The applicant has obtained registration and holding valid registration certificate issued under Central Goods
+and Services Tax Act, 2017 (“CGST Act”).
+3. The applicant is manufacturing goods at its manufacturing units located at, Taluka: Korpana, District
+
+Chandrapur, Hotgi- District Solapur, Mouda District. Nagpur, Ratanagari, Post-JNPT-Nava Seva- Navi
+Mumbai and Pune in the State of Maharashtra. Besides this there are plants situated in other States also.
+
+4. The goods manufactured at the aforesaid units are supplied by the applicant to various authorised
+dealer/ stockists located in state where the above registration certificate is obtained and also to authorised
+dealer/ stockists situated in different states. Apart from the same, the goods received from other States are also
+supplied to customers/ dealers in the State.
+
+5. The applicant enters into an agreement with the authorised dealers/ stockists for supply of goods ona principal-
+to-principal basis. The agreement entered with the authorised dealers/ stockists provides that the goods shall
+be supplied to the latter at the prices fixed by the applicant. Copies of agreement entered into between the
+applicant and authorised dealers / stockists are enclosed as (Annexure-1) collectively.
+
+6. Further, the agreement also provides that the applicant shall provide various discounts to the authorised
+dealers/stockists at the rates as may be decided by the applicant alone, from time to time, by the authorised
+dealers/ stockists in a particular month.
+
+Ts The applicant clears the goods to the authorised dealers/stockists under the cover of tax invoice after
+discharging applicable rate of GST on the said goods.
+
+Ss The authorised dealers/stockists further supply the goods manufactured by the applicant in the regional
+markets to the ultimate customers or retailers.
+9. Incertain cases, due to the highly competitive and dynamic market conditions, the authorised dealers/ stockists
+
+of the applicants have to sell the goods purchased from the applicant, at a price lower than their purchase price
+i.e. the price at which the goods are sold by the applicant to continue in business for the reason that the market
+for cement is very dynamic and the prices keep changing - not only on daily basis but on real time basis. Hence,
+it sometimes happens that the authorised dealers/ stockists of the applicants have to sell the goods purchased
+from the applicant, at a price lower than their original purchase price to continue in business i.e. the price at
+which the goods are originally billed by the applicant. For eg. the dealer has to sell a 50 kg bag of cement to
+ultimate customer at Rs.295/- based on then prevailing market conditions even though the said dealer
+purchased the said bag of cement from the applicant at Rs.300/-. The dealer is aware that there will be
+compensation in form of “rate difference” as per past practice. However, the dealers/ stockists are not aware
+of the exact amount of compensation to be received from the applicant.
+
+10. Based on the trade practice and past history, the dealer is aware that there will be compensation in form of rate
+difference in case of significant correction of prices
+
+11. In order to provide relief to the authorised dealers/ stockists in such scenario, the applicant pays a certain
+amount to the authorised dealers/ stockists as ‘rate difference’ (Commonly known as ‘Trade Discount’ also).
+The aforesaid payment of rate difference by the applicant to the authorised dealers/ stockists is made by way
+of issuance of a credit note, which is linked to the sales/ supplies made to the authorised dealers/ stockists in a
+particular month.
+
+12. The term trade discount is not defined in GST Act, but is defined in Corpus Juris Secundum, vol 264 page 974 as
+follows:
+
+“The term trade discount means the difference between the seller list price and the price at which he actually
+sells goods to the trade a percentage deduction from the regular list or catalogue price of goods.”
+
+13. Therefore, the trade discount is the difference between the regular list or catalogue price and the actual price at
+which the goods are sold by the trader. At this stage, we refer and rely on the CBEC’s excise manual of
+supplementary instruction, 2005 in Chapter 3, Part - III of Para 2.5(iv) has clarified as follows with regard to
+deduction of trade discount.
+
+(iv) discount of any type or description given on any normal price payable for any transaction will not form
+part of the transaction value for the goods, e.g. quantity discount for goods purchased or cash discount for the
+prompt payment etc. will therefore not form part of the transaction value. However it is important to establish
+that the discount has actually been passed on the buyer of the goods. The differential discount extended as per
+commercial consideration on different transactions to unrelated buyers is also permissible and different actual
+prices paid or payable for various transactions are to be accepted . Where the assesse claims that the discount
+of any description for a transactions is not readily known but would be known only subsequently —as for
+example year end discount - the assessment for such transactions may be made on a provisional basis.
+However the assessee has to disclose the intention of allowing such discount to the department and make a
+request for provisional assessment.
+14, From the above, it is clear that the trade discount is allowed as deduction from the transaction value even if
+it is not separately specified.
+15. At this point, it is important to emphasize that the applicant pays GST on the full value of invoice raised by
+them on the authorised dealers/stockists at the time of original supply of goods to the said authorised
+
+2
+
+
+
+dealers/ stockists. However, by issuance of credit note for rate difference, the sale price of goods sold by the
+applicant to the authorised dealers/ stockists is reduced effectively to that extent, At this stage, we are
+enclosing the invoices issued by the applicant on the authorised dealers/ stockists for supply of cement at full
+value and subsequent credit notes issued to the authorised dealers/stockists for reduction of sale price on
+account of rate difference as (Annexure-2) & (Annexure-3) collectively.
+
+16. It is submitted that the transaction of compensating the authorised dealers/stockists on account of ‘rate
+difference’ is generally followed in the entire Cement Industry.
+
+17. Section 15(1) of the CGST Act states that the value of supply for purpose of GST would be the “transaction
+value”, which is the price actually paid or actually payable for such supply between unrelated parties, and
+where the price is sole consideration for supply.
+
+18. Further, Section 15(3)(b) of the CGST Act states that, the discount provided after the supply has been effected
+shall be excluded from the value of supply subject to fulfilment of following conditions:
+
+¢ such discount is established in terms of an agreement entered into at or before the original supply;
+e such discount is specifically linked to the relevant supply;
+¢ input tax credit attributable to such discount has been reversed by the recipient.
+
+19. Further, Section 34(1) of the CGST Act, inter alia, provides for issuance of credit note in respect of a supply of
+goods in case where the taxable value mentioned in the tax invoice is found to exceed the taxable value in
+respect of the supply. Section 34(1) of the CGST Act is reproduced as under -
+
+“34.(1) Where a tax invoice has been issued for supply of any goods or services or both and the taxable value or tax
+charged in that tax invoice is found to exceed the taxable value or tax payable in respect of such supply, or where the
+goods supplied are returned by the recipient, or where goods or services or both supplied are found to be deficient,
+the registered person, who has supplied such goods or services or both, may issue to the recipient a credit note
+containing such particulars as may be prescribed.”
+
+20. Even though the sale price of the goods sold by the applicant to the authorised dealers/ stockists gets reduced
+subsequently due to rate difference, the applicant ends up paying GST on the total value mentioned in the
+original invoice issued to the authorised dealers/stockists as compared to the realization received from the
+customer/ dealer.
+
+21. Under the aforesaid circumstances, the amount paid to the authorised dealers/stockists towards rate
+difference, without taking the adjustment of same in the output tax liability of the applicant, is becoming cost
+to the applicant. In other words, once the benefit of rate difference is passed on to the dealers/ stockists, the
+effective value of original supply gets reduced and this results in charging of higher tax than what is
+mandated by law. Due to absence of clarity in law, the applicant seeks the applicability of Section 34(1) of
+the CGST Act in case of amount paid by the applicant to the authorised dealers/stockists by way of “rate
+difference”.
+
+22. Under such circumstances, we request you to expedite the resolution of the matter at hand and issue a ruling
+regarding the applicability of Section 34(1) of the CGST Act to category of amount paid to the dealer by way
+of “rate difference” and also grant us with a personal meeting to represent our case in detail.
+
+Statement containing the Applicant's interpretation of admissibility of input tax credit in respect of the
+aforementioned activities
+
+A. APPLICANT'S ELIGIBILITY TO FILE PRESENT ADVANCE RULING APPLICATION.
+A That the sub-Section (c) of Section 95 of the Central Goods and Services Tax Act, 2017 (hereinafter referred to
+as “CGST Act”), defines the term ‘applicant’ as under:-
+“applicant” means any person registered or desirous of obtaining registration under this Act”
+.. Emphasis Supplied
+A2__ A perusal of the above clarifies that scope of the term ‘applicant’, as defined under sub-Section (c) of Section
+95 of the CGST Act shall include both, the person registered under the CGST Act and also the person who is
+not registered as on date of applying for the advance ruling, but is desirous of seeking registration under the
+CGST Act, in the state where advance ruling is sought.
+A3 _ Further, Section 22 of the CGST Act, specifies the person liable for registration and reads as under:-
+“22. (1) Every supplier shall be liable to be registered under this Act in the State or Union territory,
+other than special category States, from where he makes a taxable supply of goods or services or both
+if his aggregate turnover in a financial year exceeds twenty lakh rupees:
+
+... Emphasis Supplied
+
+AA The above referred Section can be vivisected into following essentials: -
+
+a. A supplier shall be liable to be registered under CGST Act in the State or Union Territory, from where he
+makes taxable supply of goods or services or both;
+b. _ If the aggregate turnover in the financial year exceeds rupees twenty lakh.
+
+AS The Applicant submits that as on date, it is registered in Maharashtra and also making taxable supplies of goods
+from the same to its customers located in State of Maharashtra. Further, the turnover of the Applicant exceeds
+rupees twenty lakhs in the financial year. Given this, it is submitted that Applicant clearly satisfies to be
+‘applicant’ in terms of sub-Section (c) of the Section 95 of the CGST Act.
+
+That sub-Section (1) of the Section 95 of the CGST Act defines the term ‘advance ruling’ as under:-
+“(a) “advance ruling” means a decision provided by the Authority or the Appellate Authority to an applicant
+
+on matters or on questions specified in sub-Section (2) of Section 97 or sub-Section (1) of Section 100, in
+
+3
+
+
+
+relation to the supply of goods or services or both being undertaken or proposed to be undertaken by the applicant;”
+... Emphasis Supplied
+
+A6  Perusal of the above clarifies that the advance ruling can only be sought on the issues, as are specified under
+Section 97(2) of the CGST Act, which reads as under:-
+
+“97. (1) An applicant desirous of obtaining an advance ruling under this Chapter may make an application in such
+form and manner and accompanied by such fee as may be prescribed, stating the question on which the advance
+ruling is sought.
+
+(2) The question on which the advance ruling is sought under this Act, shall be in respect of,-
+
+(a) classification of any goods or services or both;
+
+(b) applicability of a notification issued under the provisions of this Act;
+
+(c) determination of time and value of supply of goods or services or both;
+
+(d) admissibility of input tax credit of tax paid or deemed to have been paid;
+
+(c) determination of the liability to pay tax on any goods or services or both;
+
+(P whether applicant is required to be registered;
+
+(g) whether any particular thing done by the applicant with respect to any goods or services or both amounts to or
+results in a supply of goods or services or both, within the meaning of that term.”
+
+AZ In view of the above, it is submitted that advance ruling may be sought by the Applicant on the questions
+concerning determination value of supply of goods or services or both and determination of liability to pay tax
+on any goods or services or both. The Applicant submits that the questions for determination in the instant
+advance ruling application concern both - (1) the determination of value of supply of goods by the applicant;
+and (2) what is the correct tax liability for goods supplied by the Applicant.
+
+A8 Further, Section 96 of the CGST Act provides for appointment of advance ruling authority and reads as under:-
+“96, Subject to the provisions of this Chapter, for the purposes of this Act, the Authority for advance ruling
+constituted under the provisions of a State Goods and Services Tax Act or Union Territory ag and
+Services Tax Act shall be deemed to be the Authority for advance ruling in respect of that State or Union
+territory.”
+
+A9 — Hence, an Advance Ruling Authority appointed by the concerned State or Union Authority Government under
+concerned State or Union Territory Goods and Service Tax Act, shall be the deemed to be the Advance Ruling
+Authority for the purpose of CGST Act. The Section 96 of the Maharashtra Goods and Service Tax Act, 2017,
+reads as under:-
+
+“SECTION 96
+(1) The Government shall, by notification, constitute an Authority to be known as the Maharashtra Authority
+for Advance Ruling:
+Provided that the Government may, on the recommendation of the Council, notify any Authority located in
+another State to act as the Authority for the State.
+(2) The Authority shall consist of-
+
+(i) one member from amongst the officers of central tax; and
+
+(ii) one member from amongst the officers of State tax,
+to be appointed by the Central Government and the State Government respectively.
+(3) The qualifications, the method of appointment of the members and the terms and conditions of their services
+shall be such as may be prescribed.
+
+A110 The Applicant submits that in terms of the above referred Section 96 of the Maharashtra Goods and Service Tax
+Act, 2017, the Government of Maharashtra has issued a Notification No, MGST-1017/CR 193/Taxation dated
+24.10.2017, which constitutes this authority as Maharashtra Authority for Advance Ruling. The Applicant
+submits that by virtue of Section 96 of the Maharashtra Goods and Service Tax Act, 2017, the questions for
+determination in advance ruling lie before the Maharashtra Authority for Advance Ruling.
+
+A111 _ In view of the foregoing, the Applicant submits that it is eligible to file the present advance ruling application
+before the Maharashtra Authority for Advance Ruling, Mumbai, appointed vide Notification No. MGST-
+1017/CR 193/Taxation, dated 24.10.2017 read with Section 99 of Maharashtra Goods and Service Tax Act, 2017.
+
+QUESTIONS REQUIRING ADVANCE RULING
+B. The question on which Advance Ruling is sought by the Applicant is as under:-
+
+© Whether the amount paid to authorized dealers towards “rate difference” after effecting the supply of goods by the
+applicant to aforesaid dealers can be considered for the purpose of arriving at the ‘transaction value’ in terms of Section
+15 of the CGST Act.
+
+© Whether the amount paid to authorized dealers towards “rate difference” after effecting the supply of goods would be
+allowed under Section 15(1) read with Section 34(1) of the CGST Act or under Section 15(3) read with Section 34(1)
+ibid.
+
+APPLICANT’S INTERPRETATION
+
+Cc. Applicants understanding
+Cr The applicants understanding is that Section 15(3) of the CGST Act has been enacted to allow deduction from
+
+the taxable value, of any discount or incentive or any other relief that may be given by the supplier to the
+recipient, in respect of the goods or services supplied. On the other hand, 34(1) of the CGST Act provides a
+
+4
+
+
+
+mechanism for reduction in the GST liability of the supplier by issuance of credit note in case where the value
+mentioned in invoice is found to exceed the taxable values of such supplies.
+
+2 According to the applicant, Section 34(1) shall be read along with Section 15(1) of the CGST Act. The amount
+paid by the applicant to the authorised dealers/ stockists’ post supply of goods, effectively reduces the taxable
+value of the goods supplied by the applicant to such authorised dealers/stockists. Thus, the mechanism
+provided under Section 34(1) of the CGST Act shall also apply to the rate difference provided by the
+applicants to dealer’s post supply.
+
+¢3 The applicant submits that the Section 15(1) of the CGST Act covers transaction value which is nothing but
+the price actually paid or actually payable for the supply of taxable goods. It is submitted that the concept of
+‘actually paid’ or ‘actually payable’ of price to be received from the customer is to be determined at time of
+removal of goods from the factory of the assessee. In the case of the applicant, the consideration received
+from the authorised dealers/stockists after giving the effect of rate difference shall be treated as price
+“actually payable” by the authorised dealers/ stockists for the supply of taxable goods in terms of Section
+15(1) of the CGST Act. The value received by the applicant after giving the treatment of rate difference would
+be considered as price for arriving at the “transaction value” for the purpose of payment of GST in terms of
+Section 15(1) of the CGST Act.
+
+C4 In such situation, the applicant submit that the Section 15(1) read with Section 34(1) of the CGST Act, it can
+assess the duty liability by reducing the amount equal to rate difference mentioned in the credit note given
+to the authorised dealers/ stockists towards rate difference.
+
+C.5 The interpretation that the operation of Section 34(1) is limited only to the amounts which qualify as
+“discount” under Section 15(3) of the CGST Act, would make Section 34(1) redundant. Therefore, the credit
+note to be issued under Section 34(1) shall be allowed in case of the rate difference provided by the applicant
+to the authorised dealers/ stockists.
+
+03. CONTENTION - AS PER THE CONCERNED OFFICER
+The submission, as reproduced verbatim, could be seen thus-
+Comments in regard to ARA application bearing No. 34 dated 06.03.2018
+
+In the present case the taxpayer represented before the authority that the amount paid to the authorized
+dealers/ stockists towards rate difference without taking the adjustment of same in the output tax liability of the
+applicant is becoming cost to the applicant due to absence of clarity in law.
+
+In this regard, it is observed that there is no any ambiguity in law as section 34(2) of the Central Goods and
+Service tax, 2017 provides the necessary legal provisions for adjustment of tax liability in case of issue of credit notes,
+after fulfilling the procedure as may be prescribed.
+
+In this regards, the relevant portion of the Section 34 of CGST Act is reproduced below,
+
+“34. Credit and debit notes. - (1) Where a tax invoice has been issued for supply of any goods or services or
+both and the taxable value or tax charged in that tax invoice is found to exceed the taxable value or tax payable in
+respect of such supply, or where the goods supplied are returned by the recipient, or where goods or services or both
+supplied are found to be deficient, the registered person, who has supplied such goods or services or both, may issue
+to the recipient a credit note containing such particulars as may be prescribed.
+
+(2) Any registered person who issues a credit note in relation to a supply of goods or services or both
+shall declare the details of such credit note in the return of the month during which such credit note has been issued
+but not later than September following the end of the financial year in which such supply was made, or the date of
+furnishing of the relevant annual return, whichever is earlier, and the tax liability shall be adjusted in such manner as
+
+may be prescribed :
+Provided that no reduction in output tax liability of the supplier shall be permitted, if the incidence of tax
+and interest on such supply has been passed on to any other person.”
+
+The two things to be noted are that the rate difference mentioned by the taxpayer by no means can be
+considered as ‘discount’ under Section 15 of CGST Act, 2017 as same is neither declared nor known prior to supply of
+goods.
+
+Further in the event of revision of taxable value, taxable person can issue credit/debit note under Section 34
+of CGST Act, 2017 read with Rules 53 of CGST Rule, 2017.
+
+4. HEARING
+The case was taken up for Preliminary hearing on dated 04.04.2018 with respect to
+
+admission or rejection of present application, when Sh. Nirav Karia, Advocate, duly authorized
+appeared and was orally requested to submit copies of current agreements. No person was
+
+resent from the side of Jurisdictional Officer.
+
+
+
+The application was admitted and called for final hearing on 15.05.2018, Sh. Nirav Karia,
+Advocate, appeared and stated that they were making submissions in respect of details as asked
+for during preliminary hearing. However, he requested that since his senior was not available
+today, an adjournment is respect of final hearing be granted to them. Jurisdictional Officer Sh.
+Shivkumar Salunkhe, Dy. Commissioner CGST & Central Excise Division, Chandrapur
+appeared and made written submissions and stated that they do not want any further hearing.
+It is communicated to Sh. Nirav Karia, that adjournment would be considered subject to
+availability of new dates as found convenient in schedule of ARA and to this he agreed to.
+
+The final hearing in the matter was held on 06.06.2018. Shri Nirav Karia, Advocate,
+appeared made written and oral submissions as per ARA application. He was requested to give
+documentary evidence in respect of Para 24 of his agreements with authorized stockists in
+respect of discounts given by the company from time to time in respect of sales to the authorized
+stockists in particular months during the period of F.Y. 2015, 2016 and 2017.A brief hearing was
+to be given for explanation of above submissions as per request of applicant on 26.06.2018.
+Nobody was present from side of Jurisdictional Officer as they had sought exemption during
+last hearing.
+
+As per request on 06.062018 a brief hearing was again given on 26.06.2018. Sh. Nirav
+Karia, Advocate made contentions and submitted a copy of decision of Delhi Tribunal 2004 (177)
+ELT 816 Tri-Delhi) in case of Bee Pee Coating Ltd v. Collector of Central Excise, Vadodara.
+
+05. OBSERVATIONS AND FINDINGS
+
+We have gone through the facts and various written submissions made by the Applicant
+and the Jurisdictional Officer during the course of the proceedings before us.
+
+We find that M/s Ultratech Cement Ltd. is registered under the GST Act and is engaged
+in the manufacture and supply of cement and allied products which are taxable under the GST
+law. The goods manufactured at the applicant's various units are supplied by them to various
+authorized dealers/ stockists located in the State of Maharashtra and also to authorized
+dealers / stockists situated in various other states.
+
+Further factual position as stated by the applicant in his application is as under:-
+
+“
+
+5. The applicant enters into an agreement with the authorised dealers/stockists for supply of goods
+on a principal-to-principal basis. The agreement entered with the authorised dealers/stockists
+provides that the goods shall be supplied to the latter at the prices fixed by the applicant. Copies of
+
+agreement entered into between the applicant and authorised dealers / stockists are enclosed as
+
+(Annexure-1) collectively.
+
+
+
+6. Further, the agreement also provides that the applicant shall provide various discounts to the
+authorised dealers/stockists at the rates as may be decided by the applicant alone, from time to time,
+by the authorised dealers/stockists in a particular month.
+
+7. The applicant clears the goods to the authorised dealers/stockists under the cover of tax invoice
+
+after discharging applicable rate of GST on the said goods.
+
+8. The authorised dealers/stockists further supply the goods manufactured by the applicant in the
+regional markets to the ultimate customers or retailers.
+
+9. In certain cases, due to the highly competitive and dynamic market conditions, the authorised
+dealers/stockists of the applicants have to sell the goods purchased from the applicant, at a price lower
+than their purchase price i.e. the price at which the goods are sold by the applicant to continue in
+business for the reason that the market for cement is very dynamic and the prices keep changing -
+not only on daily basis but on real time basis. Hence, it sometimes happens that the authorised
+dealers/stockists of the applicants have to sell the goods purchased from the applicant, at a price lower
+than their original purchase price to continue in business i.e. the price at which the goods are
+originally billed by the applicant. For eg. the dealer has to sell a 50 kg bag of cement to ultimate
+customer at Rs.295/- based on then prevailing market conditions even though the said dealer
+purchased the said bag of cement from the applicant at Rs.300/-. The dealer is aware that there will
+be compensation in form of “rate difference” as per past practice. However, the dealers/stockists are
+not aware of the exact amount of compensation to be received from the applicant.
+
+10.Based on the trade practice and past history, the dealer is aware that there will be compensation in
+form of rate difference in case of significant correction of prices.
+
+11. In order to provide relief to the authorised dealers/stockists in such scenario, the applicant pays a
+certain amount to the authorised dealers/stockists as ‘rate difference’ (Commonly known as ‘Trade
+Discount’ also). The aforesaid payment of rate difference by the applicant to the authorised
+dealers/stockists is made by way of issuance of a credit note, which is linked to the sales/supplies
+
+made to the authorised dealers/stockists in a particular month. “
+
+In view of the above factual position, we find that the applicant has raised two questions in their
+Advance Ruling application which are as under:-
+
+Q.1 Whether the amount paid to authorized dealers towards “rate difference” after effecting the supply
+of goods by the applicant to aforesaid dealers can be considered for the purpose of arriving at the
+
+“transaction value’ in terms of Section 15 of the CGST Act.
+
+Q.2 Whether the amount paid to authorized dealers towards “rate difference” after effecting the supply
+of goods would be allowed under Section 15(1) read with Section 34(1) of the CGST Act or under Section
+15(3) read with Section 34(1) ibid.
+
+
+
+In respect of the above two questions, we find that the applicant as per their interpretation and
+understanding which are reproduced in their submissions part have opined and claimed that
+the answer to both the questions that has been raised in their application are in the affirmative
+and the transactions as per facts stated in the application are allowable under Section 15 and
+
+Section 34 of the GST Act.
+
+In view of the above facts of the case and to examine the claims made by the applicant we find
+
+that Section 15 of the CGST Act reads as under:-
+
+Section 15:- (1) The value of a supply of goods or services or both shall be the transaction value, which is
+the price actually paid or payable for the said supply of goods or services or both where the supplier and the
+recipient of the supply are not related and the price is the sole consideration for the supply.
+
+(2) The value of supply shall include---
+
+(a) any taxes, duties, cesses, fees and charges levied under any law for the time being in force other than
+this Act, the State Goods and Services Tax Act, the Union Territory Goods and Services Tax Act and the
+Goods and Services Tax (Compensation to States) Act, if charged separately by the supplier;
+
+(b) any amount that the supplier is liable to pay in relation to such supply but which has been incurred by
+the recipient of the supply and not included in the price actually paid or payable for the goods or services
+or both;
+
+(c) incidental expenses, including commission and packing, charged by the supplier to the recipient of a
+supply and any amount charged for anything done by the supplier in respect of the supply of goods or
+services or both at the time of, or before delivery of goods or supply of services;
+
+(d) interest or late fee or penalty for delayed payment of any consideration for any supply; and
+
+(e) subsidies directly linked to the price excluding subsidies provided by the Central Government and State
+Governments.
+
+Explanation.--For the purposes of this sub-section, the amount of subsidy shall be included in the value of
+supply of the supplier who receives the subsidy.
+
+(3) The value of the supply shall not include any discount which is given—-
+
+(a) before or at the time of the supply if such discount has been duly recorded in the invoice issued in respect
+of such supply; and
+
+(b) after the supply has been effected, if —
+
+(i) such discount is established in terms of an agreement entered into at or before the time of such supply
+and specifically linked to relevant invoices; and
+
+(ii) input tax credit as is attributable to the discount on the basis of document issued by the supplier has
+been reversed by the recipient of the supply.
+
+(4) Where the value of the supply of goods or services or both cannot be determined under sub-section (1),
+
+the same shall be determined in such manner as may be prescribed.
+
+
+
+(5) Notwithstanding anything contained in sub-section (1) or sub-section (4), the value of such supiplicn
+as may be notified by the Government on the recommendations of the Council shall be determined in such
+manner as may be prescribed.
+
+Explanation. — For the purposes of this Act,--
+
+(a) persons shall be deemed to be “related persons” if--
+
+(i) such persons are officers or directors of one another’s businesses;
+
+(ii) such persons are legally recognised partners in business;
+
+(iii) such persons are employer and employee;
+
+(iv) any person directly or indirectly owns, controls or holds twenty-five per cent. or more of the
+outstanding voting stock or shares of both of them;
+
+(v) one of them directly or indirectly controls the other;
+
+(vi) both of them are directly or indirectly controlled by a third person;
+
+(vii) together they directly or indirectly control a third person; or
+
+(viii) they are members of the same family;
+
+(b) the term “person” also includes legal persons;
+
+(c) persons who are associated in the business of one another in that one is the sole agent or sole distributor
+
+or sole concessionaire, howsoever described, of the other, shall be deemed to be related.
+
+Here we find that Section 15(1) and Section 15(3) of the CGST Act are of specific relevance in the
+
+present case before us.
+
+We find that Section 15 of the CGST Act states that the value of supply of goods or services or
+both shall be the transaction value, which is the price actually paid or payable for the said supply
+of goods or services or both where the supplier and the recipient of supply are not related and
+
+price is the sole consideration for the supply.
+
+We further find that Section 15(3) of the CGST Act states that the value of supply shall not include
+
+any discount which is given in ways as under:-
+
+(a) Any discount which is given before or at the time of supply if such discount has been duly recorded
+in the invoice issued in respect of such supply.
+
+(b) After the supply has been effected if
+(i) such discount is established in terms of an agreement entered into at or before the time of such
+supply and specifically linked to relevant invoices and
+(ii) input tax credit as is attributable to the discount on the basis of documents issued by the
+supplier has been reversed by the recipient of the supply.
+
+Thus we find that discount from the value of supply can be allowed only in the above two ways
+
+i.e. if discount is in compliance of the provisions of Section 15(3) of the CGST Act, 2017.
+
+Y9
+
+
+
+In the present case we find that the discount given by the applicant is not as per Section 15(3)(a)
+of the CGST Act as reproduced above and therefore this Section is not required to be discussed.
+We find that the applicant is claiming that the discount being given by them is in compliance
+with Section 15(3)(b) of the CGST Act and therefore the claim of the applicant needs to be
+examined as per Section 15 (3) (b) of the CGST Act.
+
+We find that the applicant has submitted, being representative samples, copies of agreements
+
+with authorized stockists in three cases being between:
+
+(i) Ultratech Cement Ltd and Mr. Hariram Jangid entered into at Mumbai on dated 20 June,
+2012;
+
+(ii) Ultratech Cement Ltd and Mr. Kailash M Motani entered into at Mumbai on dated 20
+June, 2012; |
+
+(iii) Ultratech Cement Ltd and Mr. Raju K Shah entered into at Mumbai on dated 20 June,
+2012;
+
+In respect of all the three agreements which are representative samples, we find that para Pa. 22,
+23 and 24 which are exactly the same in all the three agreements and gives sale procedure and
+
+discount as under:-
+
+“Para 21:- In respect of the sales made by the authorized stockiest it will maintain proper records and shall
+submit copies thereof from time to time as may be required by the Company. The Company <a itself
+or its representatives shall have the right to inspect the premises and records maintained by the Bator’
+Stockist and ask for any clarification in respect of the same from the Authorized Stockist. The Authorized
+Stockist shall also furnish to the Company any information, statistical or general, concerning demand,
+supply and prices of product in general. |
+
+Para 22 :-The Company shall sell and supply the Authorized Stockist the products at the prices fixed by
+the Company from time to time. All payments against supplies will be made by the Authorized Stockist to
+the office of the Company by way of a demand draft or by crossed A/C payee cheque.
+
+Para 23 :- The Authorized Stockist is fully responsible to make due payments to the Company on due dates,
+as per agreed payment terms. In case of delay by the Authorized Stockist, interest at the rate 18% shall be
+imposed on the dues. And on a default of a period exceeding 90 days the Company may adjust the dmsount
+from the security deposit.
+
+Para 24 :- The Company will pay Discounts at such rates as may be decided by the Company from time to
+
+time on the quantity sold to the Authorized Stockist in a particular month.”
+
+]
+We find that para 24 is in respect of discounts which states that the company will pay discount
+
+at such rates as may be decided by the company from time to time on the quantity sold to the
+
+orized stockist
+
+1u
+
+
+in a particular month.
+]
+
+Thus para 24 states that the company will further decide and pay discount at such rate after the
+quantity is already sold to the stockists. That the discounts are decided after the goods are
+already sold to the stockists, was confirmed by their representatives as well, at the time of the
+
+Personal Hearing.
+
+In view of this we find that the discount/ rate difference being given by the applicant will have
+to be examined for eligibility or otherwise, as per the terms and conditions given in Section 15
+
+(3) (b) of the CGST Act referred above.
+
+We find that the discount that is given after the goods have been sold has to be established in
+terms of the agreement entered into at or before such supply i.e. the discount that is to be given
+afterwards has to be mentioned in the terms of the agreement or the criteria for arriving at the
+quantum or percentage of discount has to be given in the terms of the agreement which is entered
+
+into at or before such supply.
+
+The wordings of Section 15 (3) (b) (i) very clearly states that quantum of discount is given after
+the supply of goods has taken place has to be there in the terms of such agreement ie. it cannot
+be open ended not based on any criteria. Thus this discount quantum cannot be arrived at
+without any basis only at the discretion of the supplier. The supplier has to clearly mention the
+quantum of discount or percentage of discount which is to be worked out on the basis of certain
+parameters or certain criteria which may be agreed to between the supplier and the recipient
+
+and which are predetermined and mentioned in agreement in respect of supply of the goods.
+
+Thus the bare word ‘discount’ mentioned in such an agreement without there being any
+parameters or criteria mentioned with it would not fulfill the requirement of Section 15 (3) (b)(i)
+of the CGST Act, as the word ‘discount if left open ended or without any qualifications or criteria
+attached can mean there can be any percentage of discount ranging from bare minimum to even
+100% as per discretion of the supplier and certainly such abnormal discounts without any criteria
+or basis can in no way be considered as fair and at arm’s length business transactions and no
+
+taxation statute can be construed to be having open ended discount with legislative intent.
+
+In view of the detailed discussions above now when we have a relook at para 24 of the
+Applicant's agreement with authorized stockists which states that the company will pay
+discount at such rate as may be decided by the company from time to time on the quantity sold
+to the authorized stockists in a particular month, we find that there is no basis or criteria or
+
+parameter (which may even be of personal relations nature between the parties to the agreement)
+
+iW
+
+
+
+mentioned in the agreement on the basis of which the quantum of discount to be given on the
+
+goods which have already been supplied is mentioned.
+
+Further the Applicant during the course of proceedings stated that they are further submitting
+copies of amendment No. 1 to the dealership agreements dated 20 June, 2012 which are effective
+with effect from 1% July, 2017 under GST regime and these amendments are executed in June
+
+2017.
+
+We find that vide the above amendment to their agreements with their authorized stockists
+dated 20' June , 2012 as referred above, now vide their above referred amendment no. 1 they
+have put additional obligations on their authorized stockists/dealers which are reproduced as
+under:-
+2s The Parties to this Amendment No.1 agree and confirm that the following terms shall
+
+stand incorporated under the Said Agreement from the Effective date:
+
+A. Additional Obligations of the Dealer
+
+2.1 The Dealer shall file the monthly returns as required under the provisions of the GST
+
+Act.
+
+2.2 The Dealer confirms and agrees that UltraTech at its sole discretion may
+operationalize various discount/incentive schemes (“Said Incentive Schemes”)
+during the term of the said agreement.
+
+2.3 In the event the Dealer is eligible for the said Incentive Schemes the Dealer shall be
+credited with the entitled discount/ incentive, online.
+
+2.4 UltraTech shall issue credit notes for discounts and the same shall be linked with the
+respective Tax invoices of UltraTech.
+
+2.5 The Dealer agrees to reverse the corresponding input tax credit in his books in the
+same month during which the Discount is given by UltraTech to the Dealer by way of
+aforesaid credit note.
+
+2.6 The Dealer shall effectuate the reversal of credit in the monthly GST returns and shall
+fully comply with the provisions of the GST Act.
+
+2.7. The Dealer accepts and agrees to indemnify and compensate UltraTech for the losses
+incurred by UltraTech in the event UltraTech is not able to take input tax reversal of
+credit notes within 60 days of issuance of credit note due to non-reversal by the dealer.
+The Dealer agrees to indemnify and make good the loss to UltraTech including any
+
+interest, penalty and all other legal costs and expenses.
+
+12
+
+
+
+3. The Parties to this Amendment No.1 agree and confirm that the rest of the terms of the Said
+Agreement is alive, valid, subsisting, binding and enforceable against the other Party to this
+
+Agreement. “
+
+In addition to the above we find that vide their letter dated 01.07.2017 issued by the applicant
+company through Shri Sandeep Grover, Zonal Head, Sales and Marketing to all stockists, the
+applicant company has enclosed a GST Annexure for Mumbai region with their letter wherein
+they have mentioned what discounts they would be offering and on what basis these discounts
+
+are to be worked out is mentioned.
+
+The scanned copy of the same annexure is reproduced below:-
+
+ST Annemse
+Mumba Royton
+Sr. No. [Netare of Dikeourt “[Arneont fe Dee Rage 1 heracks a - i]
+i CORs Par
+‘Sab | Period (exduciag Bark Mobcays!
+T Payment w thn? diye dinvcluding advance) a0 seer cmmenuile
+> Ramen 1 Jrrymentwihie3 io fda | ee pa |
+7 [Payment withivBto 7dzys |_éc0
+4 jraymentaner soays H (a)
+2 |Prive Cqualization ‘As ‘ed Blong with Sailing Price, H Greuite utes cre na7mally ayer within omonth
+= i Tzsved avarterly r
+3 _[Sheppee Discoont RFI per Bag H EleeLet notes are
+4 [Ceaantky Risen! (Gaantay Sab wise a 007 OF Lame! DaseC foeditmotes se ncrmab gee within amanth 1
+[S JAnaeai Diccourt As. 2 30 yet Dew i [Will be sroditve st yeor and av-maily |
+tb |spesitthrcoure ifecet Support distaunt from sue i ce markol (> marbet lat vat equeney +s éec ded ty comeany an time te dime tosis
+7 aos ii
+
+» iceceerenaen Ke eels Tive To time ta addrows the price volat ity Ia the pu tne Srequercy 23 vey ved Ly company an tmete Ae boss |
+me
+
+SHREE OISTHIHUTONS
+Gdop Re 3, Agmwal Arcede Vt!
+
+Phot Be. 32, Sector-1, Raw
+MAW DOMDAY #0070
+
+On verification of the terms of Additional obligations of the dealer as incorporated vide
+amendment no. 1 and GST Annexure for Mumbai region referred above, it can clearly be seen
+that the cash discount, price equalization, shoppee discount, quantity discount and annual
+discount as mentioned in the GST Annexure for Mumbai region at Sr. No. 1, 2, 3, 4, and 5
+respectively are clearly complying with the requirements of the CGST Act and the criteria or
+conditions for availing discount as per Section 15(3)(b)(i) and (ii) of the CGST Act and the criteria
+or conditions for availing discount as per Section 15(3)(b)(i) are specifically mentioned as per
+
+agreement beforehand.
+
+13
+
+
+
+However we find that in respect of special discount and rate difference as mentioned at Sr. No.
+6 and 7 of the above referred GST Annexure for Mumbai region, there is no pre fixed criteria,
+basis or rationale for arriving at the quantum of these discounts neither as per basis a
+in GST Annexure for Mumbai region nor as per amendments incorporated in agreements with
+
+authorized stockists as referred above.
+
+Thus we find that the amount paid to the Dealer towards “rate difference” and “special
+discount” as mentioned above, post supply are not complying with the requirements of section
+15(3)(b)(i) of the CGST Act and therefore cannot be considered and allowed as discount for the
+
+purpose of arriving at the ‘transaction value’ in terms of Section 15 of the CGST Act.
+
+As the applicant's facts and case are not in compliance of the provisions of Section 15(3)(b)(i)
+itself, their procedural compliance in other respects is immaterial and not relevant.
+Various case laws referred to by the applicant in their submissions are in different context and
+
+are therefore not relevant in the present proceedings before this authority.
+
+06. In view of the deliberations as held hereinabove, we pass the order as under :
+
+ORDER
+
+(under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+NO.GST-ARA-34/2017-18/B- S 6 Mumbai, dt. 2-7 /o6 /1.0\9,
+
+For reasons as discussed in the body of the order, the question is answered thus -
+
+Question. 1. Whether the amount paid to authorized dealers towards “rate difference”
+after effecting the supply of goods by the applicant to aforesaid dealers can be
+considered for the purpose of arriving at the ‘transaction value’ in terms of Section 15 of
+
+the CGST Act.
+
+Answer. Answered in the negative.
+
+14
+
+
+
+Question. 2. Whether the amount paid to authorized dealers towards “rate differ ence”
+after effecting the supply of goods would be allowed under Section 15(1) read with
+Section 34(1) of the CGST Act or under Section 15(3) read with Section 34(1) ibid.
+
+Answered in the negative.
+
+7/&RY) 2
+jf — sf — — sd —
+Y B. V. BORHADE PANKAJ KUMAR
+“3 (MEMBER) (MEMBER) |
+Copy to: CERTIFIFD COPY
+1.Th licant
+e applican wy
+
+2. The concerned Central / State officer
+3. The Commissioner of State Tax, Maharashtra State, Mumbai
+4. The Chief Commissioner of Central Tax, Churchgate, Mumbai.
+
+5. The Jurisdictional Commissioner of Central Tax,
+
+Note :-
+
+Appeal against this order would lie to The Maharashtra Appellate Authority for Advance Ruling
+for Goods and Services Tax, 15" floor, Air India building, Nariman Point, Mumbai - sone
+
+15

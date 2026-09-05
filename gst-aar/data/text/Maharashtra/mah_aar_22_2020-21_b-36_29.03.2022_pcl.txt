@@ -1,0 +1,590 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+
+GST Bhavan, Room No.107, ist floor, B-Wing, Old Building, Mazgaon, Mumbai — 400010.
+(Constituted under Section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri. Rajiv Magoo, Additional Commissioner of Central Tax, (Member)
+(2) Shri. T. R. Ramnani, Joint Commissioner of State Tax, (Member)
+
+GSTIN Number, if any/ User-id 27AABCP1086B1ZS
+
+Legal Name of Applicant M/s. Precision Camshafts Limited
+
+Registered Address/Address provided | D-5, D-6, D-7, D-7/1, MIDC, Chincholi, Solapur -413 255
+while obtaining user id _—— =
+Details of application GST-ARA, Application No. 22 Dated 07.09.2020
+Concerned officer SOL-VAT-E-002
+
+Nature of activity(s) (proposed/present) in respect of which advance ruling sought
+
+A_ | Category Factory / Manufacturing ; Service Provision
+
+B Description (in brief) Precision Camshafts Limited, the Applicant is engaged in the
+business of manufacturing camshafts. Camshafts are a
+rotating shaft mounted in a 4-stroke engine. Applicant sells
+these camshafts to domestic as well as overseas customers.
+The overseas customers may be original equipment
+manufacturers ("OEM's”) & use the camshafts for
+manufacturing or maybe machinist who would further
+supply the same to OEMs (“Machinist”).
+
+which advance ruling e Classification of any goods or services or both
+
+e Determination of the liability to pay tax on any
+goods or services or both
+
+uestion(s) on which advance ruling | As reproduced in para 01 of the Proceedings below.
+
+is required
+
+NO.GST-ARA- 22/2020-21/B- 4 £ Mumbai, dt. 2.9/9 Joo22
+
+PROCEEDINGS
+(Under Section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods and
+Services Tax Act, 2017)
+
+The present application has been filed under Section 97 of the Central Goods and Services Tax
+Act, 2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as “the CGST
+Act and MGST Act” respectively ] by M/s. Precision Camshafts Limited, the applicant, seeking an
+advance ruling in respect of the following question.
+
+Whether the activity of design and development of patterns used for manufacturing of camshafts, for
+a customer is a composite supply, the principal supply being supply of services?
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and the
+MGST Act are the same except for certain provisions. Therefore, unless a mention is specifically made to
+any dissimilar provisions, a reference to the CGST Act would also mean a reference to the same
+
+Page 1 of 11
+
+b> at
+
+
+provision under the MGST Act. Further to the earlier, henceforth for the purposes of this Advance
+Ruling, the expression ‘GST Act’ would mean CGST Act and MGST Act.
+
+2. FACTS AND CONTENTION — AS PER THE APPLICANT FACTS:
+The submissions made by M/s Precision Camshafts Limited, the Applicant, are as under:-
+2.1 The applicant manufactures camshafts and sells the same to domestic as well as overseas
+
+customers. The overseas customers may be original equipment manufacturers ("OEM's”) and
+use the camshafts for manufacturing engines such as Ford, General Motors do Brasil LTDA etc.
+or maybe machinist such as Musashi who would further supply the same to OEMs
+(“Machinist”).
+
+2.2 The camshaft controls engine power, emissions and fuel consumption and are critical
+components of engines. The present advance ruling is being filed by the Applicant, in relation to
+transactions with the overseas OEMs/ Machinists.
+
+2.3 The OEMs / Machinists place orders for camshafts on PCL, which are sent outside India. Since
+such supplies qualify as export of goods under GST Laws, therefore, the same qualify to be a
+zero-rated supply. Applicant at present is availing the benefit of such zero rating by exporting
+the said camshafts after submitting appropriate Letter of Undertaking and without payment of
+
+6
+
+camsha ts, applicant needs patterns and tools according to the specifications of the OEMs/
+mma TS . 5% wis “ge . :
+FE Fags rational efficiency and logistics issues, it is industry practice that the said tools are made
+
+(a) Assistance in designing and process planning for the manufacture of the tools.
+
+(b) Identify and appoint a third party vendor to manufacture such tools as per the approved
+specifications.
+(c) Coordinate with such third party vendors for manufacture of tools as per the approved
+specifications
+The Applicant charges a fee for the same from the OEMs / Machinists.
+
+26. A detailed step wise process flow of the end to end activity, undertaken by the Applicant is as
+
+under:
+° OEM/ Machinist sends a request for quotation to the Applicant's marketing team;
+° The marketing team hands over the drawing to the Applicant's cross functional team who
+have thorough knowledge of camshaft manufacturing and workability of a design;
+. The cross functional team conducts a feasibility study on the design and a feasibility report
+
+is prepared to analyze if there is any abnormal requirement of OEM/Machinist in the
+drawing provided;
+
+° Once the cross functional team, declares the drawing to be feasible for the manufacture of
+camshaft, marketing team prepares and shares the techno-commercial offer with the OEM/
+Machinist;
+
+Page 2 of 11
+
+¢
+
+
+. After submission of the techno-commercial offer, detailed discussions take place between
+the Applicant and OEM/Machinist Once, and techno commercial agreements are executed
+and the OEM/Machinist releases the purchase order (PO) for tooling, purchase of prototype
+etc.
+
+° Post raising of such PO, the Applicant undertakes the manufacturing process, planning and
+development of the camshaft. Applicant's scope of work also includes contract review for
+OEM/Machinist specific requirements and tooling procurements;
+
+° Thereafter, the tooling procurement and internal validation is undertaken by the Applicant.
+In this regard, the following activities are undertaken by the Applicant:
+
+e Tool designing - Applicant’s development and tooling team prepares the required
+
+tooling design/drawings / sketches etc.
+
+e Tool Procurement - The tooling design data along with purchase requisition
+
+is forwarded to the purchase department for further procurement process;
+
+e Purchase team works with the third party approved vendor/s for manufacturing of the
+
+tools as per the tooling design;
+
+e Once the tools are manufactured, the tools are thoroughly inspected to confirm if all
+tools are as per the specifications. Once these are found to be as per specifications, the
+Applicant conducts a physical internal validation by manufacturing camshafts and
+confirms if the camshaft is as per the data / specifications shared by OEMs / Machinists
+in the request for quotation.
+
+4 After successful internal validation, the Applicant, starts working on manufacturing of
+
+) a the prototype / pilot lot of camshafts in accordance with the PO released by
+
+ie ij OEMs/Machinists and ships it to them.
+
+oi ZH Y Based on the approval obtained from the OEM/Machinist, applicant starts
+
+manufacturing prototypes and ships it to OEMs / Machinists for testing purposes. Once
+the OEM/Machinist approves the lot, PCL raises tooling invoice.
+
+e Based on the approval of the prototypes, PCL starts manufacturing and supplies serial
+production camshafts according to customer's weekly / fortnightly / monthly
+schedule.
+
+27 As mentioned above, the Applicant assists the OEMs / Machinists to create a prototype on the
+basis the broad specifications provided by the OEMs / Machinists. The OEMs /Machinists raise a
+separate PO for such activity performed by the Applicant in this regard. Applicant charges a fee
+for the same.
+
+2.8. The PO is raised in addition to and separate from the PO that is being raised on the Applicant for
+supply of camshafts. Therefore, in essence the overseas OEMs / Machinists place two orders on
+PCL - (i) for supply of camshafts; and (ii) for assistance in designing and development of patterns
+and tools to manufacture the camshafts.
+
+2.9 Applicant, on instructions of the OEMs / Machinists and on the basis of the specifications agreed
+between the OEM / Machinist identifies and engages a third party Indian manufacturer to
+manufacture the pattern and tools. Using such patterns and tools, the Applicant manufacturers
+
+arRR ATA
+
+Page 3 of 11
+
+
+a camshaft prototype, which is sent to the overseas OEM / machinist for confirmation of design.
+Once this prototype is confirmed, the same is used for manufacturing the camshaft.
+
+2.10 Once the sample camshaft is approved, PCL raises its invoice for the assistance in design and
+development charges of patterns and tools on the overseas OEM/Machinist.
+
+2.11. The overseas OEMs/Machinists pays consideration for assistance in manufacturing process
+planning (including designing and development of prototype) in foreign currency. The ownership
+of tools lie with the OEMs/ Machinists and can only be used to manufacture the goods of the
+OEMs/Machinists who are the owner of such tools.
+
+2.12 It is relevant to note that contractually, an OEM/Machinist is bound to provide tools to the
+applicant. Applicant does not possess any technical capability to manufacture patterns and tools
+but has the technical expertise to develop examine and analyse the feasibility of a design,
+manufacturing process planning for tools which are critical to the manufacturing process.
+
+2.13. Therefore, applicant in the present case, have two output activities (a) Supply of finished goods
+i.e. camshafts and (b) assistance in designing and development of patterns and tools used for
+manufacture of camshaft.
+
+2.14 With respect to “Assistance in design and development of patterns used for manufacture of
+camshaft”, the applicant is engaged in a composite supply of the following:
+
+Understanding the designs/drawing of patterns and tools used for manufacture
+
+of camshafts.
+
+Identifying third party who can manufacture the pattern and tools as per
+
+the design/drawings.
+
+Explaining and closely working with third party manufacturer to develop the patterns
+
+and tools to manufacture prototype / serial production camshafts.
+
+Engaging the third party manufacturers for supply of tools.
+
+Overall assistance to overseas OEMs / machinist in relation to provision of tools to
+
+applicant itself.
+
+B. APPLICANT'S INTERPRETATION OF LAWAPPLICANT’S SUBMISSION FOR QUESTION:
+
+2.15 With the introduction of the GST laws, Applicant has reassessed the classification of Subject
+Transaction. In Applicant's view, the Subject Transaction is a composite supply with the principal
+supply being supply of services as reasoned in subsequent paragraphs.
+
+2.16 As per Section 7 of the CGST Act, 2017, the term supply includes all forms of supply of goods or
+services or both by way of sale, transfer, barter, lease etc. The phrase ‘goods and services' are
+defined under Section 2(52) and 2(102) respectively of the CGST Act.
+
+2.17 As per Section 2(30) of the CGST Act, a composite supply is a supply where:
+(a) The supply consists of two or more taxable supply of goods or services or both;
+(b) These shall be supplied in conjunction with each other and are naturally bundled;
+(c) One of the supply shall be a principal supply
+Further, as per Section 8 of the CGST Act, in cases of composite supply, the classification of the
+transaction and the applicable rate of tax is to be determined as per principal supply.
+
+2.18 The term ‘principal supply’ is defined under Section 2(90) of the CGST Act as : "Principal supply"
+means the supply of goods or services which constitutes the predominant element of a
+
+Page 4 of 11
+
+
+composite supply and to which any other supply forming part of that composite supply is
+ancillary”
+
+2.19 Inthe present case the OEM customers expect that the Applicant would assist inmanufacturing
+process planning based on the specifications received from the OEM and appoint a third party
+vendor to manufacture the tools. Such tools and patterns would not be available separately. The
+elements are normally advertised as a package which would be available for a single price.
+
+2.20 Inthe present case, admittedly the provision of tools to PCL for manufacture of camshafts is the
+responsibility of the overseas QEM. In this regard applicant mentions that engaging vendors for
+manufacture and supply of camshafts, is an RFP process followed by most industry players.
+Therefore, all the above supply constitute a composite supply on part of applicant. Further, the
+principal supply in such composite supply is that of services for manufacture of fully functional
+camshaft. This is because on the basis of the skillset involved in designing and drawings of
+patterns that the tools are manufactured. Further the ownership of tools always remain with the
+overseas OEM and the Applicant has no rights to use the same for other customers. Also after
+the life span of the tools, the same would be scrapped by the Applicant.
+
+2.21 Additionally, value of the activity performed by the Applicant, is driven by the assistance
+
+rendered in respect of manufacturing process planning and not the value of material used for
+
+nufacture of the tools per se also indicates towards the fact that the principal supply is the
+
+ive basis
+f the customer Value as per OEMs/Machinists Value charged by the vendor
+4 PO (in INR)
+usashi Hungary 16,72,692 1, 28,325
+= Manufacturing Limited
+General Motors do Brasil | 94, 75,200 71, 31,040
+LTDA
+
+APPLICANT SUBMISSION DATED 11.08.2021:-
+
+2.22 A perusal of Section 98(2) of CGST Act shows that in case, the proceedings on the same issue
+are pending or decided in any proceeding of the applicant, under the provisions of the CGST Act,
+2017, the application shall be rejected. The applicant has submitted a list of Show Cause Notices
+issued to them under the Erstwhile Central Excise and Service Tax laws and stated that the issues
+in the said SCNs are different from the issue under consideration in the subject Application.
+Hence, the provision of Section 98 (2) is not applicable in the present case since the same issue
+has not been agitated or pending under the provisions of the CGST Tax Act, 2017 in the case of
+the Applicant. Reliance in this regard, is placed on the decision of the Hon'ble authority for
+Advance Ruling Maharashtra, in the case of In Re : M/s Vijay Baburao Shirke [2020 (10) TMI 48 -
+Appellate Authority for Advance Ruling, Maharashtra).
+
+Page 5 of 11
+=~
+
+
+03. CONTENTION — AS PER THE CONCERNED OFFICER:
+OFFICER SUBMISSION DATED 07.07.2021:-
+34 As per the definition given in section 2(30) of GST Act, a composite Supply is
+
+4. Supply of 2 or more goods or services together;
+
+2. It is a natural bundle, i.e., goods or services are usually provided together in the normal
+course of business.
+
+3. They cannot be separated (in conjunction with each other)
+
+4. One supply shall be a principal supply.
+
+Be As per its definition under Section 2 (90) of the CGST Act, 2017, "Principal supply means the
+supply of goods or services which constitutes the predominant element of 0 composite supply
+und to which any other supply forming part. Of that composite supply is ancillary
+
+3.3 The term "naturally bundled" in the ordinary course of business would depend upon the normal
+or frequent practices followed in the area of business to which services relate. Such normal and
+frequent practices adopted in a business can be ascertained from several indicators some of
+which are listed below -
+
+e The perception of the consumer or the service receiver, if large number of service receivers of such
+bundle of services reasonably expect such services to be provided as a package, then such a
+
+ice of stay in a hotel is often combined with a service or laundering of 3-4 items of hotties
+free of cost per day. Such service is an ancillary service to the provision of hotel accommodation
+and the resultant package would be treated as services naturally bundled in the ordinary course of
+business.
+¢ Other illustrative indicators, not determinative but indicative of bundling of services in ordinary
+course of business are
+- There is a single price or the customer pays the same amount, no matter how much of the
+package they actually receive or use.
+: The elements are normally advertised as a package.
+- The different elements are not available separately,
+- The different elements are integral to one overall supply -- if one or more is removed, the nature
+of the supply would be affected.
+3.4 In Composite supply there is a principal supply and an ancillary supply: Principal supply may be
+determined on the basis of something that is necessary for the essential functionality.
+3.5 The supplies in relation to assists in design and development of tools/patterns used for
+manufacture of camshaft to overseas customer provided by Applicant is composite supply,
+because it meets the criteria's mentioned above. Overseas OFM/Machinist have perception of
+
+Page 6 of 11
+
+¥
+
+
+receipt of goods in the form of camshafts, rather than service in general industrial practice,
+many products are manufactured from pattern/tools. Design and development cost of pattern is
+usually incorporated in value of goods. In the supplies provided by Applicant, the pattern/tool is
+necessary for the essential functionality. Using the same pattern/tool, Applicant produces
+multiple lots of camshafts. Consideration received against supply of multiple lots of camshafts
+from the unique pattern is higher than consideration of design and development of same
+pattern/tool. The pattern/tool is necessary to manufacture of camshafts. Hence, pattern/tool
+(goods) is Principal supply in this transaction and design and development charges (Service) are
+ancillary supply. Therefore, in this transaction goods is principal supply, hence the tax rate be
+treated as goods.
+
+3.6 Also, in this regard Advance Ruling Authority, Karnataka has passed advance ruling NO, KAR
+ADRG 35/2020 dated - 20-05-2020, in case of M/s. Dolphine Die Cast (P) Ltd. Bengaluru (GSTIN -
+29AAACD52941176). (Advance Ruling order is attached herewith Page No. 51 to 59) as below:
+
+"In the case of manufacture of Die by the applicant and invoiced to the recipient, without proving the
+goods. The applicant has to raise the tax invoice addressed to the foreign buyer. Since it is an intra-state
+supply, he has to collect the CGST and SGST and discharge the liability. The applicant is not eligible to claim
+the sold payment as input tax credit on the invoice raised by him as he is not the recipient. Further if the
+said steel die is scrapped at applicant's end as per the instruction of the overseas customer without
+
+the provisions of the GST Acts."
+above advance ruling order, the supply of die is not considered as export, because no
+ent was done of goods outside India. Hence, tax is leviable considering intra-
+
+£08)
+
+& oren aA //interstate supply.
+SIE he present case also, Applicant does not supply tool/pattern (goods) to OEMS/Machinist. The
+
+pattern/tool will always be in possession with and will be scrapped after life span by Applicant.
+
+The pattern/tool is not taken out of India. Hence, it cannot be treated as export. In view of this,
+
+Applicant is required to raise tax invoice addressed to the foreign buyer and since it is an intra-
+
+state/inter-state supply he has to collect the CGST und SGST/IGST whichever applicable; and
+
+discharge the liability,
+
+3.9 In pre-GST era, Show cause notice was issued to M/s Precision Camshafts Ltd. in respect of non-
+inclusion of development cost in excisable goods, resulting in short levy of tax. Applicant has also
+shown the said supply as tooling income. Applicant has supplied pattern /tools to inter-state
+customers and levied CST-(Central Sales Tax) on corresponding tooling income non-GST era.
+
+3.10 Considering the above provisions and scenario, M/s Precision Camshafts Ltd.'s activity of design
+
+and development of patterns used for manufacturing of camshafts for a customer is composite
+
+supply. But, the principal supply is not supply of service, Principal supply is of goods i.e. supply of
+
+pattern/tool. So, tax treatment should be applicable as supply of goods. The view of the M/s
+
+Precision Camshafts Ltd, that tax treatment should be as applicable to the supply of services is
+
+not acceptable. As this supply is does not meet to the criteria of export M/s Precision Camshafts
+
+Ltd, also needs to raise invoice and discharge the tax liability accordingly.
+
+Page 7 of 11
+
+
+04. HEARING
+
+4.1 Preliminary e-hearing in the matter was held on 20.07.2021. Authorized representatives of the
+Applicant, Smt. Ankita Bhasin, Advocate, Shri. Sachin Datar, Deputy Manager and Smt. Shohini
+Bhattacharya, Advocate were present. Jurisdictional officer Shri. Ganesh Misal, Deputy
+Commissioner, SOL-VAT-E-002 was also present. The Authorized representative made oral
+submission. Applicant was asked to file written submissions.
+
+4.2 The application was admitted and called for final hearing on 21.12.2021. The Authorized
+representative of the applicant, Shri. Sachin Datar, Dy. Manager, Smt. Sohani Bhattacharya and
+Shir. Kishore Atulya, Learned Advocate were present. The Jurisdictional officer Shri. Ganesh
+Misal, DC, E-002, Solapur Division was also present and made submissions.
+
+4.3 We heard both the sides.
+
+05. DISCUSSIONS AND FINDINGS:
+
+521 We have gone through the facts of the matter, perused the documents on records and have
+considered the oral/written submissions made by both, the applicant as well as the
+jurisdictional officer.
+
+5:2. We find that the applicant is a manufacturer of camshafts and sells the same in domestic
+market as well as overseas market. This application is not pertaining to the manufacture and
+
+Zane Runge e of the said camshafts.
+
+fr 53 ~2 anufacturing the camshafts, applicant needs patterns and tools which are required as per
+
+overseas OEMs / Machinists place an order on the applicant for assistance in designing and
+development of patterns and tools to manufacture the camshafts. The OEMs/Machinist
+outsource the tasks of designing and procuring the said patterns and tools to the Applicant by
+way of:
+
+(a) Assistance in designing and process planning for the manufacture of the tools;
+
+(b) Identifying and appointing third party vendors to manufacture such tools as per
+the approved specifications and
+
+(c) Coordinate with such third party vendors for manufacture of tools as per the approved
+specifications.
+
+5:5 The tasks to be performed by the applicant as per para 5.4 above (which is as per the
+applicant’s submissions), consists of supply of only services pertaining to designing and
+development of patterns and tools. No supply of goods is envisaged. The present advance ruling
+is filed bythe Applicant, in relation to transactions with the overseas OEMs/ Machinists
+pertaining to the assistance in designing and development of patterns and tools which are to be
+used by the applicant to manufacture camshafts to be supplied to such overseas OEMs/
+Machinists.
+
+Page 8 of 11
+
+on
+
+
+5.6 As per the process submitted by the applicant, the OEM/ Machinist sends a request for
+quotation to the Applicant. The marketing team of the applicant prepares the drawing in
+respect of such patterns and tools and sends the same to the Applicant's cross functional team
+which conducts a feasibility study on the design and prepares a feasibility report. Once the
+drawings are declared to be feasible for the manufacture of camshaft, the marketing team
+prepares the techno-commercial offer and shares it with the OEM/Machinist for approval. On
+approval, techno commercial agreements are executed and the OEM/Machinist releases the
+purchase order for tooling, purchase of prototype etc. Thereafter, the applicant’s Purchase
+team works with the third party approved vendor/s for manufacturing of the tools as per the
+tooling design. Once the tools are manufactured by the vendors, the tools are thoroughly
+inspected by the applicant to confirm, (whether) if all tools are as per the specifications. The
+applicant then prepares prototypes of the camshafts and sends the same to the overseas
+OEMs/Machinist and on approval, the applicant raises a tooling invoice on the overseas
+OEMs/Machinist, since the OEMs /Machinists raise a separate purchase order for such activity
+performed by the Applicant in this regard.
+
+5.7 We find that, the applicant, on instructions of the OEMs / Machinists and on the basis of the
+
+specifications agreed between itself and the OEM / Machinist identifies and engages a third
+
+party Indian manufacturer to manufacture the pattern and tools which are then delivered to
+tke applicant on behalf of the overseas OEMs/Machinists (since the ownership of tools lie with
+
+NO REM! Machinists), for use in manufacture of camshaft prototype. Therefore, the applicant
+
+PAN alf of the overseas OEMs/Machinists, not only identifies third party vendors who can
+
+=,\]
+! manufacture the pattern and tools as per the design/drawings, but also explains and closely
+O78) works with third party manufacturer to develop the patterns and tools thereby engaging with
+
+Saal sey ird party manufacturers for supply of tools.
+58 dew of the entire process submitted by the applicant, we find that the applicant is not only providing
+wTRA SS SYA, services to the overseas OEMs/Machinists, but they also actively identify and closely engage with third party
+vendors on behalf of the overseas OEMs/Machinists. The supply in the instant case consists only of service
+and there is no supply of goods. Such supply of services appears to be that of an intermediary service and,
+therefore, we now discuss the relevant provisions of the GST Laws.
+5.9 The term ‘intermediary’ is defined under Section 2(13) of the IGST Act, 2017 as under:-
+
+“intermediary” means a broker, an agent or any other person, by whatever name called, who
+
+Re
+
+arranges or facilitates the supply of goods or services or both, or securities, between two or
+more persons, but does not include a person who supplies such goods or services or both or
+securities on his own account”
+
+5.10 The Applicant is located in India and in the subject case, in respect of patterns and tools, the
+applicant represents it’s overseas OEMs/Machinist as their representative. The applicant actively
+identifies and closely engages with third party vendors, for manufacture of patterns and tools;
+by such third party vendors (on behalf of the overseas OEMs/Machinist). Thus, the applicant is
+effectively connecting the third party vendors in India with the requirements of its overseas
+OEMs/Machinist.
+
+5.11 We now refer to Circular No. 159/15/2021-GST dated 20.09.2021 issued by the CBIC. One of the
+primary requirement, for intermediary services as per the Circular is the existence of three
+
+Page 9 of 11
+S
+
+
+parties in a transaction. In the subject case there are three parties, namely, the applicant, its
+overseas OEMs/Machinist and the third party vendors/manufacturers.
+
+5.12 Further, two services are envisaged in the case of intermediary services, namely, (1) Main
+supply, between the two principals, which can be a supply of goods or services or securities and
+(2) Ancillary supply, which is the supply of service of facilitating or arranging the main supply
+between the two principals where the ancillary supply is supply of intermediary service and is
+clearly identifiable and distinguished from the main supply.
+
+5.13 In the subject case the main supply would be supply of tools and patterns to the overseas
+customers by the third party vendors, which is not actually happening physically since the tools
+and patterns are moving from the third party vendors directly to the applicant. Such movement
+of goods to the applicant appears to be on behalf of the overseas vendors because the
+ownership of the tools and patterns is with such overseas vendors as submitted by the
+applicant. Secondly the ancillary supply would be the supply of designs and drawings of the
+patterns and tools by the applicant, on behalf of the overseas customers to third party vendor/s
+and also the activity of identifying the third party vendors who can manufacture the pattern and
+tools as per the design/drawings (requirements) and explaining and closely working and
+engaging with such third party manufacturer to develop the patterns and tools.
+
+5.14 Further, it is very clear from the applicant’s submissions that they are not providing any services
+on its own account. The designs are provided to the third party vendors on behalf of the
+overseas customers of the applicant. The service provided by them is to their overseas
+customers and as per the requirements and directions of its overseas principals.
+
+5.15 Thus the applicant is satisfying all the conditions of an intermediary and we have no hesitation
+in holding that, the applicant is supplying intermediary services as per the relevant provisions of
+the IGST Act, 2017.
+
+06. In view of the extensive deliberations as held hereinabove, we pass an order as follows:
+
+ORDER
+(Under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods and
+Services Tax Act, 2017)
+
+For reasons as discussed in the body of the order, the questions are answered thus —
+
+Question: - Whether the activity of design and development of patterns used for manufacturing of
+camshafts, for a customer is a composite supply, the principal supply being supply of
+services?
+
+Answer :- The activity of design and development of patterns used for manufacturing of
+
+camshafts, for a customer is a supply of service in the form of intermediary services.
+
+Ww ()
+ars Vomancn &:
+
+IV MAGOO TR-RAMNANI
+(MEMBER) (MEMBER)
+
+Page 10 of 11
+
+
+Copy to:-
+1. The applicant
+
+2. The concerned Central / State officer
+
+3. The Commissioner of State Tax, Maharashtra State, Mumbai
+
+4. The Pr. Chief Commissioner of Central Tax, Churchgate, Mumbai
+5. The Joint Commissioner of State Tax, Mahavikas for Website.
+
+Note:- An Appeal against this advance ruling order shall be made before, The Maharashtra Appellate
+Authority for Advance Ruling for Goods and Services Tax, 15" floor, Air India Building, Nariman Point,
+Mumbai — 400021. Online facility is available on gst.gov.in for online appeal application against order
+
+\ Page 11 of 11

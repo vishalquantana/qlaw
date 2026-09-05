@@ -1,0 +1,473 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+(constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri B. V. Borhade, Joint Commissioner of State Tax
+(2) Shri Pankaj Kumar, Joint Commissioner of Central Tax
+
+GSTIN Number, if any/ User-id 27AAECS8719B1ZC
+
+Legal Name of Applicant Sterlite Technologies Limited
+
+Registered Address/ Address provided while | 1, £2,E3, MIDC WALUJ,
+
+obtaining user id AURANAGABD,
+MAHARASTHTRA -431136.
+
+Details of application GST-ARA, Application No. 41 Dated 19.06.2018
+
+Concerned officer Dy. Commissioner of State Tax (AUR-VAT-E-003),
+AURANGABAD
+
+Nature of activity(s) (proposed / present) in
+
+respect of which advance ruling sought
+
+A Category Factory / Manufacturing, Works Contract
+
+B Description (in brief) The Company is engaged in manufacturing of products
+which inter alia includes preform, Optic Fibre ("OF")
+and Optic Fibre Cable ("OFC").
+
+Issue/s on which advance ruling required (iv) admissibility of input tax credit of tax paid or deemed to
+have been paid.
+(v) determination of the liability to pay tax on any goods
+or services or both
+
+Question(s) on which advance ruling is | As reproduced in para 02 of the Proceedings below.
+
+required
+
+PROCEEDINGS
+
+(under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+The present application has been filed under section 97 of the Central Goods and Services
+Tax Act, 2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as
+“the CGST Act and MGST Act”] by Sterlite Technologies Limited, the applicant, seeking an
+advance ruling in respect of the following questions :-
+Tt: Whether the Applicant is required to separately discharge GST on the excess length of OF
+
+although the cost of such excess length is already included in the price charged to independent
+customers?
+
+125 Whether the Applicant is required to separately discharge GST on the excess length of OF
+although the cost of such excess length is already included in the price charged to distinct persons
+in terms of Schedule | provisions?
+
+BS & If GST is not payable separately on the excess length, whether the Company is required to reverse
+proportionate credit to the extent of supply such excess length?
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and
+the MGST Act are the same except for certain provisions. Therefore, unless a mention is
+specifically made to such dissimilar provisions, a reference to the CGST Act would also mean a
+reference to the same provision under the MGST Act. Further to the earlier, henceforth for the
+purposes of this Advance Ruling, a reference to such a similar provision under the CGST Act /
+
+MGST Act would be mentioned as being under the “GST Act”.
+
+
+
+ge ae ee
+\ % Na fF
+S74 weit YY
+Wil ame A
+
+02. FACTS AND CONTENTION - AS PER THE APPLICANT
+
+STATEMENT OF THE RELEVANT FACTS HAVING A BEARING ON THE QUESTION(S) ON WHICH
+THE ADVANCE RULING IS REQUIRED
+
+1. This Application is being preferred by Sterlite Technologies Limited, Maharashtra ("Company'/
+“Applicant"), a company incorporated in India under the provisions of the Companies Act, 1956 having
+its registered office at E-1, E-2,E-3, MIDC Waluj, Aurangabad-431136, Maharashtra, India.
+
+2. The Applicant is engaged in providing goods and services which qualify as ‘supply’ as per provisions
+of the Central Goods and Service Tax Act, 2017 ("CGST Act") and is duly registered thereunder
+bearing GSTIN 27AAECS8719B1ZC.
+
+3. The Company is engaged in manufacturing of products which inter alia includes preform, Optic Fibre
+("OF") and Optic Fibre Cable ("OFC"). The process flow for manufacturing OFC involves manufacture
+of preform which is used for manufacture of OF and such Of is then used for manufacture of OFC.
+Diagrammatic presentation of the OFC manufacturing process is as under:
+
+Step! Step II Step Ill Step IV
+Silica tube, Sic14, . i
+GeCl4, Silica Rod Optical Element Optic lg
+Helium, Chlorine, Silica Glass Fiber Cable
+H2 N2, 02 Preform
+
+4. The OF as manufactured by the Applicant is supplied to its units located in Rakholi and Dadra as well
+as to third party customers on payment of appropriate GST. Such OF is then further used for
+manufacture of OFC.
+
+5. Itis pertinent to note here that owing to global standard practices, OF is strictly required to be used in
+specified lengths (e.g. in the multiples of 2.1 kilometre/2.2 kilometre). However, due to practical
+challenges explained herein below it is not feasible to manufacture the OF at the exact length of
+standard specification:
+
+a. Speed of the machine: - The Of while being manufactured and winded around a spool moves at a
+higher velocity and identifying the exact length is a technical challenge.
+
+b. Precautionary measures: - The loose ends of the OF are vulnerable to damages and loss of
+necessary characteristics. Thus, if the Of is manufactured and winded up in exact length, any
+damage to the loose ends would render entire length OF in the spool unusable owing to shortfall
+in maintaining standard length.
+
+6. To overcome these practical challenges whilst ensuring that of manufactured by STL retains its
+minimum required length, each lot of OF is manufactured and supplied with marginally surplus length
+(e.g. 1-2 meter surplus length in a spool that ought to contain Of in multiples of 2.1 kilometre in length).
+The practice to manufacture and supply of in excess length is a standard practice across industry and
+all the supplies being made (both to STL's unit in Rakholi and Dadra as well as third party customers).
+
+7. Usable length of OF (in multiples of 2.1 km/4.2 km) which is mentioned on the invoice (which the
+customer has placed an order and agreed to pay) is considered as ‘usable quantity’ whereas the
+actually supplied quantity (which is marginally surplus than the standard length-not usable) is known
+as ‘delivered quantity’. Customers of the Company are entitled to avail Input Tax Credit ("ITC") of GST
+charged on OF which also includes the cost of excess length. The customers sell the non-usable/not
+marketable OF as scrap on payment of applicable GST.
+
+8. Itis pertinent to note that the price charged to the customers has been arrived for delivered quantity
+keeping in mind the usable quantity. That is to say, price for the usable quantity is arrived at by including
+cost of manufacturing excess length on which the GST liability has been discharged
+
+9. However, owing to absence of any consideration earmarked for difference between delivered quantity
+and usable quantity in case of supplies made to independent customers, dispute may arise with respect
+to correctness of the Transaction value and provisions of Central Goods and Services Tax Rules, 2017
+("CGST Rules”) concerning valuation of supply to include cost of manufacturing excess length in the
+ransaction Value to determine assessable value may be invoked.
+
+
+10. Further, since supply of OF to its own units in Dadra and Nagar Haveli is treated as supply between
+distinct persons, the assessable value is determined under Rule 28(a) of the CGST Rules based on
+‘Open Market Value’ which is independent of cost incurred for manufacture of excess length. In other
+words, as long as the open market value is available and is not disputed, cost of manufacturing excess
+length is immaterial to arrive at the assessable value.
+
+11. However, for the identical reason of absence of any price being earmarked for excess length of OF
+and in view of the provision of Entry No. 2 of Schedule 1 of the CGST Act which provides to treat a
+transaction between distinct persons as a ‘supply’ even in absence of any consideration, there is
+possibility that the ‘open market value’ arrived at for delivered quantity, which inter alia includes cost
+of excess length, would be disputed.
+
+12.Given the above background, present application is being preferred before the Hon'ble Authority for
+Advance Ruling to clarify whether the cost of excess length of 'OF' is required to be included in the
+Transaction Value for the purpose of charging GST in spite of the fact that the cost of such excess
+length is already included in the standard price charged to the customers.
+
+Without going into the detailed submissions of the applicant we find that the department has
+opposed the admission of the application under section 98 of the GST Act statin that the
+question raised in the application is already pending before the department as an Anti-
+Evasion investigation is already underway against the applicant on the same issue.
+
+04. CONTENTION AND OBJECTIONS TO ADMISSION OF THE APPLICATION- AS
+PER THE CONCERNED OFFICER
+
+The jurisdictional Officer Assistant Commissioner (Preventive) GST & Central Excise,
+Aurangabad, vide letter dated 12" July, 2018 has submitted factual details before this authority about the
+investigation being undertaken by them on the same issue as raised by the applicant in their Advance Ruling
+Application. However the full facts and details of the investigation are not being reproduced here for the
+sake of confidentiality of investigation proceedings. However only relevant paras with respect to initiation
+of proceedings is reproduced below:-
+
+“At the outset it is to submit that the issues for determination raised by the taxpayer has
+been placed before Authority of Advance Ruling, only after initiation of investigation by the
+preventive officers of GST Commissionerate, Aurangabad on the basis of searches conducted
+on 02.04.2018 and 03.04.2018 and consequent follow-up actions conducted by the department
+including statements of the key persons recorded under Section 70 of the CGST Act, 2017.
+
+In this connection, your attention is invited towards proviso to Section 98 of the CGST
+Act, 2017, (similar provision has been given in proviso to Section 98 of the Maharashtra GST Act,
+2017), wherein it is specifically provided that "the Authority for Advance Ruling shall not admit
+the application where the question raised in the application is already pending or decided in any
+proceedings in the case of an applicant under any of the provisions of this Act”.
+
+In view of the express provisions given in the CGST Act, 2017 and Maharashtra GST Act,
+2017, the application submitted by the taxpayer before the Authority for Advance Ruling, shall
+not be entertained and deserved to be rejected out rightly at the admission stage only.”
+
+Further, during the course of investigation, an intimation under letter dated 23.05.2018
+was received from M/s Sterlite, wherein it is mentioned that in continuation to the statement dated
+16.05.2018 of Shri C.S. Kali they are submitting a statement of reversal of ITC credit availed
+wrongly during the period from July 2017 to April 2018. In the said letter, it is mentioned that they
+have reversed an amount of Rs. 3,14,56,050/- along with interest of Rs. 24,73,379/- and
+submitted the detailed work-sheet of entries against which they availed irregular ITC.
+
+It is also pertinent to mention here that the taxpayer at nowhere in the invoices
+issued have mentioned that the cost of excess length is already included in prices charged
+to customers. The prices charged to the customers are as per purchase orders placed by
+customers and only towards the invoiced quantity and not for excess lengths.
+
+This is issued with the approval of the Joint Commissioner (Preventive), GST & Central
+Excise, Aurangabad.
+
+
+
+Joint Commissioner (Preventive) GST & Central Excise, Aurangabad has submitted report vide letter dated
+24.07.2018
+
+Please refer to this office letter of even number dated 12.07.2018 on the above subject.
+
+At the outset it is to submit that the issues for determination as raised by the taxpayer has
+been placed before Authority of Advance Ruling, only after initiation of investigation by the
+preventive officers of GST Commissionerate, Aurangabad on the basis of searches conducted
+on 02.04.2018 and 03.04.2018 and consequent follow-up actions conducted by the department
+including statements of the key persons recorded under Section 70 of the CGST Act, 2017.
+
+In this connection, your attention is invited towards proviso to Section 98 of the CGST Act,
+2017, (similar provision has been given in proviso to Section 98 of the Maharashtra GST Act,
+2017), wherein it is specifically provided that "the Authority for Advance Ruling shall not admit
+the application where the question raised in the application is already pending or decided
+in any proceedings in the case of an applicant under any of the provisions of this Act”.
+
+In view of the express provisions given in the CGST Act, 2017 and Maharashtra GST Act,
+2017, the application submitted by the taxpayer before the Authority for Advance Ruling, shall
+not be entertained and deserved to be rejected outrightly at the admission stage only.
+
+Further, the taxpayers is required to declare before Authority of Advance Ruling, in para
+17 of form GST ARA-01 that whether question raised in the application is already pending or
+decided in any proceedings in applicant's case under any provisions of the Act. The fact that the
+case has been booked against the taxpayer on the said issue in the month of April 2018 i.e. well
+before making this application, which is under investigation, needs to be co-related with the
+declaration submitted by the taxpayer in form GST ARAO1. The admissibility of the application
+may be dealt with accordingly and any mis-declaration made by the taxpayer may be taken up
+as per provisions of the Act.
+
+It is also pertinent to mention here that the taxpayer at nowhere in the invoices
+issued have mentioned that the cost of excess length is already included in prices charged
+to customers. The prices charged to the customers are as per purchase orders placed by
+customers and only towards the invoiced quantity and not for excess lengths.
+
+It is imperative to mention here that though the taxpayer falls under the administrative
+control of State of Maharashtra, the searches were conducted on the basis of specific information
+and necessary investigation is underway. The statements of the key persons in this regard have
+been recorded under the provisions of CGST Act, 2017 read with Central Excise Act, 1944.
+
+It is also imperative to mention that this office is investigating issues which are pre-GST
+as well as post GST. As such, the advance ruling authority has no jurisdiction over pre-GST
+issues.
+
+In the backdrop that the taxpayer has filed application before Authority for Advance
+Rulings, Mumbai where only the State Tax, Maharashtra has been mentioned as party. It appears
+that the matter, if decided without the contention, comments of the CGST Aurangabad
+Commissionerate, i.e. the office which is carrying out investigation on the issue and not yet a
+party to the issue, may not sound prudent.
+
+In view of the above, it is requested that the Assistant Commissioner (Preventive), CGST
+Commissionerate, Aurangabad may be made a party to the subject issue and comments / views
+may be taken before deciding the issue.
+
+This is issued with the approval of the Commissioner, GST & Central Excise, Aurangabad.
+Further, Dy. Commissioner of State Tax, Large Tax Unit, (AUR-VAT-E-003) Aurangabad
+
+Division, Arangabad has submitted following report.
+
+Mis Sterlite Technologies Ltd (GSTIN 27AAEC58719BIZC) has applied in form GST ARA 01 for
+Advance Ruling under section 98 (CGST ACT 2017) before Hon. Authority for Advance Rulling,
+Maharashtra, Mumbai on 19th june 2018. The hearing is sheduled for acceptance or rejection of
+aid application,on17/07/2018. Being the Jurisditional oflicer (DCST-AUR-VAT-E003.
+
+4
+
+
+
+Aurangabad) | am directed to attend for primary hearing and represent the case with Legal
+submission.
+
+In this regard the Taxpayer, M/s Sterlite Technologies Ltd (GSTIN 27AAEC58719BIZC)
+was communicated and asked to attend to this office, with relevant record. In response, Mr.
+Sonwane Revnath Sudhakar (Associate Manager) Indirect laxation, Sterlite Technologies Ltd
+Aurangabad, attended on 03/07/2018 and briefed about the case. During the hearing, Mr.
+Sonware submitted that their Waluj & Shendra manufacturing units were searched by the Central
+GST office Aurangabad during 2/4/2018 to 3/4/2018. Mr. Sonwane explained about the
+Manufacturing process of optic fiber and optic fiber cable. He also explained the issue of mis-
+declaring the quantity of goods by under declaring the same in the invoices issued.
+
+As, Mr. Sonwane Associate Manager of Sterlite Technologies Ltd provided the information
+of search undertaken by Central GST office, Aurangabad: to ascertain the facts, | wrote letter to
+Hon. Joint Commissioner (Preventive) GST and Central Excise. Aurangabad. In this regard, in
+the reply, | received a letter from Mr. A.G. Sable, Assistant Commissioner (Preventive) GST and
+Central Excise, Aurangabad and he furnished the information about the investigation action taken
+during 02/04/2018 to 03/04/2018 by Central GST office. Hence, it is clear that M/s. Sterlite
+Technologies Ltd. (GSTIN k7AAEC58719BIZC) has applied in Form GST ARA 01 before Hon.
+Authority for Advance Ruling only after initiation of investigation by the Preventive officers of
+CGST office, Aurangabad on basis bf searches conducted on 02/04/2018 and 03/04/2018.
+
+Hon. Sir, in this connection, your attention is invited towards proviso to Section 98 of the
+CGST ACT 2017 (similar provision has been given in proviso to section of the Maharashtra GST
+Act 2017) wherein specially provided that "The Authority for Advance Ruling shall not admit the
+application where the question raised in the application is already pending or decided in any
+proceedings in the case of an applicant under any of the provisions of this Act".
+
+In view of provisions given in the CGST Act 2017, and Maharashtra GST Act 2017, the
+application submitted by M/s. Sterlite Technologies Ltd. Before Hon. Authority for Advance Ruling
+
+shall be rejected at the admission stage only.
+
+04. HEARING
+
+The case was taken up for preliminary hearing on dt. 17.07.2018 with respect to
+admission or rejection of the application when Sh. Rohit Jain, Advocate appeared and stated that
+he was not completely ready with respect to arguments for admissibility of application and
+requested for another date of hearing for making oral and written submissions with respect to
+admissibility. Jurisdictional Officer Sh. Ravinder Jogdand , Dy. Commr. S.T. (AUR-VAT-E-003)
+Aurangabad appeared and made written submissions. The Preliminary hearing for admission
+or rejection as requested by the applicant earlier as above is again held on 01.08.2018 wherein
+Sh. Rohit Jain, Advocate appeared and made oral & written submissions. As per request of Joint
+Commissioner (Preventive) GST & Central Excise, Aurangabad an opportunity for representation and hearing is
+granted to them also before deciding the issue with respect to admission or rejection of application.
+
+As requested opportunity to present their side of the case was granted to CGST
+Commissionerate, Aurangabad wherein Sh. Sandeep Vaichal Supt. Appeared on 28.08.2018 and
+made written submissions and stated that the department is investigating the matter on the same
+
+issue for which advance ruling application is made by the applicant.
+
+
+
+05. OBSERVATIONS
+
+We have gone through the facts of the case and the written submissions made by both, the
+applicant and the departmental authority. We find that
+
+1. The Company is registered person under GST Act and engaged in manufacturing of products which
+inter alia includes preform, Optic Fibre ("OF") and Optic Fibre Cable ("OFC"). The optical fibre (OF)
+as manufactured by the Applicant is supplied to its units located in Rakholi and Dadra as well as to
+third party customers on payment of appropriate GST. Such OF is then further used for manufacture
+of OFC.
+
+2. The applicant submitted that supply of usable length of OF (in multiples of 2.1 km/4.2 km) which is
+mentioned on the invoice (which the customer has placed an order and agreed to pay) is considered
+as ‘usable quantity’ whereas the actually supplied quantity (which is marginally surplus than the
+standard length-not usable) is known as ‘delivered quantity’. Customers of the Company are entitled
+to avail Input Tax Credit ("ITC") of GST charged on OF which also includes the cost of excess length.
+The customers sell the non-usable/not marketable OF as scrap on payment of applicable GST.
+
+3. The applicant submitted that ,it is pertinent to note here that owing to global standard practices, OF is
+strictly required to be used in specified lengths (e.g. in the multiples of 2.1 kilometre/2.2 kilometre).
+However, due to practical challenges explained herein below it is not feasible to manufacture the OF
+at the exact length of standard specification.
+
+4. We find that various hearings with respect to admission or rejection of the application have been held
+on various dates and details of the same are already produced above.
+
+5. During the course of hearing, we find that jurisdictional officers have raised the objection with regard
+to admission of this advance ruling application and requested that it is to be rejected as the same issue
+is pending before the investigation authority on the same questions as raised in the application put
+forth before ARA Authority. In connection to the same the officers have invited our attention towards
+proviso to Section 98 of the CGST Act, 2017, (similar provision has been given in proviso to
+Section 98 of the Maharashtra GST Act, 2017), wherein it is specifically provided that "the
+Authority for Advance Ruling shall not admit the application where the question raised in the
+application is already pending or decided in any proceedings in the case of an applicant under
+any of the provisions of this Act” and further stating that in view of the express provisions
+given in the CGST Act, 2017 and Maharashtra GST Act, 2017, the application submitted by
+the taxpayer before the Authority for Advance Ruling, shall not be entertained and deserved
+to be rejected out rightly at the admission stage only.
+
+6. We find from submission of jurisdictional authority that applicant's place of business i.e. manufacturing
+units at Waluj & Shendra were searched by the Central GST office Aurangabad during 2/4/2018 to
+3/4/2018. We find that further inquiry and investigation proceedings by the preventive officers of GST
+Commissionerate, Aurangabad on the basis of searches conducted on 02.04.2018 and 03.04.2018,
+have also been undertaken in the form of follow-up actions the department including statements of
+the key persons recorded under Section 70 of the CGST Act, 2017.
+
+7. We find that the applicant in their oral submissions before this authority has admitted to
+initiation of these proceedings against them by the department and have not denied initiation
+weet f these proceedings. However in their oral and written submissions their only contentions is
+
+6
+
+
+
+that no proceedings for denial of admission of the ARA application can be stated to be initiated
+against them until Show Cause Notice in this respect has been issued to them.
+
+8. However the contentions of the applicant are not sustainable in view of there being no
+difference with regard to the fact that searches were conducted against the applicant on
+02.04.2018 and 03.04.2018 on the same issue as raised in the application and consequent
+follow up actions against them have also been conducted by the department as part of the
+investigations including recording of statements of key persons under Section 70 of the GST
+Act, 2017.
+
+9. The contention of the applicant that no proceedings can be stated to have been initiated
+against them until Show Cause Notice is issued to them is not tenable in view of the very
+clear position that Show Cause Notice is a form of charge memo/charge sheet filed which is
+a culmination of inquiry and investigations that have been undertaken in the case.
+
+10. In view of the detailed factual position in respect of present case put before us it is very clear
+that proceedings under the relevant provisions of this Act are initiated in respect of the
+application prior to their filing of this application for Advance Ruling.
+
+11. We find that Section 98 of the CGST Act provided as under:
+
+Section 98- Procedure on receipt of application 98. (1) On receipt of an application, the
+Authority shall cause a copy thereof to be forwarded to the concerned officer and, if
+necessary, call upon him to furnish the relevant records:
+
+Provided that where any records have been called for by the Authority in any case,
+such records shall, as soon as possible, be returned to the said concerned officer.
+
+(2) The Authority may, after examining the application and the records called for and after
+hearing the applicant or his authorised representative and the concerned officer or his
+authorised representative, by order, either admit or reject the application:
+
+provided that the Authority shall not admit the application where the question raised in the
+application is already pending or decided in any proceedings in the case of an applicant under
+any of the provisions of this Act:
+
+Provided further that no application shall be rejected under this sub-section unless an
+opportunity of hearing has been given to the applicant:
+
+Provided also that where the application is rejected, the reasons for such rejection shall be specified
+in the order.
+
+12. Thus the application filed by the applicant is not maintainable as per the provisions of Section
+98 of the CGST Act, as proceedings are already initiated against them before the filing of
+their present application.
+
+13. The various case laws referred to by the applicant in their submissions are in different context
+and are therefore not relevant in the present proceeding before this authority. The provision
+in the law is very clear ,and intention of the law is that if proceedings are pending before any
+authority on the same issue the application would not be taken up by this authority.
+
+
+
+14. In view of above facts, we are of the opinion and come to the conclusion as per the facts of
+the case that the applicant's application is liable for rejection as per proviso to section 98 (2)
+of the CGST Act referred above and therefore cannot be entertained by this authority and is
+accordingly rejected being non-maintainable
+
+ORDER
+
+(under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+NO.GST-ARA- 41/2018-19/B- —-\\ 2— Mumbai, dt. )2+C93- 2015
+For reasons as discussed in the body of the order, the subject application for advance
+
+ruling made by the applicant is rejected under the provisions of sub-section 2 of Section 98 of the
+
+CGST Act, 2017.
+
+— 3 —a
+B. V. BORHADE PANKAJ KUMAR
+
+(MEMBER) (MEMBER)
+
+Copy to:-
+1. The applicant
+
+2. The concerned Central / State officer
+3. The Commissioner of State Tax, Maharashtra State, Mumbai
+4, The Chief Commissioner of Central Tax, GST & Central Excise, Churchgate, Mumbai
+
+Note :-
+
+Appeal against this order would lie to The Maharashtra Appellate Authority for Advance
+Ruling for Goods and Services Tax, 15 floor, Air India building, Nariman Point, Mumbai -
+
+400021.
+
+CERTIFIED TRUE Copy

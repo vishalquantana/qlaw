@@ -1,0 +1,1019 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+(Constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri B. Timothy, Addl. Commissioner of Central Tax, (Member)
+(2) Shri B. V. Borhade, Joint Commissioner of State Tax,( Member)
+
+GSTIN Number, if any/ User-id 27AADCT2652D1ZK
+
+Legal Name of Applicant TELSTRA TELECOMMUNICATION PVT.LTD.
+
+Registered Address/ Address provided while | B-WING,UNIT NO.4, TIMES SQUARE BUILDING, -
+
+obtaining user id 3rd FLOOR, =, = ANDHERI KURLA ROAD,
+ANDHERI(EAST), MUMBAI-400059
+
+Details of application GST-ARA, Application No. 82 Dated 01.10.2018 |
+
+Concerned officer Dy. Commissioner of State Tax  (e-638),
+
+Large Tax Unit-4, Mumbai
+
+Nature of activity(s) (proposed / present) in
+respect of which advance ruling sought
+
+A Category Service Recipient
+B Description (in brief) Internet Connectivity Service
+Issue/s on which advance ruling required (iv) admissibility of input tax credit of tax paid or deemed to
+
+have been paid.
+(v) determination of the liability to pay tax on any goods
+or services or both
+
+Question(s) on which advance ruling is | As reproduced in para 02 of the Proceedings below.
+
+required
+
+PROCEEDINGS
+
+(Under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+The present application has been filed under section 97 of the Central Goods and Services
+
+Tax Act, 2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as
+
+of supply, where the leased circuit is installed in more than one State and the value for service
+cannot be determined in absence of a contract, shall be on such other basis as prescribed i.e. the
+same would be the location of recipient of service.
+
+b) In a case where the location of the service provider on pan India basis is Delhi and that of the
+recipient is Mumbai whether in the facts and circumstances, it would be Integrated tax that would
+be chargeable since no rules have been prescribed pursuant to Sec 12(11)(d) as aforesaid and
+therefore whether it would be in order for the recipient to take credit of such Intergraded tax since
+the said services are used in the course or furtherance of business namely provision of last mile
+
+connectivity services to the recipient of services.
+
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and
+the MGST Act are the same except for certain provisions. Therefore, unless a mention is
+specifically made to such dissimilar provisions, a reference to the CGST Act would also mean a
+reference to the same provision under the MGST Act. Further to the earlier, henceforth for the
+purposes of this Advance Ruling, a reference to such a similar provision under the CGST Act /
+MGST Act would be mentioned as being under the “GST Act”.
+
+02. FACTS AND CONTENTION - AS PER THE APPLICANT
+
+The submissions, as reproduced verbatim, could be seen thus-
+2. Facts of the Case:
+
+21 The Applicant is primarily engaged in providing internet connectivity services. It has been granted
+a license by the Department of Telecommunications in this regard. As a part of the internet
+connectivity services, the customers may also mandate the Applicant to provide colocation services
+and leasing of certain customer premises equipment i.e. routers, modems, etc.
+
+2.2 In order to provide the connectivity services, the Applicant has leased various PoP (Point of
+presence) across different states in India. The arrangement to provide the last mile connectivity
+service can be understood with the help of below example:
+
+A customer comes with a request to connect one of his office located in a particular State to another
+office located in a different State. The data is transferred from the Customer premises equipment
+(CPE) located at customer's end to the nearest POP of the Applicant through leased lines owned by
+third party. The Applicant enters into a contract with leased circuit/ leased line owner to provide
+the said service. From the POP of the Applicant located nearest to designated location, data is
+directed and transferred through leased line to the final destination.
+
+{he Applicant decides to lease a PoP on the basis of the customer base in a particular State / zone
+f the country. Further the Applicant enters into a contract/ agreement with a third party vendor
+ho is providing leased circuit services across the country, such as Tata Teleservices, Bharti Airtel
+to provide the last mile connectivity service. A flow diagram is attached as Annexure A to
+lain how the service is rendered to the customer via POP of the Applicant located in a state to
+
+At the outset, the Applicant would like to submit that it has obtained registration in terms of Section
+22 (2) of the CGST Act. Consequently, the Applicant shall qualify as a 'registered person’ in terms
+of the CGST Act and the provisions of the CGST Act shall apply accordingly. The interpretation of
+applicable law with regard to the internet connectivity services provided by the Applicant is as
+follows:
+
+3.1 Registration requirement:
+
+3.1.1 The Applicant would like to submit that in terms of Section 22 of the CGST Act, a supplier is liable
+to be registered in the State from where he makes a taxable supply. In other words, the supplier is
+required to register in all the States which qualify as the location of the supplier.
+
+3.1.2 It is thus, essential to make a reference to the definition of location of supplier’ in terms of the CGST
+Act.
+
+3.2 Location of supplier of services:
+
+3.2.1 Section 2(71) of CGST Act, Location of supplier of services means:
+(a) where a supply is made from a place of business for which the registration has been obtained, the location
+of such place of business;
+(b) where a supply is made from a place other than the place of business for which registration ras
+been obtained (a fixed establishment elsewhere), the location of such fixed establishment;
+
+
+(c) where a supply is made from more than one establishment, whether the place of business or fixed
+establishment, the location of the establishment most directly concerned with the provisions of the supply;
+and
+
+(d) in absence of such places, the location of the usual place of residence of the supplier;
+
+3.2.2 In terms of Section 22(1) of CGST Act as mentioned above, a supplier is liable to take registration
+in the State from where he makes taxable supply of service. While in case of supply of internet
+connectivity service, it is not feasible to determine from where the supply is made since the data
+travels from one POP to another pop. This phenomenon is illustrated via a diagram showing the
+possible flow of data:
+
+ISP1
+i The Internet
+fer Si 7 Por ~
+
+PoP NN Por chao te
+
+PoP
+Individual Home User Business LAN User Individual Home User
+
+3.2.3
+
+ISP2
+
+Further, POP cannot be considered as fixed establishment. Fixed establishment as defined under Section
+2(50) of CGST Act means a place (other than the registered place of business) which is characterized by a
+sufficient degree of permanence and suitable structure in terms of human and technical resources to supply
+Kervices, or to receive and use services for its own needs. An internet POP typically houses servers,
+puters, network switches, multiplexers and other network interface equipment. It may not require
+ermanent human resources on site and are maintained electronically. Therefore, Pop may not
+qpalify as fixed establishment and thus may not be considered as location of supplier. A pictorial
+
+/opresentation of a typical POP is given below:
+
+POP
+
+LAN i
+'UTER IN INTERNET
+
+,U/DSU y
+usVER
+
+<t—
+
+Point to Point Internet Connection
+
+3.2.4 Considering the fact that it not feasible to determine location of supplier in case of supply of internet
+connectivity service under clause (a), (b) or (c), clause (d) of Section 2(71) has to be relied upon.
+Clause (d) of the said Section provides that the location of supplier shall be the usual place of
+residence of supplier, which in the case of company would be the place where the said Company
+is incorporated or registered.
+
+3.3 Place of Supply:
+
+
+334 It is imperative to determine the place of supply in order to charge the correct tax i.e, Central Tax
+and State Tax in case of intra-state supply or Integrated Tax in case of inter-state supply.
+
+3.3.2 Place of supply in case of telecommunications services including data transfer, broadcasting, cable
+and D2H television services has been provided under Section 12(11) of Integrated Goods and
+Services Tax Act, 2017 (hereinafter referred to as the IGST Act'), The same is reproduced below:
+
+Section 12(11) of Integrated Tax Act, 2017
+
+a) in case of services by way of fixed telecommunication line, leased circuits, internet leased circuit, cable or
+
+dish antenna, be the location where the telecommunication line, leased circuit or cable connection or dish
+
+antenna is installed for receipt of services;
+
+b) in case of mobile connection for teleconmunication and internet services provided on post-paid basis, be
+
+the location of billing address of the recipient of services on the record of the supplier of services;
+
+c) in cases where mobile connection for teleconmnunication, internet service and direct to home television
+
+services are provided on pre-payment basis through a voucher or any other means, -
+
+(i) through a selling agent or a re-seller or a distributor of subscriber identity module card or re-charge
+voucher, be the address of the selling agent or re-seller or distributor as per the record of the supplier
+at the time of supply; or
+
+(ii) by any person to the final subscriber, be the location where such prepayment is received or such
+vouchers are sold;
+
+d) in other cases, be the address of the recipient as per the records of the supplier of services and where
+such address is not available, the place of supply shall be location of the supplier of services:
+
+Provided that where the address of the recipient as per the records of the supplier of services is not available,
+the place of supply shall be location of the supplier of services:
+
+Provided further that if such pre-paid service is availed or the recharge is made through internet banking or
+other electronic mode of payment, the location of the recipient of services on the record of the supplier of
+services shall be the place of supply of such services.
+
+xplanation - Where the leased circuit is installed in more than one State or Union territory and a
+1solidated amount is charged for supply of services relating to such circuit, the place of supply of such
+Jices shall be taken as being in each of the respective States or Union territories in proportion to the value
+Mervices separately collected or determined in terms of the contract or agreement entered into in this regard
+
+ction 12 (11) of IGST Act as referred above determines the place of supply in case of
+Jelecommunication services. In order to confirm which provision of the aforementioned Section
+shall be applicable in the case of the Applicant, it would be necessary to make reference to each of
+the Clause referred above. Clause (a) of the said section helps to determine the place of supply in
+case of fixed telecommunication line, leased circuits, internet leased circuit, cable or dish antenna.
+Clause (b) provides for place of supply in case of mobile connection services for telecommunication
+and internet services on post-paid basis. Clause (c) provides for place of supply in case of mobile
+connection services for telecommunication, internet service and D2H television services on pre-
+
+paid basis.
+
+3.3.4 In the clauses referred above, internet connectivity service provided by Applicant is not covered
+and therefore the place of supply in case of internet connectivity service shall be determined in
+accordance with residual clause (d) of the said section. Clause (d) of Section 12(11) states that the
+place of supply in other cases i.e. in case the place of supply for telecom services cannot be
+determined in accordance with above clauses (clause a, b and c), shall be the address of recipient as
+on the records of supplier. Therefore, the place of supply in case of internet connectivity service
+would be determined on the basis of address of the recipient as per the records of the supplier, In
+case address of recipient is of a State other than location of supplier, it would be considered as inter-
+state supply, if it is in the same State then it will be considered as intra-state supply.
+
+Scenario 1: Applicant's location is Mumbai (Maharashtra), address on records of recipient is say
+Pune (Maharashtra), Central Tax and State Tax of Maharashtra shall be charged on such supply.
+
+Scenario 2: Applicant's location is Mumbai (Maharashtra), address on records of recipient is say
+Delhi (Delhi), Integrated Tax on such supply shall be charged.
+
+
+Keio) Having made the submissions relating to the place of supply for the outward supplies, it shall also
+be relevant at this stage to discuss the place of supply provisions for inward supplies. This is in
+light of the fact that ITC can be availed only in respect of the Central Tax and State Tax charged to
+the Applicant, where the place of supply is in the State where the Applicant is registered. With
+regard to the input services and the corresponding input tax credits which are the subject matter of
+the application, the Applicant states as follows:
+
+3.3.5.1 Leased circuits are one of the major input services required by Applicant to provide the connectivity
+service. The said input service is required to provide the internet connectivity at the customer's
+premises by connecting CPE (Customer Premises Equipment) installed at customer's location to the
+nearest POP (Point of Presence) of the Applicant. Hence without the leased circuits customer cannot
+be connected to the Pop of the Applicant and therefore the same becomes an important input
+service used by the Applicant in the course or furtherance of business i.e. for providing last mile
+internet connectivity service. Clause (a) of Section 12(11) of IGST Act, provides that place of supply
+in case of leased circuits shall be the place where leased circuits are installed for receipt of services.
+
+3.3.5.2. Explanation to Section 12(11)(d) provides that where leased circuit is installed in more than one
+state and a consolidated amount is charged for supply of services relating to circuit and there is ho
+agreement or contract to determine the value of services, the place of supply shall be on such other
+basis as may be prescribed.
+
+3.3.5.3 Incases where Applicant enters into a consolidated contract with the leased circuit provider located
+across India and it is not feasible for the Applicant to determine the value of service provided in a
+particular state in such case the place of supply would be determined in terms of Section 12(11)(d)
+of IGST Act. Further a reference can be made to the case of Suresh Kumar Bansal Versus Union of
+India (2016 (43) S.T.R. 3 (Del.)) wherein was held that if there is no mechanism to ascertain the value
+of a particular service, service tax cannot not be levied on the same. The principle which can be
+derived from this case is that if there is no procedure prescribed under a statue, the same would be
+considered as outside the levy of that particular statute. Hence, in case where place of supply cannot
+be determined as the statute has not prescribed a mechanism (explanation to Section 12 (11)(d)) the
+levy of tax whether CGST and SGST or IGST cannot be determined and therefore the particular
+service could be considered as outside the levy of tax. Alternatively a view can also be taken that
+case there is no prescribed mechanism in law then the residuary rule can be resorted to.
+
+Mince considering the alternative view, the residual clause can be referred to determine the place
+{supply in cases where vendor have leased circuit installed in multiple states and there is no
+yeypvision in the Agreement or Contract to determine the value of service attributable to each state,
+
+Ye place of supply as per residual clause (Section 12 (2)) shall be the location of registered
+
+Input tax credit
+The Applicant has leased multiple Pops across different states in India. Applicant has obtained
+registration of the premises in accordance with the provisions of Section 22 of CGST Act. It raises
+invoices to the customer from the State where it has been incorporated i.e. Mumbai (Maharashtra)
+which would be considered as location of supplier as discussed in above Para. Further on the basis
+of the address on records of the recipient (customer) which is the place of supply as determined
+above, the Applicant charges Central Tax and State Tax or Integrated Tax.
+
+3.4.2 The leased circuits to provide the last mile connectivity service are not owned by the Applicant.
+Applicant provides connectivity service through the bandwidth it has taken on the leased line
+operated by other internet service operators. Applicant avails leased circuit facility from third party
+local vendors to connect its PoP to the CPE installed at customer's premises. Place of supply in case
+of leased circuits is the place where leased circuits are installed and in case of a composite contract
+place of supply would be determined on such other basis as may be prescribed.
+
+3.4.3 Applicant wishes to submit that the Explanation to Section 12(11)(d) of IGST Act shall be relied
+upon in case of composite contract for leased circuit facility. The same is reiterated below:
+Explanation. --Where the leased circuit is installed in more than one State or Union territory and a
+consolidated amount is charged for supply of services relating to such circuit, the place of supply of such
+services shall be taken as being in each of the respective States or Union territories in proportion to the value
+for services separately collected or determined in terms of the contract or agreement entered into in this regard
+or, in the absence of such contract or agreement, on such other basis as may be prescribed.
+
+
+As discussed above, an inference can be drawn from the case of Suresh Bansal that the residual
+clause can be referred in case specific mechanism is not prescribed under law, therefore the place
+of supply in such case shall be the location of registered person. The implication of said provision
+can be understood with the help of below Scenario (3):
+
+Scenario 3: Applicant is located in Maharashtra and the customer is also located in Maharashtra
+therefore the applicant will charge CGST and SGST of Maharashtra. While the vendor providing
+leased circuit service is based in Haryana. In case the vendor determines place of supply in terms
+of Explanation to Section 12(11)(d), he may charge IGST (i.e. location of registered person which in
+the current scenario would be Maharashtra). Hence, the ITC of tax charged by vendor can be
+availed and utilized by Applicant.
+
+Connectivity Diagram - Internet Services
+
+Service Provider
+
+Edge Router Internet
+Customer
+Router
+Last Mile
+| Connectivity Inet
+up
+Customer Premises @ Service Provider End
+
+Legend :
+Last Mile - Service has been subscribed from Airtel/Tata to extend the physical connectivity from Service Provider POP
+to Customer Premises
+
+submission of applicant on 24.12.2018
+_on maintainability of Advance ruling
+
+d) admissibility of input tax credit of tax paid or deemed to have been paid;
+
+e) determination of the liability to pay tax on any goods or services or both;
+
+f) whether applicant is required to be registered;
+
+g) whether any particular thing done by the applicant with respect to any goods or services or both
+amounts to or results in a supply of goods or services or both, within the meaning of that term.
+
+2. In the present case, Applicant wishes to seek an advance ruling for determination of liability to
+pay tax on receipt of services. Subsequently, Applicant also wish to seek an advance ruling in
+relation to admissibility of input tax credit of tax paid or deemed to have been paid.
+
+3. In light of the above, Applicant would like to submit that the question (e) as envisaged under
+Section 97(2) of CGST Act may also cover the situation where the recipient of may wish to seek
+an advance ruling in order to determine the tax liability on the goods or services received. Further,
+in the said question it is not specifically mentioned whether the advance ruling in relation to
+determination of tax liability on goods or services can be sought only by the applicant being
+service provider. Hence, giving a restrictive meaning to this question or limiting the scope only
+to the service provider shall be ultra vires the provisions of law and the same may not be the intent
+of the legislature drafting the law.
+
+4. In this regard, Applicant wish to submit that it is a well-established principle of interpretation
+
+that words cannot be added to interpret a provision when the language is unambiguous. Where
+6
+
+
+a provision is unambiguous, it has to be interpreted in the literal sense. The provision has to be
+read as it is and its meaning is to be derived from a plain reading of the provision. Also, words
+cannot be added in a provision or words cannot be read into it when such words are not there
+and have been deliberately left out.
+
+In this respect, Applicant wish to refer to the principle enunciated by the Supreme Court of India
+in State v. Parmeshwaran Subramani 2009 (242) E.L.T. 162 (S.C.) in a criminal appeal. The
+relevant extract of the decision is as follows:
+
+"15. In a plethora of cases, it has been stated that where, the language is clear, the intention of the
+legislature is to be gathered from the language used. It is not the duty of the court either to enlarge
+the scope of legislation or the intention of the legislature, when the language of the provision is
+plain. The court cannot rewrite the legislation for the reason that it had no power to legislate. The
+court cannot add words to a statute or read words into it which are not there. The court cannot,
+on an assumption that there is a defect or an omission in the words used by the legislature, correct
+or make up assumed deficiency, when the words are clear and unambiguous. Courts have to decide
+what the law is and not what it should be, The courts adopt a construction which will carry out the
+obvious intention of the legislature but cannot set at naught legislative judgment because such
+course would be subversive of constitutional harmony"
+
+5. Further, in case of B. Premanand v. Mohan Koikal (2011) 4 SCC 266 the Supreme Court
+observed that while interpreting a statute the basic principle of literal rule of interpretation has to
+be followed. The relevant extract of the decision is as follows:
+
+"9. It may be mentioned in this connection that the first and foremost principle of interpretation of
+a statute in every system of interpretation is the literal rule of interpretation. The other rules of
+interpretation e.g. the mischief rule, purposive interpretation etc, can only be resorted to when the
+plain words of a statute are ambiguous or lead to no intelligible results or if read literally would
+nullify the very object of the statute. Where the words of a statute are absolutely clear and
+unambiguous, recourse cannot be had to the principles of interpretation other than the literal rule,
+vide Swedish Match AB v. Securities and Exchange Board, AIR 2004 SC 4219."
+
+prce RU Wo
+%,
+
+S
+
+<<
+# Therefore, the legal position seems to be clear and consistent that it is the bounden duty and
+objigation of the court to interpret the statute as it is. It is contrary to all rules of construction to
+
+>
+ad words into a statute which the legislature in its wisdom has deliberately not incorporated.’
+
+"20. The provision of an Act is to be read in the manner as it exists in the statute book and it is a
+well settled principle in law that the court cannot read anything Into a statutory provision which is
+plain and uniarnbiguous. The language employed in a statute is determinative factor of legislative
+intent. If the language of the enactment is clear and unambiguous, it would not be proper for the
+courts to add any words thereto and evolve some legislative intent, not found in the statute. The
+court cannot add words to a statute, or change its language, in particular when on a plain reading
+meaning becomes clear.
+
+8. In Sri Jeyaram Educational Trust v. A. G. Syed Mohideen, AIR 2010 SC 671, the Apex Court
+while saying that a provision of statute should have to be read, as it is, ina natural manner plain
+and straight, without adding, substituting or omitting any words, held as under :- "While using
+the tools of interpretation, the Court should remember that it is not the author of the Statute who
+is empowered to amend, substitute or delete, so as to change the structure and contents. A Court
+as an interpreter cannot alter or amend the law. It can only interpret the provision, to make it
+meaningful and workable so as to achieve the legislative object, when there is a vagueness,
+ambiguity or absurdity. The purpose of interpretation is not to make a provision what the Judge
+thinks it should be, but to make it what the Legislature intended it to be."
+
+
+9. Thus, if the interpretation as drawn by the authorities is accepted, it would be a case of adding
+or deleting something from the provision, which is not permissible.
+
+Position under erstwhile regime:
+10. Under service tax regime, an application for advance ruling can only made by certain
+
+specified applicants as defined under Section 96A(b) of the Finance Act, 1994. Further, the
+application for advance ruling can be made in relation to following questions:
+
+(a) classification of any service as a taxable service under Chapter V;
+
+(b) the valuation of taxable services for charging service tax;
+
+(c) the principles to be adopted for the purposes of determination of value of the taxable service under the
+provisions of Chapter V;
+
+(d) applicability of notifications issued under Chapter V;
+
+(e) admissibility of credit of duty or tax in terms of the rules made in this regard;
+
+(f) determination of the liability to pay service tax on a taxable service under the provisions of Chapter V.
+
+11. The questions on which advance ruling can be sought under earlier regime is similar to the
+provisions under GST law except the purpose for which advance ruling can be sought and the
+definition of applicant, as defined under Finance Act, 1994. In service tax regime, the advance
+ruling can be sought by specified applicants who proposes to undertake any business activity in
+India; however, under GST regime advance ruling can be sought by an applicant for a proposed
+transaction or transaction already undertaken by the applicant.
+
+12. Under CGST Act, the word ‘applicant’ has not been defined unlike as defined under Finance
+Act, 1994, Therefore, an inference can be drawn that the word applicant would include the
+supplier or the recipient of goods or services.
+
+Rulings under GST:
+
+=s243 Applicant wish to refer to the following rulings where the authority of advance ruling has
+nced rulings sought by the recipient of goods or services:
+
+tNe Authority for Advance ruling- Madhya Pradesh Goods and Services Tax, in case of
+Madhya Pradesh Poorv Kshetra Vidyut Vitran Company Ltd (2018 TIOL-234-AAR-GST), the
+
+tid appli alt! as sought a ruling to know whether the benefit of concessional rate under a specified
+€ 5 Notiff{getibn would be applicable and determination of liability to pay tax on the work contract
+oS" seryicasfeceived by it.
+
+Rfasthan Authority for Advance ruling Goods and Services Tax in case of M/s Chambal
+
+eeflizers & chemicals Itd (2018-TIOL-161-AAR-GST), the appellant has sought ruling on the
+applicability of GST on Ocean freight charges on import of raw materials or fertilizers. The
+Authority for Advance ruling in the said case held that the applicant is liable for payment of IGST
+under reverse charge on Ocean freight charges for receipt of transportation service.
+
+(c) Maharashtra Authority for Advance Ruling in the case of Reliance infrastructure Limited
+(2018-TIOL-22-AAR-GST), has held that in light of the Notification No. 13/2017- Central Tax
+(Rate), the applicant would be liable to pay tax in respect of the services received from Municipal
+authorities and therefore the question in the said case for which advance ruling is sought shall be
+entertained. In the said ruling, authority of advance ruling has evaluated who can make an
+advance ruling application. However, in the said ruling, it is nowhere stated that the recipient
+cannot seek an advance ruling.
+
+(d) Rajasthan Authority for Advance Ruling in the case of M/s Umax Packaging (2018-TIOL-321-
+AAR-GST), has held that in case of 'Bill-to ship to' model the supplier can charge IGST from the
+recipient (bill to party) against which the recipient is eligible to claim Input tax credit.
+
+14. In view of the above rulings pronounced by advance ruling authorities, Applicant wish to
+submit that an applicant being the recipient of goods or services can seek an advance ruling under
+question (e) of Section 97(2) of CGST Act, 2017 i.e. determination of liability to pay tax on goods
+
+or services or both.
+8
+
+
+15. Therefore, Applicant humbly request the honorable authority of advance ruling to accept our
+application in light of the above submissions.
+
+Questions for which Advance ruling is sought in the present application:
+
+1. Applicant wishes to seek advance ruling in terms of Section 97(2)(e) of Central Goods and
+Services Tax Act 2017, "Whether the supplier is to charge Integrated Tax on supply of leased
+circuit facility to the Applicant, where the leased circuit is installed in more than one State or
+Union territory and the contract or agreement doesn't specifically provide the proportion of
+service provided in each state?"
+
+2. Applicant also wishes to seek advance ruling in terms of Section 97(2)(d) of CGST Act 2017, "If
+the answer to the above question is affirmative, can the Applicant avail Input Tax Credit of the
+tax charged by the supplier of leased circuit facility?"
+
+04. CONTENTION AND OBJECTIONS TO ADMISSION OF THE APPLICATION- AS PER
+
+THE CONCERNED OFFICER
+
+The submissions, as reproduced verbatim, could be seen thus-
+
+The dealer Telstra Telecommunication Pvt Ltd. GSTN 27AADCT2652D1ZK, made an online
+application for Advance ruling on GSTN portal.
+
+1. Question(s) on which Advance Ruling is required
+
+A. Whether in the facts and circumstances in the case of supply involving leased circuit services
+wherein a pan India contract for supply of such services is entered into without any State wise break up
+for the supply it would be in order for the supplier of such services to charge Integrated Tax (under IGST
+Act) pursuant to the Explanation to Section 12(11)(d) which provides that place of supply, where the leased
+circuit is installed in more than one State and the value for service cannot be determined in absence of a
+‘act, shall be on such other basis as prescribed i.e. the same would be the location of recipient of service,
+Ss In a case where the location of the service provider on pan India basis is Delhi and that of
+ient is Mumbai whether in the facts and circumstances, it would be integrated tax that
+chargeable since no rules have been prescribed pursuant to Sec 12(11)(d) as aforesaid
+theté¥ore whether it would be in order for the recipient to take credit of such Intergraded
+
+Section-95 (a). In this chapter, unless the context otherwise requires,
+
+a) "advance ruling" means a decision provided by the Authority or the Appellate Authority to an applicant
+on matters or on questions specified in sub-section (2) of section 97 or sub-section(1) of section 100, in
+relation to the supply of goods or services or both being undertaken or proposed to be undertaken by the
+applicant;
+
+Thus it is crystal clear from plain reading of above section that only supplier can apply for advance ruling
+in relation to the Supply of goods or services or both being undertaken or proposed to be undertaken by
+applicant. Hence recipient can not apply for advance being devoid of legal provision. Hence proposition
+(b) not maintainable before AAR
+
+Alternative Submission is as follows
+In respect of question A the levy and collection is governed by section 5 of IGST Act. The section 12 provides
+for place of supply of services were location of supplier and recipient is in India
+
+Section 12 of IGST Act,
+12. Place of supply of services where location of supplier and recipient is in India.
+
+(1) The provisions of this section shall apply to determine the place of supplier of services where the
+location of supplier of services and the location of the recipient of services is in India.
+
+
+(2) The place of supply of services, except the services specified in sub-sections (3) to (14),-
+1. made to a registered person shall be the location of such person;
+
+2. made to any person other than a registered person shall be, -
+
+(i) the location of the recipient where the address on record exists; and
+
+(ii) the location of the supplier of services in other cases.
+
+(3) The place of supply of services,
+
+b directly in relation to an immovable property, including services provided by architects, interior
+decorators, surveyors, engineers and other related experts or estate agents, any service provided by: way
+of grant of rights to use immovable property or for carrying out or co-ordination of construction work; or
+
+2; by way of lodging accommodation by a hotel, inn, guest house, home stay, club or campsite, by
+whatever name called, and including a house boat or any other vessel; or
+
+3. by way of accommodation in any immovable property for organising any marriage or reception or
+matters related thereto, official, social, cultural, religious or business function including services provided
+in relation to such function at such property; or
+
+4. any services ancillary to the services referred to in clauses. (a), (b) and (c), shall be the location at
+which the immovable property or boat or vessel, as the case may be; is located or intended to be located:
+
+Provided that if the location of the immovable property or boat or vessel is located or intended to be located
+outside India, the place of supply shall be the location of the recipient.
+
+Explanation.- Where the immovable property or boat or vessel is located in more than one State or Union
+territory, the supply of services shall be treated as made in each of the respective States or Union territories,
+in proportion to the value for services separately collected or determined in terms of the contract or
+agreement entered into in this regard or, in the absence of such contract or agreement, on such other basis
+as may be prescribed.
+
+~{4) The place of supply of restaurant and catering services, personal grooming, fitness, beauty treatment,
+a Ma service including cosmetic and plastic surgery shall be the location where the services. are actually
+
+ce of supply of services provided by way of admission to a cultural, artistic, sporting, scientific,
+Znal, entertainment event or amusement park or any other place and services ancillary thereto, shall
+place where the event is actually held or where the park or such other place is located.
+
+(7) The place of supply of services provided by way of, --
+1. Organisation of a cultural, artistic, sporting, scientific, educational or entertainment event including
+supply of services in relation to a conference, fair, exhibition, celebration or similar events; or
+
+2. services ancillary to organisation of any of the events or services referred to in clause (a), or assigning of
+sponsorship to such events,
+
+(i) to a registered person, shall be the location of such person;
+ii) to a person other than a registered person, shall be the place where the event is actually held and if the
+event is held outside India, the place of supply shall be the location of the recipient:
+
+Explanation. Where the event is held in more than one State or Union territory and a consolidated amount
+is charged for supply of services relating to such event, the place of supply of such services shali be taken
+as being in each of the respective States or Union territories in proportion to the value for services
+separately collected or determined in terms of the contract or agreement entered into in this regard or, in
+the absence of such contract or agreement, on such other basis as may be prescribed.
+
+(8) The place of supply of services by way of transportation of goods, including by mail or courier to,
+L a registered person, shall be the location of such person;
+ye a person other than a registered person, shall be the location at which such goods are handed over
+for their transportation,
+(9) The place of supply of passenger transportation service to -
+
+10
+
+
+a: a registered person, shall be the location of such person;
+ou a person other than a registered person, shall be the place where the passenger embarks on the
+conveyance for a continuous journey:
+
+Provided that where the right to passage is given for future use and the point of embarkation is not known
+at the time of issue of right to passage, the place of supply of such service shall be determined in accordance
+with the provisions of sub-section (2).
+
+Explanation. For the purposes of this sub-section, the return journey shall be treated as a separate
+journey, even if the right to passage for onward and return journey is issued at the same time.
+
+(10) The place of supply of services on board a conveyance, including a vessel, an aircraft, a train or motor
+vehicle, shall be the location of the first scheduled point of departure of that conveyance for the journey.
+
+(11) The place of supply of telecommunication services including data transfer, broadcasting, cable and
+direct to home television services to any person shall,
+
+1. in case of services by way of fixed telecommunication line, leased circuits, internet leased circuit, cable or
+dish antenna be the location where the telecommunication line, leased circuit or cable connection or dish
+antenna is installed for receipt of services;
+
+2. in case of mobile connection for telecommunication and internet services provided on post-paid basis, be
+the location of billing address of the recipient of services on the record of the supplier of services;
+
+3. in cases where mobile connection for telecommunication, internet service and direct to home television
+services are provided on pre-payment basis through a voucher or any other means, moms
+
+(i) through a selling agent or a re-seller or a distributor of subscriber identity module card or re-charge
+voucher, be the address of the selling agent or re-seller or distributor as per the record of the supplier at the
+time of supply; or
+
+vie electronic mode of payment, the location of the recipient of services on the record of the me
+eroighstivices shall be the place of supply of such services.
+
+Explanation.- Where the leased circuit is installed in more than one State or Union territory and a
+consolidated amount is charged for supply of services relating to such circuit, the place of supply of such
+services shall be taken as being in each of the respective States or Union territories in proportion to the
+value for services separately collected or determined in terms of the contract or agreement entered into
+in this regard or, in the absence of such contract or agreement, on such other basis as may be prescribed.
+
+(12) The place of supply of banking and other financial services, including stock broking services to any
+person shall be the location of the recipient of services on the records of the supplier of services:
+
+Provided that if the location of recipient of services is not on the records of the supplier, the place of supply
+shall be the location of the supplier of services,
+
+(13) The place of supply of insurance services shall,
+
+1 to. a registered person, be the location of such person;
+2: to a person other than a registered person; be the location of the recipient of services on the records
+
+of the supplier of services
+
+(14) The place of supply of advertisement services to the Central Government, a State Government, a
+statutory body or a local authority meant for the States or 'Union territories identified in the contractor
+agreement shall be taken as being in each of such States or Union territories and the value of such supplies
+specific to each State or Union territory shall be in proportion to the amount attributable to services
+provided by way of dissemination in the respective States or Union territories as may be determined in
+
+iW
+
+
+terms of the contract or agreement entered into in this regard or, in the absence of such contract or
+agreement, on such other basis as may be prescribed.
+
+13. Place or supply of services where location of supplier or location of recipient is outside India.
+
+(1) The provisions of this section shall apply to determine the place of supply of services where the location
+of the supplier of services or the location of the recipient of services is outside India.
+
+2) The place of supply of services except the services specified in sub-sections (3) to (13) shall be the location
+of the recipient of services:
+
+Provided that where the location of the recipient of services is not available in the ordinary course of
+business, the place of supply shall be the location of the supplier of services.
+
+(3) The place of supply of the following services shall be the location where the services are actually
+performed, namely:
+
+1. services supplied in respect of goods which are required to be made physically available by the recipient
+of services to the supplier of services, or to a person acting on behalf of the supplier of services in order to
+provide the services:
+
+Provided that when such services are provided from a remote location by way of electronic means, the place
+of supply shall be the location where goods are situated at the time of supply of services: Provided further
+that nothing contained in this clause shall apply in the case of services supplied in respect of goods which
+are temporarily imported into India for repairs and are exported after repairs without being put to any
+other use in India, than that which is required for such repairs;
+
+2. Services supplied to an individual, represented either as the recipient of services or a person acting on
+behalf of the recipient, which require the physical presence of the recipient or the person acting on his
+behalf, with the supplier for the supply of services.
+
+4) The place of supply of services supplied directly in relation to an immovable property, including services
+
+scientifigefucational or entertainment event, or a celebration, conference, fair, exhibition or similar events,
+4
+and g
+
+a
+ere any services referred to in sub-section (3) or sub-section (4) or sub-section (5) is supplied more
+
+fhan one location, including a location in the taxable territory, its place of supply so we the location in the
+taxable territory.
+
+(7) Where the services referred to in sub-section (3) or sub-section (4). or sub-section (are supplied in more
+than one State or Union territory, the place of supply of such services shall be taken as DEN each of the
+respective States or Union territories and the value of such supplies specific to each state or Union territory
+shall be in proportion to the value for services separately collected or determined in terms of the contract
+or agreement entered into in this regard or, in the absence of such contract or agreement, on such other
+basis as may be prescribed.
+
+(8) The place of supply of the following services shall be the location of the supplier of services,
+
+namely:
+
+1. services supplied by a banking company, or a financial institution, or a non-banking
+financial company, to account holders;
+
+2. intermediary services;
+
+Be services consisting of hiring of means of transport, including yachts but excluding
+
+aircrafts and vessels, up to a period of one month.
+Explanation.--- For the purposes of this sub-section, the expression,
+
+ae "account" means an account bearing interest to the depositor, and includes a non-
+resident external account and a non-resident ordinary account;
+2. "banking company" shall have the same meaning as assigned to it under clause (a) of
+
+section 45A of the Reserve Bank of India Act, 1934;
+
+12
+
+
+3s "financial institution" shall have the same ineaning as assigned to it in clause (c) of
+section 45 of the Reserve Bank of India Act, 1934;
+
+4, "non-banking financial company" means,
+(i) a financial institution which is a company;
+(ii) a non-banking institution which is a company and which has as its principal business the
+
+receiving of deposits, under any scheme or arrangement or in any other manner, or lending in
+any manner; or
+
+(iii) such other non-banking institution or class of such institutions, as the Reserve Bank of Inola hay
+with the previous approval of the Central Government and by notification in the Official Gazette,
+specify
+
+(9) The place of supply of services of transportation of goods, other than by way of mail or to be the place of
+
+destination of such goods,
+
+(10) The place of supply in respect of passenger transportation services shall be the place where the
+passenger embarks on the conveyance for a continuous journey
+
+(11) The place of supply of services provided on board a conveyance during the course of a passenger
+transport operation, including services intended to be wholly or substantially consumed while on board,
+shall be the first scheduled point of departure of that conveyance for the journey.
+
+(12) The place of supply of online information and database access or retrieval services shall location of the
+recipient of services.
+
+Explanation.- For the purposes of this sub-section, person receiving such services shall be deemed to be
+located in the taxable territory, if any two of the following non contradictory conditions are satisfied,
+
+namely:
+
+a the location of address presented by the recipient of services through internet is in the taxable
+Territory,
+
+2. the credit card or debit card or store value card or charge card or smart card or any other card by
+
+which the recipient of services settles payment has been issued in the taxable territory;
+the billing address of the recipient of services is in the taxable territory;
+2 \yhe internet protocol address of the device used by the recipient of services is in the taxable territory;
+Me bank of the recipient of services in which the account used for payment is maintained is in the
+atable territory;
+
+© fsaxable territory.
+ih ‘ase the IGST to be levied as per section 5 of IGST Act and Nature of supply will be determine by
+
+“determined under Section 15 of CGST Act.
+1. The section 12 (11)(d) and Explanation inserted there in is to be interpreted as
+
+The Supreme court in Sundaram Pillal v. V.R. Pattabiraman 94 (AIR 1985 5C 502.( observed as under:
+
+The object of an Explanation to a statutory provision is
+a) To explain the meaning and intendment of the Act itself;
+b) Where there is any obscurity or vagueness in the main enactment to clarify the same make it
+consistent with the dominant object which it seems to sub serve;
+c) to provide an additional support to the dominant object of the Act in order to mak meaningful
+and purposeful;
+
+d) An Explanation cannot in any way interfere with or change the enactment or any part thereof
+
+but where some gap is left which is relevant for the purpose of the explanation in order to suppress
+
+the mischief and advance the object of the Act it can help or assist the court in interpreting the true
+
+purport and intendment of the enactment; and
+
+e) It cannot however take away a statutory right with which any person under a statute has been
+clothed or set at naught the working of an Act by becoming an hinderance in the interpretation of
+the same.
+
+Thus explanation to the section of enactment does not acts as charging or levy section it only
+
+clarifies meaning of enactment.
+13
+
+
+2. In case of leased circuit is installed in more than one State and the value for service cannot be
+determined in absence of a contract the reliance can be made on following judgment. The
+interpretation of taxing statue is to be made harmoniously so as to make statue workable. The
+reliance can be made on following judgment.
+
+Machinery provisions:- Provisions for charge of interest on delayed payment have been added
+for tightening up the machinery for collection of tax and that as a deterrent measure so that the
+dealers may not evade or delay the payment of due tax. These are necessarily machinery
+provisions. Therefore, if more than one construction of such a provision is possible then that
+construction which preserves its workability and efficacy is to be preferred to one which would
+render it otiose or sterile65.(State of T.N, V, M.K. Kandaswami, (1975) 36 STC 191 (SC) followed
+in Kingsway & Co. v. C.T.O., (1990) 76 STC 119 (WBTT).
+
+3: Section 5 of IGST Act which is charging section needs to be construed strictly -
+
+taxing statute indisputably is to be strictly construed. See 1. Srinivasa Rao v. Govt. of Andhra
+Pradesh & Another-2006(13) SCALE 27). It is, however, also well-settled that the machinery
+provisions for calculating the tax or the procedure for its calculation are to be construed by
+ordinary rule of construction. Whereas a liability has been imposed on a dealer by the
+charging section, it is well-settled that the court would construe the statute in such a manner
+so as to make the machinery workable:
+
+4. In Case of M4 Mabini Patram Private Ltd vs Union of India & others on 23 February, 2007 Supreme court
+held that in absence of provisions in rules the machinery provisions of local Act can be resorted to
+(STR110SC)
+5. The alternative submission of dealer regarding residual clause can be referred to determine the place of
+sapply in case were vendor have leased circuit installed in multiple state and there is no provision in the
+pment or contract to determine the value of service attributable to each state, the place of supply as per
+ign (2) shall be location of registered person.
+
+a)
+
+&™) Hence : ‘of GST under section 5 of IGST Act in case supply involving lease services ,Circuit services wherein
+a pan I dia ontract for supply of such services is entered into without any State wise break up for the supply
+it would; ejyst and proper for the supplier of such services to chargé Integrated Tax (under GST Act) pursuant
+ahation to section 12(11)( d) which provides that place of supply where the leased circuit is installed
+n one state and the value for service cannot be determined in absence of a contract shall be on
+ction 15 of CGST Act and on prorate basis as prescribed i.e. the same would be the location of
+
+of service.
+
+In respect of proposition (b) if answer to proposition (a) is affirmative then it would just and proper for
+recipient to take credit of GST since the said services are use in the course of furtherance of business namely
+provision of last mile connectivity services to the recipient of services.
+
+04. HEARING
+
+The case was taken up for preliminary hearing on 11.12.2018 with respect to admission
+or rejection of the application when Sh. Harish Bindumadhavan, Advocate along with Sh. Sagar
+Shah, Manager, and Sh. Aakash Sarda , C.A. appeared and made oral submissions for admission
+of their ARA application. They were informed that their question would have to be reframed to
+enable their application to be admitted which they agreed to. They have requested for 15 days
+time to reframe their questions. Jurisdictional Officer Sh. Rajesh Jadhav, Dy. Commissioner of
+S.T.(E-638), L.T.U., Unit-4, Mumbai appeared and made written submissions and also raised no
+objection for giving the applicant time to reframe their questions. The applicant has submitted
+reframed questions on 27.12.2018. Preliminary hearing for admission or rejection as requested
+by the applicant earlier as above is again held on 22.01.2019 wherein Sh. Harish Bindumadhavan,
+Advocate along with Sh. Sagar Shah, Manager, and Sh. Aakash Sarda , C.A. appeared and made
+oral & written submissions. Jurisdictional Officer Sh. Rajesh Jadhav, Dy. Commissioner of S.T.
+(E-638), L.T.U., Unit-4, Mumbai appeared and submitted written submissions and made objection
+that applicant being recipient is not competent to apply for ruling & hence ARA is not
+maintainable. We were heard from both the parties on the said issue.
+
+14
+
+
+05. OBSERVATIONS
+
+We have gone through the facts of the case and the written submissions made by both,
+the applicant and the departmental authority. We find the relevant provision of Section 95,
+Section 97 and Section 98 of the GST Act. As per section 95, the term ‘advance ruling’ means a
+decision provided by this authority to the applicant on matters or questions specified in
+subsection 2 of Section 97, in relation to the supply of goods or services or both being undertaken
+or proposed to be undertaken by the applicant. For the sake of better understanding Section 97
+is reproduced as below:
+
+Section 97:
+
+(1) an applicant desirous of obtaining an advance ruling under this Chapter may make an
+application in such form and manner and accompanied by such fee as may be
+prescribed, stating the question on which the advance ruling is sought.
+
+(2) The question on which the advance ruling is sought under this Act, shall be in respect
+
+of,--
+
+(a) classification of any goods or services or both;
+
+(b) applicability of a notification issued under the provisions of this Act;
+
+(c) determination of time and value of supply of goods or services or both;
+
+(d) admissibility of input tax credit of tax paid or deemed to have been paid;
+
+(e) determination of the liability to pay tax on any goods or services or both;
+
+hether any particular thing done by the applicant with respect to any goods or services
+th amounts to or results in a supply of goods or services or both, within the meaning
+at term.
+
+1. Applicant wishes to seek advance ruling in terms of Section 97(2)(e) of Central Goods and
+Services Tax Act 2017, "Whether the supplier is to charge Integrated Tax on supply of leased
+circuit facility to the Applicant, where the leased circuit is installed in more than one State or
+Union territory and the contract or agreement doesn't specifically provide the proportion of
+service provided in each state?"
+
+2. Applicant also wishes to seek advance ruling in terms of Section 97(2)(d) of CGST Act 2017, "If
+the answer to the above question is affirmative, can the Applicant avail Input Tax Credit of the
+tax charged by the supplier of leased circuit facility?"
+
+We find from the statement of facts pertaining to first question "Whether the supplier is to
+charge Integrated Tax on supply of leased circuit facility to the Applicant, where the leased circuit
+is installed in more than one State or Union territory and the contract or agreement doesn't
+specifically provide the proportion of service provided in each state?"
+
+From the perusal of transaction as discussed above in details in their contention, it is clear that
+applicant is not supplier of services .He is recipient of services from their supplier who leased
+circuit facility to the applicant and as such by virtue of section 95 is not an applicant who can
+obtain advance ruling unless the recipient is paying the taxes under reverse charge mechanism
+on the transaction of receipt of supply. In the present case applicant is recipient of services and he
+has not a paying the taxes under reverse charge mechanism on the impugned transaction in GST
+ACT. Hence, we find that the applicant has not satisfied the conditions of section 95 of CGST Act.
+
+With respect to question No. 2 above, we clearly find that the question (1) is not on matters
+or questions specified in Section 97(2) of the Act and as such is inadmissible under section 97 (2)
+of the Act.
+
+15
+
+
+For above discussion, in our view, present application seeking ruling on questions stated
+hereinabove is not maintainable and liable for rejection.
+
+06. In view of the extensive deliberations as held hereinabove, we pass an order as follows
+
+ORDER
+
+(Under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+NO.GST-ARA- 82/2018-19/B- )2 Mumbai,dt. 9 3.). 2013
+
+For reasons as discussed in the body of the order, the subject application for advance
+
+ruling made by the applicant is rejected under the provisions of sub-section 2 of Section 98 of the
+
+CGST Act, 2017.
+
+—_— a =>
+
+B. TIMOTHY B. V. BORHADE
+(MEMBER) (MEMBER)
+
+CERTIFIED TRUE Copy
+
+Copy to:-
+
+1. The applicant
+
+2. The concerned Central / State officer | a
+
+3. The Commissioner of State Tax, Maharashtra State, Mumbai
+
+4. The Jurisdictional Commissioner of Central Tax. Churchgate Mumbai BER
+
+5. Joint commissioner of State tax , Mahavikas for Website. ADVANCE RULING AUTHORITY
+MAHARASHTRA STATE, MUMBAI
+
+Note :- An Appeal against this advance ruling order shall be made before The Maharashtra Appellate
+
+Authority for Advance Ruling for Goods and Services Tax, 15' floor, Air India building, Nariman Point,
+
+Mumbai - 400021.
+
+16

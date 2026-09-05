@@ -1,0 +1,938 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+(constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri B. V. Borhade, Joint Commissioner of State Tax
+(2) Shri Pankaj Kumar, Joint Commissioner of Central Tax
+
+GSTIN Number, if any/ User-id 271700000133ARY
+Legal Name of Applicant M/s JSW Energy Limited
+
+Registered Address/Address provided JSW Centre, Bandra Kurla Complex, Near MMRDA,
+
+while obtaining user id Ground, Bandra East, Mumbai - 400 051
+
+Details of application GST-ARA, Application No. 05 Dated 7.12.2017
+
+Concerned officer Central GST, Range- IV, Div-V, Ratnagiri
+
+Nature of activity(s) (proposed / present)
+
+in respect of which advance ruling sought
+
+A Category Service provision
+
+B Description (in brief) A brief description of the nature of activity in respect of
+which advance ruling is sought is mentioned in the
+application attached herewith and marked as Annexure-I.
+
+Issue/s on which advance ruling required | (v) determination of the liability to pay tax on any goods
+
+or services or both.
+
+(vii) whether any particular thing done by the applicant
+with respect to any goods and/or services or both
+amounts to or results in a supply of goods and/or
+services or both, within the meaning of that term
+
+Question(s) on which advance ruling is | As reproduced in para 01 of the Proceedings below.
+required
+
+PROCEEDINGS
+
+(under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+O.GST-ARA-05/2017/B- © Ly Mumbai, dt. osfoa}i¢
+
+* Sx \\The present application has been filed under section 97 of the Central Goods and Services
+
+aes 2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as
+
+Fed
+
+respect of the applicability of GST on:
+
+1. Supply of coal or any other inputs on a job work basis by JSL to JEL
+
+2. Supply of power by JEL to JSL
+
+3. Job work charges payable to JEL by JSL
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and
+
+the MGST Act are the same except for certain provisions. Therefore, unless a mention is
+specifically made to such dissimilar provisions, a reference to the CGST Act would also mean a
+reference to the same provision under the MGST Act. Further to the earlier, henceforth for the
+purposes of this Advance Ruling, a reference to such a similar provision under the CGST Act /
+
+MGST Act would be mentioned as being under the “GST Act”.
+
+
+02. FACTS AND CONTENTION - AS PER THE APPLICANT
+
+The submissions, as reproduced verbatim, could be seen thus-
+
+“ANNEXURE I - STATEMENT OF THE RELEVANT FACTS HAVING A BEARING ON THE QUESTION(S) ON WHICH THE
+
+ADVANCE RULING IS REQUIRED
+
+1. This Application is being filed by JSW Energy Limited (‘the Applicant’/,JEL’). The Applicant, having Good and Service
+Tax (‘GST’) Registration No.27AAACJ8109N1Z8is engaged in the business of generation of power. The Applicant’s power
+plant is divided into four units.
+
+2. JSW Steel Limited (“JSL”), having GST Registration No. 27AAACJ4323N1ZGis engaged in manufacture and supply of steel.
+JSL requires power on a continuous and dedicated basis, for manufacturing steel at its steel plant. For the said purpose, JSL
+and the Applicant proposed to enter into an arrangement (herein after referred to as ‘Job Work Agreement’) pertaining to
+Unit IIT and Unit IV of the power plant which are in the nature of a captive power plant
+
+3. In terms of the proposed arrangement, JSL would supply coal or any other inputs (herein after collectively referred to as
+‘inputs’) to the Applicant on a free-of-cost basis. On receipt of the same, JEL would undertake certain processes to convert the
+said inputs into power. In accordance with the Job Work Agreement, the title to the coal or any other inputs along with the
+power generated from the said inputs will vest with JSL.
+
+4. The mechanics of the transaction and consideration payable by JSL to the Applicant for the generation and supply of power
+has been diagrammatically illustrated.
+
+5. The above can be further explained as under:
+
+a. JSL imports coal from suppliers located outside India
+
+b. Required inputs (such as coal) would be supplied by JSL to JEL. For the purpose of this arrangement, JSL shall be construed
+as a ‘Principal’, On receiving the inputs, JEL shall undertake the activities in accordance with the Job Work Agreement
+
+c. Power generated from the aforesaid activities shall be supplied back to the Principal
+
+d. JEL would recover charges from JSL in accordance with the Job Work Agreement. Each invoice shall contain details of the
+inputs supplied to JEL and power supplied to JSL and the charges for services rendered during the preceding month,
+applicable taxes and the date of payment for the said consideration
+
+6. In view of the above, the issue for determination before the Authority for Advance Ruling (‘AAR’) is the applicability of GST on:
+I Supply of coal or any other inputs on a job work basis by JSL to JEL
+I. Supply of power by JEL to JSL
+Ml. Job work charges payable to JEL by JSL
+ANNEXURE II - STATEMENT CONTAINING THE APPLICANT’S INTERPRETATION OF LAW AND/OR FACTS, AS THE CASE MAY
+rt IN RESPECT OF THE QUESTION(S) ON WHICH THE ADVANCE RULING IS REQUIRED
+ISSUE FOR DETERMINATION
+rk The questions/ issues before Your Honor for determination are applicability of GST on:
+a. Supply of coal or any other inputs on a job work basis by JSL to JEL
+b. Supply of power by JEL to JSL
+c. Job work charges payable to JEL by JSL
+1.2. The questions / issues placed for determination before Your Honor have to be appreciated in light of the following position
+of law and its applicability to the proposed activity by the Applicant, discussed hereunder.
+2. POSITION OF LAW
+
+term ‘Job Work’ is defined under Section 2(68) of the CGST Act, 2017 as under:
+ork" means any treatment or process undertaken by a person on goods belonging to another registered person and the expression Job Worker shall be
+accordingly,”
+sal of the aforementioned definition, it can be observed that all of the following three conditions need to be fulfilled to
+n activity as a Job Work,viz:
+@) ~<Thgatment or process should be undertaken by a person;
+(ii) gSpieh treatment or process should be on goods; and
+iese goods should belong to another registered person
+arize the above, under the GST Regime, a Job Worker shall undertake a treatment or process on the goods (i.e. inputs)
+‘belovging to another person for the transaction to fall within the ambit of Section 2(68) of the CGST Act.
+- 2.44 Anyaddition to the above, Section 143 (1) (a) of the CGST Act requires bringing back of inputs, after completion of Job Work
+er otherwise, within one year of their being sent out, to any place of business of the Principal. Fulfilment of such a condition
+would allow movement of inputs between the said entities without payment of taxes. For the said purpose, inputs include
+intermediate goods arising from any treatment or processes carried out on the inputs by the Principal or the Job Worker.
+Relevant extracts of the said Section are reproduced as follows:
+143. (1) A registered person (hereafter in this section referred to as the principal") may under intimation and subject to such conditions as may be prescribed,
+send any inputs or capital goods, without payment of tax, to a job worker for job work and from there subsequently send to another job worker and likewise, and
+si
+oD howe back inputs, after completion of job work or otherwise, or capital goods, other than moulds and dies, jigs and fixtures, or tools, within one year and
+
+three years, respectively, of their being sent out, to any of his place of business, without payment of tax;
+and
+et 108
+
+Explanation. For the purposes of job work, input includes intermediate goods arising from any treatment or process carried out on the inputs by the principal
+or the job worker.
+
+PROVISIONS REGARDING ‘SERVICES OF TREATMENT OR PROCESS WHICH IS APPLIED TO ANOTHER PERSON’S GOODS’ UNDER THE GST REGIME
+2.5. The term ‘supply’ has been defined under Section 7 of the CGST Act and covers supply of goods as well as services. The said
+definition also seeks reference to Schedule II wherein specified supplies have been classified either as a good or a service.
+Entry 3 of the said schedule provides that ‘Any treatment or process which is applied to another person's goods is supply of services’. Accordingly,
+the said activity would be construed as a service.
+2.6. The Applicant also seeks reference to the above classification for the purpose of levy of GST.
+PROVISIONS REGARDING ‘VALUATION’ UNDER THE GST REGIME
+2.7. Section 15 of the CGST Act pertains to valuation of taxable supplies, which would be the transaction value, i.e. the price
+actually paid or payable for the said supply of goods or services or both where the supplier and the recipient of the supply are
+not related and the price is the sole consideration for the supply. For the said purpose, the term ‘related person’ shall cover:
+
+2
+
+
+
+(i) officers or directors of one another's businesses;
+(u) legally recognized partners in business;
+(in) employer and employee;
+(iv) persons (including legal persons) who directly or indirectly owns, controls or holds twenty-five per cent or more of the outstanding voting stock or shares
+of both of them:
+(v) one of them directly or indirectly controls the other;
+(vi) both of them are directly or indirectly controlled by a third person;
+(vit) together they directly or indirectly control a third person; or they are members of the same family;
+JSL and JEL would be treated as related persons on account of direct or indirect control over each other.
+2.8. On account of JSL and JEL being related person, valuation of supply of goods or services or both would be determined under
+the prescribed rules. For said purpose the Government vide Chapter IV of CGST Rules, 2017 (‘the CGST Rules’) has laid
+down the procedure for determining the valuation of the goods/services or both.
+
+2.9. Rule 28 of the said rules prescribe that the value of supply of goods and services or both, where the supplier and recipient are
+
+related, shall be-
+e the open market value of such supply
+© if the open market value is not available, the value of supply of goods or services of like kind and quality
+
+2.10. Further the proviso to above referred rule provides that where the recipient is eligible for full input tax credit, the value
+declared in the invoice shall be deemed to be the open market value of the goods and services.
+
+2.11. In the present case, it is submitted that JSL would be eligible to avail the credit of the GST payable on charges paid to JEL
+(subject to the underlying provisions of the GST legislation). Accordingly, the value attributable to the Job Work charges
+could be construed as the transaction value for levy of GST.
+
+3. RELEVANT CLAUSES OF THE AGREEMENT BETWEEN JEL AND JSL
+Illustrative clauses, which would be a part of the contractual agreement are given below:
+
+3.1. Key Definitions
+Inputs — Input means Coal, or any other supplies that are required by JEL for provision of Job Work services in terms hereto. The agreed grade, characteristics
+and specifications of Inputs to be delivered by JSL under this Agreement are at Annexure
+Job Work Services ~ means the activity of processing Inputs supplied by JSL to produce Products], being more particularly described in Annexure, pursuant to
+this Agreement and the relevant Instructions.
+
+Power - Power shall mean electrical output generated in MW terms.
+Product ~ Product includes power ~ in addition to the fly ash and other resultant products generated at Power Plant through the Job Work Services.
+
+3.2. Supply of Inputs
+On and from the Effective Date, JSL. appoints JEL, on a Job-Work basis to carry out the treatments and processes comprising the Job-Work Services on supply
+by JSL of the Inputs (free of charge).
+
+On occurrence of the above, JEL shall provide the Job Work Services in accordance with the terms hereof.
+The Parties agree that JEL shall not be able to perform the Job Work Services (which obligations are contingent upon supply of the Inputs) under the Agreement
+unless the Power Plant receives uninterrupted availability‘accessibility, as applicable, of'to the Inputs in accordance with the Agreement.
+
+3.3. Restriction on Sale of Inputs
+JEL. agrees that it shall use the Inputs supplied by JSL hereunder solely for the purposes of providing the Job Work Services and shall not sell or otherwise
+dispose of the Inputs.
+
+3.4. Title and Risk of Loss
+YSL warrants that at all times it shall have good title to all Inputs delivered to JEL,
+clear of any lien, claim, demand, security interest or other encumbrance,
+
+JSL shall retain title to and risk of loss with respect to the Inputs supplied to JEL.
+
+3.5. Loading and Delivery
+
+JSL shall supply the Inputs, as may be agreed between the Parties at such time as would enable JEL to comply with the Instructions
+
+Delivery Procedures and detailed operational procedures to ensure smooth delivery to and loading of Inputs shall be agreed in writing between the authorised
+
+representatives of the Parties.
+
+Measurement of Quantity
+
+‘he quantity of Inputs supplied shall be as weighed on JSI.'s [electronic weighbridges]. A representative of JEL may be present to witness the weighment. If the
+
+its transfer is lawful, and at the time of delivery, such Inputs will be free and
+
+i its expense, shall procure, install, own and maintain two sets of Metering System separately for each transformer as per regulations of Central Electricity
+ity. The energy meter and associated equipment shall be of 0.2s accuracy class. These meters shall function as main meters and check meters. The general
+of these meters shall be the metering point. Such equipment shall be capable of providing instantaneous output measurements to measure electrical
+livered at a specific time.
+
+Inputs, including delivery challans documenting the movement of goods, and provision of Job Work Services shall be evidenced by documentary proof,
+agreed by the Parties in accordance with the Applicable Law. At the end of the [Month] a jointly signed report showing the challan - wise quantity
+J dgivffed by JSI. shall be prepared.
+
+‘KUdftional Covenants, Roles and Responsibilities
+
+#1) provide the Job Work Services on a continuous and dedicated basis, and will have the ability to deliver the desired Products to JSL;
+
+The above are only relevant extracts from the underlying Job Work Agreement which have been reproduced to substantiate
+
+the arrangement of the Principal and the Job Worker.
+
+4. SUBMISSIONS OF THE APPLICANT
+
+4.1. At the outset, it is submitted that traditionally the concept of job work, which has evolved over the period clearly signifies
+that the same involves undertaking certain processing activities in respect of the goods supplied by the Principal, resulting in
+intermediate/ finished product. A Job Worker typically works on behalf of and for the owner of goods on which the Job Work
+is being undertaken who is also termed as Principal.
+
+THE ACTIVITY UNDERTAKEN BY THE APPLICANT FALL WITHIN THE AMBIT OF THE TE!
+
+UNDER THE CGST ACT
+
+4.2. As per the provisions of the CGST Act mentioned above in paragraph 2.1, for treatment or process undertaken by a person to
+
+be termed as a ‘Job Work’, the said treatment or process should be undertaken on the goods belonging to another person.
+
+Therefore, there are three essential requirements to be fulfilled by the Company in the present case to term the present
+
+transaction as ‘Job Work’, namely:
+
+a) The activity undertaken by the Applicant should qualify as a ‘treatment or process’,
+
+b) The treatment or process undertaken should be on goods i.e. the inputs (coal) involved in the present case should fall within the ambit of
+
+term ‘goods’
+¢) These inputs/goods should belong to JSL
+d) Inputs should be brought back after completion of Job Work or otherwise, within one year of their being sent out, to any place of business
+of the Principal.
+Fulfillment of the conditions mentioned above are explained hereunder:
+
+
+
+ACTIVITY UNDERTAKEN BY THE COMPANY AMOUNTS TO ‘TREATMENT OR PROCESS’
+
+4.3. In terms of the first condition, the activities undertaken by the Applicant should qualify as a treatment/ process. Given that
+the terms ‘treatment’ or ‘process’ have not been defined under the GST laws, reliance is placed on various dictionary meanings
+and judicial precedents in this regard:
+© CST v. Samodar Padmanath Rao [1968 (22) STC 187 (Bom)]: “One of the meanings that can be
+
+method or technique of preparation, handling, or other treatment designed to affect a particular resu|
+* Haldia Petrochemicals Ltd. v. Commissioner Of C. Ex., Haldia [2006 (197) E.L.T. 97 (Tri. - Del.)}: In this case, it has been held that the term ‘processing’
+is a much wider term
+“In our opinion, the expressions “further proces:
+the processes mentioned in the definition of ‘inpui
+expressions, and would amount to Job Work.”
+© S.B. Sarkar’s Word & Phrases of Excise, Customs & Service tax, 4" Edition: Process means“Prepared, handled, treated or produced by a special process [ ]"
+
+* Websters Dictionary: “processing means to subject to some special process or treatment; to subject (esp. raw material) to a process of manufacture,
+development or preparation { ]. “
+
+4.4, Considering the above, it can be submitted that the activity of generation of power undertaken by the Applicant amounts to a
+‘process’ and accordingly, the Applicant is undertaking a process in the present case on the goods. Therefore, condition (a)
+mentioned above in paragraph 4.2 is fulfilled in the present case.
+
+INPUTS SHOULD FALL WITHIN THE AMBIT OF THE TERM ‘GOODS’ AS DEFINED IN THE CGST ACT
+
+4.5. In terms of the second condition, the inputs on which the treatment/ process is undertaken by the Applicant should qualify as
+
+‘goods’. In this regard, it is pertinent to refer to Section 2(52) of the CGST Act, which defines the term ‘goods’ as under:
+“(52) “goods” means every kind of movable property other than money and securities but includes actionable claim, growing crops, grass and things
+attached to or forming part of the land which are agreed to be severed before supply or under a contract of supply"
+
+4.6. As mentioned above, in the present case, the inputs used by the Applicant for generating power are coal or any other inputs
+which are supplied by JSL and consumed for the generation of power. Coal or any other inputs used by the Applicant for
+generation of power are movable property. Therefore, in the present case these inputs i.e. coal or any other inputs can be
+considered as a ‘goods’.
+
+GOODS USED FOR GENERATION OF POWER BY THE APPLICANT BELONG TO JSL
+
+4.7. In terms of the third condition, the goods should belong to JSL and should be provided to the Applicant for undertaking the
+activity of generation of power. Reference is also sought to the agreement between JEL and JSL, the relevant clauses of which
+have been set out at paragraph 3 hereinabove. Upon perusal of the said clauses, the following emerge as the key features of
+the contractual and commercial arrangement between the parties:
+¢ JSL is to provide coal or any other inputs on free-of-cost basis to JEL, and the ownership of coal or any other inputs will remain with JSL
+
+at all times;
+
+e JSL shall be the sole and absolute owner of the power generated by JEL;
+
+e JEL cannot in any manner deal with the power that is generated from the processing which is carried out by utilizing the inputs provided
+by JSL, and the mere fact that JEL processes the coal provided by JSL for generation of power does not give JEL any rights whatsoever
+over the power so generated;
+
+4.8. In terms of the proposed arrangement between the parties, JSL is required to provide coal for generation of power by JEL.
+The said inputs are processed by JEL for generation of power by employing its plant and personnel, and JEL has no rights
+whatsoever to the resultant power. Accordingly, the activity undertaken by JEL on behalf of JSL would be classifiable as a
+Job Work activity.
+
+9. The Applicant submits that there is no iota of doubt that the coal and the other inputs belongs to JSL and the ownership of
+
+same always remain with JSL only.
+
+to the word ‘process’ is to subject to a particular
+
+ig” and “any other purpose” mentioned in Rule 4(5)(a) are fairly wide and would take their colour from
+As such the generation of power or steam as intermediate products would fall within the scope of these
+
+with the erstwhile CENVAT Credit Rules, 2004.For a better understanding of the scope of this condition, reference
+to the judgment of the Apex Court in the matter of Prestige Engineering (India) Limited vs Collector of Central Excise,
+Meerut [994 (73) ELT 497 (S.C.)] where the Supreme Court observed that ‘initiating upon the same articles being returned to the
+cusjomer| after undergoing the manufacturing process at the hands of the Job Worker may rob the notification of any substance whatsoever.
+gve principle was relied on by the CESTAT, New Delhi in the matter of Haldia Petrochemicals Ltd vs Commissioner of
+004 (177) ELT 708 (Tri-Dethi)|, wherein the appellant supplied raw materials to their Job Worker who was a power
+~ In the said context, it was held that
+_ Having regard to the fact that inputs for generation for power or steam are specifically mentioned in the definition of “input", we are of the view
+~~ that the Cenvat credit is available even if the identity of the input is lost when the Job Worker returns the goods after further processing...
+Based on the above, it can be construed that barter of inputs was also an acceptable form of receiving the inputs sent by the Principal.
+4.11. Reference can also be cited to the decision of the Hon’ble High Court of Bombay in the matter of CCE, Aurangabad vs,
+Endurance Technologies Pvt. Ltd. [2015-TIOL-1371-HC-MUM-ST], where credit on inputs and input services used by wind mills
+to generate energy which is made available to the manufacturer through power board under the barter system, has been
+allowed. The Tribunal at Chennai in the matter of DCW Ltd vs. Commissioner of C.Ex, Triunelveli [2016(332) ELT 142(Tri-
+Chennai)jand in the matter of The India Cements Ltd and Others vs CCE , Salem and Others [2015-TIOL-(982-CESTAT-MAD] also
+followed the above principle. Relevant extract of the India Cement Ltd case is reproduced as follows:
+Our view above 1s fortified from the judgment of the Hon'ble High Court of Bombay in Central excise appeal No. 142012 in the case of CCE,
+Aurangabad Vs. Endurance Technology Pvt. Lid., disposed on 02.12.2014. The Hon'ble Court examining the meaning of the ‘input’ under Cenvat
+
+Credit Rules, 2004 and admissibility of credit of tax on such input held that there should not be inadmissibility of input credit on input or input services
+used by wind mills to generate energy which is made available through power board under barter system,
+
+In the judgment of Endurance Technologies, the High Court has concluded that input tax credit of the inputs used in
+generation of power under barter transaction, where the power is supplied back against the inputs, would be available.
+
+On basis of the above mentioned judgments it can be construed that transaction of processing the coal supplied by JSL and
+supplying back the power generated to JSL would fulfill the condition of bringing back the inputs.
+
+4.12. As all the conditions mentioned under paragraph 4.2 required to be fulfilled by the Applicant in order to fall under the ambit
+of the term ‘Job Work’, are satisfied, the present transaction would be construed as a Job Work transaction and the Applicant
+would be considered as a Job Worker of JSL.
+
+CLASSIFICATION OF A JOB WORK ARRANGEMENT AS A SUPPLY OF SERVICE
+
+4.13. The Applicant seeks reference to Schedule II of the CGST Act and humbly submits that a job work arrangement would be in
+the nature of a supply of service. Entry 3 of the said schedule is reproduced as follows:
+
+“Any Tr or process which is applied to another person's goods is a supply of services’.
+
+
+
+4.14. On the basis of the above, it is respectfully submitted that for the generation of power from coal, the following processes are
+undertaken by the Applicant:
+¢ A machine called a pulverizer grinds the coal into a fine powder.
+¢ The coal powder mixes with hot air, which helps the coal burn more efficiently, and the mixture moves to the furnace.
+© The burning coal heats water in a boiler, creating steam.
+
+° Steam released from the boiler powers an engine called a turbine, transforming heat energy from burning coal into mechanical energy that spins the turbine
+engine.
+
+° The spinning turbine is used to power a generator, a machine that turns mechanical energy into electric energy. This happens when magnets inside a copper
+coil in the generator spin
+
+° “ condenser cools the steam moving through the turbine. As the steam is condensed, it turns back into water, The water returns to the boiler, and the cycle
+
+gins again.
+
+On the basis of the above, the processes undertaken on JSL’s coal by JEL would amount to supplying a service and subjected
+
+to tax under the GST regime.
+
+APPLICABILITY OF GST ON THE PRESENT TRANSACTION
+
+4.15. On establishing a job work arrangement between JSL and JEL as per above, the applicability of GST on the subject transaction
+also needs to be examined. For the said purpose, reference is sought to Section 143(1) of the CGST Act which allows
+movement of inputs or capital goods without payment of tax, to a job worker for job work activities. Accordingly, it is
+humbly submitted that movement of coal or any other inputs from JSL to JEL would not be subjected to tax on account of
+movement of inputs for job work activities.
+
+4.16, As mandated under a job work arrangement, the Principal shall be required to bring back inputs after completion of job work
+or otherwise, within a period of one year of they being sent out without payment of tax. In the said context, the Applicant has
+submitted under paragraphs 4. 10 to 4.12 of this Application that the subject transaction is in accordance with the prescribed
+conditions of the job worker arrangement whereby inputs ( i.e. coal) is being returned to the Principal.
+
+4.17. For determining the applicability of GST on Job Work charges, reference is sought paragraphs 4.13 and 4.14 of this document.
+In the said context, it is humbly submitted that a job worker is engaged in supplying a service specified under Schedule II of
+the CGST Act and accordingly GST would be applicable on the said job worker charges.
+
+4.18 In addition to the above, for the purpose of determining the value of job work charges subject to GST, reference is sought to
+Rule 28 of the CGST Rules mentioned under paragraphs 2.9 and 2.10 of this application, which pertains to valuation of
+supplies between related persons. As per the said rules, the value of supply of services would be the open market value of
+such supply. This term has been explained to mean the full value in money, excluding the integrated tax, central tax, State
+tax, Union territory tax and the cess payable by a person in a transaction, where the supplier and the recipient of the supply
+are not related and the price is the sole consideration, to obtain such supply at the same time when the supply being valued
+is made. Accordingly, it is submitted that GST would be applicable on the job work charges levied by JEL to JSL.
+
+SUBMISSION DT.16.02.2018
+
+1, MEANING AND DEFINITIONS
+
+1.1. At the outset, we would like to refer to the definition of ‘job work’ as defined under Section 2(68) of the CGST Act. The said
+definition is reproduced as follows:
+Job work means any treatment or process undertaken by a person on goods belonging to another registered person and the expression ‘job worker’ shall be
+
+construed accordingly
+
+Basis the aforesaid definition, any ‘treatment’ or ‘process’ undertaken on goods belonging to another person shall
+
+be construed as a job work activity.
+
+ance the terms ‘treatment’ or ‘process’ have not been defined under the GST legislation, reference is sought to the dictionary
+
+or involuntary operation or series of changes; handle or deal with by a particular process
+atic series of actions directed to some end’
+
+ipn to the action of a chemical, physical or biological agent'"
+-ffon to some agent or action’
+
+9) ai the ambit of the term ‘process’. Relevant extract of the judgement has been reproduced as follows:
+
+=—"The natural meaning of the word ‘proce: a mode of treatment of certain materials in order to produce a good result, a species of activity performed on the
+subject-matter in order to transform or reduce it to a certain stage. According to Oxford Dictionary one of the meanings of the word ‘process’ is “a continuous
+and regular action or succession of actions taking place or carried on in a definite manner and leading to the accomplishment of some result.” The activity
+contemplated by the definition is perfectly general requiring only the continuous or quick succession, It is not one of the requisites that the activity should involve
+some operation on some material in order to its conversion to some particular stage. There is nothing in the natural meaning of the word ‘process’ to exclude
+its application to handling. There may be a process which consists only in handling and there may be a process which involves no handling or not merely
+handling but use or also use. It may be a process involving the handling of the material and it need not be a process involving the use of material...
+
+1.4. In light of the above cited meanings and judicial interpretation, it is submitted that the term process is wide enough to cover
+even a mere handling of materials. Considering the scope of the said term, the Company humbly submits that the activities
+proposed to be carried out by the Company would fall within the ambit of the term ‘process’ or ‘treatment’.
+
+1.5. In addition to the above, the other pre-requisite for categorizing the proposed activity as a ‘job work’ would be the said
+treatment or process is required to be undertaken on goods belonging to another person. As per the proposed arrangement,
+coal would be supplied by the Principal (i.e. JSW Steel Ltd) to the Company for the purpose of carrying out the specified
+processes for generation of electricity which is supplied back to the owner of the coal, including the by-product i.e. fly ash.
+Thus, the Company humbly submits that the pre-requisites i.e. carrying out a treatment or process on goods belonging to
+another would qualify the proposed transaction under the ambit of a job work.
+
+2. DEPARTMENTAL FREQUENTLY ASKED QUESTION (FAQ)
+
+2.1. Without prejudice to the above, the Company humbly submits that the definition of the term ‘job work’ as defined under the
+GST legislation has a wider meaning than the one, as existed under the pre- GST regime. This has also been clarified in the
+
+FAQ issued by the Central Board of Excise and Customs — New Delhi’ which is reproduced as follows:
+
+Q1 . What is job work?
+
+Ans. Job work means undertaking any treatment or process by a person on goods belonging to another registered taxable person. The person who
+is treating or processing the goods belonging to other person ts called ‘job worker’ and the person to whom the goods belongs is called ‘principal’.
+
+
+This definition is much wider than the one given in Notification No. 214/86 — CE dated 23rd March, 1986. In the said notification, job work has
+been defined in such a manner so as to ensure that the activity of job work must amount to manufacture. Thus the definition of job work itself
+reflects the change in basic scheme of taxation relating to job work in the proposed GST regime.
+
+2.2. Based on the above, the Company humbly submits that the tax authorities have sought to differentiate the ambit of the term
+job work as existing under the GST regime, when compared to the pre-GST era. Under the GST regime, the definition seeks
+to cover a wider scope of services provided by the job worker. However, the Company humbly submits that its proposed
+activities would squarely be covered under the definitions of the term job work as existing under the pre-GST regime and
+accordingly the same should not be interpreted in a restrictive manner under the GST legislation.
+
+3. PROVISIONS APPLICABLE TO A JOB WORKER UNDER THE GST REGIME
+
+3.1. The Company seeks reference to Section 7 of the CGST Act which defines the ambit of the term ‘supply’. The said Section
+also seeks reference to Schedule I wherein supplies of goods or services or both between related persons or between distinct
+persons made in the course or furtherance of business without consideration would be deemed to be a supply.
+
+3.2. In light of the above inclusion, the Company also refers to Section 143 of the CGST Act wherein for the purpose of job work,
+a Principal may send inputs or capital goods without payment of tax to a job worker, subject to fulfilment of certain prescribed
+conditions, without any transfer of ownership permanent or temporary, defacto or dejure.
+
+3.3. Based on a harmonious reading of Section 7 and Section 143 of the CGST Act and reiterating what was stated during the
+personal hearing, the Company humbly submits that supply of goods, without payment of tax, for the purpose of a job work
+activity would be governed by Section 143 and subjected to the conditions mentioned therein. Further the Company humbly
+submits that the legislature does not exclude related parties from entering into a job work arrangement.
+
+4. APPLICABLE JUDICIAL PRECEDENTS
+
+4.1. Without prejudice to the above submissions, the Company humbly submits before Your Honor certain judicial precedents
+wherein the facts are squarely applicable to the present application. These can be cited as follows:
+© Commissioner of Central Excise vs Indorama Textiles Ltd.[2010 (260) ELT 382 (Bom HO)
+© Haldia Petrochemicals Lul vs CCE, Haldia [2006 (197) ELT 97 (Tri.- Dethi)]
+© Sanghi Industries Limited vs CCE, Rajkot [ 2006(206) ELT $75 (Tri.- Dethi)]
+© Sanghi Industries Limited vs CCE, Rajkot [ 2014(302) ELT 564 (Tri.- Ahmd.)]
+
+A copy of the aforesaid cases were submitted at the time of the personal hearing held on 15.02.2018.
+
+4.2. The above judgements cover instances where materials (such as naphtha, light diesel oil, furnace oil, etc) were supplied to
+the job worker for carrying out a specified process for the purpose of generation of electricity. Nowhere have the Courts
+denied or held that the activities undertaken do not result into a job work activity. Further the Supreme Court dismissed the
+appeal petition filed by the Commissioner of Central Excise Nagpur against the order of the Hon’ble Bombay High Court in
+the matter of Indorama Textiles Ltd (supra) - Commissioner vs Indorama Textiles Ltd. 2010(260) E.L.T. A83(SQ).
+
+In light of the aforesaid submissions and the submissions made earlier, it is submitted that the transaction proposed to be undertaken
+
+by the Company would be construed as a job work transaction and the Company would be considered as a job worker. Further,
+
+the GST would be payable only on the Job Work charges charged by the Company.”
+
+03. CONTENTION - AS PER THE CONCERNED OFFICER
+
+The submission, as reproduced verbatim, could be seen thus-
+
+UPPLY OF COAL OR ANY OTHER INPUTS ON A JOB WORK BASIS BY JSL TO JEL
+
+ans any treatment or process undertaken by a person on goods belonging to another registered person and the expression job-
+construed accordingly.
+
+“meani
+_ Section /
+
+ne af the term ‘job work’ has to be decided by taking into account provisions governing the job work procedure.
+43. Jéb work Procedure- (1) A registered person ( hereafter in this section referred to as the “ Principal") may under intimation and subject to such
+ay be prescribed, send any inputs or capital goods, without payment of tax, to a job worker for job work and from there subsequently send to another
+id likewise, and shall-
+ack inputs, after completion of job work or otherwise, or capital goods, other than moulds and dies, jigs and fixture, or tools, within one year and three
+respectively, of their being sent out, to any of his place of business, without payment of tax;
+») supply such inputs, after completion of job work or otherwise, or capital goods other than moulds and dies jigs and fixtures, or tools, within one year and three
+years, respectively, of their being sent out from the place of business of a job worker on payment of tax within India, or with or without payment of tax for export,
+as the case may be:
+Provided that the principal shall not supply the goods from the place of business of the job worker in accordance with the provisions of this clause unless the said
+principal declares the place of business of the job worker as his additional place of business except in a case-
+@ Where the job worker is registered under section 25; or
+(ii) Where the principal is engaged in the supply of such goods as may be notified buy the Commissioner
+(2) The responsibility for keeping proper accounts for the inputs or capital goods shall lie with the principal.
+(3) Where the inputs sent for job work are not received back by the principal after completion of job work or otherwise in accordance with the provision of
+clause(a) of sub-section (1) or are not supplied from the place of business of the job worker in accordance with the provision of clause (b) of sub-section (1)
+within a period of one year of their being sent out, it shall be deemed that such inputs had been supplied by the principal to the job worker on the day when
+the said inputs were sent out.
+(4) Where the capital goods, other that the moulds and dies, jigs and fixtures, or tools , sent for job work are not received back by the principal in accordance with
+the provisions of clause(a) of sub section (1) or are not supplied from the place of business of the job worker in accordance with the provisions of clause (b) of
+sub-section (1) with in a period of three years of their being sent out, it shall be deemed that such capital goods had been supplied by the principal to the job worker
+on the day when the said capital goods were sent out.
+(5) Notwithstanding anything contained in sub-section (1) and (2) , any waste and scrap generated during the job work may be supplied by the job worker directly
+from his place of business on payment of tax, if such job worker is registered, or by the principal , if the job worker is not registered.
+Explanation: - For the purpose of job work, inputs include intermediate goods arising from any treatment or process carried out on the inputs by the principal or
+the job worker.
+From the above legal provisions read together, it implies that in job work the job worker can undertake any treatment or process
+on goods belonging to another registered person and after job work such goods must necessarily be returned to the principal. In
+another words the goods supplied by the principal to be treated and processed upon by the job worker and processed goods to be
+returned to the principal. Though in the definition of job work it is specified that the job worker can undertake any process or
+
+6
+
+
+
+treatment, the provisions governing the job work procedure are the deciding factor to qualify whether any process or treatment
+amount to job work. And the basic underlying principal of job work is that the goods sent for job work may be subjected to any
+process or treatment but said goods after such treatment/process must be returned to the principal. Both the definition of
+Job Work given in Section 2(68) of CGST Act, 2017 and the procedure in Section 143(a) of the CGST Act, 2017 should be
+read in conjunction while coming to a conclusion about whether an activity is a job work or not.
+
+The real question to be decided in the instant matter is that whether combustion of subject goods ‘coal’ for generation of electricity
+would amount to ‘treatment or processing’ of coal. The answer is negative because the subject goods ‘coal’ being in the nature of
+tangible goods are used in this case for combustion in the boiler to convert water in to steam. The generated steam is in turn is
+supplied to the turbine to generate electricity. And the goods ‘electricity’ is intended to be supplied to JSL in lieu of coal. This
+itself means that the inputs supplied by the principal are not subjected to any ‘treatment or process’ but they are used/consumed to
+generate/manufacture ‘electricity’. As such the processed/treated upon goods are not returned to the principal only the ash or
+residue is proposed to be returned back. And the goods proposed to be returned back to the principal coal ash/residue can not be
+deemed as processed goods.
+
+One illustrative example of job work on coal is conversion of coal into Coke. Coal can be subjected to destructive distillation to
+be converted into Coke. This process satisfies the definition of ‘job-work’ as well as the governing provisions stipulated u/s 143
+are followed. Unlike the instant case where Coal is consumed in the boiler to generate steam which in turn is used in the
+generation/manufacture of a new commodity ‘electricity’ falling under CSH No 2716 0000. And the new commodity ‘electricity’
+is supplied back to the principal. It is expected in job work that goods supplied by the principal undergo ‘treatment/process’ at job
+worker’s end and after such treatment/job work they are returned to the principal. The process undertaken by JEL traverse well
+beyond the scope of the term ‘job work’. It is more than job work.
+
+This office is of the view that the act of sending tangible goods ‘coal’ to be consumed in the manufacture intangible goods
+‘electricity’ is beyond the scope of term ‘job work’ as per GST Law. Therefore supply of Coal or any other input would not amount
+to supply on a job work basis and applicable GST would apply. The rest of the question put forth for decision by JEL may be
+decided accordingly.”
+
+04. HEARING
+
+The case was taken up for hearing on dt.30.01.2018 and on dt.15.02.2018 when Sh. Rohit
+Jain (Advocate) attended alongwith Ms. Hirva Shah, DGM and reiterated the contention as made
+in the written submission. Written submission was tendered during hearing and a request was
+made to make a further submission. The same has been tendered. Sh. M. V. Kulkarni,
+
+Superintendent attended on behalf of the concerned officer from the Central Tax Office and
+
+furnished a written submission.
+
+JSW $teel Limited (JSL) and JSW Energy Limited (JEL), as the applicant informs, are related
+
+‘sons on account of direct or indirect control over each other.
+
+JEL, the applicant, is engaged in the business of generation of power. The applicant’s power
+
+plant is divided into four units.
+
+e JSL is engaged in the manufacture and supply of steel. JSL requires power on a continuous
+and dedicated basis, for manufacturing steel at its steel plant. For the said purpose, JSL and
+JEL proposed to enter into a Job Work Agreement pertaining to Unit III and Unit IV of the
+power plant which are in the nature of a captive power plant.
+
+e In terms of the proposed agreement, JSL would supply coal or any other inputs to JEL ona
+free-of-cost basis. On receipt of the same, JEL would undertake certain processes to convert
+the said inputs into power. In accordance with the Job Work Agreement, the title to the coal
+or any other inputs along with the power generated from the said inputs will vest with JSL.
+
+7
+
+
+e The above can be further explained as under :
+
+a. JSL imports coal from suppliers located outside India.
+
+b. Required inputs (such as coal) would be supplied by JSL to JEL. For the purpose of this
+arrangement, JSL shall be treated as a ‘Principal’. On receiving the inputs, JEL shall
+undertake the activities in accordance with the Job Work Agreement.
+
+c. Power generated from the aforesaid activities shall be supplied back to the Principal.
+
+d. JEL would recover charges from JSL in accordance with the Job Work Agreement. Each
+invoice shall contain details of the inputs supplied to JEL and power supplied to JSL and
+the charges for services rendered during the preceding month, applicable taxes and the
+date of payment for the said consideration.
+
+e In the aforesaid background, we are called upon to determine the applicability of GST on:
+
+1. Supply of coal or any other inputs on a job work basis by JSL to JEL
+
+2. Supply of power by JEL to JSL
+
+3. Job work charges payable to JEL by JSL
+
+We proceed with the issue thus -
+
+The applicant before us is JEL. We refer to the GST Act to understand the mechanism of
+an Advance Ruling wherein clause (a) of section 95 says that -
+
+“95. In this Chapter, unless the context otherwise requires,—
+
+(a) “advance ruling” means a decision provided by the Authority or the Appellate Authority to an applicant on matters
+or on questions specified in sub-section (2) of section 97 or sub-section (1) of section 100, in relation to the supply
+
+of goods or services or both being undertaken or proposed to be undertaken by the applicant;
+: RON As can be seen the ruling is in respect of the supply undertaken or proposed to be
+
+unctetaien by the applicant. If this is the case then we see that the question no.1 as posed before
+
+us pertains to supply by JSL and not JEL, the applicant. In view thereof, the same cannot be
+« _ entertain id by us. Further, during hearing, the applicant has also acceded to this question not
+— bets’ gerne by the Advance Ruling Authority in view of the supply being by JSL and not
+cL, the applicant. We therefore restrict these proceedings to question nos.2 and 3 and move
+
+on to decide the same.
+
+SUPPLY OF POWER BY JEL TO JSL
+There is a supply of power by JEL to JSL. JEL has stated that JSL and JEL are related persons. A
+
+study of the application reveals that the applicant has submitted that -
+i. Movement of coal or any other inputs from JSL to JEL would not be subjected to tax on
+account of movement of inputs for job work activities.
+ii. GST would be applicable on the job work charges levied by JEL to JSL.
+We are not concerned with (i) above as it is not a supply by JEL. As regards (ii) about
+
+supply of electricity by JEL to JSL, we will have to examine the correct position after analysis of
+
+GST provisions that will be applicable in the context of the present case.
+
+
+As we begin to analyse, we see that the inputs provided by JSL to JEL are coal or any
+other inputs and after processing these, the output is electricity which is supplied to JSL. As an
+immediate observation, we have to say that the goods sent for job work are coal and after the so
+claimed process of ‘job work’ by JEL, the new product ‘electricity’ comes into existence. It is very
+apparent that the goods which are received after job work are in no way identifiable with the
+goods which were sent for job work. Electricity is a totally new commodity which will be
+delivered to JSL. To ascertain whether conversion of coal into electricity would tantamount to
+being ‘job work’, we need to examine the relevant provisions under the GST. We find that the
+definition of job work under GST Act is as under -
+
+“(68) “job work” means any treatment or process undertaken by a person on goods belonging to another registered person and
+the expression “job worker” shall be construed accordingly;
+
+As can be seen the definition calls for application of a treatment or process to the goods.
+Treatment or process in this definition would mean some processes on the goods but would
+definitely not mean a complete transformation of the input goods into a new commodity. For
+this proposition, we draw support from the decision of the Hon. Supreme Court in Manganese
+Ore India Ltd. v. State of M.P., (2017) 1 SCC 81 : 2016 SCC OnLine SC 1280 which has very lucidly
+explained the meaning of the term ‘treatment and processing’.
+
+“20. We are absolutely conscious that noscitur a sociis rule is not applied when the language is clear and there is no ambiguity,
+which according to us does exist and is perceptible in the Explanation in question. A very broad and a wide definition of the term
+“processing” if applied, would include manufacture of a new or distinct product. Manufacture normally involves a series of
+processes either by hand or machine. If a restricted construction is not applied it would create and give rise to unacceptable
+consequences. It is not the intent to treat and regard manufacturing activities as processing. Manufacturing, as is understood,
+means a series of processes through different stages in which the raw material is subjected to change by different operations. (For
+nce between process and manufacturing see CIT v. Tara Agencies [CIT v, Tara Agencies, (2007) 6 SCC 429] , Orient Paper
+lta in ustries Ltd. v. State of M.P. [Orient Paper and Industries Ltd. v. State of M.P., (2006) 12 SCC 468] and Aspinwall & Co.
+We ‘Aspinwall & Co. Ltd. v. CIT, (2001) 7 SCC 525] .)
+», 21. The words “crushing”, “treating” and “transporting” are words of narrower significance and the word “processing” used
+: betwee! Si words should not be given a very wide meaning, for the legislative intent, according to us, is narrower. The word
+« “processing would take its meaning in the cognate sense. In other words, the general word “processing” will be restricted to
+“Whe sense eyed by the words “crushing”, “treating” and “transporting”. The intent being that electricity tariff payable in
+& _pespect of Iffing activities would include the mine itself, all machinery situated or located in the mine or in a premises adjacent
+“== thg? mer wherein crushing, processing, treatment or transportation of the minerals as mined is undertaken. The word
+Mew “process ig” herein would mean those processes with the help of hands or machineries connected and linked to mining activity.
+Sr Ra te not include process by which a new or different article other than the one which has been mined, is produced. It relates
+wd signifies the composite activity of mining and processing. The intent is not to include processes which would lead to creation
+of a different commodity as known in the commercial world for otherwise even manufacturing activity would get covered,
+whereas manufacturing unit is liable to pay electricity tariff at a lower rate. The intent and purpose is certainly not to compel and
+force a manufacturing unit being set up at an acceptable distance from the mine, for the manufacturing unit adjacent to the mine
+would have to pay electricity tariff at a higher rate. Pertinently, a manufacturing unit set up by another entity, whether adjacent
+to the mine or not, would pay a lower tariff. Such absurdity and irrationality has to be avoided. In the present context, we would,
+therefore, hold “processing” would mean activities in order to make the mineral mined marketable, saleable and transportable,
+without substantially changing the identity of the mineral, as mined. When there is a substantial change at the mineral mined and
+the process results in a different commodity being produced or transforming and completely changing the mineral, it would fall
+outside the scope of the word “processing”. The restricted construction will also be acceptable in view of the use of the word
+“mineral” at the end of the Explanation. The word “mineral” in the Explanation is the product which was mined and is put to
+“crushing”, “processing”, “treatment” and “transporting” the mineral. In other words, mineral means mineral which was mined
+and not a new product created by using or processing the mineral mined.
+
+Applying the ratio in the above case, we see that the definition of ‘job work’ in the GST
+Act uses the words ‘treatment or process’. The impugned activity undertaken by the applicant to
+convert the coal into electricity would not be covered by the words ‘treatment or process’ as
+
+found in the definition of ‘job work’. Here, the intent of the legislation is not to cover such
+9
+
+
+treatment or process as would result into a distinct commodity. The activity, in fact, is a
+manufacture of electricity. And we find that the activity of ‘manufacture’ has been defined in the
+GST Act which is as follows :
+
+“(72) “manufacture” means processing of raw material or inputs in any manner that results in emergence of a new product
+having a distinct name, character and use and the term “manufacturer” shall be construed accordingly;”
+
+As can be seen the definition itself says that the emergence of a new product from the
+processing of the inputs would be a manufactured product. In the instant case the end product
+e., “electricity” has a distinct name, character and use than the inputs i.e., “coal”. Thus, when
+the Legislature has provided for the definition of ‘job work’ as well as ‘manufacture’, the meaning
+as understood by the definition of ‘manufacture’ cannot be read into the words ‘treatment or
+process’ as found in the definition of ‘job work’. ‘Treatment’, ‘Process’ and ‘Manufacture’ are
+three different activities recognized by the Legislature. The intent of the Legislature is to restrict
+the scope of ‘job work’ to ‘treatment’ or ‘process’ and not to extend the same to ‘manufacture’.
+We need not deliberate more on the issue as the emergence of a distinct commodity is very
+obvious and therefore beyond the applicability of the definition of ‘job work’ under the GST Act.
+Here, we would like to say that the applicant has placed much reliance on certain case
+
+laws under the Central Excise Act which have been reproduced above. However, the case laws
+deal with the provisions as were available under the said Act. Such are not the facts in the instant
+case. We find that these case laws relied upon by the applicant were in the context of eligibility
+of input tax credit vis-a-vis the definition of input. For the sake of better understanding, we
+_would like to reproduce one such definition which was in consideration in the case of Haldia
+
+Pétrgehamicals Ltd vs CCE, Haldia [2006 (197) ELT 97 (Tri.~ Dethi)] -
+
+: input® leon Ul goods, except high speed diesel oil and motor spirit, commonly known as petrol, used in or in relation to the manufacture of
+Be ether directly or indirectly and whether contained in the final product or not, and includes accessories of the final products
+
+cletired alohgavigh the final product, goods used as paint, or as packing material, or as fuel. or for generation of electricity or steam used for
+
+manufacture
+
+aig coolant}.
+
+nal products or for any other purpose, within the factory of production, and also includes lubricating oils, greases, cutting oils
+
+Bs) ‘an be seen, the processes involved in the above cases required that the inputs used
+¥ svAnay not have been found in the final product. The facts before us and the applicable
+provisions are different than those found in the case laws relied upon by the applicant. Further,
+we observe that the facts and applicable provisions being unambiguous, we do not feel the need
+to comment or discuss the other case laws and provisions as relied upon by the applicant.
+
+We are of the firm view that the activity undertaken by JEL amounts to manufacture of
+electricity from the coal as supplied by JSL and is squarely covered in the definition of
+‘manufacture’ under the GST Act. It is, therefore, not covered by the scope of the definition of
+‘job work’ under the GST Act as contended by the applicant.
+
+We now invite attention to Section 7 of the GST Act which explains the scope of ‘supply’:
+
+7. (I) For the purposes of this Act, the expression “supply” includes—
+(a) all forms of supply of goods or services or both such as sale, transfer, barter, exchange, licence, rental, lease or disposal made or
+agreed to be made for a consideration by a person in the course or furtherance of business;
+(6) import of services for a consideration whether or not in the course or furtherance of business;
+
+10
+
+
+(c) the activities specified in Schedule I, made or agreed to be made without a consideration; and
+(d) the activities to be treated as supply of goods or supply of services as referred to in Schedule II.
+(2) Notwithstanding anything contained in sub-section (1),—
+(a) activities or transactions specified in Schedule III; or
+(b) such activities or transactions undertaken by the Central Government, a State Government or any local authority in which they are
+engaged as public authorities, as may be notified by the Government on the recommendations of the Council,
+Shall be treated neither as a supply of goods nor a supply of services.
+(3) Subject to the provisions of sub-sections (1) and (2), the Government may, on the recommendations of the Council, specify, by notification,
+the transactions that are to be treated as—
+(a) a supply of goods and not as a supply of services; or
+(b) a supply of services and not as a supply of goods.
+
+It can be seen that sub-section (2) begins with the word “notwithstanding” and sub-section
+(3) begins with the words “Subject to the provisions of sub-sections (1) and (2)”. The way the sub-sections
+(2) and (3) are framed determines the effect of the provisions in sub-section (1). Now we see that
+clause (c) of sub-section (1) refers to activities specified in Schedule I. It is further specified that
+these activities of Schedule I may be made or agreed to be made without a consideration. So we
+shall have a look at the Schedule I thus -
+
+“SCHEDULE I [See section 7]
+ACTIVITIES TO BE TREATED AS SUPPLY EVEN IF MADE WITHOUT CONSIDERATION
+1. Permanent transfer or disposal of business assets where input tax credit has been availed on such assets.
+2. Supply of goods or services or both between related persons or between distinct persons as specified in section 25, when made in the course
+or furtherance of business:
+Provided that gifts not exceeding fifty thousand rupees in value in a financial year by an employer to an employee shall not be treated as
+
+supply of goods or services or both.
+3. Supply of goods—
+
+(a) by a principal to his agent where the agent undertakes to supply such goods on behalf of the principal; or
+
+(b) by an agent to his principal where the agent undertakes to receive such goods on behalf of the principal.
+4. Import of services by a taxable person from a related person or from any of his other establishments outside India, in the course or
+furtherance of business.”
+
+Para 2 of the Schedule I is about supply of goods or services or both between related
+persons or between distinct persons as specified in section 25, when made in the course or
+
+furtherance of business. Further, the Explanation to section 15 explains ‘related persons’ thus -
+
+such persons are officers or directors of one another's businesses;
+such persons are legally recognised partners in business;
+uch persons are employer and employee;
+person directly or indirectly owns, controls or holds twenty-five per cent. or more of the outstanding voting stock or shares of
+th of them;
+of them directly or indirectly controls the other;
+dth of them are directly or indirectly controlled by a third person;
+sgether they directly or indirectly control a third person; or
+
+the Explanation to section 15, JSL and JEL are related persons on account of direct or indirect
+control over each other. In view thereof, in terms of para 2 of Schedule I, the supply of goods or
+services or both between JSL and JEL would be treated as supply even if made without
+consideration. Therefore, the supply of power by JEL to JSL would be a transaction of ‘supply’.
+And GST would be applicable on this supply.
+
+We would now look at the third question -
+
+JOB WORK CHARGES PAYABLE TO JEL BY JSL
+
+As already discussed above, the transaction between JEL and JSL is a transaction of
+
+supply of goods and not a ‘job work’. And hence, the question does not survive.
+1
+
+
+In view of all above deliberations, the questions can be answered thus -
+
+05. In view of the extensive deliberations as held hereinabove, we pass an order as follows :
+
+ORDER
+
+(under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+NO.GST-ARA-05/2017/B- 08 Mumbai, dt. osfoa\ig
+
+For reasons as discussed in the body of the order, the questions are answered thus -
+
+Q.1 Applicability of GST on supply of coal or any other inputs on a job work basis by JSL to
+JEL
+
+A. This question pertains to supply JSL and not JEL, the applicant. In view thereof, the same
+is not entertained.
+
+Q.2. Applicability of GST on supply of power by JEL to JSL.
+
+A; This question is answered in the affirmative.
+
+Q.3 Applicability of GST on job work charges payable to JEL by JSL.
+
+A. The transaction between JEL and JSL is a transaction of supply of goods and not a ‘job
+
+work’ and therefore, the question does not survive.
+
+foe PLAS Mumbai
+
+——
+PANKAJ KUMAR
+(MEMBER)
+
+Copy to:-
+1. The applicant
+
+2. The concerned Central / State officer Y
+wo: : CERTIFIED TRUE COP
+3. The Commissioner of State Tax, Maharashtra State, Mumbai
+
+3. The Jurisdictional Commissioner of Central Tax \
+
+iwc AUTHOR! TY
+ANCE RULING feet MB
+AOMIARASHTRASTATE. i“
+
+12

@@ -1,0 +1,1094 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+(constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri B. V. Borhade, Joint Commissioner of State Tax
+(2) Shri Pankaj Kumar, Joint Commissioner of Central Tax
+
+GSTIN Number, if any/ User-id 27AABCP2572Q1ZW / 271800000506A RO
+
+Legal Name of Applicant Precision Automation and Robotics India Limited
+
+Registered Address/Address provided while | Gat No.463-A,463-B and 464, Pune-Bangalore
+
+obtaining user id Highway, Mouje Dhangarwadi, Tal : Khandala,
+Dist : Satara, 412801[MS]
+
+Details of application GST-ARA, Application No. 39 Dated 16.03.2018
+
+Concerned officer Division-I, Central GST, Range-I (Shirwal), Satara
+
+Nature of activity(s) (proposed / present) in
+respect of which advance ruling sought
+
+A | Category Factory / Manufacturing, Service provision, Service
+Recipient
+B | Description (in brief) As reproduced in para 02 of the Proceedings below.
+Issue/s on which advance ruling required (i)Classification of goods and/or services or both
+Question(s) on which advance ruling is required _| As reproduced in para 01 of the Proceedings below. |
+PROCEEDINGS
+
+(under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+The present application has been filed under section 97 of the Central Goods and Services
+Tax Act, 2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as
+“the CGST Act and the MGST Act”] by Precision Automation and Robotics India Limited, the
+applicant, seeking an advance ruling in respect of the following question :
+
+Whether the activity of supply and installation of ‘car parking system’ would qualify as
+immovable property and thereby ‘works contract’ as defined in Section 2(119) of the CGST Act.
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and
+the MGST Act are the same except for certain provisions. Therefore, unless a mention is
+specifically made to such dissimilar provisions, a reference to the CGST Act would also mean a
+reference to the same provision under the MGST Act. Further to the earlier, henceforth for the
+purposes of this Advance Ruling, a reference to such a similar provision under the CGST Act /
+MGST Act would be mentioned as being under the “GST Act”.
+
+02. FACTS AND CONTENTION - AS PER THE APPLICANT
+
+The submissions, as reproduced verbatim, could be seen thus -
+
+“STATEMENT OF THE RELEVANT FACTS HAVING A BEARING ON THE QUESTION(S) ON WHICH THE ADVANCE RULING
+
+IS REQUIRED
+
+1. This Application is being preferred by Precision Automation & Robotics India Limited (*Company”/"Applicant”), a company
+incorporated in India under the provisions of the Companies Act, 1956 having its registered office at Gat No.463-A.463-B and 464,
+Pune-Bangalore Highway, Mouje Dhangarwadi, Tal : Khandala, Dist : Satara, 412801[MS}.
+
+2. The applicant is engaged in providing goods and services which qualify as ‘supply’ as per provisions of the Central Goods and
+Service Tax Act, 2017 (“CGST Act”) and is duly registered thereunder bearing GSTIN 27AABCP2572Q1ZW.
+
+3. The Company is engaged in the business of design, manufacturing, procurement, erection and installation of various types of
+car parking system. Supply and installation of car parking system involves several components, out of which certain
+components are manufactured by the Company and remaining are bought out items. The Company undertakes the activity qua
+
+following types of car parking systems:
+
+
+
+© Stacker type parking system;
+* Puzzle type parking system;
+© Multi - level parking system:
+- RCC type Tower car parking system;
+- Structure type Tower car parking system;
+~ Level type car parking system
+CART type parking system;
+Stacker type parking system;
+~ Chess type parking system.
+
+4. It is relevant to state that there are various important steps involved in the process of setting up of car parking system which
+are dependent upon the requirement of customers. At the inception, after receiving the order from the customer, the Company
+is required to prepare a drawing of the car parking system, the foundation details, utility and the civil requirements Sample
+designs of the car parking systems are attached herewith as Exhibit A. It is important to note that the car parking system is
+either installed in a building or on independent vacant land. Irrespective of the location, a specific foundation is created and
+steel structure and / or RCC structure, which is a basic frame work of the parking system, is erected in such foundation, This
+specific foundation and structure is a pre-requisite for successful installation and effective working of the car parking system.
+In this regard, we would like to refer the Purchase Order issued by the Customer which contains the similar points. Relevant
+portion is reproduced below
+“Scope of work
+1. Steel structure : Complete designing and fabrication & installation will be done by PARI
+2. Incase of civil structure: It will be completely in client's scope of work, PARI will provide the required foundation specifications to make
+sure the precise foundation work”
+
+5. Along with RCC structure /foundation, various parts such as pallets, control panel, side sliding, suspension, operator panel,
+electrical systems are required. In order to ensure safe movement of the cars, safety equipment such as pallet overriding sensor,
+guiding sensor, car loading sensor are also required to be installed. Car parking system cannot be made functional unless all
+the aforesaid steps have been completed and assembled at site. After installation and assembling of the parts, the Company is
+required to undertake testing of the car parking system at customer's premises to verify smooth and safe functioning of the
+same.
+
+6. The erection of a car parking system involves elaborate work and has to be correlated with and tailored, to meet the needs and
+requirements of a particular building/premises, Therefore, none of the car parking systems can be a readymade assembled unit
+and its erection cannot be done in a routine manner
+
+7. For ease of understating of the complex process of installation of car parking system, we have depicted the same by way of a
+
+diagram:
+
+Drawing & design of the car parking system is prepared according to the requirement of the customer, _]
+
+[ Manufacture, build, test, dismantle, packing and supply steps ]
+
+Building specific foundation (either in the basement of building or on land) as per the requirement of the car parking to be installed ]
+
+[ Steel structure frame work (and / or RCC support) according to the car parking system is created and installed on the foundation ]
+
+[ Various parts such as pallets, control panel, side sliding suspension. operator panel, electrical systems are installed in the RCC structure ]
+
+[ Safety features such as pallet overriding sensor, guiding sensor, car loading sensor and other safety equipments are installed ]
+
+[ Testing is undertaken by the Company ]
+
+8. The Company generally executes a composite contract with the customer which inter alia includes supply of parts of car parking
+system as well as installation & commissioning services - which requires high technical skill, mechanical and mechatronics
+knowledge, compliance with engineering specifications, knowledge of safety requirements and other such regulations.
+
+9. A new law has been implemented in India since July 1, 2017 - Goods and Services Tax (“GST”) wherein the definition of
+“works contract’ has been defined in Section 2 (119) of the CGST Act. In terms of the said definition, where supply of goods
+and services results into and immovable property is considered as works contract. Relevant extract of the same is reproduced
+
+below for your ready reference:
+“works contract” means a contract for building, construction, fabrication, completion, erection, installanon, fitting out, improvement, modification, repatr,
+maintenance, renovation, alteration or commissioning of any immovable property wherein transfer of property in goods (whether as goods or in some other form)
+1s involved in the execution of such contract”
+
+10. Given the above background, the present application is being preferred before the Hon’ble authority of Advance Ruling to
+
+determine whether the activity of supply and installation of ‘car parking system’ would qualify as immovable property and
+
+thereby ‘works contract’ as defined in Section 2 (119) of CGST Act.
+STATEMENT CONTAINING THE APPLICANT’S INTERPRETATION OF LAW AND/OR FACTS, AS THE CASE MAY
+RESPECT OF THE QUESTION(S) ON WHICH THE ADVANCE RULING IS REQUIRED.
+5 ISSUE FOR DETERMINATION
+1.1. Whether the activity of supply and installation of ‘car parking system’ as “works contract’ as defined in Section 2(119) of
+the CGST Act.
+2 OUR SUBMISSION
+
+2.1. The moot question for determination of the taxability of the underlying transaction from the GST perspective lies in the
+analysis of the fact that whether supply and installation of car parking system qualifies as immovable property (or movable)
+and would qualify as works contract under Section 2(119) of the CGST Act.
+
+2.2. As far as the analysis of a transaction for its qualification as ‘works contract’ is concerned, it is relevant to note that the
+concept of ‘works contract’ qua immovability has been subjected to intense judicial scrutiny over the years. Based on the
+past judicial precedents and relevant provisions; following determinative parameters have been derived for examining the
+nature of a transaction
+e Whether it is a permanent fixture attached to building/land or not;
+¢ Whether dismantling of the parts is mandatory for movement or not;
+
+e Whether the functionality of the system depends upon its installation or not.
+In the paragraphs below all the above three parameters are examined in reference to the facts presented by the Applicant.
+
+BE, IN
+
+2
+
+
+stem is a permanent fixture attached to bui land wherein it is erected
+
+It shall be noted that the term ‘immovable property” has not been defined under the CGST Act. Thus, reference is made to
+
+the definition of immovable property under the General Clauses Act, 1987 Black’s Laws Dictionary which is as under:
+
+“Immovable property shall include land, benefits to arise out of land and things attached to the earth, or permanently fastened to anything
+
+attached to the earth” ~ As per General Clauses Act / Maharashtra Stamp Act.
+
+“Immovable property means a property that cannot be moved; an object so firmly attached to land that it is regarded as a part of land” ~
+
+As per Black's Law Dictionary
+
+2.4. In terms of the aforesaid definition, immovable property means anything that is attached to land and cannot be easily
+detached. In this regard, reference can be made to the following rulings:
+
+I. IN RE: OTIS Elevator Company (India) Limited [1981 (8) ELT 720 (G.O.1)]
+“3, .... In their revision application and during the personal hearing, the following main contentions have been urged on behalf of
+the petitioners :-
+“3. (i) They have contended that the contracts for erection and installation of elevators and escalators were indivisible Works
+contracts and do not constitute contracts for sale of goods. They have stated that all the parts manufactured by them or purchased
+from the open market for the installation of lifts had already discharged the burden of duty on such parts wherever leviable and
+further they have stated that the elevators and escalators do not come into existence until they are fully erected or installed,
+adjusted, tested and commissioned in a building and that on complete erection and installation the elevators and escalators
+become a part of immovable property and cannot be described as goods. In support of this they have referred to the affidavit of
+Shri L. N. Venkatraman, Construction Executive of their company. They have also relied on the judgment of the High Court of
+Bombay in a Sales Tax Matter (Sales Tax Reference No. 5 of 1965). The High Court by its order dated 22-1-1968 held that the
+contract for furnishing and erecting the elevator installation was a composite but indivisible contract for work and labour and
+no sales of goods can be spelt out of the contract.
+4. Government find considerable force in the petitioners contention referred to the para 3(i) above that elevators and escalators
+erected and installed by them become a part of immovable property and hence ..."
+IL. Quality Steel Tubes (P) Ltd. V/s Collector of Central Excise, (U.P.) [1995 (75) ELT 17 (S.C.)]
+“Goods which are attached to the earth and thus become immoveable do not satisfy the test of being goods within the meaning of the
+Act nor it can be said to be capable of being brought to the market for being bought and sold. Therefore, both the tests, as explained
+by this Court, were not satisfied in the case of appellant as the tube mill or welding head having been erected and installed in the
+premises and embedded to earth they ceased to be goods within meaning of Section 3 of the Act”
+
+2.5. Oncumulative reading of the above, it is evident that immovable property means a property that is attached to land and is a
+part and parcel of land itself. In the present facts, the car parking system is installed either in the building or vacant land.
+One of the essential requirement of the car parking system is specific foundation and steel structure/civil structure which is
+erected in the building or on land Thus, after installation, the said car parking system would form part of the building.
+
+2.6. In this regard, we would like to highlight that in terms of the Supreme Court Ruling in the matter of Nahalchand Laloochand
+P. Ltd vs Panchali Co-operative Housing Society Ltd. [2010 AIR SCW 5549], it was inter alia observed that builder cannot
+sell car parking to the individual flat owners as it is a part of common area of land or building. Such area of the building
+cannot be sold to the individual person as the cost of such common area is recovered from all the flat owners and accordingly
+every flat owner has undivided share in that common area. In the present facts, it is important to note that builder cannot sell
+the car parking system to the individual flat owners. This substantiates the fact that car parking system becomes a part of
+building/land. Further, in case of new construction, if the automated car parking is envisaged in the architecture ofa building,
+the builder is specifically required to include the same in the application made to the municipal corporation for obtaining
+approval of the building plan. Further, Occupancy Certificate is also granted by the Municipal Corporation after installation
+of the car parking system.
+
+2.7. In view of the discussion above, it is submitted that the car parking system is an integral part of the building and accordingly,
+the car parking system results in immovable property. This can further be corroborated by the fact that, at the time of purchase
+of flat, stamp duty is paid on the agreement value including the value of car parking system at the rate applicable on the
+immovable property.
+
+Entire car parking system cannot be moved “as it is” and necessarily has to be dismantled
+
+2.8. Another important aspect with respect to immovable property is dismantling thereof in case of shifting or for the purpose of
+movement, Immovable properties cannot be moved in the same form as they are erected/installed on the land.
+
+2.9. In this regard, we would like to refer to the Circular issued by CBEC and rulings of the Supreme Court which have been
+discussed in the paragraphs below:
+
+1 Circular No.58/1/2002 dated January 15, 2002.
+“If items assembled or erected at site and attached by foundation to earth cannot be dismantled without substantial damage to its
+components and thus cannot be reassembled, then the items would not be considered as moveable and will, therefore not be excisable
+goods. If any goods installed at site (example paper making machine) are capable of being sold or shifted as such after removal
+from the base and without dismantling into its components/parts, the goods would be considered to be moveable and thus excisable.
+The mere fact that the goods, though being capable of being sold or shifted without dismantling, are actually dismantled into their
+components/parts for ease of transportation etc., they will not cease to be dutiable merely because they are transported in dismantled
+condition, Each case will therefore have to be decided keeping in view the facts and circumstances, particularly whether it is
+practically possible (considering the size and nature of the goods, the existence of appropriate transport by air, water, land for such
+size, capability of goods to move on self propulsion — ships- etc.) to remove and sell the goods as they are, without dismantling into
+their components. Ifthe goods are incapable of being sold, shifted and marketed without first being dismantled into component parts,
+the goods would be considered as immovable and therefore not excisable to duty.
+I. Municipal Corporation of Greater Bombay vs Indian Oil Co. Ltd [AIR 1991 SC 686]
+“Permanency is the test. The chattel whether is movable to another place of use in the same position or liable to be dismantled and
+re-erected at the later place? If the answer is yes to the former it must be a moveable property and thereby it must held that it is not
+attached to the earth. If the answer is yes to the latter it is attached to the earth.”
+WL ‘T.T.G. Industries Ltd y. Collector of Central Excise [(2004)4 SCC 751]
+“We are not impressed by this reasoning, because it ignores the evidence brought on record as to the nature of processes employed
+in the erection of the machine, the manner in which it is installed and rendered functional, and other relevant facts which may lead
+one to conclude that what emerged as a result was not merely a machine but something which is in the nature of being immovable,
+and if required to be moved, cannot be moved without first dismantling it, and then re-erecting it at some other place. Some of the
+other decisions which we shall hereafter notice clarify the position further.”
+
+2.10. On combined reading of the Circular and the judgments referred above, it is evident that if dismantling of the entire
+system/machinery is a pre-requisite for movement/transportation of the said system, then the said system can be considered
+
+ae
+
+NANCE Ru;
+ete We
+
+YG
+ié
+a 3
+Ht 4
+
+
+as immovable in nature. However, if the equipmenvsystem is dismantled for convenience then the same cannot be considered
+as immovable based upon the fact that the equipment is dismantled and transported in lots.
+
+2.11. Inthe present facts, parts of the car parking system are transported in various lots. Even in case of small sized parking system
+such as the stacker parking system, the same cannot be transported ‘as is’ from the factory. In case of shifting of car parking
+system from one place to another, it cannot be moved in ‘as is’ form but it requires to be excavated, re-laid and re-installed
+with necessary equipment’s at such other place. It is not an equipment or machinery which can be effortlessly required to
+be dismantled into parts and components.
+
+Car parking system cannot be functional unless it becomes permanent fixture to land/building
+
+2.12. Immovable properties are created/made after installation/assembling of various parts in a systematic manner. Unless all the
+requisite parts have been assembled or installed in the specified manner, the immovable property does not come into
+existence and cannot be made functional. Parts of the immovable property in its singular form cannot be considered as
+immovable property.
+
+2.13. Inthis context, reference is made to the Hon'ble Supreme Court judgment in the case of Kone Elevator India Private Limited
+
+Vs. State of Tamil Nadu [2014 (304) ELT 161 (SC)] wherein the issue of immovability of lift was discussed, Relevant
+extract of the judgment is reproduced below:
+“The lift basically comprises components like lift car, motors, ropes, rails, etc. having their own identity even prior to installation. Without
+installation, the lift cannot be mechanically functional because it is a permanent fixture of the building having been so designed. These
+aspects have been elaborately discussed in Otis Elevator (supra) by the High Court of Bombay. Therefore, the installation of a lift ina
+building cannot be regarded as a transfer of a chattel or goods but a composite contract."
+
+2.14. Reference is also drawn from Hon’ble Supreme Court's decision in the case of Triveni Engineering & Industries Ltd. vs.
+CCE [2000 (120) ELT 273], wherein installation of turbo alternator which included installing its constituent parts viz. ‘steam
+turbine” and ‘alternator’ together in a permanent form was evaluated. It was observed that turbo alternator comes into
+existence only when steam turbine and alternator is fixed together permanently to earth. Based on such observation it was
+held that turbo alternator as it came into existence was in nature of immovable property.
+
+2.15, Supreme Court ruling in the case of Kone Elevators (supra) has emphasized upon the functionality test i.¢. lift cannot be
+functioned unless it becomes a part of the building. Automatic car parking system comes into existence only when its
+constituent parts such as indexers, lifters, etc. are installed together. The car parking system cannot function unless all the
+requisite parts and components are installed together with necessary equipment.
+
+2.16, Thus, the automated car parking system becomes operational and functional only after it is installed, adjusted, tested and
+commissioned to the building at the customer's premises — same as lifts which has been considered as immovable property
+by Supreme Court.
+
+Activities comparable to installation of car parking systems have been consistently held to be as immovable by various courts
+
+2.17. At this stage, we wish to draw, parallel with various similarly placed segments of work, such as furniture units, central air
+conditioning system, transmission equipment’s installed as a part of telecommunication network wherein the courts have
+clearly held them to be in the nature of immovable property. While it is not the case of the Applicant that these activities are
+in toto that of installation of car parking system, however, prima facie look at the nature of the activities viz. installation of
+central air conditioning system, installation of transmission e1 quipment as a part of telecommunication network etc. clearly
+reveals that in terms of the breadth and scope of the work involved (designing, installation, erection etc.) and the target of
+the work involved (wall, building, telecom network) viz. immovable property remains the same as that of car parking system
+
+2.18. Attention is invited to the following judgments wherein the aforesaid activities have been held as immovable in nature:
+
+Judgment Summary
+CCE, Indore Vs. Virdi Brothers 2007 (207) | It has been held that assembling of central air conditioning system amounts to immovable
+ELT 321 SC] property.
+Craft Interiors Private Limited Vs. CCE, | It has been held that storage units, running counters, overhead unit, rear and side unit,
+Bangalore [2006(203) ELT 529 SC] wall unit, pantry unit, kitchen unit are ordinarily immovable and cannot be removed
+
+without cannibalizing.
+CCE, Mumbai Vs. Josts Engineering | It has been held that spray paint booth is considered as immovable property based on the
+Company Limited [2002 (146) ELT 29 SC] following factors i) the outside portion of the structure is embedded to the earth ii) it can
+never be dismantled without damaging the portions iii) the system is touching the earth
+iv) the system cannot work without being installed.
+| CCE, Mumbai IV Vs. Hindustan Max | The Hon'ble High Court held that the transmission apparatus/equipments installed in BTS.
+Telecom Private Limited [2008(224) E.L.T. | site room qualify as immovable goods as without tower, UPS, cable trays, AC etc. the
+
+191 (Bom.) BTS would not be in a position to function as transmitting and receiving apparatus.
+
+Shapoorji Pallonji & Co. Vs. Union Of India | The activity of erecting trusses, columns and purlins made by cutting/drilling/welding
+
+[2005 (192) E.L.T. 92 (Bom.)] steel channels, angles, plates on concrete columns with nuts and bolts is treated as an
+immovable property
+
+2.19. In view of the above, it is submitted that the installation of car parking system qualifies as immovable in nature and thus the
+underlying activity is squarely covered under the definition of ‘works contract’.”
+
+03. CONTENTION - AS PER THE CONCERNED OFFICER
+
+The submission, as reproduced verbatim, could be seen thus-
+
+“RELEVANT PROVISIONS OF STATUTE AND OBSERVATIONS:
+
+4. Basis the submission and records produced by the applicant it is crystal clear that the activity performed by the applicant
+in relation to supply and installation of car parking system, involves various steps some of which may be categorized under
+manufacturing activity and some may be classified under service activity. First, they get the order from their customers and then
+design and manufacture the car parking systems in their factory premises, as per requirements of their customers. After finishing
+the manufacturing process they dismantle the system, transport the entire system to the premises of their customers and reinstall
+the system.
+
+
+
+4.1 Here it is pertinent to mention that the applicant are indulged in manufacturing and installation of Car parking systems
+since long and it is evident that they were clearing and installing the entire car parking system under the Central Excise Tariff
+Heading 84289090 of Central Excise Tariff Act, 1985.
+
+4.2 The entire activity of manufacturing and installation and commissioning of car parking systems are duly classified under
+GST Tariff of India. It may be seen that under Chapter Heading 8428 the supply of car parking system may be classified, The
+entry of Chapter Heading/sub heading 8428 is reproduced herein as under-
+
+Chapter Heading/Sub-heading/Tariff Item Descniption of Goods
+8428 Other lifting, handling, loading or unloading machinery (For
+example, lifis, escalators, conveyors, teleferics)
+Further, it may be seen that the service portion of installation of said items i.e. lifts and escalators is covered under the
+Service Codes (Tariff) (SAC) No. 995466 under Installation Services Group. The entry of Group No. 995466 is reproduced herein
+
+as under-
+Group No. Installation Services
+995466 Lift and escalator installation services
+43 From the above it is clear that under GST Regime the manufacturing of Car parking System is covered under HSN code
+
+8428 and the installation and commissioning of the same is covered under SAC code 995466. In the instant matter it is obvious
+that the applicant generally receive composite order for manufacturing and installation of car parking system. Therefore, the same
+is to be considered as composite supply as defined under clause (30) of Section 2 of Central Goods and Services Tax Act, 2017.
+The text of clause (30) of Section 2 of the said Act is reproduced herein as under
+
+SECTION 2. Definitions.-
+
+(30) “composite supply" means a supply made by a taxable person to a recipient consisting of two or more taxable supplies of goods or services
+or both, or any combination thereof, which are naturally bundled and supplied in conjunction with each other in the ordinary course of business,
+one of which ts principal supply;
+
+Ilustration.- Where goods are packed and transported with insurance, the supply of goods, packing materials, transport and insurance is
+composite supply and supply of goods is a principal supply;
+
+44 In the light of definition of composite supply as defined under clause (30) of Section 2 it may be derived that the
+manufacturing, erection and commissioning of car parking system in the instant case is a composite supply and supply of car
+parking system is the principal supply. Therefore, the said supply is required to classified under HSN code 8428 as it was classified
+under existing regime and the similar classification was having been done by the applicant themselves.”
+
+04. HEARING
+
+The case was taken up for preliminary hearing on dt.10.04.2018 with respect to admission
+or rejection of the application. Sh. Rohit Jain, CFO and Sh. Sunil Sonawane, Functional Head,
+GST appeared and made contentions for admission of application as per their contentions made
+in the Advance Ruling application. None appeared on behalf of the jurisdictional officer.
+
+The application was admitted and called for final hearing on dt.13.06.2018. Sh. Rohit Jain,
+and Sh. Sunil Sonawane attended alongwith Sh. Aditya Joshi, Corporate Head, Products, and
+made contentions and additional submissions. Sh. V. S. Reddy, Superintendent along with Sh.
+
+Vinod, Inspector, Kolhapur Commissionerate appeared and made written submissions.
+
+05. OBSERVATIONS
+We have gone through the facts of the case. The question before us is -
+Whether the activity of supply and installation of ‘car parking system’ would qualify as
+immovable property and thereby ‘works contract’ as defined in Section 2(119) of the CGST Act.
+To answer the question involved, we refer to the definition of ‘works contract’ as found
+in clause (119) of section 2 of the GST Act. The same reads thus -
+
+“works contract” means a contract for building, construction, fabrication, completion, erection, installation, fitting out,
+improvement, modification, repair, maintenance, renovation, alteration or commissioning of any immovable property wherein
+transfer of property in goods (whether as goods or in some other form) is involved in the execution of such contract;
+
+As can be seen from the words underlined above, a works contract under the GST Act is
+
+in relation to ‘immovable property’. It is, therefore, that we see that all submission by the
+
+
+
+applicant is directed to convince us about the activity of supply and installation of ‘car parking
+system’ being resulting into ‘immovable property’. While we see that the jurisdictional officer
+has offered comments as to the activity being a “composite” supply as defined under clause (30)
+of section 2 of the GST Act, with the supply of car parking system being the principal supply,
+
+we feel inclined to answer the question in the affirmative. Our reasons follow thus -
+
+At the cost of repetition, we reproduce the activities that go into supply and installation
+
+of ‘car parking system’ hereinbelow for immediate reference -
+
+Ss Drawing & design of the car parking system is prepared according to the requirement of the customer
+
+[ Manufacture, build, test, dismantle, packing and supply steps ]
+
+[ Building specific foundation (either in the basement of building or on land) as per the requirement of the car parking to be installed ]
+
+Steel structure frame work (and / or RCC support) according to the car parking system is created and installed on the foundation ]
+
+[ Various parts such as pallets, control panel, side sliding suspension, operator panel, electrical systems are installed in the RCC structure ]
+
+iE Safety features such as pallet overriding sensor, guiding sensor, car loading sensor and other safety equipments are installed ]
+
+[ Testing is undertaken by the Company ]
+
+It wouldn’t require much wisdom to infer that the ‘car parking system’ is not supplied
+as chattel qua chattel. It is not brought as an identifiable set of goods. Dismantling one whole, to
+be assembled later, for the sake of convenience or transportation is one category where there is
+simple assembling without no further activity critical to the assembling. For example, we have
+various folding items such as kids wardrobes where the cloth to be attached and the rods to be
+laid in layers to form the wardrobe as a whole is often supplied in pieces. The other category is
+that various items are carried to be assembled and which require various steps of activities to be
+performed on these items and only after which it is possible that they can be assembled. Even
+without going into the activities that go into the making, we can infer that the impugned activity
+is such that the car parking system cannot be said to be supplied unless substantial work is
+carried out at the site where the same is to be installed. Rather whatever structure or item is
+brought to the site wouldn’t serve any purpose unless the same is fitted, commissioned and
+made working. And for this, several activities are needed to be carried out at the site. The site
+would, of course, be an immovable property such as a building. Or it could be a standalone
+structure for car parking. Whatever be it, the system is to be aligned to the immovable structure
+by way of support system. Various electrical and electronic items play an important role to put
+the system in place. These would have to be integrated at the site. The site could be a building
+or independent vacant land. The applicant informs that irrespective of the location, a specific
+foundation is created and steel structure and / or RCC structure, which is a basic frame work of
+the parking system, is erected in such foundation. It is further informed that this specific
+foundation and structure is a pre-requisite for successful installation and effective working of
+the car parking system. With an overview of the activity, we turn to the definition of ‘works
+
+contract’ as appearing in the GST Act. We see that the same includes activities for building,
+
+
+
+construction, fabrication, completion, erection, installation, fitting out, improvement,
+modification, repair, maintenance, renovation, alteration or commissioning of any immovable
+property wherein transfer of property in goods (whether as goods or in some other form) is
+involved in the execution of the contract. When the activity is to be performed in respect of a
+pre-existing building or an under-construction building, the plans showing the location of the
+car parking system, the load-bearing, etc. would have to be got approved from the jurisdictional
+urban bodies or revenue authorities. Same would also apply to a car parking system to be set up
+ona vacant plot of land. Such systems have a longevity of existence in terms of the aspect that
+these are not set up and removed frequently, barring of course the moderations or alterations to
+it. We have mentioned above that the impugned activity does not involve a supply as a chattel.
+And hence, it is not the case that in case it is desired to do away with it, one can remove the
+system and put it into place AS IT IS at another location. The removal would always involve a
+total dismantling which cannot be without loss or damage. The question in these set of facts is
+whether the impugned activity could be said to be one as resulting into immovable property.
+The term ‘immovable property’ has not been defined under the GST Act. However, there are a
+catena of decisions of the Hon. Courts deliberating on what constitutes an ‘immovable property’.
+We are aware that the GST Act is a new piece of legislation whereas these decisions dwell on
+statutes other than the GST Act. We are prudent enough as to not to refer to decisions which
+interpret provisions but to decisions which lay down cardinal principles of interpretation which
+stand true irrespective of the times and the statute. Herein, we would like to refer to the decision
+of the Hon. Supreme Court in T.T.G. Industries Ltd. v. CCE, (2004) 4 SCC. The facts of this case,
+
+as identified by the Hon. Court, were -
+
+“2. The facts of the case are not in dispute. The appellant Company pursuant to the acceptance of its tender, entered into an
+agreement with M/s SAIL, Bhilai Steel Plant for design, supply, supervision of erection and commissioning of four sets of hydraulic
+mudguns and tap hole-drilling machines required for Blast Furnaces Nos. 4 and 6 of Bhilai Steel Plant. For this purpose, it
+imported several components and also manufactured some of the components at their factory in Marai Malai Nagar, Chennai.
+These components were transported to the site at Bhilai where the manufacture and commissioning of the aforesaid machines
+took place. It is undisputed that duty was paid in respect of the components manufactured at its workshop in Chennai, but no duty
+was paid on manufacture of the aforesaid mudguns and drilling machines which were erected and commissioned on site."
+
+The judgment was delivered thus -
+
+“8. In their reply to the show-cause, the respondents explained the processes involved, the manner in which the equipments were
+assembled and erected as also their specifications in terms of volume and weight. It was explained that the function of the drilling
+machine is to drill hole in the blast furnace to enable the molten steel to flow out of the blast furnace for collection in ladles for
+Jurther processing. After the molten material is taken out of the blast furnace, the hole in the wall of the furnace has to be closed
+by spraying special clay. This function is performed by the mudgun which is brought to its position and locked against the wall
+for exerting a force of 240-300 tons to fill up the hole in the furnace. The blast furnace in which the inputs are loaded is a massive
+vessel of 1719-cubic-metre capacity and the size of its outer diameter is 10.6 metres, and the height 31.25 metres. Hot air at 1200
+degrees centigrade is fed into the blast furnace at various levels to melt the raw materials. With a view to protect the shell against
+heat, the blast furnace is lined with refractory brick of one-metre thickness. Thus, the drilling machine has to drill a hole through
+one-metre thickness of the refractory brick lining. The drilling machine as well as the mudgun are erected on a concrete platform
+described as the cast house floor which is in the nature of a concrete platform around the furnace. The cast house floor is at a
+height of 25 feet above the ground level. On this platform concrete foundation intended for housing drilling machine and mudgun
+are erected. The concrete foundation itself is 5-feet high and it is grouted to earth by concrete foundation. The first step is to
+secure the base plate on the said concrete platform by means of foundation bolts. The base plate is 80 mm mild sheet of about 5
+feet diameter. It is welded to the columns which are similar to huge pillars. This fabrication activity takes place in the cast house
+floor at 25 feet above ground level. After welding the columns, the base plate has to be secured to the concrete platform. This is
+_ achieved by getting up a trolley way with high beams in an inclined posture so that base plate could be moved to the concrete
+
+
+
+platform and secured. The same trolley helps in the movement of various components to their determined position. The various
+components of the mudgun and drilling machine are mounted piece by piece on a metal frame, which is welded to the base plate.
+The components are stored in a storehouse away from the blast furnace and are brought to site and physically lifted by a crane
+and landed on the cast house floor 25-feet high near the concrete platform where drilling machine and mudgun have to be erected.
+The weight of the mudgun is approximately 19 tons and the weight of the drilling machine approximately 11 tons. The volume of
+the mudgun is 1.5 x 4.5 * 1 metre and that of the drilling machine 1 x 6.5 x 1 metre. Having regard to the volume and weight of
+these machines, there is nothing like assembling them at ground level and then lifting them to a height of 25 feet for taking to the
+cast house floor and then to the platform over which it is mounted and erected. These machines cannot be lifted in an assembled
+condition.
+
+10. The judicial member noticing these facts observed that it is a physical and engineering impossibility to assemble mudguns or
+the tap hole-drilling machines elsewhere in a fully assembled condition and thereafter erect or install the same at a height of 25
+feet on the cast floor of the blast furnace. She found that even the adjudicating authority conceded the fact that the equipments
+have to be assembled/erected on the base frame projection of the furnace. She also accepted the submission urged on behalf of
+the appellant that if the machines are to be removed from the blast furnace, they have to be first dismantled into parts and brought
+down to the ground only by using cranes and trolley ways considering the size, and also considering the fact that there is no space
+available for moving the machines in assembled condition due to their volume and weight. She considered the authorities on the
+subject and came to the conclusion that erection of mudgun and tap hole-drilling machine results in erection of immovable
+property. She noticed the judgment of this Court in Narne Tulaman Manufacturers (P) Ltd. [(1989) 1 SCC 172 : 1989 SCC (Tax)
+64 : (1988) 38 ELT 566 : 1988 Supp (3) SCR 1] and also noticed the judgment of the Tribunal in Gwalior Rayon Silk Mfg. (Wvg.)
+Co. Lid. v. CCE [(1993) 65 ELT 121 (cegat)] which held that the issue of immovable property was never raised before the Supreme
+Court in Narne Tulaman Manufacturers (P) Lid. [(1989) 1 SCC 172 ; 1989 SCC (Tax) 64 ; (1988) 38 ELT 566 : 1988 Supp (3)
+SCR 1] She found support for her conclusion in the decision of this Court in Municipal Corpn. of Greater Bombay v. Indian Oil
+Corpn. Ltd. [1991 Supp (2) SCC 18] and held that the twin tests laid down by this Court to determine whether assembly/erection
+would result in immovable property or not were fully satisfied in the facts of this case. She concluded:
+
+“The test laid down by the Supreme Court is that if the chattel is movable to another place as such for use, it is movable but if it has to be
+dismantled and reassembled or re-erected at another place for such use, such chattel would be immovable. In the present appeal, even according
+10 the finding of the Collector, mudguns and tap hole-drilling machines have to be dismantled and disassembled from the cast floor before being
+erected or assembled elsewhere. We have also arrived at the same conclusion independently, in para 10 above. Accordingly applying the test laid
+down by the Supreme Court we hold that the erection and installation of mudguns and tap hole-drilling machines result in immovable property.
+In the light of the ratio of the above case-law, we hold that the mudguns and tap hole-drilling machines do not admit of the definition of goods
+and, therefore, excise duty is not leviable thereon.”
+
+18. The core question that still survives for consideration is whether the processes undertaken by the appellant at Bhilai for
+the erection of mudguns and drilling machines resulted in the emergence of goods leviable to excise duty or whether it resulted
+in erection of immovable property and not “goods”.
+
+21. The appellant has placed considerable reliance on the principles enunciated and the test laid down by this Court in Municipal
+Corpn. of Greater Bombay [1991 Supp (2) SCC 18] to determine what is immovable property. In that case the facts were that the
+respondent had taken on lease land over which it had put up, apart from other structures and buildings, six oil tanks for storage
+of petrol and petroleum products. Each tank rested on a foundation of sand having a height of 2 feet 6 inches with four inches
+thick asphalt layers to retain the sand. The steel plates were spread on the asphalt layer and the tank was put on the steel plates
+which acted as bottom of the tanks which rested freely on the asphalt layer. There were no bolts and nuts for holding the tanks on
+to the foundation. The tanks remained in position by their own weight, each tank being about 30 feet in height, 50 feet in diameter,
+weighing about 40 tons. The tanks were connected with pump house with pipes for pumping petroleum products into the tank and
+sending them back to the pump house. The question arose in the context of ascertaining the rateable value of the structures under
+the Bombay Municipal Corporation Act. The High Court held that the tanks are neither structure nor a building nor land under
+the Act. While allowing the appeal this Court observed:(SCC p. 33, para 32)
+
+“32. The tanks, though, are resting on earth on their own weight without being fixed with nuts and bolts, they have permanently been erected
+without being shifted from place to place. Permanency is the test. The chattel whether is movable to another place of use in the same position
+or liable to be dismantled and re-erected at the latter place? If the answer is yes to the former it must be a movable property and thereby it
+must be held that it is not attached to the earth. If the answer is yes to the latter it is attached to the earth.”
+
+22. Applying the permanency test laid down in the aforesaid decision, counsel for the appellant contended that having regard to
+the facts of this case which are not in dispute, it must be held that what emerged as a result of the processes undertaken by the
+appellant was an immovable property. It cannot be moved from the place where it is erected as it is, and if it becomes necessary
+to move it, it has first to be dismantled and then re-erected at another place. This factual position was also accepted by the
+adjudicating authority.
+
+23. The technical member, however, held that the aforesaid decision was of no help to the appellant inasmuch as a leading
+international manufacturing firm had offered such machines for export to different parts of the world. He further observed that
+though on account of their size and weight, it may be necessary to shift or transport them in parts for assembly and erection at
+the site in the steel plant, they must nevertheless be deemed as individual machines having specialised functions. We are not
+impressed by this reasoning, because it ignores the evidence brought on record as to the nature of processes employed in the
+erection of the machine, the manner in which it is installed and rendered functional, and other relevant facts which may lead
+one to conclude that what emerged as a result was not merely a machine but something which is in the nature of being
+immovable, and if required to be moved, cannot be moved without first dismantling it, and then re-erecting it at some other
+place. Some of the other decisions which we shall hereafter notice clarify the position further.
+
+24. In Quality Steel Tubes (P) Ltd. v. CCE [(1995) 2 SCC 372 : (1995) 75 ELT 17] the facts were that a tube mill and welding
+head were erected and installed by the appellant, a manufacturer of steel pipes and tubes, by purchasing certain items of plant
+and machinery in market and embedding them to earth and installing them to form a part of the tube mill and ‘purchasing certain
+components from the market and assembling and installing them on the site to form part of the tube mill which was also covered
+in the process of welding facility. After noticing several decisions of this Court, the Court observed that the twin tests of exigibility
+of an article to duty under the Excise Act are that it must be a goods mentioned either in the Schedule or under Item 68 and must
+be marketable. The word “goods” applied to those which can be brought to market for being bought and sold and therefore, it
+implied that it applied to such goods as are movable. It noticed the decisions of this Court laying down the marketability tests.
+ereafter this Court observed: (SCC p. 376, para 5)
+
+
+
+“The basic test, therefore, of levying duty under the Act is twofold. One, that any article must be goods and second, that it should be marketable
+
+or capable of being brought to market. Goods which are attached to the earth and thus become immovable and do not satisfy the test of being
+
+goods within the meaning of the Act nor it can be said to be capable of being brought to the market for being bought and sold. Therefore, both
+
+the tests, as explained by this Court, were not satisfied in the case of appellant as the tube mill or welding head having been erected and installed
+in the premises and embedded to earth ceased to be goods within meaning of Section 3 of the Act."
+
+25. In Mittal Engg. Works (P) Ltd. v. CCE [(1997) | SCC 203 : (1996) 88 ELT 622] this Court was concerned with the exigibility
+
+to duty of mono vertical crystallisers which are used in sugar factories to exhaust molasses of sugar. The material on record
+described the functions and manufacturing process. A mono vertical crystalliser is fixed on a solid RCC slab having a load-
+
+bearing capacity of about 30 tons per square metre. It is assembled at site in different sections and consists of bottom plates,
+
+tanks, coils, drive frames, supports, plates, etc. The aforesaid parts were cleared from the premises of the appellants and the mono
+
+vertical crystalliser was assembled and erected at site. The process involved welding and gas-cutting. The mono vertical
+crystalliser is a tall structure, rather like a tower with a platform at its summit. This Court noticed that marketability was a
+
+decisive test for dutiability. It meant that the goods were saleable or suitable for sale, that is to say, they should be capable of
+being sold to consumers in the market, as it is, without anything more. The Court then referred to the decision in Quality Steel
+Tubes [(1995) 2 SCC 372 : (1995) 75 ELT 17] and distinguished the judgment in Narne Tulaman [(1989) 1 SCC 172 : 1989 SCC
+(Tax) 64 : (1988) 38 ELT 566 : 1988 Supp (3) SCR 1] holding that the contention that the weighbridges were not goods within
+
+the meaning of the Act was neither raised nor decided in that case. After considering the material placed on the record it was
+
+held that the mono vertical crystalliser has to be assembled, erected and attached to the earth by a foundation at the site of the
+
+sugar factory. It is not capable of being sold as it is, without anything more. This Court, therefore, concluded that mono vertical
+crystallisers are not “goods” within the meaning of the Act and, therefore, not exigible to excise duty. In Triveni Engg. &
+
+Industries Ltd. vy. CCE [(2000) 7 SCC 29 : (2000) 120 ELT 273] a question arose regarding excisability of turbo alternator. In
+
+the facts of that case, it was held that installation or erection of turbo alternator on a concrete base specially constructed on the
+
+land cannot be treated as a common base and, therefore, it follows that installation or erection of turbo alternator on the platform
+
+constructed on the land would be immovable property, as such it cannot be an excisable goods falling within the meaning of
+Heading 85.02. In reaching this conclusion this Court considered the earlier judgments of this Court in Municipal Corpn. of
+Greater Bombay [1991 Supp (2) SCC 18] , Quality Steel Tubes [(1995) 2 SCC 372 : (1995) 75 ELT 17] and Mittal Engg. Works
+
+(P) Ltd. [(1997) 1 SCC 203 : (1996) 88 ELT 622] as also the earlier judgment of this Court in Sirpur Paper Mills
+
+Lid. v. CCE [(1998) 1 SCC 400 : (1998) 97 ELT 3] . This Court observed: (SCC pp. 35-36, para 14)
+
+"14. There can be no doubt that if an article is an immovable property, it cannot be termed as ‘excisable goods’ for purposes of the Act. From a
+combined reading of the definition of ‘immovable property’ in Section 3 of the Transfer of Property Act, Section 3(26) of the General Clauses Act,
+
+it is evident that in an immovable property there is neither mobility nor marketability as understood in the excise law. Whether an article is
+permanently fastened to anything attached to the earth requires determination of both the intention as well as the factum of fastening to anything
+attached to the earth. And this has to be ascertained from the facts and circumstances of each case."
+
+26. It was also held that the decision of this Court in Sirpur Paper Mills Ltd.[(1998) 1 SCC 400 : (1998) 97 ELT 3] must be
+
+viewed in the light of the findings recorded by CEGAT therein, that the whole purpose behind attaching the machine to a
+concrete base was to prevent wobbling of the machine and to secure maximum operational efficiency and also safety. In view
+of those findings it was not possible to hold that the machinery assembled and erected by the appellant at its factory site was
+immovable property as something attached to the earth like a building or a tree.
+
+27. Keeping in view the principles laid down in the judgments noticed above, and having regard to the facts of this case, we have
+no doubt in our mind that the mudguns and the drilling machines erected at site by the appellant on a specially made concrete
+platform at a level of 25 feet above the ground on a base plate secured to the concrete platform, brought into existence not
+excisable goods but immovable property which could not be shifted without first dismantling it and then re-erecting it at another
+site. We have earlier noticed the processes involved and the manner in which the equipments were assembled and erected. We
+
+have also noticed the volume of the machines concerned and their weight. Taking all these facts into consideration and having
+regard to the nature of structure erected for basing these machines, we are satisfied that the judicial member of CEGAT was right
+in reaching the conclusion that what ultimately emerged as a result of processes undertaken and erections done cannot be
+
+described as “goods” within the meaning of the Excise Act and exigible to excise duty. We find considerable similarity of facts of
+the case in hand and the facts in Mittal Engg. [(1997) 1 SCC 203 : (1996) 88 ELT 622] and Quality Steel Tubes [(1995) 2 SCC
+372 : (1995) 75 ELT 17] and the principles underlying those decisions must apply to the facts of the case in hand. It cannot be
+disputed that such drilling machines and mudguns are not equipments which are usually shifted from one place to another,
+
+nor is it practicable to shift them frequently. Counsel for the appellant submitted before us that once they are erected and
+assembled they continue to operate from where they are positioned till such time as they are worn out or discarded. According
+to him they really become a component of the plant and machinery because without their aid a blast furnace cannot operate. It is
+not necessary for us to express any opinion as to whether the mudguns and the drilling machines are really a component of the
+plant and machinery of the steel plant, but we are satisfied that having regard to the manner in which these machines are erected
+and installed upon concrete structures, they do not answer the description of “goods” within the meaning of the term in the Excise
+Act.”
+
+Thus, it can be seen that the Hon. Supreme Court while holding the machines as
+immovable property took into account facts such that the machines could not be shifted without
+first dismantling them and then re-erecting them at another site. It was also sought to distinguish
+as to how a concrete base meant just to prevent wobbling of the machine would not place the
+machine in the category of ‘immovable property’ as something attached to the earth. We would
+
+also look at the decision of the Hon. Supreme Court in the case of Commissioner of Central
+
+
+
+Excise, Ahmedabad v. Solid and Correct Engineering Works [(2010) 5 SCC 122]. The facts in this
+
+case were thus -
+
+“3. M/s Solid and Correct Engineering Works, M/s Solid Steel Plant Manufacturers and M/s Solmec Earthmovers Equipment are
+partnership concerns engaged in the manufacture of parts and components for road and civil construction machinery and
+equipments like asphalt drum/hot mix plants and asphalt paver machines, etc. M/s Solex Electronics Equipments is, however, a
+proprietary concern engaged in the manufacture of electronic control panel boards. It is not in dispute that the three partnership
+concerns mentioned above are registered with the Central Excise Department nor is it disputed that the proprietary concern is a
+small-scale industrial unit that is availing exemption from payment of duty in terms of the relevant exemption notification.
+
+4. M/s Solidmec Equipments Lid. (hereinafter referred to as “Solidmec”’, for short), the fifth unit with which we are concerned in
+the present appeals is a marketing company engaged in the manufacture of asphalt drum/hot mix plants at the sites provided by
+the purchasers of such plants. It is common ground that Solidmec advertises its products and undertakes contracts for supplying,
+erection, commissioning and after-sale services relating thereto, It is also admitted that all the five concerns referred to above
+are closely held by Shri Hasmukhbhai, his brothers and the members of their families.
+
+5. An inspection of the factories of the respondents by a team of officers from the Central Excise, Preventing Wing, Headquarters,
+Ahmedabad, led to the issue of a notice dated 30-11-1999 to the four manufacturing units as well as to Solidmec calling upon
+them to show cause why the amounts mentioned in the said notice be not recovered from them towards Central excise duty. The
+notice accused the four manufacturing units of having wrongly declared and classified parts and components being manufactured
+by them as complete plants/systems, even when they were merely parts and components and not machines or plants functional by
+themselves. The erroneous classification and declaration was, according to the notice, intended to avoid payment of higher rate
+of duty applicable to parts of such plants and machinery at the material point of time. The notice also pointed out that the units
+manufacturing parts and components of the plants had availed benefit of exemption wrongly and in breach of the provisions of
+Rules 9(1) and 173-F and other rules regulating the grant of such benefit.
+
+6. Insofar as Solidmec marketing company was concerned, the show-cause notice alleged that Solidmec was engaged in the
+manufacturing of asphalt batch mix and drum mix/hot mix plants by assembling and installing the parts and components
+manufactured by the manufacturing units of the group. According to the notice the process of assembly of the parts and
+components at the site provided by the purchasers of such plants was tantamount to manufacture of such plants as a distinct
+product with a new name, quality, usage and character emerged out of the said process. Resultantly, the end product, namely,
+asphalt drum/hot mix plants became exigible to Central excise duty, which duty Solidmec had successfully avoided. The notice
+also proposed to levy penalties upon all the five concerns under appropriate provisions of the Central Excise Act.”
+
+The Hon. Court has very elaborately dealt with the issue and it would be useful to go
+
+through the observations -
+
+“22. Section 3 of the Transfer of Property Act, 1882 does not spell out an exhaustive definition of the expression “immovable
+property”. It simply provides that unless there is something repugnant in the subject or context, “immovable property” under the
+Transfer of Property Act, 1882 does not include standing timber, growing crops or grass. Section 3(26) of the General Clauses
+Act, 1897 similarly, does not provide an exhaustive definition of the said expression. It reads:
+
+“3. (26) ‘immovable property’ shall include land, benefits to arise out of land, and things attached to the
+
+earth, or permanently fastened to anything attached to the earth;”
+
+23. It is not the case of the respondents that plants in question are per se immoveable property. What is argued is that they become
+immovable as they are permanently imbedded in earth in as much as they are fixed to a foundation imbedded in earth no matter
+only |= feet deep. That argument needs to be tested on the touch stone of the provisions referred to above.
+24. Section 3(26) of the General Clauses Act includes within the definition of the term “immovable property” things attached to
+the earth or permanently fastened to anything attached to the earth. The term “attached to the earth”, has not been defined in the
+General Clauses Act, 1897. Section 3 of the Transfer of Property Act, however, gives the following meaning to the expression
+“attached to the earth”:
+(a) rooted in the earth, as in the case of trees and shrubs;
+(b) imbedded in the earth, as in the case of walls and buildings;
+(c) attached to what is so imbedded for the permanent beneficial enjoyment of that to which it is attached.”
+25. It is evident from the above that the expression “attached to the earth” has three distinct dimensions, viz. (a) rooted in the
+earth as in the case of trees and shrubs (b) imbedded in the earth as in the case of walls or buildings or (c) attached to what is
+imbedded for the permanent beneficial enjoyment of that to which it is attached. Attachment of the plant in question with the help
+of nuts and bolts to a foundation not more than |= feet deep intended to provide stability to the working of the plant and prevent
+vibration/wobble free operation does not qualify for being described as attached to the earth under any one of the three clauses
+extracted above. That is because attachment of the plant to the foundation is not comparable or synonymous to trees and shrubs
+rooted in earth. It is also not synonymous to imbedding in earth of the plant as in the case of walls and buildings, for the obvious
+reason that a building imbedded in the earth is permanent and cannot be detached without demolition. Imbedding of a wall in the
+earth is also in no way comparable to attachment of a plant to a foundation meant only to provide stability to the plant especially
+because the attachment is not permanent and what ts attached can be easily detached from the foundation, So also the attachment
+of the plant to the foundation at which it rests does not fall in the third category, for an attachment to fall in that category it must
+be for permanent beneficial enjoyment of that to which the plant is attached. It is nobody's case that the attachment of the plant
+to the foundation is meant for permanent beneficial enjoyment of either the foundation or the land in which the same is imbedded.
+26. In English law the general rule is that what is annexed to the freehold becomes part of the realty under the maxim quidcquid
+plantatur solo, solo cedit. This maxim, however, has no application in India. Even so, the question whether a chattel is imbedded
+in the earth so as to become immovable property is decided on the same principles as those which determine what constitutes an
+annexation to the land in English law. The English law has evolved the twin tests of degree or mode of annexation and the object
+of annexation.
+27. In Wake V. Halt (1883) 8 App Cas 195 Lord Blackburn speaking for the Court of Appeal observed:
+
+10
+
+
+“The degree and nature of annexation is an important element for consideration; for where a chattel is so annexed that it cannot be removed
+without great damage to the land, it affords a strong ground for thinking that it was intended to be annexed in perpetuity to the land.”
+
+28. The English law attaches greater importance to the object of annexation which is determined by the circumstances of each
+case. One of the important considerations is founded on the interest in the land wherein the person who causes the annexation
+possesses articles that may be removed without structural damage and even articles merely resting on their own weight are
+Sixtures only if they are attached with the intention of permanently improving the premises.
+
+29. The Indian law has developed on similar lines and the mode of annexation and object of annexation have been applied as
+relevant test in this country also. There are cases where machinery installed by monthly tenant was held to be moveable property
+as in cases where the lease itself contemplated the removal of the machinery by the tenant at the end of the tenancy. The mode of
+annexation has been similarly given considerable significance by the courts in this country in order to be treated as fixture.
+Attachment to the earth must be as defined in Section 3 of the Transfer of Property Act. For instance a hut is an immovable
+property, even if it is sold with the option to pull it down. A mortgage of the super structure of a house though expressed to be
+exclusive of the land beneath, creates an interest in immovable property, for it is permanently attached to the ground on which it
+is built.
+
+30. The courts in this country have applied the test whether the annexation is with the object of permanent beneficial enjoyment
+of the land or building. Machinery for metal-shaping and electro-plating which was attached by bolts to special concrete bases
+and could not be easily removed, was not treated to be a part of structure or the soil beneath it, as the attachment was not for
+more beneficial enjoyment of either the soil or concrete. Attachment in order to qualify the expression attached to the earth, must
+be for the beneficial attachment of that to which it is attached. Doors, windows and shutters of a house are attached to the house,
+which is imbedded in the earth. They are attached to the house which is imbedded in the earth for the beneficial enjoyment of the
+house. They have no separate existence from the house. Articles attached that do not form part of the house such as window blinds,
+and sashes, and ornamental articles such as glasses and tapestry fixed by tenant, are not affixtures.
+
+31. Applying the above tests to the case at hand, we have no difficulty in holding that the manufacture of the plants in question do
+not constitute annexation hence cannot be termed as immovable property for the following reasons:
+
+(t) The plants in question are not per se immovable property.
+
+(ii) Such plants cannot be said to be “attached to the earth" within the meaning of that expression as defined in Section 3 of the
+Transfer of Property Act.
+
+(iii) The fixing of the plants to a foundation is meant only to give stability to the plant and keep its operation vibration free.
+
+(iv) The setting up of the plant itself is not intended to be permanent at a given place. The plant can be moved and is indeed moved
+after the road construction or repair project for which it is set up is completed.”
+
+It can be seen that the Hon. Supreme Court has reiterated the same principles as were
+seen in the earlier decision of T.T.G. Industries Ltd. v. CCE (cited supra). The Hon. Court
+
+observed that the expression “attached to the earth” has three distinct dimensions - (a) rooted in the
+earth as in the case of trees and shrubs (b) imbedded in the earth as in the case of walls or buildings or (c) attached to what is
+
+imbedded for the permanent beneficial enjoyment of that to which it is attached. It has been categorically observed
+that the attachment of the plant to the foundation at which it rests does not fall in the third
+category [attached to what is imbedded for the permanent beneficial enjoyment of that to which it is attached] , for the
+reason that an attachment to fall in the third category it must be for permanent beneficial
+enjoyment of that to which the plant is attached. The Hon. Court even went on to distinguish
+and record with approval earlier decisions on the issue of ‘immovable property’. We may have
+
+a look at the same, too.
+
+33. In Sirpur Paper Mills Ltd. [(1998) 1 SCC 400] this Court was dealing with a near similar situation as in the present case. The
+question there was whether the paper machine assembled at site mainly with the help of components bought from the market was
+dutiable under the Central Excise Act, 1944. The argument advanced on behalf of the assessee was that since the machine was
+embedded in a concrete base the same was immovable property even when the embedding was meant only to provide a wobble
+Jree operation of the machine. Repelling that contention this Court held that just because the machine was attached to earth for
+a more efficient working and operation the same did not per se become immovable property.
+34. The Court observed: (Sirpur Paper Mills Ltd. case [(1998) 1 SCC 400] , SCC p. 402, para 5)
+“5, Apart from this finding of fact made by the Tribunal, the point advanced on behalf of | the appellant, that whatever is embedded in earth
+must be treated as immovable property is basically not sound. For example, a factory owner or a householder may purchase a water pump
+and fix it on a cement base for operational efficiency and also for security. That will not make the water pump an item of immovable property.
+Some of the components of the water pump may even be assembled on site. That too will not make any difference to the principle. The test is
+whether the paper-making machine can be sold in the market. The Tribunal has found as a fact that it can be sold. In view of that finding, we
+are unable to uphold the contention of the appellant that the machine must be treated as a part of the immovable property of the Company.
+Just because a plant and machinery are fixed in the earth for better functioning, it does not automatically become an immovable property.”
+38. Reliance was placed by Mr Bagaria upon the decision of this Court in Quality Steel Tubes (P) Lid. v. CCE [(1995) 2 SCC 372
+- (1995) 75 ELT 17] and Mittal Engg. Works (P) Ltd. v. CCE [(1997) | SCC 203 : (1996) 88 ELT 622] . In Quality Steel Tubes
+(P) Ltd, case [(1995) 2 SCC 372 : (1995) 75 ELT 17] this Court was examining whether “the tube mill and welding head” erected
+and installed by the assessee for manufacture of tubes and pipes out of duty-paid raw material was assessable to duty under
+residuary Tariff Item 68 of the Schedule being excisable goods. Answering the question in negative this Court held that tube mill
+
+MW
+
+
+
+and welding head erected and installed in the premises and embedded to earth ceased to be goods within the meaning of Section
+3 of the Act as the same no longer remained movable goods that could be brought to market for being bought and sold.
+39. We do not see any comparison between the erection and installation of a tube mill which involved a comprehensive process
+of installing slitting line, tube rolling plant, welding plant, testing equipment and galvanising, etc. referred to in the decision of
+this Court in Quality Steel Tubes case [(1995) 2 SCC 372 : (1995) 75 ELT 17] with the setting up of a hot mix plant as in this
+case. As observed by this Court in Triveni Engg. & Industries Ltd. case [(2000) 7 SCC 29 ; (2000) 120 ELT 273] , the facts and
+circumstances of each case shall have to be examined for determining not only the factum of fastening/attachment to the earth but
+also the intention behind the same.
+40. In Mittal Engg. Works (P) Ltd. case [(1997) 1 SCC 203 : (1996) 88 ELT 622] this Court was examining whether the mono
+vertical crystallisers erected and attached by a foundation to the earth at the site of the sugar factory could be treated as goods
+within the meaning of the Central Excise Act, 1944. This Court on facts noted that mono vertical crystallisers are fixed on a solid
+RCC slab having a load bearing capacity of about 30 tonnes per square metre and are assembled at site with bottom plates, tanks,
+coils, drive frames, supports, plates, distance places, cutters, cutter supports, tank ribs, distance plate angles, water tanks, coil
+extension pipes, loose bend angles, coil supports, railing stands, intermediate platforms, drive frame railings and flats, oil trough,
+worm wheels, shafis, housing, stirrer arms and support channels, pipes, floats, heaters, ladders, platforms, etc. The Court noted
+that the mono vertical crystallisers have to be assembled, erected and attached to the earth on a foundation at the site of the sugar
+factory and are incapable of being sold to the consumers in the market as it is without anything more.
+41. Relying upon the decision of this Court in Quality Steel Tubes (P) Lid. case[(1995) 2 SCC 372 : (1995) 75 ELT 17] , the
+erection and installation of mono vertical crystallisers was held not dutiable under the Excise Act. This Court observed that:
+[Miual Engg. Works (P) Ltd. case [(1997) 1 SCC 203 : (1996) 88 ELT 622] , SCC p. 208, para 10]
+
+“10. ... The Tribunal ought to have remembered ... that mono vertical crystallisers had, apart from assembly, to be erected and attached by
+
+foundations to the earth and, therefore, were not, in any event, marketable as they were.”
+This decision also, in our opinion, does not lend any support to the case of the assessee in these appeals as we are not dealing
+with the case of a machine like mono vertical crystallisers which is permanently embedded in the structure of a sugar factory as
+was the position in Mittal Engg. Works (P) Ltd. case [(1997) 1 SCC 203 : (1996) 88 ELT 622]. The plants with which we are
+dealing are entirely over ground and are not assimilated in any structure. They are simply fixed to the foundation with the help
+of nuts and bolts in order to provide stability from vibrations during the operation.
+42. So also in T.7.G. Industries Ltd. v. CCE [(2004) 4 SCC 751 : (2004) 167 ELT 501] , the machinery was erected at the site by
+the assessee on a specially made concrete platform at a level of 25 ft height. Considering the weight and volume of the machine
+and the processes involved in its erection and installation, this Court held that the same was immovable property which could not
+be shifted without dismantling the same.
+43. It is noteworthy that in none of the cases relied upon by the assessee referred to above was there any element of installation
+of the machine for a given period of time as is the position in the instant case. The machines in question were by their very nature
+intended to be fixed permanently to the structures which were embedded in the earth, The structures were also custom-made for
+the fixing of such machines without which the same could not become functional. The machines thus becoming a part and parcel
+of the structures in which they were fitted were no longer movable goods. It was in those peculiar circumstances that the
+installation and erection of machines at the sites were held to be by this Court to be immovable property that ceased to remain
+movable or marketable as they were at the time of their purchase. Once such a machine is fixed, embedded or assimilated in a
+permanent structure, the movable character of the machine becomes extinct. The same cannot thereafter be treated as movable
+so as to be dutiable under the Excise Act. But cases in which there is no assimilation of the machine with the structure permanently,
+would stand on a different footing.
+44, In the instant case all that has been said by the assessee is that the machine is fixed by nuts and bolts to a foundation not
+because the intention was to permanently attach it to the earth but because a foundation was necessary to provide a wobble free
+operation to the machine. An attachment of this kind without the necessary intent of making the same permanent cannot, in our
+opinion, constitute permanent fixing, embedding or attachment in the sense that would make the machine a part and parcel of the
+earth permanently. In that view of the matter we see no difficulty in holding that the plants in question were not immovable
+property so as to be immune from the levy of excise duty. Our answer to Question | is accordingly in the affirmative,”
+
+Thus, we see how the Hon. Courts have evolved the term ‘immovable property’ when
+faced with the question of what constitutes movable and immovable property. Though not
+issued for the purposes of the GST Act, we may as well mention herein the reference by the Hon.
+Bombay High Court in M/s. Bharti Airtel Ltd. (Earlier known as Bharti Tele-Ventures Ltd.) v.
+The Commissioner of Central Excise (2014 SCC OnLine Bom 907 : (2015) 77 VST 434) with regard
+to a Circular being issued by the Central Board of Excise & Customs in a decision of the same
+
+Hon. Bombay High Court -
+
+“(i) In the decision of the Division Bench of this Court in the case of “Commissioner of C.Ex, Mumbai- IV v. Hutchison Max
+Telecom P. Lid., (2008 (224) E.L.T 191 (Bom.)”, the issue which fell for consideration of the Division Bench inter alia was
+pertaining to transmission tower set up by the assessee and whether the setting up of the towers amounted to manufacture as the
+towers being a new product with a distinct name, characteristics and use and is distinct from the components used in the
+manufacture as contended on behalf of the Revenue. The Division Bench after making the following observations in paragraphs
+7 to 9 held that the towers being not moveable, saleable and marketable, they would not be subject to excise duty. Paragraphs 7
+to 9 reads as under:-
+“7, It is, therefore, clear that the goods must be excisable or that the goods covered having the attributes of excisable goods as understood in
+Excise Law which includes marketability. The real question, therefore, that arises is whether, the Transmission Apparatus is goods and secondly
+m er they are marketable. The Commissioner noting the various equipments held that the transmission apparatus meets the test of
+12
+
+
+
+manufacture, The Commissioner further noted the various equipments installed at the BTS site room. The following equipments/apparatus were
+found to be installed in BTS site room:-
+
+a) Microwave Antennas
+
+b) Base station controller/Base Transreceiver station
+
+¢) Microwave Terminal.
+
+d) GSM Antennas
+
+e) Power supplement with rechargeable battery back up.
+
+J) Air conditioners,
+
+g) Transmission tower was erected at the top of the building
+
+h) The tower was fitted with microwave antennas.
+
+1) The BTS/BSC was installed in prefabricated building object.
+
+Based on this material the Commissioner held that what emerges is a new commodity. The argument advanced that only “Base station
+controller/Base trans-receiver station, cell site/Mobile Switching centre" were connected with the transmission and reception signals and other
+equipments were not part of the same, the argument was held as not acceptable as without the tower, UPS, Cable trays, AC., etc., the BTS would
+not be in a position to function as transmitting and receiving apparatus. The contention of the assessee that various equipments installed at site
+were individual machine was rejected. The Commissioner further held that with the assembly of various equipment installed what emerges is a
+commodity with a distinct name, identity, character and use; distinct from inputs and classifiable under chapter 8525 of Central Excise Tariff and
+the same is distinct and separate from the various equipments which have gone into manufacture of the above transmission apparatus. The
+argument that after installation of BTS of cell site it becomes immovable properly was rejected. The statement of Narayan in his statement dated
+28/1/2004 was partly relied upon to hold it was not immovable property.
+
+8. The Learned Tribunal re-examining the various aspects of what is described as determination of levy of duty of base station, noted that the
+appellant is engaged in providing Mobile Telecommunication Service (MTS) and is based on global system for mobile communication (GSM).
+The infrastructure for GSM is similar to other networks, The Tribunal then set out the various infrastructure required for GSM and noted that
+GSM Architecture consists of Radio Station Sub Systems (constitution of MS, BTS, & BSCs) which are networked with the operation support
+subsystem (constitued MSCs) which networked with the Public network. The entire sub systems of BTSs and BSCs or MSCs and the number of
+constituents would depend on the Geographical area covered by the Cellular Network and there is no fixed designation numbers to constitute a
+component of transmission apparatus. It is not necessary to set out the other facts in detail considering the the Tribunal has in extenso set out the
+facts. The Tribunal relying on para 20 in the case of Triveni Engineering & India Ltd. (supra) on the test of marketability, held that the so called
+BTS/BSC site erected, installed and commissioned by the contractors of the company cannot be construed as marketable goods manufactured by
+the appellant since they cannot go to the market as such BTS/BSC site are not marketable. It also held that the test of marketability would also
+not be satisfied for another reason being, that for the installation of every BTS/BSC, licence from WPC/SACFA a wing of Department of
+Telecommunications, Government of India has to be obtained which invariably is user specific and site specific, meaning thereby if one wishes to
+sell the site to another user, it is not permissible under law, as the approval granted by the aforesaid authority for the frequency allocation and
+the site is for the user only and the purchaser would have to reapply for the license for that site. It cannot be sold/purchased marketed unattended
+and be equated to marketable goods, BTS/BSC site, therefore, are neither marketable nor capable of being marketed. The learned Tribunal also
+held that the appellants are not manufacturers and they are engaged in providing cellular mobile services by virtue of a license granted by the
+Government of India under the provisions of section 4 of the Indian Telegraph Act, 1885. Thus, their activity is purely service oriented. The
+Tribunal held that in such circumstances, the activity of installing and commissioning cell site cannot be an activity of either manufacture and no
+marketable goods arise. For the aforesaid reasons, the appeal was allowed and accordingly, the orders were set aside.
+
+9. It is not necessary for us to answer the issue as to whether the activities is purely service and consequently, the appellants are not manufacturers,
+We proceed on the footing that what has been assembled and installed is a new commodity having a distinct name from the components from
+which it was assembled. The question is whether this new commodity is marketable. We have already considered the test of marketability as laid
+down by the Supreme Court in Triveni Engineering & India Ltd. (supra) and also Moti Laminates Pvt. Ltd. (supra). At this stage, we also note
+that we proceed on the footing by ignoring the second finding of marketability recorded by the Tribunal namely that BTS/BSC is not marketable
+as licence is required from the Department of Telecommunication, Government of India. The facts on record would indicate that the equipments
+erected are embedded in the earth or on a building. The Tribunal noted that revenue does not contest or dispute the fact that whenever BTS/BSC
+site has to be relocated, all the equipments like BTS/BSC, Microwave Equipment, batteries, control panels, air conditioners, UPS, tower antennae
+are required to be dismantled into individual components, then they are to be moved from the existing site and reassembled at new site. This
+involves damages to certain parts like cable trays, etc. which are embedded/fixed to the Civil structure as also the BTS microwave equipment
+itself, All the components of the new product cannot be shifted as an illustration the room housing the equipment. This act of dismantling from the
+permanent site would render such goods not marketable. Apart from that the goods cannot be re-erected as in the previous place as the requirement
+of each place is different. Further, from the statement of Narayan as set out in the order of the Commissioner, it may be noted that he had stated
+that regarding installation of BTS the designing team after survey identified the location as per the requirements of the local coverage needs,
+determining the shelter location, fabrication of I-beam and pole location. It may be possible for us to agree that by installing or erecting, a new
+product comes into being with a different name in the market from its components. However, as discussed the test of marketability is not satisfied.
+The product cannot be shifted without damage. Apart from that various items and components are embedded in the earth. The product, therefore,
+is immovable. The order dated 15/1/2002 of Central Board of Excise & Customs, New Delhi itself regards items assembled and erected on the
+site and attached to the foundation on earth which cannot be dismantled without substantial damage to their components and thus, cannot be
+reassembled, as non excisable. The new product would not be considered as movable and, therefore, will not be an excisable good. Para 6 of the
+said circular will not apply to the facts of this case. In our opinion, therefore, though a new product comes into existence, yet as it is not movable,
+saleable and marketable, it would not be subject to excise duty.””
+
+The principles laid down in the judgments discussed above stand good under all statues
+unless any specific definition is available under the statute. What we want to say is that these
+principles cannot be circumscribed to any particular statute. An elaborate reproduction of the
+principles as laid down in the judgments along with their facts has made things clearer for us.
+The principles when seen in the light of the facts of the present case help us see thus -
+
+e The impugned car parking system, be it installed on a vacant plot of land or in a building, does
+not result into supply as chattel. In fact, before installation, there can be no goods as such which
+
+_could be called a ‘car parking system’.
+
+13
+
+
+e The system requires substantial work to be done at the site to be called a ‘car parking system’.
+
+¢ Once made operational the ‘car parking system’ obtains a state of permanency. It is not such as
+can be easily removed from the existing place and put into place at some other location.
+
+e The definition of “works contract” under the GST Act is in relation to immovable property.
+
+e We have already elaborately explained our opinion as to the facts at pages 6 and 7 of this order.
+
+In view thereof, we are of the considered opinion that the transaction of supply and
+installation of a ‘car parking system’ would qualify as immovable property and thereby
+
+‘works contract’ as defined in Section 2(119) of the CGST Act.
+
+Since we are called upon to decide the coverage of the impugned transaction only in
+respect of section 2(119) of the CGST Act and having recorded our opinion thereto, there arises
+no occasion for us to discuss as to whether the transaction is a ‘composite supply’ as defined in
+Section 2(30) of the CGST Act.
+
+06. In view of the deliberations as held hereinabove, we pass the order as under :
+
+ORDER
+
+(under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods and
+Services Tax Act, 2017)
+
+NO.GST-ARA-39/2017-18/B- 4; 6 Mumbai,dt. \3%)¢/2aig
+
+For reasons as discussed in the body of the order, the question is answered thus -
+Question :- | Whether the activity of supply and installation of ‘car parking system’ as ‘works
+contract’ as defined in Section 2(119) of the CGST Act.
+
+Answer :- Answered in the affirmative.
+
+— ae, ae
+
+. V. BORHADE PANKAJ KUMAR
+(MEMBER) (MEMBER)
+
+Note :- An Appeal against this advance ruling order shall be made before The Maharashtra Appellate
+Authority for Advance Ruling for Goods and Services Tax, 15‘ floor, Air India building, Nariman Point,
+Mumbai - 400021
+
+Copy to:-
+
+1. The applicant
+
+2. The concerned Central / State officer
+
+3. The Commissioner of State Tax, Maharashtra State, Mumbai
+
+4. The Chief Commissioner of Central Tax, Churchgate, Mumbai
+
+CERTIFIED TRUE COPY
+i
+BER
+
+ADVANCE RULING AUTHORITY
+MAHARASHTRA STATE, MUMBA!

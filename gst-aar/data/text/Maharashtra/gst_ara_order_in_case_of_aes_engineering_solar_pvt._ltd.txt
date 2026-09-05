@@ -1,0 +1,555 @@
+MAHARASHTRA GST ARA Order M/s. AES Engineering Solar Private Limited, (No. 04 Dated 28.04.2023)
+
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+GST Bhavan, Room No.107, ist floor, B-Wing, Old Building, Mazgaon, Mumbai — 400010.
+(Constituted under Section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+BEFORE THE BENCH OF
+(1) Shri. AJAYKUMAR V. BONDE Joint Commissioner of State Tax, (Member)
+(2) Ms. PRIYA JADHAV, Joint Commissioner of Central Tax, (Member)
+
+ARN No. AD2704230118331)
+
+GSTIN Number, if any/ User-id 27AAXCA3565A1Z)
+
+Legal Name of Applicant M/s. AES Engineering Solar Private Limited
+Registered Address/Address | GAT No. 85, Mumbai Bangalore Highway, Varve KH,
+
+provided while obtaining user id Pune, Maharashtra 412 205.
+Details of application GST-ARA, Application No. 04 Dated 28.04.2023
+
+Concerned officer State Tax Officer, KHED SHIVAPUR_701 PUN-VAT-C-819-
+| Division- PUNE_NORTH.
+
+4
+
+NO.GST-ARA- 04 of 2023-24/2024-25/8- 5-F Mumbai, dt. 91.9 4-262 4
+
+PROCEEDINGS
+(Under Section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods
+and Services Tax Act, 2017)
+
+The present application has been filed under Section 97 of the Central Goods and Services Tax Act,
+2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as “the CGST Act
+and MGST Act” respectively] by M/s. AES Engineering Solar Private Limited the applicant, seeking an
+advance ruling in respect of the following questions.
+
+a) Whether on the basis of the facts the applicant is liable to pay Goods and Services Tax
+(GST) on intra state delivery of electrical energy on the basis of the above
+agreement?
+
+b) Whether on the basis of the facts the applicant is liable to pay Goods and Services Tax
+(GST) on interstate delivery of electrical energy on the basis of the above agreement?
+
+c) In case the applicant is liable to pay Goods and Services Tax (GST), whether the
+applicant can claim and utilise the CGST and SGST paid at the instance of
+procurement of the solar power plant as input tax credit for payment of the GST
+liability as per Sr. No. a) and b) above?
+
+4
+
+a Page 1 of 9
+
+
+MAHARASHTRA GST ARA Order M/s. AES Engineering Solar Private Limited, (No. 04 Dated 28.04.2023)
+
+1.2 Applicant is engaged in production of Electrical Energy through its solar power plant located at
+Village Nagansur, Taluka Akkalkot, District Solapur, Maharashtra.
+
+1. 3 During the period August 2022 till 27 March 2023 the company has incurred an expenditure of Rs.
+
+17,60,43,174/- (including SGST Rs. 1,04,30,132/- and CGST Rs. 1,04,30,132/-).
+
+1.4 (i) The applicant has entered into Power Purchase Agreement with Phillip Commodities India
+Private Limited, having its registered office at 1, 18th Floor, Urmi Estate, 95, Ganpatrao Kadam
+Marg, Lower Parel, Mumbai — 400 013 vide agreement dated 08 February 2013.
+
+(ii) Vide corrigendum to the above agreement dated 09 March 2023 the applicant has amended
+the tenure of the agreement. Accordingly, the tenure of the agreement is 08 February 2013 till
+30 April 2023
+
+(iii)As per the agreement the applicant shall sell electrical energy up to 2MW from its above solar
+
+power plant
+(iv) The above agreement defines Contracted Capacity and Delivery Point as follows:
+
+- Contracted Capacity - “Contracted Capacity shall mean up to a maximum of 2 MW of
+electricity, to be arranged by the SELLER to BUYER at the Delivery Point in terms of this
+Agreement” °
+
+- Delivery Point - “Delivery Point shall mean the busbar of the End Consumer i.e. Connectivity
+
+of End Consumer with DISCOM”
+On a careful analysis of the above terms of the agreement it transpires that the scope of
+work for the applicant includes delivery of electricity till the busbar of the end consumer
+with the DISCOM. As such, the apart from production of electrical energy the applicant is
+also engaged in the business of transmission and distribution of electrical energy.
+
+1.5 The electrical energy is sold by the applicant to M/s. Phillip Commodities Private Limited is in turn
+is sold by Phillip Commodities Private Limited to M/s. Kores India Limited through the Grid
+Connectivity of MSEDCL. M/s. Phillip Commodities Private Limited is an authorised trading
+partner as registered with the Central Electricity Regulatory Commission of India. Further Power
+purchase Agreement between kores India Private Limited (buyer/consumer) and Philips
+commodities India Private Limited (Seller) vide agreement dated 09-02-2022
+
+C) Modus Operandi
+
+Order of Description
+events | r
+
+| Electrical Energy is generated at the applicant's solar power plant at Guravwadi,
+Taluka- Akkalkot, Sholapur, Maharashtra
+
+ll The Electrical Energy generated through the solar power plant is delivered at the
+pooling sub-station of Shree Swami Samarth Solar Green Energy LLP. The role of
+the applicant ends at this point
+
+il The Maharashtra State Electricity Distribution Co. Ltd. (MSEDCL) accepts the
+delivery of the electrical energy at the pooling sub-station of Shree Swami Samarth
+
+Oe PUL INA SS Solar Green Energy LLP which is connected to the MSEDCL grid
+MS) 4 SJ
+LY {aaa oN
+
+MSEDCL delivers the electrical energy to the ultimate consumer viz. Kores India
+Limited, Chakan, Pune through its own transmission and distribution infrastructure
+
+Ny Page 2 of 9
+aw
+
+
+MAHARASHTRA GST ARA Order M/s. AES Engineering Solar Private Limited, (No. 04 Dated 28.04.2023)
+
+Vv The electrical energy is sold by the applicant to M/s. Phillip Commodities Private
+Limited which in turn is sold by Phillip Commodities Private Limited to M/s. Kores
+India Limited through the Grid Connectivity of MSEDCL.
+As explained above M/s. Phillip Commodities Private Limited is an authorised
+trading partner as registered with the Central Electricity Regulatory Commission of
+India.
+
+c) Business structure
+On a careful analysis of the notification as above and the agreement entered with the
+customer, it can be concluded that the applicant is involved in two different business as
+follows:
+
+Sr. Description Taxability HSN / SAC Code
+
+No. under
+
+1 Production of electrical energy |. ‘Exempt | 271600 Electrical ‘Energy
+2 Transmission and distribution | Taxable 996911- Electricity Transmission Services
+of electricity 996912 Electricity Distribution Services
+
+2) STATEMENT CONTAINING APPLICANT'S INTERPRETATION OF LAW
+
+2.1) Exemption notification Supply of Goods-: - as per the notification no. 2/2017 dated
+28/06/2017 vide entry at Sr.No. 104, Chapter/ Heading / Sub-heading Tariff item 2716 00 00
+and Description of Goods - Electrical Energy, Electrical Energy has been exempted from GST.
+
+2.2) Exemption notification Supply of Services- Vide Notification no.12/2017 dated 28/06/2017,
+Transmission or distribution of electricity by an electricity transmission or distribution utility
+is taxable at Nil rate.
+
+2.3 ) Applicants Interpretation-Accordingly, it transpires that the solar power plant is being utilised
+towards furtherance of taxable sales made by the applicant company. Hence, the input tax
+credit pertaining to the procurement of solar power plant can be utilised towards taxable sales
+of transmission and distribution of electricity to the busbar of end consumer. In support
+
+2.4) Applicant submitted Judicial Precedents: in case of KLF Nirmal Industries (P.) Ltd. In re -
+[2021] 129 taxmann.com 337 (AAR - TAMILNADU) The Hon'ble Bench has ruled as below:
+
+2.5) Conclusion drawn by the Applicant.
+
+The applicant has made the above detailed analysis on the basis of which it can be
+concluded as follows:
+- The applicant sells electrical energy.
+The transmission and distribution are not within the scope of the applicant.
+- As the applicant sells only electrical energy there is not taxable supply in the entire
+transaction, whereby there is no liability towards the GST.
+Hence, as there is no taxable supply, the applicant is not entitled to input tax credit
+pertaining to the procurement of solar power plant.
+ion of the Jurisdictional Officer-
+intra State supply of electricity generated from solar power plant by the applicant is a
+/ f goods falling under Customs Tariff Heading 2716 00 00 and is exempted from GST as per
+NN ’ Pee t SI. No. 104 of Notification NoO 02.2017 Central Tax (Rate) dated 28.06.2017.
+ORS heat “9 °The detailed entry as per the above notification is as below: -
+SKA STE a Sr. No. Chapter/ Heading/Sub- -heading/ Tariff items Description of ‘goods
+
+ne al
+104 2716 00 00 Electrical energy
+
+we Page 3 of 9
+
+
+MAHARASHTRA GST ARA Order M/s. AES Engineering Solar Private Limited, (No. 04 Dated 28.04.2023)
+
+As the supply of electricity generated from solar power plant is exempted from GST, the applicant
+is not eligible to utilize the CGST/SGST/IGST paid the instance of procurement of the solar power
+plant.
+
+Section 17(2) is reproduced below for ready reference: -
+
+“Section17. Apportionment of credit and blocked credits: -
+
+Cl) se
+
+(2) Where the goods or services or both are used by the registerea person partly for effecting
+
+taxable supplies including zero-rate supplies under this Act or under the Integrated Goods and
+
+Services Tax Act and partly for effecting exempt supplies under the said Acts, the amount of credit
+
+shall be restricted to so much of the input tax as is attributable to the said taxable supplies
+
+including zero-rate supplies.”
+
+(3) Rules 42 & 43 of CGST rules 2017- provide that the Applicant is not entitled to Input Tax credit
+
+as its all out put supplies are Exempted from tax.
+
+(4) There is no proceedings pending or decided against the applicant under any provisions of The
+
+GST Act 2017 as on date.
+
+4. HEARING
+
+Preliminary hearing in the matter was held on 09.05.2024. Mr. Narendra K. Patil, C.A.
+
+Appeared, and requested for admission of the application. Jurisdictional Officer Mr. A.S. Jagdale,
+
+STO, PUN-VAT-C-819 also appeared.
+
+The application was admitted and called for final hearing on 03.07.2024 Mr. Narendra K.
+
+Patil, C.A. authorized Representative, appeared made oral and written submissions.
+
+Jurisdictional Officer Mr. A.S. Jagdale, STO, PUN-VAT-C-819 appeared. We heard both the sides.
+5. Findings, observation and discussion:-
+
+5.1 Uncontroverted facts of this case are as under:
+
+5.1.1) M/s. AES Engineering Solar Pvt Ltd. (hereafter referred as “Applicant”), is engaged
+
+in production of Electrical Energy through its solar power plant located at Village
+Nagansur, Taluka Akkalkot, District Solapur, Maharashtra.
+
+5.1.2) The applicant has entered into power purchase agreement with Philips
+commodities India Private Limited, (hereafter referred as “buyer”) having its
+registered office at 1, 18" Floor, Urmi Estate, 95, Ganpatrao Kadma Marg, Lower
+Parel Mumbai, 400013 vide agreement dated 08.02.2013. M/s. Phillip
+Commodities Private Limited is an authorised trading partner as registered with
+the Central Electricity Regulatory Commission of India.
+
+(i)As per the agreement the applicant has agreed to sell electrical energy up to 2MW from
+its above solar power plant to the Philips Commodities.
+
+(ii) The above agreement defines contracted capacity and delivery point as follows:
+
+- contracted capacity — “contracted capacity shall mean upto a maximum of 2MW of
+electricity, to be arranged by the SELLER to BUYER at the delivery point in terms of this
+Agreement”
+
+- Delivery point- “Delivery point shall mean the busbar of the End consumer i.e.
+connectivity of end consumer with DISCOM.
+
+(iii) The applicant has submitted that as per the aforesaid agreement between applicant
+and Philips commodities India Limited Parel Mumbai 13 the delivery point of
+electricity is defined as under: Delivery Point
+
+“Delivery Point” shall mean the busbar of the End Consumer i.e. connectivity of End
+
+consumer with DISCOM.
+
+Page 4 of 9
+
+2
+
+
+MAHARASHTRA GST ARA Order M/s. AES Engineering Solar Private Limited, (No. 04 Dated 28.04.2023)
+
+The applicant has submitted invoices issued:
+
+ea - TAX INVOICE a
+Date: 22.04.2024 To: Philips Commodities India Pvt Ltd
+Invoice: AES / MAR-2024 18" floor, Urmi Estate, 95,Lower |
+
+Parel, Mumbai, Maharashtra
+GST- 27AACCR6675H1Z0
+
+Sr. No. | Description Unit Qty Rate Amount Rs. |
+1 Sale of Power: KWH 3,54,322|.  3.80| 13,46,424 |
+
+Solar Units Sold
+
+for the month of
+
+Mar-2024 |
+Total Amount (in Words) Grand Total 13,46,424
+
+5.1.3) The Electrical Energy generated by Applicant is delivered at the pooling sub-station
+of Shree Swami Samarth Solar Green Energy LLP. The role of the applicant ends at
+this point. The Maharashtra State Electricity Distribution Co. Ltd. (MSEDCL)
+accepts the delivery of the electrical energy at the pooling sub-station of Shree
+Swami Samarth Solar Green Energy LLP which is connected to the MSEDCL grid.
+
+5.1.4) Billing of exported units is be done on main meter (22004263) installed at 33/11kv
+Nagansur Sub-station on percentage basis & Auxiliary supply will be billed on
+consumer end metering: 23001435, as actual at park end. 7) MSEDCL does not
+charge “Transmission and distribution charge” to the Applicant.
+
+5.1.5) The electrical energy is sold by the applicant to M/s. Phillip Commodities Private
+Limited which in turn is sold through power purchase agreement executed on
+09.02.2023 between Phillip Commodities Private Limited to M/s. Kores India
+Limited (hereinafter referred as “End Consumer”), Itd situated at (G.N. 149,
+Chakan, Talegaon road, Tal. Khed, Dist. Pune- 410501.), through the Grid
+Connectivity of MSEDCL.
+
+5.1.6) MSEDCL delivers the electrical energy to the ultimate consumer viz. Kores India
+Limited, Chakan, Pune (End Consumer) through its own transmission and
+distribution infrastructure. MSEDCL charges the “Transmission and distribution
+charge” from the End Consumer which ultimately consumes the Electricity.
+
+5.1.7) Invoice is raised by MSEDCL on the ultimate consumer which includes only the
+
+transmission, distribution and other incidental charges pertaining to the
+
+electricity supplied through Open access.
+Sample Bill of Supply issued by Maharashtra State Electricity Distribution Co.
+Limited’s to M/s. Kores (India Ltd Chakan Foundry , is as under
+Consumer Number: 176099030420
+Consumer Name: M/s. Kores (India) Ltd Chakan Foundry DN
+Address: G.N. 149, Chakan Talegaon RD, Tal., Khed, Dist-Pune, 410501
+For total amount of Rs. 1,48,84,270/-
+It has submitted where total units supplied to Kores (India) Ltd on date
+01.03.2024 to 31.03.2024 are shown to be Rs. 1,48,84,270/- breakup of this
+out of the units of Rs. 1,48,84,270/- consumed by Kores (India) ltd units
+
+2
+qv
+
+Page 5079
+
+
+MAHARASHTRA GST ARA Order M/s. AES Engineering Solar Private Limited, (No. 04 Dated 28.04.2023)
+
+received from generating company AES Engineering Solar India Pvt Ltd to the
+generating station described as under: -
+
+MAHARASHTRA STATE ELECTRICITY DISTRIBUTION COMPANY LTD.
+OPEN ACCESS METER CONSUMPTION REPROT FOR THE MONTH MARCH-2024
+
+Consumer No. 176099030420 Consumer Name M/s. Kores (India Ltd Chakan Foundry)
+| Serial Number 23001435 Meter Data Source Meter
+
+Generation SOLAR Generating Company M/s. AES Engineering Solar Pvt Ltd
+
+Type
+
+Generating Station | 33/11KV NAGANSUR SUB STATION-33KV FOR __| Offset Priority | 1
+
+Agreement Start Date 01.03.2024 Agreement End Date ; 31.03.2024
+
+Transaction Type Short term Feeder voltage 33
+
+OA Contract Demand 1980 Energy Purchase Agreement Yes
+
+Bulk Power Transmission No Interstate Open Access No.
+
+Agreement (BPTA) |
+
+CPP/Self Use Non-Captive | Injection & Drawal on same feeder | No \
+
+Applied for Medium Term No Connected to grid - Yes
+
+Single Generator with Multiple meters No
+
+| Consumption Details _
+
+Export Units (KWH) ~~ 3,95,632 | Units for OA Adjustment (KWH) | _3,95,632 |
+
+Units Aft. Transmission Loss (KWH) _3,54,322 | Units Aft. Distribution loss (KWH) 3,65,960
+
+‘Final Units(KWH) ——=—————S——«i3, 54,322 | Units adjusted against OA (KWH) 3,01,916
+
+Over injected Units(KWH) ~—~—~—«. | Banked Offset Units (KWH) 52,406
+
+5.1.8 Observation- In this invoice issued by Mahavitran to M/s. Kores (India) Limited
+Chakan Foundry (end consumer) has charge transmission charges it Rs.
+18,86,265/- and operating charges at Rs. 60,730/-. Relevant portion of the bill of
+supe are reproduced as under:
+
+~ Maharashtra State Electricity ‘Distribution Co. Ltd. |
+
+Bill of Supply |
+Circle Pune Rural Circle ' Bill Month Mar- 2024 |
+Consumer | M/s. Kores (India) Ltd Chakan | Consumer Number 176099030420
+Name _ Foundry DN
+| Address _ | Plot No. J2 S- Block, Pimpri, 411026. sst—~S 7
+Bill for MSEDCL Consumption Rate Amount Rs.
+Demand Charges 499.00 23,71,747.00
+Energy Charges KVAH Units: 677001 oO 8.12 ~~ 54,97,248,.00
+FAC Charges @ 0.35 51,223.90
+SS a a = a ae
+‘ior Open A ‘Open Access _ es Rate | Amount Rs.
+fs | Electribity Duty 0.1800 121,142.34
+E f { > | Wheeling Charges (1886265@.6) 11,31,759.00
+* ( Transmission Charges _ _ 18,86,265.00
+$\ ee Opgratifig ¢ Charges 60,730.00
+% ees ie
+Non “ on “
+Page 6 of 9
+x
+
+
+MAHARASHTRA GST ARA Order M/s. AES Engineering Solar Private Limited, (No. 04 Dated 28.04.2023)
+
+5.2 Based on this fact the applicant has raised following questions as under:
+
+1. Whether on the basis of the facts the applicant is liable to pay Goods and Services
+Tax (GST) on intra state delivery of electrical energy on the basis of the above
+agreement?
+
+2) Whether on the basis of the facts the applicant is liable to pay Goods and Services
+Tax (GST) on interstate delivery of electrical energy on the basis of the above
+agreement?
+
+3) In case the applicant is liable to pay Goods and Services Tax (GST), whether the applicant
+can claim and utilise the CGST and SGST paid at the instance of procurement of the solar
+power plant as input tax credit for payment of the GST liability as per Sr. No. a) and b)
+above?
+
+5.3) Provisions of GST Act, Rules & Notification.
+
+1) Electrical Energy are goods under GST Laws and notification no. 2/2017- Central Tax (Rate)-
+dated 28.06.2017 and Notification No.2/2017-Integrated Tax (Rate)- dated 28.06.2017, both
+vide , Sr. No. 104, Exempt from tax “Electrical Energy having Tariff item 271600 00, under
+GST Laws , respectively on Intra-State and Interstate supplies., respectively.
+
+2) MSEDCL recovers “Transmission charges” from the End Consumer, which are exempted from
+Tax vide Notification no. 12/2017- Central Tax (Rate)- dated 28.06.2017 and Notification No.
+12/2017-Integrated Tax (Rate)- dated 28.06.2017, both vide Entry at Sr no. 25 Heading 9969
+— “Transmission or distribution of electricity by an electricity transmission or distribution
+utility’, on Intra-State and Interstate supplies., respectively.
+
+3) Provisions of section 17- of the GST Act, provide as under,
+
+“17. Apportionment of credit and blocked credits.
+
+(2) Where the goods or services or both are used by the registered person partly for
+
+effecting taxable supplies including zero-rated supplies under this Act or under the
+
+Integrated Goods and Services Tax Act and partly for effecting exempt supplies under the
+
+said Acts, the amount of credit shall be restricted to so much of the input tax as is
+
+attributable to the said taxable supplies including zero-rated supplies.
+
+(3) The value of exempt supply under sub-section (2) shall be such as may be prescribed,
+
+and shall include supplies on which the recipient is liable to pay tax on reverse charge basis,
+
+transactions in securities, sale of land and, subject to clause (b) of paragraph 5 of Schedule
+
+Il, sale of building.
+
+[Explanation.—For the purposes of this sub-section, the expression “value of exempt
+
+supply” shall not include the value of activities or transactions specified in Schedule III,
+
+except those specified in paragraph 5 of the said Schedule.”
+
+»Rule 42. “Manner of determination of input tax credit in respect of inputs or input services
+A d reversal thereof.-(1) The input tax credit in respect of inputs or input services, which
+“attract the provisions of sub-section (1) or sub-section (2) of section 17, being partly used jor
+th purposes of business and partly for other purposes, or partly used for effecting taxable
+5 plies including zero rated supplies and partly for effecting exempt supplies, shall be
+“attributed to the purposes of business or for effecting taxable supplies in the following manner,
+ flamely,-
+
+“ron asiare. wh 4
+TE, Rule 43- “43. Manner of determination of input tax credit in respect of capital goods and
+
+reversal thereof in certain cases.- (1) Subject to the provisions of sub-section (3) of section 16,
+the input tax credit in respect of capital goods, which attract the provisions of sub-sections (1)
+and (2) of section 17, being partly used for the purposes of business and partly for other
+
+Ww? Page 7 of 9
+
+
+MAHARASHTRA GST ARA Order M/s. AES Engineering Solar Private Limited, (No. 04 Dated 28.04.2023)
+
+purposes, or partly used for effecting taxable supplies including zero rated supplies and partly
+for effecting exempt supplies, shall be attributed to the purposes of business or for effecting
+taxable supplies in the following manner, namely,-.
+
+”
+
+6. In view of the extensive deliberations as held hereinabove, we pass an order as follows:
+
+ORDER
+(Under Section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra Goods
+and Services Tax Act, 2017)
+
+For reasons as discussed in the body of the order, the questions are answered thus —
+
+1. Whether on the basis of the facts the applicant is liable to pay Goods and Services
+Tax (GST) on intra state delivery of electrical energy on the basis of the above
+agreement?
+
+Answer : - In the invoices issued by applicant to its buyer, the applicant has invoiced
+charges for ‘supply of Electricity’ only and has not collected ‘delivery charges’
+(transmission charges). Supply of “Electrical Energy “is exempted from Tax vide Entry
+at Sr. No 104 of the Notification No. 2/ 2017-Central Tax-(Rate) dated 28" June 2017
+
+2. Whether on the basis of the facts the applicant is liable to pay Goods and Services
+
+Tax (GST) on interstate delivery of electrical energy on the basis of the above
+agreement?
+Answer : - In the invoices issued by applicant to its buyer, the applicant has invoiced
+charges for ‘supply of Electricity’ only and has not collected ‘delivery charges’
+(transmission charges). Supply of “Electrical Energy “is exempted from Tax vide Entry
+at Sr. No 104 of the Notification No. 2/ 2017-Integrated Tax-(Rate) dated 28" June
+2017
+
+3. In case the applicant is liable to pay Goods and Services Tax (GST), whether the
+applicant can claim and utilise the CGST and SGST paid at the instance of
+procurement of the solar power plant as input tax credit for payment of the GST
+liability as per Sr. No. a) and b) above?
+
+Answer : - As the output supplies of Applicant are exempted from tax, Applicant is
+not entitled to claim input Tax Credit on its inward supplies of goods or services or
+both or capital goods (procurement of the solar power plant) used in generation of
+Electricity as per provisions of Section 17 r.w. rules 42 and 43, which prescribe for
+
+calculation of Input Tax Credit.
+OK giv?
+
+ASAYKUMIAR V. BONDE PRIYA JADHAV
+
+(MEMBER) (MEMBER)
+
+Ss Gopy.tone WY *
+i
+
+icant
+
+Page 8 of 9
+
+
+MAHARASHTRA GST ARA Order M/s. AES Engineering Solar Private Limited, (No. 04 Dated 28.04.2023)
+
+2. The concerned Central / State officer
+
+Copy submitted for information to-
+
+1. The Commissioner of State Tax, Maharashtra State, Mumbai
+
+2. The Pr. Chief Commissioner of Central Tax, Churchgate, Mumbai
+3. The Joint commissioner of State Tax, Mahavikas for Website.
+
+Note:-An Appeal against this advance ruling order shall be made before The Maharashtra Appellate
+Authority for Advance Ruling for Goods and Services Tax, 15" floor, Air India Building, Nariman
+Point, Mumbai — 400021. Online facility is available on gst.gov.in for online appeal application
+against order passed by Advance Ruling Authority.
+
+Page 9 of 9

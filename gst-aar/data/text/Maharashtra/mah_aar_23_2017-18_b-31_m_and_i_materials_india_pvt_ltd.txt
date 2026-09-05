@@ -1,0 +1,874 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+(constituted under section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+
+BEFORE THE BENCH OF
+
+(1) Shri B. V. Borhade, Joint Commissioner of State Tax
+(2) Shri Pankaj Kumar, Joint Commissioner of Central Tax
+
+GSTIN Number, if any/ User-id 27AAICM3416B1ZU i
+Legal Name of Applicant M&I MATERIALS INDIA PRIVATE LIMITED |
+Registered Address/ Address provided while | PLOT NO. 1249/50, KALAMBOLI
+obtaining user id WAREHOUSING COMPLEX, ROAD NO. 14,
+
+KALAMBOLI, NAVI MUMBAI - 410218.
+Details of application GST-ARA, Application No. 23 Dated 09.02.2018
+Concerned officer State Tax Officer (RAI-SGST-C-018)
+Nature of activity(s) (proposed / present) in
+respect of which advance ruling sought |
+A Category Wholesale Business, Warehouse/ Deport
+B Description (in brief) IMPORT AND SALE OF GOODS
+Issue/s on which advance ruling required (i) classification of goods and/or services or both
+Question(s) on which advance ruling is required | As reproduced in para 01 of the Proceedings below
+
+|
+PROCEEDINGS
+
+(under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+The present application has been filed under section 97 of the Central Goods and Services
+Tax Act, 2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as
+“the CGST Act and MGST Act”] by M&I MATERIALS INDIA PRIVATE LIMITED, the applicant,
+seeking an advance ruling in respect of the applicability of GST on:
+
+What is the correct Harmonized System of Nomenclature (HSN) code and the applicable GST rate for our
+products MIDEL eN 1204 (rapeseed oil based dielectric transformer fluid) and MIDEL eN 1215 (soya oil based
+dielectric transformer fluid) in terms of Notification No. 1/201 7-Central Tax (Rate) dated 28 June 2017?
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and
+the MGST Act are the same except for certain provisions. Therefore, unless a mention is
+specifically made to such dissimilar provisions, a reference to the CGST Act would also mean a
+reference to the same provision under the MGST Act. Further to the earlier, henceforth for the
+purposes of this Advance Ruling, a reference to such a similar provision under the CGST Act /
+MGST Act would be mentioned as being under the “GST Act”.
+
+02. FACTS AND CONTENTION - AS PER THE APPLICANT
+
+The submissions, as reproduced verbatim, could be seen thus-
+
+“Statement of relevant facts having a bearing on the question(s) raised
+1. M&l Materials India Pvt. Ltd. (hereinafter referred to as *M&I India’ or “the company” or “we’ or “us’) is a wholly
+owned subsidiary of M&I Materials Ltd. based in UK (hereinafter referred to as “M&I UK’).
+
+2. The company commenced its operations in the month of April 2014 and is, inter alia, engaged in the following
+
+activities:
+2.1. Import of *Midel Dielectric Fluids’ from M&I UK and subsequent sale in India
+2.2 Establishing local warehousing and distribution capability.
+
+
+
+2.3. Marketing and business development activity with a focus on assisting in the development of the Midel Dielectric
+Fluids business in India.
+2.4 Provide local first line support for any technical querics.
+
+3. The details of the products for which the Advance Ruling is being sought is as follows:
+3.1 MIDEL eN 1204
+
+3.1.1 It is a vegetable oil based dielectric transformer fluid. It is a chemically modified rapeseed oil bas’ d
+natural ester
+
+3.1.2 It is used as electric insulator in transformers. Its function is to provide electrical insulation, suppress
+corona and arcing, and to serve as a coolant.
+
+3.1.3 We have classified MIDEL eN 1204 as per the Harmonized System of Nomenclature (HSN) code under
+the First Schedule of the Customs Tariff Act, 1975 (hereinafter referred to as “the Customs Tariff’) under
+the entry 15180039. The relevant extract of the entry is reproduced hereunder for case of reference:
+
+“1518.00 Animal or vegetable faty and oils and their fractions, boiled, oxidized, dehydrated, sulphurised, blown, polymerized by heat
+
+in vacuum or in mert gas or otherwise chemically modified, excluding those of heading 1516; inedible muxtures or preparations of
+animal or vegetable fats or oils or of fractions of different fats or oils of ts Chapter, not elsewhere specified or included.
+
+1518.00.39 - Other
+
+[emphasis supplied]
+3.1.4. The applicable Indian Standards (IS) of the Bureau of Indian Standards (BIS) under the Bureau of Indian
+
+Standards Act, 1986 is IS 16659:2017.
+3.2. MIDEL eN 1215
+
+3.2.1 Itis a vegetable oil based dielectric transformer fluid. It is a chemically modified soya based natural ester.
+
+3.2.2 It is used as electric insulator in transformers. Its function is to provide electrical insulation, suppress
+corona and arcing, and to serve as a coolant.
+
+3.23  Wehave classified MIDEL eN 1215 as per HSN code under the First Schedule of the Customs Tariff Act,
+1975 under the entry 15180039.
+
+3.2.4 The applicable Indian Standards (IS) of the Bureau of Indian Standards (BIS) under the Bureau of Indian
+Standards Act, 1986 is IS 16659:2017.
+
+4. The rate of GST applicable on supply of various goods is notified vide Notification No. 1/2017-Central Tax (Rate)
+dated 28 June 2017, as amended from time to time (hereinafter referred to as “the Notification”).
+4.1 Under the Notification, the HSN code 1518 appears under “Schedule | - 2.5%” as well as “Schedule 2 - 6%”. The
+relevant extract is reproduced hereunder for ease of reference:
+
+S. No. Chapter / Heading / | Description of goods
+Sub-heading / Tariff item
+Schedule I - 2.5%
+
+90. 1518 Vegetable fats and oils and their fractions, boued, oxidised, dehydrated, sulphurised, blown,
+polymerised hy heat m vacuum or in mert gas or otherwise chemically modified, excluding
+those of heading 1516
+[emphasis supplied]
+
+Schedule I= 6%
+
+27. 1518 Animal fats and animal oils and their fractions, boiled, oxidised, dehydrated, sulphurised,
+blown, polymersed by heat im vacuum or in inert gas or otherwise chemically modified,
+excluding those of heading 1516; medible mixtures or preparations of animal or vegetable
+“fats or oily or of fractions of different fats or otls of ths chapter, not elsewhere specified of
+included
+{emphasis supplied]
+
+4.2
+
+43 It can be seen that under GST, items constituting of vegetable fats and oils, which are classifiable under entry
+1518.00.39 of the Customs Tariff can be classified under two different entries, which has resulted in an uncertainty
+in respect of the correct classification applicable to our above mentioned products
+
+5. We humbly request you to give a ruling in respect of the appropriate classification for both of our above mentioned
+products,
+
+Statement containing the applicant’s interpretation of law and/or facts, as the case may be, in respect of the aforesaid
+question(s) (i.e. applicant’s view point and submissions on issues on which the advance ruling is sought)
+
+We submit that both our products viz. MIDEL eN 1204 and MIDEL eN 1215, are chemically modified vegetable oil based
+transformer fluids which should be classified under Entry at S. No. 90 of Schedule - I [applicable rate of Central Goods and
+Services Tax (CGST) - 2.5%]. To support our view, we would like to put forth our contentions, without prejudice to each
+other, as follows:
+
+1. Specific entry should prevail over general entry
+1.1 Chemically modified vegetable oils are more specifically covered under Entry at S. No. 90 of Schedule - I of the
+Notification. Hence, both our products viz, MIDEL eN 1204 and MIDEL eN 1215 should be classified under the said
+
+entry
+1.2 Further, explanations (iii) and (iv) to Notification No. 1/2017-Central Tax (Rate) dated 28 June 2017, as amended
+
+from time to time, state as under:
+
+
+
+“w. “Tariff tem", “sub-heading" “heading” and “Chapter” shall mean respectively a tariff wm, sub-heading, heading and chapter as specified in
+the First Schedule to the Customs Tariff Act, 1975 (31 of 1975).
+1. The rules for the merpretation of the First Schedule to the Customs Tariff Act, 1975 (51 of 1975), including the Section and Chapter Notes and
+the General Explanatory Notes of the First Schedule shall, so far as may be, apply to the mterpretation of this noufication,”
+1.3 At this stage, we would also like to reproduce the relevant extract of the “Rules for the interpretation of the First
+
+Schedule’ for ease of reference:
+
+4. When by applicanon of rule 2(b) or for any other reason, goods are, prima facte, classifiable under twa or more headings, classification shall be
+effected as follows
+(a) the heading which provides the most specific description shall be preferred to headings providing a more general description However, when two
+
+or more headings each refer to part only of the materials or substances contamed in mixed or composite goods or to part only of the tems in a set
+put up for retail sale, those headings are to be regarded as equally specific m relation ts those goods, even if one af them gives a more complete or
+precise description of the goods
+
+emphasis supplied]
+
+1.4 The entry at S. No. 27 of Schedule II - 6% is a general entry mainly referring to animal fats and oils while vegetable
+fats and oils are mentioned only cursorily. Further, it should be noted under the said entry only those vegetable fats or
+oils can be covered which are not specified elsewhere.
+
+1.5 It is a well established principle of taxation jurisprudence for resolving classification disputes that a specific entry
+shall prevail over a general entry. In this regard, we would like to bring to your attention the judgement of the Hon’ble
+Supreme Court of India in the case of Western India Plywoods Ltd. versus Collector of Customs, Cochin [2005
+(188) E.L.T 365 (S.C.)] (attached as Annexure 1), wherein the question pertained to classification of “motor vibrator
+
+with actuator” under the Customs Tariff. In this case, the Hon’ble Supreme Court held that,
+wis well settled that the application of the restduary tariff entry must always be made with a good deal of caution as 11 1s attracted only when no
+other provision expressly or by necessary implication applies to the goods in question.”
+1.6 Further, the Hon’ble Supreme Court of India in the case of Superintendent of Central Excise and Others versus
+
+Vac Met Corpn. Ltd. [1985 (22) E.L.T 330 (S.C.)] (attached as Annexure 2) held that,
+
+Where an arncle falls within a specific entry ike Entry 15A(Q2) which covers plasue arncles of all sorts, m different shapes or even of strips,
+whether lammated or not, they must necessarily be excluded from the general Entry 18 which relates to rayon and synthene fibres and yarn 1. akin
+made fibres
+
+1.7 Given the above, we submit that a combined reading of relevant entries along with the general rules of interpretation
+[supra] and the decisions of the Apex Court on the matter, it is evidently clear that both our products should fall under
+Schedule | - 2.5% as it provides a more specific description applicable to both our products.
+
+2. Intention of the legislature
+
+2.1 It is pertinent to note that whereas under the Customs law, animal or vegetable fats and oils are part of the same entry
+i.e. 1518.00 (supra), under the GST regime a conscious decision has been made by the GST Council to split the said
+entry between vegetable fats and oils and animal fats and oil by including vegetable fats and oil under Schedule lof
+the Notification which provides for lower GST rate of 2.5%.
+
+2.2 The Constitution Bench of the Hon’ble Supreme Court of India in Dattatraya Govind Mahajan versus State of
+Maharashtra [1977 AIR 915] (attached as Annexure 3) has held that,
+
+ultimately 11 1s the wntention of the legislature which ts paramount and mere use of a label cannot control or deflect such intention. It must be
+remembered that the legislature has different ways of expressing self and in the last analysis the words used by the legislature alone are the true
+repository of the intent of the legislature and they must be construed having regard to the context and setting in which they oceur.
+
+2.3 Insertion of a specific and separate entry in the GST rate schedule in respect of vegetable fats and oils clearly brings
+out the intention of the legislature and the GST Council to tax it at a lower rate of 2.5%.
+
+2.4 Given the above, we humbly submit that in view of the specific entry under the GST provisions, both our products
+should fall under Schedule I - 2.5%.
+
+3. Classification under Heading 1516
+3.1 Without prejudice to the above, if it is assumed that either or both of our products cannot be classified under entry at
+
+S. No. 90 of Schedule I - 2.5%, we would like to submit that, entry at S. No. 88 of Schedule I - 2.5% also provides an
+appropriate description of our products, and that in no case the said products can be classified under the general entry
+at S, No, 27 of Schedule II - 6%
+
+3.2 In this regard, we would like to reproduce the entry at S. No. 88 of Schedule I - 2.5% for ease of reference:
+
+S.No. Chapter | Heading 7 Sub- eee’
+heading / Tariff item
+
+‘Schedule I - 2.5%
+
+BS. 1316 Vegetable fats and oils and their fractions, parily or wholly hydrogenated, inter-esterified, re-
+esterified or elaidised, whether or not refined, but not further prepared.”
+
+3.3 Both our products being vegetable oil based esterified transformer fluids, we submit that they should fall within the
+ambit of the said entry and classified accordingly.
+
+4. Beneficial rate under the Maharashtra Value Added Tax (MVAT) Act, 2002
+
+4.1 Most of the customers of the Company to whom these products are supplied include government and non-government
+entities operating in the essential sector of electricity generation, transmission and distribution.
+
+4.2 Under the erstwhile MVAT regime, Sec. 8 (5) of the MVAT Act empowered the State Government for partial or full
+exemption from Value Added Tax (VAT) on sales made by a registered dealer, inter alia, to entities involved in
+generation, transmission and distribution of electricity.
+
+4.3 In view of the above, the State government vide Notification No, VAT-1507/CR/-93/Taxation - | dated 21 January
+2008, had provided for a beneficial VAT rate of 5% on sale of goods by the Company to the said suppliers.
+
+4.4 Given the above, it can be seen that the intention of the law makers has always been to provide for a lower rate of tax
+on the goods supplied to entities involved in the essential sector of electricity generation, transmission and distribution.
+
+4.5 Accordingly, we submit that, both our products should fall within the ambit of entry at S. No. 90 of Schedule I - 2.5%,
+
+
+
+Prayer
+1. In light of the above, we pray that both our products viz. MIDEL eN 1204 and MIDE
+
+Entry at S. No, 90 of Schedule - | i.e, at the applicable rate of CGST of 2.5%.
+
+2. We crave leave to add, to alter, amend and/or modify all or any of the foregoing submissions
+
+3. We pray that a hearing be granted to us before any decision is taken in this matter and also crave leave to produce
+documents / records / case law at the hearing granted to us.”
+
+N 1215 be classified under
+
+Additional submission dt.16.03.2018
+
+We, M/s. SKP Business Consulting LLP, in our capacity as authorised representatives of M/s. M&I Materials India rivate
+
+Limited (hereinafter referred to as “the Company” or “us” or “we”) refer to the preliminary hearing held for admission /
+
+rejection of our advance ruling application on 7 March 2018. We thank you for admitting our application and granting us another
+
+opportunity to present our case. During the course of the hearing, we were requested to submit certain additional information and
+documents in connection with our advance ruling application. Accordingly, without prejudice to the contentions raised by us in
+our previous submissions we would like to submit as under
+
+1. Principle of equivalence under GST
+
+1.1 Under the erstwhile excise law, the tariff rate of excise duty applicable to items covered under entry 15180039 of the Central
+Excise Tariff was 6%. However, the Government vide Notification No, 12/2012-Central Excise dated 17 March 2012, as
+amended from time to time, had fully exempted the items falling under chapter heading 1518 of the First Schedule of the
+Customs Tariff Act, 1975.
+
+1.2 Further, as submitted earlier, vide Notification No. VAT-1507/CR/-93/Taxation - 1 dated 21 January 2008 under the
+Maharashtra Value Added Tax Act, 2002 our products were subjected to beneficial VAT rate of 5%. This was in view of the
+fact that most of the customers of our products include government and non-government entities operating in the essential
+sector of electricity generation, transmission and distribution.
+
+1.3. Similarly, the Tamil Nadu government vide Notification-III. G.O. Ms. No. 77, No. I(1)/CTR/12(R-17)/2011 dated 11 July
+2011 had reduced the tax payable by any dealer to 5% on the sale of any goods except petrol, diesel and cement to certain
+entities engaged in generation, transmission and distribution of electrical energy.
+
+1.4 Given the above, it is evident that our products being supplied to an essential sector, the incidence of tax was kept at a
+minimum i.e. 5%, to avoid any undue tax burden on the ultimate customers of essential sector of electricity.
+
+1.5 Atthis juncture we would like to reproduce the relevant extract from the minutes of the 3rd and the 4th GST Council meetings
+held on 18-19 October 2016 and 3-4 November 2016 respectively, wherein the principles for fixation of GST rates were
+debated upon:
+
+— 3rd GST Council meeting
+
+“37. The principles on the basts of which the proposed GST rate structure was worked out was elucidated and these included: (1) proposed rate slabs should be
+closest to the present combined tax incidence of Excise and VAT (including cascading); (11) protecting existing revenues of Centre and States; (iti) ympact
+
+‘on inflation ve., on Htems in the Consumer Price Index (CPD) basket ix minimal; (1v) proposed GST rate structure should not be regressive in nature; (¥)
+
+rhis basis, the following
+
+items of mass consumption should not be taxed at hugher rate; (vi) revenue for compensation should be ratsed through cess. On t
+
+four slabs of GST rates were proposed-
+
+v and VAT between 3% and less than 9%);
+
+t 6% (to cover those goods presently attracting combined tax rate of Central |
+
+i. 12% (to cover those goods presently attracting combined tax rate of Central Excise and VAT between 9% and less than 15%):
+ut 18% (to cover those goods presently attracting combined tax rate of Central Excise and VAT between 15% and less than 21 %);
+Ww. 26% (to cover those goods presently attracting combined tax rates of Central Excise and VAT equal to or more than 21 %).""
+
+[emphasis supplied]
+
+— 4th GST Council meeting
+“10. Immanng the discussion, the Secretary to the Council briefly recaptulated the discussion on this issue in the 3rd GST Council Meeting on 18-19 October,
+2016. He recapitulated the proposal to have a four rate GST structure and the rates could be 6%, 12%, 18% and 26%. He explained that a slab of 6%
+e VAT ¢ stated that if such goods putin
+
+‘entral Lixcise duty on the same goods was Nil.
+
+the 12% rate hand, it wou versely affect the poorer sections of the society.”
+[emphasis supplied]
+
+1.6 Applying the principles emanating from the discussions and observations made by the GST Council it is incontrovertible that
+our products should be classified under the GST rate bracket which is closest to the combined rate of tax applicable under
+Central Excise and VAT - i.e. 5%
+
+1.7. Therefore, we submit that the intention of the GST Council provides a compelling view that our products should be classifiable
+under Entry at S. No. 90 of Schedule - I - 2.5% of the Notification No. 1/2017-Central Tax (Rate) dated 28 June 2017, as
+amended from time to time.
+
+1.8 Further, the Hon’ble Finance Minister Arun Jaitley in his speech to the Joint Session of the Parliament on the midnight of 30
+June 2017 reiterated that GST has been framed with the objective of maintaining principle of equivalence, revenue neutrality
+and ensuring that no unnecessary burden is imposed on the weaker sections of the society.
+
+1.9 Itis evident that in the course of fixing GST rates of various commodities under GST, the GST Council in its wisdom was of
+the view that introduction of GST should not exert any additional burden on the people by increasing the rate of tax on goods
+which were subjected to beneficial rates of tax under the erstwhile law
+
+1.10 We submit that the above discussion supplies further credence to our earlier submissions that our products viz. MIDEL eN
+1204 and MIDEL eN 1215 being products consumed by entities operating in the essential sector of electricity generation,
+transmission and distribution, and being subjected to beneficial rate of tax under the erstwhile indirect tax regime, should be
+classified under Entry at S. No. 90 of Schedule - I of the Notification No. 1/2017-Central Tax (Rate) dated 28 June 2017, as
+amended from time to time, i.e. chargeable to GST at the rate of 5%.
+
+2. Non-classification as ‘mixtures’
+
+2.1 The quantity of additives in our products viz. MIDEL eN 1204 and MIDEL eN 1215 is minimal i.e. 0.3% of the total weight
+of the product. Therefore, the said products cannot be considered as ‘mixtures’ covered under Entry at S. No. 27 of Schedule
+Il - 6%.
+
+2.2. In order to corroborate our explanation, a copy of test report by “Electrical Research and Development Association’ of our
+
+product MIDEL eN 1215 is attached herewith as “Annexure 6”.
+3. Further, as required, a flow chart exhibiting the transaction flow of the products has been attached herewith as “Annexure
+
+4
+
+
+
+We request your good self to take the above on record and oblige.”
+
+03. CONTENTION - AS PER THE CONCERNED OFFICER
+
+The submissions, as reproduced verbatim, could be seen thus -
+
+1) “The dealer is importing products “MIDEL eN 1204 & MIDEL eN 1215” from Mis. M & 1 Material Ltd., UK, which is
+manufacturer of these products. The safety data sheet on website of Manufacturer M/s. M & I Material Ltd. is available and
+downloaded. In this safety data sheet, the details description of product is mentioned which is as under 1
+(i) MIDEL eN 1215 ~ In this sheet product use is mentioned as dielectric fluid. It is blend of natural trighyceride esters
+
+(vegetable oil). It clearly shows that the product is intended to be used as only dielectric fluid. The dealer is in his
+application admit that use of the product is transformer fluid, which means it is inedible and hence covered by Schedule
+II, Chapter heading 1518 and rate of tax applicable is 6%.
+
+(ii) MIDEL eN 1204 ~ In this sheet product use is mentioned as dielectric fluid. It is blend of natural triglyceride esters
+(vegetable oil). It clearly shows that the product is intended to be used as only dielectric fluid. The dealer is in his
+application admit that use of the product is transformer fluid, which means it is inedible and hence covered by Schedule
+II, Chapter heading 1518 and rate of tax applicable is 6%.
+
+2) The above submission is made in the light of Notification No. 1/2017-State Tax(Rate) No. MGST-101 7/C.R.104/Taxation 1
+
+dated 29/06/2017.
+Hon. Forum is humbly requested to admit the application for Advance Ruling and decide the issue as per above mentioned
+
+notification.”
+|
+
+04. HEARING
+
+The case was taken up for hearing on dt.07.03.2018 when Sh. Jigar Doshi, Sh. Shivendra
+Dwivedi, Sh. Harshal Fifadra, Sh. Prathamesh Shende along with Sh. Nitin Satija, Dire and
+Country head attended and made oral submissions for admission of their application | per
+submission made in the Advance Ruling application. They were requested to provide copies of
+Bill of Entries of import of their products for last one year and it was also requested to provide
+exact contents of their product, duly authenticated and certified, so that its exact nature could be
+known. The final hearing was held on dt.20.03.2018 when Sh. Shivendra Dwivedi, Sh. Harshal
+Fifadra and Sh. Prathamesh Shende appeared on behalf of the applicant and reiterated the
+contention as made in the written submission and further submission were made in the case.
+
+The jurisdictional officer, Sh. Subhodh Lavate, State Tax Officer (RAFSCST-C-01 8)
+Raigad division, CBD Belapur was present on all the hearings. He has tendered a written
+
+submission in the matter and stated that the product merits tax @ 12% under Schedule II and not
+
+under Schedule I as claimed by the applicant.
+
+05. OBSERVATIONS
+
+We have gone through the facts of the case. We have been called upon to decide the
+classification of the products MIDEL eN 1204 (rapeseed oil based dielectric transformer fluid)
+and MIDEL eN 1215 (soya oil based dielectric transformer fluid). Before we ascertain the
+applicability of the schedule entries, at the cost of repetition, let us have a look at the information
+
+about the products as provided by the applicant -
+
+MIDEL eN 1204
+It is a vegetable oil based dielectric transformer fluid. It is a chemically modified rapeseed oil based natural
+
+ester.
+
+
+
+It is used as electric insulator in transformers. Its function is to provide electrical insulation, suppress
+
+corona and arcing, and to serve as a coolant.
+The applicable Indian Standards (1S) of the Bureau of Indian Standards (BIS) under the Bureau of Indian
+Standards Act, 1986 is 1S 16659:2017.
+
+MIDEL eN 1215
+
+It is a vegetable oil based dielectric transformer fluid. It is a chemically modified soya based natural ester.
+It is used as electric insulator in transformers. Its function is to provide electrical insulation, suppress
+corona and arcing, and to serve as a coolant.
+
+The applicable Indian Standards (IS) of the Bureau of Indian Standards (BIS) under the Bureau of Indian
+Standards Act, 1986 is IS 16659:2017.
+
+The above information does not throw any light as to the ingredients of the product. It is
+for this very reason that the applicant was asked to submit a Test Report enlisting the contents
+of the product with the exact proportions. We find that a Test Report has been submitted but it
+sheds no light as to the exact ingredients or their composition. There is a mention of “additives”
+being contained in the product but no more information about what these additives than
+
+mentioned below -
+
+Test particulars Requirement as per specification Obtained value Remarks
+Total Additives, % by wt. | Max.5 0.3 Conforms
+
+The jurisdictional officer had pointed to a document called ‘Safety Data Sheet’, the
+
+relevant parameters from which can be seen below :
+
+Particulars MIDEL eN 1204 (rapeseed oil based dielectric | MIDEL eN 1215 (soya based dielectric t ‘ansformer
+transformer fluid) fluid).
+1. Identification of the | |.1 Product Identifier 1.1 Product Identifier
+Substance/Mixture and of | Material Name: MIDEL eN 1204. Material Name: MIDEL eN 1215.
+the . 1.2 Relevant identified uses of the substance or | 1.2 Relevant identified uses of the substance or
+Company/Uadertaking mixture and uses advised against mixture and uses advised against
+Product Use: Dielectric fluid Product Use: Dielectric fluid
+Uses advised against: None. Uses advised against: None
+1.3 Details of the supplier of the substance or | 1.3 Details of the supplier of the substance or
+mixture mixture
+Company: M&I Materials Ltd., Hibernia Way, | Company: M&I Materials Ltd., Hibernia Way,
+Trafford Park, Manchester, M32 0ZD, UK. Trafford Park, Manchester, M32 0ZD, UK.
+
+2, Hazards Identification | This product is not classified as hazardous and | This product is not classified as hazardous and this
+this document has been compiled for information | document has been compiled for information
+purposes, in accordance regulation | purposes, in accordance regulation 1907/EC/2006,
+1907/EC/2006, Annex II, as amended by | Annex II, as amended by Regulation (EU) No.
+Regulation (EU) No. 453/2010 and OSHA hazard 453/2010 and OSHA hazard communication
+
+communication guidelines, guidelines.
+2.1 Classification of the substance or mixture 2.1 Classification of the substance or mixture
+Regulation (EC) No 1272/2008 (CLP) Not | Regulation (EC) No 1272/2008 (CLP): Not
+classified. classified.
+2.2 Label elements 2.2 Label elements
+Regulation (EC) No 1272/2008 (CLP): No | Regulation (EC) No 1272/2008 (CLP): No symbol
+symbol or signal word or signal word.
+2.3 Other hazards 2.3 Other hazards
+None. None.
+
+3. 3 Substance 3 Substance
+
+Composition/Information | CAS No.: 68956-68-3. CAS No.: 68956-68-3.
+
+on Ingredients Description: Blend of natural triglyceride | Description: Blend of natural triglyceride esters
+esters (vegetable oil) (vegetable oil).
+Composition: Composition:
+Constituent CAS Number Contents | Constituent CAS Number Contents
+Blend of natural triglyceride esters 68956-68-3  >98.5% | Blend of natural triglyceride esters 68956-68-3 >98.5%
+Performance enhancing additives Proprietary <1.5% | Performance enhancing additives Proprietary <1.5%
+
+All constituents are listed on the TSCA inventory. | All constituents are listed on the TSCA inventory.
+Additives used in this product are a trade secret, | Additives used in this product are a trade secret, but
+but do not lead to classification of the substance | do not lead to classification of the s\ ibstance as
+as hazardous. hazardous.
+
+4. First Aid Measures 4.1 Description of first aid measures 4.1 Description of first aid measures
+
+
+
+Inhalation: None envisaged due to the low vapour | Inhalation: None envisaged due to the ‘ Ww vapour
+
+pressure of the substance. pressure of the substance.
+
+Skin: Wash with soap and water. Obtain medical | Skin: Wash with soap and water. Obtain medical
+attention if irritation develops. attention if irritation develops.
+
+Eyes: Irrigate with copious amounts of water. | Eyes: Irrigate with copious amounts of water.
+Obtain medical attention if irritation develops. Obtain medical attention if irritation develops.
+Ingestion: Do not induce vomiting, obtain Ingestion: Do not induce vomiting, obtain medical
+medical attention. attention.
+
+4.2 Most important symptoms and effects, both | 4.2 Most important symptoms and effects, both
+acute and delayed acute and delayed
+
+No adverse effects expected. No adverse effects expected
+
+4.3 Indication of any immediate medical attention | 4.3 Indication of any immediate medical attention
+and special treatment needed No special treatment | and special treatment needed
+
+required, No special treatment required.
+
+7. Handling and Storage 7.1 Precautions for safe handling 7.1 Precautions for safe handling
+Avoid eye and prolonged skin contact Avoid eye and prolonged skin contact.
+7.2 Conditions for safe storage, including any | 7.2 Conditions for safe storage, including any
+incompatibilities incompatibilities
+No special precautions required. No special precautions required.
+7.3 Specific end use(s) 7.3 Specific end use(s)
+Exposure to air should be minimised. Opened | Exposure to air should be minimised. Opened
+containers should be properly resealed containers should be properly resealed
+
+8. Exposure Controls/ | 8.1 Control parameters 8.1 Control parameters
+
+Personal Protection No relevant control parameters. No relevant control parameters.
+8.2 Exposure controls 8.2 Exposure controls
+Eye washes should be available for emergency | Eye washes should be available for emergency use.
+use. Respiratory protection: None required.
+Respiratory protection: None required. Skin protection: Wear coveralls.
+Skin protection: Wear coveralls Hand protection: Wash hands after use. For
+
+Hand protection: Wash hands after use. For prolonged or repeated skin contact gloves are
+prolonged or repeated skin contact gloves are recommended,
+recommended. Eye protection: If splashes are likely to occur wear
+Eye protection: If splashes are likely to occur | safety glasses.
+wear safety glasses.
+IL. Toxicological | 11.1 Information on toxicological effects 11.1 Information on toxicological effects
+Information Likely routes of exposure: Skin and eyes are the | Likely routes of exposure: Skin and eyes are the
+most likely routes for exposure, Accidental | most likely routes for exposure. Accidental
+ingestion may occur. Inhalation is not expected to | ingestion may occur. Inhalation is not expected to
+be a relevant route of exposure. Product is | be a relevant route of exposure. roduct is
+
+vegetable oil based and as such non-toxic. vegetable oil based and as such non-toxic.
+
+Acute oral toxicity: Considered to be low toxicity, | Acute oral toxicity: Considered to be low toxicity,
+vegetable oil. vegetable oil.
+
+Acute dermal toxicity: Considered to be low | Acute dermal toxicity: Considered to be low
+toxicity. toxicity.
+
+Acute inhalation toxicity: Low volatility makes | Acute inhalation toxicity: Low volatility makes
+inhalation unlikely. inhalation unlikely,
+
+Skin corrosion/irritation: Considered to be not | Skin corrosion/irritation: Considered to be not
+irritating irritating.
+
+Eye corrosion/irritation: Considered to be not | Eye corrosion/irritation: Considered to be not
+irritating. irritating.
+
+Respiratory or skin sensitisation: Considered to be | Respiratory or skin sensitisation: Considered to be
+not sensitising not sensitising.
+
+Aspiration hazard: Not considered an aspiration Aspiration hazard: Not considered an aspiration
+hazard. hazard.
+
+Carcinogenicity/mutagenicity: Not considered a Carcinogenicity/mutagenicity: Not considered a
+mutagenic hazard or carcinogen. This product is | mutagenic hazard or carcinogen. This product is
+not considered to be a carcinogen by IARC, | not considered to be a carcinogen by IARC,
+ACGIH, NTP or OSHA, ACGIH, NTP or OSHA
+
+What we can gather from the above is thus :
+
+CAS Number _| Contents
+
+Composition/Information on Ingredients | Constituent
+
+MIDEL eN 1204 (rapeseed oil based Blend of natural triglyceride esters 68956-68-3 >98.5%
+dielectric transformer fluid) Performance enhancing additives Proprietary <1.5%
+MIDEL eN 1204 (soya based dielectric Blend of natural triglyceride esters 68956-68-3 >98.5%
+transformer fluid) Performance enhancing additives Proprietary <15%
+
+
+
+We are afraid to observe herein that the available information would be insufficient for
+us to decide the issue at hand. Nevertheless we would have a look at the contention as to the
+applicable classification. From all above, we have only the following information for deliberation
+
+as to the classification of the products -
+
+e The only thing we can clearly see is that the impugned products have a distinct
+identity as being a “transformer fluid”. They are also given distinct a to
+establish their identity.
+
+e We only learn that the impugned products are vegetable oil based.
+
+e _ Neither the exact ingredients nor the exact additives, and the composition of each
+of these are available before us.
+
+e The information shows that the products are a blend of natural triglyceride esters.
+They also contain additives.
+
+e The applicant has argued that the quantity of additives in their products is
+minimal i.e. 0.3% of the total weight of the product. Therefore, the said products
+
+cannot be considered as ‘mixtures’.
+
+Having seen thus, we look at the contention with regard to the applicability of the
+schedule entries thus -
+° If it is assumed that either or our products cannot be classified under
+
+entry at S. No. 90 of Schedule I - 2.5%, we would like to submit that,
+
+entry at S. No. 88 of Schedule I - 2.5% also provides an appropriate
+
+description of our products, and that in no case the said products can
+
+be classified under the general entry at S. No. 27 of Schedule Ill - 6%.
+
+We shall look at each of the above entries as found in the Notification No. 1/2017- Central
+
+/ State Tax (Rate) [as amended from time to time] thus -
+
+s. Chapter / Heading/ Sub- | Description of Goods Rate
+No. heading / Tariff item [CGST + MGST,
+88 1516 | Vegetable fats and oils and their fractions, partly or wholly 5% [2.5 + 2.5]
+
+hydrogenated, inter-esterified, re-esterified or elaidinised,
+whether or not refined, but not further prepared. _|
+90 1518 Vegetable fats and oils and their fractions, boiled, oxidised, | 5% [2.5 + 2.5]
+dehydrated, sulphurised, blown, polymerised by heat in vacuum
+or in inert gas or otherwise chemically modified, excluding those
+of heading 1516
+27 1518 ‘Animal fats and animal oils and their fractions, boiled, oxidised, | 12% [6 + 6]
+dehydrated, sulphurised, blown, polymerised by heat in vacuum
+or in inert gas or otherwise chemically modified, excluding those
+of heading 1516; inedible mixtures or preparations of animal or
+
+vegetable fats or oils or of fractions of different fats or oils of this
+chapter, not elsewhere specified of included
+
+A look at the description as found in the entries and the product information, as
+
+reproduced above, we are constrained to observe thus -
+
+
+
+1. The products are not vegetable fats and vegetable oils per se.
+
+2. The products do not remain mere vegetable fat or mere vegetable oil. The impugned
+products are a distinct product which is known in the market as a dielectric transformer
+fluid.
+
+3. The applicant has argued that the products cannot be considered as ‘mixtures’. However,
+we find a reference to the products being a ‘substance’ or ‘mixture’ in the Safety Data Sheet
+
+of these products as can be seen thus -
+1.3 Details of the supplier of the substance or mixture
+
+4. No information about the manufacturing process has been given. Neither any information
+has been shared as to the ingredients contained in the products. The products also contain
+additives, the information about which has also not been shared with this Authority. But
+we see that the manufacturing process of these ingredients and the addition of additives
+leads to a distinct product being formed. The ingredients or additives are added so as to
+formulate a certain product which could be used as a transformer fluid. So the processes
+are intended to manufacture a new commodity in which rapeseed oil or soya would be the
+prime ingredient. Owing to this, the products are described as “rapeseed oil based” or
+“soya based” and not being “rapeseed oil” per se or “soya” per se. The end product has a
+distinct identity in the sense that when one desires to have vegetable oil, the impugned
+products would not be accepted.
+
+5.  Weshall see herein the position as appearing in the Customs Tariff Heading 1518 -
+
+[ 1518 ANIMAL OR VEGETABLE FATS AND OILS AND THEIR FRACTIONS, BOILED,
+OXIDISED, DEHYDRATED, SULPHURISED, BLOWN, POLYMERISED BY HEAT IN
+VACUUM OR IN INERT GAS OR OTHERWISE CHEMICALLY MODIFIED, EXCLUDING
+THOSE OF HEADING 1516 ; INEDIBLE MIXTURES OR PREPARATIONS OF sista OR
+VEGETABLE FATS OR OILS OR OF FRACTIONS OF DIFFERENT FATS OR OILS OF
+THIS CHAPTER, NOT ELSEWHERE SPECIFIED OR INCLUDED
+1518 00 ~ | Animal or vegetable fats and oils and their fractions, boiled, oxidized, dehydrated, sulphurised, blown,
+polymerized by heat in vacuum or in inert gas or otherwise chemically modified, excluding those of
+heading 1516; inedible mixtures or preparations of animal or vegetable fats or oils or of fractions of
+different fats or oils of this Chapter, not elsewhere specified or included
+
+--- | Linseed oil :
+151800 11 ---- | Edible grade
+1518 00 19 | Other.
+--- | Castor oil, dehydrated :
+1518 00 21 ---- | Edible grade
+1518 00 29 ey Rg
+--- | Other Vegetable oil and its fats:
+1518 00 31 ---- | Edible grade
+1518 00 39 e--- | Other
+1518 00 40 --- | Other
+
+From the Tariff Heading 1518 as reproduced above, we see that -
+a. There are 2 parts to Tariff Heading 1518 thus -
+
+e Part 1 - Animal or vegetable fats and oils and their fractions, boiled, oxidized, dehydrated, sulphurised, blown,
+polymerized by heat in vacuum or in inert gas or otherwise chemically modified, excluding those of heading
+1516;
+
+e Part 2 - Inedible mixtures or preparations of animal or vegetable fats or oils or of fractions of different fats
+
+or oils of this Chapter, not elsewhere specified or included
+9
+
+
+
+b. Of the Tariff Heading 1518, schedule entry 90 covers portion relating to
+vegetable fats and oils and their fractions AND schedule entry 27 covers portion
+relating to animal fats and oils and their fractions.
+
+c. The schedule entry 27, additionally, covers the portion of the Tariff Heading
+1518 pertaining to inedible mixtures or preparations of animal or vegetable fats
+or oils or of fractions of different fats or oils of the Chapter 15.
+
+d. The Harmonized Commodity Description and Coding System Explar atory
+Notes (HSN) in respect of the part 1 (as reproduced above) of Haacing 1518
+says-
+
+“This part covers animal or vegetable fats and oils and their fractions which have been subjected to
+processes which modify their chemical structure thereby improving their viscosity, drying power i.e., the
+property of absorbing oxygen when exposed to the air and forming elastic films) or modifying their other
+
+properties, provided they retain their original fundamental structure and are not more specifically ‘covered
+elsewhere, €.g.:
+
+Thus, the Notes make it clear that the animal or vegetable fats and oils and their
+fractions should retain their original fundamental structure.
+
+e. The part 1 (as reproduced above) of Heading 1518 speaks of certain processes
+which have been subjected to vegetable and animal oils. But the HSN Notes say
+that despite undergoing these processes, the vegetable or animal oils should
+retain their original fundamental structure. In the present case, we have a final
+product which is a transformer fluid. Though the Test Report shows the
+percentage of the natural triglyceride esters to be at 98.5%, it would not mean
+that a new commodity has not been produced. There are data and international
+standards galore for mineral oils, there are as yet no IEC standards addressing the
+composition or testing of the natural ester oils with their different chemical composition.
+Each manufacturer has his own set of ingredients to obtain a transformer fluid.
+That is precisely the reason that the applicant has not preferred to divulge the
+details. Thus, by addition of the needful additives and the ingredients, we have
+transformer fluids made from different vegetable oils, each with their distinct
+chemical composition. The requirement of retaining the original fundamental
+structure would not be possible by the use of the additives and ingredients. The
+vegetable oils are used as the base to manufacture the final products which are
+a distinct product. The applicant is also selling the products as dielectric
+transformer fluid. The products are described as a “fluid”. Is a fluid same as an
+oil? A fluid is different from even a liquid, let alone oil. The products are not
+being sold as a modified vegetable oil but as products which result from the
+adaptation of the natural triglyceride esters to obtain a dielectric transformer
+fluid. In view thereof, we are convinced that the impugned products would not
+
+10
+
+
+
+be covered by the part 1 (as reproduced above) of Heading 1518. The same
+reasoning would apply to non-applicability of entry 88 of Schedule I.
+
+f. |Wenow come to part 2 (as reproduced above) of Heading 1518. This part i
+
+inedible mixtures or preparations of animal or vegetable fats or oils or of
+fractions of different fats or oils of the Chapter 15. The present products, as
+discussed above, are a preparation from natural triglyceride esters. They are
+based or derived from “rapeseed oil based” or “soya based”. In addition, the
+products are inedible. And even though the applicant disputes about the
+products being a ‘mixture’, there being a combination of ingredients and
+additives, the impugned products could be classified as an ‘inedible
+preparation’. Therefore, they could very well be covered by the description
+“inedible preparations of vegetable oils’.
+Now the aspect which remains to be seen is “not elsewhere specified or included” .
+We have not found any specific description which covers a “dielectric
+transformer fluid”. To that extent, it is prima facie felt that the description
+“inedible preparations of vegetable oils’ perfectly fits the impugned products
+and hence, the entry 27 of Schedule II of the Notification No. 1/2017- Central /
+State Tax (Rate) which covers the aforesaid description would be applicable. In
+the present case, we are unaware of the exact composition in terms of the
+additives and the ingredients used in the “rapeseed oil based” or “soya based”
+preparations. This would, as per our considered opinion, affect our decision. We
+find that there is Chapter 38 of the Customs Tariff which covers residual
+products of the chemical or allied industries. However as the exact composition
+of the product is not revealed to us by the applicant and therefore on the basis
+of the facts at hand, we find them insufficient to arrive at any decision as to the
+classification of the product under Chapter 38 and accordingly, taking into
+consideration only the details revealed to us, we find that the product is
+classifiable under Chapter 15 of the Customs Tariff Heading/GST Tariff.
+
+6. Weare not in doubts that entry 88 and 90 of Schedule I of the Notification No. 1/2017-
+Central / State Tax (Rate) would not cover the impugned products. We are also convinced
+that the impugned products are not covered by any entry of the Schedule in the Notification
+No. 2/2017- Central / State Tax (Rate) for goods exempted from GST. It is only the question
+of entry 90 or any other entry of the Notification No. 1/2017- Central / State Tax (Rate)
+which would cover the impugned products.
+
+7. Wehave gone through the case laws and arguments relied upon by the applicant. However,
+
+we find that they do not apply to the facts that we are faced with. Since we have formed an
+ul
+
+
+
+opinion on the facts at hand, we would not enter into any discussing or differentiating the
+case laws.
+
+6. In view of the deliberations as held hereinabove, we pass an order as follows:
+
+ORDER
+
+( under section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+NO.GST-ARA-23/2017-18/B- 3\ Mumbai, dt. 09 Jog /x01g
+For reasons as discussed in the body of the order, the question is answered thus -
+
+Q. What is the correct Harmonized System of Nomenclature (HSN) code and the applicable GST rate
+for our products MIDEL eN 1204 (rapeseed oil based dielectric transformer fluid) and MIDEL eN
+1215 (soya oil based dielectric transformer fluid) in terms of Notification No. 1/201 ce tral Tax
+(Rate) dated 28 June 2017?
+
+A. As per the discussions and findings under the heading ‘Observations’, the question is
+answered thus -
+The product would fall in schedule entry 27 of Schedule II of the Notification No. 1/2017-
+Central / State Tax (Rate) under Tariff Heading 1518 and thereby taxable @ 6% each of
+
+Central Goods and Services Tax and Maharashtra Goods and Services Tax.
+
+et _ _ sd —
+B. V. BORHADE PANKAJ KUMAR
+(MEMBER) (MEMBER)
+
+CERTIFIED TRUE COPY
+
+Copy to:-
+
+l. The applicant \sr
+2. The concerned Central / State officer i
+
+ADVAN RULING AUTHORITY
+MAHARASHTRASTATE, MUMBAI
+
+B. The Commissioner of State Tax, Maharashtra State, Mumbai
+4. The Chief Commissioner of Central Tax, Churchgate, Mumbai
+
+5. The Jurisdictional Commissioner of Central Tax
+
+Note :-
+
+Appeal against this order would lie to The Maharashtra Appellate Authority for Advance Ruling
+for Goods and Services Tax, 15' floor, Air India building, Nariman Point, Mumbai - 400021
+
+12

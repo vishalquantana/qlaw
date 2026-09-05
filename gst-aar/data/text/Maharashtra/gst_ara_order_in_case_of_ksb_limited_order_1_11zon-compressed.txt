@@ -1,0 +1,1220 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+GST Bhavan, Room No.107, 1st floor, B-Wing, Old Building, Mazgaon, Mumbai - 400010.
+(Constituted under Section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+BEFORE THE BENCH OF
+
+(1) Shri. D. P. Gojamgunde Joint Commissioner of State Tax, (Member)
+(2) Ms. Himani Dhamija, Joint Commissioner of Central Tax, (Member)
+
+ARN No. AD2711210059957
+
+GSTIN Number, if any/ User-id 27AAACKS918f1ZC
+
+Legal Name of Applicant M/s KSB Limited
+
+Registered Address/ Address provided | Office No. 601, Runwal R-Square, LBS
+
+while obtaining user id Marg, Mulund (West) Mumbai
+
+Details of application GST-ARA, Application No. 48 Dated
+22.11.2021
+
+Concerned officer PUNE-I, DIVISION-I, PIMPARI,
+RANGE-II
+
+Nature of activity(s) (proposed/present) in respect of which advance ruling sought
+
+A | Category Service Provision
+
+B | Description (in brief) KSB Limited (‘the Applicant’ or 'the
+
+Company’) is engaged in the business of
+manufacturing and selling of liquid
+handling pumps for various applications.
+
+Issue/s on which advance ruling |; petermination of the liability to pay
+
+om required tax on any goods or services or both
+ZA ~SRGN > Whether any particular thing done by
+y soe 7 the applicant with respect to any
+
+goods and/or services or both
+amounts to or results in a supply of
+goods and/or services or both, within
+the meaning of that term
+As reproduced in para O01 of the
+required Proceedings below.
+
+PROCEEDINGS
+
+(Under Section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+The present application has been filed under Section 97 of the Central Goods
+
+and Services Tax Act, 2017 and the Maharashtra Goods and Services Tax Act, 2017
+[hereinafter referred to as “the CGST Act and MGST Act” respectively] by
+M/s KSB Limited, the applicant, seeking an advance ruling in respect of the
+following questions.
+1. Whether GST would be applicable on canteen facility provided by a KSB
+Limited to its employees using a third-party canteen services provider?
+2. In case GST is applicable on Canteen services provided by KSB to its
+employees, whether GST would be applicable if KSB Limited does not
+recover any amount from employee for providing canteen facility?
+
+Page 1 of 24
+M/s KSB Limited/48/2021-22
+
+
+3. In case GST is applicable on Canteen services provided by KSB to its
+employees, whether GST would be applicable if KSB Limited recovers ,
+from employee's part or whole of the cost charged by the canteen service
+provider to KSB?
+
+At the outset, we would like to make it clear that the provisions of both the
+CGST Act and the MGST Act are the same except for certain provisions. Therefore,
+unless a mention is specifically made to any dissimilar provisions, a reference to the
+CGST Act would also mean a reference to the same provision under the MGST Act.
+Further to the earlier, henceforth for the purposes of this Advance Ruling, the
+expression ‘GST Act’ would mean CGST Act, 2017 and MGST Act, 2017.
+
+1. FACTS AND CONTENTION - AS PER THE APPLICANT
+
+1,1 KSB Limited (‘the Applicant’ or 'the Company’) is engaged in the business of
+manufacturing and selling of liquid handling pumps for various applications.
+
+1.2 The Applicant's Registered office is located at Office No. 601, Runwal R-Square,
+LBS Marg, Mulund (West) Mumbai - 400 080 and manufacturing facility is
+located at 5 different locations in Maharashtra.
+
+1.3 Applicant is registered under Central Goods and Services Tax Act, 2017,
+Maharashtra Goods and Services Tax Act, 2017 and Integrated Goods and
+Services Tax, 2017 holding GSTIN 27AAACK5918]1ZC,
+
+1.4 The Applicant operates its business inter-alia from below mentioned locations
+in the State of Maharashtra and has manufacturing facilities (factories) at these
+locations: - Pimpri, Chinchwad, Shirwal, Vambhori, Nasik
+
+1.5 In terms of Section 46 of Factories Act, 1948, it is mandatory for factories having
+more than 250 workers, to provide canteen facility to its employees, Therefore,
+the Applicant has provided canteen facility to its employees.
+
+1.6 In respect of certain locations viz. Shirwal, Vambhori and Nasik, the Applicant
+has appointed a canteen service provider (hereinafter referred as 'vendor’) for
+
+managing the canteen facility. Vendor is inter alia responsible for arranging and
+
+* Cleaning Utensils, Kitchen Area, Dining Area etc.
+* Pest Control at regular intervals
+* Similar other services
+For providing these catering and related services, vendor charges at fixed
+rate per meal per employee. Sample contract copy with the vendor is attached
+with submission.
+1,7 In respect of certain locations viz. Pimpri and Chinchwad, the Applicant was
+earlier managing canteen facility on its own i.e., the Applicant employed staff
+
+Page 2 of 24
+M/s KSB Limited/48/2021-22
+
+
+who runs such canteen facility. Canteen staff used to purchase groceries, other
+kitchen supplies (utensils etc.) and provide food to employees of the
+Company.
+
+1.8 However, from September 2021, the Applicant has appointed third party
+vendor even in respect of these locations. Now, canteen facilities at all the
+locations are managed by third party vendors. The applicant incurs the
+expenditure for canteen of approximately INR 2200 to INR 2500 per month per
+employee.
+
+2. STATEMENT CONTAINING APPLICANT'S INTERPRETATION OF LAW
+
+A. Canteen facility is not provided in the course or furtherance of business: -
+
+2.1 The Applicant submits that the providing canteen facility to its employees does
+not amount to supply of services as per the applicable provisions of Central
+Goods and Services Tax Act, 2017 (CGST Act') and Maharashtra Goods and
+Services Act, 2017 ('MGST Act’).
+
+2.2 At the outset, the Applicant would like to submit that the provisions of both the
+CGST Act and the MGST Act are the same except for certain provisions.
+Therefore, unless a mention is specifically made to such dissimilar provisions,
+a reference to the CGST Act would also mean a reference to the same provision
+under the MGST Act. Further to the earlier, henceforth for the purposes of this
+Advance Ruling, a reference to such a similar provision under the CGST Act /
+MGST Act would be mentioned as being under the 'CGST Act’.
+
+2.3 In terms of Section 9 of CGST Act, GST is levied on ‘Supply’.
+
+2.4 Section 7(1) of the CGST Act provides an inclusive definition of the term
+‘Supply’ as below:
+
+Ps * a) all forms of supply of goods or services or both such as sale, transfer, barter,
+
+\\ exchange, licence, rental, lease or disposal made or agreed to be made for a ~
+
+VEN
+}eonsideraton by a person in the course or furtherance of business,
+
+business, and, #
+¢) the activities specified in Schedule I, made or agreed to be made without a
+
+consideration;
+
+2.5 On the basis of above, for an activity to qualify as supply, it is inter alia required
+to be made in the course or furtherance of business.
+
+2.6 The expression 'in the course or furtherance of business' has not been defined
+in the GST law. However, in the common parlance, "in the course of business"
+
+would mean "while conducting the business or the business activity".
+
+Page 3 of 24
+M/s KSB Limited/49/2021-22
+
+y) import of services for a consideration whether or not in the course or fu vtherance of ‘a
+
+
+2.7 "In furtherance of business" would refer to all activities that would support the :
+business being run by the Applicant, i.e. every activity that will take forward
+the business of manufacturing and selling pumps, It is therefore necessary to
+examine if providing canteen facility is an activity which is integrally
+
+connected to the business of the Applicant.
+2.08 The term ‘Business’ has been defined under section 2(17) of the CGST Act.
+
+2.09 The Applicant submits that only sub-clause (a) and sub-clause (b) of the above
+definition would be required to be analyzed in the present case. However, the
+
+other clauses of the definition would not be applicable in the present case.
+
+2.10 Clause (a) provides that any trade, commerce, manufacture, profession,
+vocation, adventure, wager or any other similar activity, whether or not it is for
+
+a pecuniary benefit shall be included in the definition of business.
+
+2.11 The Applicant submits that they are engaged in the business of selling pumps
+for various uses and applications. Thus, in Applicant's view, 'Business' as
+envisaged in the definition provided under section 2(17), includes primary
+
+business activity of manufacturing and selling pumps.
+
+2.12 Further, Object clause of Memorandum of Association of the Applicant clearly
+states the Company is set up for the purpose of manufacturing and selling of
+
+pumps.
+
+ployee welfare activity, Since the employee spends 8 hours or more at the
+tory / premises of the Applicant, the Applicant provides him/her with food
+luding snacks and meals besides beverages like teal coffee.
+
+expenditure of INR 2200/ to INR 2500/- per employee per month in respect of
+canteen facility. Therefore, the activity of providing canteen facility is not a
+profit-making business activity but in fact is an expense item for the Applicant.
+Had it been a business activity, the Applicant, prudently, would have
+recovered amount to cover all its expenses and would have in fact earned
+profits. However, in the instant case, the Applicant is bearing all such canteen
+expenses itself. Therefore, it is amply clear that it is not a business activity of
+the Appl icant.
+
+Page 4 of 24
+M/s KSB Limited/49/2021-22
+
+
+2.15 The Applicant submits that since it is not engaged in the business of canteen
+services, facilitation of canteen services between employees and vendor cannot
+
+be regarded as 'business' or 'supply of services in the course or furtherance of
+
+business’.
+
+2.16 The above view is also supported by the Advance Ruling pronounced by the
+Maharashtra Authority for Advance Ruling (AAR’) in case of M/s. Posco India
+Pune Processing Center Private Limited (2019-TIOL-25-AAR-GST). In this case
+the issue was whether premium amounts recovered from employees for the
+
+group insurance provided to employees and their parents was liable to GST.
+
+2.17 It was observed by the AAR that, “They (M/s Posco) have already submitted that
+they are primarily engaged in the distribution of steel coils and also perform low value-
+added processing function in respect of some of the traded goods based on customer's
+requirement. The Applicant has brought nothing on records to show that they are an
+insurance company and registered with such authorities."_
+
+2.18 It was also observed that, "the applicant is paying premium towards mediclaim taken
+for their employees and the parents of such employees. There is no way that the
+
+proportionate amount recovered from the employees can be treated as amount received
+
+aN Jor services rendered, since this entire amount is paid to the insurance company which
+, is providing mediclaim facilities to the employees and their parents. Applicant is not
+endering any service of health insurance to their employees, Hence, recovery of
+parents’ health insurance expenses from employee does not amount to supply of service’
+under Section 7 of the CGST Act, 2017."
+
+2.19 In view of the above, the Applicant submits that the canteen facility provided .
+to employees cannot be regarded as supply of services made in the course or ~
+furtherance of business. Hence, no GST should be levied on canteen facility
+
+provided by the Company to employees.
+
+2.20 Further, sub-clause (b) of the definition includes any transaction in connection
+
+with or incidental or ancillary to the sub-clause (a).
+
+2.21 The terms incidental or ancillary have not been defined in the CGST Act. In the
+absence of a definition, recourse may be taken to general understanding of the
+terms. Incidental and ancillary refers to something that is connected to the main
+but is little lesser in importance but none the less is an important part that
+cannon be severed from the main part.
+
+2.22 Madhya Pradesh High Court in the case of Keshaodeo Shivprasad vs. Union of
+India (1992 (61) E.L.T. 404) (M-P.) (enclosed as Annexure C) explained the
+
+Page 5 of 24
+M/s KSB Limited/4s/2021-22
+
+
+meaning of term ‘Incidental or ancillary process’ in the context of the term
+
+manufacture under Central Excise Act as - "Incidental or ancillary process must
+be an integral and inextricable part of produce or manufacture resulting in
+
+presenting a ‘finished’ or ‘manufactured product bearing a distinct name."
+
+2.23 In the case of State of Tamil Nadu vs Binny Ltd AIR 1980 SC 2038, the Supreme
+Court held that "a thing is incidental to another if it merely appertains to something
+else as primary",
+
+2.24 Ancillary on the other hand refers to aiding or subordinate; that which aids or
+promotes the proceeding as the principal (Concise Law Dictionary by P.
+Ramanatha Aiyar, sixth Edition)
+
+2.25 In view of the above, it can be inferred that an incidental or ancillary transaction
+can be one which is integral to the main business of the company, though little
+bit lesser in importance to the primary. Selling a plastic pipe with the pump or
+providing installation services of the pump could fall in the nature of activities
+incidental or ancillary. The Applicant submits that, on the other hand the
+canteen facility for the employees cannot be categorized as an incidental or
+ancillary activity to the business of selling pumps as it is not at all integral to
+the main business of the Company i.e. selling pumps.
+
+2.26 Therefore, in terms of the definition of business u/s 2(17) of the CGST Act,
+
+2.27 Further, Central Board of Indirect Taxes and Customs, in Press Release dated 13
+July 2017, had clarified that an activity that cannot be said to be in the course ~~
+
+or furtherance of business does not qualify to be a supply per se.
+
+2.28 Reliance is also placed on ruling by Gujarat Appellate Authority for Advance
+Ruling in case of Amneal Pharmaceuticals Private Limited
+(GUJ/GAARB/APPEAL/2021/07 dated 08 March 2021). In this case, it was held
+that it is a canteen service provider who has been providing these services. The
+Company is not carrying out the said activity for any consideration (ie.,
+collecting employee's portion of the amount and handing over it to the canteen
+service provider). Such transactions are without involving any supply from the
+
+Applicant to its employees, and therefore, GST is not leviable thereon.
+
+Page 6 of 24
+M/s KSB Limited/ag/2021-22
+
+
+2.29 Further, reliance is also placed on Advance Ruling in case of Tata Motors
+Limited, (GUJIGAAR/R/39/2021 dated 30 July 2021). In this case, the applicant
+was collecting nominal charges from employees. Such charges are paid to
+canteen vendor and the applicant was not retaining any margin. The activity
+carried out by applicant was without any consideration. The applicant was not
+engaged in the business of providing canteen facility. In this case, it was held
+that GST should not be applicable on such recovery of nominal amount from
+
+employees for using canteen facility.
+
+2.30 In view of the above, even in case the Company recovers nominal or full amount
+from employees on account of canteen facility and pays the same to vendor
+after adding its contribution then the same should be treated as supply and
+GST should not be levied on the same.
+
+2.31 Further, in case the Company does not recover any amount from employee on
+account of canteen facility and bears the entire canteen expenses then the same
+should not be treated as supply as it is not business activity of the Company.
+
+2.32 Therefore, the applicant believes that irrespective of whether any amount
+(nominal or full) is recovered from the employee or where no amount is
+
+recovered, providing canteen services to employees should not be subject to
+GST in the hands of KSB. 5;
+
+2.33 In terms of explanation inserted u/s section 15 of the CGST Act, employer andy.
+. employee are related persons. Further, Schedule I to CGST Act prescribes -
+% ' .
+
+“Supply of goods or services between related persons, when made in the course or
+furtherance of business"
+
+As already explained above, activity of providing canteen facility to employees
+is not in the course or furtherance of business. Hence, the activity will not fall
+
+under the above clause.
+2.34 Further, proviso to the above clause states that:
+
+"Provided that gifts not exceeding fifty thousand rupees in value in a financial year
+
+by an employer to an employee shall not be treated as supply of goods or services or
+both"
+
+The applicant believes, without admitting, that even if for the sake of argument,
+it is accepted that providing food/ tea etc. is in the nature of a goodwill
+
+Page 7 of 24
+M/s KSB Limited/48/2021-22
+
+
+
+gesture/ gift, and therefore liable to GST as supply being a specified activity
+
+without consideration. The Company would like to submit that value of canteen
+facility provided by the Company does not exceed INR 50,000 per employee in
+a financial year (the cost is less than Rs 2500 per month or Rs 30,000 per annum),
+Therefore, even if providing canteen facility is treated as gift, no GST would be
+applicable as amount does not exceed prescribed limit i.e. INR 50,000 per
+
+employee. Basis above, provision of canteen facility to employees should not be
+taxable.
+
+2.35 It is imperative to note that in terms of Section 46 of Factories Act, 1948 providing
+canteen facility is mandatory for factories employing more than 250 workers. In
+this regard, it is submitted that in case of the Applicant, more than 250 workers
+are employed in factories. Therefore, it is a statutory obligation for the Applicant
+
+to provide such canteen facility in factories. Relevant extract of provision is
+
+/ mentioned below:
+‘,
+
+“Section 46 - The State Government may make rules requiring that in any specified
+
+a canteen or canteens shall be provided and maintained by the occupier for the use
+
+business or ancillary to business. Even if canteen facility is not provided,
+business of manufacturing of pumps will not be hampered. It is merely
+employee welfare activity.
+
+2.37 In this regard, reliance is placed in case of Commissioner of Central Excise, Nasik
+v/s Mahindra Sona Limited 2008 TMI 4012 CESTAT, Mumbai. In this case it was
+held that Catering services cannot be treated as an activity relation to business
+and even if it obligatory on the part of the assessee as per requirement of
+Factories Act, 1948 it is in the nature of welfare activity and not an activity
+relating to business.
+
+2.38 It is submitted that GST is consumption-based taxation law. Presently, the impact
+of GST to the Applicant with respect to canteen facility is as below:
+Present scenario
+> Input side
+
+¥ Canteen vendor charges GST at the rate of 5 percent;
+
+¥ The above GST is not available as input credit to the Applicant in terms of
+Notification
+
+20/2019 - Central Tax (Rate) dated 30 September 2019
+
+Page 8 of 24
+M/s KSB Limited/s#/2021-22
+
+actory wherein more than two hundred and fifty workers are ordinarily employed, —
+
+if =
+fof the workers." ;
+
+
+¥ Hence, the tax cost to the applicant is 5 percent
+» Output side (i.e., hypothetically assuming that GST is applicable)
+¥ If the applicant becomes liable to discharge GST on the canteen facilities
+provided to employees,
+then the rate of GST applicable is 5 percent;
+¥ Further, employees being end consumers of this services will not be able to
+claim
+input credit of same;
+¥ Hence, the tax cost is 5 percent in the supply chain
+Both the above put together, the tax cost suffered in the above supply chain
+would be 10 percent (5 percent on input to the Applicant plus 5 percent on the
+
+output) which definitely is not the intention of the Government when it put such
+
+food related services under lower rate of tax. Seca
+
+rio when employee directly procures the canteen services
+
+In case the exact same services are directly procured by employees from the’?
+
+in el eat
+
+canteen vendor then the GST cost would be 5 percent i-e., the GST charget
+the vendor to employee ey Ya
+9 It is noteworthy that same transaction having different GST tax cost is nof the
+
+intention of law.
+The Applicant is not provider of service rather it is receiving services.
+
+2.40 Canteen services are not actually provided by the applicant, In this case, service
+provider is a vendor. Therefore, there is no supply of canteen services from the
+
+applicant to its employees. GST should not be applicable on the same.
+
+2.41 It is submitted that Applicant is not provider of canteen services rather it is
+receiver of canteen services provided by vendor. Employees are user of such
+services.
+
+2.42 In this regard, reliance is placed in case of Advance Ruling in case of Tata Motors
+Limited GST ARA- 23/2019-20/B-46 (Annexure H). Issue in this case was to
+decide on applicability of GST on recovery for transport charges made from
+employees. In this case it was held that while facilitating bus transportation
+services, the Company does not act as service provider. Rather it is a service
+recipient and employees are users of such services. Therefore, no GST shall be
+levied on nominal transportation charges recovered from employees.
+Conclusion
+
+In view of the above, the Applicant contends that.
+
+Page 9 of 24
+M/s KSB Limited/44/2021-22
+
+
+
+2.43 GST should not be charged on provision of canteen facility to employees as*
+canteen facility is not provided in the course or furtherance of business. It is also
+neither ancillary nor incidental to the main business activity, Various Advance
+Rulings support this view.
+
+Alternate arguments:
+
+2.44 Assuming without admitting that it is a supply of canteen services to employees,
+in case where there is no recovery from employees there should be no GST
+especially when it is a statutory obligation under Factories Act to provide
+canteen service to the employees. Even if it is treated as transaction between
+related parties in the nature of a gift, in terms of Schedule 1 of CGST Act, such
+transaction cannot be taxed as amount of expenses for canteen is less than INR
+
+50000 per employee per year.
+
+2.45 Even where there the Applicant decides to recover any amount from the
+
+employee and pay it to the catering services provider, it is merely acting as a link
+
+Vex te SS, fuch services.
+M, cs — A
+
+as supply. In terms of Factories Act, 1948, it is mandatory for the Applicant to =
+
+provide such canteen facility and CESTAT rulings support that such activity
+cannot be considered to be in relation to business.
+
+2.47 The Applicant is not provider of canteen services. Rather it is a recipient of service
+
+and employee is user of such service.
+3, CONTENTION - AS PER THE CONCERNED OFFICER:
+
+3.1 M/s. KSB Pumps Ltd., Pimpri, Pune 411018 (the applicant; hereinafter referred to
+as “applicant"), falls under the Jurisdiction of Range - II, Division - Il (Pimpri),
+Central GST, Pune-I Commissionerate are engaged in the business of
+manufacturing and selling of liquid handling pumps. They have four
+manufacturing units at different locations and different cities. As per Section 46
+of the Factories Act, 1948 it is mandatory on them to provide canteen facilities to
+their employees Therefore, they are providing canteen facilities to their
+employees. As per their submission that to give canteen facility to their employee
+they have given canteen contract to third person who runs the canteen and give
+facility to their employee. That third person is charging them sum amount per
+employee and the applicant is bearing the expenditure. In short, the applicant is
+not running the canteen through appointed persons. Earlier, their some units
+were running the canteen at their own. They had appointed regular employee and
+
+Page 10 of 24
+M/s KSB Limited/49/2021-22
+
+
+purchasing of grocery etc required to run the canteen were done by their
+employees. Now they have given contract to other outside person (contractor)
+and the said outside contractor on behalf of them giving canteen facility to their
+employees. For providing this facility, the said outside contractor is charging
+applicant sum charges per person as per agreement and the applicant is paying
+the same and it is expenditure for their company. They have also submitted that
+they are not recovering any amount from their employees. This is the admitted
+fact mentioned by the applicant in their application. The applicant is not in a
+position in which category their services falls and therefore they have raised
+questions in Advance Ruling Authority which are mentioned in ARA-01
+application.
+
+3.2 It is seen from the above that the applicant has given canteen contract to third
+
+person (Canteen Contractor) and the said canteen contractor is charging applicant=
+
+sum amount per employee as per the contract made between third party and ~~
+
+applicant. As per Factory Act, the applicant is required to provide canteen, facility?» tS i
+
+to their employees and therefore, 7 have made Seer and given igontract
+
+ys ployee. Applicant is paying catering charges per employee to the independent
+third-party caterer and the transaction between applicant and third-party caterer
+is principal to principal. The third-party caterer on behalf of the applicant is
+providing service to the employees of the applicant for which he is not recovering
+any amount from the employees but the amount per employee is being recovered
+from the applicant. In this situation outside caterer is service provider to the
+applicant as the consideration is received from the applicant. Applicant has not
+given any service to the employees but provided canteen facility to their employee
+by making an arrangement without any cost and hence in this situation the
+applicant cannot be held as service provider. Further, no consideration is received
+by the applicant from their employee therefore, no GST payable by them. The
+third-party caterer is giving service to the applicant and therefore he is liable to
+pay GST,
+
+3.3 In respect of reply to question no. 3. "In case GST is applicable if applicant recovers
+from employees, whether GST would be applicable if applicant recovers from
+employees part or whole of the cost charged by the canteen service provider to
+applicant?
+
+The Term Outward supply', has been defined in Section 2(83) of the CGST Act,
+2017 as below;
+
+Page 11 of 24
+M/s KSB Limited/49/2021-22
+
+
+
+Outward supply in relation to a taxable person means supply of goods or services
+or both, whether by sale, transfer, barter, exchange, licence, rental, lease or
+disposal or any other mode, made or agreed to be made by such person in the
+course or furtherance of business"
+The Term "business" is defined in Section 2(17) of the CGST Act, which reads like
+this: "business" includes:
+a. any trade, commerce, manufacture, profession, vocation, adventure, wager or
+any other similar activity, whether or not it is for a pecuniary benefit
+b. any activity or transaction in connection with or incidents or ancillary to nib-
+clause (a):
+3.4 From the plane reading of the definition of "business", it can be concluded that the
+supply of food by the applicant to its employees would definitely come under
+clause (b) of Section 2 (17) if the CGST Act as a transaction incidental or ancillary
+
+to the main business.
+
+3.5 Schedule II to the CGST Act, 2017 describes the activities to be treated as supply
+
+3.6 Ever though, there is no profit on the supply of food to its employees, there is a
+
+"supply". as provided in Section 7(1)(a) of the CGST Act, 2017. Hence, the
+applicant would definitely come under the definition of "Supplier", as provided
+in sub-section (105) of Section 2 of the CGST Act, 2017.
+The Term ‘consideration’ is defined in Section 2(31) of the CGST Act, 2017, which
+is extracted below:
+‘consideration’ in relation to the supply of goods or services or both includes,
+(a) any payment made or to be made, whether in money or otherwise, in respect of,
+in response to, or for the inducement of, the supply of goods or services or both,
+whether by the recipient or by any other person but shall not include any subsidy
+given by the Central Government or a State Government
+(b) the monetary value of any act or forbearance, in respect of, in response to, or for
+the inducement of, the supply of goods or services or both, whether by the recipient
+or by any other person but shall not include any subsidy given by the Central
+Government or a State Government
+Provided that a deposit given in respect of the supply of goods or services or both
+shall not be considered as payment made for such supply unless the supplier applies
+such deposit as consideration for the said supply
+
+Page 12 of 24
+M/s KSB Limited/49/2021-22
+
+
+
+Since the application recovers the cost of food from its employees, there is
+‘consideration’, as defined in Section 2(31) of the CGST Act, 2017 and therefore,
+taxable as a supply under GST. The same has been held by the Authority of
+Advance Ruling, Ahmedabad in case of M/s. Amneal Pharmaceuticals Pvt. Ltd
+(2021-IOL-28-AAR-GST)."
+
+The Assistant Commissioner, Central Tax, Division-II (Pimpri), Pune-I
+
+Commissionerate has made additional submission vide letter dated 27.10.2025,
+as follows,
+
+3.7 As per their agreement between the applicant M/s. KSB and its vendor, it is
+mentioned that M/s. KSB as Company is engaged in the business of providing
+catering services. It is observed that as per GSTIN registration, the applicant has
+declared themselves as manufacturer of goods of HSN CTH 73 & 84 and not as
+
+service provider of Catering services,
+
+3.8 Further, at Para 6 of the said agreement it is mentioned that_
+
+Si Annexure C) for the said services. Service Tax, if applicable will be paid |»
+detra” iy
+
+for Catering Services.
+
+3,10 Further, as per the sample invoice issued by vendor, the HSN/SAC is declared as
+996331 which is applicable for Restaurant/cafes and not canteen services. The
+
+correct HSN Code for Canteen services is 996333.
+
+4, HEARING
+Preliminary hearing in the matter was held on 15.02.2022. Mr. Mohammad
+Poonawala CA, Smt. Ankita Shah CA, & Mr. Madhur Haralkar CA had attended
+while Jurisdictional Officer was not available.
+
+The application was admitted and called for final hearing on 17.09.2025. Shri
+Mohammad Poonawala (CA), Shubham Modani (CA) authorized representative,
+appeared and made oral and written submissions. Jurisdictional Officer Shri
+
+Harishchandra Yadav, Assistant Commissioner of CGST appeared. We heard both
+the sides.
+
+5. OBSERVATIONS AND FINDINGS:
+5-1 Taxation of canteen services provided to employees.
+
+5.1.1 We have carefully considered all the material on record and the relevant
+provisions of Law. The Applicant is before this authority for seeking
+
+clarification on following questions.
+
+Page 13 of 24
+M/s KSB Limited/48/2021-22
+
+
+i) Whether GST would be applicable on canteen facility provided by KSB
+Limited to its employees using third party canteen services provider?
+
+ii) In case GST is applicable on canteen services provided by applicant to its
+employees, whether GST would be applicable if applicant does not
+recover any amount from employee for providing canteen facility?
+
+iii) In case GST is applicable on Canteen services provided by applicant to
+its employees, whether GST would be applicable if applicant recovers
+from employees’ part or whole of the cost charged by the canteen service
+
+provider to applicant?
+
+5.1.2 KSB Limited, (hereinafter referred to as ‘Applicant’) is a company having its
+registered office located at office No. 601, Runwal R-Square, LBS Mar,
+Mulund (West), Mumbai-400040. The applicant is engaged in the business of
+manufacturing and selling of liquid handling pumps for various applications.
+The applicant is registered under the GST Act and holding GSTIN
+27 AAACKS918}1ZC.
+
+5.1.3 The applicant has submitted that, in order to comply with the obligation under
+Factories Act 1948, Applicant provides canteen facility to all the workers
+
+mandated that the food, drink and other items served in the canteen shall be a = ~]
+sold on non-profit basis and in computing the charges to be made for such
+
+food, drink or other items the following items shall not be taken into a ee
+
+consideration i.e. 2 sie
+a) the rent for the land and building;
+
+~
+b) the depreciation and maintenance charges of the building and equipment .
+
+provided for the canteen;
+
+c) the cost of purchase, repairs and replacement of equipment including
+
+furniture, crockery, cutlery and utensils;
+
+d) the water charges and other charges incurred for lighting and ventilation
+
+and
+
+e) the interest on the amounts spent on the provision and maintenance of
+
+furniture and equipment provided for the canteen.
+
+Thus, we find that the said Act and Rules do not mandate supply of free food
+by the factory to the employees. All that is mandated is provision of canteen
+
+Page 14 of 24
+M/s KSB Limited/45/2021-22
+
+
+facility and a restriction on the amount that can be recovered from the
+employees i.e. the food should be sold on non-profit basis.
+
+5.1.4 It is seen from the copy of invoice submitted, the applicant has engaged third
+party service provider M/s. FF Services Private Limited, who are providing
+the said canteen facilities to the Applicant. Since, the said service is provided
+by the third-party service provider to the Applicant, the service provider is
+raising their invoices with applicable GST to the Applicant. The Applicant
+pays the consideration to the third-party service providers for the said
+
+canteen facilities.
+
+5.1.5 Applicant has contended that providing canteen facility to its employees is
+not in the course or furtherance of business. Providing canteen facility to its
+employees does not amount to supply of services as per the applicable
+provisions of Central Goods and Services Tax Act, 2017 (CGST Act') and
+Maharashtra Goods and Services Act, 2017 ('MGST Act’). According to him,
+the canteen services to employees do not fall under ‘supply’ as per section 7-
+of CGST Act, as supply of these services are not in the course or furtherance
+of business.
+
+5.1.6 (1) The definition of 'business' as given in Section 2(17) of the CGST Act, 2017
+is as under: -
+
+"(17) "business" includes -
+
+(a) any trade, commerce, manufacture, profession, vocation, adventure, wager or
+
+any other similar activity, whether or not it is for a pecuniary benefit;
+
+(b) any activity or transaction in connection with or incidental or ancillary to sub-
+
+clause (a);
+
+(c) any activity or transaction in the nature of sub-clause (a), whether or not there
+
+is volume, frequency, continuity or regularity of such transaction
+
+This is an inclusive definition wherein various aspects have been listed in
+the clauses that would be included in ‘business’. Let us analyze the Clause
+‘(a)’, Clause ‘(b)’ and Clause ‘(c)’of the above definition.
+
+Clause ‘(a)’ of this definition mentions various activities like trade,
+commerce, manufacture, profession, vocation, adventure, wages or any
+other similar activity, Thus, this clause covers these activities or any other
+similar activities. The last phrase ‘whether or not it is for a pecuniary benefit’
+
+widens the scope of business to include non-profit activities.
+
+Page 15 of 24
+M/s KSB Limited/48/2021-22
+
+
+Clause ‘(b)’ mentions that any activity or transactions in connection -
+with or incidental or ancillary to activities mentioned in (a) would also be
+included in ‘business’.
+
+Clause ‘(c)’ provides that there would not be requirement of volume,
+frequency, or regularity of such transactions.
+
+(2) We observe that the Applicant is not carrying out supply of canteen services
+as his principal activity. No doubt his principal activity remains as
+manufacture and supply of liquid handling pumps for various applications
+which is covered by clause (a) of above definition. Let's see whether the
+activity of supply of canteen services, falls under the definition of business,
+as extracted above. Clause (b) mentions that any activity or transaction
+incidental or ancillary to principal activity would also be included in
+‘business’.
+
+The term 'incidental' has been defined in various dictionaries as
+
+under:
+
+Oxford Dictionary - the happening as part of something more
+
+important.
+
+Cambridge Dictionary - less important than the thing something is
+
+connected with or part of
+
+Dictionary.com - happening or likely to happen in an unplanned or
+
+subordinate conjunction with something else.
+Similarly word ‘ancillary’ has been defined as
+
+under:
+
+Oxford Dictionary - provide necessary support to the main work or
+
+activities of an organisation.
+
+- In addition to something else but nof as.
+important.
+
+Cambridge Dictionary: providing support or help.
+
+Dictionary.com - supporting, secondary, subsidiary
+
+(3) The reading of all above definitions clarify that any activity, which supports
+the main activity or necessary to carry out the principal activity, is an activity
+or transaction in connection with or incidental to or ancillary to the principal
+activity. The activity of providing food in canteen to its workers who are
+pivotal to his principal activity can definitely be said to be in connection with
+or incidental or ancillary to his main activity of manufacture and sale of
+liquid handling pumps for various applications.
+
+Page 16 of 24
+M/s KSB Limited/48/2021-22
+
+
+(4) Further, in terms of Section 2(17) (c), as mentioned in para (1) above, the
+volume of transaction is immaterial for the purpose of coverage under
+‘business’, therefore, even if supply of food is quite insignificant activity in
+terms of volume of transaction, still in terms of clause (c) of the aforesaid
+section, the activity of supply of canteen services, falls within the definition
+of “business”.
+
+(5) Thus, as discussed above, the activity of supply of canteen services provided
+to the employees falls under the definition of ‘business’ as these activities
+are in connection with or incidental or ancillary to the principal activity of
+
+the taxpayer as explained above.
+
+5.1.7 Whether there is supply of canteen services from the Applicant to the
+employees.
+
+(1) Fundamentally, the subject issue pertains to the transaction between the
+Applicant and employees, i.e., with respect to the canteen services as being
+supplied by the Applicant to employees. The Applicant pays the total
+consideration for the supply of these services to the canteen service
+provider and the Applicant in turn supplies these services to its employees. -
+
+(2) Therefore, it is evident on record that there are two distinct and totally : =a
+
+different transactions in the event of supply of these services to wee.
+employees of the Applicant. They are: - ts te
+i) Supply of canteen services by the canteen service provider to the
+Applicant and
+
+; ii) Supply of canteen services by the Applicant to its employees.
+
+A (3) In respect of the impugned transaction, the third-party service provider
+has been supplying this service to the Applicant for which the said service
+provider receives consideration from the Applicant on which the Applicant
+has been paying GST to the service provider.
+
+(4) Similarly, in the said transaction, the Applicant is supplying the canteen
+services to its employees. The service provider invoices the applicant for
+services. He charges the consideration along with GST thereon. There is no
+privity of contract between this third-party service provider and the
+employees. Therefore, it is the Applicant which is providing the canteen
+
+service to the employees.
+5.2 Taxability of Supply of Canteen services to the employees.
+
+5.2.1 Whether the perquisites forming part of employment contract excluded from
+GST. As per the Circular no. 172/04/2022-GST dated 06.07.2022 of CBIC, the
+
+Page 17 of 24
+M/s KSB Limited/48/2021-22
+
+
+
+relevant extract of the said circular is reproduced hereunder for ease of
+reference:
+S.No. Issue Clarification
+Whether various | 1. Schedule III to the CGST Act provides
+
+perquisites provided | that "services by employee to the employer
+by the employer toits | in the course of or in relation to his
+employees in terms | employment" will not be considered as
+of contractual | supple of goods or services and hence GST
+agreement entered | is not applicable on services rendered by
+into between the | employee to employer provided they are in
+employer and _ the | the course of or in relation to employment.
+employee are liable} 2. Any perquisites provided by the
+for GST? employer to its employees in terms of
+contractual agreement entered into
+between the employer and the employee
+are in lieu of the services provided by
+employee to the employer in relation to his
+employment. It follows therefrom that
+perquisites provided by the employer to
+the employee in terms of contractual
+agreement entered into between the
+employer and the employee, will not be |...
+subjected to GST when the same arem
+provided in terms of the contract between f
+
+the employer and employee.
+
+9.2.2 Thus, it is derived from Entry 1 of Schedule III that “services by an employee
+to employer in the course of or in relation to his employment" shall be neither
+supply of goods nor supply of services. It could be seen here that Entry 1 of
+Schedule III basically deals with 'services by an employee to employer', and
+not the other way round. Only as a corollary, the ‘services by the employer to
+the employee’, especially when provided in the form of perquisites, has been
+discussed in the CBIC Circular No. 172/04/ 2022 - GST dated 06.07.2022 in its
+para 2 mentioned above. From the above, it could be inferred that perquisites
+in terms of a contractual agreement between the employer and employee are
+not to be subjected to GST.
+
+5.2.3 We observe that in order to place any service provided by the employer to
+employee outside the ambit of GST, the same should be in the form of a
+perquisite. Though the term 'perquisite' has not been defined under the
+
+Page 18 of 24
+M/s KSB Limited/4a/2021-22
+
+
+provisions of GST, the same is discussed under the Income Tax Act, where it
+has been stated in Section 17(2) as follows: -
+
+"perquisite" includes-
+
+(i) the value of rent-free accommodation provided to the assessee by his
+
+employer;
+
+(ii) the value of any concession in the matter of rent respecting any
+
+accommodation provided to the assessee by his employer;
+
+(iit) ——---------
+
+“
+
+5.2.4 As per Income Tax Act, 1961, perquisite is defined to be the value of free
+benefit or facility given by the employer to his employees. The collection from
+the employees of whatever value, is not covered under ‘perquisite’. It could
+be inferred from the above, that any service rendered free of charge, or any
+service rendered on a concessional basis shall qualify as a perquisite. But it is
+to be noted that only the value/ portion to the extent of concession offered by
+the employer is to be treated as a perquisite and not the remaining
+<p non value that has been ni changes by the ica Applying the said
+
+ gaiglopece
+
+5.2.5 If incidental or ancillary supply of goods or services such as canteen services
+by the employer to employee were to not fall under ‘business’, it would not
+be necessary to provide respite to ‘supplies by employer to employees given
+as perquisite’ from falling under ‘supply’ by taking recourse to schedule III.
+That is, if a transaction or activity is not a supply u/s 7(1) of CGST Act, then
+there would not be necessity to place such a transaction u/s 7(2)(a) for
+deeming it to be neither supply of goods nor supply of services. Hence, as
+discussed in Para (5.1.6 & 5.1.7) Applicant's activity of supply of canteen
+services falls u/s 7(1) of CGST Act, 2017. As discussed in Para 5.2.4, only the
+perquisites i.e., free supplies, in terms of a contractual agreement between the
+employer and employee are not to be subjected to GST as these are in lieu of
+the services provided by employee to the employer in relation to his
+employment. Hence, the recoveries made from the employees are liable to
+levy of tax as it is consideration against canteen services provided by the
+
+Applicant to the employees.
+
+Page 19 of 24
+M/s KSB Limited/48/2021-22
+
+
+5.2.6 The Applicant has relied on the following Rulings.
+(1) Gujarat AAAR in Tata Motors Limited (Guj/GAAR/R/39/2021 dated 30th
+July 2021).
+(2) Gujarat AAAR in M/s. Amneal Pharmaceuticals Pvt. Ltd (Order No.
+GUJ/GAAAR/ APPEAL / 2021/07 dated 08.03.2021).
+(3) Maharashtra AAR in Posco India Pune Processing Centre Pvt. Ltd (Order
+No.GST/ ARA-36/218-19/B-110 dated 07.09.2018),
+(4) Maharashtra AAR in Tata Motors Limited (GST-ARA-23/2019-20/ B46
+dated 25.08.2020)
+We would like to place on record that an advance ruling pronounced by
+the Authority or the Appellate Authority shall be binding only on the
+applicant who had sought it, and the concerned officer or the jurisdictional
+officer in respect of the applicant.
+Further applicant relied on following judgments
+(5) Keshaodeo Shivprasad vs Union of India (1992(61) E.L.T. 404) (M.P.) (Misc.
+Petition No, 1393 of 1985 decided on 20.02.1992)
+In this case Hon. High Court observed that, the process of packing cannot
+be incidental or ancillary to the production or manufacture of tea. The facts
+of this case are different. In the current case, activity of providing canteen
+services falls under ‘business’ as per the provisions of GST Act, as
+discussed para 5.1.6, 5.17. Sas
+‘<{) Tamil Nadu vs Binny Ltd AIR 1980 SC 2038 tee
+We find that the applicant has submitted that, in above case Hon Supreme
+Court has observed that, "a thing is incidental to another if it merely
+
+appertains to something else as primary.”
+
+On going through the above judgment, it is seen that Hon. Supreme
+Court has observed that, the sales which were effected in the Store were
+to the workmen employed in the factory where textiles were being
+manufactured and the provision of this facility to the workmen was
+certainly incidental to the carrying on the business of manufacture of
+textiles.
+
+In this case Hon Supreme Court has held that,
+The activity of selling provision to workmen in the Store was incidental to
+the business of manufacture of textiles and the sales were, therefore,
+transactions falling within the definition of 'business' in Clause (ii) of Section
+2(d). We must in the circumstances, hold that the assessee carried on business
+of selling provisions in the store and the sales attracted the liability to tax
+under the Tamil Nadu General Sales Tax Act, 1959 as it existed.
+
+Page 20 of 24
+M/s KSB Limited/49/2021-22
+
+.
+
+
+We find that the above judgment in fact supports our views as discussed
+in para 5.1.6 and 5.1.7. Further, this authority has placed reliance on
+Rulings in case of Himachal Pradesh AAAR dated 26.09.2023 in case of
+M/s Federal-Mogul Anand Bearings India Limited, Tamil Nadu AAR
+dated 05.05.2023 in case of M/s Kothari Sugars and Chemicals Limited
+and Tamil Nadu AAR dated 20.12.2023 in case of M/s Faiveley Transport
+Rail Technologies India Private Limited.
+
+5.3 Value in respect of which canteen services are taxable.
+
+5.3.1 As explained in above paras, supply of canteen services to the
+employees would in normal course constitute to be the supply of
+services u/s 7 (1) of GST Act 2017. However, it is now clarified by the
+CBIC circular No. 172/04/2022/GST dated 6th July 2022 that
+perquisite provided to the employees in view of the Contractual
+Agreement would not be subjected to GST. It is clarified that such
+perquisite are in lieu of the services provided by the employees to the
+employer in the course of or in relation to his employment, and
+should not be subjected to GST.
+Supplies of any services would not be subjected to GST only
+under the following circumstances,
+(1) Such services are exempt under the notification number 12/ 2017,
+CT(R) dated 28/06/2017.
+(2) Such a transaction in services is a non-GST supply.
+(3) Such services are not supply as per provisions in section 7 of
+CGST Act, 2017.
+
+5.3.2 The supply of canteen services in the nature of perquisite by the
+employer to the employee would not have respite from two aspects
+mentioned at Sr.No.1 and 2 above as the said supply is neither exempt
+nor a non-GST supply. Hence, it needs to be analysed if such services
+can be called as supply u/'s 7.
+
+5.3.3 The activity of provision of canteen services to the employees are in
+the course of business (as detailed in paras above). Consideration is
+absent or nominal. As per Section 7(1)(c), ‘the activities specified in
+Schedule I, made or agreed to be made without consideration’ have
+been defined to be included in ‘Supply’. Serial Number 2 of Schedule
+1 reads as below.
+
+“2. Supply of goods or services or both between related persons or
+between distinct persons as specified in section 25, when made in the
+course or furtherance of business: Provided that gifts not exceeding fifty
+
+Page 21 of 24
+M/s KSB Limited/48/2021-22
+
+
+
+thousand rupees in value in a financial year by an employer to an’ |
+
+employee shall not be treated as supply of goods or services or both, *,
+Further, Explanation to Section 15 reads as below.
+Explanation. —For the purposes of this Act, —~ (a) persons shall be
+deemed to be —related persons
+if— (i) such persons are officers or directors of one another ‘s businesses;
+(ii) such persons are legally recognised partners in business;
+(tit) such persons are employer and employee;
+
+5.3.4 As per ‘a(iii)’, employer and employee are deemed to be related
+persons for the purposes of this Act. This means any transaction
+between employer and employee will not come out of ‘supply’ for the
+reason of not having consideration. However, respite to such
+transactions has comes through Schedule 3, Section 7(2)(a) states that,
+notwithstanding anything in sub-section (1), activities or transactions
+specified in Schedule III shall be treated neither as a supply of goods
+nor a supply of services. Serial Number 1 of Schedule III is as below.
+
+“1. Services by an employee to the employer in the course of or in
+
+relation to his employment.”
+
+5.3.5 This entry includes only the services by an employee to the employer.
+
+However, it has been clarified by the above referred Circular that ’ as
+
+corollary to this provision, the perquisite given to the employees in
+view of the contractual agreement are in lieu of services given by ie
+employee to the employer and should not be subjected ‘to GST’-As
+
+the supply of perquisite by the employer to the employee would not
+have respite from above two aspects mentioned at Sr.No.1 and 2
+
+above as the said supply is neither exempted nor a Non-GST supply,
+it would be appropriate to interpret that the perquisite given to the
+employees in view of the contractual agreement are in lieu of services
+given by the employee to the employer and would not be subjected
+to GST by deeming it to be part of Schedule II as a corollary to entry
+at Sr. No.1 of Schedule III for cohesive interpretation.
+
+5.3.6 If the applicant does not recover any amount from the employees,
+then, the entire value of the services for which no amount is charged
+is the perquisite provided by the employer to the employees. As this
+perquisite is in lieu of services of the employees to the employer
+which fall under schedule 3, the perquisite part is not taxable, as a
+corollary, deeming it to be falling in the said entry of schedule 3. As
+
+Page 22 of 24
+M/s KSB Limited/#9/2021-22
+
+ie
+
+
+the entire value is the perquisite provided by the employer, it is not
+liable to tax as discussed above.
+
+5.3.7 If the applicant recovers any amount from the employees, then the
+perquisite in this case is only to the extent of concession given to the
+
+employees and any amount recovered would be liable for GST.
+
+6. In view of the extensive deliberations as held hereinabove, we pass an order as follows:
+
+ORDER
+
+(Under Section 98 of the Central Goods and Services Tax Act, 2017 and the
+Maharashtra Goods and Services Tax Act, 2017)
+
+NO.GST-ARA- 48/2021-22/B- 62> Mumbai, dt. 23/41/2925
+For reasons as discussed in the body of the order, the questions are answered thus-
+Question 1: Whether GST would be applicable on canteen facility provided
+by M/s. KSB Limited to its employees using a third-party canteen
+services provider?
+Answer: - The supply of canteen services by the applicant to its employees
+amount to supply of services under the MGST Act, 2017. GST
+would be payable on the said services.
+
+Question 2: In case GST is applicable on Canteen services provided by KSB
+to its employees, whether GST would be applicable if KSB Limited
+does not recover any amount from employee for providing
+canteen facility? Ste
+
+wer: - GST is not applicable, if no amount is recovered fromthe :
+
+employees for the canteen services as the cost of said service would
+
+be considered as a perquisite.
+Question 3: In case GST is applicable on Canteen services provided by KSB
+toits employees, whether GST would be applicable if KSB
+Limited recovers from employee's part or whole of the cost charged
+by the canteen service provider to KSB?
+Answer: - Yes, GST would be applicable on the amount recovered from the
+employees for the canteen services. The portion of the cost, not
+
+recovered, would be considered as a perquisite.
+
+hat 2
+PCa we yors
+D.P.G nde Himani Dhamija
+(MEMBER) (MEMBER)
+
+PLACE - Mumbai
+DATE- 2:3) 14] 2025
+
+Copy to: -
+1. The applicant
+
+Page 23 of 24
+M/s KSB Limited/48/2021-22
+
+
+
+2. The concerned Central / State officer
+3. The Commissioner of State Tax, Maharashtra State, Mumbai
+
+JHte: -An Appeal against this advance ruling order shall be made before The
+
+faharashtra Appellate Authority for Advance Ruling for Goods and Services
+
+4 15% floor, Air India Building, Nariman Point, Mumbai - 400021. Online
+
+~ facility is available on gst.gov.in for online appeal application against order
+passed by Advance Ruling Authority.
+
+Page 24 of 24
+M/s KSB Limsited/48/2021-22

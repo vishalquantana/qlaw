@@ -1,0 +1,594 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+GST Bhavan, Ist floor, B-Wing, Mazgaon, Mumbai — 400010.
+(Constituted under Section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+BEFORE THE BENCH OF
+
+(1) Smt. P. Vinitha Sekhar, Addl. Commissioner of Central Tax, (Member)
+(2) Shri. A. A. Chahure, Joint Commissioner of State Tax, (Member)
+
+GSTIN Number, if any/ User-id KZAHKPB6171CIZM
+
+Legal Name of Applicant RISHAB INDUSTRIES
+
+Registered Address/Address provided | Sector no 10, Plot no 57/7, PCNTDA. Bhosari, Pune,
+while obtaining user id Maharashtra - 411026
+
+Details of application GST-ARA, Application No. 34 Dated 01.08.2019
+Concerned officer PUN-VAT-E-601, (L.T.U.)PUNE
+
+Nature of activity(s) (proposed /
+present) in respect of which advance
+
+ruling sought
+A_ | Category Factory / Manufacturing
+B_ | Description (in brief) Applicant are manufacturers of transformers,
+
+magnetic components and panels for various
+industries. Transformers are electro-mechanical
+devices which are fitted in stainless steel devices
+which are further fitted under the railway coaches.
+Issue/s. on which advance ruling | (i) Classification of goods and/or services or both
+
+required
+Question(s) on which advance ruling is | As reproduced in para 01 of the Proceedings below.
+
+Mose RuLpneauired
+VMs mn CON
+
+Co ana LN
+VO
+\ 3) PROCEEDINGS
+
+(Untief Section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Fy y Goods and Services Tax Act, 2017)
+NS LS, / The present application has been filed under Section 97 of the Central Goods and Services
+
+SS: "Fax Act, 2017 and the Maharashtra Goods and Services Tax Act, 2017 [hereinafter referred to as
+“the CGST Act and MGST Act”] by M/s. RISHAB INDUSTRIES, seeking an advance ruling in
+
+respect of the following question.
+“Whether transformers supplied to Indian Railways can be classified as ‘Parts of railway or
+
+tramway locomotives or rolling stock’ under HSN ‘8607’ and thereby subjected to GST@ 5% or
+the transformers shall be categorized under HSN 8504 and subjected to GST@ 18%?”
+
+At the outset, we would like to make it clear that the provisions of both the CGST Act and
+
+the MGST Act are the same except for certain provisions. Therefore, unless a mention is
+
+specifically made to any dissimilar provisions, a reference to the CGST Act would also mean a
+
+
+reference to the same provision under the MGST Act. Further to the earlier, henceforth for the purposes of
+
+this Advance Ruling, a reference to “GST Act” would mean CGST Act and MGST Act.
+
+2. FACTS AND CONTENTION — AS PER THE APPLICANT
+
+The submissions, made by the applicant is as under:-
+
+Zal Applicant is manufacturer of Transformers, Magnetic Components & Panels for various
+Industries. Applicant has developed Transformers, which have been approved by the
+Research Design and Standards Organisation (RDSO). These transformers are fitted
+underslung (suspended from an upper support) to the passenger coaches (commonly
+referred to as 'LHB' Coaches) that are manufactured by the various coach manufacturing
+factories in India. These Transformers are Electro-mechanical devices i.e. Transformer is
+fitted in a Stainless Steel Enclosure which is further fitted under the LHB Coaches/ Rolling
+Stock. These Transformers are the source of power to the Coach for Fans, AC, Lights and
+Charging Points within the coach. Inputs which are used to manufacture transformers are
+taxed @18%, namely, a) Super Enamelled Copper Strips and Wires, b) Electrical Steel
+Cold Rolled Grain Oriented Silicon Steel Lamination, c) Stainless Steel SS304 Fabricated
+
+Enclosure and d) Other Insulating Items.
+2.2. According to applicant, Transformers fall under the HSN 8504 -'Electrical Transformers,
+
+Static Convertors (E.g.: Rectifiers) and Inductors’ which is taxed @ 18%. There is
+
+another HSN 8607 - Parts of railway or tramway locomotives or rolling-stock; such as
+
+ogies, bissel-bogies, axles and wheels, and parts thereof which is taxed @ 5%.
+
+in April 2013. As per Chapter 6 — Air Conditioning and Train Lighting in the manual
+there is a mention of the End on Generation (EOG) system which states that ‘EOG system
+envisages providing power car in front and rear end of a rake of coaches for power
+requirement between them. These coaches are equipped with 60kVA step down
+transformers for stepping down 750 V to lower power supply as per the requirements of
+power supply. The Power Cars at both ends take care of the entire load of the whole rake,
+which includes air conditioning, light and fan circuit, emergency battery charger circuit
+and pantry equipment. A transformer is also equally important in the functioning of the
+MONO-BLOCK PUMP for ensuring water supply in the coach and typically, a 60 kVA
+transformer is required for the functioning of the water pump. Almost every power circuit
+
+diagram in the manual has a mention of the Transformer as an important link between
+
+
+receiving power from the feeder/ primary source and then moving the power to the desired
+
+location within the coach for the critical electrical functions to be operated.
+
+2.4 Applicant has also cited The Vocational Training report on the Rajdhani Express issued
+by the Eastern Railways in 2015 which states that: The entire power required for AC.
+system, lighting system, Pantry Car power is delivered by the DG sets established in the
+Power Car. The DG. sets produce 750 V. 3 phase AC. power for low transmission loss.
+The 750 V. AC. power then dropped down to 415 V. 3 phase AC. power by two 60 kVA
+transformers for two DG sets. This 415 V. AC. power is moved to the metering and control
+section. According to original German designing the generated 750 V. AC. power goes to
+two 60 KVA. transformers by two feeders from two DG sets. The transformed power is
+supplied for various functions some as critical as the operation of the ‘Anti-Skid Device’.
+Typically, the axles/ wheels of the coaches are moved forward by the pull of the locomotive
+(engine). However, when the same need to be brought to an urgent halting position, brakes
+need to applied to all the wheels in an emergency situation. Anti-Skid Devices act as a
+pulling device to avoid the wheels of the coach to skid away/ de-rail in the event of an
+
+urgent braking situation making it one of the most important protection devices/ systems
+of the railways.
+
+2.5 Further, applicant has cited the Introductory Handbook on Train -18 issued by the
+
+Indian Railways Centre for Advanced Maintenance Technology, Gwalior issued in
+
+ovember 2018which quotes that Trailing coach has the pantograph for current
+
+Ilection, vacuum circuit breaker and HV isolator mounted on the roof. For operation of
+
+16 car, two pantographs will be used. It also consists of auxiliary converter unit and
+
+ower transformer mounted under-slung. Power to Line and Traction Convertor units
+
+(LTC) of both motor coaches is distributed from the same power transformer. Auxiliary
+converter feeds the total load of four coaches. It also consists of passenger saloon area,
+arious end wall
+
+pantry, RMPU, mono block pump controller, electrical cabinet and v
+
+panels. It is an air-conditioned coach.
+
+2.6 The primary function of a transformer is to transform the electric current in a form to make
+
+it fit the requirements of a circuit and/ or its end use of power. The primary objective ofa
+transformer in relation to railways is to transform the high voltage power pulled by the
+Pantograph (overhead units that connect to the power lines) to the low voltage as required
+by the coaches either to move the wheels or for other purposes like running the air
+ner units etc. Without a transformer, electricity supply cannot be controlled
+
+a very critical ‘Part’ in the Electrical Circuit of a coach/ bogie. Applicant
+
+conditio:
+
+thereby making it
+3
+
+
+also refers to the Specifications that are shared by the Research Designs and Standards
+Organisation (RDSO) in so far as the requirements for a Transformer are concerned,
+wherein the Scope covers the design, manufacturing, test, supply requirements of the
+Transformers. The transformers also need to meet the Service Conditions that are very
+typical to railways like ; Temperatures ranging from -5° to 55°C; Train Speed upto 200
+km/h ; Rainfall from 1750 mm to 6250 mm ;Relative Humidity upto 95%
+
+2.7. Applicant has also submitted that transformers that are manufactured for railways have a
+very specific use and are also very integral to the electrical system of the coach/ bogies.
+Thus Transformers merits its classification under the Heading (HSN) — 8607 — as ‘Parts
+
+of railway or tramway locomotives or rolling-stock’ despite a separate classification
+
+heading available for Transformers.
+
+2.8 They have referred to Circular No 30/4/2018-GST dated 25 January 2018 issued by the
+Department of Research (Tax Research Unit) wherein it was categorically clarified as
+under:
+
+Only the goods classified under Chapter 86, supplied to the railways attract 5%
+GST rate with no refund of unutilized input credit and
+Other goods (falling in any other chapter) would attract the general applicable GST
+
+rates to such goods, under the aforesaid notifications, even if supplied to the
+
+railways.
+
+The submission, of the jurisdictional officer is as under:-
+
+= Sr.No. 375 of Notification No. 1/2017-C.T.(Rate) dt. 28.06.2017 is as under:
+
+Sr. Chap/Hdg Description of Goods SCHE Rateof Rate of
+
+No /Sub Hdg/ DULE~ Tax Tax
+Tariff item under under
+CGST SGST
+
+Electrical transformers; _ static
+
+converters (for example, rectifiers)
+
+and inductors [other than charger or I] 9% 9%
+charging station for Electrically
+
+operated vehicles]
+
+375 8504
+
+ers, which are manufactured by the dealer are covered under the
+
+ntry No. 375 under Schedule III and taxable under CGST @ 9% and
+Electrical Transformers,
+
+32 Electrical transform:
+
+aforesaid schedule e'
+SGST @.9%, or IGST @ 18%. HSN of the product is 8504-
+
+static Convertors (e.g.: Rectifiers) and Inductors.
+4
+
+
+3.3. Schedule entry No. 205 G has been provided under Schedule II in the aforesaid
+Notification no. 1/2017-Central Tax (Rate) dt. 28th June 2017 under taxable under CGST
+@ 6% and SGST @ 6%, or IGST @ 12%. The said entry has been reproduced here for
+
+ready reference:
+
+Sr.No Chapter/Heading _ Description of Goods SCHE Rate of Rate of
+/Sub heading/ DULE- Tax Tax
+Tariff item under under
+CGST SGST
+
+Parts of railway or
+tramway locomotives. or
+205G 8607 rolling-stock, such as {J 6% 6%
+Bogies, bissel-bogies, axles
+and wheels, and _ parts
+thereof
+
+3.4. The impugned product, is covered under both entries ic Under Entry No 375 of Schedule
+IL] of the Notification no. 1/2017-Central Tax (Rate) dt. 28th June 2017 under HSN-8504,
+and secondly, due to supply to railways, it covered another Entry no 205 G of Schedule IT
+of Notification no. 1/2017-Central Tax (Rate) dt. 28th June 2017, HSN 8607.
+
+3.5 As per the provisions of Notification No 1/2017-Central Tax (Rate) dt. 28th June 2017
+
+and Customs Tariff Act, 1975 51 of 1975), the heading which provides the most specific
+
+escription shall be preferred to a heading providing a general description as per Rule 3
+
+\ 3.6 } Jn} he instant case, there is a specific HSN i.e. 8504 for transformers in the said Customs
+
+= ’ —p4riff and under the HSN 8607 (parts of railway or tramway locomotive or rolling stock),
+
+i
+3 \ —
+Sa a he impugned product is not covered. Reliance placed on the advance ruling as follows:
+= TRa STR
+™ a 1. Satlaj coach products Pvt. Itd. AAR/GST/PB/09 dt. 29-08-2019.
+
+HSN-code 8504 as an Electrical
+
+3.7 Therefore the impugned goods, are covered under the
+
+Transformer and liable to tax @ 9% under CSGT and 9% under SGST or 18% under IGST.
+
+04. HEARING
+
+Preliminary hearing in the
+prietor appeared and requested for admission of application as per
+
+matter was held on 20.11.2019. Sh. Nikhil Inani, C.A. and Sh.
+
+Jagmohan Singh, pro
+
+details in their application. Jurisdictional Officer Sh. P.V. Ranpise, Dy. Commissioner of
+
+State Tax (E-607), L T U -1 Pune also appeared and made written submissions.
+The application was admitted as per the provisions of law and applicant was called for
+final hearing on 10.12.2019. Sh. Nikhil Inani, C.A. and Sh. Jagmohan Singh, appeared
+
+and made their submissions. Jurisdictional Officer Sh. P.V. Ranpise, Dy. Commissioner
+
+
+D7 pnCE REA
+7 ™ Bridge, New Delhi 110002, on 22.8.2019 for the supply of “9 KV 750V/415V/190V AC,
+
+05.
+
+5.1
+
+>
+
+5.4
+
+5:5
+
+of State Tax (E-607), L T U-1 Pune appeared and made written submissions in this matter.
+
+We have heard both the sides.
+
+OBSERVATIONS AND FINDINGS;
+We have gone through the facts of the case, written contention made by applicant and
+
+jurisdictional officer. The issue raised before us is in respect of classification of
+
+manufactured product i.e. Transformer, supplied to railways and rate of tax thereon, which
+would be on the lines thus —
+
+Applicant, registered under the GST Act and engaged in manufacture of Transformers,
+
+Magnetic Components & Panels for various Industries has developed Transformers for
+railways as per the design specifications provided by them and approved by the Research
+Design and Standards Organisation (RDSO). These Transformers are Electro-mechanical
+
+devices i.e. Transformer is fitted in a Stainless Steel Enclosure which is further fitted under
+
+the LHB Coaches/ Rolling Stock, and are solely and principally fitted
+monly referred to as
+
+AC, Lights and
+
+underslung
+
+(suspended from an upper support) to the passenger coaches (com
+
+‘LHB' Coaches) and are the source of power to the Coach for Fans,
+
+Charging Points within the coach.
+
+Applicant has received the purchase order from Controller of Stores, Rail factory, Tilak
+
+Ry 9 Star-Star, Dry Type, Air Cooled Power Distribution Transformer for LHB type
+Coaches” *
+
+i According to the Cu
+HSN 8504, within the description of goods - ‘Electrical Transformers,
+
+stoms Tariff Act, 1975 (51 of 1975), we find that Transformers are
+
+wAlassitied under
+Static Convertors (e.g.: Rectifiers) and Inductors' and it is covered under entry Sr.no. 375
+
+of Schedule III of the Notification 1/2017 C.T. (Rate) dt. 28.06.2017 and taxable under
+
+GST Act @ 18% w.e.f. 1.7.2017.
+There is another entry heading HSN 8607, with the description — “Parts of railway or
+
+tramway locomotives or rolling~ -stock; such as Bogies, bissel-bogies, axles and wheels,
+
+and parts thereof” and it is covered under Sr. no. 241 of Schedule I of Notification 1/2017
+
+C.T. (Rate) dt. 28.06.2017, taxable @ 5% w.e.f 1.07.2017. This schedule entry was
+amended vide Sr. No. 205 G of Notification 14/2019 dt. 30.09.2019 and now the tax is
+leviable @ 12% under GST ACT. Applicant has submitted that the impugned product is
+
+covered under both the above said entries.
+
+Under the GST Law, classification of goods is done in accordance with the Harmonized
+
+System of Nomenclature (HSN). Hence it is of utmost importance to analyze various
+
+g classification of goods under GST Laws. The two HSNs, under
+
+provisions regardin
+6
+
+
+which classification of ‘Electrical Transformer’ for supply to Railways are being
+considered by the applicant, falls under two different Sections of the GST Tariff Act.
+Section XVI (Chapter 84 and 85), which covers "Machinery and mechanical
+appliances; electrical equipments; Parts thereof; Sound Recorders and Reproducers,
+television Image and Sound Recorders and Reproducers; And Parts and accessories of
+such articles”, is relevant to items classified under Chapters 84 and 85, whereas Section
+XVII of the GST Tariff, 2017 (Chapter 86 to 89), which covers "Vehicles, Aircraft,
+Vessels and Associated Transport Equipment", is relevant to items classified under
+Chapters 86. For the purpose of details contained in these Chapters, we have further gone
+
+through the description of goods under sub-heading of 8504 and 8607. We find that,
+
+‘electrical transformers’ are covered under chapter Heading 8504. For the sake of
+
+information, the chapter heading ‘8504’ is reproduced below:
+
+85.04 - Electrical transformers, static converters (for example, rectifiers) and inductors.
+8504.10 - Ballasts for discharge lamps or tubes
+- Liquid dielectric transformers:
+$504.21 - - Having a power handling capacity not exceeding 650 kVA
+$504.22 - - Having a power handling capacity exceeding 650 kVA but not exceeding
+10,000 kVA
+8504.23 - - Having a power handling capacity exceeding 10,000 kVA
+- Other transformers:
+
+04.31 - - Having a power handling capacity not exceeding 1kVA
+1B 4.32 - - Having a power handling capacity exceeding 1 kVA but not exceeding 16 kVA
+$4904,33 - - Having a power handling capacity exceeding 16 kVA but not exceeding 500 kVA
+04.34 - - Having a power handling capacity exceeding 500 kVA
+504.40 - Static converters
+8504.50 - Other inductors
+8504.90 - Parts.
+
+g 8607 covers the “parts of railways or tramway locomotives or rolling-
+
+e of information, the chapter heading *8607’ is reproduced below:
+
+Chapter Headin
+
+stock”. For the sak
+
+86.07 - Parts of railway or tramway locomotives or rolling-stock.
+- Bogies, bissel-bogies, axles and wheels, and parts thereof:
+
+8607.11 - - Driving bogies and bissel-bogies
+
+8607.12 - - Other bogies and bissel-bogies
+
+8607.19 - - Other, including parts
+- Brakes and parts thereof:
+
+8607.21 - - Air brakes and parts thereof
+
+8607.29 - - Other
+8607.30 - Hooks and other coupling devices, buffers, and parts thereof
+
+- Other:
+8607.91 - - Of locomotives
+8607.99 - - Other.
+
+
+5.6 We find from the above that, the classification of goods under Chapter Heading 8607 does
+
+not include ‘Electrical transform:
+
+bissel-bogies, axels, wheels, brak:
+
+er’. It only refers to parts of railway such as bogies,
+
+es, hooks and parts thereof, in a general way; whereas,
+
+Chapter Heading 8504 clearly includes ‘Electrical transformers, static converters (for
+example, rectifiers) and inductors’. Note 2 (f) to Section XVII mentions that the
+
+expressions “parts” and “parts and accessories” do not apply to electrical machinery or
+
+equipment (Chapter 85), whethe
+
+or not they are identifiable as goods of this Section.
+
+Further, Note 2 to Chapter 86 mentions that “Heading 8607 applies, inter alia, to : (a)
+
+axles, wheels (running gear),met
+
+frames, under frames, bogies and
+
+al tyres, hoops, and hubs and other parts of wheels; (b)
+
+bissel-bogies; (c) axle boxes, brake gear; (d) buffers for
+
+rolling stock; hooks and other coupling gear and corridor connections, and (e) coachwork.
+
+Thus from a reading of Note 2 (f)
+
+to Section XVII of the GST Tariff and Note 2 to Chapter
+
+86 of the GST Tariff, the applicant’s product, ‘transformers’ are classifiable under HSN
+
+8504.
+BT Further, we find that Circular No
+
+of India, Ministry of Finance,
+
+Delhi has issued clarification on
+
+classifiable under any chapter, ot
+
+.30/4/2018-GST on January 25, 2018 by the Government
+
+Department of Revenue (Tax and Research Unit), New
+
+classification of supplies made to the Indian Railways
+
+her than Chapter 86. As per the said C ircular, only goods
+
+Joon asi under Chapter 86, supplied to the railways attract 5% GST rate with no refund
+
+4 &
+ws
+
+Z“ and are not to be considered as a p:
+
+Entry 8607 is very restrictive
+
+classifiable as parts of railway bo
+
+5.8 In view of the discussions made above,
+
+coaches, cannot be called as pai
+Tariff, due to the specific HSN
+of Schedule I of Notification
+subject Transformers.
+
+5.9  Weagree with the submission
+
+> Sof unutilised input tax credit and,
+{ the, general applicable GST rates t
+
+j plied to the railways. Ther
+vered under Chapter 86, supplied to the railways would not qualify for the HSN 8607
+
+other goods [falling in any other chapter], would attract
+‘o such goods, under the aforesaid notifications, even if
+
+efore, it is very clear that, any product other than those
+
+arts of railway coaches, even if supplied to the railways.
+entry for the purposes of consideration of goods to be
+gies to avail the benefit of reduced rate of taxes.
+
+subject Transformers, though used in Railway
+rts of railway bogies under Chapter Headings 8607 of the
+
+available for transformer and therefore, the Entry no.241
+
+No. 1/2017 C.T. (Rate) dt. 28.06.2017 does not applies to
+
+s made by the jurisdictional officer that applicant’s goods
+
+are to be classifiable under Heading 8504.
+
+5.10 Hence in view of the abovi
+
+manufactured and supplied fo’
+
+e discussions, we find that the subject Transformers,
+
+r use in railway, locomotives are classifiable under HSN
+
+
+8504 and not under HSN 8607. Hence, rate of tax thereon is applicable as per the Sr. no.
+375 of Schedule III of the Notification 1/2017 C.T. (Rate) dt. 28.06.2017 @ 18% under
+
+GST ACT w.e.f 01.7.2017.
+
+06. In view of the extensive deliberations as held hereinabove, we pass an order as follows:
+
+ORDER
+
+(Under Section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+NO.GST-ARA- 34/2019-20/B- oO” Mumbai, dt. / § | / [20 20
+
+For reasons as discussed in the body of the order, the questions are answered thus —
+
+Whether transformers that are supplied to Indian Railways are classified as 'Parts of
+
+Question: -
+r rolling stock - HSN 8607' and therefore subjected
+
+railway or tramway locomotives o
+to GST@5% or Transformers shall be categorized urder HSN 8504 and therefore
+
+subjected to GST@18%?
+Answer:- “Transformers’ supplied to Indian Railways,
+HSN ‘8504’ and Sr. No. 375 of Schedule III of the Notification 1/2017 Central
+
+by the applicant, are covered under
+
+Tax (Rate) dated 28.06.2017 and therefore subjected to GST@ 18%.
+
+67 CE RULiy
+
+es
+
+>)
+
+“PLACES Mumbai
+
+DATE - xfo// 2020
+/ P VINITHA SEKHAR A. A, CHAHURE
+(MEMBER) (MEMBER)
+Copy to:- CERTIFIED TRUE COPY
+1. The applicant wk
+2. The concerned Central / State officer Bee
+3. The Commissioner of State Tax, Maharashtra State, Mumbai MEMBER
+4, The Chief Commissioner of Central Tax, Churchgate, Mumbai ADVANCE RULING AUTHORITY
+5. Joint Commissioner of State Tax, Mahavikas for Website. AHARASHTRA STATE, MUMBAI
+
+Note :- An Appeal against this advance ruling order shall be made before The Maharashtra
+Appellate Authority for Advance Ruling for Goods and Services Tax, 15" floor, Air India
+
+building, Nariman Point, Mumbai — 400021.

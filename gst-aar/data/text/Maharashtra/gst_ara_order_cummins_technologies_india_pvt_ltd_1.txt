@@ -1,0 +1,2017 @@
+MAHARASHTRA AUTHORITY FOR ADVANCE RULING
+GST Bhavan, Old Building, 1st floor, B-Wing, Room No.107, Mazgaon, Mumbai - 400010.
+
+(Constituted under Section 96 of the Maharashtra Goods and Services Tax Act, 2017)
+BEFORE THE BENCH OF
+
+(1) Shri. D. P. Gojamgunde, Joint Commissioner of State Tax, (Member)
+(2) Ms. Priya Jadhav, Joint Commissioner of Central Tax, (Member)
+
+ARN No. NA
+
+GSTIN Number, if any/ User-id | 27AABCT2018B1ZY
+
+Legal Name of Applicant M/s. Cummins Technologies India Private
+limited
+
+Registered | Address/Address | Cummins India Office Campus, Tower A,
+provided while obtaining user id | Balewadi High Street, Balewadi, Pune - 411 045,
+Maharashtra, India.
+
+Details of application GST-ARA, Application No. 72 Dated 03.02.2021
+
+Concerned officer Division-V Khadakwasla, Commissionerate-
+Pune-II
+
+Nature of activity(s) (proposed/present) in respect of which advance ruling sought
+
+A | Category Factory / Manufacturing
+
+B | Description (in brief) Cummins Technologies India Private Limited
+
+(CTIPL’ or ‘the Applicant’) is a part of Cummins
+India Group and is engaged in manufacture and
+sale of products, including exhaust after
+treatment system and allied components.
+The applicant also provides services relating to
+turbo technologies, emission solutions, fuel
+
+systems etc.
+
+Issue/s on which advance ruling | i) Classification of goods and/or services or
+
+required both
+Question(s) on which advance | As reproduced in para 01 of the Proceedings
+ruling is required below
+
+PROCEEDINGS
+
+(Under Section 98 of the Central Goods and Services Tax Act, 2017 and the
+Maharashtra Goods and Services Tax Act, 2017)
+
+Page 1 of 51
+
+
+The present application has been filed under section 97 of the Central Goods
+and Services Tax Act, 2017 and the Maharashtra Goods and Services Tax Act,
+2017 [hereinafter referred to as “the CGST Act and MGST Act” respectively]
+by M/s. Cummins Technologies India Private limited, the applicant,
+seeking an advance ruling in respect of the following questions.
+1. Whether ATS (exhaust after-treatment system) also known as
+EGP (exhaust gas processor), which is a purifying and filtering
+apparatus/ equipment is classifiable under tariff
+heading 84213990 of the Customs Tariff (as is relevant for GST
+regime), and consequently for GST Law under Serial No. 322 of
+Schedule III of Notification No. 1/2017-Central Tax (Rate) dated
+28 June 2017?
+2. If ATS cannot be classified under tariff heading 84213990
+whether it merits classification under tariff heading 8708 of the
+Indian Customs Tariff (as applicable to GST Law)?
+
+At the outset, we would like to make it clear that the provisions of
+both the CGST Act and the MGST Act are the same except for certain
+provisions. Therefore, unless a mention is specifically made to any dissimilar
+provisions, a reference to the CGST Act would also mean a reference to the
+same provision under the MGST Act. Further to the earlier, henceforth for
+the purposes of this Advance Ruling, the expression ‘GST Act’ would mean
+CGST Act and MGST Act.
+
+01. FACTS AND CONTENTION - AS PER THE APPLICANT
+
+1.1. The applicant is a part of Cummins India Group. The Applicant is
+engaged in manufacture and sale of products and _ provide
+services relating to turbo engine technologies, emission solutions, fuel
+
+systems etc.
+
+Page 2 of 51
+
+
+1.2. The Applicant’s business encompasses eight divisions viz. Cummins
+Turbo Technologies, Cummins Emission Solutions (‘CES’), Cummins
+Business Services, Cummins Fuel Systems India, Cummins Technical
+Centre India, Phaltan Engine Plant, Global Analytics Centre and Supply
+Chain Operations (‘SCO’).
+
+1.3. The CES division is engaged inter alia in manufacture and supply of
+exhaust after-treatment system (‘ATS’) and other components for motor
+vehicles/automobiles having medium duty, heavy duty and
+high horsepower engines. This application is in respect of commercial
+operations of CES division involving manufacture and supply of ATS.
+ATS and other allied components are critical components of
+automobiles, inasmuch as it monitors and manages the exhaust and
+emission being within the standards prescribed. It is worthy of mention
+here that India embraced the Bharat Stage VI standard for emission
+norms, as prescribed by the Ministry of Road Transport and Highways.
+
+14. The supply streams undertaken by CES division can be bifurcated as
+below:
+
+a. First-fit supply - the Applicant supplies the below described
+commodities to various original equipment manufacturers (‘OEM’)
+in the automobile industry for use in and during manufacture
+of motor vehicles. The following are the different supplies as part of
+this arrangement:
+
+- An assembly of ATS, also known as Exhaust Gas Processor
+(‘EGP’), also referred to as ‘Subject Goods’ in this Application
+and
+
+- Other allied components required for operationalizing and
+functioning of the ATS, viz. DEF lines, tank with sensors and the
+supply unit.
+
+Page 3 of 51
+
+
+b. Second-fit/ After-sale market supply - the Applicant supplies
+various parts and components of ATS as well as components such as
+DEF lines, tank with sensors. As the name indicates these are for
+the secondary or after-sales market and is for the purposes of repair,
+replacement, maintenance.
+
+1.5. Brief description about the functionality of ATS and other allied
+components required for operationalizing and functioning of the ATS,
+viz. DEF lines, tank with sensors and the supply unit is provided here:
+
+a. ATS is an equipment used for filtering and purifying the harmful gases
+emitted as a result of combustion of fuel in the engine into harmless
+gases which conform with the emission regulation requirement. The
+ATS converts carbon monoxide (‘CO’) into carbon dioxide (‘CO2’),
+nitrogen Oxides (‘NOx’) into Nitrogen (‘N2’) Water (H2O), and
+carbons into CO2, and traps the residual carbon in the filter.
+
+b. ATS is an assembly comprising the following components:
+
+i. Diesel Oxidized Catalyst ((DOC’) - DOC reduces the particulate
+matter, carbon monoxide and hydrocarbons through the process of
+oxidation.
+
+ii. Diesel Particulate Filter (‘DPF’) - DPF collects particulate matter
+(Soot and Ash) from engine, Soot can be combustible by chemical
+and thermal means and that of Ash is non-combustible.
+
+iii. Selective Catalytic Reduction Catalyst (‘SCR Catalyst’) - SCR
+catalyst converts nitrogen oxide into nitrogen, water, tiny amounts
+of CO2 through chemical reactions
+
+iv. Ammonia Slip Catalyst (‘ASC’) - ASC catalyst converts Non-
+utilized NH3/Urea from SCR catalyst
+
+Page 4 of 51
+
+
+v. Mixer - The primary function of the mixer is to mix Urea with the
+exhaust gases thoroughly in the specified quantity by creating
+turbulence.
+
+vi. Dozing unit - Dozing unit is used to inject the Diesel Exhaust Fluid
+(‘re-agents’) in the pre-defined quantity and at a pre-defined time
+according to the temperature in the EGP as instructed by the
+Electronic Control Unit (‘ECU’)
+
+vii Sensors-Various sensors are used to monitor the temperature/ pressure
+of gases in the ATS/ EGP. Sensors send appropriate signals to the
+ECU to determine the quantity of reagents to be pumped in the
+dozing unit.
+
+c. DEF lines comprise a set or kit of tubes, connectors, couplings, and
+nuts and bolts for transporting the re-agents from the tank to the
+dozing unit at very high pressure.
+
+d. Tank with sensors is a tank to store the re-agents. The re-agents are
+supplied from the tank through the supply unit to the Dozing Unit
+based on the signals received from the ECU.
+
+e. Supply unit pumps the re-agents from the tank to the dozing unit. It is
+a pump with a motor which creates and maintains high pressure for
+continuous supply of re-agents to the dozing unit.
+
+1.6. In case of the first-fit supply, separate purchase orders are placed by OEM
+for supply of:
+
+- ATS (The sample purchase order is attached here with the application);
+
+- Other allied components viz. DEF lines, tank with sensors and supply
+
+unit (The sample purchase order is attached here with the application).
+
+Accordingly, the applicant supplies ATS and other allied components
+
+under separate invoices (corresponding to the separate purchase orders).
+
+Page 5 of 51
+
+
+7:
+
+18.
+
+193
+
+Sample set of separate invoices for ATS and other allied components are
+
+enclosed with the application, respectively.
+
+The following documents and material are relevant for this application:
+
+a. Technical material describing ATS (enclosed with the application)
+
+b. Chartered engineer's certificate which specifies that ATS i.e. assembly
+comprising of DOC, DPF, SCR catalyst, ASC, mixer, dozing unit and
+sensors functions as a filtering or purifying machinery and apparatus
+for gases (enclosed with the application).
+
+This application is to ascertain the classification of ATS/ EGP, supplied
+
+by the Applicant as part of first-fit supply and which is integrated into
+
+and fitted to the exhaust system of the motor vehicles which fall
+
+for classification under Chapter 87 of the Customs Tariff Act, 1975
+
+(‘Customs Tariff Act’), specifically under tariff heading number 8701,
+
+8702, 8703, 8704 and 8705. Such ATS has now become a critical
+
+component of new motor vehicles manufactured after 1 April 2020,
+
+owing to the Bharat Stage VI emission norms with which the motor
+
+vehicles are required to be fitted and manufacturers obliged to comply
+with. It is highlighted that India’s Bharat Stage VI is the equivalent of
+
+Euro VI and in China VI, and so all of these emission standards or norms
+
+are similar.
+
+Classification of ATS, is the issue at hand and it may be covered under
+
+different chapter headings under the Customs Tariff Act, 1975, which is
+
+adopted by the GST Law. Notification No. 1/2017-Central Tax (Rate),
+dated 28th June 2017, amended from time to time, inter alia specifies
+different CGST rates (for equivalent SGST rates Notifications are issued
+by States) for the goods, under different schedules. Similarly,
+Notification No. 1/2017-Integrated Tax (Rate), dated 28thJune 2017
+
+prescribes the IGST rates for goods.
+
+Page 6 of 51
+
+
+1.10. Classification for purposes of GST Law, reverts to the Customs Tariff -
+refer explanation (iii) to the Notification 1/2017- Central Tax (Rate),
+dated 28th June 2017. For the purposes of classification of
+ATS, reproduced here are relevant entries of the Customs Tariff Act, 1975
+under which filtering or purifying machinery and apparatus supplied to
+the automobile OEM is classifiable:
+
+Chapter Description of goods GST rate
+heading (cumulative)
+under the
+
+Customs
+
+Tariff Act
+
+8421 Centrifuges, including centrifugal dryers; | 18%
+
+filtering or purifying = machinery and
+apparatus, for liquids or gases
+
+8708 Parts and accessories of the motor vehicles of | 28%
+headings 8701 to 8705 [other than specified
+parts of tractors]
+
+1.11. As the Applicant will be making supplies of ATS in a new regulatory
+regime (under the revised norms of Bharat Stage and the GST Law), and
+after considering the position in other jurisdictions (global best practices),
+ATS being a filtering or purifying equipment / machinery for gases,
+apparently falls for classification under heading 8421. The Applicant has,
+in the past, classified ATS under Chapter 8708 of the Customs Tariff by
+regarding it as ‘parts of motor vehicles of heading 8701 to 8705’. In view
+of this described ambiguity and so as to ascertain the correct classification
+of ATS the Applicant, by this application for advance ruling, wishes to
+ascertain:
+
+(i) Whether ATS (exhaust after-treatment system) also known as EGP
+(exhaust gas processor), which is a purifying and filtering apparatus
+/ equipment is classifiable under tariff heading 84213990 of the
+
+Page 7 of 51
+
+
+Customs Tariff (as is relevant for GST regime), and consequently for
+GST Law under Serial No. 322 of Schedule III of Notification
+No. 1/2017-Central Tax (Rate) dated 28 June 2017?
+(ii) If ATS cannot be classified under tariff heading 84213990 whether it
+merits classification under tariff heading 8708 of the Indian Customs
+Tariff (as applicable to GST Law)?
+02 STATEMENT CONTAINING APPLICANT'S INTERPRETATION OF LAW
+
+AND/OR FACTS
+2.1. The Applicant supplies exhaust after-treatment system (‘ATS’, also known
+
+as Exhaust Gas Processor (‘EGP’), also referred to as ‘Subject Goods’) and
+other allied components required for operationalizing and functioning of
+the ATS viz. DEF lines, tank with sensors and supply unit, for exhaust
+systems of motor vehicles having medium duty, heavy duty and high
+horsepower engines, as part of first-fit ie. for original manufacture of
+motor vehicles. The Applicant has been classifying the Subject Goods
+under Chapter 8708 by considering these as ‘parts of motor vehicles of
+heading 8701 to 8705’.
+
+2.2. The present application concerns classification of ATS. Applicant refers to
+paragraphs 4 to 8 of Annexure_I, which describes the nature of and
+functionality of ATS, which is an equipment used for filtering and
+purifying the harmful gases emitted as a result of combustion of fuel in the
+engine into harmless gases. The Subject Goods answer to description of
+goods covered under tariff heading 8421 (“Centrifuges, including centrifugal
+dryers; filtering or purifying machinery and apparatus, for liquids or gases”),
+falling under Section XVI of the First Schedule to the Customs Tariff as
+well as tariff heading 8708 (covering Parts and accessories of the motor
+vehicles of headings 8701 to 8705) under Section XVII of the First Schedule
+to the Customs Tariff. The following paragraphs reproduce the relevant
+
+extracts of the notification issued under GST Law, followed by the
+
+Page 8 of 51
+
+
+interpretation of the Applicant of this material, so as to determine the
+classification of the Subject Goods.
+
+2.3. Notification No. 1/2017 Central tax (Rate) dated 28 June 2017 (hereinafter
+referred to as ‘Notification 1/2017’), in Schedule I to VI specifies goods,
+which shall be levied to tax at the rate of 2.5%, 6%, 9%, 14%, 1.5% and
+0.125% respectively. Explanation to Notification 1/2017 provides:
+
+“Explanation. - For the purposes of this notification, -
+
+(iii) “Tariff item”, “sub-heading” “heading” and “Chapter” shall
+mean respectively a tariff item, sub-heading, heading and Chapter as
+specified in the First Schedule to the Customs Tariff Act, 1975 (51 of
+1975).
+
+(iv) The rules for the interpretation of the First Schedule to the
+Customs Tariff Act, 1975 (51 of 1975), including the Section and
+Chapter Notes and the General Explanatory Notes of the
+First Schedule shall, so far as may be, apply to the interpretation of
+this notification.”
+
+2.4. It is clear that the classification for GST rate is entirely based on the
+Customs tariff and in order to determine the rate of GST leviable on any
+goods including ATS, it is first imperative to determine the classification
+of the Subject Goods in terms of Customs Tariff Act, 1975 (‘Customs Tariff
+Act’).
+
+2.5. The Customs Tariff of India is largely aligned with the tariff classification
+in Harmonised Commodity Description of Coding System (‘HSN’)
+provided by the World Customs Organization (‘WCO’). This position is
+amply clear in the judgement in Collector of Central Excise, Shillong vs.
+Wood Craft Products Limited [1995 (77) E.L.T. 23 (S.C.)]. The Rules for the
+Interpretation of the First Schedule to the Customs Tariff Act (‘Rules of
+
+Page 9 of 51
+
+
+Interpretation of Customs Tariff’) lay down the principles
+for classification of the goods. In terms of Rule 1 of the Rules of
+Interpretation of Customs Tariff, classification is required to be
+determined according to the terms of the headings and any
+relevant Section Notes and Chapter Notes. Rule 2 deals with classification
+of incomplete or un-assembled goods and goods having mixtures or
+combination of two or more materials, and Rule 3 provides
+for classification of goods when by application of Rule 2(b) or for any other
+reason, goods are, prima facie, classifiable under two or more headings.
+Further, the Section Notes and Chapter Notes of the Customs Tariff, being
+a part of the Customs Tariff, have binding force and would even have an
+overriding force over the respective headings!. Further, it is imperative to
+note that wherever a Chapter of Customs Tariff is aligned with the
+corresponding Chapter of the HSN, then the explanatory notes in the
+HSN elucidating the scope of that Chapter would have persuasive value
+in determination of scope of headings of corresponding Chapter of the
+Customs Tariff; as per the law declared by the Hon’ble Supreme Court in
+the following judgments:
+
+a. Camlin Limited vs. CCE [2008 (230) E.L.T. 193 (S.C.)]
+
+b. Coen Bharat Limited vs. CCE [2007 (217) E.L.T. 165 (S.C.)]
+
+c. CCE vs. Bakelite Hylam Limited [1997 (91) E.L.T. 13 (S.C.)]
+
+2.6. It emerges that in order to determine the correct classification of ATS,
+reference is to be made to Customs Tariff, Section Notes and Chapter
+Notes forming part of Customs Tariff, along with Rules of Interpretation
+of Customs Tariff, and the explanatory notes to the HSN. These have been
+reproduced and analysed in the ensuing paragraphs, along with relevant
+judicial precedents on issue.
+
+2.7. The Applicant first submits that ATS being a purifying and filtering
+equipment Section XVI and Chapter heading 8421 are relevant. Section
+
+Page 10 of 51
+
+
+2.8.
+
+XVI of the Customs Tariff covers ‘Machinery and mechanical appliances;
+electrical equipment; parts thereof; sound recorders and reproducers, television
+image and sound recorders and reproducers, and parts and accessories of stich
+articles’, and, Chapter heading 8421 covers ‘Centrifuges, including centrifugal
+dryers; filtering or purifying machinery and apparatus, for liquids or gases’
+
+The relevant explanatory notes to the HSN for Chapter heading 8421 are
+reproduced below:
+
+“Part II - Filtering or purifying machinery and apparatus, for liquids and gases
+Much of the filtration or purification plant of this heading is purely static
+equipment with no moving parts. The heading covers filters and purifiers of all
+types (pliysical or mechanical, chemical, magnetic, electro-magnetic, electrostatic
+
+etc.). The heading covers not only large industrial plants but also filers for internal
+
+combustion engines and small domestic_appliances. The heading does not,
+
+however, include filter funnels, milk strainers, vessels, tanks etc., simply equipped
+with metallic gauze or other straining material, nor general purpose vessels, tanks
+etc., even if intended for use as filters after insertion of a level of gravel, sand,
+charcoal etc.
+
+In_general, filtering machinery and plant of this heading is of two distinct
+
+types according to whether it is intended for liquids or gases.
+
+(A) Filtering and Purifying machinery, etc. for liquids, including
+
+water softeners
+
+(B) Filtering and Purifying machinery, etc. for gases
+
+These gas filters or purifiers are used to separate solid or liquid particles from
+
+gases either to recover products of value (e.g. coal dust, metallic particles etc.
+
+recovered from furnace flue gases or to eliminate harmful materials (e.g. dust
+
+extraction, removal of tar etc., from gases or smoke fumes, removal of oil from
+
+steam engine vapours).
+They include:
+
+Page 11 of 51
+
+
+4. Other chemical filters or purifiers for_air_or other gases (including
+
+catalytic converters which change carbon monoxide in the exhaust gases
+
+of motor vehiicles).”
+2.9. The Subject Goods, ie. filtering and purifying equipment are fitted to the
+
+exhaust system of the motor vehicles. The principal and solitary function
+of the Subject Goods is to filter and purify the various including harmful
+gases emitted during the combustion of fuel in a vehicle’s engine. The ATS
+converts carbon monoxide (‘CO’) into carbon dioxide (‘CO2’), nitrogen
+oxides (“NOx’) into Nitrogen (‘N2’) Water (H2O), and carbons into CO2,
+and traps the residual carbon in the filter. In this regard, the common
+parlance nomenclature is therefore exhaust gas processing equipment. It
+is useful to record here that the ATS is designed for this purpose, i.e. for
+end-use and application in filtering and purifying of gases. These factual
+aspects of the ATS are explained in detail in paragraph 5 of the Annexure
+I and are certified by a chartered engineer in his capacity of technical
+expertise, refer certificate enclosed with this application.
+
+2.10. In the present case, based especially on the description and functionality
+or application of the Subject Goods it can be said to be specifically covered
+under tariff heading 8421 ice. filtering and purifying machinery, etc. for gases.
+Upon an application of Rule 3(a) of the Rules of Interpretation of
+Customs Tariff - that goods shall be classified under heading which
+
+provides the most specific description rather than under heading which
+
+provides general description - it can be said that the Subject Goods
+
+should not be classified under tariff heading 8708 (covering parts and
+accessories of the motor vehicles of headings 8701 to 8705). In support, the
+
+Applicant places reliance on the following judgements:
+
+Page 12 of 51
+
+
+a. Speedway Rubber Company vs. Commissioner of Central Excise
+[2002 (143) E.L.T. 8 (S.C.)]
+
+b. Pioneer Industries vs. Commissioner of Central Excise and Service
+Tax [2017 (6) G.S.T.L. 491 (Tri. -Ahmedabad)]
+
+c. Aarti Drugs Limited vs. Commissioner of Central Excise [2015 (324)
+E.L.T. 594 (Tri. - Mumbai)]
+
+2.11. Section XVII of the Customs Tariff covers ‘Vehicles, aircraft, vessels and
+associated transport equipment’. Chapter 87 of the Customs tariff (forming
+part of Section XVII) covers ‘Vehicles other than railway or tramway
+rolling-stock, and parts and accessories thereof’ and Chapter heading
+8708 of Customs Tariff covers ‘Parts and accessories of the motor vehicles
+of headings 8701 to 8705’. The
+
+Section Notes (2 and 3) are reproduced here:
+“2. The expressions “parts” and “parts and accessories” do not apply to the
+
+following articles, whether or not they are identifiable as for the goods of this
+
+Section:
+
+(e) machines and apparatus of headings 8401 to 8479, or parts thereof, other
+
+than the radiators for the articles of this Section, articles of heading 8481 or
+8482 or, provided they constitute integral parts of engines and motors, articles
+of heading 8483;
+
+Page 13 of 51
+
+
+)
+
+3. References in Chapters 86 to 88 to “parts” or “accessories” do not apply to
+
+parts or accessories which_are not suitable for use solely or principally with
+
+the articles of those Chapters. A part or accessory wltich answer to a
+
+description in two or more of the headings of those Chapters is to be classified
+under that heading which corresponds to the principal use of that part of
+accessory.”
+The above Section Notes, especially Note 2 of Section XVII of the Customs
+Tariff, excludes certain parts and accessories from within its scope and
+thus being classified under Chapter 86 to 88. Section Note 2(e) particularly
+stipulates that ‘parts’ and ‘parts and accessories’ which are machines
+and apparatus of headings 8401 to 8479, even if are identifiable as goods
+of Section XVII, will be excluded from being classified under this
+Section. Further, Section Note 3 of Section XVII of the Customs Tariff
+stipulates that in order to qualify as a ‘part’ or ‘accessory’ of goods of this
+section (XVII, and Chapters within this section), the article shall be
+suitable for use solely or principally with the goods of Chapter 86 to 88.
+2.12. On conjoint reading of Section Notes 2 and 3 of Section XVII, it is evident
+that certain articles are excluded from being considered as parts of goods
+under Chapter 86 to 88. Articles which are not excluded by the virtue of
+Section Note 2, can qualify to be a ‘part’ or ‘accessory’ only if it is
+suitable for use solely or principally with the goods of Section XVII. It
+should be noticed that the construct of the Section Notes is such that in
+order to apply Section Note 3 to any goods, it is essential that the
+goods should not be excluded from Section Note 2 of Section XVII, and
+so only after it is ensured that a given part is not excluded by virtue of
+Section Note 2 that the tests as to usage ‘solely’ or ‘principally’ as
+provided for in Section Note 3 can be applied to a given case. This
+
+approach to classification has been explained in the advance ruling by
+
+Page 14 of 51
+
+
+this Hon’ble Authority in re. Parker Hannifin India Private Limited,
+Order No. KAR/AAAR/07/ 2019-20 dated 10 January 2020.
+
+2.13. We turn to the HSN and reproduced here are the explanatory notes to
+HSN (Section XVII), which will elucidate the scope and ambit of Section
+XVII of the Customs Tariff:
+
+“(III) PARTS AND ACCESSORIES
+
+It should be noted that Chapter 89 makes no provision for parts (other than
+hulls) or accessories of slips, boats or floating structures. Such parts and
+accessories, even if identifiable as being for ships, etc., are therefore classified
+in other Chapters in their respective headings. The other Chapters of this
+Section each provide for the classification of parts and accessories of the
+vehicles, aircraft or equipment concerned.
+
+It should, however, be noted that these headings apply only to those parts
+
+or_accessories whtich comply with all three of the following
+
+conditions:
+
+(a) They must not be excluded by the terms of Note 2 to this Section [See
+
+paragraph (A) below] and
+
+(b) They must be suitable for use solely or principally with the articles of
+
+Chapters 86 to 88 [see paragraph _(B) below] and
+
+(c) They must not be specifically included elsewhere in the Nomenclature [see
+
+paragraph (C)].”
+
+2.14. Explanatory notes to Section XVII including paragraphs A and B (of the
+HSN), referred to at point (a) and (b) above are enclosed with this
+application.
+
+2.15. A plain and literal reading of the explanatory notes in Section XVII of the
+HSN reveals that in order for any goods to be covered under Section
+XVII, the first condition is that such goods shall not be excluded by virtue
+of Note 2 of Section XVII and then the goods must be suitable for use
+
+solely or principally with articles of Chapters 86 to 88. As mentioned
+
+Page 15 of 51
+
+
+previously that the Indian Customs Tariff is modelled on the HSN, and
+thus the explanatory notes offer definitive guidance and are of persuasive
+value that deserve to be followed in the matter of classification of
+goods - see judgements in Camlin Limited vs. CCE [2008 (230) E.L.T. 193
+(S.C.)], Coen Bharat Limited vs. CCE [2007 (217) E.L.T. 165 (S.C.)] and
+CCE vs. Bakelite Hylam Limited [1997 (91) E.L.T. 13 (S.C.)].In short, for
+the present facts and application, applying the rationale set out in the
+explanatory notes to the HSN, the Subject Goods do not deserve to be
+classified under Section XVII. It is also apposite to notice that Section
+Notes of the Indian Customs Tariff have a near-identical phraseology as
+the HSN, and as per Section Note 2(e) it specifically excludes machines
+
+and apparatus of headings 8401 to 8479, or parts thereof. In the present
+
+case, the Subject Goods being filtering and purifying equipment finds
+appropriate classification in Chapter heading 8421 ie. filtering and
+purifying machinery, etc. for gases and hence the same merits exclusion
+from being classified as goods of Section XVII and instead classified
+under Section XVI.
+
+2.16. In present facts, ATS is tailor-made to the specifications / design so as to
+be fitted to a given motor vehicle engine, and then deployed for emission
+purposes. Each type of motor vehicle engine has a unique shape and
+technical specifications and so the ATS is uniquely designed to achieve
+perfect fitting with the motor vehicle engine and moreover optimal
+functionality with minimal or nil side-effects or recoil. The Subject Goods
+are thus required to be manufactured according to the specifications/
+design provided by the OEM, although from a purely functionality
+aspect a typical ATS could be remodeled, redesigned and re-engineered
+to be deployed elsewhere than the internal combustion engine of
+
+motor vehicle it was intended for. The function of the Subject Goods is
+
+Page 16 of 51
+
+
+filtering and purify the harmful gases emitted during combustion of fuel
+in a motor vehicle’s engine and this is certified by a chartered engineer's
+certificate enclosed with this application. Accordingly, an ATS as an
+apparatus may be used in any engine (for example generator engine)
+with suitable alterations and modifications. At this stage, it may be
+important to consider meaning of terms ‘solely’ and ‘principally’. The
+dictionary meaning of these terms is reproduced here:
+
+- ‘Solely’: ‘to the exclusion of all else’
+
+- ‘Principally’: ‘for the most part; chiefly; mainly’
+
+It therefore emerges that in order for a product to be covered in Section
+XVII the same must be capable of use only with articles of Chapters 86 to
+88. However, as mentioned earlier ATS as an apparatus may be used in
+articles other than those covered in Chapter 86 to 88 (for example
+generator engine covered under Chapter 84). As a result, the Subject
+Goods do not meet the requirement of Note 3 of Section XVI, and cannot
+be classified under Section XVII, Chapter 87. Here, and in support of this
+conclusion it is important to recall the manner in which the explanatory
+notes to Section XVII are worded - in the cumulative manner - and be
+guided by it. Further, the third condition in explanatory notes to HSN
+is that ‘goods should not be specifically included elsewhere in the
+nomenclature’. In present case, ATS are more specifically included in
+Chapter heading 8421 i.e. filtering and purifying machinery, etc. for gases
+- from a functional or user perspective - thus do not deserve to be
+classified under Chapter 87. In view of these analysis, it can be
+summarised that none of the conditions prescribed under the Explanatory
+Notes are fulfilled by ATS, hence the same cannot be covered under
+Section XVII and thereby under Chapter 87.
+
+Page 17 of 51
+
+
+2.17. The Applicant refers to the judgement in Intel Design Systems (India)
+Private Limited vs. CC and CE [2008 (223) E.L.T 135 (S.C.)] which dealt
+with a similar issue. The Hon'ble Supreme Court declared the law that
+goods in question i.e. Contractors, switches, control box even if used solely
+or principally with armoured vehicles of Heading 8710, are specifically
+covered under sub-heading 8536.90, hence fall under category of excluded
+goods under the Section Notes to Section XVII. The relevant extract is
+reproduced as follows:
+
+“S. As per the Explanatory Notes to HSN the parts falling under Chapter
+Heading 8710 would be covered under the said Chapter, provided they fulfill
+both the conditions i.e. they must be identifiable as being suitable for use
+solely or principally for such velticles and that they must not be excluded by
+the provisions of Notes to Section XVII. The identifiable parts under the
+said heading bodies of armoured vehicles and parts thereof, cover special road
+wheels for armoured cars, propulsion wheels for tanks, tracts etc. As per this
+requirement, the goods should not only be identifiable to be armoured
+veliicles, but it should so not have been excluded by Notes to Section XVII.
+The Chapter note 2(f) excludes electrical machinery and equipment falling
+under Chapter 85. Explanatory Notes to HSN relating to the parts and
+accessories excluded by Note 2 specify items with reference to specific Chapter
+Heading as per (7) (a), (k) which excludes photographs and other current
+collectors for electric traction vehicles, filses, switches and other
+electric apparatus of Heading No. 85.35 or 85.36. The items, therefore,
+manufactured by the appellants are identifiable or are in the nature of goods
+falling under Chapter Heading 85.36. Since these falls under the category of
+excluded goods under Chapter Notes, even though they are used
+specifically solely or principally with the armoured vehicles of Chapter
+Heading 8710, they are classifiable under Chapter Heading 8536.90 only as
+held by the adjudicating authority.”
+
+Page 18 of 51
+
+
+2.18. The Applicant refers to the decision in CCE vs. Cummins India Limited
+[2003 (156) E.L.T 98 (Tri. - Mumbai)] wherein, fuel filters were classified
+under Chapter heading 8421 and not under Chapter heading 8708 by
+application of Note 2(e) of Section XVII of the Customs Tariff. The
+relevant extract is reproduced for ease of reference:
+
+“3. We do not find it possible to accept the classification put forth by the
+department. Heading 84.09 is for parts suitable for use solely or principally
+with the engines of Heading 84.07 or Heading 84.08 (Spark-ignition internal
+combustion piston engines and diesel and semi designed engines). We shall
+consider each of the items. The supercharger is nothing more than a pump. It
+is fitted to internal combustion engines with the object of blowing air under
+pressure into the inlet manifold of the engine. The object of this is to enable
+greater power to be produced by the engine. The McGraw-Hill Dictionary of
+Scientific and Technical Terms defines supercharger to be “An air pump or
+blower in the intake system of an internal combustion engine used to increase
+the weight of air charge and consequent power output from a given engine
+size.” It is, therefore, correctly classifiable as an air pump in Heading 84.14.
+The fuel injection system supplied by the respondent consists of the fuel pump
+including booster puntp, high pressure pipes and injection assembly. There is
+not a separate heading in the tariff for fuel injection equipment; the component
+of this system will have to be classified separately on merits. The items such
+as fuel pump etc. which are separately classifiable in other heading of
+this Chapter will be excluded from this Chapter by application of Note
+2(e) to this Chapter. Thus fuel pumps would be classifiable in Heading
+84.13, fuel filter in Heading 84.21.”
+
+2.19. Similarly, in Bosch Limited vs. CCE [2010 (250) E.L.T 273 (Tri. -
+Bangalore)], goods classifiable under Chapter 84 were excluded from
+
+being classified under Chapter heading 8708, irrespective of
+
+Page 19 of 51
+
+
+their application for vehicular use. The relevant extract is reproduced
+here:
+
+“5.5 As regards the classification of the project, the Commissioner (Appeals)
+las stated in para 10 of the impugned order that nozzle and nozzle holders
+being part of Injector, which is a part of internal combustion engine
+are squarely covered by Chapter Heading 84.09 of Schedule to Central
+Excise Tariff Act, 1985 irrespective of their application whether for
+vehicular use or non-vehicular use. In the present appeal, as the period is
+subsequent to the introduction of CETA, 1985, he has stated that there is no
+need for examination of the classification of the goods for the earlier period.
+This is acceptable. Moreover, the appellants have not agitated this issue...”
+
+2.20. On the basis of the referred judgements in the context of the Customs and
+Central Excise law, the ratio of which is untainted, and deserves to be
+followed in construing the tariff line items in the GST law since it is
+borrowed from rather based on the Customs law, the indubitable
+conclusion is that the Subject Goods are appropriately classifiable under
+tariff heading 8421 of the Indian Customs Tariff and GST notifications.
+Noticeably, in each of the referred judgements the issue at hand was
+whether the goods in question were to be classified under a specific tariff
+hearing or with reference to tariff heading falling within ambit of Section
+XVII, more particularly Chapter 87 (vehicles).
+
+2.21. The Applicant, in support of its interpretation and view refers to the
+advance ruling by the Karnataka State Appellate Authority of Advance
+Ruling in re. Parker Hannifin India Private Limited [Order No.
+KAR/AAAR/07/ 2019-20], wherein it was concluded that notes to Section
+XVII specifically carve out an exclusion for goods covered under Chapter
+Heading 8401 to 8479 and “filters” would fall for classification under
+
+Chapter Heading 8421. The relevant extract is as follows
+
+Page 20 of 51
+
+
+“11. The Appellant has argued that Note 2(e) to Section XVII is generic
+
+in nature and primacy should be given to Section Note 3 to Section XVII
+
+which determines the classification based on sole and principal use. We
+
+have gone through Note 3 to Section XVII which states that, the references
+
+in Chapter 86 to 88 to ‘parts’ or ‘accessories’ which are not suitable for use
+
+solely or principally with the articles of those Chapters. It is the claim of
+
+the Appellant that the reference to ‘Parts’ in Chapter Heading 86.07
+
+applies only to those parts which are suitable for use solely or principally
+
+with railway locomotives and since the subject Filters manufactured by
+
+them are solely and principally for the railways, the provisions of Note 3
+
+to Section XVII would squarely apply. This argument is not acceptable.
+
+12. On a conjoint reading of Section Notes 2 and 3 to Section XVII, what
+emerges that:
+
+a) Section Note 2 to Section XVII excludes certain items mentioned at (a) to
+(l) from being covered under Section XVII as ‘parts’ or ‘parts and
+accessories’ even though they are identifiable as being for the goods under
+the Chapters of this Section. Note 2(e) excludes machines and apparatus
+of heading 8401 to 8479 from being considered as ‘parts’ or ‘parts and
+accessories.
+
+b) Section Note 3 to Section XVII states that the references in
+Chapters 86 to 88 to ‘parts’ or ‘accessories’ applies only to those parts
+and accessories which are used solely and principally with the articles
+of those Chapters. In the case of Chapter Heading 86.07 -
+
+“Parts of railway locomotives”, the reference to ‘parts will apply only
+to those parts which are used solely and principally with the railway
+locomotives.
+
+It is evident from the above Section Notes that certain articles are excluded
+from being considered as parts of goods under the Chapters of this Section,
+by virtue of Note 2. Articles which are not excluded by virtue of Note 2,
+can qualify to be a ‘part’ or ‘accessory’ only if it is suitable for use solely
+or principally with the goods of this Section. In other words, in order to
+apply the principle of Note 3 to Section XVII while classifying a ‘part’, it
+is essential that said items should not be excluded from Section XVII by
+virtue Note 2. Only after it is ensured that the ‘part’ is not excluded by
+Note 2, can thie ‘sole and principal use’ concept in Note 3 be applied. The
+Final test for classifying apart under Section XVII will no doubt be on the
+basis of the ole and principal use with the goods of the Chapters in the said
+Section. However, the contention of the Appellant that Note 2 contradicts
+
+Page 21 of 51
+
+
+the specific test of ‘sole and principal use’ laid down by Note 3 and hence
+Note 3 is to be given primacy over Note 2 in not a correct interpretation.
+There is no contradiction between Section Notes 2 and 3 to Section XVII.
+The test laid down in Note 3 is to be applied only after it is ensured that
+the article is not excluded by virtue of Note 2. Section Notes 2 and 3 are
+to be read harmoniously in sequential order. Section Note 3 cannot be
+read in isolation or accorded primacy as contended by the Appellant.”
+2.22. Similarly, in re. Hyva India Private Limited [2019 (27) G.S.T.L. 85
+
+(A.A.R.- GST)], this Hon’ble Authority held that the hydraulic kits are
+
+appropriately classifiable as ‘other engines and motors’ under Chapter
+Heading 8412 even if supplied to be fitted to tippers and dumpers
+classifiable under Chapter 87. The relevant extract of the advance ruling,
+is reproduced below:
+
+“From the submissions made by the applicant we find that, in the case of sale
+of Hydraulic Kits to OEMs, we agree with their submissions that their
+product falls under Chapter Heading 8412 of the Customs Tariff under the
+description “Other Engines and Motors” in view of the Explanatory Note to
+Heading 8412 and Note 4 to Section XVI which are mentioned below......
+
+A doubt may arise that since the ‘lrydraulic kit’ being fitted to a motor veliicle
+could merit classification as part of motor vehicle. However, this doubt gets
+cleared by exclusions provided in the Explanatory notes to Section XVII and
+Heading 8708, 8714 and 8716 which relate to the classification of parts of
+different kinds of motor vehicles. The Explanatory Notes to Headings 8708,
+8714 and 8716 are stated below.....
+
+In the present case, the Hydraulic Kit is used on bodies/platform, detaching
+sides, tipper bodies falling under Chapter Heading No. 8709 as well as for
+other trailers for transport of goods suchas agricultural, public works etc.,
+
+trailer (whether or not tipper) falling under Heading No. 8716. Thus, it is
+
+clear that the product in question i.e. Hydraulic Kit is not satisfying the
+
+condition No. (b) Mentioned in above. In other words, Hydraulic Kit is not
+
+suitable for use solely or principally with the motor vehicles.
+
+Page 22 of 51
+
+
+Further, we are in agreement with the applicant's submission that the
+
+Hydraulic Kit is specifically excluded_by Note 2(e) to Section 17 which
+
+provides that the expression “parts” and “parts and accessories” do not apply
+
+to machines or apparatus of Heading 8401 to 8479 or parts thereof, other than
+
+radiators or articles of Section 8481 or 8482 or provide constituting integral
+
+parts for engines or articles of Heading 8483, whether or not they are
+
+identifiable as goods as per the goods of this section. In the present case, the
+
+product in question ‘hydraulic ——cylindersfydraulic _ kits’
+is squarely/specifically covered under Heading No. 84.12 and hence the
+condition (a) mentioned above stands not satisfied in the present case.
+As discussed above, it is clear that Hydraulic Kit is more specifically included
+in Heading No. 84.12 and is more specifically covered under said heading.
+Thus, the Hydraulic Kit does not satisfy the condition (c) mentioned above.
+Therefore, we clearly find that all the 3 conditions mentioned in Heading No.
+8708, 8714 and 8716 are not satisfied in the present case and hence, the
+product in question i.e. Hydraulic Kit will not be covered under Headings
+No. 8708, 8714 and 8716.
+In view of the foregoing the hydraulic kits are appropriately classifiable under
+Heading 8412 by application of HSN Explanatory Notes to Headings 8412,
+8708, 8714 and 8716 and Section Note 4 to Section XVI and Exclusion Note
+2 to Section XVII.”
+Conclusions
+2.23. The Subject Goods are designed for and meant for filtering and purifying
+the harmful gases emitted as a result of combustion of fuel in the engine
+into harmless gases which conform with the emission regulation
+requirement and supplied accordingly.
+2.24. In view of the above facts and provisions, Applicant submits that the
+Subject Goods are excluded fromand so cannot be classified under
+
+Section XVII of the Customs Tariff (as is relevant for GST regime),
+
+Page 23 of 51
+
+
+especially due to Note 2(e) read with Note 3 to Section XVII of the
+Customs Tariff.
+
+2.25. The Applicant also submits that for any goods to be classified under
+Chapters 86 to 88 all three conditions stated as at paragraph 14 (a), (b)
+and (c) above must be satisfied, however since ATS does not meet these
+conditions, it cannot merit classification under tariff heading 8708.
+
+2.26. Hence, the Applicant submits that ATS are appropriately classifiable
+under tariff heading 8421 of the Indian Customs Tariff and consequently
+serial no. 322 of Schedule III of Notification No. 1/2017- Central Tax
+(Rate).
+
+2.27. In view of the described interpretation and analysis, ATS is supplied to
+OEM’s in automobile industry and used in / fitted to a motor vehicle
+engine it being a filtering and purifying machinery (of gases), it falls for
+classification under tariff heading 8421, and so merits GST at cumulative
+rate of 18% GST, in terms of Schedule III of Notification No. 01/2017-
+Central Tax (Rate).
+
+Additional Submission dated 15.04.2025
+
+2.28 The Applicant-Company is inter alia engaged in manufacture and supply
+of exhaust after-treatment system ("ATS"), also known as Exhaust Gas
+Processor ("EGP") for motor vehicles/ automobiles having medium duty,
+heavy duty and high horsepower engines. These activities are
+undertaken as a part of the Cummins Emission Solutions division.
+
+2.29 ATS is an equipment used for filtering and purifying harmful gases
+emitted as a result of combustion of fuel in the engine into harmless gases
+which conform with the emission regulation requirement. ATS converts
+carbon monoxide (CO) into carbon dioxide (CO2), nitrogen oxides (NOx)
+into Nitrogen (N2) and Water (H2O), and carbons into CO2, and traps
+
+the residual carbon in the filter. This process and therefore equipment is
+
+Page 24 of 51
+
+
+now mandatory for vehicles manufactured in India, in terms of the Bharat
+Stage ("BS") VI standard concerning emission norms.
+
+2.30 ATS, typically comprises- diesel oxidised catalyst (“DOC”), diesel
+particulate filter ('DFP'), dozing unit, mixer etc. ATS draws diesel exhaust
+fluid, ammonia from the tank and via the supply unit delivers it to the
+dozing unit to complete the conversion process. A chartered engineer's
+certificate specifying that ATS functions as a filtering or purifying
+equipment and apparatus for gases, was submitted along with the
+application as Exhibit F thereto.
+
+ATS Variants - Clarification on various customer requirements
+
+2.31 The Applicant supplies ATS in different variants which have been
+designed keeping in mind various requirements of customers.
+
+2.32 Here it is useful to note that courts have consistently held and the CBIC
+Instruction No. 01/2022-Customs clarifies that classification of goods
+must be based on the product's intrinsic character and not its end-use or
+customer-specific application. Hence, end-use being designed for a
+specific vehicle make or model (which in fact, is not), will not have a
+bearing on the classification of the product.
+
+II The issue
+
+2.33 Since ATS is filtering or purifying equipment for gases, it falls for
+classification under tariff heading 8421 (Chapter heading 8421 covers
+‘Centrifuges, including centrifugal dryers; filtering or purifying
+machinery and apparatus, for liquids or Effective from January 2022, ATS
+falls for gases') of the Customs Tariff. classification under tariff item
+84213200, which has the description as "catalytic converters or particulate
+filters, whether or not combined, for purifying or filtering exhaust gases
+from intern combustion engines”. On the other hand, since ATS finds
+
+application in the exhaust system of the motor vehicles, it may be
+
+Page 25 of 51
+
+
+classified under the customs tariff heading 8708 of the Customs Tariff,
+
+which covers ‘parts of motor vehicles of heading 8701 to 8705'.
+
+Previously, the Company classified ATS under tariff heading 8708
+
+however, owing to these competing entries and resultant ambiguity as to
+
+the appropriate classification of ATS, the application was filed with the
+following questions:
+
+(i) Whether ATS (exhaust after-treatment system) also known as EGP
+(exhaust gas processor), which is a purifying and filtering apparatus /
+equipment is classifiable under tariff heading 84213990 of the Customs
+Tariff (as is relevant for GST regime), and consequently for GST Law
+under Serial No. 322 of Schedule III of Notification No. 1/2017-Central
+Tax (Rate) dated 28 June 2017?
+
+(ii) If ATS cannot be classified under tariff heading 84213990 whether it
+merits classification under tariff heading 8708 of the Indian Customs
+Tariff (as applicable to GST Law)?
+
+Ill. Classification of ATS under the Customs Tariff and GST rate
+notifications
+
+2.34 Classification for GST is based on the Customs Tariff especially, in view
+of Explanation (iii) and (iv) appended to Notification No. 1/2017-Central
+Tax (Rate) dated 28 June 2017 therefore, in order to determine the rate of
+GST leviable on any goods including ATS, it is imperative to first
+determine the classification of the goods in terms of Customs Tariff Act,
+1975 (‘Customs Tariff Act').
+
+2.35 In order to determine the correct classification of ATS, reference is to be
+made to Customs Tariff, Section Notes and Chapter Notes forming part
+of Customs Tariff, along with Rules of Interpretation of Customs Tariff,
+and the explanatory notes to the HSN.
+
+ATS is classifiable under chapter heading 8421
+
+Page 26 of 51
+
+
+2.36 ATS being a purifying and filtering equipment, Section XVI and Chapter
+heading 8421 of the Indian Customs Tariff are relevant. Section XVI of
+the Customs Tariff covers 'Macliinery and mechanical appliances;
+electrical equipment; parts thereof; sound recorders and reproducers,
+television image and sound recorders and reproducers, and parts and
+accessories of such articles', and Chapter heading 8421 covers Centrifuges
+including centrifugal dryers: filtering or purifying machinery and
+apparatus, for liquids or gases’.
+
+2.37 ATS is fitted to the exhaust system of the motor vehicles and, its solitary
+function is to filter and purify harmful gases emitted during the
+combustion of fuel in a vehicle's engine by converting it into harmless
+gases, a is required by the BS VI norms. It is for this reason that the
+common parlance nomenclature of ATS is ‘exhaust gas processing
+equipment’. Sample invoices of ATS, as attached to this synopsis as
+Exhibit 1. Based on this description, functionality and application of ATS,
+it emerges that it is specifically covered under tariff heading 8421 i.e.
+filtering and purifying machinery, etc. for gases.
+
+2.38. In support of this submission that the ATS or EGP falls within tariff
+heading 8421, the Applicant attaches as Exhibit 2 to this synopsis, the
+HSN Explanatory Notes, which it is well settled' are to be considered,
+followed and applied in matters of classification under the Customs
+Tariff of India.
+
+Amendments in Custom Tariff effective from January 01, 2022
+
+2.39. Several changes were brought into Customs Tariff, in order to align the
+same with new (seventh) edition of the Harmonized System
+Nomenclature (i.e. HS 2022). As a part of these amendments, a number
+of specific entries were incorporated in the tariff to cover goods which
+
+were otherwise being classified under residual entries.
+
+Page 27 of 51
+
+
+2.40. Relevantly, amendments have been made in chapter heading 8421,
+wherein a specific tariff item 84213200 has been incorporated to cover
+'Catalytic_converters_or particulate filters, whether or not combined, for
+purifying or filtering exhaust gases from internal combustion engines.
+Relevant extracts of the Customs Tariff before and after the aforesaid
+changes are enclosed as Exhibit 3. ATS being a filter for purifying gases
+(resulting) from internal combustion engines squarely answers to the
+description in customs tariff item 84213200.
+
+2.41 The Applicant refers to the CBIC's guidance note which provides
+correlation between the Tariffs at the eight-digit level documenting the
+manner in which the commodities covered by Tariff of 2021 have been
+accommodated in the Tariff of 2022. The relevant extract of this note is
+enclosed as Exhibit 4. On perusal of this guidance note, it can be safely
+said that goods previously classified under 84213990 are now specifically
+covered under 84213200. This amendment to the tariff reveals the
+legislative intent to classify such apparatus under 8421, thereby
+validating the Applicant's position that ATS or EGP falls for classification
+under tariff item 84213200.
+
+ATS or EGP cannot be classified under tariff heading 8708, based on the
+three- pronged test
+
+2.42 It is a well settled legal position that Section Notes and Chapter Notes
+are an integral part of the law and are binding2, thus in matters of
+classification these are to be applied with full vigour. It is also useful to
+notice that Rule 1 of the "General rules for the interpretation of the
+Schedule" stipulates that "for legal purposes classification shill be
+determined according to the terms of the headings and any relative Section
+
+or Chapter Notes and..."
+
+Page 28 of 51
+
+
+2.43 Section XVII of the Customs Tariff covers 'Vehicles, aircraft, vessels and
+associated transport equipment'. Chapter 87 of the Customs Tariff covers
+motor vehicles and parts thereof and Heading 8708 covers "parts and
+accessories of motor vehicles of headings 8701 to 8705". For the present
+case, Notes 2 and 3 to Section XVII of the Customs Tariff are applicable
+and prescribe a three-pronged test for a commodity to be classified under
+
+the chapters (including 87) of Section XVII of the Customs Tariff.
+
+2.44 In terms of Note 2 to Section XVII, the expressions "parts" and "parts and
+accessories" do not apply to machines and apparatus of headings 8401
+to 8479, or parts thereof. Further, in terms of Note 3 to Section XVII
+references in Chapters 86 to 88 to "parts" or "accessories" do not apply to
+parts or accessories which are not suitable for use solely or principally
+with the articles of those Chapters.
+
+2.45 On conjoint reading of Section Notes 2 and 3 above, certain articles are
+excluded from being considered as parts of goods under Chapter 86 to 88
+(Section XVII). Articles which are not excluded due to Section Note 2,
+can qualify to be a 'part' or 'accessory' only if it is suitable for use solely
+or principally with the goods of Section XVII. It should be noticed that
+the construct of the Section Notes is such that in order to apply Section
+Note 3 to any goods, it is essential that the goods should not be excluded
+from Section Note 2 of Section XVII, and so only after it is ensured that a
+given part is not excluded by virtue of Section Note 2 that the tests as to
+usage 'solely' or 'principally' as provided for in Section Note 3 can be
+applied. In para. 5 of the Apex Court's decision in Intel Design Systems
+(India) Pvt. Ltd. vs. CC&CE. [2008 (223) E.L.T. 135 (S.C.)], in the context
+of classification of electrical machinery and equipment for use in tanks
+and other armoured and motorised fighting vehicles it was held "As per
+
+the Explanatory Notes to HSN the parts falling under Chapter Heading
+
+Page 29 of 51
+
+
+8710 would be covered under the said chapter, provided they fulfill both the
+conditions i.e. they must be identifiable as being suitable for use solely or
+principally for such vehicles and that they must not be excluded by the
+provisions of Notes to Section XVII.". This approach to classification has
+been explained and endorsed in the GST advance ruling in Parker
+Hannifin India Private Limited, Order No. KAR/ AAAR/07/2019-20.
+
+2.46 In present case, ATS is excluded from Section XVII by virtue of Note 2(e)3,
+Whereas, in the context of Section Note 3 and the "use solely or
+principally" test it is apposite to appreciate that ATS as an equipment
+may functionally be used in any engine, for example a generator engine,
+with suitable alterations and modifications; accordingly, it cannot be said
+that ATS is a part suitable solely and principally for use in an automobile.
+Therefore, ATS is cast out of Section XVII owing to Section Note2(e) and,
+it does not meet the requirement of Note 3 of Section XVII as well, hence
+it is not capable of classification under Section XVII and any of the
+chapters thereunder.
+
+2.47 Support to the submissions that classification of ATS cannot be made
+under Chapter heading 8708, is available by reference to the pertinent
+judgments in the case of:
+
+- Intel Design Systems (India) Private Limited vs. CC and CE [2008 (223)
+
+E.L.T 135 (S.C.)]
+
+- CCE vs. Cummins India Limited [2003 (156) E.L.T 98 (Tri. - Mumbai)]
+
+2.48 In ascertaining the classification of ATS or EGP, the conclusion and ratio
+of the Supreme Court's decision in CCE Delhi vs. Uni Products Ltd. [2020
+(372) E.L.T. 465 (S.C.)] is wholly germane to the matter at hand. In para.
+26, it has been held that "We accept this finding of the Tribunal. Onice the
+subject goods are found to come within the ambit of that sub-heading, for the
+
+sole reason that they are exclusively made for cars and not for "lome use" (in
+
+Page 30 of 51
+
+
+broad terms), those goods cannot be transplanted to the residual entry against
+the Heading 8708." In the present case, since the subject goods fall within
+the ambit of chapter heading 8421, assuming without admitting that the
+ATS was designed solely for use in motor vehicles, it cannot be brought
+out of tariff heading 8421 and classified under tariff hearing 8708; it is
+submitted classification of ATS or EGP under tariff hearing 8708, will be
+in the teeth of the binding judgement in case of CCE Delhi vs. Uni
+Products Ltd. [2020 (372) E.L.T. 465 (S.C.)].
+
+2.49 It is apposite that the HSN Explanatory Notes, which are to be followed
+in matters of classification, in respect of Section XVII (in part III
+concerning "Parts and accessories") provides the three-pronged test to be
+satisfied for any article to be classified under Section XVII and chapter
+87. The third condition (clause c) in the Explanatory Notes to HSN is that
+‘goods should not be specifically included elsewhere in the
+nomenclature'. Here, the judgment of the Supreme Court in CCE Delhi
+vs. Uni Products Ltd. [2020 (372) E.L.T. 465 (S.C.)] is instructive, since it
+recognised and endorsed the three-layer test - refer para. 8 of the enclosed
+copy, marked as Exhibit 5. In present case, ATS are more specifically
+included in Chapter heading 8421 (in terms of Rule 3(a) of the General
+Rules of the interpretation of this Schedule) i.e., filtering and purifying
+machinery, etc. for gases, thus cannot be brought within the folds of
+Section XVII or Chapters thereunder upon application of this third test
+of the three-layer test.
+
+Instruction No. 01/2022- Customs dated January 5, 2022 and its impact
+of classification
+
+2.50 Central Board of Indirect Taxes and Customs ("CBIC") issued the
+Instruction to address the difficulty in assessment of classification of
+
+automobile parts and components. This Instruction while noting the
+
+Page 31 of 51
+
+
+judgement in case of Westinghouse Saxby Farmer Ltd. vs.
+
+Commissioner of Central Excise, Kolkata [2021 (376) E.L.T. 14 (S.C.)]
+
+observed that:
+
+a. Classification of parts of goods of Section XVII of the Tariff Act is a
+complex issue.
+
+b. The Section Notes have been aptly applied in several past rulings of
+Supreme Court (viz. Intel Design Systems (India) Pvt. Ltd. vs. CCE
+2008 (223) E.L.T. 135 (S.C.), CCE Delhi vs. Uni Products Ltd.[2020
+(372) E.L.T. 465 (S.C.)]. The judgement in Westinghouse is therefore
+at variance with the other judgements of the Supreme Court in
+classifying parts of goods under Section XVII.
+
+c. The Westinghouse judgement was given in context of relays used in
+railway signaling equipment and, does not have a wider applicability
+to any other case or issue of similar nature.
+
+d. The judgement pertains to a matter under Excise Tariff Act in the year
+1994 and during the said time, the Excise Tariff and Customs Tariff
+were not aligned.
+
+2.51 The Instruction therefore advises that classification of parts of goods of
+Section XVII should be decided taking into consideration the relevant
+facts of the case, all decisions on the subject, analysis of Section Notes,
+Chapter Notes and the Explanatory Notes to Harmonized System of
+Nomenclature. At paragraph 10 of the Instructions, it has been
+particularly noted that classification of parts must be undertaken bearing
+in mind "...all relevant aspects including the HS Explanatory Notes, the
+relevant section and chapter notes and the various decisions of the Hon'ble
+Supreme Coutt,...".
+
+2.52 In the light of above Instructions, the ruling in case of Westinghouse
+Saxby Farmer Limited has limited applicability, and cannot be applied
+
+Page 32 of 51
+
+
+universally for determining classification of goods which find end use in
+the automobiles. Hence, it is stoutly submitted that this ruling should not
+be applied to determine classification of ATS. Rather, the Instructions
+and all other submissions of the Applicant should be applied to classify
+ATS or EGP under tariff hearing 8421. It is well settled proposition that
+Circulars/ Instructions issued by the CBIC are binding on the tax
+authorities and so, must be scrupulously followed and applied.
+
+General rules for the interpretation of the First Schedule to the Customs
+Tariff
+
+2.53 There is another rationale as to why ATS or EGP cannot be classified
+under tariff heading 8708 rather, it must necessarily be classified under
+customs tariff item 84213200. Upon application of Rule 3(a) of the Rules
+of Interpretation of Customs Tariff- that goods shall be classified under
+heading which provides the most specific description rather than under
+heading which provides general description - it can be said that ATS
+should be classified under tariff heading 8421. In this behalf, judgments"
+supporting this position that the specific description must always be
+preferred over the general ones, reinforce the submission of the Applicant
+that ATS or EGP deserves to be classified under Customs Tariff Item
+84213200, and none other.
+
+2.54 In the light of the above points, it is summarized that the three-
+pronged test prescribed under Section Notes and HSN explanatory is
+not fulfilled by ATS, hence the same cannot be covered under Section
+XVII and thereby under Chapter 87.
+
+IV Specific rebuttals to the Assistant Commissioner's
+observations /comments.
+
+2.55 The Applicant refers to the Assistant Commissioner's Comments from
+
+the letter dated June 21, 2022, enclosed as Exhibit 6, wherein the Assistant
+
+Page 33 of 51
+
+
+Commissioner has laid out his rationale and justification on why the
+subject goods should be classified under Chapter heading 8708. Specific
+
+submissions/ rebuttals to these comments are provided below:
+
+Comments of the | Applicant's Submissions and Rebuttal
+Assistant
+Commissioner
+
+Reliance on ruling in | - Firstly, the decision in G.S. Auto, pre- dates the
+case of GS. Auto decisions in Intel Design Systems and Uni
+International Ltd. Products, both of which are the later
+The comments refer to judgements and should be followed.
+this ruling to state that | - The ruling inG.S. Auto concerned classification
+goods suitable solely or of metal parts like bolts, nuts, pins, studs, etc.-
+primarily for use with all falling under Chapter 73 (parts of general
+vehicles under use), not filtering or purifying equipment of
+headings 8701 to 8705 Chapter 84.
+would = fall = under | - While the Court mentioned Section Note 2 and
+heading 8708 Note 3 in its discussion, finally, the conclusion
+was arrived solely relying on the test under
+Section XVII Note 3, i.e., suitability for sole or
+principal use in vehicles.
+
+- In the present case, the product in question
+(ATS) is a purifying apparatus covered under
+heading 8421, which is explicitly excluded
+from Section XVII by Note 2(e).
+
+- CBIC's Instruction expressly acknowledges the
+complexity in classifying parts of vehicles and
+clarifies that reliance must be placed on
+Section Notes, Chapter Notes, HSN
+Explanatory Notes, and judicial precedents
+such as Intel Design Systems and Uni
+Products. It notes that some earlier rulings
+(such as Westinghouse Saxby) deviated from
+this structured approach and should not be
+treated as broad _ precedents. These
+Instructions are binding.
+
+Page 34 of 51
+
+
+- Therefore, classification must begin with the
+exclusions under Note 2 and cannot be
+decided solely by end-use as done in GS.
+Auto, which dealt with a different chapter
+context altogether.
+
+- In summary, the comments are misdirected in
+relying upon the ratio of the G.S. Auto case,
+which is inapplicable to the present case.
+
+Reliance on A Raymind | - The appellate authority (MAAAR) relied on
+
+Fasteners India Pvt. judgment in case of G.S. Auto to reach its
+Ltd. (AAR Appellate) conclusions. Therefore, this advance ruling is
+Metal nuts and spring inapplicable and not relevant to the present
+nuts were classified case for the reasons outlined above (re. GS.
+
+under heading 8708 Auto), which are not being repeated here for
+
+due to their use in sake of brevity. Rather, the Authority for
+
+vehicles Advance Ruling, it is urged, should follow the
+advance ruling in case of Hyva India Private
+Limited [2019 (27) G.S.T.L. 85 (A.A.R. - GST)]
+
+Reliance _ Intel on| - This judgment supports the Applicant's
+Design Systems (India) position and not that of the GST Department.
+
+Pvt. Ltd. (SC, 2008) - The Court held that even if goods are suitable
+This ruling confirms for exclusive use in vehicles, they cannot be
+the two-fold test: goods classified under Chapter 87 if excluded by
+must be (1) suitable Note 2. The items in Intel (electrical switches,
+
+solely/ principally for control boxes) fell under Chapter 85 and were
+use in motor vehicles, thus excluded by Note 2(f) to Section XVII.
+and (2) not excluded by |_ - In the present case, ATS falls under Chapter 84
+Section XVII Note 2. (heading 8421) and is therefore excluded from
+Section XVII due to operation of Note 2(e). The
+omission of this critical aspect in the
+
+comments, undermines the submission of the
+
+GST department.
+ATS is fitted to the| - Use in motor vehicles alone does not
+exhaust system of determine classification and overpower other
+motor vehicles and is principles and tests concerning classification.
+required under BS VI The comments view the subject of
+
+hence norms, and
+
+Page 35 of 51
+
+
+should be considered classification with an __ over-simplistic
+part of motor vehicles. approach, which must be desisted from.
+
+- CBIC Instructions clearly states that
+classification of vehicle parts is a complex
+legal exercise, not governed by end-use alone.
+
+- The ATS is a purifying apparatus, with its
+primary function being filtration, not vehicle
+propulsion or control to merit classification
+under tariff hearing 8708. At any rate
+classification under tariff hearing 8708 will be
+in the teeth of the Apex Court's judgements in
+Intel Design Systems and Uni Products.
+
+- As a machine/apparatus covered under
+heading 8421, it is legally excluded from being
+considered a part under Chapter 87.
+
+- This legal position has been upheld in other
+rulings like Parker MHannifin India
+(KAR/AAAR/07/2019-20), where gas filters-
+even if vehicle-specific-were held to be
+classifiable under 8421, and excluded from
+tariff heading 8708.
+
+- A specific tariff item 84213200 has been
+incorporated in the Customs Tariff with effect
+from 1 January 2022, to cover 'Catalytic
+converters or particulate filters, whether or not
+combined, for purifying or filtering exhaust
+gases from internal combustion engines'. The
+classification of ATS or EGP must be under
+this specific tariff entry. ATS being a filter for
+purifying gases (resulting) from internal
+combustion engines are squarely covered
+under tariff item 84213200. It is further
+submitted that this amendment in the
+Customs Tariff endorses the fact that ATS is
+classifiable under chapter heading 8421.
+
+VI. Reference to Customs Advance Ruling in Denso Haryana Pvt. Ltd.
+
+Page 36 of 51
+
+
+2.56 In addition to above, the Applicant draws the Hon'ble Authority's attention to
+the recent customs advance ruling in the case of Denso Haryana Pvt. Ltd.
+[2024 (389) E.L.T. 517 (A.A.R. - Cus. - Del.)], which is persuasive in the present
+context, since it concerns classification of certain parts for use in
+automobiles/motor vehicles and was rendered in the context of Customs
+Tariff.
+
+2.57 In this ruling, the Customs Authority for Advance Rulings examined the
+classification of a Telematics Control Unit (TCU)—an electronic apparatus
+installed in automobiles-by applying a structured interpretive framework
+rooted in the relevant statutory provisions and judicial guidance. Crucially,
+the CAAR in that case examined the impact of the Supreme Court ruling in
+Westinghouse Saxby Farmer Ltd. as well as CBIC's Instruction, both of which
+discuss classification principles for parts and accessories under Section XVII
+of the Customs Tariff. Further, it applied the three- pronged test derived from
+the Notes to Section XVII read with HSN explanatory notes. The Customs
+Authority for Advance Ruling (“CAAR”) held that since the TCU was an
+electrical apparatus falling under Chapter 85, it was excluded under Note 2(f)
+to Section XVII, and therefore could not be considered a part of a motor
+vehicle under Heading 8708. Instead, it was classified under heading 8517,
+being more specifically covered there.
+
+2.58 This customs advance ruling reaffirms that:
+
+The exclusions under Section Note 2 are primary and determinative
+End-use or suitability for use (Note 3) is to be examined only after exclusion
+under Note 2 is ruled out;
+- A more specific classification elsewhere in the Tariff overrides residual or
+functional claims under Chapter 87.
+2.59 Applicant submits that upon considering these tests and indeed the reasoning
+
+adopted in this customs advance ruling, ATS or EGP which is an equipment
+
+Page 37 of 51
+
+
+or apparatus for filtering and purifying exhaust gases falls for classification
+under heading 8421, more specifically tariff item 84213200 and upon
+application of Section Notes 2(e) and 3, cannot be classified under tariff
+heading 8708, as is proposed in the comments by the GST Department; such
+conclusion will run counter to the binding judgement s of the Supreme Court
+of India in CCE Delhi vs. Uni Products Ltd.[2020 (372) E.L.T. 465 (S.C.)] and
+Intel Design Systems (India) Pvt. Ltd. vs. CC&CE. [2008 (223) E.L.T. 135
+(S.C.)].
+
+VI. Conclusion
+
+2.60 Conclusion: In view of this above, read together with the application and
+submissions (written and oral) it is the Applicant's understanding that ATS
+is appropriately classifiable under tariff heading 8421 of the Indian Customs
+Tariff and consequently serial no. 322 of Schedule III of Notification No.
+1/2017-Central Tax (Rate). Accordingly, ATS merits GST rate of 18%.
+
+2.61 In the context of the GST rate notifications, the following advance rulings are
+persuasive and endorse the classification of ATS or EGP under tariff item
+84213200:
+
+- Parker Hannifin India Private Limited [Order No. KAR/ AAAR/07/ 2019-
+20]
+- Hyva India Private Limited [2019 (27) G.S.T.L. 85 (A.A.R. - GST)]
+If there are any documents or clarifications required to pronounce the
+advance ruling, we will readily provide these and promptly.
+03. CONTENTION - AS PER THE CONCERNED OFFICER:
+
+3.1 Cummins Technologies India Private Limited (hereinafter referred to as
+'the Applicant') is engaged in manufacture and sale of products and
+services relating to turbo engines technologies, emission solutions, fuel
+systems etc. The applicant's business encompasses eight divisions viz.
+
+Cummins Turbo Technologies, Cummins Emission Solutions (CES),
+
+Page 38 of 51
+
+
+Cummins Business Services, Cummins Fuel Systems India, Cummins
+Technical Centre India, Phaltan Engine Plant, Global Analytics Centre and
+Supply Chain Operations [SCO). The CES division is engaged inter alia in
+manufacture and supply of exhaust after-treatment system [ATS) and
+other components for motor vehicle/automobile having medium duty,
+heavy duty and high horsepower engines.
+
+3.2 The applicant socks an Advance Ruling on Whether ATS [exhaust after-
+treatment system) also known as EGP (exhaust gas Processor], is
+classifiable under tariff heading 84213990 of the Customs Tariff (as is
+relevant for GST regime], and consequently for GST Law under Serial No.
+322 of Schedule III of Notification No. 1/2017-Central Tax (Rate) dated 28"
+June 2017. Also, if ATS cannot be classified under tariff heading 84213990
+whether it merits classification under tariff heading 8708 of the Indian
+Customs Tariff (as applicable to GST Law).
+
+3.3 The matter was examined in light of various facts & judgments by the
+higher authorities in this regard. The departments comment/stand in this
+regard is as follows: -
+
+3.3.1 We all know that motor vehicles are nothing but an amalgam of lakhs
+of parts, spares, components & accessories that are aesthetically
+engineered & interconnected in a manner to function in syne with
+each other. Now, it is very much possible that the various parts so
+assembled can either be the parts of general use or the parts of
+specific use but in all likeliness, the parts would always be so
+designed that It fits the use for a particular type, class, model &
+variant of the motor vehicle.
+
+3.3.2 Now, in order to arrive at the appropriate classification of these items
+used in the motor vehicle, it is important to refer to the tariff
+
+classification as issued by the CBIC read with its Schedules and as
+
+Page 39 of 51
+
+
+guided by the Interpretative rules, Section Notes, Chapter Notes as
+supported by the explanatory notes to the HSN as issued by the
+World Customs Council, Brussels.
+
+3.3.3 The basic principle provided in rule 1 is that classification shall be
+
+determined according to the terms of the headings and any relative
+Section or Chapter Notes.
+Now, the heading 8708 provides for "PARTS AND ACCESSORIES
+OF THE MOTOR VEHICLES OF HEADINGS 8701 TO 8705", On the
+plain & isolated reading of heading 8708 alone, one might conclude
+that all parts of motor vehicles merit classification under heading
+8708. However, as stated above, to arrive at appropriate
+classification, it is of paramount importance to decipher the various
+section notes, chapter notes along with interpretative rules.
+
+3.3.4 To elaborate further, Chapter 87 is covered by Section XVII and as per
+note 2(b) to section XVII, the "Parts of general use" [as defined in Note
+2 to Section XV, of base metal (Section XV), or similar goods of
+plastics (Chapter 39)) are to be excluded from section XVII. Further,
+note 3 of section XVII provides that parts of chapter 86 to 88 do not
+merit classification under these chapters, if the said parts are not
+suitable for use solely or principally with the articles of those
+Chapters.
+
+Therefore, the exclusions carved out in Section XVII are the deeming
+fictions and may be looked at as an exclusive escape routes from the
+clutches of coverage under chapter 87. Thus, the parts of motor
+vehicles are to be classified under heading 8708, if they are not
+excluded as per section note 2(b) and if the parts are specifically used
+
+in the motor vehicle.
+
+Page 40 of 51
+
+
+3.3.5 The guiding yardstick can be derived from various judicial
+precedents on the classification issues.
+The judgement rendered by the Hon'ble Apex court of India in the
+case of GS Auto International Ltd Vs Collector of C. Ex., Chandigarh
+(2003 (152) ELT (3) SC), the Hon'ble Supreme Court of India has
+referred both the above notes. The Apex court concluded that for
+classification under CTH 8708, the test to be applied is whether the
+goods are suitable for use solely or primarily with articles of CTH
+8701 to 8705. If the answer Is in the affirmative, the goods will be
+classifiable under CTH 8708, but if the answer is in the negative, they
+would have to be classified under respective CTHs.
+Further, In the recent Advance ruling rendered in the case of M/s. A
+Raymond Fasteners India Pvt Ltd 2021 (1) TMI 895, Appellate
+authority relying heavily on the decision of G.S. Auto (supra) held
+that Metal Nuts with metrical threading, and Metal Spring Nuts, will
+be considered as parts of motor vehicles and accordingly will merit
+classification under the Tariff Item 8708 9900 and not under 7318.
+In case of Intel Design Systems (India) Pvt. Ltd. vs Commr. Of Cus.
+& C. Ex. 2008-TIOL-18-SC-CX, the Hon'ble Supreme Court of India
+held that parts falling under CTH 87 would only be covered under
+CTH 87 provided they fulfil both the conditions (1) they must be
+identifiable as being suitable for use solely or principally for vehicles
+falling under Chapter 87 and (2) they must not be excluded by the
+provisions of Section Note XVII.
+
+3.4. In the present case, the ATS is an equipment used for filtering and
+purifying the harmful gases emitted as a result of combustion of fuel in the
+engine of the motor vehicle into harmless gases which conform with the
+
+emission regulation of Bharat Stage Emission Standards in India. The ATS
+
+Page 41 of 51
+
+
+is actually the assembly comprising of various components viz., Diesel
+Oxidised Catalyst, Diesel Particulate Filter, Mixer, Dozing Unit, Sensors,
+Ammonia Slip Catalyst etc. This ATS/EGP is supplied by the applicant to
+various Original Equipment manufacturers in Automobiles Industry and
+then this ATS/EGP is integrated into and fitted to the exhaust system of
+the motor vehicles which fall under the classification of Chapter 87 of the
+Customs Tariff Act, 1975.
+
+3.5. As stated by the applicant in their application (Annexure I para 8] itself
+that ATS has now become an integral part of all new Motor Vehicles
+manufactured after 01.04.2020, owing to BSVI emission norms within
+which the motor vehicles are required to be fitted and manufacturers
+obliged to comply with. Hence, this fulfils the conditions that ATS/EGP
+are part & parcel to the motor vehicle and are identifiable as being used
+solely for the motor vehicle falling under Chapter 87.
+
+04. HEARING
+Preliminary hearing in the matter was held on 22.10.2021. Mr. Ranjeet
+
+Mahtani, Advocate, appeared and requested for admission of the application.
+
+Jurisdictional Officer Mr. P. P. Karvande, Superintendent, Div-V,
+
+Khadakwasala, Commissionerate, Pune-II also appeared.
+
+The application was admitted and called for final e-hearing on 03.04.2025. Mr.
+
+Ranjeet Mahtani, Advocate, Authorized Representative, appeared made oral and
+
+written submissions. The Jurisdictional officer is absent. Case is heard.
+
+05. OBSERVATIONS AND FINDINGS:
+
+5.1. We have gone through the application and the submissions made by the
+applicant. We have also gone through the submissions made by the
+applicant vide letter dated 15.4.2025 and the submissions made by them at
+the time of the personal hearing. We have also gone through the
+
+submissions made by the jurisdictional officer vide letter dated 21.6.2022.
+
+Page 42 of 51
+
+
+We find that in the instant case, the applicant is manufacturing and
+supplying exhaust after treatment system and other components for motor
+vehicles/automobiles having medium duty, heavy duty and high
+horsepower engines. Fitting an exhaust After Treatement System (ATS) is
+mandatory as per Bharat Stage VI standard for emission norms as
+prescribed by Ministry of Road Transport and Highways. It is seen that the
+applicant supplies the following commodities to various original equipment
+manufacturers in the automobile industry for use in and during
+manufacture of motor vehicles.
+a) An assembly of ATS, also known as Exhaust Gas Processor (EGP) which
+are the subject goods in this application.
+b) other allied components required for operationalizing the functioning of
+the ATS viz. DEF Lines, tank with sensors and the supply unit.
+As per the applicant, ATS is an equipment used for filtering and purifying
+the harmful gases emitted as a result of combustion of fuel in the engine into
+harmless gases which conform with the emission regulation requirement.
+The ATS converts carbon monoxide (CO) into carbon dioxide (Co2),
+nitrogen Oxides (Nox) into Nitrogen(N2), Water (H2O) and carbons into
+CO2 and traps the residual carbon in the filter. The ATS is an assembly
+comprising of the following components:-
+i. Diesel Oxidized Catalyst (‘DOC’) - DOC reduces the particulate matter,
+carbon monoxide and hydrocarbons through the process of oxidation.
+ii. Diesel Particulate Filter (‘DPF’) - DPF collects particulate matter (Soot
+and Ash) from engine, Soot can be combustible by chemical and thermal
+means and that of Ash is non-combustible.
+iii. Selective Catalytic Reduction Catalyst (‘SCR Catalyst’) - SCR catalyst
+converts nitrogen oxide into nitrogen, water, tiny amounts of CO2
+
+through chemical reactions
+
+Page 43 of 51
+
+
+5.2.
+
+iv. Ammonia Slip Catalyst (‘ASC’) - ASC catalyst converts Non-utilized
+
+NH3/Urea from SCR catalyst
+
+v. Mixer - The primary function of the mixer is to mix Urea with the
+exhaust gases thoroughly in the specified quantity by creating
+turbulence.
+
+vi. Dozing unit - Dozing unit is used to inject the Diesel Exhaust Fluid (‘re-
+agents’) in the pre-defined quantity and at a pre-defined time according
+to the temperature in the EGP as instructed by the Electronic Control
+Unit (‘ECU’)
+
+vii. Sensors - Various sensors are used to monitor the temperature/ pressure
+of gases in the ATS/ EGP. Sensors send appropriate signals to the ECU
+to determine the quantity of reagents to be pumped in the dozing unit
+
+The applicant is seeking classification of the said ATS under Tariff Heading
+
+No.8421 of the GST Tariff and has vehemently argued that the said product
+
+would not be classified under 8708 as parts and accessories of motor vehicles
+
+of headings 8701 to 8705.
+
+We find that the applicant in Para 16 of their application have mentioned
+
+that in the instant case, the goods supplied i.e., ATS is tailor-made to the
+
+specifications / design provided by the automobile company or the OEM
+so as to be fitted to a given motor vehicle engine, and then deployed for
+emission purposes. Each type of motor vehicle engine has a unique shape
+and technical specifications and so the ATS is uniquely designed to achieve
+perfect fitting with the motor vehicle engine for optimal functionality with
+minimal or nil side-effects or recoil. (emphasis supplied). The Subject
+
+Goods are thus required to be manufactured according to the
+
+specifications/ design provided by the OEM, although from a purely
+
+functionality aspect a typical ATS could be remodeled, redesigned and re-
+
+engineered to be deployed elsewhere than the internal combustion engine
+
+Page 44 of 51
+
+
+of motor vehicle it was intended for. At this juncture, it would be
+imperative to mention that this order is being given on the facts of the case
+before this authority and on the classification of the goods for which the
+applicant has approached this authority.
+
+5.3. We find that, an After Treatment System is an apparatus which is used for
+filtering or purifying gases. The Explanatory Notes to the HSN for Chapter
+8421 states that these gas filters or purifiers are used to separate solid or
+liquid particles from gases either to recover product of value (eg. Coal dust,
+metallic particles, etc., recovered from furnace flue gases or to eliminate
+harmful materials (eg. Dust extraction, removal of tar etc., from gases or
+smoke fumes, remoal of oil from steam engine vapours) and they include
+other chemical filters or purifiers for air or other gases (including catalytic
+converters which change carbon monoxide in the exhaust gases of motor
+vehicles). We also agree that the Customs Tariff has been aligned with the
+Harmonized system of nomenclature (HSN) provided by the World
+Customs Organization and that the HSN elucidating the scope of a
+particular chapter would have persuasive value in determination of scope
+of headings of corresponding chapter of Customs Tariff as per the law
+declared by the Hon’ble Supreme Court in the following judgements.
+
+a. Camlin Limited vs. CCE [2008 (230) E.L.T. 193 (S.C.)]
+b. Coen Bharat Limited vs. CCE [2007 (217) E.L.T. 165 (S.C.)]
+c. CCE vs. Bakelite Hylam Limited [1997 (91) E.L.T. 13 (S.C.)]
+
+5.4. We find that for classification of any goods, due regard will have to be given
+to the Section Notes, the Chapter Notes and the wordings of the particular
+chapter headings. In order to classify any product as parts and accessories
+of motor vehicles, the provisions of Section XVII which covers ‘Vehicles,
+Aircraft, vessels and associated transport equipments’ will have to be taken
+
+into consideration. Further, Chapter notes to Chapter 87 which covers
+
+Page 45 of 51
+
+
+vehicles other than railwayor tramway rolling stock and parts and
+accessories thereof’ will have a bearing on the classification of the products
+under that chapter. Further, the Chapter Heading 8708 covering ‘parts and
+accessories of motor vehicles of headings 8701 to 8705’ would also be
+relevant. In this regard, the Section Notes 2 and 3 to Section XVII are as
+under:-
+“2. The expressions “parts” and “parts and accessories” do not apply to the
+following articles, whether_or not they are identifiable as for the goods of this
+Section:
+
+(e) machines and apparatus of headings 8401 to 8479, or parts thereof, other
+than the radiators for the articles of this Section, articles of heading 8481 or
+8482 or, provided they constitute integral parts of engines and motors, articles
+of heading 8483;
+
+()
+
+()
+
+3. References in Chapters 86 to 88 to “parts” or “accessories” do not apply to
+parts or accessories whtich_are not suitable for use solely or principally with the
+articles of those Chapters. A part or accessory which answer to a description in
+two or more of the headings of those Chapters is to be classified under that
+heading which corresponds to the principal use of that part of accessory.”
+
+The relevant portion of explanatory notes to HSN for Section XVII for
+classification of parts and accessories under this Section reads as under:-
+
+“(III) PARTS AND ACCESSORIES
+
+It should be noted that Chapter 89 makes no provision for parts (other than
+hulls) or accessories of ships, boats or floating structures. Such parts and
+accessories, even if identifiable as being for ships, etc., are therefore classified
+in other Chapters in their respective headings. The other Chapters of this
+
+Page 46 of 51
+
+
+5.5.
+
+Section each provide for the classification of parts and accessories of the
+veliicles, aircraft or equipment concerned.
+It should, however, be noted that these headings apply only to those parts
+or_accessories which comply with all three of the following
+conditions:
+
+(a) They must not be excluded by the terms of Note 2 to this Section [See
+paragraph (A) below] and
+
+(b) They must be_suitable_for use solely or principally with the articles of
+Chapters 86 to 88 [see paragraph _(B) below] and
+
+(c) They must not be specifically included elsewhere in the Nomenclature [see
+paragraph (C)].”
+
+We find that in order to classify any goods as a part or accessory of a motor
+vehicle falling under chapter 8701 to 8705, the goods must pass the aforesaid
+three tests i.e. they should not be excluded by terms of Note 2 to Section
+XVII, they must be suitable for use solely or principally with the articles of
+Chapter 86 to 88 and they must not be specifically included elsewhere in the
+nomenclature. We find that this view has been elucidated by the Hon’ble
+Supreme Court in the case of Intel Design Systems (India) Pvt. Ltd Vs.CC
+and CE reported in 2008 (223) ELT 135 (SC) and a similar view has been
+followed by the judgements of the various AAR relied upon hereinabove by
+the applicant. In the light of the above, we proceed to classify the product
+iie. After Treatment System supplied by the applicant to various OEM
+manufacturers.
+
+We find that in order to classify the ATS supplied by the applicant to the
+OEM manufacturers as parts of motor vehicle under 8708, it has to pass the
+three-pronged tests as mentioned above. It is seen from the submissions
+and the documents presented before us that the goods manufactured and
+supplied by the applicant are as per the specific designs and drawings
+provided by the OEM manufacturers. They are so designed, that the said
+product fits perfectly with the exhaust system of the motor vehicles. The
+
+said products supplied bear the part numbers, provided by the vehicle
+
+Page 47 of 51
+
+
+manufacturers. Further, the said product has been so designed that they
+can fit within the overall design of the motor vehicle and function in an
+integrated manner with the motor vehicle for which it has been designed.
+Therefore, we have no hesitation in holding that the said goods have been
+designed and manufactured and are for use solely or principally with the
+articles of Chapter 87, in the instant case, motor vehicles. However, in order
+to sustain the classification under Chapter 87, the said goods should also
+pass the first test ie. they should not be excluded by the Note 2 to Section
+XVII. In this particular case, the said Note 2 (e) that the expression parts
+and accessories would not apply to machines and apparatus of headings
+8401 to 8479, or parts thereof. In order to decide whether this exclusion
+clause would apply to the facts and circumstances of this case, we would
+like to refer to the applicants submission, mentioned hereinabove, where
+they have stated that the ATS supplied by them are designed and
+manufactured to the specifications supplied by the OEM Manufacturers and
+automobile manufacturers. They have themselves stated that the said goods
+cannot be used for any other purpose unless they are re-designed and
+suitably modified. This admission by the applicant clearly signifies the fact
+that the product manufactured by them cannot be used as a After Treatment
+System as a purifier for air or other gases unless it is re-designed or modified
+for such purposes. Thus, it is seen that the said product cannot be termed
+as a machine or apparatus falling under Chapter 8421 in as much as it will
+not be able to function as an apparatus of the said chapter and the same can
+function as an ATS only if it is fitted with the motor vehicle for which it is
+designed for use. Thus, it fails the test of functionality which is necessary
+for classification of a product as a machine or an apparatus. The said
+product supplied by the applicant is a part of the motor vehicle and will
+function as an ATS only when it is fitted with the exhaust system of the said
+
+motor vehicle. It cannot independently function as an ATS on any other
+
+Page 48 of 51
+
+
+type of internal combustion engine as it will not be able to carry out its
+function of purifying the exhaust fumes from such engines. What is
+recognized in Note 3 can be called the suitability for use test or the user test.
+The exclusion under Note 2(e) may be of goods which are capable of being
+marketed independently as ATS System. However, in the instant case, the
+goods which are being supplied by the applicant are nothing but tailor-
+made parts of motor vehicles which will function as an ATS system only if
+it is fitted with the particular motor vehicle for which it has been designed.
+They cannot, function independently of the motor vehicle. We further find
+that the goods covered under chapter 8421 are ‘filtering or purifying
+machinery and apparatus for gases”. In this regard a machinery or an
+apparatus are equipment needed for a particular activity or purpose. It
+means that the said apparatus or machinery should be able to perform the
+function for which it is used. In the instant case, it can be seen that the ATS
+System supplied by the applicant would not be able to perform the function
+of removing the exhaust fumes, unless it is attached to the motor vehicle for
+which it is designed. It would not function as an apparatus or a machinery
+in any other case. Therefore, since it cannot function independently of the
+motor vehicle for which it was designed and cannot be termed as an
+apparatus or machine for any other purpose, it cannot be classified under
+Chapter 8421. This functionality test is relevant in the light of the law laid
+down by the Hon’ble Supreme Court in the case of GS. Auto International
+Ltd Vs. Collector of C.Ex., Chandigarh reported in 2003 (152) ELT (3) SC.
+Since the goods cannot be classified under Chapter 8421, the provisons of
+Section Note 2(e) would not be applicable to the said goods. We further
+find that the said goods are not specifically classified elsewhere in the
+nomenclature in as much as they are nothing but mandatory parts of motor
+vehicle, designed for use in specific vehicles as per the specifications of the
+
+motor vehicle manufacturer. In view of the above, we find that the said
+
+Page 49 of 51
+
+M/s. Cummins Technologies India Private limited/72/2020-21
+
+
+goods pass all the three tests, envisaged by the HSN and promulgated by
+the Hon’ble Supreme Court in the case of Intel Design Systems Pvt. Ltd.
+case. Therefore, we find that the goods are appropriately classifiable under
+Chapter Heading 8708 of the GST Tariff.
+06. In view of the extensive deliberations as held hereinabove, we pass an order as follows:
+ORDER
+(Under Section 98 of the Central Goods and Services Tax Act, 2017 and the Maharashtra
+Goods and Services Tax Act, 2017)
+
+NO.GST-ARA- 72/2020-21/B- 217 Mumbai, dt. 30.04.2025
+
+For reasons as discussed in the body of the order, the questions are answered thus -
+
+Question 1: Whether ATS (exhaust after-treatment system) also known as
+EGP (exhaust gas processor), which is a purifying and filtering
+apparatus/ equipment is classifiable under tariff heading
+84213990 of the Customs Tariff (as is relevant for GST regime),
+and consequently for GST Law under Serial No. 322 of
+Schedule III of Notification No. 1/2017-Central Tax (Rate)
+dated 28 June 2017?
+
+Answer: No.
+
+Question 2: If ATS cannot be classified under tariff heading 84213990
+
+whether it merits classification under tariff heading 8708 of the
+
+Indian Customs Tariff (as applicable to GST Law)?
+
+OK
+
+Ta
+
+D.P. GOJAMGUNDE PRIYA JADHAV
+(MEMBER) (MEMBER)
+
+Answer: Yes
+
+PLACE - Mumbai
+DATE - 30.04.2025
+
+Page 50 of 51
+
+M/s. Cummins Technologies {ne \ limites
+
+
+Copy to: -
+1. The applicant
+
+2. The concerned Central / State officer
+3. The Commissioner of State Tax, Maharashtra State, Mumbai
+4. The Pr. Chief Commissioner of Central Tax, Churchgate, Mumbai
+
+5. The Joint commissioner of State Tax, Mahavikas for Website.
+
+Note: -An Appeal against this advance ruling order shall be made before The
+Maharashtra Appellate Authority for Advance Ruling for Goods and Services
+Tax, 15th floor, Air India Building, Nariman Point, Mumbai - 400021. Online
+facility is available on gst.gov.in for online appeal application against order
+passed by Advance Ruling Authority.
+
+Page 51 of 51
