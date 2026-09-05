@@ -7,7 +7,7 @@ just upscaling of the same pixels — which is why dpi/psm variants barely diffe
 print is clean; several paragraphs are Hindi (Devanagari); the ruling date **30.07.2026
 exists ONLY as handwriting** (p1 "Date of Ruling", p24 signature date).
 
-**Benchmarked:** 2026-09-05 · macOS 26.5.1 arm64 · Python 3.14.7 · tesseract 5.5.2 (homebrew)
+**Benchmarked:** 2026-09-05 (two passes: base + PaddleOCR/Unlimited-OCR follow-up) · macOS 26.5.1 arm64 · Python 3.14.7 (system) + 3.12.13 (paddle venv) · tesseract 5.5.2 (homebrew) · **12 engines/variants total**
 
 ## Ground-truth facts checked
 
@@ -64,12 +64,14 @@ Sample quality (page 1, Hindi paragraph):
 | Rank | Tool | Est. wall time for 65k pages | Est. cost | Why |
 |---|---|---|---|---|
 | 1 | **macOS Vision** (on this / any Apple-Silicon Mac) | ~0.75 s/p ≈ **14 h** (parallelizable across processes → 4–7 h) | $0 | Best quality-per-second by a wide margin; no downloads; robust on low-res scans |
-| 2 | **ocrmypdf / tesseract** (parallel, e.g. 4 workers) | ~4.7 h (ocrmypdf) / ~9 h (tess 200dpi psm6, 4× parallel) | $0 | Good English, 5–15x faster than Surya; Hindi garbage; no handwriting |
+| 2 | **ocrmypdf / tesseract** (parallel, e.g. 4 workers) | ~4.7 h (ocrmypdf) / ~9 h (tess 200dpi psm6, 4× parallel) | $0 | Good English, 5–15x faster than Surya/PaddleOCR; Hindi garbage; no handwriting |
 | 3 | **Mistral OCR API** (fallback, paid) | hours (API throughput dependent) | **≈ $130** | VLM-class quality incl. Hindi + handwriting, zero local compute |
-| 4 | **Surya OCR** | ~610 h on this Mac (CPU) | $0 compute | Best raw quality, but CPU throughput makes local bulk runs impractical |
-| 5 | tesseract eng+hin | ~60 h (4× parallel) | $0 | Only if Hindi retention matters more than speed and quality noise |
-| 6 | EasyOCR | ~330 h | $0 | Unusable quality |
-| — | PaddleOCR | — | — | Incompatible with Python 3.14 |
+| 4 | **Surya OCR** | ~610 h on this Mac (CPU) | $0 compute | Best raw quality (5/5 facts, perfect Hindi), but CPU throughput makes local bulk runs impractical |
+| 5 | **PaddleOCR 3.7** (PP-OCRv6_medium, py3.12) | 33.3 s/p ≈ **600 h** locally | $0 compute | Surya-class accuracy (5/5 facts incl. handwritten date, exact GSTIN) but same CPU-viable problem as Surya; first pick on a CUDA box; no Devanagari in 3.7 |
+| 6 | tesseract eng+hin | ~60 h (4× parallel) | $0 | Only if Hindi retention matters more than speed and quality noise |
+| 7 | EasyOCR | ~330 h | $0 | Unusable quality |
+| — | PaddleOCR mobile (PP-OCRv5) | 18.2 s/p ≈ 330 h | $0 | Faster than medium but quality regresses (ruling no. MISS) — dominated by both medium and Vision |
+| — | Baidu Unlimited-OCR | — | — | **Not runnable on macOS** (CUDA-only path; corrupted position_ids in checkpoint; MPS crash; CPU off-by-one bug) — revisit if fixed checkpoint ships |
 
 ## Recommendation
 
@@ -81,6 +83,7 @@ Sample quality (page 1, Hindi paragraph):
 ## Artifacts
 
 - `best-allen-institute.txt` — Surya OCR full text (best quality: all facts incl. handwritten date + Hindi)
-- `texts/` — full-text outputs: `_vision200_full.txt`, `_vision300_full.txt`, `_tess200-psm6_full.txt`, `_tess200-enghin_full.txt`, `ocrmypdf-sidecar.txt`, `_easyocr-sample_full.txt`, `_surya_full.txt` (PaddleOCR produced no output — install blocked).
-- `render.py`, `run_tess.py`, `score_all.py`, `vision_ocr.py` — benchmark scripts
-- `venv-tools/` (182 MB, kept: ocrmypdf 17.11.0 + pyobjc-framework-Vision 12.2.2 needed to reproduce); surya/easyocr/paddle venvs and model caches (surya-2 gguf 1.4 GB, EasyOCR models) were deleted after capture; temp page images deleted.
+- `texts/` — full-text outputs: `_vision200_full.txt`, `_vision300_full.txt`, `_tess200-psm6_full.txt`, `_tess200-enghin_full.txt`, `ocrmypdf-sidecar.txt`, `_easyocr-sample_full.txt`, `_surya_full.txt`, `_paddleocr_full.txt` (PaddleOCR: full 24-page run, PP-OCRv6_medium on py3.12). Unlimited-OCR produced no output (blocked — see note 5b).
+- Benchmark scripts: `render.py`, `run_tess.py`, `score_all.py`, `vision_ocr.py`, `uocr_infer.py` (Unlimited-OCR transformers runner with all compat patches — keep for revisit)
+- `venv-tools/` (182 MB, kept: ocrmypdf 17.11.0 + pyobjc-framework-Vision 12.2.2 needed to reproduce) and `venv-paddle312/` (kept: paddlepaddle 3.3.1 + paddleocr 3.7.0 on Python 3.12); surya/easyocr/paddle-3.14 venvs and model caches were deleted after capture; temp page images deleted.
+- Shareable summary: `benchmark.html` (self-contained, no external assets) — updated in lockstep with this file.
