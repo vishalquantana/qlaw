@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>OCR Engine Benchmark — Scanned Indian Legal Documents</title>
+<style>
+  :root {
+    --bg: #0f1117; --card: #171a23; --card2: #1d212e; --border: #2a2f3f;
+    --text: #e8eaf0; --muted: #9aa1b5; --accent: #6c8cff; --good: #3ecf8e;
+    --warn: #f5b759; --bad: #f56d6d; --mono: ui-monospace, 'SF Mono', Menlo, monospace;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--text); font: 15px/1.6 -apple-system, 'Segoe UI', Roboto, sans-serif; padding: 40px 20px; }
+  .wrap { max-width: 1060px; margin: 0 auto; }
+  h1 { font-size: 28px; letter-spacing: -0.5px; margin-bottom: 6px; }
+  h2 { font-size: 20px; margin: 42px 0 14px; padding-bottom: 8px; border-bottom: 1px solid var(--border); }
+  h3 { font-size: 16px; margin: 18px 0 8px; }
+  p, li { color: var(--muted); }
+  .sub { color: var(--muted); font-size: 14px; }
+  .badge { display: inline-block; background: var(--card2); border: 1px solid var(--border); border-radius: 20px; padding: 2px 12px; font-size: 12.5px; color: var(--muted); margin: 4px 6px 0 0; }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 20px 22px; margin: 14px 0; }
+  table { width: 100%; border-collapse: collapse; margin: 12px 0; font-size: 13.5px; }
+  th { text-align: left; color: var(--muted); font-weight: 600; padding: 8px 10px; border-bottom: 1px solid var(--border); white-space: nowrap; }
+  td { padding: 9px 10px; border-bottom: 1px solid var(--border); vertical-align: top; }
+  tr:last-child td { border-bottom: none; }
+  .tool { font-weight: 600; color: var(--text); white-space: nowrap; }
+  .pass { color: var(--good); font-weight: 600; }
+  .fail { color: var(--bad); font-weight: 600; }
+  .part { color: var(--warn); font-weight: 600; }
+  .na { color: var(--muted); }
+  code, .mono { font-family: var(--mono); font-size: 12.5px; background: var(--card2); border-radius: 4px; padding: 1px 5px; }
+  .chart { margin: 10px 0 22px; }
+  .bar-row { display: grid; grid-template-columns: 210px 1fr 110px; gap: 10px; align-items: center; margin: 7px 0; font-size: 13px; }
+  .bar-track { background: var(--card2); border-radius: 5px; height: 20px; overflow: hidden; }
+  .bar-fill { height: 100%; border-radius: 5px; background: linear-gradient(90deg, var(--accent), #8fa7ff); }
+  .bar-fill.green { background: linear-gradient(90deg, #2aa876, var(--good)); }
+  .bar-fill.red { background: linear-gradient(90deg, #b04a4a, var(--bad)); }
+  .bar-fill.amber { background: linear-gradient(90deg, #c08a3e, var(--warn)); }
+  .bar-val { text-align: right; color: var(--muted); font-family: var(--mono); font-size: 12px; white-space: nowrap; }
+  .excerpt { font-family: var(--mono); font-size: 12px; white-space: pre-wrap; word-break: break-word; background: var(--card2); border-left: 3px solid var(--border); border-radius: 0 8px 8px 0; padding: 12px 14px; margin: 8px 0; color: var(--muted); max-height: 200px; overflow: auto; }
+  .excerpt.good-ex { border-left-color: var(--good); }
+  .excerpt.bad-ex { border-left-color: var(--bad); }
+  .rec { border-left: 3px solid var(--accent); }
+  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  @media (max-width: 760px) { .grid2 { grid-template-columns: 1fr; } .bar-row { grid-template-columns: 140px 1fr 90px; } }
+  .rank1 { outline: 1px solid rgba(62,207,142,.35); background: rgba(62,207,142,.05); }
+  footer { margin-top: 50px; padding-top: 16px; border-top: 1px solid var(--border); color: var(--muted); font-size: 12.5px; }
+  a { color: var(--accent); text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <h1>OCR Engine Benchmark</h1>
+  <p class="sub">Making scanned Indian legal documents machine-readable — 9 engines tested on a real 24-page scanned GST advance ruling.</p>
+  <div>
+    <span class="badge">📅 2026-09-05</span>
+    <span class="badge">🖥 macOS 26.5 · Apple Silicon arm64</span>
+    <span class="badge">🐍 Python 3.14.7</span>
+    <span class="badge">📄 24-page image-only scan (0 chars native text)</span>
+  </div>
+
+  <h2>The problem</h2>
+  <div class="card">
+    <p>The GST Council publishes ~4,300 advance-ruling orders as <strong>scanned image PDFs with no text layer</strong> (~65,000 pages total). We need them searchable in a local database. This benchmark answers: <strong>which OCR engine should do it, and what will it cost in time/quality?</strong></p>
+    <p style="margin-top:10px"><strong>Key discovery:</strong> the scans are natively <strong>~72 dpi (612×1008 px)</strong>. Rendering at 200–300 dpi is just upscaling — it buys nothing. The ruling date <span class="mono">30.07.2026</span> exists <strong>only as handwriting</strong>, making this a genuinely hard test.</p>
+  </div>
+
+  <h2>Ground-truth facts checked in every output</h2>
+  <div class="card">
+    <table>
+      <tr><th>Fact</th><th>Where it lives in the document</th></tr>
+      <tr><td>Ruling no. <code>RAJ/AAR/2026-27/11</code></td><td>printed, p1</td></tr>
+      <tr><td>Date <code>30.07.2026</code></td><td><strong class="part">handwritten only</strong> (p1, p24)</td></tr>
+      <tr><td>Applicant (Allen Career Institute)</td><td>printed, p1/p3</td></tr>
+      <tr><td>GSTIN <code>08AAVCA8216C1ZI</code></td><td>printed, p1/p6 — the precision killer: engines that garble 1 char here fail</td></tr>
+      <tr><td>Notification <code>13/2020</code>-CT</td><td>printed, many pages</td></tr>
+      <tr><td>Hindi (Devanagari) paragraphs</td><td>several full paragraphs, verbatim restatement of adjacent English</td></tr>
+      <tr><td>HSN codes / rate table</td><td class="na">absent from this particular document</td></tr>
+    </table>
+  </div>
+
+  <h2>Results at a glance</h2>
+  <div class="card">
+    <table>
+      <tr><th>Engine</th><th>Facts found</th><th>GSTIN (17 chars, all must match)</th><th>Handwritten date</th><th>Hindi</th><th>Seconds / page</th><th>65k pages</th></tr>
+      <tr class="rank1"><td class="tool">Surya 0.22.1 <span class="na">(VLM)</span></td><td><span class="pass">ALL PASS</span></td><td class="part">1 char off (…C1ZJ)</td><td><span class="pass">PASS</span> ✦</td><td class="pass">Perfect</td><td>~34 (CPU)</td><td class="fail">~610 h</td></tr>
+      <tr class="rank1"><td class="tool">macOS Vision <span class="na">(PyObjC)</span></td><td><span class="pass">Near-all</span></td><td class="pass">EXACT ✓</td><td class="part">near-miss (30-07-2426)</td><td class="part">Dropped</td><td class="pass">0.75</td><td class="pass">~14 h</td></tr>
+      <tr><td class="tool">ocrmypdf 17.11 <span class="na">(tesseract)</span></td><td class="part">Ruling only</td><td class="fail">garbled</td><td class="fail">FAIL</td><td class="fail">gibberish</td><td class="pass">0.26</td><td class="pass">~4.7 h</td></tr>
+      <tr><td class="tool">tesseract eng psm6 200dpi</td><td class="part">Ruling only</td><td class="fail">garbled</td><td class="fail">FAIL</td><td class="fail">gibberish</td><td>1.21</td><td>~23 h</td></tr>
+      <tr><td class="tool">tesseract eng+hin</td><td class="part">Ruling only</td><td class="fail">garbled</td><td class="fail">FAIL</td><td class="part">~90% legible</td><td>3.33</td><td>~60 h</td></tr>
+      <tr><td class="tool">EasyOCR 1.7.2</td><td class="fail">garbled</td><td class="fail">garbled</td><td class="fail">FAIL</td><td class="part">noisy</td><td class="fail">18.4</td><td class="fail">~330 h</td></tr>
+      <tr><td class="tool">PaddleOCR 3.7</td><td class="fail" colspan="6">INCOMPATIBLE — no wheel for Python 3.14 / macOS arm64</td></tr>
+      <tr><td class="tool">Mistral OCR API <span class="na">(paid, not tested)</span></td><td class="pass">VLM-class</td><td class="na">expected pass</td><td class="pass">expected pass</td><td class="pass">yes</td><td class="na">API-bound</td><td>≈ $130</td></tr>
+    </table>
+  </div>
+
+  <h2>Speed vs quality</h2>
+  <div class="card">
+    <h3>Seconds per page <span class="na" style="font-weight:400">(lower is better)</span></h3>
+    <div class="chart">
+      <div class="bar-row"><span class="tool">ocrmypdf</span><div class="bar-track"><div class="bar-fill green" style="width:1.4%"></div></div><span class="bar-val">0.26 s</span></div>
+      <div class="bar-row"><span class="tool">macOS Vision</span><div class="bar-track"><div class="bar-fill green" style="width:4%"></div></div><span class="bar-val">0.75 s</span></div>
+      <div class="bar-row"><span class="tool">tesseract psm6</span><div class="bar-track"><div class="bar-fill amber" style="width:6.5%"></div></div><span class="bar-val">1.21 s</span></div>
+      <div class="bar-row"><span class="tool">tesseract eng+hin</span><div class="bar-track"><div class="bar-fill amber" style="width:18%"></div></div><span class="bar-val">3.33 s</span></div>
+      <div class="bar-row"><span class="tool">EasyOCR</span><div class="bar-track"><div class="bar-fill red" style="width:100%"></div></div><span class="bar-val">18.4 s</span></div>
+      <div class="bar-row"><span class="tool">Surya (VLM)</span><div class="bar-track"><div class="bar-fill red" style="width:100%"></div></div><span class="bar-val">~34 s</span></div>
+    </div>
+
+    <h3>Factual accuracy <span class="na" style="font-weight:400">(checked facts passed, of 5 applicable: ruling, date, applicant, GSTIN, notification)</span></h3>
+    <div class="chart">
+      <div class="bar-row"><span class="tool">Surya (VLM)</span><div class="bar-track"><div class="bar-fill green" style="width:100%"></div></div><span class="bar-val">5/5</span></div>
+      <div class="bar-row"><span class="tool">macOS Vision</span><div class="bar-track"><div class="bar-fill green" style="width:80%"></div></div><span class="bar-val">4/5</span></div>
+      <div class="bar-row"><span class="tool">ocrmypdf</span><div class="bar-track"><div class="bar-fill amber" style="width:40%"></div></div><span class="bar-val">2/5</span></div>
+      <div class="bar-row"><span class="tool">tesseract (all variants)</span><div class="bar-track"><div class="bar-fill amber" style="width:40%"></div></div><span class="bar-val">2/5</span></div>
+      <div class="bar-row"><span class="tool">EasyOCR</span><div class="bar-track"><div class="bar-fill red" style="width:0%"></div></div><span class="bar-val">0/5</span></div>
+    </div>
+    <p class="sub" style="margin-top:-6px">Surya reads the handwritten date (5/5). Vision gets everything printed including the exact GSTIN but not handwriting (4/5). Everything tesseract-class stops at ruling + notification (2/5). EasyOCR: unusable.</p>
+  </div>
+
+  <h2>Hindi (Devanagari) handling — same paragraph, three engines</h2>
+  <div class="card">
+    <h3>Surya (VLM) — <span class="pass">essentially flawless</span></h3>
+    <div class="excerpt good-ex">1. केंद्रीय वस्तु एवं सेवा कर अधिनियम, 2017 तथा राजस्थान वस्तु एवं सेवा कर अधिनियम, 2017 (जिन्हें आगे क्रमशः 'सीजीएसटी अधिनियम' एवं 'आरजीएसटी अधिनियम' कहा गया है) की धारा 102 के अनुसार...</div>
+    <h3>tesseract eng+hin — <span class="part">~90% legible, degraded</span></h3>
+    <div class="excerpt">3. hala वस्तु एवं Gar कर अधिनियम, 2017 तथा राजस्थान वस्तु एवं सेवा कर अधिलियम, 2017</div>
+    <h3>tesseract eng only / ocrmypdf — <span class="fail">Latin gibberish</span></h3>
+    <div class="excerpt bad-ex">Seals Teed Ve Bar oe Hera, 2017 CN Terese Tey Ve Sar ae HO, 2017</div>
+    <h3>macOS Vision — <span class="part">clean drop</span></h3>
+    <p class="sub">Hindi paragraphs are skipped entirely (no Devanagari support in this macOS build) — a clean loss rather than garbage, since the Hindi text mirrors adjacent English verbatim.</p>
+  </div>
+
+  <h2>Recommendation for the 4,300-document / 65,000-page corpus</h2>
+  <div class="card rec">
+    <h3>🥇 Primary: macOS Vision via PyObjC — $0, ~14 h (→ ~5 h parallelized)</h3>
+    <p>Highest factual accuracy of any local engine (only one with the exact GSTIN), zero download, robust on low-res 72 dpi scans. Caveats: macOS-only, Hindi dropped (acceptable — Hindi passages mirror English verbatim in this document class), handwriting unreliable.</p>
+    <h3>🥈 If Hindi must be kept: Mistral OCR API — ≈ $130 for the whole corpus</h3>
+    <p>VLM-class quality (Surya-equal) at API speed. Very reasonable against ~600 CPU-hours of local VLM OCR. Surya itself is impractical locally (610 h on this Mac), though it's the best raw quality if run on a rented GPU.</p>
+    <h3>🥉 Free triage layer: ocrmypdf — 0.26 s/page</h3>
+    <p>Add a searchable text layer + fact-check (ruling-number regex); escalate failures to Vision/Mistral. Also: <strong>don't re-render above 150 dpi</strong> — the scans are natively ~72 dpi; higher dpi adds no information.</p>
+  </div>
+
+  <h2>Environment &amp; reproducibility</h2>
+  <div class="card">
+    <p class="sub">Benchmarked on macOS 26.5.1 (Apple Silicon), Python 3.14.7, tesseract 5.5.2 (homebrew). Surya 0.22.1 runs surya-ocr-2 as a 1.4 GB GGUF via llama.cpp. EasyOCR ran on torch 2.14 CPU. PaddleOCR publishes no cp314 macOS-arm64 wheel. All multi-GB venvs and model caches were deleted after capture. Full write-up: <a href="REPORT.md">REPORT.md</a> · best extraction (Surya): <a href="best-allen-institute.txt">best-allen-institute.txt</a> · scripts: <span class="mono">render.py, run_tess.py, score_all.py, vision_ocr.py</span></p>
+  </div>
+
+  <footer>Benchmark of 9 OCR engines for the qlaw India rules-as-code pipeline · GST AAR corpus · generated 2026-09-05</footer>
+</div>
+</body>
+</html>
