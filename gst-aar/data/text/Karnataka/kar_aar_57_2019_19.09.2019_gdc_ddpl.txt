@@ -1,0 +1,484 @@
+THE AUTHORITY ON ADVANCE RULINGS
+IN KARNATAKA
+GOODS AND SERVICES TAX
+VANIJYA THERIGE KARYALAYA, KALIDASA ROAD
+GANDHINAGAR, BENGALURU - 560 009
+
+Advance Ruling No. KAR ADRG 57/2019
+
+Dated: 19th September, 2019
+Present:
+
+1. Sri. Harish Dharnia,
+Addl. Commissioner of Central Tax . ... Member (Central Tax)
+
+2. Dr. Ravi Prasad M.P.
+Joint Commissioner of Commercial Taxes . ..- Member (State Tax)
+
+M/s GDC Dimension Data Pvt. Ltd.,
+Sy.No.32/1, 35, 37-47, Milestone
+1. cone ay address of the Buildcon Pvt Ltd, Off Thanisandra Main
+apple Road, Chokkanahalli Village, Yelahanka,
+Bangalore 560064
+
+2. | GSTIN or User ID 29AAGCG6253J1Z8
+Date of filing of Form GST
+3. ARA-01 02.07.2018
+4, Represented by Ms. Rebecca Pinto, Advocate
+5 Jurisdictional Authority - Commissioner of Central Tax,
+: Centre Bengaluru-North.
+6. oo Authority - LGSTO-150A
+tate
+
+Yes, discharged fee of Rs.5,000/- under
+Mbether the payinent of | Gacy aor oni & Rs.5,000/- under KGST
+ie fees discharged and if yes,
+
+the amount and CIN Act 2017 vide CIN RBIS18062900183245
+dated 21.06.2018
+
+ORDER UNDER SUB-SECTION (4) OF SECTION 98 OF CENTRAL GOODS
+AND SERVICES TAX ACT, 2017 AND UNDER SUB-SECTION (4) OF
+SECTION 98 OF KARNATAKA GOODS AND SERVICES TAX ACT, 2017
+
+1. M/s GDC Dimesion Data Pvt. Ltd., (called as the ‘Applicant’ hereinafter),
+Sy.No.32/1, 35, 37-47, Milestone Buildcon Pvt Ltd, Off Thanisandra Main Road,
+Chokkanahalli Village, Yelahanka, Bangalore 560064, having GSTIN number
+29AAGCG6253J1Z8, have filed an application for Advance Ruling under Section 97
+of CGST Act, 2017, KGST Act, 2017 read with Rule 104 of CGST Rules 2017 &
+
+KGST Rules 2017, in form GST ARA-01 discharging the fee of Rs.5,000-00 each
+under the CGST Act and the KGST Act.
+
+Page 1 of 9
+
+
+
+2. The Applicant is a Private Limited Company and is registered under the
+Goods and Services Act, 2017. The applicant has sought advance ruling in respect
+of the following question:
+
+What is the correct Service Accounting Code (SAC) for the services mentioned
+below in terms of Notification No.11/ 2017 - Central Tax (Rate) dated 28th June
+2017?
+
+a. IT Support Services
+
+b. IT Managed Services
+3. The applicant furnishes some facts relevant to the stated activity:
+
+a. The applicant states that he is a 100% subsidiary of Dimension Data
+Asia Pacific Pte Ltd (herein after called “DDAPPL”) based in Singapore.
+The ultimate parent company is NIT, a company incorporated and
+listed in Japan.
+
+b. The Company has been set up in Milestone Buildcon IT SEZ in
+Bangalore falling under the jurisdiction of Cochin SEZ with their letter
+of Approval dated 07.07.2017.
+
+C. The applicant is engaged in providing IT Technical and Support
+Services and IT Managed Services to its group entities located outside
+India. The Company has commended its operations on 15.12.2017.
+
+d. The services provided by the company to the entities situated outside
+India qualifies as ‘zero-rated supply’ under section 16 of the IGST Act,
+2017.
+
+e. The details of the services for which the advance ruling is sought is as
+follows:
+
+i. Support Services: This is sub-classified into two types of
+services as per the requirements of the customers, namely:
+
+1. Uptime Support Services: This is a collection of four standard
+service plans. The nature of this support services varies as per
+the requirements of the customer (i.e technology vendor) and
+their products. Each service plan is as follows:
+
+a. Remote Support: Support of software products for which
+incidents will be handled remotely.
+
+b. Part-only support: provides delivery of parts to site from a
+set of service target options.
+
+c. On-Site support: provides a complete on-site solution for
+either hardware or software assets
+
+d. Mission Critical Support: elevated level of support by
+senior technical resources when the business is effected
+by downtime, saving critical time when any incidents
+occur.
+
+2. Pro-active Support Services: These services assists the
+
+customers in management of their estates in a more pro-
+active and efficient way, without relinquishing any control.
+
+GDC Dimension Data Page 2 of 9
+
+
+The same comprises of services namely Asset Tracking &
+Analytics Support Services, Proactive Problem Support
+Services, IT Service Integration, etc.
+ii. Managed Services: This consists of the following services,
+namely:
+
+1. Managed Service for Data Centres: includes the management
+of the physical servers, converged infrastructure, operating
+system and virtualization hypervisors. The servers may be
+hosted on premise, in the cloud, or in a hybrid data centre
+model.
+
+2. Managed services for Storage: This service provides a reliable
+and scalable storage infrastructure which enhances
+information availability and data performance.
+
+3. Managed Services for Enterprise Networks: Thus provides a
+solution with deliverables in the form of capacity
+management, incident management, etc.
+
+4. Managed Services for unified communication for CISCO: This
+service ensures that the unified communications (UC) system
+continuously operates at an optimal state and is problem
+free and productive.
+
+5. Managed Network Services: This portfolio supports the
+customer’s networking technologies, which includes the
+monitoring and troubleshooting of local area networks (LANs)
+
+and wide area network (WAN) technologies and WAN
+services.
+
+4. The applicant states that as per his understanding, the above mentioned
+services needs to be classified as per the Scheme of Classification of Services
+provided as Annexure to the Notification No.11/2017- Central Tax (Rate) dated 28th
+June 2017 as amended from time to time. He also has further referred to the
+explanatory notes to the schemes of classification of services. Based on the above,
+
+the applicant has tabulated key categories under which the services may be
+classified as follows:
+
+Chapter/ Service Description of Services Rate
+Section/ Code of tax
+Heading/ (Tariff)
+
+Group
+Heading Other Professional, technical and business
+9983 services
+Group Management consulting and management
+99831 services; information technology services
+
+998311 Management consulting and management | 18%
+
+services including financial, strategic, human
+resources, marketing, operations and supply
+chain management
+
+& r Data Page 3 of 9
+
+
+998313 Information technology consulting and | 18%
+support services
+
+998314 Information technology (IT) design and | 18%
+development services
+998315 Hosting and information technology (IT) | 18%
+infrastructure provisioning services
+998316 Information technology infrastructure and | 18%
+network management services
+Heading 998713 Maintenance and repair. services of| 18%
+9987 computers and peripheral equipment
+
+The applicant states that it is evident from the above list of classifications that the
+rate of tax applicable to his services is constant and accordingly, there is no rate or
+duty benefit available to his services. Further, considering that the applicant is an
+SEZ unit engaged on exports under LUT, supply of services is considered as zero-
+rated under GST legislation. He also states that registered persons having an
+annual turnover exceeding Rs.5 Crores would be required to mention upto four
+digits of HSN classification on their tax invoice as per Notification No. 12/2017-
+Central Tax and 5/2017 — integrated tax dated 28 June 2017.
+
+5. Considering the multiple classifications available under GST, the applicant
+desires to understand whether the classification made by the applicant is in
+accordance with interpretation under GST Legislation. He also submits that
+services provided by the applicant, viz. support services and managed services are
+information technology service which should be classified under SAC 998313 and
+SAC 998316 respectively and he puts forward his contentions in support of his
+view and the same are as under:
+
+(a) Specific Entry should prevail over general entry: Technical services are more
+specifically covered under Entry at SI.No.21 of the Notification. Hence both his
+services should be classified under the said entry. He also quotes the relevant
+extract of the “Rules for the interpretation of the First Schedule of the Customs
+Tariff Act, 1975” for ease of reference:
+
+“«
+
+1. When by application of rule 2(b) or for any reason, goods are, prima
+facie, classifiable under two or more headings, classification shall be
+effected as follows:
+
+(a) the heading which provides the most specific description shall be
+preferred to headings providing a more general description. However,
+
+when two or more headings each refer to part only of the materials or
+substances contained in mixed or composite goods or to part only of
+the items in a set put up for retail sale, those headings are to be
+regarded as equally specific in relation to those goods, even if one of
+them gives a more complete or precise description of the goods.”
+
+»
+
+GDC Dimension Data Page 4 of 9
+
+
+The entry at SI. No.21 of the Notification is a general entry referring to “other
+professional, technical and business services”. Further, it should be notes
+under the said entry, specific tariff codes have been prescribed for information
+technology related services which are not covered elsewhere.
+
+The applicant states that it is a well-established principle in taxation
+jurisprudence for resolving classification disputes that a specific entry shall
+prevail over a general entry. In this regard, the applicant places reliance on the
+judgements of the Hon’ble Supreme Court of India in the case of Western India
+Plywoods Ltd. V. Collector of Customs, Cochin [2005 (188) ELT 365 (SC)]
+and in the case of Superintendent of Central Excise and Others v. Vac Met
+Corporation Ltd. [1985 (22) ELT 330 (SC)].
+
+(b) In relation to Support Services: The applicant states that as per the description
+of services relating to support services stated earlier, it is evident that the
+services rendered by the applicant viz. Support Services relates to the provision
+of information technology software services. The Notification under paragraph 4
+defines Information Technology Software as under:
+
+“4, Explanation. — For the purposes of this notification, -
+
+(v) “information technology software” means any representation of
+instructions, data, sound or image, including source code and object
+code, recorded in a machine readable form, and capable of being
+manipulated or providing interactivity to a user, by means of a
+computer or an automatic data processing machine or any other device
+or equipment.”
+
+The activities undertaken by the applicant under the category of “Support
+Services” includes the repair and support of hardware as well as the software
+products. The Company also assigns a dedicated technical expert to perform
+the support services on the customer’s technology.
+
+Therefore, the applicant states that the provision of the said services is fairly
+covered within the ambit of “information technology consulting and support
+services” classified under SAC 998313 under specific entry no. 303 of the
+
+Notification and based on Explanatory notes to Classification of services
+provided for SAC 998313.
+
+(c) In relation to the Managed Services, the applicant submits that the managed
+services undertaken by the applicant is in relation to the network servers and
+the storage facilities provided to enable the operational management of
+network system. It is customizes under different service plans depending upon
+the customer’s product and its requirement. Therefore, the provision of the
+said services is fairly covered within the ambit of “information technology
+infrastructure and network management services’ classified under the specific
+Service Code (Tariff) 998316 based on the notification and the Explanatory
+Notes to Classification of services provided for SAC 998316.
+
+Given the above, the applicant wishes to classify the services under the below
+
+ension Data Page 5 of 9
+
+
+Description of Service SAC
+
+Support Services 998313 (Information Technology Consulting and Support
+Services)
+Managed Services 998316 (Information Technology Infrastructure and
+
+Network Management Services)
+
+6. FINDINGS & DISCUSSION:
+
+We have considered the submissions made by the Applicant in their
+application for advance ruling as well as the submissions made by Ms Rebecca,
+Advocate, authorized representative, during personal hearing. We have also
+considered the issues involved, on which advance ruling is sought by the
+applicant, and relevant facts. At the outset, we would like to state that the
+provisions of both the CGST Act and the KGST Act are the same except for
+certain provisions. Therefore, unless a mention is specifically made to such
+dissimilar provisions, a reference to the CGST Act would also mean a reference
+to the same provisions under the KGST Act.
+
+6.1 The description of services which are provided by the applicant have been
+examined with reference to the details provided by the applicant. The
+classification tariff entries 998313 and 998316 have also been verified and the
+following points are noted:
+
+(a) The Service Accounting Code 9983 is considered first. Section 8 deals
+with the Business and Production Services and there is no dispute that the
+services provided by the applicant fall under this category. The services provided
+are not covered under Heading 9981 (relating to Research and Development
+Services) or 9982 (relating to Legal and Accounting Services). Hence it gets
+covered under the Heading 9983 which is related to Other Professional,
+technical and business services and there is no dispute in this matter.
+
+(b) The matter before the Authority is there are two types of services provided
+by the applicant, one is of support services and the other is infrastructure and
+network management services and the applicant desires to know the correct
+classification. The Groups falling under Heading 9983 are perused and the
+following is noted:
+a. Group 99831 deals with Management Consulting and Management
+Services; Information Technology Services
+b. Group 99832 deals with Architectural Services, Urban and Land
+Planning and Landscape Architectural Services
+c. Group 99833 deals with Engineering Services
+
+d. Group 99834 deals with Scientific and other technical services
+
+e. Group 99835 deals with Veterinary Services
+
+f. Group 99836 deals with Advertising services and provision of
+Advertising Space or time
+
+g. Group 99837 deals with Marketing and Public Opinion Polling
+Services
+
+GDC Dimension Data Page 6 of 9
+
+
+h. Group 99838 deals with Photography and Videography and their
+processing services
+
+i. Group 99839 deals with Other professional, technical and business
+services.
+
+Undoubtedly, the services rendered by the applicant do not fall under Groups
+99832, 99835, 99836, 99837, and 99838. Hence the entries that need to be
+examined are 99831, 99833, 99834 and 99839. The other entries which may
+need examination are 998598, 998729.
+
+6.2 The Support services provided by the applicant have been examined and it
+is seen that the support services include the support of software products and
+also hardware products. Some of the plans include support of the entire
+infrastructure (especially Pro-active support services). Hence it is common
+contract for maintenance of hardware and software and hence is directly related
+
+to the Group related to “information technology services” and hence is covered
+under the Group 99831.
+
+Coming to the issue whether the support services fall under Service Code (Tariff)
+998313 or 998316 or 998319, it is seen that applicant is providing support of
+both hardware and software and the issue boils down to whether they are
+covered under Information Technology Consulting and Support Services (Service
+Code 998313) or Information Technology Infrastructure and Network
+Management Services (Service Code 998316). Reliance placed by the applicant
+
+on the definition of “information technology software” is of no relevance to the
+present issue.
+
+6.3 Service Code 998313 includes
+
+i. Providing advice of export opinion on technical matters related to the use
+of information technology, such as advice on matters such as hardware
+and software requirements and procurement, systems integration,
+systems security, provision of expert testimony on IT related issues; (not
+applicable)
+
+ii. providing technical expertise to solve problems for the client in using
+software, hardware or an entire computer system, such as provision of
+customer support in using or troubleshooting the software, upgrade
+services and the provision of patches and updates, provision of customer
+support in using or troubleshooting the computer hardware, including
+testing and cleaning on a routine basis and repair of IT equipment,
+technical assistance in moving a client’s computer system to a new
+location, provision of customer’s support in using or troubleshooting the
+computer hardware and software in combination;
+
+iii. providing technical expertise to solve specialized problems for the client
+
+in using a computer system, such as auditing or assessing computer
+
+operations without providing advice or other follow-up action including
+auditing, assessing and documenting a server, network or process for
+components, capabilities, performance, or security;
+
+sion Data Page 7 of 9
+
+
+
+iv. data recovery services, i.e. retrieving a client’s data from a damaged or
+unstable hard drive or other storage medium or providing standby
+computer equipment and duplicate software in a separate location to
+enable a client to relocate regular staff to resume and maintain routine
+computerized operations in event of a disaster such as fire or flood;
+
+v. other IT technical support services not elsewhere covered.
+
+6.4 The operations of the applicant are analysed with reference to the above
+and found that the support services mentioned above are all related to such
+services which are not directly involved in the provision of the service or supply
+of goods by the recipient, and hence only assists the recipient of services by
+providing advice, trouble shooting of hardware and software, to recover the
+damaged portion and the like. The applicant is also providing a package of
+maintenance of the hardware and software of the recipient and they are not
+involved in the actual production of the products of the recipient. This would
+mean that the applicant is providing support services which are technical in
+nature and hence such support operations of the applicant squarely falls under
+the Service Code 998313.
+
+6.5 The Managed Services provided by the applicant have also been examined
+and found that they are related to the management of Data Centres, Storage
+infrastructures, Networks and Communication infrastructures and hence are
+directly related to the Group related to “information technology services” and
+hence is covered under the Group 99831.
+
+6.6 The Service Code 998316 is analysed and found that this service code
+includes:
+i. managing and monitoring a client’s IT infrastructure including hardware,
+software and networks;
+
+ii. managing and monitoring communication networks and connected
+hardware to diagnose networking problems and gather capacity and
+usage statistics for the administration and fine-tuning of network traffic.
+
+These services also remotely manage security systems or provide security related
+services provision of day-to-day management and operation of a client’s
+computer system.
+
+6.7 The managed services offered by the applicant is verified and found that
+
+they are involved in the management of IT infrastructure including networks
+and hence these services squarely fall under the Service Code 998316.
+
+GDC Dimension Data Page 8 of 9
+
+
+7. In view of the foregoing, we pass the following
+
+RULING
+
+As per the terms of Notification No. 11/ 2017 - Central Tax (Rate) dated
+28th June 2017 -
+
+1. The IT Support services provided by the applicant are covered under
+the Service Code 998313.
+
+2. The IT Managed services provided by the applicant are covered under
+the Service Code 998316
+
+BiB eapng
+
+(Harish Dharnia) (Dr. Ravi Prasad M.P.)
+Member Member
+‘x engaluru,
+
+1. The Principal Chief Commissioner of Central Tax, Bangalore Zone,
+Karnataka.
+
+2. The Commissioner of Commercial Taxes, Karnataka, Bengaluru.
+
+3. The Commissioner of Central Tax, Bangalore-North, Bengaluru.
+
+4. The Asst. Commissioner, LGSTO-150A, Bengaluru.
+
+5. Office Folder.
+
+GDC Dimension Data Page 9 of 9

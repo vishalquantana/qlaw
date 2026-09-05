@@ -1,0 +1,756 @@
+THE AUTHORITY ON ADVANCE RULINGS
+IN KARNATAKA
+GOODS AND SERVICES TAX
+VANIJYA THERIGE KARYALAYA, KALIDASA ROAD
+GANDHINAGAR, BENGALURU - 560009
+
+Advance Ruling No. KAR ADRG 30/2019
+
+Date : 12-09-2019
+Present:
+
+1. Sri. Harish Dharnia,
+Additional Commissioner of Central Tax, .... Member (Central Tax)
+
+2. Dr. Ravi Prasad M.P.
+Joint Commissioner of Commercial Taxes ....» Member (State Tax)
+
+M/s ANSYS Software Pvt. Ltd.,
+
+1 Name and address of the Kabra Excelsior, 3'4 Floor, 6/A.
+- applicant 7 Main, 1st Block, Koramangala,
+Bengaluru — 560034.
+2. GSTIN or User ID 29AADCA1658E1ZT
+Date of filing of Form GST
+3. eek o1 26.10.2018
+
+Sri Srikanth Balakrishnan,
+
+5 Represented by, Chartered Accountant
+
+The Commissinoer of Central Tax,
+Bangalore South Commissionerate,
+Bengaluru (Range — ASD5)
+
+Jurisdictional Authority —
+Centre
+
+Jurisdictional Authority —
+
+State LGSTO-15, Bengaluru
+
+Yes, discharged fee of Rs.5,000/-
+each under CGST Act & KGST Act
+vide CIN  SBIN18102900388619
+dated 24.10.2018
+
+Whether the payment of fees
+ie discharged and if yes, the
+amount and CIN
+
+ORDER UNDER SECTION 98(4) OF THE CENTRAL GOODS & SERVICES
+TAX ACT, 2017 AND UNDER 98(4) OF THE KARNATAKA GOODS &
+SERVICES TAX ACT, 2017
+
+M/s ANSYS Software Pvt. Ltd., (called as the ‘Applicant’ hereinafter),
+having GSTIN number 29AADCA1658E1ZT, have filed an application for
+Advance Ruling under Section 97 of the CGST Act, 2017 & KGST Act 2017
+read with Rule 104 of CGST Rules 2017 & KGST Rules 2017, in FORM GST
+ARA-O1 discharging the fee of Rs.5,000/- each under the CGST Act and the
+KGST Act.
+
+Page 1 of 16
+
+
+
+2: The Applicant is a Private Limited Company and is registered under
+the Goods and Services Act, 2017. The applicant has sought advance ruling
+in respect of the following question:
+
+a) Whether Marketing & Pre-Sales Technical Support Services provided
+by the applicant will be classified as Intermediary services in terms
+of Section 2(13) of the Integrated Goods and Services Tax Act, 2017?
+
+b) Whether the Post- Sales Technical Support Services provided by the
+applicant would be classified as Information Technology Support
+Services falling under HSN Code 998313?
+
+The applicant states that the provisions of both the CGST Act and the
+KGST Act are the same except for certain provisions, and thus, unless a
+mention is specifically made to such dissimilar provisions, a reference to the
+CGST Act would also mean a reference to the same provision under the
+KGST Act. For the purposes of this application, a reference to such a similar
+provision under the CGST Act and / or KGST Act would be referred to as
+being under the “GST Law”.
+
+3. The applicant furnishes some facts relevant to the stated activity:
+
+a. The applicant states that he is a private limited company with its
+registered office situated at Plot No.34/1. Rajiv Gandhi Infotech Park,
+MIDC, Hinjewadi, Pune - 411057, Maharashtra. ANSYS India is a
+wholly owned subsidiary of M/s ANSYS Inc., US (hereinafter referred
+to as “Ansys US” or the “Parent Company”). The Parent Company has
+subsidiaries in various parts of the globe. (Ansys US referred hereafter
+may be construed to include such subsidiary companies of ANSYS
+Inc. as well). ANSYS India has business premises across India
+including in Bangalore in Karnataka, Noida in Uttar Pradesh, Chennai
+in Tamil Nadu, Pune and Mumbai in Maharashtra, Hyderabad in
+Telangana and Kolkata in West Bengala. Ansys India is registered
+under GST Law and their GSTIN is 29AADCA1658E1ZT for Bangalore
+place of business.
+
+b. ANSYS India, inter alia, is engaged in the business of distribution of
+Ansys Software in India, the proprietary ownership of which lies with
+Ansys US. Ansys Software is an engineering simulation software used
+by engineers and designers across a broad spectrum of industries
+including aerospace, automotive, manufacturing, nuclear, electronics
+
+Ansys s/w Page 2 of 16
+
+
+and biomedical. As a distributor, Ansys India resells the “right /
+license to use” Ansys Software to customers in India. Towards this,
+Ansys India pays GST at the applicable rate.
+
+c. In some cases, the customer may place an order for purchase of right
+/ license to use Ansys Software directly on Ansys US owing to
+commercial considerations on Customer’s side. In such cases, Ansys
+US directly issues an invoice on the customer in India for sale of right
+/ license to use Ansys Software and the customer directly pays the
+invoice value to Ansys US.
+
+d. In such cases, Ansys US engages Ansys India for providing Marketing
+and Pre-Sales Technical Support Services. Further, by means of a
+separate arrangement, Ansys US also engages Ansys India for
+providing Technical Support Services, once the right / license to use
+Ansys Software is sold to the Indian Customers by Ansys US. The
+agreements also provide for remunerating Ansys India for the services
+rendered.
+
+e. Regarding the Marketing and Pre-Sales Technical Support Services,
+the applicant states that in case of direct orders placed by Indian
+Customers on Ansys US, Ansys India is engaged to provide marketing
+and pre-sales technical support services. Typically, the direct orders
+can be of two types:
+
+i. Where the customer is identified by Ansys India and due to
+commercial considerations, the customer desires to place order
+directly on Ansys US.
+
+ii. Where the global counterpart of a customer directly contracts with
+Ansys US for purchase of Ansys Software for their entire group
+companies across the world including India. Such orders are
+typically referred to as “Global Orders”, where the customer places
+Order on Ansys US, but Ansys India provides Marketing and Pre-
+Sales Technical Support Services in India.
+
+4. Under the Marketing and Pre-Sales Technical Support Services, in
+both the above cases, Ansys India undertakes the following functions:
+
+(a) Ansys India understands the customer’s requirements and through
+discussions, presentations, demonstrations, benchmarks, and
+evaluations, Ansys India showcases solutions using Ansys Software
+to the customer. This helps the customer to understand the
+
+Page 3 of 16
+
+
+
+functionality of Ansys Software, how it is relevant for their needs in
+terms of automated solutions, reduced response and turnaround
+time and cost savings in developing a new product and thereby helps
+the customer in decision making process;
+
+(b) Ansys India also explores new business opportunities with existing
+customers by conducting best practice sessions, technology days and
+discussions with the customers;
+
+(c) Once the order is placed by the customer on Ansys US, Ansys India
+also co-ordinates with the customer and Ansys US for signing of
+software licence agreement and other related documentation.
+
+(d) Ansys India also helps in follow up for collection of invoice value from
+the customer. However, it is important to note that the collection risk
+rests with Ansys US only;
+
+Thus, in both cases of direct orders, Ansys India exports marketing
+and pre-sales technical support services to Ansys US for which it receives a
+consideration from Ansys US which is fixed as a percentage of the Sales
+Order value of the respective Indian Customer or as per any basis or
+mechanism which may be mutually agreed.
+
+5: Regarding the Post-Sales Technical Support Services, the applicant
+states that when a customer in India directly buys right / licence to use
+Ansys Software from Ansys US under both the arrangements as explained
+above in para above, he is also entitled to technical enhancement and
+customer support services (TECS) for a specified period. Under TECS, the
+customer typically gets the following:
+
+(a) Upgrades or new versions of Ansys Software that may be released
+during the specified period; and
+
+(b) 24*7 customer support for any trouble shooting or technical support
+that he may need in using Ansys Software.
+
+5.1 Upgrades or new versions of Ansys Software as aforesaid are provided
+directly by Ansys US to customers. However, Ansys US has engaged Ansys
+India for providing 24*7 customer support, the need for which would arise
+after the sale of Ansys Software.
+
+5.2. The applicant states that in this regard, Ansys India has employed a
+competent customer team to provide 24*7 customer support. Whenever
+
+Ansys s/w Page 4 of 16
+
+
+customer has any troubleshooting or technical query, they would contact
+either a designated telephone number or an e-mail ID of the customer
+support team.
+
+5.3 The nature of Post-Sales Technical Support Services that Ansys India
+provides is as follows:
+
+(a) Support through e-mail:- Whenever customer has any troubleshooting
+or technical query in using Ansys Software, he may send an e-mail to
+the designated email id of the customer support team. In such case,
+the customer support team would respond over e-mail and guide the
+customer technically on the steps to follow for resolution of his query;
+
+(b) Telephonic support:- Similarly, customer support team provides
+technical support over telephone and helps the customer to resolve
+his technical queries on the usage of Ansys Software;
+
+(c) Web Support:- It may so happen that the customer’s technical query
+could not be resolved over telephone or e-mail support - may be due
+to gap in the understanding on either side. In such cases, the
+customer support team of Ansys India may resolve the technical query
+by resorting to web support. Under Web-Support, the customer
+support team schedules a Webex meeting (interactive audiovisual
+computer based meeting) to better understand the customer’s
+technical query or to better explain the resolution methodology to the
+customer. During the Webex meeting, the customer may share
+computer screen with the Ansys Technical Support team for effective
+resolution of their technical query.
+
+The customer is entitled to TECS for a specified period and it is the
+responsibility of Ansys US to support the customer for any troubleshooting
+or technical support that he may need in using Ansys Software. For
+providing this customer support, Ansys US has engaged Ansys India. It is
+pertinent to note here that, there is privity of contract between Ansys India
+and Ansys US and not between Ansys India and customers of Ansys US.
+Thus, even though the customers of Ansys US are “users” of Post-Sales
+Technical Support Services, they are not recipients of such services.
+“Recipient” in the present case is Ansys US in respect of Post-Sales
+Technical Support Services provided by Ansys India. To further corroborate
+this point, the applicant submits that, Ansys India is remunerated by Ansys
+US and this remuneration is fixed as a percentage of sales order value for
+the respective customer or is on the basis or mechanism which may be
+
+Page 5 of 16
+
+
+
+mutually agreed. For this post-sales technical support services, Ansys India
+would issue a separate invoice on Ansys US.
+
+5.4 The applicant also states that after the specified TECS period is over,
+such customers may also place renewal orders on Ansys US for extended
+TECS period. By doing this, customers are entitled for updates / new
+releases of Ansys Software as well as 24*7 customer support as explained
+above during this extended TECS period. For the purpose of discussion and
+in the context of this application, such orders are herein after referred to as
+“TECS renewals”. The Marketing, Pre-Sales Technical Support Services, as
+well as Post Sales Technical Support Services that would be provided by
+Ansys India to Ansys US in case of Direct Orders, would also be provided in
+case of TECS renewals.
+
+5.5 The applicant submits that presently, the Marketing, Pre-Sales
+Technical Support Services and Post-Sales Technical Support Services are
+carried out by Ansys India under a single contract with Ansys US.
+
+5.6 In the past year, however, amalgamations and additions of new lines
+of business have led to a burgeoning customer base. Consequently, in order
+to face customer requests and ensure timely response, the applicant has
+been put in a situation wherein post sale technical support will be provided
+by a specially skilled team and will not be mix-up with Marketing and Pre-
+sales. Consequently, the two new teams can be identified as under:
+
+(a) Team which will provide Marketing and Pre-Sales Technical Support
+Services; and
+
+(b) Team which will be providing Post-Sales Technical Support Services.
+
+In this behalf, Ansys India is in the process of entering into two separate
+agreements with Ansys US -
+
+(a) one for Marketing and Pre-Sales Technical Support Services where
+the consideration will be based on a fixed percentage of the Sales
+Order Value of the respective customer on the orders where Ansys
+India provided Marketing and Pre-Sales technical support services to
+Ansys US or is on the nasis or mechanism which may be mutually
+agreed.
+
+(b) Other for providing Post Sales Technical Support Services where the
+consideration from Ansys US will be a fixed percentage of the Sales
+Order value of the respective customer where Ansys India provided
+
+Ansys s/w Page 6 of 16
+
+
+Post Sales Technical Support Services or will be on a basis or
+mechanism which may be mutually agreed.
+
+Accordingly, Ansys India would be remunerated separately by Ansys
+US for each of the above referred activities distinctly. In this context, the
+applicant states that it is important to note that the agreements will be
+mutually exclusive and it is not necessary that post-sales technical support
+will necessarily flow as a result of Marketing and Pre-Sales Technical
+Support.
+
+6, Regarding the legal issues in relation to Marketing and Pre-Sales
+technical support services, in order to classify the said services, the
+applicant refers to the definition of “Intermediary” which has been defined
+under Section 2(13) of the IGST Act, 2017 as under:
+
+“13. “intermediary” means a broker, an agent or any other person,
+by whatever name called, who arranges or facilitates the supply of
+goods or services or both, or securities, between two or more persons,
+but does not include a person who supplies such goods or services or
+both or securities on his own account.”
+
+The applicant states that on bare reading of the above definition, one
+may infer that intermediary is the one who arranges or facilitates supply of
+goods or services but does not supply such goods or services on his own
+account. This, the service provided by intermediary involves two supplies —
+
+(i) Supply of goods or services by the supplier to his customer (we may
+refer this as “main supply”); and
+
+(li) Services of the intermediary of arranging or facilitating the “main
+supply”.
+
+6.1 The applicant discusses the dictionary meaning of the terms
+“arrange” and “facilitate” and states as under:
+
+The Merriam-Webster Dictionary defines the term “arrange” as:
+
+(a) To put into a proper order or into a correct or suitable sequence,
+relationship, or adjustment;
+
+(b) To make preparations for; and
+(c) To bring about an agreement or understanding.
+
+Page 7 of 16
+
+
+
+The Dictionary meaning of the term “facilitate” is “to make easier”
+
+If we read the dictionary meanings of the terms of “arrange” and
+“facilitate” into the definition of intermediary, then the applicant is of the
+view that the intermediary is one who makes the preparations for main
+supply or who makes the provision of main supply easier or who brings
+about an agreement or understanding between the supplier and customer
+as regards main supply. Thus, the intermediary is a connecting link between
+the supplier and customer, who helps the supplier to provide his supply to
+the customer and / or helps the customer to receive supply from the
+supplier.
+
+6.2 In the present case, the applicant states that in case of direct orders
+placed by Indian customers on Ansys US or Global Orders where the
+customer in India uses Ansys Software as well as in case of TECS renewals,
+Ansys India provides Marketing and Pre-Sales Technical Support Services to
+Ansys US. Under this activity, Ansys India helps the customer to
+understand the functionality of Ansys Software, how it is relevant for
+customer’s needs in terms of automated solutions, reduced response and
+turnaround time and cost savings in developing a new product.
+
+6.3 Ansys India makes it easier for the potential customer to make an
+objective and informed decision of buying Ansys Software and Ansys US.
+Thereby, Ansys India creates a platform for Ansys US to sell Ansys Software
+to Indian customers. However, Ansys India in such cases does not sell Ansys
+Software on its own account. Ansys India merely acts as a facilitator or
+arranger in the sale of Ansys Software by Ansys US to Indian customers.
+
+6.4 Having regard to the above, the applicant is of the view that they
+would be regarded as “intermediary” in terms of Section 2(13) of the IGST
+Act, 2017, as regards provision of Marketing and Pre-Sales Technical
+Support Services.
+
+6.5 Having regard to the above, the applicant is of the view that HSN Code
+applicable for Pre-Sales Technical Support Services, in the capacity of
+intermediary, under Notification No.11/2017 (Rate) dated 28t» June, 2017,
+would be as per the table below:
+
+Section No. Description
+Distributive Trade Services; Accomodation, Food and
+6 Beverage Service; Transport Services; Gas and Electricity
+
+Distribution Services
+Ansys s/w Page 8 of 16
+
+
+
+Heading Description
+
+No.
+9961 Services in wholesale trade
+Services of commission agents, commodity brokers, and
+auctioneers and all other traders who negotiate wholesale
+99611 A :
+commercial transactions between buyers and sellers, for a
+fee or commission
+HSN Description 2255
+Services provided for a fee / commission or contract basis
+996111
+on wholesale trade
+Tes Regarding the Post-Sales Technical Support Services, the applicant
+
+makes the following submissions
+
+Tel Regarding Classification of Post-Sales Technical Support Services:
+the applicant has been engaged by Ansys US for providing 24*7 Technical
+Support Services to the customers in India who have placed direct orders on
+Ansys US or are part of Global Orders involving them as well as in case of
+TECS renewals. The Technical Support team employed by the applicant
+provides the troubleshooting and technical support services to the
+customers through either e-mail, telephone or web-support and thereby the
+customer support team resolves their technical queries or troubleshooting
+issues in using Ansys Software.
+
+ee The applicant states that it is the responsibility of Ansys US to
+support the customers for any troubleshooting or technical support that
+they may need in using Ansys Software and for providing this customer
+support, Ansys US has engaged Ansys India. The post-Sales Technical
+Support Services in the present case that the applicant provides to Ansys
+US is on a principal to principal basis and it is provided by the applicant on
+their own account.
+
+7.3 In order to determine the classification of Post-Sales Technical
+Support Services under the GST Law, the applicant refers to the services
+rate notifications issued under the GST Law. Both the Central Government
+and the Karnataka State Government, on the recommendation of the GST
+Council, have issued Notification No.11/2017 (Rate) dated 28" June 2017,
+and 29th June 29th 2017 respectively, prescribing the rate of tax for service
+under the GST Law. The applicant draws the attention to the explanation to
+the rate notification no.11/2017 which states that:
+
+Page 9 of 16
+
+
+
+(ii) Reference to “Chapter”, “Section” or “Heading”, wherever
+they occur, unless the context otherwise requires, shall mean
+respectively as “Chapter”, “Section” and “Heading” in the
+annexed scheme of classification of services.”
+
+Thus, along with the rate notification, a detailed annexure for the
+scheme of classification of services has been given.
+
+7.3.1. On perusal of Notification No.11/2017 of the GST Law and detailed
+annexure thereto, the applicant is of view that Post Sales Technical Support
+Services would be classified as under:
+
+Section No. Description
+8 Business and Production Services
+Heading No. Description
+9983 (ii) Other professional, technical and business services
+Group No. Description
+Management Consulting and management __ services;
+99831 : : ?
+information technology services
+HSN } Description
+Information Technology (IT) Consulting and Support
+998313 :
+Services
+
+7.3.2 The applicant refers to the Explanatory Notes to the Scheme of
+Classification of Services” issued on 12th June 2018, by the Central Board of
+Indirect Taxes and Customs, wherein it is specified that:
+
+«
+
+3. The explanatory notes indicate the scope and coverage of the
+heading, groups and service codes of the Scheme of Classification of
+Services. These may be used by the assessee and the tax
+administration as a guiding tool for classification of services.
+However, it may be noted that where a service is capable of
+differential treatment for any purpose based on its description, the
+most specific description shall be preferred over a more general
+description.”
+
+Thus, these explanatory notes to the scheme of classification of
+services issued by the Central Board of Indirect Taxes and Customs may be
+used as a guide in determining the correct classification of services under
+the GST Law.
+
+7.3.3. For the purposes of ascertaining the scope and coverage of HSN Code
+998313, the applicant brings to the notice the following extracts:
+Ansys s/w Page 10 of 16
+
+
+“998313 — Information technology (IT) consulting and support services
+This service includes... .
+
+ftii) co...
+
+(iv) Providing technical expertise to solve problems for the client in
+using software, hardware, or an entire computer system, such as
+provision of customer support in using or troubleshooting the
+software, upgrade services and the provision of patches and
+updates, provision of customer support in using or
+troubleshooting the computer hardware, including testing and
+cleaning on a routine basis and repair of IT equipment, technical
+assistance in moving a client’s computer system to a new
+location, provision of customer support in using or troubleshooting
+the computer hardware and software in combination;
+
+fOeee 2
+
+The applicant states that in the present case, he provides customer
+support in using or troubleshooting the Ansys Software. Thus, in their view,
+Post-Sales Technical Support Services would merit classification under HSN
+998313.
+
+8. With regard to the classification the applicant is of the opinion that
+the classification cannot be determined by the manner of computing
+remuneration. In this regard, the applicant has submitted that payment of
+consideration to the applicant for Post-Sales Technical Support Services asa
+percentage of order value is merely a basis to compensate the applicant for
+the services provided, and it cannot and ought not to have any bearing in
+the determining the classification of Post-Sales Technical Support Services.
+Classification ought to be determined taking into consideration the nature of
+services rendered by the service provider and detailed annexure to services
+rate notification no.11 with guidance from explanatory notes issued by CBIC
+and not by reference to the manner of calculating consideration payable for
+the same.
+
+8.1 In this regard, the applicant places reliance on the decision of
+Hon’ble CESTAT, Bangalore in the case of GE India Technology Center Pvt.
+Ltd [2014 (36) STR 1109 (Tri-Bang)] in which the Hon’ble Tribunal observed
+that the method by which consideration is determined cannot be the basis of
+classification of service. The basis has to be the fact that the service
+provided should fit into the definition of service under which it is supposed
+to be categorized. Though this decision has been rendered in the context of
+Service Tax Law, the ratio of this decision still holds good even under GST
+Law. Thus, in the applicant’s case, even though the consideration is payable
+
+Page 11 of 16
+
+
+
+as a percentage of order value or it may be as per the basis or mechanism
+which may be mutually decided, the applicant is of the view that the
+classification is Post-Sales Technical Support Services would remain the
+same, i.e. Information Technology (IT) Consulting and Support Services
+(HSC 998313).
+
+PERSONAL HEARING / PROCEEDINGS HELD ON 31.12.2018.
+9. Sri Srikanth Balakrishnan, Chartered Accountant and duly authorised
+representative of the applicant appeared for personal hearing proceedings
+
+held on 31.12.2018, reiterated the facts narrated in their application and
+submitted copies of relevant documents.
+
+10. FINDINGS & DISCUSSION:
+
+10.1 We have considered the submissions made by the Applicant in
+their application for advance ruling as well as the submissions made by
+Sri Srikanth Balakrishnan, Chartered Accountant and duly authorised
+representative of the applicant during the personal hearing. We have also
+considered the issues involved, on which advance ruling is sought by the
+applicant, and relevant facts.
+
+10.2 At the outset, we would like to state that the provisions of both the
+CGST Act and the KGST Act are the same except for certain provisions.
+Therefore, unless a mention is specifically made to such dissimilar
+provisions, a reference to the CGST Act would also mean a reference to the
+same provisions under the KGST Act.
+
+10.3 The nature of the transactions of the applicant as explained by
+him in his application is examined. It was found that there are two types
+of transactions of the applicant which are proposed to be treated
+independently by different contracts entered between the Ansys US and
+Ansys India — one for Marketing and Pre-Sales Technical Services and
+another for the Post Sales Technical Services.
+
+10.4 The nature of Marketing and Pre-sales Technical Support Services
+is examined and this involves the following functions:
+
+(i) Understanding of the customer’s requirements, showcasing of the
+Ansys Software to the customer and helping the customer to
+understand the functionality of Ansys Software and its relevance to
+
+Ansys s/w Page 12 of 16
+
+
+their needs. Ultimately, it helps the customer to decide on the
+product they want to procure.
+
+(ii) Explore new business opportunities with the existing customers by
+interacting with the customers;
+
+(iii) Once the order is placed by the Customer on Ansys US, the
+applicant would co-ordinate with the customer and Ansys US for
+signing og software licence agreement and other related
+documentation.
+
+(iv)The applicant would also help in follow up for collection of Invoice
+value from the customer.
+
+Hence it is very clear that the applicant is performing all the
+necessary pre-sale co-ordination work so that the parent company can
+make the supply of the relevant software. Performing the necessary work
+would amount to amount to facilitation of the supply. And as the
+applicant is facilitating the supply of goods or services or both by the
+parent company to other persons, and is not making the supply in its own
+account, he would be covered under the definition of an “intermediary”
+under the clause (13) of section 2 of the Integrated Goods and Services
+Tax Act, 2017 as far as the supply of marketing and pre-sales technical
+support services are concerned. The applicant is also of the same view
+that it would qualify as “intermediary”.
+
+10.5 Further, this supply of marketing and pre-sale technical support
+services is in the nature of selecting a customer, analyzing the
+requirements of the customers, showcasing the product, convincing of the
+features of the product which would meet the requirements of the
+customers, finalization of the product that is required by the customer,
+and after the order is placed on the overseas parent company, following it
+with the finalization of documentation and collection of invoice value — all
+amounts to the provision of Distributive trade services under Heading
+996111, the description of which is “Services provided for a fee or
+commission or on contract basis on wholesale trade”. This is clear from
+the reason that the consideration for the above service is fixed as a
+percentage of the Sales Order Value of the respective customer.
+
+LY. Regarding the classification of Post-Sales Technical Support
+Services, which is the second question, the nature of transaction is
+providing the persons who have purchased Ansys Software and using it,
+24*7 customer support either through e-mail or through telephone or
+Page 13 of 16
+
+
+
+through Web-Support. The contract is between the end customers and the
+parent company in US and the applicant is providing the services to the
+end-customers on behalf of the parent company and charging the parent
+company for the services provided. The consideration is also fixed as a
+percentage of sales order value for the customer.
+
+11.1 Clause (93) of the Central Goods and Services Tax Act defines the
+“recipient” as under
+
+“(93) “recipient” of supply of goods or services or both, means —
+
+(a) where a consideration is payable for the supply of goods or
+services or both, the person who is liable to pay that
+consideration;
+
+(b) where no consideration is payable for the supply of goods,
+the person to whom the goods are delivered or made
+available, or to whom possession or use of the goods is given
+or made available; and
+
+(c) where no consideration is payable for the supply of a service,
+the person to whom the service is rendered,
+
+and any reference to a person to whom a supply is made shall be
+construed as a reference to the recipient of the supply and shall
+
+include an agent acting as such on behalf of the recipient in relation
+to the goods or services or both supplied;”
+
+Further, clause (105) of section 2 of the Central Goods and Services Tax
+Act, 2017 defines the supplier of goods or services or both as under:
+
+“(105) “supplier” in relation to any goods or services or both, shall
+mean the person supplying the said goods or services or both and
+shall include an agent acting as such on behalf of such supplier in
+relation to the goods or services or both supplied;”
+
+For the services rendered by the applicant to the end-customer of Ansys
+US, the recipient of supply of services would be the person who is liable to
+pay that consideration, and as per the terms of the contract, the parent
+company makes the payment of consideration to the applicant for the
+
+services rendered to the end-customers by the applicant on behalf of the
+parent company.
+
+Ansys s/w Page'14 of 16
+
+
+11.2 The applicant has also stated at the time of hearing, the Ansys
+software which is supplied is an off the shelf software and is not designed
+specifically for each customer. The post-sale technical support service is
+in relation to the software supplied by the parent company and the
+service supplied is troubleshooting and technical support services
+provided to the end-customers on behalf of parent company. The parent
+company would be the recipient of services as per clause (91) of section 2
+of the Central Goods and Services Tax Act and the applicant would be the
+supplier of services. *
+
+11.3. Since the services provided is in providing support to the software
+supplied earlier, the same amounts to provision of information technology
+services which is covered under Heading 9983 - Other professional,
+technical and business services and Group 99831 - Management
+Consulting and Management Services; Information Technology Services
+and Service Code 998313 - Information Technology consulting and
+support services. The explanatory note to the scheme of classification of
+services also states that 998313 - Information Technology consulting and
+support services includes the provision of customer support in using or
+troubleshooting the software, upgrade services and the provision of
+patches and updates. Hence the services supplied is Information
+Technology Support Services covered under Service Code 998313 to the
+end-customer on behalf of the parent company by the applicant and by
+virtue of the clause (91) of section 2 of the CGST Act, the recipient of such
+service would be the parent company, as the consideration is receivable
+from the parent company. The manner of computing the value of supply is
+not changing the nature of services provided and hence there is no need
+to discuss the method of valuation of supply. It is only a method adopted
+to value the supply. Further, no ruling is given on the place of supply of
+such services supplied and we only restrict the ruling only to the question
+per se brought before us regarding the correct classification of the
+services provided.
+
+12. In view of the foregoing, we pass the following
+RULING
+
+1. The Marketing and Pre-sales Technical Support Services
+provided by the applicant will be classified as Intermediary
+services in terms of Section 2(13) of the Integrated Goods and
+Services Tax Act, 2017
+
+Page 15 of 16
+
+
+
+2. The Post-Sales Technical Support Services provided by the
+
+applicant is classified as Information Technology Support
+Services falling under Service Code 998313.
+
+BE. op
+
+(Harish Dhar
+Member
+
+Place : Bengaluru,
+
+Date : 12-09-2019
+
+To,
+
+The Applicant
+
+Copy to:
+
+The Principal Chief Commissioner of Central Tax, Bangalore Zone, Karnataka.
+The Commissioner of Commercial Taxes, Karnataka, Bengaluru.
+
+The Commissioner of Central Tax, Bangalore South Commissionerate, Bengaluru.
+
+The Asst. Commissioner, LGSTO-15, Bengaluru.
+
+Ansys s/w
+
+Page 16 of 16

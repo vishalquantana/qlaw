@@ -1,0 +1,340 @@
+Page 1 of 7 
+ 
+GUJARAT AUTHORITY FOR ADVANCE RULING  
+GOODS AND SERVICES TAX 
+A/5, RAJYA KAR BHAVAN, ASHRAM ROAD, 
+AHMEDABAD – 380 009. 
+ 
+ 
+ADVANCE RULING NO.   GUJ/GAAR/R/2022/30  
+(IN APPLICATION NO. Advance Ruling/SGST&CGST/2022/AR/12) 
+ 
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Date:11.05.2022 
+ 
+Name and address of the 
+applicant 
+: M/s. Adani Green Energy Ltd.,  
+56, Shrimali Society, Adani House,  
+Near Mithakhali Six Roads, Navrangpura, 
+Ahmedabad – 380009, Gujarat 
+GSTIN/ 
+User 
+Id 
+of 
+the 
+applicant 
+: 24AANCA1814G1ZZ 
+Date of application 
+: 26/02/22 
+Clause(s) of Section 97(2) of 
+CGST / GGST Act, 2017, 
+under which the question(s) 
+raised. 
+: (e)     
+Date of Personal Hearing 
+:  22/03/22 
+Present for the applicant 
+: Shri Ankit Shah, Vice President (Finance), 
+Shri Gopal Chosla, General Manager,  
+Shri Sachin Agarwal, Associate Manager,  
+Shri Vishal Agarwal, Advocate 
+ 
+ 
+Brief facts: 
+ 
+1. 
+ M/s. Adani Green Energy Ltd. (for the sake of brevity referred to as ‘AGEL’) 
+submitted that it requires substantial working capital to undertake its supplies and for 
+this purpose it has raised USD 750 million by issuing Senior Secured Notes (Notes) 
+carrying interest coupon of 4.375% due for redemption in 2024 in terms of Subscription 
+Agreement dated 1st September 2021 entered into with Axis Bank Limited, Singapore 
+and others for acting as Managers. All the Managers do not have any establishment in 
+India and have been incorporated outside India and undertake business from their 
+establishment outside India. A copy of the Subscription Agreement was submitted. 
+2.  
+AGEL submits that in terms of Section 5 of the US Securities Act, 1933 it is 
+impermissible for an issuer to issue or offer for sale any security unless the security is 
+registered with the U.S. Securities Exchange Commission (SEC), except in respect of 
+securities being offered in terms of Regulation S (for sale outside US jurisdiction) or on a 
+private placement basis. Further, it is submitted that Rule 144A of the US Securities Act, 
+1933 provides that resale of securities to Qualified Institutional Buyers (QIBs), which 
+have been privately placed in the USA, would be permissible without such security 
+being registered with the SEC. Since the registration of a security with the SEC is a 
+
+
+Page 2 of 7 
+ 
+cumbersome process, virtually most of the issues are made under Rule 144A, where the 
+entity with whom the private placement is made, (i.e. the Manager of the issue), 
+technically purchases the Notes and simultaneously resells the same to the actual 
+investors to the issue.  
+3. 
+AGEL submitted that it identifies the Managers, whose role is to solicit and get 
+the requisite subscribers to the issue. An informal understanding is arrived at between 
+the issuer and the Managers, wherein it is agreed that only when the Managers have 
+secured the requisite number of investors to subscribe to the issue at a broadly agreed 
+coupon (interest) rate, through a book building process, would the Subscription 
+Agreement be executed and the issue be launched. Further that in case the Managers are 
+unable to arrange for the requisite number of subscribers at the agreed coupon rate, the 
+issuer may choose not to launch the issue for subscription. In such a situation, the 
+Managers would not be entitled to any fee whatsoever.  
+4. 
+AGEL submitted that in the present case as well, the negotiation with the 
+Managers to arrange for subscribers commenced much prior to the execution of the 
+Agreement on 1st September 2021. Prior thereto, the Managers undertook the activity of 
+coordinating between the subscribers and the AGEL so as to arrange for subscription for 
+the issue. By the time the agreement was executed, the Managers had collectively 
+secured subscribers, sufficient to subscribe to the entire offering.  
+5. 
+AGEL submitted that the entire process of issuing Notes starts with the issue of 
+Preliminary Offering Circular which sets out the proposed issue size, details of the 
+issuer, etc. Basis the same, the Manager initiates the process of book building by 
+informing potential investors about the coupon rate at which the issuer intends to offer 
+the Notes. For this purpose, the Managers undertake a gamut of activities viz. 
+scheduling meetings between the issuer and the investors, arrange road shows for 
+prospective investors, liasoning between investors and the issuer, communicate with 
+investors, collect proceeds of the subscription and transfer the same to the Note Trustee 
+for payment to the issuer etc. The Manager also solicits counter offers from investors 
+who are willing to invest in the issue.  The offers and counter-offers are recorded in 
+Bloomberg and then aggregated and negotiated by the Manager between the investors 
+and the issuer. On basis of the offers received, the issuer communicates the final coupon 
+rate. After which, the Manager seeks the final offer from potential investors and then the 
+issuer issues a Term Sheet. The Manager proceeds to confirm the subscription amount 
+on basis of the confirmations from the investors. Only after such confirmation, the 
+Subscription Agreement between the Manager and the issuer is signed.  
+6. 
+AGEL submits that it is only to comply with the SEC requirements for seeking 
+exemption from registration that the Subscription Agreement stipulates that the 
+
+
+Page 3 of 7 
+ 
+Managers have also agreed to subscribe and pay for the Notes for the amounts set out in 
+Schedule 4 to the Agreement. The aforesaid activity at times, is loosely referred to by the 
+Managers as Underwriting or at times, as Initial Purchase. A redacted version of one of 
+the subscription agreements where the expression ‘initial purchase’ has been used as 
+against ‘underwriting’ is attached herewith as Exhibit B.  
+7. 
+AGEL submitted that the expression Underwriting under the US Securities Act, 
+1933 has a different colloquial meaning as compared to that commonly understood 
+under the Indian laws, where underwriting is primarily an activity wherein the 
+bankers/managers agree to themselves subscribe to the security, in the event of not 
+receiving subscription for the entire issue. However, under the US laws, the expression 
+underwriting is understood to mean the purchasing of securities for reselling.  
+8. 
+AGEL submits that in terms of clause 11 of the Subscription Agreement, a fee, as 
+mutually agreed, is to be paid to the Managers. Accordingly, Fee Letter dated 28th 
+September, 2021 has been executed by the Applicant with each Manager individually. 
+The said Fee Letter in Annexure A sets out the specific activities that the Manager has 
+actually performed, in addition to book building whereas Annexure B sets out the 
+consideration to be paid to the Managers. A copy of the proposed Fee Letter was 
+submitted.  
+9. 
+AGEL submits that the service of arranging for subscribers to the Notes issued by 
+it, through the book building process, is a service being rendered by the Managers as an 
+intermediary, which is defined in section 2(13) of the Integrated Goods & Services Tax 
+Act, 2017 (IGST Act) to mean “a broker, an agent or any other person, by whatever name 
+called, who arranges or facilitates the supply of goods or services or both, or securities, 
+between two or more persons, but does not include a person who supplies such goods or 
+services or both or securities on his own account”.  
+a. 
+AGEL has submitted that the Managers had been engaged to procure subscribers 
+to subscribe and pay for the Notes being issued by it. For this purpose, the 
+Managers were to interalia initiate the process of book building by informing the 
+potential investors about the coupon rate at which the issuer intends to offer the 
+Notes for subscription, solicit counter offers from investors who are willing to 
+invest in the issue, record the offer on Bloomberg, aggregate the offers and 
+counter-offers and negotiate between the investors and the issuer for finalizing 
+the coupon rate. The Managers were also to schedule meetings between the AGEL 
+and the investors, arrange road-shows for prospective investors, liaison between 
+investors and the AGEL, communicate with investors, collect proceeds of the 
+subscription and transfer the same to the Note Trustee for payment to the AGEL, 
+ensure that the Notes are issued by the Note Trustee to the investor, etc. These 
+
+
+Page 4 of 7 
+ 
+activities fall squarely within the definition of “intermediary” qua the services of 
+arranging for potential subscribers to the Notes issued by the AGEL.   
+b.  
+It is submitted that CBIC has also issued Circular No. 159/15/2021-GST dated 
+20.09.2021 clarifying the scope of intermediary in terms of which the activity 
+undertaken by the Managers clearly falls within the ambit of an intermediary.  
+10. 
+AGEL submits that for there to be a supply leviable to tax under Section 5 of the 
+IGST Act, there has to be an inter-state supply of goods or services.  
+11. 
+Section 7 provides for the determination of inter-state supplies. Sub-section (4) 
+thereof provides that supply of services imported into the territory of India shall be 
+treated to be a supply of services in the course of inter-State trade or commerce.  
+12. 
+The term import of services is defined in section 2(11) of the IGST Act as: 
+“(11) “import of services” means the supply of any service, where- 
+ 
+(i) the supplier of service is located outside India; 
+ 
+(ii) the recipient of service is located in India; and  
+ 
+(iii) the place of supply of service is in India;”  
+13. 
+Section 13 of the IGST Act applies for determining the place of supply of services 
+where the location of the supplier of services or the location of the recipient of services is 
+outside India. The expression ‘location of the supplier of services’ has been defined in 
+Section 2(15) to interalia mean the location or usual place of residence of the supplier. The 
+expression usual place of residence has been defined in Section 2(113) to mean the place 
+where the person is incorporated or otherwise legally constituted. The Managers in 
+question have all been incorporated or legally constituted outside India, while the 
+location of the recipient of services i.e. AGEL is within India. Consequently, the 
+determination of the place of supply of services would have to be under Section 13 of the 
+IGST Act.  
+14. 
+AGEL submitted that as per section 13(8)(b) of the IGST Act, the place of supply 
+of intermediary services shall be the location of the supplier. In this case, the supplier, 
+i.e. the Managers are located outside India, and therefore the place of supply of services 
+is outside India.  
+15. 
+The third condition in the definition of import of services is that the place of 
+supply of services must be in India for the service to be covered. In the present case, the 
+place of supply of intermediary services by the Managers is outside India and the said 
+service does not qualify as an import of services. 
+16. 
+AGEL submits that the intermediary services supplied by Managers outside India 
+do not fall within the scope of interstate supplies and hence there can be no levy of GST 
+on the same. 
+
+
+Page 5 of 7 
+ 
+17. 
+AGEL submits that since the place of supply of intermediary services supplied by 
+the Managers is outside India, the same are not taxable and there can be no question of 
+any GST liability on AGEL under the reverse charge mechanism.  
+18. 
+AGEL submits that though the real purport of the transaction is one as explained 
+in the facts above, however, only with a view to comply with the provisions of SEC, the 
+Managers technically purchase the securities and resell the same to the investors. 
+Accordingly, if one does not go by the substance of the transaction, then the same is a 
+transaction for purchase and sale of securities, which is outside the scope of GST. 
+Consequently, the amount nomenclated as fee, paid to the Mangers, is nothing but a 
+discount offered to the Mangers on the face value of the security, for their agreeing to 
+initially purchase the Notes, on which no GST is leviable.  
+ 
+ Question on which Advance Ruling sought 
+ 
+19.  Whether the Applicant is liable to discharge GST under the reverse charge 
+mechanism in respect of the services of arranging for subscription supplied to the 
+Applicant, by the Managers located in the non-taxable territory? 
+ 
+ Personal Hearing 
+ 
+20 
+Shri Ankit Shah, Vice President (Finance), Shri Gopal Chosla, General Manager, 
+Shri Sachin Agarwal, Associate Manager, Shri Vishal Agarwal, Advocate attended the 
+Virtual Hearing on 22-3-22 and reiterated the submission. 
+Revenue’s Submission 
+ 
+21. 
+Revenue has neither submitted its comments nor appeared for hearing.  
+ 
+Findings: 
+22.    At the outset, we would like to state that the provisions of both the CGST Act and 
+the GGST Act are the same except for certain provisions. Therefore, unless a mention is 
+specifically made to such dissimilar provisions, a reference to the CGST Act would also 
+mean a reference to the same provisions under the GGST Act. 
+23. 
+The issue before us hinges whether the Manager is an intermediary.  
+24.    We have carefully studied the submissions before us and find the following facts 
+emerging: 
+i. 
+Manager arranges & facilitates coordination between the AGEL who issues 
+the Notes and the (potential) Investors subscribing to the Notes. Manager 
+solicits and arranges investors for subscribing to Notes issued by AEG.  
+
+
+Page 6 of 7 
+ 
+ii. 
+Manager initiates the process of book building by informing potential 
+investors about the coupon rate at which the AGEL intends to offer the 
+Notes. For this, Managers undertake a gamut of activities viz.  
+ 
+a. scheduling meetings/ liasoning between the AEG and the investors,  
+b. arrange road-shows for prospective investors. 
+c. Manager also solicits counter offers from investors who are willing to 
+invest in the issue.  The offers and counter-offers are recorded in 
+Bloomberg and then aggregated and negotiated by the Manager 
+between AGEL and investors. Then after, AGEL communicates the final 
+coupon rate, after which, the Manager seeks the final offer from 
+potential investors. The Manager proceeds to confirm the subscription 
+amount on basis of the confirmations from the investors. Manager is 
+required to secure a requisite number of investors to subscribe to the 
+Notes at a broadly agreed coupon rate, then after the Subscription 
+Agreement would be executed and Issue be launched. 
+d. communicate with investors; collect proceeds of the subscription and 
+transfer the same to the Note Trustee for payment to the AGEL.   
+iii. 
+Manager distributes the disclosure documents prepared by AGEL in 
+connection with the offering and sale of Notes.   
+iv. 
+In case the Manager is unable to arrange for the requisite number of 
+subscribers at the agreed coupon rate, AGEL may choose not to launch the 
+issue for subscription. In such a situation, the Manager would not be 
+entitled to any fee whatsoever. 
+ 
+25.    We refer to Section 2(13) IGST Act, 2017, reads as follows: 
+“2(13) “intermediary” means a broker, an agent or any other person, by whatever name 
+called, who arranges or facilitates the supply of goods or services or both, or securities, 
+between two or more persons, but does not include a person who supplies such goods or 
+services or both or securities on his own account;”  
+25.1   The words facilitate/ arrange are not defined in CGST Act. We refer to 
+Merriam Webster Dictionary for meaning of words facilitate and arrange:  
+‘Facilitate: to make (something) easier, to help cause (something); to help (something) run smoothly 
+and effectively. 
+Arrange: to bring about an agreement or understanding concerning; to make preparations, to move 
+and organise (things) into a particular order or position, to organise the details of something before it 
+happens, to plan (something).’ 
+ 
+26. 
+We find that AGEL issues Notes which are subscribed by Investors. We 
+find that the Senior Secondary Notes issued by AGEL are in the nature of 
+securities. The main supply of Notes is between AGEL and investors both acting 
+as Principals and the Manager is supplying ancillary supply of arranging the 
+main supply between the Principals. We note that an intermediary includes a 
+person who arranges/ facilitates supply of securities between two or more 
+persons. We find that Manager has the characteristics of an agent and a broker, 
+performing subsidiary role in arranging the said main supply. We note that 
+Manager’s role is supportive in main supply. We find the Manager satisfying the 
+definition of Intermediary as per IGST Act. We agree with AGEL that place of 
+
+
+Page 7 of 7 
+ 
+supply in present case is determined as per Section 13(8)(b) IGST Act which is 
+the location of Manager. Both the Manager and Place of Supply both being in 
+non-taxable territory, subject transaction is not an import of service as place of 
+supply is outside India. 
+27. 
+In conspectus of aforementioned Findings, We pass the Ruling, 
+Ruling 
+ 
+GST is not leviable on subject transaction under RCM by AGEL. 
+ 
+ 
+ 
+   (ATUL MEHTA)                      
+ 
+ 
+    (ARUN RICHARD)    
+    MEMBER (S)                 
+ 
+                         MEMBER (C) 
+Place: Ahmedabad 
+Date: 11.05.2022

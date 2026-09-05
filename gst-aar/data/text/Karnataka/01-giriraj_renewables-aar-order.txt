@@ -1,0 +1,1220 @@
+Page 1 of 26 
+ 
+THE AUTHORITY ON ADVANCE RULINGS 
+ IN KARNATAKA 
+GOODS AND SERVICE TAX 
+VANIJYA THERIGE KARYALAYA, KALIDASA ROAD 
+GANDHINAGAR, BENGALURU – 560 009 
+ 
+Advance Ruling No.  KAR ADRG 01 / 2018 
+Dated:  21st March, 2018 
+ 
+Present: 
+ 
+1. Sri. Harish Dharnia, 
+Joint Commissioner of Central Tax, 
+                                                                               . . . . Member (Central Tax) 
+2. Dr. Ravi Prasad M.P. 
+Joint Commissioner of  
+Commercial Taxes                                                   . . . . Member (State Tax) 
+ 
+ 
+1. 
+Name and address of the 
+applicant 
+M/s Giriraj Renewables Private Ltd.,  
+I Floor, CTS 906/B, Shivaji Galli, 
+Basavan Bagewadi, Dist. Vijayapura 
+(Bijapur), Karnataka – 586 203 
+2. 
+GSTIN or User ID 
+29AACCE0525D1Z4 
+3. 
+Date of filing of Form GST 
+ARA-01 
+24.11.2017 
+4. 
+Represented by 
+ 
+Sri. Prashant Agarwal, Partner 
+M/s Pricewaterhouse Coopers Pvt. Ltd., 
+Building No.10, 17th Floor, Tower C, 
+DLF Cyber City, Gurgaon – 122 002. 
+ 
+5. 
+Jurisdictional Authority – 
+Centre 
+Assistant Commissioner, Central Tax & 
+C.Ex., Vijaypur – 586 102.  
+6. 
+Jurisdictional Authority – State 
+ 
+N A 
+ 
+7. 
+Whether the payment of fees 
+discharged and if yes, the 
+amount and CIN 
+Yes, discharged fee of Rs.5,000/-  
+CIN number IBKL17112900071003 
+dated 16.11.2017. 
+ 
+ 
+ 
+ORDER UNDER SUB-SECTION (4) OF SECTION 98 OF CENTRAL GOODS 
+AND SERVICE TAX ACT, 2017 AND UNDER SUB-SECTION (4) OF SECTION  
+98 OF KARNATAKA GOODS AND SERVICES TAX ACT, 2017 
+ 
+1. 
+M/s Giriraj Renewables Private Ltd., (called as the ‗Applicant‘ 
+hereinafter), I Floor, CTS 906/B, Shivaji Galli, Basavan Bagewadi, Dist. 
+Vijayapura 
+(Bijapur), 
+Karnataka 
+– 
+586203, 
+having 
+GSTIN 
+number 
+29AACCE0525D1Z4, have filed an application for Advance Ruling under 
+Section 97 of CGST Act,2017, KGST Act, 2017 & IGST Act, 2017 read with Rule 
+
+
+Page 2 of 26 
+ 
+104 of CGST Rules 2017 & KGST Rules 2017, in form GST ARA-01.  They also 
+enclosed 
+copy 
+of 
+challan 
+for 
+Rs.5,000/- 
+bearing 
+CIN 
+number 
+IBKL17112900071003 dated 16.11.2017. 
+ 
+ 
+2. 
+The Applicant is an EPC contractor and enters into contract with various 
+developers who desire to set up and operate solar photovoltaic plants for 
+supply of power generated.  The contracts are for supply of goods as well as 
+services.  The applicant has sought advance ruling in respect of the following 
+questions: 
+a) Whether supply of turnkey Engineering, Procurement & Construction 
+(‗EPC‘) Contract for construction of solar power plant wherein both goods 
+and services are supplied can be construed to be a Composite Supply in 
+terms of Section 2(30) of CGST Act, 2017. 
+b) If Yes, Whether the Principal Supply in such case can be said to be ‗Solar 
+Power Generating System‘ which is taxable at 5% GST. 
+c) Whether benefit of concessional rate of 5% of solar power generation 
+system and parts thereof would also be available to sub-contractors. 
+ 
+4. 
+The applicant furnishes, in exhibit II to the application, some facts 
+relevant to the stated activity: 
+ 
+a. 
+The applicant is an EPC contractor & enters into contract with 
+various developers who desire to set up and operate solar 
+photovoltaic plants for supply of power generated.  In various 
+cases, the Applicant also is a project developer wherein it is 
+engaged in operation of renewable energy power plant projects. 
+ 
+b. 
+Typically a turnkey contract is entered into by the Applicant to do 
+end to end setting up of a solar power plant which includes supply 
+of various goods (such as modules, structures, inverter 
+transformer etc.,) as well as complete design, engineering and 
+studies transportation, unloading, storage and site handling, 
+installation 
+and 
+commissioning 
+of 
+all 
+equipments 
+and 
+material, complete project maintenance as well as supply and 
+
+
+Page 3 of 26 
+ 
+construction related in various other packages for complete 
+PV plants. 
+ 
+c. 
+Accordingly, the contract entered into by the Applicant, includes 
+end to end activities i.e. supply of various goods and services 
+intended for setting up, operation and maintenance of a solar 
+power plant. 
+ 
+d. 
+The intent of the contract is that the entire contract would be 
+undertaken by the Applicant for supply of both goods and services 
+and setting up of the solar power plant as well as transmission 
+lines for transmission of the electricity generated up to the 
+storage or the GRID. 
+ 
+e. 
+There may be a single lump sum price for the entire contract 
+for supply of both goods and services and payment terms may be 
+defined depending on various milestones. 
+The applicant also provided a diagrammatic illustration of the solar 
+power system. 
+ 
+ 4. 
+The applicant, in Exhibit III to the application, has furnished their 
+understanding of rate of tax / exigibility in respect of the impugned 
+transaction, on the basis of the following grounds: 
+ 
+4.1.   Legal provisions and applicability 
+ 
+4.1 . 1        Rate of solar power generating system 
+     Under GST regime, various rates have been prescribed for goods and 
+services. Per, Notification No. 1/2017 — Integrated tax (Rate) dated 28 
+Jun 2017, solar power generating systems and parts for their 
+manufacture are taxable at 5%. The relevant entry reads as follows: 
+
+
+Page 4 of 26 
+ 
+ 
+Chapter 
+Heading 
+Description 
+ 
+Following renewable energy devices and parts for their 
+84 or 85 
+or 94 
+a) Bio-gas plant 
+b) Solar power based devices 
+c) Solar power generating system 
+d) Wind mills and wind operated electricity generator 
+e) Waste to energy plants/devices 
+f) Solar lantern/solar lamp 
+g) Ocean waves/tidal waves energy devices/plants 
+h) Photo voltaic cells, whether or not assembled in 
+modules or made up into panels 
+ 
+ Per the above, concessional rate of 5% has been provided to the following 
+(when covered under heading 84, 85 or 94): 
+ 
+PV modules 
+ Solar power generating system — This term has not been defined 
+ 
+ 
+Parts for manufacture of solar power generating system and PV modules — 
+There is no restriction provided on what would qualify as parts and in 
+such case all goods which qualify as 'parts' of solar power generating 
+system should be eligible for concessional rate of tax 
+4.1.2   Concept of composite supply and mixed supply 
+Section 2(30) of CGST Act defines composite supply to mean 'a supply 
+made by a taxable person to a recipient consisting of two or more taxable 
+supplies of goods or services or both, or any combination thereof, which 
+are naturally bundled and supplied in conjunction with each other in the 
+ordinary course of business, one of which is a principal supply'. 
+ 
+Section 2(90) defines principal supply as -principal supply" means the 
+supply of goods or services which constitutes the predominant element of a 
+composite supply and to which any other supply forming part of that 
+composite supply is ancillary'. 
+Further, mixed supply has been defined under the Act as "mixed supply" 
+means two or more individual supplies of goods or services, or any 
+combination thereof, made in conjunction with each other by a taxable 
+person for a single price where such supply does not constitute a composite 
+
+
+Page 5 of 26 
+ 
+supply". Hence, for mixed supply there should be a single price and entire 
+contract gets taxed at the supply with highest rate of tax. 
+4.1.3    Concept of works contract 
+   Works contract has been defined under Section 2 (119) of CGST Act as 
+follows: 
+“a contract for building, construction, fabrication, completion, erection, 
+installation, fitting out, improvement, modification, repair, maintenance, 
+renovation, alteration or commissioning of any immovable property_ 
+wherein transfer of propeqy in goods (whether as goods or in some other 
+form) is involved in the execution of such contract." 
+Works contract has been deemed to be a service under GST — Schedule II of 
+GST law specifies that composite supply of works contract would be 
+deemed to be a service. The general rate of works contract service is 18%. 
+4.1.4 Our understanding in present context 
+Per the above legal provisions, we understand that in present case, since the 
+scope of work of the Applicant includes provision of both goods and services, 
+the entire contract is one turnkey_ EPC, contract and hence, would qualify 
+as a composite supply. The principal supply in such case is provision of 
+the solar power generating system and hence, the entire contract 
+(including_ services, portion) should be taxable at 5%. 
+4.2.   Ambit of composite supply 
+4.2.1.  Wide ambit of term 'Composite Supply' 
+ 
+Composite Supply has been defined in Section 2(30) of the Central Goods 
+and Services Tax Act, 2017 as 'composite supply means a supply made by 
+a taxable person to a recipient consisting of two or more taxable supplies of 
+goods or services or both, or any combination thereof which are naturally 
+bundled and supplied in conjunction with each other in the ordinary course 
+of business, one of which is a principal supply;' 
+ 
+Further, Principal Supply has been defined in Section 2(90) of the CGST 
+Act as 'principal supply means the supply of goods or services which 
+constitutes the predominant element of a composite supply and to which 
+any other supply forming part of that composite supply is ancillary' 
+
+
+Page 6 of 26 
+ 
+Thus, principal supply refers to the supply which is the predominant  
+element in a composite supply. 
+ 
+Illustration as provided in GST law is that In case goods are packed and 
+transported with insurance, the supply of goods, packing materials, transport 
+and insurance is a composite supply and supply of goods is a principal supply. 
+ 
+Further, in terms of Section 8 of the CGST Act, it has been clarified that a 
+composite supply comprising two or more supplies, one of which is a 
+principal supply will be treated as supply of such principal supply. The 
+relevant para of Section 8 of the CGST Act provides as follows: 
+'8. Tax liability on composite and mixed supplies. — The tax liability on a 
+composite or a mixed supply, shall be determined in the following 
+manner, namely:- 
+(a) a composite supply comprising two or more supplies, one of which is 
+a principal supply, shall be treated as a supply of such principal 
+supply' 
+Per the above, the essential conditions for a supply to qualify as composite 
+supply can be highlighted as under: 
+a) 2 or more taxable supplies of goods or services or both 
+b) The taxable supplies should be naturally bundled 
+c) The taxable supplies should be supplied in conjunction with each 
+other 
+d) One taxable supply should be a principal supply 
+ 
+In such case, the supply which is the principal supply is treated as the 
+main supply and the entire transaction is taxed as per the principal supply. 
+In the present case, the Applicant would like to submit that the main intent 
+of the contract is provision of the solar power generation system which 
+consists of various components such as modules, structures, inverter 
+transformers, cables, SCADA, transmission lines, etc. Services like civil 
+construction are merely incidental to provision of such goods and form an 
+ancillary part of the contract. 
+It is submitted that service portion of the contract is only —10 to 15% and 
+balance is supply of goods. This also substantiates the fact that provision of 
+services is incidental to supply of goods and hence, the supply of goods 
+should form the principal supply and the entire contract should be taxed as 
+supply of goods itself. It is submitted that the entire contract including goods 
+
+
+Page 7 of 26 
+ 
+supplied used in AC electrical, DC electrical, transmission lines as well as 
+other ancillary parts/ goods and services should get covered as composite 
+supply and be taxable as principal supply of 'solar power generating 
+system'. 
+It is further submitted that Ministry of New and Renewable Energy 
+('MNRE') in various instances has also approved entire BOQ consisting of 
+various 
+parts 
+e.g. 
+cables, 
+module 
+mounting 
+structures, 
+spares, 
+transmission lines etc. as essential to solar power generating system 
+and hence the concessions applicable have been extended to all goods to be 
+used in solar power plant. Drawing a corollary, concessional rate of 5% 
+should be applicable on all the goods approved under BOQ by MNRE as 
+well. Further, as highlighted above, services being incidental to such supply 
+should also get covered as composite supply and taxable at rate applicable 
+to principal supply of 'solar power generating system'. 
+4.2.2. Wide ambit of term 'solar power generation system' 
+The term 'solar power generating system' has not been defined under GST. 
+Solar power generating system generally are the systems which absorb 
+sunlight and convert it into electricity which can be put to further use. 
+ 
+Solar power system has been defined under Solar Power – Grid connected 
+Ground Mounted and solar Rooftop and metering Regulation 2014 issued 
+by State of Goa.  Solar power system as per the regulation means 'a grid-
+connected solar generating station including the evacuation system up to 
+the Grid inter-connection point'. 
+Typically the term system has a wide ambit. As per the Oxford Dictionary, 
+the definition of the term 'system is -a complex whole, a set of things 
+working together as a mechanism or interconnecting network". Similarly, 
+the system is defined in Chambers 20th Century Dictionary as "anything 
+formed of parts placed together or adjusted into a regular and connected 
+whole". Hence, system typically includes various components/ parts which 
+are manufactured/ assembled together for performing a function. In the 
+present case, the term system should include all goods provided under the 
+contract which help in end to end generation as well as transmission of 
+electricity. 
+Further, under erstwhile law also, solar power generating systems have not 
+been defined. However, under erstwhile excise law, various exemptions 
+were extended to non-conventional energy devices which included solar 
+power generating systems - List 8 of Notification no. 12/2012-Central 
+Excise, dated 17 March 2012. 
+
+
+Page 8 of 26 
+ 
+Reference is made to the judgment of Delhi Tribunal in the case of 
+Rajasthan Electronics 8z Instruments Ltd. vs. Commr. Of C. Ex., 
+Jaipur wherein it was held that '7. The adjudicating authority admitted the 
+fact that Solar Photovoltaic Module is a.Solar Power Generating System. 
+We find that other parts are only panel housing consisting of controllers and 
+switches. Hence the whole system is a Solar Power Generating System and 
+is entitled for the benefit of notification. Therefore, the denial of benefit of 
+notification by the adjudicating authority is not sustainable. The impugned 
+order is set aside and the appeals are allowed'. 
+Further, in the case of Bangalore Tribunal in the case of B.H.E.L. vs. 
+Commissioner of Central Excise, Hyderabad it was held that "In the 
+present case, the appellants have claimed exemption in respect of "inverter 
+charger card" as solar power generating system. The appellants actually 
+manufactured SPV lantern. The above lantern required electricity for its 
+working. It is possible to convert solar energy to electricity with the help of 
+inverter charger manufactured by the appellants. The Dy. General Manager 
+has certified that the inverter merger constitutes solar power generating 
+system as it performs the function of generating the required high 
+frequency AC power from Sunlight with, the help of SPV module and 
+supplying it to the compact fluorescent lamp of a solar lantern. In view of 
+the above, expert opinion, we hold that the impugned item can be 
+considered as solar power generating system and is entitled for the 
+benefit of the exemption Notification. Therefore, we allow the appeal with 
+consequential relief" 
+Please find attached the aforesaid judgments as Annexure — B. 
+Per the above, where a contract is awarded as a whole for supply of solar 
+power generation system consisting of various components (as highlighted 
+above) as well as services, the entire contract should qualify as a solar power 
+generating system. This is in line with the concept of 'composite supply' in 
+which case the taxability is as per the principal supply which is the solar 
+power generating system. 
+4.2.3. Reference to Education Guide issued under service tax 
+regime 
+ 
+It is to be noted that the concept of composite supply under GST is 
+identical to the concept of naturally bundled services prevailing in the 
+erstwhile Service Tax Regime. 
+
+
+Page 9 of 26 
+ 
+Section 66F (3) of the Finance Act, 1994 (the Finance Act') two rules 
+have been prescribed for determining the taxability of such services"The 
+rules prescribed are explained as under: 
+ 
+1. If various elements of a bundled service are naturally bundled in the 
+ordinary course of business, it shall be treated as provision of a 
+single service which gives such bundle its essential character' 
+2. If various elements of a bundled service are not naturally bundled in 
+the ordinary course of business, it shall be treated as provision of a 
+service which attracts the highest amount of service tax. 
+The concept of naturally bundled services was explained in the 
+Education Guide issued by the CBEC in the year 2012 (the Education 
+Guide'). The relevant extract of the Education Guide is reproduced as 
+under for case of reference: 
+Bundled service means a bundle of provision of various services 
+wherein an element of provision of one service is combined with an 
+element or elements of provision of any other service or services. An 
+example of 'bundled service' would be air transport services provided by 
+airlines wherein an element of transportation of passenger by air is 
+combined with an element of provision of catering service on board. 
+Each 
+service 
+involves 
+differential 
+treatment 
+as 
+a 
+manner 
+of 
+determination of value of two services for the purpose of charging 
+service tax is different.' 
+The Education Guide also clarifies that in cases of composite 
+transactions, i.e. transactions involving an element of provision of 
+service and an element of transfer of title in goods in which various 
+elements are so inextricably linked that they essentially form one 
+composite transaction then the nature of such transaction would be 
+determined by the application of the dominant nature test. 
+Further, the following was provided in the Education Guide: 
+'9.2.4 Manner of determining if the services are bundled in the ordinary 
+course of business  
+Whether services are bundled in the ordinary course of business would 
+depend upon the normal or frequent practices followed in the area of 
+business to which services relate. Such normal and frequent practices 
+adopted in a business can be ascertained from several indicators some 
+of which are listed below — 
+ 
+ The perception of the consumer or the service receiver. If large number 
+of service receivers of such bundle of services reasonably expect such 
+services to be provided as a package then such a package could be 
+treated as naturally bundled in the ordinary course of business. 
+ 
+ Majority of service providers in a particular area of business provide 
+similar bundle of services. For example, bundle of catering on board 
+and transport by air is a bundle offered by a majority of airlines 
+
+
+Page 10 of 26 
+ 
+ 
+ The nature of the various services in a bundle of services will also 
+help in determining whether the services are bundled in the ordinary 
+course of business. If the nature of services is such that one of the 
+services is the main service and the other services combined with such 
+service are in the nature of incidental or ancillary services which help 
+in better enjoyment of a main service. For example service of stay in a 
+hotel is often combined with a service or laundering of 3-4 items of 
+clothing free of cost per day. Such service is an ancillary service to the 
+provision of hotel accommodation and the resultant package would be 
+treated as services naturally bundled in the ordinary course of 
+business. 
+ 
+ 
+Other illustrative indicators, not determinative but indicative of 
+bundling of services in ordinary course of business are: 
+ 
+ There is a single price or the customer pays the same amount, no 
+matter how much of the package they actually receive or use 
+ The elements are normally advertised as a package 
+ The different elements are not available separately. 
+ The different elements are integral to one overall supply — if one or 
+more is removed, the nature of the supply would be affected. 
+ 
+ 
+Per the above, the following conclusions can be drawn: 
+ 
+ In case more than two supplies are supplied together wherein one of the 
+supply is principal supply would qualify as composite supply. 
+ 
+ Further, goods supplied under the composite supply are supplied in 
+conjunction with each other. Also, such composite supply is supplied in 
+the ordinary course of business. 
+ 
+ The composite supply would qualify as supply of the principal supply. 
+Taxes would be applicable as on such principal supply. 
+Drawing reference to the above, it is submitted that the customer perceives 
+the entire contract is for supply of solar power generating system as the 
+intent of both the parties is supply of the goods/ system which would help 
+in generation of electricity. Hence, the entire contract (both goods and 
+services) and bundled and linked wherein the main intent is provision of the 
+goods which constitute solar power generating system. 
+ 
+
+
+Page 11 of 26 
+ 
+4.2.4. Global Jurisprudence — Meaning of Composite Supply 
+The concept of 'composite supply' is a global concept and has been 
+discussed in various countries. Provided below is relevant extract from 
+various countries regarding the same: 
+4.2.4.1. Australia 
+In terms of Goods and Services Tax Ruling 2001/8 issued under Australia, 
+Composite Supply means a supply that contains a dominant part and 
+includes something that is integral, ancillary or incidental to that part. 
+Composite supply is treated as supply of one thing. 
+There have been various precedents in which the courts have defined a 
+composite supply. Few are highlighted below: 
+ 
+ The Full Federal Court in the case of Luxottica found that while 
+'supply' is widely defined it 'invites a commonsense, practical approach 
+to characterisation'. It was observed that while 'Supply' is defined 
+broadly, it nevertheless invites a commonsense, practical approach to 
+characterisation. An automobile has many parts which are fitted 
+together to make a single vehicle. Although, for instance, the motor, 
+or indeed the tyres, might be purchased separately there can be little 
+doubt that the sale of the completed vehicle is a single supply.  Like a 
+motor vehicle, spectacles are customarily bought as a completed 
+article and in such circumstances are treated as such by the 
+purchaser.  The cost that either the frame or the lenses may be 
+purchased separately is not to the point.  Similarly the fact that one 
+component, the lenses, is GST-free or that one component is subject to 
+a discount does not alter the characterisation. 
+ 
+•  In the case of Saga Holidays, Stone J focused on the 'social and 
+economic reality' of the supply and found that there was a single 
+supply of accommodation and the adjuncts to that supply (including the 
+use of the fitrniture and facilities within each room, cleaning and linen 
+services, access to common areas and facilities such as pools and 
+gymnasiums and various other hotel services such as porterage and 
+concierge) were incidental and ancillary to the accommodation part of 
+the supply.' 
+
+
+Page 12 of 26 
+ 
+Per the above, composite supply is taxed as supply of the dominant activity to 
+Per the above, composite supply is taxed as supply of the dominant activity to 
+which others are merely ancillary. In the present case also, the dominant 
+supply is those of goods (which constitutes solar power generating system' 
+and services is merely incidental to provision of such goods. 
+4.2.4.2. European Union 
+Per the European Union Directive, a composite supply is a transaction where 
+supplies with different VAT treatments are sold together as one. The supplies 
+with a composite supply may consist of parts that, if assessed separately, 
+have different tax rates. Some have standard rates, reduced rates or are 
+exempt from VAT. 
+The European Court of Justice ('ECJ') has delivered several judgements on 
+the aspect of composite supply under European Union Value Added Tax 
+laws ('EU-VAT'). 
+In the case of Card Protection Plan Ltd. Vs. C & E Commrs [1994] BVC 20 , 
+the ECJ held that 'a service must be regarded as ancillary to a principal 
+service if it does not constitute for customers an aim in itself but a means 
+of better enjoying the principal service supplied'. 
+Per the above principal, in the present case also, what the customer wishes 
+or intends to obtain is the main supply of solar power generating system 
+and services are only a means to enjoy the same and hence, services are 
+incidental to the main supply of goods. 
+4.2.4.3. United Kingdom 
+Under the UK VAT laws, a multiple supply (also known as a combined or 
+composite supply) involves the supply of a number of goods or services. The 
+supplies may or may not be liable to the same VAT rate. 
+If a supply is seen as insignificant or incidental to the main supply, then for 
+the purposes of VAT it is usually ignored — the liability is fixed by the VAT 
+rate applicable to the main supply (or supplies). 
+In the case of Tumble Tots (UK) Ltd v R & C Commrs [2007] BVC 179. 
+Members of a playgroup received a T-shirt (children's clothing is potentially 
+zero rated) and a magazine (potentially zero rated) as well as the right to 
+attend classes which would be standard rated. The Court decided that there 
+was a single standard rated supply of the right to belong to the playgroup 
+
+
+Page 13 of 26 
+ 
+and the T shirt and magazine were incidental to that main supply.  No one 
+who was not in the playgroup could have bought the T shirt or magazine 
+separately. 
+ 
+Per the above, it is clear that globally also composite supply means a 
+supply of more than one goods/services wherein one supply qualifies as 
+principal supply. Therefore, taxes as applicable on the principal supply 
+are applied on the whole composite supply. 
+4.3.    Intention of parties 
+As discussed above, section 2(30) of CGST Act states that supply of two 
+or more taxable supplies of goods or services or both or combination of 
+both which are naturally bundled and are supplied in conjunction with 
+each other in ordinary course of business, one of which is a principal 
+supply will be considered as a composite supply. 
+Further, in terms of Section 2(90) of CGST Act, principal supply means 
+the supply of goods or services which constitutes predominant element 
+of a composite supply. Further, as per Section 8, in case of composite 
+supply, the taxes applicable on principal supply would be applicable on 
+the composite supply. 
+In the present case, the intention of both the parties is to supply the 
+whole of solar power generating system in totality which consists of 
+various goods and services are incidental to provision of such goods. 
+What the customer wants is a functional solar power system and 
+services such as erection, commissioning etc are only a means to provide 
+the main supply of goods. 
+4.4.      Contract does not constitute works contract 
+It is submitted additionally that works contract is also defined as a 
+composite contract and includes a contract for building, construction, 
+fabrication, completion, erection, installation, fitting out, improvement, 
+modification, repair, maintenance, renovation, alteration or commissioning 
+of any immovable property wherein transfer of property in goods (whether 
+as goods or in some other form) is involved in the execution of such 
+contract. 
+
+
+Page 14 of 26 
+ 
+It is our case that the intent of the contract executed by the Applicant are not in 
+the nature of erection, commissioning or fitting out, etc. Instead the contract 
+is entered for provisioning of solar power generating system and the main 
+intent of parties is to procure a solar power generating system to which the 
+activity/ services of erection/ commissioning etc are only incidental. 
+In the present case, even if the contract qualifies as composite contract, 
+the principal supply would be that of provision of solar power generating 
+system and not provision of works contract services. This is because as 
+highlighted above, the principal supply or dominant intent is provision of 
+goods as solar power generating system and hence, entire contract should 
+be taxable as the principal supply itself. 
+4.5.     Whether benefit would also be available to sub-contractor 
+  4.5.1 In certain cases, the turnkey contractor engages various sub-
+contractors (manufacturers/supplies/ sub-contractors) who further 
+supply the goods to such contractor or engage in provisioning of 
+certain portion of the turnkey contract. 
+ 4.5.2  Further, there may be cases wherein the Developer divides the EPC 
+contract between two separate EPC contracts of construction of solar 
+power generation system. 
+  
+ 4.5.3 Notification no. 1/2017-Integrated Tax (Rate), which provides 
+concessional rate on solar Power generating system does not specify 
+the persons who would be eligible for concessional rate of 5% i.e. 
+developer, EPC contractor or manufacturer/ supplier/ sun-
+contractor. 
+ 
+4.5.4 Since the concessional rate of 5% is provided to renewable energy 
+products and parts thereof, the same should be applicable to all 
+suppliers providing such products as long as it can be established 
+(through certification or otherwise) that these are to be used in solar 
+power generation system. This would also be in line with practice under 
+erstwhile excise law wherein benefit was extended to sub-contractors 
+also through MNRE certification. 
+4.6.    Conclusion 
+ 
+As per Section 2(30) of the CGST Act, in case more than one goods are 
+supplied which are bundled together in the ordinary course of 
+business, such supply would be considered as composite supply. 
+Further, per Section 8 of the CGST Act, a composite supply comprising 
+two or more supplies, one of which is a principal supply will be treated 
+
+
+Page 15 of 26 
+ 
+as supply of such principal supply. Therefore, GST applicable on the 
+principal supply would be applied on such composite supply. 
+ In view of the above, a position can be taken that the Applicant engaged 
+in the business of EPC contracts of supply of solar power generating 
+system providing services, erection, testing and commissioning of solar 
+power projects, should qualify as composite supply wherein the supply 
+of the solar power generating system constitutes the principal supply. 
+Other services, erection, testing and commissioning of solar power 
+plants are ancillary to the supply of solar power generating system and 
+hence, entire contract (including all goods as well as services) should 
+qualify as solar power generating system taxable at 5%. 
+ 
+ Concessional rate of 5% for supply of solar power generating system or 
+its parts should also be available to sub-contractors. 
+Further to above submissions, we most respectfully pray that: 
+ 
+1. Allow us to reiterate all the submissions without prejudice to one another; 
+ 
+2. Grant a personal hearing put forth our contentions and explain our 
+submissions before passing any order in this regard; 
+ 
+3. Allow us to amend, alter and add to the present reply; 
+ 
+4. Allow us to produce additional documents and other material during the 
+time of Personal Hearing; and 
+ 
+5. In that behalf pass such other orders and directions as may be deemed 
+proper and necessary. 
+ 
+ 
+PERSONAL HEARING: / PROCEEDINGS HELD ON 09.02.2018. 
+ 
+5.      
+The Applicant submitted Specific Power of Attorney appointing 
+M/s Price Waterhouse Coopers Private Limited, represented by Shri 
+Prashanth Agarwal, as their authorized legal representative, who attended 
+the proceedings held before the Authority on Advance Ruling in 
+Karnataka, Bengaluru  on 09.02.2018 and furnished additional written 
+submissions.  The authorized representative during the proceedings stated 
+/ pleaded that  the contract is for supply of system / solar plant only 
+which includes both supply of goods (PV plates) and installation & does 
+not include maintenance; also the contract is for one lump sum amount; 
+the rate of GST should be at 5% as per specific entry in schedule; it is not 
+a works contract as the equipments are not immovable property, the 
+predominant cost is that of Photovoltaic cells which are chargeable at 5% 
+
+
+Page 16 of 26 
+ 
+and hence this contract should not be considered as works contract.  The 
+written additional submissions are appended below: 
+ 
+6.   Besides the above presentation during the hearing the applicant made the 
+following additional written submissions.  
+ 
+6.1   The Applicant has put forth the argument that the proposed transaction/ 
+Contract is one for supply of 'Solar Power Generating System' as a whole and hence 
+the rate of GST should be 5%. In furtherance to the same the applicant puts forth as 
+follows: 
+(a) The intent of the parties is always for supply of Solar Power Generating system as 
+a whole. 
+(b) The applicant has also submitted a draft contract and draws attention to Clause 
+‗B‘ of the draft contract which provides that “B. Owner has appointed the 
+Contractor for supply of the Solar Power Plant which includes engineering, design, 
+procurement, supply, development, testing and Commissioning of the Plant as per 
+scope defined in relevant schedule of this Contract, as per Applicable Law and 
+Technical Specifications" 
+(c) The Applicant has further drawn reference to Schedule I of the agreement which 
+defines the scope of work to be executed by the Contractor i.e. the Applicant. The 
+said schedule clearly outlines the entire scope to be undertaken and provides 
+that the Applicant would be responsible for supply of Solar Power Plant. 
+"The Contractor would be responsible for Supply of Equipment 
+and undertake all necessary activities ancillary to such 
+supplies (such as erection, civil work etc) to ensure complete 
+supply of Solar Power Plant..." 
+(d) It is further stated that typically the said contract is entered into for supply of 
+solar power generating system which involves supply of equipment and undertaking 
+certain services. Separate prices are specified for different equipment which are 
+supplied under the agreement for commercial convenience such as movement of 
+goods, claiming of payment or availing trade credits etc., however, as a general trade 
+practice all the equipment which are being supplied under the agreement are 
+supplied together for setting up/ supply of a solar power generating system. 
+6.2   The second assertion by the applicant is that the Contract does not 
+constitute works contract. The following submissions have been made in this 
+regard. 
+(a) Works contract is defined as a composite contract and includes a contract for 
+building, construction, fabrication, completion, erection, installation, fitting out, 
+improvement, 
+modification, 
+repair, 
+maintenance, 
+renovation, 
+alteration 
+or 
+commissioning of any immovable property wherein transfer of property in goods 
+(whether as goods or in some other form) is involved in the execution of such 
+contract. 
+(b) Therefore, in order to determine whether the supply made by the Applicant is of 
+works contract, it is imperative to understand (i) the essence of the contract and the 
+intention of the parties involved in the contract to determine whether the parties 
+
+
+Page 17 of 26 
+ 
+intend to undertake works contract or supply of solar power plant and (ii) whether 
+the activities are undertaken on an immovable property for the contract to qualify as 
+works contract. 
+ 
+Essence of the contract and intention of the parties involved in the 
+contract is clearly to supply 
+As explained above, the intention of the parties entering into a contract with the 
+Applicant, is to procure a completely functional solar power plant wherein the 
+Applicant undertakes end to end responsibility of supply of equipment for solar 
+power plant including designing, engineering, supply, installation, testing and 
+commissioning of the solar power plant. The intention of the parties is not to 
+undertake any activity on an immovable property, but to supply Solar power plant. 
+Solar power plant is not an immovable property 
+It is submitted that it has been highlighted in various pronouncements by the 
+judicial authorities that in cases where an object is installed/fastened to the land for 
+better running of the said object, and not for the benefit of land, such object will not 
+be considered as immovable property. Further, it has been held that if fixing of a 
+plant to a foundation is only meant to give stability to the plant and where there is no 
+intention to make such plant permanent, the foundation would not change the 
+nature of the plant and make it an immovable property. 
+(c) The applicant has relied upon the following judgments in furtherance of their 
+arguments.  
+(i) Sirpur Paper Mills Ltd., vs. Collector of Central Excise, Hyderabad (1998 1 
+SCC 400) 
+(ii) Commissioner of Central Excise v. Solid and Correct Engg Works & 
+Ors. (2010 (175) ECR 8 (SC)), 
+(iii) Sri Velayuthaswamy Spinning Mills v. The Inspector General of 
+Registration and the Sub Registrar (2013 (2) CTC 551), 
+(iv) Perumal Naicker v. T. Ramaswami Kone and Anr. (AIR 1969 Mad 346) 
+   In view of the aforesaid judgments, the applicant submits that in the instant 
+case, the solar power plants supplied by the Applicant is commissioned and 
+installed only for the purpose of better functioning of the plant and are capable 
+of being removed and transferred from one place to another. Hence, the fact 
+that the plant is firmly but not permanently attached to the land means that 
+the same is not an immovable property. 
+  Reference is also made to Clause 4.1(xiii) of the draft agreement, which 
+contemplates possibility of transferring the Plant: 
+
+
+Page 18 of 26 
+ 
+(xiiz) Any costs incurred by the Contractor for any changes made in the 
+land/premises of the Owner, while development of Plant, due to the 
+requirement of transferring the Plant to another location, would be 
+borne by the Owner. Such costs incurred would be charged by the 
+Contractor from Owner separately and does not form part of the 
+Contract price highlighted in Schedule 3 of the Contract. The amount to 
+be charged due to the changes will be mutually decided between the 
+parties. 
+Reliance is also placed on the Chartered Engineer Certificate which clearly 
+provides that Solar Power Plant if required can be shifted to another location 
+and is highly moveable.  
+The applicant has also made reference to Circular issued by Central Board of 
+Customs and Excise ('CBEC'), vide 37B Order No. 58/1/2002 — CX issued 
+under F.No. 154/26/99 — CX4 dated 15 January, 2002 ('the Circular), after 
+realizing the anomaly in case of plant and machinery assembled at site, issued 
+the Circular clarifying the following: 
+(i)  If items assembled or erected at site and attached by foundation 
+to earth cannot be dismantled without substantial damage to its 
+components and thus cannot be reassembled, then the items would 
+not be considered asmoveable and will, therefore, not be excisable 
+goods. 
+ 
+(vi) If any goods installed at site (example paper making machine) are 
+capable of being sold or shifted as such after removal from the base 
+and without dismantling into its components/parts, the goods would 
+be considered to be movable and thus excisable. The mere fact that 
+the goods, though being capable of being sold or shifted without 
+dismantling, are actually dismantled into their components/parts for 
+ease of transportation etc., they will not cease to be dutiable merely 
+because they are transported in dismantled condition…..’   
+ 
+      Relying on the aforesaid circular the Applicant contends that as the solar 
+power plant, once installed, is capable of being removed and transferred from 
+one place to another without substantial damage, the same should qualify as 
+movable property. 
+The applicant further states that the service portion of the contract constitutes 
+a meagre 6% of the entire contract, solely for the purpose of operation of the 
+solar power plant. The solar power plant can be easily transferred to another 
+location in case required. Hence, it is abundantly apparent that the activity of 
+erection, commissioning and installation is for the beneficial enjoyment of the 
+solar power plant, and hence, solar power plant should not be considered as an 
+
+
+Page 19 of 26 
+ 
+immovable property. 
+6.3    The applicant further contends that Without prejudice to the above and 
+in the alternative, even if the agreement is construed as a Composite Supply, 
+the most critical compo Major component of Solar Power System  — Solar 
+Photovoltaic module.  
+ 
+ Section 2(30) of CGST Act defines composite supply to mean 'a supply made by 
+a taxable person to a recipient consisting of two or more taxable supplies of 
+goods or services or both, or any combination thereof, which are naturally 
+bundled and supplied in conjunction with each other in the ordinary course of 
+business, one of which is a principal supply'. 
+ 
+Section 2(90) defines principal supply as "principal supply" means 'the supply of 
+goods or services which constitutes the predominant element of a composite 
+supply and to which any other supply forming part of that composite supply is 
+ancillary'. 
+ 
+Further, in terms of Section 8 of the CGST Act, it has been clarified that a 
+composite supply comprising two or more supplies, one of which is a 
+principal supply will be treated as supply of such principal supply. The 
+relevant para of Section 8 of the CGST Act provides as follows: 
+ 
+ 
+“8. Tax liability on composite and mixed supplies. — The tax liability on 
+composite or a mixed supply, shall be determined in the following 
+manner, namely :-“ 
+(a) a composite supply comprising two or more supplies, one of which 
+is a principal supply, shall be treated as a supply of such principal 
+supply' 
+Per the above, the essential conditions for a supply to qualify as composite 
+supply can be highlighted as under : 
+ 
+a. 2 or more taxable supplies of goods or services or both 
+b. The taxable supplies should be naturally bundled 
+c. The taxable supplies should be supplied in conjunction with each 
+other  
+d. One taxable supply should be a principal supply. 
+ 
+In such case, the supply which is the principal supply is treated as the main 
+
+
+Page 20 of 26 
+ 
+supply and the entire transaction is taxed as per the principal supply. 
+The Applicant would like to highlight that mounted Photovoltaic module (PV 
+module) comprises around 6o%-7o% of the entire Solar Power Plant, and the 
+rest of the components constitute for around 30-34% and are merely parts or 
+sub parts which are required for panel housing or setting up the module such 
+as controllers and switches. This is due to the fact that PV module is a 
+packaged, connect assembly of typically 6xio photovoltaic solar cells, which 
+constitute the photovoltaic array of a photovoltaic system that generates and 
+supplies solar electricity. In other words PV modules are nothing but an 
+assembly of solar cells that helps in converting solar power into electricity. 
+Hence, PV module is the most important component of solar power generating 
+system and therefore, would squarely qualify as the 'principal supply'as per 
+the provisions of the GST law. 
+Accordingly, it is submitted that the GST rate of PV modules which is 5% 
+should be applicable on the whole of the contract. 
+Reference can be made to the CERC Order dated 23 March 2016 involving 
+determination of Benchmark Capital Cost Norm for Solar PV Power Project for 
+FY 16-17. In the said case also, the CERC, of the total cost of the project 
+including land cost, PV Modules cost is considered as 62%. A copy of the said 
+order has also been submitted.  
+Reliance can also be placed on Chartered Engineer Certificate which provides 
+that the most critical component is PV Modules both in terms of the value and 
+the functionality that such Modules perform. 
+ 
+ Even in the draft agreement, reference can be made to Schedule I of the scope 
+of work which provides as below: 
+ 
+“The Contractor would be responsible for Supply of Equipment and 
+undertake all necessary activities ancillary to such supplies (such as 
+erection, civil work etc) to ensure complete supply of Solar Power Plant. 
+Both parties agree that of the total supplies, the most critical part of the 
+Plant are the supply of the mounted PV Module which constitute 60%-
+70% of the total contract value. Further, it is also agreed that the 
+Contractor is responsible  for  the whole of the contract that is for 
+setting-up/ supply of the Plant. 
+  
+For the purpose of undertaking compliances under Laws constituted in 
+India the parties may agree to define prices of the equipment to be 
+supplied as part of the contract. The same shall not in any manner 
+exceed the lumpsum price agreed between the Parties and also does 
+not in any manner dilute the responsibility of the Contractor..." 
+ 
+Further, there is a definition in the draft agreement, "Major Equipment" 
+[1.1.67] which clearly identifies PV Modules as the Major Equipment 
+
+
+Page 21 of 26 
+ 
+ 
+"Major Equipment(s)" means PV solar modules which is an assembly of 
+solar cells that helps in converting solar power into electricity and all 
+other Equipments specified in Schedule 3 (Contract Price and Payment 
+Milestones) for facilitation of Payment under this Contract; 
+  
+Reference in this regard is made to the judgment of Delhi Tribunal in the case 
+of Rajasthan Electronics & Instruments Ltd. vs. Commr. Of C. Ex., Jaipur 
+wherein a Solar Photovoltaic Module was held to be a Solar Power Generating 
+System. Relevant extract of the judgement is reproduced below for ease of 
+reference: 
+“7. The adjudicating authority admitted the fact that Solar Photovoltaic 
+Module is a Solar Power Generating System. We find that other parts 
+are only panel housing consisting of controllers and switches. Hence 
+the whole system is a Solar Power Generating System and is entitled 
+for the benefit of notification. Therefore, the denial of benefit of 
+notification by the adjudicating authority is not sustainable. The 
+impugned order is set aside and the appeals are allowed'. 
+Basis the above submissions, it is clearly evident that the PV Modules qualifies 
+as 'principal supply' and hence the whole contract even if construed as 
+composite supply should be liable to tax considering it to be supply of PV 
+Modules, which is liable to GST at the rate of 5%. 
+6.4   Whether benefit would also be available to sub-contractor 
+ 
+    In certain cases, the contractor engages various sub-contractors 
+(manufacturers/ supplies/ sub-contractors) who further supply the goods to 
+such contractor or engage in provisioning of certain portion of the contract. 
+Further, there may be cases wherein the Developer divides the contract 
+between two separate contracts of construction of solar power generation 
+system. 
+Notification no. 1/2017-Integrated Tax (Rate), which provides concessional 
+rate on solar power generating system does not specify the persons who 
+would be eligible for concessional rate of 5% i.e. developer, contractor or 
+manufacturer/ supplier/ sub-contractor. 
+Since the concessional rate of 5% is provided to renewable energy products 
+and parts thereof the same should be applicable to all suppliers providing 
+such products as long as it can be established (through certification or 
+otherwise) that these are to be used in solar power generation system. This 
+would also be in line with practice under erstwhile excise law wherein benefit 
+was extended to sub-contractors also through MNRE certification. 
+
+
+Page 22 of 26 
+ 
+7.  The applicant has concluded their presentation as follows:  
+ 
+I. 
+that the Applicant is engaged in the business of supply of 'solar power 
+generating system' and the same should be liable to tax at 5%. 
+II. 
+that solar power generating system should not qualify as immovable 
+property. 
+III. 
+that even if the agreement is construed as a composite supply, the 
+principal supply would be the supply of PV Modules which again are 
+liable to tax @5%. 
+IV. 
+That the Applicant submits that the proposed agreement with its 
+customers should be taxable @5% GST, and the same should be 
+applicable to sub-contractors as well. 
+ 
+FINDINGS & DISCUSSION: 
+ 
+8. 
+    We have gone through the records of the application, filed by M/s 
+Giriraj Renewables Private Ltd., (the Applicant), the issue/transaction(s) 
+involved on which advance ruling is sought by the applicant, relevant facts of 
+the 
+transaction(s) 
+involved, 
+the 
+statement 
+containing 
+the 
+applicant‘s 
+understanding of rate of tax in respect of the transaction(s), the additional 
+submissions of the applicant during the hearing proceedings and the copy of 
+draft contract. 
+ 
+8.1  
+The Applicant has sought Advance Ruling on the following 
+questions: 
+ 
+1. Whether 
+supply 
+of 
+turnkey 
+Engineering, 
+Procurement 
+& 
+Construction (‗EPC‘) Contract for construction of solar power 
+plant wherein both goods and services are supplied can be 
+construed to be a Composite Supply in terms of Section 2(30) of 
+CGST Act, 2017. 
+2. If Yes, Whether the Principal Supply in such case can be said to 
+be ‗Solar Power Generating System‘ which is taxable at 5% GST. 
+3. Whether benefit of concessional rate of 5% of solar power 
+generation system and parts thereof would also be available to 
+sub-contractors. 
+ 
+
+
+Page 23 of 26 
+ 
+9.   Question No. 1 is ―Whether supply of turnkey Engineering, 
+Procurement & Construction (‗EPC‘) Contract for construction of solar 
+power plant wherein both goods and services are supplied can be 
+construed to be a Composite Supply in terms of Section 2(30) of CGST Act, 
+2017?‖. 
+9.1    Composite Supply is defined under Section 2(30) of the CGST Act, 
+2017 as a supply made by a taxable person to a recipient consisting of two 
+or more taxable supplies of goods or services or both, or any combination 
+thereof, which are naturally bundled and supplied in conjunction with 
+each other in the ordinary course of business, one of which is the principal 
+supply. 
+9.2  In order that a supply be categorised as a Composite supply its 
+essential to have (a) two or more taxable supplies and (b) they should be 
+naturally bundled in conjunction with each other. In the present 
+application before us and in terms of the draft contract the applicant 
+contends that they are supplying the goods and are also carrying out 
+services related to the installation of the supplied good. Thus they are 
+engaged in the supply of both goods and services. They have further 
+contended in the concluding part under Para 2.3, Page 12 of the 
+application that the customer perceives that the entire contract is for the 
+supply of solar power generating system and the intent of both the parties 
+is for supply of goods/system. Hence the entire contract (both goods and 
+services) is bundled and linked where the main intent is provision of the 
+goods which constitute solar power generating system. 
+9.3     We thus proceed as follows to determine whether the intended 
+supply constitutes a Composite Supply.    
+9.3.1     The scope of contract, as mentioned at clause 3 of the draft 
+contract provides that the contractor (Applicant) shall supply all the 
+equipment as per the terms of the said contract and in accordance with 
+the execution schedule, to the plant site and complete development, 
+installation and commissioning of the works in accordance with the 
+technical specifications, applicable law, applicable permits and the terms 
+of the contact, in addition to the detailed drawings / documents finalized 
+during engineering. This clause indicates that the Applicant would 
+
+
+Page 24 of 26 
+ 
+supply all the required goods and also provide services related to 
+installation and commissioning of the project. 
+9.3.2   The Applicant submits that the major component of Solar Power 
+System is Solar Photovoltaic module (PV module), which comprises around 
+60% - 70% of the entire Solar Power Plant and the rest of the components 
+constitute for around 30% - 34% and are merely parts or sub-parts which 
+are required for panel housing and setting up of the module such as 
+controllers and switches.  The PV module is a packaged, connect assembly 
+of typically 6 x 10 photovoltaic solar cells, which constitute the 
+photovoltaic array of a photovoltaic system that generates and supplies 
+solar electricity. In other words they are nothing but an assembly of solar 
+cells that helps in converting solar power into electricity.  Hence PV 
+module is the most important component of solar power generating 
+system. Further the Applicant claims that they would be supplying PV 
+module, which is a major equipment and installation of the same, for 
+which they supply connectors etc.   
+9.3.4    The contents of the draft contract have been examined closely 
+and the following facts emerge: 
+ 
+1. As per clause D of the contract, the equipment (PV modules) is 
+imported and directly transferred to the owner by way of High Sea 
+Sale.  Therefore the legal title of the goods shifts to the owner and 
+also the Bill of Entry to clear goods from Customs Area is filed by the 
+owner and not the Applicant. This indicates that the owner has 
+procured the goods and made them available to the Applicant. This is 
+in contrast to what the Applicant has claimed. Once the owner files 
+the Bill of Entry at the time of import they become the titleholders in 
+respect of those goods. After clearance of the goods once they are 
+made available to the Applicant for further action of installation etc, 
+then the Applicant cannot claim to have supplied the goods. 
+ 
+2. As per clause 1.1.45 of the contract ―Free Issue Equipment‖ is 
+defined as Photovoltaic Modules to be supplied by the owner to the 
+contractor as free issue equipment at the plant site for the 
+installation and commissioning of the solar power plant.  Hence it is 
+clearly evident from this clause that the major equipment i.e PV 
+modules, are not being supplied by the contractor / Applicant. 
+
+
+Page 25 of 26 
+ 
+ 
+3. As per the scope of contract, as mentioned at clause 3 of the 
+contract, the contractor (Applicant) shall supply all the equipment as 
+per the terms of the said contract and in accordance with the execution 
+schedule, to the plant site and complete development, installation and 
+commissioning of the works in accordance with the technical 
+specifications, applicable law, applicable permits and the terms of the 
+contact, in addition to the detailed drawings / documents finalized 
+during engineering, which is contradictory to the free issue 
+equipment. 
+ 
+4. The owner‘s obligation, as mentioned at clause 4.1.iv of the contract, 
+is to intimate the contractor at least five days prior to the arrival of free 
+issue equipment at plant site for the contractor to make all the 
+necessary arrangement for unloading and storage at the plant site, 
+which clearly shows that the contractor does not supply the PV 
+modules. 
+ 
+9.3.5     The provisions of the draft contract as discussed in the preceding 
+para indicates that the major portion of contract, i.e. the PV module  
+constituting 60% - 70% of the total contract value, is supplied by the owner 
+and not the contractor. Therefore the contractor cannot claim that they will 
+supply the PV Module & thereby there is no principle supply involved in the 
+instant case. 
+9.3.6      This further raises the point whether the supply envisaged in the 
+draft contract qualifies to be a composite supply. The different goods and 
+/or services supplied should be naturally bundled. However here the draft 
+contract opens up the question whether such supplies are indeed bundled 
+or not. The draft contract clearly demonstrates that in such projects the 
+owner can procure the major equipments involved on their own also and 
+the contractor may carry out the supply and services portion in respect of 
+the remaining portion. Thus the concept of natural bundling does not apply 
+to the present envisaged supply. In other words the envisaged supply does 
+not constitute a composite supply. 
+9.3.7      Therefore upon examination of the specific nature of the supply 
+envisaged under the draft contract we conclude that the envisaged supply 
+does not amount to a composite supply. 
+ 
+10.    The second question is ―If yes, whether the Principal supply in such 
+case can be said to be ‗Solar Power generating System‘ which is taxable at 
+5% GST‖. 
+
+
+Page 26 of 26 
+ 
+10.1     The answer to this question flows from the answer to the first 
+question. During the examination of the first question it is borne out that 
+the major component of PV Modules is procured by the owner himself. 
+Therefore the same cannot be construed as a principal supply by the 
+applicant. Therefore this question does not remain relevant. 
+ 
+11.    The third question is ‗Whether benefit of concessional rate of 5% of 
+solar power generation system and parts thereof would also be available to 
+sub-contractors.‘ 
+ 
+The sub-contractor is an individual supplier and the rate of GST 
+applicable depends on the type of supply and no concessional rate of GST 
+is provided to sub-contractor on the basis of main contractor.  Hence the 
+supply made by sub-contractor need to be viewed as an individual supply 
+and thereby the appropriate rate of GST has to be applied. 
+ 
+10. 
+In view of the foregoing, we rule as follows 
+R U L I N G 
+ 
+1. Question No. 1-The major component (PV Module) said to have been 
+constituting 70% of the whole project can not be construed to be 
+supplied by the applicant consequent upon High Sea Sale of the 
+said product and hence it cannot be construed to be a principal 
+supply of the project and thereby cannot be a composite supply. 
+ 
+2. Question No. 2- The question does not not remain relevant on 
+account of answer to question number 1. 
+ 
+3. Question No. 3- The supply made by sub-contractor need to be 
+viewed as an individual supply and thereby the appropriate rate of 
+GST has to be applied depending on the specific nature of supply.  
+ 
+ 
+ 
+ (Harish Dharnia)  
+ 
+ 
+         (Dr.RaviPrasad.M.P.) 
+      Member 
+ 
+ 
+ 
+ 
+ 
+Member 
+ 
+Place : Bengaluru, 
+Date  : 21.03.2018

@@ -1,0 +1,534 @@
+THE AUTHORITY ON ADVANCE RULINGS
+IN KARNATAKA
+GOODS AND SERVICES TAX
+VANIJYA THERIGE KARYALAYA, KALIDASA ROAD
+GANDHINAGAR, BENGALURU - 560 009
+
+Advance Ruling No. KAR ADRG 58/ 2019
+Dated: 19th September,2019
+Present:
+
+1. Sri. Harish Dharnia,
+Addl. Commissioner of Central Tax . ... Member (Central Tax)
+
+2. Dr. Ravi Prasad M.P.
+Joint Commissioner of Commercial Taxes . ... Member (State Tax)
+
+M/s Humble Mobile Solutions Pvt.
+
+1 Name and address of the Ltd.,No.112/2, 17 Main,
+: applicant KHB Colony, 5th Block, Koramangala,
+Bengaluru 560095
+2. GSTIN or User ID 29AADCH6500J 1ZK
+Date of filing of Form GST
+3. ARA-O1 09.08.2018
+
+Sri Badarinath.N.R.,
+
+x Sees Charatered Accountant
+
+5 Jurisdictional Authority — Commissioner of Central Tax,
+2 Centre Bengaluru- South
+6. ee ee LGSTO-015A, Bengaluru
+Yes, discharged fee of
+1. Rs.5,000-00 under CGST Act vide
+Whether the payment of fees CIN HDFC18072900472338 dated
+7. discharged and if yes, the 31.07.2018
+amount and CIN 2. Rs.5,000-00 under KGST Act vide
+CIN HDFC18072900457992 dated
+28.07.2018
+
+ORDER UNDER SECTION 98(4) OF THE CENTRAL GOODS AND
+SERVICES TAX ACT, 2017 AND UNDER SECTION 98(4) OF THE
+KARNATAKA GOODS AND SERVICES TAX ACT, 2017
+
+a M/s Humble Mobile Solutions Private Limited, (called as the ‘Applicant’
+hereinafter), having GSTIN number 29AADCH6500J1ZK, has filed an application
+for Advance Ruling under Section 97 of the CGST Act, 2017 read with Rule 104 of
+the CGST Rules 2017 and under Section 97 of the KGST Act, 2017 read with Rule
+104 of the KGST Rules 2017, in FORM GST ARA-O1 discharging the fee of
+Rs.5,000/- each under the CGST Act and the KGST Act.
+
+Page 1 of 10
+
+
+
+2. The Applicant is a Private Limited Company and is registered under the
+Goods and Services Act, 2017. The applicant has sought advance ruling in respect
+of the following question:
+
+Whether the applicant is liable to pay tax for supply of services by another
+person through the e-commerce platform operated by the applicant?
+
+3. The applicant furnishes some facts relevant to the stated activity:
+
+a. The applicant states that he operates a technology based electronic
+platform service called “DriveU” which seeks to provide drivers on
+demand to customers who wish to obtain the services of a driver.
+
+b. The drivers offering their services on the DriveU platform are
+individuals and independent service providers who have opted to
+enlist themselves with DriveU. The drivers are screened and trained
+prior to being listed as a driver on the DriveU platform. At no point
+can the driver represent himself to be an employee of Humble Mobile
+Solutions Private Limited / DriveU. The user terms and conditions
+hosted on DriveU website expressly provide that the drivers are
+independent service providers and are not employees of the applicant.
+
+C Further, the applicant states that DriveU, in itself does not provide
+driving or transportation services. The customer offers the mode of
+transportation. The terms and conditions clearly state that the
+provision of services by the driver to the customer is, subject to the
+agreement entered into between them and the applicant shall under
+no circumstances be party to such agreement. The extract of Para II of
+the User terms and conditions, as hosted on the applicant’s website,
+is reproduced by the applicant as the same reads as follows:
+
+“DriveU itself does not provide transportation services. It is
+upto the User to offer transportation. DriveU only acts as
+intermediary between the Driver and you. The provision of
+the Services by the Driver to you is, therefore, subject to the
+agreement (to be) entered into between the Driver and you.
+DriveU shall under no circumstance be a party to such
+agreement. DriveU disclaims any and ail liability in respect
+of the Drivers including any claimes of employment or any
+vicarious liability arising out of the Service or otherwise.”
+
+4. The applicant elaborates the modus operandi is as follows:
+a. DriveU aims at bringing drivers/ operators (service providers) and customers
+
+owning private cars on a common platform by which the said customers can
+place a request for the services of a professional driver for commute.
+
+Humble Mobile Solutions Page 2 of 10
+
+
+b. The e-commerce platform brings the customer into contact with a driver so as
+to avail the latter’s services, subject to the availability of drivers in or around
+the customer’s location at the time of registering his request.
+
+c. The request by the customer could be for a point-to-point commute or a round
+trip, is place by the customer electronically over a mobile based app or
+through an online website operated by the applicant.
+
+d. Towards the end of the commute, the customers are charged for the services of
+the driver, which is intimated to them over the app or mail. The services may
+be paid for by the customers either:
+
+e Incash, directly to the driver, or
+e Through online payment options, to the applicant
+
+e. Where the customer opts to pay for the drivers’ services through any of the
+online modes available on the app, the applicant remits the proceeds collected
+from the customers to the respective drivers subject to deduction of TDS
+under section 194C of the Income-tax Act, 1961.
+
+f. In return for the use of the applicant’s electronic platform, the Drivers are
+charged a convenience fee by the applicant including GST. The applicant
+remits the said tax to the credit of the respective Governments and regularly
+files periodic returns as prescribed under the GST Laws.
+
+5. Regarding the question whether the applicant is liable to pay tax for supply of
+services by another person through e-commerce platform operated by the
+applicant, the applicant states as under:
+
+a. Electronic Commerce has been defined to mean the supply of goods or
+services or both, including digital products over digital or electronic network.
+b. An Electronic Commerce Operator has been defined to mean any person who
+
+owns, operates or manages digital or electronic facility or platform for
+electronic commerce.
+
+cc; The Government vide Section 9(5) of the CGST Act, 2017 is empowered to
+notify, specific categories of services, the tax on which shall be paid by the
+electronic commerce operator if such services are supplied through it, and
+the electronic commerce operator shall for all intents and purposes be
+deemed to be the supplier liable for paying the tax in relation to the supply of
+such services. All the provisions of the GST Law would then apply to the
+electronic commerce operator since the electronic commerce operator is
+deemed to be the supplier of service. However, as on date of this application,
+only three services have been notified by way of Notification No.17/2017-
+Central Tax (Rate).
+
+d. The following are the categories of services notified under Section 9(5) of the
+CGST Act, 2017 in respect of which the electronic commerce operator would
+be liable to pay tax:
+
+a. Services by way of transportation of passengers by a radio-taxi, motor cab,
+maxi cab and motor cycle.
+
+. Accommodation services in hotels or commercial places meant for lodging
+
+purposes, except where the person supplying such service through the
+
+; Mobile Solutions Page 3 of 10
+
+
+
+electronic commerce operator is liable for registration on account of having
+aggregate turnover in excess of Rs.20 Lakhs (Rs.10 Lakhs in case of special
+category States)
+
+c. House keeping services, such as plumbing, carpentering, etc. except where
+the person supplying such service through the electronic commerce operator
+is liable for registration on account of having aggregate turnover in excess of
+Rs.20 Lakhs (Rs.10 Lakhs in case of special category States)
+
+d. Section 52 of the CGST Act, 2017 provides for collection of tax at source
+which mandates every electronic commerce operator, not being an agent, to
+collect an amount calculated at a rate to be notified (but not exceeding 1%)
+on the net value of taxable supplies made through it by other suppliers
+where the consideration in respect to such supplies is to be collected by
+such electronic commerce operator.
+
+e. In light of the statutory provisions referred to above, for the purpose of GST,
+electronic commerce operators may be broadly classified into four categories
+
+a. A registered person owning a website or any other digital platform of
+their own to which no other third party supplier has access
+
+b. An electronic commerce operator operating a digital platform through
+which services specified under section 9(5) of the CGST Act are
+supplied by third party suppliers
+
+c. An electronic commerce operator operating a digital platform through
+which goods and services (other than those services specified under
+Section 9(5) of the CGST Act) are supplied by third parties and the
+consideration for which is collected by the electronic commerce
+operator on behalf of the third party supplier.
+
+d. An electronic commerce operator operating a digital platform through
+which goods and services (other than those services specified under
+section 9(5) of the CGST Act) are supplied by third party suppliers
+and the consideration for which is directly collected by the third party
+supplier,
+
+f. The applicant’s business model is as under:
+The applicant’s business model can be summarized as under:
+a. Provides a platform by which third party service providers are allowed
+to enlist themselves as drivers on its platform
+b. The services provided by the drivers is not a category of service which
+has been notified under section 9(5) of the CGST Act, 2017 read with
+Notification No.17/2017 — Central Tax (Rate)
+c. Consideration for services provided to customers is
+i. Collected by the applicant on behalf of third party service providers
+(i.e. drivers) through online payment options
+ii. Paid directly to the drivers
+
+In view of the above, the applicant submits that he, as an electronic
+
+commerce operator may be classified under category (c) or (d) of para 5(f)
+above.
+
+Humble Mobile Solutions Page 4 of 10
+
+
+6. Regarding the GST treatment for supplies falling under Category (c) of para 5(f)
+above, the applicant submits as under:
+
+a. The GST Law prescribes a mechanism for tax collection at source. It may be
+noted that the effective date for provisions relating to TDS have not been
+notified; consequently, the same are not applicable as on the date of this
+application for Advance Ruling. However, for a comprehensive understanding
+of the GST implications, the same have been dealt with, in this application.
+Section 52 of the CGST Act, 2017 provides for the conditions on the
+fulfilment of which an electronic commerce operator will be required to collect
+tax at source. The provisions of TCS would be triggered in the event of the
+following:
+e¢ Supply of goods or services or both must be effected by a third party
+supplier through an electronic commerce operator
+
+e The electronic commerce operator is not an agent of such third party
+supplier
+
+e The third party supplier is a registered person
+
+e The supply effected by the third party supplier must be a taxable supply,
+i.e. liable to GST
+
+e The services supplied through the e-commerce operator shall not be a
+service specified under section 9(5) of the CGST Act, 2017 read with
+Notification No.17/2017-Central Tax (Rate)
+
+e The consideration in respect of such supplies is collected by the
+electronic commerce operator on behalf of the third party supplier.
+
+b. The electronic commerce operator shall collect tax at source at a rate not
+exceeding 1% (as may be notified) of the net value of taxable supplies. Net
+value of supplies may be understood as the aggregate value of all the taxable
+supplies effected through the e-commerce operator during the month as
+reduced by the aggregate value of rejections/ supply returns in the same
+month.
+
+c. Aggregate value of supplies classified under section 9(5) of the CGST Act,
+2017 shall not be included in ascertaining the net value of taxable supplies
+since the same would be liable to tax in the hands of the electronic commerce
+operator as discussed above.
+
+d. The electronic commerce operator collecting tax at source would be required
+to file a statement in FORM GSTR-8 furnishing details of tax collected at
+source.
+
+e. The Tax collected at Source would be eligible as credit to the third party
+supplier in his electronic credit ledger. Such credit may be utilized by the
+third party supplier to discharge his output tax liability on taxable supplies
+effected by him. It is important to note that collection of tax at source by the
+electronic commerce operator does not absolve the third party supplier of his
+liability to pay tax on his outward supplies.
+
+obile Solutions Page 5 of 10
+
+
+f. Regarding the impact of the above on the applicant, the applicant states that
+in the instant case, all the conditions of para 6a would be applicable and as a
+result of which, the applicant would be required to effect TCS on the value of
+service collected by it from passengers on behalf of the third party service
+providers (i.e. drivers). It must be noted that any amount paid by the
+customers directly to the drivers would not attract the provisions of TCS. The
+onus for discharge of tax liability on the services provided by the drivers to
+the customers rests solely on such drivers. The drivers will be responsible for
+filing periodic returns and remitting taxes after setting off TCS credit
+available in the electronic credit ledger.
+
+7. Regarding the GST treatment for supplies falling under Category (d) of para 5(f)
+
+above, the applicant submits as under:
+
+a. This transaction, though similar to Category c, differs on the grounds that
+the consideration for the supply of service by the third party service provider
+is not collected by the electronic commerce operator through whom the
+services have been supplied.
+
+b. As explained earlier, the provisions of TCS would be triggered in the event of
+the following:
+
+e Supply of goods or services or both must be effected by a third party
+supplier through an electronic commerce operator
+
+e The electronic commerce operator is not an agent of such third party
+supplier
+
+¢ The third party supplier is a registered person
+
+e The supply effected by the third party supplier must be a taxable supply
+i.e. liable to GST
+
+e The services supplied through the electronic commerce operator shall not
+be a service specified under section 9(5) of the CGST Act, 2017 read with
+Notification No.17/2017 - Central Tax (Rate)
+
+e The consideration in respect of such supplies is collected by the electronic
+commerce operator on behalf of the third party supplier.
+
+c. Regarding the impact on the applicant, the applicant states that since the
+consideration in this instance, is directly received by the third party service
+provider, the provisions relating to collection of tax at source under section
+52 of the CGST Act, 2017 would not be applicable. Thus, the onus of
+discharging tax falls entirely on such third party service provider (i.e. drivers)
+towards services rendered by them through the electronic commerce
+operator.
+
+8. Having considered the various scenarios applicable to the applicant’s business,
+as discussed supra, the applicant is of the view that service rendered by third party
+service providers (i.e. drivers) through the electronic platform operated by the
+applicant does not fall within the ambit of any of the services listed in Notification
+No.17/2017 - Central Tax (Rate). Consequently, the provisions of section 9(5) of the
+CGST Act, 2017 would not apply to the applicant. Thus, the applicant would not be
+
+Humble Mobile Solutions Page 6 of 10
+
+
+liable to pay GST on services supplied through it by third party service providers
+(i.e. drivers). Further, in view of the fact that TCS provisions have not been notified
+
+as yet, the applicant would not be liable to collect tax at source from the third party
+service providers.
+
+9. FINDINGS & DISCUSSION:
+
+We have considered the submissions made by the applicant in their
+application for advance ruling as well as the assertions made by Sri. Badrinath,
+CA, during the personal hearing. We also considered the issues involved on
+which advance ruling is sought by the applicant and relevant facts. At the
+outset, we would like to state that the provisions of both the CGST Act and the
+KGST Act are the same except for certain provisions. Therefore, unless a
+mention is specifically made to such dissimilar provisions, a reference to the
+
+CGST Act would also mean a reference to the same provisions under the KGST
+Act.
+
+9.1 The activity of supply of the applicant is examined and it is seen that there
+are three supplies involved in the entire transactions — first supply is providing
+drivers to the consumers, second supply is that of e-commerce services to the
+drivers and the third supply is the provision of manpower service by the drivers
+to the consumers.
+
+9.2 Regarding the first supply, i.e. providing drivers to the consumers, the
+applicant is only acting as an intermediary through the e-commerce platform,
+wherein the consumers who are in need of drivers would log in to the portal and
+select the driver. The drivers are listed in the e-commerce platform and the
+contract is between the drivers and the consumers, with the applicant acting as
+a facilitator. In some cases, the consideration for this service is received by the
+applicant on behalf of the drivers and the same would be paid to the drivers.
+Hence the applicant is not providing drivers to the consumers but only
+facilitating the consumers and drivers to come together for provision of service.
+
+9.3 Regarding the second supply, the supplier of services is the e-commerce
+platform service provider i.e. the applicant in the instant case and the recipient
+of the supply of service is the driver as he is the person liable to pay the
+consideration. The applicant is collecting service charges for the usage of
+electronic commerce platform like listing services, payment collection etc. and
+the applicant has admitted GST liability on the above service charges collected
+and declaring the same in the returns. This turnover is not subject matter of
+this application for advance ruling and hence not considered.
+
+9.3 Regarding the third service, it is found that the applicant is operating an
+electronic commerce platform and is providing a platform for the obtaining the
+ices of drivers by the consumers. The drivers are not employees of the
+t and are independent persons who provide the services to the
+ile Solutions Page 7 of 10
+
+
+
+consumers and the consumers are liable to pay the consideration for the
+services to the drivers. Further, as observed from the submissions of the
+applicant, the consumers have the option either to pay the consideration directly
+to the driver or make payment electronically to the applicant and the applicant
+makes the payment so collected to the drivers. The drivers, being independent
+persons, have the option to enter into the contract and the customers have the
+choice of the drivers, hence they act on principal to principal basis and the
+applicant is only a facilitator for the supply of the services by the drivers to the
+customers and is charging a fee for the services provided from the drivers. The
+drivers are the suppliers of services which are separate supplies and the
+treatment of the taxability of this transaction is not a subject matter of the
+advance ruling. However, it is pertinent to note that section 9(5) of the CGST Act
+2017 does not shift the liability of these services provided by the drivers from
+the drivers themselves to the e-commerce operator.
+
+9.4 Regarding the taxability of the services supplied by the drivers to the
+consumers, the following observations are made:
+
+(a) Section 9(5) of the CGST Act, 2017 reads as under:
+
+“(8) The Government may, on the recommendations of the Council, by
+notification, specify categories of services the tax on intra-State
+supplies of which shall be paid by the electronic commerce operator if
+such services are supplied through it, and all the provisions of this Act
+shall apply to such electronic commerce operator as if he is the
+supplier liable for paying the tax in relation to the supply of such
+services:”
+
+By virtue of this sub-section, the liability for payment of tax in relation to
+intra-State supplies of notified services supplied through an e-commerce
+operator would be on the e-commerce operator and not on the actual
+supplier.
+
+(b) Notification No. 17/2017- Central Tax dated 28.06.2017 (as amended from
+time to time) notifies the following services as notified services under section
+9(5) of the CGST Act:
+
+(i) services by way of transportation of passengers by a radio-taxi, motorcab,
+maxicab and motor cycle;
+
+(ii) services by way of providing accommodation in hotels, inns, guest
+houses, clubs, campsites or other commercial places meant for residential
+or lodging purposes, except where the person supplying such service
+through electronic commerce operator is liable for registration under sub-
+section (1) of section 22 of the said Central Goods and Services Tax Act.
+
+(iii) services by way of house-keeping, such as plumbing, carpentering
+etc, except where the person supplying such service through electronic
+commerce operator is liable for registration under sub-section (1) of
+section 22 of the said Central Goods and Services Tax Act.
+
+Humble Mobile Solutions Page 8 of 10
+
+
+(c) It is very clear that the services provided by the drivers through the
+applicant’s portal is not covered under item (ii) and (iii) above. On the issue
+whether the said services are covered under item (i) or not is decided by
+analyzing the nature of services supplied.
+
+(d) The analysis of the services supplied by the individual drivers is analysed
+and found that the drivers are not employees of the applicant and are also
+not hired by the applicant. They are only listed on the portal of the applicant
+and are providing their services on principal-to-principal basis and the
+consideration for the same is either directly received from the recipients of
+the service or indirectly through the applicant. Further, the drivers are not
+supplying the services in their vehicles but are driving the vehicles
+belonging to the recipients of services and hence are not providing “services
+of transportation of passengers by a radio-taxi, motorcab, maxicab and
+motor cycle” but are providing manpower services namely “driving a motor
+vehicle services? which is not covered under item (i) of the Notification
+No.17/2017 — Central Tax dated 28.06.2017.
+
+(ce) In view of the above, the services provided by the drivers are not covered
+under Notification No.17/2017 — Central Tax dated 28.06.2017 and hence
+not covered under section 9(5) of the CGST Act and hence the applicant is
+not liable to tax on the services provided by the drivers.
+
+10. However, on the issue whether the payments collected by the applicant
+and paid to the drivers are liable to tax collection at source under section 52 of
+the CGST Act, 2017, the issue is examined and the following are noted:
+
+10.1 Section 52 of the CGST Act, 2017 which is related to Collection of Tax at
+source reads as under:
+“(1) | Notwithstanding anything to the contrary contained in this Act,
+every e-commerce operator (hereinafter in this section referred to as
+the “operator”), not being an agent, shall collect an amount calculated
+at such rate not exceeding one per cent., as may be notified by the
+Government on the recommendations of the Council, of the net value of
+taxable supplies made through it by other suppliers where the
+
+consideration with respect to such supplies is to be collected by the
+operator.”
+
+10.2 In the above case, to the extent of the consideration collected by the
+applicant for the services provided by the drivers to the consumers, on behalf of
+the drivers, the same shall be liable to collection of tax at source under sub-
+section (1) of section 52 of the CGST Act, 2017. Further, it is pertinent to note
+that the provisions of section 52 of the CGST Act, 2017 had come into force from
+October, 2018 by virtue of Notification No.51/2018 — Central Tax dated
+018. It is also pertinent to note that every person who supplies goods or
+[abile Solutions Page 9 of 10
+
+
+
+services or both (other than those supplies specified under sub-section (5) of
+section 9), through an e-commerce operator who is required to collect tax at
+source under section 52 is liable to be registered compulsorily under section 24
+of the CGST Act, 2017.
+
+11. In view of the foregoing, we pass the following
+RULING
+
+The applicant is not liable to pay tax for the supply of services by drivers
+through the e-commerce platform operated by the applicant, but he is liable
+to pay tax on the services provided to the drivers. Further, the applicant is
+liable to collect tax under section 52 on the net value of taxable supplies
+made by the drivers through it where the consideration with respect to such
+supplies is to be collected by the applicant.
+
+cael} ve
+(Harish Dharnia) (Dr. Ra Sad M.P.)
+Member Member
+
+Place : Bengaluru,
+Date : 19.09.2019
+To,
+
+The Applicant
+
+Copy to:
+1. The Principal Chief Commissioner of Central Tax, Bangalore Zone,
+Karnataka.
+2. The Commissioner of Commercial Taxes, Karnataka, Bengaluru.
+
+3. The Pr. Commissioner of Central Tax, Bangalore-South, Queens Road, CR
+Building, Bengaluru.
+
+4. The Asst. Commissioner, LGSTO-015A, Bengaluru.
+
+5. Office Folder.
+
+Humble Mobile Solutions Page 10 of 10

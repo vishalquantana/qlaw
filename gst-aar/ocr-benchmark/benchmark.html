@@ -93,6 +93,7 @@
       <tr><td class="tool">EasyOCR 1.7.2</td><td class="fail">garbled</td><td class="fail">garbled</td><td class="fail">FAIL</td><td class="part">noisy</td><td class="fail">18.4</td><td class="fail">~330 h</td></tr>
       <tr><td class="tool">PaddleOCR 3.7 <span class="na">(PP-OCRv6 medium, Py3.12)</span></td><td class="pass">4/5 + handwritten ✓</td><td class="pass">EXACT ✓ (p6)</td><td class="pass">PASS ✦</td><td class="fail">Not supported</td><td class="fail">33.3</td><td class="fail">~600 h</td></tr>
       <tr><td class="tool">PaddleOCR mobile <span class="na">(PP-OCRv5)</span></td><td class="part">mixed (ruling MISS)</td><td class="pass">EXACT ✓ (p1)</td><td class="na">untested</td><td class="fail">Not supported</td><td class="fail">18.2</td><td class="fail">~330 h</td></tr>
+      <tr><td class="tool">Baidu Unlimited-OCR <span class="na">(VLM)</span></td><td class="fail" colspan="6">NOT RUNNABLE on macOS — CUDA-only official path; shipped checkpoint has a corrupted position_ids buffer; MPS crashes in vision encoder; CPU path hits an off-by-one embedding bug</td></tr>
       <tr><td class="tool">Mistral OCR API <span class="na">(paid, not tested)</span></td><td class="pass">VLM-class</td><td class="na">expected pass</td><td class="pass">expected pass</td><td class="pass">yes</td><td class="na">API-bound</td><td>≈ $130</td></tr>
     </table>
   </div>
@@ -145,6 +146,8 @@
     <p>Add a searchable text layer + fact-check (ruling-number regex); escalate failures to Vision/Mistral. Also: <strong>don't re-render above 150 dpi</strong> — the scans are natively ~72 dpi; higher dpi adds no information.</p>
     <h3>PaddleOCR — solved the install, lost the speed race</h3>
     <p>PaddleOCR 3.7 <em>does</em> run when you install it under a Python 3.12 venv (only 3.14 lacks a wheel) — and it delivered Surya-class quality: exact GSTIN <em>and</em> it read the handwritten date. But at 33 s/page on CPU it's ~600 h for the corpus, with no GPU option on this Mac. Worth revisiting only on a CUDA box. No Devanagari support in 3.7 either.</p>
+    <h3>Baidu Unlimited-OCR — not runnable outside its CUDA demo</h3>
+    <p>Three independent blockers, all release-quality bugs in the open repo: CUDA-only official inference; a hard MPS crash in the vision encoder; and on CPU, a <em>corrupted position_ids buffer in the published checkpoint</em> (garbage integers instead of <span class="mono">arange</span>) plus an off-by-one position-embedding mismatch. We patched ~20 CUDA-isms and config gaps to get that far. Revisit if a fixed checkpoint ships.</p>
   </div>
 
   <h2>Environment &amp; reproducibility</h2>

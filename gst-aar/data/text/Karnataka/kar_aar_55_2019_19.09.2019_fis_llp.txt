@@ -1,0 +1,803 @@
+THE AUTHORITY ON ADVANCE RULINGS
+IN KARNATAKA
+GOODS AND SERVICES TAX
+VANIJYA THERIGE KARYALAYA, KALIDASA ROAD
+GANDHINAGAR, BENGALURU - 560 009
+
+Advance Ruling No. KAR ADRG 55/ 2019
+
+Date : 19th September, 2019
+Present:
+
+1. Sri. Harish Dharnia,
+Additional Commissioner of Central Tax, . . .. Member (Central Tax)
+
+2. Dr. Ravi Prasad M.P.
+Joint Commissioner of Commercial Taxes . .. . Member (State Tax)
+
+M/s Fulcrum Info Services LLP
+
+1 Name and address of the No.1/2, 4% Floor, Venus Building,
+- applicant 34 Main, Koramangala 1st Block,
+Jakkasandra, Bengaluru-560034
+2. GSTIN or User ID 29AACFF4682P1ZQ
+Date of filing of Form GST
+3. ARA-O1 24.09.2018
+
+Sri N.R. Badarinath,
+
+i Represented by. Chartered Accountant
+
+5 Jurisdictional Authority — Commissioner of Central Tax,
+£ Centre Bengaluru-South, Bengaluru.
+oP taeoncgereie cage LGSTO-015, Bengaluru
+
+Yes, discharged fee of
+1. Rs.5,000-00 under CGST Act vide
+
+Whether the payment of fees CIN HDFC18092900146592 dated
+
+if discharged and if yes, the 18.09.2018
+amount and CIN 2. Rs.5,000-00 under KGST Act vide
+CIN HDFC18092900146592 dated
+
+18.09.2018
+
+ORDER UNDER SECTION 98(4) OF THE CENTRAL GOODS AND SERVICE TAX
+ACT, 2017 AND UNDER SECTION 98(4) OF THE KARNATAKA GOODS AND
+SERVICES TAX ACT, 2017
+
+le M/s Fulcrum Global Info Services LLP (called as the ‘applicant’ hereinafter),
+having GSTIN number 29AACFF4682P1ZQ, have filed an application for Advance
+Ruling under Section 97 of CGST Act, 2017 & KGST Act 2017 read with Rule 104
+of CGST Rules 2017 & KGST Rules 2017, in FORM GST ARA-01 discharging the fee
+of Rs.5,000/- each under the CGST Act and the KGST Act.
+
+2. The Applicant is a private limited company and is registered under the
+Goods and Services Act, 2017. The applicant has sought advance ruling in respect
+he following question:
+
+es)
+4 Whether the back-end support services provided by the applicant to the
+ems ‘© |Juniper Inc. under the agreement would be classified as ‘Support Services’
+
+
+b)
+
+under the Tariff Heading 9985 of Notification 11/2017 - Central Tax (Rate)
+dated 28.06.2017?
+
+Whether the services in question would be treated as Intermediary services
+or not?
+
+The applicant furnishes some facts relevant to the stated activity:
+
+a. The applicant states that he is in the business of providing back-end
+support services to its various clients.
+
+b. As a part of its business, the applicant states that he has entered into
+a Trade Compliance Services (“the agreement”) with Juniper Networks
+Inc., an entity located in the USA (hereinafter referred to as ‘Juniper
+Inc.’?) which lays down terms of various services to be provided by the
+applicant. The Statement of Work (‘SOW’) attached to the Agreement
+details the various services to be provided by the applicant. As per the
+SOW, the applicant mainly provides the services of Trade Compliance
+Operations Management (involving assistance and support for export
+compliance, import compliance, manual documentation preparation,
+etc.) and miscellaneous administrative support (involving responding
+to request for historic shipping documents, filing end user certificates,
+updating the compliance details, updating license details in
+TradeSphere application, providing customized reports, etc.). The said
+agreement is accordingly for providing back office support to Juniper
+Inc. for various transactions undertaken by Juniper Inc.
+
+Cs The scope of services of the applicant to Juniper Inc. as details in the
+SOW is summarized by the herewith:
+
+(a) Export — Import Compliance Support: To undertake various
+activities to day-to-day transactions of Juniper Inc. so as to
+ensure compliance with Bureau of Industry and Security,
+Department of Commerce, US. This includes screening of order,
+shipping documents, user registration, etc. in Juniper Inc.’s SAP
+application. In case of Import, the applicant is also responsible to
+examine import entry files, report the findings and maintain the
+database of all the reviewed files.
+
+(b) Manual Documentation Support: To undertake various activities
+so as to provide support to Juniper Inc. in preparing the shipping
+and other documents in respect of their day-today transactions.
+This inter-alia includes assistance in preparation of (i) Shipping
+documents, (ii) Documentation for declaration at Customs, (ii)
+Documentation for movement from contract manufacturer i.e.
+Accton.
+
+(c) Other administrative support:
+a. Generation of reports from Oracle Application and sharing of
+information with Juniper Inc.;
+b. To update the details of freight charges paid by Juniper Inc.
+on behalf of its customers in the Oracle application;
+
+
+(d) It can be observed, from the above, that the services provided by
+the applicant to Juniper Inc. are mainly in the nature of various
+back office support services in relation to compliance
+requirements to Juniper Inc. and maintenance of information
+database at all times along with providing other agreed
+administrative support in this regard.
+
+(e) The applicant, in terms of the agreement, raises a monthly invoice
+for the various services provided to juniper Inc. The entire
+consideration against the said invoice is received by the applicant
+in convertible foreign exchange.
+
+d. The applicant refers to the Annexure to Notification 11/2017 -
+Central Tax (Rate) dated 28.06.2017 which provides for classification
+of services under Goods and Services Tax (GST). The relevant extract
+of the said Annexure is reproduced hereunder:
+
+Sr.No. | Chapter, Service Description
+Heading, Group | Code
+(Tariff)
+400 Heading 9985 Support Services
+444 Group 99859 Other Support Services
+448 998594 Combined Office Administrative
+Services
+
+998595 | Specialised office support services
+such as_ duplicating services,
+
+mailing services, document
+preparation and the like
+453 998599 Other support services not
+
+specified elsewhere
+
+In addition to above, the applicant also refers to Explanatory notes as
+released by Central Board of Indirect Taxes and Customs (CBIC)
+which indicates the scope and coverage of the Heading, Groups and
+Service Codes of the Scheme of Classification of Services. The relevant
+extracts of the same is reproduced hereunder:
+
+998594 - Combined Office Administrative Services
+This service includes provision of a combination of day to day office
+administrative services, such as reception, financial planning, billing
+
+and record keeping, personnel and mail services etc. for others on
+contract basis.
+
+998595 - Specialised Office Support Services such as duplication
+services, mailing services and document preparation services.
+
+This service code includes...... ; services consisting of sending
+material by stuffing, sealing, metering and mailing...... ; document
+preparation; document editing or proof reading; word processing, ... .
+
+
+
+The applicant states that from the above explanatory notes, it can be
+understood that scope of support services would include services in
+the nature of back-end such as document preparation, document
+processing, etc. which are outsourced by a Company. In the present
+case, the services provided by the applicant to Juniper Inc. in terms of
+the Agreement and the SOW are similar to those covered under the
+explanatory notes released by the CBIC. Therefore, the applicant
+claims that such services supplied by the applicant under the
+agreement to Juniper Inc. are in the nature of support services
+classifiable under Tariff Code 9985.
+
+The applicant also refers to the definition of ‘Support Service’ as
+defined under the pre-GST regime which covered such services.
+Section 65B(49) of the Finance Act, 1994 defined ‘Support Service’ to
+mean:
+
+“Infrastructural, operational, administrative, logistic, marketing or any
+other support of any kind comprising functions that entities carry out in
+ordinary course of operations themselves but may obtain as services by
+outsourcing from others for any reason whatsoever and shall include
+advertisement and promotion, construction or works contract, renting of
+immovable property, security, testing and analysis.”
+
+The applicant states that from the above it can be observed that
+‘support services’ as defined above inter alia covered services in the
+nature of outsourcing. In present case, the services provided by the
+applicant are also in the nature of outsourcing activities, i.e. back-end
+support function. Therefore, it can be said that services provided by
+the applicant to Juniper Inc. under the agreement would be classified
+as ‘Support Services’ under Service Tariff 9985; and in particular
+under the Group 99859 covering ‘Other Support Services’.
+
+The applicant also highlights various activities performed by them
+under the agreement and they are of the same nature i.e. ‘Support
+Services’ as explained above. Accordingly, and without prejudice to
+the need of referring to the definition of ‘Composite Supply’ as per
+Section 2(30) of the CGST Act or otherwise, the principal supply in
+respect of the activities in question would be ‘Support Services’ only,
+since all the activities undertaken under the agreement are also in the
+nature of ‘Support Services’ on a standalone basis.
+
+Further, the applicant highlights that the said services provided under
+the agreement are not in the nature of an ‘intermediary’. The term
+fntermediary’ is defined under Section 2(13) of IGST Act. The
+definition of intermediary is reproduced hereunder:
+
+Section 2(13) of IGST Act -
+
+‘Intermediary’ means a broker, an agent or any other person,
+by whatever name called, who arranges or facilitates the
+supply of goods or services or both, or securities, between two
+or more persons, but does not include a person who supplies
+such goods or services or both securities on his own account’.
+
+
+j. In this regard, the applicant highlights the following facts as per the
+terms of the agreement:
+
+i. Services provided by the applicant to Juniper Inc (service
+recipient) is on a principal-to-principal basis;
+
+ii. The services in question are supplied by the applicant to Juniper
+Inc. on its own account;
+
+iii. The applicant provides the services directly to the service
+recipient i.e. Juniper Inc and not to any other person on behalf
+of the service recipient, say, the customers of Juniper Inc.
+
+iv. Juniper Inc. would be dealing with customers directly and the
+applicant is not authorized to enter into any contract or
+arrangement on behalf of Juniper Inc.
+
+v. Services provided by the applicant is on the basis of guidelines
+issued in terms of agreement entered with Juniper Inc, and the
+applicant reports directly to Juniper Inc. Therefore, inference can
+be made that there is no arrangement or facilitation of supply of
+goods or services or both which is done by the applicant to
+customers of Juniper Inc.
+
+vi. The applicant does not secure any order from the customers in
+India, but the order will be placed directly by the customer on
+the application owned and maintained by Juniper Inc.
+
+vii. Juniper Inc. supplies goods or services or both to its customers
+on the basis of orders received from its customers on the
+application provided for placing of the order;
+
+viii. It is the customer of Juniper Inc, who will import the goods, file
+bill of entry and pay the applicable duties on imports.
+
+k. The applicant states that he does not arrange or facilitate any services
+on behalf of Juniper Inc and hence there is no question of service
+qualifying as Intermediary’ services being provided by the applicant.
+The arrangement entered is between Juniper Inc and the applicant
+and there is no involvement of any other entity or person.
+
+1. The applicant refers to the para 5.9.6 of CBEC’s Education Guide
+dated 20.06.2012 which, though released under the pre-GST regime,
+the framework and the intention of the Government would hold true
+even under the GST regime. The said Education Guide while
+explaining the term ‘intermediary’ clearly states that a person who
+arranges or facilitates a provision of a service, but provides the main
+service on his own account, is excluded from the scope of the term
+‘intermediary’. In the present case, the support services are provided
+by the applicant on his own account and the applicant does not
+
+facilitate any supplies of goods or services but provides back end
+support services.
+
+The applicant also refers to certain judicial precedents under the
+Finance Act, 1994 i.e. erstwhile regime wherein it was held that where
+services are provided on principal to principal basis, the said services
+would qualify as main service, not intermediary service.
+
+
+
+- Global Transportation Services Pvt Ltd. [2016 (45) STR 574
+(AAR)] — This service agreement would be on principal to principal
+basis and not as agent of said airline/ shipping lin. Therefore,
+applicant would be covered by the exclusion clause, i.e. provides the
+main service — inbound and outbound shipment on his own account
+in terms of Rule 2(f) of POP rules and thus not covered under Rule
+Q(c) ibid as “intermediary service”
+
+- GoDaddy India Web Services Pvt Ltd [2016 (46) STR 806 (AAR)]
+the applicant is providing business support service such as
+marketing and other allied services like oversight of quality of third
+party customer care centre operated in India and payment
+processing services, on behalf of GoDaddy US. Therefore, these
+services provided by the applicant to GoDaddy US cannot be
+categorized as intermediary services.
+
+- Universal Services India Pvt Ltd [91 VST 483 (AAR)] - In the
+given case, the applicant is engaged in provision of payment
+processing services to WWD US wherein it was held that services
+under the consideration is being provided on its own account as a
+main service and qualifies as Business Support Service and not an
+“intermediary”.
+
+In the present case, the applicant is providing main service. i.e.
+business support services to WWD US and on his own account.
+Therefore, the applicant is not an “intermediary” and the service
+provided by him is not intermediary service.
+
+n. Similar decision was also held in the case of M/s Evalueserve.com Pvt
+Ltd v. CST, Gurgaon [2018 (3) TMI (CESTAT Chandigarh] — In view of
+the above precedents, the applicants claims that it can be observed
+that wherever the assessee provides support services on his own
+account, the services have been held to not qualify as intermediary
+services. In the present case, as can be observed from the nature of
+services and other explanation provided in this application, the
+applicant provides back end support services for facilitating business
+transactions of Juniper Inc. and thus provides the services on its own
+account.
+
+o. In light of the above background, the applicant states that he is of the
+view that the supply of services by the applicant under the agreement
+is not an intermediary service and will be classifiable under “Support
+Service” under the Tariff Heading 9985 of Notification 11/2017 —-
+Central Tax (Rate) dated 28.06.2017.
+
+4. FINDINGS & DISCUSSION:
+
+We have considered the submissions made by the Applicant in their
+application for advance ruling as well as the submissions made by Sri
+Badrinath, CA, authorized representatives, during personal hearing. We have
+also considered the issues involved, on which advance ruling is sought, by the
+
+
+applicant, and relevant facts. At the outset, we would like to state that the
+provisions of both the CGST Act and the KGST Act are the same except for
+certain provisions. Therefore, unless a mention is specifically made to such
+dissimilar provisions, a reference to the CGST Act would also mean a reference
+to the same provisions under the KGST Act.
+
+4.1 The Trade Compliance Services Agreement entered between the applicant
+and Juniper Inc. is verified and found the following:
+
+(a) The applicant shall perform services for the benefit of Juniper Networks
+as the parties may agree from time to time (the “Services”). The Services
+will be provided in accordance with the written Statements of Work
+(“SOW”) agreed to between the parties. The applicant and Juniper
+Networks shall jointly determine and identify each party’s roles for each
+set of services set forth in an SOW.
+
+(b) The applicant is and shall remain an independent contractor and not an
+employee of Juniper Networks. Except as specifically provided in this
+agreement, nothing in this agreement shall either be render, or be
+interpreted or construed to mean that the parties are partners, joint
+venturers, trustee/beneficiary, employer/employee or principal/agent of
+the other. Except as specifically provided in this agreement, neither party
+shall have any authority whatsoever to obligate or commit the other party,
+contractually or otherwise, and neither party shall so anything
+whatsoever to represent to any person that they have any authority to so
+obligate to commit the other party.
+
+(c) The applicant acknowledges that they have not authority to enter into and
+the applicant agrees not to enter into any contract incur any liability or
+otherwise act on behalf of Juniper Networks. Nothing in this agreement
+shall be construed to imply that vendor is an agent, employee, or other
+representative of Juniper Networks nor shall Vendor make any
+representations to the contrary.
+
+(d) In the course of performing the services, the applicant has agreed to
+comply with all applicable export, import and technology control laws and
+regulations. Without limiting the foregoing, the applicant has agreed, both
+during the term of this agreement and thereafter, not to export any
+technical data or other material received or generated by the applicant in
+the course of performing Services under this agreement without
+complying with all applicable export control laws and regulations.
+
+(e) Scope of the work states that the applicant is going to provide services to
+Juniper related to :
+
+a. Trade Compliance Operations Management which involves
+compliance screening relevant to Juniper’s business, as instructed
+and trained by Juniper
+
+b. Helpdesk support services which includes providing status of
+shipment to Juniper internal and external customers
+
+c. Certain administrative tasks as described therein
+
+
+
+(f)
+
+Regarding the Trade Compliance Operations Management, it is seen that
+Juniper has provided access to the applicant on its TradeSphere and
+Oracle applications, to perform outsourced processes. The responsibility
+of the business logic and functionality of the applications remain with
+Juniper.
+
+a. Export Compliance: Juniper has trained applicant to perform
+certain activities on day to day transactions of Juniper, so as to
+comply with the rules and regulations laid down by Bureau of
+Industry and Security, Department of Commerce, US.
+
+i. Restricted Party Screening: Prior to booking an order or
+demo of a product, potential customers of Juniper are to be
+screened against the restrictive party list. The applicant is
+responsible to screen the entities on TradeSphere application
+and provide the results to concerned teams of Juniper
+and/or other service providers of Juniper.
+
+ii. Order Screening: As per the business logic on TradeSphere
+application, any transaction which should not be PASSED
+automatically by the system is kept on HOLD and for all
+such transactions, an alert is sent to the applicant directly
+from the TradeSphere application. The applicant is
+responsible to manually intervene into such transactions and
+take necessary actions based on guidelines provided by
+Juniper as per agreed SLA.
+
+iii. Shipment Screening: As per the business logic on
+TradeSphere application, any transaction which should not
+be PASSED automatically by the system is kept on HOLD
+and for all such transactions, an alert is sent to the
+applicant directly from the TradeSphere application. The
+applicant is responsible to manually intervene into such
+transactions and take necessary actions based on guidelines
+provided by Juniper as per agreed SLA.
+
+iv. Shipping documents: Juniper revenue shipments are booked
+in Oracle by Juniper Order Management team and this
+information flows to TradeSphere application automatically.
+As a process, the applicant receives from Juniper contracted
+manufacturers and/or freight forwarders for shipping
+documents. The applicant is responsible for the accuracy of
+the compliance information on the shipping documents and
+to fulfill the document request of the manufacturer/ freight
+forwarder as per agreed SLA.
+
+v. Web Registration: As per the business decision by Juniper,
+all individuals / companies who register themselves on
+Juniper website to access certain information, will have to be
+screened against the business rules laid down by Juniper on
+TradeSphere application. At times, when the application is
+unable to make a decision, the applicant manually
+intervenes and takes necessary actions based on guidelines
+provided by Juniper and as per agreed SLA.
+
+vi. License key: As per the business logic on TradeSphere
+application, any transaction which should not be PASSED
+
+
+automatically by the system is kept on HOLD and for all
+such transactions, an alert is sent to the applicant directly
+from the TradeSphere application and the applicant is
+responsible to manually intervene into such transactions and
+take necessary actions based on guidelines provided by
+Juniper and as per agreed SLA.
+
+b. Import Compliance: Juniper has trained applicant to perform
+certain activities on the day-to-day transactions of Juniper, so as to
+comply with the rules and regulations laid down by the Bureau of
+Industry and Security, Department of Commerce, US and Customs
+and Border Protection governing bodies:
+
+i. Import Entry Audit: Juniper has nominated certain
+forwarders to file the entries with US Customs whenever the
+import is done under the name of Juniper. Such transactions
+are periodically sent to the applicant for audits. The
+applicant is responsible to audit the entry files and report
+the findings to Juniper periodically.
+
+ii. Import Entry Record Keeping: Juniper has assigned the
+responsibility to the applicant to maintain the database of all
+import files audited by the applicant and safe keep the
+documents (in any format) for a period of 5 years.
+
+c. Manual documentation: Juniper has trained the applicant to
+perform certain activities on the day-to-day transactions of
+Juniper, so as to support Juniper in preparing the shipping
+documents for non-revenue shipments.
+
+i. CS, DOA, Internal & RMA shipments: Juniper has provided
+guidelines to the applicant on preparing the shipping
+documents for its Customer Service, Dead on Arrival,
+Internal (Shipments moving between Juniper offices /
+manufacturer to Juniper office) and Return Material
+Authorised Shipments. The applicant is responsible to
+prepare the documents based on the destination country and
+relevant compliance parameters to be used for such
+transactions as instructed by Juniper and process the
+requests within the agreed SLA.
+
+ii. Demo Loan Shipping Documents: Juniper has provided
+guidelines to the applicant on preparing the shipping
+documents for Demo Loan shipments. The applicant is
+responsible to prepare the documents based on _ the
+destination country and relevant compliance parameters to
+be used for such transactions as instructed by Juniper.
+
+ili. Mailroom Shipping Documents: Juniper is yet to provide
+guidelines to the applicant on preparing the shipping
+documents for mailroom shipments (shipments between
+Juniper offices with non-Juniper products). Once trained,
+the applicant will be responsible to prepare the documents
+based on the destination country and relevant compliance
+parameters to be used for such transactions as instructed by
+Juniper.
+
+
+iv. Hong Kong Declaration documents: Juniper has assigned the
+responsibility to the applicant to prepare the documentation
+for declaration purposes at Hong Kong Customs. The
+applicant is responsible to prepare two sets of documents
+(import into Hong Kong and export out of Hong Kong) for
+each shipment which physically transit through Hong Kong.
+
+v. Accton Shipping documents: Juniper has assigned the
+responsibility to the applicant to prepare the documentation
+for certain shipments moving out of one of its contract
+manufacturers (Accton). The applicant is responsible to
+prepare the documents out of Accton moving to various
+Juniper offices and/or other contract manufacturer locations
+worldwide.
+
+vi. CS Hub documents: Juniper APAC Customer Support team
+has trained the applicant to prepare the documentation for
+all CS Shipments moving from Singapore UPS hub to
+Customers and/or other UPS locations in APAC region. In
+addition to this, the applicant is also responsible for all
+shipments moving from UPS Louisville hub to APAC UPS
+locations for replenishment.
+
+(g) Regarding the Helpdesk Support Services, it is agreed that Juniper has
+provided access to the applicant on its TradeSphere and Oracle
+applications, to perform the outsourced processes. The responsibility of
+the business logic and functionality of the applications remain with
+Juniper.
+
+a. Email responses: Juniper has trained the applicant to perform
+certain activities on the day-to-day transactions of Juniper, so as to
+help its internal and external Customers get visibility on the status
+of their shipments. The applicant will be responsible to reply to the
+email messages with accurate information obtained from Juniper
+applications within the agreed SLA.
+
+b. Forwarder Confirmation: Juniper has trained the applicant to
+perform the forwarder confirmation process on its Oracle
+applications. The applicant will be responsible to perform the
+assigned task accurately as per guidelines from Juniper and has to
+adhere to the timelines set by Juniper. Apart from performing the
+Forwarder Confirmation on the shipments. The applicant is also
+responsible to generate the ‘Shipped Not Invoice’ report from Oracle
+and alert certain teams within juniper in a timely manner.
+
+c. Pre-Pay & Add: Juniper has trained the applicant to perform the
+“pre-pay and add” process for all shipments for which Juniper
+would have paid the freight charges on behalf of the customer. The
+applicant will be responsible to calculate the freight charges based
+on the weight and quantity of a shipment and input the freight
+charges prior to performing the Forwarder Confirmation on a
+particular shipment. The applicant has to adhere to the timelines
+specified by Juniper.
+
+d. Serial Number Back Out: Juniper has trained the applicant to
+perform the serial number back out process on its Oracle
+
+
+application. The applicant will be responsible to perform the
+assigned task based on the guidelines provided by Juniper.
+
+e. SSUI: Exception Handling (payments): Juniper has a pre-defined
+approach to clear its financial dues to its service providers. All
+service providers have to go through a payment screening gateway
+controlled by a outsourced service provider called Software
+Solutions Unlimited Inc (SSUI). Through this payment channel, all
+payments which have a genuine Juniper GL code will get through
+and the payment will be processed. The ones which do not have a
+pre-coded GL Code will be on hold. Juniper has trained Fulcrum on
+how to handle such exceptions and the applicant will be
+responsible to clear the outstanding payments based on the
+knowledge imparted by Juniper.
+
+(h) Regarding the administrative tasks the process related ad-hoc requests
+are placed by the management team at Juniper to the applicant. Some
+examples of such requests are listed in the agreement:
+
+a. Web Registration mass update of back-end data which triggers a
+spike in volume on the process
+
+b. Request for historic shipping documents
+
+c. Filing End User Certificates and verifying the accuracy and
+eligibility of the same at the time of releasing an order
+
+d. Updating the compliance details of Juniper intangible products and
+coordinating with Juniper IT helpdesk to upload the details on
+TradeSphere application
+
+e. Updating licenses obtained by Juniper in TradeSphere application.
+
+4.2 The details of the above works that has been entrusted to the applicant by
+Juniper shows that the Juniper Inc has outsourced its works to the applicant
+and the applicant is providing his services either updating in the system and if
+the system is not able to process the work, then it has to do the process
+manually and update the system. There is no interaction of the applicant with
+the third persons, either directly or indirectly and the applicant is only
+concerned with the work which has been entrusted to it on the system.
+
+4.3 The clause (13) of section 2 of the IGST Act, 2017 defines the
+“intermediary” as under:
+
+“(13) “intermediary” means a broker, an agent or any other person, by whatever
+name called, who arranges or facilitates the supply of goods or services or both,
+or securities, between two or more persons, but does not include a person who
+supplies such goods or services or both or securities on his own account.”
+
+The issue is whether the applicant is arranging or facilitating the supply of
+
+services between two or more persons. The terms of the agreement are verified
+
+and found that the applicant has outsourced a part of the activity of supply of
+
+services by Juniper Inc to his clients or recipients of such service, to the
+
+applicant and the applicant is providing the service in relation to the service
+¢orAgpxided by Juniper Inc. The exact meaning of the word “facilitating” has not
+efined or explained in the Act or Rules.
+
+
+
+4.4 The meaning of the word “facilitate” as provided in the various dictionaries
+are as under:
+
+Oxford Dictionary : “facilitate” - Make (an action or process) easy or easier.
+
+Cambridge Dictionary: “facilitate” - to make something possible or easier
+
+The Free Dictionary by Farlex
+
+“Facilitate” : verb - accelerate, advance, aid, assist, assist the progress, clear,
+clear the way, de-obstruct, disburden, disentangle, ease, enable, encourage,
+expedite, expedite, forward, foster, free from difficulty, free from hindrance, free
+from impediment, free from obstruction, further, give clearance, hasten, help,
+lend a hand, lessen the labor, lift a ban, lighten, make a path for, make easy,
+make possible, open the way for, pave the way, promote, push forward, quicken,
+rem faciliorem reddere, render a task easier, render assistance, render less
+difficult, simplify, smooth, speed up
+
+In terms of the Statement of work, it is seen that the applicant is engaged
+in providing the services themselves. In other words there is no third person
+involved in providing services to Juniper or receiving from juniper where the
+applicant may have acted as the go in between. The applicant is thus not
+involved as an intermediary in terms of the contents of the statement of work
+provided by the applicant.
+
+4.5 The issue under question is whether the services provided by the applicant
+to Juniper Inc would be classifiable as “Support Services” under the Tariff
+Heading 9985 of Notification No.11/2017 - Central Tax (Rate) dated 28.06.2017.
+The nature of the service supplied by the applicant is verified and found that the
+applicant is providing the services which is in the nature of back office work.
+The claim of the applicant that the services provided by him is covered under
+the Heading 9985 is verified and found the following
+
+Heading 9985 is related to
+
+Chapter, Service Service Description
+Section, Code
+Heading or | (Tariff)
+Group
+Heading 9985 Support Services
+Group 99851 Employment services including personnel
+search/referral service and labour supply service
+Group 99852 Investigation and security services
+Group 99853 Cleaning services
+Group 99854 Packaging services
+Group 99855 Travel arrangement, tour operator and related
+services
+Group 99859 Other support services
+998591 Credit reporting and rating services
+998592 Collection agency services
+998593 Telephone based support services
+998594 Combined Office administrative services
+
+998595 Specialised office support services such as
+
+
+
+duplicating services, mailing services, document |
+preparation and the like
+
+998596 Events exhibitions, conventions and trade shows
+organisation and assistance services
+
+998597 Landscape care and maintenance services
+
+998598 Other information services nowhere else classified
+
+998599 Other support services nowhere else classified
+
+It is very clear that the activities of the applicant is a support service provided to
+the recipient of services and are not covered under the Groups from 99851 to
+99855. It is also not covered by the Service Code 998591 to 998594 and 998596
+
+to 998598. The only question here is whether it is covered by Service code
+998594 or 998595 or 998599.
+
+The explanatory notes relating the Service Code 998594 reads as under:
+“998594 Combined office administrative services
+This service code includes provision of a combination of day to day
+office administrative services, such as reception, financial planning,
+
+billing and record keeping, personnel and mail services etc. for others
+on a contract or fee.basis”
+
+The nature of the works done is verified and found that it is not office
+administration work done for others on contract basis and hence they cannot
+be covered under Service Code 998594.
+
+The explanatory notes relating the Service Code 998595 reads as under:
+
+“998595 Specialized office support services such as
+duplication _ services, mailing services and document
+preparation services
+
+This service code includes blueprinting, photocopying and other
+duplication services other than printing; services consisting of
+compiling lists of names and addresses from telephone directories and
+other sources but does not include compilation services of facts and
+information, cf. 998399; services consisting of sending materials (e.g.,
+advertising material, information material or any other material) by
+envelope addressing, stuffing, sealing, metering and mailing but does
+not include courier services, cf. 996812; document preparation;
+document editing or proofreading; typing, word processing, or desktop
+publishing; secretarial support services; transcription of documents,
+
+and other secretarial services; letter or resume writing; provision of
+mailbox rental
+
+This service code does not include:
+
+- specialized stenotype services such as court reporting and public
+stenography services, cf. 998599”
+
+The issue before us is whether the services rendered can be covered under
+e term “document preparation services”. The contract agreement is verified
+ound that the applicant is not just preparing the document but performs
+act ‘3 s on the day to day transactions of Juniper Inc like Screening of
+
+gm, \C
+
+
+
+restricted parties, screening of orders, screening of shipments, maintenance of
+shipping documents, doing manual processing of transactions on HOLD,
+auditing of entries, Record keeping etc. Hence the activities of the applicant
+cannot be covered under the Service Code 998595 and hence covered under the
+Service Code 998599.
+
+5. In view of the foregoing, we pass the following
+RULING
+
+1. The back-end support services provided by the applicant to the
+Juniper Inc under the agreement is classifiable as “Support Services”
+under the Tariff Heading 9985 of Notification No.11/2017 —- Central
+Tax (Rate) dated 28.06.2017 and more specifically under the Service
+Code 998599.
+
+2. The services in question are not Intermediary Services for the reasons
+
+explained.
+ical
+(Harish Dharnia) (Dr. Ravi\Prasad M.P.)
+Member Member
+
+Place : Bengaluru,
+Date : 19-09-2019
+To,
+
+The Applicant
+Copy to:
+
+(a) The Principal Chief Commissioner of Central Tax, Bangalore Zone,
+Karnataka.
+
+(b) The Commissioner of Commercial Taxes, Karnataka, Bengaluru.
+
+(c) Commissioner of Central Tax, Bangalore South Commissionerate,
+Bengaluru.
+
+(d) The Asst. Commissioner, LGSTO-15, Bengaluru.
+
+(e) Office Folder

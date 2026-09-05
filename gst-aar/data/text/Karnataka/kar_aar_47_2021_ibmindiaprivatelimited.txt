@@ -1,0 +1,749 @@
+THE AUTHORITY FOR ADVANCE RULING
+IN KARNATAKA
+GOODS AND SERVICES TAX
+VANIJYA THERIGE KARYALAYA, KALIDASA ROAD
+GANDHINAGAR, BENGALURU - 560 009
+
+Advance Ruling No. KAR ADRG 47/2021
+Dated: 30.07.2021
+Present:
+
+1. Dr. M.P. Ravi Prasad
+Additional Commissioner of Commercial Taxes .... Member
+
+(State)
+
+2. Sri. Mashhood Ur Rehman Farooqui,
+
+Joint Commissioner of Customs & Indirect Taxes ....Member
+(Central)
+M/s. IBM India Private Limited,
+1 Name and address of the SA.No.12, Subramanya Arcade,
+“| applicant Bannerghatta Road,
+Bengaluru-560029.
+2. | GSTIN or User ID 29AAACI4403L1ZK
+Date of filing of Form GST
+Ss, ARA-O1 18-06-2021
+
+Sri Sachin Agarwal,
+4. | Represented by Chartered Accountant
+& Duly Authorised Representative
+The Commissioner of Central Taxes,
+
+5 Jurisdictional Authority Bangalore South GST Commissionerate,
+" |— Centre South Division 4, Bengaluru
+(RANGE-BSD4)
+6. ie as aviauee ag ACCT, LGSTO-040, Bengaluru
+
+Yes, discharged fee of Rs.5,000-00 under CGST
+Act & Rs.5,000-00 under SGST Act vide CIN
+SBIN21052900013197
+Dated 05.05.2021
+
+Whether the payment of
+7. | fees discharged and if yes,
+the amount and CIN
+
+ORDER UNDER SECTION 98(4) OF THE CGST ACT, 2017
+& UNDER SECTION 98(4) OF THE KGST ACT, 2017
+
+M/s. IBM India Private Limited, SA.No.12, Subramanya Arcade,
+Bannerghatta Road, Bengaluru-560 029 having GSTIN 29AAACI4403L1ZK,
+have filed an application for Advance Ruling under Section 97 of CGST Act,
+
+tia Private Limited Page 1 of 15
+
+
+2017 read with Rule 104 of CGST Rules, 2017 and Section 97 of KGST Act,
+2017 read with Rule 104 of KGST Rules, 2017, in Form GST ARA-0O1
+discharging the fee of Rs.5,000/- each under the CGST Act and the KGST Act.
+
+2. The applicant is a Private Limited Company registered under the provisions
+of Central Goods and Services Tax Act, 2017 as well as Karnataka Goods and
+Services Tax Act, 2017 (hereinafter referred to as the CGST Act and KGST Act
+respectively) dealing in information technology products and services and is
+primarily engaged in producing, selling or licensing computer hardware,
+middleware and software and in providing IT implementation, hosting and
+consulting services in areas ranging from mainframe computers to
+nanotechnology.
+
+3. The applicant has sought advance ruling in respect of the following
+question:
+
+i. Whether the value of assets which are outside the purview of
+GST is required to be included in the value of assets for the
+purpose of apportionment towards transfer of input tax credit in
+case of de-merger in terms of Section 18(3) of CGST Act, 2017
+read with Rule 41(1) of CGST Rules, 2017?
+
+u. If the answer to Question (i) is yes, whether following assets are
+required to be considered for the purpose of determining the
+value of assets for apportionment towards transfer of input tax
+credit in case of de-merger in terms of Section 18(3) of CGST Act,
+2017 read with Rule 41(1) of CGST Rules, 2017:
+
+a. Assets which are created only to comply with the
+requirements of the Accounting Standards;
+b. Assets which are not being transferred as part of de-merger.
+
+iti. If the answers to Question 1 and / or 2 are yes, whether the
+assets which are not attributable to any particular GSTIN be
+considered in the GSTIN of the head office of the Company for the
+purpose of computation of asset ratio?
+
+4. Admissibility of the application: The question is about “determination of
+the liability to pay tax on any goods or services or both” and hence is admissible
+under Section 97(2)(d) of the CGST Act 2017.
+
+BRIEF FACTS OF THE CASE
+5. The applicant furnishes some facts relevant to the issue:
+
+5.1 The applicant states that they are dealing in information technology
+
+Page 2 of 15
+
+
+
+implementation, hosting and consulting services in areas ranging from
+mainframe computers to nanotechnology.
+
+5.2 The applicant belongs to the group of International Business Machines
+Corporation (“IBM”). IBM is a global brand and has its presence in 170
+countries and operates through multiple locations across globe. IBM has
+announced its intention to separate its Managed Infrastructure Services (“MIS”)
+unit into a new company. MIS business means the business of infrastructure
+services unit of IBM’s Global technology services (GTS) segment, including the
+security, regulatory and risk management services and identity management
+services offerings, but excluding the public cloud platform offering of the
+Infrastructure service unit.
+
+5.3 In connection to the global intent, they intend to transfer its MIS business
+to a resulting company (“New Co.”, “Transferee” or “Demerged Company”).
+Pursuant to such transfer, they shall carry out the remaining business.
+
+5.4 Consequent to proposed de-merger, the balance of unutilized input tax
+credit (“ITC”) pertaining to the business division which is being demerged, is
+allowed to be transferred to the resulting company as per the provisions of
+Section 18(3) of CGST Act, 2017 read with Rule 41(1) of CGST Rules, 2017. For
+transferring the balance of unutilized ITC pertaining to demerged business, ITC
+is required to be apportioned in the ratio of value of assets of the new unit as
+specified in the demerger scheme. “Value of assets” has been defined to mean
+value of assets of the business, whether or not ITC has been availed thereon. In
+this regard, the applicant requires certain clarification with respect to the value
+of assets to be considered for the purpose of transfer of credit.
+
+6. Applicant’s Interpretation of Law:
+
+6.1 Section 18(3) of the CGST Act, 2017 provides for the transfer of input tax
+credit which remains unutilized in the electronic credit ledger in cases of
+business re-organization. It is stated that where there is a change in the
+constitution of a registered person on account of sale, merger, demerger, etc.
+with the specific provisions for transfer of liabilities, the said registered person
+shall be allowed to transfer the input tax credit which remains unutilized in the
+electronic credit ledger to such sold, merged, demerged, amalgamated, leased
+or transferred business in such manner as may be prescribed. Extract of the
+same has been enumerated as below:
+
+(3) Where there is a change in the constitution of a registered
+person on account of sale, merger, demerger, amalgamation, lease
+or transfer of the business with the specific provisions for transfer
+of liabilities, the said registered person shall be allowed to transfer
+the input tax credit which remains unutilized in his electronic credit
+
+BM India Private Limited Page 3 of 15
+
+
+ledger to such sold, merged, demerged, amalgamated, leased or
+transferred business in such manner as may be prescribed.’
+
+6.2 Further, Rule 41(1) of the CGST Rules, 2017 relates to transfer of credit on
+account of sale, merger, amalgamation, lease or transfer of a business, states
+that in the event of sale, merger, de-merger, etc. a registered person shall
+furnish the details of sale, merger, de-merger, etc. in FORM GST ITC- 02,
+electronically on the common portal along with a request for transfer of
+unutilized input tax credit lying in the electronic credit ledger to the transferee.
+Extract of the same has been enumerated hereunder:
+
+‘1) A registered person shall, in the event of sale, merger, de-
+merger, amalgamation, lease or transfer or change in the
+ownership of business forany reason, furnish the details of sale,
+merger, de-merger, amalgamation, lease or transfer of business, in
+FORM GST ITC-02, electronically on the common portal along with
+a request for transfer of unutilized input tax credit lying in his
+electronic credit ledger to the transferee.’
+
+6.3 Furthermore, the proviso to aforementioned Rule states that in the case of
+demerger, the input tax credit shall be apportioned in the ratio of the value of
+assets of the new units as specified in the demerger scheme. Relevant extract of
+the same has been enumerated hereunder:
+
+Provided that in the case of demerger, the input tax credit shall be
+apportioned in the ratio of the value of assets of the new units as
+specified in the demerger scheme.
+
+6.4 Also, explanation to the same provides that for the purpose of this sub-rule,
+it is hereby clarified that the “value of assets” means the value of the entire
+assets of the business, whether or not input tax credit has been availed
+thereon. Relevant extract of the same has been provided hereunder:
+
+Explanation: - For the purpose of this sub-rule, it is hereby clarified
+that the'value of assets" means the value of the entire assets of the
+business, whether or not input tax credit has been availed thereon.
+
+6.5 The Central Board of Indirect Taxes & Customs (“CBIC”) has also issued
+Circular No. 133/03/2020-GST dated 234 March 2020, clarifying various
+industry issues with respect to the apportionment of input tax credit in casesof
+business reorganization under Section 18(3) of CGST Act, 2017 read with Rule
+41(1) of CGST Rules, 2017.
+
+6.6 While this circular clarifies certain ambiguities as regards the procedures to
+transfer input tax credit in case of business re-organization; however, the
+
+Page 4 of 15
+
+
+
+the extent of inclusion of the below assets for the computation of asset ratio
+required to transfer ITC:
+
+a. Assets which are outside the purview of GST
+
+b. Assets which are created only to comply with the
+requirement of the Accounting Standards;
+
+c. Assets which are not being transferred as part of de-
+merger to the transferee;
+
+6.7 The applicant relies on the judgment of the Hon’ble Supreme Court in the
+case of West Bengal State Warehousing Corporation Vs. Indrapuri Studio Put.
+Ltd. (Civil Appeal No. 3865 of 2006) has examined the meaning of ‘inclusive'
+and 'exhaustive' definitions as appearing in various statutes.
+
+6.8 Based on the above, the word “includes' when used, enlarges the meaning
+of the expression defined so as to comprehend not only such things as they
+signify according to their natural import but also those things which the clause
+declares that they shall include. It is a more extensive definition and requires to
+also include such similar things as provided in a particular definition. The word
+“means and includes" or “means” on the other hand, indicates an exhaustive
+explanation of the meaning which, for the purposesof the Act, must invariably
+be attached to these words or expressions.
+
+6.9 In the instant case, the ‘value of assets’ has been defined as below:
+
+‘value of assets means the value of the entire assets of the
+business, whether or not input tax credit has been availed
+thereon’.
+
+Given the above, the aforementioned definition of ‘value of assets’ shall qualify
+as an exhaustive definition and therefore the meaning, for the purposes of the
+Act, must invariably be attached to these words or expressions. Thus, nothing
+apart from the aforementioned definition shall be considered as part of the
+value of assets for determination of assets for apportionment towards transfer
+of credit.
+
+The value of assets which are outside the purview of GST are not
+required to be considered for the purpose of computing the assets
+ratio for apportionment of ITC
+
+6.10 As highlighted above, the explanation to Rule 41(1) states ‘value of assets
+means the value of the entire assets of the business, whether or not input tax
+credit has been availed thereon’. Given the same, it is inferred that only those
+assets which are within the purview of GST i.e. the assets having a levy of GST
+
+it and where there exists a possibility to either avail such credit or not avail
+
+Page 5 of 15
+
+
+definition.
+
+6.11 For instance, based on the said explanation, it can be inferred that value
+towards capital goods (such as fixed assets, intangible assets etc.) leviablepGST
+would be required to be included in the value of assets required forcomputation
+of asset ratio for the purpose of apportionment of ITC. Such inclusion would be
+irrespective of the fact whether ITC has been availed onsuch capital goods or
+amount of ITC has been capitalized in the books of accounts. However, those
+assets where there does not exist any levy of GST, such as trade receivables,
+cash/ bank balances, security deposits, etc., which are outside the purview of
+GST should not be considered for thesaid asset ratio as including the same may
+lead to adoption of incorrect asset ratio and incorrect transfer of ITC
+consequently.
+
+6.12 Other assets which are outside the purview of GST i.e. cash and bank
+balance, security deposit, etc. shall not qualify the said definition and
+accordingly the value of such assets should not be included in the valueof assets
+for the purpose of computing the assets ratio for apportionment of ITC.
+
+The value of assets created to comply with the requirements of the
+Accounting Standards are not required to be considered for the
+purpose of computing the assets ratio for apportionment of ITC
+
+6.13 The applicant states that ‘assets’ have not been defined under GST.
+Accordingly, as per the Oxford Dictionary, ‘asset means an item of property
+owned by a person or company, regarded as having value and available to meet
+debts, commitments, or legacies’. In the instant case, the assets which are
+created due to the requirement of Accounting Standard i.e. Building leases and
+deferred tax asset shall not be having any value to meet debts, commitments or
+legacies as it shall largely be treated as book adjustments and not an asset per
+se. Therefore, as the same is not qualifying the definition of assets, it should
+not be considered in the numerator as well as the denominator as part of “value
+of assets” for the purpose of computing the asset ratio required for
+apportionment for transfer of input tax credit in case of de-merger as including
+the same may lead to adoption of incorrect asset ratio and incorrect transfer of
+ITC consequently.
+
+6.14 Also, in common parlance, assets of the business include the assets
+purchased, used, set up in the course of and in relation to business activities of
+an entity. Given the same, in common parlance, the term assets of the business
+would generally do not include the assets created merely as part of complying
+with Accounting Standards and the same would typically not qualify as assets
+of the business.
+
+€or Advay
+Se\The value of assets not getting transferred as a part of de-merger
+
+Page 6 of 15
+
+
+are not required to be considered for the purpose of computing the
+assetsratio for apportionment of ITC
+
+6.15 Further, the proviso to Rule 41(1) of CGST Rules 2017 states that in the
+case of demerger, the input tax credit shall be apportioned in the ratio of the
+value of assets of the new units as specified in the demerger scheme. Thus,
+based on the same only such assets which have been specifically mentioned in
+the demerger scheme as being transferred to the new unit are required to be
+considered for calculating the asset ratio. Given that there exists assets which
+are not being transferred at all as part of the de-merger scheme i.e. advance
+tax, income tax paid under protest, investments and non-current trade
+receivables, the same should not be considered as part of the value of assets in
+the denominator for determination of asset ratio required for apportionment
+towards transfer of credit as including the same may lead to adoption of
+incorrect asset ratio and incorrect transfer of ITC consequently.
+
+In light of the above background, only such assets which are leviable to GST and
+are being transferred as part of de-merger would be required to be included in
+the value of assets required for computation of asset ratio for the purpose of
+apportionment of ITC.
+
+6.16 Even if it is assumed that the below mentioned assets should be considered
+for apportionment of the GST credit, the Company would like to highlight the
+following assets cannot be bifurcated into different GSTINs:
+
+e Investment in subsidiaries
+e Cash and cash equivalents
+e Non-current tax assets including Deferred tax asset
+
+e Certain Other Current Assets
+6.17 Considering the nature of such assets, value pertaining to such assets
+cannot be attributed to different GST registrations and hence, entire value
+
+pertaining to such assets should be allocated to the head office of IBM India for
+the purpose of computing the asset ratio for transfer of input tax credit.
+
+PERSONAL HEARING / PROCEEDINGS HELD ON 30-06-2021
+
+7. Sri Sachin Agarwal, Chartered Accountant & Authorised Representative of
+the applicant appeared for personal hearing proceedings held on 30-06-2021
+and reiterated the facts narrated in their application.
+
+FINDINGS & DISCUSSION
+
+8. At the outset we would like to make it clear that the provisions of CGST
+
+Page 7 of 15
+
+
+provisions in like matter and differ from each other only on a few specific
+provisions. Therefore, unless a mention is particularly made to such
+dissimilar provisions, a reference to the CGST Act would also mean reference
+to the corresponding similar provisions in the KGST Act.
+
+9. We have considered the submissions made by the applicant in their
+application for advance ruling as well as the submissions made by applicant
+and his authorized representatives during the hearing. We have also
+considered the issues involved on which advance ruling is sought by the
+applicant, relevant facts and the applicant’s interpretation of law.
+
+10. The applicant is a private limited company and has intended to separate
+its Managed Infrastructure services (“MIS”) unit into a new company.
+Pursuant to such transfer, the applicant shall carry out the remaining
+business.
+
+10.1 The applicant has also stated that consequent to the proposed
+demerger, the balance of the unutilised input tax credit pertaining to the
+business division which is being demerged, is allowed to be transferred to
+the resulting company as per the provisions of section 18(3) of the CGST Act,
+2017 read with Rule 41(1) of the CGST Rules, 2017. For transferring the
+balance of unutilized ITC pertaining to demerged business, ITC is required to
+be apportioned in the ratio of value of assets of the new unit as specified in
+the demerger scheme. “Value of assets” has been defined to mean value of
+assets of the business whether or not ITC has been availed thereon. In this
+regard, the applicant has sought certain clarification with respect to the
+value of assets to be considered for the purpose of transfer of credit.
+
+10.2 Section 18(3) of the CGST Act, 2017 reads as under:
+
+“18. Availability of credit in special circumstances.-
+
+(3) Where there is a change in the constitution of a registered
+person on account of sale, merger, demerger, amalgamation,
+lease or transfer of the business with the specific provisions
+for transfer of liabilities, the said registered person shall be
+allowed to transfer the input tax credit which remains
+unutilised in his electronic credit ledger to such sold, merged,
+demerged, amalgamated, leased or transferred business in
+such manner as may be prescribed.”
+
+10.3 From the above, it is clear that whenever there is reconstitution of a
+registered person, by way of demerger, with a specific provision for transfer
+of liabilities, the said registered person is allowed to transfer the input tax
+credit which remains unutilized in his electronic credit ledger to the
+
+Page 8 of 15
+
+
+
+10.4 The term “prescribed” is defined in clause (87) of Section 2 of the CGST
+Act, 2017 as under:
+
+“(87) “prescribed” means prescribed by rules made under this Act on
+the recommendations of the Council;”
+
+From the above, it is clear that the manner in which the unutilized ITC
+should be as per the Rules made in this regard.
+
+10.5 Rule 41 of the CGST Rules, 2017 reads as under:
+
+“41, Transfer of credit on sale, merger, amalgamation,
+lease or transfer of a business..-
+
+(1) A registered person shall, in the event of sale, merger, de-
+merger, amalgamation, lease or transfer or change in the
+ownership of business for any reason, furnish the details of sale,
+merger, de-merger, amalgamation, lease or transfer of business,
+in FORM GST ITC-02, electronically on the common portal along
+with a request for transfer of unutilized input tax credit lying in
+his electronic credit ledger to the transferee:
+
+Provided that in the case of demerger, the input tax credit
+shall be apportioned in the ratio of the value of assets of the new
+units as specified in the demerger scheme.
+
+[Explanation: - For the purpose of this sub-rule, it is hereby
+clarified that the “value of assets” means the value of the entire
+assets of the business, whether or not input tax credit has been
+availed thereon.]
+
+(2) The transferor shall also submit a copy of a certificate issued
+by a practicing-chartered accountant or cost accountant certifying
+that the sale, merger, de-merger, amalgamation, lease or transfer
+of business has been done with a specific provision for the
+transfer of liabilities.
+
+(3) The transferee shall, on the common portal, accept the details
+so furnished by the transferor and, upon such acceptance, the un-
+utilized credit specified in FORM GST ITC-02 shall be credited to
+his electronic credit ledger.
+
+(4) The inputs and capital goods so transferred shall be duly
+accounted for by the transferee in his books of account.”
+
+10.6 From the above, it is clear from the proviso to the sub-rule (1) that the
+input tax credit shall be apportioned between the new units in case of a
+
+emerger in the ratio of the “value of assets” of the new units as specified
+Het Advs
+f.— int e demerger scheme.
+
+Fa)
+j
+
+Inti Private Limited Page 9 of 15
+$
+
+S PhS A
+
+
+
+10.7 Regarding the meaning of “value of assets”, the explanation to the
+sub-rule (1) of Rule 41 of the CGST Rules states that the “value of assets”
+means the value of the entire assets of the business, whether or not input
+tax credit has been availed or not.
+
+11. The Central Board of Indirect Taxes and Customs (CBIC), Government
+of India has issued Circular No.133/03/2020-GST dated 23.03.2020 in
+which the value of assets for the purpose of proviso to Rule 41(1) of the
+CGST Rules has clarified as under:
+
+“a (i) In case of demerger, proviso to rule 41 (1) of the CGST Rules
+provides that the input tax credit shall be apportioned in the ratio of
+the value of assets of the new units as specified in the demerger
+scheme. However, it is not clear as to whether the value of assets of
+the new units is to be considered at State level or at all-India level.
+
+Clarification: Proviso to sub-rule (1) of rule 41 of the CGST Rules
+provides for apportionment of the input tax credit in the ratio of the
+value of assets of the new units as specified in the demerger
+scheme. Further, the explanation to sub-rule (1) of rule 41 of the
+CGST Rules states that “value of assets” means the value of the
+entire assets of the business, whether or not input tax credit has
+been availed thereon. Under the provisions of the CGST Act, a
+person/ company (having same PAN) is required to obtain separate
+registration in different States and each such registration is
+considered a distinct person for the purpose of the Act. Accordingly,
+for the purpose of apportionment of ITC pursuant to a demerger
+under sub-rule (1) of rule 41 of the CGST Rules, the value of assets
+of the new units is to be taken at the State level (at the level of
+distinct person) and not at the all-India level.
+
+Illustration: A company XYZ is registered in two States of M.P. and
+U.P. Its total value of assets is worth Rs. 100 crore, while its assets
+in State of M.P. and U.P are Rs 60 crore and Rs 40 crore respectively.
+It demerges a part of its business to company ABC. As a part of such
+demerger, assets of XYZ amounting to Rs 30 Crore are transferred to
+company ABC in State of M.P, while assets amounting to Rs 10 crore
+only are transferred to ABC in State of U.P. (Total assets amounting
+to Rs 40 crore at all-India level are transferred from XYZ to ABC).
+The unutilized ITC of XYZ in State of M.P. shall be transferred to ABC
+on the basis of ratio of value of assets in State of M.P., i.e. 30/60 =
+0.5 and not on the basis of all-India ratio of value of assets, i.e.
+40/ 100=0.4. Similarly, unutilized ITC of XYZ in State of U.P. will be
+transferred to ABC in ratio of value of assets in State of U.P.,i.e.
+10/40 = 0.25.
+
+c (i) Whether the ratio of value of assets, as prescribed under proviso
+to rule 41 (1) of the CGST Rules, shall be applied in respect of each
+
+ivate Limited Page 10 of 15
+
+
+of the heads of input tax credit viz. CGST/ SGST/ IGST/ Cess?
+
+Clarification: No, the ratio of value of assets, as prescribed under
+proviso to sub-rule (1) of rule 41 of the CGST Rules, shall be applied
+to the total amount of unutilized input tax credit (ITC) of the
+transferor i.e. sum of CGST, SGST/UTGST and IGST credit. The said
+formula need not be applied separately in respect of each heads of
+ITC (CGST/SGST/IGST). Further, the said formula shall also be
+applicable for apportionment of Cess between the transferor and
+transferee.
+
+Illustration A: The ITC balances of transferor X in the State of
+Maharashtra under CGST, SGST and IGST heads are 5 lakh, 5 lakh
+and 10 lakh respectively. Pursuant to a scheme of demerger, X
+transfers 60% of its assets to transferee B. Accordingly, the amount
+of ITC to be transferred from A to B shall be 60% of 20 lakh (total
+sum of CGST, SGST and IGST credit) i.e. 12 lakh.
+
+d._(i) In_order to calculate the amount of transferable ITC, the
+apportionment formula under proviso to rule 41(1) of the CGST Rules
+has to be applied to the unutilized ITC balance of the transferor.
+However, it is not clear _as to which date shall_be relevant _to
+calculate the amount of unutilized ITC balance of transferor.
+
+Clarification: According to sub-section (3) of section 18 of the CGST
+Act, “Where there is a change in the constitution of a registered
+person on account of sale, merger, demerger, amalgamation, lease or
+transfer of the business with the specific provisions for transfer of
+liabilities, the said registered person shall be allowed to transfer the
+input tax credit which remains unutilized in his electronic credit
+ledger to such sold, merged, demerged, amalgamated, leased or
+transferred business in such manner as may be _ prescribed.”
+Further, sub-rule (1) of rule 41 of the CGST Rules prescribes that the
+registered person shall file the details in FORM GST ITC-02 for
+transfer of unutilized input tax credit lying in his electronic credit
+ledger to the transferee.
+
+A conjoint reading of sub-section (3) of section 18 of the CGST Act
+along with sub-rule (1) of rule 41 of the CGST Rules would imply that
+the apportionment formula shall be applied on the ITC balance of the
+transferor as available in electronic credit ledger on the date of filing
+of FORM GST ITC - 02 by the transferor.
+
+(ii) Which date shall _be relevant to calculate the ratio of value of
+assets, as prescribed in the proviso to rule 41 (1) of the CGST Rules,
+2017?
+
+Clarification: According to section 232 (6) of the Companies Act,
+2013, “The scheme under this section shall clearly indicate an
+appointed date from which it shall be effective and the scheme shall
+be deemed to be effective from such date and not at a date
+subsequent to the appointed date”. The said legal provision appears
+
+Rrivate Limited Page 11 of 15
+
+
+to indicate that the “appointed date of demerger” is the date from
+which the scheme for demerger comes into force and it is specified in
+the respective scheme of demerger. Therefore, for the purpose of
+apportionment of ITC under rule sub-rule (1) of rule 41 of the CGST
+Rules, the ratio of the value of assets should be taken as on the
+“appointed date of demerger”.
+
+In other words, for the purpose of apportionment of ITC under sub-
+rule (1) of rule 41 of the CGST Rules, while the ratio of the value of
+assets should be taken as on the “appointed date of demerger”, the
+said ratio is to be applied on the ITC balance of the transferor on the
+date of filing FORM GST ITC - 02 to calculate the amount to
+transferable ITC.”
+
+12. From the above, it is very clear that the words used is “entire assets” and
+hence all the assets that are apportioned between the two entities that come
+out of the demerger are to be taken for the calculation of the amount of ITC
+apportioned between the two demerged entities.
+
+13. The argument of the applicant is that the value of assets which are
+outside the purview of GST, the assets which have been created to comply
+with the requirements of Accounting Standards and the assets which are not
+being transferred to the transferee do not qualify within the meaning of
+“value of assets” under explanation to Rule 41(1) of the CGST Rules, 2017.
+The applicant contends that as per the Rules of Interpretation of Statutes, a
+statutory definition has been categorized as an inclusive definition and an
+exhaustive definition and when the words “means” is used, it indicates an
+exhaustive explanation of the meaning which for the purposes of the Act,
+must invariably be attached to these words or expressions. He also argues
+that nothing apart of the assets covered under the definition should be
+considered as part of the value of assets for determination of assets for
+apportionment towards transfer of credit.
+
+13.1 The above contention of the applicant is verified and found that when
+the words “means” is used in a definition, no other item can be included and
+is exhaustive. But the definition states that “value of assets means the value
+of entire assets” and hence the value of all the assets has to be taken into
+consideration.
+
+14. The applicant argues that the value of assets which are outside the
+purview of GST are not required to be considered for the purpose of
+computing the assets ratio for apportionment of ITC cannot be accepted in
+view of the use of the words “the entire assets” in the definition. The use of
+‘whether or not input tax credit has been availed thereon” is only used to
+make it immaterial whether input tax credit is availed or not and does not
+however limit the scope of the meaning of the words “entire assets” by
+nating it to the assets where input tax credit is there. Hence the contention
+
+; }
+ws TEM Ida Private Limited Page 12 of 15
+
+
+of the applicant is not acceptable.
+
+15. In the case of The J.K.Cotton and Weaving Mills vs. State of Uttar
+Pradesh 1961 AIR 1170 and in the case of Union of India vs. Hansoli Devi
+and Others (2002) 7 SCC 273, the Hon’ble Supreme Court has held that “in
+the interpretation of statutes the court shall always presume that every part
+of the statute should have effect. The legislature is deemed not to waste its
+words or to say anything in vain and a construction which attributes
+redundancy to the Legislature cannot be accepted.”
+
+15.1 From the above judgement, the words “entire assets” should be given
+meaning to denote all the assets of the business which are allotted to the
+demerged companies. The words “whether or not input tax credit has been
+availed thereon” only gives more clarity to the words “entire assets”, what
+should be considered and what not. It only states that the availment or not
+of ITC would not preclude the consideration of the assets in the calculation
+of the ITC to be apportioned between the demerged entities.
+
+16. Regarding the question 1, as explained earlier, the assets which are
+outside the GST also form the “assets” and is included in the scope of “entire
+assets” and hence the value of assets which are outside the purview of GST
+is required to be included in the value of assets for apportionment towards
+transfer of input tax credit in case of demerger in terms of Section 18(3) of
+CGST Act, 2017 read with Rule 41(1) of CGST Rules, 2017.
+
+17. Regarding the question whether the assets which are created to comply
+with the requirements of accounting standards are also forming the part of
+the “entire assets” and hence are includible in the scope of “entire assets”,
+since there is no specific exclusions contemplated in the provisions of Act or
+rules made thereunder, these assets are also includible in the “entire
+assets”.
+
+18. Regarding the assets which are not transferred as part of the demerger
+scheme, the attention is drawn to the proviso to Rule 41(1) of the CGST
+Rules which states as under:
+
+“Provided that in the case of demerger, the input tax credit shall be
+apportioned in the ratio of the value of assets of the new units as specified in
+the demerger scheme.”
+
+The above proviso clearly states that the input tax “Credit’’shall be
+apportioned as per a ratio and that ratio is the ratio of the value of assets of
+the new units as specified in the demerger scheme. From the clarification
+given in the para 3(a) Board Circular No. 133/03/2020 dated 23.03.2020 it
+is noticed that if a company is having a 60% of its entire assets in a state
+and it transfers 20% of its assets to the demerged entity, the ratio for ITC
+
+Page 13 of 15
+
+ef
+NSemmaiane ~
+
+
+as per demerger scheme should be taken. It is not possible that some assets
+will not be transferred to the two units coming into existence as the same
+needs to be transferred to either of the units as per the demerger scheme.
+The proviso does not state any exclusion for the assets transferred or not
+transferred as part of the demerger and hence would include all assets.
+
+19. Regarding the third question, the assets are a part of the balance sheet
+of any company and they have to be a part of either one or other GSTIN. We
+find that the question posed is similar to the question in para 3(ii) (b) above.
+We observe that for the purpose of computation of asset ratio, the assets
+which are transferred to the new units has to be considered to the total
+assets which the company was maintaining in the particular state and
+accordingly ITC apportionment is to be calculated. This is also clarified in
+the clarification issued in question (a) in para 3 of Circular No.133/03/2020
+- GST dated 23.03.2020.
+
+20. In view of the foregoing, we rule as follows
+RULING
+
+1. The value of assets which are outside the purview of GST is
+required to be included in the value of assets for apportionment
+towards transfer of input tax credit in case of demerger in terms of
+Section 18)3) of CGST Act, 2017 read with Rule 41(1) of CGST
+Rules, 2017
+
+2. The value of assets includes the assets which are created only to
+comply with the requirement of accounting standards and also the
+assets which are not being transferred as part of demerger.
+
+3. There is no question of assets which are not being attributed to
+any particular GSTIN. For the purpose of computation of asset
+ratio, the assets which are transferred to the new units has to be
+considered to the total assets which the company was
+maintaining in the particular state and accordingly ITC
+
+apportionment is to be calculated. Crm
+(Dr. M.P. vi Prasad) (Mashhood Ur Rehman Farooqui)
+
+_ MERBER ee
+
+arnat vance Ruling Authority stale
+ane cagalun tt S560 009 Se oi Ras as
+
+Date : 30.07.2021
+
+IBM India Private Limited Page 14 of 15
+
+
+To,
+
+The Applicant
+
+Copy to:
+
+1. The Principal Chief Commissioner of Central Tax, Bangalore Zone,
+Karnataka.
+
+2. The Commissioner of Commercial Taxes, Karnataka, Bengaluru.
+
+3. The Commissioner of Central Tax, Bangalore South GST
+Commissionarate, South Division-4, Bengaluru.
+
+4. The Assistant Commissioner of Commercial Taxes, LGSTO-40,
+Bengaluru.
+
+5. Office Folder.
+
+IBM India Private Limited Page 15 of 15

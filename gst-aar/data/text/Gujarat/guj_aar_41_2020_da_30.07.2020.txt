@@ -1,0 +1,380 @@
+Page 1 of 5 
+ 
+ 
+GUJARAT AUTHORITY FOR ADVANCE RULING, 
+GOODS AND SERVICES TAX, 
+ A/5, RAJYA KAR BHAVAN, ASHRAM ROAD,  
+AHMEDABAD – 380 009. 
+ 
+ 
+ADVANCE RULING NO. GUJ/GAAR/R/41/2020 
+(IN APPLICATION NO. Advance Ruling/SGST&CGST/2019/AR/13) 
+                                                                                           Date: 30.07.2020 
+ 
+Name and address of the applicant 
+: 
+M/s. Dharmshil Agencies, Ashirvad 
+Paras, Corporate House No.3, Near 
+Rivera Elegance, Prahlad nagar,  
+Ahmedabad-380015. 
+GSTIN of the applicant 
+: 
+24AAEFD5653N1Z7. 
+Date of application 
+: 
+25.02.2019. 
+Clause(s) of Section 97(2) of CGST / 
+GGST Act, 2017, under which the 
+question(s) raised.  
+: 
+(d) determination of time and value of 
+supply of goods or services or both; 
+(e) Determination of the liability to pay 
+tax on any goods or services or both. 
+Date of Personal Hearing 
+: 
+09.07.2020(through Video 
+Conferencing) 
+Present for the applicant 
+: 
+Shri Himanshu Kothari. 
+ 
+B R I E F   FA C T S 
+ 
+The applicant M/s. Dharmshil Agencies has submitted that they have 
+entered into an agreement with Tsudokoma Corporation, Japan to sell their 
+machinery and against the said services, they are receiving commission income 
+from Japan in foreign currency. 
+ 
+2. 
+The applicant has submitted that earlier under Service Tax Regime, they 
+were paying service tax of 18% under RCM for the above services categorised as 
+‘Business Auxilliary Services’; that after implementation of GST, they had 
+started to pay IGST and in GSTR-1 they had shown the same under Export of 
+services; that over and above they are also involved in export of goods and they 
+had made export with payment of duties; that because of export of services, 
+problems have arisen  in ICEGATE site and they could not get their refunds 
+due to mismatch in the amounts and that they had paid IGST upto 
+31.03.2018.   
+ 
+3. 
+The applicant further stated that due to the above error, they inquired 
+with the GST call services in the Department and came to know that they were 
+liable to pay CGST and SGST and that the same was required to be shown in 
+GSTR-1 under B2C transaction; that thereafter they starting paying CGST and 
+SGST showing the same under B2C transaction in their GSTR-1 returns.  They 
+further stated that they had shifted their liability for GST from IGST to CGST 
+and SGST relying on the definition of ‘intermediary services’ falling under 
+Section 2(13) of the IGST Act, 2017 and accordingly place of provision will be 
+as per Section 13(8)(b) of the IGST Act, 2017 i.e. the place of supply will be the 
+location of supplier of services which in their case is Gujarat only.  In view of 
+the above, they started to charge CGST and SGST in place of IGST and are 
+presently paying CGST and SGST based on the above definition.  The applicant 
+has put forward the following question on which advance ruling is required: 
+ 
+ 
+
+
+Page 2 of 5 
+ 
+“We request to your good authority to kindly guide on the subject matter i.e. 
+whether to charge CGST and SGST or IGST looking to our nature of 
+transaction?”   
+ 
+DISCUSSION & FINDINGS: 
+ 
+4. 
+We have considered the submissions made by the applicant in their 
+application for advance ruling as well as the arguments/discussions made by 
+their representative Shri Himanshu Kothari at the time of personal hearing.   
+We have also considered the issues involved on which Advance Ruling is 
+sought by the applicant. 
+ 
+5. 
+At the outset, we would like to state that the provisions of both the 
+Central Goods and Services Tax Act, 2017 and the Gujarat Goods and Services 
+Tax Act, 2017 are the same except for certain provisions.  Therefore, unless a 
+mention is specifically made to such dissimilar provisions, a reference to the 
+CGST Act would also mean a reference to similar provisions of the GGST Act. 
+ 
+6. 
+In this case, the moot point to be decided is as to whether the services 
+provided by the applicant are liable to CGST and SGST or IGST? For this, we 
+first need to know the nature of the transaction carried out by the applicant.  
+As per the submission of the applicant, they have entered into an agreement 
+with Tsudokoma Corporation, Japan to sell their machinery and against the 
+said services, they are receiving commission income from Japan in foreign 
+currency.  Based on the submission of the applicant as well as the arguments 
+and discussions made by the representative of the applicant during the course 
+of personal hearing, it appears that the services provided by the applicant are 
+in the nature of services of commission agents or commodity brokers who 
+negotiate between buyers and sellers as a facilitator for the supply of goods for 
+which they are paid a fee or commission.  The said service can also be called as 
+‘intermediary services’. The term ‘intermediary’ has been defined at Section 
+2(13) of the IGST Act, 2017 and reads as under:  
+ 
+2(13) “intermediary” means a broker, an agent or any other person, by whatever 
+name called, who arranges or facilitates the supply of goods or services or both, 
+or securities, between two or more persons, but does not include a person who 
+supplies such goods or services or both or securities on his own account; 
+ 
+6.1 It appears from the above that the service provided by the applicant 
+would be correctly classified under the Heading 9961 (specific sub-heading 
+No.996111(Sr.No.67)) of the Annexure to the Notification No.11/2017-Central 
+Tax (Rate) dated 28.06.2017 and under the Sub-heading 996111 (Sr.No.67 of 
+Annexure),which reads as under: 
+ 
+S.No. 
+Chapter, 
+Section, 
+Heading 
+or 
+Group 
+Service Code 
+(Tariff) 
+ 
+   Service Description  
+ 
+65. 
+9961 
+ 
+Services in wholesale trade 
+66. 
+Group 99611 
+ 
+ 
+67. 
+ 
+996111 
+Services provided for a fee or commission or on 
+contract basis on wholesale trade. 
+ 
+As per Notification No:8/2017-Integrated Tax(Rate) dated 28.06.2017, the said 
+service appears at Sr.No.5, on which GST liability is 18% and reads as under: 
+ 
+S.No. 
+Chapter, 
+Section, 
+Heading 
+or 
+Group 
+Description of service 
+Rate  
+(per cent.) 
+    
+Condition 
+5 
+Heading 
+9961 
+Services in wholesale trade.  
+Explanation-This service does not 
+ 
+ 
+
+
+Page 3 of 5 
+ 
+include sale or purchase of goods 
+but includes:  
+– Services of commission agents, 
+commodity 
+brokers, 
+and 
+auctioneers and all other traders 
+who 
+negotiate 
+whole 
+sale 
+commercial transactions between 
+buyers and sellers, for a fee or 
+commission’  
+– Services of electronic whole sale 
+agents and brokers,  
+– Services of whole sale auctioning 
+houses.  
+18 
+ 
+ 
+       --- 
+ 
+ 
+6.2 Also, 
+as 
+per 
+Notification 
+No:11/2017-Central 
+Tax(Rate) 
+dated 
+28.06.2017, the said service appears at Sr.No.5 on which GST liability is 18% 
+(9% CGST + 9% SGST) and reads as under: 
+ 
+S.No. 
+Chapter, 
+Section, 
+Heading 
+or 
+Group 
+Description of service 
+Rate  
+(per cent.) 
+    
+Condition 
+5 
+Heading 
+9961 
+Services in wholesale trade.  
+Explanation-This service does not 
+include sale or purchase of goods 
+but includes:  
+– Services of commission agents, 
+commodity 
+brokers, 
+and 
+auctioneers and all other traders 
+who 
+negotiate 
+whole 
+sale 
+commercial transactions between 
+buyers and sellers, for a fee or 
+commission’  
+– Services of electronic whole sale 
+agents and brokers,  
+– Services of whole sale auctioning 
+houses.  
+ 
+9 
+ 
+ 
+ 
+       --- 
+ 
+7. 
+Further, the type of GST to be paid i.e. CGST + SGST or IGST is 
+dependent on type of supply of goods or services provided i.e. intra-state or 
+interstate or imports/exports and also on the place of supply of goods or 
+services.  Also, since the recipient of service in the instant case is located 
+outside India as discussed earlier, we feel it necessary to refer to Section 13 of 
+the IGST Act, 2017, which helps in determining the place of supply of services 
+in cases where the location of the supplier of services or the location of the 
+recipient of the services is outside India. The same reads, as under: 
+ 
+Section-13. (1) The provisions of this section shall apply to determine the place of 
+supply of services where the location of the supplier of services or the location of the 
+recipient of services is outside India. 
+ 
+(2) The place of supply of services except the services specified in sub-sections 
+(3) to (13) shall be the location of the recipient of services: 
+ 
+Provided that where the location of the recipient of services is not available in 
+the ordinary course of business, the place of supply shall be the location of the 
+supplier of services. 
+ 
+(3) The place of supply of the following services shall be the location where the services 
+are actually performed, namely: — 
+ 
+(a) services supplied in respect of goods which are required to be made physically 
+available by the recipient of services to the supplier of services, or to a person acting on 
+behalf of the supplier of services in order to provide the services: 
+
+
+Page 4 of 5 
+ 
+Provided that when such services are provided from a remote location by way of 
+electronic means, the place of supply shall be the location where goods are situated at 
+the time of supply of services: 
+ 
+Provided further that nothing contained in this clause shall apply in the case of services 
+supplied in respect of goods which are temporarily imported into India for repairs and 
+are exported after repairs without being put to any other use in India, than that which is 
+required for such repairs; 
+ 
+(b) services supplied to an individual, represented either as the recipient of services or a 
+person acting on behalf of the recipient, which require the physical presence of the 
+recipient or the person acting on his behalf, with the supplier for the supply of services. 
+ 
+ (4) The place of supply of services supplied directly in relation to an immovable 
+property, including services supplied in this regard by experts and estate agents, supply 
+of accommodation by a hotel, inn, guest house, club or campsite, by whatever name 
+called, grant of rights to use immovable property, services for carrying out or co-
+ordination of construction work, including that of architects or interior decorators, shall 
+be the place where the immovable property is located or intended to be located. 
+ 
+(5) The place of supply of services supplied by way of admission to, or organisation of a 
+cultural, artistic, sporting, scientific, educational or entertainment event, or a celebration, 
+conference, fair, exhibition or similar events, and of services ancillary to such admission 
+or organisation, shall be the place where the event is actually held. 
+ 
+(6) Where any services referred to in sub-section (3) or sub-section (4) or sub-section (5) is 
+supplied at more than one location, including a location in the taxable territory, its place 
+of supply shall be the location in the taxable territory. 
+ 
+(7) Where the services referred to in sub-section (3) or sub-section (4) or sub-section (5) 
+are supplied in more than one State or Union territory, the place of supply of such 
+services shall be taken as being in each of the respective States or Union territories and 
+the value of such supplies specific to each State or Union territory shall be in proportion 
+to the value for services separately collected or determined in terms of the contract or 
+agreement entered into in this regard or, in the absence of such contract or agreement, 
+on such other basis as may be prescribed. 
+ 
+(8) The place of supply of the following services shall be the location of the 
+supplier of services, namely:–– 
+ 
+(a) services supplied by a banking company, or a financial institution, or a non-banking 
+financial company, to account holders; 
+(b) intermediary services; 
+(c) services consisting of hiring of means of transport, including yachts but excluding 
+aircrafts and vessels, up to a period of one month. 
+ 
+Explanation.––For the purposes of this sub-section, the expression ----- 
+ 
+ (9) The place of supply of services of transportation of goods ----------- 
+ 
+7.1 We have gone through the relevant provisions of Section 13 above and 
+find that sub-section(2) of Section 13 specifically provides that the place of 
+supply of services except the services provided in sub-sections (3) to (13) shall 
+be the location of the recipient of services provided that where the location of 
+the recipient of services is not available in the ordinary course of business, the 
+place of supply shall be the location of the supplier of services. In the instant 
+case, the supplier of service is the applicant and the service recipient is M/s. 
+Tsudokoma Corporation, Japan. We find that the services provided by the 
+applicant i.e. ‘intermediary services’ appears at Sub-Section(8)(b) of Section 13. 
+Also, sub-section (8) clearly mentions that the place of supply in respect of the 
+services described under the said sub-section shall be the location of the 
+supplier of services.  Further, the supplier in the instant case is the applicant  
+ 
+
+
+Page 5 of 5 
+ 
+and the location of the said supplier is in Ahmedabad, Gujarat. Now, since the 
+location of the applicant, who is supplier of services, is in Gujarat and both the 
+supplier of service as well as the place of supply of service is in Gujarat, the 
+supply of services would be considered akin to intra-state supply of services 
+and would be liable to CGST and SGST (as per the provisions of Section 9(1) of 
+the CGST Act, 2017).  Therefore, the present procedure/course of GST payment 
+followed by the applicant i.e. payment of CGST and SGST on the services 
+provided by them, is correct.  Further, the applicant would be liable to pay GST 
+at the rate of 18% (9% CGST + 9% SGST) in terms of the provisions of 
+Notification No:11/2017-Central Tax (Rate) dated 28.06.2017.  
+ 
+8. 
+In light of the foregoing, we rule as under –  
+ 
+R U L I N G 
+ 
+Looking to the nature of the transaction of services provided by the applicant 
+M/s. Dharmshil Agencies, Ahmedabad, we rule that the applicant is liable to 
+pay GST at the rate of 18% (9%CGST + 9% SGST). 
+ 
+ 
+ 
+ 
+ 
+(SANJAY SAXENA)    
+ 
+        (MOHIT AGRAWAL) 
+MEMBER                   
+      MEMBER 
+Place: Ahmedabad   
+Date:  30.07.2020.

@@ -1,0 +1,1612 @@
+Page 1 of 32 
+ 
+GUJARAT AUTHORITY FOR ADVANCE RULING, 
+GOODS AND SERVICES TAX, 
+A/5, RAJYA KAR BHAVAN, ASHRAM ROAD,  
+AHMEDABAD – 380 009. 
+ 
+ 
+ADVANCE RULING NO. GUJ/GAAR/R/2022/26 
+(In Application No. Advance Ruling/SGST&CGST/2021/AR/36) 
+                                                                                           
+ 
+ 
+   Dated: 11.05.2022 
+Name and address of the applicant 
+: M/s Shell Energy India Pvt. Ltd.,  
+Office No. 2008, The Address,  
+Westgate-D Block, Nr. YMCA club,  
+S. G. Highway, Makarba, Ahmedabad,  
+Gujarat-380051 
+GSTIN of the applicant 
+: 24AAACH9143C1ZZ 
+Date of application 
+: 08-10-2021 
+Clause(s) of Section 97(2) of 
+CGST / GGST Act, 2017, under 
+which the question(s) raised.  
+: (c) 
+Date of Personal Hearing 
+: 18-02-2022  
+Present for the applicant 
+: Ms. Priyanka Rathi, Advocate and  
+Shri Abhishek Nolkha, Sr. Tax Advisor of the 
+Company.  
+ 
+Brief Facts  
+M/s Shell Energy India Private Limited (formerly known as Hazira LNG Private Limited) 
+(hereinafter referred to as M/s Shell/Applicant for the sake of brevity) owns and operates a 
+Liquefied Natural Gas re-gasification terminal (Terminal) at Village Hazira, District Surat, 
+Gujarat and is, inter alia, engaged in providing services of re-gasification of LNG imported by 
+Customers at the Hazira Port. 
+ 
+2. 
+M/s Shell supplies services of re-gasification of LNG imported by Customers. M/s Shell 
+also provides certain incidental and ancillary services related to unloading of LNG, storage of 
+LNG in cryogenic tanks and delivery of Regasified LNG (RLNG) and these services are 
+included in the scope of re-gasification services rendered by M/s Shell.  
+ 
+The scope of re-gasification services encompasses the following activities: 
+ 
+i. Receipt of LNG cargo/ carriers at the Hazira port; 
+ii. Unloading of LNG from the carriers and its receipt at Terminal’s receipt point; 
+iii. Storing the imported LNG in the cryogenic tanks; 
+iv. Re-gasification of the LNG imported by the Customers into RLNG; and  
+v. Delivery of RLNG to the Customers at the delivery point 
+ 
+3. 
+M/s Shell has submitted that keeping in view the nature of transaction, it is imperative to 
+understand the nature of Natural Gas. Natural gas is a naturally occurring hydrocarbon gas 
+mixture consisting primarily of methane.  Methane being the primary constituent of natural gas, 
+it gives the gas a highly flammable nature and makes it violently reactive and explosive if it 
+
+
+Page 2 of 32 
+ 
+comes in contact with air (oxygen). Accordingly, for long distance transportation of natural gas 
+through sea route, the gas is condensed into a liquid state at close to atmospheric pressure by 
+cooling down the gas to very low temperatures (approx. minus 160 degrees celsius). 
+Condensation of natural gas from gaseous to liquid state reduces the volume of gas by 600 times 
+and thus, helps transport huge volume of natural gas by conversion of the same in liquid form. 
+Upon receipt of LNG at the destination port, natural gas in liquid state is again converted into 
+gaseous state.  
+ 
+4. 
+The LNG re-gasification services provided by M/s Shell involves four major processes 
+consisting of LNG unloading, LNG storage in cryogenic tanks, vaporizing of LNG into RLNG 
+and RLNG send out for delivery to the Customer. In order to understand the technical aspects 
+involved in the issue at hand, it is necessary to explain the re-gasification process undertaken at 
+the Terminal.  Therefore, role of each of the equipment significant for performance of said 
+processes are explained below in brief:   
+ 
+(i) 
+LNG unloading arm: The onshore jetty (an extended pier where the LNG vessels 
+are berthed for unloading) at the Terminal is equipped with three unloading arms 
+which are used for liquid gas transfer from the carrier to the cryogenic tank and 
+back. The LNG is discharged from the tanker by the cargo pumps installed on the 
+carrier, unloaded through the unloading arms and is then transferred into the 
+onshore storage tanks.  
+ 
+(ii) 
+ LNG storage tanks: LNG unloaded from the ship is routed to the storage tank 
+through a bottom filling line or a top filling line.  Automatic continuous tank level 
+gauging, density monitoring and density measurements are provided to the tanks. 
+The first overpressure protection to the storage tanks is given through flaring.  
+Pressure safety valves act as the second overpressure protection for the storage 
+tanks. The third one is handled by the storage tank reserve capacity relief valve. 
+There are LP high capacity and low capacity pumps fitted inside the tanks for 
+pumping the LNG stored in the tanks. 
+ 
+           (iii)     Boil off gas handling unit: The principal role of the BOG compressors is to 
+maintain a normal pressure in the storage tanks. This pressure naturally tends to 
+increase during ship unloading due to heat input into the Tank. In the unloading 
+mode and normal send out mode, the boil off gas is handled by operating BOG 
+compressor thereby controlling the pressure of gas in the storage tank. 
+ 
+(iv) 
+Re-condenser unit: The re-condenser unit is to re-condense the boil off gas by 
+putting it in contact with sub-cooled LNG coming from the storage tanks.  The 
+LNG required to re-condense the boil off gas flows through packing of the re-
+condenser unit, whereas remaining flow (to HP pumps for re-gasification) is sent 
+through the bottom part of re-condenser. 
+
+
+Page 3 of 32 
+ 
+ 
+(v) 
+LNG HP Pumps: HP pumps installed at the Terminal is a submerged pump including 
+motor in a suction pot filled with LNG directly coupled to the pump. These pumps 
+are required to generate high pressure essential for transportation of liquid natural gas 
+through the vaporizer unit and natural gas (in gaseous form) upto the Customer 
+delivery point. 
+ 
+(vi) Vaporizer Unit:  Vaporization is achieved either by ORV or SCV. Both systems are 
+maintained at full operable conditions for use in re-gasification process to meet the 
+gas nomination quantities from Customers and users. 
+ 
+(vii) ORV: The ORV is an exchanger which uses sea water as external heat source. LNG 
+flows upwards through vertical panels of the tubes and is vaporized by thermal 
+exchange with a falling film of sea water. 
+ 
+(viii) SCV: The SCV is composed of a warm water tank where a stainless steel tube bundle 
+is submerged. The water of the tank is directly heated from a submerged combustion 
+burner which uses natural gas for its operation. The LNG is vaporized by passing 
+through the tubes bundle where heated water acts as the heat exchanger. SCV is only 
+a standby mechanism for re-gasification of natural gas at the Terminal and for this 
+reason only one SCV has been installed at the Terminal. At all times, ORV continues 
+to be the primary and preferred mechanism for re-gasification of natural gas. 
+ 
+(ix) Send out unit: The RLNG is transported through a 14-km long pipeline from the 
+Terminal to village Mora (near Hazira). At the delivery point, Applicant’s delivery 
+pipeline is connected with the Customer pipeline. For effective delivery, the gas 
+pressure of Applicant’s pipeline has to be higher than the pressure of the 
+transporter’s pipeline. Such pressure is achieved through HP pumps installed at the 
+Terminal. The pipeline is protected against overpressure from the Terminal by a high 
+integrity protection system actuated by a high pressure detection system. 
+ 
+(x) 
+HSE Process: All the equipment installed at the Terminal used in the re-gasification 
+process contain flammable and high energy fuel in the form of LNG or its vapors in 
+gaseous form. Hence, prescribed HSE conditions are followed for isolating 
+machinery items for flaring of gas and LNG as per safety and pollution control 
+standards during the planned maintenance or repair work to breakdown machinery.  
+ 
+5. 
+M/s Shell submits that for provision of the aforesaid re-gasification service, they enter 
+into LNG Terminal Commercial Operation and Re-gasification Agreement (hereinafter referred 
+to as Agreement) with its Customers. M/s Shell submits following  clauses of the Agreement: 
+ 
+“… 
+
+
+Page 4 of 32 
+ 
+WHEREAS 
+A. Terminal Co owns and operates a liquefied natural gas re-gasification terminal 
+at Hazira, District Surat, Gujarat, India; 
+B. User is interested in the re-gasification of LNG and to enable it to carry out such 
+activities, the User desires that the Terminal Co  provides it with LTCOR 
+Services (as defined hereinafter); 
+C. User intends to import one (l) Cargo of LNG at the Hazira (Surat) port; and 
+D. The Parties now wish to enter into this Agreement to set out the mutually 
+agreed general terms and conditions for the provision of LTCOR Services to be 
+provided by the Terminal Co to the User under this Agreement. 
+… 
+“LTCOR Services” means the services related to re-gasification of LNG into 
+RLNG on behalf of User including allied, incidental and ancillary services such as 
+receipt of LNG Carriers at the Port, unloading of LNG from LNG Carriers and 
+receipt by Terminal Co of such LNG at the Receipt Point, temporary storage of 
+LNG in the LNG Storage Tanks and delivery of RLNG, each as more particularly 
+described in this Agreement. 
+LTCORA Charges shall mean the fee payable by User to Terminal Co pursuant to 
+this Agreement, and shall be calculated in accordance with Clause 14. 
+ 
+14.PAYMENTS AND PAYMENT SECURITY 
+14.1Payments by User 
+a) User shall pay Terminal Co the LTCORA Charges, any Deficiency Payment as 
+applicable in accordance with this Clause 14 and Use or Pay Amount as 
+applicable in accordance with Clause 6.3. The LTCORA Charges in respect of 
+any Day shall be the product of the actual quantity of RLNG delivered at the 
+relevant Delivery Point(s) and the LTCORA Tariff in respect of such Day. 
+b) The LTCORA Charges calculation in respect of a Billing Period shall be equal 
+to the aggregate of the LTCORA Charges for each Day during a Billing 
+Period… 
+….” 
+6. 
+M/s Shell as consideration collects re-gasification charges from its Customers as per the 
+terms mutually agreed between the parties to the agreement. The said re-gasification charges are 
+computed by multiplying the actual quantity of RLNG delivered at the relevant delivery point(s) 
+with the re-gasification tariff in respect of such day according to the Agreement.  
+ 
+System Use Gas  
+ 
+7. 
+M/s Shell has submitted that the process of re-gasification also involves certain process 
+losses. The said possible/potential losses during the process of re-gasification are understood by 
+the parties as System Use Gas (SUG). The inherent loss of gas during the re-gasification process 
+is also an internationally recognized concept. Thus, to mitigate the extent of loss, the parties 
+
+
+Page 5 of 32 
+ 
+agree upon a percentage towards estimated losses during the process of re-gasification and the 
+said understanding is duly captured in the Agreement executed for the provision of re-
+gasification services. That SUG is nothing but the loss of gas during various stages of re-
+gasification process. That such loss of gas may be attributed inter alia to the following reasons: 
+(xi) Inherent losses on account of the nature of LNG and RLNG. 
+(xii) Losses in the system during the process of unloading, storage and re-gasification of 
+natural gas. 
+(xiii) Inaccuracies or uncertainties in the measurement of losses as well as natural gas in 
+the system while undertaking the above processes. 
+ 
+8. 
+M/s Shell has submitted that it is a well known fact that in the Oil and Gas industry where 
+they are operating, there would be certain inherent unavoidable process losses. Thus, hedging 
+Customers risk associated with potential losses (computed based on industry estimates) during 
+the re-gasification process also plays a significant part in the business of M/s Shell and naturally 
+so as any Customer would want that the extent of loss is pre-estimated as per the industry norms.     
+ 
+9. 
+M/s Shell submits that as per the Agreement, SUG is computed as a percentage of the 
+actual quantity of LNG discharged by a LNG carrier. That by agreeing a specified percentage of 
+SUG, the Customers risk of any potential loss during re-gasification is capped at such agreed 
+percentage of SUG. Further, considering the volatile nature of gas and the challenges associated 
+with the measurement of losses, an upfront agreement of the percentage of SUG between M/s 
+Shell and its Customers helps in eliminating any dispute regarding the quantity to be delivered 
+under the Agreement. The relevant clause of the agreement dealing with SUG is as follows: 
+“6.6 
+System Use Gas 
+User shall provide to Terminal Co a quantity of system use gas equivalent to zero 
+point six six percent (0.66%) of the actual discharged quantity of LNG by an LNG 
+Carrier (SUG) towards the pre-estimate of process losses during LTCOR Services. 
+Notwithstanding above, for whatsoever reason, User shall not be responsible for 
+any quantity of System Use Gas in excess of zero point six six percent (0.66%) of 
+the actual discharged quantity of LNG by an LNG Carrier.” 
+ 
+10. 
+M/s Shell has submitted that it is also pertinent to note that the quantity of gas to be 
+allocated towards the SUG varies from Customer to Customer as the same is negotiated 
+depending on multiple factors such as duration of the agreement, frequency of consignments, 
+daily denomination quantity of the Customer, etc. Further, SUG does not have any impact on the 
+re-gasification tariff charged from the Customers. 
+ 
+11. 
+M/s Shell further submits that it is relevant to note that any efficiency or inefficiency (on 
+account of uncertain events such as unplanned maintenance) leading to higher losses as 
+compared to the stipulated percentage of SUG, would be borne solely by M/s Shell at its own 
+cost.  
+ 
+
+
+Page 6 of 32 
+ 
+ 
+12. 
+The invoice for the re-gasification charges is issued to the Customer at the time of 
+delivery of RLNG at respective delivery points. The re-gasification charges are computed by 
+multiplying the agreed re-gasification tariff and the quantity of RLNG delivered to the Customer. 
+ 
+Current Model 
+ 
+13. 
+M/s Shell submits that presently they are charging GST on the SUG by raising a separate 
+invoice on the Customer. It is relevant to note that a separate invoice is issued and GST is being 
+paid by M/s Shell only as an abundant caution under GST and the parties to the agreement agree 
+that SUG is not a consideration for re-gasification service. That no amount whatsoever is being 
+paid or collected towards the SUG in the present transaction. The relevant clause of the 
+agreement with the Customer is as follows:  
+“6.6 System Use Gas 
+User shall provide to Terminal Co. a quantity of system use gas equivalent to zero 
+point six six percent (0.66%) of the actual discharged quantity of LNG by an LNG 
+Carrier ("System Use Gas" or "SUG") towards the pre-estimate of process losses 
+during LTCOR Services. Notwithstanding above, for whatsoever reason, User shall 
+not be responsible for any quantity of System Use Gas in excess of zero point six 
+six percent (0.66%) of the actual discharged quantity of LNG by an LNG Carrier. 
+14.    M/s Shell submits that even though according to the Parties, SUG is not a consideration, 
+but purely as a matter of abundant caution, the Parties agree that the Terminal Co Shall invoice 
+the GST on the value of SUG and User accepts to pay such invoices. For the limited purpose of 
+computing the value of SUG, the User shall provide to Terminal Co, the price of LNG cargo in 
+INR/MMBtu delivered to the Terminal Co for re-gasification not later than one (l) Business Day 
+from the completion of cargo unloading for GST invoicing on SUG. Terminal Co shall raise an 
+invoice towards GST on value of SUG quantities in respect of the LNG cargo received for re-
+gasification and User shall make payment to Terminal Co for such invoices within seven (7) 
+Business Days from the date of receipt of the invoice….” 
+ 
+Sample invoices issued by M/s Shell on its Customers are enclosed as Exhibit B. 
+ 
+Proposed Model 
+ 
+15. 
+M/s Shell submits that GST is not applicable on the SUG agreed with the Customer under 
+the Re-gasification Agreement as the same is nothing but a process loss and cannot be dubbed as 
+a consideration for the re-gasification activity. 
+ 
+16. M/s Shell proposes to issue an invoice only with respect to the consideration received for the 
+re-gasification services, i.e. the re-gasification charges computed on the basis of RLNG delivered 
+and not charge any GST on the SUG since the same does not qualify as consideration for the 
+purpose of the GST Laws.  
+ 
+
+
+Page 7 of 32 
+ 
+17. 
+M/s Shell submits that the SUG decided as per the agreement with the Customer is not 
+includible in the value of supply of re-gasification services as the same is in nature of losses and 
+does not, in any manner qualify as consideration for the purpose of the Central Goods and 
+Service Tax Act, 2017 (CGST Act)/ Gujarat Goods and Service Tax Act, 2017 (GGST) (since 
+the provisions of the CGST Act and the GGST Act are identical, the provisions of CGST Act are 
+referred herein for ease of reference and the same may be read along for the purposes of GGST 
+Act wherever applicable),  for re-gasification services provided by M/s Shell to the Customers. 
+Consequently, no GST is payable on the SUG stipulated under the Agreement with the 
+Customers. In this regard, M/s Shell makes the following submissions.  
+ 
+Valuation provisions under GST 
+ 
+18. 
+M/s Shell has submitted that under the CGST Act, the levy of tax is on the event of 
+supply, which is defined in Sec 7 of the Act. That the value of such supply is to be determined as 
+per. Sec 15 of the CGST Act which provides that value of a supply of goods or services or both 
+shall be the transaction value, which is the price actually paid or payable for the said supply of 
+goods or services or both where the supplier and the recipient of the supply are not related and 
+the price is the sole consideration for the supply. The provision further deals with inclusions and 
+exclusions from the value of supply. Section 15 of the CGST Act is read as under: 
+“15. Value of taxable supply. 
+(1) The value of a supply of goods or services or both shall be the transaction value, which 
+is the price actually paid or payable for the said supply of goods or services or both where 
+the supplier and the recipient of the supply are not related and the price is the sole 
+consideration for the supply. 
+(2) The value of supply shall include,- 
+(a) any taxes, duties, cesses, fees and charges levied under any law for the time being in 
+force other than this Act, the State Goods and Services Tax Act, the Union Territory Goods 
+and Services Tax Act and the Goods and Services Tax (Compensation to States) Act, if 
+charged separately by the supplier; 
+(b) any amount that the supplier is liable to pay in relation to such supply but which has 
+been incurred by the recipient of the supply and not included in the price actually paid or 
+payable for the goods or services or both; 
+(c) incidental expenses, including commission and packing, charged by the supplier to the 
+recipient of a supply and any amount charged for anything done by the supplier in respect 
+of the supply of goods or services or both at the time of, or before delivery of goods or 
+supply of services; 
+(d) interest or late fee or penalty for delayed payment of any consideration for any supply; 
+and 
+(e) subsidies directly linked to the price excluding subsidies provided by the Central 
+Government and State Governments. 
+… 
+(3) The value of the supply shall not include any discount which is given,- 
+(a) before or at the time of the supply if such discount has been duly recorded in the invoice 
+issued in respect of such supply; and 
+
+
+Page 8 of 32 
+ 
+(b) after the supply has been effected, if,- 
+(i) such discount is established in terms of an agreement entered into at or before the time 
+of such supply and specifically linked to relevant invoices; and 
+(ii) input tax credit as is attributable to the discount on the basis of document issued by the 
+supplier has been reversed by the recipient of the supply….. 
+.. 
+(4) Where the value of the supply of goods or services or both cannot be determined under 
+sub-section (1), the same shall be determined in such manner as may be prescribed….” 
+ 
+18.1 
+That as per S. 15, the value of supply shall be the transaction value, which is the price 
+paid for the supply inter alia where price is the sole consideration. In other cases, i.e. in cases 
+where price is not the sole consideration, then, the value shall be determined as per the valuation 
+provisions contained in Chapter IV (Rules 27-35) of the Central Good and Service Tax Rules, 
+2017 (“CGST Rules”).  
+ 
+18.2 
+As per Rule 27 of the CGST Rules, where the consideration is not wholly in money, the 
+value of the supply shall be the open market value of such supply, However, if the open market 
+value is not available, the value shall be the sum total of monetary and value of non-monetary 
+consideration, if such amount is known at the time of supply.  
+ 
+18.3 
+ That further, if the value of supply is not determinable as per the open market value 
+method or the sum total of consideration, the value of supply shall be the value of like supply. If 
+the said method is also not applicable, the value shall be the sum total of consideration in money 
+and such further amount in money that is equivalent to consideration not in money as determined 
+by the application of Rule 30 or Rule 31 (as discussed below), in that order. A summary of the 
+valuation methods prescribed in Rule 27 of the CGST Rules is as follows: 
+ 
+SN 
+Rule 
+Method Prescribed 
+1.  27(a) 
+Open market value of supply 
+2.  27(b) 
+Sum total of consideration in money and any such further amount in money as 
+is equivalent to the consideration not in money, if such amount is known at the 
+time of supply 
+3.  27(c) 
+Value of supply of goods or services or both of like kind and quality 
+4.  27(d) 
+Sum total of consideration in money and such further amount in money that is 
+equivalent to consideration not in money as determined by the application of 
+rule 30 or rule 31 in that order. 
+Rule 30- 110% of the cost of acquisition or cost of provision of such services. 
+Rule 31- Reasonable means consistent with the principles and the general 
+provisions of section 15 and the provisions of this Chapter. In case of supply of 
+services, the supplier may opt for this rule, ignoring rule 30. 
+ 
+
+
+Page 9 of 32 
+ 
+19. 
+M/s Shell submitted that the determining factor while ascertaining the value of supply is 
+to ascertain whether SUG qualifies as non-monetary consideration for the supply of re-
+gasification service and thus, liable to be included in the value of supply. 
+ 
+20. 
+M/s Shell submits that the concept of estimating losses in processing of natural gas is a 
+recognised industry practice and is also an internationally recognised concept and thus, the SUG 
+cannot be termed as consideration for the re-gasification service provided by M/s Shell to its 
+Customers.   
+ 
+20.1 
+In this regard, M/s Shell cited a  report on Losses of LNG during re-gasification at Hazira 
+LNG Private Limited Terminal dated January 19, 2015, by M/s Ravi Energie Private Limited 
+(part of Ravi Energie Group of Companies which is a ISO 9001 certified company and is 
+registered with International Federation of Inspection Agency and other reputed international 
+organizations). The conclusions drawn in the report are based on exhaustive testing of the 
+measurement devices and inspection of the facilities at M/s Shell’s Terminal.  Further, 
+agreements for provision of LNG re-gasification in the international markets have also been 
+relied upon to arrive at the industry practice and standards. The findings of the report are as 
+follows:  
+ 
+i. 
+System use gas is understood to mean losses of the gas in the system.  This could be 
+due to flaring of the gas, leakages, maintenance, accidents, purging requirement, 
+measuring errors at inlet and outlet of the terminal and other reasons. The losses 
+could be due to either of or combination of these factors [Definitions and 
+abbreviations - page 4 of the report] 
+ii. 
+Measurement uncertainties can occur while measuring volume and calorific value of 
+LNG unloaded at the terminal and volume of send out LNG and its calorific value 
+measurements [Point 7.2 on page 9 of the report] 
+iii. 
+There is variation in the SUG expressed as a percentage of dispatched gas which is 
+largely on account of factors such as load variation, capacity use, management of 
+high load out, malfunctions and other operations [Point 9 on page 13 of the report] 
+iv. 
+For M/s Shell’s Terminal, the report determines a conservative statistical estimate of 
+SUG losses to be 1.22 percent which is the sum of average of other losses of 0.19 
+percent and measurement uncertainties of 1.03 percent [Point 6.6 on page 2 of the 
+report] 
+v. 
+Industry practice is to have contracts based on a pre-agreed re-gasification loss 
+percentage including measurement inaccuracies and uncertainties for arriving at the 
+net deliverable quantity [Point 4 on page 7 of the report] 
+vi. 
+It is observed that the contracted percentage of losses typically varies in the order of 
+0.66 percent to more than 1 percent within the Indian LNG industry and 0.3 percent 
+to 2 percent as per international practice [Point 6.5 on page 2 of the report] 
+A copy of the report is enclosed herewith as Exhibit-C. 
+
+
+Page 10 of 32 
+ 
+ 
+21. 
+M/s Shell cited a report on “International Practice for Reduction in Quantities Returnable 
+by Terminal Operator under a Re-gasification Contract” dated February 19, 2016, by Poten and 
+Partners (Australia) Pty Limited (A renowned international organization providing advisory 
+services to energy industry). Key highlights of the report are as follows: 
+i. 
+There is a de facto reduction between the energy delivered to an LNG terminal by 
+the vessel and the energy returned by an LNG terminal. This reduction is due to 
+inherent factors such as evaporation of the LNG transferred through and stored at an 
+LNG terminal and gas used in operation of submerged combustion vaporizer (SCV).  
+ii. 
+Losses occur at multiple places in an LNG terminal.  For these reasons, it is not 
+possible to accurately measure each loss and use of gas at an LNG terminal. 
+iii. 
+Under agreements signed between LNG terminals and their Customers, retainage 
+(SUG) is expressed as a percentage of quantities discharged, stored or re-gasified.  
+iv. 
+Retainage (SUG) percentages are based on estimates of actual losses and quantity of 
+gas used in SCV. Such losses vary based on the type of vaporization system used, the 
+length of the cryogenic pipelines, the utilization rate at the terminal, any cooldown 
+activities following maintenance, but also the level of accuracy of the measurement 
+v. 
+Based on a benchmark of over 20 LNG terminals, retainage (SUG) percentage range 
+from 0.2% to 2% of the discharged or sent-out quantities. 
+A copy of the report issued by Poten and Partners (Australia) Pty Limited is enclosed 
+herewith as Exhibit-D. 
+ 
+22. 
+M/s Shell submits that it can be discerned that allocation of gas towards loss is an 
+internationally recognised concept for limiting the risk associated with process loss. That the gas 
+allocated towards loss is not towards any specific service provided by the service provider. That 
+the same does not partake the character of consideration in the hands of the service provider, at 
+any time whatsoever.  
+ 
+23. 
+M/s Shell has submitted that it is relevant to note the fact that SUG is an internationally 
+recognised concept was also relied upon in the case of Petronet (supra) and was accepted by the 
+Ld. Tribunal. Thus, the SUG stipulated in the Agreement between the parties in the present case 
+does not qualify as consideration for the re-gasification services provided by M/s Shell to its 
+Customers.   
+ 
+A. 
+Process loss has been excluded from the value of supply by the Courts in the erstwhile 
+regime  
+ 
+24. 
+M/s Shell submits that the issue stands settled in favour of M/s Shell under the erstwhile 
+regime, the Courts have affirmed the view that process loss pre-agreed by the parties does not 
+form a part of the consideration/ the value of supply.  
+ 
+
+
+Page 11 of 32 
+ 
+25. 
+In this regard, M/s Shell has placed reliance on the decision of the Tribunal in the case of 
+Petronet LNG Ltd. v. Pr. Commr. of ST, Delhi-I, 2019-VIL-659-CESTAT-DEL-ST, wherein the 
+Tribunal, on similar facts, had held that SUG agreed between the parties does not constitute 
+consideration for re-gasification services provided by the Appellant to its Customers. In this 
+case, the Appellant was engaged in re-gasification of LNG owned by Customers. As per the 
+agreements with the Customers, a certain percentage of LNG was made available to the 
+Appellant by the Customers as allowed loss and consumption, which was understood to be gas 
+lost/consumed in performing the re-gasification services. The Appellant discharged service tax 
+on the amount received for re-gasification services. However, the Revenue sought to levy service 
+tax on the value of such pre-fixed quantum of LNG identified towards allowed loss and 
+consumption on the ground that LNG supplied by the Customers amounts to consideration 
+received by the Appellant. While negating the stand of the Revenue, the Hon’ble Tribunal held 
+as follows: 
+“24. Explanation (a) to sub-section (4) of section 67 of the Act defines 
+“consideration” to include any amount that is payable for the taxable services 
+provided or to be provided. Section 2(d) of the Contract Act also defines 
+“consideration”. It provides that when at the desire of the promisor, the promisee 
+or any other person has done or abstained from doing anything or does or abstains 
+from doing, or promises to do or abstain from doing something, such act or 
+abstinence is called a consideration for the promise. An amount will, therefore 
+qualify as “consideration” if it has been agreed upon between the parties that such 
+amount would be payable for the services provided. Thus, once it was agreed in the 
+Agreement that the Appellant would receive a certain price for the services of re-
+gasification, it is this amount alone which would qualify as “consideration” for the 
+services of re-gasification. The “allowed loss and consumption” would not 
+represent a quid pro quo for the re-gasification services rendered by the Appellant. 
+In fact, “allowed loss and consumption” is a stipulation contained in the 
+Agreement between the parties to remit performance of the obligation of re-
+gasification in relation to the percentage of the LNG agreed upon as “allowed loss 
+and consumption”….” 
+26. 
+The above decision was subsequently followed in the case of Petronet LNG Ltd. v. Pr. 
+Commr. of ST, Delhi-I, 2021-VIL-118-CESTAT-DEL-ST.  
+27. 
+That applying the ratio of the Tribunal’s decision in the case of Petronet (supra), it can be 
+clearly seen that SUG does not qualify as consideration for service and thus, the SUG agreed 
+between M/s Shell and its Customers in the present case will not qualify as consideration for the 
+purpose of the CGST Act. 
+28. 
+M/s Shell has submitted that the Tribunal’s decision in the case of Petronet (supra) is a 
+favourable ruling under the pre-GST Laws holding that SUG does not qualify as consideration 
+for re-gasification services. That GST Laws and Service Tax Laws are in pari-materia and the 
+concept of SUG is also same under both the tax regimes and accordingly, considerable 
+weightage should be given to the aforesaid decision while pronouncing the ruling in the instant 
+case 
+
+
+Page 12 of 32 
+ 
+29. 
+M/s Shell cited case of M/s Hipolin Ltd. v. CCE Ahmedabad 2012 (26) S.T.R. 191 (Tri. - 
+Ahmd.), the Tribunal held that keeping in view the process of manufacture, some process loss is 
+inevitable and in the absence of any evidence to the contrary, the contention that the said 
+shortage/damages relates to the process loss has to be accepted and accordingly, duty demanded 
+on the process loss is unsustainable. 
+30. 
+In Kirloskar Oil Engines Ltd. vs. Commissioner of Central Excise, Nashik 2017 (349) 
+ELT 299 (Tri.-Bom), the appellant sent raw materials i.e. valve steel & steel round bars to M/s 
+Advance Mechanical Works, Rajkot for job work. After processing, the appellant received 
+material short to the tune of 16% due processing loss. A show cause notice was issued 
+contending that the 16% loss is abnormal and thus the Department proposed to ley excise duty on 
+such loss.  The Tribunal inter alia held that 16% process loss is on the basis of assumption and 
+presumption and without any evidence of diversion of input, cannot be subjected to tax. 
+31. 
+In Commissioner of Central Excise, Belapur vs. Hydrogas PLG (I) Pvt. Ltd. 2006 (196) 
+ELT 167 (Tri.-Bom), the issue was whether process losses in respect of liquid carbon dioxide gas 
+received by the respondents from their sister unit in tankers, while being transferred to cylinders 
+should result in denial of Modvat credit. The Tribunal held that keeping in view the peculiar 
+nature of the commodity and process of manufacture and unavoidable and invisible loss, the 
+denial of credit is unsustainable.  
+32. 
+In the case of Hindustan Copper Limited v. Commissioner of Central Excise [2013 (290) 
+E.L.T. 701 (Tri. - Mumbai)], the Hon’ble Tribunal acknowledged the fact that in every process 
+some amount of loss is possible.  Further, the court held that as long as the process losses are 
+within the reasonable limits, they have to be permitted by the revenue.   
+33. 
+In the case of Bee Kay Cements vs C.C.Ex, Lucknow [2005 (192) ELT 475 (Tribunal - 
+Delhi)], the Tribunal held that the process loss incurred during the process of manufacture 
+undertaken by the assessee is genuine and thus, is not taxable.  Thus, the concept of process loss, 
+which has been recognised by the Courts as an unavoidable loss and not as a consideration for 
+any supply under the erstwhile regime, may be gainfully relied upon even in the present case. 
+Accordingly, SUG cannot be considered as consideration for the regasification service provided 
+by M/s Shell to its Customers. 
+ 
+The principle of judicial consistency must be followed by judicial and quasi-judicial authorities 
+34. 
+M/s Shell submits it is a settled law that consistency is to be maintained in all the judicial 
+proceedings. In this regard, reliance is placed on the decision of the Apex Court in the case of 
+Commissioner of Income Tax vs. Excel Industries Ltd. 2014 (309) ELT 386 (S.C.).  
+35. 
+In State of A.P. v. A.P. Jaiswal, (2001) 1 SCC 748 a three-Judge Bench of this Court 
+observed that consistency is the cornerstone of the administration of justice. It is consistency 
+which creates confidence in the system and this consistency can never be achieved without 
+respect to the rule of finality. With a view to achieve consistency in judicial pronouncements, the 
+courts have evolved the rule of precedents, principle of stare decisis, etc.  
+
+
+Page 13 of 32 
+ 
+36. 
+M/s Shell further submits that since GST is still in its nascent stage, judgments rendered 
+in the previous regime should be referred and relied upon for interpreting the GST Law 
+provisions since the concepts under GST are similar in erstwhile laws.  
+37. 
+M/s Shell submits that SUG cannot be considered as consideration for the re-gasification 
+service provided by M/s Shell to its Customers.  
+38. 
+M/s Shell submits that the SUG agreed between them and the Customers does not qualify 
+as consideration for the re-gasification services provided by them and thus, the same does not 
+form a part of the value of taxable supply in the present case.   
+39. 
+M/s Shell further submits that before elaborating on the aspect of how SUG does not 
+qualify as consideration, it analyses the provisions which govern the determination of 
+consideration for the purposes of the CGST Act. 
+   
+Consideration under the GST Laws 
+ 
+The term consideration is defined in S. 2(31) of the CGST Act as follows: 
+“(31). “consideration” in relation to the supply of goods or services or both 
+includes,- 
+(a) any payment made or to be made, whether in money or otherwise, in respect of, 
+in response to, or for the inducement of, the supply of goods or services or both, 
+whether by the recipient or by any other person but shall not include any subsidy 
+given by the Central Government or a State Government; 
+(b) the monetary value of any act or forbearance, in respect of, in response to, or 
+for the inducement of, the supply of goods or services or both, whether by the 
+recipient or by any other person but shall not include any subsidy given by the 
+Central Government or a State Government: 
+Provided that a deposit given in respect of the supply of goods or services or both 
+shall not be considered as payment made for such supply unless the supplier 
+applies such deposit as consideration for the said supply;” 
+ 
+40. 
+That from the above extracted definition, M/s Shell submits that it can be seen that the 
+term consideration has been defined in a wide manner under the CGST Act to include monetary 
+as well as non- monetary consideration. That above definition of consideration includes any 
+payment, made or to be made, in respect of supply of goods or services or both by the recipient 
+or by any other person. It also includes the monetary value of any act or forbearance, in respect 
+of, in response to, or for the inducement of, the supply of goods or services or both, whether by 
+the recipient or by any other person. 
+ 
+41. 
+In order to qualify as consideration, the payment should be: 
+Monetary or non-monetary 
+Received in respect of, in response to, or for the inducement of, the supply  
+Made by the recipient or by any other person  
+ 
+Consideration should have nexus with supply  
+
+
+Page 14 of 32 
+ 
+ 
+42. 
+M/s Shell submits that one of the pre-conditions for any payment to be considered as 
+“consideration” is that the same should be made for in respect of, in response to, or for the 
+inducement of supply. That scope of definition of consideration extends only in relation to the 
+supply of goods or services or both. In other words, only that payment that has nexus with the 
+supply shall qualify as consideration under the GST laws.  
+ 
+42.1 
+M/s Shell submit that in E-Square Leisure Pvt. Ltd. 2019 (24) GSTL 125 (A.A.R. - GST), 
+the Maharashtra Advance Ruling Authority explained the scope of the term “consideration” as 
+follows: 
+“The definition of consideration is inclusive and the consideration may be in cash 
+or kind. The payment received will not be treated as consideration, if there is no 
+direct link between the payment and supply. From the close scrutiny of above 
+definition it is clear that there should be a close nexus between the payment and 
+supply and thus any payment/exchange/barter etc. would be treated as 
+consideration for supply and liable to GST.” 
+42.2 
+Further it is submitted by M/s Shell that, it has been consistently held by the Courts that 
+only the amount that has nexus with the activity can be taxed under the taxation laws. In the case 
+of Baroda Electric Meters Limited vs Collector of Central Excise [1997 (94) ELT 13 (SC)], the 
+Apex Court has held for the levy of tax, assessable value has to be linked to the taxable activity. 
+As per the Court, any and every amount earned by the assessee would not be exigible to tax, but 
+such amount has to be received in relation to the taxable activity performed. 
+42.3 
+Further it is submitted that considering that the European Union VAT Laws as similar to 
+the GST Laws in India, M/s Shell relies upon the decisions rendered by the European Court of 
+Justice to understand the meaning and scope of the term consideration. 
+42.4 
+In the decision of ECJ in Case No. 102/86 Apple and Pear Development Council, the 
+Court determined that there must be a direct link between the supply made and the consideration 
+received if there is to be consideration in the VAT sense. In this case, Apple and Pear 
+Development Council was set up by the UK Government in 1966 to promote the apple and pear 
+growing industry and it was funded by a compulsory levy on farmers. The Courts found that 
+there was no direct link between the payments made by the farmers and the benefits they 
+received because the benefits of the Council’s work accrued to the industry as a whole. Similar 
+position was laid down in Case 154/80.Staatssecretaris van Financiën. 
+42.5 
+Further, in Case C-16/93: Tolsma’s case,  ECJ noted that a supply of services is effected 
+for consideration within the meaning of Article 2 (1) of the Sixth Directive, and hence is taxable, 
+only if there is a legal relationship between the provider of the service and the recipient pursuant 
+to which there is reciprocal performance. In the present case, there is no performance of service 
+by M/s Shell to the extent of RLNG lost during re-gasification process i.e. SUG  
+42.6 
+In Vodafone Portugal — Comunicações Pessoais SA v Autoridade Tributária e 
+Aduaneira C-43/19, the ECJ observed that a supply of services is carried out for consideration 
+only if there is a legal relationship between the service provider and the recipient and the 
+
+
+Page 15 of 32 
+ 
+remuneration received by the service provider constitutes the consideration for an identifiable 
+service supplied to the recipient.  
+42.7 
+M/s Shell also relies upon the decision of the Apex Court in the case of  Union of India 
+vs. Intercontinental Consultants and Technocrats Pvt. Ltd. 2018 (10) GSTL 401 (S.C.) wherein 
+the Apex Court held that the value of taxable service shall be the gross amount charged by the 
+service provider for such service and the valuation of tax service cannot be anything more or less 
+than the consideration paid as quid pro quo for rendering such a service. 
+42.8 
+M/s Shell submits that it is a settled law that in order to qualify as a consideration for 
+supply, the said consideration should have a nexus with the said supply of goods or service or 
+both.  
+ 
+43. 
+M/s Shell submits that the SUG does not qualify as consideration for the re-gasification 
+services provided by M/s Shell to its Customers since the same is not in respect of, in response 
+to, or for the inducement of supply. In other words, the SUG has no nexus with the services 
+provided inasmuch as the SUG is stipulated in the contract between the parties to limit the risk 
+associated with process loss and is not agreed as a consideration for the re-gasification service.  
+ 
+44. 
+M/s Shell submits nature of the product dealt with in the present case:   
+ 
+i. 
+Natural gas is a naturally occurring hydrocarbon gas mixture consisting primarily of 
+methane. Methane being highly flammable, makes the gas reactive if exposed with 
+air (oxygen). 
+ii. 
+For transportation of natural gas over long distances, natural gas is condensed into a 
+liquid state at close to atmospheric pressure by cooling down the gas to very low 
+temperatures (minus 160 degrees). 
+iii. 
+Condensation of natural gas from gaseous to liquid state reduces the volume of gas 
+by 600 times.   
+iv. 
+Upon receipt of LNG at the destination port, natural gas in liquid state is again 
+converted into gaseous state using vaporizers.   
+v. 
+Typically, natural gas is measured by volume and is stated in cubic meter/ feet.  
+However, due to varying composition (quality) it is a standard practice to measure it 
+in terms of energy. 
+vi. 
+The energy contents of the gas are measured in terms of British Thermal Units 
+(BTU).  The energy content (high or low heating value) of volume of natural gas 
+varies with the composition of the natural gas (percentage composition of methane 
+and other gases) and thus, is dependent on the quality of gas when burned 
+vii. 
+Measurement of natural gas in energy terms is dependent on various factors such as 
+its composition, density, gross calorific value, temperature, etc. Accordingly, any 
+change in one of the components will vary the energy quotient of the same quantity 
+of gas measured earlier. 
+ 
+45. 
+M/s Shell submits that the process of re-gasification is not limited to vaporization of the 
+natural gas in liquid state, but encompasses in its scope other ancillary and incidental activities of 
+unloading of the LNG from the carrier, storage of the LNG and delivery to the Customer at the 
+
+
+Page 16 of 32 
+ 
+delivery point. That the entire process of conversion of natural gas from liquid to gaseous state 
+involves natural gas being lost at multiple stages during the entire process of re-gasification. 
+That, for this purpose,  M/s Shell and the Customers prescribe the SUG limit during the time of 
+the contract to estimate the gas loss during the re-gasification process.  
+ 
+46. 
+M/s Shell submits that the potential areas where the loss of natural gas occurs during the 
+process of re-gasification, as follows:   
+ 
+i. Inherent losses in operations related to natural gas (given its natural form and 
+properties) including transportation of the same, This is also generally acknowledged 
+and accepted by the customs authorities which is evident from the fact that customs 
+duty payable on the import of LNG into India is assessed on the actual quantity of 
+LNG unloaded from the vessel as against the quantity appearing in the bill of lading. 
+The difference between two quantities (actual vs bill of lading) is on account of 
+inherent losses associated with LNG which is duly taken into account while 
+assessment of customs duty on actual quantity unloaded. This practice has also been 
+upheld by the Hon’ble Supreme Court in the case of Mangalore Refineries and 
+Petrochemicals Limited vs Commissioner of Customs, Mangalore [TS-724-SC-
+2015], wherein it was held that customs duty should be assessed on the actual 
+quantity unloaded on the shores of India and not the bill of lading quantity and due 
+regard has to be given to the loss of goods during transportation.   
+ 
+ii. During unloading of the LNG from LNG carrier, Terminal tank pressure increases 
+due to vaporization of unloaded LNG. Pressure in the tanks is managed through Boil 
+off Gas compressors and supply of Boil off Gas to LNG carrier tanks. In case of 
+receipt of LNG from a carrier with higher liquid temperature or tank pressure, 
+Terminal tank pressure rises sharply and the gas is vented out automatically to 
+control tank pressure.  Such gas flared in the atmosphere is gas lost.    
+ 
+iii. For the unloading of LNG from the LNG carriers to the storage tanks at the 
+Terminal, unloading arms are connected to the discharge point on the vessel. It may 
+be noted that the connectors at discharge point on the vessel as well as the unloading 
+arms are made of specialized metal. At the time of disconnecting the unloading arm 
+from the vessel, due to the friction between the metal surfaces, there is high risk of 
+ignition.  Considering the flammability of natural gas present in the unloading arms 
+at that moment or any leakages that may happen during unloading, any such ignitors 
+could lead to a fire hazard. In order to purge the flammability of natural gas, nitrogen 
+gas is used in the unloading arms and reduce the chances of fire hazards.  Such 
+quantity of natural gas mixed with nitrogen is subsequently disbursed in the 
+atmosphere and thus, such quantity of natural gas is lost. 
+ 
+iv. The process of re-gasification of LNG at the Terminal is a continuous process and 
+thus, natural gas (in liquid and gaseous state) is present in the pipelines running to the 
+
+
+Page 17 of 32 
+ 
+re-condensers, HP pumps, vaporizers and other associated machinery at all times. In 
+the event of any technical failure or breakdown, safety procedures prescribed requires 
+isolating and removing the particular portion of the equipment or machinery which is 
+not functioning. This process is also undertaken during planned maintenance of re-
+gasification equipment installed at the Terminal. During this process, the LNG 
+present in that portion of the equipment has to be vented out for safety reasons. Such 
+gas is either flared in the atmosphere or directly released in the atmosphere in case 
+flaring of the same is not feasible. Such gas released in case breakdown or failure of 
+the equipment is gas lost. Having discussed the above, it can be observed that during 
+the re-gasification process, the component of SUG is attributable to technical failure/ 
+breakdown or planned maintenance of re-gasification equipment. However, a major 
+portion of SUG is attributable to the pre-re-gasification processes i.e. losses during 
+receipt of LNG from the carriers till storing of imported LNG in cryogenic tanks. 
+Accordingly, applying the ratio of Hon’ble Supreme Court’s decision in case of 
+Mangalore Refineries (supra), value attributable to SUG should not be included in the 
+value of re-gasification services for the purpose of computation of GST since, it is not 
+in lieu of the re-gasification activity per se. 
+ 
+v. The measurement of LNG is a highly volatile process as the same is dependent on 
+multiple variables.  Hence, the measurement of LNG at multiple stages during the 
+process of unloading from LNG carriers and storage in cryogenic tanks may not be 
+completely accurate and certain. The meters installed at various metering locations, 
+used for measurement of LNG are prone to inaccuracies due to technical limitations 
+in the measurement of LNG. It is relevant to note that even though the meter installed 
+at the Terminal are state of the art and based on the most efficient and accurate 
+technology present in the re-gasification industry, even the latest technology has not 
+been successful in providing 100 percent accurate results. As a result, there are 
+always uncertainties and inaccuracies in measurement of LNG done during the 
+process of re-gasification. 
+ 
+47. 
+M/s Shell has submitted that  the existence of the potential process losses is also 
+recognized by the OISD (Oil Industry Safety Directorate) Standard 194, Edition 2016, issued by 
+the Government of India, Ministry of Petroleum and Natural Gas, on the safety and design 
+aspects of all the major components of an LNG receiving terminal facility including unloading, 
+storage and re-gasification of LNG. Some aspects emerging from this report are: 
+Calorific/ energy values of LNG are provided in a range due to uncertainty of LNG 
+measurement 
+Leaks and spills of LNG are inherent in the product and its handling 
+Relief mechanisms in the form of flare/ release of gas to atmosphere are necessary 
+ 
+
+
+Page 18 of 32 
+ 
+48. 
+Thus, during the entire process of re-gasification, M/s Shell submits that gas is lost at 
+various stages, as elucidated above.  That in order to limit the risk of gas lost during the process 
+of re-gasification, M/s Shell and its Customers have mutually contracted for a specified 
+percentage of gas towards potential losses in the process of re-gasification i.e. SUG.  
+ 
+49. 
+M/s Shell has submitted that SUG in the present case is nothing but an estimate of gas 
+lost during the process and is not in the nature of consideration in relation to the re-gasification 
+service provided by M/s Shell to the Customers since there is no nexus with the service provided 
+by M/s Shell. That SUG is the potential process loss that is estimated by the parties to limit the 
+risk of gas loss and is not decided as a consideration for the re-gasification service provided by 
+M/s Shell to the Customers.  
+ 
+50. 
+The natural gas mentioned in the Agreement between M/s Shell and the Customers as 
+SUG is not quid pro quo for the re-gasification services rendered but is agreed, based on the 
+industry estimates of potential loss of LNG during re-gasification process, with an intent to cover 
+the possible losses during the process of re-gasification of LNG.   
+ 
+51. 
+M/s Shell submits it is the fundamental principle of Contract law that the consideration 
+for a contract should always be at the desire of promisor, otherwise it ceases to be a 
+consideration. In the present case, M/s Shell does not desire SUG unlike re-gasification charges, 
+as consideration for provision of re-gasification services. That, at the cost of repetition, M/s Shell 
+has submitted that SUG only represents the inevitable process loss during various stages of re-
+gasification activity. Reliance in this regard is placed upon the Larger Bench decision of CST v. 
+Repco Home Finance 2020-TIOL-1039-CESTAT-MAD-LB Ltd. wherein this principle of law 
+was reiterated that consideration should be at the desire of promisor, otherwise it fails to be a 
+consideration. 
+ 
+52. 
+In view of the above, the SUG cannot be considered as consideration under the CGST 
+Act.  
+ 
+53. 
+M/s Shell submits that as per the settled jurisprudence under the Contract Act, 
+consideration must act as an inducement for the promisor to enter into the contract and abide by 
+the promise made to the promisee. In other words, it must act as a stimulus for the promisor to 
+enter into the promise and abide by the same.  This has also been included in the GST laws since 
+as per the CGST Act, consideration includes any payment in money or otherwise whether by the 
+recipient or any other person for inducement of supply. 
+ 
+54. 
+M/s Shell submit that they and the Customers have negotiated and mutually agreed a 
+fixed per unit charge to be paid for the services of re-gasification rendered under the Service 
+Agreement.  The parties have arrived at the re-gasification tariff in such a manner so that it acts 
+as a motive for M/s Shell to enter into the Agreement and render the re-gasification services. 
+That SUG does not form a part of the consideration since regardless of the SUG, the re-
+gasification tariff remains the same, which is motive for M/s Shell. That the change in 
+
+
+Page 19 of 32 
+ 
+percentage of SUG does not influence the consideration agreed for the provision of re-
+gasification services. 
+55. 
+M/s Shell submitted that the contracting parties have mutually consented only on the re-
+gasification charges as the consideration under the Service Agreement and accordingly, SUG is 
+not in the nature of consideration decided between the parties for inducement of the supply of 
+services. 
+56. 
+M/s Shell submits that in terms of the settled jurisprudence under the tax laws of India, 
+tax can be levied only on the consideration agreed between the parties under a commercial 
+contract. In the present transaction, from the terms of the Agreement between M/s Shell and the 
+Customers, it can be seen that the parties have agreed to treat only the re-gasification charges 
+related to the RLNG delivered as consideration for the re-gasification service. In other words, the 
+SUG stipulated in the agreement is not regarded as a part of the consideration for the service 
+provided by M/s Shell. The relevant clause of the Agreement is as follows: 
+“… 
+"LTCORA Charges" shall mean the fee payable by User to Terminal Co pursuant to 
+this Agreement, and shall be calculated in accordance with Clause 14. 
+… 
+6.6….. 
+Even though according to the Parties, SUG is not a consideration, but purely as a 
+matter of abundant caution, the Parties agree that the Terminal Co Shall invoice the 
+GST on the value of SUG and User accepts to pay such invoices. For the limited 
+purpose of computing the value of SUG, the User shall provide to Terminal Co, the 
+price of LNG cargo in INR/MMBtu delivered to the Terminal Co for re-gasification 
+not later than one (l) Business Day from the completion of cargo unloading for GST 
+invoicing on SUG. Terminal Co shall raise an invoice towards GST on value of 
+SUG quantities in respect of the LNG cargo received for re-gasification and User 
+shall make payment to Terminal Co for such invoices within seven (7) Business 
+Days from the date of receipt of the invoice. 
+…. 
+14.1 Payments by User 
+User shall pay Terminal Co the LTCORA Charges, any Deficiency Payment as 
+applicable in accordance with this Clause 14 and Use or Pay Amount as applicable 
+in accordance with Clause 6.3. The LTCORA Charges in respect of any Day shall 
+be the product of the actual quantity of RLNG delivered at the relevant Delivery 
+Point(s) and the LTCORA Tariff in respect of such Day…” 
+ 
+57. 
+In this regard, M/s Shell placed reliance on the decision of the Apex Court in the case of 
+Moriroku UT India (P) Ltd vs State Of U.P [2008 (224) ELT 365 (SC)], wherein the Hon’ble 
+Supreme Court has affirmed the aforesaid principle that tax can be levied only on the contractual 
+consideration.  
+ 
+
+
+Page 20 of 32 
+ 
+58. 
+M/s Shell submit that it is settled that for something to qualify as consideration, the 
+parties to the contract must intend to treat the same as consideration mutually and the 
+Department has to give effect to the term of the contract between the parties. Reliance in this 
+regard is placed on a decision of a three-judge bench of the Hon’ble Supreme Court in the case 
+of Commissioner of Income Tax v. Motor & General Stores Pvt. Ltd. (1967) 66 ITR 692 (SC) 
+wherein it was declared that the tax department cannot discard the clear terms of the agreement 
+between the parties to determine the purported intent. 
+ 
+59. 
+M/s Shell submits that in the present case, the consideration for re-gasification services 
+has been identified in the agreement as re-gasification tariff, the quantum of which has been 
+mutually agreed between the contracting parties.  Further, both the parties, i.e. M/s Shell and the 
+Customers have accepted the possibility of losses during the process of re-gasification of LNG to 
+RLNG and the challenges faced in the measurement of the product i.e. natural gas.  With this 
+understanding, both the parties have mutually set aside a pre-defined portion of the gas to 
+account for such losses incurred during the re-gasification process and term the same as SUG. 
+The percentage of SUG mentioned in the agreement is negotiated with the intention to assign the 
+risk associated with the losses in the process of re-gasification. Thus, there is a consensus i.e. 
+meeting of minds amongst the parties to the agreement to treat the SUG as merely allocation of 
+allowed loss and to treat only the re-gasification tariff as consideration for the service. 
+ 
+60. 
+That in the instant case, the intention of the parties while deciding the quantum of SUG is 
+not to consider the same as an economic benefit arising to M/s Shell but to account for the losses 
+incurred in the process of re-gasification.   
+ 
+61. 
+M/s Shell further submits that as per Section 10 of the Contract Act, an agreement 
+becomes a contract and enforceable by law only when the same has been entered into by the 
+parties with a free will and consent.  Further, as per Section 13 of the Contract Act, two or more 
+persons are said to be in consent when they agree upon the same thing in the same sense.  This 
+concept has been derived or based upon the legal principle of consensus ad idem i.e. meeting of 
+minds, mutual assent or mutual agreement. 
+61.1 
+That infact, in the case of Petronet (supra), the Ld. Tribunal, after an analysis of the 
+contractual stipulations concluded that when allowed loss and consumption is a condition of the 
+contract; the same cannot be treated as a consideration for the contract entered into between the 
+Appellant and the customer.  
+ 
+62. 
+M/s Shell in view of the above, submitted that SUG stipulated in the Agreement between 
+the Customers and M/s Shell does not qualify as consideration and thus, the same is not liable to 
+be included on the value of taxable supply in the present case. 
+SUG does not have any effect on the consideration of service  
+ 
+63. 
+M/s Shell submits that it is also pertinent to note that the SUG does not have any impact 
+on the value charged for re-gasification services and as such cannot be treated as additional 
+consideration. Reliance in this regard is placed on Godavari Power and Ispat Ltd. v. CCE Raipur 
+
+
+Page 21 of 32 
+ 
+2017 (6) G.S.T.L. 48 (T) wherein the Appellant was paying service tax on crushing charges for 
+crushing of iron ores. In the process, iron ore fines emerged which was sold by the Appellant. 
+The Department wanted to treat the value of iron ore fines as additional consideration for 
+crushing services. In this regard, it was held that value of iron ore fines is not additional 
+consideration as the contingency of emergence of iron ore fines having some value, is not 
+determinable at the time of fixing of crushing charges. Relevant part of the decision is extracted 
+below: 
+“The ground loss also is pre-fixed. Now, at the time of issue of work order neither 
+party is aware of the exact quantum of loss or possible accrual of iron ore fines for 
+the appellant. In other words, the contingency of emergence of iron ore fines having 
+some value, is not determinable at the time of fixing of crushing charges. Hence, it 
+is not tenable to hold that the crushing charges are influenced by the possible 
+emergence of iron ore fines and its additional value to the appellant.” 
+ 
+63.1 
+The aforesaid decision has also been affirmed by the Apex Court and reported at 
+Commissioner v. Godawari Power & Ispat Ltd. - 2018 (10) G.S.T.L. J168 (S.C.).  
+ 
+64. 
+M/s Shell submits that in the instant case, the SUG is agreed only as an estimation of loss 
+of gas in the process of re-gasification. Actual losses may be higher or lower than the estimate of 
+process loss i.e. SUG.  
+ 
+65. M/s Shell submits that the re-gasification tariffs which is the sole consideration agreed with 
+the Customer under the Service Agreement are completely unaffected from the SUG component. 
+In this context, M/s Shell would like to place reliance on the decision of the Apex Court in the 
+case of Commissioner of Central Excise, Mumbai-III vs. I.S.P.L. Industries Ltd. 2003 (154) ELT 
+3 (S.C.) wherein the Court held that when price is not influenced by the fact of interest free 
+advance made by the buyer to the manufacturer, notional interest not includible to the assessable 
+value of the goods.  
+ 
+66. 
+That in the case of Murli Realtors Pvt. Ltd. vs. Commissioner of Central Excise, Pune-III 
+2015 (37) STR 618 (Tri.-Bom), the Tribunal held that in the absence of evidence to show that the 
+security deposit taken has influenced the price i.e. the rent, and thus, in the absence of such 
+evidence, it is not possible to conclude that the notional interest on the security deposit would 
+form part of the rent. 
+ 
+67. M/s Shell submits that while the re-gasification tariffs for all the Customers are largely at par 
+with each other, the percentage of SUG negotiated with each Customer differs. The change in 
+percentage of SUG substantiates the fact that the same has not influenced the consideration 
+agreed for the provision of re-gasification services, but is dependent on multiple factors such as 
+period of agreement, frequency of consignments, daily denomination quantity of the Customer, 
+extent of hedging of risk of loss, etc. The SUG cannot be regarded as non-monetary 
+consideration for re-gasification service provided by M/s Shell to its Customers. Sub-section 4 of 
+
+
+Page 22 of 32 
+ 
+Section 15 of the CGST Act is not applicable in the present case. Consequently, the application 
+of valuations rules provided in the CGST Rules does not arise.  
+ 
+68. 
+M/s Shell submits that in the instant case, the SUG does not qualify as non-monetary 
+consideration and thus, the rules relating to valuation contained in the CGST Rules are not 
+applicable in the instant case.  
+ 
+69. 
+It is submitted that as per Section 2(31) of the CGST Act, consideration can be monetary 
+and non-monetary and in case there is non-monetary consideration involved in a transaction, 
+then, the value of supply is to be determined as per Section 15 read with Rule 27 of the CGST 
+Rules.  
+ 
+70. 
+M/s Shell submits that it is relevant to note that the term non-monetary consideration is 
+not defined in the GST Laws.  Non- monetary consideration essentially means consideration in 
+kind. The Australian Tax Authorities in Ruling GSTR 2001/6 held that a payment is not limited 
+to a payment of money and it includes a payment in a non-monetary or in an in kind form, such 
+as:  
+providing goods; 
+granting a right or performing a service (an act); and 
+entering into an obligation, for example to refrain from selling a particular product (a 
+forbearance). 
+ 
+71. 
+That consideration for supply can also be in kind. However, it is relevant to note that non-
+monetary consideration should also meet the requirements of consideration, viz, the same should 
+be nexus with the supply, the consideration should be for the inducement of supply and there 
+should be consensus ad idem to treat it as consideration by the parties to the contract.   
+ 
+72. 
+M/s Shell submits that in the instant case, SUG is stipulated in the Agreement towards 
+process loss and not as a consideration for the supply of re-gasification service. The provision of 
+gas as SUG towards possible losses in the re-gasification process is a practice followed by the 
+entire re-gasification industry both internationally as well as domestically. Further, in the terms 
+of the Agreement also sufficiently clarify that SUG is allocated only towards process loss and 
+not as a consideration for any service.  
+ 
+73. 
+M/s Shell submits that since the requirements of consideration are not fulfilled in the 
+present case, SUG cannot be treated as non-monetary consideration and therefore, the valuation 
+rules contained in the CGST Rules have no applicability in determining the value of re-
+gasification service the present case.   
+B. Value of SUG is not includible as per S. 15(2) of the CGST Act  
+ 
+74. 
+M/s Shell submitted that Section 15(2) of the CGST Act deals with the inclusions in the 
+value of supply under the GST Laws. That as per Section 15(2), the value of supply shall 
+include: 
+
+
+Page 23 of 32 
+ 
+i. 
+Taxes, duties, cesses, fees and charges levied under any law for the time being in 
+force other GST, charged separately by the supplier. 
+ii. 
+Any amount that the supplier is liable to pay in relation to such supply but which has 
+been incurred by the recipient of the supply and not included in the price actually 
+paid or payable for the goods or services or both. 
+iii. 
+Incidental expenses, including commission and packing, charged by the supplier to 
+the recipient of a supply and any amount charged for anything done by the supplier 
+in respect of the supply of goods or services or both at the time of, or before delivery 
+of goods or supply of services. 
+iv. 
+Interest or late fee or penalty for delayed payment of any consideration for any 
+supply. 
+v. 
+Subsidies directly linked to the price excluding subsidies provided by the 
+Central/State Government. 
+ 
+75. 
+M/s Shell submitted that in the instant case, the SUG is not covered under Section 15(2) 
+of the CGST Act and is thus not liable to be included in the value of supply since: 
+i. 
+SUG is not in the nature of taxes, duties, cesses, fees and charges levied under any 
+law. 
+ii. 
+SUG is not an amount that is incurred by the recipient of the supply. SUG is an 
+estimated percentage of potential losses in the re-gasification process including 
+inaccuracies or uncertainties in the measurement of losses as well as natural gas in 
+the system and is not any amount that is incurred by the Customer for M/s Shell. 
+iii. 
+SUG is not an incidental expense charged by M/s Shell to the Customer. SUG is an 
+estimated amount of loss incurred in the entire process of re-gasification and is not a 
+separate expense charged to the Customer.  
+iv. 
+SUG is not in the nature of interest or late fee or penalty for delayed payment of any 
+consideration for any supply. 
+v. 
+SUG is not a subsidy.  
+ 
+76. 
+That SUG is not liable to be included in the value of supply of the re-gasification service 
+provided by M/s Shell to the Customers.  
+ 
+77. 
+M/s Shell submits that SUG agreed between it and the Customers does not qualify as 
+consideration under the CGST Act and thus, the same is not liable to be included in the value of 
+supply of re-gasification services by M/s Shell to the Customers. 
+ 
+Question on which Advance Ruling sought 
+78. 
+Whether value attributable to SUG stipulated in the Agreement between the Applicant 
+and Customers is subject to the levy of GST and therefore, liable to be included in the 
+consideration for re-gasification services determined as per Section15 of the CGST Act? 
+ 
+ 
+
+
+Page 24 of 32 
+ 
+Personal Hearing 
+ 
+79. 
+Personal hearing granted on 18-2-22 was attended by Ms. Priyanka Rathi, Advocate and 
+Shri Abhishek Nolkha and they reiterated the submissions. On enquiry regarding the levy of 
+Service Tax on said SUG during pre- GST era, Ms. Rathi informed that a Show Cause Notice 
+was issued on the identical issue in Service Tax proposing to demand Service Tax on SUG gas 
+and that M/s Shell availed SVLDRS by paying the service tax computed amount as per the 
+scheme in respect of the said Show Cause Notice. Further, as required by us, vide email dated 
+19-2-2022, submitted the copy of SCN dated 29-9-15 vide F.No. DGCEI/AZU/36-26/2015-16 
+issued by the Additional Director General, DGCEI proposing to demand service tax of Rs. 
+46,45,29,236/- for the period July-2010 to Sept-2014 along with applicable  interest and 
+penalties. 
+ 
+Revenue’s submission: 
+ 
+80.      Revenue has neither submitted its comments on the Advance Ruling Application nor 
+appeared for hearing. 
+ 
+ 
+Discussion & Findings: 
+81. 
+We have carefully considered all the submissions made by M/s Shell. At the outset we 
+would like to make it clear that the provisions of CGST Act and GGST Act are in pari materia 
+and have the same provisions in like matter and differ from each other only on a few specific 
+provisions. Therefore, unless a mention is particularly made to such dissimilar provisions, a 
+reference to the CGST Act would also mean reference to the corresponding similar provisions in 
+the GGST Act. 
+ 
+82. We note that M/s Shell re-gasifies the LNG belonging to its customers. And that its 
+customers have the following terms of payment laid down in the contract, as follows: 
+i. An amount equal to ‘Re-gasification Tariff multiplied with actual quantity of RLNG delivered 
+at delivery points’ to be paid by customers to M/s Shell  
+ii.  Customers shall provide to M/s Shell a quantity of System use gas (SUG) equivalent to 
+0.66% of actual discharged quantity of LNG by a LNG carrier. We note that this quantity of 
+SUG in the contract, is translated in this business practice by way of M/s Shell raising Invoices 
+having, inter alia, an item of description ‘SUG’ in its invoices. We have examined the invoices 
+raised by M/s Shell on M/s GAIL (India) Pvt. Ltd. and M/s GSPCL, wherein SUG quantity of 
+0.66% of discharged quantity of LNG at its receipt point was multiplied with re-gasification 
+tariff to arrive at SUG value. 
+83. The issue before us hinges whether this SUG value invoiced by M/s Shell on its 
+customers is leviable to GST. At the outset, we note that M/s Shell is charging this SUG 
+amount on its customers vide GST Tax invoices. What is before us is whether this  GST invoiced 
+amount on its customers is part of transaction value for re-gasification service supply.  
+ 
+84. We note that in GST law, as per Section 17(5)(h) CGST Act, ITC is blocked for goods lost. 
+However, we cannot ascertain, by cross referencing with M/s Shells customers if the 
+
+
+Page 25 of 32 
+ 
+goods(SUG) as cited by M/s Shell are lost as process loss; since LNG being non GST item, the 
+customers( who are the principal) cannot avail ITC under the GST scheme of law on its LNG in 
+toto, therefore reversal of ITC on process loss concept does not arise at all in this case and 
+thereby the checks and balances framed in GST scheme of law for process loss cannot be 
+verified in this case. 
+ 
+85.  Though this is not the matter before us, we do note that as Shells customers are not paying 
+the value portion on the SUG invoices, but paying only the tax amounts, the customers cannot 
+avail ITC on the tax portion reflected in the Shell’s SUG invoices as per 2nd Provisio to Section 
+16(2) CGST Act, its customers have not paid the value portion of SUG invoices.  
+ 
+86. We have read the contract entered by M/s Shell with M/s GAIL (India) Pvt. Ltd. for re-
+gasification of its customers LNG. When inquired for the practise of M/s Shell in pre- GST era 
+and whether service tax was paid on the value received for System use gas , M/s Shell submitted 
+that in this regard in service tax era, a Show cause Notice was issued by the Department on M/s 
+Shell (formerly known as LNG Hazira LNG Pvt. Ltd.) for service tax liability on ‘SUG value’ 
+and later submitted a copy of the show cause notice. We have read the said Show cause notice 
+dated 29-9-15 vide FNo DGCEI/AZU/36-26/2015-16 issued by Additional Director General, 
+DGCEI (Directorate General of Central Excise Intelligence) for service tax leviabilty on SUG 
+value proposing demand of Rs. 46,45,29,236/- for the period July-10 to Sept-2014, along with 
+interest and invoking certain penalty provisions. When inquired from Central Revenue regarding 
+the status of said SCN, it was informed by Revenue vide letter dated 16-3-22 that the said 
+applicant settled the said SCN dated 29-9-15 vide SVLDR Scheme. Now SVLDR scheme   
+provides that when a main notice of a Show cause notice pays the Tax amount proposed in SCN 
+as per the provision of SVLDRS, the noticee gets total waiver of interest and waiver of penalty, 
+immunity from prosecution, and once the main noticee discharges the service tax demand, even 
+the co –noticees are accorded the benefits of the SVLDR Scheme.  We also note that a 
+declaration under the said scheme will not be a basis for assuming that the declarant has admitted 
+the position and no fresh show cause notice will be issued merely on that basis. 
+ 
+87. We note that M/s Shell paid tax amount, as per SVLDRS terms of payment, with reference to 
+the said SCN dated 29-9-15 proposing service tax demand of Rs. 46,45,29,236/-  This SCN 
+covered the period July 2010 to September 2014.  
+ 
+88. Central Revenue vide letter dated 12-4-22 informed that two more Show cause Notices, SCN 
+dated 11-4-17  and SCN dated 9-1-19 on identical issue of Service Tax liability on SUG value 
+for the period Oct-14 to Sept- 2015 and Oct-2015 to June-2017 respectively was issued on M/s 
+Shell ( formerly M/s Hazira LNG Pvt. Ltd.). Thereby, we note that there are two more SCNs 
+issued by Central Revenue to M/s Shell proposing demand of service tax on ‘SUG value’, one 
+SCN dated 11-4-17 covering the period October 2014 to September 2015 demanding Service 
+Tax of Rs 13,46,38,242/- (Rupees Thirteen Crores Forty Six Lacs Thirty Eight Thousand Two 
+Hundred Forty Two Only.) and another SCN dated 9-1-19 covering the period October 2015 to 
+June 2017 demanding service tax of Rs 15,15,73,213/- (Rupees Fifteen Crores Fifteen Lacs 
+
+
+Page 26 of 32 
+ 
+Seventy Three Thousand Two Hundred Thirteen Only.). Central Revenue intimated that M/s 
+Shell further paid service tax amount for tax proposed in both the later two SCNs as per 
+provision of SVLDRS. 
+ 
+89. 
+We note that from the period July 2010 to June 2017, a total Service Tax demand of 
+Rs. 75,07,40,691/- ( Rupees Seventy Five Crores Seven Lacs Forty Thousand Six Hundred 
+Ninty One Only.) was made on M/s Shell on SUG value vide said 3 SCNs and that M/s Shell 
+paid the SVLDRS computed amounts and thereby availed the benefit of SVLDRS, such as 
+waiver of interest and penalty and immunity from prosecution.  
+ 
+90. 
+Further, we agree with M/s Shell submission at paragraph 28 to the extent that the 
+concept of SUG is same under both the tax regimes of Service Tax and GST. 
+91. 
+On careful study of M/s Shell’s submissions, We find that M/s Shell has submitted that 
+the subject Gas (termed by M/s Shell as SUG) is consumed/ used by it for the following 
+purposes,: 
+ 
+i. 
+Gas is used for controlling the Terminal Tank pressure, by way of gas being vented 
+out automatically by flaring in the atmosphere.  During unloading of the LNG from 
+LNG carrier, Terminal tank pressure increases due to vaporization of unloaded LNG. 
+Pressure in the tanks is managed through Boil off Gas compressors and supply of Boil 
+off Gas to LNG carrier tanks. In case of receipt of LNG from a carrier with higher 
+liquid temperature or tank pressure, Terminal tank pressure rises sharply and the gas is 
+vented out automatically to control tank pressure. The first overpressure protection to 
+the LNG storage tanks is given through flaring. 
+ii. 
+Gas is used by M/s Shell in operation of submerged combustion vaporizer (SCV) 
+wherein water of the tank is directly heated from a submerged combustion burner 
+which uses natural gas for its operation. 
+iii. 
+Gas is used in the planned maintenance of the Plant. 
+With this submission of M/s Shell, We note that SUG prima facie cannot be ruled as process 
+loss but prima facie a case is made before us, by the very submissions of M/s Shell that said gas is 
+used in the Plant for the smooth flow of Regasification Service Supply. The scope of 
+Regasification Service Supply is enumerated in paragraph 2. 
+ 
+92.  Further we note that M/s Shell vide its submission admitted Gas measurement uncertainties 
+and submitted that there are always uncertainties and inaccuracies in measurement of LNG done 
+during the process of re-gasification. M/s Shell submitted that Measurement of natural gas in 
+energy terms is dependent on various factors such as its composition, density, gross calorific 
+value, temperature, etc. Accordingly, any change in one of the components will vary the energy 
+quotient of the same quantity of gas measured earlier. It was submitted that the measurement of 
+LNG is a highly volatile process as the same is dependent on multiple variables and that the 
+measurement of LNG at multiple stages during the process of unloading from LNG carriers and 
+storage in cryogenic tanks may not be completely accurate and certain. The meters installed at 
+
+
+Page 27 of 32 
+ 
+various metering locations, used for measurement of LNG are prone to inaccuracies due to 
+technical limitations in the measurement of LNG. 
+We find that measurement uncertainties may not be positive only but also in negative which 
+would then mean that M/s Shell has retained certain portion of gas of its customers.  
+93. 
+There is a prima facie view, established from submission of M/s Shell that this SUG 
+amount has a nexus with the Re-gasification Service supply. We reiterate that we agree with M/s 
+Shells submission at paragraph 28 that SUG concept in Service tax era and GST era is identical. 
+We noted the three SCNs issued to M/s Shell for service tax taxability on SUG. Exercising the 
+provisions of Section 105 of the CGST Act, We hold that the Statement of M/s Shells conversant 
+personnel recorded under section 14 Central Excise Act to investigate the taxability on SUG has 
+its bearings on the issue at hand before us. We further hold that Statements recorded under 
+Section 14 of the Central Excise Act, 1944 read with Section 83 of Finance Act, 1994 by the 
+Revenue are admissible in the Court of law. 
+ 
+We are of strong opinion that the recordings of M/s Shell (formerly known as Hazira LNG 
+Pvt. Ltd.) personnel namely Shri Sanjay Kshatriya, Terminal Manager And Shri Nitin Shukla, 
+Managing  Director are relevant to this subject matter, as the issue pertains to ‘concept of SUG’;  
+We place on record of this Ruling the following facts: 
+ 
+i. 
+M/s Shell re-gasifies its own LNG 
+ii. 
+Also, M/s Shell also re-gasifies LNG belonging to its customers. 
+The re-gasification services covers the services related to re-gasification of LNG into 
+RLNG on behalf of M/s Shells customers including allied, incidental and ancillary 
+services such as receipt of LNG Carriers at the Port, unloading of LNG from LNG 
+carriers and receipt by Shell of such LNG at the receipt point, temporary storage of 
+LNG in storage tanks and delivery of RLNG.   
+iii. 
+For re-gasification, besides the LNG required as input, certain portion of LNG is pre-
+requisite and consumed/utilised by M/s Shell for the following activities: 
+ 
+A. 
+A portion of Gas is used during the regasification process, as follows:  
+I. 
+Gas is used to run the Gas Turbine Generator(s) ( GTGs) which operates as 
+contingency along with power grid. The power/ electricity generated from GTG is 
+used to run re-gasification plant, utility and other facilities at terminal. Therefore 
+Shell, in case of non availability of power from the grid uses one or more GTG’s as 
+per requirement in the plant to run the plant, utility and other facilities at terminal. We 
+note that system use gas is used to run GTGs. 
+II. 
+Gas is used to run the Submerged Combustion Vaporiser (SCV) on burner mode 
+in case of non availability of ORV (Open Rack Vaporisers), for the purpose of 
+vaporisation. So to run SCV during contingencies, gas is used.  
+III. During cooling of BOG (Boil off Gas) compressor before each LNG cargo, gas is 
+vent out  to flare. 
+
+
+Page 28 of 32 
+ 
+IV. In storage tank there are incidences wherein there were automatic gas release to flare 
+to manage tank pressure. 
+ 
+We find the gas used, as at I to IV, for operation of the Re-gasification Equipment/ plant/ 
+utility/ other facilities at Terminal. And in case had this gas been purchased by M/s Shell from 
+the market, then for financial accounting it would have expensed it in its Expense accounts and 
+allocation it in cost of provision of re-gasification service and thereby then the said cost 
+component of gas used would be allocated as part of M/s Shell’s cost of provision of re-
+gasification service.  
+B. 
+Further we find that a portion of quantity of gas is needed during re-gasification 
+process in the following: 
+I. 
+In cases of shutdown/ breakdown/ power failure, RLNG is lost from piping 
+equipment in the process of draining, purging, cool down because of safety reason 
+by venting;  
+II. During unloading gas is used on account of unloading arms purging and warming, so 
+gas is vent out into the atmosphere without flare. 
+III. Further, Gas is required and used both for planned maintenance of the system and 
+also for ‘ repair and maintenance’ of the system. 
+     
+We find that this system use gas, in this para B, is requisite for the specified safety 
+measure and for maintenance as specified and had M/s Shell purchased this gas used for 
+these procedures then it would have added this the cost of purchase into cost of provision of 
+re-gasification service.  
+C. ‘System Use Gas’ Measurement Inaccuracies. 
+ 
+We note that Inaccuracies in measurement of gas may lead not only to losses 
+but even gains, and it can’t be predetermined. Therefore, the Quantum of M/s 
+Shell’s said System use gas percentage cannot be a fixed quantity or a fixed 
+percentage. Shri Sanjay Kshatriya in his statement recorded under section 14 
+Central excise Act, stated ( as reflected in page 11 of cited SCN dated 29-9-15 
+this Relied upon document is available with M/s Shell) that gas lost/ gained, in 
+measurements, cannot be determined in isolation and no separate records for 
+individual losses are maintained. Further, that use of gas depends on 
+contingencies and cannot be ascertained and fixed at various stages; and that 
+Shell maintains records of LNG/ RLNG used to run GTG and SCV but no 
+separate records for individual losses are maintained. Further, no separate 
+records of Total gas used as fuel by Shell’s LNG re-gasified and Shells 
+customers LNG re-gasified is maintained. 
+ 
+Further, the uncertainty in gas measurement loss can be both negative as well as 
+positive. What is inferred for Negative losses is that there is gain in the stock of Gas or that 
+M/s Shell retained this quantity of gas itself. Further, as per the Monthly energy Reports, 
+the unaccounted consumption of gas, which falls under the category of SUG, by Shell from 
+
+
+Page 29 of 32 
+ 
+July 2010- 2014, 45 months out of 48, the uncertainty was negative meaning there was gain 
+in stock in 45 months out of 48.  
+ 
+D. The Monthly Energy Reports maintained at the terminal is the total energy 
+stock record maintained monthly at the terminal and no separate records are 
+maintained by Shell for re-gasification of its own LNG and that of LNG 
+belonging to its customers, therefore fuel gas, flared gas ratios are for both its 
+LNG and customers LNG activities. This Monthly energy report, inter alia,  
+details the LNG receipt, Gas used as fuel which is total fuel gas ( which 
+comprises RLNG used as fuel to run GTG, SCV and Pilot burner of flare), 
+flare gas, total consumption, fuel gas consumption for SCV.  
+      What is clear from the Contract’s clause 6.6, cited by M/s Shell at para 56 is that Shells 
+customers provide a quantity of system use gas equivalent to 0.66% of discharged LNG 
+quantity by LNG carrier. In practice, Shell delivers RLNG at delivery point to its 
+customers charges re-gasification charges as per re-gasification tariff on the delivered 
+quantity of RLNG from its customers. Further as per cited contract’s clause 6.6, its 
+customers have agreed to provide M/s Shell an agreed quantity of gas terming the same as 
+‘System Use Gas’. We find that this gas is used for the said purposes discussed at A, B of 
+this para.  
+ 
+94.    In conspectus of facts on record, we hold that this system use gas is- (a) used by M/s Shell 
+as fuel for re-gasification plant (b) retained as its gain (c) used for flaring which is an incidental 
+expensing for the re-gasification procedure and falls within the scope of costs incurred for re-
+gasification service.  
+ 
+For this, we hold that amount of SUG value charged on its customers vide GST invoices 
+does fall under the cost of provision of service of Re-gasification and thereby an indispensable 
+component of taxable value of re-gasification service supply by M/s Shell.  
+ 
+95.   We find this gas charge which is used by M/s Shell  is cost on re-gasification services, to be 
+precise it is an expenses incurred by M/s Shell for the Re-gasification scope of service to be 
+supplied to its customers and as M/s Shell is not purchasing gas from market but made an 
+agreement with customer for a SUG quantity to be provided to customers for the subject 
+service supply, we find this SUG quantity to be provided by its customers is now translated 
+into SUG value by M/s Shell invoices raised on its customers. 
+96.  Thus we find that the phrase ‘system use gas’, has satisfied its plain meaning as it is a gas 
+used for in said system for the Re-gasification service supply and thereby M/s Shells invoice 
+reflecting the SUG value is a part and parcel of the Re-gasification service supply charges. It is 
+on record that SUG has nexus with this re-gasification service supply and is a cost, both direct 
+and also incidental & ancillary to the scope of re-gasification services. 
+96.1 The taxable supply value, as per Section 15 of CGST Act, 2017 reads as follows: 
+
+
+Page 30 of 32 
+ 
+ 
+15. Value of Taxable Supply. (1) The value of a supply of goods or services or both 
+shall be the transaction value, which is the price actually paid or payable for the said 
+supply of goods or services or both where the supplier and the recipient of the supply 
+are not related and the price is the sole consideration for the supply.  
+(2) The value of supply shall include–––  
+(a) any taxes, duties, cesses, fees and charges levied under any law for the time being 
+in force other than this Act, the State Goods and Services Tax Act, the Union Territory 
+Goods and Services Tax Act and the Goods and Services Tax (Compensation to States) 
+Act, if charged separately by the supplier;  
+(b) any amount that the supplier is liable to pay in relation to such supply but which 
+has been incurred by the recipient of the supply and not included in the price actually 
+paid or payable for the goods or services or both;  
+ 
+(c) incidental expenses, including commission and packing, charged by the supplier 
+to the recipient of a supply and any amount charged for anything done by the 
+supplier in respect of the supply of goods or services or both at the time of, or before 
+delivery of goods or supply of services; 
+ 
+96.2 
+ We find that the contractual liability of M/s Shell to procure System use gas to be used to 
+run GTG/ SCV; gas used during unloading; gas used during storage for maintaining pressure by 
+venting out as discussed at para 93 (A);  gas to be used for flaring; gas to be used in maintenance 
+and gas retained with M/s Shell when there is SUG reflected as gains in the measurement as 
+discussed at Para 93 (C)  of this Ruling and this the costing of SUG is borne by its customers. 
+This amount is charged by M/s Shell on its customers vide GST invoices which reflect an item of 
+invoicing as SUG value. The Contract entered by M/s Shell with its customers reads that 
+Terminal Co shall raise an invoice towards GST on value of SUG quantities in respect of the 
+LNG cargo received for re-gasification and User shall make payment to Terminal Co for such 
+invoices. We note that consideration includes any payment in money or otherwise whether by the 
+recipient or any other person for inducement of supply. We cannot brush aside the fact that said 
+SUG is the Gas used/ needed by M/s Shell for ensuring its re-gasification service supply to its 
+customers. 
+ 
+97.   We note that M/s Shell discharged the service tax liabilities on the SUG value in terms of 
+the SVLDRS scheme, vide the cited three Show cause notices discussed at para 86 to 89 and that 
+the facts of the case raised in SCNs and the issue before us is identical but for nature of indirect 
+tax, then service tax in SCNs ( an indirect tax) and now GST(an indirect tax) before us.  
+ 
+98.   We note that M/s Shell has cited case laws pertaining to Process loss. Now, it is on record 
+that Gas, in our present case,  has neither evaporated but that it is used for certain activities, 
+either for running the re-gasification equipment or used for safety procedures by venting; and 
+used for maintenance procedures. Further, SUG may also be retained free of cost in cases where 
+
+
+Page 31 of 32 
+ 
+uncertainties in measurement is negative as discussed at para 93 (C). Thus the case laws cited by 
+M/s Shell are different in its facts. When we read the agreement of Shell with its customers, the 
+way the agreement was drafted gives an impression that its process loss and thereby We hold that 
+facts of consumption/ utlisation of Gas in subject supply has been covered up; however with 
+facts We brought on record vide our discussion, the true picture of gas being used has been 
+brought to light regarding the nature of system use gas and its nexus with supply of re-
+gasification service( which has a wide scope and not limited to just re-gasification of LNG into 
+RLNG as detailed at paragraph 2).  Thus it is on record that the SUG value has direct nexus with 
+the scope of re-gasification service supply by M/s Shell and falls within the definition of 
+consideration for the said supply. Further, in the present case, there is a GST invoice raised by 
+M/s Shell on its customers for SUG value and payment of GST has been made by its customers.  
+ 
+99.   We note that the literal meaning of the  phrase ‘ System Use Gas’ has been justified as the 
+gas has been used by system. Now the scope of re-gasification services covers not just re-
+gasification but an entire gamut of activities from unloading LNG from the Ships, its storage, its 
+re-gasification along with safety measures and thereafter the delivery to the customers. We find 
+that system use gas charges raised on its customers vide GST Tax Invoices are part and parcel of 
+Re-gasification service supply. We hold that the scope of re-gasification service supply cannot 
+be dissected to favour only a portion of invoice charged on its customers as taxable by 
+misreading re-gasification service to mean only re-gasification of LNG into RLNG. This runs 
+contrary to the scope of re-gasification service detailed at para 2. 
+  
+100. 
+In conspectus of the aforementioned Discussion and findings, we pass the Ruling: 
+ 
+ 
+RULING 
+ 
+1. The scope of Re-gasification Services covers not only the services related to re-
+gasification of LNG into RLNG on behalf of M/s Shells customers but includes allied, 
+incidental and ancillary services such as receipt of LNG Carriers at the Port, unloading of 
+LNG from LNG carriers and its receipt at Terminal receipt point, temporary storage of 
+LNG in storage tanks and delivery of RLNG to the customers, as detailed at para2  
+2. Thus this SUG [(a) gas used as fuel by Shell in GTG/ SCV; (b) gas used by M/s Shell  for 
+safety procedures by flaring/ venting out, even in cases of shutdown/ breakdown/ power 
+failure when gas is vented out for safety reasons in the process of draining, purging and 
+cooling down; (c) gas used by M/s Shell  in maintenance of re-gasification equipment; (d) 
+gas vented out by M/s Shell for cooling of BOG compressor; (e) gas flared out by M/s 
+Shell to maintain tank pressure; (f) gas  used by M/s Shell on account of unloading arms 
+purging and warming, so gas is vent out into the atmosphere without flare] is a cost for 
+Supplier of Service M/s Shell and thereby to be allocated into cost of provision of Re-
+gasification Service Supply. Vide this business contract, M/s Shell translates the cost of  
+SUG required into SUG value by  raising GST Tax invoices to its customers under item 
+description- value of SUG.  
+
+
+Page 32 of 32 
+ 
+3. Further, in cases where measurement uncertainties are in negative as discussed at para 93 
+(C), in such cases, this translates that System use gas provided by its customers, as per 
+contract is   retained by M/s Shell, as negative measurement means excess of Gas and not 
+shortage of gas.  
+ 
+4. Thus value of SUG is an indispensable part of taxable value, for Re-gasification service 
+supply by M/s Shell and liable to GST. 
+ 
+ 
+   (ATUL MEHTA)                      
+ 
+ 
+    (ARUN RICHARD)    
+     MEMBER (S)                  
+                                 MEMBER (C) 
+ 
+Place: Ahmedabad 
+Date: 11.05.2022

@@ -1,0 +1,158 @@
+1 
+ 
+GUJARAT AUTHORITY FOR ADVANCE RULING  
+GOODS AND SERVICES TAX 
+D/5, RAJYA KAR BHAVAN, ASHRAM ROAD, 
+AHMEDABAD – 380 009. 
+ 
+ 
+ADVANCE RULING NO. GUJ/GAAR/R/25/2021 
+(IN APPLICATION NO. Advance Ruling/SGST&CGST/2021/AR/11) 
+       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+             Date: 09.07.2021 
+ 
+Name 
+and 
+address 
+of 
+the 
+applicant 
+: 
+M/s. Adarsh Plant Protected Ltd.,  
+Plot No. 604, Phase IV, GIDC Estate , 
+Vithal Udyognagar, Anand-388121 
+GSTIN/ User Id of the applicant 
+: 
+24AABCA6650Q1ZE 
+Date of application 
+: 
+09.04.2021 
+Clause(s) of Section 97(2) of 
+CGST / GGST Act, 2017, under 
+which the question(s) raised. 
+: 
+a) Classification of any goods or service or 
+both 
+b) Applicability of notification issued under 
+the provisions of this Act 
+e) Determination of the liability to pay tax on 
+any goods or services or both 
+ 
+Date of Personal Hearing 
+: 
+30.06.2021 
+Present for the applicant 
+: 
+Shri Ketan Maheshwari, CFO and Shri Atish 
+Patel, MD 
+ 
+B R I E F   FA C T S 
+The applicant, M/s. Adarsh Plant Protected Ltd., has applied for Advance Ruling 
+for determining the HSN and applicable tax on ‘Agricultural manually hand operated Seed 
+dressing , Coating  and Treating drum’, submitting that these machine are used by the 
+farmer and is manually operated. It is submitted that subject machine is used in agriculture 
+to cover, coat and treating chemicals on seeds before sowing and it falls under HSN 8201 
+and attract Nil rate of GST.  It was submitted that other manufacturers of this kind of 
+machines of power operated are charging 5% GST under HS code 84371000.  
+ Personal Hearing 
+2. 
+Shri Ketan Maheshwari, CFO and Shri Atish Patel, MD appeared for on 30-6-21 
+and reiterated the contents of the application.  
+FINDINGS 
+3.    At the outset we would like to make it clear that the provisions of CGST Act, 2017 
+and GGST Act, 2017 are in pari materia and have the same provisions in like matter and 
+differ from each other only on a few specific provisions. Therefore, unless a mention is 
+particularly made to such dissimilar provisions, a reference to the CGST Act would also 
+mean reference to the corresponding similar provisions in the GGST Act. 
+ 
+
+
+2 
+ 
+4.  
+We have carefully considered all the submissions made by the applicant. In GST, 
+Goods are classified based on HSN. Classification is based on the Tariff entry.  
+5.   We refer to Tariff entry at HSN 8201, as cited by the applicant, which is reproduced as 
+follows: 
+8201 
+  HAND TOOLS, THE FOLLOWING: SPADES, SHOVELS, MATTOCKS, 
+PICKS, HOES, FORKS AND RAKES; AXES, BILL HOOKS AND SIMILAR 
+HEWING TOOLS; SECATEURS AND PRUNERS OF ANY KIND; 
+SCYTHES, SICKLES, HAY KNIVES, HEDGE SHEARS, TIMBER 
+WEDGES AND OTHER TOOLS OF A KIND USED IN AGRICULTURE, 
+HORTICULTURE OR FORESTRY. 
+ 
+5.1     Chapter 82 01 to 8205 includes tools which, apart from certain specified exceptions 
+( eg blades for machine saw), are used in the hand. As per HSN they are hand tools which 
+can be used independently in hand ( page XV-82-2).  As per HSN notes, these tools 
+almost always have a spring which forces the shafts apart from cutting, and a hook or 
+other fastening so that they can be easily opened or closed with one hand. In cutting they 
+are manipulated with one hand, and they have a very powerful action. The applicant 
+product is not hand tool rather it is machine used for seed dressing, coating and treating 
+the seed with chemicals. We find no merit to classify subject goods at HSN 8201. 
+6.        We refer to HSN 8436, reproduced as follows:  
+       8436         OTHER AGRICULTURAL, HORTICULTURAL, FORESTRY, POULTRY-KEEPING OR 
+BEE-KEEPING MACHINERY, INCLUDING GERMINATION PLANT FITTED WITH 
+MECHANICAL OR THERMAL EQUIPMENT; POULTRY INCUBATORS AND 
+BROODERS 
+     8436 10 00 -     Machinery for preparing animal feeding stuffs 
+                               Poultry-keeping machinery; poultry incubators and brooders : 
+     8436 21 00 -- Poultry incubators and brooders 
+     8436 29 00 – Other 
+     8436 80 - Other machinery: 
+    8436 80 10 --- Germination plant fitted with mechanical and thermal equipment 
+    8436 80 90 --- Other 
+ 
+6.1 
+As per HSN Notes [ PageNo. XVI-8436-1], the other agricultural machinery 
+includes seed dusting machines usually consisting of one or more hoppers feeding a 
+revolving drum in which the seeds are coated with insecticidal or fungicidal powders. 
+We find that this Chapter Heading is more appropriate for classifying the subject goods as 
+the function of subject goods is also similar wherein the said agricultural machinery 
+has a drum in which seeds are coated and treated with chemicals before sowing.   The 
+said Chapter heading makes no different treatment between manual and power driven 
+machines. On examination of HSN 8436, the subheading 843680 covers: ‘other 
+machinery’ and tariff item 84368090 covers ‘other’. We hold that the description of 
+subject goods fit into this Chapter Heading 8436, precisely subheading 843680 and further 
+precisely at Tariff item 84368090. 
+6.2 After reading the cited HSN notes as detailed at para 6.1, we find no reason to 
+
+
+3 
+ 
+examine HSN 8437 which covers MACHINES FOR CLEANING, SORTING OR 
+GRADING SEED, GRAIN OR DRIED LEGUMINOUS VEGETABLES; MACHINERY 
+USED IN THE MILLING INDUSTRY OR FOR THE WORKING OF CEREALS OR 
+DRIED LEGUMINOUS VEGETABLES, OTHER THAN FARM-TYPE MACHINERY.  
+We dismiss this HSN for subject goods. 
+6.4 We find the HSN notes are a guide and a persuasive tool to assist us in our 
+Classification and we have satisfied ourselves that the correct classification in subject 
+matter is HSN 8436. 
+7.  We note the subject HSN is reflected at entry 199 to Schedule II to the Notification No. 
+01/2017-CT [R] dated 28-6-17. 
+8.  
+We issue the Ruling: 
+ 
+ 
+ 
+ 
+ 
+R U L I N G 
+             “Seed dressing, coating and treating drum” machine is classified at HSN 
+84368090 tariff item and liable to GST at 12% [6% CGST+6% SGST]. 
+ 
+ 
+(SANJAY SAXENA)  
+ 
+                   (ARUN RICHARD)    
+   MEMBER (S)                 
+ 
+             (MEMBER (C)

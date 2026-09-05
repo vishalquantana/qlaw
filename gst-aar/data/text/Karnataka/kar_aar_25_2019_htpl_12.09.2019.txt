@@ -1,0 +1,630 @@
+THE AUTHORITY ON ADVANCE RULINGS
+IN KARNATAKA
+GOODS AND SERVICES TAX
+VANIJYA THERIGE KARYALAYA, KALIDASA ROAD
+GANDHINAGAR, BENGALURU - 560009
+
+Advance Ruling No. KAR ADRG 25/2019
+Date : 12-09-2019
+Present:
+
+1. Sri. Harish Dharnia,
+Additional Commissioner of Central Tax, .... Member (Central Tax)
+
+2. Dr. Ravi Prasad M.P.
+Joint Commissioner of Commercial Taxes . .. . Member (State Tax)
+
+M/s Hical Technologies Pvt. Ltd.,
+
+1 Name and address of the Sy.No.46 & 47, Electronic City,
+‘| applicant Phase 2, Hosur Road,
+Bangalore - 560100
+2. GSTIN or User ID 29AACCH7296L1ZU
+Date of filing of Form GST
+3. ARA-O1 14.03.2018
+4. Represented by Sri K.S. Kamalakar, Cost Accountant
+5 Jurisdictional Authority - The Commissioner of Central Tax,
+5 Centre Bangalore South Commissionerate.
+6 Jurisdictional Authority — The LGSTO-25, KHB Games Village,
+‘ State Koramangala, Bengaluru -560095
+Yes, discharged fee of Rs.5,000/-
+Whether the payment of fees under CGST Act & Rs.5,000/-
+Le discharged and if yes, the under _ KGST. Act. vide CIN
+amount and CIN SBIN18032900055241 dated
+12.03.2018
+
+ORDER UNDER SECTION 98(4) OF THE CENTRAL GOODS & SERVICES
+TAX ACT, 2017 AND UNDER 98(4) OF THE KARNATAKA GOODS &
+SERVICES TAX ACT, 2017
+
+1. M/s Hical Technologies Pvt. Ltd., (called as the ‘Applicant’
+hereinafter), Sy.No.46 & 47, Electronic City, Phase 2, Hosur Road,
+Bangalore 560100, having GSTIN number 29AACCH7296L1ZU, have filed
+an application for Advance Ruling under Section 97 of CGST Act 2017&
+KGST Act, 2017 read with Rule 104 of CGST Rules 2017 & KGST Rules
+2017, in form GST ARA-01 discharging the fee of Rs.5,000/- each under the
+CGST Act 2017 and the KGST Act 2017.
+
+Page 1 of 14
+
+
+
+2. The Applicant is a private limited company, registered under the
+Goods and Services Act, 2017. The applicant have sought advance ruling in
+
+respect of the following question:
+
+Whether the value of free of cost supplies by the principal is included
+in the value of supply by the job worker?
+
+3. The applicant furnishes some facts relevant to the stated activity:
+
+a. The applicant states that they are engaged in the supply of
+goods and services and are basically a job worker. They are
+proposing to undertake a job work activity for M/s Woodward
+India Private Limited (referred to as WIPL) based on the
+purchase orders. The job work involves assembly, integration
+and testing of converters.
+
+b. The applicant submits that WIPL is proposing to execute two
+types of purchase orders hereinafter referred to as “Type A”
+purchase order (PO already issued) and “Type B purchase order”
+(PO will be issued during the course of the year). Under Type A
+purchase order, all the components required for assembly and
+integration of converters will be imported and stocked by WIPL
+at its registered warehouse in Bangalore. These components will
+then be supplied to the applicant on free of cost basis for
+undertaking the job work activity under the cover of a job work
+challan.
+
+c. Further, under Type B purchase order, WIPL would import
+critical components (details of these critical components are
+attached) from their overseas entity, M/s Woodward, Germany
+upon payment of applicable customs duties. These components
+would be stocked by WIPL at its registered premises in
+Bangalore and supplied to the applicant on need basis on free of
+cost basis for undertaking the job work activity under the cover
+of a jobwork challan.
+
+d. The applicant states that the ownership of these critical
+components shall always rest with WIPL during the execution of
+the jobwork activity. WIPL would follow the required procedure
+of filing the intimation with the jurisdictional Commissionerate
+as prescribed under section 19 read with rule 45 of the Central
+Goods and Services Tax Act. 2017 (CGST Act).
+
+Hical Technologies Page 2 of 14
+
+
+e. The applicant would, in addition, procure remaining
+components (non-critical items) either locally or by imports
+which are necessary to complete the job work process. These
+non-critical items will be procured by the applicant in its own
+name.
+
+£ As per the covenants of purchase order, supply of critical
+components is the responsibility of WIPL and supply of ancillary
+/ non-critical components is the responsibility of the applicant.
+The term “consideration”, the applicant would be eligible for job
+charges which comprise of labour cost for undertaking job work
+process and cost of ancillary components added by the
+applicant during the execution of job work process.
+
+g. Post completion of job-work activity, the final product would be
+dispatched to WIPL under the cover of delivery challan. A tax
+invoice would be raised for the job work charges.
+
+be The applicant submitted that the term “job worker” is defined under
+Section 2(68) of the CGST Act, and is as under:
+
+In this Act, unless the context otherwise requires, -
+
+(28) ‘Job work’ means any treatment or process undertaken by a
+person on goods belonging to another registered person and the
+expression jobwork’ shall be construed accordingly;
+
+a. The term ‘jobwork’ has been analysed in plethora of cases under the
+erstwhile indirect tax regime, Central Excise Law, wherein Courts
+have held that §jobwork’ means processing or working upon raw
+materials supplied to the job worker and the definition of job work
+does not provide all raw materials for manufacture of final product
+must be supplied by the principal manufacturer. Addition or
+application of items by jobworker would not change the character of
+the transaction from jobwork arrangement. The applicant has placed
+reliance on the various judicial interpretations on the concept of
+jobwork as it was existing under the Central Excise Act:
+
+1. Prestige Engineering (India) Ltd. v. CCE, Meerut [1994 (73) ELT
+497 (SC)]
+
+2. CC & CCE, Bhopal v. Abhinav Chemicals [2012 (284) ELT 589
+(Tri. - Del)]
+Irologies Page 3 of 14
+
+
+
+b. The present arrangement qualifies as jobwork arrangement’ and the
+next important question for determination for which the applicant is
+before the authority is what should be the value on which the GST is
+payable by the applicant - whether or not the jobworker is required to
+add the value of critical components owned and supplied by the
+Principal on free of cost basis for levy of GST.
+
+c. In order to determine the value of supply of goods or services, for levy
+of GST, reference needs to be drawn to the provisions of Section 15(1)
+of the CGST Act which deals with valuation of taxable supply, the
+extract of which is as under:
+
+Section 15. Value of taxable supply —
+
+(1) The value of a supply of goods or services or both shall be the
+transaction value, which is the price actually paid or payable for
+the said supply of goods or services or both where the supplier
+and the recipient of the supply are not related and the price is the
+sole consideration for the supply.
+
+(2) The value of supply shall include -
+
+(a) any taxes, duties, cesses, fees and charges levied under any
+law for the time being in force other than this Act, the State
+Goods and Services Tax Act, the Union Territory Goods and
+Services Tax Act and the Goods and Services Tax
+(Compensation to States) Act, if charged separately by the
+supplier;
+
+(b) any amount that the supplier is liable to pay in relation to
+such supply but which has been incurred by the recipient of
+the supply and not included in the price actually paid or
+payable for the goods or services or both;
+
+(c) incidental expenses, including commission and packing,
+charged by the supplier to the recipient of a supply and any
+amount charged for anything done by the supplier in respect
+of the supply of goods or services or both at the time of, or
+before delivery of goods or supply of services;
+
+(d) interest or late fee or penalty for delayed payment of
+consideration for any supply; and
+
+Hical Technologies Page 4 of 14
+
+
+(e) subsidies directly linked to the price excluding subsidies
+provided by the Central Government and State Governments.
+
+d. From the perusal of the above provision, the applicant states, it is
+clear that the transaction value shall be deemed to be the value of
+supply when supply is made between unrelated person and price is
+the sole consideration. This provision defines the transaction value as
+the price actually paid or payable for the said supply of goods or
+services or both. As per section 15(2)(b) of the CGST Act, transaction
+value shall include the amount that the supplier is liable to pay in
+relation to such supply but has been incurred by the recipient and not
+included in the price actually paid or payable for such goods or
+services.
+
+e. The applicant submits, that in the present case, the applicant and
+WIPL being unrelated persons the value for levy of GST shall be the
+job charges which comprise of labour charges and the cost of non-
+critical components procured and supplied by the applicant during
+the execution of jobwork. The value of critical components which are
+owned and supplied by WIPL on free of cost basis should not be added
+to the value of supply by the applicant for the reasons enumerated as
+under:
+
+1. Material provided by WIPL was not liable to be procured by the
+applicant
+
+i. In the instant case, WIPL makes critical components
+available to the applicant for undertaking jobwork
+activity. Under the purchase order, these critical
+components are liable to be procured by WIPL only and
+not by the applicant. The applicant was not liable to
+procure such components. Therefore, it cannot be said
+that the amount incurred by WIPL for purchasing these
+critical components was an amount that the applicant
+was liable to incur in relation to undertaking the jobwork
+process.
+
+ii. Also, at this stage, it is relevant to draw a closer look at
+who is “liable to pay”, as referred under section 15(2)(b) of
+the CGST Act. Liable to pay is a “contractual term”. i.e., to
+become liable to pay, one has to enter into contract or be
+a part of contract in some capacity. Furthermore, there
+
+should be an express or implied onus on the one to be
+Page 5 of 14
+
+
+
+“liable to pay’. In express contract, if one person is
+specified to pay, then he is liable to pay, and if his liability
+has been paid by someone else, then the payment needs
+to be added to value under clause (b) above. However, in
+case by an express clause, it is inserted that “supplier” is
+not liable to pay, there will be no occasion to go into
+section 15(2)(b) whatsoever.
+
+iii. Accordingly, Section 15(2)(b) of the CGST Act, will not
+apply to the present fact situation as contractually the
+applicant was not liable to pay for the critical components
+imported and supplied by WIPL. Moreover, these critical
+components shall always remain the property of WIPL
+during the execution of jobwork. Accordingly, the amount
+incurred by WIPL for purchasing the components will not
+be added to the assessable value for payment of GST in
+the hands of the applicant.
+
+2. Goods supplied by WIPL to the applicant is non-monetary
+consideration.
+
+i. As discussed above, Section 15(1) of the CGST Act
+provides that the transaction value shall be the
+assessable value where supply is made between unrelated
+person and price is the sole consideration. In this case,
+WIPL and the applicant are not related. Hence it needs to
+be determined as to the fact of WIPL making goods
+available to the applicant ceases to be the sole
+consideration for supply or not.
+
+ii. In the instant case, price will not be a sole consideration
+for supply of the applicant, if the provision of goods by
+WIPL qualifies as an additional consideration (non-
+monetary) for such supply.
+
+iii. The meaning of “consideration” also becomes important;
+Section 2(31) of the CGST Act defines “consideration” to
+include any payment made or to be made whether in
+money or otherwise, in respect of, in response to or for the
+inducement of the supply. The definition being inclusive
+in nature, it becomes imperative to understand normal
+and natural meaning of the term “consideration”.
+
+Hical Technologies Page 6 of 14
+
+
+iv. Section 2(d) of the Indian Contract Act, 1872 defines the
+consideration as anything done or abstained from by the
+promise as the desire of the promisor. The definition is of
+wide amplitude and includes within its ambit, any
+detriment suffered by the promise or any gain accruing to
+promisor.
+
+v. In the case of Ku. Sonia Bhatia v. State of U.P. and
+others, AIR 1981 SC 1274, the Supreme Court has held
+that consideration means a reasonable equivalent for
+other valuable benefit passed on by the promisor to the
+promise or by the transferor to the transferee. In the light
+of the above, for something to qualify as consideration,
+the same should e dome for and at the desire of the
+supplier/ promisor.
+
+vi. In the present case, WIPL supplies goods to the applicant
+not at the desire of the applicant nor as a consideration
+for supply. WIPL supplies the goods to enable the
+applicant to complete the jobwork process. In case, WIPL
+does not provide the goods, the applicant will not be able
+to perform the jobwork activity. Hence, WIPL doesnot
+supply goods to the applicant as a consideration for
+jobwork process.
+
+vii. Here it is useful to refer to the decision of the Larger
+Bench of Tribunal in the case of Bhayana Builders Ltd. v.
+CST, 2013 (32) STR 49 (Tri-LB). The Tribunal was dealing
+with the question of inclusion of value of free of cost
+supplies in the value of works contract for payment of
+service tax. The tribunal observed that no part of goods
+given free of cost by the service receiver accrue to or is
+retained by the service provider. Hence, such free of cost
+supplies would not constitute a. non-monetary
+consideration flowing from the service receiver to the
+service provider. Further, the Hon’ble Supreme Court, in
+Commissioner of Service Tax v. Bhayana Builders (P) Ltd
+(Civil Appeal No.s 1335-1358 of 2015) dated February
+19th, 2018, has dismissed the appeal filed by the revenue
+against the judgement of the larger bench of Tribunal and
+this upholds the position of law on on-inclusion of free of
+
+Page 7 of 14
+
+
+
+cost supplies in the value of works contract for payment
+of service tax.
+
+viii. Further, in the matter of Hindustan Steel Works
+Construction Ltd. v. CCE, Raipur (2015) 37 STR 1022
+(Tri- Del), the issue before the Tribunal was whether the
+value of free supplies made by the recipient of commercial
+or industrial construction service required to be disclosed
+as part of gross consideration received for rendition of
+taxable construction service. The Principal Bench of
+Hon’ble Delhi Tribunal relying on the decision of Bhayana
+Builders Pvt Ltd has held that the same is not required to
+be added in the gross consideration for levy of service tax.
+
+ix. Relying on the decision of Bhayana Builder (supra),
+various Tribunals have taken similar views as issue no
+longer res-integra. Reference may be drawn to the
+following judicial precedents by various Tribunals:
+
+1. Ahmedabad Tribunal in Harsh Construction vs.
+Commissioner of Central Excise and Service Tax,
+Surat (2016) 42 STR 844 (Tri-Ahmd)
+
+2. Ahmedabad Tribunal in Toyota Construction Pvt
+Ltd vs. Commissioner of Central Excise and Service
+Tax, Daman (2016) 45 STR 470 (Tri-Ahmd)
+
+3. Mumbai Tribunal in Jaiswal Builders and
+Contractors vs. Commissioner of Central Excise,
+Nagpur (2016) 45 STR 440 (Tri-Mum)
+
+4. Mumbai Tribunal in Shapoorji Pallonji & Co. Ltd.
+vs. Commissioner of Central Excise, Nagpur (2017)
+49 STR 588 (Tri-Mum)
+
+5. Delhi Tribunal in Ninawat Construction Company
+vs. Commissioner of Central Excise, Jaipur (2017)
+52 STR 280 (Tri-Del)
+
+6. Delhi Tribunal in Commissioner of Central Excise,
+Bhopal vs. Sonali India (2014) STR 47 (Tri-Del)
+
+7. Delhi Tribunal in Teknomin Construction Limited
+vs. Commissioner of Central Excise and Service
+
+Tax, Jaipur- II (2017) 4 GSTL 65 (Tri-Del)
+
+Hical Technologies Page 8 of 14
+
+
+8. Chennai Tribunal in SV Engineering Constructions
+vs. Commissioner of Central Excise and Service
+Tax, Guntur (2016) 46 STR 589 (Tri-Chennai)
+
+3. Government intention is not to include such free of cost supplies
+in the valuation for levy of GST. It is relevant to draw reference
+to the valuation provision contained under the Draft Model GST
+Law released in the month of June 2016. Under the Model GST
+Law, there was a specific provision to include the value of free of
+cost supplies made by the recipient to the supplier whether
+directly or indirectly. However, in the subsequent Model GST
+Laws and the Final GST Act, the above section was amended.
+From the above, it is evident that with the change in the
+language of the provision contained under section 15(2)(b) of the
+CGST Act, the intention of the Government was to bring only
+those free of cost supplies within the ambit of valuation which
+are the responsibility of the supplier but incurred by the
+recipient and not to tax those free of cost supplies which are the
+responsibility of the recipient of goods.
+
+f. From the jurisprudence, it emerges that the provision of critical
+components by WIPL to the applicant for undertaking job work
+process is not an additional consideration flowing from WIPL to the
+applicant. Thus, the job charges which comprise of labour charges
+and cost of ancillary components (without adding the value of critical
+components provided by WIPL) shall be the assessable value for the
+applicant for payment of GST.
+
+5. The applicant has made further submissions, stating that —
+
+(1) the applicant is contemplating to enter into an agreement with WIPL
+for assembly, integration and testing of converters on jobwork basis.
+The present arrangement contemplates two models:
+
+(a) Model A — Under this model, all the components required for
+assembly will be imported and stocked by the Principal and
+supplied to the applicant on free of cost basis under the cover of
+jobwork challan.
+
+(b) Model B - Under this model, the critical components required for
+assembly work will be imported and stocked by the Principal
+
+and supplied to the applicant on free of cost basis under the
+
+frologies Page 9 of 14
+
+
+
+cover of jobwork challan. The non-critical components will be
+purchased and used by the jobworker.
+
+(2) The applicant has not produced any drafts of the agreements as they
+are yet to be finalized.
+
+(3) the risk and ownership of the components supplied by the Principal
+shall always rest with the Principal during the execution of jobwork
+activity and the final product emerging after job work is Wind Power
+Converter.
+
+6. Section 2(27) of the CGST Act defines a composite supply as a supply
+comprising of two or more supplies of goods or services which are naturally
+bundled and supplied with each other in the ordinary course of business,
+one of which is a principal supply. The items cannot be supplied separately.
+In case of jobwork, the applicant submits that they do integrate and
+assemble all critical components with their own materials in which labour is
+predominant supply and rest of the materials supplied with main activity of
+labour charges. Hence he is charging GST at 18% under Service Accounting
+Code 9988 — Manufacturing Services on physical inputs (goods) owned by
+others.
+
+if Further, the applicant has brought to the notice the Circular issued
+by the CBEC - Circular No.38/12/2018 dated 26 March, 2018, which has
+clarified various aspects relating to jobwork. The Circular at Para 5 - Scope/
+Ambit of Jobwork” has clarified that the jobworker in addition to the goods
+received from the Principal can use his own goods for providing services of
+jobwork. Further, at para 9.4, it has been clarified that the value of services
+would be determined in terms of section 15 of the CGST Act and would
+include service charges plus the value of goods supplied by the jobworker to
+the principal.
+
+From the above, it emerges that:
+
+(a) A jobworker can use non-critical components during the execution
+of the jobwork activity
+
+(b) The value of levy of CGST shall be the service charges plus the
+value of goods supplied by the jobworker
+
+Hical Technologies Page 10 of 14
+
+
+PERSONAL HEARING / PROCEEDINGS HELD ON 21.03.2018.
+
+8. Sri Kamalakar, Cost Accountant and duly authorised representative of
+the applicant appeared for personal hearing proceedings held on
+21.03.2018 & reiterated the facts narrated in their application. Further
+additional hearing was granted, at the request of the applicant, on
+03.04.2018 and the authorized representative of the applicant appeared and
+submitted copies of certain relevant documents.
+
+9. FINDINGS & DISCUSSION:
+
+eral We have considered the submissions made by the Applicant in their
+application for advance ruling as well as the submissions made by Sri
+Kamalakar, Cost Accountant and duly authorised representative of the
+applicant during the personal hearing. We have also considered the issues
+involved, on which advance ruling is sought by the applicant, and relevant
+facts.
+
+9.2 At the outset, we would like to state that the provisions of both the
+CGST Act and the KGST Act are the same except for certain provisions.
+Therefore, unless a mention is specifically made to such dissimilar
+provisions, a reference to the CGST Act would also mean a reference to the
+same provisions under the KGST Act.
+
+9.3 The Applicant seeks advance ruling in respect of the question
+mentioned at para 2 supra. The following questions emerge on
+examination of the transactions & contentions of the applicant.
+
+i. whether the work done by the applicant is a job work or a
+composite supply of service and goods?
+
+ii. What is the value of such supply?
+
+9.4 We draw attention to Section 2(68) of the CGST Act 2017, in relation
+to the first question, which defines “jobwork” and the same is as under:
+
+(68) “job work” means any treatment or process undertaken by a
+person on goods belonging to another registered person and the
+expression “job worker” shall be construed accordingly;
+
+In terms of the aforesaid definition any treatment or process done
+on goods belonging to another person is job work and in the instant
+
+Hical Technologies Page 11 of 14
+
+
+
+case the applicant is not just doing something on the critical
+components. The contract is to supply a manufactured product,
+some of the parts are supplied free of cost by the recipient of such
+supply and some other parts are to be procured by the applicant.
+Both these components are to be assembled together using the
+labour of the applicant to form the final product. No treatment or
+process is done on the components supplied by the applicant and in
+fact they are used as a part in the manufacture of a different
+component.
+
+(a) The activity done by the applicant is of a composite supply of goods
+and services with the manufacturing services of assembling,
+integrating and testing of the final product being the principal
+supply. The supply of this service involves the usage of the
+materials provided by the WIPL in the form of critical components
+and without this there cannot be any final supply. There is also
+another supply of non-critical components which is also involved in
+the provision of this manufacturing service. But this is not the
+principal supply as this is naturally bundled with the supply of
+manufacturing services. Hence the supply of the applicant can be
+classified as a composite supply of manufacturing services with two
+supplies - one related to the supply of services of assembly,
+integration and testing and the other related to the supply of non-
+critical components, for a single price, with the supply of services
+being the principal supply.
+
+(b) The pronouncements of various Tribunals and judgements are not
+applicable to the present case, as they were issued under the earlier
+Service Tax Laws where the supply of goods were not under the
+purview of the Service Tax Act and was governed by the Value
+Added Tax Act as works contract.
+
+(c) The contract is for the assembly, integration and testing of the Wind
+Power Converter and the critical components are provided by the
+WIPL. The same are accreted to the service which is a
+manufacturing service and this amounts to job work. During this
+process, the components being non-critical components procured by
+the applicant are also incorporated in the manufacturing service
+provided by the applicant and hence accreted to the service. In no
+stretch of imagination, this would become the principal supply as it
+is only in relation to the principal supply of manufacturing service,
+this supply of goods are linked.
+
+Hical Technologies Page 12 of 14
+
+
+(d) Hence, in view of the above discussion, the nature of supply done
+by the applicant is one composite supply consisting of two supplies
+i.e one relating to the manufacturing service on the physical inputs
+(goods) owned by others (Service Accounting Code 9988) and the
+other relating to supply of non-critical components, with the former
+being the principal supply. Hence the entire transaction is to be
+treated as the supply of manufacturing service on the physical
+inputs (goods) owned by others (Service Accounting Code 9988) and
+is taxable at the rate applicable to the same at 18%. The value of
+the goods provided by WIPL would not form the part of the value of
+the supply and must be excluded while valuing the supply.
+
+(e) But in case, the prospective contract is of a supply of finished
+goods, for a value inclusive of the components supplied by WIPL,
+then the supply would be a composite supply of finished
+components, with testing and other services being non-principal
+ancillary supplies. This is not considered as the applicant stated
+that there would not be any risk on the critical components on him.
+
+10. In view of the foregoing, we pass the following
+RULING
+
+As per the submissions made regarding the covenants of the
+contract by the applicant,
+
+1. The nature of supply done by the applicant is one composite
+supply consisting of two supplies - one relating to the
+manufacturing service on the physical inputs (goods) owned by
+others (Service Accounting Code 9988) and the other relating to
+supply of non-critical components, with the former being the
+principal supply. Hence the entire transaction is to be treated as
+the supply of manufacturing service on the physical inputs
+(goods) owned by others (Service Accounting Code 9988) and is
+taxable at the rate applicable to the same at 18%; and
+
+Hical Technologies Page 13 of 14
+
+
+
+2. The value of the goods provided by WIPL would not form the part of
+the value of the supply and must be excluded while valuing the
+
+supply.
+(Harish Dharnia) (Dr.Ravi Prasad.M.P.)
+Member Member
+
+Place : Bengaluru,
+Date : 12-09-2019
+TO;
+
+The Applicant
+Copy to:
+
+The Principal Chief Commissioner of Central Tax, Bangalore Zone,
+Karnataka.
+
+The Commissioner of Commercial Taxes, Karnataka, Bengaluru.
+
+The Commissioner of Central Tax, Bangalore South Commissionerate,
+Bengaluru.
+
+The Asst. Commissioner, LGSTO-25, KHB Games Village, Koramangala,
+Bengaluru -560095
+
+Hical Technologies Page 14 of 14

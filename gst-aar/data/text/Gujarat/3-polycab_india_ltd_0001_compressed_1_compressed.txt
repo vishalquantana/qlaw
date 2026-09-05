@@ -1,0 +1,1138 @@
+GUJARAT AUTHORITY FOR ADVANCE RULING _ |
+GOODS AND SERVICES TAX Pysrion
+D/5, RAJYA KAR BHAVAN, ASHRAM ROAD, SSgttaRKeT |
+AHMEDABAD — 380 009. |
+
+ADVANCE RULING NO. GUJ/GAAR/R/2026/17
+(IN APPLICATION NO. Advance Ruling/SGS1T&CGS1/2025/AR/44
+
+Date:08/05/2026
+
+Name and address of the]: | M/s. Polycab India Limited, 335,336,337,
+
+applicant 339.353, 354, 355; '67-69;. 70/171, 75277;
+102, 103, 104/1-2, 105, 106, 116/2, Nurpura,
+Vadodara Halol Road, Halol, Panchmahals,
+Gujarat — 389350.
+
+GSTIN of the applicant : | 24AAACP6474E1Z)
+
+Jurisdiction Office : | Center Commissioncrate — - Vadodara-ll,
+(Vadodara Zone),Division-I Halol ,Range-
+Ill.
+
+Date of application |: iy 03.11.2025 :
+
+Clause(s) of Section O72) | ¢ | (d)
+of CGST/GGST Act,
+
+2017, under which the
+question(s) raised. | =a ;
+Date of Personal Hearing |: | 08.04.2026
+
+Present for the applicant |: | Ms. Pr iyanka Kalwani & Ms. Aanchal
+Trivedi. And
+Mahesh Panwar (Superintendent, Range-III
+L _____|_| Division 1, CGST, Vadodara-Il). _
+
+Brief facts:
+
+M/s. Polycab India Limited, 335,336,337, 339,353, 354, 355, 67-69. 70/1,71,
+75-77, 102, 103, 104/1-2, 105, 106, 116/2, Nurpura, Vadodara Halol Road, Halol,
+
+Panchmahals, Gujarat — 389350 |for short — ‘applicant’|, is registered under GST
+and their GSTIN is 24AAACP6474E1ZJ.
+
+2. The applicant is engaged in the manufacture and supply of Extra High Voltage
+(EHV), Medium Voltage (MV), Low Voltage (IV) power cables, Optical fibre
+cables and FMEG conductors, cable solutions, telecom solutions, speciality oils,
+lubricants ete. and is having GSTIN No.24AAACP6474E1ZJ. They have
+manufacturing facilities in Gujarat, Maharashtra, Karnataka, Uttarakhand, »
+
+FO
+
+Nadu and Daman and Diu. The applicant is currently manufacturing E; HV, a Ss at NZ
+
+Page Pof2t-
+
+
+
+the Halol Plant in Gujarat, wherein continuous catenary vulcanization (CCV)
+
+process is being used for insulation of such EHV cables.
+
+By The applicant is in the process of setting up of a new manufacturing plant in
+Waghodia, Vadodara for making EHV cables using the Vertical Continous
+Vulcanization (VCV) process for making EHV cables. The process of insulation of
+cable cores in CCV lines happens in horizontal heating tubes. In contrast, in VCV
+lines, the process of insulation of cable cores is done in vertical tubes. ‘The
+manufacturing line is equipped with pulling capstans, extrusion crosshead and
+continuous vulcanization tubes (CV tubes) which are laid vertically in the plant. The
+VCV process is an advanced manufacturing technique used to produce EHV cables
+with superior reliability and performance. This method is defined by its triple-layer
+co-extrusion system, which applies three critical layers onto a conductor
+simultaneously in a meticulously controlled, clean environment and all 3 layers are
+extruded simultancously in one step to prevent contamination and ensure perfect
+
+bonding.
+
+e Layer 1: Conductor Shield (Inner Semi-Conducting Layer): ‘This is the first
+
+layer applied directly to the conductor and it’s primary function is to
+normalize the electric field, mitigating stress points and ensuring a smooth,
+uniform field distribution around the conductor.
+
+e Layer 2: XLPE Insulation: Following the conductor shield, this layer is the
+
+primary insulator, extruded from cross-linked polyethylene (XLPE). Chosen
+for its high dielectric strength and thermal resistance, XLPE provides the
+robust insulation necessary to withstand the immense electrical stresses
+inherent in EHV applications.
+
+e Layer 3: Insulation Shield (Outer Semi-Conducting Layer): The final layer is
+
+applied over the XLPE insulation. It ensures a uniform clectric field across
+
+insulation and establishes a crucial, bonded interface between the XLPE and
+
+the metallic screen.
+
+4. The vertical orientation of the CV tube is necessary as it ensures a straight,
+tensioned path with minimal mechanical stress on the conductor and the isolation
+layers. This straight path is crucial as it minimizes any deformation of the cable-as
+
+it moves through the process, which in turn minimizes eccentricity-the off center
+
+
+
+placement of the conductor within the insulation. The uniform pull and concentricity
+guaranteed by gravity ensure that the insulation is applied with a consistent, uniform
+thickness all around the conductor, which is critical for the long-term electrical
+performance and reliability of the cable. The VCV manufacturing line is required to
+be supported by concrete structure in square form on all sides, has a height of 163
+meters out of which approximately 146 meters is from the ground and 17 meters
+underground. The VCV tower comprises 17 floors with each floor having a height
+of between 6-12 meters. Height of each floor varies as per the requirements of the
+manufacturing line. It also consists of passenger lifts and material handling lifis
+installed therein, a staircase with emergency exit and fire hydrants on each floor.
+The VCV tower will be used exclusively for the purpose of manufacturing EIV
+cables. The capstan floor level is at 131.5 meters from the ground floor, and the
+extrusion floor level is at a height of 124 meters from the ground floor. The pressure
+
+turn pulley is at the basement level of the VCV tower which is 17 meters
+
+underground.
+
+5, ‘The process inside the VCV tower undertaken and equipment on each floor is
+
+summarized below for reference:
+
+| Sr.No. | E quipment Floor Function
+No. | _ - _—_s
+1 Pressure turn | Basement | It diverts the cable core from basement to 7" |
+pulley : floor. ia
+2 Take-up Ground | The take-up unit is the final component in the
+floor production process. Its function is to collect
+
+the finished insulated cable core and wind it
+precisely onto large drums or reels.
+
+{3 Payoff ‘Ground | Its sole purpose it to unwind the conductor
+floor wire from a large supply drum and feed it into
+
+L ; a the line in a controlled and precise manner. |
+4 Dancer Ground | ‘The dancer is a critical component for tension
+floor control and speed regulation and is a
+
+moveable pulley or roller system that helps to
+maintain consistent tension on the cable as it
+moves from one section of the line to another.
+
+5 Accumulator | First The accumulator is used to keep the line
+floor continuously running during payoff change
+___| time by accumulating sufficient conductor.
+6 End seal Fifth ‘This is the end of the vulcanization nite ¢ and. a
+floor maintains water pressure inside the coo
+— { tube.
+7 Vertical Sixth The vertical caterpillar is used to: “pull the
+caterpillar | floor _| cable core from end seal to 7" floor
+
+Page 3 of 21
+
+
+8 Turn pulley — Seventh | It is used to divert the cable core from the 7"
+floor floor to the ground floor.
+
+9 CV “Heating ‘Tenth It’s primary function is to cross link or cure
+
+tube floor the extruded XLPE insulation on the cable.
+
+This process transforms the polyethylene
+from a thermoplastic to a thermoset material,
+giving it the crucial properties required for
+high-voltage cables.
+10 Cooling tube | 10" to The cooling ‘tube is used to cool the cured
+basement | cable with the help of water/nitrogen.
+
+ial Extruder 15" floor | This floor houses the 3 separate extruders in
+
+floor a single specialized triple crosshead. This |
+setup allows conductor shield, XLPE
+insulation and insulated shield to be extruded
+onto the conductor in one seamless, high
+precision manner. In essence, there are 3
+extruders and the X head to insulate 3 layers |
+of semi-conductor and XLPE over the bare |
+tapped conductor.
+
+12 Capstan 16" floor | The capstan is used to pull the conductor
+from the accumulator upto X head. It also
+maintains the core in the center of the tube
+
+_ ___| between the exit caterpillar and the capstan.
+
+13 Gravity Feed | 16" and | This room is used to provide the XLPE as
+
+Room 17 floor | well as semi-conducting compound through |
+steel pipe, directly from the box in the
+extruders by gravity force in closed and super
+clean environment. |
+
+6. The weight of the significantly heavy components to be placed on each floor
+
+to run the VCV line is enumerated below:
+
+Sr.No. | Item | Description of Machinery Floor No. | Total weight
+_ Quantity | (kgs.)
+t | 2 Pressurized turn pulley _ —___| Basement _ 53000
+2 |2  __|SS8 Tank 70 KL i Basement | 20000
+3 1 | Chiller and pumps Service 1500
+ae ih = ; floor |
+4 2 Guide roller for conductor and | Ground 1000
+Liss cable a _ |
+|5 2 Accumulator - [* {102000
+6  |2 | Tubeg guide roller | 200,
+v Zz Guide roller for conductor and | Ist 100
+| ible ral
+8 2 | Tube guide roller _.|.n8
+
+9 2 Guide roller for conductor and | 2"
+cable
+
+
+
+10 2 Tube guide roller 3 200
+ii «(S Guide roller for conductor and | 3% 100
+cable
+12 2 Tube guide roller 4n 200
+is ls Guide roller for conductor and | 4" 100
+cable Bie
+14 —_ End seal se 2800
+15 2 Tube guide roller a 200 aa
+16 2 Guide roller for conductor and | 5" 100
+= a cable = = =
+en: a Belt caterpillar (BCA42) 6" 11600
+18 2 Topography Scanner 6 900 -
+19 2 Guide roller for conductor and | 6" 100
+a cable
+20 (2 Turn pulley (TPU 4000) 7a 5300.
+21 2 Guide roller for conductor hb 50 7
+22 2 Tube guide roller Chis 200
+23 2 Guide roller for conductor Bh 50
+24 [2 Tube guide roller gih (200,
+25 2 _| Guide roller for conductor | 9" 50
+26 om Tube guide roller gih 200,
+Qi |2 Nitrogen Circulation System 10" 3160 :
+28 2 Guide roller for conductor 10" 50
+29. (|2 Tube guide roller | 1ot 200
+30 1 Chiller and pumps {10% 2000,
+Br {2 ___| Guide roller for conductor ae 50
+32 2 Tube guide roller 11% 20000
+33 2° Guide roller for conductor 12 50 :
+34. [2 | Tube guide roller 120 200
+B52 Guide roller for conductor 13" 50 _
+36 12 | Tube guide roller _ {14% 200
+37 «12 Belt caterpillar (BCA30) 14 10000
+38 |2—S—”*~é“‘«‘*U@]i]SS 148 640.
+39 l Chiller and pumps 15" 2000
+40 2._| 80mm Extruder 1s" | 3200 |
+41 {2 100 mm Extruder 158 5400,
+42 2. 200 mm Extruder is* 23000
+43/2 Splice box 35% 6600
+44 on Electrical panel formachine 15/4600
+45 2 Conductor preheater is" 100
+46 {2 Extruder cooling system 15" 1000 —
+47 2 Tube heating system 1s" | 100
+48/2 IWT Unit i5" 1540
+Ci ae ‘Tripple crosshead 1s" | 2400
+50 2 Crosshead handling table 15" 940
+S51 | 2 Wheel Capston HSC 4000 16" 26000
+52 4 Polymer discharge isolator lot 8000 ©
+53 2 Cleanroom | 16" | 3000s
+54 2 Semicon drying system Ty LST Ss
+55/2 {Cleanroom a 3000
+56 (2 Curing tube “Lo 14" | 10600
+
+Page 5 of 21
+
+
+
+6
+
+Cooling tube
+
+| 22782 |
+
+57 2
+basement
+
+7. The total load at different floors will be transferred through tower with RCC
+
+shear wall to the VCV tower footings, which is the foundation for the VCV tower.
+The dimension of the tower is 25 by 25 meters. Further, when the machine runs there
+will be a dynamic load on each floor which will be borne by the floor and
+subsequently the footing. Hence, VCV tower has to be constructed in a manner so
+as to withstand such heavy loads along with the self-load of the tower, wind load
+
+and seismic load.
+
+8. For construction of the VCV tower, a Purchase order dated 29.05.2024 was
+issued to Shapoorji Pallonji and Company private limited (the supplier). Total
+expense is approximately 140.41 crores on which CGST and SGST will be
+discharged at approximately 12.63 crores under each head. In this case, the supplicr
+is raising invoices by adopting SAC 995413 with the description “General
+construction services of industrial buildings” and discharging tax at the rate of 18%.
+The applicant is of the view that the input services received by them for the
+construction of the concrete structure are used for structural and foundational
+support of the VCV line, and accordingly, the ITC on such input services is eligible
+
+to them in terms of Section 16 and Section 17 of the CGST Act, 2017.
+
+9. The applicant has asked the following question for Advance Ruling:
+
+Whether the applicant is eligible to avail ITC on inputs and input services used for
+construction of concrete tower to support and erect the VCV lines at the factory of
+the applicant, for manufacture of EHV cables, in terms of Section 17(5)(c) and (d)
+of the CGST Act, 2017?
+
+10. Applicant’s statement containing interpretation of law is as under:
+
+e ‘The applicant’s question is covered under Section 97(2)(d) of the CGST Act, 2017.
+
+e ‘The inputs and input services procured by the applicant are in the course or furtherance of
+business of the applicant in terms of Section 16 of the CGST Act.
+
+e As per Scction 2(59) of the CGST Act, ‘input’ means any goods other than capital goods
+used or intended to be used by a supplier in the course or furtherance of business.
+
+e As per Section 2(60) of the CGST Act, the expression ‘input service’ is defined as any
+service used or intended to be used by a supplier in the course of furtherance of business.
+
+e Section 16 of the CGST Act states that every registered person shall be entitled t°take SS,
+
+fa
+
+credit of input tax charged on any supply of goods or services or both by hing
+[=|
+
+4\3\
+Page.6 of 21
+
+=
+
+GST, Ai
+
+
+used or intended to be used in the course or furtherance of his business and said amount
+will be credited to the electronic ledger of such person.
+
+The VCV lines are to be used for manufacturing LHV cables which will be supplicd by the
+Applicant to its customers. ‘Thus, the inputs and input services procured by the applicant
+for construction of concrete tower to support and erect the VCV lines at the factory of the
+applicant is in the course or furtherance of business of the applicant.
+
+Thus applicant is eligible to avail the ITC on inputs and input services received for
+construction of concrete tower to support and erect the VCV lines at the factory of the
+applicant in terms of Section 16 of the CGST Act.
+
+Section 17(5) of the CGST Act stipulates the situation wherein ITC shall not be available,
+notwithstanding anything contained in Sections 16(1) and 18(1) of the said Act. In terms
+of Section 17(5)(c) and 17(5)(d) of the CGST Act, ITC cannot be availed in respect of the
+
+following:
+
+“17. Apportionment of credit and blocked credits.
+
+(5) Notwithstanding anything contained in sub-section (1) of section 16 and subsection (1)
+of section 18, input tax credit shall not be available in respect of the following namely:
+
+(c) works contract services when supplied for construction of an immovable propert 'y (other
+than plant and machinery) except where it is an input service for further supply of works
+contract service.
+
+(d) goods or services or both received by a taxable person for construction ofan immovable
+property (other than plant and machinery) on his own account including when such goods
+or services or both are used in the course or furtherance of his business.”
+
+As per above provision, ITC is not restricted where the supply involves construction or
+works contract services pertaining to plant and machinery.
+‘The explanation to Section 17 of the CGST Act provides the definition of the expression
+
+>
+
+“plant and machinery” as under:
+
+“The term “plant and machinery” for the purposes of interpretation of the said provision is
+as under:
+
+“ kor the purpose of this Chapter and Chapter V1, the expression ‘plant and machinery’
+means apparatus, equipment and machinery fixed to earth by foundation or structural
+support that are used for making outward supply of goods or services or both and includes
+such foundation and structural supports but excludes-
+
+(land, building or any other civil structures;
+
+(ii) telecommunication towers; and
+
+(iti) pipelines laid outside the factory premises;
+
+As per the Collins dictionary,(i) ‘equipment’ as a noun is defined as whatever a person,
+group or thing is equipped with, the special things needed for some purpose, supplics,
+furnishings, apparatus etc., goods used in providing service esp. in transportation as the
+rolling stock of a railroad. (ii) ‘apparatus’ as a noun is defined as a collection of instruments,
+
+machines, tools, parts or other equipment used for a particular purpose.
+
+As per Merriam Webstar Dictionary, (i) “equipment” is defined as the sct of articles or
+
+physical resources serving to equip a person or thing such as the implements used in an
+
+Page 7 of 21
+
+
+operation or activity. (i1) ‘Apparatus’ is defined as a set of materials or equipment designed
+for a particular use.
+As per Macmillan dictionary, ‘equipment’ is defined as the tools, machines, or other things
+that you need for a particular job or activity.
+Webstar’s Encyclopaedic Unabridged Dictionary of English language defines ‘apparatus’
+as:
+a. A group or aggregate of instruments, machinery, tools, materials ctc. having a particular
+function or intended for a specific use.
+b. Any complex instrument or machine for a particular purpose.
+c. Any system or systematic organization of activities, functions, processes cte. directed
+towards a specific goal.
+
+The Concise Oxford Dictionary defines the terms: (i) ‘machine’ as an apparatus using or
+applying mechanical power and having several parts. each with a definite function and
+together performing a particular task. Any device that transmits a force or directs its
+application(ii) ‘machinery’ is machines collectively or components of machinery.
+
+Reliance is placed on the decision of LC.B.(P) Ltd. Vs. Collector of Central Excise,
+Baroda, 1997 (95) ELT 239 (Tribunal), wherein the term ‘apparatus’ was defined.
+Reliance is also placed on the case of Siemens India Itd. Vs. Commissioner of Income
+Tax [1996]217 ITR622 (Bom), wherein reference was made to the common parlance test
+and functional test as applied in the Hon'ble Apex Court’s judgement in the case of
+Scientific Engineering House Private Limited vs. Commissioner of Income Tax,
+Andhra Pradesh 1986 (1) SCC (11) while deciding whether a particular thing was plant
+or not.
+
+Reliance is also placed on the decision of Inland Revenue Commissioner ys. Barclay,
+Curle & Co. Ltd. [1970] 76 ITR 62 (ML), wherein it was held that a dry dock, since it
+fulfilled the functions of a plant, must be held as a plant.
+
+Reliance is also placed on the case of Ambica Wood Works ys. The State of Gujarat
+1979 43 STC 338 (Guj.) which analysed the scope of machinery.
+
+Relying on the definitions of the term ‘apparatus’, it can be said that the VCV lines which
+are to be set up for manufacturing EHV cables will qualify as ‘apparatus’ since the system
+includes setting up of a collection of instruments, tools, parts or other equipment used for
+a particular well-defined purpose.
+
+It can also be said to be ‘machinery’ as the complete VCV line is a combination of various
+things/components and the harmonious working of all such components results in the
+desired end of manufacturing EHV cables.
+
+The applicant has submitted that tests such as common parlance test, functional test,
+durability test and close nexus test are required to be conducted to determine whether the
+particular product qualifies as plant and machinery.
+
+In order to qualify as plant and machinery, in terms of Explanation to Section 17 of the
+
+CGST Act, two major requirements need to be satisfied:
+
+Page 8 of 21
+
+
+It is an ‘apparatus, equipment or machinery fixed to earth by foundation or structural
+support and
+It is used for making an outward supply of goods or services or both.
+Relying upon the definitions of the term ‘apparatus’, it can be said that VCV lines which
+are to be set up for manufacturing EHV cables will qualify as ‘apparatus’ since the system
+includes setting up of a collection of instruments, tools, parts or other equipment used for
+a particular well defined purpose.
+It can also be said to be machinery as the complete VCV line is a combination of various
+things/components and the harmonious working of all such components results in the
+desired end of manufacturing EHV cables.
+Further, (i) in common parlance test: the complete VCV line can be understood as
+‘apparatus’ or ‘equipment’ (ii) in functional test: the VCV line has a well defined function
+to manufacture EHV cables. (iii) in durability test: the VCV line is expected to last for
+several years and hence it also satisfies this test. (iv) in close nexus test: the VCV linc has
+a close nexus with the manufacturing of EHV cables in as much as having VCV line is a
+pre-requisite for manufacture of EHV cables and without such VCV line, the applicant will
+not be able to manufacture their end products viz. EHV cables.
+In present case, the applicant will provide the outward supply of EHV cables manufactured
+using the VCV lines, thus the second condition stands fulfilled as well. There fore, the VCV
+lines qualify as ‘plant and machinery’ in terms of explanation to Section 17 of the CGST
+Act.
+VCV line comprised of pulling capstans, extrusion cross head and CV tubes laid vertically
+is a manufacturing line for making EHV cables. It is a triple layer co extrusion system
+which applies three critical layers into conductors simultaneously in a meticulously
+controlled and clean environment. The triple layer extrusion process in a VCV line is a
+method for manufacturing high-voltage cables where the inner semiconductor, XLPE.
+insulation and outer semiconductor layers are applied simultancously in a single,
+continuous operation.
+‘The vertical orientation of the CV tube is necessary as it ensures a straight, tensioned path
+with minimal mechanical stress on the conductor and the insulation layers. This straight
+path is crucial as it minimizes any deformation of the cable as it moves through the process,
+which in turn minimizes eccentricity —the off center placement of the conductor within the
+insulation.
+‘The machinery inside the VCV line is at a height of 146 meters from ground level and 17
+meters underground and is in the nature of a system of various components functioning
+together connected through pipelines, ducts, ete. and functions as a manufacturing line for
+EHV cables. Therefore, the VCV lines qualify as ‘plant and machinery’ in terms of
+
+[explanation to Chapter V of the CGST Act.
+p Frans
+‘The construction of concrete RCC shear wall and concrete foundation are for foundation ‘
+
+and structural support for VCV lines, which are plant and machinery in: Acrms of
+
+Explanation to Section 17 of the CGST Act.
+
+Page 9 Of 21.)
+
+
+
+1U
+
+e Inorder to crect the VCV line in a vertical orientation at a height of 146 metres from ground
+level and 17 meters underground, the machinery has to be supported by concrete RCC
+shear wall and concrete foundation and the concrete structure in the form of VCV tower
+serves as a critical foundation and support system for the entire cable manufacturing
+process. The conerete structure provides a stable base for the tower components, ensuring
+that the entire system remains steady during cable production. It supports the weight of
+various equipments, including the extruder, crosshead, capstan and take up stand. The
+conerete structure absorbs vibrations, minimizing their effects on the cable manufacturing
+process. Furthermore, the proper alignment of the tower components is crucial for
+consistent cable insulation. The concrete foundation ensures accurate positioning of the
+extruder, crosshead and other clements. The concrete structure also defines the cable
+pathway from the pay-off stand to the take up stand. Thus, the conerete structure ina VCV
+tower plays a fundamental role in maintaining stability, precision and overall efficiency
+throughout the manufacturing process of insulated cables.
+
+e The VCV tower is being constructed for the purpose of providing support to the VCV lines.
+It will help in connecting various equipment of the VCV line together and hold them in
+vertical position at an elevated height so that the VCV line is able to perform the desired
+function of manufacturing insulated EHV cables.
+
+e Reliance is placed on the recent ruling issued by the Appellate Authority for Advance
+Ruling (AAAR), Gujarat in the case of In Re: KEI Industries Limited reported at 2025-
+VIL-37-AAAR wherein the AAAR allowed the credit of inputs and input services used
+for the construction of a concrete tower which acts as a foundation and structural support
+for VCV manufacturing line as eligible to the appellant. The applicant has submitted that
+the ruling of the AAAR is squarely applicable in this case.
+
+e Reliance is placed on the decision in the matter of (i) the ruling passed by the AAAR,
+‘Tamilnadu In Re: M/s. Shibaura Machine India Pyt.ltd. 2025 (9_) TMI 731 wherein
+the Appellate Authority allowed proportionate ITC in respect of the sccondary steel
+structural support that is relatable exclusively to the overhead crane movement and LIVAC
+machine.
+
+e Reliance is placed on the decision in the case of Sirpur Paper Mills Ltd. [1998 (97) ELT
+3 (SC) wherein it was held that plant and machinery are capable of being dismantled and
+sold without being destroyed and are only embedded to the earth because of operational
+efficiency, it is not immovable property. Applying this ratio, the ITC on inputs and input
+services procured for construction of conerete tower for erection and support of VCV lines
+is cligible to the applicant.
+
+e Reliance is also placed on the Supreme Court of Canada’s decision in the case of British
+Columbia Products Ltd. V Minister of National Revenuel971 CanlI.11156 (SCC)
+which held that chemical recovery units and tanks are structures, not buildings.
+
+e The aforesaid multi-storied VCV tower is constructed only for the purpose of providings...
+
+structural support to the VCV manufacturing line, without which such VCV line-cannot
+
+Page 10 of 21
+
+
+
+11
+
+operate smoothly and therefore, the said VCV tower will get covered under the definition
+of ‘plant and machinery’ in terms of Explanation to Chapter V of the CGST Act.
+As per the definition of ‘plant and machinery’ under Explanation V of the CGST Act, it
+specifically excludes land, building or any civil structure; telecommunication towers and
+pipelines laid outside the factory from the scope of plant and machinery.
+The term ‘civil structures’ appearing in the exclusion clause of the definition of ‘plant and
+machinery’ is not defined under the CGST Act.
+As per P. Ramanatha Aiyar’s Advanced Law Lexicon, ‘Structure’ is defined to be that
+which is built or constructed, an edifice or a building of any kind in the wildest sense, any
+production or piece of work artificially built up or composed of parts and joined together
+in some definite manner. The word building or structure is not defined in the pre-emption
+Act but it may be stated that every building is a structure though every structure is not a
+building and the word structure can be applied to a wall or a shed or any other unsubstantial
+erection for which the word building cannot be used (AIR 1924 Lah 172). ‘Structure’ by
+itself may not be a building but it may be analogous to a building, outhouse, shed, hut or
+stable. (Municipal Corporation of Greater Bombay vs. Indian Oil Corporation Ltd., AIR
+1991 SC 686).
+Black’s Law Dictionary defines ‘structure’ as a ‘framework or construction with elements
+identifiable giving stability and form and able to resist strains and stresses.
+A civil structure will cover only that property in which a business is carried on, and not that
+property with which such business is carried on. In the instant case, the VCV tower will
+not be constructed for housing the VCV line but will serve as a support for operating and
+maintaining the VCV lines and holding it in position.
+‘Thus, the concrete RCC shear wall and conerete foundation to install and set up the VCV
+lines at a height of 146 meters from ground level and 17 meters underground are not falling
+under the scope of the term ‘civil structure’, as such concrete RCC shear wall and
+foundation are for structural and functional support of plant and machinery viz. VCV lines
+in terms of Explanation to Chapter V of the CGST Act.
+In the case of The Municipal Corporation of Great Bombay and others ys. the Indian
+Oil Corporation Ltd. AIR 1991 SC 686, the Hon’ble Apex Court observed that ‘structure’
+must be entity in itself, although not necessarily a building in itself, adopted to the
+particular purpose it serves. In it’s ordinary sense, a structure is something which is
+constructed by way of being built as is a building. But the method of construction is not
+conclusive. Structure by itself may not be a building but it may be analogous to a building,
+outhouse, shed, hut or a stable.
+The applicant submits that placing reliance on the above decision, wherein the meaning of
+‘structure’ was analysed, even if a view is taken that the multi-storied VCV tower will
+qualify as a structure which will be built and constructed, it will not alter the fact that. such —
+
+structure of multi-storied tower is being built only for supporting the VCV lines: a
+
+such a structure will get covered as a structural support under the definition of plant and
+
+. q
+machinery. p
+
+~
+
+Page 11 of 21 a
+
+
+
+e Reliance has also been placed on CBIC’s circular No.219/13/2024-GST dated
+26.06.2024 wherein it is mentioned that ducts and manholes are covered under the
+definition of ‘plant and machinery’ as they are used as part of the OFC network for making
+outward supply of transmission of telecommunication signals from one point to another
+and are neither in the nature of land, building or civil structures nor in the nature of
+telecommunication towers or pipelines outside the factory premises.
+
+e The applicant, placing reliance on the above circular submits that an inference can be drawn
+that since the VCV concrete tower is essential structure for holding the VCV line vertically,
+it can be said that it is an essential structure for manufacturing of EITV cables i.c.
+indispensable structure for carrying out the manufacturing operations and not explicitly
+excluded from the definition of ‘plant and machinery’ as provided in the [ixplanation to
+Section 17 of the CGST Act, 2017. VCV concrete tower will fall within the term “plant and
+machinery’ in terms of Explanation to Section 17 of the CGST Act, 2017.
+
+e In the light of the submissions the applicant submits that the ITC on inputs and input
+services procured for construction of concrete tower to erect and support the VCV lines in
+the factory of the applicant is eligible, as it is for foundation and structural support of plant
+
+and machinery in terms of Section 17 of the CGST Act.
+
+11. Personal hearing was granted on 08.04.2026 wherein Ms. Priyanka Kalwani
+and Ms. Aanchal Trivedi, appeared on behalf of the applicant and reiterated the facts
+& grounds as stated in the application. During the course of hearing, the
+representatives of the applicant has submitted a set containing relevant legal
+provisions of the Central Goods and Service Tax Act, 2017 as well as copy of
+
+relevant Circular and supporting judgement.
+
+Discussion and findings
+
+12. At the outset, we would like to state that the provisions of both the CGST
+Act and the GGST Act are the same, except for certain provisions. Therefore, unless
+a mention is specifically made to such dissimilar provisions, a reference to the CGST
+
+Act would also mean a reference to the same provisions under the GGST Act.
+
+13. We have considered the submissions made by the applicant in their
+application for advance ruling as well as the submissions made both oral and written
+during the course of personal hearing. We have also considered the issue involved,
+the relevant facts & the applicant's submissions/views in respect of question on
+which the advance ruling is sought. We also considered the written submission
+
+provided by the Deputy Commissioner(Division-I, Halol, Vadodara-II) dated-~
+
+06/03/2026.
+
+Page 12 of 21
+
+
+
+13
+
+14. We find that the applicant is in the process of setting up of a new
+manufacturing plant in Waghodia, Vadodara for making EHV cables using the
+Vertical Continous Vulcanization (VCV) process for making EHV cables, that the
+manufacturing line is equipped with pulling capstans, extrusion crosshead and
+continuous vulcanization tubes (CV tubes) which are laid vertically in the plant. The
+VCV process is an advanced manufacturing technique used to produce EHV cables
+with superior reliability and performance and that this method is defined by its triple-
+layer co-extrusion system, which applies three critical layers onto a conductor
+simultaneously in a meticulously controlled, clean environment and all 3 layers are
+extruded simultancously in one step to prevent contamination and ensure perfect
+bonding. The VCV manufacturing line is required to be supported by concrete
+structure in square form on all sides, has a height of 163 meters out of which
+approximately 146 meters is from the ground and 17 meters underground. The VCV
+tower comprises 17 floors with each floor having a height of between 6-12 meters.
+Height of each floor varies as per the requirements of the manufacturing line and it
+also consists of passenger lifts and material handling lifis installed therein, a
+staircase with emergency exit and fire hydrants on each floor. The VCV tower will
+be used exclusively for the purpose of manufacturing EHV cables. The process
+inside the VCV tower undertaken and equipment on each floor is summarized at
+para 5 above. The weight of the significantly heavy components to be placed on each
+
+floor to run the VCV line is enumerated at para 6 above.
+
+15. The applicant has further submitted that the total load at different floors will
+be transferred through tower with RCC shear wall to the VCV tower footings, which
+is the foundation for the VCV tower with the dimension of the tower being 25 by 25
+meters, that when the machine runs there will be a dynamic load on each floor which
+will be borne by the floor and subsequently the footing, hence, VCV tower has to be
+constructed in a manner so as to withstand such heavy loads along with the self-load
+of the tower, wind load and seismic load. For construction of the VCV tower, a
+Purchase order dated 29.05.2024 was issued to Shapoorji Pallonji and Company
+private limited (the supplier), that total expense is approximately 140.41 crores on
+which CGST and SGST will be discharged at approximately 12.63 crores under Cachran
+head and in this case, the supplier is raising invoices by adopting SAC 995413 vith .
+the description “General construction services of industrial buildings” and
+
+discharging tax at the rate of 18%. The applicant is of the view that the input services
+
+ee
+b>
+
+Page 13 of 2
+
+
+
+l4
+
+received by them for the construction of the concrete structure are used for structural
+and foundational support of the VCV line, and accordingly, the ITC on such input
+services is eligible to them in terms of Section 16 and Section 17 of the CGST Act,
+
+2017.
+
+16. The applicant has asked the following question for Advance Ruling:
+
+Whether the applicant is eligible to avail ITC on inputs and input services used for
+construction of concrete tower to support and erect the VCV lines at the factory of
+the applicant, for manufacture of EHV cables, in terms of Section 17(5)(c) and (d)
+of the CGST Act, 2017?
+
+17. Before referring to the averments raised by the applicant, we find it prudent
+to refer to the process undertaken at different levels in the VCV tower for
+
+manufacturing of EHV cables and the equipments on each floor of the VCV tower.
+
+The same is summarized below for reference.
+
+| Sr.No. | Equipment | Floor Function
+
+ian Oe _|No. — —
+
+1 Pressure turn | Basement | It diverts the cable core from basement to 7
+pulley | : a2
+| 2 Take-up Ground | The take-up unit is the final component in the
+| floor production process. Its function is to collect
+
+the finished insulated cable core and wind it
+precisely onto large drums or reels.
+
+| Payolf Ground | Its sole purpose it to unwind the conductor
+floor wire from a large supply drum and feed it into
+
+Ls ee a the line in a controlled and precise manner.
+4 Dancer Ground | The dancer is a critical component for tension
+floor control and speed regulation and is a
+
+moveable pulley or roller system that helps to
+maintain consistent tension on the cable as it
+moves from one section of the line to another. |
+
+3 Accumulator | First The accumulator is used to keep the line
+floor continuously running during payoff change
+cel = time by accumulating sufficient conductor.
+6 End seal Fifth This is the end of the vulcanization tube and
+floor maintains water pressure inside the cooling
+; _| tube. oe 7 -
+7 | Vertical Sixth The vertical caterpillar is used to pull the
+caterpillar floor cable core from end seal to 7" floor.
+8 Turn pulley ~ | Seventh | It is used to divert the cable core from the 7"
+floor floor to the ground floor.
+19 CV Heating | Tenth It’s primary function is to cross link or,cure;>
+tube floor the extruded XLPE insulation on the cable.
+
+This process transforms the polyethylene
+
+Page 14 of 21
+
+
+
+15
+
+from a thermoplastic to a thermoset material,
+giving it the crucial properties required for
+high-voltage cables.
+
+10 Cooling tube | 10" to) The cooling tube is used to cool the cured
+basement | cable with the help of water/nitrogen.
+
+Ti Extruder 15" floor | This floor houses the 3 separate extruders in
+floor a single specialized triple crosshead. This
+setup allows conductor shield, XLPE
+insulation and insulated shield to be extruded
+onto the conductor in one seamless, high
+precision manner. In essence, there are 3
+extruders and the X head to insulate 3 layers
+of semi-conductor and XLPE over the bare
+tapped conductor.
+
+12 Capstan 16" floor | The capstan is used to pull the conductor |
+from the accumulator upto X head. It also
+maintains the core in the center of the tube
+
+— ; |__| between the exit caterpillar and the capstan.
+
+13 Gravity Feed! 16 and | ‘This room is used to provide the XLPE as
+
+Room 17" floor | well as semi- conducting compound through
+steel pipe, directly from the box in the
+extruders by gravity force in closed and super
+clean environment.
+
+18. The weight of the significantly heavy components to be placed on each floor
+
+to run the VCV line is enumerated below:
+
+Sr.No. | Item Description of Machinery Floor | Total weight
+Quantity - - No. _| (kgs.)
+I 2 Pressurized turn pulley Basem | 53000
+2 | 2 SS Tank 70 KL Basem | 20000
+3 | Chiller and pumps Service | 1500
+eae. ee _|floor |
+4 2 Guide roller for conductor and cable | Ground | 1000
+jo... +2 _| Accumulator _ ee [= 10200
+BB Tube guide roller _ 200
+7 |2 | Guide roller for conductor and cable | | Ist: 100
+ee: Tube guide roller gra 200
+9 2. Guide roller for conductor and cable | 2"! ; 100
+102 ~—_| Tube guide roller 34 | 200
+| 11 2 _| Guide roller for conductor and cable call 100
+12 |2 __| Tube guide roller — 4
+| 13: {2 Guide roller for conductor and cable | 4"
+14 {2 _| End seal : st
+en _| Tube guide r roller ; 7 [5a
+16 2 Guide roller for conductor and cable | 5“
+
+Page 1S ort
+
+
+
+16
+
+i713 Belt caterpillar (BCA42) 6" 11600
+
+18 2 __| Topography Scanner 6" 900
+19 2 Guide roller for conductor and cable | 6" 100. 7
+
+20 2 __ Turn pulley (?PU 4000) T — | 5300
+21 2 Guide roller for conductor da 50 ;
+22 2 ~~, Tube guide roller _ 7 20002—~CO—~™”
+
+ba. | Be | Guide roller for conductor gn 50 i
+24 2 Tube guide roller fat | 200
+
+(25.2 | Guide roller for conductor | __ {oe 500
+
+26 Bo Tube guide roller pt 200
+27 2 _| Nitrogen Circulation System 10" ic 160
+28 2 Guide roller for conductor | 10" 50
+29 2 Tube guide roller 7 10" =|200
+30 (ie Chiller and pumps | 10" | 2000
+31/2. __| Guide roller for conductor _ i |
+32 2 —| Tube guide roller 11 | 200
+33 |e | Guide roller for conductor toe 50 7
+34 2 ‘Tube guide roller _ _ |i 200
+35. | 2 Guide roller for c conductor 13h 50
+36 {2 ~_| Tube guide roller 7 14" {200
+37 2 _| Belt caterpillar (BCA30) _ | 14% 10000
+38. «(2 BPS iia 640
+39 1 | Chiller and pumps {1s | 2000
+40 2° 80mm Extruder }15" | 3200
+41 |2- 100mmExtruder is* | 5400 |
+42 2 | 200mm Extruder | as" 23000
+
+43 2 Splice box _ Le 6600
+44 2 Electrical panel for: machine 15" | 4600 _
+
+45 [2 Conductor preheater i"  |100,
+46 |2 | Extrudercooling system | 15" 1000
+47__—-+|2 Tube heating system __ 15" 100 a
+48. (2. ‘| TWT Unit __ [as 1540
+49 |2  __| Tripple crosshead 1s™ | 2400 _
+
+50 2. ~| Crosshead handling table : 158 940
+51 |2 | Wheel Capston HSC 4000 16" | 26000
+52 4 Polymer discharge isolator __ 16" | 8000
+53 2 «| Cleanroom sf 6 | 3000.
+54. 12 ~_| Semicon drying system Why wey) ae
+55 2. Clean room _ - ag 3000
+562 Curing tube 10" © | 10600
+14%
+ST 2 Cooling tube 10" "| 22782
+basement
+
+In short, the applicant has upgraded their technology to manufacture KHV cables by
+using VCV process. For the same, the VCV manufacturing line is required to be
+supported by a concrete structure. Thus, the primary issue is about the eligibility of
+
+ITC on inputs and input services used in the construction of the concrete tower i
+
+VCV tower.
+
+=|
+ai:
+
+Page | 16 of 21
+
+gS COST h
+SS > —44
+
+
+17
+
+19. The gist of the averments raised is that the contract for construction of VCV
+tower was awarded to M/s. Shapoorji Pallonji & Company private limited, which
+was in the nature of the works contract; that the inputs and input services received
+for the construction of the concrete structure are used for foundational & structural
+support of the VCV line; that the VCV line will qualify as apparatus, that the VCV
+tower is an essential structural support to the entire VCV machine line, hence is
+squarely covered within the definition of ‘plant and machinery’ in terms of
+explanation to section 17(5) and that even if the expenses incurred towards such
+goods and services are capitalized by the applicant in its books of accounts, it
+
+qualifies for plant and machinery.
+
+20. Since the issue revolves around the interpretation of section 17, ibid, it is
+obligatory to refer to the said section for ease of reference:
+
+Section 17. Apportionment of credit and blocked credits-
+
+(5) Notwithstanding anything contained in sub-section (1) of section 16 and sub-
+section (1) of section 18, input tax credit shall not be available in respect of the
+following, namely:-
+
+(c) works contract services when supplied for construction of an immovable property
+(other than plant and machinery) except where it is an input service for further
+supply of works contract service;
+
+(d) goods or services or both received by a taxable person for construction of an
+immovable property (other than plant or machinery) on his own account including
+
+when such goods or services or both are used in the course or furtherance of
+business.
+
+/:xplanation.-For the purposes of clauses (c) and (d) the expression "construction"
+includes re-construction, renovation, additions or alterations or repairs, to the
+extent of capitalisation, to the said immovable property;
+
+Explanation.- For the purposes of this Chapter and Chapter VI, the expression
+“plant and machinery" means apparatus, equipment, and machinery fixed to earth
+by foundation or structural support that are used Jor making outward supply of
+
+goods or services or both and includes such foundation and structural supports but
+excludes-
+
+(i) land, building or any other civil structures;
+(ii) telecommunication towers; and
+(iti) pipelines laid outside the factory premises.
+
+Page 17 0f21
+
+
+
+21. We find that irrespective of the fact that whether the event of construction of
+the VCV tower is a works contract or otherwise, in terms of section 17(5) (c) and
+(d), plant and machinery stand excluded from the apportionment of credit and
+blocked credits. Further, although “Structural support” has not been defined in the
+CGST Act, it is evident from the meanings given in renowned dictionaries such as
+Cambridge, Oxford and Merriam Webstar that ‘structural support’ refers to a
+physical or foundational element that forms part of a larger structure and serves the
+purpose of holding, bearing, or stabilizing loads which ensures that the structure or
+equipment it supports remains secure from external forces. Thus, the concrete
+structure in the form of VCV tower provides structural support with the necessary
+height and infrastructure while maintaining the structural integrity, stability,
+precision and overall efficiency of the support system for manufacture of EIIV
+cables and is thus an essential structural support to the entire VCV machine line in
+
+the manufacture of EHV cables.
+
+22. Ongoing through the layout of the VCV tower and the process undertaken at
+different floors in the VCV tower and the weight of the significantly heavy
+components to be placed on each floor as detailed in para 17 and 18 above, we are
+in agreement with the applicant’s averment that the VCV tower made of concrete
+structure is essential to support and erect the VCV lines. It is more so since the
+applicant has stated that the concrete structure in the form of VCV tower serves as a
+critical and essential structural support system to the entire VCV machine line for
+manufacture of EHV cables while maintaining the structural integrity, stability,
+precision and overall efficiency of the support system for the manufacture of EHV
+cables. Given these facts, we find that plant and machinery in terms of the second
+explanation, placed beneath section 17, ibid, specifically includes foundation and
+structural support. The exclusions from plant and machinery are also listed viz (i)
+land, building or any other civil structures; (ii) telecommunication towers, and (iii)
+pipelines laid outside the factory premises. Further, ‘other civil structures’ means
+
+civil structures other than foundation and structural support to plant and machinery.
+
+23. Thus, the moment it is held that the ITC sought is on construction of
+foundation and structural support relating to plant and machinery, it moves out of
+
+the ambit of section 17(5)(c) and (d) even if it is on their own account. This being.
+
+fi
+
+the case, we find that the applicant is eligible for availing the ITC on inputs and input ><
+
+Pageds. of 21
+
+
+19
+
+services used for construction of concrete VCV tower to support and erect the VCV
+
+lines at the factory of the applicant for manufacture of EHV cables.
+
+24. he applicant, has also relied upon the clarification issued by CBIC vide its
+Circular No.219/13/2024-GST, dated 26.06.2024 which reads as under:
+
+“Issue — Clarification a
+| Whether the input tax credit on | 1. Sub-section (5) to Section 17 of the CGST Act
+| the ducts and manholes used in | provides that input tax credit shall not be
+/network of optical fiber cables | available inter alia, in respect of the following:
+|(OFCs) for providing — tele
+communication services is |i. works contract services when supplied for
+barred in terms of clauses (c) and | construction of an immovable properly (other
+(d) of sub-section (5) of section | than plant and machinery) except where it is an
+17 of the CGST Act read with | input service for further supply of works contract
+Explanation to section 17 of| service; or
+CGSL ii. goods or services or both received by a taxable
+person for construction of an immovable
+property (other than plant or machinery) on his
+own account including when such goods or
+services or both are used in the course or
+furtherance of business.
+2 - Explanation in section 17 of CGST Act
+provides that the expression "plant and
+machinery" means apparatus equipment and |
+machinery fixed to earth by foundation or |
+structural support that are used for making |
+outward supply of goods or services or both and
+includes such foundation and structural supports
+but excludes land building or any other civil
+structure’ telecommunication towers and
+pipelines laid outside the factory premises.
+3. Ducts and manholes are basic components for
+the optical fiber cable (OFC) network used in
+providing telecommunication services. The OFC
+network is generally laid with the use of PVC
+ducts/sheaths in which OFCs are housed and
+service/connectivity manholes which serve as |
+nodes of the network and are necessary for not
+only laying of optical fiber cable but also their
+upkeep and maintenance. In view of the |
+Explanation in section 17 of the CGST Act it
+appears that ducts and manholes are covered
+under the definition of ‘plant and machinery" as
+they are used as part of the OFC network for
+making outward supply of transmission of
+telecommunication signals from one poi
+another. Moreover ducts and manholes yit
+network of optical fiber cables (OFCs) have not
+been specifically excluded from the definition of
+_'plant_and machinery" in the Explanation to) |
+
+—= ————
+
+Page 19 of 21 oe
+
+
+section 17 of CGST Act, as they are neither in
+nature of land, building or civil structures nor are
+in nature of telecommunication towers or
+pipelines laid outside the factory premises.
+
+| 4. Accordingly, it is clarified that availment of
+input tax credit is not restricted in respect of such
+ducts and manhole used in network of optical
+fiber cables (OFCs) either under clause (c) or
+under clause (d) of subsection (5) of section 17
+of CGST Act.
+
+| oe a oe
+
+25. Drawing the analogy from the aforementioned clarification, we find that when
+ITC is not restricted even in respect of ducts and manhole used in OFCs under
+section 17(5) of the CGST Act, 2017, the ITC, on inputs and input services used for
+construction of concrete VCV tower to support and erect the VCV lines, for
+manufacture of ELV cables also, similarly, cannot be restricted.
+
+26. Wealso find that the Hon’ble Gujarat Appellate Authority of Advance Ruling
+in a similar case of M/s. KEI Industries ltd. [2025(8) TMI 551] (in Advance Ruling
+(Appeal) No.GUJ/GAAAR /APPEAL/2025/114 dated 31.07.2025(in Application
+No. Advance Ruling/SGST & CGST/ 2025/ AR/02) had held that the appellant was
+eligible to avail ITC on the inputs and input services used for the construction of a
+conerete tower to support and erect the vertical continuous vulcanization (VCV)
+lines. The applicant is also found to have relied upon this decision to support their
+
+cause.
+
+27. For the reasons mentioned above, we find and conclude that the applicant is
+cligible to avail input tax credit on inputs and input services used in the setting up of
+the vertical catenary vulcanization tower (VCV tower) at the factory of the applicant
+for the manufacture of EHV cables. Further, since the ruling is being made in the
+favour of the applicant, we do not find the need to discuss the averments as well as
+the cases relied upon by the applicant as the same would at best only be of academic
+
+interest.
+
+Page 20 of 21
+
+
+21
+
+28. In view of the above, we rule as under: -
+
+RULING
+
+O,! Whether the applicant is eligible to avail ITC on inputs and input services used
+for construction of concrete tower to support and erect the VCV lines at the factory
+of the applicant, for manufacture of EHV cables, in terms of Section 17(5)(c) and
+(d) of the CGST Act, 2017?
+
+A.1 Yes, the applicant is eligible to avail ITC on inputs and input services used for
+construction of concrete tower to support and erect the VCV lines at the factory of
+the applicant, for manufacture of EHV cables, in terms of Section 17(5)(c) and (d)
+of the CGST Act, 2017
+
+Cains fy 15\ AM: (Vishal Malani)
+Member (SGS) ONG ED Member (CGST)
+
+Place: Ahmedabad
+Date:0¥ 05/2026
+
+Page 21 of 21

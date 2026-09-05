@@ -1,0 +1,1603 @@
+1 
+GUJARAT AUTHORITY FOR ADVANCE RULING  
+GOODS AND SERVICES TAX 
+A/5, RAJYA KAR BHAVAN, ASHRAM ROAD, 
+AHMEDABAD – 380 009. 
+ 
+ 
+ 
+ADVANCE RULING NO.   GUJ/GAAR/R/2020/07   
+(IN APPLICATION NO. Advance Ruling/SGST&CGST/2018/AR/56) 
+ 
+                                                                            Date:  19.05.2020 
+ 
+Name and address of the 
+applicant 
+: 
+M/s NEC Technologies India Pvt. Ltd.,  
+702, RTC (Royal Trade Centre) building, 
+In front of Star Bazar, Hazira – Adajan 
+Road, Jalaram Society, Adajan, Surat-
+395009 
+GSTIN/ 
+User 
+Id 
+of 
+the 
+applicant 
+: 
+          24AACCN3496J1Z8 
+Date of application 
+: 
+                14.09.2018 
+ 
+Clause(s) of Section 97(2) of 
+CGST / GGST Act, 2017, 
+under which the question(s) 
+raised. 
+ 
+: 
+(i) 
+Classification of goods and/or 
+services or both. 
+(ii) 
+Applicability of a notification 
+issued under the provisions of 
+the Act. 
+(iii) 
+Determination of the liability to 
+pay tax on any goods or services 
+or both. 
+Date of Personal Hearing 
+:                 12.03. 2020 
+Present for the applicant 
+: 
+      Shri  Amit Agrawal  
+ 
+ 
+ 
+ 
+The applicant is engaged in providing of solutions and services in multiple 
+areas in public safety, private network, retail, IT, logistics, engineering services 
+etc.. They are registered under GST vide GSTN Number-24AACCN3496J1Z8. They 
+have preferred an application seeking Advance Ruling in respect of the following 
+questions: 
+ 
+(A) Whether the supply made by NEC under the Automatic Fare Collection (AFC) 
+project would qualify as: a. ‘works contract’ defined under section 2(119) of 
+the CGST Act, 2017; or b. ‘composite supply’ defined under section 2(30) of 
+the CGST Act, 2017? 
+ 
+(B) Whether the supply made by NEC under the AFC project would qualify as an 
+original works meant predominantly for use other than for commerce, 
+industry, or any other business or profession, thereby attracting GST rate of 
+12% provided in the Notification 24/2017-Central Tax (Rate) dated 21 
+September 2017? 
+ 
+(C) Whether the HSN classification of supply made by NEC would fall under 
+‘8470’ or ‘9954’? 
+ 
+
+
+ 
+ 
+   
+2 
+(D) Whether the maintenance and management services post implementation 
+would qualify as composite supply as defined under section 2(30) of the 
+CGST Act, 2017? Further, whether such supply would be eligible for 
+exemption under Notification No.12/2017-Central Tax (Rate) dated 28 June 
+2017 in case value of supply of goods constitutes not more than 25% of the 
+value of the said composite supply? 
+ 
+2. 
+The applicant in the Statement of the Facts stated that they have been 
+awarded a comprehensive Contract by the Surat Municipal Corporation (‘SMC’) (a 
+Municipal body incorporated under the Bombay Provincial Corporation Act, 1949) 
+and the Surat Smart City Development Limited (SSCDL) (a Company incorporated 
+under the Companies Act, 2013) for design, development, implementation, 
+maintenance and management of open loop solution based ‘Automatic Fare 
+Collection (‘AFC’) System’ for Bus Rapid Transit System (‘BRTS’) and City Bus 
+Operation in Surat City (‘the City’). 
+ 
+2.1 
+The objective of the AFC system is to provide seamless travel with single 
+smart card/ ticket on city’s BRTS and City Bus Services. The AFC system is 
+typically implemented in the following: 
+ 
+• 
+Bus Stations: Supply of AFC system at the Bus Stations would involve supply 
+as well as installation and commissioning of Point of Sell (‘POS’) machines, 
+turnstiles, validators to be fitted on Turnstile Gates-Hardware component, 
+Station Servers, Station UPS, Swing Gates, Network Rack etc. AFC System is 
+to be supplied and installed to 195 BRT Bus Stations. 
+ 
+• 
+City Buses: Supply of AFC system at the City Buses would involve supply as 
+well as installation and commissioning of handheld Electronic Ticketing 
+Machines (‘ETMs’) or ETM with printer for bar-coded ticket issuance and 
+reader for smartcard readers for City Buses. Further, supply of AFC system at 
+the City Buses would also include supply of pole based entry/exit smart card 
+validator for City Buses. The number of buses on which such system needs to 
+be installed is 650.  
+ 
+2.2 
+The scope of work under the proposed contract would comprise of the 
+following two activities by the applicant for the SMC and M/s SSCDL: 
+ 
+1. Setting up of AFC System; and 
+2. Operation, Management and Maintenance of the AFC system  
+ 
+2.2.1  Setting up of AFC System: 
+ 
+As discussed above, the contract is for design, develop and supply of AFC 
+system for BRTS and City Bus Services in the City. Setting up of AFC system 
+comprises of the following activities: 
+ 
+
+
+ 
+ 
+   
+3 
+(i) Design, development, procurement, supply, integration, testing and 
+commissioning of the AFC system:  
+ 
+The applicant is responsible to provide multiple hardware (such as 
+POS machines, Electronic Ticketing Machines (ETMs) (hand held and fixed 
+to BRTS stations/poles), flap gates, station card validators and pole 
+validators etc. and software. They are also responsible for installation, 
+commissioning, integration, initialization of the equipment and software 
+supplied under the contract. This includes installation of the requisite 
+hardware at the BRTS Bus Stations and integration of the same with back 
+end Servers and Software. This also involves providing of hand held ETM’s, 
+installation of Pole Validators in all City Buses and integration of the same 
+with back end Servers and Software.  
+ 
+(ii) Integration of the AFC system with the card host, central clearing house 
+system and smart cards provided by authority appointed bank: 
+ 
+The local authority will appoint a bank for implementation of a 
+common payment system for multiple municipal and retail services. The 
+applicant would be required to provide the Application Platform Interface 
+(‘API’), Accessory Development Kit (‘ADK’) and interfacing protocols for the 
+Bank to develop their own system for integration with the AFC System. 
+Further, the applicant is also jointly responsible to integrate the AFC 
+System with the Common Payment System to be developed by the Bank 
+appointed by the local authority. Under this phase, the applicant would not 
+be supplying any hardware.  
+ 
+(iii) Commissioning, Management and Operation of Central Control Centre 
+(‘CCC’): 
+ 
+The responsibility to provide the site/location and furniture and fixture 
+to set up a CCC shall be of the local authority. For setting up of CCC, the 
+applicant would be required to supply hardware, software and install such 
+hardware and software of the AFC System at the given site for the purpose of 
+carrying out central monitoring and supervision of operation and functionality 
+of the AFC System. CCC would also be used for handling ticketing and smart 
+card related queries of the computers. Further, the applicant would also be 
+responsible to maintain continuity of the AFC system in bus stations as well 
+as the Buses in case of any stoppage or failures. This activity would be carried 
+out in second phase of the Contract i.e. post completion of the AFC System.  
+  
+2.2.2 Maintenance and Management of AFC system during Contract Period: 
+ 
+The applicant is required to maintain and manage all hardware and 
+software forming part of the AFC system during the contract period (this would 
+range from 7-10 years). This would typically include repair and maintenance of 
+
+
+ 
+ 
+   
+4 
+hardware and software and ensuring that the AFC system continues to function 
+as per the agreed parameters. This would also include supply of spares etc. for 
+undertaking repairs, in case required. 
+ 
+Applicant’s Interpretation: 
+Question:1 
+3. 
+With respect to said supply, the question that arises is whether such 
+supply would qualify as a ‘Works Contract’ as defined under Section 2(119) 
+of the CGST Act, 2017 or as a ‘Composite Supply’ as defined under Section 
+2(30) of the CGST Act, 2017.  
+ 
+3.1 
+Two possible views for the above question presented by the applicant, 
+are as below: 
+ 
+A. 
+VIEW 1: 
+ 
+4. 
+‘Works Contract’ has been defined under Section 2(119) of the CGST 
+Act, 2017, as a contract for building, construction, fabrication, completion, 
+erection, installation, fitting out, improvement, modification, repair, 
+maintenance, renovation, alteration or commissioning of any immovable 
+property wherein transfer of property in goods (whether as goods or in some 
+other form) is involved in the execution of such contract. 
+ 
+4.1 
+Under said contracts with local authorities, the hardware and software 
+to be provided by the applicant consists of POS machines, ETMs, flap gates, 
+validators, station servers, communication components, control centre 
+hardware, manual swing gates for disabled etc.. Apart from the flap gates and 
+manual swing gates which can arguable to be said to be fixed/ annexed to 
+immovable property, rest all hardware are movable property.  The flap gates, 
+POS machines and manual swing gates are attached with screws and bolts at 
+the entry gates of the bus station.  
+ 
+4.2 
+It would be relevant to ascertain whether setting up of the AFC System 
+(comprising of Hardware and Software) would result into an immovable property 
+to determine whether such supply would qualify as “Works Contract” under 
+Section 2(119) of the CGST Act, 2017. To qualify as an immovable property, the 
+AFC System supplied by the applicant would need to be permanently fastened to 
+anything attached to the earth. These gates can be easily removed without 
+damaging such gates and re-attached to some other locations. Hence, it cannot 
+be said that such gates are permanently embedded to the bus stations and hence, 
+should be considered as an immovable property. Further, the flap gates are just 
+a part of the AFC system and is not the main equipment of the AFC system. Even 
+if, it is argued that the flap gates are permanently fastened to the earth and form 
+part of the immovable property, it cannot be construed that the whole AFC system 
+would form part of the immovable property.  
+
+
+ 
+ 
+   
+5 
+ 
+4.3 
+Further, in case of city buses, hand held ETM machines with electronic 
+payment integration are provided for AFC system. In certain cases, Pole Validators 
+with AFC system are installed on the buses. Considering that the buses are 
+movable properties, such equipment would not be construed as immovable 
+property. Further, the purpose and function of the AFC system installed on the 
+city buses and BRTS bus stations is the same i.e. fare collection and providing 
+seamless travel with a single smart card/ticket. Hence, it can be seen that the 
+fixation/ attachment of the hardware to bus station/ terminal is not mandatory 
+for the whole system to operate.  
+ 
+4.4 
+In view of the above, it can be concluded that the AFC system does not 
+qualify as an immovable property. Thus, in the absence of any immovable 
+property being supplied under such contract, the supply of AFC system would 
+not qualify as a “Works Contract” under GST. 
+ 
+5. 
+‘Composite Supply’ has been defined as a supply made by a taxable person 
+to a recipient consisting of two or more taxable supplies of goods or services or both, 
+or any combination thereof, which are naturally bundled and supplied in 
+conjunction with each other in the ordinary course of business, one of which is a 
+principal supply.    
+ 
+ 
+5.1 
+Thus, for a supply to qualify as a composite supply, the following needs to 
+be satisfied: 
+ 
+(i) 
+There should be more than two supplies of goods or services or both; 
+(ii) 
+They should be naturally bundled and supplied in conjunction with 
+each other in the ordinary course of business; and 
+(iii) There should be one principal supply. 
+ 
+5.2 
+The above conditions have been examined in the present case, as under: 
+ 
+5.2.1 There should be more than two supplies of goods or services or both: 
+In the current case, there are more than two supplies of goods (hardware) 
+and services (software) and commissioning and installation of hardware, software 
+(services). Thus, there is supply of more than two goods and services. Hence, this 
+condition is satisfied. 
+ 
+5.2.2 They should be naturally bundled and supplied in conjunction with each 
+other in the ordinary course of business: 
+ 
+The Flyers issued by the Central Board of Excise and Customs (‘CBEC’) for 
+composite and mixed supplies have provided guidance on how to determine 
+whether supplies are naturally bundled in the ordinary course of business as 
+below: 
+ 
+
+
+ 
+ 
+   
+6 
+“Whether services are bundled in the ordinary course of business would 
+depend upon the normal or frequent practices followed in the area of business to 
+which services relate. Such normal and frequent practices adopted in a business 
+can be ascertained from several indicators some of which are listed below: - 
+ 
+• 
+The perception of the consumer or the service receiver. If large number of 
+service receivers of such bundle of services reasonably expect such services 
+to be provided as a package, then such a package could be treated as 
+naturally bundled in the ordinary course of business. 
+ 
+• 
+Majority of service providers in a particular area of business provide similar 
+bundle of services. For example, bundle of catering on board and transport 
+by air is a bundle offered by a majority of airlines. 
+ 
+• 
+The nature of the various services in a bundle of services will also help in 
+determining whether the services are bundled in the ordinary course of 
+business. If the nature of services is such that one of the services is the 
+main service and the other services combined with such service are in the 
+nature of incidental or ancillary services which help in better enjoyment of 
+a main service. For example, service of stay in a hotel is often combined 
+with a service or laundering of 3-4 items of clothing free of cost per day. 
+Such service is an ancillary service to the provision of hotel accommodation 
+and the resultant package would be treated as services naturally bundled 
+in the ordinary course of business. 
+  
+• 
+Other illustrative indicators, not determinative but indicative of bundling 
+of services in ordinary course of business are – 
+ 
+ 
+There is a single price or the customer pays the same amount, no matter 
+how much of the package they actually receive or use. 
+ 
+The elements are normally advertised as a package. 
+ 
+The different elements are not available separately. 
+ 
+The different elements are integral to one overall supply - if one or more 
+is removed, the nature of the supply would be affected. 
+ 
+In this case, the applicant would be awarded a consolidated contract for 
+supply of AFC system which involves supply and installation of hardware and 
+software and integration of AFC system with the citywide common payment 
+system. The contract would be awarded by SMC and M/s SSCDL to the applicant 
+for providing the AFC system and not for individual hardware and software. The 
+ownership of the AFC system would only pass on to them only once the same is 
+installed, tested and commissioned. Therefore, the supplies are perceived by local 
+authority as a naturally bundled supply. Further, it can be seen from the existing 
+contract that the requirement of local authority is to obtain complete AFC system 
+and not individual hardware and software which form part of the AFC system. 
+
+
+ 
+ 
+   
+7 
+Even if one or more of the elements are removed, the functioning of the AFC 
+system would get affected.  
+ 
+Further, it can also be said that while providing AFC system is the principal 
+supply, supply of hardware and software would be incidental to the main supply 
+of AFC system. Hence, this test appears to be satisfied. 
+ 
+5.2.3 There should be one principal supply: 
+ 
+As discussed above, in this case, there is one principal supply of AFC 
+system. Supply of hardware and software would be incidental to the main supply 
+of AFC system. Hence, this condition also appears to be satisfied. 
+ 
+5.3 
+Therefore, as per the applicant it can be clinched that the supply of AFC 
+system should qualify as a composite supply with the supply of AFC system 
+as the principal supply. 
+ 
+B. 
+VIEW 2: 
+ 
+6. 
+As discussed above, for a supply to qualify as a works contract under 
+GST, the AFC System would need to qualify as an immovable property. For 
+the AFC System to qualify as an immovable property, the same would need to 
+be permanently fastened to anything to the earth.  
+ 
+6.1 
+To ascertain whether a particular thing/object is permanently fastened 
+to earth. English and Indian courts have consistently used two fold tests i.e.  
+ 
+(i) 
+the extent of annexation; and 
+(ii) 
+the object/intent of annexation. 
+ 
+6.2 
+The applicant has examined the said two tests in the present case as 
+below: 
+ 
+(i) 
+The extent of annexation means by annexing a particular thing 
+to an immovable property, such particular thing ceases to be 
+detachable. To remove such thing, one would need to demolish 
+it. While considering whether the thing/object is permanently 
+annexed, the question is not the loss in value of the underlying 
+thing/object, the question is whether economically, the asset is 
+same as it was before removal i.e. does it retain its commercial 
+character, or the same gets lost in the process of removal. 
+ 
+(ii) 
+As per the test of intent/object of annexation, it needs to be 
+determined whether the annexation is for permanent beneficial 
+enjoyment of the immovable property or of the movable property 
+being attached to such immovable property. If the intent of 
+annexation is the beneficial enjoyment of the movable property, 
+
+
+ 
+ 
+   
+8 
+then the property still remains movable. This test may sound 
+quite subjective, however, it is pertinent to note that here the 
+precondition is “permanent beneficial enjoyment”. There are 
+following two implications of the intent test: 
+ 
+(a) The annexation must only be such as is required for 
+beneficial enjoyment of the movable property. For 
+example, a machine is cemented to earth because that 
+is best way to use the machine. But if a storage tank, 
+made of bricks and cement is built, one cannot say that 
+the object of annexation is to use the storage tank. The 
+tank has become such permanent part of the land that 
+it is land which is being used by putting storage tank 
+on it; 
+ 
+(b) The second implication goes back to the extent test, i.e. 
+if something is permanently attached so as to make it 
+permanent fixture on land or another immovable 
+property, one cannot contend that the intent of doing 
+so as is to enjoy the fixture.  
+  
+6.3 
+The Applicant stated that certain parts of the AFC system such as flap 
+gates, POS machines and manual Swing Gates are embedded to the bus 
+stations and, hence, becomes part of the immovable property i.e. the bus 
+station. Hence, it may be viewed that the AFC system would qualify as an 
+immovable property and, therefore, a Works Contract. 
+ 
+7. 
+The next question which arises is whether the supply of the AFC system 
+would qualify as a ‘Composite Supply’.  As discussed above, for a supply to 
+qualify as a composite supply, the following conditions need to be satisfied: 
+ 
+(i) There should be a combination of two or more taxable supply of service/ 
+goods or any combination thereof. 
+ 
+(ii) The supply should be naturally bundled with each other. 
+ 
+(iii) Out of these supplies, one must be a principal supply and other must be 
+ancillary supply. 
+ 
+7.1 
+Since, in the current case, there are more than one supply of goods 
+(hardware) and services, the first condition appears to be satisfied. 
+     
+7.2 
+With respect to the second condition, they would like to mention as follows: 
+ 
+(i) 
+“Naturally bundled supply” means a bundles of provision of various 
+services/goods wherein an element of provision of one service is 
+combined with an element or elements of provision of any other 
+
+
+ 
+ 
+   
+9 
+service or services or goods or any combination thereof. For example, 
+air transport services provided by airlines wherein an element of 
+transportation of passenger by air is combined with an element of 
+provision of catering service on board. 
+ 
+(ii) 
+Another example could be of “Rajdhani Express” in which the fare 
+include provision of food served during the journey and the fare is 
+not reduced even if the passenger do not opt for food. This is a 
+naturally bundled supply.  
+ 
+(iii) 
+Further, as discussed above in view 2, Flyer issued by CBIC under 
+the GST law for composite and mixed supply have discussed the 
+conditions and factors relevant to determine whether a supply is 
+naturally bundled supply. Such conditions and factors have been 
+discussed above and the same have not been reiterated here for the 
+sake of brevity. Basis these factors, it can be concluded that where 
+the recipient’s perception is to receive all the supplies together and 
+as per business practices all the supplies being offered by the 
+supplier are as a bundled supply, the supplies would be considered 
+as naturally bundled supplies. 
+ 
+(iv) 
+In the current case, it can be argued that the recipient has an option 
+to avail the supply of goods from one contractor and supply of service 
+from another contract. Hence, the recipient is under no obligation to 
+avail both the supplies from one contractor only.  
+ 
+(v) 
+Further, in such cases, the recipient issued a detailed Request For 
+Proposal (‘RFP’) specifying individual goods and services and based 
+on the RFP, the applicant would submit the proposal. Thus, it cannot 
+be said that the said product which would be drafted, prepared and 
+tendered by the technical department of the recipient would be a 
+standard product which can be offered to any other clients by the 
+contractor in local market. Every client might have different need for 
+different goods and services. 
+ 
+(vi) 
+Thus, it can be argued that this being a customized product as per 
+the requirement of the recipient, cannot be said to have all the 
+components of a naturally bundled supply. Thus, the supplies under 
+the transactions should not be termed as naturally bundled. Hence, 
+the second condition does not appear to be satisfied. 
+ 
+7.3 
+With respect to the third condition, it can be argued that both supply of 
+hardware and software are equally important. As, hardware component would not 
+work without the software component and vice versa, it cannot be said that any 
+one of the supply would classify as a principal supply. Thus, the third condition 
+also does not appear to be satisfied. 
+
+
+ 
+ 
+   
+10
+ 
+7.4 
+In view of the above, the supply of goods and services in present case would 
+not qualify as a ‘Composite Supply’.  
+ 
+QUESTION 2: 
+ 
+8. 
+Whether the supply made by the applicant would qualify as an 
+original works meant predominantly for use other than for commerce, 
+industry, or any other business or profession, thereby attracting GST rate 
+of 6% provided in the Notification No. 24/2017-Central Tax (Rate) dated 21 
+September 2017? 
+ 
+8.1 
+Two possible views for the above question presented by the applicant are 
+as below: 
+ 
+VIEW–1:  
+ 
+9. 
+As per the Notification No. 24/2017–Central Tax (Rate) dated 21st  
+September, 2017, the CGST rate of 6% has been prescribed for services provided 
+to a local authority by way of erection, commissioning, installation, of a civil 
+structure or any other original works meant predominantly for use other than for 
+commerce, industry, or any other business or profession. The relevant extract of 
+the Notification has been provided below for ready reference: 
+ 
+Description of Service  
+Rate (per 
+cent.)  
+Condition 
+………. 
+“(vi) Services provided to the Central Government, 
+State Government, Union Territory, a local authority 
+or a governmental authority by way of construction, 
+erection, commissioning, installation, completion, 
+fitting out, repair, maintenance, renovation, or 
+alteration of –  
+ 
+(a) a civil structure or any other original works 
+meant predominantly for use other than for 
+commerce, industry, or any other business or 
+profession; 
+ 
+(b)  a structure meant predominantly for use as 
+(i) an educational, (ii) a clinical, or(iii) an art 
+or cultural establishment; or 
+ 
+(c) a residential complex predominantly meant 
+for self-use or the use of their employees or 
+other persons specified in paragraph 3 of the 
+6 
+- 
+
+
+ 
+ 
+   
+11
+Schedule III of the Central Goods and 
+Services Tax Act, 2017. 
+(vii) Construction services other than (i), (ii), (iii), (iv), 
+(v) and (vi) above. 
+9 
+- 
+ 
+9.1 
+Further, Original works has been defined in the GST regime, vide 
+Notification No. 12/2017-Central Tax (Rate) dated 28th June, 2017, as under: 
+ 
+“(zs) “original works” means- all new constructions; (i) all types of 
+additions and alterations to abandoned or damaged structures on land 
+that are required to make them workable; (ii) erection, commissioning or 
+installation of plant, machinery or equipment or structures, whether pre-
+fabricated or otherwise;” 
+ 
+9.2 
+From the above definition of “Original works”, it appears that the original 
+works only includes erection, commissioning and installation services for a plant, 
+machinery or equipment and does not cover supply of such equipment. 
+ 
+9.3 
+In this case, the proposed contract is for supply of the AFC system 
+comprising supply of multiple hardware and software and commissioning, 
+installation and integration of the same. All the supplies i.e. hardware, software, 
+installation and integration etc. are integral part of the AFC system and any of 
+such individual supply is not the principal supply. The principal supply would be 
+the AFC system as a whole. Thus, commissioning and installation cannot be said 
+to be a principal or main supply under the contract.  
+ 
+9.4 
+Further, typically, there is no separate price for such commissioning and 
+installation specified under the contract. The price of the whole AFC system is 
+inclusive of commissioning and installation charges and the same cannot be 
+separately identified. The relevant extract from the existing Contract has been 
+provided below for ready reference: 
+ 
+“25.1 Prices of Hardware, software to be designed developed, supplied, 
+installed and Payment Terms: 
+  
+The agreed terms of prices of hardware and software are stipulated 
+below:  
+ 
+(i) The prices of hardware and software units to be supplied and 
+installed are inclusive of all taxes, duties, sales tax, excise duty and 
+VAT. 
+ 
+(ii) The Prices are inclusive of installation and commissioning 
+charges. 
+ 
+(iii) The prices of hardware and software are inclusive of warranty, 
+operation and maintenance costs for one year of operation. The 
+
+
+ 
+ 
+   
+12
+operation shall be considered to start from the date of issuance of 
+Project Acceptance /Go Live Certificate for Request Order issued. 
+ 
+(iv) The Payment shall be made in local currency only i.e. in INR. 
+  
+9.5 
+In view of the above, the applicant stated that it can be concluded that the 
+supply of the AFC system would not qualify as ‘original works’. Thus, the rate of 
+6% as provided in entry number (vi) of the Notification No. 11/2017 – Central Tax 
+(Rate) as amended by Notification No. 24/2017 - Central Tax (Rate) should not be 
+applied in case of the AFC system.  
+VIEW-2: 
+ 
+10. 
+As discussed above, supply of erection, commissioning and installation 
+services to a local authority for any ‘Original Works’ meant for use other than 
+business, profession or commerce would be subject to a concessional GST rate of 
+6%. 
+ 
+10.1 The concept of “original Works” has been discussed above. Since, in the 
+current case, the transaction is of installation of various equipment and 
+structures, the same may qualify as “Original Work”. 
+ 
+10.2 Further, the transportation of general public will be one of the duties 
+entrusted to a municipality under the Article 243W of the Constitution. This task 
+has been listed under Sr. No. 17 of the Twelth Schedule as “Public Amenities 
+including 
+Street 
+Lighting, 
+Parking 
+Lots, 
+Bus 
+Stops 
+and 
+Public 
+Conveniences.”   
+ 
+10.3  Thus, this being obligatory duties on the part of a municipality, this will 
+be termed as any activity for use other than for commerce, industry, or any other 
+business or profession. 
+ 
+10.4 Basis the above discussion, it can be argued that supply of the AFC system 
+would qualify as “Original works”. Thus, the rate of 6% as provided in entry 
+number (vi) of the Notification No. 11/2017–Central Tax (Rate) as amended by the 
+Notification No. 24/2017 - Central Tax (Rate) should apply in case of the AFC 
+system. 
+ 
+QUSETION- 3: 
+ 
+11. 
+Whether the HSN classification of supply made by NEC would fall 
+under ‘8470’ or ‘9954’? 
+ 
+12. 
+Two possible views for the above question presented by the applicant are 
+as below: 
+ 
+ 
+VIEW-1:  
+ 
+
+
+ 
+ 
+   
+13
+12.1 The description of the HSN code ‘9954’ as provided in the Notification No. 
+11/2017 – Central Tax (Rate) dated 28th June, 2017 is “composite supply of works 
+contract as defined in clause 119 of section 2 of the Central Goods and Services 
+Tax Act, 2017” 
+ 
+12.2 As discussed above, the supply by NEC India should not qualify as a works 
+contract. Since, the supply by NEC India should not qualify as works contract, 
+such supply should not get classified under ‘9954’.  
+ 
+12.3 Further, the description of the HSN code ‘8470’ as provided in the 
+Notification No.01/2017-Central Tax (Rate) dated 28th June, 2017 is “calculating 
+machines and pocket-size data recording, reproducing and displaying machines 
+with calculating functions; accounting machines, postage-franking machines, ticket-
+issuing machines and similar machines, incorporating a calculating device; cash 
+registers”.  
+ 
+12.4 Considering that the main purpose of the AFC system is to compute the 
+fare automatically and issue tickets along with integration of the system with the 
+banks, the most appropriate HSN classification appears to be ‘8470’. Considering 
+the rate of GST prescribed for HSN ‘8470’ is 18%, the same should be applicable 
+in this case.  
+ 
+ 
+VIEW-2: 
+ 
+13. 
+As discussed in foregoing paras, supply of the AFC system would qualify as 
+a works contract and hence, it is a service. Accordingly, HSN classification 
+“99546” pertaining to the “Installation Services” to the immovable property will 
+be the appropriate HSN. 
+ 
+QUESTION– 4: 
+ 
+14. 
+Whether 
+the 
+maintenance 
+and 
+management 
+services 
+post 
+implementation would qualify as composite supply as defined under 
+section 2(30) of the CGST Act, 2017? Further, whether such supply would 
+be eligible for exemption under Notification No.12/2017-Central Tax (Rate) 
+dated 28th June, 2017 in case value of supply of goods constitutes not more 
+than 25% of the value of the said composite supply? 
+ 
+14.1 Apart from installation of the AFC system, the applicant would also be 
+responsible to maintain and manage the AFC system for a period agreed in the 
+contract. Such maintenance activity would also involve replacement of defective 
+parts with spare parts to ensure smooth functioning of the AFC system. There is 
+no separate consideration for parts to be supplied and consolidated fee for 
+management or maintenance services is charged. Considering that multiple 
+supplies are being provided for a consolidated fee, the concept of composite supply 
+would need to be discussed.  
+
+
+ 
+ 
+   
+14
+ 
+14.2 “Composite supply” is defined as supply made by a taxable person to a 
+recipient consisting of two or more taxable supplies of goods or services or both, 
+or any combination thereof, which are naturally bundled and supplied in 
+conjunction with each other in the ordinary course of business, one of which is a 
+principal supply. Thus, for a supply to qualify as a composite supply, the following 
+conditions need to be satisfied: 
+ 
+• 
+There should be more than two supplies of goods or services or both: 
+ 
+In the current case, since management and maintenance would 
+involve both goods and services i.e. more than two supplies, this condition 
+appears to be satisfied.  
+ 
+• 
+They should be naturally bundled and supplied in conjunction with each 
+other in the ordinary course of business: 
+ 
+Supply of goods and services for maintenance and management of 
+the AFC system would be naturally bundled as such supplies would only 
+be provided where maintenance is to be done by the applicant. Even the 
+intention of the recipient is to receive maintenance services. The nature of 
+supplies which comprise of maintenance services is the responsibility of 
+the service provider i.e. the applicant. Hence, in case maintenance of the 
+AFC system is not done by the applicant, such supplies comprising of 
+maintenance services would never be made. Hence, this condition also 
+appears to be satisfied. 
+ 
+• 
+There should be one principal supply: 
+ 
+In the current case, the objective/intention of the recipient is to 
+receive management and maintenance of the AFC system. Hence, the 
+principle supply would be of maintenance services. Supply of goods, if any 
+would be incidental to it. Hence, this condition also appears to be satisfied. 
+ 
+14.3 In view of the above facts, the applicant stated that the supply of 
+management and maintenance of the AFC system would qualify as a composite 
+supply with maintenance services being the principle supply. 
+ 
+14.4 Further, as per the Notification No.12/2017 – Central Tax (Rate), dated 28th 
+June, 2017, as amended by the Notification No. 02/2018 – Central Tax (Rate) 
+dated 25th January, 2018, composite supply of goods and services in which the 
+value of supply of goods constitutes not more than twenty-five percent of the value 
+of the said composite supply provided to the Central Government, State Government 
+or Union territory or local authority or a Governmental authority or a Government 
+Entity by way of any activity in relation to any function entrusted to a Panchayat 
+under article 243G of the Constitution or in relation to any function entrusted to a 
+
+
+ 
+ 
+   
+15
+Municipality under article 243W of the Constitution has been exempted from levy of 
+GST. 
+ 
+14.5 Since Entry number 17 of the Schedule 12 of the Article 243W of the 
+Constitution of India covers services in relation to public amenities including bus 
+stops and public conveniences. The applicant is providing services in respect to 
+bus stops and public conveniences to local authority. The applicant understand 
+that such services should be eligible for exemption under GST provided goods 
+constitute not more than twenty five percent of the value of the said composite 
+supply.    
+  
+RECORD OF PERSONAL HEARING: 
+ 
+15. 
+Shri Amit Agrawal appeared for personal hearing on 12th March, 2020 and 
+reiterated the facts as stated in the Application and mentioned herein above.  
+ 
+OBSERVATION AND FINDINGS: 
+ 
+16. 
+We have gone through the facts of the case, documents on records and 
+submissions made by the applicant. 
+ 
+17. 
+The applicant is engaged in providing of solutions and services in multiple 
+areas in public safety, private network, retail, IT, logistics, engineering services 
+etc.. They are registered under GST, vide GSTN Number-24AACCN3496J1Z8. 
+ 
+18. 
+As per the applicant, they have been awarded a comprehensive contract by 
+the Surat Municipal Corporation (‘SMC’) (a Municipal body incorporated under 
+the Bombay Provincial Corporation Act, 1949) and M/s Surat Smart City 
+Development Limited (SSCDL) (a company incorporated under the companies act, 
+2013) for design, development, implementation, maintenance and management 
+of open loop solution based Automatic Fare Collection (‘AFC’) System for Bus 
+Rapid Transit System (‘BRTS’) and City Bus Operation in Surat City (‘the City’). 
+ 
+18.1 The objective of the AFC system is to provide seamless travel with single 
+smart card/ ticket on city’s BRTS and City Bus Services. The AFC system is 
+typically to be implemented in the following: 
+ 
+• 
+Bus Stations: Supply of AFC system at the Bus Stations would involve supply 
+as well as installation and commissioning of Point of Sell (‘POS’) machines, 
+turnstiles, validators to be fitted on Turnstile Gates-Hardware component, 
+Station Servers, Station UPS, Swing Gates, Network Rack etc. AFC System is 
+to be supplied and installed to 195 BRT Bus Stations. 
+ 
+• 
+City Buses: Supply of AFC system at the City Buses would involve supply as 
+well as installation and commissioning of handheld Electronic Ticketing 
+Machines (‘ETMs’) or ETM with printer for bar-coded ticket issuance and 
+reader for smartcard readers for City Buses. Further, supply of AFC system at 
+
+
+ 
+ 
+   
+16
+the City Buses would also include supply of pole based entry/exit smart card 
+validator for City Buses. The number of buses on which such system needs to 
+be installed is 650.  
+ 
+18.2 The scope of work under the proposed contract would comprise of the 
+following two activities: 
+ 
+(i) 
+Setting up of the AFC System; and 
+ 
+(ii) 
+Operation, Management and Maintenance of the AFC system.  
+ 
+18.2(i)  Setting up of the AFC System: 
+   As discussed above, the contract is for design, develop and supply of AFC 
+system for BRTS and City Bus Services in the City. Setting up of AFC system 
+comprises of the following activities: 
+ 
+(a) Design, development, procurement, supply, integration, testing and 
+commissioning of the AFC system:  
+ 
+The applicant is responsible to provide multiple hardware (such as 
+POS machines, Electronic Ticketing Machines (ETMs) (hand held and fixed 
+to BRTS stations/poles), flap gates, station card validators and pole 
+validators etc. and software. They are also responsible for installation, 
+commissioning, integration, initialization of the equipment and software 
+supplied under the contract. This includes installation of the requisite 
+hardware at the BRTS Bus Stations and integration of the same with back 
+end Servers and Software. This also involves providing of hand held ETM’s, 
+installation of Pole Validators in all City Buses and integration of the same 
+with back end Servers and Software.  
+ 
+(b) Integration of the AFC system with the card host, central clearing house 
+system and smart cards provided by authority appointed bank: 
+ 
+The local authority will appoint a bank for implementation of a 
+common payment system for multiple municipal and retail services. The 
+applicant would be required to provide the Application Platform Interface 
+(‘API’), Accessory Development Kit (‘ADK’) and interfacing protocols for the 
+Bank to develop their own system for integration with the AFC System. 
+Further, the applicant is also jointly responsible to integrate the AFC 
+System with the Common Payment System to be developed by the Bank 
+appointed by the local authority. Under this phase, the applicant would not 
+be supplying any hardware. 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+   
+17
+(c) Commissioning, Management and Operation of Central Control Centre 
+(‘CCC’): 
+ 
+The responsibility to provide the site/location and furniture and fixture 
+to set up a CCC shall be of the local authority. For setting up of CCC, the 
+applicant would be required to supply hardware, software and install such 
+hardware and software of the AFC System at the given site for the purpose of 
+carrying out central monitoring and supervision of operation and functionality 
+of the AFC System. CCC would also be used for handling ticketing and smart 
+card related queries of the computers. Further, the applicant would also be 
+responsible to maintain continuity of the AFC system in bus stations as well 
+as the Buses in case of any stoppage or failures. This activity would be carried 
+out in second phase of the Contract i.e. post completion of the AFC System.  
+  
+18.2 Maintenance and Management of the AFC system during Contract 
+Period: 
+ 
+The applicant is required to maintain and manage all hardware and 
+software forming part of the AFC system during the contract period (this would 
+range from 7-10 years). This would typically include repair and maintenance of 
+hardware and software and ensuring that the AFC system continues to function 
+as per the agreed parameters. This would also include supply of spares etc. for 
+undertaking repairs, in case required. 
+ 
+19. 
+In the subject case, we, thus, find that the proposed contract is for supply 
+of the AFC system comprising supply of multiple hardware and software and 
+commissioning, installation and integration of the same. Under said contracts, 
+the hardware and software to be provided by the applicant consists of POS 
+machines, ETMs, flap gates, validators, station servers, communication 
+components, control centre hardware, manual swing gates for disabled etc.. All 
+the supplies i.e. hardware, software, installation and integration etc. are integral 
+part of the AFC system. 
+ 
+20. 
+On perusing the submissions of the applicant and the documents 
+submitted by them, we find that the basic issue before us is whether in the subject 
+case there is a supply of “Works Contract” or “Composite Supply”.  
+ 
+21. 
+We shall now discuss the provisions relating to “Works Contract” and 
+“Composite Supply”. Under GST laws, the definition of “Works Contract” has been 
+restricted to any work undertaken for an “Immovable Property” unlike the 
+erstwhile VAT and Service Tax provisions where works contracts for movable 
+properties were also considered.  
+ 
+22. 
+The “Works Contracts” has been defined in Section 2(119) of the CGST Act, 
+2017 as:  
+ 
+“works contract” means a contract for building, construction, fabrication, 
+
+
+ 
+ 
+   
+18
+completion, erection, installation, fitting out, improvement, modification, repair, 
+maintenance, renovation, alteration or commissioning of any immovable property 
+wherein transfer of property in goods (whether as goods or in some other form) is 
+involved in the execution of such contract.”  
+ 
+22.1 From the above, it, thus, can be seen that the term “works contract” has 
+been restricted to contract for building construction, fabrication etc. of any 
+immovable property only. Any such composite supply undertaken on goods say 
+for example a fabrication or paint job done in automotive body shop will not fall 
+within the definition of term works contract per se under GST. Such contracts 
+would continue to remain composite supplies, but will not be treated as a Works 
+Contract for the purposes of GST.  
+23. 
+As per Para 6 (a) of the Schedule II to the CGST Act, 2017, works contracts 
+as defined in Section 2(119) of the CGST Act, 2017 shall be treated as a supply of 
+services. Thus, there is a clear demarcation of a works contract as a supply of 
+service under GST. Hence, Works contract will be treated as service and tax would 
+be charged accordingly.  
+24. 
+In present case, it would also be relevant to ascertain whether setting up 
+of the AFC System (comprising of Hardware and Software) would result into an 
+immovable property to determine whether such supply would qualify as “Works 
+Contract” under Section 2(119) of the CGST Act, 2017. To qualify as an immovable 
+property, the AFC System supplied by the applicant would need to be permanently 
+fastened to anything attached to the earth.  
+ 
+25. 
+As per the applicant, apart from the flap gates and manual swing gates, 
+which can arguable to be said to be fixed/ annexed to immovable property, rest 
+all hardware to be supplied under said contracts are movable property. The flap 
+gates, POS machines and manual swing gates are attached with screws and bolts 
+at the entry gates of the bus station. These flap gates can be easily removed 
+without damaging such gates and re-attached to some other locations. Hence, it 
+cannot be said that such gates are permanently embedded to the bus stations 
+and, hence, should be considered as an immovable property. Further, the flap 
+gates are just a part of the AFC system and is not the main equipment of the AFC 
+system. Even if, it is argued that the flap gates are permanently fastened to the 
+earth and form part of the immovable property, it cannot be construed that the 
+whole AFC system would form part of the immovable property.  
+ 
+26. 
+The applicant further submitted that in case of city buses, hand held ETM 
+machines with electronic payment integration are provided for the AFC system. 
+In certain cases, Pole Validators with the AFC system are installed on the buses. 
+Considering that the buses are movable properties, such equipment would not be 
+construed as immovable property. Further, the purpose and function of the AFC 
+system installed on the city buses and BRTS bus stations is the same i.e. fare 
+
+
+ 
+ 
+   
+19
+collection and providing seamless travel with a single smart card/ticket. Hence, 
+it can be seen that the fixation/ attachment of the hardware to bus station/ 
+terminal is not mandatory for the whole system to operate.  
+ 
+27. 
+In view of the above, we agree with the applicant’s contention that the 
+contract for supply of the AFC system to the local authority does not qualify as a 
+‘Works contract’ under Section 2(119) of the CGST Act, 2017, since the installed 
+AFC system cannot be said to result in the emergence of an immovable property.  
+ 
+28.  
+As observed herein above that the AFC system is not an immovable 
+property as it can be dismantled and moved to a different location without any 
+damage. We further find from their submissions and agreement that the contract 
+is considering a clear demarcation of goods & services to be provided by the 
+applicant. Now, we have to decide whether the supplies are naturally bundled & 
+in conjunction with each other as required by the definition of “composite supply”. 
+Hence, we refer to the definition of `Composite Supply’ as mentioned in sub-
+section (30) of Section 2 of CGST Act, 2017, which is as under: 
+ 
+`Composite supply means a supply made by a taxable person to a recipient 
+consisting of two or more taxable supplies of goods or services or both, or any 
+combination thereof which are naturally bundled and supplied in conjunction with 
+each other in the ordinary course of business, one of which is a principal supply’.
+ 
+ 
+29. 
+Thus, for a supply to qualify as a ‘composite supply’, the following needs to 
+be satisfied: 
+ 
+(i) 
+There should be more than two supplies of goods or services or both; 
+ 
+(ii) 
+They should be naturally bundled and supplied in conjunction with 
+each other in the ordinary course of business; and 
+ 
+(iii) 
+There should be one principal supply. 
+ 
+30. 
+The above conditions have been examined in the present case, as under: 
+ 
+30.1 There should be more than two supplies of goods or services or both: 
+ 
+In the current case, there are more than two supplies of goods (hardware) 
+and services (software) and commissioning and installation of hardware, software 
+(services). Thus, there is supply of more than two goods and services. Hence, this 
+condition is satisfied. 
+ 
+30.2  They should be naturally bundled and supplied in conjunction with each  
+other in  the ordinary course of business: 
+ 
+The Flyers issued by the Central Board of Excise and Customs (‘CBEC’) 
+for composite and mixed supplies have provided guidance on how to determine 
+
+
+ 
+ 
+   
+20
+whether supplies are naturally bundled in the ordinary course of business as 
+below: 
+ 
+“Whether services are bundled in the ordinary course of business would 
+depend upon the normal or frequent practices followed in the area of business to 
+which services relate. Such normal and frequent practices adopted in a business 
+can be ascertained from several indicators some of which are listed below: - 
+ 
+• 
+The perception of the consumer or the service receiver. If large number of 
+service receivers of such bundle of services reasonably expect such services 
+to be provided as a package, then such a package could be treated as 
+naturally bundled in the ordinary course of business. 
+ 
+• 
+Majority of service providers in a particular area of business provide similar 
+bundle of services. For example, bundle of catering on board and transport 
+by air is a bundle offered by a majority of airlines. 
+ 
+• 
+The nature of the various services in a bundle of services will also help in 
+determining whether the services are bundled in the ordinary course of 
+business. If the nature of services is such that one of the services is the main 
+service and the other services combined with such service are in the nature 
+of incidental or ancillary services which help in better enjoyment of a main 
+service. For example, service of stay in a hotel is often combined with a 
+service or laundering of 3-4 items of clothing free of cost per day. Such service 
+is an ancillary service to the provision of hotel accommodation and the 
+resultant package would be treated as services naturally bundled in the 
+ordinary course of business. 
+  
+• 
+Other illustrative indicators, not determinative but indicative of bundling of 
+services in ordinary course of business are – 
+ 
+ 
+There is a single price or the customer pays the same amount, no matter 
+how much of the package they actually receive or use. 
+ 
+ 
+The elements are normally advertised as a package. 
+ 
+ 
+The different elements are not available separately. 
+ 
+ 
+The different elements are integral to one overall supply - if one or more 
+is removed, the nature of the supply would be affected. 
+ 
+In this case, the applicant would be awarded a consolidated contract for 
+supply of the AFC system which involves supply and installation of hardware and 
+software and integration of the AFC system with the Citywide Common Payment 
+system. The contract would be awarded by the local authority to the applicant for 
+providing the AFC system and not for individual hardware and software. The 
+ownership of the AFC system would only pass on to local authority only once the 
+
+
+ 
+ 
+   
+21
+same is installed, tested and commissioned. Therefore, the supplies are perceived 
+by local authority as a naturally bundled supply. Further, it can be seen from the 
+existing contract that the requirement of local authority is to obtain complete AFC 
+system and not individual hardware and software which form part of the AFC 
+system. Even if one or more of the elements are removed, the functioning of the 
+AFC system would get affected.  
+ 
+Further, we find that that while providing, the AFC system is the principal 
+supply, supply of hardware and software would be incidental to the main supply 
+of the AFC system. Hence, this test found to be satisfied. 
+ 
+30.3 There should be one principal supply: 
+ 
+As discussed above, in this case, there is one principal supply of the AFC 
+system. Supply of hardware and software would be incidental to the main supply 
+of the AFC system. Hence, this condition also appears to be satisfied. 
+ 
+31.  
+From the discussions made above, we find that in the contract submitted 
+by the applicant, the major part of the contract is supply of goods (hardware) i.e. 
+POS machines, ETMs, Flap gates, Validators, Station servers, Communication 
+components, Control centre hardware, Manual swing gates for disabled etc.. All 
+these goods are integral part of the AFC system. These goods are being delivered 
+to the client by the applicant and such goods that are supplied are used by the 
+applicant to provide services of installation, testing and commissioning of the AFC 
+System. Without these goods, the services cannot be supplied by the applicant 
+and, therefore, we find that the goods (hardware) and services (software, 
+installation and integration etc.) are supplied as a combination and in conjunction 
+and in the course of their business where the principal supply is supply of goods. 
+Thus, we find that there is a composite supply in the subject case. 
+ 
+32. 
+Now that we have found that there is no works contract involved in the 
+subject case and the supply is nothing but a composite supply with supply of 
+goods being the principal supply, we come to the second question raised by the 
+applicant which is, whether the supply made by the applicant under the AFC 
+project would qualify as an original works meant predominantly for use other than 
+for commerce, industry, or any other business or profession, thereby attracting GST 
+rate of 12% provided in the Notification No. 24/2017-Central Tax (Rate) dated 21st 
+September, 2017? 
+ 
+33. 
+As per the Notification No. 24/2017–Central Tax (Rate) dated 21st  
+September, 2017, the CGST rate of 6% has been prescribed for services provided 
+to a local authority by way of erection, commissioning, installation, of a civil 
+structure or any other original works meant predominantly for use other than for 
+commerce, industry, or any other business or profession. The relevant extract of 
+the Notification is provided below for ready reference: 
+ 
+
+
+ 
+ 
+   
+22
+Description of Service  
+Rate (per 
+cent.)  
+Condition 
+………. 
+“(vi) Services provided to the Central Government, 
+State Government, Union Territory, a local authority 
+or a governmental authority by way of construction, 
+erection, commissioning, installation, completion, 
+fitting out, repair, maintenance, renovation, or 
+alteration of –  
+ 
+(d) a civil structure or any other original works 
+meant predominantly for use other than for 
+commerce, industry, or any other business or 
+profession; 
+ 
+(e)  a structure meant predominantly for use as (i) 
+an educational, (ii) a clinical, or(iii) an art or 
+cultural establishment; or 
+  
+(f) a residential complex predominantly meant for 
+self-use or the use of their employees or other 
+persons specified in paragraph 3 of the 
+Schedule III of the Central Goods and Services 
+Tax Act, 2017. 
+6 
+- 
+(vii) Construction services other than (i), (ii), (iii), (iv), 
+(v) and (vi) above. 
+9 
+- 
+ 
+34. 
+Further, “Original works” has been defined in the GST regime, vide para 
+2 of the Notification No. 12/2017-Central Tax (Rate) dated 28th June, 2017, as 
+under: 
+ 
+“(zs) “original works” means- all new constructions;  
+ 
+(i) 
+all types of additions and alterations to abandoned or 
+damaged structures on land that are required to make them 
+workable;  
+ 
+(ii) 
+erection, commissioning or installation of plant, machinery or 
+equipment 
+or 
+structures, 
+whether 
+pre-fabricated 
+or 
+otherwise;” 
+ 
+34.1 From the above definition of “Original works”, it appears that the original 
+works only includes erection, commissioning and installation services for a plant, 
+machinery or equipment and does not cover supply of such equipment. 
+ 
+
+
+ 
+ 
+   
+23
+35. 
+In this case, the proposed contract is for supply of the AFC system 
+comprising supply of multiple hardware and software and commissioning, 
+installation and integration of the same. All the supplies i.e. hardware, software, 
+installation and integration etc. are integral part of the AFC system and any of 
+such individual supply is not the principal supply. The principal supply would be 
+the goods i.e. the AFC system as a whole. Thus, the services of commissioning 
+and installation cannot be said to be a principal or main supply under the 
+contract.  
+ 
+35.1 Further, typically, there is no separate price for such commissioning and 
+installation services specified under the contract. The price of the whole AFC 
+system is inclusive of commissioning and installation charges and the same 
+cannot be separately identified. The relevant extract from the existing Contract 
+has been provided below for ready reference: 
+ 
+“25.1 Prices of Hardware, software to be designed developed, supplied, 
+installed and Payment Terms: 
+  
+The agreed terms of prices of hardware and software are stipulated 
+below:  
+ 
+(v) The prices of hardware and software units to be supplied and 
+installed are inclusive of all taxes, duties, sales tax, excise duty and 
+VAT. 
+ 
+(vi) The Prices are inclusive of installation and commissioning 
+charges. 
+ 
+(vii) The prices of hardware and software are inclusive of warranty, 
+operation and maintenance costs for one year of operation. The 
+operation shall be considered to start from the date of issuance of 
+Project Acceptance /Go Live Certificate for Request Order issued. 
+ 
+(viii) 
+The Payment shall be made in local currency only i.e. in INR. 
+  
+36. 
+In view of the above, we find that the supply of the AFC system would not 
+qualify as ‘original works’. Thus, the rate of 6% as provided in entry number (vi) 
+of the Notification No.11/2017 – Central Tax (Rate) as amended by the Notification 
+No. 24/2017 - Central Tax (Rate) should not be applied in case of the AFC system.  
+ 
+37. 
+Now, we come to the third question raised by the applicant which is, 
+whether the HSN classification of supply made by the applicant would fall under 
+‘8470’ or ‘9954’? 
+ 
+38. 
+The description of the HSN code ‘9954’ as provided in the Notification No. 
+11/2017 – Central Tax (Rate) dated 28th June, 2017 is “composite supply of works 
+
+
+ 
+ 
+   
+24
+contract as defined in clause 119 of section 2 of the Central Goods and Services 
+Tax Act, 2017”. 
+ 
+38.1 As discussed above, the supply to be made under proposed Contract by the 
+applicant does not qualify as a “Works contract”. Since, the supply by the 
+applicant does not qualify as works contract, such supply should not get classified 
+under ‘9954’.  
+ 
+39. 
+Further, the description of the HSN code ‘8470’ as provided in the 
+Notification No.01/2017-Central Tax (Rate) dated 28th June, 2017 is “calculating 
+machines and pocket-size data recording, reproducing and displaying machines 
+with calculating functions; accounting machines, postage-franking machines, ticket-
+issuing machines and similar machines, incorporating a calculating device; cash 
+registers”.  
+ 
+39.1 Considering that the main purpose of the AFC system is to compute the 
+fare automatically and issue tickets along with integration of the system with the 
+banks, the most appropriate HSN classification is to be ‘8470’. Considering the 
+rate of GST prescribed for HSN ‘8470’ is 18%, the same should be applicable in 
+this case.  
+ 
+40. 
+Now, we come to the last question raised by the applicant which is, whether 
+the maintenance and management services post implementation would qualify as 
+composite supply as defined under section 2(30) of the CGST Act, 2017? Further, 
+whether such supply would be eligible for exemption under Notification 
+No.12/2017-Central Tax (Rate) dated 28 June 2017 in case value of supply of 
+goods constitutes not more than 25% of the value of the said composite supply? 
+ 
+41. 
+Apart from installation of the AFC system, the applicant would also be 
+responsible to maintain and manage the AFC system for a period agreed in the 
+contract. Such maintenance activity would also involve replacement of defective 
+parts with spare parts to ensure smooth functioning of the AFC system. There is 
+no separate consideration for parts to be supplied and consolidated fee for 
+management or maintenance services is charged. Considering that multiple 
+supplies are being provided for a consolidated fee, the concept of composite supply 
+would need to be discussed.  
+ 
+41.1 “Composite supply” is defined as supply made by a taxable person to a 
+recipient consisting of two or more taxable supplies of goods or services or both, or 
+any combination thereof, which are naturally bundled and supplied in conjunction 
+with each other in the ordinary course of business, one of which is a principal 
+supply. Thus, for a supply to qualify as a composite supply, the following 
+conditions need to be satisfied: 
+ 
+• 
+There should be more than two supplies of goods or services or both: 
+ 
+
+
+ 
+ 
+   
+25
+In the current case, there are more than two supplies of goods (hardware) 
+and services (software, installation, integration and commissioning of hardware, 
+maintenance and management of the AFC system). Thus, there is supply of more 
+than two goods and services. Hence, this condition is satisfied. 
+ 
+• 
+They should be naturally bundled and supplied in conjunction with each 
+other in the ordinary course of business: 
+ 
+In this case, the applicant would be awarded a comprehensive contract for 
+design, development, implementation, maintenance and management of open 
+loop solution based AFC System for BRTS and City Bus Operation in Surat City. 
+As per the Contract, the applicant is required to maintain and manage all 
+hardware and software forming part of the AFC system during the contract period 
+(this would range from 7-10 years). This would typically include repair and 
+maintenance of hardware and software and ensuring that the AFC system 
+continues to function as per the agreed parameters. This would also include 
+supply of spares etc. for undertaking repairs, in case required. Thus, the said 
+contract would be awarded for supply of the AFC system along with maintenance 
+and management of the all hardware and software forming part of the AFC 
+system. The proposed contract is not for individual supply of service of 
+maintenance and management of the AFC system.  Therefore, the supplies are 
+perceived by local authority as a naturally bundled supply. Further, it can be seen 
+from the existing contract that the requirement of local authority is to obtain 
+complete AFC system along with maintenance & management of all hardware and 
+software forming part of the AFC system during the contract period and not 
+individual service (i.e. maintenance & management). Even if one or more of the 
+elements are removed, the functioning of the AFC system would get affected.    
+ 
+Further, we find that that while providing the AFC system, which is the 
+principal supply, supply of goods (hardware) and services (software, installation 
+& commissioning, maintenance and management) would be incidental to the 
+main supply of the AFC system. Hence, this test found to be satisfied. 
+ 
+• 
+There should be one principal supply: 
+In the current case, the objective/intention of the recipient is to 
+receive the AFC system. Hence, the principle supply would be of the AFC 
+System. Supply of service (maintenance and management) would be 
+incidental to the main supply of the AFC system. Hence, this condition is 
+also satisfied. 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+   
+26
+41.2 In view of the above, we find that the supply of the maintenance and 
+management services to be provided post implementation of the AFC system 
+under proposed contract would also qualify as a ‘composite supply’ with the AFC 
+system, being the principle supply. 
+ 
+42. 
+Now, we come to the question whether supply of the maintenance and 
+management services post implementation of the AFC system would be eligible for 
+exemption under Notification No.12/2017-Central Tax (Rate) dated 28 June 2017 
+in case value of supply of goods constitutes not more than 25% of the value of the 
+said composite supply.   
+ 
+42.1 The Notification No. 12/2017 – Central Tax (Rate), dated 28th June, 2017, 
+as amended by the Notification No.02/2018–Central Tax (Rate) dated 25th 
+January, 2018 provides that composite supply of goods and services in which the 
+value of supply of goods constitutes not more than 25 percent of the value 
+of the said composite supply provided to the Central Government, State 
+Government or Union territory or local authority or a Governmental 
+authority or a Government Entity by way of any activity in relation to any 
+function entrusted to a Panchayat under article 243G of the Constitution or in 
+relation to any function entrusted to a Municipality under article 243W of the 
+Constitution would be exempted from levy of GST. 
+ 
+42.2 We find that the said contract would be awarded for supply of the AFC 
+system along with maintenance and management of the all hardware and 
+software forming part of the AFC system.  The supply of the AFC system comprises 
+supply of goods (multiple hardware) and services (software, installation, 
+commissioning, integration of the same). Further, the maintenance and 
+management would also include supply of spares etc. for undertaking repairs of 
+the AFC system. The proposed contract, thus, comprises composite supply of 
+goods and services. We further note from the contract that the value of the supply 
+of all goods (hardware, spares etc.) under the proposed contract constitutes more 
+than 25% of the value of the said composite supply. Further, the proposed 
+contract is to be awarded by the Surat Municipal Corporation (‘SMC’) and M/s 
+Surat Smart City Development Limited (SSCDL) to the applicant. We find that 
+M/s SSCDL is a company incorporated under the Companies Act, 2013 and, 
+hence, does not fall under the definition of the local authority or a Governmental 
+authority or a Government Entity. As such, supply of the maintenance and 
+management services to be provided post implementation of the AFC system does 
+not eligible for said exemption. 
+  
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+   
+27
+43.  
+In light of the foregoing, we rule as under –  
+ 
+R U L I N G  
+ 
+Question 1: Whether the supply made by the applicant under the Automatic Fare 
+Collection (AFC) project would qualify as: (a) ‘works contract’ defined under 
+section 2(119) of the CGST Act, 2017; or (b) ‘composite supply’ defined under 
+section 2(30) of the CGST Act, 2017? 
+ 
+Answer: The supply made by the applicant under the Automatic Fare Collection 
+(AFC) project would qualify as ‘composite supply’ defined under section 2(30) of 
+the CGST Act, 2017. 
+ 
+Question 2: Whether the supply made by the applicant under the AFC project 
+would qualify as an original works meant predominantly for use other than for 
+commerce, industry, or any other business or profession, thereby attracting GST 
+rate of 12% provided in the Notification No. 24/2017-Central Tax (Rate) dated 21st 
+September, 2017? 
+ 
+Answer: The supply made by the applicant under the AFC project does not qualify 
+as an original works meant predominantly for use other than for commerce, 
+industry, or any other business or profession, thereby GST rate of 12% provided 
+in the Notification No. 24/2017-Central Tax (Rate) dated 21st September, 2017 
+would not be applicable.  
+ 
+Question-3 Whether the HSN classification of supply made by the applicant 
+would fall under ‘8470’ or ‘9954’? 
+ 
+Answer: 
+The HSN classification of the supply made by the applicant is to be 
+‘8470’. The Rate of GST for the same is 18%.  
+ 
+ 
+Question-4: Whether the maintenance and management services post 
+implementation would qualify as composite supply as defined under section 2(30) 
+of the CGST Act, 2017? Further, whether such supply would be eligible for 
+exemption under Notification No.12/2017-Central Tax (Rate) dated 28th June, 
+2017 in case value of supply of goods constitutes not more than 25% of the value 
+of the said composite supply? 
+ 
+Answer: 
+The maintenance and management services to be provided post 
+implementation of the AFC system under proposed contract would qualify as 
+“composite supply” with the AFC system, being the principle supply, as defined 
+under section 2(30) of the CGST Act, 2017. Further, such supply would not be 
+eligible for exemption provided under Notification No.12/2017-Central Tax (Rate) 
+dated 28th June, 2017 as amended by the Notification No.02/2018–Central Tax 
+(Rate) dated 25th January, 2018, as (i) the value of the supply of all goods (i.e. 
+hardware for AFC System & spares for its repairs) under the proposed contract 
+
+
+ 
+ 
+   
+28
+constitutes more than 25% of the value of the said composite supply; and (ii) the 
+said composite supply is to be made to the SMC and M/s SSCDL, which is a 
+company incorporated under the Companies Act, 2013 and, hence, not fall under 
+the definition of the local authority or a Governmental authority or a 
+Government Entity. 
+ 
+ 
+(SANJAY SAXENA)    
+ 
+        (MOHIT AGRAWAL)    
+      MEMBER                  
+ 
+      MEMBER  
+ 
+Place: Ahmedabad   
+Date:  19.05.2020.

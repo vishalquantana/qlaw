@@ -1,0 +1,653 @@
+Le HARYANA AUTHORITY FOR ADVANCE RULING, . TION
+GOODS AND SERVICES TAX, : AM
+HARYANA VANUYA BHAWAN, PLOT NO I-3, SECTOR 5, MARKET
+
+PANCHKULA-134151 (HARYANA)
+
+ADVANCE RULING NO. HAR/HAAR/R/2018-: 19/25
+(In Application No. 25/2018-19, dated 21 08.2018)
+
+Name & Address of the Applicant oi ‘M/s Ecoppia Scientific LLP, Level 6, Wing
+. ' | B, Two Hofizon Centre, Golf Course Road,
+DLF-5, Sector-43, Gurgaon-122002
+
+. . (HARYANA)
+GSTIN of the Applicant | — _[ + | OGAAFFE9473L1ZX
+Date of Application i | 21.08.2018
+
+| Clause(s) of Section 97(2) of Cast/HesT : | @) Classification of goods and/or services
+Act, 2017, under which the question(s) or both
+
+raised. (v) Determination of the liability to pay tax
+. on any goods or services or both
+
+Date of Personal Hearing : | 19.11.2018.
+
+Present for the Applicant. |: | Ms. Tanushree Roy, Consultant,.Ms: Tanu
+
+Garg, Consultant, Sh. Amit Singla, AVP
+(Operation), Sh. Eran Meller, CEO, Sh.
+Areye Lumelsky, Director (Finance) and
+Shailey Malik, Manager Finance.
+
+1. M/s Ecoppia Scientific LLP, Level 6, Wing B, Two Horizon Centre, Gold Course Road,
+DLF-5, Sector-43, Gurgaon-122002 (HARYANA) [hereinafter referred to as the “applicant”],
+-has submitted that they are engaged in the business of designing, ‘supplying. and
+installation of solar powered Robotics Cleaning System (hereinafter referred as 'RCS', also
+{ER s ‘E4’) for cleaning photovoltaic solar panel arrays in solar parks, RCS is a water-
+“free € ing system for utility-scale solar installations and removes soiling using a
+
+cr omens of three factors:
+
+" -
+i an AL Ami microfiber that gently wipes soiling away;
+ee airflow over the panel surface and
+© gravity to ensure soiling is moved downwards and off Pomp rows.
+
+2. Ecoppia's end-to-end cleaning solution is enabled by a unique watei-free robotic
+cleaning process, offering an alternative to the traditional water and labour intensive
+techniques. Each £4 cleaning fleet is remotely managed from a dashboard or mobile app;
+
+3. Each robot uses a dedicated solar panel to charge- onboard batteries, requiring no
+external power supply. The microfiber elements with controlled. air flow, robots utilize
+gravitation to move dust particles downwards and off the panels, The robots move along a
+rigid aluminum frame using wheels coated with polyurethane to ensure smooth movement ©
+and no foad on the solar panels" surface (i.e. the robot carry out repeatedly a cycle of
+movements) Each cleaning robot is powered by five electric motors - two motors driving the
+_ horizontal movement along the solar panel row, two motors powering the vertical up-and-
+~~. down movement, and ‘one motor operating the rotation of the microfiber elements. To
+“maintain a smooth ‘sustainable upward and downward movement, the £4 robot uses a
+winch system with two coated silicon rubber wires that operate angularly, from opposite
+sides of the winch cylinder to the centre point of the microfiber cylinder frame;
+| |
+4. " When not cleaning, robots are securely locked i in their docking stations (which serves
+also as ‘the charging station) outside of the solar’PV row, protected from the elements and
+
+2é
+
+
+.« Strong. winds. Charging occurs during the day while the robots are docked, with a full
+battery charge typically supporting 3. sequential cleaning cycles - ensuring that the E4 will
+be available to clean even during extended cloudy periods or dust storms. Ecoppia's
+
+' patented Eco-hybrid-technology further increases the energy efficiency of the system by
+capturing potential energy of the robots during their descent on the solar panels -and
+converting it to kinetic enérgy, decreasing lost energy and extending the useful battery life.
+Upon completion of a cleaning descent, the [4 robot performs a rapid auto-clean of the
+Micro fiber elements before ascending the panel again. An additional self-cleaning routine
+
+is carried out at the end of the cleaning cycle, before the robot returns to its docking
+station; : :
+
+5. The Applicant typically enters into a supply agreement with its customers. Scope of
+the said supply agreements essentially involve: . ;
+
+¢ Supply and delivery of RCS; and . :
+
+ . Erection, Commissioning and installation of the RCS (so. supplied) on the customer's
+solar panels at customer premises. It is relevant to note that civil works (for
+installation of the RCS) is not undertaken by the Applicant at customer premises at
+
+any point in time; the installation, erection and commission uses simple nuts, bolts
+and torque wrench —similar to installation of television sets in a house.
+
+6. The Applicant raises invoices on the customer towards the sale of cleaning systems
+[comprising of supply and delivery of RCS.as well as installation of the RCS (so supplied) at
+customer premises]. The payment is made, typically on a milestone basis, as per the terms
+and conditions of the respective supply agreement.
+
+7.1. QUESTION 1 - Whether the solar powered RCS/ E4 supplied by the Applicant
+qualifies as a ‘solar power based device’ in terms of sub-clause (b) of Entry no. 234 of
+Notification no.1/ 2017 integrated Tax (Rate) dated 28 June 2017 (as amended from time to
+time) liable to GST @ 5%? Further, what would be the most appropriate 4-digit HSN
+classification under which solar powered RCS should be classified; for GST purposes.
+
+7.2. The GST Rate Notification, inter alia, provides as follows:
+
+CHAPTER! HEADINGI|
+
+. SUB-
+S.No. 5 DESCRIPTION OF GOODS GST RATE
+ARI H EADING/T) ARIFF : /
+COB! ITEM ; ;
+& VEN Following renewable energy devices &!
+H 5 3} . jparts for their manufacture
+(3, HaRvana {S) (a) Bio-gas plant
+Ks Ss ; . {b) Solar power based devices :
+EE 4 . (c) Solar power generating system .
+(d) Wind -mills,, Wind Operated}
+Electricity
+: : "(Generator (WOEG)
+234. . 84,85 or 94 (e) Waste to energy plants/ devices 5%
+tf) Solar tantern/solar lamp
+: (g) | Ocean waves/tidal waves energy
+~~. " \devices/plants _—
+we ; (h) Photo voltaic cells, whether of
+‘ : : not :
+
+assembled in modules or made up into
+panels ‘
+
+
+
+ae Relevant extracts of Tariff Heading 8479 of the First Schedule to the Customs Tariff
+Act, 1975 (‘Customs Tariff’) reads as follows:
+
+Tariff item Description of Goods
+
+8479 ’ | MACHINES AND MECHANICAL APPLIANCES HAVING
+- INDIVIDUAL. FUNCTIONS, NOT SPECIFIED OR
+INCLUDED ELSEWHERE IN THIS CHAPTER
+
+8479 50 00 - . Industrial robots, not elsewhere specified or included
+
+84799090 Sail Other
+
+Explanatory notes to Chapter 84 clearly states "Subject to Note 2 to this Chapter and Note 3
+to Section XVI, a machine, the principal purpose.of which is not described in any heading or
+for which no one purpose is the principal purpose is, unless the context otherwise requires, -
+to be classified in heading 8479." :
+
+’ Further, Explanatory notes to HSN classification state as follows w.r.t Industrial robots:
+
+“Industrial robots for multiple uses. industrial robots are automatic machines which can be
+programmed to carry out repeatedly a cycle of movements. By the use of sensors, industria!
+robots are able to acquire information about .the field in which they operate and to analyse
+the information thus obtained to be able to adopt their pattern of activity to variations in
+their field of operation.
+
+Industrial robots may consist of an articulated structure comparable to that of the human
+arm, mounted on a base in a horizontal or vertical position and having at its extremity a
+mobile holder for the tool holder {so called vertical robots). They may consist of a
+rectilinear structure often moving on a vertical axis of which the holder forms the terminal
+part « of the operating mechanism often moving on a horizontal axis.
+
+ER fisrent parts of the structure are activated by electric-motors or by means of
+A hydrauiie| ‘or pneumatic system.
+
+ssembling, metal trimming, etc. They are replacing humans in tasks performed in
+hostile environment (with toxic products, dust, etc) or with laborious tasks (moving of
+
+heavy loads, repetitive tasks of a boring nature). For these varied applications, robots are
+equipped with a tool holder and tools specifi ically designed for the accomplishment of the
+task (pincers grippers, welding heads, for example}.
+
+t HARA oe oe
+i robots have many uses; welding, painting, handling, loading and unloading.,
+OP me
+ae
+
+The heading covers only industrial robots capable of performing a variety of functions
+
+' simply by using different tools However, the heading excludes those industrial robots
+specifically designed to perform a specific function; these industrial robots are classified in
+the heading covering their function (e g, heading 84 24; 84 28, 84.86 or 85.15).”
+
+7.3. The applicant submitted that the term ‘solar power based device has not been
+defined under the GST Act, Customs Tariff and the HSN Explanatory Notes. Therefore,
+
+‘ dictionary meanings need to be referred to. As per Oxford Dictionary, the term 'sotar-
+
+- powered. is defined as “Using power derived directly from the sun's rays" Additionally,
+7“ _ oxford Dictionary defines ‘device’ as "a thing made or adapted for a particular purpose,
+‘ ot,-especially a piece of mechanical or electronic equipment." Hence, device typically includes
+4 various components/ parts which are manufactured/ assembled together for performing a
+function. Various dictionaries define solar power based devices generally to mean the
+
+
+.. devices which are powered by sunlight, either directly or through electricity generated by
+solar panels.
+
+As per the Law Lexicon the term 'solar has been defined ‘ ‘as pertaining to the sun,
+measured by the progress of the sun; produced by the sun". Further the term device has
+been defined in the Law Lexicon Dictionary as "that which is devised or formed by design; a
+contrivance; an artificial contrivance. So also the term has been variously defined as
+
+meaning an invention; a stratagem, a project, and artifice, also, used to denote hearing or
+emblematic representation or motto;
+
+“Eurther, the scheme of the central Excise Tariff is based on Harmonised: System of
+Nomenclature (for short "HSN") and the explanatory notes thereto Therefore HSN along
+with the explanatory notes provides a Safe guide for interpretation of an entry”
+
+Even under erstwhile regime ‘solar power based-devices' have not been defined
+under any faw. However, under erstwhile Excise law, various exemptions were extended to
+non-conventional energy devices which included ‘Solar photovoltaic module and panel for
+water pumping and other applications' - List 8 of Notification no. 12/2012- Central Excise,
+dated 17 March 2012. The intent of law seems to be clear to provide benefit to solar power
+based devices. Further, it is.an accepted rule of interpretation that when an expression is
+not defined in the Act, natural and ordinary meaning 4of such expression must be kept in
+view [CC v Gujarat Perstorp Electronics Ltd. (2005) 75CC 118=186 ELT 52];
+
+Additionally, in terms of the rule of literal construction, the words of a statute are
+first understood in their natural, ordinary or popular sense and phrases and sentences are
+construed according to their grammatical meaning, unless that leads to some absurdity or
+unless there is something in the context or in the object of the statute to suggest the
+contrary. Thus, the cardinal rule of construction of statutes is to read the statutes literally, .
+that is by giving the words their ordinary, natural and grammatical meaning. If however
+
+eee @ reading leads to absurdity and the words are ‘susceptible to another meaning, the
+‘A 4D may adopt the same..But if no such alternative construction is possible, the court
+& must fot the ordinary rule of literal interpretation:
+
+_ L.
+8 MA Be refore, going by the rule of literal construction and in absence of specific
+, any device powered by solar power is a ‘solar powered based device’.
+
+RCS typically consists of a centrally managed fleet of cleaning robots, each assigned
+to a row of panels. RCS does not require any external energy source and is fully energy
+independent — an on board solar panel charges the £4 system batteries Each RCS is
+assigned to a specific solar row and includes its own electric motor, ,a set of two micro
+fiber cleaning modules, and communication board.RCS does not require any support from
+the solar panels on which it is installed and the whole set up is placed on rails.
+
+The various components/ substations of the RCS supplied by the Applicant for cleaning of
+the solar panels have been mentioned below:
+
+_ 1 Controt and power supply
+
+e Solar panel assembly- Sofar panel, positioned in the central lower part of the docking
+station outside the array, charges the batteries; -
+
+» Control box assembly- Control box includes programmable logic controller (PLC),
+od Power Board PCB, transceiver unit and wiring;
+
+nee * Batteries box assembly- Battery box consists of 4 batteries - 2 main and 2 back up
+supplies power of 24V for the system operation;
+
+
+ii. Main structure
+
+¢ . Main frame assembly - tt. is constructed from aluminum profiles, the main frame
+overlaps the width dimension of the solar row and has all other subsystems connected to it;
+
+* Left and right wheel assemblies - The wheels enable the movement of the frame and
+the robotic unit horizontally alongside the array;
+
+iii. Rotational cleaning Cylinder assembly (Cleaning apparatus) - The cleaning
+apparatus consists of two rotational cylinders with microfiber fins. A motor drives the unit
+with a belt system, and aluminum wheels. Cables drive the cleaning system. upward. and
+downward the main frame;
+
+iv. Winch Assembly -it includes a drum cylinder which is connected to the cables that
+are rolled up upon it. A cable arrangement between the winch and the cleaning apparatus
+ensures an orderly rolling of the cables on the winch drum. The drum is driven by two
+motors-generators. When the cleaning apparatus moves upward, the motors operate as
+regular DC motors, when the
+
+cleaning apparatus moves downward, the two DC motors operate as DC generators that
+control the rate of the cleaning unit while using the generated electricity to charge the
+
+batteries The motors generators are connected to the drum through design belts speed
+reduction transmission; .
+
+ve Horizontal drive assembly- Horizontal drive unit is assembled on the upper part of
+the E4 system and drives it along the panel array. Motors are assembled in the horizontal
+drive unit, and with belts, they turn the drive wheels;
+LED
+yy oy Vi. XE ‘trol and power supply unit frame:
+sy rol unit frame assembly - Components such as the power control unit and PLC
+< Jocated within boxes and are placed within the Control Unit Frame on part of the
+in structure;
+
+Vii, Docking system ©
+
+© Canopy assembly (optional) - A Canopy is placed on the upper part of the docking -
+systern to protect the robotic unit during the day and in between cleaning solar
+panel, The Canopy is an optional component;
+
+The applicant submitted that in view of the above, as a ‘solar power based device' and
+that the same is accordingly classifiable under Entry no. 234(b) (i.e. solar power based
+device) of GST Rate Notification, attracting GST '@ 5%.
+
+8.1. QUESTION 2 - Whether the supply of RCS along with provision of aricillary services,
+erection and commissioning services) by the Applicant can be construed as a Composite
+supply as per Section 2(30) of the CGST Act? If yes whether the principal supply in case of a
+
+Composite Supply can be said to be supply of RCS, chargeable to GST, at the rate
+determined in terms of Point (a) above?
+
+7. 8.2. The applicant submitted that Section 2(30) of the CGST Act defines ‘Composite
+
+‘ supply’ to mean "supply made by a taxable persan to a recipient consisting of two or more
+
+eel taxable supplies of goods or services or both, or any combination thereof, which are
+
+i naturally bundled and supplied in conjunction with each other in the ordinary course of
+’ business, one.of which is a principal supply";
+
+
+b. Section 2(90) of the CGST Act defines principal supply as "principal supply means the
+supply of goods or services which constitutes the ‘predominant element of a composite
+supply and to which any other supply forming part of that composite supply is ancillary";
+
+Thus, principal supply refers ta the supply which is the predominant element in a composite
+supply;
+
+Illustration: Where goods are packed and transported with | insurance, the supply of goods,
+packing materials, transport and insurance is.a composite supply and supply of goods i isa
+principal supply. : :
+
+c. Section 8 of the CGST Act states that the tax fiability. in case of a composite supply
+shalt be determined in the following manner, namely: - ‘
+
+"(a) a composite supply comprising two or more supplies, one of which is a principal supply,
+_ Shall be treated as a supply of such principal supply"
+
+Thus, in case of composite supply, the rate applicable on the principal supply applies on the
+entire bundle of taxable supplies.
+
+d. Section 2(119) of CGST Act defines ‘Works contract’ as follows:
+
+- “a contract for building, construction, fabrication, completion, erection, installation,
+fitting out, improvement, modification, repair, maintenance, renovation, alteration or
+commissioning of any immovable property wherein transfer of property in goods (whether
+as .3$ Boots or in some other form) is involved i in the execution of such contract."
+
+a — ee schedule li clause 6 of GST laws states : as under:
+6 ,
+ry
+he following composite supplies shall be treated as a-supply of services, namely:—
+3) HARYANA AS/
+ba OM orks contract as defined in clause (119) of section 2";
+
+Therefore, ‘works contract’ has.been deemed to be supply of ‘service’ under GST.
+The general. rate of GST on 'works contracts’ is 18%.
+
+8.3. Fram the definition of ‘composite supply’ in terms of Section 2(30) of the CGST Act, it
+follows that the essential conditions for a supply to qualify asa ‘composite supply’ are as-
+under;
+
+e There should be two or more supplies of goods or services or both,
+
+@ The taxable supplies should be naturally bundled;
+
+® Taxable supplies should be supplied in conjunction with each other;
+
+# One of the taxable supplies should be a principal supply. : :
+In such a case the supply which is the principal supply is treated as the main supply and the
+entire transaction is taxed as per the GST rate applicable: to the principal supply. .
+
+8.4. That the applicant typically enters. into a supply agreement with its customers. Scope
+of the said supply agreements essentially invalve: :
+e Supply and delivery of RCS; and
+e Erection, Commissioning and installation of the RCS (so supplied) on the customer's
+Ye. solar panels at agreed locations/ customer premises. _It is relevant to note that civil
+eo works (for instaliation of the RCS) is not undertaken by the Applicant at customer
+ze :
+
+ay * premises at any point of time.
+
+
+
+The Applicant raises invoices on the customer towards the sale of cleaning systems
+[comprising of supply and.delivery of RCS as well as installation of the RCS {so supplied) at
+customer premises]. The payment i is made, typically on a milestone basis, as per the terms
+and conditions of the respective agreement; Thus, the scope ‘of work of the Applicant
+involves supply of goods as well as installation services. It is evident that the principal
+supply in such contracts is the supply of RCS/ E4 along with ancillary services of erection,
+commissioning and installation of the RCS/ E4 at customer preinises.
+
+8.5 - Relevant extracts of various agreements entered. into by the Applicant
+- @ Relevant clauses of the Supply agreement between Ecoppia and Heramba
+Renewables Limited dated 26 May 2017:
+“Ecoppia and Purchaser shall hereinafter be referred to jointly as the "Parties," or singularly
+as a “Party” WHEREAS Ecoppia designs, manufactures and supplies robotic technology
+which {cleans photovoltaic solar panel arrays in solar parks, and .
+WHEREAS Purchaser desires that Ecoppia supplies, and Ecoppia agrees to supply such
+robotic technology to Purchaser for the PY Plant (as defined below) pursuant to the terms
+set forth herein below."
+2, Supply -
+Ecoppia agrees to undertake the design and supply of the products in accordance with the
+technical specifications provided for in Annexe 2.1{A) hereto (‘the Product “), pursuant to the
+milestones (each a ‘Milestone’ and together the ‘Milestones') and the time schedule (the
+Schedule) attached as Annexe 2.1(B) hereto.....
+4, Delivery and Instalfation; Title
+Ecoppia agrees to sell, assign, install, convey, handover and transfer the Systems specified in
+_-Annexure 4.1 hereto { ‘the System) to the Purchaser on a date (being the System installation
+we £8 ONDA). .
+or 4.6 \Gile e fo the Products shall pass to the Purchaser upon payment of the final
+Milestone, et forth in the Schedule
+Q\ 4 sneer .1{B) - The Milestones and the Schedule
+Ng le Milestones for the payment for the Products are as follows:
+; 359% of the Contract Price at commissioning against payment of the ABG; SPY
+to transfer advance amount of 25% and issue LCfor balance 75%, within 7
+days of receipt of ABG2
+3. 50% of the Contract Price on supply of the Products at the Site; SPV3.to transfer this
+amount within 7 days of receipt of invoice
+4, 10% of the Contract Price at Installation of all the Products; SPY to transfer this
+amount within 7 days of receipt of invoice and
+5. 15% of the Contract Price at the time af issuance of PBG, post commissioning. SPy to
+transfer this amount within 7 days of receipt of invoice or PBG4, whichever is later."
+"C. WHEREAS, the Supplier has expertise and. experience in the design, engineering,
+procuring, packing, loading, shipping, unloading, installation, construction, erection,
+inspection, interconnection, commissioning, testing, completion, documentation and
+delivery of robotic cleaning’ systems for the solar photovoltaic electricity generation,
+facilities in india, —
+D, WHEREAS, the Project. Company desires to engage the Supplier to design, engineer,
+procure, pack, load, deliver and unload, equip, install, construct, erect, inspect, interconnect,
+commission, test, complete, document and deliver the Robotic Systems (defined below), and
+the Supplier desires to provide such services ‘and is willing to guarantee the timely
+completion of the Works and the performance of the Robotic System, all in accordance with
+the terms and conditions set forth in this agreement.”
+‘Works’ means {1) the supply of the Robotics System, (ii) all erection, commissioning and
+testing works of the. Robotics System, {iii) any and all services, work and other actions
+.- performed by or to be performed. by Supplier and its Sub Suppliers, (iv) the obligations,
+hep, duties and responsibilities of Supplier set forth in Article 3, (v).other actions incidentat
+s'* ‘thereto which are reasonably required for performance of the Robotic Systems in
+accordance with this Agreetnent. ” -
+
+
+
+3.1 "Generally. Supplier shall perform all services necessary to procure, supply, pack, load,
+ship, and unload at the Site the Robotic System and design, engineer, equip, install,
+construct, erect, inspect, interconnect, commission, test, complete; document and deliver
+the Robotic System in accordance with,.... °
+’ "3.2 Design and Engineering.
+3.2.1 Supplier shall perform all design and, engineering of the Robotic System in accordance
+with all Contract Requirements...
+3.3 Robotic Systems.
+3.3.1 Supply
+Supplier shall manufacture, assemble and supply the'Robotic Systems in accordance with
+the Project Schedule and as otherwise required for the completion and safe and proper
+operation of the Facilities in accordance with (a) Applicable Law, (b) the Specifications, and
+(c) Prudent Utility Practices,”
+3.4 Installation, Erection, Construction and Inspection of Work.
+3.4.1 Setting Out. Supplier shall be responsible for accurately setting out, assembly.and
+installation of Robotic System inspection and quality control services required to ensure that _
+all Work is performed in accordance with this Agreement. Supplier shall be solely responsible
+for all construction méans methods techniques, sequences procedures, safety, and security
+programs in connection with the performance of the Work. :
+3.4.3 EPC-related Work. —
+{a} General. Supplier shall be responsible for the following (the "EPC- -relgted Work"):
+(i} co-ordination: with the EPC Contractor's for all interface related works until ‘Robotic
+Acceptance with O&M Contractor thereafter.
+(ii) the Supplier's obligations set forth in the scope matrix attached as Exhibit B hereto besesecore
+"2. Payment Terms:
+2.1 80% of the Contract Price on pro-rota basis for each batch of units delivered and
+shall. be payable. on delivery of the Robotic Systems at the Site as per approved billing
+breakup. Supplier shall be paid within 30 days from the date of submission of the
+following:.....
+2.2 10%ofthe Contract Price on prorata basis for each lot of Robot System within 30 days
+a oR Sof rebot commissioning for each lot of 25MWde Robotic System upon submission of the
+KP following:
+el 2.2.1 Agt et tance of Robotic Commissioning Certificate for each lot of 25.MWadc
+22.21 v0 ice
+3 HARSANA of the Contract Price on pro rota basis for each lot of Robotic System
+Ke ty ithin 30 days of Total Robotic Commissioning upon submission of the following:
+: Acceptance of Total Robotic Commissioning Certificate .
+2.3.2 Invoice
+. 2.4 . 5% of the Contract Price on pro rota basis for each fot of Robotic System within
+30 days of Robotic Acceptance Date upon submission of the following:
+24,1 Acceptance Certificate for achievement of Robotic Acceptance Date
+24.2 Invoice -
+
+8.6. The Applicant submits that on a reading of the above clauses of the agreements it is
+evident that the main intent of the agreements entered into by the Applicant is sale of RCS/
+E4. Services like erection, commissioning and installation are merely incidental/ ancillary to
+the supply of RCS/ E4. It is further submitted that the service portion of the contract is
+merely 10% to: 15% and major portion of the agreement pertains to sale of RCS. This
+substantiates the fact that provision of services is incidental to the supply of goods. Thus,
+sale of RCS/E4 by the. applicant is the principal supply and: the entire contract should be
+taxed as supply of RCS/E4, and GST should be attracted accordingly. Further, the services
+being incidental to the principal supply should also get covered as composite supply and
+oe taxable at the rate applicable to the principal supply of RCS/ E4 (i.e. solar power based
+*" device).
+@ vL In view of the above, it is submitted that in the instant case, the sale of the RCS is principal
+\ intent between the Applicant and its customers and the installation of RCS Is and incidental
+
+
+-+  attivity. Accordingly, the transaction should be treated as that of sale of RCS and GST
+should be levied accordingly. ‘
+
+8.7. Supply of RCS and its erection, installation and commissioning services are naturally
+bundled - that in order to make the RCS operational, it is essential that the same be erected
+and installed atop the solar panels, by way of nuts and bolts. Without such erection and
+commissioning activity, the RCS would not be able to function; that in the instant case the
+customer perceives the entire contract to be a contract for supply of RCS/ E4 as the intent
+of both the parties is supply of RCS, for cleaning of solar power plants! panels. Hence the
+entire contract for supply of RCS and its erection, commissioning and installation (both
+goods and services) are naturally bundled and linked wherein the main intent is sale of RCS
+(i.e. goods) for. cleaning of solar panels. ;
+
+in this regard, reliance has been placed on the case of T. V. Sundram lyengar & Sons
+v. The State of Madras [1975]22SCR372 ‘ .
+
+8.8. The applicant submitted that contracts entered into: by the Applicant do not
+constitute ‘Works Contract’ in terms of the OT legislation; that works contract is also
+defined as a composite contract and includes. a contract for building, construction,
+fabrication, completion, erection, installation, fitting out, improvement, modification,
+repair, maintenance, renovation, alteration or commissioning of any immovable property
+wherein transfer of property in goods (whether as goods or in some other form) is involved
+in the execution of such contract; that there is no civil works for erection and installation of
+
+. the RCS and as such RCS does not become part and parcel of any immovable property.
+Instead the contracts are entered into for sale of robots for cleaning of the solar panels to
+which the activities of erection/ commissioning/ installation etc. are only incidental.
+
+Even if the agreements entered into by the Applicant qualify as a composite supply, the
+principal supply would be that of sale of RCS and. not for provision of works contract
+wna senices. As highlighted above, the principal supply or dominant intent is sale of goods as
+EX Y je hence the entire contract should be taxable as the principal supply itself. Reliance
+a gon ‘the case of judgment of the Andhra Pradesh High court in the case of
+a Shipyard Limited. v State of Andhra Pradesh [(1997) 25 APSTJ 9] and following
+
+not India v.. Central India Machinery Manufacturing Co. Ltd. (1977) 2SCC847
+- Ernakularn t District Rolling Shutter Fabricators. Assn vs CCT (2009) 26 VST 499 (Kar HC 08
+
+~ Solid & Correct Engineering Works & Others Vs CCE Ahmedabad (2010 {4) T™! 15
+Supreme Court of India)
+
+- In Mallur Siddeswara Spinning Mills (P) Ltd Vs CCE Coimbatore {2004 (3) TMI 68 Supreme
+Court of India}
+
+- Perumal Naicker Vs T. Ramaswami Kane and Anr. (AIR 1969 Mad 346) ©
+
+RECORDS OF PERSONAL LL HEARING — 2 PROVISO TO SECTION 98(2) OF CGST/HGST ACT,
+2017
+
+10. Opportunity for personal hearing was granted to the applicant on 19.11.2018 which
+was attended by Ms. Tanushree Roy, Consultant, Ms. Tanu Garg, Consultant, Sh. Amit
+Singla, AVP (Operation), Sh. Eran Meller, CEO, Sh. Areye Lumelsky, Director (Finance) and
+
++7. Shailey Malik, Manager Finance. They had reiterated the submissions made by them in their
+application and the accompanying record.
+
+
+- + DISCUSSIONS AND FINDINGS OF THE AUTHORITY
+
+“11 We have carefully goné through the facts and records of the case. in the instant
+case, the applicant seeks advance ruling in the matter of classification and rate of GST
+applicable on the robotic cleaning systems (RCS) béing supplied by them. -
+
+12. The functioning of the said robotic cleaning systems, as is apparent from the
+submissions made by the applicant it is observed that the applicant is engaged designing,
+‘supplying and installation of solar powered Robotics Cleaning Systern for cleaning
+photovoltaic solar panel arrays in solar parks, Elaborate working and functioning of the said
+systems have been discussed in the preceding paras, on the basis of submissions made by
+the applicant. From the submissions of the applicant, it is observed that the said product, is
+working on solar power and thus, the same merits classification chapter heading 8479 and
+alsa qualifies as a ‘solar power based device’ in terms of sub-clause (b) of Entry no, 234 of
+Notification no.1/ 2017 Integrated Tax (Rate) dated 28 June 2017 (as, amended from time to
+time) liable to GST @ 5%.
+
+14. Apart from supply of “robotic cleaning system” the applicant is also engaged in
+installation of same. Hence, the applicant has also raised the question as to whether the
+‘supply of RCS along with provision of ancillary services, erection and commissioning
+services) by the. Applicant construes as a Composite supply as per Section 230) of the CGST
+Act. i
+
+15. In this regard, it is observed that Section 2(30) of the CGST Act defines ‘Composite
+
+. supply’ to mean “supply made by a taxable person to a recipient consisting of two or more
+
+taxable supplies of goods or services or both, or any combination thereof, which are
+
+naturally bundled and supplied in conjunction with each other in the ordinary course of
+
+business, one of which is a principal supply" and Section 2(90) of the CGST Act defines
+
+pei cipal supply as “principal supply means the supply of goods or services which
+
+Ebbets the predominant element of a composite supply and to which any other Supply ©
+or formi nt of that composite supply is ancillary".
+
+x Hartycthe' 1/ Section 8 of the CGST Act states that the tax liability in case of a composite supply
+Ls shall be: jetermined in the following manner, namely:
+fa),a-Composite supply comprising two or more supplies, one of which i isa principal supply,
+shall be treated as a supply of such principal supply" .
+
+16. In the instant case, indeed there are two supplies. Firstly, there being a supply of
+goods, i.e., “robotic cleaning systems” which qualifies as 'solar power based device’ in terms
+of sub-clause (b) of Entry no. 234 of Notification no.1/ 2017 tntegrated Tax (Rate) dated 28
+June 2017 (as amended from time to time) liable-to GST @ 5%. Secondly it is supply.of
+service also, related to installation, erection commissioning services of the said robotic
+cleaning systems supplied by the applicant. Therefore, the same comprises of two supplies
+and one of which, that is supply of robotic cleaning systems is a principal supply. We agree
+with the contentions of the applicant that supply of RCS and its erection, installation and
+commissioning services are naturally bundled - that in order to make the RCS operational, it
+-is essential that the same be erected and installed atop the solar panels, by way of nuts and
+bolts.
+Thus, in the instant case, the rate of tax applicable to this composite supply shall be
+the rate applicable on the principal supply, i.e., 5%.
+
+“ ADVANCE RULING UNDER SECTION 98 OF THE CGST/HGST ACT, 2017
+
+17:1. The impugned products, i.e., Robotic Cleaning System (RCS) merits classification
+oy chapter heading 8479 and. also qualifies as a ‘solar power based device’ in terms of sub-
+
+
+clause (b) of Entry no. 234 of Notification no.1/ 2017 integrated Tax (Rate) dated 28 June
+2017 (as amended from time to time) liable to GST @ 5%.
+
+17,2. Further, in ‘the instant case, there being two supplies, one of supply of goods, i.e.,
+“robotic cleaning systems” and other of erection and commissioning of same. They both
+are being naturally bundled, with supply of RCS being dominant part and erection
+commissioning being ancillary part, thus, the rate of tax applicable to this composite supply
+Shall be the rate applicable on the principal supply, i.e., 5%.
+
+Ordered accordingly,
+
+To be communicated.
+
+Dated : 20.11.2018 |
+Panchkula. . :
+oor
+(SangeetaKarmakar)
+Member CGST
+
+Regd. AD/Speed Post
+
+M/s Ecoppia Scientific LLP,
+
+Level 6, Wing B, Two Horizon Centre,
+Gold Course Road, DLF-5, Sector-43,
+Gurugram (East).
+
+Copy to: :
+‘1) The Commissioner, CGST Commissionerate , Gurugram, GST Bhawan, Plot No 36- 37,
+Sector 32, Gurugram, Haryana- 122001
+2) The Deputy Excise and Taxation Commissioner, Gurugram (East).
+3) The Assistant/ Deputy Commissioner, Central Tax Division, Gurugram, CGST
+Gurugram Commissionerate, GST Bhawan, Plot No 36-37, Sector 32, Gurugram,
+Haryana- 122001
