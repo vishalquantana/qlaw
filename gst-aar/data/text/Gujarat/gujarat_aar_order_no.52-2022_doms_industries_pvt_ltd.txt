@@ -1,0 +1,1382 @@
+GUJARAT AUTHORITY FOR ADVANCE RULING
+GOODS AND SERVICES TAX
+D/5, RAJYA KAR BHAVAN, ASHRAM ROAD,
+AHMEDABAD - 380 009.
+NATION
+TAX
+• MARKET
+ADVANCE RULING NO. GUJ/GAAR/R/2022/52
+(IN APPLICATION NO. Advance Ruling/SGST&CGST/2022/AR/41 )
+Date: 30/12/2022
+Name and
+applicant
+address
+of
+the
+GSTIN of the applicant
+Date of application
+Clause(s) of Section
+97(2)
+of
+CGST/GGST Act, 2017, under
+which the question(s) raised.
+Date of Personal Hearing
+Present for the applicant
+:
+:
+M/s. Doms Industries Pvt. Ltd.,
+Plot No. 117, 52 Hector Expansion Area,
+New GIDC, Umbergaon, Gujarat
+24AAACW6734A1ZP
+25-08-2022
+(b)
+21-10-2022
+Rahul Bhupendra Shah, (CFO), Chintan
+Shah (C.A.), Devam Sheth (CA), Manish
+Shah (Advocate)
+BRIEF FACTS:
+M/s Doms Industries Pvt. Ltd is manufacturer and suppliers of all kind of the stationary
+items like wooden pencils, sharpeners, erasers, mathematical & drawing instruments, ball
+point pens, wax crayons & oil pastels and wide range of student art materials.
+2.
+The applicant has submitted that GST council in his 47h Meeting recommended
+changes in GST rate applicable on specified goods and services. These changes have come
+into effect vide Not. No. 2/2022-CT (Rate) dated 13-7-2022 w.e.f 18-7-2022 and are as
+follows:
+HSN
+Product Covered
+code
+8214
+9017
+Pencil Sharpener
+Scale and Mathematical Instruments Set
+Earlier GST
+Rate
+12%
+12%
+Revised
+GST Rate
+18%
+18%
+2.1
+It is submitted that the aforesaid products are sold by the applicant in combination
+with other products which are liable to GST rate @ 5% and 12%. The applicant is supplying
+following products in which Pencil Sharpener and Scales are sold as accessories:
+(1) Doms A1 Pencil (2) Doms Smart Kit (3) Doms My first Pencil Kit
+3.
+The applicant has submitted the Product description as under:
+(1) Doms A1 Pencil: The product contains 10 pieces of pencils made of wood with pencils
+leads made of graphite. This pack of 10 pencils sold along with a Sharpener and eraser
+included in the pack as accessories. This product is marketed as a Pack of Pencils and sold
+Page 1 of 21
+
+for a single price. The value of eraser and Sharpener provided in this pack is minimal when
+compared to overall price of pack. The applicant is of the view that the principal products in
+the above packs are pencils. The applicant submits that the eraser and sharpener are integral
+to the use and performance of the principal product that is pencil. The pencil cannot be used
+without sharpening and erasers are specifically used for erasing of writings done with
+pencils. The sharpener and eraser do not have any utility by itself.
+The applicant submits that it has always been trade practice in the Indian Stationery
+industry to sell a pack of pencil containing one sharpener and one eraser together.
+(2) Doms Smart Kit : This product is a gift pack containing combination of nine different
+products that is, a colouring book, two pack of pencils, one pack of colour pencils, one pack
+of oil pastels, one pack of plastic crayons, one pack of wax crayons, one eraser, one scale and
+one sharpener, It is submitted by the applicant that purpose of selling a kit bundled with
+products complimentary to drawing was to allow purchasing convenience to the consumer.
+The kit allows young kids to get a drawing book and other drawing / colouring product in a
+single pack. This kit is sold for a single price of all products bundled together.
+The applicant has submitted that they used to sell the said kit under HSN code of the
+Item with the highest value inside the kit, as it also had the maximum GST Rate. However,
+with the change in GST rate of pencil sharpener to 18%, sharpener now has the highest tax
+rate amongst all the products bundled together.
+(3) DOMS My first Pencil Kit: This product is combo pack containing a pencil and
+complementary products like eraser, scale and sharpener. The purpose of selling this as a kit
+bundled with products complimentary to pencil is to allow purchasing convenience to the
+consumer. The kit helps the children in learning the basic writing skills and providing the
+necessary products in on single pack. This kit is sold for a single price of all products
+bundled together.
+The applicant has submitted that they used to sell the said kit under HSN code of the
+Item with the highest value inside the kit, as it also had the maximum GST Rate. However,
+with the change in GST rate of pencil sharpener to 18%, sharpener now has the highest tax
+rate amongst all the products bundled together.
+4.
+The applicant has submitted that Composite Supply is defined under Section 2(30) of
+CGST Act, 2017 and is read as under :
+(30) "composite supply" means a supply made by a taxable person to a recipient consisting of two or more
+taxable supplies of goods or services or both, or any combination thereof, which are naturally bundled and
+supplied in conjunction with each other in the ordinary course of business, one of which is a principal
+supply;0
+Illustration.- Where goods are packed and transported with insurance, the supply of goods, packing
+materials, transport and insurance is a composite supply and supply of goods is a principal supply;
+4.1 The applicant submits that to qualify as a "composite supply", thg following
+conditions must be satisfied:
+Page 2 of 21
+
+• There must be two or more taxable supplies of goods or services or any combination
+thereot;
+• Such supplies of goods or services must be naturally bundled;
+• Such supplies of goods or services are made in conjunction with each other in an
+ordinary course of business; and
+• One of such combination of supplies of goods or services is principal/ predominant
+supply to others which are ancillary to such principal element.
+5.
+Mixed Supply is defined under Section 2(74) of CGST Act, 2017
+(74) "mixed supply" means two or more individual supplies of goods or services, or any combination thereof,
+made in conjunction with each other by a taxable person for a single price where such supply does not
+constitute a composite supply.
+Illustration.- A supply of a package consisting of canned foods, sweets, chocolates, cakes, dry fruits, aerated
+drinks and fruit juices when supplied for a single price is a mixed supply. Each of these items can be supplied
+separately and is not dependent on any other. It shall not be a mixed supply if these items are supplied
+separately;
+6.
+The applicant submits that for a combination of supplies to qualify as a 'mixed
+supply', it is important that such a combination should be supplied for a single price and the
+supplies are not naturally bundles. It is further submits that where goods are sold in
+combination with other goods and the same are naturally bundled in the ordinary course of
+business as per guidance stipulated under the Education guide, such supplies shall be
+construed as composite supply.
+7.
+Section 8 of CGST Act, 2017 defines taxability of Composite and Mixed Supplies
+and read as follows:
+The tax liability on a composite or a mixed supply shall be determined in the following manner,
+namely:-
+(a) a composite supply comprising two or more supplies, one of which is a principal supply, shall
+be treated as a supply of such principal supply; and
+(b) a mixed supply comprising two or more supplies shall be treated as a supply of that particular
+supply which attracts the highest rate of tax.
+The applicant submits that vide Not. No. 6/2022-CT (Rate) dated 13-7-22 w.e. from
+18-7-22 the GST Rate has been changes as under :
+HSN code
+Product covered
+8214
+9017
+Pencil Sharpener
+Scale and
+Mathematical
+Instruments Set
+GST Rate up to
+187-22
+12%
+12%
+Effective GST Rate
+from 18-7-22
+18%
+18%
+The applicant has submitted the essential characteristic of their products as fołłows:
+Sr.
+Product
+No.
+Criteria
+Constitute
+Components are put together to
+meet a particular need or carry
+out a specific activity
+Page 3 of 21
+Essential Character
+
+1
+Doms Al
+Pencil
+10 Pieces of
+Pencils,
+•
+2.
+3.
+Sharpener in
+a single box
+•
+•
+•
+Doms
+1
+colouring
+Smart Kit
+books,
+2
+•
+packs
+of
+pencils,
+1
+Pack
+of
+•
+colour pencil,
+1 Pack of oil
+pastels,
+1
+Pack of wax
+crayons,
+1
+eraser, 1 scale
+and
+1
+sharpener
+Doms My
+1 Pencil,
+1
+First
+eraser, Iscale
+Pencil Kit and
+1
+sharpener
+•
+Pencils
+are used
+for
+making marks on a paper
+such as for drawing or
+writing purpose
+It is well known fact that
+a pencil in such
+box
+cannot be used as such
+unless
+the
+same
+iS
+sharpened. Thus
+sharpener
+is
+also
+provided in the box.
+The eraser
+enables
+mistakes marks to be
+erased.
+Hence these components
+are sold in combination
+to perform a specific
+activity i.e. writing or
+drawing,
+The product in the kit are
+bundled in a way to
+enable kids to draw
+Along
+with
+drawing
+book, pencils, different
+types of colours, scale,
+eraser and sharpener are
+bundled together so that
+a consumer can buy a
+single kit for the purpose
+of
+drawing
+and
+colouring.
+Similar to the product
+specified in Sr. No. 1
+above, this kit facilities
+use of
+pencil
+by
+providing
+an eraser,
+sharpener
+and a scale
+along in the set.
+Hence, the set is sold to
+perform
+a specific
+activity
+of writing /
+drawing.
+As the objective of
+the box is to enable
+writing/drawing, the
+pencil provides all
+the components of
+the box the essential
+character
+as
+the
+packaging suggests.
+This
+also evident
+considering the role
+of pencil in the entire
+set and even its value
+of compared to other
+constituent materials.
+As the objective of
+the kit is to enable
+writing/drawing, the
+drawing book
+and
+colouring
+tools
+provide the essential
+character
+to
+the
+entire package. This
+also
+evident
+considering the role
+of drawing book and
+colours in the entire
+set and even its value
+of compared to other
+constituent materials.
+As the object of the
+box is to
+enable
+writing/drawing, the
+pencil provide all the
+components of the
+box
+the essential
+character.
+10.
+The applicant has submitted that four critical conditions are required to be satisfied for
+categorization of supply of multiple goods under composite supply. If these conditions are
+Page 4 of 21
+
+not satisfied, the said supply shall be considered as mixed supply. Accordingly, submitted as
+under:
+Sr.
+No.
+-
+Conditions for Composite Supply
+Analysis
+2.
+3.
+4.
+There must be two or more taxable
+In the present case, considering the HSN
+supplies of goods or service or any
+classification adopted by the Company all
+combination thereof;
+the constituents of the multiproduct packs
+are leviable to GST. Accordingly, the
+instant condition is fulfilled.
+Such supplies of goods or services must
+Based on the guidance under Education
+be naturally bundled;
+Guide for determining natural bundle and
+sale of multiple products/ services in
+ordinary course of business, the following
+is submitted as under:
+• These multiproduct packs are also
+generally sold by other major
+players in the industry.
+• Further, based on the packaging as
+well it appears that constituents of
+the above multiproduct packs are
+normally advertised as a package.
+• The consumers
+are also expect
+these products to be generally sold
+together as a package.
+Such supplies of goods or services are
+made in conjunction with each other in
+an ordinary course of business;
+It submits that considering this, these
+conditions are appears to be fulfilled in
+respect to these multi product packs.
+One of such combination of supplies
+of goods or services is principal/
+predominant supply to others which
+are ancillary to such principal element
+From the combination in which the
+articles are sold, it is apparent that one of
+the products i.e. pencil/colours are the
+main product and rest of the products are
+merely ancillary i.e. aiding to use of the
+main product. Accordingly, this condition
+is also fulfilled.
+11.
+The applicant has submitted that with respect to the above multiproduct packs, all the
+four conditions are fulfilled, such supplies may qualify as 'Composite Supply'. Accordingly,
+the GST rate as applicable on the principal product which in the instant case is pencil/colour
+pencil/crayons will apply to the complete set. Hence, these products shall fall under Heading
+9609 and chargeable to GST rate of 12%.
+Revenue's Submission
+12.
+The Assistant Commissioner, CGST & C. Ex. Commissionerate, Surat vide letter
+dated 11-10-2022 has submitted comments on the question on which Advance Ruling is
+sought and is as follows:
+1.
+Whether the supply of
+Section 8 of CGST Act, 2017 has defined the tax
+Pencils Sharpener along with
+liability on a composite and mixed supply in the
+Pencils being the Principal
+following manner:
+supply will be considered as
+(a) a composite supply comprising two or more supplies,
+the "Composite Supply" or
+one of which is a principal supply, shall be treated as a
+"Mixed Supply"
+AHMEDI
+Page 5 of 21
+
+supply of such principal supply; and
+(b) a mixed supply comprising two or more supplies shall
+be treated as a supply of that particular supply which
+attracts the highest rate of tax.
+1. In the case of Doms Al Pencils, the applicant
+has submitted that in India, traditionally, a pack of
+10 pieces of Pencils is sold along with the
+sharpener and eraser in the Pack as Accessories.
+1.1 First of all, the items which is to be included in
+the application have specific classification in the
+Tariff and so far as the "Accessories" is concern-
+an extra item that is added to something and is
+useful or attractive but not of great importance.
+Thus, the packing as referred in the application
+cannot establish the sharpener and eraser as
+integral part or necessities of the pack. It is only
+the promotional and also a phenomenon to enhance
+the sale of the product. Thus, as per Section
+mentioned above, sale of DOMS Al Pencils falls
+under "Mixed supply".
+1.2 As per the submission made by the applicant in
+the case of DOMS Smart Kit, the applicant has
+submitted that the purpose of selling a kit bundled
+with products complimentary to drawing was to
+allow purchasing convenience to the consumer.
+1.3 In this regard, it is submitted that as per
+section 15(1) of the CGST Act, 2017 the value of a
+supply of goods or services or both shall be the
+transaction value, which is the price actually paid
+or payable for the said supply of goods or services
+or both where the supplier and the recipient of the
+supply are not related and the price is the sole
+consideration for the supply. However, in the
+application the applicant referred their sale as per
+convenience to the consumer "as a gift pack". First
+of all, gift pack usually sold occasionally. Further,
+all the products as mentioned in the application are
+bundled together, which falls under the category of
+"Mixed supply" because all the items which have
+been bundled
+are also sold individually in the
+market and they also have specific HSN in the
+Tariff. Thus, as per Section mentioned above, sale
+of DOMS Smart Kit falls under "Mixed supply".
+1.4 As per the submission made by the applicant in
+the case of "DOMS My First Pencil Kit", in which
+the applicant has submitted that the product is
+comba
+pack containing
+pencil
+and
+complementary products like eraser, scale and
+sharpener. Thus complementary
+word itself
+constitute these products are not the integral part of
+the supply but it has been packed for the
+convenience to the consumer and in these
+Page 6 of 21
+
+What will be HSN code to be
+used
+by
+us
+for
+the supply of pencils in above
+case?
+circumstances
+the
+combo pack
+must
+classified under
+"mixed
+supply" and
+partıcular
+supply
+which
+attracts
+be
+a
+the
+highest rate of tax.
+1.5 Further, Supply of goods (such as pencils,
+sharpener, eraser, plastic crayons, wax crayons etc.)
+in these cases are not naturally bundled. Instead.
+each of these items can be supplied separately and
+independent of each other. This scenario is
+distinguishable from illustration of supply of goods
+mentioned
+in Section 2(30)
+(definition
+of
+Composite Supply) where,
+without packing,
+transport and insurance, supply of goods cannot be
+made. Hence, these supplies of goods and services
+are naturally bundled.
+Rather, the present case is similar to illustration
+mentioned in Section 2(74) (definition of Mixed
+Supply) which mentions supply of package
+consisting of canned foods, sweets, chocolates etc.
+which are sold for single price. These items can be
+supplied separately, independent of each other and
+are not naturally bundled.
+Therefore, when sold together for a single price,
+these products appear to be correctly categorized as
+Mixed Supply and not Composite Supply.
+In
+case
+of
+mixed
+supply
+as
+per
+section 8 of the CGST
+Act, 2017
+which
+specify
+that
+mixed
+comprising two
+or
+more supplies
+supply
+shall
+be treated as a supply of that particular supply
+which attracts the highest rate of tax. Therefore the
+HSN
+under
+mixed supply
+may
+be
+of the goods having highest
+rate
+of tax.
+Whether supply of sharpener
+As per Section 8 of the CGST Act, 2017 and
+having a nominal value along
+definition as per section 2(74) of the CGST , Act
+with
+the kit will have
+2017 "mixed supply" means two or more individual
+an impact on rate of tax of the
+supplies of goods or services, or any combination
+kits? If yes, what will be rate
+thereof, made in conjunction with each other by a
+of tax and HSN code to
+taxable person for a single price where such supply
+be used by us?
+does not constitute a composite supply. Hence, in
+these circumstances the products mentioned in the
+application falls under the category of mixed supply
+therefore the highest rate of the tax is to be levied
+on such supply.
+13. Additional Submission
+The applicant vide letter dated 8-11-2022 has submitted the following:
+A. Demonstrate that the Products are Naturally Bundled:
+1. For the purposes of GST, the taxability and reporting of supply on an invoice involving sale
+of goods in combination to other goods/ services is guided by the nature of supply viz.
+'Composite Supply'. As per section 2(30) of the CGST Act, a 'Composite Supply is defined
+to mean a supply made by a taxable person to a recipient comprising two or more taxable
+supplies of goods or services or any combination thereof, which are naturally bundled and
+Page 7 of 21
+
+supplied in conjunction with each other in the ordinary course of business, one of which is a
+principal supply.
+2. The concept of 'naturally bundled' supplies is not defined under CGST Act. However, the
+'Education Guide' issued by the Central Board of Excise & Customs ('CBEC") in the year
+2012 explains the 'Bundled service' to mean a bundle of provision of various services
+wherein an element of one service is combined with an element or elements of any other
+service or services. Though this reference is given with respect to bundled service it can also
+be extended to bundled supplies of goods as well under the GST regime. For this, reliance can
+be placed on the flyer cum FAQ issued by CBIC to explain the concepts of 'composite
+supply' and 'mixed supply', which also makes reference to the Education Guide issued under
+service tax regime in determining whether a supply is a composite or a mixed supply under
+GST regime.
+3. Para 9.2.4, the Education Guide discussed that whether a bouquet of services is
+bundled in the ordinary course of business would depend upon the normal or frequent
+practices followed in the area of business to which services relate. Such normal and
+frequent practices adopted in a business can be ascertained from several indicators
+some of which are listed below:
+a) The perception of the consumer or the service receiver. If large number of service
+receivers of such bundle of services reasonably expect such services to be provided
+as a package, then such a package could be treated as naturally bundled in the
+ordinary course of business.
+b) Majority of service providers in a particular area of business provide similar
+bundle of services. For example, bundle of catering on board and transport by air is
+a bundle offered by a majority of airlines.
+c) Nature of the services offered is such that one is the main service and the other
+services combined with such a service are ancillary.
+d) Other illustrative indicators, not determinative but indicative of bundling of
+services in ordinary course of business are -
+• There is a single price or the customer pays the same amount, no matter how
+much of the package they actually receive or use.
+• The elements are normally advertised as a package.
+• The different elements are integral to one overall supply - if one or more is
+removed, the nature of the supply would be affected.
+4. Hence, the above indicators specify the basis for determining if a bundle of goods or
+services are natural in ordinary course of business.
+Product
+Constituents
+Remarks
+Sr.
+No.
+1.
+Doms Al Pencil
+(MRP Rs.40/-)
+10 pieces of pencils,
+1 eraser and 1 sharpener
+Page 8 of 21
+• The product is sold arsingle
+price.
+* GGST-CGST
+AHMEDAB
+
+2.
+Doms My First
+Pencil Kit
+1 pencil, 1 eraser, 1
+sharpener and 1 scale
+3.
+Doms Smart Kit
+1 colouring book, 2 packs
+of pencils, 1 pack of
+colour pencils, 1 pack of
+oil pastels, 1 pack of
+plastic crayons, 1 pack of
+wax crayon, 1 eraser, 1
+sharpener and 1 scale
+• These constituents are sold in
+combination to perform a
+specific activity i.e. writing or
+drawing.
+• The product is normally
+advertised a package.
+• It is the perception of
+consumer to buy the product
+as a package.
+• The product is sold at single
+price.
+• These constituents are sold in
+combination to perform a
+specific activity i.e. writing or
+drawing.
+• The product is normally
+advertised a package.
+• It is the perception of
+consumer to buy the product
+as a package.
+The product is sold at single
+price.
+These constituents are sold in
+combination to allow
+purchasing convenience to the
+consumer.
+The product is normally
+advertised a package.
+It is the perception of
+consumer to buy drawing
+book and other drawing/
+colouring products in a single
+pack.
+B. Demonstrate that the items packed together in product are essential used together:
+1. For a combination to be regarded as a composite supply the taxability is determined
+based on the principal supply i.e. the supply which constitutes the predominant element
+of such composite supply.
+2. Section 2(90) defines the term "principal supply' as 'principal supply' means the
+supply of goods or services which constitutes the predominant element of a composite
+supply and to which any other supply forming part of that composite supply is
+ancillary!
+3. As can be observed from the above definition, one of the important aspects of a
+principal supply is that any other supply forming part of the composite supply should
+be ancillary to such principal supply. Here, it is relevant to note, that the term
+'ancillary' is not defined under the CGST Act. Accordingly, reference could be made
+to the definition of such a term in general parlance.
+4. As per Stroud's Judicial Dictionary and the Supreme Court in its decision in the case of
+FOR ADU
+the Commissioner of Customs Vs. Spice Telecom, Bangalore [2006 (203) ELT 538
+(SC)], the term ancillary is defined as 'A Work is said to be "ancillary or incidental"
+to a thing, trade or business when it is not necessary thereof or a primary part thereo...
+AHMEDA
+Page 9 of 21
+
+5. Further, the Hon'ble Supreme Court in the case of Vareed Jacob vs Sosamma
+Geevarghese [AIR 1984 SC 744] has accepted the meaning assigned to the word
+"ancillary" as stated in the Law Lexicon. "The expression 'ancillary' means aiding,
+auxiliary subordinate; attendant upon; that which aids or promotes a proceeding as a
+principal:
+6. Therefore, given the aforementioned definition specified in Stroud's Legal Dictionary,
+a supply could be regarded as ancillary if it is not necessary for a combination. Also, as
+per the definition in Law Lexicon, for a supply to be ancillary to another, it should be
+aiding or supporting or promoting the principal supply.
+7. Further it has been always a Trade Practice in the Indian Stationery industry to sell a
+pack of pencils containing one sharpener & one eraser together. Also, it has been the
+perception of consumer to reasonably expect sharpener & eraser along with a pack of
+pencils. The eraser & sharpener are integral to the use and performance of the principal
+product, that is, pencil. The pencil cannot be used without sharpening and the erasers
+are specifically used for erasing of writings done with pencils. The sharpener can be
+used only for sharpening pencils. Other than to be used along with the use of pencils,
+the eraser and the sharpener do not have any utility by itself.
+Sr.
+Product
+Constituents
+Remarks
+Essential Character
+No.
+1.
+Doms
+Al
+Pencil
+(MRP -
+Rs.40/-)
+10 pieces of
+pencils,
+1 eraser and 1
+sharpener
+2.
+Doms
+My First
+Pencil
+Kit
+(MRP -
+Rs.12/-)
+1 pencil, 1
+eraser, 1
+sharpener and 1
+scale
+Pencils are used for
+the purpose of
+writing or drawing
+on paper.
+• It is a well-known
+fact that a pencil in
+such box cannot be
+used as such unless
+the same is
+sharpened. Thus, a
+sharpener is also
+provided in the box.
+• Further, the eraser
+enables mistaken
+marks to be
+eliminated.
+• Hence, these
+components are sold
+in combination to
+perform a specific
+activity i.e. writing
+or drawing
+•
+Pencils are used fo
+the purpose of
+writing or drawing
+on paper.
+• It is a well-known
+fact that a pencil in
+such box cannot be
+used as such unless
+the same is
+sharpened. Thus, a
+As the object of the product
+is to enable writing/ drawing,
+the pencil provides all the
+components of the product
+the essential character as the
+packaging suggests. This is
+also evident considering the
+role of pencil in the entire
+set. Further the value of
+ancillary product namely
+sharpener is Rs.3/- which is
+minimal (7.5%) as compared
+to MRP of overall product.
+This further highlights that
+the objective is to sell a pack
+of pencil to the end
+consumer and not ancillary
+products.
+As the object of the product
+is to enable writing/ drawing,
+the pencil provides all the
+components of the product
+the essential character as the
+packaging suggests. This is
+also evident considering the
+role of pencil in the entires
+set. Further the value of
+HORITY FOR
+ancillary product namely
+Page 10 of 21
+
+3.
+Doms
+Smart
+Kit
+(MRP -
+Rs.500/)
+1 colouring
+book, 2 packs
+of pencils, 1
+pack of colour
+pencils, 1 pack
+of oil pastels, 1
+pack of plastic
+crayons, 1 pack
+of wax crayon,
+1 eraser. 1
+sharpener an 1
+scale
+sharpener is also
+provided in the box.
+• Further, the eraser
+enables mistaken
+marks to be
+eliminated.
+• Hence, these
+components are sold
+in combination to
+perform a specific
+activity i.e. writing
+or drawing
+• The kit contain a
+paper activity book
+(to color, draw,
+design and decorate)
+• The other
+constituents i.e.
+pencils, color
+pencils, oil pastel
+and crayons are used
+for the purpose of
+colouring, drawing
+in the activity book
+The above
+constituents cannot
+be used as such
+unless the same is
+sharpened. Thus, a
+sharpener is also
+provided in the box.
+•
+Further, the eraser
+enables mistaken
+marks to be
+eliminated.
+• Hence, these
+components are sold
+in combination to
+perform a specific
+activity drawing or
+colouring or
+designing or
+decorating.
+sharpener is Rs.3/- which is
+minimal (25%) as compared
+to MRP of overall product.
+This further highlights that
+the objective is to sell a kit
+with pencil as the principal
+product to the end consumer
+and not ancillary products.
+As the object of the product
+is to enable
+drawing/colouring/designing
+and decorating, the activity
+book provides all the
+components of the product
+the essential character and
+other products are ancillary
+to activity book. Further the
+value of ancillary product
+namely sharpener is Rs.10/-
+which is minimal (2%) as
+compared to MRP of overall
+product. This further
+highlights that the objective
+is to sell a pack of drawing/
+colouring essentials to the
+end consumer and not
+sharpener.
+C. Without prejudice to above we would like state as under:
+1. As per Section 9(1) of CGST Act, GST is payable on supply of goods at the prescribed rates.
+In this regard, GST rates have been prescribed vide Notification No. 1/ 2017 - Central Tax
+(Rate) dated 30 June 2017 ('GST Rate Notification'). The rate schedule notified under GST
+follows the HSN classification system to determine GST rates for various products as present
+under Customs law.
+2. Further, the explanation to GST Rate Notification also indicates that the classification along
+with rules for interpretation of schedules is to be ascertained on the same principles
+as
+applicable under Customs law. We have reproduced the extract of such explanait here l
+Page 11 of 21
+
+"(iv) "Tariff item" "Heading" "Sub-heading" and "Chapter" shall mean respectively a
+tariff item, sub-heading, heading and chapter as specified in the First Schedule to the
+Customs Tariff Act, 1975 (Act No.51 of 1975).
+(v) The rules for the interpretation of the First Schedule to the Customs Tariff Act, 1975
+(Act No.51 of 1975), including the Section and Chapter Notes and the General Explanatory
+Notes of the First Schedule shall, so far as may be, apply to the interpretation of this
+notification.
+3. As apparent from the above extract, the classification of goods under GST is done in
+accordance with Customs Tariff Act, 1975. Thus, it is pertinent to evaluate/ understand the
+principles of classification under Customs Act to determine taxability under GST law. Under
+Customs Law, the following rules/notes is prescribed for interpretation and classification of
+rate tarift:
+a) The General Rules for Interpretation of Import Tariff ('GIR')
+b) The General Explanatory Notes to Import Tariff ('GIN')
+c) Section Notes and Chapter Notes (before start of each section/chapter
+containing items/ products)
+4. GIR lays down the principles for classification of goods under import tariff to ensure uniform
+and consistent legal interpretation. The key principles laid under GIR is given below:
+• As per Rule 1 of GIR, firstly the classification of an article shall be determined in terms of
+the headings and relative section and chapter notes.
+• As per Rule 3(a) of GIR, if an article is classifiable under two or more headings, the
+heading which provides the most specific description shall be preferred to headings
+providing a more general description.
+• As per Rule 3(b) of GIR, composite goods consisting of different materials/ made up of
+different components and goods put up in sets for retail sale which cannot be classified
+under Rule 3(a), shall be classified as if they consisted of the material or component
+which gives them their essential character.
+• As per Rule 3(c) of GIR, when goods cannot be classified under Rule 3(a) or 3(b), they
+shall be classified under the heading which occurs last in numerical order among those
+which merit equal consideration.
+5. Here it is relevant to note that Rule 3 is applied when goods are capable of being classifiable
+under two or more heading. In such cases, the classification of goods which are put up in sets
+for retail sale is to be undertaken basis the product providing essential character to the
+complete set.
+6. Considering the industry in which the company operates the goods sold by them shall fall
+under the ambit of term 'goods put up in sets for retail sale'. The Indian Customs law does
+not provide any explanation/ guidance on the said term. Hence, reliance can be placed on the
+guidance provided by World Customs Organisation (WCO) considering that the entire
+scheme of customs tariff and classification norms applicable in India are based on the tariff
+and principles developed by the World Customs Organisation (WCO).
+Page 12 of 21
+
+7. The World Customs Organisation has laid down explanatory notes for construal of all the
+rules specified under GIR. The said explanatory notes define the term 'goods put up in sets
+for retail sale' to mean, goods which:
+a. consist of at least two different articles which are prima facie, classifiable in different
+headings;
+b. consist of products or articles put up together to meet a particular need or carry out a
+specific activity; and
+c. are put up in a manner suitable for sale directly to end users without repacking (e.g.,
+in boxes or cases or on boards).
+8. The explanatory notes further clarifies that:
+a. The term 'Retail sale' does not include sales of products which are intended to be re-
+sold after further manufacture, preparation, repacking or incorporation with or into
+other goods.
+b. The term 'goods put up in sets for retail sale' only covers sets consisting of goods
+which are intended to be sold to the end user where the individual goods are intended
+to be used together.
+9. Hence, a set containing multiple goods which are sold as such without any further activity
+and are intended to be used together shall be covered under the term 'goods put up in sets for
+retail sale'.
+10. Further, another critical element for application of Rule 3(b) is existence of the material/
+component which provides the essential character to the entire set of products. For identifying
+the same the explanatory notes provides below guidance:
+"The factor which determines essential character will vary as between different kinds of
+goods. It may, for example, be determined by the nature of the material or component, its
+bulk, quantity, weight or value, or by the role of a constituent material in relation to the use
+of the goods.'
+11. Hence, the component providing essential character to the complete set needs to determined
+basis a reasonable parameter such as the nature of the component, its role, quantity and value
+as compared with constituent components etc. Hence once the above two conditions i.e.
+qualification of set as 'goods put up in sets for retail sale' and determination of 'component
+providing essential character' are fulfilled, classification of such set needs to be done as per
+Rule 3(b) of GIR.
+12. In case above criteria is not met, Rule 3(c) of GIR shall be applicable i.e. the classification
+needs to be done under heading which occurs last in numerical order under the tariff. As
+specified earlier, since the rules/ interpretation as applicable under Customs law are
+applicable for interpretation of GST tariff, the above principles are very well applicable for
+determination of GST rate leviable on goods.
+13. As apparent from the above discussion, since all the three conditions are satisfied for all the
+multiproduct packs, they shall qualify as 'goods put in sets for retail sale'. Furthery the
+product providing essential can also be identified in relation to all the above specified
+products, the classification of these products shall be undertaken in terms of Rule 3(b).
+Page 13 of 21
+
+14. To support the above view, reference can be made to the below rulings passed under the U.S.
+Customs Law on classification of stationery sets, considering the scheme of classification and
+rules for interpretation being are common across various countries. Copy of the same are
+attached herewith for your ready reference.
+Sr.
+Kit Contents
+Judgment Pronounced
+Citation
+No.
+1.
+Two pencils,
+eraser, a sharpener
+and a ruler
+Kit held as "goods put up in sets for retail sale" NY N245467
+ince eraser, the sharpener and the ruler a
+nere adjuncts to the pencils. Further, the pencil
+provide this item with the essential character to
+the set.
+2.
+A
+spiral-bound Kit held as "goods put up in sets for retail sale",
+NY N284316
+note pad, a plastic
+with the essential character imparted by the note
+ruler, an eraser and
+pad.
+three long wood-
+cased pencils
+3.
+A
+Halloween
+Stationery
+Kit
+Kit held as "goods put up in sets for retail sale",
+NY N244042
+with the essential character imparted by the
+consisting of 20 Halloween themed coloring books.
+Halloween themed
+coloring books, 20
+crayons, 20 mini
+Richographically
+20
+printed stickers and
+20 erasers.
+4.
+A paper
+activity
+Kit held as "goods put up in sets for retail sale",
+NY K87721
+book (to
+color, with the essential character imparted by the
+draw, design and activity book.
+decorate), a sketch
+pad, crayons, mini
+markers,
+small
+plastic
+stencil,
+pencil
+and
+ballpoint pen.
+15. Considering the discussion stated above, the company believes that the classification of these
+multiproduct would fall under Heading 9609 i.e. Pencils (including propelling or sliding
+pencils), crayons, pastels, drawing charcoals and tailor's chalk' and hence will fall under
+Entry no. 233 of Schedule III of GST rate notification and hence liable to GST of 12%.
+16. It is further relevant to note that even if the multiproduct packs do not fulfil the requirements
+under Rule 3(b) of GIR, classification needs to be done under Rule 3(c) i.e. basis the
+constituent falling under the heading which occurs last in numerical order. Considering this,
+even if the classification is done under Rule 3(c) of GIR, these multiproduct packs shall be
+classifiable under Heading 9609 and hence such packs shall continue to be taxable at 12%.
+17. Further, as all the products being essential for the learning purpose, accordingly major
+consumers of this products are school going children's and due to the increase in rate of tax
+for sharpener there is increase in the cost of product the burden of same would fall on the
+consumers.
+14. Question on which Advance Ruling sought
+Whether the supply of Pencils Sharpener along with Pencils being the Principal supply
+will be considered as the "Composite Supply" or "Mixed Supply"
+Page 14 of 21
+
+2.
+What will be the HSN code to be used by us in above case.
+Whether supply of Sharpener along with the kit having a nominal value will have an
+impact on rate of tax. If yes, what will be rate of tax and HSN code to be used by us.
+Personal Hearing:
+15.
+Shri Rahul Bhupendra Shah,(CFO), Chintan Shah (C.A.), Devam Sheth (CA), Manish
+Shah (Advocate) appeared for the hearing and reiterated the contents of the application.
+FINDINGS:
+16. We have considered the submissions made by the Applicant in their application for
+advance ruling as well as the additional submissions made by the applicant before this
+authority. We also considered the issue involved, on which advance ruling is sought by the
+applicant, relevant facts & the applicant's interpretation of law.
+17. At the outset we would like to make it clear that the provisions of CGST Act and GGST
+Act are in pari-materia and have the same provisions in like matter and differ from each other
+only on a few specific provisions. Therefore, unless a mention is particularly made to such
+dissimilar provisions, a reference to the CGST Act would also mean reference to the
+corresponding similar provisions in the GGST Act.
+18. We find that the applicant supplies the different products in single box/pack and in single
+price. These supplies are made in the name of (i) Doms A1 Pencil (ii) Doms Smart kit (iii)
+Doms My First Pencil Kit. The main issue here is to decide whether the applicant supplies as
+mentioned above which consist of different products in single pack is 'composite supply' or
+"mix supply'.
+19. We refer to Composite supply defined under Section 2(30) and Mix supply defined
+under Section 2 (74) of CGST Act, 2017:
+(30) "composite supply" means a supply made by a taxable person to a recipient consisting of two or more
+taxable supplies of goods or services or both, or any combination thereof, which are naturally bundled and
+supplied in conjunction with each other in the ordinary course of business, one of which is a principal
+supply;
+Illustration. - Where goods are packed and transported with insurance, the supply of goods, packing
+materials, transport and insurance is a composite supply and supply of goods is a principal supply;
+19.1 To qualify any supply as a "composite supply", the following conditions must be
+satisfied:
+• There must be two or more taxable supplies of goods or services or any combination
+thereof;
+• Such supplies of goods or services must be naturally bundled;
+• Such supplies of goods or services are made in conjunction with each other in an
+ordinary course of business; and
+Page 15 of 21
+
+• One of such combination of supplies of goods or services is principal/ predominant
+supply to others which are ancillary to such principal element.
+19.2 In light of the above provision of composite supply, we examine the each supply of
+the applicant one by one:
+(I) Doms Al Pencil :
+(i) The applicant supplies Doms A1 Pencil in a box which consists of 10 Pieces of Pencils, 1
+eraser and 1 Sharpener in a single box. All these three goods are classified under separate
+HSN of Custom Tariff and taxable under GST in different HSN in terms of Notification No.
+1/2017-CT (Rate) dated 28-6-2017. This pack consists of more than two taxable supplies of
+goods. Hence first condition is satisfied.
+(ii) The applicant in his own has submitted that in the box/pack along with Pencils, sharpener
+and eraser are included as "accessories". To supply the accessories with a main product itself
+defines that these are not essential to the product but are useful to that product. The meaning
+of 'accessory' as defined in dictionary is as follows:
+(a)
+Definition as per Merriam- Webster (https://www.merriam-webster.com/):
+(a) an object or device that is not essential in itself but adds to the beauty, convenience, or
+effectiveness of something else
+(b) Definition as per Collins (https://www.collinsdictionary.com/dictionary/english):
+Accessories are items of equipment that are not usually essential, but which can be used
+with or added to something else in order to make it more efficient, useful, or decorative.
+(c)
+Definition as per Dictionary.com :
+an extra item that is added to something and is useful or attractive but not of great
+importance
+•
+The above dictionary meaning of accessory suggests that Pencil sharpener and
+eraser supplied with pack is not an integral part of the Pencil but it is useful for the
+Pencil. The main thing is that Pencil sharpener and eraser are also supplied
+independently in the open market. Thus the pencil, pencil sharpener and eraser are
+not naturally bundled but are distinct to each other. Hence second condition is not
+satisfied.
+(iii) As already discussed pencil sharpener and eraser supplied with pencil are not naturally
+bundled and all these products cannot be considered as are made in conjunction with each
+other in an ordinary course of business. The applicant argument that in this industry all the
+said three goods are sold together in a single pack is not tenable as such all the three goods
+viz. Pencil, Pencil Sharpener and Eraser are also sold separately, it means that all the three
+goods are not essentially supplied together by all the industry but few adopt such marketing
+practice to increase sale of pencil sharpener and eraser. Customers may and do purchase all
+the three products separately as and when required instead of purchasing in a pack. Further,
+customer buy the goods out of the three which he required and other two if not required will
+Page 16 of 21
+
+not purchase and will save the money. Thus, we hold that three goods i.e. pencil, pencil
+sharpener and eraser are not naturally bundled and cannot say supplied in conjunction with
+each other in an ordinary course of business. Hence third condition is not satisfied.
+(iv) It is necessary to decide the principal supply among all the products to qualify as
+composite supply but as already discussed all the three products can supply independently
+and are not naturally bundled. Also all the three product have their individual identity,
+therefore among all the three goods no goods can be considered as principal supply and
+other ancillary. Hence fourth condition is not satisfied.
+(I1) Doms Smart Kit:
+(i) The applicant supplies Doms Smart Kit in a box which consists of a colouring book, two
+pack of pencils, one pack of colour pencils, one pack of oil pastels, one pack of plastic
+crayons, one pack of wax crayons, one eraser, one scale and one sharpener. All these goods
+are classified under separate HSN of Custom Tariff and taxable under GST in different HSN
+in terms of Notification No. 1/2017-CT (Rate) dated 28-6-2017. This pack consists of more
+than two taxable supplies of goods. Hence first condition is satisfied.
+(ii) The applicant in his own has submitted that this product is a gift pack and purpose of
+selling such a kit bundled with all nine products complimentary to drawing was to allow
+purchasing convenience to the consumer. We observed that the main objective to sell such
+single pack with nine different products is to attract the potential customer to purchase this
+gift pack and it is a trade promotion to increase the sale of different goods. Such types of
+pack in single price look attractive and potential customer easily purchase as a gift item and
+Applicant Company fulfil their objective to convince the potential customer to purchase such
+gift kit. Thus all such products are not naturally bundles but are distinct to each other and are
+supplied independently. This is a one type of trade promotion activity to increase supply of
+all the goods by the applicant. Also all nine goods are not supplied in conjunction with each
+other in ordinary course of business as such drawing books, wax colours, pastel colours, oil
+colour, pencil, sharpener, scale and eraser do not have interlink with each other and usually
+supplied separately and independently. To supply all such nine products together is not an
+activity which is followed in ordinary course of business. The applicant has his own admitted
+in his submission that some of the products in the gift pack are complimentary to drawing.
+Thus the products which are supplied in a pack as complimentary cannot be considered as
+naturally bundled and also cannot say supplied in conjunction with each other in an ordinary
+course of business. Hence second and third conditions are not satisfied.
+(iii) It is next to impossible to determine the principal supply among all the nine products
+because each product is equally important in their application and uses. Also in absolute-
+terms for any application each product is essential. Therefore, out of the nine product no
+product is principal supply and others are not ancillary to the principal supply. Hence fourth
+condition is not satisfied.
+Page 17 of 21
+
+(III) Doms My First Pencil Kit:
+(i) The applicant supplies Doms My First Pencil Kit which consists of a eraser, scale and
+sharpener. All these goods are classified under separate HSN of Custom Tariff and taxable
+under GST in terms of Notification No. 1/2017-CT (Rate) dated 28-6-2017. The pack
+consists of more than two taxable goods. Hence first condition is satisfied.
+(ii) The applicant own his own has submitted that products eraser and pencil sharpener are
+supplied complementary to the Pencil. This means that eraser and sharpener are not integral
+and essential part required for supply of pencil. Also, the applicant has admitted that the
+purpose of selling this as a kit bundled with products complimentary to pencil is to allow
+purchasing convenience to the consumer. The main objective behind to sell a single pack
+with three different products is to advertise and convince the customer that this pack is cost
+effective as such having three items so that he may easily purchase the kit. Also, all three
+goods are not supplied in conjunction with each other in ordinary course of business as such
+pencil, sharpener and eraser do not have interlink with each other and usually supplied
+separately and independently. To supply all such three products together is not an activity
+which is followed in ordinary course of business. The applicant has own admitted in his
+submission that some of the products are complimentary to pencil. Thus the products
+which are supplied in a pack as complimentary cannot be considered as naturally bundled
+and also cannot say supplied in conjunction with each other in an ordinary course of
+business. Hence second and third conditions are not satisfied.
+(iii) It is next to impossible to determine the principal supply among all the three products
+because each product is equally important in their application and uses. Also in absolute
+terms for any application each product is essential. Hence fourth condition is not satisfied.
+19.3 We hold that the applicant supplies Doms A1 Pencil, Doms Smart Kit and Doms My
+First Pencil Kit in view of the above discussion do not cover under the category of
+"composite supply'.
+19.4 Now, we refer to Mix supply defined under Section 2 (74) of CGST Act, 2017 and read
+as under :
+(74) "mixed supply" means two or more individual supplies of goods or services, or any combination thereof,
+made in conjunction with each other by a taxable person for a single price where such supply does not
+constitute a composite supply.
+Illustration. - A supply of a package consisting of canned foods, sweets, chocolates, cakes, dry fruits. aerated
+drinks and fruit juices when supplied for a single price is a mixed supply. Each of these items can be supplied
+separately and is not dependent on any other. It shall not be a mixed supply if these items are supplied
+separately;
+19.5 We find that to qualify any supply under mix supply the following conditions are to
+be satisfied:
+thereof;
+(i) there should be two or more individual supplies of goods or services or in any combination...
+Page 18 of 21
+
+(ii) Such supply should be made in conjunction with each other for a single price
+(iii) such supply does not constitute a composite supply.
+19.6 In light of the provision of Mix Supply, we examine each supplies of the applicant as
+follows:
+description
+Condition of Mix supply
+(i) there should be two or
+Pencils, 1 eraser
+and 1 Sharpener
+| more individual supplies of
+in a single box
+goods or services or in any
+combination thereof;
+(ii) Such supply should be
+made in conjunction with
+each other for a single
+price
+(iii) such supply does not
+constitute a composite supply
+2.
+Doms
+Smart Kit
+1
+colouring
+books, 2 packs
+of
+pencils,
+1
+Pack of colour
+pencil, 1 Pack
+of oil pastels, 1
+Pack of wax
+crayons,
+eraser,
+1 scale
+and 1 sharpener
+3.
+Doms My
+First Pencil
+Kit
+1
+Pencil,
+1
+eraser,
+Iscale
+and 1 sharpener
+Conditions of mix supply whether
+satisfied or not
+(i) This pack consists of supplies
+of more than two products in
+combination and all three products
+are taxable under GST. Hence
+First Condition is satisfied
+(i) All the three supplies of goods
+are packed in a single box and
+supply in combination for a single
+price. Hence second condition is
+satisfied.
+(iii) As already discussed in Para
+19.3 such supplies does not
+constitute under composite supply.
+Hence third condition is also
+satisfied.
+(i) This pack consists of supplies
+of more than two products in
+combination and all three products
+are taxable under GST. Hence
+First Condition is satisfied
+(ii) All the three supplies of goods
+are packed in a single box and
+supply in combination for a single
+price. Hence second condition is
+satisfied.
+(iii) As already discussed in Para
+19.3
+such
+supplies
+does
+not
+constitute under composite supply.
+Hence third condition is satisfied
+(i) This pack consists of supplies
+of more than two products in
+combination and all three products
+are taxable under GST. Hence
+First Condition is satisfied
+(ii) All the three supplies of goods
+are packed in a single box and
+supply in combination for a single
+price. Hence second condition is
+satisfied.
+(iii) As already discussed in Para
+Page 19 of 21
+
+19.3
+such supplies does not
+constitute
+composite
+supply.
+Hence third condition is satisfied
+19.7 We find that the applicant supplies of Doms A1 Pencil, Doms Smart Kit and Doms
+My First Pencil Kit satisfied all the conditions of mix supply. Further, we observed that the
+illustration given under the definition of Mix supply is similar to all types of the supplies of
+applicant. Therefore, we hold that all the three types of supply covers under the category of
+'mixed supply' as defined under Section 2(74) of CGST Act, 2017.
+20. The Tax rate of mix supply is governed by Section 8(b) of CGST Act, 2017 and is as
+foolows :
+Section 8. Tax liability on composite and mixed supplies.-
+The tax liability on a composite or a mixed supply shall be determined in the following manner, namely:-
+(a) a composite supply comprising two or more supplies, one of which is a principal supply, shall be treated as
+a supply of such principal supply; and
+(b) a mixed supply comprising two or more supplies shall be treated as a supply of that particular
+supply which attracts the highest rate of tax.
+21.1 The above provision specify that a mixed supply containing more than two supplies
+shall be treated as a supply of that particular supply which attracts the higher rate of tax in
+the mix supply. We hold that the applicant is required to use the HSN code of the particular
+supply which attracts higher rate of tax among all the taxable supplies containing in a
+pack/box.
+21.2 The applicant in their addition submission has referred the General Interpretation of
+Rules of Custom Tariff Act, 1975 and argued that as per the GIR the classification of the
+pack/box containing multiple of goods will be decided by the essential characteristics of the
+goods containing in the packet. We find that the argument of the applicant does not hold
+much water as the present application is filed by the applicant for deciding the nature of
+supply and not for deciding the classification of all the taxable supplies containing in the
+box/pack. The applicant all the supplies are covered under the category of Mixed supply
+hence as per the provision of mixed supply, the supply which attracts higher rate of tax shall
+the applicable rate for the supply.
+21.3 The applicant all the supplies i.e. kit if containing Sharpener and if tax rate of that
+particular sharpener is highest among all the product containing in that particular supply i.e.
+kit, in such case the applicant is liable to pay the highest tax rate and HSN code is to be used
+of that particular supply having highest rate.
+Page 20 of 21
+
+22.
+In light of the foregoing, we rule as under -
+RULING
+The supply of Pencils Sharpener along with Pencils is covered under the category of
+"Mixed Supply".
+As discussed in Para 21.1.
+3.
+Yes, the supply of Sharpener along with the kit having a nominal value will have an
+impact on rate of tax. As discussed in Para 21.2 and 21.3.
+(MILIND KAVATKAR)
+MEMBER (S)
+(AMIT KUMAR MISHRA)
+MEMBER (C)
+Place: Ahmedabad
+Date:30.12.2022
+Page 21 of 21

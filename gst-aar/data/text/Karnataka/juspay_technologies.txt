@@ -1,0 +1,746 @@
+THE AUTHORITY FOR ADVANCE RULINGS
+IN KARNATAKA
+GOODS AND SERVICES TAX
+VANIJYA THERIGE KARYALAYA, KALIDASA ROAD
+GANDHINAGAR, BENGALURU - 560 009
+Advance Ruling No. KAR ADRG 31/2023
+Date: 15-09-2023
+Present:
+1. Dr. M.P. Ravi Prasad
+Additional Commissioner of Commercial Taxes
+•. Member (State)
+2. Sri. T. Kiran Reddy
+Additional Commissioner of Customs & Indirect Taxes... Member (Central)
+2.
+4.
+Name and address of the
+applicant
+GSTIN or User ID
+Date of filing of Form GST
+ARA-01
+Represented by
+M/s. JUSPAY TECHNOLOGIES PVT. LTD.,
+# 444, Stallion Business Centre, 18th Main,
+6th Block, Koramangala, Bengaluru - 560 095.
+29AACCJ9163G129
+5.
+Jurisdictional Authority -
+Centre
+17-06-2023
+Sri. Chetan Kumar, CA
+& Authorised Representative
+The Principal Commissioner of Central Tax,
+Bangalore South Commissionerate,
+Bengaluru. (Range-BSD5)
+6.
+Jurisdictional Authority
+- State
+Whether the payment of
+fees discharged and if yes,
+the amount and CIN
+ACCT, LGSTO-17, Bengaluru.
+Yes, discharged fee of Rs.5,000/- under CGST Act &
+Rs.5,000/- under KGST Act through debit from
+Electronic Cash Ledger vide reference No.
+DC2906230096695 dated 17.06.2023.
+ORDER UNDER SECTION 98(4) OF THE CGST ACT, 2017
+& UNDER SECTION 98(4) OF THE KGST ACT, 2017
+M/s. Juspay Technologies Pvt. Ltd.,(herein after referred to as 'Applicant),
+# 444, Stallion Business Centre, 18th Main, 6th Block, Koramangala, Bengaluru -
+560095, having GSTIN 29AACCJ9163G129, have filed an application for Advance
+Ruling under Section 97 of CGST Act, 2017 read with Rule 104 of CGST Rules,
+2017 and Section 97 of KGST Act, 2017 read with Rule 104 of KGST Rules, 2017,
+Authority
+Far Advasta
+in form GST ARA-01 discharging the fee of Rs.5,000/- each under the CGST Act
+Ruling
+Karnataka.
+Bengaluru
+Jaspay Technologies
+Page 1 of 14
+
+2.
+The applicant stated that they are registered under the GST Act and are
+engaged in the business of providing technology services for merchants to connect
+to their preferred payment aggregators and payment gateways; they have launched
+"Namma Yatri" app on ONDC platform. "Namma Yatri" is a ride-hailing Saas
+platform / Mobility as a service (MaaS) solution offered to the auto-rickshaw
+community of Bengaluru which includes a driver-side software and customer-side
+software. "Namma Yatri" is a software developed, owned and operated by Juspay.
+3.
+In view of the above, the applicant has sought advance ruling in respect of
+the following questions:
+a. Whether the Applicant satisfies the definition of an e-commerce operator
+and the nature of supply as conceptualized in Section 9(5) of CGST Act,
+2017 r/w notification No 17/2017 dated 28.06.2017?
+b. Whether the supply by the service provider (person who has subscribed to
+Namma yatri) to his customers (who also have subscribed to Namma yatri)
+on the Applicant's computer application amounts to supply by the
+Applicant?
+c. Whether the Applicant is liable to collect and pay GST on the supply of
+services supplied by the service provider (person who has subscribed to
+Namma Yatri) to his customers (who also have subscribed to Namma Yatri)
+on the Applicant's computer application?
+4. Admissibility of the application :
+The advance rulings are sought by the applicant on the questions, at para 3
+supra, in respect of the issues of (i) applicability of a notification issued under the
+provisions of the CGST Act 2017, (ii) determination of the liability to pay tax on any
+goods or services or both and (iii) whether any particular thing done by the
+applicant with respect to any goods or services or both amounts to or results in a
+supply of goods or services or both, within the meaning of that term, which are
+covered under Section 97(2)(b), 97(2)(e) & 97(2)(g) respectively and hence the
+application is admissible under Section 97(2)(b), 97(2)(e) & 97(2)(g) of the CGST Act
+2017.
+5. BRIEF FACTS OF THE CASE: The applicant furnished the following facts
+relevant to the issue/s:
+5.1
+The Applicant submitted that the computer application services that are
+being provided by them are for facilitating business transactions of supply of
+services connecting through the platform of suppliers/ sellers and recipients/
+buyers; they, for the application services (herein after referred to as "Namma yatri")
+Authority
+provided by them, shall charge membership & subscription fee to the person
+For Adito enrolls by furnishing the application in the presubscribed form; they intend to
+disease ourput tax on the membership/ subscription fee received from the
+Juspay Technologies
+Page 2 of 14
+Karnataka.
+
+Authonity Re
+Karnataka
+members registered for availing the benefits in Namma yatri App; currently, they
+are not charging any membership fee/ subscription fee to the enrolled persons.
+5,2 The Applicant submited that, every person desirous of availing of their APP
+"Namma yatri" services, shall make an application on line in the pre-subscribed
+form duly filled and confirmed along with the specified soft copies of documents.
+Accordingly, granting of license to use the "Namma yatri" is subject to the "Terms
+and Conditions between applicant and Driver" (herein after referred as Driver's
+Terms and Conditions). A sample copy of the "Driver's Terms and Conditions" is
+submitted as ANNEXURE-4.
+5.3 The Applicant submitted that it is settled proposition of law that where there
+is an agreement/contract, the nature of the contract shall be determined on the
+basis of the terms and conditions contained therein and by reading the contract as
+a whole. Consequently, when the "Driver's Terms and Conditions", are read,
+especially, the clauses- 3, 4, 9 and 11, it is designed to establish the nature of the
+said agreement/contract, which is limited to providing of licence or permission to
+use "Namma yatri" by the subscribers of the "Namma yatri". The clauses 3, 4, 9
+and 11, contained in the "Driver's Terms and Conditions" are re-produced in
+Annexure - 5 for ready reference":
+5.4
+Further, when the "Driver's Terms and Conditions" is read as a whole, it
+confirms and establishes the facts that where the licensee creates "Business User
+Account" ("BSA" for short), in terms of clause 2 and 3 of the "Driver's Terms and
+Conditions"; the subscriber of the "Namma Yatri" enters into business
+deals/transactions on their own with their clients and business associates for
+supply of services, the terms and conditions governing such contracts of supply,
+such as quality, price, etc., are as mutually agreed upon by them and the Applicant
+neither has a say/ a role in that regard nor the Applicant is involved directly or
+indirectly in such supply and providing of services as the case may be. The
+Applicant is not in any way concerned with collection of the consideration for
+supply from the clients / business associates of the subscribed suppliers. All such
+matters are only within the knowledge and domain of the subscribers of the
+"Namma Yatri" of the Applicant and their business clients and associates. Clauses
+4 and 9 of the "Driver's Terms and Conditions" establish the conditions regarding
+consideration.
+5.5 Consequently, the Applicant submits that the subscribers of "Namma yatri"
+are not under any obligation to furnish the details of business transactions entered
+into by using the "Namma Yatri" of the Applicant, such as, nature of supply at any
+time during the period covered by the license or at any time thereafter. However,
+this information is available in "Namma Yatri". For the purposes of the CGST,
+SGST and IGST Acts, the taxable supplies effected by the Applicant is limited to
+providing of "Namma Yatri" and collection of "registration & monthly subscription
+fee from its subscribers of "Namma yatri" and charging, collecting and remitting tax
+rAdiallowing in terms of the charging provisions of Section 9(1) of the CGST and IGST
+and Notification No. 11/2017-Central Tax (Rate) dated 28.6.2017 issued
+Juspay Technologies
+Page 3 of 14
+
+under the CGST Act and similar/identical notification issued under Section 9(1) of
+the Karnataka SGST Act.
+5.6 Applicant is focused on creating a system that helps link consumers to
+service providers whilst maintaining a safe digital ecosystem for both parties. With
+a commission-free monetization model, Namma yatri is a service provider's hub
+wherein the supplier has absolute ownership of his supply and the applicant has
+no rights over their supply.
+5.7
+Applicant submits that on Namma Yatri the auto driver, after making
+payment of membership fee, becomes the registered member on the App; can
+publish the nature of services provided, nature of facilities provided or any other
+activity undertaken benefiting the users.
+5.8
+Applicant submits that the relationship between the members registered on
+our Namma Yatri and the customers would be of supplier and recipient and any
+monetary consideration involved between them is purely privy to their contract and
+the Applicant in no way connected with such contract. If there is any dispute
+between the members registered on Namma yatri and the recipients of services it is
+purely between them and the Applicant is not responsible for any dispute between
+them. Kindly refer clause 9 of "Driver's Terms and Conditions" which establishes
+the same.
+5.9
+Applicant submits that in their case the transaction between the supplier
+and buyer takes place with the use of Namma yatri and there is no involvement of
+the Applicant in either arranging for supply of services from the members
+registered on the Namma yatri or arranging for collection of any consideration or
+any other form of agreed means of payment from the buyers to the registered
+members.
+5.10 Therefore, the business model of the Applicant is neither in the nature of
+"market place electronic commerce" or "fulfillment electronic commerce" nor
+"hybrid electronic commerce" models.
+6.
+Applicant's understanding of Law: The applicant furnished their
+understanding / interpretation of law inter alia stating as under:
+In the light of the terms and conditions contained in "Driver's Terms and
+Conditions" and the facts narrated and explained as above, it is bonafide belief and
+understanding that the Applicants liability to pay tax is limited to payment of tax at
+the rate of 18% under Section 9(1) of CGST and SGST Acts and Section 5(1) of the
+IGST Act, read with Notification No.11/2017-Central Tax (Rate) dated 28.6.2017
+issued under the CGST Act and similar/identical notification issued under Section
+9(1) of the Karnataka SGST Act and Notification No. 8/2017-Integrated Tax (Rate)
+dated 28.6.2017, on the consideration received/receivable of "registration fee and
+Authority
+Fer Admonthly subscription" that the Applicant collects from the subscribers of their
+-De a Yatri app and nothing more.
+Juspay Technologies
+Page 4 of 14
+Karnataka.
+
+6.2. Besides, it is also the understanding and bonafide belief of the Applicant
+that, the Applicant is not liable to pay tax under Section 9(5) of the CGST and
+SGST Acts and Section 5(5) of the IGST Act, read with Notifications Nos.17/2017-
+Central Tax (Rate) dated 28.6.2017 issued
+under the CGST Act and
+similar / identical notification issued under Section 9(1) of the Karnataka SGST Act
+and 14/2017-Integrated Tax (Rate) dated 28.6.2017, respectively.
+6.3. REASONS:
+(i) As per the provisions of Section 9(1) of the CGST and SGST Acts and Section
+5(1) of the IGST Act, which are principal charging provisions of the Act, the liability
+to pay tax on "outward" taxable supplies of services, as the case may be, is on the
+"supplier". The expression "supplier" has been defined under Section 2(105) of the
+CGST/ SGST Acts, which reads as under:
+SECTION 2(105) OF CGST/SGST ACT:
+"2. In this Act, unless the context otherwise requires: -
+(105) "supplier" in relation to any goods or services or both, shall mean the person
+supplying the said goods or services or both and shall include an agent acting as
+such on behalf of such supplier in relation to the goods or services or both supplied;"
+In the present matter of the Applicant, it is not in dispute that in so far as taxable
+supplies effected by the subscribers of the "Namma yatri" of the Applicant to their
+clients / business associates by using the Applicants "Namma yatri", the
+"suppliers" for the purposes of the CGST, SGST & IGST Acts are the subscribers of
+the "Namma yatri" of the Applicant and not the Applicant and therefore, the
+liability to pay tax on the value of all such supplies is on the respective suppliers
+and certainly not on the Applicant.
+(ii) It is also the understanding and bonafide belief of the Applicant that the
+provisions of Section 9(1) and 5(1) of the CGST/SGST Acts and IGST Act is not
+subject to Section 9(5) and 5(5) of the said Acts, respectively.
+(iii) Further, harmonious reading of the definitions of the expressions "electronic
+commerce" and "electronic commerce operator" occurring in Sections 2(44)
+and 2(45) of the CGST/SGST Acts, respectively, and Section 9(5) of the
+CGST/SGST Acts, and 5(5) of the IGST Act, which are re-produced hereunder, it is
+Applicants belief that the said provisions and the notifications issued thereunder,
+shall have applicability only to "electronic commerce operator" like Reliance Jio
+or Amazon or such other taxable persons who supply goods and/or services or both
+on their own account or on account of others with the aid and application of the
+"APP PLATFORM" and they either undertake to supply goods and/or services or
+Authority
+Fer Ad both on their own account/ on account of other taxable persons and directly or
+indirectly connected with entering into contract for supply, storing/warehousing
+packing, delivery of goods, collection of consideration, etc.
+Karnatake-
+# Juspay Technologies
+Page 5 of 14
+
+Section 2(44)
+"2. In this Act, unless
+the context otherwise
+requires: -
+(44)
+"electronic
+commerce" means the
+supply of goods or
+services
+Or
+both,
+including
+digital
+products over digital or
+electronic network."
+Section 2(45)
+"2. In this Act, unless the
+context otherwise requires:
+(45)"
+electronic
+commerce
+operator"
+means any person who
+owns,
+operates
+or
+manages
+digital
+or
+electronic
+facility
+or
+platform
+for electronic
+commerce."
+Section 9(5)
+9. Levy and collection:
+"(5) The Government may, on the
+recommendations of the Council,
+by notification, specify categories
+of services the tax on intra-State
+supplies of which shall be paid
+by
+the
+electronic commerce
+operator if such services are
+supplied through it, and all the
+provisions of this Act shall apply
+to such electronic commerce
+operator as if he is the supplier
+liable for paying the tax in
+relation to the supply of such
+services:
+Provided
+that
+where
+an
+electronic commerce operator
+does
+not
+have
+a physical
+presence in the taxable territory,
+any person
+representing such
+electronic commerce operator for
+any
+purpose in
+the
+taxable
+territory shall be liable to pay
+tax:
+Provided further that where an
+electronic commerce operator
+does
+not have a physical
+presence in the taxable territory
+and also, he does not have a
+representative
+in the
+said
+territory,
+such
+electronic
+commerce operator shall appoint
+a person in the taxable territory
+for the purpose of paying tax and
+such person shall be liable to
+pay tax
+SECTION 5(5) OF IGST ACT:
+"5. Levy and Collection:
+(5) The Government may, on the recommendations of the Council, by notification,
+specify categories of services the tax on intra-State supplies of which shall be paid by
+the electronic commerce operator if such services are supplied through it, and all the
+provisions of this Act shall apply to such electronic commerce operator as if he is the
+supplier liable for paying the tax in relation to the supply of such services:
+Provided that where an electronic commerce operator does not have a physical
+For Advaresence in the taxable territory, any person representing such electronic commerce
+operator for any purpose in the taxable territory shall be liable to pay tax:
+Authority
+*
+Juspay
+Technologies
+Karnataka
+Bengaluru
+Page 6 of 14
+
+Provided further that where an electronic commerce operator does not have a
+physical presence in the taxable territory and also, he does not have a representative
+in the said territory, such electronic commerce operator shall appoint a person in the
+taxable territory for the purpose of paying tax and such person shall be liable to pay
+tax."
+7. Applicant's Interpretation of Law: The applicant furnished their
+interpretation of law, in respect of the questions at para 3 supra, inter alia stating
+as under:
+7.1
+From the above nature of transactions involved in our case, the Applicant is
+of the opinion that output tax is payable by the Applicant only on the membership
+fee collected from individuals who are availing the services of our Namma Yatri App
+to provide services and in no way the Applicant is liable for tax on the transactions
+that takes place subsequently between the registered members (service provider) on
+our Namma yatri and their customers.
+7.2
+Applicant submitted that Section 7(1)(aa) of the CGST Act, has been
+retrospectively inserted from 1st July, 2017 which states that any activities or
+transactions, by a person, other than an individual, to its members or constituents
+or vice-versa, for cash, deferred payment or other valuable consideration shall be
+considered as a Supply. Explanation: For the purposes of this clause, it is hereby
+clarified that, notwithstanding anything contained in any other law for the time
+being in force or any judgment, decree or order of any Court, tribunal or authority,
+the person and its members or constituents shall be deemed to be two separate
+persons and the supply of activities or transactions inter se shall be deemed to take
+place from one such person to another.
+7.3
+Section 9(5) r/w notification No 17/2017 dated 28.06.2017, notification No
+23/2017 dated 22.08.2017 and notification No 17/2021 dated 18.11.202 doesn't
+contemplate or envisaged non-interfering and commission free business adopted by
+the Applicant. It is applicable to business model which collects payment on behalf
+of the supplier. As the Applicant has not collected any payment on behalf of the
+supplier the question of collecting tax on behalf of the supplier can't arise. Hence,
+the Applicant wouldn't be liable for the GST on the transaction carried on by the
+supplier with his customer. Moreover, the supplier raises invoice to his customer &
+the customer pays directly to the supplier which rules out any attempt on the part
+of the Applicant to pay taxes of the supplier.
+7.4
+This Hon 'ble bench in the case of Advance Ruling No. KAR ADRG 36/2022,
+dated 27/10/2022 in respect of M/s Multi-Verse Technologies Private Limited on
+similar grounds have been kind to decide as follows:
+Authority
+Tor Advance p
+a) In the matter of Question No 1 of Annexure - 1, the Hon 'ble court adjudged
+that the Applicant satisfies the definition of an e-commerce operator but
+does not satisfy the conditions of Section 9(5) of the CGST Act, 2017 r/w
+Jus
+Dav
+Technologies
+Karnataka
+Page 7 of 14
+
+Notification No.17/2017 dated 28.06.2017, for the discharge of tax liability
+by electronic commerce operator.
+b) In the matter of Question No 2 of Annexure - 1, the Hon 'ble court adjudged
+that the supply by service provider (person who has subscribed to
+Applicant's app) to his customers (who also have subscribed to Applicant's
+app) on the Applicant's computer application does not amounts to supply by
+the Applicant.
+c) In the matter of Question No 3 of Annexure -1, the Hon'ble court adjudged
+that the Applicant is not liable to collect and pay GST on the supply of goods
+or services supplied by the service provider (person who has subscribed to
+Applicant's app) to his customers (who also have subscribed to Applicant's
+app) on the Applicant's computer application.
+The facts, circumstances and nature of supply of the Applicant matches that of
+the above company and that the Hon'ble members be kind to consider the same at
+the time of deciding the application.
+PERSONAL HEARING PROCEEDINGS HELD ON 13.07.2023
+8. Sri Chetan Kumar, Chartered Accountant & Authorised Representative of
+the applicant appeared for personal hearing proceedings and reiterated the facts
+narrated in their application.
+9. The applicant submitted additional written write up on nature of supply as
+conceptualized in Section 9(5) of the CGST Act 2017 read with Notification
+No. 17/2017 dated 28.06.2017, inter alia stating as under:
+9.1 The applicant quoting the definitions of 'electronic commerce' and 'electronic
+commerce operator' in terms of Sections 2(44) and 2(45) respectively, Section 9(5) of
+the CGST Act 2017 and Notification No.17/2017-Central Tax (Rate) dated
+28.06.2017, wherein it is notified that the tax on intra-state supplies of services by
+way of transportation of passengers by a radio-taxi, motor cab, maxi cab and motor
+cycle shall be paid by the electronic commerce operator, submits that the applicant
+is a technology provider to rickshaw drivers and would like to distinguish from
+rent-a-cab aggregator; they are not registered with the regional transport office
+(RTO) as a rent-a-cab aggregator as they do not fulfil the mandated conditions and
+thus they are not an e-commerce operator.
+9.2
+The tax on intra state supplies of notified services shall be paid by the e-
+commerce operator, in terms of Section 9(5) of the CGST Act 2017, only if such
+services are supplied through it (e-commerce operator platform). The crucial and
+relevant aspect of the section and its applicability are as follows:
+Authority
+For Advance
+a) The services by the supplier to the consumer are supplied through the
+electronic commerce operator
+Ruling
+Karnataka.
+Juspay
+Technologies
+Page 8 of 14
+Bengaluru
+
+b) The service should be an intra-state supply
+c) The tax on services supplied shall be paid by the electronic commerce
+operator
+Applying the principle enumerated above in the instant case, they don't fulfil
+the conditions of being an electronic commerce operator and the supply of services
+through them. The crucial phrase for the applicability of the section is "supply of
+services through e-commerce operator".
+9.3
+The Act or Notification doesn't define or clarify the situations of "supply of
+services through an e-commerce operator" and thus the rules of jurisprudence and
+interpretation are required to understand the phrase and the word as used in
+common parlance. The word through as defined in the oxford's advanced learner's
+dictionary is submitted below:
+a) From one end or side of something / somebody to the other
+b) See, hear, etc. through something to see, hear, etc something from the other
+side of an object or a substance
+c) From the beginning to the end of an activity, a situation or a period of
+time
+d) Past a barrier, stage or test
+e) Until, and including
+The word through is a preposition which means a word or group of words,
+such as in, from, to, out of and on behalf of, used before a noun or pronoun to
+show place, position, time or method". The word through in Section 9(5) is used
+to indicate the method under which the supply of services was initiated, carried on
+and concluded. The dictionary meaning clearly specifies that the word through
+implies that the supply should be initiated, carried on and concluded by the
+specified method.
+9.4 In the instant case the supply is not carried on and concluded by using their
+Namma Yatri' app; they invite attention to the facts furnished in their application
+as well as their submissions during the personal hearing, which are reiterated as
+under:
+a) The applicant provides technology to auto drivers (through the APP). This
+allows the passenger to identify the nearby auto through which he can take
+the ride and no further
+b) The ride is not monitored by the applicant
+c)
+Authority
+For Advance
+The fare and the method of its collection is not known to the applicant
+Ruling
+The fare is not collected through the applicant
+*Karnatal
+# Jaspay Technologies
+Page 9 of 14
+
+e) The applicant is not responsible to the supplier for non-receipt of the
+consideration for the supply
+The applicant is not responsible to the consumer for deficiency on the part of
+the supplier in rendering of the services.
+9.5 It can be clearly concluded, from the above, that the applicant is only
+involved in connecting the supplier of services and consumer of the services with
+no further involvement (like a Just dial or business linking services). The supply
+happens independent of the applicant and the applicant is involved in identification
+of the supplier of services and doesn't take responsibility for the operational and
+completion of the ride. The applicant doesn't fulfil the conditions stipulated in
+Section 9(5) of the CGST Act 2017, which is "supply of services through", as no
+portion of supply of services is under the control of the applicant. The applicant
+can't control the fare of the ride and the collection associated with completion of
+the ride and thus the applicant can't be held liable to collect and pay the tax as
+specified in Section 9(5) of the CGST Act 2017 read with Notification No.17/2017-
+Central Tax (Rate) supra. The applicant's nature of business doesn't allow
+collection of the fare on behalf of the supplier. Thus the services can't be deemed
+to have been supplied through it (APP) just because the service is initiated through
+it.
+9.6 An e-commerce operator, as specified, should supply the services through it.
+The services are only initiated by the applicant's app Namma Yatri' and not
+supplied through the applicant's app and hence the applicant can't be held to be
+an e-commerce operator. Moreover, the Act read with the Notification supra
+transfers the burden of tax from the supplier of services to the e-commerce
+operator as the e-commerce operator has control over the fare paid to the supplier
+and hence can charge and collect the tax on supply of services. In the instant case
+this condition can't be honoured as the applicant has no control over the fare paid
+to the supplier. Thus the applicant pleads helplessness to collect and pay tax on
+behalf of the supplier. Therefore the applicant can't be concluded as a supplier for
+services rendered by auto driver.
+FINDINGS & DISCUSSION
+10.
+At the outset we would like to make it clear that the provisions of CGST
+Act, 2017 and the KGST Act, 2017 are in pari-materia and have the same
+provisions in like matters and differ from each other only on a few specific
+provisions. Therefore, unless a mention is particularly made to such dissimilar
+provisions, a reference to the CGST Act would also mean reference to the
+corresponding similar provisions in the KGST Act.
+11.
+We have considered the submissions made by the applicant in their
+application for advance ruling. We also considered the issues involved on which
+advance ruling is sought by the applicant and relevant facts along with the
+Authority
+Fer Advanguments made by the applicant & the submissions made by their learned
+representative during the time of hearing.
+*
+Karnataka.
+Juspay
+Technologies
+Page 10 of 14
+
+12.
+The applicant provides computer application services through the-
+"Namma Yatri" APP for facilitating business transactions of supply of services
+connecting through the platform of suppliers/sellers (auto drivers) and
+recipients/buyers (Customers who use the auto driver's service), registered under
+the said Are on payment of mas berati charges in aubergion
+the said APP on payment of membership charges & subscription fee and also on
+Accordingly licence to use the APP is granted, to the members/subscribers, subject
+to the respective terms & conditions specified in the respective agreements. In view
+of this, the applicant sought advance ruling in respect of the questions mentioned
+at para 3 supra.
+13. The applicant submitted that licence to use the "Namma Yatri" APP allows to
+create two types of accounts i.e. Business User Account for service provider (auto
+driver) and the Individual/Customer User Account for service recipient (recipient of
+service provided by auto driver). Clauses 3, 4, 9 & 11 of the "Drivers Terms and
+Conditions" establish that the nature of agreement/contract is limited to providing
+licence or permission to use "Namma Yatri" App.; the subscriber of the APP enters
+into business deals/transactions on their own with their clients and business
+associates for supply of services, in terms of clauses 2 & 3 of the "Drivers Terms
+and Conditions"; the terms & conditions governing business contracts of supply
+such as quality, price etc., are mutually agreed upon by the Business user and
+their clients and applicant does not have any say/role; that the applicant are not
+involved either directly or indirectly in supply of services; they are not concerned
+with the collection of the consideration for such supplies; the subscribers of the
+impugned APP are not under any obligation to furnish the details of their business
+transactions such as nature of supply etc., during the licence period; they are
+limited to providing the APP services and collection of registration & subscription
+fees from the subscribers of their APP; they charge, collect and remit the tax, on the
+fees so collected, in terms of Section 9(1) of the CGST Act 2017 and Notification
+No. 11/2017-Central Tax (Rate) dated 28.06.2017.
+14.
+The applicant further submits that they focused on creating a system that
+helps link consumers to service providers while maintaining a safe digital
+ecosystem for both parties, with a commission-free monetization model; Namma
+Yatri' is a service provider's hub wherein the supplier has absolute ownership of his
+supply and the applicant has no right over their supply; the registered auto drivers
+on the App can publish the nature of services/facilities provided or any other
+activity undertaken benefitting the users; the monetary consideration involved
+between the supplier (auto driver) and the recipient (Customer/Consumer) is
+purely privy to their contract and the applicant is no way connected with such
+contract; they are not responsible for any dispute between the supplier and
+recipient; they are not involved in either arranging for supply of services on
+Namma Yatri' App or arranging for collection of any consideration or any other
+form of agreed means of payment.
+Authority
+Ter Advato
+The applicant, quoting the definitions of 'electronic commerce' and
+'electronic commerce operator' in terms of Sections 2(44) and 2(45) respectively,
+Karnataka.
+# Juspay Technologies
+Page 11 of 14
+
+Section 9(5) of the CGST Act 2017 and Notification No. 17/2017-Central Tax (Rate)
+dated 28.06.2017 contends that the applicant is a technology provider to auto
+rickshaw drivers and would like to distinguish from rent-a-cab aggregator; they do
+not fulfill the mandatory conditions that are required to obtain rent-a-cab
+aggregator licence from the RTO and therefore they are not registered with the
+regional transport office (RTO) as a rent-a-cab aggregator and thus they are not an
+e-commerce operator.
+16.
+Now, the core issue before us to decide is whether the applicant qualifies to
+be an e-commerce operator or not and whether they are liable to discharge tax
+liability in terms of Section 9(5) of the CGST Act 2017. We proceed to examine the
+said issue and in this regard we invite reference to the Section 2(44), 2(45) and 9(5)
+of the CGST Act 2017, which are as under:
+2(44) —electronic commerce means the supply of goods or services or both, including
+digital products over digital or electronic network;
+2(45) -electronic commerce operator means any person who owns, operates or
+manages digital or electronic facility or platform for electronic commerce;
+9. Levy and collection.
+(5) The Government may, on the recommendations of the Council, by notification,
+specify categories of services the tax on intra-State supplies of which shall be paid by
+the electronic commerce operator if such services are supplied through it, and all the
+provisions of this Act shall apply to such electronic commerce operator as if he is the
+supplier liable for paying the tax in relation to the supply of such services:
+Provided that where an electronic commerce operator does not have a physical
+presence in the taxable territory, any person representing such electronic commerce
+operator for any purpose in the taxable territory shall be liable to pay tax.
+Provided further that where an electronic commerce operator does not have a
+physical presence in the taxable territory and also he does not have a representative
+in the said territory, such electronic commerce operator shall appoint a person in the
+taxable territory for the purpose of paying tax and such person shall be liable to pay
+tax.
+17.
+It could be inferred from the definitions supra that Electronic Commerce
+Operator (ECO) means any person who owns, operates or manages digital or
+electronic facility or platform for electronic commerce i.e. for the supply of goods or
+services or both, including digital products over digital or electronic network. In
+the instant case the applicant owns digital platform (Namma Yatri' APP), for the
+supply of services. Thus the applicant squarely fits into the definition and qualifies
+to be an Electronic Commerce Operator.
+18.
+Now we proceed to examine the charging section i.e. Section 9(5) of the
+CGST Act 2017, mentioned at para 15 supra, which stipulates that all the
+For Advaprovisions of the CGST Act 2017 shall apply to electronic commerce operator, as if
+Authority
+he is the supplier liable for paying the tax in relation to the supply of certain
+services subject to the following conditions namely:
+* Karnataka
+Baption actinogies
+Page 12 of 14
+
+a) The categories of the services shall be specified by notification, on the
+recommendation of the Council, by the Government.
+b) The supply of such specified services shall be intra-state supplies.
+c) The supply of such service is through the electronic commerce operator.
+Vide Notification 17/2017-Central Tax(Rate) dated 28.06.2017, issued under
+Section 9(5) of the CGST Act, 2017, Government has notified that tax on intra-state
+supplies for "(i) services by way of transportation of passengers by a radio-taxi,
+motorcab, maxicab and motor cycle;' shall be paid by the electronic commerce
+operator. Further explanation (b) to the said notification specifies that "maxicab",
+"motorcab", and "motor cycle" shall have the same meaning as assigned to them
+respectively in clauses (22), (25) and (26) of Section 2 of the Motor Vehicles Act,
+1988. We invite reference to the relevant definition of "motorcab" which is as
+under:
+(25) "motorcab" means any motor vehicle constructed or adapted to carry not
+more than six passengers excluding the driver for hire or reward;
+In the instant case the services of transportation of passengers are provided by
+an auto rickshaw, which is a motor vehicle adapted to carry maximum three
+passengers excluding driver and thereby it can carry not more than six passengers
+excluding the driver and hence qualifies to be a "motorcab". Thus the first two
+conditions viz., (a) and (b) are satisfied in the instant case, in as much as the
+category of services of Intra-state supplies are notified by the Government covering
+services by way of transportation of passengers by motor cab. However, the crucial
+and most important issue is whether the impugned services are supplied through
+the electronic commerce operator or not. The word "through" in Section 9(5) is not
+defined in the relevant context and hence we proceed to discuss the meaning of the
+said word/phrase.
+19. In this regard, we invite reference to Merriam Webster dictionary, in
+accordance to which the word through' is used as a function word to indicate
+means, agency, intermediacy such as by means of, by the agency of etc. The word
+'through' is also used as a function word to indicate extent, period of time such as
+during entire period, from the beginning to the end, to and including etc. Thus the
+word through in the phrase services supplied through electronic commerce
+operator, in Section 9(5) ibid, gives the meaning that the services are to be
+supplied by means of / by the agency of / from beginning to the end / during entire
+period by e-commerce operator. In the instant case, it is observed that the
+applicant, because of their unique business model, merely connects the auto driver
+and passenger and their role ends on such connection; they do not collect the
+consideration; they have no control over actual provision of service by service
+provider; they do not have the details of the ride; they do not have control room/call
+centre etc. The supply happens independent of the applicant and the applicant is
+Authority
+for Advainvolved only in the identification of the supplier of services and doesn't take
+responsibility for the operational and completion of the ride. Thus it is observed
+Ju
+spay Technologies
+Karnataka
+Bengaluru
+Page 13 of 14
+
+that supply of services are not through the electronic commerce operator, but are
+independent. Therefore, the applicant does not satisfy the conditions of Section 9(5)
+for the discharge of tax liability by electronic commerce operator. Thus the
+applicant, though qualifies the definition of being an e-commerce operator, is not
+the person liable for discharge of tax liability under Section 9(5) of the CGST Act,
+2017.
+20. In view of the foregoing, we pass the following
+RULING
+a. The Applicant satisfies the definition of an e-commerce operator but not the
+nature of supply as conceptualized in Section 9(5) of CGST Act, 2017 r/w
+notification No 17/2017 dated 28.06.2017.
+b. The supply by the service provider (person who has subscribed to Namma
+yatri) to his customers (who also have subscribed to Namma yatri) on the
+Applicant's computer application does not amounts to supply by the
+Applicant.
+The Applicant is not liable to collect and pay GST on the supply of services
+supplied by the service provider (person who has subscribed to Namma
+Yatri) to his customers (who also have subscribed to Namma Yatri) on the
+Applicant's computer application.
+(Dr. M.P. Ravi Prasad)
+Member
+Bendalti
+Date: 15-09-2023
+(T. Kiran(Reddy)
+Member
+MEMBER
+Karnataka Advance Ruling Authority
+Bengaluru - 560 009
+To,
+The Applicant
+Copy to:
+1. The Principal Chief Commissioner of Central Tax, Bangalore Zone, Karnataka.
+2. The Commissioner of Commercial Taxes, Karnataka, Bengaluru.
+3. The Principal Commissioner of Central Tax, Bangalore South Commissionerate,
+Bengaluru.
+The Assistant Commissioner of Commercial Taxes, LGSTO-17, Bengaluru.
+56
+Office Folder.
+* Karnataka
+Pete Technologies
+Page 14 of 14

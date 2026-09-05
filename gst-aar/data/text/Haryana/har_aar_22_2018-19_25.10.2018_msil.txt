@@ -1,0 +1,1185 @@
+HARYANA AUTHORITY FOR ADVANCE RULING,
+GOODS AND SERVICES TAX,
+HARYANA VANIJYA BHAWAN, PLOT NO I-3, SECTOR 5;
+PANCHKULA-134151 (HARYANA)
+MATION
+TAX
+MARKET
+ADVANCE RULING NO.HAR/HAAR/R/2018-19/22
+(In Application No.:22/2018-19, dated 26.07.2018)
+Name & Address of the Applicant
+M/s Maruti Suzuki India Ltd., Palam-
+Gurgaon
+Road,. Gurgaon, Haryana-
+122015
+GSTIN of the Applicant
+Date of Application
+Clause(s)
+of Section
+97(2)
+CGST/HGST Act, 2017, under which
+the question(s) raised.
+Date of Personal Hearing
+Present for the Applicant
+06AAACM0829Q1Z8
+26.07.2018
+of
+(II) Applicability of Notification issued
+under the provisions of the Act.
+23.10.2018
+Sh. Laxmi Narsimhan, Advocate
+Sh. Amar Pratap Singh, Advocate
+Sh. Ankit Awal, CA
+1.
+The submissions made by M/s Maruti Suzuki India Ltd. (hereinafter referred to
+the "Applicant"), in their application for advance ruling are reproduced below, verbatim.
+"STATEMENT OF RELEVANT FACTS HAVING A BEARING ON THE QUESTION(S) ON WHICH
+ADVANCE RULING IS REQUIRED
+M/s Maruti Suzuki India Ltd. (hereinafter referred to the "Applicant") is engaged
+in the business of manufacture and supply of cars. The Applicant, inter-alia, supplies cars
+with compression ignition internal combustion piston engine and electric motor and is
+currently manufacturing and supplying three models of cars of this category. The three
+cars of this category are S-Cross, Ertiga and Ciaz (hereinafter collectively referred to as
+HEVS).
+The HEVs so supplied by the Applicant consist of a compression-ignition internal
+combustion piston engine (IC engine), also known as diesel engine, paired with an
+integrated starter generator (ISG). which supplements the engine's power and enables
+acceleration. The relevant specifications of the three HEVs are provided in the following
+Techni
+cal Specifications
+HARYANA
+Övergislength(mm)
+Overall width (mm)
+Overall height(mm)
+Engine Capacity(cc)
+Fuel Tank Capacity(1)
+S-Cross
+4300
+1785
+1595
+1248
+Models
+Ertiga
+•4296
+1695
+1685
+1248
+45
+Ciaz
+4505
+1730
+1485
+1248
+43
+3.
+It is pertinent to mention that the aforementioned specifications in regard to
+HEVs supplied by the Applicant are determined as per Rule 93 and 124 of the Motor
+1
+
+Vehicles Rules, 1989, as amended from time to time, which provides the methodology to
+determine the dimensions, safety standards and fuel efficiency of the vehicle.
+4.
+• A. copy of the certificate issued by International Centre for Automotive
+Technology (A Division of NATRiP Implementation Saciety (NATIS), Govt. of India)
+(hereinafter referred to as "ICAT") dated 13.05.2015 and 27.02.2017 for Ciaz and Ertiga
+models supplied by the Applicant are enclosed as Annexure-A and B respectively.
+Further, a copy of the certificate issued by The Automotive Research Association of India
+dated 18.08.2017 for S-Cross model supplied by the Applicant is enclosed as Annexure-C.
+All these certificates provide that these models of HEVs supplied by the Applicant are in
+compliance with the relevant rules of Motor Vehicles Rules, 1989.
+Functioning of HEVS:
+5.
+A motor vehicle is moved when the requisite mechanical force is applied to it. In
+the conventional motor vehicles with the IC engines, this mechanical force is provided by
+the combustion of fuel (diesel/petrol) with the air in the IC engine in the motor vehicle.
+The combustion of fuel with the air converts thé potential chemical energy in fuel and
+oxygen into thermal energy which is transformed into the mechanical energy that
+accelerates the vehicle (increasing its kinetic energy) by causing the pressure on the
+pistons.
+6.
+As explained above. in HEVs supplied by the Applicant. Besides IC engine, an
+electric motor is also present which provides assistance to the IC engine as and when
+required.
+7.
+Notably, at certain driving conditions such as acceleration, etc. to propel the
+motor vehicle, the IC engine providing the mechanical force to the motor vehicle is
+assisted by the electric motor present in HEVs. This electric motor acts as a power
+booster to the IC engine by utilizing the energy stored in the electric battery
+(http://www.circuitstoday.com/working-of-hybrid-cars/).
+8.. In view of the above functional analysis of HEVs, it is clear that in HEVs, the IC
+engine as Well as electric motor work in tandem to propél the vehicle.
+9.
+Besides the above, the other distinguishable features of HEVs as against the one
+of conventional motor vehicles (running solely on IC engines), supplied by the Applicant
+are as under:
+During braking/ deceleration condition, the motor acts as a generator and
+charges the special high capacity battery.
+b. The regeneration of energy assists the power function of the car. This helps
+HARYANAtke engine in providing optimal acceleration and performance.
+The vehicle has idle start-stop function which helps the vehicle conserve
+precious fuel in certain idling conditions.
+STATEMENT CONTAINING APPLICANT'S INTERPRETATION OF LAW AND/OR FACTS, AS
+THE CASE MAY BE, IN RESPECT OF THE QUESTION(S) ON WHICH ADVANCE RULING IS
+REQUIRED.
+APPLICANT'S ELIGIBILITY FOR ADVANCE RULING:
+10. Section 11(1) of the GST (Compensation to States) Act, 2017 (hereinafter referred
+to as the 'Compensation Cess Act') provides that all provisions of the Central Goods and
+• Services Tax Act, 2017 (hereinafter referred to as the 'CGST Act) and the rules made
+thereunder, shall be applicable in relation to the levy and collection of the cess leviable
+under Section 8 of the Compensation Cess Act. The relevant portion of Section 11(1) of
+the Compensation Cess Act is reproduced hereunder:
+
+"(1) The provisions of the Central Goods and Services Tax Act, and the rules made
+thereunder, including those relating to assessment, input tax credit, non-levy,
+short-levy, interest, appeals, offences and penalties, shall, mutatis mutandis,
+apply in relation to the levy and collection of the cess leviable under section 8 on
+the intra-state supply of goods and services, as they apply in relation to the levy
+and collection of central tax on such inter-State supplies under the said Act or the
+rules made thereunder"
+Emphasis Supplied
+11.
+In view of the above referred provision of the Compensation Cess Act, it can be
+concluded that all the provisions of the CGST Act, including that of assessment, input tax
+credit, etc. shall be applicable to the levy and collection of the cess leviable under Section
+8 of the Compensation Cess Act.
+12. Thus, the provisions pertaining to advance rúling under the CGST Act provided
+under Chapter XVI! of the CGST Act shall be applicable to determine the questions
+enunciated under Section 97 of CGST Act with respect to Compensation Cess.
+13.
+Section 97 of the CGST Act, entails that advance ruling may be filed by an
+applicant on following questions: -
+a.. Classification of any goods or services or both;
+b. Applicability of a notification issued under the provisions of this Act:
+c. Determination of time and value of supply of goods or services or both;
+d.
+Admissibility of input tax credit of tax paid or deemed to have been paid:
+AD
+VANE
+Determination of the liability to pay tax on any goods or services or both;
+Whether applicant is required to be registered;
+HARYANA
+Whether any particular thing done by the applicant with respect to any goods
+or services or both amounts to or results in a supply of goods or services or both,
+within the meaning of that term.
+14.
+The Applicant submits that issue on which advance ruling is sought in the instant
+matter relates to the applicability of the Notification issued under the provisions of the
+Compensation Cess Act. The question relating to applicability of Notification is eligible to
+be posed for advance ruling before the Advance Ruling Authority in terms of Section
+97(2)(b) of the CGST Act. Thus, on a conjoint reading of Section 97(2)(b) of the CGST Act
+with Section 11(1) of the Compensation Cess Act, it is submitted that the question
+pertaining to determination of applicability of Notification issued under the provisions of
+the Compensation Cess Act is eligible to be posed for advance ruling under Section
+97(2)(b) of the CGST Act.
+15: Further, the Applicant is registered in Haryana and thus, the present advance
+ruling application is maintainable before the Hon'ble Authority of Advance Ruling,
+Haryana.
+ISSUE REQUIRING ADVANCE RULING:
+16.
+The Applicant submits the following question for Advance Ruling and its
+interpretation on the question as under:
+C.
+Whether HEVs supplied by the Applicant are leviable to Compensation Cess at
+the rate of 15% as prescribed under Sl. No. 48 of Notification No. 01/2017-
+Compensation Cess (Rate) dated 28.06.2017 (hereinafter referred to as
+3
+
+Notification No. 01/2017-CC) as amended by Notification No. 05/2017-
+Compensation Cess (Rate) dated 11.09.2017 (hereinafter referred to as
+Notification No. 05/2017-CC)?
+Applicant's understanding:
+17.
+"In the understanding of the Applicant, HEVs supplied by the Applicant are leviable
+. to concessional rate of Compensation Cess i.e: 15% under Sl. No. 48 of Notification No.
+01/2017-CC as amended by Notification No. 05/2017-CC.
+Applicable provisions:
+GST (Compensation to States) Act, 2017
+18.
+Section 8 of the Compensation Cess Act, is the charging section which provides
+that a compensation cess shall be leviable on supplies of goods or services or both as
+specified in column (2) to the Compensation Cess Act, at such rate, as may be notified by
+• the Government on the recommendations of the Goods and Service Tax Council.
+19.
+The relevant portion of Section 8 of the Compensation Cess Act is reproduced
+hereinunder:
+"8. (1) There shall be levied a cess on such intra-state supplies of goods or services
+or both, as provided for in section 9 of the wo Central Goods and Services Tax Act,
+and such inter-state supplies of goods or services or both as provided for in
+section 5 of the Integrated Goods and Services Tax Act, and collected in such
+manner as may be prescribed, on the recommendations of the Council........
+ORAD
+(2)
+The cess shall be levied on such supplies of goods and services as are
+specified in column (2) of the Schedule, on the basis of value, quantity or on such
+basis at such rate not exceeding the rate set forth in the corresponding entry in
+column
+MARYANA
+of the Schedule, as the Central Government may, on the recommendations of
+the Council, by notification in the Official Gazette, specify:
+Emphasis supplied
+Notification No. 1/2017-CC
+20.
+In exercise of powers conferred under sub-section (2) of Section 8 of the
+Compensation Cess Act, the Central Government issued a Notification No. 01/2017- CC
+which specifies the rate of compensation cess to be levied on different goods falling
+under specified Chapter/heading/sub-heading/tariff items. The relevant entries of the
+Schedule (Sl. No. 48 and 52) are reproduced herein below:
+Schedule
+S. No.
+DESCRIPTION OF GOODS
+CHAPTER/HEADING/
+SuB-HEADING/ TARIFF
+ITEM
+RATES OF GOODS
+AND SERVICES TAX
+COMPENSATION CESS
+48
+8703 60, 8703 70
+Following
+Vehicles, with
+both
+compression-
+ignition
+internal
+combustion piston engine
+and electric motor as
+motors for propulsion; -
+a) Motor
+vehicles
+cleared as
+ambulances
+duly fitted with all the
+4
+NIL
+
+52
+8703
+fitments, furniture
+and
+accessories necessary for
+an ambulance from _ the
+factory
+manufacturing
+such motor vehicles
+b) Three
+wheeled
+vehicles
+c)
+Motor vehicles of
+engine
+capacity-not
+exceeding 1500cc and of
+length not exceeding
+4000 mm.
+Explanation-
+For the
+purposes of this entry,
+the specification of the
+motor vehicle shall be
+determined as per the
+Motor Vehicles Act, 1988
+(59 of 1988) and the rules
+made there under.
+All goods other than
+those mentioned at S.
+No.s. 43 to 51 above
+15%
+Notification No. 05/2017-CC
+21.
+The above referred Notification No. 01/2017-CC was amended by Notification
+No.05/2017-CC which substituted SI. No. 48 and 52 of Notification No. 01/2017-CC. The
+amended Sl. No. 48 and 52 are as under:
+S. NO.
+CHAPTER/HEADING
+SUB-HEADING
+TARIFF ITEM
+DESCRIPTION OF GOOD
+RATES OF GOODS
+AND SERVICES TAX
+COMPENSATION CESS
+ORAQ
+HARYANA
+• 48
+8703 50, 8703 70
+setter
+Following Vehicles, with both
+compression-ignition. internal
+combustion piston engine
+[diesel or semi- diesel] and
+electric motor as motors for
+propulsion
+a) Motor vehicles cleared as
+ambulances duly fitted with all
+the fitments, furniture and
+accessories necessary for an
+ambulance from _ the factory
+manufacturing
+such
+motor.
+vehicles
+b) Three wheeled vehicles
+NIL
+c) Motor vehicles of NIL
+5
+NIL
+Nil
+Nil
+
+engine capacity not exceeding
+15%
+1500ce and of length not
+exceeding 4000 mm
+d) Motor vehicles other
+than those mentioned at (a),
+(b) and (c) above.
+Explanation-
+For - the
+purposes of this entry, the
+specification of the
+motor
+vehicle shall be determined as
+per the Motor Vehicles Act,
+1988 (59 of 1988) and the
+rules made there under.
+Motor. vehicles
+of engine
+52
+8703
+capacity not exceeding 1500
+17%
+CC
+After the issuance of the above referred Notification 05/2017-CC dated
+11.09.2017, the Applicant filed a letter dated 19.09.2017 with Sh. R.K. Mahajan,
+Member-Budget and legal, CBEC seeking clarification on classification of the Ertiga and
+Ciaz models of the Applicant under sub-heading 8703 50 of the Customs Tariff Act, 1975
+(hereinafter referred to as "CTA"): A copy of the letter dated 19.09.2017 is enclosed as
+Annexure-D.
+23. In the interim period (since the billing and sales dispatches to the dealers and
+customers had to start), the Applicant, while waiting for response of concerned officials,
+out of abundant precaution, started issuing tax invoices at higher of the two tax slabs
+which was 28% + 17% (i.e. by classifying the subject HEVs as tariff item 8703 3191 of the
+CTA and applying Sl. No. 52 of the Notification No. 05/2017-CC). The same was informed
+by the Applicant, vide its letter dated 22.09.2017 to Sh. Upender Gupta Commissioner
+(GST), CBEC with a request that as and when the Government clarifies that the subject
+HEVS fall under the 15% Cess slab, excess deposit of 2% Cess shall be refunded to the
+ultimate retail customers. A copy of the letter dated 22.09:2017 is enclosed as Annexure-
+E.
+Subsequently, the Applicant also filed a letter dated 30.10.2017 to Sh. Yogendra
+Garg. Additional Director General of GST, DGGST, New Delhi and letter dated 05.01.2018
+to Member-Budget, CBEC seeking guidance and clarification on the classification and
+applicable rate of compensation cess of the Applicant's HEVs. Copies of letter dated
+30.10.2017 and 05.01.2018 are enclosed as Annexure-F and G respectively.
+ORADEA
+25.
+The Applicant submits that even after repeated reminders, till date no formal
+communication has been issued by the Government on the Applicant's request.
+per the Applicant's understanding, all 3 models of HEVs of the Applicant
+→ naily ciaz, Ertiga and Scross fall under the sub-heeding 3703 50 of the CTA and are
+consequently covered under clause (d) of Sll:No.48 of the Notification No. 01/2017-CC as
+substituted by Notification No. 05/2017-CC and thus, attracting compensation cess at
+the rate of 15%. The reasons for the same are explained hereunder:-
+The HEVs are classifiable under Heading 8703
+27:
+On reading the aforementioned notification, it can be seen Sl. No. 48 as
+substituted is applicable for sub-heading 8703 50, 8703 70. The relevant extract of
+Heading 8703 of the CTA is provided below for quick reference:
+Sanert
+.6
+
+TARIFF ITEM
+(1)
+8703
+8703 40
+8703 50
+8703 70
+DESCRIPTION OF GOODS
+(2)
+Motor Cars and other motor vehicles principally designed for
+the transport of persons (other than those of heading 8702),
+including station wagons and racing cars.
+Other vehicles, with both spark-ignition internal combustion
+reciprocating piston engine and electric motor as motors for
+propulsion, other than those capable of being charged by
+plugging to external source of electric power
+Other vehicles, with both compression-ignition internal
+combustion piston engine (diesel or semi-diesel) and electric
+motor as motors for propulsion, other than those capable of
+being charged by plugging to external source of electric
+power
+Other vehicles, with both compression-ignition internal
+combustion piston engine (diesel or semi-diesel) and electric
+motor as motors for propulsion, capable of being charged by
+plugging to external source of electric power
+It is pertinent to note that the Harmonised System Review Sub-Committee during
+its 44" session in 2017, proposed to amend the HSN Explanatory Notes to Heading 8703
+to cover the hybrid vehicles i.e. the vehicles which consist of both diesel engine as well as
+electric motor. Following this decision of the review sub-committee, the explanatory
+notes were amended. Corresponding amendment was brought in CTA in the year 2017
+and new customs tariff entries 8703 40, 8703 50, 8703 60 and 8703 70 were introduced
+under the heading 8703.
+29.
+On perusal of the above referred Heading 8703 of the CTA, it is clear that all
+O mator cars and motor vehicles will be covered under this heading provided these motor
+cars/motor vehicles are:
+a principally designed for transport of persons; and
+HARYANAE
+are not covered under Heading 8702 of the CTA i:e. for transport of ten or
+more persons.
+30.
+It is submitted that HEVs supplied by the Applicant are principally designed for
+transportation of persons. Further, these HEVs are not covered under Heading 8702 of
+the CTA in as much as these HEVs are for transportation of less than ten persons i.e. five
+persons including driver (S-Cross and Ciaz) and 7 persons including driver (Ertiga). Thus,
+HEVs manufactured and supplied by the Applicant fulfils twin conditions of Heading 8703
+(as provided in Para 29 above) and are therefore, covered under Heading 8703 of the
+CTA. Further, HEVs of the Applicant do not comprise of reciprocating piston engine (8703
+40), rather they comprise of both compression- ignition internal combustion piston
+engine (diesel or semi-diesel) and electric motor as motors for propulsion and thus, are
+classifiable under sub-heading 8703 50 of the CTA. Discussion in detail in this regard is
+made in the subsequent paragraphs.
+31.
+Once it is established that HEVs supplied by the Applicant falls under Heading
+8703 of the CTA, It is pertinent to determine as to whether or not these HEVs are covered
+under Sl. No. 48 of the Notification No. 01/2017-CC as amended by Notification No.
+05/2017-CC, referred above. This is for the reason that in case these HEVs are covered
+under SI. No. 48, compensation cess at the rate mentioned in column (4) corresponding
+to SI. No. 48 i.e. 15% would be leviable. However, in case these HEVs are not covered
+under Sl. No. 48 of the Notification No. 01/2017-CC as amended by Notification No.
+05/2017-CC, these HEVs would be covered under Si. No. 52, which is a residual entry for
+7
+
+vehicles falling under Heading 8703 of the CTA and thus, would be leviable to the
+compensation cess at the rate mentioned in column (4) corresponding to Sl. No. 52 which
+is 17%.
+Analysis of SI. No. 48 of Notification No. 01/2017-CC as amended by Notification No.
+05/2017-CC
+32.
+On a careful perusal of amended Sl. No. 48 of Notification No. 01/2017-CC
+referred above, it is clear that this entry would cover all those vehicles which have both
+compression-ignition internal combustion piston engine (diesel or semidiesel); and.
+electric motor as motors for propulsion. Further, depending on the specifications of the
+motor vehicles. as provided in column (3), the appropriate cess provided in column (4)
+shall be levied.
+33.
+To analyse SI. No 48, it is necessary to understand the meaning of the terms
+"propulsion' and 'both' used therein.
+34.
+It is a settled principle of law that to understand meaning of any word used in a
+statute, but not defined therein, reference can be made to the meanings given in any
+other statute or dictionary. Reliance in this regard can be placed on the decision of
+Hon'ble Apex Court in the case of C.C. (General), New Delhi vs. Perstorp Electronics Ltd.,
+reported at [2005 (186) ELT 532 (SC)]. The relevant portion of the said decision is as
+under:
+"50. In our opinion, the Counsel is right in submitting that when the expression
+'book' is not defined in the Act, natural and ordinary meaning of the said
+expression must be kept in view.
+... Emphasis Supplied
+35.
+It is submitted that as the words 'both' and 'propulsion' are not defined/explained
+in the aforementioned notification, reference is made to the dictionaries to understand
+the meaning of the terms.
+36.
+Meaning of the term 'propel/propulsion': il.
+AD
+Chamber's dictionary (Deluxe Edition):
+propel: to drive forward'
+HARYANA propulsion: the act of causing something to move forward; force which causes
+forward movements".
+li.
+McGraw-Hill Dictionary of Scientific and Technical Terms (Fifth Edition):
+'the process of causing a body to move by exerting a force against it'
+ili.
+• New Webster's Dictionary and Thesaurus:
+"propel' means 'to push or drive forward or onward'.
+iv.
+Academic Press Dictionary of Science and Technology:
+'the process of applying a force, pushing ambient fluid out the propulsor at a
+velocity higher than the ambient from the rear end of the propulsor on an object,
+to cause it to move forward'.
+. v. Random House Compact Unabridged Dictionary, Special 2"4 edition:
+• "to drive or cause to move, forward or onward; to impel or urge onward"
+vi.
+The World Book Encyclopedia, Volume 11:
+8
+
+·:
+"Jet Propulsion is the production of motion in one direction by releasing a high-
+pressure stream of gas in the opposite direction".
+vii.
+The Compact edition of the Oxford English Dictionary. Volume II:
+"propel: to drive before one, push or urge forward"
+"propulsion: The action of driving or pushing forward or onward, the condition of
+being impelled onward; also, propulsive force or effort."
+McGraw-Hill Concise Encyclopedia of Science & Technology, 3" edition
+"The process of causing a body to move by exerting a force against it"
+37.
+On a careful perusal of the above referred meanings of the term 'propel or
+propulsion' it is clear that any action or activity which causes or urges to cause
+movement in a body is called propulsion. Thus, the act of pushing or causing a body to
+move is propulsion.
+38.
+Meaning of the term 'both:
+• i. / Major Law Lexicon (4" Edition, 2010):
+'the one and the other; the two without the exception of the other'.
+In view of the above referred meaning of the term 'both', it is clear that the usage
+of the term 'both' suggests that the two things are indispensable and out of the two,
+none can be excepted or ignored.
+Thus, while interpreting the scope of Sl. No. 48 in light of the above referred
+meanings of the terms 'propulsion' and 'both', it is amply clear that Sl. No. 48 would
+cover all those vehicles which have IC engine, and an electric motor. Further, the IC
+engine and electric motor should be the motors for propulsion l.e. these motors should
+be able to move or push the vehicle in forward direction.
+41.
+As discussed above, it is submitted that the use of the term "both' in SI. No. 48
+clarifies that to fall within the ambit of Sl. No. 48, a motor vehicle should consist of the IC
+engine as well as the electric motor. Thus, for the purpose of interpreting scope of Sl. No.
+48, the presence of both IC engine and motor is crucial, which is present in HEVs.
+The Evs manufactured by the Applicint has both IC engine as well as electric motor.
+which act as motors for propulsion
+HAZYANANOW, the next question to be determined is whether such electric motor can be.
+said to be/a 'motor for propulsion'.
+43.
+In this regard, reference is drawn to the 44" Session along with 53 Session of the
+Harmonised System Review Sub-Committee. At these sessions, it was proposed to
+introduce new tariff entries covering hybrid vehicles. Accordingly, customs tariff sub-
+headings 8703 40 & 8703 50 were introduced the year 2017. Notably, these entries,
+when proposed, used the phrase 'as motors for driving' in place of 'as motors for
+propulsion' used in the tariff entries existent on date. The 53 Session provided the reason
+for such change as follows:-
+"The EU Delegate questioned the use of the expression "for driving" in English and
+its translation "pour la transmission" into French in the proposed new subheadings and
+invited the Secretariat to check whether it could be more appropriate to use the
+expression "for propulsion" in the English texts and "pour la propulsion" in the French, as
+in certain other texts of the HS. Therefore, the Sub-Committee also agreed to insert the
+term "propulsion" in square brackets in the relevant texts as alternatives to "driving".
+sampet
+9
+
+in English and "transmission" in French, for final decision by the HS Committee in March
+2014."
+44.
+From the above Committee Meetings, it can be understood that the coverage of
+the said amended entries is extended to capture any vehicle with a motor which in any
+manner is used for driving such vehicle.
+45.
+It has already been detailed in the facts above that HEVs supplied by the
+Applicant has an IC engine as well as ISG (motor). In view of the dictionary meaning of
+the term propulsion, as explained above, any activity which provides forward or onward
+movement to the vehicle is called propulsion. Moreover, even the tendency or urge to
+push or accelerate the vehicle is also called propulsion.
+46 It has already been defined in the facts. above that HEVs manufactured and
+supplied by the Applicant are driven by the IC engine and thus, the IC engine is acting as
+a motor for propulsion in as much as it is providing the necessary push to move the
+vehicle.
+47. Further, at certain points viz. at the time of starting the HEVs, the electric motor
+starts the engine and thereafter, the IC engine takes over far further movement of HEVs.
+It is pertinent to note that the activity of starting the engine is to put HEVs in moving
+condition and therefore, the electric motor is acting as motor for propulsion. Also, at
+certain instances the electric motor provides additional push to the IC engine to
+accelerate HEVs and thus, acting as a motor for propulsion.
+48.
+Further, on the basis of the functions performed by such electric motor, it can be
+said that the electric motor is used in the HEVs. towards the driving of such vehicle.
+Therefore, in view of the reasons put forth by the Committee, it can be said that the
+electric motor is, though not independently, contributing towards the driving of the
+vehicle, can be said to be acting as a 'motor for driving' or 'motor for propulsion'.
+Therefore, the same would be covered within the ambit of customs tariff sub-headings
+8703 40 or 8703 50, as the case may be.
+49.
+In view of the above, it is submitted that HEVs manufactured by the Applicant has
+JC engine as well as electric motors and both these motors are used as motors for
+propulsionydriving. Therefore, HEVs manufactured by the Applicant clearly fall within the
+ambit of Si. Wo. 48 referred above.
+HARYANIC Engine and electric motor work together to move HEVS forward
+50:
+It'has been explained in the facts stated earlier that pre-dominantly, the IC engine
+provides the force required for propulsion of HEVs and the IC engine is assisted by the
+electric motor at certain instances whenever the power demand from the vehicle is
+higher like acceleration. Thus, in certain instances like extra acceleration, if the vehicle
+requires additional force, the same is provided by the electric motor. Similarly, at the
+time of starting the vehicle, the electric motor provides the initial force which urges the
+propulsion in the vehicle. Once the vehicle is started, the IC engine takes over for running
+the vehicle.
+51. Therefore, in HEVs manufactured and supplied by the Applicant, the IC engine and
+electric motor act in tandem to propel the vehicle, Thus, the Applicant is of the view that
+HEVs manufactured and supplied by the Applicant are covered within the ambit of Sl. No.
+48.
+HEVs fulfils the definition of "Hybrid Cars' in view of the HSN Explanatory Notes
+and are known as Hybrid Vehicles in common parlance
+10
+
+52.
+It is submitted that HEVs fulfill the definition of Hybrid Cars and in common
+parlance are referred to as Hybrid Vehicles and thus, fall under Sl. No. 48 of Notification
+No. 1/2017-CC as amended.
+53. In this regard, reference is made to Explanation (1) to Notification No. 1/2017-CC
+which provides that "Tariff item", "sub-heading" "heading" and "Chapter" shall
+respectively mean a tariff item, sub-heading, heading and chapter as specified in the
+First Schedule to the CTA. Further, Explanation (2) to Notification No. 1/2017-CC provides
+that the rules for the interpretation of the First Schedule to the CTA, including the Section
+and Chapter Notes and the General Explanatory Notes of the First Schedule shall, so far
+as may be, apply to the interpretation of this Notification.
+54.
+Thus, reference is made to sub-heading 8703 50 of the CTA, which is reproduced
+hereunder:
+Tariff Item
+(1)
+8703 50
+Description of goods
+(2)
+Other vehicles, with both compression-ignition internal
+combustion piston engine (diesel or semi diesel) and
+electric motor as motors for propulsion, other than those
+capable of being charged by plugging to external source
+of electric power
+55.
+It is pertinent to note that the above referred sub-heading 8703 50 of the CTA is
+pari- matería to Sl. No. 48 and thus, the interpretation and scope of this sub-heading
+would be equally applicable to the scope of SI. No. 48:
+At this juncture, it is submitted that the HSN Explanatory Notes constitutes the
+official interpretation of the nomenclature at the international level. While not legally.
+binding, they do represent the considered views of classification experts of the
+Harmonized System Committee. It is well settled that the explanatory notes have
+persuasive value and in the event of disputes, the Indian Courts have upheld seeking
+recourse to the explanatory notes while determining classification of products.
+57. Reliance in this regard is placed on the decision of Hon'ble Supreme Court in
+L.M.L. Limited vs. Commissioner of Customs, reported at, [2010 (258) ELT 321 (SC]], in
+which it was held that in order to resolve a dispute on tariff classification, internationally
+accepted nomenclature emerging from HSN explanatory notes, is a safe guide for
+classification.
+58.
+The Hon'ble Tribunal in Mumbai the case of Nestle India Ltd vs. Commissioner of
+Central Excise, reported at, [2008 (227) ELT 631 (Tri. -Mum)] following the ratio laid
+down by the Supreme Court held as under:
+'25.Moreover, it is now well settled by various decisions of the Hon'ble Apex
+Court that HSN Explanatory notes are not only of persuasive value, but are
+MARYANAntitled to far greater consideration in classifying goods under the Central Excise
+and the Customs Tariff as held by the Hon'ble Supreme Court in the case of
+Collector of Customs, Bombay v. Business Forms Ltd - 2002 (142) E.L.T. 18 (S.C.)
+following its earlier decision in the case of CCE, Shillong v. Wood Craft Products
+Ltd. - 1995 (77) E.L'T. 23 (S.C)."
+... Emphasis Supplied
+The Tribunal decision in Nestle India Ltd. (supra) was also approved by the Supreme
+Court, [2009 (237) ELT A102 (SO)]..
+get.
+11
+
+59.
+Thus, on the basis of the above referred decisions it can be said the HSN
+explanatory notes are important guide with respect to classification and are relied upon
+by the courts while determining the classification.
+60. In view of the above discussion and judicial precedents, it is clear that while
+interpreting a heading/sub-heading reliance can be placed on the HSN Explanatory
+61. At this juncture, attention is invited to the 44" Session of the Harmonised System
+Review Sub-Committee, wherein, it was proposed to amend the nomenclature of
+Chapter 87, specifically headings 87.02, 87.03, 87.04 and 87.11 in order to up-to-date
+the HSN in the light of recent technical innovations in the field of automobile technology.
+62. It was pointed out at the meeting that the motor vehicles manufactured with the
+advanced technology are equipped with a hybrid power system that use two or more
+power sources to move. This technological advancement improves fuel economy,
+increase power or provide additional auxiliary power to the vehicles. Besides this, such
+vehicles are environment friendly with regard to emission of tailpipe pollutants.
+63.
+It was also pointed out in the meeting that the current nomenclature in the HSN is
+stipulated on the basis of types of internal combustion piston engines and such a simple
+nomenclature is not enough to reflect the world trade of motor vehicles, taking into
+account the remarkable changes in technology.
+64.
+In accordance with the proposals, the committee amended the HSN Explanatory
+Notes to Heading 8703 to cover the hybrid vehicles. Subsequently, in India, the CTA was
+amended in the year 2017 and new customs tariff entries 8703 40, 8703 50, 8703 60 and
+8703 70 were introduced under the heading 8703.
+65.
+Further, to understand the scope and ambit of this customs tariff sub-heading,
+reference is to be made to the HSN Explanatory Notes to customs tariff heading 8703
+which reads as under:
+"Vehicles, which have the combination of an internal combustion engine and one
+or more electric motors, are known as "Hybrid Electric Vehicles (HEVs). For the
+purpose of mechanical propulsion, these vehicles draw energy from both a
+consumable fuel and an electrical energy/power storage device (e.g., electric
+accumulator, capacitor, flywheel/generator). There are various types of Hybrid
+Electric. Vehicles (HEVs), which can be differentiated by their powertrain
+MARYANA
+configuration (such as, parallel hybrids, series hybrids, power-split or series-
+egrallel hybrids) and degree of hybridization (i.e., full hybrids, mild hybrids and
+plug-in hybrids)*
+.. Emphasis Supplied
+66,
+It is pertinent to note that the HSN Explanatory Notes, extracted above, should be
+understood keeping in mind the intention of the sedan committee. Further, the HSN
+Explanatory Notes for heading 8703 expressly provides that this heading covers Hybrid
+Vehicles. It also provides that these hybrid vehicles draw energy from both consumable
+fuel and electrical energy for the purpose of mechanical propulsion. It also clarifies that
+this heading will include Hybrid Vehicles of all types and degrees of hybridization
+including mild hybrid vehicles. Thus, in terms of the HSN Explanatory Notes, the vehicles
+which draw energy for mechanical propulsion, from the sources viz. consumable fuel and
+electrical energy would be covered under the category of Hybrid Vehicle.
+67. 'Further, as provided in the HSN Explanatory Notes, referred above, the customs
+tariff heading 8703 covers 'Hybrid Vehicles' of all types and degrees of hybridization i.e.
+full hybrids, mild-hybrids and plug-in hybrids.
+sangeeta
+12
+
+68. It is submitted that even though, the HSN Explanatory Notes referred above,
+specifically covers the Hybrid Vehicles, the term 'Hybrid Vehicles' is not defined under the
+GST Law or CTA or the Central Motor Vehicles Act.
+69. It is a settled principle of law that in the absence of any statutory definition, the
+words used in a taxing statute have to be understood in the common parlance or
+commercial parlance. Reliance in this regard can be placed on the decision of Hon'ble
+Apex Court in the case of Porritts and Spenser (Asia) Ltd. vs. State of Haryana, reported
+at, [1983 ELT 1607 (SC)]. The relevant portion of the said decision is as under:
+"4. Now, the word 'textiles' is not defined in the Act, but it is well settled as a
+• result of several decisions of this Court, of which we may mention only a few,
+namely, Ramavatar Budhaiprasad v. Assistant Sales Tax Officer, Akola AIR 1961
+S.C. 1325 and M/s Motipur Jamindary Co. Ltd. v. State of Bihar, AIR 1962 S.C.
+660 and the State of West Bengal v. Washi Ahmed, (1977)3 SCR 199 that in a
+taxing statute words of everyday use must be construed not in their scientific or
+technical sense but as understood in COMMON PATIANCE........
+.... Emphasis Supplied
+70.
+In view of the above referred decision, it becomes clear that in case a word is not
+defined in statute, the same shall be given the meaning in accordance with the common
+or commercial parlance.
+71, As discussed above, the words 'Hybrid Vehicles' are not defined in any statute and
+therefare, by applying the principle enunciated in the above referred decision it becomes
+pertinent to understand 'Hybrid Vehicles' as understood in the common parlance. The
+Oxford Advanced Learner's Dictionary defines 'hybrid' as 'something that is the product
+of mixing two or more different things (adj.) hybrid flowers, a hybrid language system.' :
+72. At this juncture, attention is invited to the definition of the term 'Hybrid Electric
+Vehicles' provided by US Department of Energy-Energy Efficiency and Renewable Energy,
+Alternative Fuels Data Centre, which is reproduced as under
+(https://www.afdc.energy.gov/vehicles/electricbasicshev.htmi/) basicshev.htmi/):
+"Hybrid Electric Vehicles (HEVs) are powered by an internal combustion engine
+or other propulsion source that can run on conventional or alternative fuel in
+HARYAN combination with an electric motor that uses energy stored in a battery. HEVs
+Combine the benefits of high fuel economy and low tail pipe emissions with the
+power and range of conventional vehicles".
+73.
+The International Energy Agency defines a 'Hybrid Electric Vehicle' as under
+(http://www.ieahev.org/assets/1/7/IA-HEVAnnua/ReportMay20133MB.pdf/):
+"Hybrid Electric Vehicle (HEV)
+The 1990s definition of IA-HEV Annex / was "d hybrid electric vehicle (HEV) is a
+hybrid road vehicle in which at least one of the energy stores, sources or
+converters delivers electric energy". The International Society of Automotive
+Engineers (SAE) defines a hybrid as "a vehicle with two or more energy storage
+systems,
+both of which provide propulsion power, either together or
+Independently.
+One final definition is from UN, which defines an HEV as "a vehicle that, for the
+purpose of mechanical propulsion, draws energy from both of the following on-
+vehicle sources of stored energy/power: a consumable fuel and an electrical
+energy/power storage device (e.g. battery, capacitor, flywheel/generator
+etc)"..
+13
+
+V..
+74. In view of the above, it is submitted that in common or commercial parlance all
+those vehicles which have both IC engine and electric motor are known as Hybrid
+Vehicle.
+75. As explained in the facts above, HEVs manufactured and supplied by the Applicant
+consist of an IC engine along with an electric motor. Further, for the purpose of
+mechanical propulsion, these HEVs draw energy from the conventional IC engine as well
+as the electric motor. Therefore, in view of the above referred definitions/meanings of
+Hybrid Electric Vehicles, it can be safely concluded that HEVs manufactured and supplied
+by the Applicant are Hybrid Electric Vehicles.
+76. It is to be noted that Hybrid Electric Vehicles are of different types and can be
+classified in the following categories:
+a.
+On the basis of power train configuration: Parallel Hybrids, Series Hybrids,
+Power Split or Series-Parallel Hybrids.
+b. On the basis of degree of hybridisation; Full Hybrids, Mild Hybrids or Plug-in
+Hybrids.
+77. For the purpose of instant: application; the Applicant is only considering the
+different types of hybrid electric vehicles on the basis of degree of hybridisation.
+78.
+It is to be noted that the term "Mild Hybrid Electric Vehicle" has not been defined
+in the HSN Notes or the CTA. However, the said 44"" Session describes "mild parallel
+hybrid vehicles" as the ones which generally use a compact electric motor (usually <20
+KW) to provide auto-stop/start features and to provide extra power assist during the
+acceleration, and to generate on the deceleration phase (regenerative braking).
+79 Besides the above, to understand the different types of Hybrid Electric Vehicles,
+reference is made to the definitions provided by the US Department of Energy-Energy.
+Efficiency and Renewable. Energy, Alternative Fuels Data Centre, as under
+(https://www.afdc.energy.gov/vehicles/electric_basics_hev.html/):
+"HEVs can be either mild or full hybrids, and full hybrids can be designed in series
+or parallel configurations.
+* Mild hybrids - also called micro hybrids-use a battery and electric motor to
+help power the vehicle and can allow the engine to shut off when the vehicle
+stops (such as at traffic lights or in stop-and-go traffic), further improving fuel
+economy, Mild hybrid systems cannot power the vehicle using electricity alone.
+These vehicles generally cost less than full hybrids but provide less substantial fuel
+HARYANA
+economy benefits than full hybrids.
+Full hybrids have larger batteries and more powerful electric motors and larger
+batteries, which can drive the vehicle on only electric power for shorter distances
+and at low speeds. These systems cost more than mild hybrids but provide better
+fuel economy benefits".
+80.
+Further, reference is also made to the definitions provided by The International
+Energy
+Agency which is reproduced hereunder (http://www.ieahev.org/assets/1/7/IA-HEV
+AnnualReportMay20133MB.pdf/):
+"Full HEV:
+A full HEV has the ability to operate all-electrically, generally at low average speeds.
+At high steady speeds such a HEV uses only the engine and mechanical drivetrain,
+14
+angeety
+
+with no electric assist. At intermediate average speeds with intermittent loads, both
+electric and mechanical drives frequently operate together.
+Mild HEV:
+A HEV that has a less powerful electric machine and battery pack than a full hybrid.
+According to the Netherlands Organisation for Applied Scientific Research (TNO), a
+mild HEV cannot operate all-electrically. Electric assist always work together with
+the internal combustion engine".
+81.
+On a careful perusal of the above meanings, it can be understood that all those
+Hybrid Electric Vehicles which can operate solely by the electric motor, are Full Hybrid
+Vehicles, whereas, the Hybrid Vehicles, wherein, the electric motor of the certain
+specification (usually <20 kW) is merely assistive ie, works together with the IC engine,
+are Mild Hybrid Vehicles. Thus, the correct nature of the Hybrid Vehicles i.e. _ mild or full
+is determined by the functions performed by the electric motor.
+82. In the instant case, HEVs manufactured and supplied by the Applicant have a
+compact electric motor (Ciaz, Ertiga and S-Cross have electric motor of 1.779 KW, 1.779
+kW and 1.772 KW capacity, respectively); Further, this compact motor in such HEVs
+provides assistance to the IC engine for propelling the vehicle and in other instances such
+as start-stop etc. These HEVs supplied by the Applicant draws energy from the
+consumable fuel as well as electrical energy. Further, in such HEV's the degree of
+hybridization is to the extent that electric motor provides assistance to the IC engine. The
+electric motor assists the IC engine mainly when driver demands acceleration (press
+accelerator pedal above certain threshold). This function is enabled subject to battery
+charging condition up to a certain level. Therefore, such HEVs are mild hybrid vehicles.
+However, it is pertinent to mention that the Sl. No. 48 of Notification No. (1/2017-CC
+does not make a distinction between the types of hybrid vehicles while providing reduced
+rate of compensation cess.
+83.
+It is further submitted that as per the commercial parlance, HEVs supplied by the
+Applicant are Hybrid Vehicles and these vehicles are also marketed as Hybrid Vehicles
+only. A copy of the brachure and advertisement issued by the Applicant describing its
+vehicles as HEVs are enclosed as Annexure. H (for Ciaz), I (for Ertiga) and J (for S-Cross).
+Moreover, the certificate issued by ICAT, dated 13.05.2015 for the Ciaz model of HEVS
+produced by the Applicant mentions these models as Hybrid Engine Model. A copy of the
+certificate issued by International Centre for Automotive Technology dated 13.05.2015
+offor Claz) in this regard is already enclosed as Annexure-A. Similarly, the certificate issued
+by ICAT dated 27.02.2017 for Ertiga model of HEVs produced by the Applicant mentions
+this model as Hybrid Engine Model. A copy of the certificate issued by ICAT dated
+HA7797.2017 is already enclosed as Annexure-B. Further, the certificate issued by the
+Automative Research Association of India dated 18.08:2017 for S-Cross model of HEVs
+produeed by the Applicant also mentions this model as a HEV. A copy of the certificate
+dated 18.08.2017 issued by Automotive Research Association of India is already enclosed
+as Annexure-C.
+84. It is submitted that the brochures of the vehicles on basis of which the product is
+marketed to the customers specifically mentions these Vehicles as HEV. The full
+brochures and advertisement issued by the Applicant describing its vehicles as HEVs are
+already enclosed as Annexure H (for Ciaz), / (for Ertiga) and J (for S-Cross)..
+Once it is established that HEVs supplied by the Applicant are supplied in the
+market as 'Hybrid Vehicles' and even the market/consumers perceive these HEVs as
+'Hybrid Vehicles' in the commercial parlance, these vehicles shall be classified in
+accordance with the common or commercial parlance and accordingly, compensation
+cess applicable on HEVs should be leviable.
+15
+
+86.
+Reliance in this regard is placed on the decision of Hon'ble Apex Court in the case
+of CCE vs. Wockhardt Life Sciences Ltd., reported at, [2012 (277) ELT 299 (SQ)]. In this
+case, while deciding the classification of the disputed product, the Hon'ble Apex relied
+upon a number of cases wherein, the classification has been determined in accordance
+with the trade parlance. The relevant portion of this decision is reproduced hereunder:
+30.
+There is no fixed test for classification of a taxable commodity. This is
+probably the reason why the 'common parlance test' or the commercial usage test'
+, are the most common [see A. Nagaraju Bors. V. State of A.P., 1994 Supp (3) SCC 122
+= 1994
+(72) ELT. 801 (S.C.)]. Whether a partícular article will fall within a particular. Tariff
+heading or not has to be decided on the bases of the tangible material or
+evidence to determine how such as article in understood in 'common
+parlance' or in 'commercial world' or in 'trade circle' or in its popular sense
+meaning. It is they who are concerned with it and it is the sense in which they
+understand it that constitutes the definitive index of the legislative intension,
+when the statute was enacted [see D.C.M. vy. State of Rajasthan, 1980 (4) SCC
+71 = 1980 (6) E.L.T_ 383 (S.C.)]. One of the essential factors for determining
+whether a product falls Chapter 30 or not is whether the product in understood
+as a pharmaceutical product in common parlance [see C.C.E. v. Shree
+Baidyanath Ayurved, 2009 (12) SCC 413 = 2009 (237) E.L.T. 225 (S.C.)];
+Commissioner of Central Excise, Delhi v. Ishaan Research Lab (P) Lid. - 2008 (13)
+SCC 349 = 2008 (230) E.L.T. 7 (S.C.)]. Further, the quantity of medicament used
+in a particular product will also not be a relevant factor for, normally, the
+extent of use of medicinal ingredients is very low because a larger use may be
+harmful for the human body. [Puma Ayurvedic Herbal (P) Ltd. v. C.C.E., Nagpur-
+2006 (3) SCC 266 = 2006 (196) E.L.T. 3 (S.C.)]; State of Goa v. Colfoax
+Laboratories - 2004 (9) SCC 83 = 2003 E.L.T. 18 (S.C.)]; B.P.L. Pharmaceuticals v.
+C.C.E. - 1995Supp (3) SCC 1 = 1995 (77) E.L. T. 485 (S.C.)].
+Emphasis Supplied
+87. Reliance is also placed on the decision of Hon'ble Delhi Tribunal in the case of CCE vs.
+Kohinoor Rubber Mills, reported at, [1993 (67) ELT 816 (Tri. -Del)]. this case, the Hon'ble
+Delhi Tribunal, by applying the common parlance test held that the goods in dispute i.e.
+rubber rolls were classifiable under Heading 4016 and not as tubes, pipes, etc. under
+Heading 4009 as the rubber rolls are not known as tubes, pipes in common or
+oR commercial parlance. This decision of the Hon'ble Tribunal has been upheld by Hon'ble
+Apéx Çourt in Kohinoor Rubber Mills vs. CCE, Chandigarh, reported at, [1997 (92) ELT 36
+HARPiNA / Eyrther, reliance is also placed on the decision of CCE, Delhi vs. Carrier Aircon Ltd.,
+reported at, (2006 (199) ELT 577 (SC)j. In this case, while determining the classification of
+chillers, the Hon'ble Apex Court placed reliance on the trade parlance. As the chillers
+were known as 'refrigerating equipment' in national and international trade parlance,
+the same was classified as freezing equipment under Heading 84.18.
+89.
+In view of the above discussion, it is submitted that HEVs supplied by the
+Applicant are known as Hybrid Vehicles in the commercial parlance and therefore, these
+HEVs supplied by the Applicant shall be covered as "Hybrid Vehicles' within the scope
+and ambit of the HSN Explanatory Notes of sub-heading 8703 50 of the CTA and Sl. No.
+48 of the Notification No. 01/2017-CC as amended by Notification No. 05/2017-CC. It is
+also submitted that HEVs are supplied by the Applicant as Hybrid Vehicles in India.
+Sample copies of the invoices are enclosed as Annexure-K.
+Sameety
+16
+
+90. - It is also submitted while interpreting a statute, notification, rule, etc. reference
+can be made to the interpretation or scope of any other statute whose language is pari-
+materia to the statute under consideration. 'In this regard, reliance is placed on the
+decision of Hon'ble Apex Court in the decision of CC, Bangalore vs. Maestro Motors Ltd.
+reported at, [2004 (174) ELT 289 (SQ)j. In this case, it was held that when in a
+notification, exemption is with reference to an item in the schedule to CTA then the
+interpretative rules applicable to such tariff is equally applicable to interpret such
+91.': Itis submitted that as Sl. No. 48 is pari-materia to sub-heading 8703.50 of the CTA
+and therefore, the scope and ambit of the sub-heading 8703 50 of the CTA, as provided
+in the HSN Explanatory Notes, shall be equally applicable to determine the scope and
+ambit of SI. No. 48. Thus, the vehicles which are covered under the scope of sub-heading
+8703 50 of the CTA are also covered within the scope of Sl. No. 48 of Notification No.
+01/2017-CC as amended by Notification No. 05/2017-CC.
+in view of the above discussion, it can be safely concluded that HEVs supplied by
+the Applicant are Hybrid Vehicles and therefore, would be covered within the scope of SI.
+No. 48 of Notification No. 01/2017-CC as amended by Notification No. 05/2017-CC.
+Once it is established that the vehicles supplied by it are covered under SI. No. 48;
+it is necessary to determine the clause of column (3) within which these HEVs will fall.
+Evidently, HEVs supplied by the Applicant is neither an ambulance nor a three-wheeled
+vehicle. Further, HEVs supplied by the Applicant are of engine capacity not exceeding
+1500ce but the length of these HEVs exceed 4000 mm. It is already provided in the facts
+above that these specifications in regard to HEVs supplied by the Applicant are
+determined as per the Motor Vehicles Act, 1988 and the rules made thereunder.
+94.
+Thus, HEVs supplied by the Applicant is not of the specifications provided under
+clause (a), (b) and (c). Therefore, these HEVs would be covered under clause (d) of
+column (3) and are leviable to compensation cess at the rate of 15% as provided in
+column (4) of Sl. No. 48 of Notification No. 01/2017-CC as amended by Notification No.
+05/2017-CC.
+ISSUE REQUIRING ADVANCE RULING AND APPLICANT'S UNDERSTANDING:
+in the light of aforementioned, the Applicant seeks to enter the following question for
+Advance Ruling and its interpretation of the question will be as under:
+Question:
+Whether HEVs supplied by the Applicant are leviable to compensation cess at the rate of
+15% as prescribed under Sl. No. 48 of Notification No. 01/2017-CC as amended by
+HA Natification No. 05/2017-CC?
+Applicant's Understanding:
+HEVs supplied by the Applicant are covered under clause (d) of column (3) of SI. No. 48 of
+Notification No. 01/2017-CC as amended by Notification No. 05/2017-CC.
+Therefore, in the understanding of Applicant, HEVs supplied by it. are leviable to
+compensation cess at the rate of 15%."
+sangecty
+17
+
+02
+RECORDS OF PERSONAL HEARING - 2ND PROVISO TO SECTION 98(2) OF CGST/HGST
+ACT, 2017.
+2. Personal hearing in the instant case was conducted on dt.23.10.2018 which was
+attended by Sh. Laxmi Narsimhan, Advocate, Sh. Amar Pratap Singh, Advocate, Sh. Ankit
+Ansal, CA. They reiterated the submissions made in their application for advance ruling.
+DISCUSSIONS AND FINDINGS OF THE AUTHORITY
+We have carefully gone through the facts and records of the case. The question
+raised by the applicant seeking advance ruling is regarding applicability of S.No.48 of
+Notification No.1/2017-Compensation Cess (Rate) dt.28.06.17, as amended vide
+Notification No.05/2017-Compensation (Cess) Rate dt.11.09:17 to the motor vehicles
+being manufactured/supplied by the applicant.
+S. NO.
+CHAPTER/HEADING
+SUB-HEADING
+TARIFF ITEM
+DESCRIPTION OF GOOD
+RATES OF GOODS
+AND SERVICES TAX
+COMPENSATION
+CESS
+48
+8703 50, 8703 70
+HARYANA
+52
+8703
+Following Vehicles, with both
+compression-ignition
+internal combustion piston
+engine [diesel. or
+semi-
+diesel] and electric motor as
+motors for propulsion
+a) Motor vehicles cleared as
+ambulances duly fitted with
+all the fitments, furniture
+and accessories necessary
+for an ambulance from.. the
+factory manufacturing such
+motor vehicles
+b) Three wheeled vehicles
+NIL
+Motor vehicles of NIL
+engine capacity not
+exceeding 1500ce and
+of length not exceeding
+4000 mm
+d) Motor vehicles other
+than those mentioned at
+(a), (b) and (c) above.
+Explanation- For -
+the
+purposes of this entry, the
+specification of the motor
+vehicle shall be determined
+as per the Motor Vehicles
+Act, 1988 (59 of 1988) and
+the rules made there under.
+Motor vehicles of engine
+capacity not exceeding 1500
+CC
+NIL
+Nil
+Nil
+15%
+17%
+18
+
+From the above, it is evident that for being eligible to be covered under serial
+. number 48(d) of' Notification No.1/2017-Compensation Cess (Rate) dt.28.06.17, as
+amended, the Motor Vehicle should:
+(i) be covered by chapter sub-heading 8703 50 or 8703 70
+(i) have both compression-ignition internal combustion piston engine [diesel or
+semi- diesell and electric motor as motors for propulsion
+(iii) other than Motor vehicles cleared as ambulances duly fitted with all the fitments,
+furniture and accessories necessary for an ambulance from the factory
+manufacturing such motor vehicles
+(iv) other than three wheeled vehicles
+(v) other than motor vehicles of engine capacity not exceeding 1500ce and of length
+not exceeding 4000 mm.
+4.
+The applicant seeks advance ruling for three cars with model names "S-Cross",
+"Ertiga" and "Ciaz". As per the submissions made by the applicant, cars of these three
+models fülfill conditions (iii), (iv) and (v) above. We are also of the opinion that these
+conditions mentioned
+at S.No. (iii), (iv) and (v) mentioned the preceding para, have
+indeed been fulfilled. Hence, the matter whích requires examination is as to whether
+the conditions mentioned at serial number (i) and (ii) in the preceding para is fulfilled by
+the models "S-Cross", "Ertiga" and "Ciaz". Further, as per the application filed by the
+applicant, these models are classifiable under chapter heading 8703 50.
+5.
+Chapter heading 8703 covers "Motors cars and other motor vehicles principally
+designed for transport of persons (other than those of heading 8702), including station
+wagons and racing cars".
+Further, chapter sub-heading 8703 05 provides as under:
+- Other vehicles, with both compression-ignition internal combustion piston engine
+(diesel or semi-diesel) and electric motor as motors for propulsion, other than
+those capable of being charged by plugging to external source of electric power:
+Serial number 48(d) of Notification No.1/2017-Compensation Cess (Rate)
+dt.28.06.17, as amended, also provides the same wordings, as mentioned in chapter
+sub-heading 8703-50, and vehicles with both compression-ignition internal combustion
+C piston engine (diesel or semi-diesel) and electric motor as motors for propulsion, are
+covered under this serial number.
+MARYAN Therefore, the only points which needs to be examined is whether the car models
+i for which advance ruling has been sought by the applicant are "with both compression-
+ignition internal combustion piston engine (diesel or semi-diesel) and electric motor as
+motors for propulsion". This phrase also makes clear that there has to be one
+compression-ignition internal combustion piston engine for propulsion. As per the
+instant application, this requirement stands fulfilled in all the models of the cars in
+respect of which the instant advance has been sought. The other requirement is that of
+electric motor and the phrase "motors for propulsion" clearly means that both motors
+should be capable of propulsion. Thus, in unambiguous terms the words used "motors
+for propulsion" makes it mandatory for the electric motor also to be capable or
+propelling the vehicle on its own. "Motors for propulsion" means that both motors
+should be capable of propelling the vehicle.
+Sampete
+19
+
+7.
+The advance ruling application itself says that:
+* Besides IC engine, an electric motor is also present which provides assistance to
+the IC engine as and when required
+Notably, at certain driving conditions such as acceleration, etc. to propel the
+motor vehicle, the IC engine providing the mechanical force to the motor vehicle
+is assisted by the electric motor present in HEVs. This electric motor acts as a
+power booster to the IC engine by utilizing the energy stored in the electric
+battery.
+- IC engine as Well as electric motor work in tandem to propél the vehicle.
+- During braking/ deceleration condition, the motor acts as a generator and
+charges the special high capacity battery.
+- The regeneration of energy assists the power function of the car. This helps the
+engine in providing optimal acceleration and performance.
+- The vehicle has idle start-stop function which helps the vehicle conserve precious
+fuel in certain idling conditions.
+8.
+As per advance ruling application, this is a case of "Mild hybrids", - also called
+micro hybrids-use a battery and electric motor to help power the vehicle and can allow
+the engine to shut off when the vehicle stops (such as at traffic lights or in stop-and-go
+traffic), further improving fuel economy, Mild hybrid systems cannot power the vehicle
+using electricity alone.
+Further, the application also says that HEVs manufactured and supplied by the
+Applicant have a compact electric motor (Ciaz, Ertiga and S-Cross have electric motor of
+1.779 kW, 1.779 kW and 1.772 kW capacity, respectively); that this compact motor in
+such HEVs provides assistance to the IC engine for propelling the vehicle and in other
+instances such as start-stop etc. These HEVs supplied by the Applicant draws energy
+from the consumable fuel as well as electrical energy; that in such HEV's the degree of
+hybridization is to the extent that electric motor provides assistance to the IC engine;
+that the electric motor assists the IC engine mainly when driver demands acceleration
+(press accelerator pedal above certain threshold); that therefore, such HEVs are mild
+hybrid vehicles.
+9.
+The applicant has placed reliance on the certificate issued by International
+Centre for Automotive Technology (A Division of NATRiP Implementation Society
+(NATIS), Govt. of India), for the cars for which advance ruling has been sought. We have
+carefully gone through these certificates which certify the vehicles complying with the
+quirements of the Central Motor Vehicle Rules, 1989. However, from none of the
+› contents of these certificates it is clear that the electric motor present in the vehicle is
+capable of 'motor for propulsion". Propulsion means to push forward or drive an object
+forward. FA propulsion system consists of a source of mechanical power, and
+propulsor (means. of converting this power into propulsive force). The certificates
+relied ugon by the applicant do not make it clear whether the electric motor present in
+these vehicles is capable of propelling the vehicle and under these circumstances, they
+cannot be relied upon to decide the eligibility of impugned vehicles for the purpose of
+any notification issued under GST law.
+10. From the above, it is clear that electric motor in the cars for which advance ruling
+is being sought in the instant case, is not capable of propelling the vehicle. Accordingly,
+the impugned vehicles failed to fulfill the main condition enshrined in the Serial number
+48(d) of Notification No.1/2017-Compensation Cess (Rate) dt.28.06.17, as amended,
+that vehicles should have both compression-ignition internal combustion piston engine
+(diesel or semi-diesel) and electric motor as motors for propulsion.
+20
+
+11.
+In view of the above, HEVs supplied by the Applicant are not covered by SI. No.
+48 of Notification No. 01/2017-Compensation Cess (Rate) dated 28.06.2017(as
+amended).
+ADVANCE RULING UNDER SECTION 98 OF THE CGST/HGST ACT, 2017
+12. In the light of discussion above, the advance ruling is pronounced as under:
+Question:-Whether HEVs supplied by the Applicant are leviable to compensation cess at
+the rate of 15% as prescribed under S.No.48 of Notification No.1/2017-Compensation
+Cess (Rate) dt.28.06.17, as amended vide Notification No.05/2017-Compensation (Cess)
+Rate dt. 11.09.17?
+Answer - the HEVs supplied by the applicant are not covered under S.No.48 of
+Notification No.1/2017-Compensation Cess (Rate) dt.28.06.17, as amended vide
+Notification No.05/2017-Compensation (Cess) Rate dt.11.09.17
+Ordered accordingly.
+To be communicated.
+Dated: 25.10.2018
+Panchkula.
+(Sangeeta Karmakar)
+Member CGST
+certified tihe Copy
+(Vijay Kumar Singh).
+Member SGST
+Regd. AD/Speed Post
+M/s Maruti Suzuki India Ltd.,
+Palam-Gurgaon Road,
+Gurgaon, Haryana-122015
+O
+Copy to:
+1) The Commissioner, CGST, GST Bhawan, Plot No. 36-37, Sector-32, Gurugram-
+122001
+2). The Deputy Excise and Taxation Commissioner (ST), Gurugram (North)
+3) The Assistant Commissioner, Central Tax Division, Gurugram, CGST, GST Bhawan,
+Plot No. 36-37, Sector-32, Gurugram-122001
+21

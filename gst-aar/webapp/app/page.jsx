@@ -10,9 +10,10 @@ export default function Home() {
   const [hasText, setHasText] = useState(false);
   const [mode, setMode] = useState("keyword"); // keyword | semantic
   const [askOpen, setAskOpen] = useState(false);
-  const [question, setQuestion] = useState("");
-  const [asking, setAsking] = useState(false);
-  const [askResult, setAskResult] = useState(null);
+  const [chatInput, setChatInput] = useState("");
+  const [chatBusy, setChatBusy] = useState(false);
+  const [chat, setChat] = useState([]); // [{role, content, sources?, error?}]
+  const chatEndRef = useRef(null);
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
@@ -64,24 +65,35 @@ export default function Home() {
     [q, state, from, to, hasText, mode]
   );
 
-  const ask = useCallback(async () => {
-    if (!question.trim()) return;
-    setAsking(true);
-    setAskResult(null);
+  const sendChat = useCallback(async (text) => {
+    const content = (text ?? chatInput).trim();
+    if (!content || chatBusy) return;
+    const userMsg = { role: "user", content };
+    const history = [...chat, userMsg];
+    setChat([...history, { role: "assistant", content: "", pending: true }]);
+    setChatInput("");
+    setChatBusy(true);
+    setTimeout(() => chatEndRef.current?.scrollIntoView({ behavior: "smooth" }), 50);
     try {
-      const res = await fetch("/api/ask", {
+      const res = await fetch("/api/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ question }),
+        body: JSON.stringify({ messages: history }),
       });
       const j = await res.json();
-      setAskResult(j.ok ? j : { error: j.error });
+      setChat((prev) => [
+        ...prev.slice(0, -1),
+        j.ok
+          ? { role: "assistant", content: j.answer, sources: j.sources }
+          : { role: "assistant", content: "", error: j.error },
+      ]);
     } catch (e) {
-      setAskResult({ error: String(e) });
+      setChat((prev) => [...prev.slice(0, -1), { role: "assistant", content: "", error: String(e) }]);
     } finally {
-      setAsking(false);
+      setChatBusy(false);
+      setTimeout(() => chatEndRef.current?.scrollIntoView({ behavior: "smooth" }), 80);
     }
-  }, [question]);
+  }, [chat, chatBusy, chatInput]);
 
   useEffect(() => {
     if (firstLoad.current) {
@@ -208,36 +220,94 @@ export default function Home() {
 
           {askOpen && (
             <div style={{
-              marginTop: 12, background: "var(--accent-soft)", border: "1px solid #d5daf6",
-              borderRadius: 12, padding: 14,
+              marginTop: 12, background: "#fff", border: "1px solid #d5daf6",
+              borderRadius: 14, padding: 16, boxShadow: "var(--shadow-sm)",
             }}>
-              <div style={{ display: "flex", gap: 8 }}>
-                <input value={question} onChange={(e) => setQuestion(e.target.value)}
-                  onKeyDown={(e) => e.key === "Enter" && ask()}
-                  placeholder="Ask a question — e.g. what did rulings say about e-invoicing for education services?"
-                  style={{ flex: 1, background: "#fff", border: "1px solid var(--border)", borderRadius: 9, padding: "10px 13px", color: "var(--text)", fontSize: 14, outline: "none" }} />
-                <button onClick={ask} disabled={asking} style={{
-                  background: "var(--accent)", color: "#fff", border: "none", borderRadius: 9,
-                  padding: "10px 20px", fontSize: 13.5, fontWeight: 600, cursor: "pointer",
-                }}>
-                  {asking ? "Thinking…" : "Ask"}
-                </button>
+              <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 10 }}>
+                <div style={{ display: "flex", alignItems: "center", gap: 7 }}>
+                  <span style={{ fontSize: 15 }}>✦</span>
+                  <strong style={{ fontSize: 13.5 }}>Ask the corpus</strong>
+                  <span style={{ color: "var(--muted)", fontSize: 11.5 }}>
+                    grounded in retrieved rulings · every claim cited to its official PDF
+                  </span>
+                </div>
+                {chat.length > 0 && (
+                  <button onClick={() => setChat([])} style={linkBtn}>clear conversation</button>
+                )}
               </div>
-              {askResult?.error && <p style={{ color: "var(--bad)", fontSize: 13, marginTop: 10 }}>{askResult.error}</p>}
-              {askResult?.answer && (
-                <div style={{ marginTop: 14, background: "#fff", border: "1px solid var(--border)", borderRadius: 10, padding: 16 }}>
-                  <div style={{ fontSize: 14, lineHeight: 1.7, whiteSpace: "pre-wrap" }}>{askResult.answer}</div>
-                  <div style={{ borderTop: "1px solid var(--border)", marginTop: 12, paddingTop: 10 }}>
-                    <p style={{ color: "var(--muted)", fontSize: 11.5, fontWeight: 600, textTransform: "uppercase", letterSpacing: 0.5, margin: "0 0 6px" }}>Sources</p>
-                    {askResult.sources.map((s) => (
-                      <a key={s.id} href={s.pdf_url} target="_blank" rel="noreferrer"
-                        style={{ display: "block", fontSize: 13, color: "var(--accent)", textDecoration: "none", padding: "3px 0" }}>
-                        {s.applicant} · {s.state} · {s.order_no} ({s.order_date}) ↗
-                      </a>
-                    ))}
-                  </div>
+
+              {/* conversation thread */}
+              {chat.length > 0 && (
+                <div style={{ maxHeight: 420, overflowY: "auto", display: "grid", gap: 10, padding: "2px 2px 8px" }}>
+                  {chat.map((m, i) => (
+                    <div key={i} style={{ display: "flex", justifyContent: m.role === "user" ? "flex-end" : "flex-start" }}>
+                      <div style={{
+                        maxWidth: "88%", borderRadius: 14, padding: "11px 14px", fontSize: 13.5, lineHeight: 1.65,
+                        whiteSpace: "pre-wrap",
+                        ...(m.role === "user"
+                          ? { background: "var(--accent)", color: "#fff", borderBottomRightRadius: 4 }
+                          : { background: "var(--card2)", border: "1px solid var(--border)", color: "var(--text)", borderBottomLeftRadius: 4 }),
+                      }}>
+                        {m.pending && <span style={{ color: "var(--muted)" }}>retrieving rulings & thinking…</span>}
+                        {m.error && <span style={{ color: "var(--bad)" }}>Error: {m.error}</span>}
+                        {!m.pending && !m.error && m.content}
+
+                        {!m.pending && m.sources?.length > 0 && (
+                          <div style={{ marginTop: 10, borderTop: "1px solid var(--border)", paddingTop: 8 }}>
+                            <p style={{ color: "var(--muted)", fontSize: 10.5, fontWeight: 700, textTransform: "uppercase", letterSpacing: 0.6, margin: "0 0 6px" }}>
+                              Grounded in
+                            </p>
+                            {m.sources.map((s) => (
+                              <div key={s.id} style={{ marginBottom: 7, background: s.cited ? "var(--accent-soft)" : "transparent", border: s.cited ? "1px solid #d5daf6" : "1px solid transparent", borderRadius: 8, padding: s.cited ? "7px 10px" : "2px 10px" }}>
+                                <a href={s.pdf_url} target="_blank" rel="noreferrer"
+                                  style={{ fontSize: 12.5, color: "var(--accent)", fontWeight: s.cited ? 600 : 500, textDecoration: "none" }}>
+                                  {s.cited ? `[${s.n}] ` : ""}{s.applicant} · {s.state} · {s.order_no} ({s.order_date}) ↗
+                                </a>
+                                <div style={{ color: "var(--muted)", fontSize: 11.5, marginTop: 2, lineHeight: 1.5 }}>
+                                  {s.excerpt.slice(0, 180)}…
+                                </div>
+                              </div>
+                            ))}
+                          </div>
+                        )}
+                      </div>
+                    </div>
+                  ))}
+                  <div ref={chatEndRef} />
                 </div>
               )}
+
+              {/* suggested starters when empty */}
+              {chat.length === 0 && (
+                <div style={{ display: "flex", gap: 8, flexWrap: "wrap", marginBottom: 10 }}>
+                  {[
+                    "What did rulings say about e-invoicing for education services?",
+                    "GST rate for job work on handicraft goods?",
+                    "Which rulings discuss ITC for ready mix concrete?",
+                  ].map((s) => (
+                    <button key={s} onClick={() => sendChat(s)} style={{
+                      background: "var(--card2)", border: "1px solid var(--border)", borderRadius: 20,
+                      padding: "6px 13px", fontSize: 12, color: "var(--muted)", cursor: "pointer",
+                    }}>
+                      {s}
+                    </button>
+                  ))}
+                </div>
+              )}
+
+              {/* input */}
+              <div style={{ display: "flex", gap: 8 }}>
+                <input value={chatInput} onChange={(e) => setChatInput(e.target.value)}
+                  onKeyDown={(e) => e.key === "Enter" && sendChat()}
+                  placeholder="Ask a question about the rulings…"
+                  style={{ flex: 1, background: "var(--card2)", border: "1px solid var(--border)", borderRadius: 10, padding: "10px 13px", color: "var(--text)", fontSize: 14, outline: "none" }} />
+                <button onClick={() => sendChat()} disabled={chatBusy || !chatInput.trim()} style={{
+                  background: "var(--accent)", color: "#fff", border: "none", borderRadius: 10,
+                  padding: "10px 20px", fontSize: 13.5, fontWeight: 600, cursor: "pointer", opacity: chatBusy || !chatInput.trim() ? 0.6 : 1,
+                }}>
+                  {chatBusy ? "…" : "Send"}
+                </button>
+              </div>
             </div>
           )}
         </div>
