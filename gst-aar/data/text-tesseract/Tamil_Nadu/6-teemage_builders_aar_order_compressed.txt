@@ -1,0 +1,850 @@
+AUTHORITY FOR ADVANCE RULING, TAMIL NADU
+No.207, 224 FLOOR, PAPJM BUILDING, No.1, GREAMS ROAD,
+CHENNAI 600 006.
+
+ORDER UNDER SECTION 98(4) OF THE CGST ACT, 2017 AND
+UNDER SECTION 98(4) OF THE TNGST ACT, 2017
+
+Members present:
+
+Shri C. Thiyagarajan, I.R.S., Shri B. Suseel Kumar, B.E., MBA.,
+Additional Commissioner/Member (CGST), Joint Commissioner/Member (SGST),
+Office of the Commissioner of GST and Central | Authority for Advance Ruling,
+Excise, Audit I Commissionerate, Tamil Nadu,
+
+Chennai - 600 101. Chennai - 600 006.
+
+Advance Ruling No. 6/ARA/2026, dated 21.01.2026
+
+J. Any appeal against this Advance Ruling order shall lie before the Tamil Nadu
+State Appellate Authority for Advance Ruling, Chennai under Sub-Section (1) of
+Section 100 of CGST Act 2017/TNGST Act 2017, within 30 days from the date on
+which the ruling sought to be appealed is communicated.
+
+2. In terms of Section 103(1) of the Act, Advance Ruling pronounced by the Authority
+under Chapter XVI of the Act shall be binding only-
+
+(a) On. the applicant who had sought it in respect of any matter referred to
+in sub-section (2) Section 97 for advance ruling.
+
+(b} On the concerned officer or the Jurisdictional Officer in respect of the
+applicant.
+
+3. In terms of Section 103(2) of the Act, this Advance Ruling shall be binding unless
+
+the law, facts or circumstances supporting the original advance ruling have changed.
+
+4. Advance Ruling obtained by the applicant by fraud or suppression of material
+facts or misrepresentation of facts, shall render such ruling to be void ab initio in
+accordance with Section 104 of the Act.
+
+5. The provisions of both the Central Goods and Services Tax Act and the Tamil Nadu
+Goods and Services Tax Act (herein referred to as the Act) are the same except for
+certain provisions. Therefore, unless a mention is specifically made to such dissimilar
+provisions, a reference to the Central Goods and Services Tax Act would also mean a
+
+reference to the same provisions under the Tamil Nadu Goods and Services Tax Act.
+
+Page 1 of 17
+
+
+GSTIN Number, ifany/Userid 33AADCT6964E12ZA
+
+Legal N ame of Applicant M/s. Teemage Builders Private Limited
+Trade Name of Applicant M/s. Tcemage Builders Private Limited
+Registered Address/ Address provided | No. 6/35, College Road, First Cross Street,
+while obtaining User id Tirupur — 641 602
+
+‘Details of Application Application Form GST ARA-01 received
+
+from the applicant on 23.06.2025
+
+Jurisdictional Officer Center -
+Coimbatore Commissionerate
+Tirupur Division
+Tirupur - [ Range
+
+State -
+
+Tiruppur (North) - 1 Assessment Circle
+Tiruppur -1 Zone
+
+Tiruppur Division
+
+Nature of activity (s) (proposed/present)
+in respect of which advance ruling sought
+for
+A. Category Factory / Manufacturing
+
+B. Description (in bricf) The applicant is engaged in the business
+of precast concrete construction. The
+applicant makes concrete structures in its
+own premises by a process known as
+“Precasting” and then transports the
+structures to its customers’ sites for
+mancuvering/ assembling them into
+buildings. No actual construction takes
+
+place in the customers’ site.
+
+Issues on which advance ruling required |1. whether applicant is required to be
+registered under the Act
+
+2, whether any particular thing done by
+
+the applicant with respect to any
+
+goods and/or services or both
+
+amounts to or results in a supply of
+
+goods and/or services or both, within
+
+the meaning of that term
+
+Page 2 of 17
+
+
+Question(s) on which advance ruling is a. Whether the applicant is required to
+required obtain registration in the states in which
+it is executing works contract using
+precast structures manufactured at its
+principal place of business in Tirupur,
+when it has no “fixed establishment” in
+
+such state?
+
+b. Whether it is mandatory to register the
+site address (where there is only
+temporary office and no fixed
+establishment) as additional place of
+business if the site address is different
+from the registered office address but
+
+within the same state?
+
+c. Whether the transportation of material
+used in erection of the precast structures
+in the construction sites in other states,
+amounts to supply in the absence of
+consideration and in the absence of two
+
+different parties involved?
+
+d. Whether such transportation of
+manufactured elements and other raw
+materials for site work used for erection
+of the precast structures would require
+
+raising of invoice?
+
+ce. If invoice is not required, can the
+movement of goods shall be made
+according to Rule 55 (1) (c) of the CGST
+Rules 2017 without support of invoice
+
+but with Delivery Challan?
+
+Page 3 of 17
+
+
+£ Whether it is mandatory to specify the |
+tax rate in delivery challan (as per Rule
+55 (1)) since we undertake only works
+contract and the rate of tax for the same is
+18%, but the rate of tax for individual
+components {like cement) is 28% when
+
+they are sold separately?
+
+g. The delivery challan and e-way bill for
+manufactured elements and other raw
+materials for site work would contain GST
+rates and corresponding HSN codes,
+which would differ from the final invoice
+where SAC code for composite works
+contract would be mentioned. Would that
+be considered as a mismatch between
+IISN/SAC codes and GST rates in c-way
+bill and actual invoice, which is made at
+stage wise completion of construction, by
+
+the tax authorities?
+
+h, Similarly, in cases of movement of
+machineries (no transfer of ownership) to
+work sites, where there is no permanent
+establishment at the respective state and
+only used to perform the construction
+service, whether the difference in
+HSN/SAC codes and GST rates in e-way
+bill and actual composite supply invoice
+
+would be considered as mismatch?
+
+i. What document shall be issued for
+return of tools, equipments for return
+
+from worksite to our registered office?
+
+Page 4 of 17
+
+
+|j. If tools, equipments and accessories
+which are returnable after work
+execution should be transported under
+delivery challan, what is the rate to be
+adopted in the delivery challan and e-way
+bill, whether contract rate or whether
+GST rate of the tools and equipments
+
+transported?
+
+k. If we are transferring materials and
+equipments between two sites at
+respective state where we do not have
+fixed establishment, what document shall
+
+be used for transportation of the same?
+
+M/s. Teemage Builders Pvt Ltd., No. 6 / 35, College Road, First Cross Street, Tirupur -
+641 602 (hereinafter called as the “Applicant”) are registered under the GST Act with
+GSTIN 33AADCT6964E1ZA. The applicant is engaged in the business of precast concrete
+construction. The applicant makes conercte structures in their own premises by a
+process known as “Precasting” and then transports the structures to its customers’ sites
+for manocuvring/ assembling them into buildings. No actual construction takes place in
+
+the customers’ site.
+
+2.0 The Applicant has made a payment of application fees of Rs.5,000/- each under
+sub rule (1) of Rule 104 of CGST Rules, 2017 and SGST Rules, 2017,
+
+3.0 The applicant has sought advance ruling on the following questions:
+
+a. Whether the applicant is required to obtain registration in the states in which it is
+executing works contract using precast structures manufactured at its principal place of
+
+business in Tirupur, when it has no “fixed establishment” in such state?
+
+b. Whether it is mandatory to register the site address (where there is only temporary
+office and no fixed establishment) as additional place of business if the site address is
+
+different from the registered office address but within the same state?
+
+Page 5 of 17
+
+
+c. Whether the transportation of material used in erection of the precast structures in the
+construction sites in other states, amounts to supply in the absence of consideration and in
+
+the absence of two different parties involved?
+
+d. Whether such transportation of manufactured elements and other raw materials for site
+
+work used for erection of the precast structures would require raising of invoice?
+
+e. If invoice is not required, can the movement of goods shall be made according to Rule 55
+
+(1) (c) of the CGST Rules 2017 without support of invoice but with Delivery Challan?
+
+f. Whether it is mandatory to specify the tax rate in delivery challan (as per Rule 55 (1})
+since we undertake only works contract and the rate of tax for the same is 18%, but the
+
+rate of tax for individual components (like cement) is 28% when they are sold separately?
+
+g. The delivery challan and e-way bill for manufactured elements and other raw materials
+for site work would contain GST rates and corresponding HSN codes, which would differ
+from the final invoice where SAC code for composite works contract would be mentioned.
+Would that be considered as a mismatch between HSN/SAC codes and GST rates in e-way
+bill and actual invoice, which is made at stage wise completion of construction, by the tax
+
+authorities?
+
+h. Similarly, in cases of movement of machineries (no transfer of ownership) to work sites,
+where there is no permanent establishment at the respective state and only used to
+
+perform the construction service, whether the difference in HSN/SAC codes and GST rates
+
+in e-way bill and actual composite supply invoice would be considered as mismatch?
+
+i, What document shall be issued for return of tools, equipments for return from worksite to
+
+our registered office?
+
+j. If tools, equipments and accessories which are returnable after work execution should be
+transported under delivery challan, what is the rate to be adopted in the delivery challan
+and e-way bill, whether contract rate or whether GST rate of the tools and equipments
+
+transported?
+
+k. If we are transferring materials and equipments between two sites at respective state
+where we do not have fixed establishment, what document shall be used for transportation
+
+of the same?
+
+Page 6 of 17
+
+
+3.1 The applicant submits that the present application is maintainable under Section
+97(2)(f) and (g) of the CGST / TNGST Act, 2017, i.c., ‘whether applicant is required to be
+registered under the Act’ and ‘whether any particular thing done by the applicant with
+respect to any goods and/or services or both amounts to or results in a supply of goods
+
+and/or services or both, within the meaning of that term,’
+
+3.2 Under the ‘Statement of relevant facts having a bearing on the question raised’
+
+and ‘Statement of interpretation of law’, the Applicant has stated the following:
+
+e That the applicant enters into contracts with customers throughout India for
+construction of buildings by using precast technology. The agreement is for
+construction of commercial building. The essential features of such agreement
+
+are:
+
+a. The employer/customer shall obtain necessary approvals for building
+plan etc. from the authorities.
+
+b. The employer/contractor shall provide the final architect and MEP
+drawings. The employer/customer shall provide a temporary office for the
+applicant’s personnel at the construction site itself.
+
+c, The superstructure of the building shall be constructed from precast
+structures such as beams, columns, wall panels, solid slabs, hollow slabs,
+staircases, cladding walls ctc. These structures are to be manufactured at
+the applicants’ premises in Tirupur and then transported to the
+customer’s site in other states.
+
+d. The total value for the contract is provided for in the agreement on a
+composite basis for all the activities including production of the precast
+structures, transportation and erection. The supply is therefore a
+
+composite supply within the meaning of Section 2(30) of the GST Act.
+
+° That the applicant is required to employ not more than 6 or 7 of its employees to
+be present at the construction sites since the assembling of the precast structures
+into building is entirely mechanized with the help of cranes. As a very small
+component of labor is involved, there is no necessity for the applicant to have a
+“fixed establishment” within the meaning of Section 2(50)} of the GST Act in other
+
+states.
+
+Page 7 of 17
+
+
+e That the applicant does not have a “fixed establishment” in the site in which the
+works contract is being executed. Hence, there is no need to obtain registration in
+the state in which work contract is carried out.
+
+e That they have to regularly transport material for their use in ercction of precast
+structures in other states. Such material would include tools, equipment,
+accessories store consumables, and also, conveyances such as cranes. These
+materials are required for execution of works contract but are not part of the
+supply i.e. there is no transfer of property in the said material while executing the
+works contract.
+
+e That the applicant relics on the rulings of Karnataka Authority for Advance
+Ruling in the cases of In re GEW (Inglia) Pvt Ltd (KAR/ADRG/63/2021) and In re
+M/s. T & D Electrical (KAR/ADRG/18/2020) and the Rajasthan Authority for
+Advance Ruling in the case of Jaimin Engineering Pvt Ltd (RAJ/AAR/2018-19/07)
+whercin it was consistently held in all the cases held that when there is no fixed
+establishment established or intended to be established, no separate registration
+
+of work site is needed for a works contractor,
+
+4.1. The admissibility of the queries under Section 97(2) of the CGST Act, 2017 would
+
+be discussed when the particular question is taken up for reply.
+
+4.2 The applicant is under the administrative control of Central Tax Authority. The
+concerned Authorities of the Centre and State were addressed to report the detailed
+remarks and no pendency report on the questions raised by the applicant in their ARA
+
+application.
+
+4.3 Since, no remarks have been received from the Central or State GST
+jurisdictional Authorities, it is construed that there are no pending proceedings against
+
+the applicant on the questions raised by them in their advance ruling application
+
+Personal Hearing
+
+5.1 The applicant was given an opportunity to be heard in person on 17.12.2025.
+Ms. Disha Jain, Advocate, appeared for the personal hearing as the authorized
+representative (AR) of M/s. Teemage Builders Private Limited, Tirupur. The AR
+
+reiterated the submissions made in their application for advance ruling,
+
+Page 8 of 17
+
+
+5.2 The AR informed that they have their factory at Tiruppur where they pre-cast
+concrete structures and transport it to various construction sites; there is no fixed
+establishment in other states where construction is undertaken; only 6 to 7 engincers /
+
+supervisors are present at the construction site until the construction work is finished.
+
+5.3. The Member raised query as to why the applicant, who is engaged in constructing
+commercial buildings by using pre-cast structures, is not adopting Bill to - Ship to model
+as is done in a traditional or conventional construction contract. The AR replied that the
+Bill to - Ship to model is for supply of goods whereas the applicant is providing Works
+
+Contract Service.
+
+5.4 The Member raised question on the invoicing pattern of the applicant. The AR
+replied that the first invoice is raised once design of the construction is finalized; then
+the remaining invoices are raised on a pro-rata basis as and when the pre-cast blocks
+
+are sent.
+
+o.8 The Members asked whether, there is transfer of ownership in case of movement
+of machineries. The AR replied that they are moving the machinery to work site only to
+
+perform the construction service and there is no transfer of ownership.
+
+5.6 The Member raised a query that as there is a sufficient degree of permanence of
+the staff of the applicant on the construction site and also the scope of contract is 150
+days, then why the construction site should not be registered as a fixed establishment.
+The AR replied that taking a separate registration will lead to the burden of compliance
+and also there are issues involved in raising of invoices or Delivery Challans and c-way
+
+bills accompanying the pre-cast structures.
+
+5.7. The AR further informed that the ownership of the site is not with the applicant;
+the applicant has access to the site where they install the pre-cast structures as per the
+approved design and once the construction is complete, raise a Works Contract Services
+bill on the customer. The AR also added that maintenance of the structure is not
+
+included in the agreement.
+
+5.8 The Member pointed out that the questions raised vide sl no (g) to (k) of the
+application are hypothetical and advance ruling cannot be provided on those questions.
+
+The Members asked the AR to submit invoices and agreement copies, a sct each for
+
+Page 9 of 17
+
+
+inter-state and intra-state supplies. The AR undertook to submit the same within a
+
+weeks’ time.
+
+6) Discussions and Findings:
+
+6.1 We have carefully considered the submissions made by the Applicant in their
+application, copies of the relevant documents furnished by them, the submissions made
+during the personal hearing. We find that they are engaged in the business of precast
+concrete construction. The applicant makes concrete structures in its own premises by a
+process known as “Precasting” and then transports the structures to its customers’ sites
+for manocuvring/ assembling them into buildings. From the submissions made by the
+applicant, it is clear that they build precast structures such as beams, columns, wall
+panels, solid slabs, hollow slabs, staircases, cladding walls etc at the applicant’s premises
+located in Tirupur. These precast structures are then transported to the construction
+site, within the state or outside the state. The superstructure of the building is then
+constructed from the precast structures. The customer of the applicant provides a
+temporary office for the personnel of the applicant at the construction site. These
+personnel, 6 to 7 in numbers, are present at the construction site to assemble the
+precast structure into superstructure of a building. This assembling is entirely a
+mechanised process carried out with the help of cranes. Further, it is also submitted by
+the applicant that the total value for the contract is provided for in the agreement on a
+composite basis for all the activities including production of the precast structures,
+
+transportation up to the construction site and its erection into a building.
+
+6.2 In this regard, the applicant has sought advance ruling in respect of eleven
+questions as mentioned in para 3 above. We proceed to consider one question at a time
+
+and discuss.
+
+a. Whether the applicant is required to obtain registration in the states in which it
+is executing works contract using precast structures manufactured at its principal
+
+place of business in Tirupur, when it has no “fixed establishment’ in such state?
+
+The applicant is registered in Tirupur District of Tamil Nadu State with GSTIN
+33AADCT6964E1ZA. Now the applicant is required to erect a building at a construction
+site situated in another state using the structures precasted at their Tirupur factory and
+
+transported to the construction site. The applicant’s question is whether he needs to get
+
+Page 10 of 17
+
+
+registered in the other state where they do not have any fixed establishment and the
+construction site is of temporary nature and only 6 to 7 personnel of the applicant stay
+
+there for a period of around 150 days to assemble the precast structures.
+
+The question is in relation to registration of a premise. This is covered under Section 97
+(2)(Q of the CGST Act, 2017 and hence is admissible.
+
+As per the definition, a "fixed establishment" means a place (other than the registered
+place of business) which is characterised by a sufficient degree of permanence and suitable
+structure in terms of human and technical resources to supply services, or to receive and
+use services for its own needs (Section 2(50) of the CGST Act, 2017 refers). In the instant
+case, the applicant has a sufficient degree of permanence at the construction site in the
+other state and also human and technical resources are being put to use there.
+Therefore, the applicant's claim that they do not have a fixed establishment at the
+construction site is not acceptable. As they are having a fixed establishment in the other
+state, they are required to get registered in the state where the construction site is
+
+located.
+
+b. Whether it is mandatory to register the site address (where there is only
+temporary office and no fixed establishment) as additional place of business if the
+site address is different from the registered office address but within the same
+
+state?
+
+The question is in relation to registration of a premises. This is covered under Section 97
+(2)(§ of the CGST Act, 2017 and hence is admissible.
+
+The discussion had in the preceding para on the fixed establishment is applicable to this
+question also. So, whenever, the applicant undertakes assembling of the precast
+structures at a construction site situated in Tamil Nadu, where the applicant has a
+principal place of business, they may add such sites as ‘additional places of business’. In
+case, the construction site is located in another state, they are required to get registered
+
+in the state where the construction site is located.
+
+c. Whether the transportation of material used in erection of the precast
+structures in the construction sites in other states, amounts to supply in the
+
+absence of consideration and in the absence of two different parties involved?
+
+Page 11 of 17
+
+
+The question is in relation to whether any particular transaction done by the applicant
+with respect to any goods or services or both amounts to or results in a supply of goods
+or services or both, within the meaning of that term. This is covered under Section 97
+
+(2)(g)} of the CGST Act, 2017 and hence is admissible.
+
+In reply to the applicant’s query, it is appropriate to discuss the scope of supply. As per
+Section 7 of the of the CGST Act, 2017, the activities specified in Schedule I and which are
+made or agreed to be made without a consideration are covered under the scope of
+“Supply”.
+Section 7. Scope of supply. -
+(1) For the purposes of this Act, the expression - “supply” includes-
+(a) all forms of supply of goods or services or both such as sale, transfer, barter,
+exchange, licence, rental, lease or disposal made or agreed to be made for a
+consideration by a person in the course or furtherance of business;
+(aa) the activities or transactions, by a person, other than an individual, to its
+members or constituents or vice-versa, for cash, deferred payment or other valuable
+consideration.
+Explanation. -For the purposes of this clause, it is hereby clarified that,
+notwithstanding anything contained in any other law for the time being in force or
+any judgment, decree or order of any Court, tribunal or authority, the person and its
+members or constituents shall be deemed to be two separate persons and the supply
+of activities or transactions inter se shall be deemed to take place from one such
+person to another;
+(b) import of services for a consideration whether or not in the course or
+furtherance of business; and
+(c) the activities specified in Schedule I, made or agreed to be made without a
+
+consideration;
+
+The activities specified in Schedule I are as follows:
+
+SCHEDULE 1.
+
+[ See section 7]
+
+ACTIVITIES TOBE TREATED AS SUPPLYEVEN IF MADE WITHOUT CONSIDERATION
+(1) Permanent transfer or disposal of business assets where input tax credit has
+
+been availed on such assets.
+
+Page 12 of 17
+
+
+(2) Supply of goods or services or both between related persons or between distinct
+persons as specified in Section 25, when made in the course or furtherance of
+
+business:
+
+Sub-sections (4) and (5) of Section 25 the CGST Act, 2017 recognise the distinct persons
+
+as:
+
+(4) A person who has obtained or is required to obtain more than one registration,
+whether in one State or Union territory or more than one State or Union territory
+shail, in respect of each such registration, be treated as distinct persons for the
+
+purposes of this Act.
+
+(5) Where a person who has obtained or is required to obtain registration in a State
+or Union territory in respect of an establishment, has an establishment in another
+State or Union territory, then such establishments shall be treated as
+
+establishments of distinct persons for the purposes of this Act
+
+Thus, the applicant, who is registered in the state of Tamil Nadu, has supplied goods or
+services to their construction site situated in another state. It is already confirmed that
+the applicant has an establishment in the other state where construction site is situated.
+In this scenario, the activity undertaken by the applicant, ic. supply of goods or services
+without consideration falls in Schedule I and consequently under the scope of supply as
+per Section 7 of the CGST Act, 2017. Even though the activity undertaken by the
+applicant does not involve two different parties, as per clauses 4 and 5 of Section 25 of
+the CGST Act, 2017, the applicant is considered as a distinct person. In the light of this
+discussion, it is clear that even when there is no consideration and in the absence of
+involvement of two different parties, the transportation of material used in erection of
+
+the precast structures in the construction sites in other states amounts to supply.
+
+d. Whether such transportation of manufactured elements and other raw
+materials for site work used for erection of the precast structures would require
+
+raising of invoice?
+
+e. Ifinvoice is not required, can the movement of goods shall be made according to
+Rule 55 (1) (c) of the CGST Rules 2017 without support of invoice but with
+
+.
+
+Delivery Chailan?
+
+Page 13 of 17
+
+
+f. Whether it is mandatory to specify the tax rate in delivery challan (as per Rule
+55 (1)} since we undertake only works contract and the rate of tax for the same is
+18%, but the rate of tax for individual components (like cement) is 28% when
+
+they are sold separately?
+
+g. The delivery chalJlan and e-way bill for manufactured elements and other raw
+materials for site work would contain GST rates and corresponding HSN codes,
+which would differ from the final invoice where SAC code for composite works
+contract would be mentioned. Would that be considered as a mismatch between
+HSN/SAC codes and GST rates in e-way bill and actual invoice, which is made at
+
+stage wise completion of construction, by the tax authorities?
+
+h. Similarly, in cases of movement of machineries (no transfer of ownership) to
+work sites, where there is no permanent establishment at the respective state and
+only used to perform the construction service, whether the difference in HSN/SAC
+codes and GST rates in e-way bill and actual composite supply invoice would be
+
+considered as mismatch?
+
+i. What document shall be issued for return of tools, equipments for return from
+
+worksite to our registered office?
+
+j. If tools, equipments and accessories which are returnable after work execution
+should be transported under delivery challan, what is the rate to be adopted in the
+delivery challan and e-way bill, whether contract rate or whether GST rate of the
+
+tools and equipments transported?
+
+k. If we are transferring materials and equipments between two sites at respective
+state where we do not have fixed establishment, what document shall be used for
+
+transportation of the same?
+
+Section 97(2) of the CGST Act 2017 specifies the issues in respect which the questions
+
+shall be asked seeking advance ruling and the said section is as under:
+
+97 (2) The question on which the advance ruling is sought under this Act, shall be in
+respect of —
+
+(a) classification of any goods or services or both;
+
+(b) applicability of a notification issued under the provisions of this Act;
+
+(c) determination of time and value of supply of goods or services or both;
+
+Page 14 of 17
+
+
+(d) admissibility of input tax credit of tax paid or deemed to have been paid;
+
+(e) determination of the liability to pay tax on any goods or services or bath;
+
+(f) whether applicant is required to be registered;
+
+(g) whether any particular thing done by the applicant with respect to any goods or
+services or bath amounts to or results in a supply of goods or services or both, within
+
+the meaning of that term
+
+In the instant case, it is clear that the questions raised by the applicant are not covered
+under the issues mentioned under Section 97(2) supra. We further find that all the
+questions from SI. No. (d) to (k) seek an answer on the procedural requirements, which
+are outside the scope of Authority for Advance Ruling. Therefore, we are of the opinion
+that no ruling is required to be pronounced on the issues that are not covered under
+Section 97(2) of the CGST Act 2017. Thus, the questions from Sl. No. (d) to (kk) of the
+instant application are liable for rejection in terms of Section 98(2) of the CGST Act
+2017.
+
+7. Based on the above discussion, we rule as under:
+
+RULING
+
+a. Whether the applicant is required to obtain | Yes, the applicant is required to get
+registration in the states in which it is | registered in the state where the
+executing works contract using precast | construction site is located.
+structures manufactured at its principal place
+
+of business in Tirupur, when it has no “fixed
+
+establishment” in such state?
+
+b. Whether it is mandatory to register the site | Yes, whenever, the applicant
+
+address (where there is only temporary office | undertakes assembling of the
+
+and no fixed establishment) as additional place | precast structures at a construction
+
+of business if the site address is different from | site situated in Tamil Nadu, where
+
+the registered office address but within the | the applicant has a principal place of
+
+same state? business, they may add such sites as
+‘additional places of business’. In
+case, the construction site is located
+in another state, they are required
+to get registered in the state where
+the construction site is located.
+
+c. Whether the transportation of material used | Yes, the transportation of matcrial
+in erection of the precast structures in the] used in erection of the precast
+construction sites in other states, amounts to | structures in the construction sites
+supply in the absence of consideration and in | in other states amounts to supply
+the absence of two different parties involved?
+
+Page 15 of 17
+
+
+d. Whether such transportation of | The question is not covered under
+
+manufactured clements and other raw | the issues mentioned under Section
+
+materials for site work uscd for erection of the | 97(2) of the CGST Act 2017. Ilence
+
+precast structures would require raising of | the question is liable for rejection in
+
+invoice? terms of Section 98(2) of the CGST
+Act 2017
+
+c. If invoice is not required, can the movement | The question is not covered under
+
+of goods shall be made according to Rule 55 (1) | the issues mentioned under Section
+
+(c) of the CGST Rules 2017 without support of | 97(2) of the CGST Act 2017. Ilence
+
+invoice but with Delivery Challan? the question is liable for rejection in
+terms of Section 98(2) of the CGST
+Act 2017 ,
+
+f. Whether it is mandatory to specify the tax | The question is not covered under
+rate in delivery challan (as per Rule 55 (1)) | the issues mentioned under Section
+since we undertake only works contract and | 97(2) of the CGST Act 2017. Hence
+the rate of tax for the same is 18%, but the rate | the question is liable for rejection in
+of tax for individual components (like cement) | terms of Section 98(2) of the CGST
+is 28% when they are sold separately? Act 2017
+
+gy. The delivery challan and ec-way bill for | The question is not covered under
+manufactured clements and other raw | the issues mentioned under Section
+materials for site work would contain GST | 97(2) of the CGST Act 2017. Hence
+rates and corresponding HSN codes, which | the question is liable for rejection in
+would differ from the final invoice where SAC | terms of Section 98(2) of the CGST
+code for composite works contract would be | Act 2017
+
+mentioned. Would that be considered as a
+
+mismatch between HSN/SAC codes and GST
+
+rates in c-way bill and actual invoice, which is
+
+made at stage wise completion of construction,
+
+by the tax authorities?
+
+h. Similarly, in cases of movement of | The question is not covered under
+machineries (no transfer of ownership) to | the issues mentioned under Section
+work sites, where there is no permanent | 97(2) of the CGST Act 2017. Hence
+establishment at the respective state and only | the question is liable for rejection in
+used to perform the construction service, | terms of Section 98(2) of the CGST
+whether the difference in IISN/SAC codes and } Act 2017
+
+GST rates in c-way bill and actual composite
+
+supply invoice would be considered as
+
+mismatch?
+
+i. What document shall be issued for return of | The question is not covered under
+
+tools, equipments for return from worksite to | the issues mentioned under Section
+
+our registered office? 97(2) of the CGST Act 2017. Hence
+the question is liable for rejection in
+terms of Section 98(2) of the CGST
+Act 2017
+
+Page 16 of 17
+
+
+j. If tools, equipments and accessorics which | The question is not covered under
+are returnable after work execution should be | the issues mentioned under Section
+transported under delivery challan, what is the | 97(2) of the CGST Act 2017. [lence
+rate to be adopted in the delivery challan and | the question is liable for rejection in
+e-way bill, whether contract rate or whether | terms of Section 98(2) of the CGST
+GST rate of the tools and cquipments | Act 2017
+
+transported?
+
+k If we are transferring materials and |The question is not covered under
+
+equipments between two sites at respective | the issues mentioned under Section
+
+state where we do not have fixed | 97(2} of the CGST Act 2017. Hence
+
+establishment, what document shall be used | the question is liable for rejection in
+
+for transportation of the same? terms of Section 98(2} of the CGST
+Act 2017
+
+(Mee rairore
+
+(C. Thiyagarajan)
+
+7 \ olarte
+
+(B. Suseel Kumar)
+
+Member (SGST) Member (CGST)
+To
+M/s. Teemage Builders Pvt Ltd
+No. 6 / 35, College Road, First Cross Strect,
+Tirupur - 641 602. (By Speed Post)
+
+ft) ubmi
+
+1. The Principal Chief Commissioner of GST and Central Excise,
+26/1, Uthathamar Mahatma Gandhi Road,
+Nungambakkam, Chennai 600 034.
+
+2. The Commissioner of Commercial Taxes,
+2°49 Floor, Ezhilagam, Chepauk, Chennai 600 005.
+
+3. The Commissioner of GST and Central Excise,
+Coimbatore Commissionerate,
+6/7, A.T.D. Street, Race Course,
+Coimbatore - 641 018.
+
+Copy to:
+
+1. The Assistant Commissioner (ST),
+Tirupur (North) - 1 Assessment Circle,
+Commercial Taxes Buildings,
+
+42, Kumaran Road, Tirupur - 641 601.
+
+2. Stock File -A1
+
+Page 17 of 17

@@ -1,0 +1,755 @@
+AUTHORITY FOR ADVANCE RULING, TAMILNADU 
+INTEGRATED COMMERCIAL TAXES OFFICE COMPLEX, DOOR NO.32, 5TH 
+FLOOR, ROOM NO. 503, ELEPHANT GATE BRIDGE ROAD, CHENNAI - 600 003 
+PROCEEDINGS OF THE AUTHORITY FOR ADVANCE RULING U/s.98 OF THE 
+GOODS AND SERVICES TAX ACT, 2017. 
+Members present are: 
+1. Shri B.Senthilvelavan, IRS, Additional Commissioner/Member, 
+Office of the Principal Chief Commissioner of GST & Central Excise, Chennai 34 
+and 
+2. Thiru KurinjiSelvaan V.S., M.Sc. (Agri.), M.B.A., Joint Commissioner (ST) / Member 
+Office of the Authority for Advance Ruling, Tamil Nadu, Chennai-6 
+ORDER No. 38 /ARA/2020 Dated: 18.12.2020 
+GSTIN Number, if any/ User id 
+33AAGCS8525B lZL 
+Legal Name of Applicant 
+M/ s Faiveley Transport Rail Technologies 
+India Limited 
+Trade Name of the applicant 
+M/ s Faiveley Transport Rail Technologies 
+India Limited 
+Registered Address / Address 
+Post Box No.39, Haritha, Hosur, Tamilnadu- 
+provided while obtaining user id 
+635109 
+Details of Application 
+ARA Application Sl.No 02/2020 dated 
+22.01.2020 
+Concerned Officer 
+State: Assistant Commissioner, Hosur South 
+Assessment Circle 
+Centre: Salem Commissionerate 
+Nature of activity(s) (proposed / 
+present) in respect of which advance 
+ruling sought for 
+A 
+Category 
+Manufacturing 
+B 
+Description (in brief) 
+Issue/son which advance ruling 
+Classification of goods 
+required 
+Question(s) on which advance ruling Whether Wheel Side Protection Control 
+is required 
+Unit(WSP) and Pantograph supplied by the 
+applicant, should be classified as "parts of 
+railway or trarnway locomotives or rolling 
+stock, and parts thereof' (Viz under Heading 
+8607) for the purposes of levy of GST in terms 
+of Section 9(1) of Central Goods and Services 
+Act 201 7 read with notification no.01/201 7 - 
+Central Tax (Rate) dated 28.06.2017. 
+Page 1 of 18 
+
+
+Note: Any appeal against this Advance Ruling order shall lie before the 
+Tamil Nadu State Appellate Authority for Advance Rulings, Chennai as 
+under Sub Section ( 1) of CGST Act / TNGST Act 2017, within 30 days 
+from the date on the ruling sought to be appealed is communicated. 
+At the outset, we would like to make it clear that the provisions of both 
+the Central Goods and Service Tax Act and the Tamil Nadu Goods and 
+Service Tax Act are the same except for certain provisions. Therefore, 
+unless a mention is specifically made to such dissimilar provisions, a 
+reference to the Central Goods and Service Tax Act would also mean a 
+reference to the same provisions under the Tamil Nadu Goods and 
+Service Tax Act. 
+M/s Faiveley Transport Rail Technologies India Limited (hereinafter 
+referred as 'Applicant), Post Box No.39, Haritha, Hosur, Tamilnadu-635109 is 
+registered under the GST Act 2017 vide GSTIN No. 33AAGCS8525B lZKL. The 
+applicant has sought Advance Ruling on the following question: 
+Whether Wheel Side Protection Control Unit(WSP) and Pantograph supplied 
+by the applicant, should be classified as "parts of railway or tramway 
+locomotives or rolling stock, and parts thereof (Viz under Heading 8607) for 
+the purposes of levy of GST in terms of Section 9(1) of Central Goods and 
+Services Act 2017 read with notification no.01/2017-Central Tax (Rate) dated 
+28.06.2017. 
+The Applicant has submitted the copy of application in Form GST ARA - 01 and 
+also submitted a copy of Challan evidencing payment of application fees of 
+Rs.5,000/- each under sub-rule (1) of Rule 104 of CGST rules 2017 and SGST 
+Rules 2017. 
+2.1 
+The applicant has stated that they are involved in the business of 
+manufacturing, supplying and exporting equipment for the Rolling Stock industry. 
+The said equipment includes, inter alia, railway door systems, grills for train 
+coaches, braking systems and pantographs for railways. They are registered under 
+the GST regime in the States of Tamil Nadu, Kamataka, Himachal Pradesh, West 
+Bengal, Uttar Pradesh and Delhi. The WSP and Pantograph (hereinafter referred as 
+'the subject goods' wherein such expression refers to either one or both the goods 
+depending on the context) in respect of which the classification has been sought vide 
+the instant application are manufactured by them at their Factory located in Hosur in 
+Tamil Nadu. They have stated that since September 2019 onwards, they have 
+Page 2 of 18 
+
+
+stopped imports of WSP from outside India and at present, both these products are 
+primarily manufactured in India. The subject goods are supplied by them to 
+customers located in Tamil Nadu and other states. 
+2.2 
+The Constitution & functionality of the subject goods stated by the 
+applicant are as follows: 
+WSP: In the course of running of trains, various issues may arise at the 
+time of application of brakes. One of the most prominent issues is the 
+skidding/ sliding of individual axles out of their designated place, which 
+may lead to safety issues. In order to ensure that the individual axles are not 
+displaced at the time of application of brakes, the adhesion existing between 
+the rails and the train's wheels need to be utilized in order to ensure no/ 
+minimum displacement of the said axles. The WSP is a Unit which carries out 
+the aforesaid functionality. Simply put, the WSP is a system controlled by 
+micro-processors that can regulate the manner of brake application in the 
+train after analyzing the various factors/ parameters which are factored in as 
+per an inbuilt software. The major constituents of the WSP are Speed 
+sensors; Phonic Wheel; Micro-processor; Dump Valves (also known as 
+anti-skid values);Pressure Switch; and other switches and connectors. 
+Each of the aforementioned constituents has a specific role to play with 
+respect to prevention of the sliding or skidding of the axles. The following is 
+the process by which the WSP functions: 
+~ Speed sensors and Phonic wheels (which are a constituent of 
+the WSP - 
+located at the axle ends) detect the speed at which the wheels are moving. 
+The said speed is evaluated/compared with a reference speed which is a 
+calculated value based on the real axle speeds. The comparison between 
+these speed signals whether or not an axle is about to enter in to a slide 
+mode; 
+};,, The speeds are evaluated by the micro-processor enabled unit (viz. 
+micro controller) - 
+which in tum generates signals in order to direct the 
+dump valve (viz. valves which controls the increase/decrease of the air 
+pressure in the brake cylinders) to effectively control the brake cylinder 
+pressure in case of any locking of the axles and to ensure a safe & smooth 
+braking without sliding; 
+Page 3 of 18 
+
+
+> The instant the wheel to rail adhesion is brought within the optimum 
+levels of pressure by the brake cylinder, the wheels are brought within the 
+optimum/ safe range of skidding of axles in the instance of braking of the 
+train; Various sub-components described supra are connected to each 
+other through electrical wires via various mechanisms such as switches & 
+connectors to essentially support the function of braking without skidding. 
+, WSP also assists in control engineering, measurement, data acquisition, 
+and internal system supervision. These features are carried out by micro 
+controller which updates the measurement data in every fraction of a 
+second. 
+They have stated that an analogy may be drawn between the respective 
+functions of WSP in railways/metro trains with those of an Anti-lock Braking 
+System (ABS) in cars/ SUVs. They have also submitted technical literature of 
+WSP issued by them and Handbook issued by the Indian Railways Centre for 
+Advanced Maintenance Technology, Gwalior 
+Pantograph: Pantograph is a device utilized specifically for the collection of 
+electric current, which is mounted on the roof of the car body. It is used to 
+collect & transfer electrical energy from the catenary to traction system and is 
+mounted on insulators for electrical insulation of the car body. It collects power 
+from the overhead electrical wires and transfers it to the locomotive in order to 
+enable forward motion of the locomotive/ metro train. From a practical 
+viewpoint, Pantographs are an essential fitting of electric locomotives; as the 
+supply of electric current to ensure motion of the coach/ train is dependent on 
+the Pantographs. In an electric locomotive, there are two pantographs mounted 
+on the roof. At any given point of time, one pantograph is raised and connects 
+the locomotive with the overhead contact wire carrying electricity in order to 
+ensure constant power supply to the locomotive. The subject goods have two 
+basic positions - 
+the upper position and the lower position. The lowering and 
+raising speeds are controlled by a Pneumatic Control Unit which is placed 
+inside the vehicle and is separate from the pantograph installed on the roof. The 
+voltage supported by the said Pantographs is usually 25000 Volts. 
+2.3 
+They have stated that since the implementation of GST, they had been 
+classifying the subject goods under Heading 8607 as contained vide S No 205G under 
+Page 4 of 18 
+
+
+Schedule II of the rate notification which covers "parts of railway or tramway 
+locomotives or rolling stock". The said classification had been adopted because:- 
+a. the WSP, by its very nature, cannot be utilized for other than railways, or 
+rolling stock and needs to be utilized in conjunction with the braking system of a 
+railway train coach or a metro bogey. 
+b. the Pantograph, by its very nature, cannot be utilized independently as a 
+separate machine and needs to be mounted on the roof of the train coach so as 
+to ensure uninterrupted power supply to the train at all times. It may be noted 
+that a Pantograph, owing to its specific usage, is designed and structured (viz. 
+from the from the stage of R&D to manufacture, till installation) to be fitted as 
+per Railway specifications for train/ Metro coaches/ rolling stock. 
+2.4 On the interpretation of Law & facts, they have stated that 
+~ Section XVII of the Customs Tariff Act (CTA) deals with 'Vehicles, Aircraft, 
+Vessels and Associated Transport Equipment'. Chapter 86 falls within the 
+ambit of the said Section and deals with 'railway or tramway locomotives, 
+rolling stock and parts thereof; railway or tramway track fixtures and fittings 
+and parts thereof; mechanical (including electro-mechanical) traffic signaling 
+equipment of all kinds'. 
+~ Chapter Heading 8607, under which they have been classifying the subject 
+goods, deals with parts of railway or tramway locomotives of rolling stock; such 
+as Bogies, bissel-bogies, axles and wheels, and parts thereof. 
+~ The study of the relevant Chapter Notes prescribed under the CTA with respect 
+to Chapter 86 clearly highlights that Heading 8607 would apply only to those 
+"parts'Z 'parts and accessories' of railway or tramway locomotives or rolling 
+stock which are identifiable as being suitable for use solely or principally with 
+the railway or tramway locomotives or rolling stock (viz. Note 3 to Section XVII) 
+and also, these goods must not be specified in Note 2 to Section XVII. 
+~ It is clear vide Note 2 to Section XVII that the scope of Heading 8607 is very 
+wide and one of the inclusions made for classification within the said Heading 
+is for brake gear. Further, Chapter Heading 8607 states that the term 'parts of 
+railway or tramway locomotives or rolling-stock' includes, inter alia, all types 
+of brake gear, including : Hand-brakes, controlled directly from each 
+individual vehicle (lever and screw brakes); Continuous brakes with a single 
+Page 5 of 18 
+
+
+control for all vehicles of the train - 
+including compressed air and vacuum 
+brakes; Parts of the brake gear, including shoes, cylinders and levers. 
+:, The subject goods are solely/ principally used in the railway industry and 
+clearly satisfy the conditions specified for classification under Heading 8607. 
+~ On a practical level, due to the unique functionality and usage of the subject 
+goods with respect to ensuring safety in the running of trains, the subject 
+goods cannot be utilized in conjunction with any other mode of transport other 
+than train coaches or metro trains. The WSP is a system controlled by micro- 
+processors which is used to manage the behaviour of wheel sets in conditions 
+wherein, there is reduced wheel/ rail friction conditions. Further, the subject 
+goods ensure the stability and safety of the train in situations where the 
+wheelset rotates at a lower velocity than the forward speed of the train which 
+may lead to wearing out of the wheels of the train. WSP per se cannot be 
+utilized independently or with any other mode of transportation apart from 
+trains or metro coaches; as the various components of the WSP can only 
+function once used in conjunction with the operating system of the train coach 
+and metro bogey. Essentially, it is part of railway break/ air break/ break gear 
+which is specifically covered under Note 2 of Chapter 86. Hence, it becomes 
+evident that the subject goods are utilized exclusively with train bogies/ metro 
+trains/ locomotives and hence, the primary condition for classification under 
+Chapter Heading 8607 is satisfied. They have placed reliance on the case of 
+M/s Knorr Bremse India Ltd. Vs. CCE, New Delhi reported in 2011 (7) TMI 
+621-CESTAT, Delhi, wherein, it was categorically held that the items under 
+dispute (which included Wheel Slide Protection) are 'parts of railway breaks' 
+imported in unassembled conditions and such parts were specifically held to 
+be covered under Heading 8607 of the Customs Tariff. 
+~ The basic utilization of the Pantographs is to store electric current within itself 
+and provide uninterrupted power supply to the train coach by acting as a 
+linkage between the overhead power cables (which carry electricity) and the 
+train coaches/ Metro trains (which use the said electricity to propel forward). 
+Pantographs, right from the structure on which they are installed are designed 
+for exclusive use on train or metro coach bodies hence, being designed in a 
+manner, wherein they can immediately be fitted in conjunction with the 
+insulation mechanism provided on the train coach bodies. Hence, the 
+Pantographs are specifically mounted on insulators so as to ensure that the 
+body of the locomotive/ train coach/ metro bogey is insulated against electrical 
+Page 6 of 18 
+
+
+current. It cannot per se be utilized independently on their own accord or with 
+any other mode of transportation apart from trains or metro coaches as a 
+Pantograph would not be required at all for the operation of other fossil fuel/ 
+gas powered vehicles like cars, buses, trucks and airplanes. On account of 
+trains being specifically required to be constantly connected to the overhead 
+power cables for their operations in order to be in motion, the Pantograph is an 
+instrument integral and intrinsic to the running of trains and metro coaches 
+and no other mode of transportation. 
+~ In view of the above facts, they have opined that the subject goods being 
+utilized exclusively with train bogies/ metro trains/ locomotives, the primacy 
+condition for classification under Chapter Heading 8607 is satisfied. 
+Furthermore, they have placed reliance on the following case laws as well as 
+Circular to conclude that products shall fall under Heading 8607 where such 
+products were solely/principally used for railway locomotives: 
+~ Rail Tech Vs. Commissioner of Central Excise Chandigarh reported 
+in 2000 (120) ELT 393 Tribunal 
+~ Hindustan Welding Engineers Vs. CCE, Calcutta reported in 2001 
+(133) ELT 770 (Tri.-Kolkata): 
+~ M/s Kay Pee Equipments Pvt Ltd [2019-TIOL-302-AAR- 
+GST]: 
+~ CBEC Circular No. 17 /90-CX.4 dated 9 July 1990 
+The applicant has also referred to Note 2 of Section XVII and stated that the subject 
+goods (viz. WSP and Pantograph) are not covered under any of the chapters of above 
+note and the subject goods cannot be construed as parts of general use, tools or 
+implements, electrical machinery etc. These entries cover goods of wide--ranging 
+sphere of application and not specifically designed instruments. They have also stated 
+that the subject goods can be classified as 'PARTS' of Rolling Stock as it complies with 
+the specified conditions i.e. 
+(a) WSP (being part of Railway Air brake/ gear) and Pantograph (viz. installed on 
+top of locomotive coaches specifically to draw and collect power from overhead 
+wires) are suitable for usage solely or principally with the articles of Chapters 86 
+(i.e. Railway or Rolling stock); and 
+(b) WSP and Pantograph are not covered in goods mentioned in Note 2 to 
+Section XVII. 
+Page 7 of 18 
+
+
+In light of the aforementioned submissions, having elaborated upon the constitution 
+and working of the WSP and the Pantograph as well as the legal framework in place 
+with respect to the classification of the subject goods, they are of the view that the 
+subject goods are appropriately classifiable under Heading 8607. 
+3.1 
+The applicant was extended an opportunity to appear for personal hearing on 
+11.02.2020. The applicant vide their letter dated 04.02.2020 sought adjournment and 
+requested to reschedule the hearing. 
+The hearing was scheduled to be held on 
+26.03.2020 but the same was cancelled due to Covid-19 Pandemic. In view of the 
+prevailing pandemic, the applicant was offered to be heard through digital media and 
+the applicant accepted the same. 
+The applicant was heard on 06.08.2020. The 
+authorized Legal representative along with the authorized representative of the 
+applicant appeared for the hearing virtually. They shared the written submissions and 
+submitted the same through email. They stated that summons were issued by DGGSTI 
+& the products on which ruling is sought is not a part of the summons. Copies of the 
+summons were asked to be furnished. 
+They reiterated the written submissions. The 
+applicant was asked to furnish the details of classification in the pre GST regime, 
+invoice copy/work order/class of recipients and it was recorded that on receipt of the 
+above cited documents if required another hearing may be extended. 
+3.2 
+The applicant in their written submissions submitted vide email furnished the 
+following: 
+i. Relevant extracts of Notification No. 1/2017-C. T. (Rate) dated 28 June 201 7 
+ii. Notification No. 14/2019-Central Tax (Rate) dated 30 September 2019 
+[amending Notification No. 1/2017-Central Tax (Rate)] 
+iii. Heading 8607 
+iv. Section Notes to Section XVII 
+v. Chapter Notes to Chapter 86 
+vi. Section Notes to Section XVI 
+vii. Chapter Notes to Chapter 85 
+viii. Section Notes to Section XV 
+ix. General Rules for Interpretation 
+x. Tender No. 08197020 dated 4 February 2020 Issued by the Indian Railways 
+for supply of one coach set of 'Axle Mounted Disc 'Brake' (of which the WSP 
+is a part) 
+xi. Specifications for 'Axle Mounted Disc Brake System' for Mainline Coaches 
+issued by the Indian Railways 
+Page 8 of 18 
+
+
+xii. Tender No. 34182948 dated 20 March 2019 issued by the Indian Railways 
+· for supply of 'High Reach Pantograph' 
+xm. Faiveley Invoice dated 4 August 2020 for the supply of WSP 
+xiv. Faiveley Invoice dated 31 July 2020 for the supply of Pantograph 
+xv. Details of Major Bidders for Tender No. 34182948 issued by India Railways 
+regarding 'High Reach Pantograph' 
+3.3 
+The applicant vide their letter dated 10th September 2020 submitted the 
+synopsis of the submissions made during the hearing on merits of the case. On the 
+details of the summons issued to them by DGGSTI, Hosur they stated that 
+> They being a supplier of railway products and parts was summoned for the 
+purposes of obtaining details about their products and recording the statements 
+of the authorized personnel 
+}> Subsequently, they identified certain goods meriting re-classification and 
+discharged differential GST for the period July 2017 to March 2019 in respect of 
+such goods and W.E.F 1st April 2019 they are classifying the said goods under 
+the revised HSN 
+> They received a Show Cause Notice(SCN) dated 18th June 2020 from DGGSTI 
+Coimbatore demanding the differential excise duty in respect of goods re- 
+classified by them. In the said notice, the authorities did not contest on the 
+classification of WSP and Pantograph 
+}> The products in question(i.e., WSP and Pantograph were neither specifically 
+enquired in any proceedings nor contested in the eventual SCN issued under 
+Excise Law. Therefore, in their view, it is appropriate to say that there has been 
+no proceedings pending under GST Law with respect to WSP and Pantograph. 
+The applicant has further stated that they received notices/summons from DGGSTI 
+Chandigarh and Custom Authorities on classification of certain goods. They have 
+identified the products (other than WSP and Pantograph) which merited re- 
+classification under different CTH and paid differential duty thereon (viz. GST on 
+outward supplies and Customs Duty on imports). 
+The details of 
+Inquiry/Investigations along with the copies of summons, Intimations and SCN 
+were furnished as Annexure-A to this letter. They have further stated that there 
+was no outward supply of WSP in the erstwhile regime and the same was imported 
+to be used in the manufacture of the final products. They requested to grant an 
+additional hearing in order to enunciate all the facts in relation to inquiry/ 
+investigations. 
+Page 9 of 18 
+
+
+4.1 
+The Directorate General of GST Intelligence (DGGSTI) Hosur Unit was 
+addressed to clarify whether the investigations initiated by them on the products 
+supplied by the applicant includes WSP and Pantograph, the classification of which is 
+sought 
+by the 
+applicant before 
+this authority and 
+if so 
+relevant 
+reports/communications were asked to be furnished. In this regard, DGGSTI Hosur 
+unit, vide their letter F.No.lNT/DGGI/HRU/21/2018-Gl dated 16.09.2020 submitted 
+that an investigation has been initiated against the applicant regarding classification 
+adopted by them on products supplied to Railways and classified by them under 
+Chapter Heading 8607.; that the investigation covers the period from 0 1. 07.201 7 and 
+was initiated by way of issuing summons dated 10.10.2018 and is under progress.; 
+that the products WSP and Pantograph are part of the investigation. Hence, they 
+submitted that the classification of these products for the period from 0l.07.2017i.e., 
+under GST, for which the applicant has filed the application for advance ruling is 
+under investigation by them. They also forwarded the copy of summon 33/2018 issued 
+in file F.No.lNT/DGGI/HRU/21/2018-Gl/333 dated 10.10.2018. 
+4.2 
+The claim of DGGSTI Hosur was informed to the applicant and another 
+opportunity to be heard personally (in Virtual mode) was extended on 15.10.2020 to 
+the applicant for deciding the admissibility of the application. 
+5.1 
+The authorized representative appeared for the hearing virtually. They 
+acknowledged the receipt of the report received from DGGSTI by the authority. They 
+stated that the SCN raised for the period pertaining to pre-GST, has not raised any 
+contentions with regard to the products in question for which classification is sought 
+and there is no specific demand raised on the said products. The Authorised 
+representative relied on certain decisions to substantiate their claim that the 
+application is admissible in as far as the summons are general in nature and the 
+questions raised by them before the authority is not specifically a part of the 
+investigations by DGGSTI. They undertook to furnish submissions shared during the 
+hearing and requested to consider their contention that their application is admissible. 
+5.2 
+The applicant vide their letter dated 29.10.2020 stated that the proceedings 
+initiated by issue of the summons on them are general in nature and not specific to the 
+question raised in relation to the classification of the subject goods and have submitted 
+the following flow of key events along with the relevant documents. 
+i. Summons issued by DGGSTI, Hosur dated 10.10.2018 
+ii. Recording of statement of authorized person dated 25.10.2018 
+Page 10 of 18 
+
+
+iii. Details of payment of differential duty 
+iv. Letter dated 07.01.2020 of the applicant addressed to the DGGSTI, Hosur 
+regarding the details required for supplied made to Railways and others for the 
+period March2016 to June 201 7 
+v. Recording of statement of the authorized person dated 10.01.2020 
+vi. Show Cause Notice issued by DGGSTI, Coimbatore dated 18.06.2020 
+vii. DGGSTI, Hosur letter dated 09.09.2020 calling for details of supplies made 
+to Railways and others 
+The applicant has submitted copies of the following case laws and stated that in 
+these cases the application for advance ruling has not been admitted as the specific 
+issue raised before the authority has been the subject of respective DGGSTI 
+enquiries. 
+~ Commissioner of Income Tax-l(lntemational Tax, Delhi & ors. Vs Authority 
+for Advance Ruling, Income Tax, New Delhi & Anr.2020 (8)TMI 770-Delhi 
+High Court 
+~ Sage Publications limited U.K. Vs Deputy Commissioner Of Income Tax 
+(International Taxation), Circle 11(2), N.Delhi 2016(9) TMI 299-Delhi HC 
+~ M/s ID Fresh Food(lndia) Pvt Ltd 2020 (10) TMI 149-AAAR, Kamataka 
+j,., Arihant Enterprises 2020 (32) GSTL 82 (App.AAR-GST-Mah) 
+~ Karnataka Co-operative Milk Producers Federation Limited[2020] 
+115 
+taxmann.com59(MAR-Kamataka) 
+They have further stated that in their case, WSP or Pantograph have not been 
+considered/questioned/referred to at any juncture by the DGGSTI in any 
+summons/Notice/ Letter; there have been no proceedings/Show Cause Notice in 
+respect of products in question and it can be inferred that the authorities are 
+contended with their position of classifying WSP and Pantograph under CTH 8607; 
+Consequently, the subject matter does not at any point of time form the matter of any 
+'pending proceedings' in any other forum whatsoever. 
+The applicant has also 
+requested to consider the overall facts and circumstances before passing the order. 
+6.1 
+In furtherance to the hearing, DGGSTI Hosur was addressed vide letter 
+ARA.No.02/2020/Al dated 05.11.2020 stating the contentions of the applicant that 
+the summon dated 10.10.2018 issued to them is generic in nature and that the SCN 
+issued for the period prior to O 1.07.2017 (Pre-GST) has not raised any contentions with 
+regard to the classification of the subject goods and therefore the application is to be 
+admitted.; DGGSTI was called upon under the provisions of Section 98(1) of the CGST 
+Page 11 of 18 
+
+
+Act 2017 
+to furnish the correspondences related to the investigations on the 
+classification of the subject goods to establish that the same is under investigation 
+from 10.10.2018 under GST. 
+6.2 
+DGGSTI, Hosur vide their letter F. No. INT/DGGI/ HRU/21/2018-Gl 
+dated 23.11.2020 submitted that 
+~ investigations have been initiated against the applicant by them by issuing 
+summon dated 10.10.2018 asking them to furnish the description, 
+classification, GST rate adopted by them on products supplied to Railways 
+along with details for clearan ces to others. 
+,,. The applicant has furnished the details and given voluntary statement. Also 
+based on the investigations initiated, the applicant re-classified some goods 
+supplied to railways and others as railway parts and classified under Chapter 
+Heading 8607 at the time of clearance. Based on the reclassification, they have 
+paid 
+differential 
+duty 
+of Rs.34,29,67,409/- 
+along 
+with interest of 
+Rs.6,60,86, 739 /- during the period 30.12.2018 to 19.10.2019. 
+, the investigation is specific- for classification of goods for railways and covers all 
+goods supplied by the applicant to railways under Chapter 8607 and has been 
+initiated prior to their filing of Application for Advance Ruling. 
+Further, with respect to the products for which the applicant has sought ruling on 
+the classification viz., Wheel Side Protection Control Unit and Pantograph, they 
+have stated that: 
+i. In respect of Wheel side protection control unit, the same was not in 
+their list of products prior to GST and they cleared only spares for WSP 
+which has been reclassified by them under 9302 for the said period. 
+ii. In respect of Pantograph, a corrigendum to Show cause notice was 
+issued on 27.10.2020 for reclassification of Pantograph and its parts. 
+In view of the above, they have reiterated that the investigation covers all products 
+supplied by the applicant to Railways by classifying them under Chapter Heading 
+8607 since 01.07.2017 and it was initiated prior to their application for advance 
+ruling. Hence, they opined that the application may not be considered. 
+7.1 
+The applicant vide their e-mail dated 12.11.2020, stated that they had received 
+a corrigendum dated 27.10.2020 to the Show Cause Notice No. 02/2020 dated 
+18.06.2020; that as per the original show cause notice, DGGSTI authorities were in 
+agreement and have not raised any question on their classification of "Pantograph and 
+Page 12 of 18 
+
+
+parts" under Chapter 8607 but vide the corrigendum dated 27.10.2020, the authorities 
+have sought to question the classification of "Pantograph and parts" and levy 
+differential excise duty; they strongly believe that the question of classification of 
+'Pantograph and parts" was never part of the proceedings before the DGGST. They 
+requested a weeks' time to provide a detailed submission 
+7.2 
+The applicant accordingly vide their letter 19.11.2020 has submitted the 
+following: 
+The "Pantograph and parts" were classified by the company under CTH 
+8607 and the DGGSTI Authorities had not questioned the classification at any 
+time during the course of proceedings before them, thereby explicating that 
+they have agreed with the said position as per the original SCN. However, post 
+the filing of the Application before the Advance Ruling Authority, the DGGSTI 
+has issued the Corrigendum. The nature of changes proposed in the 
+Corrigendum amending/inserting various paragraphs of the original Show 
+cause notice (SCN) clearly indicates that there is a possible change in respect of 
+the classification of "pantographs and parts". They have also reiterated that the 
+DGGSTI Authorities had never questioned the Company's position in respect of 
+classification of the Pantographs and parts in the past and the corrigendum 
+has been issued only during the course of proceedings before the Advance 
+Ruling Authorities. They have also submitted that the corrigendum is not 
+issued to correct any mistake apparent on record (for e.g,. any clerical or 
+arithmetic mistake) but to change the position which was originally adopted by 
+the DGGSTI post analyzing the facts of the case. Further, the Applicant has 
+reiterated that two hearings have already taken place with respect to their 
+Advance Ruling Application and the said Corrigendum has only been issued 
+subsequent to the conclusion of the hearing on admissibility dated is 15th 
+October 2020. Thus, the applicant has submitted that the said Corrigendum 
+cannot be termed as pending proceeding for the purposes of the their 
+Application. Also, they have submitted that the corrigendum is issued in 
+respect of proceeding under the Central Excise Law and not under GST law. 
+Therefore, the corrigendum would have no consequence or bearing on the 
+admissibility of their Application. Thus, the question of classification of 
+"Pantograph and parts" or the WSP was never part of "pending proceedings" before 
+the DGGSTI at the time of filing the Advance Ruling Application. The issuance of 
+the Corrigendum at this stage fortifies the said fact. 
+Page 13 of 18 
+
+
+8.1 
+We have carefully examined the statement of facts, supporting 
+documents filed by the Applicant along with application, oral and written 
+submissions made at the time of Virtual hearings and the comments/remarks of the 
+Directorate General of Goods and Service Tax Intelligence, Hosur Unit. The applicant is 
+involved in the business of manufacturing, supplying and exporting equipment for 
+the Rolling Stock industry. The said equipment includes, inter alia, railway door 
+systems, grills for train coaches, braking systems and pantographs for railways. The 
+WSP and Pantograph in respect of which the classification has been sought vide the 
+instant application are manufactured by the Applicant at their Factory located in 
+Hosur in Tamil Nadu. They have stated that since September 2019 onwards, they 
+have stopped imports of WSP from outside India and at present, both these 
+products are primarily manufactured in India. The said goods are supplied by the 
+Applicant to customers located in Tamil Nadu and other states. The applicant has 
+sought ruling on the following question: 
+Whether Wheel Side Protection Control Unit and Pantograph supplied by the 
+applicant, should be classified as "parts of railway or tramway locomotives or 
+rolling stock, and parts thereof (Viz under Heading 8607) for the purposes of 
+levy of GST in terms of Section 9(1) of Central Goods and Services Act 2017 
+read with Notification No.01/2017-Central Tax (Rate) dated 28.06.2017. 
+8.2 
+We first address the issue of admissibility of the application under 
+Section 97 /98 of the CGST Act. The question raised is on the classification of the 
+product supplied by the applicant and therefore covered under Section 97 (2) of the 
+Act. Section 98 of the CGST Act 2017 /TNGST Act 2017 provides the procedure to 
+be followed on receipt of the application and the first proviso to Section 98(2) states 
+that the application is not to be admitted when the question raised in the 
+application is already pending or decided in any proceedings in the applicant's case. 
+The same is given under for ease of reference: 
+98 (2) The Authority may, after examining the application and the records 
+called for and after hearing the applicant or his authorised representative and 
+the concerned officer or his authorised representative, by order, either admit or 
+reject the application: 
+Provided that the Authority shall not admit the application where the question 
+raised in the application is already pending or decided in any proceedings in 
+the case of 
+an applicant under any of 
+the provisions of 
+this Act: 
+Page 14 of 18 
+
+
+8.3 
+In the case at hand, we find that DGGSTI has submitted that the 
+classification of the products supplied by the applicant to railways are under 
+investigations and the investigations have been initiated through the summon 
+dated 10.10.2018. It is the submission of DGGSTI, HRU Hosur that the question 
+raised before this authority is part of the investigation and therefore the application 
+do not merit admission as per the proviso supra 
+8.4 
+The applicant while acknowledging the investigations initiated by 
+DGGSTI, HRU Hosur, has contended that the summon dated 10.10.2018 issued to 
+them and the investigations are generic in nature and the classification of WSP and 
+Pantograph were never contended by DGGSTI and therefore the classification of the 
+subject goods were never part of 'Pending proceedings' before the DGGSTI at the 
+time of filing the application before this authority. 
+9.1 
+The first proviso to Section 98(2) makes an application ineligible for admission if 
+the Authority finds that the question raised in the application is already pending or 
+decided in "any proceedings' in the case of the applicant under any provisions of this 
+Act. Issuance of summon under Section 70 of the CGST Act 201 7 and calling for 
+definite particulars happens in the course of investigation. We find that the only 
+contention of the applicant is the summon is generic in nature and the subject goods 
+whose classification is sought before us was never part of the proceedings. 
+9.2 
+The applicant has provided a flow of events with documents and also has 
+furnished the same with their remarks as Annexure-A (Inquiry /Investigation 
+pertaining to Hosur) to the submission dated 10.09.2020 of the applicant. On perusal 
+of these documents the following are seen: 
+'"' DGGSTI Hosur in file F.No. INT/DGGI/HRU/21/2018-Gl dated 10.10.2018 has 
+issued a Summon to Shri. Rohit Haldia, CFO of the applicant company to 
+appear on 25th October 2018 with the following documents: 
+o List of Invoices containing description of the item, chapter heading and 
+GST rate charged along with copies of invoices (month wise) issued to 
+Indian railways for supplies from July 2017 to September 2018 
+o List of Invoices containing description of the item, chapter heading and 
+GST rate charged along with copies of invoices (month wise) where the 
+same items are issued to other clients as that of Indian railways from 
+July 2017 to September 2018 
+Page 15 of 18 
+
+
+o List of electrical items and parts thereof and mechanical items and parts 
+thereof supplied by them along with the classification of the same 
+o Balance Sheet and Profit and Loss accounts along with the schedules for 
+the year 2017-18 
+}- The CFO has tendered a Statement before the Investigating authorities. The 
+details stated are of the supplies made by them, rate of GST adopted for the 
+supplies, basis for adopting the GST rate, list of items and their usage in 
+railways/ metros 
+,,. List of items includes among others, 'spare parts of WSP/Pantograph' and the 
+applicant has claimed that independent supply of WSP/Pantograph are not 
+included in the said list 
+~ DGGSTI Hosur in file F.No. INT/DGGI/HRU/21/2018-Gl dated 25.04.2019 has 
+issued a Summon to Shri. Rohit Haldia, CFO of the applicant company to 
+appear on 6th May 2019 with the following documents: 
+o 
+The HSN codes for the correct classification in respect of the goods 
+shown in the list(Exhibit 1) provided to them vide their letter dated 
+08.02.2019which covers the period O 1.07.2017 to 30.09.2018 
+o The details of clearances of goods misclassified under 8607 for the period 
+from 01.10.2018 to 31.03.2019 and the workings for differential duty 
+along with HSN for correct classification 
+o The list of vendors, who are all supplying the goods with 5% GST with 
+details 
+o Details of items cleared under the Chapter Heading 8607 and 8608, 
+claiming exemption under Notification No. 
+12/2016-CE dated 
+01.03.2016 whose correct/actual classification falls under chapter 
+heading other than the above 
+>- The SCN No. 02/2020 dated 18.06.2020 and the corrigendum dated 27.10.2020 
+has been issued to demand the differential excise duty payable for the period 
+upto 30.06.2017 
+9.3 
+It is evident from the documents called for in Summon No.33/2018 
+dated 10.10.2018 that the investigation initiated against the applicant is on the 
+classification adopted by them on the products supplied to Railways and classified 
+by them under Chapter Heading 8607 for the period from 01.07.2017 to 30.09.2018 
+and the applicable rate of GST adopted by them. The applicant has classified 
+'Pantograph' under CTH 8607 and continues to do so while in respect of certain 
+other products, they have re-classified and paid the differential taxes. The month- 
+Page 16 of 18 
+
+
+wise value in respect of 'Pantograph' has been furnished by the applicant to 
+DGGSTI Hosur. 
+Show Cause Notice No.02/2020 dated 18.06.2020, Corrigendum 
+issued to the SCN dated 27.10.2020 seek the differential excise duty payable and 
+the proceedings for the period from 01.07.2017 remains pending. 
+DGGSTI, Hosur 
+letter dated 23.11.2020 has categorically stated that the investigation is specific for 
+the classification of goods for railways and covers all goods supplied by the 
+applicant to railways under Chapter Heading 8607 and in respect of subject goods, 
+it is stated that WSP was not in the list of products prior to GST and the spares for 
+WSP was re-classified by the applicant from CETH 8607 to CETH 9032; while in 
+respect of 'Pantograph', the investigation included the same and re-classification of 
+the same for pre-GST period is issued through corrigendum dated 27.10.2020. 
+9.4 
+From the above facts, it is clear that DGGSTI has taken up 
+investigations on the classifications adopted by the applicant on their supplies to 
+Indian Railways and classified under CTH 8607. The subject goods are supplied to 
+'Indian Railways' and the applicant classify the same under CTH 8607. The 
+application is filed on 20.01.2020 while the proceedings on the 'Classification of the 
+goods supplied to Indian Railways' and the 'rate adopted for payment of GST' were 
+initiated through summon dated 10.10.2018. Also from the list of parts given to the 
+DGGSTI by the applicant, it is seen that details relating to 'Pantograph and Parts' is 
+also furnished. 
+The applicant claims that the DGGSTI did not contend the 
+classification of 'Pantograph' and therefore the said goods were never a part of the 
+investigation. The first proviso to Section 98(2) of the Act, states that where the 
+question raised is pending or decided in any proceedings under this Act, the same 
+is not eligible for admission before this authority. It is clear that classification and 
+rate adopted in respect of 'Pantograph' irrespective of the claim that their 
+classification was acceded/contended by the investigating authority has been 
+called for as a part of the investigation proceedings under Summon issued under 
+Section 70 of the Act which establishes that the question raised before us is a part 
+of the proceedings of DGGSTI and therefore squarely covered under proviso to 
+Section 98(2) of the Act. 
+9.5 
+The applicant has relied upon the rulings pronounced by GST Advance 
+Ruling Appellate Authority/ Advance Ruling Authority of different states wherein 
+the said authorities have rejected the applications when the Investigations 
+pertained to specific goods. The applicant has contended that in their case the 
+Page 17 of 18 
+
+
+investigation was generic and the subject goods were not part of the proceedings 
+and therefore the application is to be admitted. As brought out in para supra, the 
+investigation initiated by DGGSTI in the case of applicant is on the classification 
+and rate of GST adopted by the applicant on the supplies to Indian Railways, 
+classifying under CTH 8607. 
+It is without doubt that the applicant has been 
+classifying the subject goods under CTH 8607 and the supplies are made to 'Indian 
+Railways' and therefore we are unable to agree the contention that the investigation 
+is 'generic', while we find the investigation is on the 'class of products' classified 
+under CTH 8607 and supplied to 'Indian Railways'. 
+10. In View of the above, we rule as under 
+RULING 
+lication is not admitted under first proviso to Section 98(2) of the 
+ST ct 2017for the reasons mentioned in para 9 above. 
+~ 
+Shri Kurinji Selvan 
+(Member SGST) 
+To 
+M/s Faiveley Transport Ra 
+AUTHORJTY FOR 
+ADVANCE RULING 
+1 8 DEC 2020 
+~ 
+h ·. B. Senthilvelavan 
+(Member CGST) 
+GOoos ANO SJ:"P'J'l"'r - 
+' 
+..... 
+f 
+.. 
+c ,, c II n , ; 6 
+..- . 
+_ 
+. 
+ee+t.aalogies 1ndia Limited 
+Post Box No.39, Haritha, Hosur, 
+Tamilnadu-635109 
+//By RPAD// 
+Copy Submitted to: 
+1. The Principal Chief Commissioner of CGST & Central Excise, 
+No. 26/1, Uthamar Mahatma Gandhi Road, Nungambakkam, Ch- 600 034 
+2. The Additional Chief Secretary/Commissioner of Commercial Taxes, 
+II Floor, Ezhilagam, Chepauk, Chennai-5. 
+Copy to: 
+3. The Commissioner of GST & Central Excise, Salem Commissionerate 
+1, Foulkes Compound Anaimedu, Salem 636 001. 
+4. DGGSTI, HRU, Hosur Regional Unit,SRM Towers, 1st and 2nd Floor, 
+No: 222/ lAl, Shanthi Nagar, 100 Feet Road, Near Re Church, 
+Hosur - 635 109. 
+5. Master / Spare file. 
+Page 18 of18

@@ -1,0 +1,362 @@
+AUTHORITY FOR ADVANCE RULING, TAMIL NADU
+No.207, 2»¢ FLOOR, PAPJM BUILDING, No.1, GREAMS ROAD,
+CHENNAI 600 006.
+
+ORDER UNDER SECTION 98(4) OF THE CGST ACT, 2017 AND
+UNDER SECTION 98(4) OF THE TNGST ACT, 2017
+
+Members present:
+
+Shri C.Thiyagarajan, I.R.S., Shri B.Suseel Kumar, B.E., MBA.,
+Commissioner/Member (CGST), Joint Commissioner /Member (SGST),
+Office of the Commissioner of GST and Authority for Advance Ruling,
+Central Excise, Audit I Commissionerate, Tamil Nadu,
+
+Chennai - 600 101. Chennai - 600 006.
+
+Advance Ruling No. 21/ARA/2026, dated 05.03.2026
+
+J. Any appeal against this Advance Ruling order shall lie before the Tamil Nadu
+State Appellate Authority for Advance Ruling, Chennai under Sub-Section (1) of
+Section 100 of CGST Act 2017/TNGST Act 2017, within 30 days from the date on
+which the ruling sought to be appealed is communicated.
+
+2. In terms of Section 103(1) of the Act, Advance Ruling pronounced by the Authority
+under Chapter XVI of the Act shall be binding only-
+
+(a) On the applicant who had sought it in respect of any matter referred to
+in sub-section (2) Section 97 for advance ruling.
+
+(b) On the concerned officer or the Jurisdictional Officer in respect of the
+applicant.
+
+3. In terms of Section 103(2) of the Act, this Advance Ruling shall be binding unless
+the law, facts or circumstances supporting the original advance ruling have changed.
+
+4, Advance Ruling obtained by the applicant by fraud or suppression of material
+facts or misrepresentation of facts, shall render such ruling to be void ab initio in
+accordance with Section 104 of the Act.
+
+5. The provisions of both the Central Goods and Services Tax Act and the Tamil
+Nadu Goods and Services Tax Act (herein referred to as the Act) are the same except
+for certain provisions, Therefore, unless a mention is specifically made to such
+dissimilar provisions, a reference to the Central Goods and Services Tax Act would
+also mean a reference to the same provisions under the Tamil Nadu Goods and
+
+Services Tax Act.
+
+Page 1 of 8
+
+
+GSTIN Number, if any / User id 33AAGCG2959R1IZY
+
+Legal Name of Applicant M/s. GRAYEYE IT SYSTEMS PVT.LTD.
+
+Trade Name of Applicant M/s. GRAYEYE IT SYSTEMS PVT.LTD.
+
+Registered Address / Address | No.189, The Ark, 2™4 Floor,
+provided while obtaining user id Rajiv Gandhi Salai, Sholinganallur,
+Chennai - 600 119.
+
+Details of Application GST ARA — 01 Application dated 24.10.2025
+
+Jurisdictional Officer State: Ashok Nagar Assessment Circle,
+Chennai (Central) Division.
+Concerned Officer Center: Chennai - South Commissionerate,
+Vadapalani Division
+
+Nature of activity(s) (proposed /
+
+present) in respect of which
+
+advance ruling sought for
+
+A Category Goods
+
+B_ Description (in brief) The Applicant is engaged in OEM (original
+Equipment Manufacturers), supplies of system
+integration and Networking, IT hardware items.
+Seeks advance ruling for generation of E-way
+bill — billing address one State and shipping
+address another State (Bill to Ship to concept).
+
+Issue/s on which advance ruling | 1. Classification of goods and/or services or
+required both
+2. Determination of time and value of supply
+of goods or services or both.
+3. Whether any particular thing done by the
+applicant with respect to any goods and/or
+services or both amounts to or results in a
+supply of goods and/or services or both,
+within the meaning of that term.
+
+Question(s) on which advance! Q1.E-way Bill generation - validity and
+ruling is required applicability
+
+Page 2 of 8
+
+
+M/s. GRAYEYE IT SYSTEMS PVT.LTD. No.189, The Ark, 2"4 Floor, Rajiv
+Gandhi Salai, Sholinganallur, Chennai - 600 119 (hereinafter called as the
+“Applicant”) are registered under the GST Act with GSTIN: 33AAGCG2959R1ZY.
+The Applicant is engaged in OEM (original Equipment Manufacturers), supplies of
+system integration and Networking, IT hardware items. The applicant secks
+advance ruling for generation of E-way bill — billing address one State and shipping
+
+address another State in the following scenario:
+
+Scenario-1:
+
+The applicant handle certain GeM (Government e-Marketplace) contracts
+related to Government of India/Tamil Nadu and few other State Government
+Department, They have their suppliers in one State (e.g. New Delhi). Their GeM
+contract customer is located in another State (e.g. Jammu and Kashmir).
+Applicant’s office is located in Chennai, Tamil Nadu. Their supplier at New Delhi
+directly supplies the materials on behalf of the applicant to their customers located
+at Jammu Kashmir. The supplier will issue an invoice on the applicant under
+Billing and Shipping address concept and the applicant will issue an outward
+invoice on the Jammu and Kashmir custorner. Movement of goods takes place
+from New Delhi to Jammu and Kashmir without entering the State of Tamil Nadu.
+In this scenario, how to handle E-way Bill?
+
+Scenario-2:
+
+One of their suppliers is located at Secunderabad (Telangana) and supplies
+materials directly to the applicant’s customer at Hyderabad on behalf of the
+applicant. The supplier at Secunderabad issues tax invoice to the applicant in
+Chennai. But the supplier uses the concept of Bill to Ship to and while issuing tax
+invoice he charges CGST and SGST instead of IGST. But, as per Rule 11 of the
+Place of Supply of Goods/Services, the levy should be as IGST. If the Bill to and
+Ship to customer is the same State and the applicant company is of a different
+State, what is the provision for E-way bill. The applicant would also like to get
+clarified on Issuance of Invoice/place of supply of goods/services.
+
+Scenario-3:
+
+E-way Bill generation- concept of 180 days/365 days: They raise
+invoice to their customers to receive the payment. But they supply the materials
+within 90 days from the date of actual invoice. As they are assembled products
+industry as well as an OEM, as per the present GST council amendment, E-way bill
+
+generation has been increased from 180 days to 365 days. Now they request to
+
+Page 3 of 8
+
+
+clarify on the provisions of the E-way bill ie., whether the applicant can generate
+E-way after 180 days/365 days. Whether is it applicable from the date of
+generation of Part-A/Part-B or extended validity or else from the date of original
+
+e-invoice.
+. The Applicant has made a payment of application fees of Rs.5,000/- each
+under sub rule (1) of Rule 104 of CGST Rules, 2017 and SGST Rules, 2017.
+
+Statement of relevant facts:
+
+3. The applicant handles certain GeM contracts related to Government of
+India/Tamil Nadu and a few other State Government Department. The applicant
+seeks clarification on E-way bill- Bill to Ship to concept, Issuance of Invoice/place
+of supply of goods and services.
+
+Interpretation of Law by the Applicant based on the statement of facts:
+
+4. The applicant has claimed in their application that they had submitted
+relevant circulars in respect of E-way bills. But no such circulars were available on
+
+records,
+
+5. The applicant is under the administrative control of State Tax Authority. The
+concerned Authorities of the State and Centre were addressed to offer detailed
+remarks and also to provide pendency report on the questions raised by the
+applicant in their ARA application. Since no remarks were received from the State
+jurisdictional authorities as well as the Central jurisdictional authorities, it is
+construed that there are no pending proceedings against the applicant on the
+
+questions raised by them in their advance ruling application.
+
+PERSONAL HEARING
+
+6.1 The applicant was given an opportunity to be heard in person on 17.02.2026
+vide this office memorandum No.50/2025, dated 10.02.2026.
+Mr. B.Abdul Kalam, Manager, M/s. Grayeye IT Systems Private Ltd., Chennai and
+Mr. K.Pradeep Narayanan, Chartered Accountant appeared as Authorized
+Representatives on behalf of the applicant for the hearing. The AR reiterated the
+submissions made in their application for advance ruling.
+
+6.2 The AR informed that they get orders from Government portal (GeM) for
+supply and installation of Information Technology (IT) related hardware to various
+
+Page 4 of 8
+
+
+government institutions. It is a consolidated work order for both supply and
+installation of the IT hardware. Based on the orders, goods required for execution of
+the installation will move from their assembling unit at NOIDA to various locations
+of their customers and the Billing is done from their Chennai office. The invoice is
+raised once the installation is completed. The movement of goods is done by issuing
+Delivery Challan (DC) accompanied by an e-way bill generated based on such DC.
+The AR requested the Authority to give a decision on the procedure to be adopted
+for e-way bill for the movement of goods in case the invoice is raised after
+completion of the execution of the work order and the goods are moving only based
+on the DC,
+
+6.3. The Members informed the AR that the questions raised by the applicant are
+related to the provisions of E-way bills which do not fall under the category
+mentioned in the section 97 (2) of the CGST Act, 2017 and therefore, is out of
+purview of the advance ruling. The AR accepted the legal provision pointed out by
+the Members.
+
+Discussions and Findings:
+
+7.1 We have carefully considered the submissions made by the applicant in the
+advance ruling application, and the submissions made during the personal hearing
+held on 17.02.2026.
+
+7.2 The Applicant is engaged in OEM (original Equipment Manufacturers),
+supplies of system integration and Networking, IT hardware items.
+
+7.3 In their application for advance ruling, the applicant has raised a question
+“E-way Bill generation - validity and applicability’ which appears to be vague and
+not a definite one. But from the submissions dated 10.10.2025 made by the
+applicant, it is seen that they have query on three situations faced by them on
+which they want clarifications. It is also noted that all the three scenarios raised
+by the applicant involve procedures of e-way bill generation.
+
+scenario-1:
+
+How to handle E-way Bill in cases where the supplier is one state and makes
+direct inter-state supplies to a customer situated in another state by raising an
+invoice on the applicant who is situated in the state of Tamil Nadu? The applicant
+raises outward invoice on their customers and movement of goods takes place
+
+directly from the supplier to the customers without entering Tamil Nadu.
+
+Page 5 of 8
+
+
+scenario-2:
+
+What is the provision for E-way bill if the customer is the same State and the
+applicant company is in a different State?
+scenario-3:
+
+With regard to E-way Bill generation and the concept of 180 days/365 days,
+whether this concept is applicable from the date of generation of Part-A/Part-B or
+extended validity of the invoice or else from the date of original e-invoice?
+
+7.4 Further, against Sl. No. 13 of the application that asks for issues on which
+advance ruling is required, the applicant has marked three issues, namely,
+“classification of goods and or services or both”; “determination of time and value of
+supply of goods and or services or both” and “whether any particular thing done by
+the Applicant with respect to any goods and/or services or both amounts to or
+results in supply of goods and/or services or both, within the meaning of that
+term’. But on going through the applicant’s letter dated 10.10.2025, it is seen that
+all the three questions raised by the applicant pertain to the generation of e-way
+bill and its validity and procedure to be adopted for movement of goods.
+
+7.5 We would like to bring to the notice of the applicant, Section 97(2) of the
+CGST Act, 2017 which states:
+
+(2} The question on which the advance ruling is sought under this Act, shall be
+in respect of,-
+(a) classification of any goods or services or both;
+(b) applicability of a notification issued under the provisions of this Act;
+(c) determination of time and value of supply of goods or services or
+both;
+(a) admissibility of input tax credit of tax paid or deemed to have been
+paid;
+(e) determination of the liability to pay tax on any goods or services or
+both;
+() whether applicant is required to be registered;
+(g) whether any particular thing done by the applicant with respect to
+any goods or services or both amounts to or results in a supply of
+
+goods or services or both, within the meaning of that term.
+
+Page 6 of 8
+
+
+7.6 Itis to be noted that this Authority is mandated to provide advance ruling
+on questions which are in respect of the issues enumerated in sub-clause (a) to (g)
+of Section 97(2) of the CGST Act, 2017. We find that the queries raised by the
+applicant pertains to e-way bill generation and procedures therein, which do not
+get covered under any of the sub-clauses from (a) to (g) of Section 97({2) of the
+CGST Act, 2017.
+
+7.7 Moreover, the questions raised by the applicant request decision on the
+procedures relating to e-way bills which are already covered under Chapter XVI of
+the CGST Rules, 2017.
+
+7.8 Hence, we are of the considered opinion that the query raised by the
+applicant in the application for advance ruling filed in the instant case, is not liable
+for admission, and as such, the application filed by the applicant, per se, is liable
+for rejection under Section 98(2) of the CGST Act, 2017, which reads as,
+
+"(2) The Authority may, after examining the application and the records called
+for and after hearing the applicant or his authorised representative and the
+concerned officer or his authorised representative, by order, either admit or
+reject the application:
+
+Provided that the Authority shall not admit the application where the question
+raised in the application is already pending or decided in any proceedings in
+the case of an applicant under any of the provisions of this Act:
+
+Provided further that _no application shall be rejected under this sub-section
+
+unless an opportunity of hearing has been given to the applicant:
+
+Provided also that where the application is rejected, the reasons for such
+
+rejection shall be specified in the order.”
+
+8. Based on the above discussion, we rule as under.
+
+RULING
+
+The Application for Advance Ruling filed by the Applicant in Form GST
+ARA-O1 dated 24.10.2025 is rejected under Section 98(2) of the CGST Act, 2017,
+
+in view of reasons discussed in detail above.
+Bue Spak (Meek Yo
+ra at
+can wD (C. Thiyagarajan)
+
+(B. Suseel Kumar)
+Member (SGST) * / Member (CGST)
+
+Page 7 of 8
+
+
+To
+
+M/s. Greyeye IT Systems Private Limited,
+No.189, The Ark, 24 Floor,
+
+Rajiv Gandhi Salai, Sholinganallur,
+Chennai ~ 600 119. /By Speed Post/
+
+Copy submitted to:
+
+1. The Principal Chief Commissioner of GST & Central Excise,
+26/1, Mahatma Gandhi Road, Nungambakkam, Chennai-600034.
+
+2. The Commissioner of Commercial Taxes,
+24 Floor, Ezhilagam, Chepauk, Chennai — 600 005.
+
+3. The Commissioner of GST & Central Excise,
+Chennai (South) Commissionerate,
+Newry Towers, No.2054, I Block,
+Il Avenue, 12th Main Road,
+Anna Nagar, Chennai 600 040.
+
+Copy to:
+
+1. The Assistant Commissioner (ST),
+Ashok Nagar Assessment Circle
+No.1, Sth floor, PAPJM Annex Building,
+Greams Road, Egmore,
+Chennai — 600 006.
+
+2. Master File/ Spare — 2.
+
+Page 8 of 8

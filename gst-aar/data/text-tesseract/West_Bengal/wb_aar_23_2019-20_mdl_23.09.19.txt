@@ -1,0 +1,144 @@
+WEST BENGAL AUTHORITY FOR ADVANCE RULING
+GOODS AND SERVICES TAX
+14 Beliaghata Road, Kotkata - 70001s
+(constituted under section g6 of the west Bengal Goods and services Act,2017)
+BENCH
+Ms Susmita Bhattacharya, Joint Commissioner, CGST & CX
+Mr Parthasarathi Dey, Senior Joint Commissioner, SGST
+Preamble
+A person within the ambit of Section 100 (1) of the Central Goods and Services Act, 2017 or West
+Bengal Goods and Services Act, 2017 (hereinafter collectively cailed 'the GST Act'), if aggrieved by this
+Ruling, may appeal against it before the West Bengal Appellate Authority for Advance Ruling,
+constituted under Section 99 of the West Bengal Goods and Services Acl, 2017 , within a period of thirty
+days from the date of communication of this Ruling, or within such further time as mentioned in the
+proviso to Section 100 (2) of the GST Act.
+Every such Appeal shall be filed in accordance with Section 1Oo (3) of the GST Act and the Rules
+prescribed thereunder, and the Regulations prescribed by the West Bengal Authority for Advance Ruling
+Regulations, 2018.
+Name of the applicant
+Metro Dairy Ltd
+s+i r
+Address (correspondence)
+GSTIN
+1gAABCM8352K2Z1
+Case Number
+31 of 201 9
+ARN
+AD 1 9061 9002904U
+Date of application
+July 09, 2019
+Order number and date
+23MBAAR/2 019-20 OateO ZyOgl2O19
+Sri Suman Pyne, Authorised Representative
+Applicant's representative heard
+1. Admissibititv of the Application
+1.1 The Applicant has set up a manufacturing facility for UHT milk, milkshake, curd and lassi. Some of
+the goods are taxable, and others exempted under the GST Act. Commercial production of UHT milk
+has been going on since December 2018. Manufacture of other products is likely to begin soon. The
+Applicant has procured capital goods and input services that are common to the production of both
+taxable and exempted goods. The Applicant wants to know to what extent and in what proportion the
+input tax credit is admissible on such capital goods and input services. An advance ruling is acceptable
+on this question under section 97(2)(d) of the GST Act.
+1.2 The Applicant also declares that the issues raised in the application are not pending nor decided in
+any proceedings under any provisions of the GST Act. The officer concerned from the Revenue has not
+objected to the admission of the Application.
+1.3 The Application is, therefore, admitted.
+2. Submissions of the Applicant
+2.1 The Applicant submits that the apportionment of input tax credit should be based on the provisions
+under section 17(2) & (3) of the GST Act read with rules 42 and 43 of the CGST Rutes 2017 and
+WBSGST Rules 2017 (hereinafter GST Rules). The input tax credit is, therefore, restricted to the credit
+Page L of 4
+
+
+attributable to taxable supplies. How to determine such an amount is prescribed in rule 43. The useful
+life of capital goods is taken as five years from the date of invoice under rule a3(1)(c) of the GST Rules.
+The Applicant submits that the formula prescribed under rule 43 of the GST Rules is applicable only
+after the commencement of commercial production. The useful life of the capital goods should,
+therefore, be calculated from the date of the beginning of the commercial production.
+2.2 Furthermore, rule 42 prescribes the manner of determination of input tax credit on input services and
+reversalthereof incaseslikethatof theApplicant. lntermsof rule 42(1)(i)of theGSTRules,theamount
+of input tax credit attributable to exempt supplies shall be computed every month. After that, the input
+tax credit forthe financial year shall be finally calculated in terms of rule a2Q) of the GST Rules before
+the due date for furnishing return for the month of September following the end of the financial year to
+which such credit relates.
+2.3 ln the Applicant's case, the commercial production of taxable goods started in December 2018. The
+commercial production of the exempt goods did not begin in 2018-19. The Applicant should, therefore,
+be eligible for credit of the entire input tax on input services.
+3. Submissions of the Revenue
+3.'l The concerned officer from the Revenue submits that apportionment of the input tax credit on the
+capital goods used for manufacture of both the taxable and the exempted goods should be made in the
+manner prescribed under proviso to rule 43(1)(d) of the GST Rules and other related clauses of rule
+43(1). The Applicant purchased capitalgoods that were used for producing taxable goods UHT mitk. On
+a subsequent date the same capital goods are going to be used for manufacturing both taxable and non-
+taxable goods. The amount of input tax on each of such capital goods is denoted by 'A' and shall be
+credited to the electronic credit ledger in terms of rule 43(1)(c) of the GST Rules. The value of 'A' is
+arrived at by reducing the input tax at 5% rate for every quarter or part thereof. ln other words, input tax
+on such capital goods as were initially used for producing taxable goods only, but subsequenfly used for
+manufacturing both taxable and exempted goods, are to be attributed at 5% rate for every quarter or
+part thereof to production of taxable goods during the period when they were used for production of
+taxable goods only. The balance amount, if any, available when the production of exempted goods
+begins, will be the amount 'A'. The aggregate of the amounts of 'A' are added to the corpus of input tax
+called 'T"' for apportionment in accordance with rute 43(1)(e), (0 & (g) of the GST Rules.
+3.2 The concerned officer from the Revenue further submits that input tax credit on input services should
+be apportioned in the manner prescribed under rule 42 of the GST Rules. The Applicant is eligible for
+credit of the entire Input tax on input services till the production of exempted goods begins.
+4. Observations and findinqs of the Authority
+4.1 This Authority agrees with the concerned officer from the Revenue on the mechanism for
+apportionment of input tax credit on capital goods that were used for manufacturing taxable goods but
+are going to be used subsequently for production of both taxable and exempteO gooOs. The amount of
+input tax on each of such capital goods shall be credited to the electronic credit teOger in terms of rule
+43(1)(c) of the GST Rules, which also prescribes sixty months from the date of invoiJe as the usefut tife
+of such capital goods. Rule 43(1) provides the mechanism for apportionment of the input tax available in
+the corpus T" over the balance period of the useful life.
+4.2The Applicant is required to furnish the details of inward supply of goods or services, including that
+of capital goods, received during a tax period in GSTR-2 and GSTR-3B. As soon as such reportlng is
+made, the input tax is credited to the electronic credit ledger. When the production of taxable go6ds
+commenced in December 2018, the Applicant enjoyed the credit the of entire input tax in terms of rule
+43(1)(b) of the GST Rt"" Subsequently, the same capital goods are being used for manufacturing
+exempted goods also. The question, therefore, arises how much of the input tax credit should be
+attributed to the period when such capital goods were used for manufacturing taxable goods, and how
+the balance amount of the input tax should be apportioned after production of the eiempted goods
+Page 2 of 4
+
+
+commences. The Proviso to rule 43(1Xd) of the GST Rules answers the first question, and prescriptions
+under Rule a3(1)(e), (f) and (g) of the GST Rules answer the second question. Based on such
+prescriptions, the Applicant is required to compute the admissible amount of the input tax credit on such
+capital goods in the tax periods over the useful life calculated from the date of invoice and reverse the
+balance amount.
+4.3 The manner of apportioning the common credit of input tax [denoted by'Cr'in rule 42(1)(h)] is
+prescribed under rule 42(1)(i), O, (k), (l) and (m) of the GST Rules. The amount of the common credit
+attributable towards exempt supplies (D1)is to be determined as betow:
+D,=(E/F).C2
+where'E' is the aggregate value of exempt supplies and 'F' is the total turnover in the State during the
+tax period.
+4.4 ln the Applicant's case, the commercial production of taxable goods started in December 20'l 8. The
+commercial production of the exempt goods did not begin in 2018-19. The value of D1, therefore, is zero
+during the tax periods in 2018-19. No amount of the common credit of input tax on input services
+available during 2018-19 should, therefore, be attributed towards exempt supplies. ln other words,
+subject to the provisions under rule 42(2) of the GST Rules, the entire input tax on input services is an
+admissible credit during 2018-19.
+4.5 lt is presumed that the Applicant does not make any exempt supplies other than the ones it
+manufactures.
+ln view of the foregoing, we rule as under
+RULING
+Based on the proviso to rule 43(1Xd) of the GST Rules and further prescriptions under rule 43(1)(e), (f)
+and (g) of the GST Rules, the Applicant is required to compute the admissible amount of the input tax
+credit on the capital goods used for both taxable and exempt supplies in the tax periods over the useful
+life of such capital goods, calculated from the date of invoice. The Applicant shall reverse the balance
+amount of the input tax on the said capital goods that has already been credited to its electronic credit
+ledger.
+As the commercial production of exempted goods did not begin in 2018-19, the entire input tax on input
+services, subject to the provisions under rule 42(2) of the GST Rules, is an admissible credit during
+201 8-1 9.
+This Ruling is valid subject to the provisions under Section 103 until and unless declared void under
+Section 104(1) of the GST A
+,,tr^\ilt?
+(SUSMITA BHATT
+RYA)
+Member
+West Bengal Authority for Advance Ruling
+(PARTHASARATHI DEY)
+Member
+West Bengal Authority for Advance Ruling
+Page 3 of 4

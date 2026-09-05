@@ -1,0 +1,997 @@
+RAJASTHAN AUTHORITY FOR ADVANCE RULING
+
+a ODS AND SERVICES TAX, KAR BHAWAN, AMBEDKAR CIRCLE,
+\ NEAR RAJASTHAN HIGHCOURT ?
+JAIPUR — 302005 (RAJASTHAN)
+Pie ch
+
+ADVANCE RULING NO. RAJ/AAR/2024-25/10
+
+[ Mahipal Singh
+
+Additional Commissioner * | Member (Central Tax)
+Mahesh Kumar Gowla
+Additional Commissioner : Member Gitate Tat) —
+Name and address of the M/s GREEN INFRA WIND FARM ASSETS LIMITED,
+applicant Account no. 09, Survey no. 66/1, Maanpura Kala Village,
+Tehsil-Arnod, Pratapgarh-312619, Rajasthan
+GSTIN of the applicant O8AAECG4080H1ZM
+Clause(s) of Section 97(2) of (c)determination of time and value of supply of goods or
+CGST/SGST Act, 2017, under | : | Services or both a
+which the question(s) raised (e)determination of the liability to pay tax on any goods
+or services or both
+Date of Personal Hearing _| : | 30.04.2024 —_ |
+5 . | Adv. Narendra Singhvi, Adv. Shrishti Agarwal and Mr.
+Present for the applicant * | Bhuvnesh Shah
+| Date of Ruling :| £8: 4 6° 20d
+
+Note 1: Under Section 100 of the CGST/RGST Act, 2017, an appeal against this ruling lies before
+the Appellate Authority for Advance Ruling, constituted under Section 99 of CGST/RGST Act,
+2017, within a period of 30 days from the date of service of this order.
+
+Note 2: At the outset, we would like to make it clear that the Provisions of both the CGST Act
+
+and the RGST Act are the same except for certain provisions. Therefore, unless a mention is
+specifically made to such dissimilar provisions, a reference to the CGST Act would also mean a
+reference to the same provision under the RGST Act. Further to the earlier, henceforth for the
+
+Purposes of this Advance Ruling, a reference to such a similar provision under the CGST Act /
+RGST Act would be mentioned as being under the "GST Act",
+
+The issue raised by M/s GREEN INFRA WIND FARM ASSETS LIMITED, Account no. 09,
+Survey no. 66/1, Maanpura Kala Village, Tehsil-Arnod, Pratapgarh-312619, Rajasthan
+
+(hereinafter “the applicant”) is fit to pronounce advance ruling as it falls under the ambit of the
+Section 97(2)(a) given as under:
+
+(c)determination of time and value of supply of goods or services or both
+
+(e)determination of the liability to pay tax on any goods or services or both
+
+A. SUBMISSION OF THE APPLICANT(in brief):-
+
+The Applicant is a company incorporated under the Com
+
+panies Act, 1956 and existing
+under the Companies Act, 2013, which is involved in the
+
+business of development and
+
+Page 1 of 16
+
+
+Operation of renewable power projects and alli
+Operational capacity of 45 MW in wind energy in
+
+electricity from plants is sold to the State Electri
+Agreements (PPA).
+
+ed activities. The Applicant is having
+the state of Rajasthan. The generated
+city Board as per the Power Purchase
+
+As a part of the shareholder activity, the overseas group companies provide corporate
+guarantee to banks and financial institutions in respect of loans taken by Applicant. The
+
+foreign group company does not charge any consideration from the Applicant for
+providing corporate guarantee.
+
+The aforesaid corporate guarantee receiv
+final settlement date of the loan contract
+institution. In other words,
+guarantee; rather, it is valid
+the Deed of Guarantee and
+Guarantee entered into by
+entered into by the Applicant
+as Appendix-1.
+
+ed by the Applicant remains in effect till the
+between the Applicant and the bank/financial
+there is no requirement of any periodic renewal of the said
+for a specified period of time, i.e. from the effective date of
+the final settlement date. Sample copies of the Deeds of
+the foreign group companies and the loan agreements
+and the banks/financial institutions are attached herewith
+
+Recently, vide Notification No. 52/2023 — Central Tax dated 26.10.2023, Rule 28 of the
+CGST Rules was amended and sub-rule (2) of the said Rule was inserted to provide that
+the value of supply in case of supply of service of corporate guarantee between related
+Parties would be 1% of the amount of guarantee or the consideration paid, whichever is
+
+higher. In the present case, it is reiterated that no consideration has been paid by the
+applicant to the guarantors.
+
+In view of the above, the present a
+reverse charge mechanism on issuan
+periodical basis.
+
+pplication is filed to ascertain whether GST under
+ce of corporate guarantee is payable one-time or on
+
+Additionally, without prejudice to the above, if the GST under reverse charge mechanism
+has to be paid on periodical basis, whether value of 1% as provided in Rule 28(2) of the
+CGST Rules should be divided equally amongst the years in which the guarantee is in force
+(i.e., the guarantee period) or whether GST under reverse charge mechanism is to be paid
+considering 1% as value in each year during the period in which the guarantee given is in
+force. For instance, if the amount guaranteed by the Applicant is Rs. 5,00,000/- and the
+said guarantee is valid for a Period of 5 years, then the question is whether the GST under
+reverse charge mechanism has to be paid once on the value of 1% of Rs. 5,00,000/- or if
+
+payable every year, then 1% of100,000/- per year (i.e., Rs. 5,00000 divided by 5, i-e., the
+number of years the guarantee is valid for).
+
+Further, without prejudice to the above, the Applicant also wishes to seek the Advance
+Ruling in respect of the fact that if GST is to be paid on periodical basis, whether GST
+under reverse charge mechanism is payable on 1% of total value of loan in first year, and
+on 1% of only remaining outstanding value of loan at beginning of each subsequent year.
+For instance, if the amount guaranteed by the Applicant is Rs. 5,00,000/- and the said
+
+Page 2 of 16
+
+
+guarantee is valid for a period of 5 years, then the question is whether the GST has to be
+paid as follows:
+
+Sr.No. | Year Amount of Loan Remaining at GST to be paid on
+the beginning of the year the value of
+
+a. First Year Rs. 5,00,000/- Rs. 5,000/-
+
+2. Second Year Rs. 4,00,000/- Rs. 4,000/-
+
+3. Third Year Rs. 3,00,000/- Rs. 3,000/-
+
+4. Fourth Year Rs. 2,00,000/- Rs. 2,000/-
+
+5. Fifth Year Rs, 1,00,000/- Rs. 1,000/-
+B. INTERPRETATION AND UNDERSTANDING OF APPLICANT ON QUESTION RAISED (in
+brief)
+I.
+
+The corporate guarantee received by the Applicant from foreign group companies in
+respect of loan obtained by the Applicant from a bank/financial institution is a one
+guarantee and not a continuing guarantee and hence,
+Service in terms of Section 2(33) of the CGST Act.
+
+-time
+the same is not a continuous supply of
+
+2. In order to analyse the present issue, reference is made to Section 129 of the Indian
+Contracts Act, 1872 which states that a guarantee which extends to a series of transactions, is
+called a "continuing guarantee". The relevant portion of the said Section along with relevant
+illustrations is reproduced hereunder for the sake of reference:
+
+129. “Continuing guarantee”.—A guarantee which extends to a series of
+transactions, is called a “continuing guarantee”.(a) A, in consideration that B
+will employ C in collecting the rent of B’s zamindari, promises B to be
+responsible, to the amount of 5,000 rupees, for the due collection and payment
+by C of those rents. This is a continuing guarantee.
+
+(b) A guarantees payment to 8, a tea-dealer, to the amount of £100, for any
+tea he may from time to time supply to C. B supplies C with tea to above the
+value of £100, and C pays B for it. Afterwards, B supplies C with tea to the value
+of £200. C fails to pay. The guarantee given by A was a continuing guarantee,
+and he is accordingly liable to B to the extent of £100.
+
+(c) A guarantees payment to B of the price of five sacks of flour to be
+delivered by B to C and to be paid for in a month. B delivers five sacks to C. C
+
+bays for them. Afterwards B delivers four sacks to C_ which C does riot pay for.
+
+The quarantee given by A was not a continuing guarantee, and accordingly he
+is not liable for the price of the four sacks.
+
+3; From the aforesaid provision and the illustrations, it is clear that to determine whether
+a guarantee is a continuing guarantee or not, it is relevant that there should be a “
+transactions”. To understand the phrase “series of transactions”, reliance is placed on the
+judgement of the Hon’ble Allahabad High Court in the case of Hasan Ali v. Waliullah AIR 1930
+All 730wherein the Court observed that where the guarantee is given for a single transaction,
+
+series of
+
+Page 3 of 16
+
+
+it would not be considered a continuing guarantee. In this case, a lease deed Was executed
+between the lessor and lessee for a term of five years. Further, the lease rental was payable on
+an annual basis in two equal installments. The Court held that the transaction was a single
+
+transaction, and the nature of such guarantee was held not to bea continuing guarantee. The
+relevant portion of the said judgement is reproduced hereunder:
+
+“9. In the circumstances of the case the guarantee given by the defendant-
+appellant did not extend to a series of transactions. The grant of lease by Syed
+Nabiullah to Murtaza Husain for a period of five years in consideration of the
+payment of a certain sum of money as rent was a single transaction. Equally,
+the guarantee was one transaction ensuring the due performance of the lessee
+during the continuance of the lease. The successive payments of rent upon each
+installment falling due cannot be treated as successive transactions and the
+guarantee with reference to the same cannot be held to be “a continuing
+guarantee" under Section 129, Contract Act. The above view is supported in
+principle by the decision of this Court in In re, Gopal Singh v. Bhawani Prasad
+[1888] 10 All. 531 in which it was held that assuming that the guarantee sought
+to be construed was a continuing guarantee within the meaning of Section 131,
+Contract Act, still having regard to the object for which the two guarantees
+were given it must be concluded that the parties intended in the one case that
+
+the lessor should be guaranteed for all rent which might become due during the
+currency of the lease...
+
+12. The lease was granted once for all for a definite period of five years. The
+stipulations for the several payments stipulated for were definite engagements
+constituting one transaction. The guarantee was given by the defendant-
+appellant for the due fulfillment of these engagements stipulated in the lease
+during the whole term of its continuance. It would be unduly straining the
+language of Section 129 to call it a continuing guarantee.
+
+13. We are therefore of opinion that the view taken by the lower appellate
+
+Court was justified. We accordingly dismiss this appeal with costs including in
+this Court fees on the higher scale.
+
+4. In view of the above, it is submitted that where a guarantee is extended for a single
+transaction, it would amount to a one-time guarantee and not a continuous guarantee. Hence,
+it is submitted that where a guarantee is received by the Applicant from its foreign group
+
+companies regarding repayment of the loan availed by the Applicant within a specified period,
+it would amount to a one-time guarantee.
+
+§: Further, it is submitted that under GST regime, the definition of “continuous supply of
+services” is given under Section 2(33) of the CGST Act. The said Section defines the expression
+“continuous supply of services” as a supply of services which is provided, or agreed to be
+provided, continuously or on recurrent basis, under a contract, for a period exceeding three
+months with periodic payment obligations and includes supply of such services as the
+
+Page 4 of 16
+
+
+Government may, subject to such conditions, as it may,
+
+by notification, specify. The relevant
+portion of the said Section is reproduced hereunder fort
+
+he sake of ready reference:
+
+(33) “continuous Supply of services”
+
+means a supply of services which is
+provided, or agreed to be provided, continuously or on recurrent basis, under
+
+@ contract, for a period exceeding three months with periodic payment
+obligations and includes supply of such services as the Government may,
+
+subject to such conditions, as it may, by notification, specify;
+
+6.1 In the present case, it is submitted that the corporate guarantee received by the
+Applicant would be extended across the period of the loan (which may last for several years)
+until it is repaid by the Applicant to the bank/financial institution. Such a transaction of
+providing corporate guarantee by the foreign group company for repayment of term loan will
+qualify to be one time supply of corporate guarantee since there is no renewal of the subject
+
+guarantee on an annual basis/periodical basis, but the guarantee provided once at the time of
+execution of deed of guarantee continues over a period of time.
+
+6.2 Herein, itis pertinent to refer to an exam
+consumer buys the goods and makes a down
+instalments. Even in this situation, the “supply
+
+ple of a hire purchase transaction, wherein the
+payment, while the remaining balance is paid in
+
+” happens once only, i.e., at the time of entering
+into the agreement, but the consideration is received over a period of time. Similarly, even in
+
+the present case, “supply” of corporate guarantee happens once when the Deed of Guarantee
+is entered into by the foreign group company, however, the obligation of guarantor (i.e., the
+foreign group company) continues till the guarantee period. Therefore, it is submitted that
+merely because the guarantee continues for a certain period of time, the same cannot
+constitute a continuous supply; rather, it will constitute a single event of supply.
+
+6.3 Additionally,
+loan to a borrower.
+lender at the time o
+borrower may or m
+
+it is submitted that guarantee is required for giving security to lender for
+The Deed of Guarantee is entered into between the guarantor and the
+f providing the loan to the borrower. The default in the payment by the
+ay not happen at any point of time during the period when the loan is
+outstanding. Therefore, it is submitted that while guarantee is a one-time transaction between
+the guarantor, lender and the borrower but it continues for a specified period of time.
+Therefore, it is not a continuous supply since the said su
+or recurrent basis, rather the said sup
+the contract with the lender.
+
+pply is not provided on a continuous
+ply is provided only once when the guarantor enters into
+
+6.4 Additionally, since no actual payment is made by the Applicant to the guarantors for
+extending corporate guarantees to them, the condition of periodic payments as envisaged
+under Section 2(33) of the CGST Act is Not satisfied in the present case. Therefore, it is
+submitted that providing corporate guarantee is not a con
+the provisions of Section 2(33) of CGST Act.
+
+tinuous supply as envisaged under
+
+6.5 Further, it is submitted that the date of execution of the deed of guarantee would be
+deemed to be the date of provision of corporate guarantee as per amended provision of Rule
+28(2) of the CGST Rules and deemed value @ 1% of such guarantee offered is considered to be
+
+Page 5 of 16
+
+
+deemed consideration from the date of the said amendment, where there is no consideration
+for such guarantee. It is submitted that the contract for providing corporate guarantee will
+come into force as and when a contract is entered into between the guarantor (i.e., the foreign
+group company) and the bank/financial institution. Further, it is submitted that the supply of
+guarantee would be completed as and when the guarantor entered into the contract of
+
+guarantee and made the promise to indemnify the bank in the event of default by the Applicant
+in timely repayment of loans.
+
+6.6 Hence, in the present case, it is submitted that the supply of corporate guarantee as
+received by the Applicant is not a continuous supply of service since it is not provided
+continuously or on recurrent basis over a period of time rather it can be said that the supply
+
+would be one time supply when the guarantor entered into the guarantee contract with the
+bank/financial institution.
+
+6.7 In this regard, reliance is placed on the decision of Hon’ble Mumbai Tribunal in the case
+of Bajaj Allianz General Insurance Company Ltd vs. CCE, Pune 2009 (13) S.T.R. 259 (Tri. -
+Murmbai) wherein the Hon’ble Tribunal in the context of insurance service held that the date
+of issuance of insurance policy would be the taxable event for levy of service tax. The Tribunal
+rejected the contention of the Department that the underlying supply of insurance service is a
+continuing one. This decision has been upheld by the Hon’ble Supreme Court in 2022 (64)
+G.S.T.L. 513 (S.C.). The relevant portion of the said judgement is reproduced below:
+
+“15. It can be noticed from the above re-produced provision of the
+Insurance Act that the insurer’s risk was covered only, after the premium
+payable is received by insurance company or a guarantee that it will be paid.
+This would indicate that the insurer is expected to render the services on the
+day when the premium is received by him. It is also to be noted that the
+insurance business is covered by the provisions of Insurance Act and, hence, the
+appellants herein has to issue policy in consonance with the provisions of
+Insurance Act. Appellant cannot assure the coverage of risk of an insurer, unless
+the premium payment is received in advance. In other words, the services
+rendered by the appellants as a general insurance company will take place on
+the date when appellant receives the insurance premium on the policy....”
+
+6.8 Reliance is placed on the decision given in the case of Modi-Mundipharma Pvt. Ltd. v.
+CCE, Meerut, 2009 TIOL 968 (T) wherein the Hon’ble Tribunal held that there was no
+continuous providing of information and/or know-how; the know-how was received in 1990,
+prior to introduction of “intellectual property” service as a taxable service. Though royalties in
+the form of deferred payments were remitted subsequent to introduction of the taxable
+service, in installments, the taxable service cannot be considered to have been provided after
+introduction of the provision. The relevant portion of the said judgement is reproduced below:
+
+“6. We have carefully considered the submissions from both sides. We also
+perused the agreement and the show cause notice. In the show cause notice it
+is alleged that the appellant was granted exclusive right to manufacture, use
+and sell within the territory, the preparation utilizing the know how and
+
+Page 6 of 16
+
+
+scientific and technical information and the teachings of the patents on
+payment of royalty. It is also alleged in the show cause notice that the appellant
+was receiving know-how during the disputed
+
+period. However, from the
+agreement it is noticed that there is no evidence of continuous providing of
+information, know-how in relation to the
+
+manufacture. Further, it is not
+disputed that the appellant was manufacturing and selling products in the
+brand names, Pyricontin,
+
+Diacontin, Fecontin, Metocontin, Morcontin,
+Nitrocontin, &Unicontin which are claimed to be registered brand names of the
+appellant company. In other words, they are not using the brand name of
+Mundipharma A.G. Switzerland. Receipt of know-how appears to be a one
+time affair. There is no evidence that their know-how is supplemented by
+Mundipharma A.G. Switzerland. Therefore, we are in agreement with the
+submissions on behalf of the appellant that royalty payment in the form of
+deferred payment for know-how received in 1990. Whether payment for such
+Services rendered is made in one Jump sum or made in installments or based
+on quantum of sales by the appellant on an annual basis is not relevant to
+
+consider as to when the services were actually rendered. From the available
+
+evidences on record, we accept the submission of the learned Sr. Advocate that
+
+the services were rendered in 1990 and for the said services payments were
+
+being made periodically as provided in the agreement."
+
+6.9 Further, reliance is also placed on the FAQs issued by the CBIC on Banking,
+and Stock-Brokers Sector wherein time of supply of life insurance service has been
+The said FAQ has clarified that for a new policy, the time of supply would be the time of issuance
+of the policy. Further, in respect of renewal of the policy, the FAQ has clarified that the time of
+
+supply would be the time of issuance of renewal notice for insurance premium. The relevant
+FAQ is reproduced below:
+
+Insurance
+discussed.
+
+“70. What would be the time of supply of life insurance services?
+
+Insurance policies are contracts for indemnifying any loss suffered by the
+policyholder. The policyholder is required to pay a premium at the time of
+inception of the policy. Renewal premiums are required to be paid on periodical
+basis during the tenure of the policy. For renewal of the policies the
+policyholders are allowed grace period ranging from 15 days to 30 days in
+accordance with the IRDA (Protection of Policyholders’ Interests) Regulation,
+2002. The time of supply of life insurance services to the policy holders would
+be as under: -
+
+(a) New Policy —At the time of issuance of the policy;
+
+(b) Renewal of Policy — The time of issuance of renewal notice for
+insurance premium;
+
+(c) Other charges including ULIP charges — At the time of levy or recovery of
+the charges from the policyholder.”
+
+6.10 In view of the above decisions and FAQ’
+providing corporate guarantee shall be the date
+the same is not a continuous supply as there is n
+
+s, it is submitted that the time of supply of
+
+of issuance of corporate guarantee and that
+© renewal of the said guarantee.
+
+Page 7 of 16
+
+
+6.11 In view of the above, it is submitted that as the guarantor enters into the contract once
+for providing guarantee with the banks/financial institution and there is no renewal of the said
+guarantee, therefore, the rendering of corporate guarantee is not a continuous supply.
+
+6.12 Additionally, without Prejudice to the above, it is submitted that Rule 28(2) has not
+specified the methodology of how GST under reverse charge mechanism would be paid if GST
+
+is to be paid periodically. Rather, it has just stated that the “value of supply” of providing
+
+corporate guarantee “shall be deemed to be one per cent of the amount of such guarantee
+offered.....
+
+”, From the wordings of the said Rule, it can be observed that the intention of the
+Legislature is to ensure that the value of the supply is no more than one percent of the
+guarantee offered. In the present case, if GST is paid on a periodic basis over the course of time
+when the deed of guarantee is in force, the total “value of supply” on which GST under reverse
+charge mechanism would be payable would be significantly higher than 1% of the guaranteed
+
+value, unless GST under reverse charge mechanism is paid cumulatively only on 1% of the value
+of supply over the period of the guarantee.
+
+6.13 Therefore, it is submitted that the “
+Rules cannot be greater than 1%
+Guarantee. Further, it is pertinent t
+
+value of supply” in terms of Rule 28(2) of the CGST
+of the amount of guarantee involved as per the Deed of
+0 note that paying GST under reverse charge mechanism on
+a periodical basis wherein the “value of supply” is more than 1% of the amount of guarantee
+would be highly exorbitant and against the intent of Rule 28(2) of the CGST.Rules. Therefore, it
+
+is submitted that GST under reverse charge mechanism should be payable on a one-time basis
+and not on a periodical basis,
+
+7 Without prejudice to the above, if GST is held by your good-self to be payable on
+periodical basis i.e. yearly then value of loan for which guarantee is given needs to be divided
+equally amongst the relevant years of guarantee and GST under reverse charge mechanism is
+
+to be paid considering 1% of such divided value for each year in terms of Rule 28(2) of CGST
+Rules.
+
+Pak For determining the “value of supply” of a transaction between related persons
+regarding provision of corporate guarantee, it is relevant to refer to Rule 28(2) of the CGST
+Rules. The provision provides that the value of supply of services by a supplier to a recipient
+who is a related person, by way of providing corporate guarantee to any banking company or
+financial institution on behalf of the said recipient, shall be deemed to be one per cent of the
+
+amount of such guarantee offered, or the actual consideration, whichever is higher. The
+relevant portion of the said Rule is reproduced below:
+
+28. Value of supply of goods or services or both between distinct or related
+persons, other than through an agent-
+
+(2) Notwithstanding anything contained in sub-rule (1), the value of supply
+of services by a supplier to a recipient who is a related person, by way of
+providing corporate guarantee to any banking company or financial
+institution on behalf of the said recipient, shall be deemed to be one per cent
+
+of the amount of such guarantee offered, or the actual consideration,
+whichever is higher.
+
+Page 8 of 16
+
+
+¥.2 In the present case, there is no consideration paid by the A
+companies. Hence, the deemed “value of supply”
+the one percent of the guarantee offered.
+
+pplicant to the foreign group
+of providing corporate guarantee would be
+
+7.3 Further, as submitted above, it is reiterated tha
+continuous supply of service. Therefore, the “value
+charge mechanism is leviable should be 1%
+Guarantee and should be levied at the time
+
+t providing corporate guarantee is not a
+of supply" on which GST under reverse
+of the guaranteed amount as given in the Deed of
+of issuance of such corporate guarantee,
+
+7.4 However, if GST under reverse charge mechanism has to be paid on a periodic basis,
+then it is submitted that value of loan for which guarantee is given needs to be divided equally
+amongst the relevant years of guarantee and GST under reverse charge mechanism is to be
+paid considering 1% of such divided value each year in terms of Rule 28(2) of CGST Rules.
+
+75 In this regard, it is reiterated that the “value of supply”
+CGST Rules cannot be greater than 1%
+
+Guarantee. Therefore, paying GST u
+wherein the “value of supply”
+exorbitant and against the prin
+Rule 28(2) of the CGST Rules
+
+in terms of Rule 28(2) of the
+of the amount of guarantee involved as per the Deed of
+nder reverse charge mechanism on a periodical basis
+is more than 1% of the amount of guarantee would be highly
+ciples of judicial discipline as well as being against the intent of
+
+7.6 Hence, it is humbly submitted that even if G
+be paid on periodical basis, GST under reverse char,
+of total value of loan in first year, andon 1%
+of each subsequent yearin terms of Rule
+
+ST under reverse charge mechanism is to
+ge mechanism should not be payable on 1%
+of remaining outstanding value of loan at beginning
+28(2) of the CGST Rules since the same would
+cumulatively result in the value of supply being more than 1% of the guaranteed amount and
+hence, the same would be contrary to Rule 28(2) of the CGST Rules; rather, GST under reverse
+charge mechanism should be payable on the value of loan for which guarantee is given, which
+should be divided equally amongst the relevant years of guarantee and GST under reverse
+
+charge mechanism should be paid considering 1% of such divided value each year in terms of
+Rule 28(2) of CGST Rules.
+
+Conclusion:
+
+In view of the above submission, in the present case:
+
+8.1 Corporate guarantee provided by the foreign group company in respect of loan taken
+by the Applicant, from a bank/financial institution is a one-time guarantee and hence, the same
+is not a continuous supply in terms of Section 2(33) of the CGST Act. In view of the same, GST
+under reverse charge mechanism would be payable only once, when the foreign group
+company enters into the contract for providing corporate guarantee with the banks/financial
+
+institution since there is no renewal of the said guarantee in terms of Rule 28(2) of the CGST
+Rules.
+
+8.2 Without prejudice to above, even if GST under reverse charge mechanism has to be
+paid on a periodic basis, value of loan for which guarantee is given needs to be divided equally
+
+Page 9 of 16
+
+
+amongst the relevant years of guarantee and GST under r
+
+everse charge mechanism is to be
+paid considering 1%
+
+of such divided value each year in terms of Rule 28(2) of CGST Rules.
+
+8.3 Without prejudice to above, even if GSTunder reverse charge mechanism has to be paid
+on a periodic basis,GST under reverse charge mechanism is payable on 1% of total value of loan
+
+in first year, and on 1% of only remaining outstanding value of loan at beginning of each
+subsequent yearin terms of Rule 28(2) of the CGST Rules.
+
+Cc. QUESTIONS ON WHICH THE ADVANCE RULING IS SOUGHT: -
+
+Ql. Whether GST under reverse charge mechanism on issuance of corporate guarantee is
+payable one-time or on periodical basis, considering that the guarantee has been issued only
+
+once and is valid for specified period of time without requirement of any periodical renewal in
+terms of Rule 28(2) of the CGST Rules
+
+Q2. Without prejudice to the above, if GST under reverse char
+on periodical basis, then to ascertain the value of supply:
+
+a) whether value of loan for which guarantee is given needs to be divided equally
+amongst the relevant years of guarantee and GST under reverse charge mechanism is to be
+paid considering 1% of such divided value each year in terms of Rule 28(2) of CGST Rules, or
+
+b) whether GST under reverse charge mechanism is payable on 1% of total value
+
+of loan in first year, and on 1% of only remaining outstanding value of loan at beginning of each
+subsequent year in terms of Rule 28(2) of the CGST Rules?
+
+D. PERSONAL HEARING: -
+
+ge mechanism is to be paid
+
+In the matter, personal hearing was granted to the applicant on 30.04.2024. Adv.
+Narendra Singhvi, Adv. Shrishti Agarwal and Mr. Bhuvnesh Shah Authorized Representative
+appeared for personal hearing. They reiterated the submission already made by them.
+
+E. COMMENTS OF THE JURISDICTIONAL OFFICER: -
+
+Comments received from the Deputy Commissioner State Tax Circle- Pratapgarh, Zone
+Bhilwara vide Sr.No. DC/PBH/2024/002 dated-15.04.2024 are as under: -
+
+DEPARTMENTAL VIEW
+9.1 A Corporate Guarantee is a guarantee, in which a corporate, agrees to be responsible
+for the financial obligations of, or the performance of contractual obligations by the principal
+debtor to the creditor, in the event the principal debtor fails to discharge his obligation to the
+creditor. These transactions usually include intra-group corporate guarantees amongst related
+Parties in a group entity. Rule 28(2) inserted by Notification No. 52/2023 - Central Tax dated
+26.10.2023 and Circular No. 204/16/2023-GST dated 27.10.2023 cover the case of corporate
+guarantee provided by a company to a bank /financial institution for providing credit facilities
+to another company where both the companies are related. It specifically covers the cases of
+
+Provision of corporate guarantee by a holding company to a bank / financial institution for
+securing credit facilities for its subsidiary company.
+
+52 CBIC vide Circular No. 34/8/2018-GST dated 01.03.2018 had clarified that services
+provided by Central or State Government to any business entity including PSUs by way of
+guaranteeing the loan taken from financial institutions against consideration shall be taxable.
+
+Page 10 of 16
+
+
+However, an exemption was later provided in respect of such services supplied by Central
+/State/UT Government to their undertakings or PSUs vide S. No. 34A of Notification No.
+12/2017 - Central Tax (Rate) dated 28.06.2017. Thus, by the corollary, it is construed that only
+aforementioned services by way of guaranteeing the loans taken by such undertakings or PSUs
+from banking companies and financial institutions is exempt and all other services of similar
+nature would be taxable. As per section 7(1)(c) read with Para 2 of Schedule | to the CGST Act,
+2017, any services between related Persons or distinct persons in the course or furtherance of
+business qualifies as a ‘supply’ leviable to GST even in the absence of consideration.
+Consequently, it is ample clear that the provision of corporate guarantee by a parent or holding
+company as a taxable supply even when there is no consideration for the same.
+
+9.3 Section 140 of the Indian Contract Act, 1872 provides for the right of subrogation, which
+states that once the guarantor has paid off the debt of the principal debtor, he steps into the
+shoes of the creditor and is possessed of all the rights that a creditor has against the principal
+debtor. Section 126 of the Indian Contract Act, 1872 defines a “contract of guarantee" as a
+contract to perform the promise, or discharge the liability, of a third person in case of his
+default. The person who gives the guarantee is called the "surety"; the person in respect of
+whose default the guarantee is given is called the “principal debtor", and the person to whom
+the guarantee is given is called the "creditor”. Section 127 provides that anything done, or any
+promise made, for the benefit of the principal debtor, may be a sufficient consideration to the
+surety for giving the guarantee. On an analysis of Section 126 and Section 127 of the Indian
+Contract Act, it is evident that any act done or promise made for the benefit of the principal
+debtor (for instance, to provide a loan to the principal debtor) performed by the creditor (a
+bank or a financial institution), acts as sufficient consideration to the surety (guarantor) for
+providing the guarantee to the creditor. Section 127 makes it clear beyond doubt that
+consideration to guarantor (surety) for providing the guarantee to the creditor, flows from the
+creditor (promisor) by way of accepting to advance loan to the borrower /principal debtor
+(promisee) who otherwise would not be eligible for the loan. Consideration to guarantor
+(surety) does not flow from the principal debtor in any manner. Schedule | provides that
+absence of consideration flowing between related persons will not come in the way of
+
+incidence of tax. In a contract of guarantee, consideration DOES NOT flow between related
+persons (Surety and creditor are not related persons).
+
+9.4 Where there is no actual consideration involved and GST is being paid on notional
+valuation basis, once the guarantee deed is executed by the guarantor, the activity of provision
+of guarantee is crystalized. It is only the operation of the guarantee that is continuous over a
+period. Thus, provision of corporate guarantee cannot be construed to be a continuous supply
+of service within the meaning of Section 2(33) of the CGST Act, 2017. The point of transfer of
+service is the point at which the surety binds himself to the creditor, The entire scheme of point
+of taxation (or) time of supply provisions under the GST law rests on the pillar that the supplier
+must discharge tax liability when the recipient avails the benefit of the services rendered.
+Inseparability is an exclusive service characteristic that renders it essentially impossible to
+divorce the supply or production of service from its consumption. Services, being intangible in
+nature cannot be stored prior to their consumption. Consumption of service implies obtaining
+the benefit from the service. In almost all cases, it is based on the guarantee of the surety that
+the loan is sanctioned to the principal debtor i.e., the principal debtor obtains the benefit of
+having the loan sanctioned (or obtaining loan at reduced interest rates) from the creditor,
+solely based on the guarantee provided by the surety. The same can be evidentially proven
+
+Page 11 of 16
+
+
+considering the credit characteristics of the principal debtor. Thus, the benefit of the guarantee
+accrues to the principal debtor at the time of execution of the contract of guarantee by the
+surety with the creditor. Accordingly, the date of accrual of the benefit of the guarantee to the
+principal debtor and the date of execution of the contract of guarantee by the surety with the
+creditor would always be the same. Consequently, in such corporate guarantee arrangements,
+the date of execution of the contract of guarantee would be the date of provision of service
+and as a result the time of supply would be the date of execution of the contract of guarantee.
+
+Corporate Guarantee by Foreign Holding Company to Indian Subsidiary Company: -
+
+10. Where the guarantee is given by the one entity located outside India for a borrowing
+by related entity in India, the transaction will qualify as ‘import of services' under GST. In case
+of import of services, Notification No. 10/2017- Integrated Tax (Rate) requires the person
+located in taxable territory to discharge tax liability on the same on reverse charge basis. If the
+subsidiary entities in India were not discharging GST under reverse charge on such guarantees
+till 26.10.2023, it would be essential to revisit the position and compute the value in terms of
+rule 28(1) and discharge GST under reverse charge. For all transactions post 26.10.2023,
+valuation would be as per rule 28(2) and tax liability would have to be discharged on reverse
+charge basis. In case of import of services of corporate guarantee, time of supply would differ
+from the previous propositions discussed since tax is to be discharged on reverse charge basis.
+2nd proviso to Section 13(3) provides that in case of supply by associated enterprises, where
+the supplier of service is located outside India, the time of supply shall be the date of entry in
+the books of account of the recipient of supply or the date of payment, whichever is earlier.
+Where there is no consideration involved, the time of supply would be the date of entry in the
+books of account of the recipient (Indian subsidiary). If the guarantor executes the contract of
+guarantee without consideration, in the GST regime prior to 26.10.2023, for the benefit of a
+
+related party, GST would be payable on the basis of the valuation mechanisms as per Rule 28(1)
+
+at the time of execution of the contract. Where such contract is for the benefit of a third party
+
+(without consideration), GST would be payable on the basis of valuation mechanism as
+
+prescribed by Rule 27 at the time of execution of the contract. If the guarantor executes the
+
+contract of guarantee without consideration, for the benefit of a related party in the GST
+
+regime post 26.10.2023, GST would be payable on the basis of valuation mechanism introduced
+
+by Rule 28(2) i.e., 1% of guarantee amount at the time of execution of the contract. Where
+such contract is for the benefit of a third party (without consideration), GST would be payable
+
+on the basis of valuation mechanism as prescribed by Rule 27 at the time of execution of the
+contract.
+
+Comments: -
+
+Question 2.1 This advance ruling is sought to ascertain whether GST under reverse charge
+mechanism on issuance of corporate guarantee is payable one-time or on periodical basis,
+considering that the guarantee has been issued only once and is valid for specified period of
+time without requirement of any periodical renewal in terms of Rule 28(2) of the CGST Rules.
+
+Comments: - In corporate guarantee arrangements, in case of import of services of corporate
+guarantee from foreign entity to Indian entity, time of supply as per 2nd proviso to Section
+13(3) provides that in case of supply by associated enterprises, where the supplier of service is
+located outside India, the time of supply shall be the date of entry in the books of account of
+the recipient of supply or the date of payment, whichever is earlier. Where there is no
+
+Page 12 of 16
+
+
+consideration involved, the time of supply would be the date of entry in the books of account
+
+of the recipient(indian subsidiary). The GST liability is to be paid by recipient of service on
+onetime basis at the time of supply.
+
+Question 2.2 Without prejudice to the above, this advance ruling is also sought to ascertain if
+
+GST under reverse charge mechanism is to be paid on periodical basis, then to ascertain the
+"value of supply":
+
+i) whether value of loan for which guarantee is given needs to be divided equally
+amongst the relevant years of guarantee and GST under reverse charge mechanism
+is to be paid considering 1% of such divided deemed value each year in terms of
+Rule 28(2) of CGST Rules, or
+
+ii) whether GST under reverse charge mechanism is payable on 1% of deemed total
+value of loan in first year, and on 100 of only remaining outstanding value of loan at
+beginning of each subsequent year in terms of Rule 28(2) of the CGST Rules?
+
+Comments: -The main issue raised in this question is settled by the comments given to
+
+Question 2.1 that GST under reverse charge mechanism on issuance of corporate guarantee is
+payable one-time.
+
+With regard to valuation it is construed that: -
+
+(a) If the guarantor executes the contract of guarantee without consideration, in the GST
+regime prior to 26.10.2023, for the benefit of a related party, GST would be payable on the
+
+basis of the valuation mechanisms as per Rule 28(1) of RGST/CGST rules 2017 at the time of
+execution of the contract.
+
+(b) GST under reverse charge mechanism is payable on 1% of deemed total value of loan after
+guarantees executed after 26-10-2023 as per rule 28(2) of RGST/CGST rules 2017 on one time
+basis at the time of execution of the contract, if the guarantor executes the contract of
+
+guarantee without consideration, for the benefit of a related party in the GST regime post
+26.10.2023.
+
+E. FINDINGS, ANALYSIS & CONCLUSION:
+
+1) We have carefully examined the statement of facts, supporting documents filed by the
+applicant along with the application, oral and written submissions made at the time of hearing
+and the comments of the Jurisdictional Tax Authority. We have also considered the issues
+involved, on which advance ruling is sought by the applicant, and relevant facts.
+
+2) The Applicant is a company incorporated under the Companies Act, 1956 and existing
+under the Companies Act, 2013, which is involved in the business of development and
+Operation of renewable power projects and allied activities. The Applicant is having operational
+Capacity of 45 MW in wind energy in the state of Rajasthan. The generated electricity from
+plants is sold to the State Electricity Board as per the Power Purchase Agreements (PPA).
+
+3) As a part of the shareholder activity, the overseas group companies provide corporate
+guarantee to banks and financial institutions in respect of loans taken by Applicant. The foreign
+
+group company does not charge any consideration from the Applicant for providing corporate
+guarantee.
+
+Page 13 of 16
+
+
+4) The questions on which Advance Ruling is sought by the Applicant are as under-
+
+(i) Whether GST under reverse charge mechanism on issuance of corporate
+guarantee is payable one-time or on periodical basis, considering that the
+guarantee has been issued only once and is valid for specified period of time
+without requirement of any periodical renewal in terms of Rule 28(2) of the
+CGST Rules
+
+(ii) Without prejudice to the above, if GST under reverse charge mechanism is to be
+paid on periodical basis, then to ascertain the value of supply:
+
+a) whether value of loan for which guarantee is given needs to be
+divided equally amongst the relevant years of guarantee and GST under reverse
+charge mechanism is to be paid considering 1% of such divided value each year
+in terms of Rule 28(2) of CGST Rules, or
+
+b) whether GST under reverse charge mechanism is payable on 1%
+of total value of loan in first year, and on 1% of only remaining outstanding value
+
+of loan at beginning of each subsequent year in terms of Rule 28(2) of the CGST
+Rules?
+
+5) With regard to question No.4(i) above, we find that in the instant case, the Corporate
+Guarantee is received by the Applicant i.e. subsidiary company from Foreign Group Companies
+in respect of loan taken from banks and financial institution for which Foreign Company does
+not charge any consideration from the Applicant leading to the conclusion that it is import of
+service received by the Applicant. Therefore, in order to identify the time of supply, it essential
+to discuss the provisions of Section 13(3) of CGST Act,2017 which are as under-
+
+In case of supplies in respect of which tax is paid or liable to be paid on reverse charge
+basis, the time of supply shall be the earlier of the following dates, namely:-
+
+(a) the date of payment as entered in the books of account of the recipient or the
+date on which the payment is debited in his bank account, whichever is earlier; or
+
+(b) the date immediately following sixty days from the date of issue of invoice or any
+other document, by whatever name called, in lieu thereof by the supplier:
+
+Provided that where it is not possible to determine the time of supply under clause
+
+(a) or clause (b), the time of supply shall be the date of entry in the books of account
+of the recipient of supply:
+
+Provided further that in case of supply by associated enterprises, where the supplier
+of service is located outside India, the time of supply shall be the date of entry in the
+
+books of account of the recipient of supply or the date of payment, whichever is
+earlier.
+
+6) Since in the instant case, as no consideration has been charged by the Associated
+Enterprises from the Applicant and where the supplier of service is located outside India, the
+time of supply shall be the date of entry in the books of account of the recipient of supply i.e.
+
+Page 14 of 16
+
+
+Indian subsidiary and the GST liability is to paid by the Applicant at one time basis at the time
+of supply.
+
+7) The next question raised by the Applicant is if the GST under RCM is to be paid on
+periodical basis, then in order to determine the value of supply, whether the value of loan is to
+be divided equally amongst the relevant years of guarantee and GST is to be paid considering
+1% of such divided deemed value each year or 1% of only remaining outstanding value of loan
+at the beginning of each subsequent year in term of Rule 28(2) of the CGST Rules 2017.
+
+8) In this context, we find it pertinent to mention here that as it has already explained
+
+above that GST is required to paid at one time for Import of Service, there is no question of
+payment of GST periodically.
+
+9) With regard to value of Supply, we observe that
+
+(a) If the guarantor executes the contract of guarantee without consideration, in the
+GST regime prior to 26.10.2023, for the benefit of a related party, GST would be payable on the
+
+basis of the valuation mechanisms as per Rule 28(1) of RGST/CGST rules 2017 at the time of
+execution of the contract.
+
+(b) GST under reverse charge mechanism is payable on 1% of deemed total value of
+loan after guarantees executed after 26-10-2023 as per rule 28(2) of RGST/CGST rules 2017 on
+one time basis at the time of execution of the contract, if the guarantor executes the contract
+
+of guarantee without consideration, for the benefit of a related party in the GST regime post
+26.10.2023.
+
+In view of the above discussion, we rule as under: -
+
+RULING
+
+Q1. Whether GST under reverse charge mechanism on issuance of
+
+corporate guarantee is
+payable one
+
+-time or on periodical basis, considering that the guarantee has been issued only
+
+once and is valid for specified period of time without requirement of any periodical renewal in
+terms of Rule 28(2) of the CGST Rules?
+
+Ans 1. GST under RCM is required to be paid at one time and not periodically considering that
+the guarantee has been issued only once and is valid for specified period of time without
+requirement of any periodical renewal in terms of Rule 28(2) of the CGST Rules
+
+Q2. Without prejudice to the above, if GST under reverse charge mechanism is to be paid on
+periodical basis, then to ascertain the value of supply:
+
+a) whether value of loan for which guarantee is given needs to be divided equally
+amongst the relevant years of guarantee and GST under reverse charge mechanism is to be
+paid considering 1% of such divided value each year in terms of Rule 28(2) of CGST Rules, or
+
+b) whether GST under reverse charge mechanism is payable on 1% of total value
+
+of loan in first year, and on 1% of only remaining outstanding value of loan at beginning of each
+subsequent year in terms of Rule 28(2) of the CGST Rules?
+
+Page 15 of 16
+
+
+Ans.2 As it has already been ex;
+
+plained in Answer No.1 that GST i i
+and not periodically and the val
+
+ue of Supply shall be-
+
+ms as per Rule 28(1) of RGST/CGST rules 2017 at the ti
+execution of the contract,
+
+(b) GST under reverse charge mechanism is Payable on 1%
+
+of deemed total value of
+loan after guarantees executed after 26-10-
+
+2023 as per rule 28(2) of RGST/CGST rules 2017 on
+he contract, if the guaran
+
+Ssfapon
+
+(Mahipal Singh) (Mahesh Kumar owla)
+MEMBER MEMBER
+CENTRAL TAX STATE TAX
+
+F. No, AAR/SF/2024-25/79 —O2_ so Date: v2] Ff aoay
+
+SPEED POST
+
+M/s GREEN INFRA WIND FARM ASSETS LIMITED
+
+Account no. 09, Survey no. 66/1, Maanpura Kala Village,
+Tehsil-Arnod, Pratapgarh-312619, Rajasthan
+
+Copy to: -
+
+1. The Chief Commissioner, CGST an
+
+Jaipur, Rajasthan-302005
+The Chief Commissioner, State Tax, K
+C-Scheme, Jaipur-302005.
+
+3. The Commissioner, CGST and Central Exci
+Deputy commissioner State Tax Circle- Pr;
+5. Assistant Commissioner, CGST Division-G
+
+d Central Excise (Jaipur Zone), NCRB, Statue Circle,
+arBhawan, Bhawani Singh Road, Ambedkar Circle,
+
+se Commissionerate, UDAIPUR, Rajasthan.
+atapgarh, Zone Bhilwara Divisional KarBhawan
+, Chittorgarh, Rajasthan
+
+\\ eae
+
+Page 16 of 16

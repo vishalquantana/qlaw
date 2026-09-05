@@ -1,0 +1,1135 @@
+सत्यमेव जयते
+RAJASTHAN AUTHORITY FOR ADVANCE RULING
+GOODS AND SERVICES TAX, KAR
+BHAWAN,AMBEDKAR CIRCLE,NEAR RAJASTHAN
+HIGHCOURTJAIPUR – 302005 (RAJASTHAN)
+פאורת
+ADVANCE RULING NO. RAJ/AAR/2025-26113
+Utkarsha
+Joint Commissioner
+Dr. Akhedan Charan
+Additional Commissioner
+Name and address of the
+applicant
+Member (Central Tax)
+Member (State Tax)
+राष्ट
+20
+बाजार
+M/s PEE AAR AUTOMOTIVE TECHNOLOGIES
+PRIVATE LIMITED, E-311,E-312, General
+Zone, Industrial Area Ghiloth, Shahjahanpur,
+ALWAR-301706, Rajasthan
+GSTIN of the applicant
+Clause(s) of Section 97(2)
+of CGST/SGST Act, 2017,
+under which the
+question(s) raised
+Date of Personal Hearing
+Present for the applicant
+Date of Ruling
+:
+:
+08AAECP5279P2ZK
+(a) classification of goods and/or services
+or both
+(e) determination of the liability to pay tax
+paid or deemed to have been paid
+04.09.2025
+Mr. Amit Rustagi (C.A.) and Mr Pankajj Russtagi
+(MD of the Company)
+14.11.2025
+Note 1: Under Section 100 of the CGST/RGST Act, 2017, an appeal against this
+ruling lies before the Appellate Authority for Advance Ruling, constituted under
+Section 99 of CGST/RGST Act, 2017, within a period of 30 days from the date of
+service of this order.
+Note 2: At the outset, we would like to make it clear that the provisions of both
+the CGST Act and the RGST Act are the same except for certain provisions.
+Therefore, unless a mention is specifically made to such dissimilar provisions, a
+reference to the CGST Act would also mean a reference to the same provision
+under the RGST Act. Further to the earlier, henceforth for the purposes of this
+Advance Ruling, a reference to such a similar provision under the CGST Act/RGST
+Act would be mentioned as being under the "GST Act".
+The issue raised by M/s PEE AAR AUTOMOTIVE TECHNOLOGIES PRIVATE LIMITED,
+E-311,E-312, General Zone, Industrial Area Ghiloth, Shahjahanpur, ALWAR-
+301706, Rajasthan (hereinafter "the applicant") is fit to pronounce advance ruling
+as they have deposited prescribed Fee under CGST Act and it falls under the ambit
+of the Section 97(2)given as under:
+(a) classification of goods and/or services or both
+Page 1 of 25
+
+
+(e) determination of the liability to pay tax paid or deemed to have been paid
+A. SUBMISSION OF THE APPLICANT(in brief):-
+Brief facts of the case:
+The Applicant, M/s PEE AAR Automotive Technologies Pvt. Ltd., is presently engaged
+in the manufacturing and supply of Condenser Fans and Blower. These fans & blower
+are designed for air circulation in a bus engine system and do not incorporate any
+temperature control. The manufacturing takes place entirely at the Applicant's own
+production facility at Ghiloth, Alwar, Rajasthan, which is equipped with dedicated
+machinery, motor assembly units, blade fabrication lines, and shroud fitting stations
+to ensure quality and uniformity in production.
+The condenser fan & blower produced by the Applicant has a high-capacity
+exhausting function that removes hot air from the bus condenser section or engine
+compartment and expels it to the outside atmosphere, enabling fresh air intake.
+The product is essentially a mechanical air-moving device which facilitates forced
+ventilation, thereby qualifying as an "Air Circulator." The technical nature of the
+product aligns with the scope of HSN 8414 59 30, which covers Industrial fans and
+blowers.
+1.1. Nature of Airflow and Operating Mechanism
+The condenser fan consists of three major components (1) motor, (2) shroud, and
+(3) blade, integrated into a robust assembly.
+The electric motor powers the rotation of the aerodynamic blades housed inside the
+shroud, ensuring directional airflow.
+When in operation, the fan creates a negative pressure (vacuum) in the immediate
+surrounding area, causing hot or stale air to be evacuated. This vacuum is then
+replaced with fresh ambient air, completing the air circulation cycle.
+The design is tailored for high static pressure performance to match the operational
+needs of large vehicles like buses, where airflow efficiency and durability are critical.
+The specification of good viz., Condenser Fan is tabulated as under:
+VOLTAGE
+MAX
+CURRENT
+MOTOR
+INPUT
+SPEED
+WEIGHТ
+12V DC
+24V DC
+LIFE
+11 AMPS
+132 WATTS
+2150 RPM
+2100 GMS
+5.5 AMPS
+RATING
+SHROND
+BLADE
+AIR FLOW
+1500 HRS
+@80 Deg. C
+Continuous
+Engg. Plastics Engg. Plastics 2100 m³/hr
+The image of goods viz., Condenser fan is as follows:
+Page 2 of 25
+
+
+Page 3 of 25
+
+
+PASIO
+CONDENSER FAN
+14"x8B
+Paci
+Manufactured by:
+PEE AAR AUTOMOTIVE TECHNOLOGIES PVT. LTD.
+SPECIFICATIONS
+VOLTAGE
+MAX
+CURRENT
+MOTOR
+INPUT
+SPEED
+WEIGHТ
+12V DC
+11 AMPS
+132 WATTS
+2150 RPM
+2100 GMS.
+24V DC
+5.5 AMPS
+LIFE
+RATING
+SHROND
+BLADE
+AIR FLOW
+1500 HRS@
+80 Deg. C
+CONTINUOUS
+ENGG.
+PLASTICS
+ENGG.
+PLASTICS
+2100m/hr
+@0 PASCALS
+FAN INLET
+PRESSURE
+Page 4 of 25
+
+
+Common Name of Product
+Item Name
+Part No:
+Qty.
+MRP (Incl.All Taxes)
+Made In:
+MFG BY.
+Automotive Spare Part
+SFA 14 INCH Pusher 130W 12V
+3020-ZYV-1069-0
+1*5pcs
+Rs 2583 per pc
+India
+Pee Aar Automotive
+Technologies Pvt Ltd
+Mfg Date.
+11-08-2025
+Contact No
+"9921672712
+(sushanta@peeaarr.com)"
+The image of goods viz., Blower is as follows:
+24VLLE
+Common Name of Product
+Item Name
+Part No:
+Qty.
+MRP (Incl.All Taxes)
+Made In:
+MFG BY.
+Mfg Date.
+Contact No
+Automotive Spare Part
+Blower Motor Assy 24V
+4010-TAYH-1059-0
+1*6pcs
+Rs 4771 per pc
+India
+Pee Aar Automotive
+Technologies Pvt Ltd
+11-08-2025
+"9921672712
+(sushanta@peeaarr.com)"
+Page 5 of 25
+
+
+1.2. Seeking Classification and Rate Clarity Under the GST Regime
+The advance ruling is being sought in relation to the classification of Condenser Fan
+and Blower under the GST Tariff Schedule. The Applicant is engaged in the ongoing
+manufacture and supply of this product and is seeking a ruling to determine whether
+the appropriate classification is under Heading 8414 as a Industrial fans and blowers
+(specifically under HSN 8414.59.30) or any alternate classification.
+The objective of the ruling is to obtain legal clarity and certainty on the applicable
+GST classification and tax rate for Condenser Fan and Blower, considering its
+Industrial fans and blowers.
+B. INTERPRETATION AND UNDERSTANDING OF APPLICANT ON
+QUESTION RAISED (IN BRIEF)
+1.3. Description of the Product - Condenser Fan
+The product manufactured by the Applicant is a Condenser Fan designed for use in
+heavy-duty bus rooftop and engine applications. It consists of an electric motor that
+drives aerodynamic blades housed in  a  protective shroud, creating high-volume axial
+airflow. The primary function is to force hot air away from the condenser coil or
+radiator. The condenser fan operates purely as a mechanical air-moving device and
+does not have any integrated temperature control, refrigeration, or air-conditioning
+unit within itself.
+1.4. Composition of the Product - Condenser Fan
+The condenser fan assembly comprises the following major components:
+Electric Motor: An industrial-grade, high-efficiency electric motor designed for
+continuous operation in high-temperature environments.
+Fan Blades: Precision-moulded blades, often made of reinforced engineering
+plastic or aluminium alloy, optimized for aerodynamic performance and
+reduced noise levels.
+Shroud/Housing: A circular or semi-circular enclosure made from powder-
+coated steel or polymer, guiding airflow and providing physical protection.
+Mounting Brackets/Frame: Fabricated steel components for secure attachment
+in the bus's condenser compartment or engine bay.
+Electrical Connectors and Wiring Harness: Heat-resistant cables for safe and
+efficient power transmission from the vehicle's electrical system.
+The specification of good viz., Condenser Fan is tabulated as under:
+VOLTAGE
+MAX
+CURRENT
+MOTOR
+INPUT
+SPEED
+WEIGHT
+12V DC
+24V DC
+LIFE
+1500 HRS
+@ 80 Deg. C
+11 AMPS
+5.5 AMPS
+RATING
+Continuous
+132 WATTS
+2150 RPM
+2100 GMS
+SHROND
+BLADE
+AIR FLOW
+Engg. Plastics Engg. Plastics 2100 m³/hr
+Page 6 of 25
+
+
+The image of goods viz., Condenser fan is as follows:
+
+Page 7 of 25
+
+
+PASIO
+CONDENSER FAN
+14"x8B
+Poci
+Manufactured by:
+PEE AAR AUTOMOTIVE TECHNOLOGIES PVT. LTD.
+VOLTAGE
+12V DC
+SPECIFICATIONS
+MAX
+CURRENT
+11 AMPS
+MOTOR
+INPUT
+SPEED
+WEIGHT
+132 WATTS
+2150 RPM
+2100 GMS.
+24V DC
+5.5 AMPS
+LIFE
+RATING
+SHROND
+BLADE
+AIR FLOW
+1500 HRS@
+80 Deg. C
+CONTINUOUS
+ENGG.
+PLASTICS
+ENGG.
+PLASTICS
+2100m/hr
+@0 PASCALS
+FAN INLET
+PRESSURE
+Page 8 of 25
+
+
+Common Name of Product
+Item Name
+Part No:
+Qty.
+MRP (Incl.All Taxes)
+Made In:
+MFG BY.
+Automotive Spare Part
+SFA 14 INCH Pusher 130W 12V
+3020-ZYV-1069-0
+1*5pcs
+Rs 2583 per pc
+India
+Pee Aar Automotive
+Technologies Pvt Ltd
+11-08-2025
+Mfg Date.
+Contact No
+"9921672712
+(sushanta@peeaarr.com)"
+The technical specification of the Condenser Fans with end application is as follows:
+Technical Specification of Condenser Fan
+ASSY
+SI No
+SPECIFICATION
+COMBINATI
+END APPLICATION
+ON
+A
+MOTOR:
+1
+MotorConstruction:2Parts
+2
+MotorType:PMDC24V4Pole
+3
+Motor Operating
+Voltage:9Vto26 V
+4
+Operating Temperature:-
+30DegCto+85DegC
+5
+Motor Housing Treatment:
+CED Coating(Black)
+6
+All finishing treatments:
+Complianceto2000-53-
+EC(ELV)
+7
+Bearing: Ball Bearing
+Shroud Axial
+B
+1
+Raw Material:Nylon 6 30 GF
+2
+Operating Temperature:-
+30DegCto+85DegC
+C
+FanBlade305mmPusher
+1
+Fan Type: Blowing, No of
+Blades: 5
+2
+Fan Mounting: External
+Circlip with Locking Pin.
+3
+FanBladeOD:Dia305mm
+4
+Fanmaterial:Nylon630GF
+PRODUCT
+PHOTOS
+Page 9 of 25
+
+
+5
+Operating Temperature:(-
+30DegCto+85DegC)
+D
+AXIALFAN24V
+1
+InputVoltage:26+0.2V
+2
+Operating Temperature:(-
+30DegCto+85DegC)
+3
+OperatingVoltage:9Vto26V
+4
+Assy. Combination: Motor,
+Shroud &Fan Blade
+5
+FanServiceLife:10000Hrs
+(Max.)
+6
+Assy.Weight:2.4Kg
+7
+Airflow:2750+10%m3/hratFre
+eBlowingat26VDC
+8
+LoadCurrent:≤7Ampsat26.0
+VDCFreeBlowingcondition
+9
+LoadSpeed:3000+10%RPMa
+t26.0VDCFreeBlowingconditi
+on
+10
+BalancingQualityGrade:G6.3
+asperDINISO1940-1
+11
+WiringHarnessLength:430+1
+0mm
+12
+Fusespecification:15Amp(Au
+tomotive)asperDIN72581Pa
+rt3
+13
+Noise
+atFreeBlowing@26VDC:
+<90.0dB from
+1mtrfromMicrophone
+1.5. Manufacturing Process & Technical Features of the Product - Condenser Fan
+The manufacturing process begins with sourcing raw materials such as motor
+components, blade mouldings, and sheet metal for shrouds.
+The motor assembly undergoes winding, insulation, rotor-balancing, and
+performance testing.
+Fan blades are moulded using precision tooling and tested for aerodynamic
+balance.
+The motor and blades are integrated into the shroud, followed by dynamic
+balancing to ensure vibration-free operation.
+Each assembled unit undergoes quality inspection, airflow testing (measured in
+m³/hr), and electrical safety checks.
+Technical features include:
+이
+Optimized blade pitch for maximum airflow with minimum energy
+consumption.
+Operating voltage compatibility with commercial buses (typically 24V DC or
+as per OEM requirement).
+1.6.
+Intended Use and Target Market of the Product - Condenser Fan
+The condenser fan is intended for B2B supply to bus manufacturers. Its application
+Page 10 of 25
+
+
+is specific to:
+Rooftop bus air-conditioning systems for expelling hot air from the condenser
+section.
+Engine compartment in certain heavy vehicles
+The target market consists of OEM bus manufacturers, public transport
+corporations, private fleet operators, and service workshops.
+1.7. Physical Characteristics and Packaging of the Product - Condenser Fan
+Weight varies between 4 kg to 12 kg, determined by motor size and shroud
+construction.
+The blades are lightweight yet durable, capable of withstanding prolonged high-
+speed rotation.
+Packaging is carried out in heavy-duty corrugated cartons with internal
+padding to prevent transit damage.
+foam
+Each carton is labelled with product description, HSN code, quantity, batch
+number, and manufacturing date, ensuring traceability.
+1.8. Performance Chart having Input power, output power, airflow, & specific
+energy
+consumption of the Product - Condenser Fan
+Parameter
+Value
+Unit
+Remarks
+Motor Voltage (DC)
+12
+V
+Nominal supply voltage
+Motor Current Draw
+11
+A
+At rated load
+Electrical Input Power
+132
+W
+VXA
+Estimated Motor
+Efficiency
+Typical
+for small
+DC
+80
+%
+motors
+Mechanical
+Power
+Output
+106
+W
+Input x Efficiency
+Impeller Speed
+2,150
+RPM
+At rated voltage
+Airflow Capacity
+2,100
+m³/hr
+Measured free delivery
+Specific
+Consumption
+Energy
+0.0505
+W-h/m³ Output power + airflow
+Intended Use
+Ventilation
+/Air
+Movement
+Non-domestic application
+The low output power per cubic meter indicates industrial fan characteristics, not
+household appliances.
+2. Statement of relevant facts having a bearing on the question(s) raised
+2.1. Description of the Product - Blower
+The product is a compact automotive-grade DC blower assembly designed for
+high airflow applications in demanding environments. It integrates a precision-
+engineered PMDC (Permanent Magnet Direct Current) motor with a dynamically
+balanced centrifugal blower wheel enclosed in a high-strength, thermoplastic
+Page 11 of 25
+
+
+housing.
+The blower operates efficiently across a voltage range of 9V to 26V DC, with
+optimum performance at 26V DC, delivering a free-blowing airflow of
+approximately 1070 ± 10% m³/hr. It is designed for long service life (up to 10,000
+hours) and stable operation under extreme temperature conditions from -30°C
+to +85°C.
+2.2. Composition of the Product - Blower
+The blower assembly is composed of three primary sections: the motor, the
+blower wheel, and the housing (base and cover), along with associated electrical
+and safety components.
+The motor is a 24V DC permanent magnet, 2-pole design with ball bearings,
+housed in a steel casing treated with CED black coating for corrosion resistance,
+and compliant with Directive 2000/53/EC (ELV).
+The blower base and cover are molded from 20% glass-fibre-reinforced
+polypropylene (PP 20 GF), offering high strength, dimensional stability, and
+temperature resistance. The centrifugal blower wheel, made from 15% glass-
+fibre-reinforced polyamide (PA6 15 GF), is dynamically balanced to G6.3 grade
+per DIN ISO 1940-1 for smooth operation.
+Electrical connectivity is provided through tree-blade terminals compatible with
+FASTON 6.35 x 0.8 receptacles, and the assembly incorporates a 15A automotive
+fuse as per DIN 72581 Part 3 for overcurrent protection.
+Fasteners and mounts are made of plated or stainless steel to ensure long-term
+durability and vibration resistance.
+The image of goods viz., Blower is as follows:
+240LL
+Page 12 of 25
+
+
+Common Name of Product
+Item Name
+Part No:
+Automotive Spare Part
+Blower Motor Assy 24V
+4010-TAYH-1059-0
+Qty.
+1*6pcs
+MRP (Incl.All Taxes)
+Rs 4771 per pc
+Made In:
+India
+MFG BY.
+Mfg Date.
+Contact No
+Pee Aar Automotive
+Technologies Pvt Ltd
+11-08-2025
+"9921672712
+(sushanta@peeaarr.com)"
+The technical specification of the Blower with end application is as follows:
+SI No
+SPECIFICATION
+ASSY
+COMBINATI
+ON
+PRODUCT
+PHOTOS
+END
+APPLICATION
+A
+MOTOR:
+1
+Motor Construction: 3
+Parts
+2
+Motor Type: PMDС
+24V 2 Pole
+3
+Motor Operating
+Voltage: 9V to 26 V
+4
+Operating
+Temperature: -30 Deg
+C to +85 Deg C
+5
+Motor Housing
+Treatment: CED
+Coating (Black)
+6
+All finishing
+treatments:
+Compliance to 2000-
+53-EC(ELV)
+7
+B
+Bearing: Ball Bearing
+BLOWER BASE AND
+COVER
+1
+2
+Raw Material: PP 20
+GF
+Operating
+Temperature: -30 Deg
+C to +85 Deg C
+BLOWER WHEEL:
+C
+1
+Blower Type: Blowing
+2
+Blower Mounting:
+External Circlip with D
+Evaperator Blower
+Evapcralcr Coll
+Evaporator Biower
+Page 13 of 25
+
+
+3
+4
+5
+D
+1
+2
+3
+4
+Section Mounting
+Blower Wheel OD: Dia
+105mm
+Blower Wheel
+material: PA 6 15 GF
+Operating
+Temperature: (-30 Deg
+C to + 85 Deg C)
+BLOWER ASSY:
+Input Voltage: 26 +
+0.2V
+Operating
+Temperature: (-30 Deg
+C to + 85 Deg C)
+Operating Voltage: 9V
+to 26V
+Assy. Combination:
+Motor, Blower &
+Casing
+Blower Service Life:
+10000 Hrs( Max)
+5
+6
+Assy. Weight: <2.1 Kg
+7
+Air flow: 1070 + 10%
+m3/hr at Free Blowing
+at 26V DC(Full
+8
+Load Current: < 10
+Amps at 26.0 V DC
+Free Blowing condition
+9
+10
+Balancing Quality
+Grade: G6.3 as per DIN
+SO 1940-1(Blower
+elsspamically
+Terminal( Electrical
+Interface):Tree Blade
+terminals matching
+FASTON receptacle
+6.35 X 0.8
+11
+Fuse specification: 15
+Amp(Automotive) as
+ger DIN 72581 Part
+12
+Noise at Free Blowing
+@26V DC: < 72.0 dB
+from 1mtr from
+Microphone
+2.3. Manufacturing Process & Technical Features of the Product - Blower
+The manufacturing of the blower assembly follows a structured process to
+ensure high performance, durability, and compliance with stringent automotive
+standards. Motor production begins with precision armature winding and
+commutator assembly, followed by rotor balancing and dynamic testing to
+achieve smooth operation. The motor housing undergoes CED (Cathodic Electro-
+Page 14 of 25
+
+
+Deposition) coating for corrosion resistance, after which ball bearings and the
+housing are assembled.
+Plastic component molding is carried out through injection molding of PP 20%
+glass-fibre-reinforced housing components and PA6 15% glass-fibre-reinforced
+blower wheels, each subjected to dimensional and strength testing. Blower
+wheel balancing is performed dynamically in two planes to G6.3 grade as per DIN
+ISO 1940-1 to minimize vibration. In the final assembly stage, the motor is
+mounted to the blower wheel using a D-section external circlip, the housing and
+cover are fitted, and the electrical terminals are integrated.
+Rigorous quality control follows, including airflow measurement, noise and
+vibration assessment, electrical load testing at full speed under free blowing
+conditions, and confirmation that noise levels remain below 72 dB at a distance
+of 1 meter. This combination of precision manufacturing and thorough testing
+ensures reliable performance across the blower's full operating range of 9V to
+26V DC, even under extreme temperatures from -30°C to +85°C.
+2.4. Intended Use and Target Market of the Product - Blower
+Intended Use
+The blower is designed for forced air circulation in automotive and off-highway
+vehicle HVAC (Heating, Ventilation, and Air Conditioning) systems. It is suitable
+for applications where consistent airflow, long service life, and robustness in
+harsh environmental conditions are required
+Target Market
+The blower assembly is primarily intended for integration into HVAC systems
+across a wide range of vehicle segments. Its robust design, high airflow capacity,
+and long service life make it well-suited for automotive OEMs and Tier-1
+suppliers involved in producing climate control systems for passenger and
+commercial vehicles. It is also a preferred choice for bus and coach
+manufacturers requiring reliable air circulation in large passenger
+compartments. Beyond on-road applications, the blower serves the needs of off-
+road and agricultural equipment manufacturers, where equipment operates in
+harsh environmental conditions and demands consistent ventilation
+performance. Additionally, specialty vehicle builders, such as those producing
+ambulances, defense vehicles, and custom transport solutions, benefit from its
+durability, adaptability, and compliance with stringent automotive standards.
+2.5. Performance Chart having Input power, output power, airflow, & specific energy
+consumption of the Product - Blower
+Parameter
+Unit
+Value
+Remarks
+Input Voltage
+V DC
+26.0 ±
+0.2
+Nominal
+operating
+voltage
+Load Current
+A
+<10
+Measured at free blowing
+full speed
+Input Power
+W
+260
+Voltage x Current
+Airflow
+m³/hr
+1070 ±
+Free blowing
+Page 15 of 25
+
+
+Parameter
+Unit
+Value
+Remarks
+10%
+Output Power
+W
+110-120 Based on estimated fan
+efficiency (42-50%)
+Specific
+Energy
+Consumption
+W per
+m³/hr
+~0.24
+Input power / airflow
+3. Statement containing the applicant's interpretation of law and/or facts
+3.1. Classification Principles under Customs Tariff
+3.1.1. Relevance of General Interpretative Rule 3(b)
+Under the Customs Tariff Act, 1975, classification of goods is governed by the
+General Rules for the Interpretation of the Harmonised System (HSN). As per Rule
+3(b) of these rules, classification of goods shall be determined by the component
+or material which imparts the essential character to the product. In the present
+case, the condenser fan unit is essentially an industrial fan designed to move air.
+Its defining and sole function is air circulation, and therefore its essential
+character is that of a fan, not a complete air-conditioning machine.
+3.2. Heading 8414 covers:
+Entry No. 317B of Schedule IIIl of Notification No.1/2017 dated 28.06.2017 covers
+the following items:
+"Air or Vaсиит ритps,
+air or other gas compressors and fans;
+ventilating or recycling hoods incorporating a fan,
+whether or not fitted with filters other than bicycle pumps,
+other hand pumps and
+parts of air or vacuum pumps and
+compressors of bicycle pumps."
+Hence, Entry No. 317B of Schedule III of Notification No. 1/2017 dated
+28.06.2017 specifically covers "Air or Vacuum pumps, air or other gas
+compressors and fans; ventilating or recycling hoods incorporating a fan,
+whether or not fitted with filters and parts thereof." This clearly brings stand-
+alone fan units, such as the condenser fan in question, under the purview of HSN
+Heading 8414.
+3.3. Applicability of Section XVI Notes to Parts:
+Page 16 of 25
+
+
+We invite the reference to Notes 2 to 5 of Section XVI of the Customs Tariff Act,
+1975, which are as below:
+Subject to Note 1 to this Section, Note 1 to Chapter 84 and to Note 1 to Chapter
+85, parts of machines (not being parts of the articles of heading 8484, 8544,
+8545, 8546 or 8547) are to be classified according to the following rules:
+(a) parts which are goods included in any of the headings of Chapter 84 or 85
+(other than headings 8409, 8431, 8448, 8466, 8473, 8487, 8503, 8522,
+8529, 8538 and 8548) are in all cases to be classified in their respective
+headings;
+(b) other parts, if suitable for use solely or principally with a particular kind of
+machine, or with a number of machines of the same heading (including a
+machine of heading 8479 or 8543) are to be classified with the machines of
+that kind or in heading 8409, 8431, 8448, 8466, 8473, 8503, 8522, 8529 or
+8538 as appropriate. However, parts which are equally suitable for use
+principally with the goods of headings 8517 and 8525 to 8528 are to be
+classified in heading 8517, and parts which are suitable for use solely or
+principally with the goods of heading 8524 are to be classified in heading
+8529;
+(c) all other parts are to be classified in heading 8409, 8431, 8448, 8466, 8473,
+8503, 8522, 8529 or 8538 as appropriate or, failing that, in heading 8487 or
+8548.
+Hence, as per Notes 2 to 5 of Section XVI, parts of machines are classified
+according to certain rules:
+1.
+2.
+3.
+If the goods themselves are covered under a heading of Chapter 84 or 85,
+they must be classified under that heading, rather than as a part of another
+machine.
+A condenser fan is a complete article in itself under Heading 8414, and not
+merely an undefined part, since it performs an independent function of air
+circulation.
+Only in cases where the part does not independently fall under any heading
+would it be classified alongside the parent machine. This is not the case here.
+3.4. Independent Functionality of the Condenser Fan
+The condenser fan unit serves only as a prime air mover in a ventilation or heat
+rejection system. It does not incorporate any air cooling, heating, or humidity
+control mechanism. It consists solely of a fan assembly together with an electric
+motor, functioning independently to move air across a heat exchanger. This
+independence in function means it cannot be considered as a "part" of an air-
+conditioning machine for classification under Heading 8415.
+3.5. Guidance from HSN Explanatory Notes and 'Supported Case Law'
+The HSN Explanatory Notes clarify that when components of air-conditioning
+machines are presented separately, they are classified under their own
+appropriate headings, such as 8414 for fans, regardless of their intended
+incorporation into a complete unit.
+Page 17 of 25
+
+
+The Supreme Court in CCE v. Carrier Aircon Ltd. 2006 taxmann.com 606 upheld
+this principle, ruling that such parts should be classified based on their individual
+function, not solely on their end use. Accordingly, the products merit
+classification under Chapter 8414 59 30.
+Furthermore, we submit that the end use of the product cannot be a determining
+factor. In the case of Indian Aluminium Cables Ltd. v. Union of India and
+Others 1985 (3) SCC 284, it is held that there are a number of factors which have
+to be taken into consideration for determining the classification of a product. For
+the purposes of classification, the relevant factors, inter alia, are statutory fiscal
+entry, the basic character, function and use of the goods. When a commodity
+falls within a tariff entry by virtue of the purpose for which it is put to, the end
+use to which the product is put to, cannot determine the classification of  that
+product.
+3.6. Absence of Temperature Control Functionality
+It is important to emphasize that the Applicant's condenser fan does not regulate
+or control temperature. The fan's sole purpose is to move air to aid heat
+exchange in an external system (the bus AC condenser or radiator). Therefore, it
+does not fall under HSN headings that cover air-conditioning machines,
+refrigeration equipment, or temperature-regulating devices. Instead, it aligns
+more closely with HSN codes that cover independent fans or blowers without
+additional integrated functions.
+3.7. Functional and Technical Basis for HSN 8414 Classification
+1. Design and Construction: The product consists of a motor, fan blades,
+mounting frame, and electrical connectors - all characteristic features of
+industrial axial fans.
+2.
+3.
+Operational Function: It produces directed airflow to assist heat transfer,
+without modifying the air's thermal properties by itself.
+Market Identification: In trade and technical literature, it is sold and
+recognized as a "condenser fan" or "axial fan" rather than an "air-
+conditioner" or "AC machine."
+4. Precedents in Classification: Customs rulings and WCO guidelines
+consistently place such standalone fan units in Heading 8414, even if designed
+for specific applications such as refrigeration or HVAС.
+3.8. Inapplicability of HSN 8415
+(i)
+Heading 8415 covers: "Air-conditioning machines, comprising a motor-
+driven fan and elements for changing the temperature and humidity,
+including those machines in which the humidity cannot be separately
+regulated".
+(ii) For classification under 8415, the following conditions must be met:
+1. The product must be a complete machine.
+2. It must have both a motor-driven fan and temperature/humidity
+Page 18 of 25
+
+
+changing elements (such as a compressor, evaporator, condenser coil,
+and control devices).
+3. It must be capable of operating as a self-contained system.
+(iii) The condenser fan in question does not meet these requirements because:
+1. It is not a complete air-conditioning unit; it lacks refrigerant circuits,
+evaporator, compressor, and controls.
+2. It cannot change temperature or humidity on its own.
+3. It functions solely as an air mover within a larger system.
+As such, it fails the "essential character" requirement for classification
+under Heading 8415.
+C. OUESTIONS ON WHICH THE ADVANCE RULING IS SOUGHT:
+Q-1 Whether the Condenser Fan and Blower manufactured and supplied by the
+applicant is appropriately classifiable under Heading 8414 of the GST Tariff as industrial
+fans and blowers, specifically under HSN 8414.59.30, or whether it is classifiable under
+any other heading?
+D. COMMENTS OF THE JURISDICTIONAL OFFICER: -
+Comments received from the OFFICE, Assistant Commissioner, CGST Division Behror,
+Rajasthan vide letter No. GEXCOM/TECH/GST/1636/2021-TECH-CGST-DIV-BHR-
+COMMRTE-ALWAR/ 1491 dated 24.09.2025 are as under:
+M/s PEE AAR Automotive Technologies Pvt. Ltd. (hereinafter referred to as "the
+applicant") having GSTIN: 08AAECP5279P2ZK and its factory address at E-311, E-312,
+General Zone, Industrial Area, Ghiloth, Alwar, Rajasthan 301706.
+2 Applicant has mentioned that he is presently engaged in the manufacture and
+supply of a Condenser Fan and Blower. This product has exhausting facility and removes
+the old air and fresh air is brought in from outside and does not have any temperature
+control. The same involves fans and these fans blow the air out and creates a vacuum
+in the area and this vacuum is filled by the fresh air. Hence, this allows circulation of air
+and, hence, is an Air Circulator which is covered under HSN 8414 59 30 which deals with
+Industrial Fans and blowers.
+3 Advance Ruling is being sought in respect of the classification of the said
+product under the Customs Tariff/HSN between 8414 and 8415 and the
+applicable GST rate under the CGST Act, 2017.
+Comments on the application of applicant are as under: -
+Para 1
+No comments are required.
+1.1 to 1.2 No comments are required.
+1.3
+Comments are as par para 4.8 below
+2 to 2.3 No comments are required.
+Page 19 of 25
+
+
+2.4
+A condenser fan/ blower being specialized AC parts, are distinctly used
+under chapter head 8415. It is typically a component used in AC system,
+refrigeration units or heat pumps to circulate air over the condenser coils
+for heat dissipation.
+2.5 to 2.6
+No comments are required.
+3 to 3.5
+No comments are required.
+4 to 4.7
+4.8
+No comments are required.
+The chapter heading 8415 is also covered apparatus which, although not
+fitted with a device separately regulating the humidity of the air, change
+the humidity by condensation.
+From the GSTR1 returns of the applicant filed during the F.Y. 2024-25 &
+2025-26, the recipients of goods are found to be dealing with Air
+Conditioning goods. The details are mentioned as below: -
+GSTIN of the Recipient
+08AADCT1573H3Z8
+07ADFPC9415R174
+08AATFC7021J1Z5
+18BQJPP3061L1ZE
+27AAAFP0442K1ZE
+33AEOFS5126H1Zw
+Name of the recipient
+TRANS ACNR SOLUTIONS PRIVATE LIMITED
+Kanishka Motor Air-conditioning
+COOL AIR
+A.C. SOLUTION
+PRAKASH REFRIGERATION COMPANY
+SARVA AIRCONDITIONERS
+33AHIPP2728D1ZK
+37ABEPL6736F1ZK
+27AABCS3910P2Z2
+RAMESWAR COOL SPARES
+PRINCE REFRIGERATION
+SUBROS LIMITED
+27AAFCV2265E1ZD
+VIRTUOSO OPTOELECTRONICS LIMITED
+33CZSPR4416E1Z6
+PVM POLYMERS
+08AAACH0351E1Z5
+HAVELLS INDIA LIMITED
+06AAACP1537C1ZZ
+Pranav Vikas (India) P Ltd
+From the above, it appears that applicant is manufacturing condenser fans and
+blowers and this product was used independently or jointly in Air Conditioning machine.
+Further, from the submission of the applicant, it appears that they have condenser fan/
+blower with electric motor of an output exceeding 125 W which excludes the said
+products from classification under chapter heading 84145930. Further, the applicant is
+paying tax @28% on condenser fan and blower presently.
+On the basis of the submissions of the applicant with the application, it appears
+that the applicant supplies condenser fans and Blower and maximum recipient uses
+these products in air conditioning machines/ refrigeration etc. They are Air Conditioner,
+Fridge, off-highway vehicle HVAC (Heating, Ventilation, and Air Conditioning) or motor
+vehicle cooling system etc.
+From the above facts, it appears that condenser fan and blower, attracting HSN
+8415 and liable to CGST at 14% SGST at 14% vide Sr no. 119 to Schedule IV of Notification
+1/2017-CT(R) dated 28-6-17.
+Further, no proceedings relating to the matter of classification of the said product
+namely condenser fan and blower is pending as on date.
+Page 20 of 25
+
+
+E. PERSONAL HEARING:
+In the matter, personal hearing was granted to the applicant on 04.09.2025.
+Mr. Amit Rustagi (C.A.) and Mr Pankajj Russtagi (MD of the Company)
+Authorized Representative appeared for personal hearing. They reiterated the
+submission already made by them.
+F. DISCUSSIONS AND FINDINGS
+the
+the
+1. We have carefully examined the statement of facts, the application filed by
+applicant, the submissions made during the personal hearing, and
+comments from the jurisdictional Tax Authority. We also considered the
+issues involved for which the advance ruling is sought, along with other
+relevant facts and documents placed on record.
+2. The issue raised by M/s. PEE AAR AUTOMOTIVE TECHNOLOGIES
+PRIVATE LIMITED, E-311, E-312, General Zone, Industrial Area Ghiloth,
+Shahjahanpur, ALWAR-301706, Rajasthan is fit to pronounce an advance
+ruling as it falls under the ambit of Section 97(2)(a) of the CGST Act, 2017
+given as under:-
+"Classification of any goods or services or both"
+3. We have noted that the product described as a "Condenser Fan" is designed
+for use in heavy-duty bus rooftop and engine applications. It consists of an
+electric motor that drives aerodynamic blades housed in a protective shroud,
+creating high-volume axial airflow. Its primary function is to force hot air
+away from the condenser coil or radiator.
+The applicant has claimed that this product is marketed and recognised in
+trade parlance as an industrial fan/axial fan and not as an air-conditioning
+machine. The technical specifications provided (24V DC PMDC motor.
+305mm fan blade, airflow capacity 2750 ± 10% m³/hr, service life up to
+10,000 hours) and but described its end application as B2B supply to bus
+manufacturers. Its application is specific to (a) Rooftop Bus Air-Conditioning
+systems for expelling hot air from the condenser section and (b) Engine
+compartments in certain heavy Vehicles. They have also submitted
+photograph (Photograph-1) of the end application/use of their product namely
+"Condenser Fan" manufactured and supplied by them which is as under:
+Page 21 of 25
+
+
+alamy
+alany
+alamy
+Photograph-1
+alamm
+been
+Photograph-2
+We have also gone through the contents available on various website and it has
+found that the product "Condenser Fan" is an essential component of a
+Bus/Truck Air Conditioner Cooling system. This fan plays a crucial role in cooling
+down the condenser, which is responsible for releasing the heat that is extracted
+from either Air Conditioner(Photograph-1) or Engine (Photograph-2).
+4. Similarly, it is observed that the product described as a "Blower" is a compact
+automotive-grade DC blower assembly designed for high airflow applications in
+demanding environments. It delivers a free-blowing airflow and is designed for
+long service life under extreme temperature conditions.
+The applicant has claimed that the intended use of this product is for forced air
+circulation in automotive and off-highway vehicle HVAC systems (Heating,
+Ventilation, and Air Conditioning). It is integrated into HVAC systems across a
+wide range of vehicle segments and is supplied mainly to OEMs and Tier-1
+suppliers involved in producing climate control systems for passenger
+commercial vehicles. They have also submitted photograph (Photograph-3 & 4) of
+and
+Page 22 of 25
+
+
+the end application/use of their product namely "Blower" manufactured and
+supplied by them which is as under:
+Evaporator Blower
+Evaporalor Coil
+Evaporator Blower
+Photograph-3
+Photograph-4
+5. Under the Customs Tariff (Chapter 84 and 87), the following headings
+relevant;
+are
+HSN 8415- Air-conditioning machines, comprising a motor-driven fan and
+elements for changing the temperature and humidity, including those machines in
+which the humidity cannot be separately regulated; parts thereof.
+8415 10 -Of a kind designed to be fixed to a window, wall, ceiling or floor,
+self-contained or "split-system"
+8415 10 10 - Window or wall types, self-contained or split-system
+Page 23 of 25
+
+
+8415 10 90 -Other
+8415 20 -Of a kind used for persons in motor vehicles
+8415 20 10
+-For buses
+8415 20 90 -Other
+8415 81 - Incorporating a refrigerating unit and a valve for reversal of  the
+cooling or heat cycle ("reversible heat pumps")
+8415 81 10 -Sub-types
+8415 81 90 -Other
+8415 82 - Incorporating a refrigerating unit but without a valve for reversal
+of  the cooling-heat cycle
+8415 82 10 -Split air-conditioners
+8415 82 90 -Other
+8415 83 - Not incorporating a refrigerating unit but incorporating elements
+for changing temperature and humidity
+8415 83 10 - Split air-conditioners
+8415 83 90 -Other
+8415 90 -Parts
+6. Note 2 (b) to Section XVI provides that parts which are goods included in any
+heading of  Chapter 84 or 85 are classified in that heading; other parts suitable for
+use solely or principally with a particular kind of machine are to be classified with
+that machine.
+7. The "Condenser Fan" and "Blower" manufactured and supplied by the applicant,
+when supplied as a component of or for use with air-conditioning machines such
+as bus rooftop air-conditioning systems, is classifiable under Heading 8415 90
+(Parts of air-conditioning machines). Even the applicant himself has described its
+application is specific to rooftop bus air-conditioning systems for expelling hot air from
+the condenser section as well as engine compartment in certain heavy vehicles.
+Even they have emphasised that blower is designed for forced air circulation in
+automotive and off-highway vehicle HVAC (Heating, Ventilation, and Air
+Conditioning) systems and is primarily intended for integration into HVAC
+systems across a wide range of vehicle segments which make it well-suited
+automotive OEMs and Tier-1 suppliers involved in producing climate control
+systems for passenger and commercial vehicles.
+for
+8. In view of the foregoing facts, circumstances and provisions of the GST law, we
+pass the following ruling:
+Page 24 of 25

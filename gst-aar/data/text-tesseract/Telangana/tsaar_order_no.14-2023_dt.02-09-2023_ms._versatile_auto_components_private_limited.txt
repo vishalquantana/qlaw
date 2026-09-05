@@ -1,0 +1,201 @@
+1 
+ 
+ 
+ 
+ 
+ 
+TELANGANA STATE AUTHORITY FOR ADVANCE RULING 
+CT Complex, M.J Road, Nampally, Hyderabad-500001. 
+(Constituted under Section 96(1) of TGST Act, 2017) 
+  Present:         
+ 
+       
+Sri S.V.  Kasi Visweswara Rao, Additional Commissioner (State Taxes) 
+Sri Sahil Inamdar (I.R.S),   Additional  Commissioner (Central Taxes) 
+ 
+A.R.Com/10/2019                                                                              Date:02.09.2023 
+ 
+TSAAR Order No.14/2023 
+ 
+[ORDER UNDER SECTION 98(4) OF THE CENTRAL GOODS AND SERVICES TAX ACT, 2017 
+AND UNDER SECTION 98(4) OF THE TEALANGANA GOODS AND SERVICES TAX ACT, 
+2017.] 
+****** 
+1. 
+M/s. Versatile Auto Components Private Limited Plot No.262, TSIIC Industrial Park, Phase 3, 
+Pashamylaram, Patancheru Mandal, Sangareddy, Telangana-502 307 (36AADCV2331F1ZN) has 
+filed an application in FORM GST ARA-01 under Section 97(1) of TGST Act, 2017 read with Rule 
+104 of CGST/TGST Rules. 
+ 
+2. 
+At the outset, it is made clear that the provisions of both the CGST Act and the TGST Act are the 
+same except for certain provisions. Therefore, unless a mention is specifically made to any 
+dissimilar provisions, a reference to the CGST Act would also mean a reference to the same 
+provision under the TGST Act. Further, for the purposes of this Advance Ruling, the expression 
+‘GST Act’ would be a common reference to both CGST Act and TGST Act. 
+ 
+3. 
+It is observed that the queries raised by the applicant fall within the ambit of Section 97 of the 
+GST ACT. The Applicant enclosed copies of challans as proof of payment of Rs. 5,000/- for SGST 
+and Rs. 5,000/- for CGST towards the fee for Advance Ruling. The Applicant has declared that 
+the questions raised in the application have neither been decided by nor are pending before any 
+authority under any provisions of the GST Act. The application is therefore, admitted. 
+ 
+4. 
+BRIEF FACTS OF THE CASE: 
+4.1 The applicant M/s. Versatile Auto Components Pvt Ltd is a manufacturer of low speed 
+electric two wheeler (below 250 Watts/0.25 KV) and spares & accessories for the same. The 
+applicant has approached the Advance Ruling Authority for the clarifications mentioned in the 
+questions below. Hence the application. 
+ 
+4.2  Company Background 
+M/s. Versatile Auto Components Private Limited ” is manufacturers and suppliers of Automobile 
+Accessories. Fabricated from superior quality raw materials & engineered to perfection, our 
+products have gained huge appreciation from our customers for their salient attributes like 
+Corrosion Resistance, Durable, Dimension Accuracy, Protection, and Sturdiness etc. 
+ 
+5. 
+QUESTIONS RAISED: 
+The applicant would like to get clarification regarding which HSN code does our product fall 
+1. HSN code 87 - electrically operated vehicles, including two & three wheeled electric 
+vechiles-12% GST (CGST-6, SGST -6% ) or (IGST 12%). 
+2. HSN code 87031010-electrically operated vehicles, including three wheeled electric motor 
+vehicle. 
+3. Electrical & mechanical spare parts of electric vehicle. 
+
+
+2 
+ 
+ 
+ 
+6. 
+PERSONAL HEARING: 
+The Authorized representatives of the unit namely Sri. K.Vamsi, CA & AR, chartered accountant 
+& authorized representative attended the personal hearing held on 20.03.2023. The authorized 
+representatives reiterated their averments in the application. Further, the Authorised 
+Representative/Applicant M/s. Versatile Auto Components Private Limited, Sangareddy, 
+reiterated that their case /Similar Case is not  pending in any proceedings in the applicant’s case 
+under any of the provision of the Act and have not already decided in any proceedings in the 
+applicant’s case under any of the provisions of the Act. 
+ 
+7. 
+DISCUSSION & FINDINGS: 
+The Notification No. 01/2017 Dt: 28.06.2017 as updated upto 01.05.2022 enumerates 
+electrically operated vehicles in Schedule-I as follows: 
+  
+S.No 
+Chapter/Heading/Sub
+-Heading/Tariff item 
+Description of Goods 
+242A 
+87 
+Electrically operated vehicles, including two and three 
+wheeled electric vehicles. Explanation .- For the purposes 
+of this entry, “Electrically operated vehicles” means 
+vehicles which are run solely on electrical energy derived 
+from an external source or from one or more electrical 
+batteries fitted to such road vehicles and shall include E- 
+bicycles.  
+ 
+Further the Circular No.179/11/2002-GST in f.no. CBIC-190354/172/2002-TRU of Govt. of India 
+Ministry of Finance clarified the rate and HSN code of electric vehicles as follows: 
+ 
+“2.2. The explanation of ‘Electrically operated vehicles’ in entry 242A of Schedule I of notification 
+No. 1/2017-Central Tax (Rate) reads as: ‘Electrically operated vehicles which run solely on 
+electrical energy derived from an external source or from one or more electrical batteries fitted 
+to such road vehicles and shall include E-bicycles.’ 
+ 
+2.3. As is evident from the explanation above, electrically operated vehicle including three 
+wheeled electric vehicle means vehicle that runs solely on electrical energy derived from an 
+external source or from electrical batteries. Therefore, the fitting of batteries cannot be 
+considered as a concomitant factor for defining a vehicle as an electrically operated electric 
+vehicle. 
+ 
+2.4. It is also pertinent to state that the WCO’s HSN Explanatory notes have also not considered 
+batteries to be a component, whose absence changes the essential character of an incomplete, 
+unfinished or unassembled vehicle. 
+ 
+2.5. Also, the HSN explanatory notes for Chapter 87 have clearly stated that Motor Chassis fitted 
+with cabs i.e. the chassis fitted with cabin body falls under 87.02 to 87.04 and not in heading 
+87.06. 
+ 
+2.6. In view of the above, it is clarified that electrically operated vehicle is to be classified under 
+HSN 8703 even if the battery is not fitted to such vehicle at the time of supply and thereby 
+attract GST at the rate of 5% in terms of entry 242A of Schedule I of notification No. 1/2017-
+Central Tax (Rate)” 
+ 
+In view of the above clarification, all electrically operated vehicles including three wheeled 
+electric vehicles are classified under HSN 8703 for the purpose of taxation under GST.  
+ 
+Further the above entry does not have any reference to electrical and mechanical spare parts of 
+the electrical vehicle. The Hon’ble Supreme Court of India (5 Member constitution bench) in VVS 
+Sugars Vs Government of AP (1999) 114 STC 47 held that ‘A taxing statute must be interpreted 
+as it reads, with no additions and no subtractions on the ground of legislative intent or 
+otherwise’. Therefore it cannot be inferred that parts of electrical vehicles fall under the above 
+
+
+3 
+ 
+HSN code. Hence the goods “Electrical and Mechanical spare parts of electrical vehicles” fall 
+under S.No 453 of Schedule-III of Notification no. 01/2017 dt:28.06.2017 i.e., “Goods which are 
+not specified in Schedule I, II, IV, V or VI” falling in any chapter of HSN. 
+ 
+8. 
+In view of the foregoing, we rule as follows: 
+The applicant would like to get clarification regarding which HSN code does our product fall 
+Questions 
+Ruling 
+1. HSN code 87 - electrically operated vehicles, 
+including two & three wheeled electric vechiles-
+12% GST (CGST-6%, SGST -6% ) or (IGST 
+12%) 
+HSN code 8301 and S.No. 242A of Schedule 
+–I of Notification No. 01/2017 dt:28.06.2017  
+as 
+amended 
+by 
+notification 
+12/2019 
+dt:31.07.2019 with effect from 01.08.2019. 
+2. HSN code 87031010-electrically operated 
+vehicles, including three wheeled electric motor 
+vehicle. 
+ 
+HSN code 8301 and S.No. 242A of Schedule 
+–I of Notification No. 01/2017 dt:28.06.2017  
+as 
+amended 
+by 
+notification 
+12/2019 
+dt:31.07.2019 with effect from 01.08.2019. 
+3. Electrical & mechanical spare parts of 
+electric vehicle. 
+ 
+Electrical & mechanical spare parts of 
+electric vehicle are not covered by any 
+description in the Notification No. 01/2017. 
+Therefore they fall under residual entry S.No 
+453 of Schedule-III of Notification no. 
+01/2017 dt:28.06.2017 i.e., “Goods which 
+are not specified in Schedule I, II, IV, V or 
+VI” falling in any chapter of HSN. 
+ 
+ 
+[Under Section 100(1) of the CGST/TGST Act, 2017, any person aggrieved by this order 
+can prefer an appeal before the Telangana State Appellate Authority for Advance Ruling, 
+Hyderabad, within 30 days from the date of receipt of this Order] 
+ 
+To 
+M/s. Versatile Auto Components  
+Private Limited Plot No.262,  
+TSIIC Industrial Park, Phase 3,  
+Pashamylaram, Patancheru Mandal,  
+Sangareddy, Telangana-502 307. 
+ 
+Copy submitted to : 
+1. The Commissioner (State Tax) for information. 
+2. The Commissioner (Central Tax), Medchal Commissionerate, III Floor, Medchal GST Bhavan, 11-4-
+649/B, Lakdikapul, Hyderabad – 500 004 
+Copy to:  
+3. The Assistant Commissioner (ST), Sangareddy-I Circle

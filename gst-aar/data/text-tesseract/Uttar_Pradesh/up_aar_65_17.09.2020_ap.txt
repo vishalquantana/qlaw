@@ -1,0 +1,363 @@
+AUTHORITY FOR ADVANCE RULING
+GOODS AND SERVICE TAX
+UTTAR PRADESH
+4, Vibhuti Khand, Gomti Nagar, Lucknow-
+
+ADVANCE RULING NO. UP ADRG €§ /2020 DATED | 1.092020
+PRESENT:
+
+1. Shri Abhishek Chauhan
+Joint Commissioner, Central Goods and Service Tax
+
+Audit Commissionerate, Lucknow ssi Member (Central Tax)
+2. Shri DK Verma
+Joint Commissioner, State Goods and Service Tax ......... Member (State Tax)
+L Name of the Applicant M/s Apex Powers (Legal Name Anupam
+Varshney)
+2. GSTIN or User ID O9AFIPV1167J1ZX
+3. | Date of filing of Form GST ARA-01 16.06.2020
+4. Represented by 1. Ms. Anupam Varshney (Proprietor)
+2. Mr. AbhayAgarwal (C.A.)
+D2 Jurisdictional Authority-Centre Range-Hathras, Division-Aligarh
+6. Jurisdictional Authority-State Mahamaya Nagar (Hathras), Sector-1
+ve Whether the payment of fees Yes
+discharged and if yes, the amount IBKL20010900321831 &
+CIN IBKL20060900160674
+
+ORDER UNDER SECTION 98(4) OF THE CGST ACT, 2017 & UNDER SECTION 98
+(4) OF THE UPGST ACT, 2017
+
+1: M/s Apex Powers (Legal Name Anupam Varshney), Hathras, Uttar Pardesh — 204101
+(here in after referred to as the applicant) is a registered assessee under GST having GSTN:
+O9AFIPV1167J1ZX.
+
+2. The applicant is engaged in manufacture of Lead Acid Battery. As per the applicant-
+(a) these batteries can be used in solar modules, inverter and E-rickshaw.
+(b) one of their product is solar power generating module which is a
+combination of solar battery, solar panel, and charge controller.
+(c) solar power generating system converts solar power into useable AC and
+DC currents.
+(d) | DC current stored in solar batteries can be directly used into street lights.
+(e) DC current stored in solar batteries can also be used in daily home appliances
+by converting DC current into AC current with help of invertors.
+
+ii Dw: a |
+
+
+( Government of India has defined solar power generating system under
+chapter 85 for which 5% rate has been prescribed and no separate four digit HSN has
+been defined under Chapter 85.
+
+Gj) they had arrived at HSN 8541 as per industry practice followed.
+
+3. The applicant has sought advance ruling on following questions-
+(1) | Under Chapter 85 what is the correct 4 digit HSN code classification for
+solar power generating system?
+(2) What constitutes solar power generating system under chapter 85, what
+are the various components and technical requirements that together constitutes solar
+power generating system under chapter 85?
+
+4. As per declaration given by the applicant in Form ARA-01, the issue raised by the
+applicant is neither pending nor decided in any proceedings under any of the provisions of the
+Act, against the applicant.
+
+5; The application for advance ruling was forwarded to the Jurisdictional GST Officer to
+offer their comments/views/Vverification report on the matter. The Deputy Commissioner,
+CGST & Central Excise Division, Aligarh submitted his views vide his C.No.V(30)Tech/Adv
+Ruling/21/Alg/2019 dated 05.08.2020 and also informed that no proceeding is pending or has
+been decided against the applicant’s case by this office. The views contained in the said
+report dated 05.08.2020 are as under-
+
+Question No.1:-What constitutes solar power generating system under chapter 85, — what
+are the various components and technical requirements that together constitutes solar power
+generating system under chapter 85?
+
+11 In this regard, it is submitted that the term “Solar Power Generating System” has not
+been defined under GST Act. However, it is learnt that the similar issue has been decided in
+the case of M/s Fermi Solar Farms Private Limited passed by AAR Maharashtra Order No.
+GST-ARA-03/2017/B-07 dated 03.03.2018 (available on _ http://gstcouncil.gov.in/rulings-
+by-advance-authority) where the Hon’ble AAR has stated the meaning of term “Solar Power
+Generating System” and applicability when all goods (including PV Modules) are supplied.
+It is noted in said ruling that:
+
+1.2. “Solar Power Generating System” are the system which absorb sun light and
+Convert it into electricity which can be put to further use;
+
+1.3. that “Solar Power Generating System” has been defined under solar power-Grid
+connected ground mounted and solar rooftop metering regulation 2014 issued by State of
+Goa. “Solar Power Generating System” as per the regulation means “a grid connected solar
+generating station including the evacuation system upto the grid interconnection point. ”’;
+
+a.
+
+
+1.4 that typically the term system has wide ambit. As per Oxford dictionary the
+definition of term system “a complex whole, a set of things working together as a mechanism
+or interconnecting network.” Similarly, the system is defined in Chamber’s 20" Century
+dictionary as “anything framed of parts placed together or adjusted into a regular and
+connected whole.” Hence, system typically includes various components/part which are
+manufactured/assembled together for preforming a system;
+
+1.5. that under erstwhile law also “Solar Power Generating System” have not been
+defined. However, under erstwhile excise law, various exemptions were extended to non
+conventional energy device, which included “Solar Power Generating System’”- list 8 of
+Notification No. 12/2012-Central Excise dated 17.03.2012;
+
+1.6 that since, “Solar Power Generating System” has not been defined in present law in
+order to understand the ambit of the said system, judicial pronouncement under the excise
+law can be examined;
+
+1.7 that reference is made to judgment of Delhi Tribunal in the case of Rajasthan
+Electronics and instrument limited v/s Commissioner of Central Excise Jaipur, wherein it
+was held “7. The Adjudicating Authority admitted the fact that the Solar Photovoltaic module
+is a “Solar Power Generating System”; .... that other parts are only panel housing consisting
+of controller and switches. Hence the whole system is a “Solar Power Generating System”
+and is entitled for the benefit of Notification;
+
+1.8 that in the case of Bangalore Tribunal, in the case of BHEL v/s Commissioner of
+Central Excise, Hyderabad, it was held that “in the present case the appellant has claimed
+exemption in respect of Inverter Charger Card as “Solar Power Generating System”. The
+appellant actually manufactured SPV Lantern. The above Lantern required electricity for its
+working. It is possible to convert solar energy to electricity with the help of inverter charger
+manufactured by the appellant. The Deputy General Manager has certified that the inverter
+merger constitute “Solar Power Generating System”, as it performs the function of
+generating the required high frequency AC power from sun light with the help of SPV module
+and supplying it to the compact fluorescent lamp of a solar lantern. In view of the above
+expert opinion, they hold that impugned item can be considered as solar power generating
+system as is entitled for the benefit of exemption Notification and allowed the appeal with
+consequential relief;
+
+1.9 that in M/s Phenix Construction Technology v/s Commissioner of Central Excise and
+Service tax Ahamadabad -II [ 2017-TIOL-3281-CESTAT-AHM] the question under
+consideration was whether the structure and the part of structure cleared for initial setting
+of solar power plant are eligible for the benefit of | Notification No. 15/2010-CE. The point
+of dispute in the said case law was that whether the aforesaid goods qualify as component of
+the solar power plant. Hon’ble CESTAT has decided that the item required for initial setting
+up of the plant would be qualify as component; hence the benefit of exemption would extend
+to such item also as per “Solar Power Generating System.”;
+
+re 1
+
+
+1.10 that in Jindal Strips Limited v/s Collector of Customs Bombay [2002-TIOL-347-
+CESTAT-Del-LB] CESTAT has observed that component means a constituent _ part or
+element. It was also observed that component means one of the parts or sub-assemblies, of
+which a manufactured product is made up and into which it may be resolved and includes an
+accessory (or attachment);
+
+1.11 that Ministry of New and Renewable Energy (MNRE) in various instances has also
+approved entire BOQ consisting of various parts e.g. cables, module, monitoring structures,
+spares etc. as essentials of “Solar Power Generating System” and hence the concessions
+applicable have been extended to such parts drawing a corollary, concessional rates of 5%
+should be applicable on all the goods approved under BOQ by MNRE as well.
+
+24 Further, the Hon’ble AAR of Uttarakhand (Goods and Service Tax) in the case of
+M/s Eapro Global Limited, Roorkeevide their order No. 07/2018-19 dated 28.08.2018
+(available on http://gstcouncil.gov.in/rulings-by-advance-authority) has stated that-
+
+21 There are four main components to a solar power generating system as _—_ under:
+
+(i) Solar panels: The main part of a solar power generating system is the solar
+panel. Solar panels contain solar sales. Solar sales sometimes called photovoltaic
+cells, convert the energy of sun into electricity.
+
+(ii) Inverters: The electricity produced in a solar panel is DC. Electricity we get
+jrom the grid supply is AC. So it is required to install an inverter to convert DC of
+solar system to AC of same level as grid supply. In off grid system the inverter is
+directly connected across the battery terminals so that DC coming from the batteries
+is first converted to AC then fed to the equipment. In grid tie system the solar panel
+is directly connected to inverter and this inverter then feeds the grid with same
+voltage and frequency power.
+
+(iii) | Controller: This is not desirable to overcharge and under discharge a lead
+acid battery. Both overcharging and under discharging can badly damage the
+battery system. To avoid these both situations a controller is required to attach with
+the system to maintain flow of current to and fro the batteries.
+
+(iv) Battery: The battery is charged by solar electricity and this battery then
+feeds a load directly or through an inverter. In this way variation of power quality
+due to variation of sunlight intensity can be avoided in solar power system instead
+an uninterrupted uniform power supply is maintained.
+
+2.2. The Hon’ble AAR also relied upon the above referred case laws as mentioned in the
+case of M/s Fermi Solar Farms Private Limited passed by AAR Maharashtra Order No.
+GST-ARA-03/2017/B-07 dated 03.03.2018 and ordered that:
+Supply of Solar Inverter, Controller, Battery and panels would covered under
+“Solar Power Generating System” as a whole in terms of SI No. 234 of Schedule-l of
+the Notification No. 01/2017-Central Tax (Rate) dated 28.06.2017 when supplied for
+said purpose and applicable rate of GST on such supply will be 5% [2.5%
+CGST+2.5%SGST] and such supply will be treated as composite supply.
+
+
+In view of above,this office is of opinion that the combination of solar panel, solar
+batteryand charge controller may qualify as “Solar Power Generating System”
+
+3. Question No.2:- Under Chapter 85 what is the correct 4 digit HSN code
+classification for solar power generating system?
+
+3.1 In this regard, it is submitted that, since, there is no specific heading available for
+“Solar Power Generating System” in HSN, therefore, the classification upto 4 digit is not
+readily available. Moreover, as per Notification No.1/2017-Central Tax (Rate) dated
+28.06.2017 w.e.f 01.07.2017 the “Solar Power Generating System” has been mentioned
+along with other renewable energy devices under Chapter 84 or 85.
+
+3.2. Regarding 4 digit HSN code it is submitted that as per Customs export data the 4 digit
+HSN code used for Solar power generating system/component is_ either 8541 or 8543
+depending upon the actual items.
+
+6. The applicant was granted a personal hearing on 03.09.2020 which was attended by
+Ms. AnupamVarshneey and Shri Abhay Agarwal, Charted Accountant through video
+conferencing during which they reiterated the submissions made in the application of advance
+ruling and relied on advance ruling given by authority of advance ruling in case of M/s Eapro
+Global Limited.
+
+DISCUSSION AND FINDING
+
+7. At the outset, we would like to make it clear that the provisions of both the CGST Act
+and the UPGST Act are the same except for certain provisions. Therefore, unless a mention is
+specifically made to such dissimilar provisions, a reference to the CGST Act would also
+mean a reference to the same provision under the UPGST Act. Further to the earlier,
+henceforth for the purposes of this Advance Ruling, a reference to such a similar provision
+under the CGST Act / UPGST Act would be mentioned as being under the ‘CGST Act’.
+
+8. We have gone through the submissions made by the applicant and have examined the
+explanation submitted by them. At the outset, we find that the issue raised in the application
+is squarely covered under Section 97(2)(a) of the CGST Act 2017 being a matter related to
+classification of goods. We therefore, admit the application for consideration on merits.
+
+9. We observe that the applicant has sought advance ruling on the issue Under Chapter
+85 what is the correct 4 digit HSN code classification for solar power generating system? The
+applicant has arrived the classification of the same under Chapter 8541 as per industry
+practice and the jurisdictional officer has opined that classification of the same falls under
+chapter 8541 or 8543 depending upon the actual use. As per Customs Tariff Act, 1975 the
+HSN 8541 has been defined as under:
+
+8541- DIODES, TRANSISTORS AND SIMILAR SEMI-CONDUCTOR DEVICES;
+PHOTO SENSITIVE SEMI-CONDUCTOR DEVICES; INCLUDING PHOTO VOLTAIC
+CELLS, WHETHER OR NOT ASSEMBLED IN MODULES OR MADE UP INTO
+
+I ape :f
+
+
+PANELS; LIGHT EMITTING DIODES; (LED); MOUNTED PIEZO-ELECTRIC
+
+CRYSTALS.
+854140- Photosensitive semi-conductor devices, including photo voltaic cells whether or not
+assembled in modules or made up into panels; light-emitting diodes (LED).
+
+85414012- Solar cells, assembled in modules or made up into panels
+
+10. As per Rule 2b of General Rules for interpretation of the first schedule (Import
+Tariff), any reference in a heading to a material/substance shall be taken to include a
+reference to mixtures or combinations of that material or substance with other materials or
+substances. As per Rule 3a of the said Rules of interpretation, the heading which provides the
+most specific description shall be preferred to heading having more: general description.
+According to Rule 3b of the Rules of interpretation, in case Rule 3a is not applicable, the
+goods shall be classified as if they consisted of the material/ raw material which give their
+essential character. In the applicant’s case, the essential character to Solar Power Generating
+System is Solar Panel consisting of multiple solar cells as also held by Advance Ruling
+Authority of Uttarakhand (supra) in case of M/s Eapro Global Limited, Roorkee. Further,
+Chapter Note 9 of Chapter 85 states that for the classification of the articles defined in this
+Note, headings 8541 and 8542 shall take precedence over any other heading in this Schedule,
+except in the case of heading 8523. As such, in our view, the four digit HSN of Solar Power
+Generating System is 8541.
+
+11. We find that the second question of the applicant is what constitutes solar power
+generating system under chapter 85, what are the various components and technical
+requirements that together constitutes solar power generating system under chapter 85? We
+find that the AAR of Uttarakhand (Goods and Service Tax) in the case of M/s Eapro Global
+Limited, Roorkee vide their order No. 07/2018-19 dated 28.08.2018 relying on various case
+laws has held that-
+
+There are four main components to a solar power generating system as under:
+
+(i) Solar panels: The main part of a solar power generating system is the solar
+panel. Solar panels contain solar sales. Solar sales sometimes called photovoltaic
+cells, convert the energy of sun into electricity.
+
+(ii) Inverters: The electricity produced in a solar panel is DC. Electricity we get
+from the grid supply is AC. So it is required to install an inverter to convert DC of
+solar system to AC of same level as grid supply. In off grid system the inverter is
+directly connected across the battery terminals so that DC coming from the batteries
+is first converted to AC then fed to the equipment. In grid tie system the solar panel
+is directly connected to inverter and this inverter then feeds the grid with same
+voltage and frequency power.
+
+
+(iii) Controller: This is not desirable to overcharge and under discharge a lead
+acid battery. Both overcharging and under discharging can badly damage the
+battery system. To avoid these both situations a controller is required to attach with
+the system to maintain flow of current to and fro the batteries.
+
+(iv) Battery: The battery is charged by solar electricity and this battery then
+feeds a load directly or through an inverter. In this way variation of power quality
+due to variation of sunlight intensity can be avoided in solar power system instead
+an uninterrupted uniform power supply is maintained.
+
+12. The Ministry of New and Renewable Energy (MNRE) in various instances has also
+approved entire BOQ consisting of various parts e.g. cables, module, monitoring structures,
+spares etc. as essentials of “Solar Power Generating System”.
+
+13. Accordingly, we hold that Solar Panel, Inverter, Controller and Battery are essential
+components of ‘Solar Power Generating System’. But, we also hold that cable & monitoring
+structures are supplementary components of ‘Solar Power Generating System’.
+
+14. In view of the above discussions, we, both the members unanimously rule as under;
+RULING
+
+15.
+
+Question:- | Under Chapter 85 what is the correct 4 digit HSN code classification for solar
+
+power generating system?
+
+Answer:- The 4 digit HSN code of ‘Solar Power Generating System’ is 8541.
+
+Question:- What constitutes solar power generating system under chapter 85, what are
+the various components and technical requirements that together constitutes solar power
+generating system under chapter 85?
+
+Answer:- Solar Panel, Inverter, Controller and Battery are essential elements of ‘Solar
+Power Generating System’ and supply of aforesaid four items as a whole would cover under
+the ‘Solar Power Generating System’. But, cable & monitoring structures are also
+supplementary elements of ‘Solar Power Generating System’.
+
+16. ‘This ruling is valid only within the jurisdiction of Authority for Advance Ruling
+Uttar Pradesh and subject to the provisions under Section 103(2) of the CGST Act, 2017
+until and unless declared void under Section 104(1) of the Act.
+
+yD.
+
+(Dinesh Kumar Verma) (Abhisek Chauhan)
+Member of Authority for Advance Member of Authority for Advance
+Ruling Ruling
+To,
+M/s Apex Power
+
+Opposite Maruti Showroom
+Aligarh Road, Village-Ruheri
+Hathras - 204101
+
+E ‘A ‘
+
+
+AUTHORITY FOR ADVANCE RULING -UTTAR PRADESH
+
+Copy to —
+
+1. The Chief Commissioner, CGST & Central Excise, Lucknow, Member, Appellate
+Authority of Advance Ruling.
+
+2. The Commissioner, Commercial Tax, Uttar Pradesh, Member, Appellate Authority of
+Advance Ruling.
+
+3. The Commissioner, CGST & C. Ex, Agra, Uttar Pradesh.
+
+4. The Deputy/Assistant Commissioner, CGST & Central Excise, Division-Aligarh,
+Masood Mahal, Lal Diggi Road, Aligarh 202001.
+
+Pradesh to jurisdictional tax assessing officers.
+Note: An Appeal against this advance ruling order lies before the Uttar Pradesh Appellate
+
+Authority for Advance Ruling for Goods and Service Tax, 4, VibhutiKhnad, Gomti
+Nagar, Lucknow — 226010, within 30 days from the date of service of this order.

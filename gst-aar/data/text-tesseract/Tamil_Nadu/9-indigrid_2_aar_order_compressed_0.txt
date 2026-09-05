@@ -1,0 +1,846 @@
+AUTHORITY FOR ADVANCE RULING, TAMIL NADU
+No.207, 234 FLOOR, PAPJM BUILDING, No.1, GREAMS ROAD,
+CHENNAI 600 006.
+
+ORDER UNDER SECTION 98(4) OF THE CGST ACT, 2017 AND
+UNDER SECTION 98(4) OF THE TNGST ACT, 2017
+
+Members present:
+
+Shri C. Thiyagarajan, LR.S., Shri B. Suseel Kumar, BE., MBA.,
+Commissioner/Member (CGST), Joint Commissioner/Member (SGST),
+Office of the Commissioner of GST Authority for Advance Ruling,
+
+and Central Excise, Tamil Nadu,
+
+Audit I Commissionerate, Chennai - 600 006.
+Chennai - 600 101.
+
+Advance Ruling No. 9/ARA/2025, dated 29.01.2026
+
+1. Any appeal against this Advance Ruling order shall lie before the Tamil Nadu
+State Appellate Authority for Advance Ruling, Chennai under Sub-Section (1 ) of
+Section 100 of CGST Act 2017/TNGST Act 201 7, within 30 days from the date
+on which the ruling sought to be appealed is communicated.
+
+2. In terms of Section 103(1) of the Act, Advance Ruling pronounced by the
+Authority under Chapter XVII of the Act shall be binding only-
+
+(a) Onthe applicant who had sought it in respect of any matter referred
+to in sub-section (2) Section. 97 for advance ruling.
+
+(b) On the concerned officer or the Jurisdictional Officer in respect of
+the applicant.
+
+3. In terms of Section 103(2) of the Act, this Advance Ruling shail be binding
+
+unless the law, facts or circumstances supporting the original advance ruling
+have changed.
+
+4. Advance Ruling obtained by the applicant by fraud or suppression of material
+facts or misrepresentation of Jacts, shall render such ruling to be void ab initio
+in accordance with Section 104 of the Act.
+
+5. The provisions of both the Central Goods and Services Tax Act and the Tamil
+Nadu Goods and Services Tax Act (herein. referred to as the Act) are the same
+except for certain provisions. Therefore, unless a mention is specifically made
+to such dissimilar provisions, a reference to the Central Goods and Services Tax
+Act would also mean a reference to the same provisions under the Tamil Nadu
+Goods and Services Tax Act. ,
+
+Page 1 of 16
+
+
+GSTIN Number, if any/User id | UNREGISTERED
+
+Legal Name of Applicant INDIGRID 2 PRIVATE LIMITED
+
+Trade Name of Applicant INDIGRID 2 PRIVATE LIMITED
+
+Registered Address/ Address | IndiGrid Infrastructure Trust,
+
+provided while obtaining User | 10‘ Floor, Berger Tower,
+
+id C-001/A2, Sector-16B,
+Gautam Buddha Nagar,
+Noida, Uttar Pradesh - 201301.
+
+Details of Application Application Form GST ARA-01 received
+from the applicant on 04.03.2025.(Online)
+
+Jurisdictional Officer State —
+Centre —
+
+Nature of activity (s)
+
+(proposed/present) in respect
+
+of which advance ruling
+
+sought for Factory/Manufacturing and Service
+
+A. Category Provision.
+
+The applicant is engaged in the activity of
+developing and operating Battery Energy
+Storage System (BESS) for or on behalf of
+various transmission, distribution and
+trading agencies in India. The applicant
+enters into ‘Battery Energy storage
+Purchase Agreement (BESPA) with various
+transmission and distribution companies
+for development and establishment of BESS
+at specified locations for storage and
+discharge of electricity. The applicant
+registered in various states but presently
+not registered in the state of Tamilnadu.
+
+The applicant provides a facility of BESS
+that can be used to store electricity in the
+form of chemical energy and deliver stored
+energy back in the form of electricity. This
+is used to achieve continuous power flow
+where energy supply can experience
+fluctuations due to weather, blackout or for
+other geopolitical reasons. By _ storing
+energy after generation is high and
+
+B. Description (in brief}
+
+Page 2 of 16
+
+
+releasing it when demand exceeds
+generation or during unavailability of
+renewable energy sources. BESS plays an
+important role in grid balancing in the
+wake of large-scale penctration of
+renewable energy.
+
+BESS projects could be opcrationalised in
+two ways namcly,
+
+(i) on standalone basis by the BESS
+operator (standalone BESS)
+
+(i) BESS owned by and co-located with
+generation, transmission and distribution
+utilities (co-located BESS).
+
+As per BESPA, BESS project developer is
+entrusted with the responsibility to devclop
+and opcrate BESS at multiple locations.
+BESS project operator has to keep the
+BESS ready for charging and further
+discharging and releasing the stored
+electricity as and when required by the
+transmission, distribution and _ trading
+agencies who in turn uses the electricity for
+its own purposes or for further sale. The
+applicant is also responsible for
+maintenance of transmission system up to
+the delivery point. The applicant is
+responsible to set up dedicated
+transmission network up to the delivery
+point at its own cost and it is undertaken
+based on customer requirements. Thus, all
+approvals, permits and clearances required
+for setting up of the BESS and dedicated
+transmission network up to the delivery
+point is within the applicant’s scope of
+work.
+
+For carrying out the said activity of storing
+and consequently discharging
+electricity/electrical energy, for both
+standalone or co-located system, the
+applicant charges a fixed tariff every month
+based on the contracted capacily made
+
+Page 3 of 16
+
+
+~ available to the customer during the period
+of BESPA. The tariff is determined based on
+the terms of the CESPA executing between
+the applicant and the customers.
+
+Issues on which advance (i) Applicability of a notification issucd
+ruling required under the provisions of the Act.
+(ii) Determination of the liability to pay tax
+on any goods or service or both
+(iii)Whether applicant is required to be
+registered under the Act.
+
+‘Question(s) on which }1. Whether the activity of development and
+
+advance ruling is required operation of BESS when such BESS is
+put on a standalone basis ie not with
+generation transmission and distribution
+utility, would amount to supply of
+electrical energy, and consequently be
+exempt from payment of GST in terms of
+Notification No. 02/2017-CT(Rate) dated
+28-06-2017.
+
+2. Whether the activity of development and
+operation of BESS when such BESS is
+co-located (i.e put up with generation,
+transmission and distribution utility)
+would amount to supply of electricity and
+consequently be exempi from payment of
+GST in terms of Notification No.
+02/2017-CT(Rate) dated 28-06-2017 or
+be exigible to nil rate of duty in terms of
+SL. No. 25 of Notification No. 12/2017-
+CT(Rate) dated 28-06-2017?
+
+3. In the event the authority is of the
+considered view that the exemption shall
+not be available to the BESS projects
+whether standalone or co-located, then
+what will be the applicable rate of GST?
+Consequently, whether the applicant is
+required to obtain registration in the
+state of Tamilnadu?
+
+M/s. INDIGRID 2 PRIVATE LIMITED, IndiGrid Infrastructure Trust,
+10% Floor, Berger Tower, C-001/A2, Sector-16B, Gautam Buddha Nagar,
+Noida, Uttar Pradesh - 201301 (hereinafter called as the “Applicant”) are at
+
+Page 4 of 16
+
+
+present unregistered under the GST Act in the State of Tamilnadu. The
+applicant has sought advance ruling on the following question:
+
+1. Whether the activity of development and operation of BESS when such BESS is
+put on a standalone basis i.e not with generation transmission and distribution
+utility, would amount to supply of electrical energy, and consequently be exempt
+from payment of GST in terms of Notification No. 02/2017-CT{Rate) dated
+28-06-2017?
+
+2. Whether the activity af development and operation of BESS when such BESS is
+co-located {i.e put up with generation, transmission and distribution utility) would
+amount to supply of electricity and consequently be exempt from payment of GST
+in terms of Notification No. 02/2017-CT{Raie) dated 28-06-2017 or be exigible to
+nil rate of duty in terms of SL No. 25 of Notification No. 12/2017-CT(Rate) dated
+28-06-2017?
+
+3. In the event the authority is of the considered view that the exemption shall not be
+available to the BESS projects whether standalone or co-located, then what will be
+the applicable rate of GST? Consequently, whether the applicant is required to
+obtain registration in the state of Tamilnadu?
+
+2. The Applicant has made a payment of application fees of Rs.5,000/-
+each vide CPIN: 25033300015376 dated 04-03-2025 under sub rule (1) of
+Rule 104 of CGST Rules, 2017 and SGST Rules, 2017.
+
+FACTS AS STATED BY THE APPLICANT
+
+3. The applicant is engaged in the activity of developing and opcrating
+Battery Energy Storage System (BESS) for or on behalf of various
+transmission, distribution and trading agencies in India. The applicant
+enters into Battery Energy storage Purchase Agreement (BESPA) with
+various transmission and distribution companies for development and
+establishment of BESS at specified locations for storage and discharge of
+clectricity. The applicant registered in various states but presently not
+registered in the state of Tamilnadu.
+
+4. The applicant provides the facility of BESS that can be used to store
+electricity in the form of chemical energy and deliver stored energy back in
+the form of electricity. This is done to achieve continuous power flow where
+energy supply can experience fluctuations due to weather, blackout or for
+other geopolitical reasons. By storing energy when gencration is high (during
+sunny or windy periods) and releasing it when demand exceeds generation or
+during unavailability of renewable energy sources, BESS plays an important
+role in grid balancing in the wake of large-scale penctration of rencwable
+energy.
+
+5. BESS projects could be operationalised in two ways namely,
+Page 5 of 16
+
+
+{i} on standalone basis by the BESS operator (standalone BESS)
+
+(ii) BESS owned by and co-located with generation, transmission and
+distribution utilities (co-located BESS).
+
+6. As per BESPA, BESS project developer is entrusted with the
+responsibility to develop and operate BESS at multiple locations. BESS
+project operator has to keep the BESS ready for charging and further
+discharging and releasing the stored electricity as and when required by the
+transmission, distribution and trading agencies who in turn uses the
+electricity for its own purposes or for further sale. The applicant is also
+responsible for maintenance of transmission system up to the delivery point.
+The applicant is responsible to set up dedicated transmission network up to
+the delivery point at its own cost and it is undertaken based on customer
+requirements. Thus, all approvals, permits and clearances required for
+setting up of the BESS and dedicated transmission network up to the
+delivery point is within the applicant’s scope of work.
+
+7. For carrying out the said activity of storing and consequently
+discharging electricity/electrical energy, for both standalone or co-located
+systems, the applicant charges a fixed tariff every month based on the
+contracted capacity made available to the customer during the period of
+BESPA. The tariff is determined based on the terms of the CESPA executing
+between the applicant and the customers.
+
+8. WORKING OF STANDALONE BESS (SBESS) MODEL
+
+» SBESS are dynamically sized and designed to suit any long duration
+storage requirement. It is made up for multiple containerised units and
+can stand in any convenient location which could be outside the
+customer’s existing plant.
+
+>» SBESS is charged using grid energy whenever it is available during off-
+peak periods and the stored energy is utilised to balance the
+demand/supply mis-match due to power shortfall/outages during the
+peak demand pcriod.
+
+>» SBESS projects are owned by the developer, whether such projects are
+situated independently, not co-located with generation, transmission and
+distribution utilities. They supply electricity to the grid/customer on a
+regular basis as and when required.
+
+9. WORKING OF CO-LOCATED BESS MODEL
+
+» Co-located BESS is owned and co-located with a
+gencration/distribution/transmission utilities. The functioning is same as
+that of the SBESS, which is charged during off-peak hours and the
+energy us rcleased by way of discharge as and when required.
+
+Page 6 of 16
+
+
+Electricity generated in excess is supplied to the BESS by way of
+charging the batteries of BESS at scheduled times. BESS then stores this
+electricity using batter storage technology. When required by their customer
+during peak demands, power outages or prid balancing, the battcrics
+discharge to release energy.
+
+10. MODE OF BUSEVESS OPERATION BY APPLICANT.
+
+>» The applicant center into BESPA with various transmission, distribution
+and trading agencies where the applicant is entrusted with the
+responsibility to develop and operate BESS at multiple locations (as
+required by the customers).
+
+» The responsibility of the applicant include, keeping the BESS ready for
+charging and further discharging and releasing the stored electricity as
+when required by their customers.
+
+* The applicant is also responsible for maintenance of transmission system
+up to the delivery point at their own cost and it is as per the customers
+requirements.
+
+> The scope of work of the applicant is that all approvals, permits and
+clearances required for setting up the BESS and the related networks up
+to the point of delivery.
+
+» The applicant charges a fixed tariff every month based on the contracted
+capacity made available to the customer during the period of BESPA and
+the tariff is determined based on the terms of the BESPA executed
+between the applicant and their customers.
+
+11. PROVISIONS OF ELECTRICITY ACT/RULES APPLICABLE AS
+STATED BY THE APPLICANT
+
+> The term Electricity’ is defined under Section 2(23) of the Electricity Act
+to mean,
+‘electricity’ means electrical energy-
+{a) Generated, transmitted, supplied or traded for any purpose: or
+(b) Used for any purpose except the transmission of a message;
+
+> Section 2(50) of the Electricity Act defines the term ‘power system’ to
+mean
+(50) "power system" means all aspects of generation, transmission,
+distribution and supply of electricity and includes one or more of the
+following, namely:-
+(a) generating stations;
+(b) transmission or main transmission lines;
+(c} sub-stations;
+(d) tie-lines;
+(e) load despatch activities;
+(f mains or distribution mains;
+
+Page 7 of 16
+
+
+(g) electric supply-lines;
+(h) overhead lines;
+
+(i) service lines;
+
+(j) works;
+
+» The applicant claims that according to Rule 18 of the Electricity Rules,
+2005, the energy storage system(ESS) shall be considered as a part of the
+power system(clause(1)); that the status of the same is based on its
+application area (clause(2)); that when ESS is owned and operated by and
+co-located with generating station or a transmission licensee or a
+distribution licensee, it shall have the same legal status as that of the
+owner(clause(4)); that the independent energy storage system is a
+delicensed activity on par with generating company.
+
+> The applicant stated that the Ministry of Power has also discussed about
+the legal status extended to BESS under the Electricity Rules that they
+are part of the ‘power system’; that the ESS can be used independently of
+in conjunclion with gencration, transmission and _ distribution
+infrastructure based on its application area.
+
+~ As per the National Frame work for promoting Energy Storage System, an
+independent ESS is a delicensed activity on par with generating company.
+
+~ Clarification issued by the Ministry of Power states that an ESS is a part
+of power system defined under Section 50 of the Electricity Act, 2003;
+that it can be utilised as a standalone or in conjunction with generation,
+transmission and distribution entities and the status is given accordingly.
+
+» Upon conjoint reading of Electricity, Acts, Rules and the clarification
+issued by the Ministry of Power, the applicant inferred the following.
+
+(i) BESS project, both standalone and co-located shall be considered
+as power system as per the Electricity Act.
+
+{ii} Co-located BESS project shall be accorded the same legal status as
+that of a gencrating, transmission and distribution utility.
+
+(iii) Standalone BESS project is a delicensed activity at par with a
+generating company.
+
+(iv) Irrespective of usage and application, a BESS project deals with
+providing electricity/clectrical energy.
+
+12. RELEVANT PROVISIONS OF GST
+
+» The applicant quoted and reproduced the definition of ‘goods’ and
+‘services’ provided under Section 2(52) and 2(102) of the Act, the
+definition of ‘supply’ under Section 7, the definition of ‘composite
+supply’ provided under Section 2(30) and Section 8 of the ACT. The
+applicant claimed that the activity would fall under the definition of
+‘supply’ hence their activity should be treated as ‘composite supply’ of
+‘goods & services’.
+
+Page 8 of 16
+
+
+>» Notification No. 02/2017-CT(Rate) dated 28-06-2017, vide Sl. No. 104
+have exempted the supply of electrical energy (treating it as goods)
+from the levy of GST. Likewise, Sl. No. 25 of Notification No. 12/2017-
+CT(Rate) dated 28-06-2017 prescribes NIL rate of tax for the services
+of transmission and distribution of electricity by an clectricity
+transmission or distribution utility.
+
+> The applicant further stated that while the GST law specify the
+taxability of supply of electrical energy or the transmission and
+distribution of electricity, it does not provide clarity on the taxability
+of BESS or BESS projects.
+
+>» The applicant cited the case of Association of power producers Vs
+Solar Energy Corporation of India Limited & Others (2024(9) TMI
+1009 — Delhi(HC) wherein the Hon’ble High Court of Delhi on the
+issue of BESS had observed that there is no provision under GST law
+and that the CBIC is required to issue clarification on the queries
+raised by the taxpayers directly.
+
+13. PERSONAL HEARING
+
+The applicant was given an opportunity to be heard in person on
+23.09.2025. Shri. Manish Mishra and Shri. Joybrata Misra of M/s. JSA
+Advocates & Solicitors and Shri. Nikhil Gupta, Finance Manager and
+Authorised Representatives of the applicant appeared for the personal
+hearing. AR reiterated the submissions made in their application for advance
+ruling. AR submitted the copy of sample invoices, agreement copy for storage
+and distribution subsequently.
+
+14. DISCUSSION AND FINDINGS
+
+We have carefully considered the facts and submissions made by the
+appellant in their application and submissions made during the personal
+hearing. As per the facts presented to us, the applicant is yet to commence
+the business in this STATE and presented the sample agreement and copics
+of sample invoice raised in the utility situated in another location. Based on
+the facts presented to us and the documents submitted, we are taking up
+the queries for arriving at a decision.
+
+15. As per the sample copy of the agreement submitted by the applicant,
+who is part of a consortium along with another entity created for the sole
+purpose of making the cnergy storage facility available to buyer for charging
+and discharging of BESS on an on-demand basis. Under the said agreement,
+the scope of work include setting-up, operate and maintain a Battery Energy
+Storage System. The applicable tariff for the sale of BESS capacity to buying
+utility under the agreement is capacity-based tariff as approved by the
+appropriate commission which will be fixed for entire term of agreement at
+
+Page 9 of 16
+
+
+dclivery point. While the capacity tariff for the entire term of agreement at an
+amount per Kilowatt basis shall be fixed, the buyer will be billed on monthly
+basis.
+
+16. To decide whether the activity of the applicant is supply of goods or
+services, one has to look into the status of the applicant. Generally, the
+process of production of electricity includes gencration, transmission and
+distribution. An analysis needs to be made whether the applicant would fail
+within any or more than one of the above activities.
+
+17. Generation of clectricity is the process of converting other forms of
+energy such as thermal, kinetic, solar or nuclear into electricity. The main
+modes of generation are conventional like using fossil fuels, nuclear, or
+hydropower with steam turbines, and non-conventional methods, which
+used renewable sources like solar, wind, geothermal, and tidal energy.
+
+18. Electricity transmission is the process of transporting bulk electrical
+power over long distances from power plants to substations using high-
+voltage lines. The two primary modes of transmission are overhead lines,
+supported by towers, and underground cables.
+
+19. Electricity distribution is the final stage of delivering electricity from
+substations to consumers, where high voltages are reduced to usable levels.
+
+20. The essence of the agreement is to store the electrical energy during
+the peak generation period for use during demand. As of now, scientifically,
+electricity cannot be stored directly as such. However, it is converted into
+other forms of energy such as chemical Energy (batteries,
+hydrogen), mechanical Energy (flywheels, pumped hydro}, or Thermal
+Energy (molten salt) for storage. The applicant here is using the method of
+converting the electrical energy to chemical form for storage. The applicant is
+recciving the electrical energy from the grid, storing it in the form of chemical
+energy using their resources. Therefore, applicant is not generating electrical
+energy from any of the sources either conventional or non-conventional.
+Hence, the applicant shall not be considered as a generating company.
+
+21. BESS is not an exclusive generation, transmission or distribution
+facility. It is a flexible asset that can be categorised in any of the above
+depending on its specific function and where it is interconnected to the grid.
+Further, BESS is required by the generation/transmission/distribution
+utility where the power produced is more than the power required in a lean
+period of utilisation and to utilise the electrical energy when the demand is
+morc. The classification of BESS depends on how it is used and its physical
+location. When a BESS is co-located with a power plant (such as a solar or
+wind farm) and its primary purpose is to store excess energy and dispatch it
+later to provide firm, dispatchable power, it is typically considered a
+
+Page 10 of 16
+
+
+generation asset. A BESS may be classified as a transmission assct if it is
+connected to the transmission network and is uscd to directly affect power
+flows as dispatched by the transmission system operator. When a BESS is
+located within the distribution network, it is considered a distribution assct.
+Further, to treat the applicant as a generating company,
+
+22. From the above, it is clear that the BESS should be used in
+conjunction with any of the utility namely
+gencration/transmission/distribution and the function of a BESS can be
+construed accordingly.
+
+23. The standalone and co-located are the terms used for the status of the
+BESS depending on its ownership. If a BESS developer owns the facility and
+provides it to any generation/transmission/distribution utility, it is said to
+be a ‘standalone’ one. If it is owned both by the BESS developer and the
+generation/transmission/distribution utility, it is said to be a ‘co-locatcd’
+facility.
+
+24. A ‘power system’ as per the definition contained in Section 2(50) of the
+Electricity Act, 2003,
+
+(50) ‘power system’ means all aspects of generation, transmission,
+distribution and supply of electricity and includes one or more of the
+following namely:-
+
+(a) generation station;
+
+(b) transmission or main transmission lines;
+{c) sub-stations;
+
+(d) tie-lines;
+
+(e} load despatch facilities;
+
+(f) mains or distribution mains;
+
+(g) electric supply-lines;
+
+(h) overhead lines;
+
+(i) service lines;
+
+(j) works
+
+25. From the above, it is seen that the Energy Storage System is not a part
+of the Power System. Clause (1) of Rule 18 of the Electricity (Amendment)
+Act, 2022, and Energy Storage System is considered a s part of a ‘Power
+System’. The Ministry of Power, as per para 3 of the Circular No.
+23/26/2021-R&R dated 29 Jan, 2022, states that ESS is a part of the
+power system defined under sub-section (50) of Section 2 of the Electricity
+Act, 2003. An Energy Storage System function only along with
+gencration/transmission/ distribution entity. Hence, it may be inferred that
+stand alone BESS shall not be considered as cither generating or
+transmitting or distribution utility.
+
+Page 11 of 16
+
+
+26. The next question is whether the electrical energy received and
+despatched by the applicant shall be treated as ‘purchase’ or ‘supply’. Here
+as per the agreement, the contract is for certain number of years and the
+price is agreed betwcen them for the entire period of contract. However,
+invoices are raised by the applicant on their customers namely, generation/
+transmission/ distribution utility on a monthly basis. That is the applicant is
+charging only for the usage of the BESS facility which has a specific capacity
+as required by their customers. Therefore, as such, there is no purchase or
+sale of electricity by the applicant and the transaction. shall not be treated as
+supply of goods.
+
+27. The applicant is providing the facility of storage of electrical energy in
+the form of chemical energy using BESS which uses electro chemical
+batterics as the applicant has the technology to store it, as the electrical
+energy cannot be stored as such. As per the agreement, the primary
+objective agreed between the partics is to make available the Energy storage
+facility to the customer for charging/discharging of the BESS on an ‘on
+demand’ basis.
+
+28. The concept of Energy Storage System is a recent technological
+‘development in the field of electricity generation/transmission/ distribution
+and hence the Ministry of Power widened the already existing Rules as
+“Electricity (Amendment) Rules, 2022. Rule 18 of the said Rules discusses
+about the energy storage system. For ease of reference, the same is
+reproduced hereunder.
+
+18. Energy Storage System- (1) The linergy Storage Systems shall_be
+
+considered as a part of the power system, as defined under clause (50) of
+section.2 of the Act.
+
+(2) The Energy Storage System shall be utilised either as independent
+energy_storage system or network asset or in complementary with
+generation, transmission and distribution.
+
+(3) The Energy Storage System shall be accorded status based on its
+application area 1.e. generation, transmission and distribution.
+
+(4) The Energy Storage System can be developed, owned, leased or operated
+by a generating company or a transmission licensee or a distribution licensee
+or a system operator or an independent energy storage service provider and
+when_an Energy Storage System is owned and operated by and co-located
+
+with a generating station or a transmission licensee or a distribution licensee,
+it shall have the same legal status as that of the owner:
+
+Provided that if such an Energy Storage System is not co-located with, but
+owned and operated by, the generating station or distribution licensee, the
+legal status shall still be that of the owner but for the purpose of scheduling
+
+Page 12 of 16
+
+
+and dispatch and other matiers it shall be treated at par with a separate
+storage element.
+
+(5) The developer or owner of the Energy Storage System shall have an option
+to sell or lease or rent out the storage space in whole or in part to any utility
+engaged in generation or transmission or distribution; or to a Load Despatch
+Centre:
+
+Provided that the owner of the Energy Storage System may use part or whole
+of the storage space himself to buy and store electricity and sell the stored
+electricity at a later time or date.
+
+(6) The independent energy storage sysiem shall be a delicensed activity at
+par with a generating company in accordance with the provisions of section 7
+of the Act:
+
+Provided that if the owner or developer or lessee or tenant or user seeks to
+operate the Energy Storage System as an independent energy storage system,
+it shall be registered with the Authority and the capacity of such Energy
+Storage System shall be verified by the Authority.
+
+29. The above provisions of the Electricity Rules specify only the status of
+an Energy storing System for the purpose of obtaining
+certification/permission (for generation) and license (required for
+transmission and distribution) for operating the system in conjunction with
+generating, transmitting and distribulion utility as the Battery Energy
+Storage cannot function independently. This implies that the Energy Storage
+System is neither a generating utility nor a distribution/transmission utility
+but it supports the generating/transmitting/ distribution utility to store the
+electrical energy and deliver it when needed. Even with modern scientific
+advancements, the electrical energy cannot be stored ‘as such’ aftcr its
+generation. If generated in excess or not used, the electrical energy generated
+will go waste. To avoid such wastage of electricity, the advent of Encrgy
+Storage System came to the rescue to store electrical energy by chemical
+means. Though mechanical storage of electrical energy is available, the
+chemical storage is efficient and can be retrieved wiih less loss during
+conversion. Therefore, the very purpose of BESS is to store electricity as
+chemical energy and dcliver the same back to the customer, when required,
+as electrical energy. While any generation/transmission/distribution utility
+can function independently before the invention of various modes of cnergy
+storage iechnology, it becomes mandatory for the modern
+generation/transmission/ distribution utility to use BESS for saving the
+clectricity generated from going waste/unuscd. Thus, BESS is an cssential
+additional facility for storage of electricity in all the three utililics namely,
+gencration/transmission/ distribution utility.
+
+30. As per the agreement, the scope of work of BESS operator shall be to
+set-up, operate and maintain a Battery Energy Storage System with the
+Page 13 of 16
+
+
+primary objective of making the energy storage facility available to the buying
+utility ‘for charging/ discharging of BESS’ on an. ‘on demand basis’.
+
+31. Further, para 4.3 of the agreement states that BESS operator shall
+install Main & check Meters at the delivery point both for injection and drawl
+of power from the grid during charging and discharging along with stand-by
+meicrs as per the applicable central/state regulations. This means that
+electricity is received by the applicant from the grid, stored as electrical
+energy in BESS and delivered back to the Grid as required. This receipt and
+delivery are measured by the check meters installed at critical points.
+
+32. As per para-5 of the agreement, the applicable tariff for the BESS is
+capacity-based Tariff which will be fixed for entire term of apreement_at
+delivery point. As a capacity-based contract, the payment will be applicable
+regardless of the actual utilisation of BESS. The capacity-based tariff for the
+entire term of agreement is fixed per MW per year and will be billed by BESS
+on monthly basis. This is evident from the sample/proforma invoice provided
+by the applicant where the charges are based on monthly basis.
+
+33, The terms ‘standalone’ and ‘co-located’ used in the trade parlance is
+only for the purpose of ownership of BESS facility. As per clause (4) of Rule
+18 of the Electricity (Amendment) Rules, 2022, if the energy storage system
+is developed, owned, leased or operated by an independent energy storage
+service provider, it is termed as ‘standalone’. Alternatively, if the energy
+storage system is owned and operated based on an agreement with a
+gceneration/transmission/ distribution utility, then it is termed as
+‘co-located’. In the co-located facility, the location, capacity and various
+other critcria are determined as agreed by the co-located entities namely, the
+applicant and a generation/transmission/distribution utility. Though
+location and capacity are determined by mutually agreed terms, the function
+of a BESS for storage of electricity is not altered and remains the samc.
+Therefore, the development and operation of BESS both for standalone and
+co-located are not considered as a gencration/transmission/distribution
+utility
+
+34. Therefore, for the reasons cited above, BESS shall not be considered
+as gencration/transmission/distribution utility as the intended purpose of
+BESS facility is for storage by means of charging the batteries (converting
+electrical energy to chemical energy) and delivery by means of discharging
+(converting the chemical energy to electricai energy).
+
+35. Next question to be answered is whether the applicant is eligible for
+availing complete exemption vide Sl. No. 104 of Notification No. 02/2017-
+CT(Rate) dated 28-06-2017, treating them as a gencrating company and
+classifying electricity as goods from the levy of GST and whether the
+applicant is cligible for availing complete exemption vide SI. No. 25 of
+
+Page 14 of 16
+
+
+Notification No. 12/2017-CT(Rate) dated 28-06-2017 treating the applicant
+as a transmission and distribution utility and classifying the activity as the
+service of ‘transmission and distribution of electricity’.
+
+36. The applicant is not doing the activity of generating and supplying
+electricity, which is classified as ‘goods’ and hence they-are not eligible for
+claiming exemption under Sl. No. 104 of Notification No. 02/2017-CT(Ratc)
+dated 28-06-2017. The applicant is also not a doing the service of supply of
+transmission and distribution either and hence is not eligible for exemption
+provided under Sl. No. 25 of Notification No. 12/2017-CT(Rate) dated
+28-06-2017. Therefore, the above exemption notifications are not applicable
+to the applicant as the exemption notifications are only for gencration/
+transmission/distribution utility. As discussed in the paras above, the
+applicant shall not be classified as generation/transmission/ distribution
+utility.
+
+37. The activity of the applicant can rightly be classified as “support
+services to electricity transmission and distribution” under the HSN code
+998631 and are liable to pay GST on the said service rendered, at the raic of
+18%. The applicant is required to take GST registration and discharge the
+tax on the activity rendered.
+
+38. In view of the above, we pass the ruling,
+RULING
+
+{a) Whether the activity of development and operation of BESS when such
+BESS is put on a standalone basis i.e not with generation transmission
+and distribution utility, would amount to supply of electrical energy, and
+consequenily be exempt from payment of GST in terms of Notification No.
+02/2017-CT{Rate) dated 28-06-2017.
+
+The standalone BESS shall only be treated as a storage unit for storing
+electricity in the form of chemical energy using their technology and
+sell/ give back to their buyer/customer as sole purpose of a standalone
+BESS is to assist the generation/transmission/ distribution utility. As
+the activity is not treated as generation of clectricity as discussed
+above, the applicant is not eligible of exemption provided undcr
+Notification No. 02/2017-CT(Rate) dated 28-06-2017.
+
+(b) Whether the activity of development and operation of BESS when such
+BESS is co-located fi.e pul up with generation, transmission and
+distribution utility) would amount to supply of electricity and
+consequently be exempt from payment of GST in terms of SL No.
+Notification No. 02/2017-CT{Rate) dated 28-06-2017 or be exigible to nil
+rate of duty in terms of Sl. No. 25 of Notification No. 12/2017-CT{Rate)
+dated 28-06-2017?
+
+Page 15 of 16
+
+
+The standalone as well as co-located BESS does the same function with
+a difference in ownership. As the development and operation of BESS of
+both standalone and co-located units are not considered as a
+gencration/transmission/distribution utility, the exemptions provided
+under Notification No. 02/2017-CT(Rate) dated 28-06-2017 and
+Notification No. 12/2017-CT(Rate) dated 28-06-2017 arc not available
+to the applicant.
+
+(c) In the event the authority is of the considered view that the exemption
+shail not be available to the BESS projects whether standalone or co-
+locaied, then what will be the applicable rate of GST? Consequenily,
+whether the applicant is required to obtain registration in the state of
+TamilnaduP
+
+The activity of the applicant can rightly be classified as “support
+services to electricity transmission and distribution” under the HSN
+code 998631 and are liable to pay GST on the said service rendered, at
+the rate of 18%. The applicant is required to take GST registration in
+the state of Tamilnadu, for discharging their GST liability if the BESS is
+established.
+
+5 lol V2
+(B. Suseel Kumar)
+Member (SGST}
+
+To
+
+Vrebsaiaion
+
+(C. Thiyagarajan)
+Member (CGST)
+
+M/s. INDIGRID 2 PRIVATE LIMITED
+
+IndiGrid Infrastructure Trust,
+
+10th Floor, Berger Tower,
+
+C-001/A2, Sector-16B,
+
+Gautam Buddha Nagar,
+
+Noida, Uttar Pradesh - 201301. (By Speed Post)
+
+Copy submitted to:
+
+1, The Principal Chief Commissioner of GST and Central Excise,
+26/1, Uthathamar Mahatma Gandhi Road,
+Nungambakkam, Chennai 600 034.
+
+2. The Commissioner of Commercial Taxes,
+20d Floor, Ezhilagam, Chepauk, Chennai 600 005.
+
+Copy to:
+1. Stock File - Al.
+Page 16 of 16

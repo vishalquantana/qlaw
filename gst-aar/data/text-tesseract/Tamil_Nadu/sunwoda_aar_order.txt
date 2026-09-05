@@ -1,0 +1,853 @@
+AUTHORITY FOR ADVANCE RULING, TAMILNADU
+ROOM NO.206, 2.2 FLOOR, PAPJM BUILDING, NO.1, GREAMS ROAD,
+CHENNAI - 600 006.
+
+PROCEEDINGS OF THE AUTHORITY FOR ADVANCE RULING U/S.98 OF
+THE GOODS AND SERVICES TAX ACT, 2017
+
+Members present:
+
+Smt. D. Jayapriya, I.R.S., Smt. A. Valli, M.Sc.,
+
+Additional Commissioner/ Member (CGST), | Joint Commissioner/Member (SGST),
+Office of the Principal Chief Commissioner | Office of the Commissioner of
+
+of GST & Central Excise, Chennai-600 034. | Commercial Taxes, Chennai-600 006.
+
+Advance Ruling Ne. 06/ARA/2024 Dated: 30.04.2024
+
+1. Any appeal against this Advance Ruling order shall lie before the Tamil Nadu
+State Appellate Authority for Advance Ruling, Chennai under Sub-Section (1) of
+Section 100 of CGST Act 2017/ TNGST Act 2017, within 30 days from the date on
+the ruling sought to be appealed, is communicated.
+
+2. In terms of Section 103(1) of the Act, Advance Ruling pronounced by the Authority
+under Chapter XVII of the Act shall be binding only-
+
+(a) on the applicant who had sought it in respect of any matter referred to in sub-
+section (2) of Section 97 for advance ruling.
+
+(b) on the concerned officer or the jurisdictional officer in respect of the applicant.
+
+3. In terms of Section 103(2) of the Act, this advance ruling shall be binding unless
+the law, facts or circumstances supporting the original advance ruling have
+changed.
+
+4. Advance Ruling obtained by the applicant by fraud or suppression of material
+facts or misrepresentation of facts, shall render such ruling to be void ab initio in
+accordance with Section 104 of the Act.
+
+5. The provisions of both the Central Goods and Services Tax Act and the Tamil
+Nadu Goods and Services Tax Act (herein referred to as an Act) are the same except
+for certain provisions. Therefore, unless a mention is specifically made to such
+dissimilar provisions, a reference to the Central Goods and Services Tax Act would
+also mean a reference to the same provisions under the Tamil Nadu Goods and
+Services Tax Act.
+
+Page 1 of 16
+
+
+GSTIN Number, if any / User id 33AAXCS8681F1ZN
+
+Legal Name of Applicant M/s. Sunwoda Electronic India Private Limited
+
+Trade Name of Applicant (Optional) |M/s. Sunwoda Electronic India Private Limited
+
+Registered Address / Address C/o Snowman Logistics Limited,
+
+provided while obtaining user id INo. 199, 200/2, Nayapakkam Main Road,
+Near ETA Apartments, Irrungattukottai,
+Sriperumbudur Taluk, Mevalurkuppam,
+Kancheepuram, Tamil Nadu, 602 105.
+
+Details of Application Form GST ARA - 01
+Application SLNo.98/2023/ARA,
+dated 15.09.2023.
+
+Concerned Officer Center : Irungattukottai Division,
+Chennai Outer Commissionerate.
+
+State : Sriperumbudur Assessment Circle,
+Kancheepuram Divison.
+
+Nature of activity(s) (proposed /
+present) in respect of which advance
+ruling sought for
+
+A | Category Warehouse/Depot
+
+B_ | Description (in brief} The Applicant enters into a contract with an
+Original Equipment Manufacturer licensed
+under Section 65 of the Customs Act, 1956,
+read with Manufacture and Other Operations
+in Warehouse (No.2) Regulations, 2019
+(“OEM’s MOOWR unit”) for supply of imported
+Portable Lithium System Batteries. In order to
+perform the contract, the said goods are
+imported by the Applicant from abroad to a 3P
+FTWZ in India. The goods are sold to the
+OEM’s MOOWR unit while lying in the 3P
+FTWZ and are cleared under bond by the
+OEM’s MOOWR unit, on need basis.
+
+Issue/s on which advance ruling Whether any particular thing done by the
+
+Required applicant with respect to any goods or services
+or both amounts to or results in a supply of
+goods or services or both, within the meaning
+of that term.
+
+Question(s) on which advance ruling | Whether, in the facts and circumstances of the
+
+Is required case, GST is leviable on the sale of Applicant’s
+goods warehoused in a third-party Free Trade
+Warehousing Zone (“3P FTWZ”) on “as is where
+is” basis to customer who clears the same to
+bonded warehouse under MOOWR Scheme?
+
+Page 2 of 16
+
+
+M/s. Sunwoda Electronic India (P) Ltd., No. 199, 200/2, C/o Snowman
+Logistics Limited, Nayapakkam Main Road, Near ETA Apartments,
+Irrungattukottai, Sriperumbudur Taluk, Mevalurkuppam, Kancheepuram, Tamil
+Nadu, 602105 (hereinafter called as ‘the Applicant’) who are engaged in the
+business of importing and trading Portable Lithium System Batteries classifiable
+under 85076000, are registered under GST with GSTIN 33AAXCS8681F1ZN.
+
+2 The Applicant enters into a contract with an Original Equipment
+Manufacturer (OEM in short) licensed under Section 65 of the Customs Act, 1956,
+read with Manufacture and Other Operations in Warehouse (No.2) Regulations,
+2019 (MOOWR in short) for supply of imported Portable Lithium System Batteries.
+In order to perform the contract, the said goods are imported by the Applicant from
+abroad to a third party Free Trade Warehousing Zone (3P FTWZ in short) in India.
+The goods are sold to the OEM’s MOOWR unit while lying in the 3P FTWZ and are
+cleared under bond by the OEM’s MOOWR unit, on need basis. Under these
+circumstances, the applicant have filed an application seeking Advance Ruling on
+the following question :-
+
+“Whether, in the facts and circumstances of the case, GST is leviable on the sale
+of Applicant’s goods warehoused in a third-party Free Trade Warehousing Zone
+(“3P FTWZ”) on “as is where is” basis to customer who clears the same to
+bonded warehouse under MOOWR Scheme?”
+
+3.1 The Applicant submitted a copy of challan vide CIN ICIC23083300470645
+dated 22.08.2023 evidencing payment of application fees of Rs.5,000/- each under
+sub-rule (1) of Rule 104 of CGST Rules 2017 and SGST Rules 2017.
+
+3.2 The authorities of the Centre and State were addressed to report if there are
+any pending proceedings against the applicant on the issues raised by the
+applicant in the Advance Ruling application and for comments on the issues raised.
+
+4, In their application for Advance Ruling, the Applicant has stated that —
+
+e° The steps involved in the said business-model/on going transaction of the
+Applicant with OEM’s MOOWR Unit are described step-wise as below :-
+
+STEP 1 -Import and Storage of goods in 3P FTWZ
+
+e The applicant places the order for import of Portable Lithium System
+Batteries on its overseas group company, viz., M/s. Sunwoda Electronic Co.
+Ltd., China.
+
+e The applicant has entered into a warehousing agreement with M/s.DHL
+Supply Chain India (P) Ltd., (DHL in short) for storage of imported goods in
+the 3P FTWZ situated at Nandiambakkam Village, Thiruvallur District,
+Tamilnadu, on its behalf.
+
+Page 3 of 16
+
+
+e On import, the goods are billed to the applicant, while being shipped directly
+to the 3P FTWZ for storage, and accordingly, the Bill to’ party would be the
+applicant and the ‘Ship to’ party would be DHL.
+
+e The ‘ship-to’ party, i.e., DHL files the Bill of Entry for Warehousing on behalf
+of the applicant. Once the imported goods reach the 3P FTWZ, the same are
+stored there until further sale of such goods by the applicant.
+
+STEP 2 ~ Sale of warehoused goods on “as is where is” basis to OEM’s
+MOOWR unit
+
+e The applicant negotiates and executes the sale of said goods on “as is where
+is” basis to ORKM’s MOOWR unit through a formal contract of sale.
+
+e In this step of transaction, the Commercial Invoice and Packing list carry
+‘Bill From’ party as M/s.Sunwoda (the Applicant), and the ‘Ship From’ party
+as DHL (the 3P FTWZ).
+
+e Further, the ‘Bill to’ party would be OEM customer name and address, and
+the ‘Ship to’ party would be the OFM Customer’s MOOWR unit and its
+address, which does not alter the fact that the Applicant sell the goods lying
+in FITWZ warehouse to OEM’s MOOWR unit by transfer of title.
+
+STEP 3 - Clearance/movement of goods from 3P FTWZ to MOOWR
+Warehouse
+
+e For effecting the movement of goods, the OEM’s MOOWR unit provides the
+authorization to file Bill of Entry, IEC/GST/AD Code, Warehouse license and
+WH code to DHL.
+
+e This type of movement is permissible in terms of CBIC’s Circular
+No.48/2020-Customs dated 27.10.2020 which has clarified that a Section
+65 unit (a MOOWR Warehouse) may source capital goods and inputs from a
+SEZ/FTWZ, following the applicable procedures, and that the same is
+governed by Rule 46(13) of the Special Economic Zones Rules, 2006 read
+with Instruction No.63 dated 10.08.2010 (No.C.3/21/20098-SEZ).
+
+» DHL files the Bill of Entry (Bonded Warehouse) at 3P FTWZ Customs for
+arranging the Space Certificate by the customer, i.e., OEM’s MOOWR unit
+and upon receipt of the same, the Bill of Entry gets assessed with duty
+foregone for warehousing in another MOOWR (bonded) Warehouse.
+
+e DHL then arranges the movement of goods from 3P FTWZ based on the
+quadruplicate BOE, Space Certificate and E-Way bill issued along with
+commercial invoice.
+
+e On receipt of the said goods at MOOWR warehouse, the customer arranges
+the Re-warehouse certificate within 45 days to complete the transaction,
+
+Page 4 of 16
+
+
+after which the customer can use the goods for their export or it can be used
+for local supply on payment of customs duty.
+
+The instant application seeks determination of GST implication of Step 2
+supra, l.e., whether GST is leviable on the sale of goods warehoused in 3P FTWZ on
+“as is where is” basis to customer who clear the same to bonded warehouse under
+the MOOWR Scheme.
+
+ay The Central jurisdictional Officer viz. the Assistant Commissioner of CGST &
+Central Excise, Irungattukottai Division, Chennai Outer Commissionerate, have
+brought out the applicant’s interpretation of law and facts, in respect of the
+question on which advance ruling is sought and stated that in view of the same, it
+appears that GST is not leviable on the sale of applicant’s goods warehoused in a
+third-party Free Trade Warehousing Zone (“3P FTWZ”) on “as is where is” basis to
+customer who clears the same to bonded warehouse under MOOWR Scheme.
+
+6. The State jurisdiction Officer viz. the Assistant Commissioner (ST),
+Sripeumbudur Assessment Circle stated that there is no proceedings pending in
+relation to the question raised by the applicant.
+
+7.1 On interpretation of law, the applicant states that as follows :-
+
+e The applicant are engaged in the business of trading in imported
+portable Lithium System Batteries classifiable under HSN Code
+85076000. The applicant entered into a contract with an Original
+Equipment manufacturer licensed under Section 65 of the Customs Act,
+1956 read with Manufacture and Other Operations in Warehouse (No. 2)
+Regulations, 2019 (“OEM’s MOOWR Unit”) for supply of imported
+Portable Lithium System Batteries. In order to perform the contract, the
+said goods are imported by the applicant from abroad to a third-party
+Free Trade Warehousing Zone (“3P FTWZ”) in India. The goods are sold
+to the OFM’s MOOWR unit while lying in the 3P FTWZ and are cleared
+under bond by the OEM’s MOOWR unit, on need basis.
+
+° The applicant stated that this type of movement is permissible in terms
+of CBIC Circular No. 48/2020-Customs dated 27.10.2020 which has
+classified that a Section 65 unit (a MOOWR Warehouse) may source
+capital goods or inputs from a SEZ/FTWZ unit, following the applicable
+procedures. They further stated that this type of movement of goods from
+FTWZ to bonded warehouse is governed by Rule 46(13) of the SEZ Rules,
+2006 read with Instructions No. 63 dated 10.08.2010 (No. C.3/21/2009-
+SEZ). The applicant and its customers i.e., OEM’s MOOWR unit duly
+comply with the said provisions.
+
+e Under GST, the taxable event is ‘supply’. Section 7(1)(a) of the CGST Act
+explains the scope of the term ‘supply’ in an expansive manner to include
+all forms of supply of goods. However, Section 7(2)(a} of the CGST Act
+provides that notwithstanding anything contained in sub-section (1),
+
+Page 5 of 16
+
+
+activities or transactions specified in Schedule III of the CGST Act, 2017
+shall be treated neither as a supply of goods nor a supply of services.
+Para 7 and 8 with Explanation 2 therein to Schedule III is extracted
+below for ease of reference:
+
+“ 7. Supply of goods from a place in the non-taxable territory to
+another place in the non-taxable territory without such goods entering into
+India.
+
+8. (a) Supply of warehoused goods to any person before clearance for
+home consumption;
+
+(b) Supply of goods by the consignee to any other person, by endorsement
+of documents of title to the goods, after the goods have been dispatched
+from the port of origin located outside India but before clearance for home
+consumption.
+
+Explanation J.- For the purposes of paragraph 2, the term "court" includes
+District Court, High Court and Supreme Court.
+
+Explanation 2.- For the purposes of paragraph 8, the expression
+—warehoused goods shall have the same meaning as assigned to it in the
+Customs Act, 1962.”
+
+e The Customs Act, 1962 defines the expression “warehoused goods" and
+“warehouse hereunder:
+
+(44) "warehoused goods" means goods deposited in a warehouse;
+
+(43) "warehouse" means a public warehouse licensed under section 57 or a
+private warehouse licensed under section 58 or a special warehouse
+licensed under section 58A:
+
+e The charging section, i.e., Section 9 of the CGST Act, 2017 provides for
+the levy and collection of a tax called the Central Goods and Services Tax
+on all “intra-State supplies of goods or services or both” at notified rates.
+An identical provision has also been provided for in the TNGST Act.
+Further pari materia provisions exist for the levy and collection of the
+Integrated Goods and Services Tax (IGST) on “inter-state supplies of goods
+or services or both” under the Integrated Goods and Services Tax Act,2017
+(hereinafter referred to as the “IGST Act”).
+
+e Thus, once a transaction or activity is treated neither as a supply of goods
+nor a supply of services on account of its inclusion in Schedule III, GST is
+not leviable on said transaction or activity.
+
+e The applicant further stated that Para 8(a) of Schedule III covers the
+transaction of supply of warehoused goods to any person before clearance
+for home consumption. As per Section 2(n) of the SEZ Act, 2005 “Free
+Trade and Warehousing Zone” means a Special Economic Zone wherein
+mainly trading and warehousing and other activities related thereto are
+
+Page 6 of 16
+
+
+carried on. Further, as per Section 53 of the SEZ Act, 2005 a Special
+Economic Zone is deemed to be a territory outside the customs territory of
+India for the purposes of undertaking the authorized operations.
+Resultantly, it is submitted that when the goods are warehoused in an
+FTWZ (SEZ), the said goods have not entered home consumption as the
+goods are stored in an area which is beyond the customs frontiers of
+India. In this regard, reliance is placed on the decision of Covema Wood
+Plast Vs. State of Kerala [2006 (334) E.L.T. 649 (Ker.)] Thus, as far as
+the sale by the applicant and the movement of the same to the MOOWR
+warehouse is concerned, it is submitted that the same is covered by Para
+8(a) of Schedule III to the CGST Act. In this regard, the applicant place
+reliance on the decision of the Authority of Advance Ruling, Tamil Nadu in
+the case of M/s. The Bank of Nova Scotia., 2019 (2) TMI 195 - AUTHORITY
+FOR ADVANCE RULING, TAMILNADU, M/s Sadesa Commercial Offshore De
+Macau Limited, 2019 (2) TMI 194-AUTHORITY FOR ADVANCE RULING,
+TAMILNADU, and M/s AIE Fiber Resource and Trading (India) Private
+Limited, 2021(12) TMI 1265 - AUTHORITY FOR ADVANCE RULING,
+TELANGANA.
+
+In addition to applicant’s claim that the sale of applicant’s goods
+warehoused in 3P FTWZ on “as is where is” basis to customer who clears
+the same to bonded warehouse under MOOWR Scheme is covered under
+Para 8(a) of Schedule III of the CGST Act, 2017, the applicant also stated
+that their aforementioned transaction also falls under Para 7 of the
+Schedule Ill of the CGST Act, 2017. Para 7 of Schedule III covers the
+supply of goods from a place in the non-taxable territory to another place
+in the non-taxable territory without such goods entering into India.
+Section 2(79) of the CGST Act defines ‘non-taxable territory’ to mean the
+territory which is outside the taxable territory. Further, Section 2(109) of
+the CGST Act defines ‘taxable territory’ to mean the territory to which the
+provisions of the CGST Act applies. Section 1 of the CGST Act provides
+that the Act extends to the whole of India. The term ‘India’ has been
+defined in Section 2(56) to mean the territory of India as referred to in
+article 1 of the Constitution, its territorial waters, seabed and sub-soil
+underlying such waters, continental shelf, exclusive economic zone or any
+other maritime zone as referred to in the Territorial Waters, Continental
+Shelf, Exclusive Economic Zone and other Maritime Zones Act, 1976 (80
+of 1976), and the air space above its territory and territorial waters.
+
+As per Section 53 of the Special Economic Zones Act, 2005 (“SEZ Act”)
+which provides that a Special Economic Zone is deemed to be a territory
+outside the customs territory of India for the purpose of undertaking the
+authorized operations. Section 2 (za) of the SEZ Act defines the term
+“Special Economic Zone” to mean each Special Economic Zone notified
+under the proviso to sub-section (4) of section 3 and sub-section (I) of
+section 4 (including Free Trade and Warehousing Zone). Thus, it is
+submitted that a FTWZ is deemed to be a territory outside the customs
+
+Page 7 of 16
+
+
+territory of India in terms of Section 53 read with Section 2 (za) of the SEZ
+Act. Moreover, as per Section 51 of the SEZ Act, the provisions of the SEZ
+Act shall have effect notwithstanding anything inconsistent therewith
+contained in any other law for the time being in force or in any instrument
+having effect by virtue of any law. Thus, it is submitted that FTWZ is
+deemed to be a territory outside the customs territory of India in terms of
+Section 53 and Section 2(za) of the SEZ Act. Further, in terms of Section
+51, said deeming fiction is given an overriding effect over any other law.
+Consequently, it is submitted that supply of goods lying in FTWZ on “as is
+where is basis” which is cleared by the customer to its MOOWR
+Warehouse would be a transaction falling under Para 7 of Schedule III on
+account of the deeming fiction treating the FTWZ to be outside the
+customs territory of India.
+
+° Therefore, in view of the above submissions, the applicant has submitted
+that GST is not leviable on the sale of applicant’s goods warehoused in a
+third-party Free Trade Warehousing Zone (“3P FT WZ”) on “as is where is”
+basis to customer who clears the same to bonded warehouse under
+MOOWR Scheme.
+
+PERSONAL HEARING
+
+8.1 The Applicant, was given an opportunity to be heard in person on
+10.01.2024. Ms. Sahana, Advocate and the Authorised Representative (AR), Mr.
+Pavan Varshiney, Sr.Manager (Customs & Logistics), and Mr.Randhir Yadav,
+Sr.Manager (Finance & Taxation) of M/s. Sunwoda Electronics India (P) Ltd.,
+appeared for the personal hearing. The AR reiterated the submissions made at the
+time of filing the application. In addition to the same, they furnished an additional
+submission along with the relevant legal provisions and the case laws, rulings, etc.,
+that they intended to rely on, in relation to this case.
+
+8.2 In the additional submissions furnished by them during the personal
+hearing, they reiterated the following aspects, viz.,
+
+(i) Sale of Applicant’s goods is covered by Para 8(a) of Schedule III.
+{ii) Public Notice 16/2021 dated 05.04.2021 supports Applicant’s stand.
+
+(iii) Advance Ruling No.23/ARA/2023 dated 20.06.2023 in the case of
+M/s. Haworth India Private Limited, is not applicable to the applicant,
+as the said ruling was issued in different factual scenario.
+
+iv) Without prejudice to the foregoing, sale of Applicant’s goods is covered
+by Para 7 of Schedule III.
+
+8.3 The applicant filed further submissions dated 20.03.2024, wherein they
+highlighted the fact that the Advance Ruling No.23/ARA/2023 dated 20.06.2023 as
+referred above, in the case of M/s.Haworth India Private Limited, has also been set
+aside recently and remanded to the Lower Authority for reconsideration and
+
+Page 8 of 16
+
+
+passing of appropriate order by the Tamilnadu Appeliate Authority for Advance
+Ruling vide Order-in-Appeal No.AAAR/06/2023 (AR) dated 20.12.2023.
+
+DISCUSSION AND FINDINGS:
+
+9.1 We have carefully considered the submissions made by the Applicant in
+their application, submissions made during the personal hearing, and the
+comments furnished by the jurisdictional tax officers.
+
+9.2 From the submissions made at the time of filing the application, it is seen
+that the applicant had sought an advance ruling, on the following aspect, viz.,
+
+“Whether GST is leviable on the sale of Applicant’s goods warehoused in a third
+party Free Trade Warehousing Zone (“3P FTWZ") on “as is where is” basis to
+customer who clears the same to bonded warehouse under MOOWR Scheme?”
+
+It is seen that the query relates to a situation where a sale of goods take place,
+when the goods are still lying in a bonded warehouse, and as to whether the said
+sale constitute a ‘supply’ and its implications from the GST point of view.
+
+9.3 Prima facie, we observe that the imported goods of the applicant are initially
+warehoused in a third party Free Trade Warehousing Zone (“3P FTW2”), where the
+third party with whom the applicant has entered into a warehousing agreement,
+happens to be M/s.DHL Supply Chain India (P) Ltd., (DHL in short). On perusal of
+the “Warehousing, Logistics and Customs Clearance Services Agreement” dated
+21.06.2023, it is seen that the said agreement has been entered into by the
+applicant with DHL for the purpose of provision of FTWZ warehousing, storage,
+safekeeping, customs clearance, transportation and other subsidiary services by
+DHL to the applicant. Further, as per ‘Article 4 Customs Clearance’ of the
+agreement, DHL acts for the applicant in processing the declaration of
+inbound/outbound FTWZ warehouse, and as per ‘Article 5 Transportation’, DHL is
+responsible for the safe transportation of the applicant’s goods.
+
+9.4.1 Moving on to the legalities impacting the instant case, it is seen that as per
+Section 2(n) of the Special Economic Zones Act, 2005 (SEZ Act in short),
+
+“(n) “Free Trade and Warehousing Zone” means a Special Economic Zone
+wherein mainly trading and warehousing and other activities related thereto
+are carried on;”
+
+And as per Section 2(za) of the SEZ Act,
+
+“(za) “Special Economic Zone” means each Special Economic Zone notified
+under the proviso to sub-section (4) of section 3 and sub-section (1) of section 4
+
+(including Free Trade and Warehousing Zone) and includes an. existing Special
+
+Economic Zone;”
+
+It is clear from the above, that a Free Trade Warehousing Zone (FTWZ) gets covered
+as a Special Economic Zone (SEZ), within the meaning of the term. Further, as per
+Rule 8(5) of the SEZ Rules, 2006,
+
+Page 9 of 16
+
+
+“(5) The Units in Free Trade and Warehousing Zones or units in Free Trade and
+Warehousing Zone set up in other Special Economic Zone, shall be allowed to
+hold the goods on account of the foreign supplier for dispatches as per the
+owner's instructions and shall be allowed for trading with or without labeling,
+packing or repacking without any processing.”
+
+9.4.2 The SEZ link to Customs Act, is established under Section 53 of the SEZ
+Act, which runs as below,
+
+“53. Special Economic Zones to be ports, airports, inland container
+depots, land stations, etc., in certain cases.—A Special Economic Zone
+shall, on and from the appointed day, be deemed to be a territory outside the
+customs territory of India for the purposes of undertaking the authorised
+operations.
+
+(2) A Special Economic Zone shall, with effect from such date as the Central
+Government may notify, be deemed to be a port, airport, inland container depot,
+land station and land customs stations, as the case may be, under section 7 of
+the Customs Act,_1962 (52 of 1962).”
+
+From the above, it becomes clear that Special Economic Zones are deemed to be
+considered as ports, airports, inland container depots, land stations, outside the
+Customs territory of India, under Section 7 of the Customs Act, 1962, which deals
+with the appointment of ports, airports, etc.
+
+9.4.3 Further, as per Section 51 of the SEZ Act, the provisions of this Act, shall
+have an overriding effect over any other law, which is reproduced below :-
+
+“51. Act to have overriding effect.—The provisions of this Act shall have
+effect notwithstanding anything inconsistent therewith contained in any other
+law for the time being in force or in any instrument having effect by virtue of
+any law other than this Act.”
+
+9.4.4 A combined reading of the above provisions shows that Free Trade
+Warehousing Zone (FTWZ) is part of SEZ scheme and it is a Customs bonded
+warehouse. Warehousing of goods that are imported without payment of
+appropriate Customs duties are carried out in these zones. SEZ is a specifically
+delineated duty free enclave which is deemed to be a foreign territory for the
+purposes of trade operations and duties and tariffs. Normally, the applicant
+imports goods and stores them in FTWZ till he finds a local customer who will
+purchase the goods and such purchaser clears the goods under the Customs Act.
+In other words, the goods would become exigible to tax under the domestic
+enactments only when they are released for home consumption.
+
+9.4.5 This fact was reiterated in the CBIC Circular No.3/1/2018-IGST dated
+25.05.2018, the excerpts of which are reproduced below :-
+
+"3. It is seen that the “transfer/sale of goods while being deposited in a
+customs bonded warehouse” is a common trade practice whereby the importer
+
+Page 10 of 16
+
+
+files an into-bond bill of entry and stores the goods in a customs bonded
+warehouse and thereafter, supplies such goods to another person who then
+files an ex-bond bill of entry for clearing the said goods from the customs
+bonded warehouse for home consumption.
+
+4. It may be noted that as per sub-section (2) of section 7 of the Integrated
+Goods and Services Tax Act, 2017 (hereinafter referred to as the “IGST Act”),
+the supply of goods imported into the territory of India, till they cross the
+customs frontiers of India, is treated as a supply of goods in the course of inter-
+State trade or commerce. Further, the proviso to sub-section (1) of section 5 of
+the IGST Act provides that_the integrated _tax_on goods imported into India
+would be levied and collected in accordance with the provisions of section 3 of
+the Customs Tariff Act, 1975 (hereinafter referred to as the “CTA”). Thus, in
+case of supply of the warehoused goods, the point of levy would be the point at
+which the duty is collected under section 12 of the Customs Act, 1962
+(hereinafter referred to as the “Customs Act”) which is at the time of clearance
+of such goods under section 68 of the Customs Act.
+
+5. It may also be noted that sub-section (8A) has been inserted in section 3 of
+the CTA vide section 102 of the Finance Act, 2018, with effect from 31st March,
+2018,so as to provide that the valuation for the purpose of levy of integrated tax
+on warehoused imported goods at the time of clearance for home consumption
+would be either the transaction value or the value as per sub-section (8) of
+section 3 of the CTA (i.e. valuation done at the time of filing the into-bond bill of
+entry), whichever is higher.
+
+6, It is therefore, clarified that integrated tax shall be levied and collected at the
+
+time of final clearance of the warehoused goods for home consumption i.e., at
+the time of filing the ex-bond bill of entry and the value addition accruing at
+
+each stage of supply shall form part of the value on which the integrated tax
+would be payable at the time of clearance of the warehoused goods for home
+consumption. In other words, the supply of goods before their clearance from
+the warehouse would not be subject to the levy of integrated tax and the same
+would be levied and collected only when the warehoused goods are cleared for
+home consumption from the customs bonded warehouse.
+
+7. This Circular would be applicable for supply of warehoused goods, while
+being deposited in a customs bonded warehouse, on or after the 1s of April,
+2018,”
+
+9.4.6 However, from 01.02.2019 onwards, when an amendment to Schedule III of
+the CGST Act, 2017 took place to the effect that ‘supply of warehoused goods to
+any person before clearance for home consumption shall be neither a supply of
+goods nor a supply of services.’, the aforesaid Circular became redundant, and so
+the same stood rescinded by way of another Circular No.04/01/2019-GST dated
+01.02.2019, which read as below :-
+
+Page 11 of 16
+
+
+“The provisions of the CGST (Amendment) Act, 2018 and SGST Amendment Acts
+of the respective States have been brought into force w.ef. 01.02.2019.
+Schedule IT of the CGST Act, 2017 has been amended vide section 32 of the
+CGST (Amendment) Act, 2018 so as to provide that the “supply of warehoused
+goods to any person before clearance for home consumption” shall be neither a
+supply of goods nor a supply of services.
+
+2. Accordingly, Circular No. 03/01/2019-IGST dated 25th May, 2018 is hereby
+rescinded.”
+
+9.5 It may be noted that though the IGST Act, 2017 has self-containing
+provisions relating to ‘Levy and collection of Tax’, it does not contain the provisions
+relating to ‘Scope of supply’, ‘time and value of supply’, input tax credit’, ‘demand
+and recovery’, etc. The provisions of Central Goods and Services Tax Act, 2017
+applies mutatis mutandis in relation to integrated tax in respect of such provisions,
+as provided under Section 20 of the IGST Act, 2017. Therefore, with the
+amendment to Schedule III of the CGST Act, 2017 with effect from 01.02.2019,
+with regard to ‘scope of supply’, the integrated tax also stands impacted to that
+extent.
+
+9.6 From the legal provisions referred above, it becomes clear that even before
+the amendment to Schedule III of the CGST Act, 2017, the legal position was that
+the supply of goods before their clearance from the warehouse would not be subject
+to the levy of Customs duty or integrated tax and that the same would be levied
+and collected only when the warehoused goods are cleared for home consumption
+from the customs bonded warehouse. It was made all the more conspicuous, post
+the amendment carried out through para 32 of the Central Goods and Services Tax
+(Amendment) Act, 2018 (No.31 of 2018), whereby clauses 7 and 8 were added to
+Schedule II of the CGST Act, 2017, along with Explanation 2, as follows:-
+
+32. In Schedule If of the principal Act, —
+
+(i) after paragraph 6, the following paragraphs shall be inserted, namely:—
+
+“7, Supply of goods from a place in the non-taxable territory to another
+place in the non-taxable territory without such goods entering into India.
+
+8. (a) Supply of warehoused goods to any person before clearance for
+home consumption;
+
+{b) Supply of goods by the consignee to any other person, by endorsement
+of documents of title to the goods, after the goods have been dispatched from
+
+the port of origin located outside India but before clearance for home
+consumption. ”;
+
+(ii) the Explanation shall be numbered as Explanation 1 and after Explanation 1
+as so numbered, the following Explanation shall be inserted, namely:—
+
+‘Explanation 2.—For the purposes of paragraph 8, the expression
+“warehoused goods” shall have the same meaning as assigned to it in the
+Customs Act, 1962.’
+
+Page 12 of 16
+
+
+In this regard, it may be seen that though the terms ‘warehouse’ and ‘warehoused
+goods’ have not been defined under the SEZ Act, 2005, the same have been defined
+under Section 2(43) and 2(44) of the Customs Act, 1962, as
+
+“(43) “warehouse” means a public warehouse licensed under section 57 or a
+private warehouse licensed under section 58 or a special warehouse licensed
+under section 58A,”
+
+“(44) “warehoused goods” means goods deposited in. a warehouse”
+
+9.7 It may be seen that the SEZ Act does not carry such definitions, but that the
+same is due to the fact that apart from the definitions in-built under the SEZ Act,
+the definitions under other Acts are also borrowed, as the case may be, as specified
+under Section 2(zd) of the SEZ Act, which reads as,
+
+“(zd) all other words and expressions used and not defined _in this Act but
+defined in the Central Excise Act, 1944 (1 of 1944}, the Industries (Development
+and Regulation) Act, 1951 (65 of 1951), the Income-tax Act, 1961 (43 of 1961),
+the Customs Act, 1962 (52 of 1962) and the Foreign Trade (Development and
+
+Regulation) Act, 1992 (22 of 1992) shall have the meanings respectively
+assigned to them in those Acts.”
+
+Therefore, the ‘warehoused goods’, as specified in clause 8(a) of the Schedule III,
+covers the warehouses/warehoused goods in respect of the FTWZ/SEZ, being
+discussed in the instant case, as well.
+
+9.8 On perusal of the documents towards import of the goods in question,
+furnished by the applicant, it is seen that apart from the Invoice, Packing list and
+the Airway Bill, the Bill of Entry vide Sl.No.1005705 dated 07.07.2023 in the
+instant case has been filed as “Bill of Entry for Warehousing” where under the
+importer’s details, the SEZ Entity has been referred as M/s.DHL Supply Chain
+India (P) Ltd., and the client (Indian) has been referred as M/s.Sunwoda Electronic
+India (P) Ltd. This being the case, it is clear that there is no requirement of
+payment of duties of Customs including IGST, as long as the imported goods in
+question stay warehoused, either in a Customs bonded warehouse, or in a
+warehouse under a FTWZ/SEZ.
+
+9.9 Moving on to the next leg of transaction involving ‘Sale of warehoused goods
+on “as is where is” basis to OEM’s MOOWR unit’, it is seen that MOOWR refers to
+“Manufacture and Other Operations in Warehouse”, which in turn is governed by
+‘Manufacture and Other Operations in Warehouse (no. 2) Regulations, 2019’, as
+specified under Notification No.69/2019-Customs (N.T) dated 01.10.2019. Section
+65 of the Customs Act, deals with Manufacture and other operations in relation to
+goods in a warehouse’, and it reads as below :-
+
+“65. Manufacture and other operations in relation to goods in a
+warehouse.—(1) With the permission of the Principal Commissioner of Customs
+or Commissioner of Customs and subject to such conditions] as may be
+prescribed, the owner of any warehoused goods may carry_on any
+
+Page 13 of 16
+
+
+manufacturing process or other operations in the warehouse in relation to such
+goods.”
+
+9.10 In this regard, the CBIC Circular No. 48/2020-Customs dated 27.10.2020
+throws light on whether a Section 65 unit can procure goods from FTWZ, and the
+clarification runs as,
+
+“(iti) Whether a Section 65 unit can procure goods from FTWZ : Circular
+34/2019-Customs dated 1st October 2020, does not explicitly mention sourcing
+of goods from FTWZ. Hence there in apprehension on whether such sourcing is
+allowed.
+
+Clarification : Vide para 14 of Circular 34/2019-Customs dated 1st October
+2020, Board has clarified that the objective of Section 65 is to enable
+manufacture and other operations in customs bonded warehouses. For this
+purpose, the units should be able to procure required raw materials,
+consumables, capital goods etc., imported or procured from domestic market.
+
+There are no restrictions imposed on sourcing of goods by units operating under
+Section 65. Moreover, the units are GST registrants, which are also allowed to
+procure goods from SEZ/FTW2Zs. In view of the foregoing, it is clarified that a
+Section 65 unit may source capital goods or inputs from a SEZ/FTWZ, following
+
+the applicable procedures.”
+
+9.11 Under Rule 46(13) of the SEZ Rules, 2006, a unit is permitted to transfer
+goods to a bonded warehouse without payment of duty, and it runs as below :-
+
+(13) The Authorized Officer may permit a Unit to transfer goods to an Export
+Oriented Unit or Electronic Hardware Technology Park Unit or Software
+Technology Park Unit or Bio-technology Park Unit or to a bonded warehouse
+
+without payment of duty subject to following conditions, namely.”
+
+On perusal of the documents furnished by the applicant in relation to the execution
+of sale of said goods on “as is where is” basis to OEM’s MOOWR unit, it is seen that
+M/s.Foxconn Hon Hai Technology India Mega Development (P) Ltd., has entered
+into a Purchase Agreement dated 22.07.2019 with the applicant, and the Bill of
+Entry vide S1.No.2006353 dated 15.07.2023 in the instant case has been filed as
+“Bill of Entry for Warehousing (SEZ to Bonded Warehouse [Rule 46(13)])” where
+the importer’s name has been referred as M/s.Foxconn Hon Hai Technology India
+Mega Development (P) Ltd., and under the supplier details, SEZ Entity has been
+referred as M/s.DHL Supply Chain India (P) Ltd., and the client (Indian) has been
+referred as M/s.Sunwoda Electronic India (P) Ltd. It is also seen that the said BOE
+carries a Certificate to this effect, i.e.,
+
+“SPACE CERTIFICATE NO.FOXCONN Import/ SAC/ 01/ 2023-24
+DT.14/07/ 2023, WH CODE-CDLIRO19 THE SHIPMENT MOVED FROM FTWZ to
+PRIVATE BOND ED WAREHOUSE UNDER SEZ _ RULE 46{13) WITHOUT
+PAYMENT OF DUTY, THE VALUE DECLARED IN THIS BE IS NOT LESS THAN
+INWARD PRICE-IMPORT BOE NO.1005705 DT.07.07.2023, Seal number :
+0078771”
+
+Page 14 of 16
+
+
+9.12 In this regard, the applicant had pointed out in their additional submissions
+made during the personal hearing that the Public Notice No.16/2021 dated
+05.04.2021 issued by the Commissioner of Customs, City Customs
+Commissionerate, Bengaluru issued on ‘procedure to be followed by Warehouses
+permitted for manufacture and other operations under Section 65 of the Customs Act,
+1962 read with MOOWR, 2019”, clarifies the position in Part III, Procurement of
+goods from SEZ/FTWZ’, as under :-
+
+‘Ti. Procurement of goods from SEZ/FTWZ : Section 65 unit may source
+capital goods or inputs from a SEZ/FTWZ, following applicable procedures. As
+per Rule 46(13), SEZ units can clear the goods to Warehouses without payment
+of duty.”
+
+9.13 Further, under FAQs issued by CBIC in F.No.484/03/2015-LC (Pt) on
+“Manufacture and Other Operations in Customs Warehouse”, clarifications have
+been issued on various queries, including a situation as to whether unit
+undertaking manufacture and other operations in a bonded warehouse can import
+inputs without payment of duty. Here again, it has been clarified that Manufacture
+and other operations in a bonded warehouse is a duty deferment scheme, and that
+the import duties (both BCD and IGST) stand deferred till they are cleared from the
+warehouse for. home consumption. Query No.10 of the said FAQ and its
+clarification are reproduced as under :-
+
+p10. Can a unit undertaking manufacture and other operations in a bonded
+warehouse import inputs without payment of duty? If yes, whether only BCD or
+both BCD and IGST on imports is covered? For how long is duty deferment
+available? Is interest payable after some time?
+
+Response: Manufacture and other operations in a bonded warehouse is a duty
+deferment scheme. Thus both BCD and IGST on imports stand deferred. In the
+case of goods other than capital goods, the import duties (both BCD and IGST)
+stand deferred till they are cleared from the warehouse for home consumption,
+and no interest is payable on duty. In case the finished goods are exported, the
+duty on the imported inputs (both BCD and IGST) stands remitted ie. they will
+
+not be payable. The duty deferment is without any time limitation.”
+
+9.14 In fine, we find that when the imported goods are warehoused, as long as the
+said goods are not cleared for home consumption, duties under Customs including
+IGST are not required to be discharged. Specifically, the legal position of such cases
+became much clearer, after the amendment whereby clauses 7 and 8 were added
+with effect from 01.02.2019 to Schedule II of the CGST Act, 2017, which talks
+about ‘Activities or Transactions which shall be treated neither as a supply of goods
+nor a supply of services’.
+
+9.15 We therefore hold that the instant case of the applicant, where the imported
+goods stored in a 3P FTWZ warehouse, is being moved to the Bonded Warehouse
+(MOOWR) on effecting a sale to an OEM’s MOOWR unit, taxes under GST are not
+
+Page 15 of 16
+
+
+leviable, as the transaction gets squarely covered under clause 8(a) of the Schedule
+Ill of the CGST Act, 2017, which reads as “Supply of warehoused goods to any
+person before clearance for home consumption”.
+
+10. Based on the above discussions, we rule as under:
+
+RULING
+
+GST is not leviable on the sale of goods warehoused in 3P FTWZ on “as is
+
+where is” basis to customer who clear the same to bonded warehouse under the
+
+MOOWR Scheme.
+
+JAYAPRIVA)?° by) e-2H
+Member (CGST)
+
+M/s. Sunwoda Electronic India Private Limited
+
+No. 199, 200/2, C/o Snowman Logistics Limited,
+
+Nayapakkam Main Road, Near ETA Apartments, / {by RPAD//
+Irrungattukottai, Sriperumbudur Taluk,
+
+Mevalurkuppam, Kancheepuram, Tamil Nadu, 602105
+
+Copy submitted to:
+
+1, The Principal Chief Commissioner of GST & Central Excise,
+26/1, Mahatma Gandhi Road, Nungambakkam, Chennai-600034.
+
+2. The Commissioner of Commercial Taxes,
+2t Floor, Ezhilagam, Chepauk, Chennai — 600 005.
+
+Copy to:
+
+1. The Commissioner of GST & Central Excise,
+Chennai Outer Commissionerate,
+Newry Towers, No. 2054, I Block
+Ind Avenue, 12% Main Road,
+Anna Nagar, Chennai — 600 040.
+
+2. The Assistant Commissioner (TNGST),
+Sriperumbudur Assessment Circle,
+No. 4/109, Ground Floor, Trunk Road,
+Chennai Bangalore High Way,
+Varadharajapuram, Nazarathpet,
+Chennai - 600 123.
+
+3. Master File/ Spare - 2.
+
+Page 16 of 16

@@ -1,0 +1,610 @@
+AUTHORITY FOR ADVANCE RULING
+GOODS AND SERVICE TAX
+UTTAR PRADESH
+4, Vibhuti Khand, Gomti Nagar, Lucknow-
+
+ADVANCE RULING NO. UP ADRG 9 Z /2021 DATED24U-3-2021
+PRESENT:
+
+1. Shri Abhishek Chauhan
+Additional Commissioner, Central Goods and Service Tax
+Audit Commissionerate, Lucknow i ss Member (Central Tax)
+
+2. Shri Vivek Arya
+
+Joint Commissioner, State Goods and Service Tax Member (State Tax)
+
+li. Name of the Applicant Toshiba JSW Power Systems Private
+Limited
+Meja TPP Site, Kodhar, Allahabad-2 12305
+2; GSTIN or User ID O9AADCTOISIDIZS
+3. _| Date of filing of Form GST ARA-01 29.06.2021
+4. Represented by Shri Sivarajan Kalyanraman
+Authorized representative
+53 Jurisdictional Authority-Centre Range- Naini-I, Division -Allahabad-I
+6. Jurisdictional Authority-State Sector- Corporate-Circle, Range-Prayagraj
+(A)
+Ts Whether the payment of fees Yes
+discharged and if yes, the CIN SBIN21020900471694
+
+ORDER UNDER SECTION 98(4) OF THE CGST ACT, 2017 & UNDER SECTION 98 (4)
+OF THE UPGST ACT, 2017
+
+1. M/s Toshiba JSW Power Systems Private Limited, Meja TPP Site, Kodhar, Allahabad
+212305 (here in after referred to as the applicant) is a registered assessee under GST having
+GSTN: 09AADCTO151D1ZS.
+
+2. The applicant has filed application for advance ruling in Form ARA-01 and submitted as
+under-
+
+(1)They are engaged in the business of erection, procurement and commissioning (‘EPC’) of
+thermal power plants in India. The applicant was awarded the erection, procurement and
+commissioning package for 1x660 MW Harduaganj TPS Extn-II thermal power station
+located in Harduaganj, Aligarh, Uttar Pradesh by the Uttar Pradesh Rajya Vidyut Utpadan
+Nigam Limited (hereinafter referred to as the UPRVUNL). The said project is composed
+of the following four separate contracts:
+
+Contract 1: Supply of plant and equipment from abroad
+Contract 2: Supply of domestically manufactured plant and equipment. Under the
+contract there are two categories of supplies —
+
+E Aa |
+
+
+a) Supply of goods manufactured by the Claimant (hereinafter referred to as
+“Contract 2 —Direct Transactions’)
+
+b) Supply of goods directly from sub-contractor’s premises (hereinafter referred
+to as ‘Contract 2 — Bought Out Items’)
+
+Contract 3:Supply of services including inland transportation, inland transit
+
+insurance, installation, testing & commissioning, guarantee test and other
+
+incidental services(hereinafter referred to as ‘Contract 3 — Transportation,
+
+Installation and Testing Services’ or ‘Contract 3’)
+
+Contract 4: Supply of civil & structural works and all other related installation
+
+services(hereinafter referred to as ‘Contract 4 — Civil Works’ or ‘Contract 4’)
+
+(2) The above-mentioned contracts were awarded to the applicant in response to a single
+tender notification, and the general terms and conditions are commonly applicable to all
+the four contracts.
+
+(3) Contract — 3 was awarded to the applicant vide NOA No. 2205/PPMM/SE-II/Harduaganj
+Extn.-II dated 08 September 2015 as part of the EPC package for the Harduaganj power
+plant project. Under the contract the Company is obligated to provide various services
+including handling, inland transportation, inland transit insurance, receipt, unloading,
+handling, storage, risk insurance, installation, testing, commissioning and conducting
+guarantee tests with respect to goods and equipments to be supplied under Contract | and
+Contract 2 of the EPC package of the Harduaganj power plant project. The scope and
+consideration for the above-mentioned services have been provided separately under the
+said contract.
+
+(4) Based on clarification being sought by the applicant, the above-mentioned services can
+be categorized in to two parts-
+
+a) Services of goods transport by road
+b) All other services to be provided under the Contract
+
+(5) The scope and consideration for the services of goods transport by road to be provided
+under the contract have been mentioned separately under the contract.
+
+(6) The applicant does not transport the goods itself. The services of goods transportation by
+road to be provided under the Contract have been sub-contracted by the applicant to third
+party goods transport agencies, and the same are not provided directly.
+
+(7) In this regard, the applicant seeks clarification whether GST would be applicable on the
+services of goods transportation by road to be provided by it under the said contract.
+
+(8) The applicable legal provisions which are relevant in the instant case as under.
+
+(8.1) The taxable event under GST law is supply of goods and services and as per GST
+
+law,all forms of supply of goods or services or both are liable to tax under GST, unless
+
+specifically exempted.
+
+(8.2) With respect to services of goods transport by road, an exemption from GST has
+
+been provided except where such services are provided by a goods transport agency (GTA)
+
+or by a courier agency as per entry no. 18 of the Notification No. 12/2017-Central Tax (Rate)
+
+dated 28.06.2017.
+
+(8.3) The term GTA has been defined as per Para 2(ze) of N/N 12/2017-Central Tax
+
+(Rate) dated 28th June 2017 as under-
+
+“goods transport agency means any person who provides service in relation to
+transport of goods by road and issues consignment note, by whatever name
+called”
+
+i Had 1
+
+
+(8.4) The term consignment note has not been defined under the GST law. Guidance in
+this regard can be taken from the meaning presscribed to the term in the erstwhile Service
+tax regime. As per Explanation to rule 4B of the Service Tax Rules, 1994
+
+“For the purposes of this rule and the second proviso to rule 4A, "consignment
+note" means a document, issued by a goods transport agency against the receipt
+of goods for the purpose of transport of goods by road in a goods carriage, which
+is serially numbered, and contains the name of the consignor and consignee,
+registration number of the goods carriage in which the goods are transported,
+details of the goods transported, details of the place oforigin and destination,
+person liable for paying service tax whether consignor, consignee or the goods
+transport agency.”
+
+(8.5) on the basis of above, it is submitted that the term GTA includes in its ambit only
+those service providers who provide services of transport of goods by road, and who issue a
+document against the receipt of goods for the purpose of transport of goods by road (i.e. a
+consignment note).
+(8.6) there have been various judicial precedents wherein it has been held that a
+consignment note means a document which transfers the lien or right to possession
+of goods to the person transporting the goods, (i.e., the transporter of the goods becomes
+responsible for transportation of the goods till its safe delivery to the consignee) and only that
+person, who is issuing a consignment note would only be construed as a ‘goods transport
+agency’. Details of such rulings have been mentioned below:
+(a) The Appellate Authority for Advance Ruling ((AAAR’) of Rajasthan in
+the case of M/S. K.M. Trans Logistics Private Limited observed that the person to
+whom the lien of goodshas been transferred, i.e., the one responsible for
+the transportation of the goods till safe delivery to the consignee essentially
+undertakes the responsibility cast upon a goods transport agency.
+(b) The Authority for Advance Ruling ((AAR’) of Andhra Pradesh in
+the case of M/S. Chitra Transport observed that:
+
+(i) | Issuance of a consignment note is the sine qua-non for a supplier of
+
+service to be considered as a Goods Transport Agency. If such a consignment
+
+note is not issued by the transporter, the service provider will not come within the
+ambit of goods transport agency.
+
+(ii) If a consignment note is issued, it indicates that the lien on the goods has
+been transferred (to the transporter) and the transporter becomes responsible
+for the goods till its safe delivery to the consignee
+
+. Only the services of such GTA, who assumes agency functions, that is being
+
+brought into the GST net
+(c) The Customs Excise and Service Tax Appellate Tribunal (CESTAT) in the
+case of Nandganj Sihori Sugar Co. CCE observed that-
+(i) Mere transportation of the goods in a Motor Vehicle is not the service
+
+provided by a Goods Transport Agency.
+(ii) | The transportation of goods without issue of consignment note would be
+simple transportation and not the service of Goods Transport Agency.
+. (iii) | Consignment note issued by GTA represents its liability to — (a) transport
+| consignment handed over to it to destination, (b) undertake delivery of same to
+consignee, and (c) temporarily store till delivery. Mere bill issued for
+
+, = |
+
+
+transportation of goods cannot be treated as a consignment note.
+
+(8.7) as per the ‘Carriage by Road Act, 2007’ a common carrier is a person who carries
+out the specified activities under a goods receipt. Only such persons are required to undertake
+registration under the said act, and only such persons may engage in the activities of a goods
+carrier. Under the said act, issuance of a document specifying the liability of the person
+transporting the goods (or of the person having the physical possession of the goods) with
+respect to the goods being transported by such transporting person is sine qua-non for such
+person to be considered as a goods carrier
+
+(8.8) It is submitted that such provisions of ‘Carriage by Road Act’ are similar in nature
+and in requirement to the provisions of the GST law and the erstwhile Service tax law. Thus,
+the term “goods carrier” can be treated as analogous to the term “GTA” and “goods receipt”
+to “consignment note”. On the basis of this, it is submitted that if a person does not issue a
+document such as a goods receipt or a consignment note to declare his liability with respect
+to the goods being transported then he would not qualify as a goods carrier or a GTA.
+
+(8.9) the applicant hires third-party transporters for __ the purpose
+of transportation of goods. Such transporter undertakes physical possession of the goods for
+safety point of view during transportation and he is responsible for transportation of
+the goods till delivery at UPRVUNL’s site and issues a consignment note to the Company.
+Further, the applicant discharges GST under reverse charge mechanism, as per N. N.
+13/2017 Central Tax (Rate) dated 28 June 2017, against the services received from such
+transporters or GTAs.
+
+(8.10) In light of the above-mentioned provisions and their implication in the present
+scenario, it is submitted that the applicant is not liable to issue a consignment note and thus
+does not qualify as a GTA. Thus, the exemption provided on services of goods transport by
+road vide entry no. 18 of N/N 12/2017-Central Tax (Rate) dated 28th June 2017 should be
+available to the applicant, and the services of goods transport by road to be provided by the
+applicant under Contract 3 to UPRVUNL should be exempt.
+
+3. The applicant has sought advance ruling on following question-
+
+‘Whether tax would be applicable on the service of transportation of goods by road to be
+provided by the company under one of its contracts?’
+
+4. As per declaration given by the applicant in Form ARA-O1, the issue raised by the
+
+applicant is neither pending nor decided in any proceedings under any of the provisions of the
+Act, against the applicant.
+
+53 The application for advance ruling was forwarded to the Jurisdictional GST Officer to
+offer their comments/views/verification report on the matter. The Joint Commissioner,
+(Corporate), Commercial Taxes, Prayagraj vide his letter C.No. 48/2021-22/Joint Comm.
+(Corporate) Va. Ka. Prayagraj Dated 12.07.2021 (addressed to Additional Commissioner Grade-
+1, Commercial Taxes, Prayagraj) submitted that as per entry no. (V) of notification No. 11/2017
+dated 28.06.2017, the rate of tax is 9% CGST and 9% SGST on Goods transport services other
+than (i), (ii), (iii) and (iv). It is also mentioned in the report that no proceedings on the question
+raised by the applicant are pending.
+
+; l|
+
+
+//
+
+6. The applicant was granted a personal hearing on 22.09.2021 which was attended by Shri
+Sivarajan Kalyanraman, Authorized representative through video conferencing during which he
+reiterated the submissions made in the application of advance ruling and submitted a Paper Book
+containing relevant details.
+
+DISCUSSION AND FINDINGS-
+
+Te At the outset, we would like to make it clear that the provisions of both the CGST Act
+and the UPGST Act are the same except for certain provisions. Therefore, unless a mention is
+specifically made to such dissimilar provisions, a reference to the CGST Act would also mean a
+reference to the same provision under the UPGST Act. Further to the earlier, henceforth for the
+purposes of this Advance Ruling, a reference to such a similar provision under the CGST Act /
+UPGST Act would be mentioned as being under the ‘CGST Act’.
+
+8. We have gone through the Form GST ARA-OI filed by the applicant and observed that
+the applicant has ticked following issues on which advance ruling required-
+
+(v) Determination of the liability to pay tax on any goods or services or both
+
+At the outset, we find that the issue raised in the application is squarely covered under
+Section 97(2) of the CGST Act 2017. We therefore, admit the application for consideration on
+merits.
+
+2. We have gone through the submissions made by the applicant and have examined the
+same. We observe that the applicant has sought advance ruling on the following questions-
+
+‘Whether tax would be applicable on the service of transportation of goods by road to be
+provided by the company under one of its contracts?’
+
+10. °~We find that the applicant had been awarded the erection, procurement and
+commissioning (EPC) package for 1x660 MW Harduaganj TPS Extn-II thermal power station by
+M/s UPRVUNL. The said project is comprised of the following four separate contracts:
+
+(1) — Contract 1 bearing Ref No. PPMM/SE-II/2015-16/01 dated 22.03.2016 for
+Supply of plant and equipment from abroad.
+
+(2) Contract 2 bearing Ref. No. PPMM/SE-II/2015-16/0 dated 22.03.2016 for
+Supply of domestically manufactured plant and equipment. Under the contract
+there are two categories of supplies —
+
+a) Supply of goods manufactured by the applicant
+b) Supply of goods directly from sub-contractor’s premises
+
+(3) Contract 3 bearing Ref. No. PPMM/SE-II/2015-16/03 dated 22.03.2016 for
+Supply of services including inland transportation, inland transit insurance,
+installation, testing & commissioning, guarantee test and other incidental services
+
+(4) | Contract 4 bearing Ref. No. PPMM/SE-II/2015-16/0 dated 22.03.2016 for
+Supply of civil & structural works and all other related installation services
+
+11. _ During personal hearing, the authorized representative of the applicant submitted a Paper
+Book containing relevant documents. Perusal of these documents contained in the Paper Book
+
+[| |
+
+
+, ae —E
+
+reveals that the applicant have subcontracted the work of transportation to M/s NTC
+LOGISTICS INDIA (P) LIMITED, Chennai vide PO Number TJPSG/17-18/39480 dated
+27.10.2017. M/s NTC LOGISTICS INDIA (P) LIMITED, Chennai have issued Invoice No.
+DLHB/1819/00057 dated 31.07.2018 to the applicant for transportation wherein IGST @ 12%
+has been charged on transportation charges under SAC 996791 which is in accordance with the
+rate prescribed vide Notification No. 11/2017-CT(rate) dated 28.06.2017 as amended. But, the
+applicant have also issued Invoice No. UPSD1804210008 dated 29.06.2018 to M/s UPRVUNL
+for local transportation wherein CGST 9% and SGST 9% have been charged under SAC 996749.
+
+12. Moreover, the applicant have submitted that they are not Goods Transport Agency (GTA)
+as they do not issue consignment note so GST on transportation services provided by them to
+M/s UPRVUNL is exempted as per entry no. 18 of Notification No. 12/2017-CT(rate) dated
+28.06.2017.
+
+13. The arguments of the applicant regarding exemption on the transportation service is in
+fact based on the assumption that the supply of service is in total isolation from the whole
+contract and without considering the terms and obligations created under all the contracts of
+supply of goods and services under erection, procurement and commissioning (EPC) package for
+1x660 MW Harduaganj TPS Extn-II thermal power station by M/s UPRVUNL. As such, the
+applicant is isolating transportation services not only from other services (i.e. installation
+services and training charges) envisaged under third contract but also isolating it from whole
+contract of supply of goods and services allotted to the applicant. Hence most important issue to
+be examined by us is to verify whether the transportation services and other services provided by
+the appellant are altogether separate contract independent of any obligation cast on the applicant
+under the whole contract or not.
+
+14. We find that the Contract — 3 was awarded to the applicant vide Notification of Award
+(NOA) No. 2205/PPMM/SE-II/Harduaganj Extn.-II dated 08 September 2015 as part of the EPC
+package-for the Harduaganj power plant project. Corrigendum to the said NOA was issued by
+i the M/s UPRVUNL vide letter No. 2379/PPMM/SE-II/Harduaganj Extn. I] dated 30.11.2015
+. vide which the contract was spilted and separate civil contract was made as ‘fourth contract”. The
+| Para C and D of the Corrigendum dated 30.11.2015 of the NOA No. 2205/PPMM/SE-
+| I/Harduaganj Extn.-II dated 08 September 2015 is reproduced below-
+
+C. We have also notified you vide our notification of Award letter no. 2203/PPMM/SE-
+I/Harduaganj, Ectn.-II dated 8" September, 2015, Notification of Award letter no.
+2204/PPMM/SE-II/Harduaganj Extn-II, dated 8" September 2015 and Notification of
+Award letter no. 2380/PPMMW/SE-Il/Harduaganj Extn-II, dated 30" September 2015 for
+award of ‘First Contract’, ‘Second Contract’ and Fourth Contract respectively on you for
+the work of Design Engineering, Manufacturing, Shop fabrication, Assembly, Inspection
+and Testing of supplier’s work, Type testing, Packing, Forwarding at site of all plant
+equipments /materials/ special tools & tackles and mandatory spares etc. to be supplied
+from abroad ,for the work of design Engineering, Manufacturing, Shop fabrication,
+Assembly, Inspection and Testing of supplier’s work, Type testing, Packing, Forwarding at
+site of all domestically work of Civil and Structural works and all other services leading to
+successful completion of facilities and handing over to Employer of the plant
+
+[ = j|
+
+
+Equipments/Materials including Mandatory spares of the EPC Package for Harduaganj
+Thermal Power Station Extension-II (1*650 MW) as per bidding documents no.
+specification no. D-1-4029-4100-00-T-RSB (hereinafter refer to as the ‘First Contract’,
+‘Second Contract’ and Fourth Contract). You shall also be fully responsible for the works
+to be executed under the ‘First Contract’ ‘Second Contract’ and Fourth Contract and it is
+expressly understood and agreed by you that any breach under the First Contract and/or
+‘Second Contract’ and/or “Fourth Contract” shall automatically be deemed as a breach of
+this ‘Third Contract’ and vice-versa and any such breach or occurance or default giving
+us a right to terminate the First Contract, and/or Second contract and/or ‘Fourth
+Contract’ and recover damages thereunder , shall give us an absolute right to terminate
+the Contract and/or recover damages under this ‘Third Contract’ as well and vice-versa.
+However, such breach of default or occurrence in the ‘First Contract’ and/or ‘Second
+Contract’ and/or ‘Fourth Contract’ shall not automatically relieve you of any of your
+responsibilities/obligations under this ‘Third Contract’. It is also expressly understood and
+agreed by you that the equipments/materials to be supplied by you under the ‘First
+Contract and ‘Second Contract’ and civil and structural works under ‘Fourth Contract’,
+when installed and commissioned under this ‘Third Contract’ shall give satisfactory
+performance in accordance with the provisions of the contract.
+
+D. The total contract price for the entire scope of work under this Contract shall be INR
+3,729,877, 295.00 (inclusive of all taxes and duties) as per the following breakup.-
+
+SL.No. Particulars Price in INR
+(inclusive of all taxes
+and duties)
+
+I Local Transportation including Port Handling, 461,948,371.00
+
+Port Clearance and Port Charges, Inland
+Transit Insurance charge and other local costs
+incidental to delivery of Plant and Equipments
+covered under First Contract and Second
+| Contract’
+i 2 Local Transportation including Port Handling, 39,822,412.00
+| Port Clearance and Port Charges, Inland
+| Transit Insurance charge and other local csts
+incidental to delivery of Mandatory Spares
+covered under First Contract and Second
+Contract’
+
+3 Installation services (Erection & Allied works)
+including insurance (other than transit
+insurance and other services as specified in the
+
+Bidding documents)
+3(a) Installation services 3213897224.00
+3(b) Training charges 15211288.00
+4 TOTAL CONTRACT PRICE 3729877295.00
+[1+2+3(a)+3(b)]
+
+E = pe:l ] |
+
+
+15. The Contract 3 (bearing Ref. No. PPMM/SE-II/2015-16/03 dated 22.03.2016) between
+M/s UPRVUNL and the applicant has mention that Notification of Award No. 2205/PPMM/SE-
+I/Harduaganj Extn.-II dated 08 September 2015 and Corrigendum Ref. No. 2379/PPMM/SE-
+Il/Harduaganj Extn. II dated 30.11.2015 shall be read and construed as an integral part of the
+Contract 3.
+
+| 16. We find that the scope of work is Erection, Procurement and commissioning package, for
+
+| 1x660 MW Harduaganj TPS Extn. II Thermal Power Station and all the contracts were awarded
+to the applicant in response to a single tender notification. Apart from this, all the contracts are
+linked by a ‘cross fall breach clause’ which means that a breach in one contract will
+automatically be classified as a breach of the other contract. Thus, the ‘cross fall breach clause’
+provides the recipient M/s UPRUVNL an absolute right to either terminate all the contracts or
+claim damages accordingly. The 'cross fall breach clause’, settles unambiguously that supply of
+goods, their transportation to the contractee's site, delivery and related services are not separate
+contracts, but only form parts of an indivisible composite works contract supply, as defined
+under Section 2 (119) of the CGST Act, 2017. The composite nature of the contract is clear from
+the facts that first Contract and second contract cannot be performed satisfactorily unless the
+goods have been transported and delivered to the contractee's site as per third contract. The
+contracts for supply of the goods and allied services are not separately enforceable. The recipient
+M/s UPRUVNL has not entered into contract of ex - factory supply of material, but for the
+supply at site alongwith design, engineering, manufacturing, shop fabrication, assembly,
+inspection, testing, forwarding to site of all equipments, erection, commissioning, handling,
+storage etc for EPC package for Harduaganj thermal Power Extension-Il.
+
+17. The ‘cross fall breach clause', settles unambiguously that supply of goods, their
+transportation to the contractee's site and related services of insurance, unloading and handling at
+site, installation including civil work, testing etc. are not separate contracts, but only form parts
+of an indivisible composite supply of goods and services with single source responsibility. Thus,
+from the above it is seen that the supply of the goods and the supply of services are inextricably
+linked with each other. The contract awarded in substance and essence is a composite contract as
+defined in section 2(30) of the C.G.S.T. Act, 2017 for supply of goods and services.
+
+18. | The term ‘composite supply' is defined under clause 30 of Section 2 of the CGST Act,
+2017 as under-
+
+"composite supply" means a supply made by a taxable person to a recipient consisting of two or
+more taxable supplies of goods or services or both, or any combination thereof, which are
+naturally bundled and supplied in conjunction with each other in the ordinary course of business,
+one of which is a principal supply;
+
+Illustration.- Where goods are packed and transported with insurance, the supply of goods,
+packing materials, transport and insurance is a composite supply and supply of goods is a
+
+principal supply;
+
+19. The Contracts involve two supplies, one for the supply of goods and the other for the
+supply of services. The contracts fulfill the conditions of the 'composite supply' as the supply of
+goods and services are naturally bundled in the sense that both the goods and services may
+require to fulfill the intention of the buyer in completion of the contract. The supply of goods
+
+— a |
+
+
+and services are provided as a package and if one or more is removed, the nature of the supply
+would be affected. It is important to note that in GST, under composite supply, whether the two
+taxable supplies are arising from one indivisible contract or from two separate contract is
+immaterial till these two supplies are naturally bundled and one supply being principal supply &
+other being ancillary supply to principal supply. Even if the considerations for two taxable
+supplies are separately quoted or there is single consideration for two supplies, both types of
+scenarios are covered under composite supply till the conditions as mentioned above for
+composite supply are fulfilled (i.e. naturally bundled supplies and one being principal supply and
+other ancillary supply to principal supply). The entire transaction of providing the goods and the
+
+services is naturally bundled and hence this is clearly a case of composite supply of goods and
+supply of services.
+
+20. Now, we proceed to examine as to whether the contracts/agreement before us is a 'works
+contract as defined in clause (119) of section 2 of the CGST Act, 2017 or otherwise. The
+definition of works contract is reproduced below.
+(119) "works contract" means a contract for building, construction, fabrication,
+completion, erection, installation, fitting out, improvement, modification, repair,
+maintenance, renovation, alteration or commissioning of any immovable property
+wherein transfer of property in goods (whether as goods or in some other form) is
+involved in the execution of such contract;
+
+21. It is seen from the definition that works contract involves activities of building,
+construction, fabrication, completion, erection, _ installation, fitting out, improvement,
+modification, repair, maintenance, renovation, alteration or commissioning of any immovable
+property wherein transfer of property in goods (whether as goods or in some other form) is
+involved in the execution of such contract. However, these activities should be in respect of
+immovable property. In order to decide whether the transaction is a works contract, it is for us to
+decide whether it is in respect of immovable property. The term 'immovable property' has not
+been defined under the GST Act. As per Section 3(26) of the General Clauses Act, 1897,
+immovable property includes “land, benefits to arise out of land, and things attached to the earth,
+or permanently fastened to anything attached to the earth”. From the said definition, it is clear
+
+that anything which become the integral part (i.e., coming within the civil structure) of anything
+attached to the earth is termed as immovable property.
+
+22.1 We find that Contract 4 (bearing Ref. No. PPMM/SE-II/2015-16/04 dated 22.03.2016) is
+for the work of providing Civil and Structural works and all other installation services related to
+Civil and structural works leading to successful “completion of facilities” of the EPC Package
+for Harduaganj Thermal Power Station Extension-II. The contract price of the said contract is as
+
+under-
+| SL.No. Particulars Price in INR (inclusive of all
+taxes and duties)
+Fi Installation services (Civil and Structural | 461,948, 371.00
+
+works) including Insurance (other than transit
+insurance and other services as specified in the
+Bidding Documents)
+
+[, = ]|
+
+
+ae = —
+
+1(a) Civil Works 5,701,990,000
+1(b) Civil Structural works 733,954,000
+4 TOTAL CONTRACT PRICE [1+2+3(a)+3(b)] _ | 6,435,944,000
+
+22.2 It is seen from the nature of contract which envisages installation, which involves civil
+works to erect the structure for execution of the project in its entirety. It is an entire system
+comprising of a variety of different structures which are installed after a lot of prior work which
+involves detailed designing, ground work. Further foundations in cement concrete, cement
+concrete walls as well as cement concrete structures are to be constructed during the execution of
+the project. The mode of annexation shows that the groundwork, being the necessary foundation,
+is an important part of the project. The object of annexation, as said earlier, cannot be to make it
+movable from one place to the other. Hence considering the scope of the work, it can be
+concluded that completion of the installation, erection of the total project is resulting into
+immovable property wherein transfer of property in goods is involved.
+
+23.1 We find that the Hon’ble Supreme Court decision in the case of Duncans Industries Ltd
+vs State Of U.P. & Ors on 3 December, 1999 is relevant to the instant case where the SC had to
+decide whether the 'plant and machinery’ in the fertilizer is 'goods' or 'immoveable property. The
+Apex Court held that the same is immoveable property and observed the following-..
+
+.."The question whether a machinery which is embedded in the earth is movable property
+or an immovable property, depends upon the facts and circumstances of each case. Primarily,
+the court will have to take into consideration the intention of the parties when it decided to
+embed the machinery whether such embedment was intended to be temporary or permanent. A
+careful perusal of the agreement of sale and the conveyance deed along with the attendant
+circumstances and taking into consideration the nature of machineries involved clearly shows
+that the machineries which have been embedded in the earth to constitute a fertilizer plant in the
+instant case, are definitely embedded permanently with a view to utilize the same as a fertilizers
+plant. The description of the machines as seen in the Schedule attached to the deed of
+conveyance also shows without any doubt that they were set up permanently in the land in
+question with a view to operate a fertilizer plant and the same was not embedded to dismantle
+and remove the same for the purpose of sale as machinery at any point of time. The facts as
+| could be found also show that the purpose for which these machines were embedded was to use
+the plant as a factory for the manufacture of fertilizer at various stages of its production. Hence,
+the contention that these machines should be treated as movables cannot be accepted."
+
+23.2 Thus, what can be seen from the above is that when machines are embedded with no
+visible intention to dismantle them and they are intended to be used for a fairly long period of
+time, they are 'immoveable property’.
+
+24. Hence, in our view the total project assigned to the applicant is nothing but composite
+supply of works contract as envisaged under Section 2 (119) of CGST Act, 2017 and the entire
+contract is a supply of services as per entry 6(a) of schedule II of the GST Act and liable to GST
+@ 18% as per entry at Sr. no. 3(ii) of the Notification No. 11/2017 of Central Tax (Rate) dt.
+28/06/2017 and corresponding notification under the UPGST Act
+
+25. Accordingly, we pass the following ruling.
+
+
+RULING
+
+Que- Whether tax would be applicable on the service of transportation of goods by road
+to be provided by the company under one of its contracts?
+
+Answer- Replied in affirmative.
+26. This ruling is valid only within the jurisdiction of Authority for Advance Ruling Uttar
+
+Pradesh and subject to the provisions under Section 103(2) of the CGST Act, 2017 until and
+unless declared void under Section 104(1) of the Act.
+
+(Vivek Axfya) (Abhi
+
+Member of Authority for Advance Member of Authority for Advance
+Ruling Ruling
+
+To,
+
+M/s Toshiba JSW Power Systems Private Limited
+
+Meja TPP Site, Kodhar,
+
+Allahabad-212305
+
+AUTHORITY FOR ADVANCE RULING -UTTAR PRADESH
+
+Copy to —
+
+1. The Chief Commissioner, CGST & Central Excise, Lucknow, Member, Appellate
+Authority of Advance Ruling.
+
+. 2. The Commissioner, Commercial Tax, Uttar Pradesh, Member, Appellate Authority of
+
+| Advance Ruling.
+
+| 3. The Commissioner, CGST & C. Ex,, 38, MG Marg, Civil Lines, Allahabad
+
+4. The Deputy/Assistant Commissioner, CGST & Central Excise, Division I, 38, MG Marg,
+Civil Lines, Allahabad
+
+5. Through the Additional Commissioner, Gr-I, Commercial Tax, Prayagraj Zone, Prayagraj,
+Uttar Pradesh to jurisdictional tax assessing officers.
+
+Note: An Appeal against this advance ruling order lies before the Uttar Pradesh Appellate
+Authority for Advance Ruling for Goods and Service Tax, 4, VibhutikKhnad, Gomti
+Nagar, Lucknow — 226010, within 30 days from the date of service of this order.
+
+— a |

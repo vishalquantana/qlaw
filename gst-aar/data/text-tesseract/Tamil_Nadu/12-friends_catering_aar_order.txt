@@ -1,0 +1,724 @@
+AUTHORITY FOR ADVANCE RULING, TAMIL NADU
+No.207, 2»4 FLOOR, PAPJM BUILDING, No.1, GREAMS ROAD,
+CHENNAI 600 006.
+
+ORDER UNDER SECTION 98(4) OF THE CGST ACT, 2017 AND
+UNDER SECTION 98(4) OF THE TNGST ACT, 2017
+
+Members present:
+
+Shri C.Thiyagarajan, I.R.S., Shri B.Suseel Kumar, B.E., MBA.,
+Commissioner /Member (CGST), Joint Commissioner/Member (SGST),
+Office of the Commissioner of GST and Authority for Advance Ruling,
+Central Excise, Audit I Commissionerate, Tamil Nadu,
+
+Chennai - 600 101. Chennai - 600 006.
+
+Advance Ruling No. 27/ARA/2026, dated 26.03.2026
+
+1. Any appeal against this Advance Ruling order shall lie before the Tamil
+Nadu State Appellate Authority for Advance Ruling, Chennai under Sub-Section
+(1) of Section 100 of CGST Act 2017/TNGST Act 2017, within 30 days from the
+
+date on which the ruling sought to be appealed is communicated.
+
+2. In terms of Section 103(1) of the Act, Advance Ruling pronounced by the
+Authority under Chapter XVII of the Act shall be binding only-
+
+(a) On the applicant who had sought it in respect of any matter
+referred to in sub-section (2) Section 97 for advance ruling.
+
+(b) On the concerned officer or the Jurisdictional Officer in respect of
+the applicant.
+
+3. In terms of Section. 103(2) of the Act, this Advance Ruling shall be binding
+unless the law, facts or circumstances supporting the original advance ruling
+
+have changed.
+
+4. Advance Ruling obtained by the applicant by fraud or suppression of
+material facts or misrepresentation. of facts, shall render such ruling to be void
+
+ab initio in accordance with Section 104 of the Act.
+
+5. The provisions of both the Central Goods and Services Tax Act and the Tamil
+Nadu Goods and Services Tax Act (herein referred to as the Act) are the same
+except for certain provisions. Therefore, unless a mention is specifically made
+to such dissimilar provisions, a reference to the Central Goods and Services Tax
+
+Act would also mean a reference to the same provisions under the Tamil Nadu
+
+Page 1 of 14
+
+
+Goods and Services Tax Act.
+
+GSTIN Number, if any/User id S33AAHFF4730D1ZW
+
+Legal Name of Applicant M/s. Friends Catering CBE
+
+Trade Name of Applicant M/s. Friends Catering CBE
+
+Registered Address/ Address No. 172-175, Sarojini Street,
+
+provided while obtaining User id | Ramnagar, Coimbatore — 641 009
+
+Details of Application Application Form GST ARA-01
+received from the applicant on
+01.09.2025.
+
+Jurisdictional Officer State :
+
+Coimbatore Division,
+Coimbatore —II Zone,
+Ram Nagar Assessment Circle.
+
+Center :
+
+Coimbatore Commissionerate,
+Coimbatore — III Division.
+Coimbatore — III C Range
+
+Nature of activity (s)
+{(proposed/present) in respect of
+which advance ruling sought for
+A. Category Service Provision
+
+B. Description (in brief) The applicant is engaged in providing
+outdoor catering services that do not
+involve hotel accommodation and are
+not located in any specified premises as
+defined under the GST law. Their
+services include two distinct categories
+of supply:
+
+° First, they provide composite
+outdoor catering services that
+involve both the supply of prepared
+food and deployment of manpower
+for serving and on-site event
+support.
+
+*° Second, they also undertake
+supply of food for occasional events
+where the food is prepared at their
+premises and delivered to the
+customer's location without any
+involvement of labour or on-site
+service. The responsibility of the
+goods transfers at the time of
+dispatch or delivery, and the service
+does not involve any catering
+activity at the recipient's premises.
+
+Page 2 of 14
+
+
+
+Issues on which advance ruling |1. Applicability of a notification
+required issued under the provisions of this
+Act
+2. Admissibility of Input Tax Credit of
+tax paid or deemed to have been paid
+3, Determination of the liability to pay
+tax on any goods or services or both
+
+Question(s) on which advance |1.Whether we, Friends Catering (GSTIN:
+
+ruling is required 33AAHFF4730D1iZW) being outdoor
+caterers not providing hotel
+accommodation or located in specified
+premises, providing outdoor catering
+services, which include both catering
+and labour services involvement
+(Composite) have the option to either:
+
+a)Pay GST at the rate of 2.5% CGST and
+2.5% SGST without availing Input Tax
+Credit (ITC), or
+
+b)Pay GST at the rate of 9% CGST and
+9% SGST with availing ITC, as per
+Notification No. 11/2017-Central Tax
+(Rate) dated 28.06.2017, as amended
+by Notification No. 20/2019-
+Central Tax (Rate) dated
+30.09.2019, effective from 01.10.2019.
+
+2.What is the applicable GST rate for
+food supply services provided for
+occasional events, where no labour or
+on-site services are involved, and the
+food is prepared at our own premises
+and transported to the recipient's
+location at their own risk?
+
+3.What is the applicable HSN Code?
+
+M/s. Friends Catering CBE No. 172-175, Sarojini Street, Ramnagar,
+Coimbatore — 641 009 (hereinafter called as the “Applicant”) are registered
+under the GST Act with GSTIN 33AAHFF4730D1ZW. The applicant informed
+that they are engaged in providing outdoor catering services that do not
+involve hotel accommodation and are not located in any specified premises.
+Their services include two distinct categories of supply:
+
+* They provide composite outdoor catering services that involve both
+the supply of prepared food and deployment of manpower for serving and
+on-site event support.
+
+Page 3 of 14
+
+
+* They also undertake supply of food for occasional events where the food
+is prepared at their premises and delivered to the customer's location
+without any involvement of labour or on-site service. The responsibility
+of the goods transfers at the time of dispatch or delivery, and the service
+does not involve any catering activity at the recipient's premises.
+
+2.0 The Applicant has made a payment of application fees of Rs.5,000/-
+each under sub rule (1) of Rule 104 of CGST Rules, 2017 and SGST Rules,
+2017.
+
+3.0 The applicant has sought advance ruling on the question on rate of
+GST on both the models of supply under outdoor catering services and the
+applicable HSN code in both the cases.
+
+Statement of relevant facts having a bearing on the question(s) raised.
+
+4.1 Under Statement of relevant facts having a bearing on the question(s)
+raised, the applicant has stated that they are engaged in providing outdoor
+catering services, which include both catering and labour services; that
+labour services are always provided in conjunction with catering services;
+that they also offer catering services without any labour services, where food
+is prepared at their premises and subsequently transported to the recipient's
+location for occasional events, at their own risk; that their catering services
+are primarily provided for outdoor events held at various venues such as
+marriage halls, exhibition halls, and other similar locations for occasional
+functions; that they do not provide hotel accommodation services, nor are we
+located in any "specified premises".
+
+4.2 The applicant further states that as per the amended Notification No.
+11/2017-CT (Rate), Entry {iv), the supply of outdoor catering services at
+venues other than "specified premises" and provided by suppliers who are
+neither: (a) suppliers providing hotel accommodation at specified premises,
+nor (b) suppliers located in specified premises, is subject to GST at the rate
+of 2.5% CGST and 2.5% SGST, provided that no credit of input tax has been
+claimed on the goods and services used to supply this service. Also, Entry
+(vi) of the same notification specifies that GST at the rate of 9% CGST and
+9% SGST applies to "Accommodation, food, and beverage services, other
+than those listed in Entries (i) to (v} above," without any restrictions on
+availing Input Tax Credit (ITC). The applicant further adds that the
+Explanation under Entry (vi) clarifies that the services covered by Entries (ii),
+(iii), (iv), and (v) will attract the respective GST rates prescribed for each
+category, subject to the conditions outlined in those entries. The applicant
+
+also includes that for the purpose of GST, the term “outdoor catering"
+Page 4 of 14
+
+
+includes services provided at venues such as exhibition halls, events,
+conferences, marriage halls, and other similar locations for occasional and
+event- based functions, whether held indoors or outdoors
+
+Interpretation of Law by the Applicant based on the statement of facts:
+
+5.1 On interpretation of law, the applicant has stated that their services
+fall within the meaning of "outdoor catering" as defined in the notification,
+and are carried out at premises that are not "specified premises", by a
+person who does not provide hotel accommodation and is not located in
+specified premises. The applicant opined that Entry (iv) prescribes a
+concessional rate of 5% GST (2.5% CGST + 2.5% SGST), subject to the
+condition that ITC is not availed. It is not an unconditional mandatory rate,
+as the applicability is conditional upon non-availment of input tax credit and
+Entry (vi) provides for a GST rate of 18% (9% CGST + 9% SGST) for
+accommodation, food, and beverage services not falling under Entries (i) to
+(v), with the facility to avail ITC. Further, the applicant also added that since
+the concessional rate under Entry (iv) is conditional, and the standard rate
+under Entry (vi) is unconditional (and applies to all food and catering
+services not choosing or not falling under concessional categories), they
+interpret that the applicable HSN Code is 996334 and they have option to
+either (a) Pay GST at 5% without availing ITC under Entry (iv), if they choose
+to forgo ITC, or, (b) Pay GST at 18% with ITC under Entry (vi), if they choose
+to avail ITC, whether or not involving Labour services.
+
+5.2 Prima facie, we find that the queries raised by the applicant get
+covered under clause (b), (d) and (e) of the Section 97(2) of the CGST Act,
+2017, and as such are liable to be admitted.
+
+5.3 The applicant is under the administrative control of State Tax
+Authority. The concerned Authorities of the Centre and State were
+addressed to report the detailed remarks and no pendency report on the
+questions raised by the applicant in their ARA application.
+
+5.4 Since, no remarks have been received from the Central or State GST
+jurisdictional Authorities, it is construed that there are no pending
+proceedings against the applicant on the questions raised by them in their
+advance ruling application
+
+Personal Hearing
+
+6.1 Mr. Manoj B., Chartered Accountant appeared for the personal hearing
+
+as an authorized representative (AR) of M/s. Friends Catering CBE. The AR
+
+reiterated the submissions made in their application for advance ruling.
+
+62 ‘The AR informed that they are engaged in providing outdoor catering
+Page 5 of 14
+
+
+service under two types of supply, one of which is that they prepare the food
+and engage their staff and logistics to deliver and serve the food at the
+customers’ premises or at the event site. Another model is that they prepare
+food at their centralized kitchen and the customers engage their logistics and
+staff to deliver and serve the food at their premises.
+
+6.3 The Members asked whether they have any accommodation services
+along with the catering services and whether they have specified premises, to
+which the AR replied in negative. The AR reiterated that they need reply to
+their query regarding the rate of tax on both the models of food supply
+adopted by them. The Members informed the AR that mere preparation of
+food for outward supply is also a supply of service as per Schedule II of the
+CGST Act, 2017, to which the AR agreed. When the Members asked about
+the present tax rate adopted by the applicant, the AR replied that they tax at
+the rate of 18% and avail Input Tax Credit (ITC) wherever supply of food,
+transportation and serving is involved and tax 5% without availing ITC
+whenever only food is prepared without involvement of transportation or any
+other service. The Members also asked the AR to provide a write up on the
+present practice adopted by the applicant in case of both the models of
+supply of food along with sample copies of invoices. The AR undertook to |
+provide the write up at the earliest.
+
+Discussions and Findings:
+
+7.1 We have considered the submissions made by the applicant in their
+application, copies of the relevant documents furnished by them, the
+submissions made during the personal hearing. We find that the applicant
+claims that they are engaged in providing outdoor catering services that do
+not involve hotel accommodation and are not located in any specified
+premises and that their services include two models of supply:
+
+* They provide composite outdoor catering services that involve both
+the supply of prepared food and deployment of manpower for serving and
+on-site event support.
+
+* They also undertake supply of food for occasional events where the food
+is prepared at their premises and delivered to the customer's location
+without any involvement of labour or on-site service. The responsibility
+of the goods transfers at the time of dispatch or delivery, and the service
+does not involve any catering activity at the recipient's premises.
+
+7.2 Accordingly, the applicant has sought advance ruling on the question as
+to
+
+1. Whether they have the option to either:
+
+a) Pay GST at the rate of 2.5% CGST and 2.5% SGST without availing
+Input Tax Credit (ITC), or
+
+Page 6 of 14
+
+
+b) Pay GST at the rate of 9% CGST and 9% SGST with availing ITC, as
+per Notification No. 11/2017-Central Tax (Rate) dated 28.06.2017, as
+amended by Notification No. 20/2019-Central Tax (Rate) dated
+30.09.2019, effective from 01.10.2019.
+
+2. What is the applicable GST raie for food supply services provided for
+occasional events, where no labour or on-site services are involved, and
+the food is prepared at their own premises and transported to the
+recipient's location. at their own. risk?
+
+3. What is the applicable HSN Code?
+
+7.3 The applicant is of the view that the activity undertaken by them fall
+within the meaning of "outdoor catering" as defined in the notification, and
+are carried out at premises that are not "specified premises’, by a person
+who does not provide hotel accommodation and is not located in specified
+premises. The applicant opined that Entry (iv) prescribes a concessional rate
+of 5% GST (2.5% CGST + 2.5% SGST}, subject to the condition that ITC is
+not availed and Entry (vi) provides for a GST rate of 18% (9% CGST + 9%
+SGST) for accommodation, food, and beverage services not falling under
+Entries (i) to (v), with the facility to avail ITC. Further, the applicant also
+added that since the concessional rate under Entry (iv) is conditional, and
+the standard rate under Entry (vi) is unconditional (and applies to all food
+and catering services not choosing or not falling under concessional
+categories), they interpret that the applicable HSN Code is 996334 and they
+have option to either to pay GST at 5% without availing ITC under Entry (iv),
+if they choose to forgo ITC, or to pay GST at 18% with ITC under Entry (vi), if
+they choose to avail ITC, whether or not involving Labour services.
+
+7.4 At this juncture, it becomes imperative to ascertain as to whether the
+said activity of the Applicant, constitute a supply of ‘goods’, or a supply of
+‘service’. Schedule II to the CGST Act, 2017 lists the activities to be treated
+as supply of goods, or, supply of services. In this regard, we find that para 6
+of Schedule II, which discusses about ‘Composite supply’ is relevant to the
+issue in question, and the same is reproduced below:
+
+“6, Composite supply: The following composite supplies shall be treated as
+a supply of services, namely:—
+
+(a) works contract as defined in clause (119) of Section 2; and
+
+(b) supply, by way of or as part of any service or in any other manner
+whatsoever, of goods, being food or any other article for human
+consumption or_any drink (other than aleoholic liquor for human.
+consumption), where such supply or service is for cash, deferred payment
+or other valuable consideration.”
+
+Page 7 of 14
+
+
+7.5 Section 2 (30) of the CGST Act, 2017 defines ‘Composite Supply’ as:
+
+"(30) "composite supply" means a supply made by a taxable person to a
+recipient consisting of two or more taxable supplies of goods or services or
+both, or any combination thereof_which are naturally bundled and
+supplied in conjunction with each other in the ordinary course of business,
+one of which is a principal supply;
+
+Illustration. - Where goods are packed and transported with insurance, the
+
+supply of goods, packing materials, transport and insurance is a composite
+
+supply and supply of goods is a principal supply;”
+7.6 The applicant prepares food at their premises and supplies it to their
+chents for events held at various venues such as marriage halls, exhibition
+halls, and other similar locations for occasional functions. The applicant
+adopts two models of food supply for such occasional events or functions,
+viz., (i) they prepare the food at their premises, along with deployment of
+manpower for serving and on-site event support, and (ii) the applicant
+prepares the food at their premises and delivers it to the customer's location
+without any involvement of labour or any other on-site service.
+
+7.7 We find that, in the first scenario, the applicant is involved in
+preparation, transport and serving of food to the clients for occasional
+outdoor or indoor events or functions. This combination of supply of goods
+and services are naturally bundled resulting in an overall supply of food to
+their clients and so, the activity undertaken by the applicant satisfy the
+criteria required for arriving at a composite supply. Therefore, we are of the
+opinion that the supply of food undertaken by the applicant forms a
+‘composite supply’ and the same is liable to be treated as a ‘supply of service’
+as laid down in clause (b) to para 6 of Schedule II to the CGST Act, 2017.
+
+7.8 In the second scenario, the applicant prepares food at their premises
+and subsequently transports it to the recipient's location for occasional
+events, at the customer’s own risk. Here, the applicant is involved in
+preparation of food as well as supporting logistically by way of arranging for
+transport of the prepared food, albeit at the customers’ risk. Here again, we
+are of the opinion that since the applicant is involved in preparation of food,
+and in the arrangement for transportation of food, it falls within the meaning
+of a ‘composite supply’ and the same is liable to be treated as a ‘supply of
+
+service’ as laid down in clause (b) to para 6 of Schedule II to the CGST Act,
+2017.
+
+7.9 Having held that both the models of supply of food adopted by the
+applicant amounts to ‘supply of service’, it becomes imperative to ascertain
+the classification of service in order to determine the taxability of the service
+involved. In this regard, we find that the Annexure to the Notification
+
+Page 8 of 14
+
+
+No.11/2017-CT(Rate) dated 28.06.2017, as amended, lists the classification
+of services and the extract of the relevant Chapter, Section Heading or
+Group, is reproduced as under :-
+
+Annexure: Scheme of Classification of Services
+
+Si. Chapter, Service Service Description
+No. Section Code (Tariff)
+Heading or
+Group
+
+80 | Group 99633 Food, edible preparations,
+
+alcoholic and non-alcoholic
+beverages serving services
+
+996334 Catering Services in Exhibition halls,
+Events Marriage Halls and other
+outdoor/indoor functions.
+
+As per the submissions of the applicant, they provide catering services
+primarily for outdoor events held at various venues such as marriage halls,
+exhibition halls, and other similar locations for occasional functions.
+Therefore, as seen from the above table, the Service Accounting Code (SAC)
+is 996334.
+
+7.10 Now that the SAC of the service activity is arrived at, we proceed to
+determine the rate of tax on the said supply of service. The rate of tax
+adopted for the activity of the Applicant is as per Notification No.11/2017-
+Central Tax (Rate) dated 28.06.2017, which notifies the Central Tax
+applicable on various services, as amended by Notification No.20/2019-
+Central Tax (Rate) dated 30.09.2019, is reproduced below:
+
+Sl | Chapter, Description of Rate Condition
+No. Section or Service (percent.)
+Heading
+7 |Heading (i) Supply of ‘ Hotel 6 -
+9963 accommodation’
+
+(Accommodatio | having value of supply
+n, food and | of unit, accommodation
+
+beverage above one thousand
+services) rupees but less than or
+equal to seven
+thousand five
+
+hundred rupees per
+unit per day or
+equivalent.
+
+Page 9 of 14
+
+
+(ii) Supply of restaurant 2s Provided that credit
+
+service’ other than at of input tax charged
+‘specified premises’ on goods and
+services used in
+supplying the
+service has not been
+taken
+(iti) Supply of goods, 2.5 Provided that credit
+being food or any other of input tax charged
+article for human on goods and
+consumption or any dri services used in
+nk,by the Indian supplying the
+Railways or..... service has not been
+taken.
+(iv) Supply of “outdoor 25 Provided that credit
+catering”, at of input tax charged
+premises other than on goods and
+“ specified premises” services used in
+provided by any supplying the
+person other than- service has not been
+(a) suppliers taken
+providing “hotel
+accommodation” at
+
+“specified premises”, or
+(b) suppliers located in
+
+— “specified premises”.
+
+(vy) Composite supply of 2.5 Provided that credit
+
+‘outdoor catering’ of input tax charged
+
+together with ..... on goods and
+services used in
+supplying the
+service has not been
+taken
+
+(vi) Accommodation, 9 <
+
+food and beverage
+services other than (i)
+to (v) above
+
+7.11 The explanation given in para 4 of the Notification No.11/2017-Central
+Tax (Rate) dated 28.06.2017, as amended by Notification No.20 /2019-
+Central Tax (Rate) dated 30.09.2019 for Restaurant Service, Outdoor
+Catering Service, Hotel Accommodation Service is as follows: -
+
+“Pocdi) ‘Restaurant service’ means supply by way of or as part of any
+service, of goods, being food or any other article for human consumption
+or any drink, provided by a restaurant, eating joint including mess,
+canteen, whether for consumption on or away from the premises where
+such food or any other article for human consumption or drink is
+supplied.
+
+(xxxili) ‘Outdoor Catering” means supply, by way of or as part of any
+service of goods, being food or any other article for human consumption or
+
+Page 10 of 14
+
+
+any drink, at Exhibition halls, Events, Conferences, Marriage Hails and
+other outdoor or indoor functions that are event based and occasional in
+
+nature.
+
+(xxxiv) ‘Hotel accommodation’ means supply by way of accommodation in
+hotels, inns, guest houses, clubs, campsites or other commercial places
+meant for residential or lodging purposes including supply of time share
+usage rights by way of accommodation.
+
+7.12 From the above, the following could be deduced, i.e.,
+
+i. Restaurant service covers only the services provided by restaurant,
+mess or canteen, thereby, the activity undertaken by the Applicant i.e.
+supply of food on occasional basis would not be covered under
+‘restaurant service’.
+
+i. It is quite obvious that the service in question, will not be covered
+under ‘hotel accommodation service’ as the applicant is not providing
+any accommodation in hotels, inns, etc.
+
+ii. The said activity of the Applicant would ideally be covered under
+‘outdoor catering service’ as the applicant is involved in the
+preparation of food and delivering the same for outdoor events held at
+various venues such as marriage halls, exhibition halls, and other
+similar locations for occasional functions.
+
+7.13 Therefore, the services carried out by the Applicant fit into the
+category of services covered under Sl. Nos. 7{iv) of the service rate
+Notification No.11/2017-CT(Rate), dated 28.06.2017, as amended by
+Notification No.20/2019- Central Tax (Rate) dated 30.09.2019. We are
+therefore of the considered opinion that the activity of supply of food
+undertaken by the Applicant on occasional basis falls under entry No.7 (iv) of
+the aforesaid notification, thereby attracting GST at the rate of 5% (2.5%
+CGST and 2.5% SGST) with a condition that credit of input tax charged on
+goods and services used in supplying the service has not been taken.
+
+7.14 At this juncture, we find that the applicant contended and interpreted
+that since the concessional rate under Entry 7(iv) is conditional, and the
+standard rate under Entry (vi) is unconditional (and applies to all food and
+catering services not choosing or not falling under concessional categories),
+they have option to either to pay GST at 5% without availing ITC under
+Entry (iv), if they choose to forgo ITC, or to pay GST at 18% with ITC under
+Entry (vi), if they choose to avail ITC, whether or not involving Labour
+services. In this regard, we find that the Entry No.7(vi) of the Notification
+No.20/2019-CT(Rate) dated 30.09.2019 (which amends the original service
+rate Notification No.11/2017-CT(Rate), dated 28.06.2017, reads as below :-
+
+Page 11 of 14
+
+
+(3) 4 (5)
+
+(vi) Accommodation, food and beverage services other
+than
+
+(i) to (v) above
+
+Explanation:
+
+(a) For the removal of doubt, it is hereby clarified that,
+supplies covered by items (ii), {iti), (iv) and (v) in column
+(3) shall attract central tax prescribed against them in
+column
+
+(4) subject to conditions specified against them in
+column (5), which is a_mandatory rate and shall
+not be levied at the rate as specified under this
+
+entry. 9 7
+(b) This entry covers supply of ‘restaurant service’ at
+‘specified premises’
+
+(c) This entry covers supply of ‘hotel accommodation’
+having value of supply of a unit of accommodation
+above seven thousand five hundred rupees per unit per
+day or equivalent.
+
+(d) This entry covers supply of ‘outdoor catering’,
+provided by suppliers providing ‘hotel accommodation’
+at ‘specified premises’, or suppliers located in ‘specified
+(e) This entry covers composite supply of ‘outdoor
+catering’ together with renting of premises (including
+hotel, convention center, club, pandal, shamiana or any
+other place, specially arranged for organising a
+function) provided by suppliers providing ‘hotel
+accommodation’ at ‘specified premises’, or suppliers
+located in ‘specified premises’.
+
+7.15 It could be seen from the above that the aforesaid entry 7(vi) which
+provides for tax at the rate of 9% {i.e., 18% overall including SGST), without
+any condition, starts with the phrase “Accommodation, food and beverage
+services other than (i) to (v) above”. Accordingly, having held already that
+the services rendered by the applicant gets covered under entry S1.No.7{iv),
+the question of application of entry SLNo.7(vi) to the instant case, does not
+arise at all. Apart from the same, clause (a) of the Explanation appended to
+the said entry, clearly states that in respect of supplies covered by items (ii),
+(ii), (iv) and (vj), central tax prescribed against them in the respective
+column, ie., 2.5% (5% overall GST) shall be payable, subject to conditions
+specified against them, and that the same is a mandatory rate and shail
+not be levied at the rate as specified under this entry. It could also be
+seen from the other inclusive clauses of the Explanation, that they all relate
+to services other than the one being discussed in the instant case, like (b)
+restaurant service, (c) hotel accommodation, (d) supply of ‘outdoor catering’
+provided by suppliers providing ‘hotel accommodation’, (e) supply of ‘outdoor
+
+Page 12 of 14
+
+
+catering’ together with renting of premises, etc. It is therefore clear that the
+rate of 9% is applicable only in respect of specific cases, and for all the other
+cases, the rate specified against the respective entries becomes mandatory,
+and that the option to pay GST at the rate of 9% (18% overall) does not lie
+with the taxpayer in such cases.
+
+8. Based on the above discussion, we rule as under:
+
+RULING
+
+4. (a) The applicant is required to pay tax on the supply of service
+involving food, at the rate of 5% (2.5% CGST and 2.5% SGST) as per Sl.
+No. 7(iv) of the Notification No.11/2017 - Central Tax (Rate)
+dated 28.06.2017, as amended, with a condition that credit of input tax
+charged on goods and services used in supplying the service has not
+been taken.
+
+(b) The applicant does not have an option of paying GST at the rate of
+9% CGST and 9% SGST, along with availment of ITC.
+
+2, The applicable GST rate for food supply services provided for occasional
+events, where no labour or on-site services are involved, and the food is
+prepared at applicant’s premises and transported to the location at
+recipient's risk, is 5% (2.5% CGST and 2.5% SGST) as per SI. No. 7{(iv)
+of the Notification No.11/2017-Central Tax (Rate) dated 28.06.2017, as
+amended, with a condition that credit of input tax charged on goods
+and services used in supplying the service has not been taken.
+
+3. The applicable HSN Code (SAC) for both the models of supply of food
+carried out by the applicant is 996334.
+
+: = sare.
+
+(B. Suseel Kumar)
+Member (SGST)
+
+To
+
+M/s. Friends Catering CBE
+GSTIN: 33AAHFF4730D1ZW
+
+No. 172-175, Sarojini Street, Ramnagar,
+Coimbatore — 641 009.
+(By Speed Post)
+
+Page 13 of 14
+
+
+Copy submitted to:
+
+{. The Principal Chief Commissioner of GST and
+‘Central Excise, 26/1, Uthamar Mahatma Gandhi
+Road, Nungambakkam, Chennai 600 034.
+
+2. The Commissioner of Commercial Taxes,
+and Floor, Ezhilagam, Chepauk, Chennai 600 005.
+
+3 The Commissioner of GST and Central Excise,
+Coimbatore Commissionerate,
+6/7, A.T.D. Street, Race Course,
+Coimbatore — 641 018.
+
+Copy to:
+
+1. The Assistant Commissioner (ST),
+Ram Nagar Assessment Circle,
+274 Floor, CTO Complex,
+
+Dr. Balasundaram Road,
+Coimbatore — 641 018.
+
+2. Stock File — Al
+
+Page 14 of 14

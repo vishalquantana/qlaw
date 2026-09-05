@@ -1,0 +1,400 @@
+AUTHORITY FOR ADVANCE RULING
+TAMILNADU ADVANCE RULING AUTHORITY
+PAPJM Buildings, II Floor, No.1, Greams Road, Chennai-6OO 006.
+PROCEEDINGS OF THE AUTHORITY FOR ADVANCE RULING U/s.98 OF THE
+GOODS AND SERVICES TAX ACT, 2OL7.
+Members present are:
+1. Ms. Manasa Gangotri Kata,IRS Joint Commissioner/Member,
+Office of the Commissioner of GST & Central Excise, Chennai
+2. Thiru S. Vijayakuma-r, M.Sc., Joint Commissioner (CT) / Member (FAC),
+OfIice of the Joint Commissioner (ST), Enforcement /
+Inter-State Investigation Cell, Chennai-6.
+oRpER No. s/AAR/2Ol? pATEp: 22.O1.2O19
+GSTIN Number, if any / User id
+33AAACM4754GLZU
+Legal Name of Applicant
+M/s. MRF Limited
+Registered Address/Address provided
+while obtaining user id
+Old No.I24/New No.114, Greams Road,
+Thousand Lights,
+Chennai-600006.
+Details of Application
+GST ARA-O1 Application Sl. No. 4O dated
+03.08.2018
+Concerned Officer
+Centre: Chennai North Commissionerate-
+Division -Egmore
+State: The Assistant Commissioner(ST),
+Egmore Assessment Circle,
+Nature of activity(s) (proposed /
+present) in respect of which advance
+ruline sousht
+A
+Category
+Manufacturing
+B
+Description (in Brief)
+Post-invoice discount is offered by the supplier
+in the C2FO platform, the Applicant intends to
+use and this discount is not captured in PO.
+The Applicant submits that the proportionate
+Input Tax Credit attributable to such discount
+is not required to be reversed.
+Issue/s on which advance ruling
+required
+Admissibility of Input Tax Credit
+Question(s) on which advance ruling is
+required
+Whether the Applicant can avail the Input
+Tax Credit of the full GST charged on the
+sttpply of invoicc ol' a lrr^ulrorLionaLc reverserl of
+the same is required in case of post purchase
+discount given by the supplier of the goods or
+services.
+Page 1 of 10
+
+
+Note : 
+Any Appeal against the Advance Ruling order shall be filed
+before the Tamil Nadu State Appellate Authority for Advance Ruling,
+Chennai under Sub-section (lf of Section 1OO of CGST ACT/TNGST Act
+2Ol7 within 3O days from the date on which the ruling sought to be
+appealed against is communicated.
+At the outset, we would like to make it clear that the provisions of
+both the Central Goods and Senrice Tax Act and the Tamil Nadu Goods
+and Service Tax Act are the same except for certain provisions.
+Therefore, unless a mention is specifically made to such dissimilar
+provisions, a reference to the Central Goods and Senrice Tax Act
+would also mean a reference to the same provisions under the Tamil
+Nadu Goods and Service Tax Act.
+M/s. MRF Ltd, Old No.124, / New No.114, Greams Road, Thousand
+Lights, Chennai-600006 (hereinafter called the Applicant or the Company) is
+registered under the applicable provisions of the CGST 2OI7 and TNGST 2017 vide
+registration number 33AAACM4754GIZU. They have preferred an application
+seeking Advance Ruling on
+"Whether the MRF Ltd can avail the ITC of the full GST charged on the
+supply of invoice or a proportionate reversal of the sarne is required in case
+of post purchase discount given by the supplier of the goods or services."
+The Applicant has submitted the copy of application in Form GST ARA - 01 and
+also submitted the copy of Challan evidencing payment of application fees of
+Rs.5,O0o/-each under sub-rule (1) of Rule 104 of CGST rules 2Ol7 and SGST
+Rules 2017.
+2.I 
+The Applicant has informed that they intend to enter into an arrangement
+with M/s. C2F0 INDIA LLP ( hereinafter referred as C2F0), a subsidiary of Pollen
+Inc, having its Indian Office at, 303, 0IA House, 47O, Cardinal Gracious Road,
+Andheri (East), Mumbai 
+4OOO99, Maharashtra, India for setting up an
+interactive automated data exchange which can be installed for data interaction
+relating to sale & purchase of goods and services between a Buyer (the Applicant)
+and a Supplier (aly supplier of goods or input services of thc Applicant) in
+compliance to various ethical, accounting and business standards. Both the
+Supplier and Recipient of goods or services should register on the platform
+provided by C2FO. The transactions are explained by the Applicant as follows:
+Page 2 of 10
+
+
+Based on the defined schedule, C2FO outbound program will extract
+approved open invoices (remaining unpaid) and Supplier (vendor) data from
+SAP and transfer the data to C2FO cloud on AWS (Arnazon Web Services).
+Data first loaded to client SFTP (Secured File Transfer Protocol) staging
+area. Automated process picks up data from Secure Transfer of invoices
+Platform (SFTP) to C2F0 AWS 53 cloud.
+Successfully discounted invoice data is sent back to client SFTP staging
+area.
+The supplier can place discount offer either as APR (Annual Percentage
+Rate) or flat discount on the C2FO platform 24x7.
+C2F0 platform alerts Supplier Relationship Manager (SRM) on key trigger
+points such as supplier activity on the portal to engage with suppliers at
+the opportune moment.
+Client Finance team provide guidance on desired APR, minimum APR and
+cash pool. C2FO algorithms will use these settings to take a decision on
+which invoices are awarded for early payment by client.
+By accepting C2FO's Terms and Conditions, the Supplier will be agreeable
+to offer certain discount in return for an early payment of an Invoice from
+the recipient of goods or services (i.e., the applicant).
+2.2 The Applicant has stated that since this is a post-invoice discount being
+offered on optional basis, tfre same is not captured in the supply contract between
+the company and supplier. Hence, once the goods and or the services are
+delivered and the invoice is booked in ERP and marked as approved to pay, the
+supplier via C2FO can take a voluntar5r decision to accelerate the payment and
+receive early payment. The supply of goods/services is made by the supplier to the
+recipient in terms of the purchase contract and the recipient on receipt of the
+goods/services takes ITC in the invoice which is paid to the government by the
+supplier. Through the use of the automated process, the supply invoices in respect
+of which the recipient will be prepared to pay the invoices at an early date subject
+to the supplier accepting to extend certain quantified discount will be offered to the
+supplier. On acceptance of the same, the payment of the invoices after considering
+the discount will be processed by the recipient of the goods or services. This
+discount arrangement is not part of the Purchase Contracts or the invoices since it
+is not known at that point of time whether supplies against the purchase contracts
+or invoices will be considered for the discount and also the rate /quantum of such
+discount is not known. It is a case of offering discount post supply falling under
+"Cash Discount not agreed before or at the time of supply".
+Page 3 of 10
+
+
+2.3 T1ne Applicant stated that as per Section 15(3) of CGST Act, discount in this
+case is not allowable for deduction from the price at the time of supply since the
+same is known either before or at the time of supply. The taxable value for the
+purpose of payment of GST will be the value as per purchase contract without
+considering such discount so offered and the supplier is liable to pay tax on the
+value before discount. As per Section 16(2), a person who fails to pay to the
+supplier of goods, the amount towards the value of supply along with the tax
+payable within a period of 180 days from date of invoice, ITC taken by him shall be
+added to the output tax liability. Value of supply is the value on which GST is
+payable by the supplier. In the present case, the buyer pays price minus the
+discount plus GST on the value without considering discount, since such discount
+is not a-llowed for deduction from price. GST is paid by the supplier on the entire
+price of the goods without considering the discount. Recipient will pay the
+discounted price along with GST on the original price to the supplier. The
+Applicant states that the payment made by the recipient has to be construed as
+proper payment in compliance with Section 16(2) though there is an actual lower
+payment to the extent of discount. This is because the discount is not allowed as
+deduction for the purpose of payment of GST since the required conditions are not
+satisfied. There is no requirement to reverse ITC by the recipient attributable to the
+amount of discount so allowed for the reason that such discount is not considered
+by the supply for payment of GST and he is not entitled to issue any credit note for
+the discount amount including GST in terms of Section 34(1) and (2). Any post
+supply arrangement resulting in reduction in price should not alter the payment of
+GST by the supplier and the respective availment of ITC by the recipient. Any
+requirement of insistence for reversal of credit on the discount portion at the
+hands of the recipient is not warranted.
+In view of the above, the Applicant has sought Advance Ruling to clarify Whether
+the company can avail the ITC of the full GST charged on the supply of invoice or
+a proportionate reversal of the sarne is required in case of post purchase discount
+given by the supplier of the goods or services.
+3. 
+The Authorized Representative of the Applicant was heard in the matter.
+They stated that tJ:ey intend to subscribe to an online platform C2FO where post
+sale, post supply and post issue of invoice depending on the early payment
+schedule offered by the supplier, the buyer (Applicant) can accept discount and
+make payment. Then a credit note would be issued. The payment would be made
+Page 4 of 10
+
+
+one time for each invoice at the discounted price. They stated that they do not fall
+under Section 15(3) (a) or (b) of CGST Act,2O17, hence the value of supply should
+be full undiscounted value. In light of the above, they want to know whether GST
+is paid on full value by supplier and credit note does not include GST and hence
+they can take full ITC on undiscounted value. They submitted a write up/
+brochure of the software C2FO along with screenshots of the C2FO software
+prepared for their internal use.
+4.1 We have gone through the submissions made by the Applicant. It is seen
+from the brochure of C2FO that the SAP system of MRF will be interfaced with the
+cloud server of C2FO.The invoices for receipt of goods or services received by the
+Applicant are uploaded onto the system. The vendors, registered on the C2FO
+software platform, place discount offer, either Annual Percentage Rate or flat
+discount to receive early payment. The C2FO algorithms use settings of desired
+annual percentage rate, minimum Annual percentage rate, cash availability to
+decide on which invoices are chosen for early payment. This process happens
+continually in which the discount offers can be varied by the vendors which would
+determine the amount and date of payment for each of these invoices. Screenshots
+of the software pertaining to the Applicant shows that the Applicant can set a
+desired annual percentage rate either monthly or quarterly and also set the cash
+availability monthly. This cash availability can be replenished periodically. It
+displays the suppliers who are participating at any given time. Screenshots of
+software pertaining to the suppliers show that each invoice is shown with original
+due date, invoice amount, discount offered and how many days it was paid earlier
+than due date.
+4.2 From the various submissions, it is seen that the Applicant intends to enter
+into an agreement with C2FO for setting up an interactive automated data
+exchange which can be installed for data interaction relating to sale & purchase of
+goods and services between them and their Suppliers. Both the Supplier and
+Recipient of goods or services should register on the platform provided by C2F0.
+From the transactions envisaged in the platform, it is seen that a schedule is to be
+defined, based on which approved open invoices and supplier data is picked for
+offering the same for discounting by the supplier and if agreed by the supplier, the
+discounted invoices are placed for early payment. It is observed that by registering
+in the platform, the supplier is agreeable to offer certain discount in return for an
+early payment and the discount offer can either be as APR (Annual Percentage
+Rate) or flat discount pre-fixed. Based on the discounted invoice ttre applicant pays
+Page 5 of 10
+
+
+the supplier. The supplier on raising the invoice (undiscounted price), pays the
+applicable GST. The Applicant on receipt of the goods/services and the invoice
+avails the tax paid by the supplier as credit and thereafter when such invoice is
+staged for discount against early payment in the C2FO platform and the price is
+discounted, only the discounted amount is paid by the applicant to his suppliers
+and not the amount indicated in the invoice. The Applicant claims that there is no
+need on their part to reverse the Input Tax credit availed by them in proportion to
+the discount in the invoice price. The Applicant has sought ruling only on whether
+proportionate ITC is to be reversed. The Applicant has stated that the discount in
+price which is offered through the platform is not captured in the Purchase order/
+agreement. The question before us relates to admissibility of the ITC to the extent
+of the undiscounted value or of the value after discount and requirement of
+reversal of proportionate credit.
+4.2 The eligibility to Input Tax Credit is governed under Section 16 of CGST Act
+2OI7 ITNGST Act 2OI7. The relevant provisions are given under for ease of
+reference:
+Section 9 of CGST Act
+9. (1) Subject to the prouisions of sub-section (2), there shall be leuied a tax called
+the central goods and seruices tax on aII intra-State supplies of goods or seruices or
+both, except on the supplg of alcoholic liquor for human consumption, orl the ualue
+determined under section 15 and at such retes, not exceeding twentg per cent., as
+mag be notified bg the Gouernment on the recommendations of the Council and
+collected in such manner as maA be prescibed and shall be paid bg the taxable
+person.
+Section L2 of CGST Act states:
+72. (1) The liabilitg to pag tax on goods shall arise at the time of supplg, as
+determined in accordance with the prouisions of this section.
+(2) The time qf suppll1 o.f goods shall be the earlier of the follottting dates, namelll:-
+(a) the date of issue of inuoice by the supplier or the last date on which he is
+required, under sub-section (1) of section 37, to issue the inuoice with respect to the
+supplg; or
+(b) the date on which the supplier receiues the pagment utith respect to the supplg:
+Page 5 of 10
+
+
+Section 15 (3) of CGST Act states
+(3) The ualue of the supplg shall not include ang discount which is giuen-
+(a) before or at the time of the supplg if such discount has been dulg recorded in the
+inuoice issued in respect of such supplg; and
+(b) after the supplg has been effected, if-
+(i) such discount is established in terms of an agreement entered into at or before the
+time of such supplg and specifi.callg linked to releuant inuoices; and
+(ii) input tax credit as is attributable to the discount on the basls of document issued
+bg the supplier has been reuersed bg the recipient of the supplg.
+Section 16 of CGST Act
+16. (1) Euery registered person shall, subject to such conditions and restrictions as
+mag be prescribed and in the manner specified in section 49, be entitled to take
+credit of input tax charged on ang supplg of goods or seruices or both to him uthich
+are used or intended to be used in the course or furtherance of his business and the
+said amount shall be credited to the electronic credit ledger of such person.
+(2) Notuithstanding angthing contained in this section, no registered person shall be
+entitled to the credit of ang input tax in respect of ang supplg of goods or seruices or
+bothto himunless,-
+(a) he is in possession of a tax inuoice or debit note issued by a supplier registered
+under this Act, or such other tax paging documents as maA be prescribed;
+(b) he has receiued the goods or seruices or both.
+Explanation.-For the purposes of this clause, it shall be deemed that the registered
+person has receiued the goods uthere the goods are deliuered bg the supplier to a
+recipient or anA other person on the direction of such registered person, uhether
+acting as an agent or otherwise, before or duing mouement of goods, either bg uag
+of transfer of doatments of title to goods or otherwise;
+(c) subject to the prouisions of section 41, the tax charged in respect of such supplg
+has been actuallg paid to the Gouernment, either in cash or through utilization of
+input tax credit admissible in respect of the said supplg; and
+(d) he has furnished the return under section 39:
+Prouided that tuhere the goods against an inuoice are receiued in lots or instalments,
+the registered person shall be entitled to take credit upon receipt of the last lot or
+instalment:
+Page 7 of 10
+
+
+Prouided further that tuhere a recipient fails to pag to the supplier of goods or
+seruices or both, other than the supplies on uthich tax is pagable on reuerse charge
+basis, the amount touards the ualue of supplg along utith tax pagable thereon
+within a period of one hundred and eightg days from the date of issue of inuoice bg
+the supplier, etr amount equal to the input tax credit auailed bg the recipient shall be
+added to his output tax liabilitg, along uith interest thereon, in such menner as maA
+be prescribed:
+Prouided also that the recipient shall be entitled to auail of the credit of input tax
+on paAment made bg him of the amount towards the ualue of supplg of goods or
+seruices or both along with tax pagable thereon.
+4.3 Section 16(1) states that a registered recipient is eligible to take credit on the
+input tax charged on any supply of goods or services. As per Section 9(1) of the
+act, CGST tax is leviable on the value of supply as determined by Section 15 of the
+Act. Section 15 (3) states that value of supply does not include any discount which
+is given before or at the time of the supply if such discount has been duly recorded
+in the invoice issued in respect of such supply and those discounts given after the
+supply has been effected, if such discount is established in terms of an agreement
+entered into at or before the time of such supply and specifically linked to relevant
+invoices and input tax credit as is attributable to the discount on the basis of
+document issued by the supplier has been reversed by the recipient of the supply.
+Time of supply of goods as per Section 12 is the earlier of the following dates,
+namely the date of issue of invoice by the supplier or the last date on which he is
+required, under sub-section (1) of section 31, to issue the invoice with respect to
+the supply or the date on which the supplier receives the payment with respect to
+the supply.
+4.4In the instant case, the invoices are all raised before the payment dates, so the
+time of supply is the date of raising invoices. The discount is given after the
+invoices are raised and supply of goods is made and no discount is recorded in the
+invoice. Hence, Section 15 (3) (a) does not apply. All the invoices are uploaded by
+the supplier in the C2FO software after they are raised. Based on various
+parameters such as desired annual percentage discount rate, cash availability set
+by the recipient and the varied offers of discounts made by the suppliers based on
+their need for an early payment, C2FO software optimizes the dates of early
+payment for each invoice and determines the final discounted transaction value of
+Page 8 of 10
+
+
+a particular invoice. The C2FO platform is a marketplace model where both the
+Applicant/recipient and his suppliers are registered but the discounts offered are
+not mentioned in the supply contract between the applicant and his suppliers at
+the time of raising invoices or before, though the discounts are speci{ically linking
+the relevant invoices. In the event such an agreement exists indicating the
+discount mechanism made possible by C2FO software and the applicant reverses
+the input tax credit pertaining to the discount, such a discount is allowed and the
+value of supply would be the discounted value. However, this is not the case here
+and hence, Section 15 (3) (b) does not apply in the instant case. Therefore, the
+value of supply in such transactions is the full undiscounted value mentioned on
+the invoice.
+4.5 Proviso to Section 16 states that where a recipient fails to pay to the supplier
+of goods or services or both, the amount towards the value of supply along with
+tax payable thereon within a period of one hundred and eighty days from the date
+of issue of invoice by the supplier, an amount equal to the input tax credit availed
+by the recipient shall be added to his output tax liability, along with interest
+thereon, and the recipient shall be entitled to avail of the credit of input tax on
+payment made by him of the amount towards the value of supply of goods or
+services or both along with tax payable thereon. In the instant case, the value of
+supply is the full undiscounted value indicated in the tax invoice and the recipient
+/Applicant only makes payment to the extent of invoice value less the discount
+thrown up by the C2FO software. As per proviso to Section 16, the recipient is
+entitled to avail the credit of input tax on the payment made by him alone and if
+any amount is not paid as per the value of supply and the recipient has availed full
+input tax credit, the same would be added to his output tax liability. Therefore, in
+the instant case, the Applicant can avail Input Tax Credit only to the extent of the
+invoice value less the discounts asper C2FO software. If he has availed input tax
+credit on the full amount, he should reverse the difference arnount equal to the
+discount, to avoid adding to his output liability.
+5. 
+In view of the above. we rule as under:
+Page 9 of 10
+
+
+RULING
+As per the Provisions of Section 16 of the CGST Act 2O|7/TNGST Act 2OI7, the
+Applicant can avail Input Tax Credit only to the extent of the invoice value raised
+by the suppliers less the discounts as per C2FO software which is paid by him to
+the suppliers.
+\)/a__,
++4v||
+f.{V*J>-'ltLtllll
+L
+Ms. Manasa Gangotri Kata, IRS
+Member
+To
+M/s. MRF Ltd,
+Old No.l24/New No.114,
+Greams Road, Thousand Lights,
+Chennai-600O06.
+/ By Speed Post with Ack .Due
+Copy Submitted to:
+'1,. The Additional Chief Secretary / Commissioner of Commercial Taxes,
+II Floor, EzhTlagam, Chepauk, Chennai-600 005.
+2. The Principal Chief Commissioner of GST & Central Excise,
+No 26/1,, Mahatma Gandhi Road, Nungambakkam, Chennai-600034.
+Copy to:
+3. The Comrnissioner of GST & C.Ex.,
+Chennai North Commissionerate,
+The Assistant Commissioner (ST)
+Egmore Assessment Circle,
+Egmore Taluk Office Building,
+Spurtank Road,
+Chetpet, Chennai - 600 031
+Master frte/ Spfi
+Ll
+{--r-r--- ! "-*-*n-sa) 
+,. , ,,
+Shri. S.Vijayakumar, M.Sc.,
+AUT}-IORiT Y FOR
+ADVANCE RULING
+?" 2 JAt{ ?0i9
+GCODS AND SERVICE TAX
+Clle :r nai-6. Tanrilnadtt
+4.
+5.
+Page 10 of 10

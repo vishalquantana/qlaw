@@ -1,0 +1,887 @@
+RAJASTHAN 
+AUTHORITY FOR ADVANCE RULING 
+GOODS AND SERVICES TAX 
+KAR BHAWAN, AMBEDKAR CIRCLE, NEAR 
+RAJASTHAN HIGH COURT
+JAIPUR -302005(RAJASTHAN)
+ADVANCE RULING NO. RAJ/AAR/2022-23/03 
+Vikas Kumar Jeph 
+Additional Commissioner
+M. S. Kavia 
+Additional Commissioner 
+Name and address of the 
+applicant
+GSTIN of the applicant 
+Clause(s) of Section 97(2) 
+of 
+Member (Central Tax) 
+Member (State Tax) 
+M/s Crown Craft India Private Ltd., F-668 to 
+670,9F2, V.K.I. Area, Jaipur-302013, Rajasthan 
+08AAACC6867C1ZP 
+(d) admissibility of input tax credit of tax paid or 
+deemed to have been paid; 
+(e) determination of the liability to pay tax on 
+any goods or services or both. 
+: 12.04.2022 
+Shri 
+Madhu 
+CGST/SGST
+Act, 
+2017, under which the | 
+question(s) raised 
+Date of Personal Hearing 
+Sudan 
+Sharma, 
+Authorized 
+Present for the applicant 
+Representative
+Date of Ruling 
+19.05.2022 
+Note: Under Section 100 of the CGST/RGST Act, 2017, an appeal against this 
+ruling lies before the Appellate Authority for Advance Ruling constituted under 
+section 99 of CGST/RGST Act, 2017, within a period of 30 days from the date of 
+service of this order 
+At the outset, we would like to make it clear that the provisions of both the 
+CGST Act and the RGST Act are the same except for certain provisions.
+Therefore, unless a mention is specifically made to such dissimilar provisions, a 
+reference to the CGST Act would also mean a reference to the same provision
+under the RGST Act. Further to the earlier, henceforth for the purposes of this 
+Advance Ruling, a reference to such a similar provision under the CGST Act / 
+RGST Act would be mentioned as being under the "GST Act". 
+The issue raised by M/s Crown Craft India Private Ltd., F-668 to 670,9F2, 
+V.K.I. Area, Jaipur-302013, Rajasthan (hereinafter the applicant) is fit to 
+pronounce advance ruling as it falls under the ambit of the Section 97(2) (d) & 
+(e) given as under: 
+(d) admissibility of input tax credit of tax paid or deemed to have been paid; 
+(e) determination of the liability to pay tax on any g0ods or services or both. 
+Page 1 of 18 
+
+
+A. SUBMISSIONOF THE APPLICANT:(in brie) 
+M/s. Crown Craft india Private Limited., F-668,670 9F2, VKI Area, 
+Jaipur (herein after also called as the "applicant") (Registration No. 
+08AAACC6867C1ZP) are engaged in the manufacture of (i) Thermocol, 
+(1i) PET Bottles, (ii) Tableware, Kitchenware & Tiffin, (iv) Toilet ware 
+and Plastic casserole, (v) Steel ware Household, (vi) Plastic Chair and 
+(vii) Flask with inner steel falling under chapter heading Nos. 392190, 
+392330, 392410, 392490, 732393, 940370 & 961700 respectively. They 
+are availing Input Tax credit on Capital Goods, Inputs as well as Input 
+Services used in or in relation to manufacture of our final product as per 
+the provisions of GST Act, 2017 and rules made thereunder. 
+hey are having their manufacturing unit situated at F-668 to 670, 9F2. 
+V.K.I. Area, Jaipur, Rajasthan 302013 (hereinafter also called as the tirst 
+unit). Presently they are carrying out all functions viz. receipt of inputs, 
+capital goods, input services, manufacture of final goods as well as 
+dispatch of final goods from their registered premises. 
+Further they are planning to expand operation of their company by 
+increasing capacity to manufacture the finished goods. Further since the 
+space in present registered premises is limited, therefore, they are 
+planning to establish a new unit within the Jaipur district (within 
+Rajasthan). The new unit would be manufacturing similar goods as they 
+are manufacturing in present registered premises. The new unit would 
+also be used to manufacture semi-finished goods which may be sent to 
+their first unit for finishing and further sale to customers. It is submitted 
+that the following situations would emerge as a result of setting up new 
+unit within the Jaipur District. 
+a. The new unit would work under single GST number as is provided 
+under section 25 of the GST Act,2017. 
+b. Goods would travel between these two units as movement of raw 
+material/ semi-finished/ finished (for further clearance on payment of 
+GST) 
+c. New Capital goods would be received in the new unit for manufacture 
+of finished goods and ITC of GST paid on such capital goods would 
+be availed by the applicant. 
+d. Some capital goods may be shifted to the new unit as a mean for 
+optimizing the production of company as a whole. 
+e. Movement of raw material/semi-finished/ finished goods/capital
+goods would attract provision relating to issue of E-way bill. 
+This new unit which they are planning would be registered with their 
+own PAN number and thus would be registered as additional place of 
+business as per section 25 of GST Act, 2017 and would have single 
+registration number under GST Act,2017. 
+The GST Act, 2017 and Rules made thereunder as well as circulars and 
+clarifications issued from time to time shed little light on the procedure
+to be followed in respect of business premises. especially if they are two 
+factories having same GST Number, regarding the dealing of 
+transactions/movement of goods between the two such units. 
+Page 2 of 18 
+
+
+Applicant's interpretation: 
+ne applicant's understanding and interpretation of rules and regulation are as 
+under: 
+1. 
+Since our present and new unit (situated within the Rajasthan state) 
+would have same GSTIN therefore sendin; 
+goods/ raw material/ 
+capital goods from one unit to other would not comprise supply of 
+goods or services. In such circumstance would we require to pay GST 
+on such movement of goods/raw material/ eapital goods? 
+Interpretation: 
+We understand that in our case the goods and raw material would move 
+between our one factory to another for the purpose of further working on 
+the semi-finished goods, packing or for consolidation of supply to our 
+ultimate buyer. Since both units would be working under same GSTIN 
+therefore such movements cannot be termed as supply under the provisions 
+of GST Act, 2017. In such circumstances such movement would not fall 
+under "supply of goods" as there is total absence of recipient of the goods 
+other than our self. Therefore, no liability of GST would arise for such 
+movement of goods or capital goods between two units within the state and 
+working under same GSTIN. 
+If we have to issue challan for transfer of goods from one unit to other 
+what value is to be considered for E-way bills if that is to be issued? 
+2. 
+interpretation: 
+As mentioned above and as per our interpretation, such movement of 
+capital goods, raw material or finished goods between our two factories 
+would not attract any GST therefore there will not be any transaction for 
+sale, mortgage, transfer of property involving any kind of value between 
+the two units. Thus, for transfer of the goods between two units we would 
+have to take a notional value of such goods and issue an E-way bill for 
+such transfer (if required depending on value of such transferred goods). 
+In respect of movement of raw material/capital goods/ semi-finished 
+goods for further processing would the provisions of job-work apply 
+or we can send these goods on simple internal challan? 
+3. 
+interpretation: 
+We understand that sending of raw- material, semi-finished goods or 
+capital goods to the other unit or vice versa would attract provisions of 
+section 143 of the C.G.S.T. Act, 2017. For the movement of the goods we 
+would have to follow the procedure as laid down for the movement of 
+goods under Job-work. 
+We further understand the for clearance of the goods from the second unit 
+we would have to follow the provisions laid down in the Provisio to 
+section 143 (b) which reads as under: 
+Page 3 of 18 
+
+
+Provided that the principle shall not supply the goods from the place of 
+business of a job worker in accordance with the provisions of the clause 
+unless the said principle declares the place of business of the job worker as 
+his additional place of business except in a case 
+-
+(i) 
+Where the job worker is registered under section 25,; or 
+(ii) 
+Where the principle is engaged in the supply of such goods as 
+may be notified by the commissioner 
+In view of the above, the applicant would have to follow the procedure of 
+the job work for the movement of the goods for the movement of raw 
+material, semi-finished, finished, capital goods between the two units. 
+However, in situations where the goods move between two units which do 
+not fall under the category of Job-work (such as transfer of capital goods 
+and other materials) would we require to follow the job work procedure. 
+4. 
+In respect of the above situation in question No. 1, would we require to 
+issue E-way bill for such movement of goods from our one unit to 
+other if the value of the goods to be moved is higher than the threshold 
+limit required for issue of E-way bill in normal course. 
+In view of the answer for the question No. 3 above we understand that the 
+E-way bill would be required to be issued in accordance with the 
+provisions of Jon work as well as the provisions of E-way bills. 
+5. 
+How will would have to deal with the ITC available for each unit? We 
+understand that since the two units would have same GSTIN then in 
+such case we would have to maintain single ITC credit and the same 
+would be used for discharge of our GST liability irrespective of the 
+clearance of goods from either of the factory. Thus, can we use ITC for 
+the goods/raw material/capital goods received in one factory for 
+payment of GST for the clearance made from second unit? 
+As per section 16 (1) of the C.G.S.T. Act, 2017 the provisions of Input Tax 
+credit are as follows; 
+(1) Every registered person shal, subject to such condition and restrictions 
+as may be prescribed and in the manner specified in section 49, be 
+entitled to take credit of input tax charged on any supply of goods or 
+services or both to him which are used or intended to be used in the 
+course of furtherance of his business and the said amount shall be 
+credited to the electronic credit ledger of such person. 
+From the plain reading of the above provisions it is clear that we would be 
+eligible for ITC credit in respect of goods and services received by us. 
+However, it is also mentioned in the provisions that the same would be 
+credited to our electronic credit ledger. The situation arising in our case is 
+that since we would be having single GST No. for both the units then as 
+per the section 16(1) there would be only one ledger for the ITC credit. In 
+such cireumstances, would we be able to use the credit of our electronic 
+credit ledger to discharge our GST liability for either of the unit or there 
+would be any restriction. In other words, would the applicant be able to use 
+Page 4 of 18 
+
+
+the credit of inputs and capital goods for payment of GST for the goods 
+Cleared from other unit. In our understanding since there is oniy one 
+electronic ledger for the eredit therefore, we would be able use this ereant 
+IOr discharging our GST liability from either of the unit as for all practical 
+purposes as we are having one GST No. 
+For purchase of raw material/ eapital good do we have to order and 
+6. 
+mentioned separate factory address? 
+In our understanding since we are one unt, having two manufacturing 
+plant, and also the fact that we would be having one electronic credit 
+ledger therefore we need not order for the capital goods and raw material 
+as well as other things separately from our vendors. However, for our 
+internal accounting purpose 
+we would be keeping account for the 
+movement as well as consumption of such inputs/capital goods/ other 
+1tems. For GST purpose such internal account of the goods would not 
+affect. 
+For invoice of clearance of goods does the applicant have to mention 
+both addresses or the address of the concerned unit from which the 
+1. 
+goods are cleared? 
+We understand that section 31 of the C.G.S.T. Act, 2017 requires that 
+every registered person is required to issue Invoice for the removal of the 
+goods. Among other details in the invoice viz. description, quantity, rate, 
+value of the goods with corresponding chapter head the other things to be 
+mentioned are name and address of the consignor. However, the basic 
+information of an invoice is the name and address of the consignor. In our 
+case the consigner would be the applicant and, in our situation, we have 
+two addresses from where we are conducting our business. In our 
+understanding the address of the concerned factory would have to 
+mentioned for the clearances of the goods. 
+We understand that we would have to maintain two sets of invoices for 
+each unit respectively. Goods sent from one factory would have to be 
+issued or cleared with the respective invoice mentioning the address of the 
+particular unit from where the goods are being cleared. 
+B. QUESTIONS ON WHICH THE ADVANCE RULING IS SOUGHT: 
+Since our present and new unit (situated within the Rajasthan state) would 
+have same GSTIN therefore sending goods/ raw material/ capital goods 
+from one unit to other would not comprise supply of goods or services. In 
+such circumstance would we require to pay GST on such movement of 
+goods/raw material/ capital goods? 
+If we have to issue challan for transfer of goods from one unit to other 
+what value is to be considered for E-way bills if that is to be issued? 
+2. 
+In respect of movement of raw material/capital goods/ semi-finished goods 
+3. 
+for further processing would the provisions of job-work apply or we can 
+send these goods on simple internal challan? 
+Page 5 of 18 
+
+
+n 
+respect of the above situation in question No. I, would we require to 
+1SSue E-way bill for such movement of g0ods from our one unit to other if 
+the value of the goods to be moved is higher then the threshold limit 
+required tor issue of E-way bill in normal course. 
+How wilb would have to deal with the ITC available for each unit? We 
+understand that since the two units would have same GSTIN then in such 
+Case we would have to maintain single ITC credit and the same would be 
+used for discharge of our GST liability irrespective of the clearance of 
+goods from either of the factory. Thus, can we use ITC for the goods/raw 
+material/capital goods received in one factory for payment of GST for the 
+clearance made from second unit? 
+For purchase of raw material/ capital good do we have to order and 
+mentioned separate factory address? 
+For invoice of clearance of goods does the applicant have to mention both 
+addresses or the address of the concermed unit from which the goods are 
+cleared? 
+. 
+1. 
+C. PERSONAL HEARING 
+In the matter personal hearing was granted to the applicant on 12.04.2022. 
+Shri Madhu Sudan Sharma, Authorized Representative appeared for 
+personal hearing. He reiterated the submission already made in written 
+submission. He requested for early disposal of the application. 
+D. COMMENTS OF THE JURISDICTIONAL OFFICER 
+The Deputy Commissioner, State Tax, Circle-A, Jaipur vide letter dated 
+07.04.2022 has offered his comments in the matter. The gist of the same is as 
+under: -
+1. 
+Since our present and new unit (situated within the Rajasthan state) would 
+have same GSTIN therefore sending goods/ raw material/ capital goods 
+from one unit to other would not comprise supply of goods or services. In 
+such circumstance would we require to pay GST on such movement of 
+goods/raw material/ capital goods? 
+Ans.: There is no liability of GST would arise for such movement goods/raw 
+material/ capital goods between two units within the state, working under 
+same GSTIN. 
+If we have to issue challan for transfer of goods from one unit to other 
+what value is to be considered for E-way bills if that is to be issued? 
+Ans.: The Value of goods to be considered as per books. 
+2. 
+In respect of movement of raw material/capital goods/ semi-finished goods 
+for further processing would the provisions of job-work apply or we can 
+send these goods on simple internal challan? 
+. 
+Ans.: Job work procedure under section 143 of RGST Act, 32017 would apply. 
+In respect of the above situation in question No. 1, would we require to 
+issue E-way bill for such movement of goods from our one unit to other if 
+4. 
+Page 6 of 18 
+
+
+Lne value of the goods to be moved is higher then the threshold Iimit 
+required for issue of E-way bill in normal course. 
+Ans.: E-way bill is required to be issued as per the rule 138 of the RGS, 2017. 
+5. 
+How will would have to deal with the ITC available for each unit? we 
+understand that since the two units would have same GSTIN then in such 
+case we would have to maintain single ITC credit and the same would be 
+used for discharge of our GST liability irrespective of the clearance of 
+goods from either of the factory. Thus, can we use ITC for the goods/raw 
+material/capital goods received in one factory for payment of GST for the 
+clearance made from second unit? 
+Ans.: Ye 
+IIC can be used for goods/raw material/capital goods received in one 
+factory for payment of GST for the clearance made from second unit? 
+For purchase of raw material/ capital good do we have to order and 
+mentioned separate factory address? 
+6. 
+Ans.: Yes, separate factory address have to be mentioned in purchase invoice. 
+For invoice of clearance of goods does the applicant have to mention both 
+addresses or the address of the concerned unit from which the goods are 
+cleared? 
+7. 
+Ans.: The address of the concerned unit from which the goods are cleared have to 
+be mentioned in invoice. 
+E. 
+FINDINGS, ANALYSIS & CONCLUSION: 
+We have perused the records on file and gone through the facts of the case 
+and the submissions made by the applicant as well as the department. On 
+the basis of submission made, we are of the view that the applicant i.e. 
+M/s. Crown Craft india Private Limited. F-668,670 9F2, VKI Area, Jaipur 
+(GST registration 
+No. 
+08AAACC6867C 1 ZP) 
+are engaged 
+in 
+the 
+manufacture of (i) Thermocol, (ii) PET Bottles, (ii) Tableware, 
+Kitchenware & Tiffin, (iv) Toilet ware and Plastic casserole, (v) Steel ware 
+Household, (vi) Plastic Chair and (vii) Flask with inner steel. 
+. 
+As per written submission made by the applicant, it is of the view that due 
+to limited space at their present factory, they are planning to establish a 
+new unit within the Jaipur district (within Rajasthan). The new unit would 
+be manufacturing similar goods as they are manufacturing in their present 
+registered premises. The new unit would also be used to manufacture semi-
+finished goods which may be sent to their first unit for finishing and 
+further sale to customers. This new unit which they are planning would be 
+registered with their own PAN number and thus would be registered as 
+additional place of business as per section 25 of GST Act, 2017 and would 
+have single registration number under GST Act,2017. 
+2 
+Page 7 of 18 
+
+
+has asked questions seeking Advance Ruling on the same. They are as 
+under: 
+. 
+There are different issues to be discussed in respect of which the applicant 
+)Since our present and new unit (situated within the Rajasthan state) 
+Would have same GSTIN therefore sending goods/ raw material/ 
+capital goods from one unit to other would not comprise supply of 
+goods or services. In such circumstance would we require to pay 
+GST on such movement of goods/raw material/ capital goods? 
+2) If we have to issue challan for transfer of goods from one unit to 
+other what value is to be considered for E-way bills if that is to bee 
+ISsued? 
+3) In respect of movement of raw material/capital goods/ semi-finished 
+goods for further processing would the provisions of job-work apply 
+or we can send these goods on simple internal challan? 
+4)n respect of the above situation in question No. I, would we require 
+to ISSue E-way bill for such movement of goods from our one unit to 
+other if the value of the goods to be moved is higher then the 
+threshold limit required for issue of E-way bill in normal course. 
+5) How will would have to deal with the ITC available for each unit 
+We understand that since the two units would have same GSTIN then 
+in such case we would have to maintain single ITC credit and the 
+same would be used for discharge of our GST liability irrespective of 
+the clearance of goods from either of the factory. Thus, can we use 
+TTC for the goods/raw material/capital goods received in one factory 
+for payment of GST for the clearance made from second unit? 
+6) For purchase of raw material/ capital good do we have to order and 
+mentioned separate factory address? 
+7) For invoice of clearance of goods does the applicant have to mention 
+both addresses or the address of the concerned unit from which the 
+goods are cleared? 
+We will take up all the above questions for discussion one by one. The 
+first question pertains to registration of new unit (situated within the 
+Rajasthan state) and liveability of GST on movement of goods/raw 
+material/ capital goods from present unit (i.e. F-668,670 9F2, VKI Area, 
+Jaipur) to new unit and vice versa. The relevant legal provisions are as 
+4. 
+under: 
+Section 25 of the CGST Act, 2017: 
+Procedure for registration. 
+(1) Every person who is liable to be registered under section 22 or section 
+24 shall apply for registration in every such State or Union territory in 
+which he is so liable within thirty days from the date on which he becomes 
+liable to registration, in such manner and subject to such conditions as 
+may be prescribed: 
+Page 8 of 18 
+
+
+Provided that a casual taxable person or a non-resident taxable person 
+shall apply for registration at least five days prior to the comnmencement of 
+business: 
+Provided further that a person having a unit, as defined in the Special 
+Economic Zones Act, 2005, in a Special Economic Zone or being a Special 
+Economic Zone developer shall have to apply for a separate registration,
+as distinct from his place of business located outside the Special Economic 
+Zone in the same State or Union territory./ 
+Explanation.-Every person who makes a supply from the territorial 
+Waters of India shall obtain registration in the coastal State or Union 
+territory where the nearest point of the appropriate baseline is located. 
+(2) A person seeking registration under this Act shall be gramted a single 
+registration in a State or Union territory: 
+Provided that a person having multiple places of business in a State or 
+Union territory may be granted a separate registration for each such place 
+of business, subject to such conditions as may be prescribed./ 
+(3) A person, though not liable to be registered under section 22 or section 
+24 may get himself registered voluntarily, and all provisions of this Act, as 
+are applicable to a registered person, shall apply to such person. 
+(4) A person who has obtained or is required to obtain more than one 
+registration, whether in one State or Union territory or more than one 
+State or Union teritory shall, in respect of each such registration, be 
+treated as distinct persons for the purposes of this Act. 
+(5) Where a person who has obtained or is required to obtain registration 
+in a State or Union territory in respect of an establishment,
+has an 
+establishment in another State or Union territory, then such establishments 
+shall be treated as establishments of distinct persons for the purposes of 
+this Act. 
+In view of above, we are of the view that as per Sub-Section (2) of 
+Section 25 of the CGST Act, 2017, where a person has multiple 
+establishment in a state, in such a case he shall be liable to take single 
+registration in the state by adding establishment as additional place of 
+business. However, a person having multiple places of business in a State 
+or Union territory may be granted a separate registration for each such 
+place of business, subject to such conditions as may be prescribed. 
+GST is a 
+state specific tax i.e. there is no concept of centralized 
+registration under the GST regime. One needs to take registration in every 
+state from wherever he is engaged in making taxable supply of goods or 
+services or both. Where a person has multiple branches in a state, in such a 
+case he shall be liable to take single registration in the state by adding 
+branches as additional place of business. It will be done by showing one of 
+the two place of business as principal place of business and other as 
+additional place of business. 
+Page 9 of 18 
+
+
+ln the present case, the applicant intends to establish a new unit within the 
+apur district (within Rajasthan). The new unit would be manufacturing 
+Similar goods as they are manufacturing in their present
+registered 
+premises. The applicant does not want to take separate registration of this 
+new unit. Thus, as per Sub-Section (2) of Section 25 of the CGST Act, 
+2011, the applicant does not require to obtain separate registration of their 
+new unit (to be established) and can work with single registration allotted 
+to present unit. As present unit and new unit will have same registration, 
+hererore they are not distinct person as per Sub-Section (4) of Section 25 
+of the CGST Act, 2017. 
+As far as supply of goods or services or both between these two 
+establishnment of applicant is concerned, we find that movement ol 
+goods/raw material/ capital goods from present unit (i.e. F-668,670 9F2, 
+VKI Area, Jaipur) to new unit and vice versa does not constitute 'supply, 
+as these units are not distinct person to each other due to single 
+Tegistration. In the present case, we are of the view that for a transaction to 
+be a 'supply', the essential criteria to be satisfied in the involvement of 
+consideration, with the only exceptions being the activities mentioned in 
+Schedule I and import of services. Thus, in the present case being unit 
+transfer of raw material, semi-finished, finished, capital goods; there no 
+consideration is involved and the activity is neither specified in Schedule I 
+nor in the nature of import of services, the activity i.e. movement of raw 
+material, semi-finished, finished, capital goods between the two units 
+under same GST registration number shall not be a 'supply' under the 
+provisions of the GST Act, 2017. Moreover, in such circumstances such 
+movement would not fall under "supply of goods" as there is total absence 
+of recipient of the goods other than itself. On the other hand, if the 
+receiving unit or processing unit operates with a different GSTIN, then 
+Central Tax and State Tax are applicable. Therefore, in the present case no 
+liability of GST would arise for such of raw material, semi-finished,
+finished, capital goods between two units within the state and working 
+under same GSTIN. 
+Now, we are required to discuss the second question of the applicant 
+which is related to consideration of value for E-way bills if that is to be 
+issued for transfer of goods from one unit to other, In this regard, legal 
+relevant provisions are as under:- 
+5. 
+E-WAY RULES 
+The provisions related to 'E-way bill' is described in the Rule 138 of the 
+CGST Rules, 2017. As per sub rule (1) of Rule 138 of the said Rules. 
+every registered person who causes movement of goods of consignment 
+value exceeding fifty thousand rupees 
+(i) in relation to a supply; or 
+(i) for reasons other than supply: or 
+ii) due to inward supply from an unregistered person, 
+Page 10 o1 18 
+
+
+shall, before commencement of such movement, furnish information 
+relating to the said goods as specified in Part A of FORM GST EWB-01, 
+electronically, on the common portal along with such other information as 
+may be required
+on the common portal and a unique number will De 
+generated on the said portal.
+Explanation 2.- For the purposes of this rule, the consignment value ot 
+goods shall be the value, determined in accordance with the provisions of 
+section 15, declared in an invoice, a bill of supply or a delivery challan,as 
+tne case may be, issued in respect of the said consignment and also 
+includes the central tax, State or lUnion territory tax, integrated tax and cess 
+charged, if any, in the document and shall exclude the value of exempt 
+Supply of goods where the invoice is issued in respect of both exempt and 
+taxable supply of goods. 
+Further, the provisions related to exemption from issuance of e-way bill is 
+described in Sub-rule (14) of the Rule 138 of the CGST Rules, 2017, 
+which is reproduced as under: -
+(14) Notwithstanding anything contained in this rule, no e-way bill is 
+required to be generated- 
+(a) where the goods being transported are specified in Annexure; 
+(b)where the goods are being transported by a non-motorisedconveyance
+(c) where the goods are being tramsported from the customs port, airport 
+air cargo complex and land customs station to an inland container 
+depot or a container freight station for clearance by Customs; 
+a) in respect of movement of goods within such areas as are notified 
+under clause (d) of sub-rule (14) of rule 138 of the State or Union 
+territory Goods and Services Tax Rules in that particular State or 
+Union territory; 
+(e) where the goods, other than de-oiled cake, being transported, are 
+specified in the Schedule appended to notification No. 2/2017- Central 
+tax (Rate) dated the 28th June, 2017 published in the Gazette of India 
+Extraordinary, Part lI, Section 3. Sub-section i). vide number G.S.R 
+674 (E) dated the 28th June. 2017 as amended from time to time; 
+)where the goods being transported are alcoholic liquor for human 
+consumption, petroleum crude, 
+high speed diesel, 
+motor spirit 
+(commony known as petrol), natural gas or aviation turbine fuel; 
+(g)where the supply of goods being transported is treated as no supply 
+under Schedule IlI of the Act: 
+(h) where the goods are being transported- (i) under customs bond from 
+an inland container depot or a container freight station to a customs 
+port, airport, air cargo complex and land customs station, or from one 
+customs station or customs port to another customs station or customs 
+port, or (ii) under customs supervision or under customs seal: 
+(i) where the goods being transported are transit cargo from or to Nepal 
+or Bhutan 
+(i) where the goods being transported are exempt from tax under 
+notification No. 7/2017-Central Tax (Rate), dated 28th June 2017 
+Page 11 of 18 
+
+
+published in the Gazette of India, Extraordinary, Part , 
+Section 3, 
+Sub-section (i), vide number G.S.R 679(E)dated the 28th June, 2017 as 
+amended from time to time and notification No. 26/2017- Central Tax 
+(Rate), datad the 21st September, 2017 published in the Gazetteof 
+mdia, Exraordinary, Part I1, Section 3, Sub-section (i), vide number 
+G.S.R 1181 (E) dated the 21st September, 2017 as amendedfrom time to 
+time; 
+(K) any movement of goods caused by defence formation under Ministry of 
+defence as a consignor or consignee; 
+()where the consignor of goods is the Central Government, Government 
+of any State or a local authority for transport of goods by raul, 
+(mm)where empty cargo containers are being transportea; ana 
+(n)where the goods are being transported upto a distance of weny 
+kilometers from the place of the business of the consignor to a 
+weighbridge for weighment or from the weighbridge back to the place 
+of the business of the said consignor subject to the condition that the 
+movement of goods is accompanied by a delivery challan issued m 
+accordance with rule 55. 
+(o)where empry cylinders for packing of liquefied petroleum gas are 
+being moved for reasons other than supply.] 
+Keeping in view the above legal provisions, we are of the view that 
+applicant is not exempted to generate e-way bill for the movement of 
+capital goods, raw material or finished goods to be made between their two 
+units. Further, as far as value for E-way bills if that is to be issued for 
+transfer of goods from one unit to other is concerned, we find that being 
+not a 'supply', no GST would attract on such movement, therefore there 
+will not be any transaction for sale, mortgage, transfer of property 
+involving any kind of value between the two units. Thus, we find that for 
+transfer of the goods between two units they would have to take a value of 
+such goods as explained in Explanation-2 to Sub-Rule (1) of the Rule 138 
+of the CGST Rules, 2017 and issue an E-way bill for such transfer (if 
+required depending on value of such transferred goods). 
+Now, we are required to discuss the third question of the applicant under 
+which it is to decide whether movement of raw material/capital goods/ 
+semi-finished goods for further processing would the provisions of job- 
+work apply or they can send these goods on simple internal challan. In this 
+regard, legal relevant provisions are as under:- 
+6. 
+In this regard, we have to first examine whether the above question falls 
+under the ambit of questions as mentioned in Section 97(2) or otherwise. 
+97. Application for advance ruling 
+(1) An applicant desirous of obtaining an advance ruling under this 
+Chapter may make an application in such form and manner and 
+accompanied by such fee as may be prescribed, stating the question on 
+which the advance ruling is sought. 
+Page 12 of 18 
+
+
+(2) The question on which the advance ruling is sought under this At, 
+shall be in respect of- 
+(a) classification of any goods or services or both; 
+b) applicability of a notification issued under the provisions of this 
+Act; 
+(c) determination of time and value of supply of goods or services or 
+both; 
+(d) admissibility of input tax credit of tax paid or deemed to have been 
+paid 
+(e) determination of the liability to pay tax on any goods or services or 
+both 
+()whether applicant is required to be registered; 
+8) whether any particular thing done by the applicant with respect to 
+any goods or services or both amounts to or results in a supply of 
+goods or services or both, within the meaning of that term. 
+As per sub section (2) of the section 97 of the CGST Act, 2017, the 
+applicant can seek the advance uling on the questions as mentioned in the 
+sub section (2) only. As the question No. 3 of the applicant does not fal 
+under the category mentioned in the sub section (2) of the section 97 of the 
+CGST Act, 2017 therefore, no answer is being given. 
+Now, we are required to discuss the fourth question of the applicant under 
+which it is to decide whether applicant would require to issue E-way bill 
+for such movement of goods from our one unit to other if the value of the 
+goods to be moved is higher than the threshold limit required for issue of 
+E-way bill in normal course. 
+7. 
+In this regard, we have to first examine whether the above question 
+falls under the ambit of questions as mentioned in Section 97(2) or 
+otherwise. 
+97. Application for advance ruling 
+(1) An applicant desirous of obtaining an advance ruling under this 
+Chapter may make an application in such form and manner and 
+accompanied by such fee as may be prescribed, stating the question on 
+which the advance ruling is sought. 
+(2) The question on which the advance ruling is sought under this Act, 
+shall be in respect of,- 
+(a) classification of any goods or services or both; 
+(b) applicability of a notification issued under the provisions of this 
+Act; 
+(c) determination of time and value of supply of goods or services or 
+both; 
+(d) admissibility of input tax credit of tax paid or deemed to have been 
+paid; 
+(e) determination of the liability to pay tax on any goods or services or 
+both; 
+Page 13 of 18 
+
+
+() whether applicant is required to be registered; 
+gwhether any particular thing done by the applicant with respect to 
+any goods or services or both amounts to or results in a supply of 
+goods or services or both, within the meaning of that term. 
+As per sub section (2) of the section 97 of the CGST Act, 2017, the 
+applicant can seek the advance ruling on the questions as mentioned in the 
+sub section (2) only. As the question No. 4 (Forth) of the applicant does 
+not fall under the category mentioned in the sub section (2) of the section 
+97 of the CGST Act, 2017 therefore, no answer is being given. 
+Now, we are required to discuss the Fifth question of the applicant under 
+which it is to decide whether applicant can use ITC for the goods/raw 
+material/capital goods received in one factory for payment of GST for the 
+8. 
+clearance made from second unit? 
+To examine the situation as discussed in above question, we have to first 
+go through the relevant provisions of Input Tax Credit (ITC). As per 
+section 16 (1) of the C.G.S.T. Act, 2017 the provisions of Input Tax credit 
+are as follows; 
+(1) 
+Every registered person shall, subject to such condition and 
+restrictions as may be preseribed and in the manner specified in section 
+49, be entitled to take credit of input tax charged on any supply of goods or 
+services or both to him which are used or intended to be used in the course 
+of furtherance of his business and the said amount shall be credited to the 
+electronic credit ledger of such person. 
+From the above provisions, we find that applicant would be eligible 
+for ITC credit in respect of goods and services received by them subject to 
+condition and restrictions of the chapter V Input Tax Credit. However, it is 
+also mentioned in the provisions that ITC would be credited to their 
+electronic credit ledger. The situation arising in the case is that since 
+applicant would be having single GST No. for both the units then as per 
+the section 16(1) there would be only one ledger for the ITC credit. 
+We are of the view that all eligible nput Tax Credit that is claimed 
+by a registered person in the GST returns (GSTR-2 or GSTR-3B) reflects 
+in Electronic Credit Ledger. Credit in Electronic Credit Ledger can be used 
+only for payment of tax. The electronic credit ledger shall be maintained in 
+FORM GST PMT-02 for each registered person eligible for input tax credit 
+on the common portal and every claim of input tax credit will be credited 
+to this ledger. The amount available in the electronic credit ledger can be 
+used for making any payment towards output tax. 
+In the circumstances as mentioned in the question, applicant would 
+be able to use the eligible credit of electronic credit ledger to discharge 
+their GST liability for either of the unit. 
+In other words, the applicant 
+would be able to use the eligible credit of inputs and capital goods for 
+payment of GST for the goods cleared from other unit as there is only one 
+Page 14 of 18 
+
+
+electronie ledger for the credit of both the units having same GST number. 
+Hence, appljcant would be able to use this credit for discharging their GST 
+liability from either of the units. 
+9. 
+NOW, we are required to discuss the Sixth question of the applicant under 
+which related to factory address in respect of purchase of raw material by 
+these units. 
+In this regard, we have to first examine whether the above question 
+falls under the ambit of questions as mentioned in Section 97(2) or 
+otherwise. 
+97. Application for advance ruling- 
+) 
+An applicant desirous of obtaining an advance ruling under this 
+Chapter may make an application in such form and manner and 
+accompanied by such fee as may be prescribed, stating the question on 
+which the advance ruling is sought. 
+(2) The question on which the advance ruling is sought under this Act, 
+shall be in respect of, 
+(a) classification of any goods or services or both; 
+(b) applicability of a notification issued under the provisions of this 
+Act; 
+(c) determination of time and value of supply of goods or services or 
+both; 
+(d) admissibility of input tax credit of tax paid or deemed to have been 
+paid; 
+(e) determination of the liability to pay tax on any goods or services or 
+both; 
+(t) whether applicant is required to be registered; 
+(g)whether any particular thing done by the applicant with respect to 
+any goods or services or both amounts to or results in a supply of 
+goods or services or both, within the meaning of that term. 
+As per sub section (2) of the section 97 of the CGST Act, 2017, the 
+applicant can seek the advanee ruling on the questions as mentioned in the 
+sub section (2) only. As the question No. 6 (Sixth) of the applicant does 
+not fall under the category mentioned in the sub section (2) of the section 
+97 of the CGST Aet, 2017 therefore, no answer is being given. 
+Now, we are required to discuss the Seventh question of the applicant 
+which is related to determination of address of units on the invoices. 
+10. 
+In this regard, we have to first examine whether the above question 
+falls under the ambit of questions as mentioned in Section 97(2) or 
+otherwise. 
+Page 15 of 18 
+
+
+97. Application for advance ruling 
+(9 An applicant desirous of obtaining an advance ruling under this 
+Chapter may make an application in such form and manner and 
+accompanied by such fee as may be prescribed, stating the question on 
+which the advance ruling is sought. 
+(2) The question on which the advance ruling is sought under this Acl, 
+shall be in respect of, 
+(a) classification of any goods or services or both; 
+(b) applicability of a notification issued under the provisions of this 
+Act; 
+(c) determination of time and value of supply of goods or services or 
+both; 
+(d) admissibility of input tax credit of tax paid or deemed to have been 
+paid 
+(e) determination of the liability to pay tax on any goods or services or 
+both; 
+(f) whether applicant is required to be registered; 
+(g)whether any particular thing done by the applicant with respect to 
+any goods or services or both amounts to or results in a supply of 
+goods or services or both, within the meaning of that term. 
+As per sub section (2) of the section 97 of the CGST Act, 2017, the 
+applicant can seek the advance ruling on the questions as mentioned in the 
+sub section (2) only. As the question No. 7 (Seventh) of the applicant does 
+not fall under the category mentioned in the sub section (2) of the section 
+97 of the CGST Act, 2017 therefore, no answer is being given. 
+11. 
+In view of the extensive deliberations as hereinabove, we rule as follows: 
+-
+RULING 
+(Under Section 98 of the Central Goods and Services Tax Act, 2017 and 
+the Rajasthan Goods and Services Tax Act, 2017) 
+For reasons as discussed in the body of the order, the questions of the applicant 
+are answered thus: 
+Question 1: Since our present and new unit (situated within the Rajasthan state) 
+would have same GSTIN therefore sending goods/ raw material/ 
+capital goods from one unit to other would not comprise supply of 
+goods or services. In such circumstance would we require to pay 
+GST on such movement of goods/raw material/ capital goods? 
+Being same GSTIN of both the units (present & new unit), there is 
+no occurrence/constitution of 'supply' in respect of movement of 
+raw material, semi-finished, finished, capital goods between these 
+two units within the state. Therefore, no liability of GST would 
+arise for such movement between two units working under same 
+GSTIN. 
+Answer: 
+Page 16 of 18 
+
+
+Ouestion 2: 
+lt we have to issue challan for transfer of goods from one unit 
+other what value is to be considered for E-way bills if that is to be 
+ISsued? 
+Answer: 
+For transfer of the goods between two units, they would have to 
+take a value of such goods as explained in Explanation-2 to Sub- 
+Rule (1) of the Rule 138 of the CGST Rules, 2017 and issue an E 
+way bill for such transfer (if required depending on value of such 
+transterred goods as notified in Notification issued by the 
+Commissioner, SGST). 
+Question 3: In respect of movement of raw material/capital goods/ semi-finished 
+goods for further processing would the provisions of job-work 
+apply or we can send these goods on simple internal challan? 
+As the question of the applicant does not fall under the ambit of sub 
+section (2) of the section 97 of the CGST Act, 2017 therefore, we 
+refrain our-self from giving ruling on the question. 
+Answer: 
+Question 4: In respect of the above situation in question No. 1, would we require 
+to issue E-way bill for such movement of goods from our one unit 
+to other if the value of the goods to be moved is higher than the 
+threshold limit required for issue of E-way bill in normal course. 
+As the question of the applicant does not fall under the ambit of sub 
+section (2) of the section 97 of the CGST Act, 2017 therefore, we 
+refrain our-self from giving ruling on the question. 
+Answer 
+Question 5: How will would have to deal with the ITC available for each unit? 
+We understand that since the two units would have same GSTIN 
+then in such case we would have to maintain single ITC credit and 
+the same would be used for discharge of our GST liability 
+irrespective of the clearance of goods from either of the factory. 
+Thus, can we use ITC for the goods/raw material/capital goods 
+received in one factory for payment of GST for the clearance made 
+from second unit? 
+Since applicant would be have single GST No. for both the units 
+(Present & proposed unit) then as per section 16(1) of the CGST 
+Act, 2017 there would be only one ledger for the ITC credit 
+Answer: 
+therefore, they can use ITC for the goods/raw material/capital 
+goods received in one factory for payment of GST for the clearance
+made from second unit or vice versa'? 
+Question 6: For purchase of raw material/ capital good do we have to order and 
+mentioned separate factory address? 
+As the question of the applicant does not fall under the ambit of 
+sub section (2) of the section 97 of the CGST Act, 2017 therefore 
+we refrain our-self from giving ruling on the question. 
+Answer 
+Page 17 of 18 
+
+
+Question7: For invoice of clearance of goods does the applicant have to0 
+mention both addresses or the address of the concerned unit from 
+which the goods are cleared? 
+As the question of the applicant does not fall under the ambit of 
+sub section (2) of the section 97 of the CGST Act, 2017 therefore, 
+we refrain our-self from giving ruling on the question. 
+Answer 
+(VIKAS KUMAR JEPH) 
+(M. S. KAVIA) 
+MEMBER 
+MEMBER 
+CENTRAL TAX 
+STATE TAX 
+SPEED POST 
+M/s Crown Craft India Private Ltd. 
+F-668 to 670,9F2, V.K.I. Area, 
+Jaipur-302013, Rajasthan. 
+F. No. AAR/CCIPL/2022-23/ 2t%. 
+Date: 17/psk 
+Copy to: 
+1. The Chief Commissioner, CGST and Central Excise, Jaipur Zone, NCRB, 
+Statue Circle, Jaipur-302005 (Raj.). 
+2. The Chief Commissioner, State Tax, Kar Bhawan, Bhawani Singh Road, 
+Ambedkar Circle, C-Scheme-, Jaipur 302005. 
+3. The 
+Pr. Commissioner, 
+Central Tax, 
+CGST and 
+Central 
+Excise 
+Commissionerate, NCRB, Jaipur-302005 (Rajasthan). 
+4. The Deputy/Assistant Commissioner, State Tax, JAIPUR-IV, Circle-A, 
+JAIPUR, (Rajasthan). 
+Page 18 of 18

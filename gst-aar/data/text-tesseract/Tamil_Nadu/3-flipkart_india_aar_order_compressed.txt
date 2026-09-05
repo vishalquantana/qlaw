@@ -1,0 +1,921 @@
+AUTHORITY FOR ADVANCE RULING, TAMIL NADU
+No.207, 284 FLOOR, PAPJM BUILDING, No.1, GREAMS ROAD,
+CHENNAI 600 006.
+
+ORDER UNDER SECTION 98(4) OF THE CGST ACT, 2017 AND
+UNDER SECTION 98(4) OF THE TNGST ACT, 2017
+
+Members present:
+
+Shri C. Thiyagarajan, LR.S., Shri B. Suseel Kumar, B.E., MBA.,
+Additional Commissioner/Member (CGST), | Joint Commissioner/Member (SGST),
+Office of the Commissioner of GST and Authority for Advance Ruling,
+Central Excise, Audit I Commissionerate, Tamil Nadu,
+
+Chennai - 600 101. Chennai - 600 006.
+
+Advance Ruling No. 3/ARA/2026, dated 09.01.2026
+
+1. Any appeal against this Advance Ruling order shall lie before the Tamil Nadu State
+Appellate Authority for Advance Ruling, Chennai under Sub-Section (1) of Section 100 of
+CGST Act 2017/TNGST Act 2017, within 30 days from the date on which the ruling sought
+
+to be appealed is communicated.
+
+2. In terms of Section 103(1) of the Act, Advance Ruling pronounced by the Authority
+under Chapter XVII of the Act shall be binding only-
+
+(a) On the applicant who had sought it in respect of any matter referred to in
+sub-section (2) Section 97 fer advance ruling.
+
+(b) On the concerned officer or the Jurisdictional Officer in respect of the
+applicant.
+
+3. In terms of Section 103(2) of the Act, this Advance Ruling shall be binding unless the
+
+law, facts or circumstances supporting the original advance ruling have changed.
+
+4. Advance Ruling obtained by the applicant by fraud or suppression of material facts or
+misrepresentation of facts, shall render such ruling to be void ab initio in accordance with
+
+Section 104 of the Act.
+
+5. The provisions of both the Central Goods and Services Tax Act and the Tamil Nadu
+Goods and Services Tax Act (herein referred to as the Act) are the same except for certain
+provisions, Therefore, unless a mention is specifically made to such dissimilar provisions, a
+reference to the Central Goods and Services Tax Act would also mean a reference to the
+
+same provisions under the Tamil Nadu Goods and Services Tax Act.
+
+Page 1 of 18
+
+
+GSTIN Number, ifany/Userid | 33AABCI'8078M1Z78
+
+Legal Name of Applicant “TFlipkart India Private Limited
+Trade Name of Applicant Flipkart India Private Limited
+“Registered Address/ Address | Survey No. 292-302, 126, 295,
+provided while obtaining User id Thiruvallur High Road,
+
+No. 111, Alamathi 2 Revenue Village,
+Sholavaram Panchayat Union, Tiruvallur— 600067.
+
+‘Details of Application Application Form GST ARA-01 received from the
+applicant on 16.06.2025.
+Jurisdictional Officer Center -
+
+Chennai-Outer Commissionerate, Ponneri Division,
+Ponneri Range.
+
+State -
+Large Taxpayers’ Unit — DC1
+Large Taxpayers’ Division
+
+‘Nature of activity {s)
+(proposed/present) in respect of
+which advance ruling sought for
+
+A. Category Service Provision
+
+B. Description (in brief) Provision of Goods Transport Agency services to
+unregistered customers.
+
+Issues on which advance ruling
+required
+
+1. Classification of any goods or services or both;
+
+2. Determination of the liability to pay tax on any goods
+| or services or both;
+
+Question(s) on which advance | a) Whether the services provided by the Applicant to
+
+ruling is required customers would qualify as “Goods Transport Agency”
+(GTA) services?
+b) Whether the services provided by the Applicant to
+unregistered customers through the electronic commerce
+operator’s portal would be cligible for exemption in
+terms of Sl. No. 21A of Notification No. 12/2017 - Central
+Tax (Rate) dated 28.06.2017 (as amended)?
+
+M/s. Flipkart India Private Limited, Survey No, 292-302, 126, 295, Thiruvallur High
+Road, No. 111, Alamathi 2 Revenue Village, Sholavaram Panchayat Union (hereinafter called as
+the “Applicant”) are registered under the GST Act with GSTIN 33AABCF8078M1Z8 under the
+goods and services tax Act. They have filed this application for advance ruling under Section 97
+of the CGST Act, 2017, and corresponding provisions under the Section 97 of TNGST Act, 2017.
+The Applicant has made a payment of application fees of Rs.5,000/- each under sub rule (1) of
+Rule 104 of CGST Rules, 2017 and T'NGST Rules, 2017.
+Page 2 of 18
+
+
+The applicant has sought advance ruling on the following question:
+
+a) Whether the services provided by the Applicant to customers would qualify as “Goods
+‘Transport Agency” (GTA) services?
+
+b) Whether the services provided by the Applicant to unregistered customers through the
+Electronic Commerce Operator's portal would be cligible for exemption in terms of SI. No. 21A of
+Notification No. 12/2017 ~ Central Tax (Rate) dated 28.06.2017 ( as amended)?
+
+2 Statement of relevant facts:
+
+21 Flipkart India Private Limited (hereinafier referred to as "FKI” or “Applicant”) is a
+private limited company incorporated under the Companies Act, 2013. Currently, the Applicant
+is inter alia engaged in B2B trading of goods. The Applicant proposes to implement a new model
+of business ("Proposed Model”) wherein it would inter alia be providing transportation
+services of goods exclusively by road to the customers purchasing such goods from various [-
+Commerce Operator (“ECO”) portals. While the Applicant may also be carrying out other kinds
+of transportation activities under the Proposed Model, it is clarified that the present Application
+
+and the questions raised therein) is limited to the transportation of goods by road carried out
+
+by the Applicant. Under the Proposed Model, whenever the goods are purchased by customers
+through the ECO portal, the Seller would only be responsible for delivering the goods al a
+designated point for onward delivery - the Source Mother Hub (i.c. the nearest hub from the
+Seller's location). Subsequently, the Applicant would be responsible for collecting / picking up
+such goods from the appropriate “Source Mother Hub” and deliver them to the address for
+delivery stipulated by the end-customer at the time of purchasing goods on the ECO (“Delivery
+Address"), For this purpose, the Applicant will have a separate engagement with the end-
+customer which would be stipulated on the Customer’s/Terms of Use (“TOUs") - which is
+agreed by the end-customer while ordering goods on the ECO’s portal, Sample TOUs in relation
+to the transportation activity of the Applicant (proposed to be listed on ECO’s portal) is listed.
+The transportation activity proposed to be undertaken by the Applicant may also involve
+multiple transit points: Source Mother Hub (“SMII") - Destination Mother Ilub — Delivery Hub -
+End customer. Such transportation may take place either through trucks, vans or two-wheelers
+(or a combination thereto). It is clarified and re-iterated that the services provided by the
+Applicant under the Proposed Model would be pursuant to TOUs - wherein the Applicant is
+appointed the Goods Transport Agency ("GTA") for the transportation of goods exclusively by
+
+road from the Source Mother Hub to the Delivery Address.
+
+2.2. The consideration for such goods transportation services provided by the Applicant (i.c.,
+
+transportation charges) would also be paid by the end-customers purchasing goods (ic,
+
+Page 3 of 18
+
+
+recipients of GTA services), However for the sake of administrative convenience, such
+consideration may be remitted to the Applicant by the ECO (on behalf of the customers) which
+in-turn would have collected such consideration from the customers at the time of purchase of
+goods on its portal (in case payment is made online at the time of purchase of goods) or, may be
+collected by the Applicant from the customers upon delivery of such goods to such customers (in
+case payment is made via cash at the time of delivery). The transportation charges would be
+specifically disclosed in the tax invoice/bill of supply raised by the Applicant on the end-
+customer, In respect of GTA services provided to B2B customers, the Applicant proposes to
+discharge GST under forward charge at the rate of 12% in terms of Sk. No. 9(iii)(b) of Notification
+No, 11/2017- Central Tax (Rate) dated 28.06.2017. A draft bill of supply /Tax Invoice is
+attached,
+
+23 The Applicant would issue a single Consignment note from the Source Mother Hub to the
+Delivery Address (regardless of whether there a break in the journey between the Source
+Mother Hub, Destination Mother Hub, Delivery Hub and Delivery Address and the fact that
+different road transport vehicles may be used in each stage of the journey). As a consequence of
+the Consignment Note issued by the Applicant, not only is a lien created over the goods being
+transported in favour of the Applicant but also the Applicant is liable to the end-customer for
+any damage to the goods occurring during the course of their transportation until the Delivery
+Address. The actual transportation services may be provided by the Applicant on its own
+
+account or by engaging a third party transporter.
+
+24 At the time of actual delivery or even after accepting delivery of goods by the Applicant,
+the customer may have the option to reject or return the goods. As a consequence, the customer
+may also be entitled to scek a refund (in case the customer made prior payment for
+transportation charges). In such instances, the loss of transportation charges would be borne by
+the Applicant with or without any charge payable by the ECO. The Applicant would also take
+transit insurance in respect of the goods to be transported by it by road from the Source Mother
+Hub to the Delivery Address.
+
+25 In view of the aforementioned facts and circumstances, the Applicant submits that the
+services proposed to be provided by it are classifiable as “Goods Transport Agency” services.
+Moreover, when such GTA services would be provided by the Applicant to unregistered
+customers ordering goods through the ECO’s portal, they would be exempt from GST under Sl.
+No. 214A of Notification No. 12/2017 - Central Tax (Rate) dated 28.06.2017 (as amended). At the
+
+time of filing of the Application, the Applicant has not yet commenced the new business.
+
+Page 4 of 18
+
+
+3. Interpretation of Law by the Applicant based on the statement of facts:
+On interpretation of law, the applicant has stated that-
+
+3A The Applicant submits that the term “Goods Transport Agency” (“GTA”) has been defined
+under Paragraph 4{xxxx) of the Rate Notification (Notification No. 11/2017- Central Tax (Rate)
+dated 28.06.2017) as extracted hereunder:
+
+“(xxxx) ‘goods transport agency’ means:
+any person who provides service in relation to transport of goods by road and issues
+consignment note, by whatever name called.”
+
+Asimilar definition is also provided under Para 2(ze) of the Exemption Notification.
+
+32 The aforesaid definition(s) are similar to the definition under the erstwhile Section
+65B(26) of the Finance Act, 1994 (“Finance Act”) as extracted hereunder:
+“(26) “goods transport agency" means any person who provides service in relation to
+transport of goods by road and issues consignment note, hy whatever name called;"
+The Applicant submits that hence, judicial precedents under the erstwhile Service Tax Regime
+would be equally relevant and will have persuasive value for the purpose of interpretation of the
+
+scope of the entry under the GST law.
+
+3.3 The Applicant submits that the use of the phrase ‘in relation to’ in the above reproduced
+definition of GIA under the Rate Notification further extends the scope of the term GTA to
+include not only the actual transportation of goods, but also any intermediate/ancillary service
+provided in relation to such transportation, like loading/unloading, packing/ unpacking, trans-
+shipment, temporary warehousing, etc. If these services are not provided as independent
+activities but are the means for successful provision of GTA services, then they are also covered
+under the scope of GTA services. ‘This has further been clarified vide Board Circular No.
+234/28/2024- GST dated 11.10.2024 (issued pursuant to the recommendations in the 54% GST
+Council Meeting), the relevant portion of which is extracted hereunder:
+
+“6.3 After deliberations on the issue and based on recommendations of the 54th GST
+Council, it is hereby clarified that ancillary or incidental services provided by GTA in the
+course of transportation of goods hy road, such as loading/unloading, packing/unpacking,
+transshipment, temporary warehousing etc. will be treated as composite supply of transport
+of goods, The method of invoicing used by GTAs will not generally alter the nature of the
+composite supply of service. However, if such services are not provided in the course of
+transportation of goods and are invoiced separately, then these services will not be treated as
+composite supply of transport of goods.”
+
+3.4. The Applicant submits that a perusal of the definition of GTA under the Rate Notification
+would reveal that for any person to be termed as GTA, the following two conditions must be
+cumulatively satisfied ~ (a) there must be provision of service in rclation to
+transportation of goods by road and (b) the service provider must issue a Consignment
+
+Note.
+Page 5 of 18
+
+
+3.5 The Applicant submits that the scope of GTA services as well as the importance of issuance
+of Consignment Note has further been emphasized in the CBIC Flyer on Goods Transport
+
+Agency, the relevant portion of which has been extracted hereunder:
+
+“Thus, it can be seen that issuance of a. consignment note is the sine-qua-non for a supplier
+
+issued by the transporter, the service provider will not come within the ambit of goods
+transport agency. Ifa consignment note is issued, it indicates that_the lien an the goods
+
+has been transferred (to the transporter) and the transporter hecomes responsible for the
+goods till its safe delivery Lo the consignee.
+
+It is only the services of such GTA, who assumes agency functions, that is being brought
+into the GST net. Individual truck/tempo operators who do not issue any consignment
+nole are not covered within the meaning of the term GTA. As a corollary, the services
+provided by such individual transporters who do not issue a consignment note will be
+covered by the entry at s.no.18 of notification no.12/2017-Central Tax (Rate), which is
+exempt from GST.”
+
+3.6 The Applicant submits that in terms of the above-extract, issuance of a Consignment
+Note would indicate that a lien on the goods has been created in favour of the transporter and
+such transporter further becomes responsible for any damage occurring to the goods during the
+course of their transportation until safe delivery to the consignee. While the term “Consignment
+Note” is not defined under GST law, guidance may be drawn in this regard from Rule 4B of the
+
+Service Tax Rules, 1994 which is extracted hereunder:
+"AB. Issue of Consignment. Note
+
+Any goods transport agency which provides service in relation to transport of goods by road
+in a goods carriage shall issue a consignment note to the recipient of service.
+
+Provided that where any taxable service in relation to transport of goods by road in a goods
+carriage is wholly exempted under section 93 of the Act, the goods transport agency shall not
+be required to issue the consignment note.
+
+and the second proviso to rule 4A, "consi ent
+
+ur
+
+t, issued by a goods transport agency against the receipt of goods for
+the purpose of transport of goods hy road in a goods carriage, which is serially numbered,
+and contains the name of the consignor and consignee, registration number of the goods
+carriage in which the goods are transpo, letails of th is transported, details of the
+place of origin and destination, person liable for paying service tax whether consignor,
+
+a7 The Applicant submits that therefore, a Consignment Note is a document issued by a
+
+GTA against the receipt of goods for the purpose of their transportation by road in a goods
+carriage. In commercial parlance, a Consignment Note signifies that the responsibility of the
+goods lies with the GTA until delivery. It acts as legal evidence of receipt of goods for
+
+transportation and transfer of custody from consignor to the transporter.
+
+Page 6 of 18
+
+
+3.8 The Applicant submits that the issuance of a Consignment Note is sine qua non for
+classification as GTA Services, as observed by the Hon’ble CESTAT ~ Mumbai Bench in CCE v.
+JWC Logistics Pvt. Ltd. [2019 (22) GSTL 237 (Tri-Mum)]. The relevant portion of the Tribunal’s
+
+judgement therein is extracted hereunder:
+
+“9, Revenue relies upon the invoices or monthly bills raised by M/s. V.B. Enterprises, An
+invoice, notwithstanding adequacy of details thereon is no substitute for a consignment note.
+An invoice creates liability of debt on the part of the recipient of the service. A consignment
+
+note, on the other hand, carries with it a certain legal n,_the issuing of a consignment
+note is a contractual undertaking made to the entity that handed over the goods to the
+agency of responsibility for safe delivery at the stipulated destination. A consignment note
+also creates binding responsibility for each consignment. In the absence of any evidence of
+such responsibility having devalved on M/s, V.A. Enterprises and the issue of monthly bills
+does not, ipso facto, creates such liability and the impugned order is not at fault for having
+held that tax liability does not arise.
+
+3.9 The Applicant submits that on the basis of the aforesaid, it is evident that (a) if the entire
+transportation of goods is exclusively by road and (b) the transporter/service provider issues a
+
+Consignment Note, then the transportation services provided are GTA services.
+
+3.10 The Applicant submits in re-iteration of the aforesaid that as long as transportation of
+goods is carried out by it entirely by road pursuant to the issuance of a consignment note, the
+services to be supplied by it under the Proposed Model are indeed GTA Services. Such conclusion
+is arrived at a plain and literal construction Para 4(xxxx) of the Rate Notification in consonance
+with the settled principles of construction as laid out the judgement of the Hon'ble Supreme
+Court in Mangalore Chemicals and Fertilisers Limited v. Deputy Commissioner of
+
+Commercial Taxes and Others [1992 Supp (1) SCC 21], the relevant portion of which is
+
+extracted hereunder:
+“24. |...)
+The choice between a strict and a liberal construction arises only in case of doubt in regard
+to the intention of the legislature manifest on the statutory langua, the need to
+resort to_any interpretative process arises only where the meaning _is not manifest on the
+plain words of the statute. If the words are plain and clear and directly convey the meaning,
+
+there is no need for any interpretation. It appears to us the true Rule of construction of a
+provision as to exemption is the one stated by this Court in Union of India v. Wood Papers
+
+Ltd.”
+
+3.11 The Applicant submits that the Service Codes (Tariff) for services are provided by way of
+"Scheme of Classification of Services” under the Annexure to the Rate Notification, relevant
+
+portion of which are extracted hereunder:
+
+Page 7 of 18
+
+
+“Annexure: Scheme of Classification of Services:
+
+Sr. Chapter, Section, Service Service Description
+No. | Heading or Group Code
+(Tariff)
+
+107 | Heading9965.. | ~~ ~~~_| Goods Transport Services iia
+
+108 | Group 9965 1 “Land transport services of Goods
+
+109 996511 Road transport services of Goods including
+letters, parcels, live animals, household and
+office furniture, containers and the like by
+refrigerator vehicles, trucks, trailers, man or
+animal drawn vehicles or any other vehicles
+
+110 996512 Railway transport services of Goods including
+letters, parcels, live animals, household and
+office furniture, intermodal containers, bulk
+cargo and the like
+
+1 | ; ~~ | 996573 Transport services of petroleum and natural
+gas, water, sewerage and other goods via
+pipeline
+
+2 | 996519 Other land transport services of goods nowhere
+else classified
+
+125 Heading 9967 po Supporting services in transport a
+
+154 | Group 99679 Other supporting transport services
+
+155 | “|'996797 Goods transport agency services for road
+
+transport”
+
+3.12 The Applicant submits that the Explanatory Notes further indicate the scope and
+coverage of the heading, groups and service codes of the Scheme of Classification of Services.
+
+Explanatory notes for the aforesaid tariff are reproduced hereunder:
+
+“9965 Goods transport services
+
+99651 Land transport services of goods
+
+996511 Road transport services of Goods including letters, parcels, live animals,
+household & office furniture, containers etc. by refrigerator vehicles, trucks, trailers,
+man or animal drawn vehicles or any other vehicles...
+
+«This service code does not include:
+oO messenger services of bicycle couriers, cf 996812
+
+9° courier delivery services, cf. 996812
+© local delivery services, cf. 996813
+© armored car services, cf 998524
+
+Page 8 of 18
+
+
+99679 ‘Other supporting transport services
+996791 Goods transport agency services for road transport
+This service code includes freight brokerage services; freight forwarding services
+
+(primarily transport organization or arrangement services on behalf of the consignor
+or consignee); freight consolidation and break-bulk services.”
+
+3.13 A perusal of the Explanatory Notes would reveal that the transportation may take place
+through any vehicle and is not solely limited to transportation through trucks. As analysed
+hereinabove, the services provided by the Applicant are classifiable as “Goods Transport Agency
+
+Services”.
+
+3.14 Another question that could arise for consideration given the time-sensitive nature of
+transportation is whether the services provided by the Applicant could be covered under Lerm
+
+“courier agency” as defined under Para 2(u) of the Exemption Notification:
+
+we,
+
+‘courier agency” means any person engaged in the door-to-door transportation of time-
+sensitive documents, goods or articles utilising the services of a person, either directly or
+indirectly, to carry or accompany such documents, goods ar articles”
+
+This is in pari materia with the definition the term “courier agency” under Section 65B(20) of
+
+the Finance Act, 1994 under the erstwhile Service Tax Regime.
+
+3.15 The Applicant submits that in the erstwhile Service Tax Regime, the ambiguity on the
+difference between services provided by a GTA and a courier agency was clarified by the Board
+vide Circular No. 104/7/2008- ST dated 06.08.2008, the relevant portion of which has been
+
+extracted hereunder:
+
+“Issue 3: Whether time sensitive transportation of goods by road in a goods carriage by a
+GTA shail be classified under courier service and not GTA service?
+
+Clarifit ication: Qn bis tase, it. is clarified _that so long as,. (a). the -entire_ transportation of
+Bb) tl i}
+
+would be classified as ‘GTA Service"
+
+3.16 ‘The Applicant submits that this position was further re-iterated vide Circular No.
+186/5/2015-ST dated 05.10.2015, the relevant portion of which has been extracted hereunder:
+
+“It_is also clarified that transportati ods by road by a GTA, in cases where
+
+undertakes to reach/deliver the goods at destination within a stipulated time, should be
+
+considered a. ices 0 transport agency in relation to transportatio ‘oods for
+notification No. 26/2012- ST date 06.2012, serial number 7, so long as (a)
+the entire transportati i ad; and {hb} the GTA is j note
+
+whatever name called.”
+
+Page 9 of 18
+
+
+Considering that the definitions of the terms “GTA” and “courier agency” under erstwhile Service
+‘tax and GST regime are pari materia, the aforesaid clarifications would apply even under the
+
+GST regime and would be binding on the Assessing Officers.
+
+3.17 It is undeniable that the services would be provided by the Applicant to the customers
+who order goods through the I:CO’s portal. There is a privity of contract between the Applicant
+and the end-customer. The end-cuslomer is liable to pay the “Goods Transportation” charges to
+
+the Applicant (as also reflected in the tax invoice issued by the Applicant and the TOUs).
+
+3.18 The Applicant submits that GTA services proposed to be provided by it to unregistered
+customers/recipients (who order goods from the ECO’s portal) are specifically exempt under SI.
+
+No. 21A of the Exemption Notification as extracted hereunder:
+
+“21A | Services provided by a goods transport agency to an unregistered | Nil | Nil
+person, including an unregistered casual taxable person, other than
+the following recipients, namely: -
+
+(a) any factory registered under or governed by the Factories Act,
+1948(63 of 1948); or
+
+(b) any Society registered under the Societies Registration Act, 1860 (21
+of 1860) or under any other law for the time being in force in any part of
+India; or
+
+(c) any Co-operative Society established by or under any law for the time
+being in force; or
+
+(a) any hody corporate established, by or under any law for the time
+being in force; or
+
+(e) any partnership firm whether registered or not under any law
+including association of persons;
+
+(f) any casual taxable person registered under the Central Goods and
+Services Tax Act or the Integrated Goods and Services Tax Act or the State
+Goods and Services Tax Act or the Union Territory Goods and Services Tax
+Act.”
+
+3.19 ‘The Applicant submits that in this regard, its appointment as a GTA for transportation of
+goods upto the customer's Delivery Address coupled with the fact that consideration for such
+services would ultimately be borne by such customer would inevitably demonstrate that GTA
+
+services are in fact provided by the Applicant to such end-customers.
+
+3.20 The Applicant further submits that once it is established that the services provided by it
+are classifiable as GTA Services and that recipients thereof are unregistered, its eligibility for the
+benefit of SI. No. 21A of the Exemption Notification should be liberally interpreted. In this
+regard, reliance is placed on the judgement of the Hon'ble Supreme Court in Union of India and
+
+Page 10 of 18
+
+
+Others v. Wood Papers Ltd. & Anr, [(1990) 4 SCC 256], the relevant portion of which is
+extracted hereunder:
+
+"4.[.]
+
+That is why its construction, unlike charging provision, has to be tested on different
+touchstone. In fact, an exemption provision is like an exception and on normal principle of
+construction or interpretation of statutes it is construed strictly either because of legislative
+intention or on economic justification of inequitable burden or progressive approach of fiscal
+provisions intended to augment State revenue. But ance exception or exemption becomes
+applicable no Rule or principles requires it to be construed strictly. Truly speaking liberal
+and _strict construction of an remain segs are to be. be ene at Seas stages of
+
+interpreting it. When th stion nor in the
+fac pita Gib iah tetanic geese a os tae sia. miei and ansiit
+the subject, but once ambiguity or doubt about applicability is lifted and the subject falls in
+the notification then full play should be give. it_and it calls for_a wider _and liberal
+construction.”
+
+3.21. ‘The Applicant submits that the benefit of such Nil exemption under SI. No. 21A of the
+Exemption Notification is further available in respect of any ancillary services provided by the
+GTA {as clarified vide Circular No. 234/28/2024- GST dated 11.10.2024), given that such
+ancillary services are provided in the course of transportation of goods and are a part of the
+composite supply of GTA services. The relevant portions from the said Circular dated 11.10,2024
+
+are extracted hereunder:
+
+"6. Whether incidental/ ancillary services such as loading/ unloading, packing, unpacking,
+transshipment, temporarv warehousing etc, provided in relation to transportation of goods
+by road is to be treated as part of Goods Transport Agency service, being composite supply, or
+
+these services are to be treated as separate independent supplies:
+
+[-]
+
+6.3 After deliberations on the issue and based on recommendations of the 54th GST Council,
+itis here larified that ancillary or incidental services provided by GTA_in the
+transportation of goods by road, such as loading/unioading, _packing/unpacking,
+
+transshipment, temporary warehousing etc. will be treated as composite supply of transport
+
+emer eRe The soe of invoicing used by GTAs will not generally alter the nature of the
+
+3.22 The Applicant submits that the services proposed to be supplied by it under the
+Proposed Model have been squarely classifiable as GTA services in numerous other advance
+
+rulings under GST law— as elaborated in the ensuing paragraphs.
+
+3.23 The Applicant submits that the Hon’ble Authority / the Hon'ble Authorily for Advance
+Ruling, Karnataka in Re: M/s. Sarvana Perumal [2020 (33) G.S.T.L. 39 (A.A.R. - GST - Kar.)J
+observed that issuance of a Consignment Note for transportation of goods belonging to others
+
+coupled with undertaking to transport such goods for a consideration would lead to
+
+Page 11 of 18
+
+
+classification of the services of transportation of goods as GTA services. The relevant portion of
+
+the aforesaid ruling is extracted hereunder:
+
+“5.4 The Goods Transport Agency is defined under clause 2(ze) of Notification No. 12/2017-
+Central Tax (Rate), dated 28-6-2017, for the purpose of the said notification, and is as under:
+“(ze} “goods transport agency” means any person who provides service in relation to
+transport of goods = road and issues consignment note, by whatever name called;”
+
+Hence when ficant_ iss: ag_consignm te for the transportati
+belonging to en. and_undertakes_to_transport_the same for a consideration, he would
+
+become a Goods Transport Agency within the meaning of clause (ze) of Notification No.
+12/2017-Central Tax (Rate), dated 28-6-2017.
+
+Further, the Goods Transport Agency is defined in the explanation to clause (iii) of Entry 9 of
+Notification No. 11/2017-Central Tax (Rate), dated 28-6-2017, for the purposes of the said
+entry, as under ;
+
+“goods transport agency” means any person who provides service in relation to transport of
+goods by road and issues consignment note, by whatever name called;”
+
+It could be seen from above that the definition of “goods transport agency” is one and the
+same for the purposes of both the aforesaid two notifications."
+
+4. The applicant is under the administrative control of Centre. The concerned authorities of
+the Centre and State were addressed to report if there are any pending proceedings against the
+applicant on the issues raised by the applicant in the ARA application and for comments on the
+issues raised. Remarks have been received from the State Authority that there are no pending
+proceedings on the questions raised in their Advance Ruling Application. Since, no remarks have
+been received from the Central GST jurisdictional Authority, it is construed that there are no
+pending proceedings against the applicant on the questions raised by them in their advance ruling
+
+application.
+
+5. Personal Hearing
+
+The applicant was given an opportunity to be heard in person on 07.10.2025 vide this office
+memorandum No.27/2025/ARA, dated 23.06.2025, Shri, Rohit Jain, Advocate & Shri. Arihant
+‘ater, Advocate appeared for the personal hearing as the authorised representatives (AR) of
+M/s. Flipkart India Private Limited. The AR reiterated the submissions made in their application
+
+for advance ruling.
+
+5.1 The AR has furnished Additional submissions during the Personal hearing containing
+extracts of relevant statutory provisions, Notifications, Board Circulars and a few judgements.
+AR stated that they proposed a new business model by providing transportation services of
+goods exclusively by road to the customers purchasing such goods from various E-Commerce
+Operator portals. Whenever the goods are purchased by customers through the E-Commerce
+portal, the seller would deliver the goods Lo their nearest Flipkart India's warehouse known as
+
+“Source Mother Hub”. ‘The applicant will issue Goods Consignment Note and transport the goods
+
+Page 12 of 18
+
+
+by road from Source Mother Hub to the Customer’s delivery address. They will issue Tax Invoice
+for Goods Transport Charges under HSN 9965 and charge IGST @ 12%. The transport charges
+will be paid by the end customer along with cost of the goods to the E-Commerce Operator, who
+will in turn remit the same to the applicant. They claim that they are doing Goods Transport
+Agency service. Further, they claim exemption from GST on GTA services provided to
+unregistered customers ordering goods through the ECO’s portal under S, No, 21A of Notification
+No. 12/2017 - Central Tax (Rate) dated 28.06.2017 (as amended),
+
+5.2 Members asked for the contract between the applicant and the E-Commerce Operators
+and also the details of payments between them. The AR had assured to submit the same within
+
+one week and furnished the same on 14.10.2025 through email.
+
+53 In the agreement between the Applicant and the E-commerce Operators, the following
+were agreed upon.
+
+‘The Applicant will be providing transportation services to the End-customer for delivery of
+goods (“Services”) listed on the Company’s e-commerce platform, www.flipkart.com, Flipkart
+Mobile App and the Flipkart M-Site, collectively “Platform”; The rendition of these services
+would be facilitated by the Company. For the purpose of above-clause, the End-customer implies
+the person who orders goods on the Platform and has engaged the services of the Affiliate for
+transportation of such goods. The Company has collected payments/ fees from the End-
+customers for services rendered by the Applicant. Under this agreement, the Company is paying
+the payments/ fee so collected from the end-customer to the Applicant. The Parties have agreed
+to enter into an arrangement for disbursement of such amounts collected by the Company from
+the end-customer on behalf of the Affiliate on terms and based on the conditions set forth herein.
+In addition to the above, with respect to the returns facilitated by the Company via its platform,
+the Service Provider will independently provide transportation and logistics services to the
+
+Company, including but not limited to returns management and disposal detailed in Annexure A.
+
+5.4 The Applicant/ Service Provider will raise a financial debit note on the Company for
+collection of the consideration collected by the Company on behalf of the Applicant for the
+transportation services rendered by it to the end-customer. ‘The Affiliate will raise a tax invoice
+for the transportation services provided to the Company as per agreed consideration as detailed
+in Annexure B. All applicable GST (wherever applicable) shall be charged over and above the
+price provided in this Agreement. It is however clarificd that no GST would be charged on
+disbursement of consideration by the Company to the Applicant. Appropriate taxes/ GST
+(wherever applicable) would be collected by the Applicant at the time of raising of tax invoice on
+the end-customer. The said GST liability (wherever applicable) would be independently
+discharged by the Applicant in compliance with the GST laws. The invoice for service fees shall
+
+Page 13 of 18
+
+
+be duly raised by the Company within the time as prescribed under Central Goods and Services
+‘Tax Act and the Rules made hereunder. The Company shall state applicable Goods & Services
+
+‘Tax on its invoice and pay all collected taxes to the appropriate taxing authority.
+
+6. Discussions and Findings:
+
+6.1 We have carefully examined the submissions made by the applicant in their advance
+ruling application, submissions made during the personal hearing and the additional
+submissions through email thereafter. We have also considered the issue involved, the relevant
+facts and the applicant’s submission / interpretation of law in respect of question on which the
+
+advance ruling is sought.
+
+6.2 We find that the queries are liable for admission as it gets covered under Section 97 (2)
+(a) & (b) of CGST/TNGST Act, 2017 under
+
+“(a) classification of any goods or services or both;
+
+(b) applicability of a notification issued under the provisions of this Act”
+
+6.3 We find that the applicant is starting a new business model by providing
+transportation services of goods exclusively by road to the customers purchasing such goods
+from various l/-Commerce Operator portals. Whenever the goods are purchased by customers
+through the E-Commerce portal, the seller would deliver the goods to their nearest Flipkart
+India’s warehouse known as “Source Mother Hub”. The applicant will issue Goods Consignment
+Note and transport the goods by road from Source Mother Hub to the Customer's delivery
+address. They will issue Tax Invoice for Goods Transport Charges under HSN 9965 and charge
+IGST @ 12%. The transport charges will be paid by the end customer along with cost of the
+goods to the E-Commerce Operator, who will in turn remit the same to the applicant. They claim
+that they are doing Goods Transport Agency service. Further, they claim exemption from GST on
+GTA services provided to unregistered customers ordering goods through the ECO’s portal
+under S. No. 21A of Notification No. 12/2017 - Central Tax (Rate) dated 28.06.2017 (as
+
+amended).
+
+6.4 We find that the applicant has sought for advance ruling on the following :
+
+a) Whether the services provided by the Applicant to customers would qualify as “Goods
+‘Transport Agency” (GTA) services?
+
+b) Whether the services provided by the Applicant to unregistered customers through the
+electronic commerce operator’s portal would be eligible for exemption in terms of Sl. No. 21A of
+Notification No, 12/2017 — Central Tax (Rate) dated 28.06.2017 (as amended)?
+
+6.5 We will analyse the “Good Transport Agency” services;
+
+As per Paragraph 4(xo0n) of the Rate Notification (Notification No. 11/2017- Central Tax (Rate)
+
+dated 28.06.2017)
+Page 14 of 18
+
+
+“(Xxxx) ‘goods transport agency’ means:
+any person who provides service in relation to transport of goods by road and issues
+consignment note, by whatever name called.”
+
+Also Para 2 (xe) of Notification No, 12/2017- Central ‘tax (Rate) New Delhi, the 28th June, 2017
+States as follows:
+(ze) “goods transport agency” means any person who provides service in relation to
+
+transport of goods by road and issues consignment note, by whatever name called.
+
+From the above said explanations given in both the above said notifications, it can be inferred
+that “Goods Transport Agency” is
+
+a) Any person providing service in relation to transport of goods by road
+b) And issues a Consignment Note.
+
+A Consignment Note is a document issued by a GTA against the receipt of goods for the purpose
+of their transportation by road in a goods carriage. In commercial parlance, a Consignment Note
+signifies that the responsibility of the goods lies with the GIA until delivery. It acts as legal’
+evidence of receipt of goods for transportation and transfer of custody from consignor to the
+transporter. By issuing a consignment note, the GTA undertakes to transport the goods from the
+consignor to the end-customer’s delivery address for a consideration to be paid by the customer.
+In the instant case, the applicant is providing the service of transporting the goods to the
+customers purchasing them (through E-Commerce portals) by road to their delivery address and
+also issues a Consignment Note to them. We have referred to the sample Consignment Notes
+furnished by the Applicant. The Applicant would issue a single Consignment Note from the
+goods pick-up point at Source Mother Hub to the Delivery Address, due to which a lien is
+created over the goods being transported in favour of the Applicant and the Applicant is liable to
+the end-customer for any damage to the goods occurring during the course of their
+transportation until the Delivery Address. ‘The actual transportation services may be provided
+by the Applicant on its own account or by engaging a third party Lransporter, where necessary.
+At the time of actual delivery or even after accepting delivery of goods by the Applicant, the
+customer may have the option to reject or return the goods. As such, the customer may be
+entitled to a refund in case the prior payment is made by them. In such instances, the loss of
+transportation charges would be borne by the Applicant with or without any charge payable by
+the E-commerce operator. The Applicant would also take transit insurance in respect of the
+goods to be transported by it by road from the Source Mother Hub to the Delivery Address. The
+end-customer makes payment for such transportation services along with GST through the e-
+commerce portal along with the cost of the goods. The e-commerce operator remits the
+transport charges to the Applicant. Hence, the aforesaid activity of the applicant in providing the
+services of transporting the goods by road to the end-customers would qualify as a “Goods
+
+Transport Agency services”.
+Page 15 of 18
+
+
+6.6 On perusal of the Notification No, 12/2017 — Central Tax (Rate) dated 28.06.2017,
+we observe that entry S.No.21 of the said Notification exempts the services provided by a
+
+goods transport agency in respect of the following situations, viz.,
+
+(1) (2) {3) (4) | 6)
+
+21 Heading Services provided by a goods transport agency, by way of |NIL | Nil
+9965 or | transport in a goods carriage of - (a) agricultural produce;
+Heading (b) goods, where consideration charged for the
+9967 transportation of goods on a consignment transported in a
+
+single carriage docs not exceed one thousand five hundred
+rupees; (c} goods, where consideration charged for
+transportation of all such goods for a single consignee docs
+not exceed rupees seven hundred and fifty; (d) milk, salt
+and food grain including flour, pulses and rice; (c) organic
+manure; (f) newspaper or magazines registered with the
+Registrar of Newspapers; (g) relicf materials meant for
+victims of natural or man-made disasters, calamities,
+accidents or mishap; or (h) defence or military equipments.
+
+In this regard, we further note that an entry $.No.21A was inserted to the exemption Notification
+No.12/2017 — Central Tax (Rate) dated 28.06.2017, by way of an amendment Notification
+No. 32/2017- Central Tax (Rate) dated 13.10.2017, and the said entry read as follows :-
+
+() (2) i (3) (4) |)
+‘214 —_| Heading 9965 or | Services provided by a goods transport agency to an | Nil | Nil
+Heading 9967 unregistered person, including an unregistered casual
+taxable person, other than the following recipients,
+
+namely:
+
+(a) any factory registered under or governed by the
+Factories Act, 1948(63 of 1948); or
+
+(b) any Society registered under the Societics
+Registration Act, 1860 (21 of 1860) or under any other
+law for the time being in force in any part of India; or
+(c) any Co-operative Society established by or under
+any taw for the time being in force; or
+
+(d) anybody corporate established, by or under any law
+for the time being in force; or
+
+(c) any partnership firm whether registered or not
+under any law including association of persons;
+
+(f) any casual taxable person registered under the
+Central Goods and Services Tax Act or the Integrated
+Goods and Services Tax Act or the State Goods and
+Services Tax Act or the Union Territory Goods and
+Services Tax Act.
+
+Page 16 of 18
+
+
+The aforesaid entry S.No.21A of Notification no.12/2017-Central Tax (Rate) dated 28.06.2017
+(as amended) gives exemption to services provided by a goods transport agency to an
+unregistered person, The transportation services provided by a Goods Transport Agency by
+transporting goods to a person not registered under GST or a Casual Taxable person not
+
+registered under GST is eligible for exemption from GST vide the aforesaid entry.
+
+6.7 The Applicant claims exemption from GST vide entry S.No.21A of Notification
+no.12/2017-Central Tax (Rate) dated 28.06.2017 (as amended) in respect of Goods Transport
+Agency services provided to unregistered persons ordering goods through e-commerce portals.
+Any person ordering goods through e-commerce portal, if not registered under GST is cligible
+
+for exemption from GST on services provided by a Goods Transport Agency.
+
+7.  Inview of the above discussion, we rule as under:
+Ruling
+
+1) The Applicant's activity of transporting the goods ordered through e-commerce portal to
+the customer by road on issue of a Consignment Note qualify as “Goods Transport
+Agency GTA) services”.
+
+2) Services provided by the Applicant to unregistered customers who orders goods through
+the electronic commerce operator's portal are eligible for exemption in terms of entry
+SLNo.21A of Notification No. 12/2017 - Central Tax (Rate) dated 28.06.2017 {as
+
+Fogle i\ eG (Merb ieioo
+
+(B.SUSEEL KUMAR) \ . HIYAGARAJAN)
+Member (SGST) ~~ : Member (CGST)
+
+amended).
+
+@)
+
+To
+
+M/s Flipkart India Private Limited
+
+Survey No, 292-302, 126, 295,
+
+Thiruvallur High Road,
+
+No. 111, Alamathi 2 Revenue Village,
+
+Sholavaram Panchayat Union,
+
+Tiruvallur - 600067, (BY SPEED POST)
+
+Cony submitted to
+
+1. The Principal Chief Commissioner of GST and Central Excise,
+26/1, Uthathamar Mahatma Gandhi Road,
+Nungambakkam, Chennai 600 034.
+
+2. The Commissioner of Commercial Taxes,
+2n4 }‘loor, Ezhilagam, Chepauk, Chennai 600 005.
+
+Page 17 of 18
+
+
+3. The Commissioner of GST and Central Excise,
+Chennai - Outer Commissioncrate,
+Newry Towers, No. 2054, I Block,
+II - Avenue, 12th Main Road,
+Anna Nagar, Chennai - 600 040.
+
+Copy to
+
+1. The Deputy Commissioner (ST),
+Large Taxpayers’ Unit ~ J,
+Ath Floor, Integrated Commercial Taxes and
+Registration Department Building,
+Nandanam, Chennai - 600 035.
+
+2. Stock File - Al.
+
+Page 18 of 18

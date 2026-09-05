@@ -1,0 +1,608 @@
+AUTHORITY FOR ADVANCE RULING, TAMILNADU 
+INTEGRATED COMMERCIAL TAXES OFFICE COMPLEX, DOOR NO.32,
+5th FLOOR, ROOM NO. 503, ELEPHANT GATE BRIDGE ROAD,
+CHENNAI - 600 003.
+PROCEEDINGS OF THE AUTHORITY FOR ADVANCE RULING U/s.98 OF THE 
+GOODS AND SERVICES TAX ACT, 2017.
+Members present are:
+1. Shri T.G.Venkatesh, I.R.S., Additional Commissioner/^ .^e0 qQ9-1~% 
+Office of the Principal Chief Commissioner of GST & Central Excise,
+im <fls 11
+2. Tmt K.Latha., M.Sc., (Agri), Joint Commissioner (ST)/ Member, 
+Office of the Authority for Advance Ruling, Tamil Nadu, Chen
+0/0
+ORDER No. 33 /AAR/2022 DATED: 
+31-8-2022
+33AAFFV9173N1ZI
+GSTIN Number, if any / User id
+VBC ASSOCIATES
+Legal Name of Applicant
+No. 47/49, VBC Solitaire, Bazullah Road, 
+T Nagar, Chennai-600017
+Registered Address/Address 
+provided while obtaining user id
+GST ARA- 01 Application SI. No. 10/2022/ARA 
+dated: 02.03.2022
+Details of Application
+Centre: Chennai South 
+State: T.Nagar Circle
+Concerned Officer
+Nature of activity(s) (proposed / 
+present) in respect of which 
+advance ruling sought
+Provision of service
+Category
+A
+The applicant is a partnership firm in the 
+business of maintenance of an immovable
+Description (in Brief)
+B
+property.
+Admissibility of Input tax credit of tax paid or 
+deemed to have been paid.
+Issue(s) on which advance ruling 
+required
+Page 1 of 15
+
+
+Whether the input tax credit on solar power 
+panels procured and installed is blocked credit 
+under section 17(5) (c ) and (d) of CGST/TNGST 
+Act, 2017.
+Question(s) on which advance 
+ruling is required
+Note:
+Any appeal against the Advance Ruling order shall be filed before 
+the Tamil Nadu State Appellate Authority for Advance Ruling, Chennai 
+under Sub-section (1) of Section 100 of COST ACT/TNGST Act 2017 within 
+30 days from the date on which the ruling sought to be appealed against is 
+communicated.
+At the outset, we would like to make it clear that the provisions of both 
+the Central Goods and Service Tax Act and the Tamil Nadu Goods and 
+Service Tax Act are the same except for certain provisions, 
+unless a mention is specifically made to such dissimilar provisions, a 
+reference to the Central Goods and Service Tax Act would also mean a 
+reference to the same provisions under the Tamil Nadu Goods and Service 
+Tax Act.
+Therefore,
+Solitaire, Bazullah Road, T Nagar, 
+Chennai-600017 (hereinafter called the Applicant) are registered under GST with 
+GSTIN 33AAFFV9173N1Z1. The applicant has sought Advance Ruling on the 
+following question:
+Whether the input tax credit on solar power panels procured and installed 
+is blocked credit under Section 17(5) (c) and (d) of CGST/TNGST Act, 2017
+VBC ASSOCIATES, No. 47/49, VBC
+The Applicant has submitted the copy of application in Form GST ARA - 01 
+and also submitted a copy of Challan evidencing payment of application fees of 
+Rs.5,000/- each under sub-rule (1) of Rule 104 of CGST rules 2017 and SGST 
+Rules 2017.
+The applicant has stated that they are a Partnership Firm in the business of 
+maintenance of an immovable property located in T Nagar, Chennai. The said 
+property is also the principal place of business of the applicant, as the said 
+maintenance services for the immovable property is being provided from that 
+premises. They have stated that they provide the services of maintenance of 
+immovable property, covered under the main SAC 9972. The applicant, 
+monthly basis, raises an invoice for 'EB and DG charges’, to the tenants, with
+Page 2 of 15
+2.1
+on a
+
+
+applicable GST, and the same is being duly deposited to the government by the 
+applicant on a monthly basis under the SAC 997221 at 18%. They have furnished 
+sample invoice copies along with the computation of the consumption units of the 
+said unit, which is the basis on which the said EB and DG charges are charged to 
+the tenant. The applicant has stated that they pay the Electricity charges upfront to 
+the Tamil Nadu Electricity Board ('TNEB') for the building as a whole and also 
+incurs the expenses of running the DG, along with any other expenses incurred by 
+the applicant for the business and claims Input Tax Credit charged by the 
+applicant's supplier, on the inward supplies of the applicant, if any. They have 
+stated that due to composite nature of the supply, the outward supply made by 
+them is a taxable supply of services, and consequently, they have charged taxes on 
+the Electricity charges and DG charges (EB and DG charges) which is being 
+recovered from the tenant. Rate charged on the invoice raised by the TNEB is 
+lumpsum and different from that charged by TNEB. Therefore, they are not 
+excludible from taxable value under Section 15 of the CGST Act 2017. Accordingly, 
+GST is charged on the entire amount as a composite supply.
+The applicant has submitted that the agreement with tenants states the
+2.2
+following:
+VBC Associates shall pay upfront common electricity charges and 
+metered water charges or tanker lorry water charges hired, whenever 
+necessary due to drying up of internal ground water resources like 
+tube wells of the building.
+VBC Associates will provide bills for such consumption of water and 
+Electricity from Tamil Nadu Electricity Board (TNEB)/leased 
+contractors and the Lessee shall pay /reimburse, such payments, to 
+VBC Associates as per the due date so as to have uninterrupted 
+services. The GST liability towards the above bills shall be borne by 
+the Lessee..."
+The applicant has stated that they have procured Solar Panels and the power so 
+generated is proposed to be used for electrical consumption. The TNEB, on the 
+electricity consumption charges of the building, would give a credit of the units 
+generated against the overall bill raised for the building as a whole. Hence, the 
+applicant has to pay the net cost of electricity consumption [Total consumption by 
+the unit (A) - Credits availed due to generation of Solar power (B)] and remit the 
+to the TNEB. However, the applicant, at the time of raising the bill to the 
+tenants, would raise a bill of the total consumption of the unit ((A) above), and taxes 
+would be discharged on the said collection from the tenant. For the purpose of
+Page 3 of 15
+i.
+ii.
+same
+
+
+computing the total consumption by the unit (from Electricity Board + Diesel 
+Generator), sub-meters have been installed for each of the tenants, and on that 
+basis, the electricity charges are collected and remitted to the TNEB.
+The applicant has further stated that there would not be any sale of the 
+power units generated from the Solar Power Panels, and the units so generated 
+would be utilized against the consumption of electricity for the leased premises, on 
+which the taxes are being charged to the tenants, on the entire value of services. For 
+the purpose of availing such credit with respect to the Solar Power Panel, the 
+applicant, as mentioned above, has incurred the expenses with respect to 
+procurement of solar panels and erection and commissioning of solar power panel
+2.3
+On interpretation of law, the applicant has referred to the definition of 
+‘inputs’, ‘capital goods’ and ‘ input services’ under section 2(59), 2(19) and 2(60) 
+respectively, of the COST Act 2017. The applicant has submitted that as per Section 
+17(5) (c) and (d) of the COST Act 2017, input tax credit is not available for works 
+contract services received for construction of immovable property and for goods and 
+services received for construction of immovable property (other than plant and 
+machinery) on own account. They have stated that in the instant case the solar 
+panels do not get covered under the definition of immovable property, as panels are 
+not attached to the earth.
+The applicant has stated that as per Section 2(26) of the General clause Act, 
+1842 "immovable property shall include land, benefits to arise out of the land, and 
+things attached to the earth, or permanently fastened to anything attached to the 
+earth”. Also, the meaning of "attached to the earth" is found in Section 3 of the 
+Transfer of Property Act, 1882 where it is defined to mean (a) rooted in the earth, as 
+in the case of trees and shrubs (b) imbedded in the earth as in the case of walls or 
+buildings (c) attached to what is imbedded for the permanent beneficial enjoyment 
+of that to which it is attached. They have submitted that in respect of section 17(5), 
+the solar panels purchased by them qualify as 'plant and machinery' in the books of 
+accounts, as a Fixed Asset, as they are "apparatus, equipment, and machinery fixed 
+to earth by foundation or structural support that are used for making outward 
+supply of goods or services or both and includes such foundation and structural 
+supports but excludes- (i) land, building or any other civil structures; (ii) 
+telecommunication towers; and (iii) pipelines laid outside the factory premises. 
+Hence, the applicant is of the view that the said Solar panels are strictly covered 
+under the definition of Plant and Machinery as mentioned above, and the Input Tax 
+Credit on the same is to be made available to the assessee, whether the said item is
+2.4
+2.5
+Page 4 of 15
+
+
+movable or immovable, as it does not get covered under the restriction of claiming 
+input tax credit u/s 17(5)(c) or 17(5)(d) and hence the applicant is eligible for input 
+tax credit on Solar Panels and erection, commissioning / installation services in 
+terms of Section 16/ 17 of the CGST/TNGST Act.
+3.1 Due to the prevailing pandemic situation and in order not to delay the 
+proceedings, the applicant was addressed through the Email Address mentioned in 
+the application to seek their willingness to participate in a virtual Personal Hearing 
+in Digital media. The applicant consented and the hearing was held on 19.04.2022. 
+The Authorized Representative (AR) CA Rishabh Singhvi appeared for the hearing 
+and reiterated the email submissions made. The CGST Member questioned on 
+where the solar power panels are installed, the AR submitted that they are installed 
+at their additional premises. They further submitted that the electricity generated is 
+used by them captively and not sold to anyone; that the GST component has not 
+been capitalized. The SGST member required the applicant to submit the audited 
+financial statements. In reply the AR submitted that their financials are not yet 
+audited and that the fixed assets scheduled which has been submitted by them is 
+audited.
+The applicant furnished the following submissions during the hearing
+> Synopsis - various judicial precedents to substantiate their contentions in 
+the instant case.
+> wheeling agreement with TANGEDCO, statutory provisions, extract from 
+unaudited financial statements, copies of case laws relied by them viz. 
+Advance Ruling issued by TNAAR in the case of Kumaran Oil Mill, KLF 
+Nirmal Industries Private Limited.
+The applicant was asked to submit the following documents:
+i. Whether the building which is said to be under maintenance of the applicant is 
+owned by them. If so, proof for that. Whether the entire building is rented or if a 
+portion is self- occupied, such details may be furnished along with details of floors 
+available, agreement copy with tenants, invoices raised for tenancy.
+ii. If not owned, the agreement with owners for undertaking maintenance of the 
+building at No.47 / 49, VBC Solitaire, Bazullah Road, T.Nagar, Chennai - 600017 
+along with whether they are permitted to install the solar panels and harvest power.
+Page 5 of 15
+
+
+iii. When the solar power generated is netted against the consumption in the given 
+place of business, substantiate the inclusion of the charges pertaining to the units 
+transferred to the grid and utilized thereafter.
+iv. Copy of agreement entered with the clients for maintenance of the building.
+v. Copy of agreement entered with Solar panel supplier.
+With regard to details of occupancy, the AR stated that the limited question
+before the AAR is whether the solar panels are blocked credits under Section 17(5) 
+(c) / (d) which requires consideration of whether they are movable and / or plant & 
+machinery. The AAR is not being sought on the taxability / non-taxability of output 
+and hence the question of tenancy or use of the building has no bearing on the AAR 
+in question. The applicant vide their email dated 05.05.2022 submitted the 
+following
+3.2
+3.3
+The applicant vide their email dated 05.05.2022 submitted the following
+documents:
+> Maintenance Agreement dated 27.09.2020 between M/s VBC Associates and 
+M/s Nissan Renault Financial Services India Private Limited.
+> Lease deed dated 10.12.2020 between Mr V.S.Balaji, Mrs V.Suhasini, as 
+Lessor and M/s Nissan Renault Financial Services India Private Limited.
+> Letter of intent for end to end services for design, engineering, testing, 
+supply, installation and commissioning of 1MW turnkey of Solar Photo 
+Voltaic Power Plant at Kovilur, Dindigul District, Tamil Nadu
+> Copy of Tax invoices raised on the tenants for Maintenance charges, DG 
+charges, EB facilitation charges,
+> TANGEDCO statement showing energy generated for March 2022
+> Sample EB bill with reduction of solar power introduced in grid.
+The Centre Jurisdictional Authority, Chennai South Commissionerate, who 
+has administrative control over the applicant was addressed vide this office letter 
+dated 16.02.2022 requiring to furnish comments on the issue raised by the 
+applicant and report whether any proceedings are pending in respect of the 
+applicant. The said authority has stated that no proceedings have been initiated or 
+pending in respect of the ruling sought by the taxpayer and offered no comments on 
+the issue.
+4.
+5.
+The State Jurisdictional Authority has submitted that there are no pending 
+proceedings in the applicant’s case in their jurisdiction.
+We have carefully examined the statement of facts, supporting documents 
+filed by the Applicant, all the additional submissions made during the hearings and
+Page 6 of 15
+6.
+
+
+the submissions of the Jurisdictional authorities. The applicant engaged in the 
+business of maintenance of an immovable property at Chennai has procured, 
+erected and commissioned Solar Power Panels for generation of electricity at their 
+additional place of business at R.Kombai Village, Kujilyambarai Taluka, Dindigul 
+District, Tamil Nadu. The applicant had executed an “Energy Wheeling Agreement 
+for Solar power plant” agreement dated 28.09.2021 with M/s Tamil Nadu 
+Generation and Distribution Corporation Limited (TANGEDCO) for wheeling the 
+Solar energy generated from their Solar Power Plant installed at R.Kombai village 
+through TANTRANSCO / TANGEDCO’s transmission and distribution network to 
+their captive user HT SC No.019094022465 at Chennai Central EDC. There exists 
+separate Lease Deed between Owners as Lessor and Tenants as Lessee, inter alia, 
+states that Lessors have provided adequate power supply to the building including 
+100% power backup through Generator. Further, Maintenance Agreement between 
+the applicant and Tenants, inter alia, states that applicant shall pay upfront, 
+common electricity charges supported by bills issued by Tamil Nadu Electricity 
+Board and the Tenants shall pay / reimburse such payments to the applicant 
+including transmission loss of electricity from the electrical room to the various 
+floors in operation. The applicant will also facilitate the process of effective 100% 
+power back up facility provided in the building by keeping the Generator in 
+operative readiness condition. The diesel consumption charges shall have to be 
+borne by the tenants proportionately based in the area of occupation.
+The question which needs to be answered is whether the input tax credit on 
+Solar Panels procured and installed is blocked credit under section 17(5)(c) and (d) 
+of CGST Act 2017 / TNGST Act 2017. In other words, the eligibility to credit of the 
+tax paid on the Inputs/Capital Goods and 'Input services' procured by them for 
+setting up the Solar Panels in view of the prohibition of input tax credit on 
+construction of an immovable property other than plant and machinery. From the 
+submissions before us, we find that the question which needs answer is covered 
+under Section 97(2)(d) of the GST Act 2017 as mentioned in SI. No.l3((iv) of AAR 
+application in Form GST ARA-01 and therefore admissible before this authority for 
+consideration and pronouncement of ruling.
+The applicant has submitted various documents including agreements in 
+relation to various supplies on own account and supplies of third parties procured 
+on behalf of the service recipients. The perusal of the said documents are essential 
+to ascertain the nature and scope of supply.
+8.1.1 Lease Deed dated 05.08.2021 between Mr V.S.Balaji, Mrs V.Suhasini as 
+Lessor and M/s Nissan Renault Financial Services India Private Limited as Lessee
+Page 7 of 15
+7.
+8.
+
+
+states that the Lessors are the absolute owners of entire 5th floor of the building at 
+No.47&49, Bazullah Road, T.Nagar, Chennai - 600017, consisting of basement and 
+first floor for two wheeler parking and ground floor for car parking and other 
+services plus ten upper floors, more fully described in Schedule A and that they 
+have absolute right, title and interest in Schedule A property.
+8.1.2 The Lessors have provided adequate power supply to the building on the 
+Schedule A property. Lessors have provided the demised premises with 100% power 
+back up of 500 KVA x 2 nos for the Schedule A property. However, the running, 
+repair and maintenance thereof shall be borne by the Lessee and the other lessees 
+of the Schedule a property for which purpose the Lessee and other lessees shall 
+enter into separate maintenance contact with the Lessors/Maintenance Company.
+8.1.3 A separate Facility Management Services contract has been concluded this 
+day between the Lessors and Lessee.
+8.2.1 Maintenance Agreement dated 27.09.2020 between M/s VBC Associates, a 
+Partnership Firm, represented by its partner Mr V.S.Balaji as first party and M/s 
+Nissan Renault Financial Services India Private Limited (NRFSI) as second party 
+states that the first party is into the business of maintaining and managing 
+residential and commercial buildings by providing quality services in the areas of 
+upkeep, security, maintenance of equipment, utility services like electrical, 
+plumbing, painting, pest control, etc., to the owners / occupants of the apartments, 
+commercial buildings and has expressed their willingness to do the maintenance of 
+the building at Bazullah Road on a monthly consideration basis.
+8.2.2 The first party has agreed to provide the Maintenance Services to the second 
+party as enumerated under various major categories viz 1. Soft services, 2. 
+Engineering services, 3. Support services, 4. Service standards, 5. Maintenance 
+charges and taxes, 6. Electricity and Water charges, 7. Power back up, 8. Statutory 
+compliance, and 9. Internal maintenance from the date of commencement of 
+payment of lease rent by the second party to the first party under Lease deed. The 
+second party will pay the said maintenance charges in advance to first party from 
+the effective date on receipt of invoices from the first party.
+8.2.3 The first party will receive from second party the following amounts for the 
+aforesaid services. The first party shall charge a monthly maintenance charge of 
+Rs.9.80 per sq ft calculated on the basis of area being occupied by the second party. 
+The first party shall pay upfront, common electricity charges and metered water 
+charges or tanker lorry water charges. The first party will provide bills for such 
+consumption of water and electricity from Tamil Nadu Electricity Board / leased 
+contractors and the second party shall pay / reimburse, such payments to the first
+Page 8 of 15
+
+
+party as per the due date so as to have uninterrupted services. The GST liability 
+towards the bills shall be borne by second party. The charges shall be calculated on 
+the basis of area being occupied by the second party proportionately to what the 
+total area bears to the entire area of the said building. It is clarified that the 
+transmission loss of electricity from the electrical room to various floors in operation 
+of common facilities, reflecting thereby in the common meter, shall have to be borne 
+by the second party proportionately along with other tenants of the building and 
+basis of calculation remains the same as that of common electricity charges of the 
+building.
+8.2.4 The first party will facilitate the process of effective 100% power back up 
+facility provided in the building by keeping the Generator in operative readiness 
+condition so as to provide uninterrupted power supply to 800KVA. However, the 
+diesel consumption charges shall have to be borne by the second party 
+proportionately based on the area of occupation of the area on monthly basis.
+8.2.5 This Agreement shall be read as part and parcel of Lease Deed dated 
+27.09.2020 entered into between the parties and this Agreement shall co-exist and 
+co-terminate with the Lease Deed dated 27.09.2020.
+The maintenance agreement refers to Lease Deed dated 27.09.2020, but the 
+copy of Lease Deed submitted by applicant is dated 05.08.2021 with effective date 
+from 10.12.2020. However, the Tenant / service recipient in the Lease Deed and 
+Maintenance Agreement respectively are same.
+Invoice No. VBV/21-22/112 dated 01.03.2022 issued by the applicant to 
+NRFSI, towards Maintenance charges for the month of March 2022 along with 
+amount collected as GST.
+8.5.1 Invoice No. VBC/EL/21-22/111 dated 31.03.2022 issued by the applicant to 
+NRFSI, towards DG Charges for the month of March 2022 along with amount 
+collected as GST supported by detailed workings with Energy Meter reading for DG 
+energy consumption with diesel expenses incurred.
+8.5.2 Invoice No. VBC/EL/21-22/110 dated 31.03.2022 issued by applicant to 
+NFRSI, towards EB Charges for the month of March 2022 along with amount 
+collected as GST supported by detailed workings with Energy Meter reading for EB 
+Energy consumption with details of Units, Rate and amount separately for Energy 
+consumption, Demand charges, Energy consumption - common area, Electricity tax 
+and Meter Rent. Perusal of break-up of various charges in the detailed workings as 
+Annexure to the said Invoice reveals that energy consumption of 12969 units has 
+been reckoned on the basis of Energy meter reading and Rs. 1,03,752/- has been 
+charged @ Rs.8/- per unit. For the month of March 2022, total building energy
+Page 9 of 15
+8.3
+8.4
+
+
+consumption (EB) is 92184 units and total building energy consumption (DG) is 
+595 units. Diesel cost for 200 liters is Rs.20,688/-, accordingly cost per unit of 
+energy generated by DG is Rs.34.77.
+8.5.3 TANGEDCO Bill No. 114022465032211 dated 07.04.2022 HT Bill for the 
+month of March 2022 reveals that Rs.42240/- has been charged as Total Energy 
+charges for net consumption of 5280 units @ Rs.8/- per unit. HT Bill Working Sheet 
+attached to the said Bill reveals gross energy consumption of 92184 units and after 
+deducting 86729 units of Solar energy and 175 units for Wind adjustment, 5280 
+units has been arrived as Net Consumption. The applicant has paid for the net 
+units consumed, after netting off solar energy generated, to TANGEDCO.
+8.5.4 TANGEDCO has issued Statement dated 06.04.2022 showing Energy 
+generated for March 2022 to the applicant, wherein import units, export units and 
+various charges including tramsmission charges are mentioned. The said charges 
+are included in OA Adjustment charges collected separately in the TANGEDCO Bill 
+No. 114022465032211 dated 07.04.2022.
+Energy Wheeling Agreement for Solar Power Plant dated 28.09.2021 between 
+the applicant and TANGEDCO, inter alia, provides for wheeling of power, and sell 
+the surplus energy available after adjustment/allotment every month, from the 
+applicant’s Solar Power Plant at Dindigul District to Chennai, in lieu of various 
+charges including Transmission charges and Wheeling Charges.
+The applicant submitted copy of Letter of Intent dated 05.02.2020 issued to 
+M/s SJ Engineers Renewable Energy Private Limited for end to end services for 
+design, engineering, testing, supply, installation and commissioning of 1 MW 
+turnkey of Solar Photo Voltaic Power Plant at Kovilur, Dindigul District in Tamil 
+Nadu. The applicant also submitted copy of Invoice No.50-A dated 30.09.2021 
+issued to applicant by M/s SJ Engineers Renewable Energy Private Limited towards 
+supply of material and erection, installation and commissioning 1MW Solar Power 
+Plant at Kovilur and collected GST of Rs.34,28,652/-.
+The AR submitted written submissions dated 19.04.2022, wherein various 
+AAR decisions are relied. The AR also submitted photograph of the installed solar 
+panels and put forth their view that Solar Panels are Plant and Machinery by 
+quoting definitions, notification, depreciation schedule under Income Tax Act and 
+extract of applicant’s Fixed Assets schedule from unaudited Financial Statements 
+for the year ending 31.03.2022.
+The question before us to decide is whether the input tax credit on Solar 
+Power Panels procured and installed is blocked credit under section 17(5)(c) and (d) 
+of CGST Act and SGST Act. As the advance ruling application is filed for decision
+8.6
+8.7
+8.8
+9.1
+Page 10 of 15
+
+
+with regard to the admissibility of input tax credit paid, a comprehensive study of 
+facts of business activity and scope of service required to be provided by the 
+applicant under various agreements, is required to be considered so as to decide the 
+input tax credit eligibility or otherwise. Therefore, it is not possible to confine the 
+discussion on eligibility to claim input tax credit restricted to section 17(5) (c) and 
+(d) of COST Act and SGST Act, as desired by the AR. Before proceeding further, the 
+statutory provisions of the Acts and Rules relevant to claim of Input Tax Credit are 
+analysed as under.
+9.2 Section 17 of the Act deals with provisions relating to Apportionment of credit 
+and blocked credits.
+9.2.1 The provision relevant to apportionment in case of usage for both taxable and 
+exempted supply is given under Section 17(2) of the Act, and the same is given 
+below for ease of reference:
+"(2) Where the goods or services or both we used by the registered person 
+partly for effecting taxable supplies including zero-rated supplies under this 
+Act or under the Integrated Goods and Services Tax Act and partly .. for 
+effecting exempt supplies under the said Acts, the amount of credit shall be 
+restricted to so much of the input tax as is attributable to the said taxable 
+supplies including zero-rated supplies."
+9.2.2 The provision relevant to blocked credits is given under Section 17(5) of the 
+Act, which is as under:
+(5) Notwithstanding anything contained in sub-section (1) of section 16 and 
+subsection (1) of section 18, input tax credit shall not be available in respect of 
+the following, namely:-
+(c) works contract services when supplied for construction of an immovable 
+property (other than plant and machinery) except where it is an input service 
+for further supply of works contract service;
+(d) goods or services or both received by a taxable person for construction of an 
+immovable property (other than plant or machinery) on his own account 
+including when such goods or services or both are used in the course or 
+furtherance of business.
+Explanation.-For the purposes of this Chapter and Chapter VI, the expression 
+"plant and machinery" means apparatus, equipment, and machinery fixed to 
+earth by foundation or structural support that are used for making outward 
+supply of goods or services or both and includes such foundation and 
+structural supports but excludes- 
+(i) land, building or any other civil structures;
+Page 11 of 15
+
+
+(ii) telecommunication towers; and
+(Hi) pipelines laid outside the factory premises.
+9.2.3 Rule 43. Manner of determination of input tax credit in respect of capital 
+goods and reversal thereof in certain cases.-
+(1) Subject to the provisions of sub-section (3) of section 16, the input tax credit 
+in respect of capital goods, which attract the provisions of sub-sections (1) and
+(2) of section 17, being partly used for the purposes of business and partly for 
+other purposes, or partly used for effecting taxable supplies including zero 
+rated supplies and partly for effecting exempt supplies, shall be attributed to 
+the purposes of business or for effecting taxable supplies in the following 
+manner, namely,-
+(a) the amount of input tax in respect of capital goods used or intended to be 
+used exclusively for non-business purposes or used or intended to be used 
+exclusively for effecting exempt supplies shall be indicated in FORM GSTR- 
+2[and FORM GSTR-3B]83and shall not be credited to his electronic credit 
+ledger;
+Rule 33.Value of supply of services in case of pure agent.- 
+Notwithstanding anything contained in the provisions of this Chapter, the 
+expenditure or costs incurred by a supplier as a pure agent of the recipient of 
+supply shall be excluded from the value of supply, if all the following 
+conditions are satisfied, namely,-
+(i) the supplier acts as a pure agent of the recipient of the supply, when he 
+makes the payment to the third party on authorisation by such recipient;
+(ii) the payment made by the pure agent on behalf of the recipient of supply 
+has been separately indicated in the invoice issued by the pure agent to the 
+recipient of service; and
+(iii) the supplies procured by the pure agent from the third party as a pure 
+agent of the recipient of supply are in addition to the services he supplies on 
+his own account.
+Explanation.- For the purposes of this rule, the expression —pure agent! 
+means a person who-
+(a) enters into a contractual agreement with the recipient of supply to act as 
+his pure agent to incur expenditure or costs in the course of supply of goods 
+or services or both;
+(b) neither intends to hold nor holds any title to the goods or services or both 
+so procured or supplied as pure agent of the recipient of supply;
+(c) does not use for his own interest such goods or services so procured; and
+9.3
+Page 12 of 15
+
+
+(d) receives only the actual amount incurred to procure such goods or 
+services in addition to the amount received for supply he provides on his own 
+account.
+Now, we proceed to deliberate on the scope of supply envisaged in the Lease 
+Deed dated 05.08.2021 discussed in para 8.1 supra and Maintenance Agreement 
+dated 27.09.2020 discussed in para 8.2 supra.
+10.1 
+The Lessors have agreed to provide, inter alia, adequate power supply to the 
+building along with 100% Generator Power back up.
+10.2 The applicant vide Maintenance Agreement dated 27.09.2020, agreed to 
+provide various maintenance services as discussed para 8.2.2, using the 
+infrastructure made available by the Lessor in the building. The said maintenance 
+service is provided by the applicant on their own account.
+10.3 The said Maintenance Agreement also mandates the applicant to pay 
+upfront, common electricity charges and metered water charges or tanker lorry 
+water charges and reimburse such payments from the tenants, as discussed in para
+8.2.3 and 8.2.4 supra.
+10.4 Various documents perused and discussed in para 8.5.2 to 8.6 reveal that 
+the applicant procured electricity from TNEB, which includes electricity generated 
+by Solar Power Panels installed at additional place of business and wheeled by 
+TNEB for captive use at the principal place of business of the applicant. The 
+applicant has paid for the net units consumed after deducting energy units 
+generated by Solar Power Plant. However, the applicant has recovered amount 
+through separate invoice, for the gross energy units consumed by the tenants in the 
+building at the rate charged by TNEB, which implies that the energy generated by 
+Solar Power Plant are sold by the applicant to the tenants on their own account. In 
+the instant case as discussed in para 8.5.3 supra, 92184 gross units were 
+consumed and billed by applicant to the tenants. After adjusting 86904 captive 
+generated units by Solar Power Plant and wheeled by TNEB against wheeling 
+charges, the applicant has paid to TNEB for 5280 units supplied by TNEB. The 
+applicant has sold 86904 units of power to the tenants of the building through 
+invoices discussed in para 8.5.1 and 8.5.2 supra.
+10.5 
+Electrical Energy is goods classified under HSN 2706 and exempted by 
+Notification No.02/2017 CT(R) dated 28.06.2017 vide SI. No. 104. Therefore, 
+electrical energy generated by Solar Panel installed by the applicant is exempted 
+goods supplied to tenants and consequently input tax paid on the Solar Panels are 
+ineligible as credit of input tax on Capital Goods used exclusively for supply of 
+exempted supply are not eligible under Section 17(2) read with Rule 43(a). In view of
+Page 13 of 15
+10.
+
+
+the above, the question of further deliberation whether Solar Panels are covered 
+under blocked credit as per section 17(5)(c) and (d) does not arise.
+10.6 The applicant has relied on various AAR Rulings viz M/s KLF Nirmal 
+Industries Private Limited (TN-AAR), Shri Kesav Cement and Infra Limited (KA-AAR) 
+and M/s Kumaran Oil Mill (TN-AAR). In the said rulings, the Solar Power Panels are 
+recognized as Plant and machinery and other facts in the said rulings does not fit 
+into the facts of the applicant and the same is distinguished. The applicants in the 
+cited rulings are manufacturers who have used the electrical energy generated by 
+Solar Panels for taxable supplies or taxable and exempted supplies. However, the 
+applicant has used the electrical energy exclusively for exempted supply, as supply 
+of electricity to tenants is covered by Lease Deed between Lessor and Lessee, 
+whereas the applicant is bound to provide maintenance service through 
+Maintenance Agreement to the tenants using the infrastructure made available by 
+the Lessor in the building.
+10.7 The Maintenance Agreement provides for upfront payment of expenses by 
+applicant to third parties for various supplies, such as electricity, water, etc and 
+reimbursement of the same proportionately from tenants upon furnishing Bills. 
+Therefore, payment of GST on the electricity charges and other expenses collected 
+from the tenants needs to be examined in the light of Rule 33 dealing with value of 
+services in case of pure agent. We refrain from expressing any opinion on the value 
+of output supplies for payment of GST, as desired by the applicant.
+11. In view of the above, we rule as under:
+RULING
+The applicant is not eligible for claim of Input Tax Credit, as per Section 17(2) 
+of the COST /TNGST Act read with Rule 43(a) of CGST /TNGST Rules 2017, on the 
+Goods/Services used in installation of Solar Power Panels, which are considered as 
+Plant and Machinery.
+m
+V'
+A
+V
+Smt.fK.
+Member (SGST)
+Shri.T.G.VENKATESH 
+(Member CGST)
+AUTHORITY for 
+ADVANCE RULING
+6 1 AUG 2021
+GOODS AND SERVICE TAX 
+Chennai-6, Tamilnadw
+Page 14 of 15
+
+
+To
+M/s VBC Associates,
+No. 47/49, VBC Solitaire, Bazullah Road,
+T Nagar, Chennai-600017 
+Copy submitted to:
+The Principal Chief Commissioner of GST & Central Excise,
+26/1, Mahatma Gandhi Road, Nungambakkam, Chennai-600034.
+//BY SPEED POST WITH ACK.DUE //
+2. The Principal Secretary/Commissioner of Commercial Taxes/Member, 
+Ilnd Floor, Ezhilagam, Chepauk, Chennai - 600 005.
+Copy to:
+3. The Commissioner of GST & Central Excise, 
+Chennai South Commissionerate,
+4. The Assistant Commissioner (ST)(FAC),
+T. Nagar, Assessment Circle,
+No.46, Greenways Road, Chennai - 600028.
+5. Master File/ Spare - 2.
+Page 15 of 15

@@ -1,0 +1,605 @@
+AUTHORITY FOR ADVANCE RULING, TAMILNADU
+ROOM NO.206, 2" FLOOR, PAPJM BUILDING, NO.1, GREAMS ROAD,
+CHENNAI - 600 006.
+
+RULING UNDER SECTION 98(4) OF THE CGST ACT, 2017 AND UNDER
+SECTION 98(4) OF THE TNGST ACT, 2017.
+
+Members present:
+
+Smt. D. Jayapriya, LR.S., Smt. A Valli, M.Sc.,
+
+Additional Commissioner/ Member(CGST), | Joint Commissioner/Member(SGST),
+Office of the Principal Chief Commissioner | Office of the Commissioner of Commercial
+of GST & Central Excise, Chennai -600 034. | Taxes, Chennai-600 006.
+
+ORDER No. 04/ARA/2024 Dated: 28.03.2024
+
+1. Any appeal against this Advance Ruling order shall lie before the Tamilnadu State
+Appellate Authority for Advance Ruling, Chennai under Sub-Section (1) of Section 100 of
+CGST Act 2017/ TNGST Act 2017, within 30 days from the date on the ruling sought to be
+
+appealed, is communicated.
+
+2. In terms of Section 103(1) of the Act, Advance Ruling pronounced by the Authority under
+Chapter XVII of the Act shall be binding only-
+
+(a) on the applicant who had sought it in respect of any matter referred to in sub-section
+(2) of Section 97 for advance ruling.
+(b) on the concerned officer or the jurisdictional officer in respect of the applicant.
+3. In terms of Section 103(2) of the Act, this advance ruling shall be binding unless the law,
+
+facts or circumstances supporting the original advance ruling have changed.
+
+4, Advance Ruling obtained by the applicant by fraud or suppression of material facts or
+misrepresentation of facts, shall render such ruling to be void ab initio in accordance with
+Section 104 of the Act.
+
+5. The provisions of both the Central Goods and Service Tax Act and the Tamilnadu Goods
+and Services Tax Act (herein referred to as an Act) are the same except for certain
+provisions. Therefore, unless a mention is specifically made to such dissimilar provisions, a
+reference to the Central Goods and Services Tax Act would also mean a reference to the
+
+same provisions under the Tamil Nadu Goods and Services Tax Act.
+
+Page 1 of 12
+
+
+GSTIN Number, if any / User id 33AAACDOSSONIZN
+
+Legal Name of Applicant M/s. DCW Limited
+
+Trade Name of Applicant(Optional) M/s. D.C.W. Ltd.
+
+Registered Address / Address No.45, Sahupuram, Arumuganeri,
+provided while obtaining user id Kayalpattinam North Village,
+
+Toothukudi, Tamil Nadu — 628 229.
+Details of Application Form GST ARA-01
+
+Application S].No.53/2023/ARA,
+dated 27.10.2022
+
+Concerned Officer Centre: Madurai Commissionerate.
+Division: Tuticorin
+
+State: Tiruchendur Assessment Circle
+Division: Tirunelveli
+
+Nature of activity(s) (proposed /
+present) in respect of which advance
+ruling sought for
+
+A | Category Service provision/Service Recipient
+
+B_ | Description (in brief) The sunset clause of exemption of GST on
+Ocean freight and Air Export freight under
+notification 08/2017 (integrated tax) serial
+number 9 item (ii) Transport of goods in a
+vessel @ 5% and item (vii) Goods transport
+services other than (i) to (vi) ie., Air at 18%,
+has not been extended beyond 01.10.2022 and
+thus the ocean freight and air freight on
+exports have become taxable.
+
+In the case of CIF basis of export, the freight is
+paid by the exporter and the freight forwarder/
+shipping line charges the GST on freight on
+forward basis and thus there is no issue as far
+as CIF exports.
+
+In case of FOB basis of export, the freight is
+paid by the overseas buyer to the freight
+forwarder/ shipping line. The exporter hands
+over the export goods either factory stuffed or
+port loaded in the container to the shipping
+line at the customs port. The exporter filed
+shipping bill is assessed by the customs and
+the let export order is issued by customs after
+the containers are loaded into the ship and it
+sails the port on the basis of export general
+manifest filed by the shipping line.
+
+Page 2 of 12
+
+
+Issue/ s on which advance ruling (JApplicability of a notification issued under
+Required the provisions of the Act.
+
+(ii) Determination of the liability to pay tax on
+any goods or services or both.
+
+(iii) Whether any particular thing done by the
+applicant with respect to any goods and/or
+services or both amounts to or results in a
+supply of goods and/ or services or both,
+within the meaning of that term.
+
+Question(s) on which advance ruling | 1. On FOB basis of exports, whether the
+
+is required exporter (M/S. DCW Ltd.) is liable under
+RCM basis to pay GST on the export
+freight;
+
+2. Whether the shipping line who accepts the
+goods from the exporter (M/s. DCW Ltd.) is
+liable to pay GST on RCM basis;
+
+3. Whether the FOB basis (free on board)
+exports are liable to GST;
+
+4. Whether the FOB basis of exports
+constitutes an inter-state supply subject to
+IGST
+
+5. If liable to GST, what is the taxable value
+to be adopted as freight is not known to
+the exporter.
+
+M/s. DCW Limited, No.45, Sahupuram, Arumuganeri, Kayalpattinam North
+Village, Thoothukudi, Tamil Nadu — 628 229 (hereinafter called as ‘the Applicant’ is
+engaged in the manufacture of chemical products like ‘Caustic Soda’, PVC resin etc.
+They are registered under the GST Acts with GSTIN 33AAACDO559N1ZN. They have
+filed an application seeking Advance Ruling on the following questions:
+
+1) Whether the exporter (M/s. DCW Ltd.) is liable under RCM basis to pay GST
+on the export freight on the FOB basis of exports;
+
+2) Whether the shipping line who accepts the goods from the exporter (M/s.
+DCW Ltd.) is liable to pay GST on RCM basis;
+
+3) Whether the FOB basis (free on board) exports are liable to GST;
+
+4) Whether the FOB basis of exports constitutes an inter-state supply subject
+to IGST; and
+
+5) If liable to GST, what is the taxable value to be adopted as freight is not
+known to the exporter.
+
+2.1 The Applicant submitted the details of debit entry’ vide
+No.DC3310220172122 evidencing payment of application fees of Rs.5,000/- each
+under sub-rule (1) of Rule 104 of CGST Rules 2017 and SGST Rules 2017.
+
+Page 3 of 12
+
+
+2.2 The authorities of the Centre and State were addressed to report if there are
+any pending proceedings against the applicant on the issues raised by the
+applicant in the Advance Ruling application and for comments on the issues raised.
+
+3 The Applicant, in the Statement of facts has stated that:-
+
+3.1 The sunset clause of exemption of GST on Ocean freight and Air Export
+freight under notification 08/2017 (integrated tax) serial number 9 item (ii)
+Transport of goods in a vessel @ 5% and item (vii) Goods transport services other
+than (i) to (vi) i.e., Air at 18%, has not been extended beyond 01.10.2022 and thus
+the ocean freight and air freight on exports have become taxable.
+
+3.2 In the case of CIF basis of export, the freight is paid by the exporter and the
+freight forwarder/ shipping line charges the GST on freight on forward basis and
+thus there is no issue as far as CIF exports.
+
+3.3 In case of FOB basis of export, the freight is paid by the overseas buyer to
+the freight forwarder/ shipping line. The exporter hands over the export goods
+either factory stuffed or port loaded in the container to the shipping line at the
+customs port. The exporter filed shipping bill is assessed by the customs and the
+let export order is issued by customs after the containers are loaded into the ship
+and it sails the port on the basis of export general manifest filed by the shipping
+line.
+
+4. The applicant has not submitted any interpretations of law/or facts as the
+case may be in respect of the aforesaid questions or the applicants’ view point and
+submissions on issues on which the advance ruling is sought.
+
+5. The concerned Officer of the ‘Centre’, viz., the Assistant Commissioner vide
+letter dated 05.03.2024, has stated that no proceedings are pending on the above
+said issue in respect of the applicant.
+
+6. The State jurisdiction Officer viz. the State Tax Officer, Tiruchendur
+Assessment Circle stated that there is no pending for adjudication in the
+applicant’s case relating to the question raised in the application for advance ruling
+section 98 (1). The Joint Commissioner (ST), Intelligence, Tirunelveli has also
+remarked that there is no pending proceedings in the applicant’s case in his
+jurisdiction.
+
+7.1 The Applicant, was given an opportunity to be heard in virtual mode on
+29.11.2023. Shri M. Thyagamoorthy, General Manager (Legal & Indirect Taxation),
+who is the Authorized Representative of the Applicant appeared for the virtual
+hearing and he reiterated the submissions made in their application. He explained
+that M/s. DCW Ltd., are engaged in the manufacture of around 13 different
+chemical product like ‘Caustic Soda’, PVC resin etc., and that they export around
+Rs. 250 crores of their goods, annually. He explained in brief about the nature of
+
+Page 4 of 12
+
+
+queries raised and stated further that the queries raised in the instant case pertain
+basically to exports made by them on FOB basis.
+
+7.2 The members requested the authorised representative to offer clarity on the
+various queries raised in the instant application, especially in relation to the
+queries raised by the applicant vide Sl. No. 3 and 4, which talks about export of
+goods and its taxability. The authorised representative explained that
+inadvertently, the queries in question were framed improperly, and that in actual
+terms, the queries were meant to involve only the ocean freight involved on the
+export of goods, and that the same is not about the export of goods, per se. He
+further stated that he would re-phrase the queries at Sl. No. 3 and 4 of the
+application to this effect in the nature of an amendment, and to furnish a write-up
+on the various queries raised, involving the facts of the case and their
+interpretation of law relating to the case.
+
+7.3 As undertaken by them, the applicant vide their letter dated 28.12.2023
+requested the Advance Ruling Authority to permit the rephrasing of the queries
+numbered 3 and 4, as follows :-
+
+“Query 3 : Whether the “export freight involved” is liable to GST on RCM
+basis for the goods exported (on which GST is liable and permitted and exported
+under LUT) on FOB basis (Free on Board).
+
+Query 4: Whether the “export freight involved” above constitutes an inter-
+state supply subject to IGST.”
+
+8 Accordingly, they were accorded another opportunity of hearing on
+12.01.2024, Shri M. Thyagamoorthy, General Manager (Legal & Indirect Taxation),
+attended the hearing in virtual mode. The AR stated that as undertaken in the
+personal hearing held on 29.11.2023, they have furnished another letter dated
+28.12.2023, wherein they have requested to permit them to rephrase the queries at
+Sl.no.3 and 4 to the application.
+
+DISCUSSION AND FINDINGS:
+
+9.1 We have carefully considered the submissions made by the Applicant in
+their application, submissions made during the personal hearing and the
+comments furnished by the Centre and State Tax jurisdictional officers. We observe
+that after the rephrasing of queries 3 and 4, the queries to be addressed in respect
+of the applicant in the instant case, are as follows :-
+
+1) Whether the exporter (M/s. DCW Ltd.} is liable under RCM basis to pay GST
+on the export freight on the FOB basis of exports;
+
+2) Whether the shipping line who accepts the goods from the exporter (M/s.
+DCW Ltd.) is liable to pay GST on RCM basis;
+
+Page 5 of 12
+
+
+3) Whether the “export freight involved” is liable to GST on RCM basis for the
+goods exported (on which GST is liable and permitted to be exported under
+LUT) on FOB basis (Free on Board);
+
+4) Whether the “export freight involved” above constitutes an inter-state supply
+subject to IGST; and
+
+5) If liable to GST, what is the taxable value to be adopted as freight is not
+known. to the exporter.
+
+9.2 Prima facie, it is observed that all the queries relate to (i) Applicability of a
+Notification issued under the provisions of this Act; (ii) Determination of the liability
+to pay tax on any goods or services or both; and, (iii) Whether any particular thing
+done by the applicant with respect to any goods or services or both amounts to or
+results in a supply of goods or services or both, within the meaning of that term.
+Thereby, the queries under consideration get covered under Section 97(2)(b),
+97(2)(e) and 97(2)(g) of the CGST Act, 2017, and accordingly, the application is
+liable for admission.
+
+9.3 As the term ‘place of supply’ plays a significant role in the taxability and the
+nature of tax to be charged, provisions relating to the same as in ‘Chapter V’
+covering Sections 10 to 14 of the IGST Act, 2017, needs to be discussed in this case
+before proceeding further. The situations covered under the relevant Sections are
+as below:-
+
+Section 10 —- Place of supply of goods other than supply of goods imported into,
+or exported from India.
+
+Section 11 - Place of supply of goods imported into, or exported from India,
+Section 12 - Place of supply of services where location of supplier and recipient
+is in India
+
+Section 13 - Place of supply of services where location of supplier or location of
+recipient is outside India
+
+Section 14 —- Special provision for payment of tax by a supplier of online
+information and database access or retrieval services.
+
+As could be seen from the above, Sections 10 and 11 discusses about the place of
+supply of ‘goods’, and Section 14 discussed about ‘Online information and database
+access or retrieval service’. As the issue in the instant case revolves predominantly
+around the service involving ‘export freight’, Section 12 and 13 which discusses
+about the place of supply of ‘services’, are found to be relevant to this case.
+
+9.4 At the outset, as one may be aware SI].No.20 of the Exemption Notification
+No.9/2017-Integrated Tax (Rate) dated 28.06.2017 provided for exemption on
+services relating to “Services by way of transportation of goods by an aircraft from a
+place outside India upto the customs station of clearance in India.” Vide Notification
+No.2/2018-Integrated Tax (Rate) dated 25.01.2018, SI.Nos.20A and 20B were
+inserted after Sl.No.20, to provide for exemption on services by way of
+transportation of goods by an aircraft, and by a vessel, respectively, when the said
+
+Page 6 of 12
+
+
+services are provided from customs station of clearance in India to a place outside
+India. However the conditions attached to SI.Nos.20A and 20B, read as “Nothing
+contained in this serial number shall apply after the 30% day of September 2018.”.
+The said condition was extended time and again, and as a ‘sunset’ clause, it was
+extended upto 30.09.2022 vide Notification No.07/2021-Integrated Tax (Rate) dated
+30.09.2021, beyond which no such extension was provided under any other
+notification.
+
+9.5 This meant that the provision of such services of ‘transportation of goods
+from customs station of clearance in India to a place outside India’ when provided
+by means of an aircraft or a vessel have become taxable with effect from
+01.10.2022. Apart from this, it is also pertinent to note that in cases of outbound
+shipments whether by air or by sea, where both the parties (supplier and recipient)
+are in India, the place of supply was to be determined in terms of the proviso to
+Section 12{8) of the IGST Act, 2017 which was inserted with effect from 1.02.2019,
+and which read as :-
+
+“Provided that where the transportation of goods is to a place outside India, the
+place of supply shall the place of destination of such goods.”.
+
+Therefore, since the supplier (shipping line/freight forwarder) of service
+(transportation of goods by vessel/air), is in India, and the recipient (the applicant)
+is also in India, the place of supply is to be determined in terms of Section 12 of the
+IGST Act, 2017, in such cases. Accordingly, from 1.10.2022 onwards taxes under
+IGST is liable to be discharged in the instant case, in terms of Section 7(5) of the
+IGST Act, 2017, read with proviso to Section 12(8) of the Act, ibid, which fixes the
+place of supply, as the ‘place of destination of such goods’, which is outside India.
+
+9.6 Apart from the proviso to Section 12(8) of the IGST Act, 2017, it is also seen
+that Section 13 of the IGST Act, which provides for ‘place of supply of services in a
+situation where the location of supplier, or location recipient, is outside India’,
+states in sub-section 9 to Section 13, as follows :-
+
+“(9) The place of supply of services of transportation of goods, other than by
+way of mail of courier, shall be the place of destination of such goods,”
+
+9.7 However, it is to be noted that from 1.10.2023 onwards, the omission of both
+the aforesaid provisions, i.e., proviso to Section 12(8) of the IGST Act, 2017, and
+Section 13(9} of the Act, ibid, proposed under Sections 161 and 162 respectively of
+the Finance Act, 2023 (No.8 of 2023), takes effect, by way of Notification
+No.28/2023-Central Tax dated 31.07.2023. That is to say that from 1.10.2023
+onwards, with the omission of Section 13(9), the ‘place of supply’ under Section 13
+(where location of supplier or location of recipient is outside India) gets fixed by
+default as the ‘location of the recipient of service’, vide Section 13(2) of IGST Act,
+which states as :-
+
+“(2) The place of supply of services except the services specified in sub-sections
+
+(3) to (13) shall be the location of the recipient of services.”.
+
+Page 7 of 12
+
+
+Likewise, Section 12(8) of the IGST Act, 2017, now (from 1.10.2023] operates
+without the proviso, which reads as :-
+
+(8) The place of supply of services by way of transportation of goods, including
+by mail or courier to,—
+(a) a registered person, shall be the location of such person;
+
+(b) a person other than a registered person, shall be the location at which such
+goods are handed over for their transportation.”
+
+Here again, the place of supply of such services under Section 12 (where location of
+supplier and recipient is in India) when provided to a ‘registered person’, shall be
+the location of such person, which in turn happens to be the ‘recipient of service’.
+
+9.8 In order to align with the change in ‘place of supply’, after the amendments
+carried out in respect of the aforesaid legal provisions as discussed above, the CBIC
+has caused the issue of the certain Notifications, in order to amend/omit the
+clauses that existed so far with effect from 01.10.2023, in the respective parent
+notifications, as mentioned below :-
+
+S.No | Amendment | Parent Notification Changes effected
+Notification No./Date
+No./Date
+
+1 11/2023-IT 8/2017-IT (R} A portion of the words omitted
+(R) dt.28.06.2017 in item (ii) of column (3)
+dt.26.09.2023 | (Rate Notification) | against serial number 9 of the
+
+table.
+
+2 12/2023-IT 9/2017-IT (R) A new ‘proviso’ substituted
+
+(R) dt.28.06.2017 against the existing proviso in
+
+dt.26.09.2023 | (Exemption Notfn) | column (3) against serial
+number 10 of the table.
+3 13/2023-!T 10/2017-IT (R) Serial number 10 and the
+(R) dt.28.06.2017 entries relating thereto of the
+dt.26.09.2023 | (RCM Notification) | table, omitted.
+
+9.9 We find that in the instant case, the queries raised by the applicant revolves
+around the “export freight” involved on the export of goods undertaken by the
+applicant on “FOB basis”. In this regard, we find that under the ‘statement of facts’
+furnished by the applicant, they have stated as follows in respect of FOB basis of
+
+exports, ie.,
+
+“In case of FOB basis of export, the freight is paid by the overseas buyer to the
+
+freight_forwarder/shipping line. The exporter hands over the export goods either
+factory stuffed or port loaded in the container to the shipping line at the customs port.
+The exporter filed shipping bill is assessed by the customs and the let export order is
+issued by customs after the containers are loaded into the ship and it sails the port
+on the basis of export general manifest filed by the shipping line.”
+
+It is understood from the above that the exporter of goods (the applicant) delivers
+the goods, either factory stuffed or port loaded in the container to the shipping line
+
+Page 8 of 12
+
+
+at the customs port. Since the export on FOB (Free on Board) basis, is being
+discussed in the instant case, the exporter’s responsibility ends with export of
+goods, and that they are in no way connected with the service involving export
+freight, which will be handled by the overseas buyer. Further, the freight
+forwarder/shipping line that undertakes the export freight may be a foreign based
+supplier of service, or an Indian based supplier of service, or a foreign based
+supplier having an Office in Thoothukudi, or elsewhere in India. It may be noted
+that all these situations have a bearing on the determination of the nature of
+supply, ie., whether to be treated as an ‘inter-state supply’ or an ‘intra-state
+supply’.
+
+9.10 Notwithstanding the same, we are of the opinion that any query not relating
+to the applicant, need not be answered, since the definition of ‘advance ruling’, as
+provided under Section 95(a) of the CGST Act, 2017, reproduced below speaks
+about the decision to be provided in relation to the supply of goods or services or
+both being undertaken or proposed to be undertaken by the applicant, i.e.,
+
+“(a) ‘advance ruling’ means a decision provided by the Authority or the
+Appellate Authority to an applicant on matters or on questions specified in
+sub-section (2) of section 97 or sub-section (1) of section 100, in relation to the
+supply of goods _or services or both being undertaken or proposed to be
+
+undertaken by the applicant,”
+
+It is brought to notice that in the case of an export on ‘CIF (Cost Insurance Freight)’
+basis, an exporter is required to carry out transactions with the freight
+forwarder/shipping line, as they are responsible for arranging and paying the
+export freight charges. However, in the case of export on ‘FOB basis’, the export
+freight is to be arranged by the overseas buyer themselves, or through his agent,
+and so the freight forwarder/shipping line acts independently, and they do not
+have any transaction with the exporter in in this regard. Therefore, any query
+relating to the freight forwarder/shipping line, who is not the applicant in the
+instant case of export on ‘FOB basis’, or queries relating to the activities
+undertaken by the freight forwarder/shipping line, need not be answered by the
+Authority for Advance Ruling.
+
+9.11 We now intend to undertake an issue-wise discussion on the queries raised
+by the applicant. We find that a major part of the queries seek clarity on liability, if
+any, under reverse charge (RCM) basis. Therefore, we are of the opinion that a
+discussion on the notifications involving RCM is required to be made before
+proceeding further. In this regard, it may be noted that in exercise of the powers
+conferred by sub-section (3) of Section 9 of the Central Goods and Services Act,
+2017, the Government notifies certain category of supply of goods or services or
+both, the tax on which only, shall be paid on reverse charge basis (RCM) by the
+recipient of such goods or services or both. Accordingly, Notification No.13/2017-
+Central Tax (Rate] dated 28.06.2017, as amended, enumerates the supply of
+certain services on which tax under RCM is liable to be paid. Likewise, Notification
+
+Page 9 of 12
+
+
+No.10/2017-Integrated Tax (Rate) dated 28.06.2017, as amended, also enumerates
+the supply of certain services on which tax under RCM is liable to be paid, as
+empowered by sub-section (3) of Section (5) of the Integrated Goods and Services
+Act, 2017. On perusal of both the notifications referred above, it is seen no such
+entries related to ‘export freight’ find a place in the said notifications. The
+Notification No.10/2017-Integrated Tax (Rate) dated 28.06.2017, as amended,
+provides for an entry at SI.No.1, where the recipient becomes liable to pay taxes
+under IGST, on ‘import’ of service. Likewise, an entry at SI.No.10 deals with
+‘Services supplied by a person located _in non- taxable territory by way of
+transportation of goods by a vessel from a place outside India up to the customs
+station of clearance in India’, where the ‘importer of goods’, is liable to pay taxes
+under IGST on RCM basis. It may be noted however, that the said entry at S1.No.10
+stands omitted with effect from 01.10.2023, in terms of Notification No.13/2023-
+Integrated Tax (Rate) dated 26.09.2023. In effect, as on date, no entries relating to
+‘export freight’ finds a place in any of the RCM notifications referred above.
+
+9.12.1 Whether the exporter (M/s. DCW Ltd.] is liable under RCM basis to pay GST
+on the export freight on the FOB basis of exports — We find that in the instant case
+
+of exports on FOB basis, the exporter (applicant) is not at all involved in any way
+with the ‘export freight’, as the same is to be arranged by the overseas buyer
+themselves, or through his agent. We further find that the exporter is neither the
+provider nor the recipient of service relating to ‘export freight’. Therefore, the
+question of payment of GST on RCM basis on the export freight on the FOB basis of
+exports by the exporter (M/s. DCW Ltd.), does not arise.
+
+9.12.2 Whether the shipping line who accepts the goods from the orter (M/s.
+DCW Ltd.| is liable to pay GST on RCM basis — As the shipping line is not the
+applicant, and does not transact with the applicant in the instant case involving
+export of goods on FOB basis, this query need not be answered by the Authority for
+advance Ruling as discussed in detail in para 9.10 above.
+
+9.12.3 Whether the “export freight involved” is liable to GST on RCM basis for the
+goods exported (on which GST is liable and permitted to be exported under LUT] on
+FOB basis (Free on Board) — The issue has been discussed in detail in para 9.11
+above. However, we are of the opinion that the above query on ‘export freight
+involved’ need not be answered, as it does not relate to the applicant, and as the
+applicant does not undertake or receive ‘export freight’ service as stated in para
+9.12.1 above.
+
+9.12.4 Whether the “export freight involved’? above constitutes an inter-state supply
+subject to IGST - As stated already, the issue has been discussed in detail in para
+
+9.11 above. However, we are of the opinion that the above query on ‘export freight
+involved’ need not be answered, as it does not relate to the applicant, and as the
+applicant does not undertake or receive ‘export freight’ service as stated in para
+9.12.1 above.
+
+Page 10 of 12
+
+
+9.12.5If liable to GST, what is the taxable value to be adopted as freight is not
+known to the exporter - Does not apply, as the query No.4 has not been answered,
+and as the issue involving ‘export freight’, does not relate to the applicant.
+
+10 Based on the above discussions, we rule as under:
+
+RULING
+S.No. DESCRIPTION OF THE QUERIES RAISED RULING
+1 Whether the exporter (M/s. DCW Ltd.) is liable | The question of
+under RCM basis to pay GST on the export payment of GST under
+freight on the FOB basis of exports? RCM by the applicant
+
+does not arise.
+
+2 Whether the shipping line who accepts the | Not answered, as the
+goods from the exporter (M/s. DCW Ltd.) is | shipping line is not the
+liable to pay GST on RCM basis? applicant
+
+3 Whether the “export freight involved’ is liable to | Not answered, as the
+GST on RCM basis for the goods exported (on issue does not relate
+
+which GST is liable and permitted to be to the applicant.
+exported under LUT) on FOB basis (Free on
+Board)?
+
+4 Whether the “export freight involved” above Not answered, as the
+constitutes an inter-state supply subject to issue does not relate
+IGST to the applicant.
+
+5 If liable to GST, what is the taxable value to be | Does not apply, as the
+adopted as freight is not known to the exporter | query No.4 has not
+been answererd.
+
+Mermber {SGST)
+
+To
+
+M/s. DCW Limited,
+No.45, Sahupuram, Arumuganeri,
+
+Kayalpattinam North Village,
+
+Thoothukudi, Tamil Nadu — 628 229. / [by RPAD//
+
+Copy submitted to:
+
+1. The Principal Chief Commissioner of GST & Central Excise,
+26/1, Mahatma Gandhi Road, Nungambakkam, Chennai-600034.
+
+2. The Commissioner of Commercial Taxes,
+2nd Floor, Ezhilagam, Chepauk, Chennai — 600 005.
+
+Page 11 of 12
+
+
+Copy to:
+
+1. The Commissioner of GST and Central Excise,
+Madurai Commissionerate, Central Avenue Building,
+4, Lal Bahdur Shastri Road, Bibikulam, Madurai — 625 002.
+
+2. The State Tax Officer,
+Tiruchendur Assessment Circle,
+Travellers Bunglow Road,
+Tiruchendur — 628 215.
+
+3. Master File/ Spare — 2.
+
+Page 12 of 12

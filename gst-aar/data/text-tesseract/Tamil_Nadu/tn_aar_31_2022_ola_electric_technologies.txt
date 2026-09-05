@@ -1,0 +1,591 @@
+AUTHORITY FOR ADVANCE RULING, TAMILNADU
+INTEGRATED COMMERCIAL TAXES OFFICE COMPLEX, DOOR NO.32,
+5™ FLOOR, ROOM NO. 503, ELEPHANT GATE BRIDGE ROAD,
+CHENNAI - 600 003.
+
+PROCEEDINGS OF THE AUTHORITY FOR ADVANCE RULING U/s.98 OF THE
+GOODS AND SERVICES TAX ACT, 2017.
+
+Members present are:
+1. Shri T.G.Venkatesh, I.R.S., Additional Commissioner /Member,
+Office of the Principal Chief Commissioner of GST & Central Excise, Chennai -34
+
+2. Tmt K.Latha., M.Sc., (Agri), Joint Commissioner (ST)/ Member,
+Office of the Authority for Advance Ruling, Tamil Nadu, Chennai-3.
+
+ORDER No. 31/AAR/2022 DATED: 29.07.2022
+
+GSTIN Number, if any / User id 33AADCO3578R1ZS
+
+Legal Name of Applicant OLA ELECTRIC TECHNOLOGIES PRIVATE
+LIMITED
+
+Registered  Address/Address| SP-7A, Primus Building, 1s* Floor, Guindy
+
+provided while obtaining userid | Industrial Estate, Chennai-600032
+
+Details of Application GST ARA- O01 Application Sl.No. 04/2022/ARA
+
+dated: 27.01.2022
+
+Concerned Officer Centre: Chennai South
+
+State: Guindy Assessment Circle.
+
+Nature of activity(s) (proposed /
+present) in respect of which
+
+advance ruling sought
+
+A | Category Service provision
+
+B_ | Description (in Brief) The applicant has ventured into production of
+vehicles which will be run by electricity with a
+
+vision towards green mobility.
+
+Issue/s on which advance ruling | Determination of liability to pay tax on any goods
+
+required or services or both
+
+Page 1 of 13
+
+
+2.Whether any particular thing done by the
+applicant with respect to any goods or services or
+both amounts to or results in a supply of goods or
+
+services or both within the meaning of that term.
+
+Question(s) on which advance /1. Whether the transaction of transfer of right to do
+
+ruling is required integration testing, install and market software
+from Tamilnadu cost centre to Karnataka Cost
+centre shall be leviable to GST given that such
+transaction is being executed between two cost
+centers of same entity.
+2. If the answer to the above is affirmative then
+whether such supply be considered as goods or
+
+services?
+
+Note: Any appeal against the Advance Ruling order shall be filed before
+the Tamil Nadu State Appellate Authority for Advance Ruling, Chennai
+under Sub-section (1) of Section 100 of CGST ACT/TNGST Act 2017
+within 30 days from the date on which the ruling sought to be appealed
+
+against is communicated.
+
+At the outset, we would like to make it clear that the provisions of
+both the Central Goods and Service Tax Act and the Tamil Nadu Goods and
+Service Tax Act are the same except for certain provisions. Therefore,
+unless a mention is specifically made to such dissimilar provisions, a
+reference to the Central Goods and Service Tax Act would also mean a
+reference to the same provisions under the Tamil Nadu Goods and Service
+
+Tax Act.
+
+OLA ELECTRIC TECHNOLOGIES PRIVATE LIMITED, SP-7A, Primus Building,
+1s' Floor, Guindy Industrial Estate, Chennai-600032 are registered under GST
+with GSTIN 33AADCO3578R1ZS(hereinafter called the Applicant). The applicant
+has sought Advance Ruling on the following questions:
+
+1. Whether the transaction of transfer of right to do integration testing,
+install and market software from Tamilnadu cost centre to Karnataka Cost
+centre shall be leviable to GST given that such transaction is being executed
+
+between two cost centers of same entity.
+
+Page 2 of 13
+
+
+2. If the answer to the above is affirmative then whether such supply be
+considered as goods or services?
+The Applicant has submitted the copy of application in Form GST ARA - 01 and
+also submitted a copy of Challan evidencing payment of application fees of
+
+Rs.5,000/- each under sub-rule (1) of Rule 104 of CGST rules 2017 and SGST
+Rules 2017.
+
+2.1 The applicant has stated that their Company is incorporated in India with
+its operation and experience centres in various States. Such different premises of the
+Company are recognized as different Cost Centre. The Company is setting up a
+factory for manufacture of electric two-wheelers in Tamil Nadu whereas the head
+office and the additional software development centre is in Bengaluru, Karnataka.
+The Company shall be selling the vehicle to the end user and will also offer a
+performance upgrade (which is an optional accessory) which will enhance
+performance i.e. battery performance & speed range in the vehicle. The
+manufacturing of vehicle will be carried out by Tamil Nadu Cost Centre and the sale
+thereafter will take place through the distribution centres located across the country,
+wherein the performance upgrade software shall be sold directly by Karnataka Cost
+Centre to the end user. The intricacies of the transaction submitted by the
+applicant are provided below —
+
+A. Manufacture of vehicle by the Tamil Nadu Cost Centre
+
+B. Stock transfer of vehicles by the Tamil Nadu Cost Centre to distribution
+
+Centres across the country
+
+C. Sale of vehicles from the distribution centres to the end customer
+
+D.Tamil Nadu Cost Centre to give a right to Karnataka Cost Centre to carry out
+
+integration testing, install, and market the software on the vehicles
+manufactured by the Tamil Nadu Cost Centre.
+
+Such software of performance upgrade is developed by the Karnataka Cost
+Centre and is under the ownership of the Karnataka Cost Centre. The software
+has no value in the market till the time Tamil Nadu Cost Centre agrees to
+integrate the same with the vehicle and allow Karnataka Cost Centre to sell,
+upload and maintain the software on the vehicle manufactured by the Tamil
+Nadu Cost Centre.
+
+Page 3 of 13
+
+
+E. Tamil Nadu to charge a recurring consideration from Karnataka Cost
+Centre for the said transfer of right. First of such recurring consideration has
+been agreed at INR 1,05,00,00,000/-.
+
+EF. Sale of performance upgrade software to the end user directly by Karnataka
+Cost Centre as per customer requirement.
+
+The applicant has obtained GST Registration for Tamilnadu Cost Centre and
+Karnatake Cost Centre.
+
+2.2 On interpretation of law, the applicant has referred to various legal
+provisions of the GST law viz, definitions of goods and services under Section 2(52),
+2(102), supply u/s 7, Schedule I and II, Section 15 of CGST Act 2017 and Rule 28
+of the CGST Rules 2017. The Market Support fee is to compensate the applicant,
+where the guaranteed profit margin is not being maintained. The activity of
+tolerating an act by not being able to maintain the guaranteed margin upon
+distribution, shall be considered as ‘supply of service’ as it is within the ambit of
+
+clause 5(e) of Schedule II of the Act.
+
+2.3 The applicant has stated that as per Schedule I of the CGST Act, supply of
+goods or services or both between related persons or distinct persons would qualify as
+supply under GST and trigger a levy of GST. They have submitted that when one Cost
+Centre is transferring the rights over a software to another Cost Centre of the same
+entity, the same shall not qualify as supply. The above view is based on the fact that
+both the Cost Centre's are merely registrations of the same legal entity whereby Tamil
+Nadu Cost Centre is transferring the right to install, test and market a software so as
+to enable the Karnataka Cost Centre in selling the same to end user. Consideration is
+being charged by the former from the latter just to allocate proper profits in their
+books of accounts since each Cost Centre maintains its own profitability. They have
+also stated that the Karnataka Cost Centre is the software development and
+maintenance hub of Ola and they have the expertise to implement the performance
+upgrade software into the vehicles of end user, therefore it only makes sense that the
+responsibility for carrying out such operation is entrusted upon the experts. However,
+in order to maintain the Cost Centre profitability, it is important to charge each Cost
+Centre for the work being carried out by them, so that the correct profitability is
+reflected for Cost Centre. Further, on the basis of Section 25(5) of the CGST Act, the
+Applicant is of the view that although Tamil Nadu and Karnataka Cost Centres, being
+two separate GST registrations, qualify as distinct persons under the GST regime but
+
+Page 4 of 13
+
+
+the activity happening. between them does not qualify as ‘supply’ since for being a
+‘supply’, goods or services or both must be involved. Transferring of rights for
+integration testing, install and market the software shall not take shape of any
+‘service’ since there cannot be ‘service’ between the Cost Centre's of the same legal
+
+entity. Hence, the said transaction does not qualify as supply, the same should not be
+liable to any GST
+
+3.1 The applicant was addressed through the Email Address mentioned in the
+application to seek their willingness to participate in a virtual Personal Hearing in
+Digital media. The applicant consented and the hearing was held on 25.02.2022.
+The Authorised Representative (AR) Shri. Saurabh Agarwal, Partner, EY appeared
+for the hearing and reiterated the submissions made. He stated that Tamilnadu
+Cost Centre raises invoices on Karnataka Cost Centre for extending the right to use
+vehicle for integration test of the software developed by Karnataka Cost Centre and
+sell it. The Software integration is optional for customers and Karnataka cost
+centre will charge the customers separately and will also pay TN cost centre. They
+were asked to furnish copy of invoice between the cost centres; copy of invoice for
+sale of vehicle from TN cost centre to the depot/ultimate customer; Document for
+arriving at the cost for such transaction and accounting in the respective cost
+
+centres; write-up on the software.
+
+3.2. The applicant was addressed vide letter dated 08.04.2022 to furnish the
+documents called for during the hearing held on 25.02.2022. The applicant vide
+their submissions dated 12.04.2022 furnished the following documents:
+
+» Copy of invoice dated 31.09.2021 raised by Tamil Nadu Cost Centre on
+Karnataka Cost Centre for the right to install performance upgrade software
+on the scooter manufactured by the factory
+
+» Copy of invoice dated 31.01.2022 raised by Tamil Nadu cost centre on
+Maharashtra Cost Centre for sale of Scooters 39 Nos.
+
+> Copy of invoice dated 31.01.2022 raised by Tamil Nadu cost centre on
+Gujarat Cost Centre for sale of Scooters 39 Nos.
+
+>» Copy of invoice dated 12.01.2022 raised by Karnataka Cost Centre on
+Praveen Kumar G for performance upgrade
+
+> Copy of invoice dated 12.01.2022 raised by Karnataka Cost Centre on
+
+Sanjay Chawla for performance upgrade
+
+Page 5 of 13
+
+
+> The applicant has stated that the software has no value in the market till the
+time the TN cost centre agrees to integrate the same with the vehicle and
+allow the Karnataka Cost Centre to sell, upload and maintain the software
+on the vehicle manufactured by TN Cost Centre. There is no intrinsic value
+which can be assigned to such granting of right, hence the value is mutually
+agreed between two cost centres. The applicant has relied on the Advance
+Ruling issued by Tamil Nadu Advance Ruling Authority in the case of M/s
+Thirumalai Chemicals Ltd [TN/14/AAR/2020] and the ruling issued by TN
+Appellate Authority for Advance Ruling in the case of M/s Specsmakers
+Opticians Private Limited, wherein it has been ruled that invoice value
+should be “open market value” where the valuation is determined for
+transactions between distinct persons, subject to prescribed conditions.
+
+> The write up on the software furnished by the applicant is given below:
+The company offers software to its customers which is aimed at upgrading
+the performance of the scooter. The installation of such software helps in
+enhancing the battery performance and speed range of the vehicle, among
+other things. Through software calibration of the motor control unit (MCU)
+and the battery Management system the performance features of the motor
+and battery and the overall vehicle can be modified to unlock premium
+performance for the customers. The software is developed by the Karnataka
+cost centre and has ownership over it. It is directly sold to the end user. It is
+not part of standard package given in form of sale of scooter, rather is
+optional and is sold separately to customer. The scooters are sold by the TN
+cost centre and since the software is developed specifically for such scooters
+
+it cannot be used for any other purpose.
+
+3.3. On perusal of the above submissions, the applicant was addressed vide
+letter dated 28.04.2022 to furnish the following details:
+
+Agreement between the Tamilnadu and Karnataka Cost centres for arriving at a
+mutually acceptable value for the software; Accounting of such transaction i.e.
+whether the amount received from the Karnataka Cost centre is considered as
+profit earned on supply of vehicle (goods) or as income from business (service) and
+the proportionality for arriving at the value for transaction-along with necessary
+
+substantiating documents.
+
+Page 6 of 13
+
+
+3.4 The applicant vide their letter dated 19.05.2022 submitted the following
+facts:
+
+Agreement between the Tamilnadu and Karnataka Cost centres for arriving at a
+
+mutually acceptable value: As both the cost centres are a part of same company
+
+and do not have a legal recognition of their own, there is no express agreement
+
+entered between the cost centres
+
+whether the amount received from the Karnataka Cost centre is considered as
+
+profit earned on supply _of vehicle or as income from services and the
+
+proportionality for arriving at the value for transaction: As both the cost centres
+
+are a part of same company, the recoveries made from any cost centre does not
+
+amount to profit or income recognized in book of accounts. Since, income of one
+cost centre forms expense of other, the total amount is netted and the same has no
+
+impact on financial position of the company.
+
+4. The Centre Jurisdictional Authority, Chennai South Commissionerate, who
+has administrative control over the applicant was addressed vide this office letter
+dated 03.02.2022 requiring to furnish comments on the issue raised by the
+applicant and report whether any proceedings are pending in respect of the
+applicant. The said authority has not furnished the report in spite of reminders
+dated 18.02.2022, 23.03.2022 and 09.06.2022. Hence, it is construed that no
+
+proceedings are pending in respect of the applicant.
+
+5. The State Jurisdictional Authority has submitted that there are no pending
+
+proceedings in the applicant’s case in their jurisdiction.
+
+6. We have carefully examined the statement of facts, supporting documents
+filed by the Applicant along with application, oral submissions made at the time of
+Virtual hearing, submissions made after hearing. The Company is a manufacturer
+of electric two-wheelers and they have different operation and experience centers all
+over India which are recognized as different cost centers. The manufacturing is
+done at the Tamilnadu cost center, the applicant and the sale thereafter will take
+place through the distribution centers located across the country. The vehicle will
+be sold to the end user and a performance upgrade, which will enhance
+performance i.e., battery performance and speed range in the vehicle is offered as
+an optional facility to the end user at additional cost. The applicant will give a right
+
+to Karnataka cost center to carry out integration, testing, installation and
+
+Page 7 of 13
+
+
+marketing the software on vehicles manufactured by them. Such software, the
+property of the Karnataka cost center is said to have no value in the market till the
+applicant agrees to integrate the sarne with the vehicle and allow Karnataka cost
+center to sell, upload and maintain the software on the vehicles manufactured by
+them. In this scenario, the applicant has filed the application for the following
+questions:-
+1. Whether the transaction of transfer of right to do integration testing,
+install and market software from Tamilnadu cost center to Karnataka Cost
+center shall be leviable to GST given that such transaction is being executed
+between two cost center’s on same entity.
+2. If the answer to the above is affirmative then whether such supply be
+considered as goods or services?
+The above questions being on determination of liability to pay tax on the activities
+carried on by the applicant and whether such activities carried on results in supply
+of goods or services or both were found admissible under Section97(2)(e&g) the
+
+CGST Act,2017 and are taken up for consideration on merits.
+
+veal From the submissions of the applicant, it is observed that the intricacies of
+
+the transaction is as follows:-
+
+1. Vehicle is manufactured by the Tamil Nadu Cost Centre
+2. Stock transferred by the Tamil Nadu Cost Centre to distribution
+centers across the country
+
+3. Vehicles are sold from the distribution centers to the end customer
+4. Tamil Nadu Cost Centre gives the right to Karnataka Cost Centre to carry
+out integration, testing, install, and market the software on the vehicles
+manufactured by the Tamil Nadu Cost Centre.
+Thus the transaction involved is the transfer of right to carry out integration,
+testing, installation and marketing of the software on the vehicles manufactured
+by the applicant to Karnataka Cost center. It has been stated by the applicant
+that the software has no value in the market till they agree to integrate the same
+with the vehicle and allow Karnataka cost center to sell, upload and maintain the
+software on the vehicle manufactured by them. The applicant is charging a
+recurring consideration from Karnataka cost center for the transfer of right. The
+
+first payment of such recurring consideration has been agreed upon at
+
+Page 8 of 13
+
+
+Rs.1,05,00,00,000/-. However from the invoices submitted, invoice no.
+OET/CC/001 dt. 30.09.2021, it is seen that the applicant has billed the
+Karnataka cost center a sum of Rs.1,02,75,11,617/- on which 18% IGST has
+been paid under the description ‘fee for right to install performance upgrade
+
+software on the scooter manufactured by factory’.
+
+Fa The first question to be answered is whether the transaction of transfer of
+right to do integration testing, install and market software by the applicant to
+Karnataka Cost center shall be leviable to GST given that such transaction is
+being executed between two cost centers of the same Company. To answer this
+question, it should be seen if the transaction is leviable to GST in the first place
+as the same is said to be executed between two distinct entities of the same
+company. Hence the transaction to be leviable to GST should fall within the
+ambit of supply and then such supply should be between two distinct entities.
+‘Supply’ has been defined under CGST Act,2017 as follows:-
+Section 7. Scope of supply.-
+
+(1) For the purposes of this Act, the expression - "supply" includes-
+
+(a) all forms of supply of goods or services or both such as sale, transfer, barter, exchange,
+licence, rental, lease or disposal made or agreed to be made for a consideration by a
+person in the course or furtherance of business;
+From the above definition, the meaning and scope of supply under GST can be
+understood in terms of following parameters, which can be adopted to characterize
+a transaction as supply:
+e Supply of goods or services or both ;
+e Supply should be made for a consideration;
+¢ Supply should be made in the course or furtherance of business;
+
+e Supply should be a taxable supply.
+
+7.3 As per the definition, any transaction is a supply only when it is made for
+consideration and is a taxable supply. In the instant case, the supply is that of
+transfer of right to do integration testing, install and market software from the
+applicant to Karnataka Cost center and the consideration involved is agreed
+upon by both centers, wherein it has been stated that the applicant is charging a
+recurring consideration from Karnataka cost center for the transfer of right. The
+
+first payment of such recurring consideration has been agreed upon at
+
+Page 9 of 13
+
+
+Rs.1,05,00,00,000/- and the invoice no. OET/CC/001 dt. 30.09.2021, for
+Rs.1,02,75,11,617/- has been raised. Applicant claims that such an invoice has
+been raised to set out the books of accounts of cost centers and to charge each
+cost center for the work being carried out by them. It is their contention that the
+recoveries made from any of the cost centers does not amount to profit or income
+recognized in the books of accounts of the company. To analyse whether the said
+amount charged/recovered from the cost centres is a consideration under
+Section 2(31) of the CGST Act, 2017, the same is reproduced as under:-
+
+"consideration" in relation to the supply of goods or services or both includes-
+
+(a) any payment made or to be made, whether in money or otherwise, in respect of, in
+response to, or for the inducement of, the supply of goods or services or both, whether by the
+recipient or by any other person but shall not include any subsidy given by the Central
+Government or a State Government;
+
+(b) the monetary value of any act or forbearance, in respect of, in response to, or for the
+inducement of, the supply of goods or services or both, whether by the recipient or by any
+other person but shall not include any subsidy given by the Central Government or a State
+Government:
+
+As per the above definition, any payment made or to be made/ the monetary
+value of any act in response to the supply of any goods/services is included as
+consideration. The invoice raised though for book adjustments established the
+monetary value for the act of transfer of right by the applicant and hence is
+definitely a consideration. Thus the criterion for the transaction being a supply is
+
+satisfied in as much as the transfer of right is made for a consideration.
+
+7.4 Applicant has contended that the transfer is between two cost centers of
+the same entity and cannot be construed to be a supply. Now the distinct point
+to be analysed is if the transfer of such right between the applicant and
+Karnataka cost centers is a supply. In this connection, it is pertinent to note that
+for the applicant and the Karnataka Cost Center of the Company are distince
+persons, with separate GST Registration. Also, it has been established in Para
+supra that the transfer of rights has a monetary value which amounts to
+consideration. Also, as per Schedule-I to the GST Act, specifies those ‘Activities
+to be treated as Supply even if made without consideration’, wherein
+
+(2) Supply of goods or services or both between related persons or between distinct
+persons as specified in section 25, when made in the course or furtherance of business:
+
+Page 10 of 13
+
+
+is stated. Thus, it is clear that the supply of goods or services between both
+related and distinct person when made in the course of furtherance of business
+is an activity to be treated as supply. In the case at hand, the cost centers are
+located at two different states and applicant has admitted that they have two
+separate registrations for such centers. Hence they are distinct persons and the
+supply is also found to be in furtherance of business only in as much as the
+software when installed is charged a specific cost and it is said to optimize
+certain features of the product. The software though optional at the hands of the
+end user, is said to enhance battery performance and speed range of the vehicle.
+In addition to such performance upgradation, the software also unlocks several
+technological features of the scooter such as speed, modes, range, acceleration
+performance, charging performance etc. The Karnataka cost center sells the
+software directly to the end users. Thus the transfer of right to install the
+software enhancing the performance of the scooter is carried on for a
+consideration and in furtherance of business. Thus the contention of the
+applicant that the transfer of right to install the software not qualifying as supply
+does not hold water. Such a transfer is done between two distinct persons, for a
+consideration for which the first payment is agreed upon as Rs. 1,05,00,00,000 /-
+and invoice no. OET/CC/001 dt. 30.09.2021, for Rs.1,02,75,11,617/-has been
+raised is found to be in furtherance of business. Thus, the extension of right by
+the applicant to the distinct persons as specified in Section 25, is in the course of
+furtherance of business for a pre-determined consideration & therefore such
+
+transfer of right is clearly a supply which is leviable to GST.
+
+8. Now coming to the question of whether the activity carried on by the
+applicant is supply of goods or services is taken up for discussion. Applicant has
+submitted that the vehicles are sent to respective distribution centers all over
+India. Karnataka cost center is the software development and maintenance hub
+of Ola and they implement the performance upgrade software into the vehicles of
+the end user. Hence it is seen that the goods namely vehicles are moving from
+the TN cost center to all distribution centers and the software is the product of
+Karnataka cost center. On perusal of invoices submitted by the applicant, it is
+seen that the Performance upgrade software is only sold by the Karnataka cost
+
+center to the end user. The details are as under:
+
+Page 11 of 13
+
+
+(i) Invoice no,4400002312 dt. 12.01.2022 has been raised for such Performance
+upgrade software for Shri.Praveen kumar residing at Bengaluru for a sum of
+Rs.14,407/.
+
+(ii) Invoice no.4400002412 dt. 12.01.2022 has been raised for such Performance
+upgrade software for Shri.Sanjay Chawla residing at Delhi for a sum of
+
+Rs.14,407/.
+Thus it is seen that the vehicles move from the applicant to all distribution
+
+centers in India namely Gujarat, Maharastra and the Peformance upgrade
+software is marketed by the Karnataka cost center, on the applicant agreeing for
+the same. Hence the applicant is only agreeing to the act of carrying out
+integration testing, install, and market the software on the vehicles manufactured
+by them by the Karnataka Cost Centre, at the behest of the end-users. Thus the
+supply taking place between the applicant and the Karnataka cost center is of
+the Agreeing the Karnataka Cost Center to carry out the installation and
+marketing of the software. Hence it is clear that the supply involved is the supply
+
+of ‘Service’ and not of goods.
+
+9. To sum up, the transfer of right to do integration testing, installation and
+marketing software from the applicant to Karnataka Cost centre is leviable to
+GST as such transaction is being executed between two distinct persons i.e., two
+cost centers of the same entity. Further as such supply is found to be involving
+only transfer of the said right, we conclude that the supply is of services and not
+
+of goods.
+
+10. In view of the above facts, we rule as under:
+RULING
+
+1. The transaction of transfer of right to do integration testing, installation and
+
+marketing software from the applicant to Karnataka Cost centre of the company is
+
+leviable to GST.
+
+2. The supply of such right is supply of services.
+
+EN i.
+= ee Seney AUTHORITY FOR 1 Shri.T.G. VENKATESH
+ember ( ) ADVANCE RULING (Member CGST)
+
+29 JUL 2022
+
+SOODS AND SERVICE TAX
+Chennai-6, Tamitnadu
+
+Page 12 of 13
+
+
+
+To
+
+OLA ELECTRIC TECHNOLOGIES PRIVATE LIMITED,
+SP-7A, Primus Building, 1st Floor,
+Guindy Industrial Estate,
+
+Chennai-600032 // BY SPEED POST WITH ACK.DUE //
+
+Copy Submitted to:
+
+1. The Principal Chief Commissioner of GST & Central Excise,
+
+26/1, Mahatma Gandhi Road, Nungambakkam, Chennai-600034.
+
+The Principal Secretary/Commissioner of Commercial Taxes /Member,
+IInd Floor, Ezhilagam, Chepauk, Chennai — 600 005.
+
+Copy to:
+
+3. The Commissioner of GST & Central Excise,
+
+Chennai South Commissionerate, MHU Complex, 692, Annasalai,
+Nandanam, Chenai-600 035.
+
+4. The Assistant Commissioner(St), Guindy Assessment Circle,
+Integrated Commercial Taxes & Registration Department, South Tower.
+
+Room No. 253, II Floor, Government Farm Building,
+Nandanam, Chennai- 600 Oss.
+
+?
+
+5. Master File/ Spare — 2,
+
+Page 13 of 13

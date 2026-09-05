@@ -96,13 +96,14 @@ def main():
             if r.get("pdf_url"):
                 records[r["pdf_url"]] = r
 
-    # load extraction status
+    # load extraction status; Vision OCR (production engine) wins over tesseract
     text_status = {}
-    if (DATA / "extract_status.jsonl").exists():
-        with (DATA / "extract_status.jsonl").open() as f:
-            for line in f:
-                st = json.loads(line)
-                text_status[st["pdf"]] = st
+    for status_file in ("extract_status.jsonl", "extract_vision_status.jsonl"):
+        if (DATA / status_file).exists():
+            with (DATA / status_file).open() as f:
+                for line in f:
+                    st = json.loads(line)
+                    text_status[st["pdf"]] = st
 
     def status_for(url: str, state: str) -> dict:
         """Map a listing record onto extract_status via its local path key."""

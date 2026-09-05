@@ -1,0 +1,498 @@
+RAJASTHANAUTHORITY FOR ADVANCE RULING,
+GOODS AND SERVICES TAX,
+. KAR BHAWAN, AMBEDKAR CIRCLE,
+\ NEAR RAJASTHAN HIGH COURT, aie
+JAIPUR - 302005 (RAJASTHAN)
+
+ADVANCE RULING NO. RAJ/AAR/2023-24/19
+
+Mahipal Singh . T
+Additional Commissioner__|" Member (Central Tax)
+Mahesh Kumar Gowla . | Member (State Tax)
+
+Additional Commissioner -
+Name and address of the M/s Jaipur Metro Rail Corporation
+: | Limited,Metro Depot, Admn Building, Bhrigu
+
+applicant
+Path, Jaipur, Rajasthan-302020
+GSTIN of the applicant O8AACCJ2822J1ZM
+SHoost/scsT Act, bor, ( Determination of time and value of supply
+under which the of goods or services or bo
+question(s) raised
+Date of Personal Hearing |: | 01.01.2024
+Shri L.D. Sharma, CA, Shri a
+: Mukherjee(Finance Consultant,JMRC) an
+Present for the applicant |: | shri a Sharma(G.M. Finance),(all are
+Authorized Representatives of the applicant)
+Date of Ruling : (99.02.2024
+
+Note 1: Under Section 100 of the CGST/RGST Act, 2017, an appeal against
+this ruling lies before the Appellate Authority for Advance Ruling constituted
+under section 99 of CGST/RGST Act, 2017, within a period of 30 days from
+the date of service of this order.
+
+Note 2:At the outset, we would like to make it clear that the provisions of
+both the CGST Act and the RGST Act are the same except for certain
+provisions. Therefore, unless a mention is specifically made to such
+dissimilar provisions, a reference to the CGST Act would also mean a
+reference to the same provision under the RGST Act. Further to the earlier,
+henceforth for the purposes of this Advance Ruling, a reference to such a
+similar provision under the CGST Act / RGST Act would be mentioned as
+being under the "GST Act".
+
+A. SUBMISSION OF THE APPLICANT(in brief):-
+
+M/s Jaipur Metro Rail Corporation Ltd. (“JMRC” in short) awarded the
+contract to M/s. Continental Engineering Corp (“CEC” in short) for the
+Designing and Construction of Tunnel between Chand Pole and Badi
+Chaupar and reversal line by Shield TBM, Underground Metro Stations at
+Choti Chaupar& Badi Chaupar by Cut & Cover Method on East-West
+Corridor at Jaipur Metro (Phase 1B) at Jaipur, Rajasthan on Sth Oct., 2013.
+
+In this agreement the amount quoted was lump sum including all taxes
+except VAT, the then tax instead of GST, because the VAT was exempt for the
+JMRC Project vide Notification issued on 06.10.2010 by Rajasthan
+Government.The Contractor was supposed to pay all taxes, duties and fees
+required to be paid by him under the prevailing statutes contract and the
+contract price was not to be adjusted for any of these costs except as stated
+in sub clause 13.7(Adjustment for change in Law) of General Condition
+Clause (GCC) of agreement.
+
+Under pre-GST regime, "Works Contract" has been defined in Section
+65B of the Finance Act, 1994 as a contract wherein transfer of property in
+goods involved in the execution of such contract is leviable to tax as sale of
+goods and such contract is for the purpose of carrying out construction
+erection, commissioning, installation, completion, fitting out, repair,
+
+Page 1 of 6
+
+
+vable or immovable property or
+part thereof in relation to such
+ractor above
+
+maintenance, renovation, alteration of any mo
+i imi tivity or a
+
+for carrying out any other similar ac
+
+property. Hence, the contract between the employer and the cont!
+
+was covered under the ambit of "Works Contract’.
+
+‘ ; issioni or
+Though, “Services by way of construction, erection, Coe a ailweys,
+installation of original works pertaining to an airport, Poth ayment to
+including monorail or metro" was notified to be exempt from 60 1B It is
+Service Tax vide Notification No. 25/2012-ST dated 20.0! F : 4 for
+pertinent to notice that these services will not include a service ba the
+providing such service.Notification No. 25/ 2012-ST was substituted by h
+Notification 09/2016-ST which excluded the monorail and metro from the
+ambit of the exemption. But there was an exception for the services by way of
+construction, erection, commissioning or installation of original works
+pertaining to monorail or metro, where contracts were entered before Ist
+March 2016, on which appropriate stamp duty, was paid, shall remain
+exempt.CBEC Circular No. 138/7/2011-ST dated 6 May 2011 opined that
+every service has to be classified and taxed in terms of its specific description
+and not in terms of a more general description. Clarification was further
+sought as to the taxability of works contract service (WCS) provided by sub-
+contractors for dams, tunnels, etc. which was exempted and for which the
+contract was awarded to the main contractor. The CBEC clarified that: "in
+case the services provided by the sub-contractors to the main contractor are
+independently classifiable under WCS, then they too will get the benefit of
+exemption so long as they are in relation to the infrastructure project's
+mentioned above. Thus, it may happen that the main infrastructure projects of
+execution of works contract in respect of roads, airports, railways, transport
+terminals, bridges tunnel and dams, is sub-divided into several sub-projects
+and each such sub-project is assigned by the main contractor to the various
+sub-contractors. In such cases, if the sub-contractors are providing works
+contract service to the main contractor for completion of the main contract, then
+service tax is obviously not leviable on the works contract service provided by
+such sub-contractor." Hence, the above clarifications issued by the CBEC
+make it clear that there are two categories of sub-contractors for works
+contract services: (i) those to whom the support services are outsourced and
+(ii) those to whom part of the main work is outsourced. Work done by (ii) is
+treated as work of the same nature as the service of the main contractor and
+the same exemption is available for such work. On the other hand, sub-
+contractors of category (i) provide services that are different in their nature,
+and these are treated differently. They are, at best, input services for the main
+works contract service.
+
+As per Contract between CEC and JMRC, the payments are made in
+close regard to the contract price and the fluctuations that arise are taken
+into consideration, in a price variation (P.V) bill. Moreover, the Clause 13.7
+also states that "The contract price shall be adjusted to take account of any
+increase or decrease in cost resulting from a change in the laws of the country
+(including the introduction of new Laws and the repeal or modification of
+existing Laws) or in the judicial or official government interpretation of such
+Laws, made after the Base Date, which affect the contractor in the performance
+of obligations under the Contract." Hence, the introduction of GST is covered
+under the ambit of change in legislation or implementation of any law. Also,
+there is an understanding that the Contract price quoted by the CEC includes
+all cost including the taxes as well. Precisely, it included the taxes like excise
+duty, custom duty, service tax (the part that should be paid to the ancillary
+services obtained by the CEC and are not covered under the ambit of
+exemption) etcetera. Moreover, if there is any increase in the price due to the
+implementation of the new law, the extra burden to be borne by the JMRC.
+
+B. INTERPRETATION AND UNDERSTANDING OF APPLICANT ON
+QUESTION RAISED (IN BRIEF):-
+
+Page 2 of 6
+
+
+ei » " .
+witht fae ne mblementation of the GST laws, the exemption was
+or installation of orig ine a by way of construction, erection, commissioning,
+to adjust th 8 na works pertaining to Metro", the contractor requested
+J © contract price due to increase in the cost as the GST was
+
+applicable on those services at 18%, which was subsequently reduced to
+a0,
+
+; Under the GST Regime, "Works Contracts" has been defined in Section
+2(119) of the CGST Act, 2017 as *"Works Contract" means a contract for
+building, construction, fabrication, completion, erection, installation, fitting out,
+improvement, modification, repair, maintenance, renovation, alteration or
+commissioning of any immovable property wherein transfer of property in goods
+(whether as goods or in some other form) is involved in the execution of such
+contract.”
+
+As per Para 6(a) of Schedule II to the CGST Act, 2017, Works Contracts,
+as defined in Section 2(119) of the CGST Act, 2017, shall be treated as a
+supply of services.
+
+Composite supply of works contracts, as defined in clause (119) of
+Section 2 of the Central Goods and Services Tax Act, 2017, supplied by way
+of construction, erection, commissioning, or installation of original works
+pertaining to metro is liable to the slab of 12% (6% CGST and 6% SGST).
+
+State Government exempts from the payment of tax payable on
+purchases of taxable goods and equipment mentioned in annexure -"A" of the
+notification, made by registered dealer for exclusive use of in execution of
+Work Contact for Jaipur Metro Rail Project. As per the contact agreement,
+Value Added Tax (VAT) and Rajasthan State Entry Tax were exempted.
+
+As per Section 15(1) of CGST Act, 2017, the VAT paid was adjusted,
+and accordingly the value of supply was to be determined.
+
+In this matter, JMRC started making payment of GST by deducting the
+amount of VAT payable by the CEC (other Party), adjustment of the Central
+Taxes, CST etc. as per the prevailing laws of the period on the date the
+agreement was executed, because the amount of taxes included in the cost of
+the works as per the agreement was kept the duty / liability of the CEC only.
+
+The Service Tax portion was part of the Agreement, to be paid by the
+CEC itself, and accordingly, the same was presumed to be 40% of the works
+executed in the bill, and the same was not paid extra, being exempted and
+not to be included in the Contract Price.
+
+Keeping the same in mind, the following proposal was submitted by
+JMRC regarding the computation of the additional GST liability to be borne
+by JMRC:
+
+GST Applicable
+
+__ _ 12% | 18% |
+Less: CGST Portion payable by the Contractor | 6% 9%
+Less: Service Tax, currently applicable in this contract 3.6% | 3.6%
+(Subsumed in the GST)= 18% * 40% component of the | | |
+contract is service tax liable 7.2% (Half of the same is part of | |
+CGST and rest half SGST part, which is not payable by the | |
+JMRC - _ | |
+Balance SGST | 2.4% | 5.4% |
+(This balance part does contain the items for which the
+
+exemptions were not provided in the respective notifications)
+
+The computation of the GST liability by JMRC was not accepted by CEC
+because of the following views:
+
+1. According to CEC, JMRC in its method of computation had
+assumed certain % as Service Tax component and further stated it was
+part of Contract Price and this % of amount to be disallowed in its
+
+computation of GST reimbursement to CEC and the same assumption
+has no basis.
+
+Page 3of6
+
+
+thi
+ro railways projects and evi
+ast cannot be
+
+yted on met .
+Hence, ¢
+
+ce tax was exem :
+tract Price.
+
+2. Output service BxC
+therefore, was never the part of Con
+outrightly ignored for reimbursement,
+3 UMRC has insisted on non-re imbursemen :
+40% service component of the Contra
+
+sast levied on an
+
+rice, which is not
+
+assumed
+defined in the GST law.
+
+=) of credit availability
+a JMRC has not considered the benefit of credit
+
+JMRC_ and CEC regarding the
+new GST regime and the
+
+r CEC Cc has compute!
+bursement for CEC. JMR 1 ,
+tract at the ratio of 40:60 (which was
+cted the proportionate tax on
+and remainder being 2.4% to
+
+there is a conflict between
+
+Hence,
+liability under the
+
+computation of the Gast !
+calculation of the amount of reim
+the service portion of the Works Con
+specified in the Service Tax laws) and has dedu
+the same from the 6% which amounts to 3.6%
+be reimbursed to CEC.
+C. QUESTIONS ON WHICH THE ADVANCE RULING IS SOUGHT:-
+10 , £ »-GS m
+
+Ql. How to assess the net impact of GST on the cost of a pre GST lump
+sum contract?
+Q2. How to compute the value of supply to levy GS
+contract entered under pre-GST lax regime?
+D. PERSONAL HEARING
+
+In the matter, personal hearing was granted to the applicant on
+01.01.2024, Shri L.D. Sharma, CA, Shri Vijay Mukherjee(Finance
+Consultant,JMRC) and Shri K.K. Sharma(G.M. Finance),(all are Authorized
+Representatives of the applicant)appeared —_ for personal hearing.
+Theyreiterated the submission already made in written submission.They
+requested for early disposal of the application.
+
+COMMENTS OF THE JURISDICTIONAL OFFICER
+
+E.
+
+Comments received from the Assistant Commissioner, Div-H, Sector-
+10, Vidhyadhar Nagar, Jaipur,vide letterV(GST-
+H)30/02/Misc.Reports/25/2021/Pt-1/27 dated 06.04.2023 are as under: -
+1. How to assess the net impact of GST on the cost of a pre-GST lump
+sum contract?
+Ans- With regard to works contracts where the supply is of both goods and
+services:
+
+Works Contracts executed on or after 1st July 2017 | SGST and CGST rates
+and invoice/bill raised on or after 1st July 2017 will be applicable.
+
+T of a lump sum work
+
+2. How to compute the value of supply to levy GST of a lump sum work
+contract entered under pre-GST tax regime?
+
+Ans- When invoices are to be raised by the contractor, the value of the bill
+together with the applicable tax under GST (i.e. SGST + CGST within the
+State) should not exceed the value that such contractor/supplier would have
+billed for prior to 1st July, 2017 inclusive of VAT and Service Tax, if any.
+
+; For instance, say, as per pre-GST contract agreement (which was
+inclusive of VAT and service tax, if any) the value of the project is Rs
+100000/-, the bill/RA bill under GST will arrive at the taxable value in
+accordance with the formula below:
+
+Taxable (Value inclusive of taxes) X 100/ (100+
+value SGST tax rates) | Sum of COST &
+
+So here, the project value (excludin i i if
+g tax), with, let é
+6% CGST and 6% SGST, will be = 100000 X 106) 112= 80285.40/ OST rate of
+
+Thus the bill will be raised as follows:
+
+| Rs. 89285.70 |
+
+Page 4 0f 6
+
+
+Project value (excluding tax) Add: CGST @| Rs. 5357.15
+| 6% Add: SGST @ 6% Re 5387.15
+
+a revision of any
+n tax rate(s), if
+
+It is clarified that under no circumstances will there be A
+contractual values in the contract due to impact of change 1
+any, from VAT/Service Tax to GST.
+
+F. FINDINGS, ANALYSIS & CONCLUSION:
+
+1) We have carefully examined the statem r
+documents filed by the Applicant along with application, oral and written
+submissions made at the time of hearing and the comments of the StateTax
+Authority. We have also considered the issues involved, on which advance
+ruling is sought by the applicant, and relevant facts. We would like to discuss
+the submission made by applicant and will take up the above question for
+discussion one by one.
+
+2) | JMRC awarded the contract to CEC for designing and construction of
+Tunnel between Chand Pole and Badi Chaupar and reversal line by Shield
+TBM, Underground Metro Stations at Choti Chaupar& Badi Chaupar by Cut
+& Cover Method on East-West Corridor at Jaipur Metro (Phase 1B) at Jaipur,
+Rajasthan on Sth Oct., 2013.
+
+3) In this agreement, the amount quoted was lump sum including all
+taxes except VAT, the then tax instead of GST, because the VAT was exempt
+for the JMRC Projectvide Notification issued on 06.10.2010 by Rajasthan
+Government. The Contractor was supposed to pay all taxes, duties and fees
+required to be paid by him under the prevailing statutes Contract and the
+contract price was not to be adjusted for any of these costs except as stated
+in sub clause 13.7(Adjustment for change in Law) of General Condition
+Clause (GCC) of agreement.
+
+4) The applicant has submitted that as per the contract, the payments are
+made in close regard to the contract price and the fluctuation which is taken
+into consideration, in a price variation (P.V) bill. Moreover, the Clause 13.7
+also states that "The contract price shall be adjusted to take account of any
+increase or decrease in cost resulting from a change in the laws of the country.”
+
+ent of facts, supporting
+
+5) The questions on which Advance Ruling is sought are as under-
+
+(i) How to assess the net impact of GST on the cost of a pre-GST
+lump sum contract?
+
+(ii) | How to compute the value of supply to levy GST of a lump sum
+work contract entered under pre-GST tax regime?
+
+6) We find that before the GST Era, the VAT was exempted by the
+Rajasthan Government and after enactment of GST Act, it was subsumed in
+the GST including Service Tax, Central Excise duty and many other Taxes so
+there is increase in cost of CEC.
+
+7) Hence, there is a conflict between JMRC and CEC regarding the
+computation of the GST liability under the new GST regime and the
+calculation of the amount of reimbursement for CEC.
+
+8) We find that the applicant submitted thatClause 13.7 (Adjustment for
+change in Law) of General Condition Clause (GCC) of Agreement states that
+"The contract price shall be adjusted to take account of any increase or
+decrease in cost resulting from a change in the laws of the country.”So the
+dispute between applicant and CEC after the GST era is to be resolved as per
+Clause 13.7 (Adjustment for change in law) of General Conditions Clause
+
+(GCC) of Agreement and it is not covered under an i i
+of CGST Act,2017 which is as under- Y question of Section 9712)
+
+The question on which the ad ing i i
+shall bein enero vance ruling is sought under this Act,
+
+(a) classification of any goods or services or both;
+
+Page 5 of 6
+
+
+oe)
+
+be rejected in term of Section 98(2) of CGST Act,2017 and the
+
+a ot
+
+d under the provisions of this Act;
+
+(b) applicability of a notification issue 1
+oods or services Or
+
+(c) determination of time and value of supply of g
+both;
+
+(d) admissibility of input tax cre
+paid;
+
+(c) determination of the liability to pay tax on any
+both;
+
+(f) whether applicant is required to be registered; ;
+(g) whether any particular thing done by the applicant with respect to
+any goods or services or both amounts to or results in a supply of
+goods or services or both, within the meaning of that term.
+
+In view of the above, the application made by the applicant is liable to
+refore, we rule
+
+dit of tax paid or deemed to have been
+
+goods or services Or
+
+as under: -
+
+not
+
+RULING
+(Under Section 98 of the GST Act, 2017)
+
+The subject application for Advance Ruling made by the applicant is
+maintainable and hereby rejected under the provisions of the GST
+
+Act,2017.
+
+This Ruling is valid subject to the provisions under Section 103 until
+
+and unless declared void under Section 104(1) of the GST Act,2017.
+
+(Mahipal Singh)
+Member (Central Tax)
+
+F. No. AAR/SF/2023-24/204
+SPEED POST
+
+To,
+
+iv, er
+
+(Mahesh Kumar Gowla)
+Member (State Tax)
+
+Date: 79:07 404
+
+Saal
+
+M/sJaipur Metro Rail Corporation Limited,
+Metro Depot, Admn. Building, Bhrigu Path,
+Jaipur (Rajasthan)
+
+Copy
+1.
+
+2.
+
+3.
+
+oa
+
+to: -
+The Chief Commissioner, CGST and Central Excise(Jaipur Zone),
+
+NCRB, Statue Circle, Jaipur, Rajasthan-302005
+
+The Chief Commissioner, State Tax, KarBhawan, Bhawani Singh Road,
+Ambedkar Circle, C-Scheme, Jaipur, Rajasthan-302005.
+
+The Pr.Commissioner, CGST and Central Excise Commissionerate,
+Jaipur, Rajasthan.
+
+The Assistant Commissioner, Div-H, Sector-10, Vidhyadhar Nagar,
+Jaipur, Rajasthan.
+
+Page 6 of 6

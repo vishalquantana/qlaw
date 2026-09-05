@@ -1,0 +1,532 @@
+1
+BEFORE THE AUTHORITY FOR ADVANCE RULING - ANDHRA PRADESH
+Goods and Service Tax
+D. No. 5-56, Block-B, R.K. Spring Valley Apartments, Eedupugallu, Vijayawada-S21151
+Present
+1. Sri. D. Ramesh, Additional Commissioner of State Tax (Member)
+2. Sri. A. Syam Sundar, Additlonal Commissioner of Central Tax (Member)
+AARNo.O4lAPlGST/2O21 dated: 12.O1.2O21
+7
+Name and address of the
+a pplica nt
+GSTIN
+Date of filing of Form GST
+ARA-01
+Date of Virtua I Hearing
+lurisdictional
+Centre
+Authority
+Clause(s) of section 97 (2) of
+CGST/SGST Act, 2017 under
+which the question(s) raised
+M/s. SCV Sky Vision,
+D. No. 18/2/268 I L5 / 1'A, Abbanna
+Colony, Abbanna Towers, TiruPati,
+Chittoor, Andhra Pradesh-517501.
+37ACPFS9342C2ZQ
+06.03.2020
+22.tO.2020
+M/s. Nitya Tax Associates, Bengaluru
+Superintendent, Tirupathi-3 Range,
+Tirupathi CGST Division.
+b) applicability of a notification issued
+under the provisions of this Act; and
+e) determination of the llability to pay
+tax on any goods or services or bqt!;
+ORDER
+(Under sub-section (4) of section 98 of Centra! Goods and services
+Tax Act, 2OL7 and sub-section (4) of Section 98 of Andhra Pradesh
+Goods and Servaces Tax Act, 2O17)
+1. At the outset we would like to make it clear that the provisions of CGST Act,
+2077 and SGST Act, 2Ol7 are in pari materia and have the same provisions in
+like matter and differ from each other only on a few specific provisions.
+ya
+1
+0vance
+o
+1
+2
+3
+4
+5
+6
+*
+ra Fr
+Represented by
+6J
+
+
+2
+Therefore, unress a mention is particurarry made to such dissimirar provisions, a
+reference to the ccsr Act wourd arso mean reference to the corresponding
+similar provisions in the APGST Act.
+2.The present apprication has been fired u/s 97 of the Centrar Goods & services
+Tax Act, 2077 and Ap Goods & services Tax Act, 2017 (hereinafter referred to
+CGST Act and APGST Act respectively) by M/s. SCV Sky Vision ( hereinafter
+referred to as applicant).
+3. Brief Facts of the case:
+. The applicant, M/s. SCV Sky Vision, is inter alia engaged in cable operation
+business in and around Tirupati in chittor District of Andhra pradesh.
+' The appricant is a Murti-system operator ('MSo') and purchases digitar signars
+from broadcasters rike E-TV, star w sun TV etc. These signars are transmitted
+through saterrite to receiving stations owned by Msos. MSos further transmit
+these signars through cabres to the Locar cabre operators (,LCo,) who own their
+last-mile network to individual homes and customer premises.
+' As a matter of industry practice, MSo after buying/ receiving the signars of
+various channers from different broadcasters, turns into a singre bouquet or
+bundle it and transmit to the individuar subscribers through various LCos.
+. An individual subscriber is required to subscribe to an Lco who would transmit the
+signals and arso instal a set-Top Box ('STB') at home with a viewing card /smart
+card in it' STBs help MSos to encrypt the signals for all the channels and transmit
+them' STBs convert these signars to anarogue mode for viewing on terevisions
+sets.
+. M/s. ACN Cable private Limited ('ACNT,Compa ny) is inter a/ta engaged in
+provision of simirar services where it receives broadcasting signars and transmits
+them to individual customers through LCOs.
+' ACN has entered into a 'Business Transfer Agreement,dated Decemb et z7th, 2o\g
+('BTA') with the appticant ('Sky Vision,/ Seiler,), In terms of the BTA, ACN has
+agreed to purchase entire cabre operation business of se er. Arr rights, titre and
+interest in and to the business, assets, subscribers/ customers, rinked LCos wi
+a
+:td*
+(o
+{a Prac
+nsferred from applicant to ACN as a going concern except the liabilities
+
+
+3
+which have presently arisen or will arise for the past business relationship/ earlier
+period and the employees. The relevant clauses of the agreement are discussed
+as under:
+o 'Business'mean entire cable operation business and includes all rights and
+powers of any nature except any of the employees or liabilities. (Clause
+t.2);
+r 'Excluded liabilities' to mean all debts, liabilities and obligations relating to
+the Business carried out on or before the closlng date (March 31st, 2019)
+(Clause 1 .5 );
+o On closing date, the Business of the applicant including all rights, title and
+interest in the business, assets, subscribers, linked LCOs etc. shall be sold,
+transferred and conveyed to ACN on a going concern basis' (Clause 3.1);
+o None of the liabilities of any nature arising out of past business relations
+shall be transferred including but not limited to future payments, claims due
+and payable, tax liabilities, statutory liabilities. (Clause 3.2);
+r STBs forming asset of the applicant will now be owned by ACN and the
+applicant shall assist In installing STBS in all its LCOs and subscribers.
+Applicant will ensure that all their existing LCOs shall now enter into an
+agreement with ACN to become their linked LCOs. (Clause 3.3 (a));
+o Applicant shall render all possible support prior to the execution of
+agreement to make the business self-sufficient and transfer the same in a
+running condition or as a going concern like integration of STBs to
+purchaser's system and acquisition of new customers. (Clause 3);
+o Applicant shall ensure and assist the purchaser to establish its network with
+existing subscribers and LCOs through an interconnection agreement who
+are the last mile connects to deliver the service. (Clause 6.1);
+r Applicant will ensure installation of network cables of the purchaser for
+provision of cable business service and acquisition of customers in the said
+area and ensure authorization of all broadcasters in ACNs name. (Clause
+7.7)
+r Purchaser will have sole right to decide and collect the subscription fees post
+transfer of business (clause 7.5)
+
+
+4
+4
+In lieu of the instant business transfer, the purchaser shall pay applicant an
+aggregate amount of Rs.12,00,00,000/- on various milestones viz 40o/o on execution
+of the BTA and remaining on completion of individual niilestones like handing over of
+customers details, ensuring interconnection of LCOS with purchaser etc.
+Questions raised before the authority:
+whether Sl.No.2 of the Notification No.1212017 - central rax (Rate) dated June
+28th, 2ol7 ('service Exemption Notification') granting exemption to 'services by way
+of transfer of a going concern as a whole or an independent part thereof, is
+applicable on the business transfer undertaken in the present instance?
+on Verification of basic information of the applicant, it is observed that the
+applicant falls under central jurisdiction, i.e. Superintendent, Tirupati Range,
+CGST Tirupati Division. Accordingly, the application has been forwarded to the
+jurisdictional officers and a copy marked to the state Tax authorities to offer
+their remarks as per Sec. 98( 1) of CGST /ApGST Act 2Ot7 .
+In response, remark are received from the state Tax authorities concerned
+stating that no proceedings are lying pending or passed relating to the applicant
+on the issue, for which the Advance Ruling sought by the applicant.
+5. Applicant's Interpretation of Law and Facts:
+5.1. The applicant submits that the impugned business transfer undertaken in
+pursuance of the BTA qualifies to be 'services by way of transfer of a going
+concern, as a whole or an independent part thereof' under Sl.No.2 of the (service
+Exemption Notification) Notification no.t2/2ot7- cr (Rate) dated June zt.h, zotT
+granting exemption to services listed therein. Hence, the applicant is not liable to
+pay any tax in the present instance.
+5.2. In the present instance, the underlying issue requires evaluation of the factum of
+transfer of business as a going concern to consider the same exempt from tax.
+Accordingly, the relevant extract of the Notification is provided hereunder:
+Sl.No Chapter, Section,
+Heading, Group or
+Service Code (Tariff)
+Chapter 99
+p.dvan"a
+Description of services
+Services by way of
+transfer of a going
+concern as a Whole or an
+independent part thereof
+Rate
+( percent)
+Cond ition
+2
+b )s;
+{)4"
+\o
+aa Prd
+,/ */t
+'g
+Nil
+Nil
+\i
+
+
+5,3. The transfer of business undertaken in the present instance shall satisfy both the
+conditions of
+(a) a service and
+(b) whether such transfer is by way of a 'going concern'.
+A. Transfer of business is supply of service:
+A.1 Section 7 (1)(a) of the CGST Act provides for an inclusive definition and states
+that supply includes 'all forms of supply of goods or services such as sale,
+transfer, barter, exchange made or agreed to be made for a consideration by a
+person in the course of furtherance of business'. The term 'service' is defined
+under Section 2(102) of the CGST Act as anything other than goods.
+A,2. Entry No.4 (a) of Schedule II of the CGST Act states that where goods forming
+part of assets are transferred or disposed of under the directions of the person
+carrying on business (no longer form part of such assets), such transfer or
+disposal is a supply of goods. Thus, the goods portion in transfer of business is
+covered under Entry 4(a) of Schedule II.
+A.3. Further in the case of Deputy Commissioner, (CT) v. K' Behanan Thomas,
+L977 (39) STC 325 (Madras), the Madras High Court held that transfer of
+business does not constitute sale of goods. Hence, such supply cannot be said to
+be supply of goods.
+A.4. In the case of Paradise Food Court v. State of Telangana, 2017-vIL-238-
+AP, in the context of VAT Laws, the Andhra Pradesh High Court held that business
+is not movable property and is therefore not goods.
+A.5. Accordingly, there are following two supplies in transfer of business:
+.Transfer of goods (assets) deemed as supply of goods under Clause 4(a) of
+Schedule II (supply 1); and
+.Transfer of business (other than goods) qualifying as supply of service (Supply
+2).
+Supply 1 & Supply 2 qualify as'Composite Supply'
+A.6, The applicant submits that section 2(30) of the GGST Act provides for the concept
+of composite supply. It stipulates that supply which is made by a person
+consisting of two or more taxable supplies of goods or services or any
+5
+(r)
+Adv
+
+
+6
+combination thereof, which are naturally bundled and supplied in conjunction
+with each other in the ordinary course of business, one of which is a principal
+su pply.
+A.7. As per section 8 of the cGST Act, composite supply shall be treated as a supply of
+principal supply and therefore, applicable tax rate on such supply will be of the
+principal supply itself. Hence, it becomes important to determine as to whether
+Supply l and Supply 2 constitute a naturally bundled supply or not.
+A.8. The word'naturally bundled'is not defined under GST law. Therefore, a reference
+shall be made to the erstwhile service tax law, where a similar concept of
+naturally bundled services prevailed. The education guide issued by GBIC explains
+bundled services as a bundle of service wherein an element of provision of one
+service is combined with an element or elements of provision of any other service.
+A.9. As per the Education Guide'If various elements of a bundted service are naturally
+bundled in the ordinary course of business, it shall be treated as provision of a
+single service which gives such bundle its essential character'. It further provides
+following indicators to identify a natural bundle:
+> The perception of the consumer or the service receiver;
+> Majority of service providers in a particular area of business provide similar
+bundle of services;
+> The nature of the various services in a bundle of services will also help in
+determining whether the services are bundled in the ordinary course of
+business. If the nature of services is such that one of the services is the
+main service and the other services combined with such service are in
+nature of incidental or ancillary services which help in better enjoyment of a
+main service.
+A.1o' In the present case, all the parameters discussed above are satisfied as under:
+. Going forward, ACN will undertake the same business which was earlier
+carried out by the seller with the same customers and LCOs;
+. BTA entered into for transferring the business as a going concern, mandates
+transfer of goods for carrying out the business as it is; and
+1
+Advan
+o
+{
+(\
+Ia-\
+\\v
+
+
+7
+Transfer of business is the main service and transfer of asset is incidental or
+ancillary to such service, which helps in better enjoyment of property i.e' to
+say carrying out the business effectively.
+A.11. Basis the above, it is evident that such supply undertaken by the applicant is a
+composite supply since a single consideration is being charged for the supply in
+terms of clause 4.1 of the BTA and the supplies are naturally bundled in the
+ordinary course of business.
+A,12. Further, the intent of the applicant is to transfer the entire business. Transfer of
+goods is only incldental and undertaken to achieve this objective. Hence, it is the
+transfer of business as a going concern. Hence, the transaction will be deemed as
+supply of service in terms of section 8 of the CGST Act.
+A.13. In the present instance, transfer of business of provision and distribution of
+signals to the subscribers, as a going concern for lump sum consideration, will
+qualify as supply in accordance with Section 7(L) (a) and 7(1) (d) of the CGST
+Act.
+B. Scope of the term'Going Concern':
+8.1. The entry as reiterated herein above specifies two criteria which must be met
+simuttaneously. Accordingly, in order to fall under sl.No.2 of service Exemption
+Notification, the service must be transfer of a going concern and not otherwise.
+8.2. The applicant submits that service exemption notlfication grants exemption to
+transfer of a 'going concern'. on perusal of the entry extracted herein above, it is
+relevant to note that the service Exemption notification exempts the service of
+transfer of business as a going concern irrespective of the fact that such transfer
+qualifies as a slump sale or not.
+F.dvanc
+a
+t:i
+{
+*
+.lr*
+€
+*
+A.14. Further, the intent of ACN is to take over the business of seller. Transfer of
+goods is only incidental and undertaken to achieve this objective. Hence, transfer
+of business (service component) will be the principal supply of such composite
+supply. Hence, the transaction will be deemed as supply of service in terms of
+Sectlon 8 of the CGST Act.
+
+
+8
+B.3 The term 'going concern'is not defined under the CGST Act or rules framed there
+under. Thus, it is relevant to note the natural
+provided as under:
+meaning of the term which is
+' In Prem and saharay's ,udiciar Dictaonary of words and phrases, the
+term 'going concern' has been defined to mean'a business that is in actual
+operation and working order and transfer of ownership does not interrupt
+running of business,.
+' The cambridge Engrish Dictionary defines the term as,if a company is sord
+as a going concern, it is sold when it is operating normally,;
+8.4 on perusar of the above, it may be understood that the term ,going concern,
+means that at the point in time to which this description applies, the business is
+live or operating and has a[ parts and features necessary to keep it in operation.
+B'5 The applicant submits that similar exemption entry existed under the erstwhile
+Service Tax law. In the context of 'going concern,, para 7.11.15 of the Education
+Guide. GBEC (Now 'CBIC) provides that transfer of a running business. The same
+is extracted hereunder for reference:
+"Transfer of a going concern means transfer of a runntn
+fb
+ESS W ich is
+capabre of being carried on bv the prJrqhase!-_as an independent b,usioess but sha
+not-cover mere or predominant transfer of an activity comprising a service.,,
+8.6. Thus, the cBIc itself clarified that business shall be in running condition and
+capable of being carried out independentry for a business to quarify as a going
+concern.
+B'7 The Accounting and Auditing standards by the Institute of Chartered Accountants
+of India ('ICAI') provides the meaning of 'going concern, as an accounting concept
+that implies that the business would continue to exist and operate for an indefinite
+period in the future. Accounting standard (AS-1), issued by the ICAI exprained
+the concept of a going concern as under:
+"The enterprise is normalry viewed as a going concern, that is, as continuing in
+operation for the foreseeable future. It is assumed that the enterprise has neither
+the intention nor the necessity, of liquidation or of curtairing materialy the scare
+of the
+lons
+{o
+dv.:.r
+1A
+/$)
+E1
++
+Prade
+*
+G
+
+
+9
+8.8. In the present instance, the applicant is transferring all its fixed assets,
+inventories, customer base, existing LCOs and also supporting in transferring all
+LCOs through an agreement to ACN. All the rights received from broad casters to
+the applicant is also being transitioned to ACN which would enable ACN to run the
+business of provision and distribution of signals through various LCOs without any
+interruPtion.
+B.9. The applicant submits that it retains the existing liabilities and liabilities arising in
+future due to past relationships and employees due to presence of similar
+expertise and manpower with the purchaser having been in a slmilar business'
+8,10. At this juncture, a question arises as to whether non-transfer of liabilities and
+employees itself will impact the position of business being transferred as a going
+concern or whether any transfer of business in a running condition without
+interruption will qualify as a going concern'
+8.11, The applicant submits that non-passing off of past liabilities and employees will
+notrenderthebusinessasnotinthenatureofagoingconcern.Theparameters
+as laid down by several authorities discussed herein above is that the concept of
+transfer of business as going concern does not mandate transfer of all assets and
+tiabilities. The parties are free to choose the assets and liabilities which they wish
+to transfer but importantly the business must be capable of being carried on the
+basis of assets transferred.
+8.12 In other words, the most viral factor is the presence of broad casting signals,
+subscribers/customers,LCostotransmitthesignalsatthelastmilesubscriber
+and sTB devices for a cable operation business to run. Even if in few cases, the
+liabilities and employees do not get transferred, the businesses can independently
+function. In the present instance, the basic requirement to run the business is
+present. Various judicial precedents affirm the above view and are provided in the
+subsequent ParagraPhs.
+8.13. Various Advance Ruling Authorities of different states have taken a view on
+transferofbusinessasagoingconcerntomeantransferofarunningbusiness.
+The AAR, Karnataka in the case of Rajashri Foods Pvt' Ltd.,2018 (13) GSTL
+221(AAR-GST)adoptedasimilarratio,andheldthatSincethetransaction
+contemplates transfer of fully functional Unit with its entire business, there will be
+acontinuityinthebusiness.Therefore,suchtransfershallamounttotransferofa
+go
+concern and will get covered under entry 2 of the exemption notification'
+ts6vanc
+|9
+d*
+e
+
+
+10
+B'14. The AAR, Uttarakhand in case of rnnovative Textires Limited, 2019
+(24)GsrL 48o (AAR-Gsr) arso herd that, since the appricant is transferring its
+operationar business and the purchaser intends to carry on same kind of business,
+the applicant is supprying services by way of transfer of business as going
+concern.
+' Basis the above, the transfer of busrness in the present instance quarifies as
+'transfer of a going
+exemption Notification
+charge no tax upon it.
+6. Virtual Hearing:
+The proceedings of Hearing were conducted through video conference on 22nd
+october, 2020, for which the authorized representatives from, M/s. Nitya Tax
+Associates, Bengaruru attended and reiterated the submissions which were arready
+made earlier.
+7, Dascussion and Findings:
+We have examined the issues raised in the apprication. The taxabirity of the
+goods and services supplied or to be supplied. as governed under the provisions
+of respective GST Acts are examined to decide the question invorved in the
+present Ruling.
+The applicant intends to se, his cabre network operation business as Murti-system
+operator in the present operationar condition to the buyer M/s ACN private Limited,
+Bengaluru' Further the applicant stated that the business including the assets in the
+form of Set rop Boxes, Local cable operators and the end-users connected thereon
+get transferred to the buyer except the existing liabilities and liabilities arising out of
+past business and its emproyees, The forowing crauses of the business transfer
+agreement reveal the same.
+' Business'mean entire cabre operation business and incrudes arr rights and powers
+of any nature except any of the employees or liabilities. (Clause 1.2 )
+' 'Excruded riabirities'to mean aI debts, riabirities and obrigations rerating to the
+Business carried out on or before the crosing date (March 31,t, 2019) (crause
+1.s);
+B.l5
+*\
+anCO:-
+4,, \
+\":/"'\\a\t;I
+concern' sguarely falling under Sl.No.2 of the Service
+The applicant is required to raise a .Bill of supply, and
+o
+I
+ra Pi?
+D
+
+
+11
+. None oF the liabilities of any nature arising out of past business relations shall be
+transferred including but not limited to future payments, claims due and payable,
+tax liabilities, statutory liabilities(Clause 3.2);
+On perusal of the above facts, it is noticed that the applicant's Business as MSO
+sought to be sold is in functioning state and the transaction by virtue of the Business
+Transfer Agreement contemplates the sale of business to the purchaser, except any
+of the employees or liabilities and the purchaser intends to continue the same
+business.
+The term 'going concern' is defined nowhere in the CGST Act. Hence, the term is
+taken in its common parlance as used in trade. The running business, when sold in
+its entirety or a branch of the business, it is considered a going concern in lock,
+stock and barrel.
+Going concern is not included in the GAAP (Generally Accepted Accounting
+Principles) but included in the GAAS (Generally Accepted Auditing Standards).
+Accounting standards determine what a company disclose on its financial
+statements if there are doubts about it's ability to continue as a going concern.
+Conditions that lead to substantial doubt about going concern include the
+following like negative trends in operating results, continuous losses from one
+period to next, loan defaults, lawsuit against a company, and denial of credlt by
+suppliers. Moreover, transfer of a going concern means transfer of a running
+business which is capable of being carried on by the purchaser as an
+independent business. Such transfer of business as a whole will comprise
+comprehensive transfer of immovable property, goods and transfer of
+unexecuted orders, employees, goodwill etc.,
+The concept of transferring a company as a 'going concern' was examined by the
+Delhi High court in the land mark judgement of lnre Indo Rama Textile Limited
+(2013) 4 Comp U 141 (Del). In this case the Delhi High Court held that a company
+is said to be transferred as a'going concern'when the assets and liabilities being
+transferred constitute a business activity capable of being run independently for a
+/
+
+
+L2
+foreseeable future. The Supreme Court in Allahabad Bank Vs. ARC Holding AIR
+2000 SC 3098 (Allahabad Bank case) held that if the company is sold off as a '9oin9
+concern', then along with the assets of the company, if there are any liabilities
+relevant to the business or under taking, the liabalaties too are transferred.
+In view of the judicial precedents as mentioned above it is evidently ctear that the
+transaction of'transfer of business' in the instant case does not fit in the definition
+of a'going concern' in the context of exclusion of liabilities.
+Hence, the entry at serial No.2 of the chapter 99 of the Notification No.t2l2Ol7-
+Central Tax (Rate) dated 28.06.2017 prescribing the rate of tax for .the services
+by way of transfer of a going concern as a whole or an independent part there of,,
+as "NIL" rated. is not applicable to the present case.
+In view of the observations stated above, the following ruling is issued.
+RULING
+(Under Sectaon 98 of Central Goods and Services Tax Act, 2Ol7 and the
+Andhra Pradesh Goods and Services Tax Act, 2O17)
+Question: Whether Sl.No.2 of the Notification No.1212017 - Central Tax (Rate)
+dated June 28'n, 2Ol7 ('service Exemption Notification,) granting
+exemption to'Services by way of transfer of a going concern as a whole
+or an independent part thereof is applicable on the business transfer
+undertaken in the present instance?
+Answer: Negative.
+Sd/-D, Ramesh
+Member
+Sdl-A. Syam Sundar
+Member
+CH
+Deputy Commissioner (ST)
+/ /t.c.f .b.o/ /
+PEP-Yil coMMtSstoNEF (S7)
+k. 
+O o Chief Commissioner of Statc Tar,
+y/ ttovetnmenl of A,p. Vijayawada
+TO
+1. M/t. SCV Sky Vision, D.No.1B/2/268/15/tA, Abbanna Colony, Abbanna Towers,
+Tir
+oor. Andhra Pradesh-517501(By Registered post)
+VanC o
+0.t
+*
+ra Pl?
+4i"
+
+
+13
+Copy to
+1. The Assistant commissioner of state Tax, Tirupati-I circle, Chittoor Division.(By
+Registered Post)
+2. The Superintendent, central rax, CGST Tirupati-3 Range, Tirupati Division.(By
+Registered Post)
+Copy submitted to
+1. The Chief Commissioner (State Tax), o/o chief commissioner of state Tax,
+Eedupugallu, Vijayawada, (A.P)
+2. The Chief commissioner (Central rax), o/o chief Commissioner of central tax &
+Customs, Visakhapatnam Zone, GST Bhavan, port area, Visakhapatnam-
+530035.A.P. (By Registered Post)
+Note: under section 1o0 of the APGsr Act 2017, an appeal against this ruling
+lies before the Appellate Authority for Advance Ruling constituted under
+Section 99 of APGST Act, 2017, with in a period of 30 days from the date
+of service of this order.
+o
+li!+
+tr
+P

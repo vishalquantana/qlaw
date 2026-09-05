@@ -1,0 +1,537 @@
+1 | P a g e  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TELANGANA STATE AUTHORITY FOR ADVANCE RULING 
+CT Complex, M.J Road, Nampally, Hyderabad-500001. 
+(Constituted under Section 96(1) of TGST Act, 2017) 
+ 
+ 
+ 
+ 
+ 
+  Present: 
+ 
+                 Sri J. Laxminarayana, Additional Commissioner(Grade-I) (State Tax) 
+ 
+                 Sri B. Raghu Kiran, IRS, Joint Commissioner (Central Tax) 
+ 
+ 
+ 
+A.R.Com/26/2018 
+Date.24-6-2020 
+ 
+TSAAR Order No.05/2020 
+ 
+(Under Section 100(1) of the CGST/TGST Act, 2017, any person aggrieved by 
+this order can prefer an appeal before the Telangana State Appellate Authority for 
+Advance Ruling, Hyderabad, within 30 days from the date of receipt of this Order) 
+***** 
+1. 
+M/s. Daicel Chiral Technologies (India) Private Limited, Lab 4A, Phase –III, 
+ICICI Knowledge Park, Genome Valley, Turkapally Village, Shamirpet Mandal, 
+Medchal–MalkajgiriDist, 
+Hyderabad-500101, 
+Telangana, 
+(GSTIN 
+No. 
+36AACCD8423B1Z1) have filed an application in FORM GST ARA-01 under Section 
+97(1) of TGST Act, 2017 read with Rule 104 of CGST/TGST Rules, seeking Advance 
+Ruling with regard to tax implication in respect of supply of certain services 
+mentioned in their application. 
+ 
+2. 
+At the outset, it is made clear that the provisions of both the CGST Act and 
+the TGST Act are the same except for certain provisions. Therefore, unless a mention 
+is specifically made to any dissimilar provisions, a reference to the CGST Act would 
+also mean a reference to the same provision under the TGST Act. Further to the 
+earlier, henceforth for the purposes of this Advance Ruling, the expression ‘GST Act’ 
+would mean CGST Act and TGST Act. 
+ 
+3. 
+It is observed that the queries raised by the applicant fall within the ambit of 
+Section 97(2) (d) of the GST ACT. The Applicant enclosed copies of challans as proof 
+of payment of Rs. 5,000/- for SGST and Rs. 5000/- for CGST towards the fee for 
+Advance Ruling. The Applicant has declared that the questions raised in the 
+application have neither been decided by nor are pending before any authority under 
+any provisions of the GST Act. The application is therefore, admitted. 
+ 
+ 
+4. 
+Brief facts of the case:  
+The facts, in brief, that were reported by the applicant in their application are 
+as follows: 
+ 
+a. 
+M/s. Daicel Chiral Technologies (India) Private Limited(hereinafter 
+referred to As ‘Applicant’ or ‘Company’), Turkapally, Medchal–Malkajgiri 
+Dist, Hyderabad is a subsidiary of Daicel Chemical Industries Ltd, Japan. 
+b. 
+The company is engaged in providing Pharmaceutical Research & 
+Development services. These services involve preparative separation and 
+analysis of pharmaceutical compounds which are commonly referred to 
+as ‘chromatography services’. They classified chromatography services 
+under the head ‘technical Testing and Analysis Services’ (SAC No. 
+998346) which are liable to GST @18%. The Company is registered under 
+
+
+2 | P a g e  
+ 
+the GST Act vide registration No. 36AACCD8423B1Z1(Registration 
+Certificate enclosed as Exhibit 1).  
+c. 
+In order to render such services, the applicant requires a lab where such 
+separation and analysis services can be performed. Currently, the 
+applicant is rendering such chromatography services from their premises 
+located at Lab 4A, Phase-II, IKP knowledge Park, Genome Valley, 
+Turkapally Village, Shamirpet Madal, Medchal-Malkajgiri dist, Hyderabad 
+500 10. The applicant had to acquire a new premise on lease to cater to 
+the growing demand for services. 
+d. 
+Accordingly, the applicant acquired land on lease from M/s. IKP 
+Knowledge Park (lessor) for a period of 33 years and executed a lease 
+deed(copy enclosed as Exhibit 2).As per the terms of the lease, the 
+applicant is required to pay one-time lease premium at the beginning of 
+the lease and also annual lease rentals at the end of every year to the 
+lessor for 33 year. In addition to the above the applicant is also required 
+to pay maintenance charges for the leased premises. The Lessor has 
+classified the lease services rendered by him under ‘Rental or Leasing 
+services involving own or leased non-residential property’ having Service 
+Account Code (SAC) as 997212. The lessor has collected GST@18% (i.e. 
+SGST 9% +CGST 9%) on one time lease premium (invoices raised by 
+lessor enclosed as Exhibit 3). Further, at the end of the year, the lessor 
+will also be required to pay GST on the Annual Lease Charges and 
+maintenance charges at the applicable GST rates.  
+ 
+5. 
+Questions raised:  
+With the above background, the applicant raised the following queries: 
+i) 
+Whether the applicant is eligible to avail input tax credit of GST paid 
+on payment of “lease premium charges (one-time charges)” towards 
+land lease for business purpose? 
+ii) Whether the applicant is eligible to avail input tax credit of GST paid 
+on “annual lease rentals” (recurring) towards supply of land on lease 
+for business purpose? 
+iii) Whether the applicant is eligible to avail input tax credit of GST paid 
+on “maintenance charges” collected by the lessor?  
+ 
+6. Applicant's interpretation of law and facts: 
+ 
+1) The eligibility and conditions to take input tax credit of Central Goods and 
+Service Tax (‘CGST’) and State Goods and Services Tax (‘SGST’) have been 
+prescribed under Section 16 of Central Goods and Services Tax Act, 2017 
+('CGST Act') and Section 16 of Telangana State Goods and Services Tax, Act 
+2017 ('SGST Act') respectively. Section 16(1) of CGST Act and SGST Act 
+allows a registered person to take credit of input tax charged on any supply 
+of goods or services to him which are used or intended to be used in the 
+course or furtherance of his business. Therefore, in order to avail credit, 
+the person should be a 'registered person' and the services supplied to him 
+should be used in the course or furtherance of his business. 
+2) Their unit is registered under the GST Act having a valid GSTIN as 
+36AACCD8423B1Z1. They have availed credit of CGST and SGST on 
+supply of leasing services to them by the Lessor for the land acquired on 
+lease. The land so acquired on lease will be used by them in rendering the 
+Chromatography services from the lab to be constructed on the land. 
+Thus, they are a registered person and have taken input tax on services 
+which are used in the course of his business. Therefore, they are eligible 
+to avail the credit of CGST and SGST paid on lease charges to the lessor. 
+3) The input service has been defined in section 2(16) the CGST Act, 2017 
+and SGST Act, 2017 as follows: 
+ 
+“input service” means any service used or intended to be used by a 
+supplier in the course or furtherance of his business. 
+ 
+
+
+3 | P a g e  
+ 
+The definition of input service is inclusive and not exhaustive. The statute 
+has enlarged the scope of input services by the usage of the word “any 
+service”. The definition does not provide for only specific activity relating 
+to supply. Thus, all input services used in activities in relation to or for 
+furtherance of business are ‘input services’, whatever may be its purpose. 
+When it is so used, these words and phrases must be construed as 
+comprehending not only such things as they signify according to their 
+nature and import, but also those things which the interpretation clause 
+declares that they shall include. The definition of input service seeks to 
+cover every conceivable service used in provision of outward supply. 
+Therefore, the charges for lease of land is an input services in terms of 
+section 2(16) of the CGST Act, 2017 and SGST Act, 2017. 
+4) The word "business" is to be understood as continuous activity and not 
+confined or restricted to mere manufacture of the product or provision of 
+a service. Activities in relation to the business cover all activities that are 
+related to the functioning of the business. Words "in the course or 
+furtherance" 
+further 
+widens 
+the 
+scope. 
+The 
+functions 
+primarily 
+encompass the entire gamut of activities involved in the process of 
+manufacture of goods or provision of service. The other functions are in 
+the realm of obligations – some self imposed and others by way of laws 
+enacted for the welfare of the working class. The definition of ‘input 
+services' clearly highlights the dichotomy of multifarious functions any 
+business organization is required to undertake while pursuing their 
+objectives. Therefore, it is apparently clear that the lease charges paid for 
+land has been used in course of business and eligible for input credit 
+under section 16(1) of the CGST Act, 2017 and SGST Act, 2017. 
+5) GST is basically value added tax, which, in turn, is a destination based 
+consumption tax. It is a consumption tax which ultimately must be borne 
+by the consumer. It is operative through credit mechanism wherein the 
+input relief is to neutralize cascading effect of tax. A " consumption tax"  
+derives its name from the fact that tax burden is ultimately  borne by the 
+final consumer and business does not bear the burden of the tax, since 
+the business are allowed to take credit of tax paid on inputs 
+supplied/received by them. If therefore input credit is denied to the input 
+service received by the assessee, they will become burden to the assessee, 
+which is against the very grain or principle of GST being a consumption 
+tax. Therefore, they are eligible to avail input credit of GST paid on lease 
+charges of land.  
+6) Section 16(2) of CGST Act and SGST Act lays down the pre-conditions to 
+avail input tax credit. The conditions prescribed under Sec 16(2) of the 
+Act are as follows: 
+ 
+a) Possession of Tax Invoice: They are in possession of tax invoice issued 
+by the lessor. 
+ 
+b) Receipt of Services: They entered into a lease agreement for 33 years 
+with the lessor vide Lease Agreement dated 17th August 2017. 
+Accordingly, the effective date of commencement of lease is 17th 
+August, 2017. They have the legal right over the land and are in 
+possession of land with effect from 17th August 2017 and as such 
+they are in receipt of services. 
+ 
+c) Payment of tax: They have already paid tax to the lessor and the 
+payment of tax by the lessor to the Government is evident from the 
+copy of GSTR-2A returns. The screenshot of the GSTR 2A return 
+available online was enclosed as Exhibit 4. 
+ 
+d) Furnishing of return: They have filed the prescribed monthly return 
+within due date in form GSTR-3B returns for the respective months. 
+The copy of GSTR – 3B return filed was enclosed as Exhibit 5. Thus, 
+
+
+4 | P a g e  
+ 
+they have complied with the conditions to avail the credit and therefore 
+they are eligible to avail input tax credit. 
+ 
+7) Section 17(5) of the CGST Act, 2017 and SGST Act,2017 provides the list 
+of input services on which input credit is not available. Section 17(5) of 
+the CGST Act, 2017 and SGST Act, 2017 is reproducedbelow for your 
+ready reference. 
+ 
+“(5) Notwithstanding anything contained in sub-section (1) of section 16 
+and subsection (1) of section 18, input tax credit shall not be available in 
+respect of the following, namely:— 
+ 
+(a) motor vehicles and other conveyances except when they are used – 
+(i) for making the following taxable supplies, namely:— 
+(A) further supply of such vehicles or conveyances ; or 
+(B) transportation of passengers; or 
+(C) imparting training on driving, flying, navigating such vehicles or 
+conveyances; 
+(ii) for transportation of goods; 
+(b) the following supply of goods or services or both:— 
+(i) food and beverages, outdoor catering, beauty treatment, health 
+services, cosmetic and plastic surgery except where an inward 
+supply 
+of goods or services or both of a particular category is used by a 
+registered person for making an outward taxable supply of the 
+same category of goods or services or both or as an element of a 
+taxable composite or mixed supply; 
+(ii)  membership of a club, health and fitness centre; 
+(iii) rent-a-cab, life insurance and health insurance except where –– 
+(A) the Government notifies the services which are obligatory for an 
+employer to provide to its employees under any law for the time 
+being in force; or 
+(B) such inward supply of goods or services or both of a particular 
+category is used by a registered person for making an outward 
+taxable supply of the same category of goods or services or both 
+or as part of a taxable composite or mixed supply; and 
+(iv) travel benefits extended to employees on vacation such as leave 
+or home travel concession; 
+ 
+(c) works contract services when supplied for construction of an immovable 
+property (other than plant and machinery) except where it is an input 
+service for further supply of works contract service; 
+ 
+(d) goods or services or both received by a taxable person for construction 
+of an immovable property (other than plant or machinery) on his own 
+account including when such goods or services or both are used in the 
+course or furtherance of business. 
+ 
+Explanation.––For the purposes of clauses (c) and (d), the expression 
+“construction” 
+includes 
+re-construction, 
+renovation, 
+additions 
+or 
+alterations or repairs, to the extent of capitalisation, to the said 
+immovable property; 
+ 
+(e) goods or services or both on which tax has been paid under section 10; 
+(f) goods or services or both received by a non-resident taxable person 
+except on goods imported by him; 
+(g) goods or services or both used for personal consumption; 
+(h) goods lost, stolen, destroyed, written off or disposed of by way of gift 
+or free samples; and 
+(i) any tax paid in accordance with the provisions of sections 74, 129 
+and130.” 
+
+
+5 | P a g e  
+ 
+ 
+8) GST paid by them on the lease charges doesn’t get covered in the 
+ineligible list of input services as reproduced above. Moreover, the Hon'ble 
+Supreme Court in Bajaj Tempo Ltd. Mumbai v. CIT (1992) (copy enclosed 
+as Exhibit 6) observed that while interpreting the statute, provision 
+granting incentives for promoting economic growth and development 
+should be liberally construed. Restriction placed on it by way of exception 
+should be construed in a reasonable and purposive manner so as to 
+advance the objective of the provision. Therefore, the leasing service 
+received by them is not an ineligible input service and they have rightfully 
+availed services on the same. 
+ 
+9) Schedule III of CGST Act 2017 provides the list of activities or 
+transactions which shall neither be treated as a supply of goods nor a 
+supply of services. Clause 5 of Schedule III includes sale of land or 
+building and as such sale of land will be regarded as outside the scope of 
+GST. The activity of leasing of land is not included in Schedule III of Act 
+and as such the activity of leasing of land amounts to Supply under 
+Section 7 of the Act. Further, the activity of leasing of land has specifically 
+been included in Schedule II of GST Act as supply of service and is thus 
+liable to GST. In order to substantiate the same the Applicant would like 
+to refer the recent judgement by Hon’ble High Court of Bombay in 
+Builders Association of Navi Mumbai & Anr. Vs. Union of Indi and Ors 
+[TS-108-HC-2018 (BOM) – NT] wherein the Hon’ble High Court held that 
+ 
+“……expression “supply” includes all forms of supply of goods 
+and/or services made or agreed to be made for a consideration by 
+a person in the course or furtherance of business, and activities 
+enlisted under Schedule II either as supply of goods or services 
+would also be included therein;…. As per Schedule II of CGST Act 
+(Item No. 2), any lease, tenancy, license to occupy land and lease / 
+letting out of a building for business is a supply of ‘service’,… 
+“Once this law, in terms of the substantive provisions and the 
+Schedule, treats the activity as supply of goods or supply of 
+services, particularly in relation to land and building and includes a 
+lease, then, the consideration therefor as a premium/one-time 
+premium is a measure on which the tax is levied, assessed and 
+recovered.”; …… it is entirely for the legislature to exercise powers 
+conferred by Section 7(2) of CGST Act and issue requisite 
+Notification sans which, merely going by status of CIDCO, it cannot 
+be held that lease premium would not attract / invite liability to pay 
+GST; 
+In view of the above judgement, it is clear that the activity of leasing of 
+land is liable to GST as supply of service and accordingly, they are eligible 
+to avail the GST levied by the lessor on supply of land on lease. 
+ 
+10) Thus, in the absence of any restriction on availment of credit under the 
+GST Act on tax paid on leasing of land service and fulfilment of all the 
+conditions to avail credit, they are eligible to avail credit of CGST and 
+SGST paid to lessor on acquiring land on lease for business activities. 
+ 
+7. 
+Personal Hearing: 
+ 
+A personal hearing was held on 20-12-2019 at 03.00 P.M. Sri Srikanth 
+Balakrishnanan 
+(F.C.A), 
+Authorized 
+Representative 
+along 
+with 
+Sri 
+K. 
+Sivaraman(ACA), Authorized Representative of M/s. Daicel Chiral Technologies 
+(India) Private Limited appeared for the personal hearing. They reiterated the facts 
+mentioned above and sought for clarifications in respect of the queries raised in 
+their application. 
+ 
+
+
+6 | P a g e  
+ 
+8. Discussion & Findings: 
+ 
+8.1 
+We have considered the submissions made by the applicant in their 
+application for advance ruling as well as at the time of personal hearing. The 
+applicant vide their application sought for clarification as to whether  they are 
+eligible to avail input tax credit of GST charged on (i) Lease Premium Charges; (ii) 
+Annual Lease Rentals & (iii) Maintenance Charges paid to lessor towards land lease. 
+To resolve the same, provisions relating to input tax credit as laid down under CGST 
+Act, 2017 need to be perused. 
+ 
+8.2. Sections 16 to 19 of the CGST Act, 2017 contain the provisions relating to 
+allowance of Input Tax Credit subject to the conditions stipulated there under. Sec. 
+16(1) allows every registered person to take credit of input tax charged on any 
+supply of goods or services or both to him which are used or intended to be used in 
+the course or furtherance of his business subject to such conditions and restrictions 
+as may be prescribed. 
+ 
+8.3. Sec. 17(5) of the Act lists the circumstances wherein input tax credit in r/o 
+goods/services shall not be available. It is pertinent to note that Sec.17(5) starts 
+with the phrase ‘notwithstanding anything contained in Section 16(1)’ which 
+facilitates Sec. 17(5) to override the provisions of Sec. 16(1). Thus the pervasive 
+domain of goods/services provided for under Sec. 16(1) was abridged by Sec 17(5)by 
+specifying the situations wherein input tax credit in respect of certain 
+goods/services has been restricted.   
+ 
+8.4. At this juncture, it is relevant to refer to clause (d) Sec. 17(5) which is 
+reproduced hereunder:  
+(d) goods or services or both received by a taxable person for construction of an 
+immovable property (other than plant or machinery) on his own account 
+including when such goods or services or both are used in the course or 
+furtherance of business. 
+ 
+Explanation. — For the purposes of clauses (c) and (d), the expression 
+“construction” includes re-construction, renovation, additions or alterations or 
+repairs, to the extent of capitalisation, to the said immovable property; 
+ 
+It may be observed from the above legal provision that input tax credit is barred in 
+r/o goods or services used for construction of immovable property (other than plant 
+or machinery) including when such goods or services are used in the course or 
+furtherance of business. The term immovable property has not been defined under 
+the GST Act. Nevertheless, Sec. 3(26) of the General Clauses Act, 1897 defines 
+“immovable property” as under: 
+ 
+“immovable property” shall include land, benefits to arise out of land, and 
+things attached to the earth, or permanently fastened to anything attached to 
+the earth.” 
+ 
+As may be observed from the above, the definition of “immovable property” is an 
+inclusive definition and includes all the things attached to the earth or permanently 
+fastened to anything attached to the earth. 
+ 
+8.5. Now, coming to the case on hand, it is not under dispute that the “lease 
+premium charges”, “annual lease rentals” and “maintenance charges” are paid by 
+the applicant to the lessor towards lease of land. It is manifest from the terms and 
+conditions of the lease agreement dated 17.08.2017 that the applicant acquired land 
+from M/s IKP Knowledge Park on lease for the purpose of construction of a building 
+where their own laboratory would be accommodated.  This is self evident from 
+clause 5 of the agreement. It has been reported by the applicant that the lessor has 
+paid GST on lease premium charges at the rate of 18% (9% CGST + 9% SGST) 
+treating them as services. The applicant will also be required to pay GST on the 
+
+
+7 | P a g e  
+ 
+“annual lease charges” and “maintenance charges” which are in the nature of 
+services. 
+ 
+8.6. We opine and it is also not disputed that the ‘building’ constructed by the 
+applicant unquestionably falls within the ambit of ‘immovable property’ in terms of 
+the definition of the ‘immovable property’ mentioned supra. Further, as per the 
+agreement, the building after completion of construction would be utilised by the 
+applicant for their own utility to accommodate a laboratory which carries out 
+chromatography services rendered by them. Thus, it is established that the referred 
+services have been received by the applicant for the purpose of construction of 
+immovable property on  their own account. 
+ 
+8.7. It is further observed that the restriction stipulated under Sec. 17(5) (d) is not 
+applicable to the goods and services used for construction of “plant and machinery”. 
+To examine as to whether “building” falls under the category of “plant and 
+machinery”, reference has to be made to the explanation appended to Sec. 17(5) 
+which defines the term “plant & machinery”  in the following  manner:  
+ 
+Explanation.—For the purposes of this Chapter and Chapter VI, the expression 
+“plant and machinery” means apparatus, equipment, and machinery fixed to 
+earth by foundation or structural support that are used for making outward 
+supply of goods or services or both and includes such foundation and structural 
+supports but excludes — 
+(i) land, building or any other civil structures; 
+(ii) telecommunication towers; and 
+(iii) pipelines laid outside the factory premises. 
+ 
+From the above definition, it is obvious that ‘plant and machinery’ excludes building 
+from its purview.  
+ 
+8.8 
+From the above discussion, it clearly emerges that all the referred services are 
+received by applicant for construction of immovable property (other than plant & 
+machinery) on their own account.  The exclusion clause 17(5)(d) shows that the 
+exclusion is applicable including when such services are used in the course or 
+furtherance of business which is the claim of the applicant. Thus, the referred 
+services in the instant case and in the given facts, squarely fall under the exclusion 
+vide Sec. 17(5)(d) and hence ineligible to ITC. The various contentions put forth and 
+case laws cited by the applicant are found to be either not relevant or pertain to 
+distinguishable facts/situations when compared with the facts in the instant case as 
+above and hence inapplicable.   
+ 
+8.9. Accordingly, we hold that the impugned services referred by the applicant 
+have been received for construction of immovable property on their own account and 
+therefore input tax credit on those services is barred under the provisions of clause 
+(d) of Sec. 17(5).   
+ 
+ 
+Advance Ruling 
+9. In view of the observations stated above, the following rulings are issued : 
+ 
+Q1. 
+Whether the applicant is eligible to avail 
+input tax credit of GST paid on payment of 
+Lease Premium Charges (one-time charges) 
+towards land lease for business purpose? 
+ 
+Ans: No. the applicant is not 
+eligible to avail input tax credit of 
+GST paid on payment of Lease 
+Premium 
+Charges 
+(one-time 
+charges) towards land lease. 
+Q2. Whether the applicant is eligible to avail 
+input tax credit of GST paid on annual Lease 
+rentals (recurring) towards supply of land on 
+lease for business purpose? 
+ 
+Ans: No. The applicant is not 
+eligible to avail input tax credit of 
+GST paid on annual Lease rentals 
+(recurring) towards supply of land 
+on lease. 
+
+
+8 | P a g e  
+ 
+Q3. 
+Whether the applicant is eligible to avail 
+input tax credit of GST paid on maintenance 
+charges collected by the lessor?  
+Ans: No. The applicant is not 
+eligible to avail input tax credit of 
+GST paid on maintenance charges 
+collected by the lessor 
+ 
+ 
+       Sd/- J. Laxminarayana 
+Sd/- B. Raghu Kiran 
+ADDL. COMMISSIONER (State Tax )              JOINT COMMISSIONER (Central Tax)        
+ 
+To 
+M/s. Daicel Chiral Technologies (India)  
+Private Limited, Lab 4A, Phase –III,  
+IKP Knowledge Park, Genome Valley,  
+Turkapally Village, Shamirpet Mandal,  
+Medchal –Malkajgiri Dist,  
+Hyderabad-500 101, Telangana. 
+ 
+Copy submitted to : 
+1. The Commissioner (State Tax) for information. 
+ 
+Copy to: 
+1. The Joint Commissioner (State Tax), Saroornagar. 
+2. The Assistant Commissioner(State Tax), Keesara 1 Circle.

@@ -1,0 +1,465 @@
+Page 1 of 12 
+ 
+WEST BENGAL AUTHORITY FOR ADVANCE RULING 
+GOODS AND SERVICES TAX 
+14 Beliaghata Road, Kolkata – 700015 
+(Constituted under section 96 of the West Bengal Goods and Services Tax Act, 2017) 
+ 
+Members present: 
+Mr Brajesh Kumar Singh, Joint Commissioner, CGST & CX 
+Mr Joyjit  Banik, Senior Joint Commissioner, SGST 
+Preamble 
+A person within the ambit of Section 100 (1) of the Central Goods and Services Tax Act, 
+2017 or West Bengal Goods and Services Tax Act, 2017 (hereinafter collectively called „the 
+GST Act‟), if aggrieved by this Ruling, may appeal against it before the West Bengal 
+Appellate Authority for Advance Ruling, constituted under Section 99 of the West Bengal 
+Goods and Services Tax Act, 2017, within a period of thirty days from the date of 
+communication of this Ruling, or within such further time as mentioned in the proviso to 
+Section 100 (2) of the GST Act.  
+Every such appeal shall be filed in accordance with Section 100 (3) of the GST Act and the 
+Rules prescribed thereunder, and the Regulations prescribed by the West Bengal Authority 
+for Advance Ruling Regulations, 2018.  
+Name of the applicant 
+Purple Distributors Pvt Ltd 
+Address 
+Ground Flour, 10 Ganesh Chandra Avenue, Kolkata, Pin 
+Code 700013 
+GSTIN 
+19AADCP1474B1ZN 
+Case Number 
+WBAAR 18of 2022 
+ARN 
+AD190722000380J 
+Date of application 
+July, 05 2022 
+Jurisdictional Authority (State) 
+Princep Street Charge 
+Jurisdictional Authority (Central) 
+BBD Bag II Division, Kolkata North Commisssionerate 
+Order number and date 
+17/WBAAR/2022-23 dated 22.12.2022 
+Applicant’s representative heard 
+Mr.  Shubham Khaitan, C.A, Authorized Representative 
+Mr. Nishant Baid, C.A. Authorized Representative 
+ 
+
+
+Page 2 of 12 
+ 
+1.1 At the outset, we would like to make it clear that the provisions of the Central Goods and 
+Services Tax Act, 2017 (the CGST Act, for short) and the West Bengal Goods and Services 
+Tax Act, 2017 (the WBGST Act, for short) have the same provisions in like matter except for 
+certain provisions. Therefore, unless a mention is specifically made to such dissimilar 
+provisions, a reference to the CGST Act would also mean reference to the corresponding 
+similar provisions in the WBGST Act. Further to the earlier, henceforth for the purposes of 
+these proceedings, the expression „GST Act‟ would mean the CGST Act and the WBGST 
+Act both.                          
+ 
+1.2 The applicant, on being awarded a sub-contract from M/s Patil Rail Infrastructure Pvt. 
+Ltd., undertakes the work of conversion of Short Welded Rails (“SWR”) to Long Welded 
+Rails (“LWR”) by Flash Butt Welding process on the tracks running from Furkating (FKG)-
+Jorhat (JTTN)-Mariani (MXN), in the state of Assam. The work also includes supply of all 
+assistance of labour for welding of rail joints.  
+1.3 The applicant has made this application under sub section (1) of section 97 of the GST 
+Act and the rules made there under raising following questions vide serial number 14 of the 
+application in FORM GST ARA-01: 
+ 
+a. Whether the services provided by the applicant is that of a works contractor, falling under 
+any of the entries under Heading 9954? 
+b. If the answer to (a) is yes, then the Sr. No under which it should be classified. 
+c. Whether the services provided by the applicant is that of a Job Worker, falling under 
+Heading 9988 [(Manufacturing services on physical inputs (goods) owned by others) Sr. 
+No26 (id) i.e Services by way of job work other than 78b[(i), (ia), (ib), (ic) and (ica)] 
+above; having tariff rate of 12% under Notification No. 11/2017-Central Tax (Rate) as 
+amended. 
+d. If the services do not fall under any of the above categories, what should be the HSN 
+code and GST rate? 
+ 
+1.4 The aforesaid question on which the advance ruling is sought for is found to be covered 
+under clause (a) of sub-section (2) of section 97 of the GST Act. 
+ 
+1.5 The applicant states that the question raised in the application has neither been decided 
+by nor is pending before any authority under any provision of the GST Act. 
+1.6 The officer concerned from the Revenue has raised no objection to the admission of the 
+application. 
+
+
+Page 3 of 12 
+ 
+1.7 The application is, therefore, admitted. 
+ 
+2. Submission of the Applicant 
+2.1 The applicant submits that pursuant to a contract awarded to M/s Patil Rail Infrastructure 
+Pvt. Ltd, (hereinafter referred to as the “principal contractor”) by the Engineering Department 
+of Northeast Frontier Railway for conversion of Short Welded Rails (“SWR”) to Long Welded 
+Rails (“LWR”) by Flash Butt Welding process, it has entered into an agreement with the said 
+principal contractor to execute the said contract job on the tracks running from Furkating 
+(FKG)-Jorhat (JTTN)-Mariani (MXN), in the state of Assam. 
+ 
+2.2 The nature of work being undertaken by the applicant is stated to be as follows: 
+2.2.1 A SWR consists of just two or three rail tracks welded together whereas a LWR is 
+anything longer. The split between two SWR is generally after 36 meters and in case of 
+LWR, the split is generally after 250 meters. 
+2.2.2 The Indian Railways is converting SWR to LWR for the numerous benefits it has to 
+offer.  
+i. 
+The reduced number of joints provide good quality ride. 
+ii. 
+There is minimized wear of rail at joints.  
+iii. 
+LWR increases the life of rail and reduces the cost of maintenance. 
+iv. 
+Expansion effect due to temperature is reduced. 
+2.2.3 The SWR would be converted into LWR by the applicant by the process of Flash Butt 
+Welding (FBW). FBW is a type of resistance welding that does not use any filler metals. The 
+pieces of metal to be welded are set apart at a predetermined distance based on material 
+thickness, material composition, and desired properties of the finished weld. Current is 
+applied to the metal and the gap between the two pieces creates resistance and produces 
+the arc required to melt the metal. Once the pieces of metal reach the proper temperature, 
+they are pressed together, effectively forge welding them together. Thus, the process of 
+welding does not require any use of materials. 
+ 
+2.3 The applicant submits that only welding services are provided by them by using Flash 
+Butt Welding Machine on railway tracks which can be easily detachable from the earth 
+without any damage and no goods are transferred in the services involved. In view of the 
+nature of activities being carried out by the applicant, it is contended that the services 
+
+
+Page 4 of 12 
+ 
+provided by the applicant should not be treated as works contract and hence not classifiable 
+under any of the entries under Heading 9954. 
+ 
+2.4 The contention of the applicant is enumerated as under: 
+ 
+According to the applicant, a contract would be treated as a “works contract” if there 
+is a transfer of property in goods along with services which lead to creating of 
+immovable property. Clause (119) of section 2 of the GST Act defines the term 
+„works contract‟ which reads as follows:  
+ 
+“works contract” means a contract for building, construction, fabrication, completion, 
+erection, installation, fitting out, improvement, modification, repair, maintenance, 
+renovation, alteration or commissioning of any immovable property wherein transfer 
+of property in goods (whether as goods or in some other form) is involved in the 
+execution of such contract. 
+ 
+ 
+Further, clause (52) of section 2 defines the term „goods‟ as under: 
+“Goods” means every kind of movable property other than money and securities but 
+includes actionable claim, growing crops, grass and things attached to or forming 
+part of the land which are agreed to be severed before supply or under a contract of 
+supply. 
+  
+ 
+However, the term “immovable property” has not been defined under the GST law. 
+Therefore, references may be drawn to other laws and judicial precedents in this 
+regard which are as follows: 
+ 
+o Section 3(26) of General Clauses Act, 1897 defines immovable property as 
+under: 
+"immovable property shall include land, benefits to arise out of land and things 
+attached to the earth, or permanently fastened to anything attached to the earth.” 
+o Section 2(6) of The Registration Act, 1908 defines immovable property as 
+under: 
+"Immovable Property" includes land, buildings, hereditary allowances, rights to ways, 
+lights, ferries, fisheries or any other benefit to arise out of land, and things attached to 
+the earth, or permanently fastened to anything which is attached to the earth, but not 
+standing timber, growing crops nor grass;” 
+ 
+
+
+Page 5 of 12 
+ 
+ 
+In the case of Solid and Correct Engineering Works [2010 (252) E.L.T. 481 (S.C.)], 
+the Hon‟ble Supreme Court of India has laid down following principles: 
+o Immovable property involves permanent fixing, embedding or attachment in 
+the sense that would make the machine a part and parcel of the earth 
+permanently. 
+o Where attachment is easily detachable from the foundation, it is not 
+permanent. 
+o If it can be dismantled without causing substantial damage to the asset, it is a 
+movable property 
+ 
+2.5 The applicant further argues that the services provided by them would qualify as job 
+work as defined in clause (68) of section 2 of the GST Act which reads as follows: 
+ 
+ 
+“job work” means “any treatment or process undertaken by a person on goods 
+belonging to another registered person and the expression “job worker” shall be 
+construed accordingly; 
+ 
+2.6 The applicant submits that the goods (rail tracks) sent by the principal contractor are the 
+property of the Indian Railways. As both the principal contractor and the Indian Railways are 
+registered under the GST Act and the treatment or process of welding has only been carried 
+out on such goods (rail tracks) to convert from SWR to LWR, the said services provided by 
+them would fall under the ambit of job work.  
+ 
+2.7 In course of personal hearing, the authorized representatives of the applicant request to 
+consider following questions: 
+ 
+Whether the supply of labour for the process of welding would be considered as a 
+standalone supply or ancillary to the composite supply of welding? What should be 
+the rate of tax and classification of such labour supply? 
+The applicant, with reference to aforesaid questions, submits that the supply of labour 
+services provided by them along with the job work services should be considered as a 
+composite supply as these supplies are naturally bundled in this industry for which the 
+principal supply would be that of the job work whereas labour supply would be ancillary. 
+Hence, the rate of GST would be the same as that of job work. 
+ 
+  
+ 
+
+
+Page 6 of 12 
+ 
+2.8 In the light of aforesaid arguments, the applicant submits that the supply of services 
+provided by them would attract tax @ 12% vide serial number 26(i)(id) of Notification No. 
+11/2017-Central Tax (Rate) dated 28.06.2017, as amended from time to time.  
+ 
+ 
+                                         3. Submission of the Revenue 
+3.1 The concerned officer from the revenue has not expressed any view on the issue raised 
+by the applicant. 
+4. Observations & Findings of the Authority 
+4.1 We have gone through the records of the issue as well as submissions made by the 
+authorised representatives of the applicant during the course of personal hearing. 
+ 
+4.2 The applicant, as a sub-contractor, undertakes the work for conversion of Short Welded 
+Rails (“SWR”) to Long Welded Rails (“LWR”) by Flash Butt Welding process. It is contended 
+by the applicant that since the welding services are provided on railway tracks which can be 
+easily detachable from the earth without any damage and no goods are transferred in the 
+services involved, such services should not be treated as „works contract‟ as defined in 
+clause (119) of section 2 of the GST Act. The applicant further argues that as the treatment 
+or process of welding has only been carried out on goods i.e., on railway tracks to convert 
+from SWR to LWR and the said goods are the property of Indian Railways who is a 
+registered person under the GST Act, the services provided by them would fall under the 
+ambit of job work in terms of definition laid down in clause (68) of section 2 of the Act ibid. 
+ 
+4.3 We find that it would be apposite if we proceed to analyze the issues involved in the 
+instant case under following sequence: 
+(i) Whether the supply falls under the ambit of „works contract‟ as defined in clause (119) of 
+section 2 of the GST Act; 
+(ii) If the answer is found to be in negative, whether the supply can be termed as „job work‟ 
+as per definition given in clause (68) of section 2 of the GST Act; 
+(iii) If the answer is still found to be in negative, what would be the classification of such 
+supply. 
+ 
+4.4 The definition of „works contract‟ given in clause (119) of section 2 of the GST Act read 
+with Para 6(a) of Schedule II of the Act ibid clearly denotes that works contract is a 
+composite supply of services which shall fulfil both the following conditions: 
+
+
+Page 7 of 12 
+ 
+(a) the supply shall be in relation to immovable property only; 
+(b) the supply essentially involves transfer of property in goods (whether as goods or in 
+some other form). 
+Even if we lay aside the first condition for the moment, still the supply being undertaken by 
+the applicant in the present case doesn‟t satisfy the later condition as per submission of the 
+applicant i.e., the supply doesn‟t involve transfer of property in goods. We therefore hold that 
+the instant supply would not be treated as works contract. 
+ 
+4.5 We now come to the next issue related to job work i.e., whether the instant supply 
+provided by the applicant would qualify as „job work‟ as defined in clause (68) of section 2 of 
+the GST Act or not. It appears from the definition of „job work‟ that activities of any treatment 
+or process shall qualify as job work subject to fulfilment of following two criteria: 
+(i) the treatment or process has to be undertaken on goods i.e., on any movable property; 
+(ii) the goods in question must be belonging to a registered person. 
+ 
+The applicant undertakes the job for conversion of Short Welded Rails (“SWR”) to Long 
+Welded Rails (“LWR”) by Flash Butt Welding process and it is argued by the applicant that 
+railway tracks, on which the activities of welding is carried out, would fall under the category 
+of movable property since the railway tracks are easily detachable from the earth without any 
+damage and thereby would qualify as goods. 
+ 
+4.6 Since the term „immovable property‟ has not been defined under the GST law, the 
+applicant has drawn references to other laws which inter alia includes section 3(26) of 
+General Clauses Act, 1897 which defines „immovable property‟ as under: 
+"immovable property shall include land, benefits to arise out of land and things 
+attached to the earth, or permanently fastened to anything attached to the earth.” 
+4.7 For the purpose of interpretation of the expression "attached to the earth", section 3 of 
+the Transfer of Property Act, 1882 may be referred to which reads as follows: 
+“attached to the earth” means— (a) rooted in the earth, as in the case of trees and shrubs; 
+(b) imbedded in the earth, as in the case of walls or buildings; or (c) attached to what is so 
+imbedded for the permanent beneficial enjoyment of that to which it is attached; 
+ 
+In the case of Triveni Engineering & Industries Ltd. & Anr. Vs. Commissioner of Central 
+Excise & Anr, the Hon‟ble Supreme Court of India has observed as follows: 
+
+
+Page 8 of 12 
+ 
+“From a combined reading of the definition of immovable property in Section 3 of the 
+Transfer of Property Act, Section 3(25) of the General Clauses Act, it is evident that in an 
+immovable property there is neither mobility nor marketability as understood in the Excise 
+Law. Whether an article is permanently fastened to anything attached to the earth require 
+determination of both the intention as well as the factum of fastening to anything attached to 
+the earth. And this has to be ascertained from the facts and circumstances of each case.” 
+ 
+4.8 In this context, it would be relevant to have a brief account how the rail tracks are laid. 
+The procedure, as we find from the website wikipedia.org and trackopedia.com is 
+summarized as under: 
+ 
+A railway track or railroad track also known as permanent way is the structure on 
+a railway or railroad consisting of the rails, fasteners, railroad ties and ballast plus 
+the underlying subgrade. 
+ 
+The role of the subgrade in railways is similar to that of a building foundation. The 
+applied loads are transferred by the deflection of the rail to the ballast bed and then 
+passed on via the subgrade to the subsoil. 
+ 
+Traditionally, tracks are constructed using flat-bottomed steel rails laid on and spiked 
+or screwed into timber or pre-stressed concrete sleepers with crushed 
+stone ballast placed beneath and around the sleepers. 
+ 
+Sleepers: A sleeper is a rectangular object on which the rails are supported and 
+fixed. The sleeper has two main roles: to transfer the loads from the rails to the track 
+ballast and the ground underneath, and to hold the rails to the correct width apart (to 
+maintain the rail gauge). They are generally laid transversely to the rails. 
+ 
+Fixing rails to sleeper: Various methods exist for fixing the rail to the sleeper. 
+Historically spikes gave way to cast iron chairs fixed to the sleeper, more recently 
+springs (such as Pandrol clips) are used to fix the rail to the sleeper chair. 
+ 
+4.9 The applicant in support of his argument has placed reliance on the judgement delivered 
+by the Hon‟ble Supreme Court of India in the matter of Solid and Correct Engineering Works 
+[2010 (252) E.L.T. 481 (S.C.)]. In the said judgement, the Hon‟ble Apex Court observed that 
+attachment of the plant in question with the help of nuts and bolts to a foundation intended to 
+provide stability to the working of the plant and prevent vibration/wobble free operation does 
+not qualify for being described as attached to the earth. The court further held that 
+manufacture of the plants in question do not constitute annexation hence cannot be termed 
+as immovable property for the following reasons: 
+“(i) The plants in question are not per se immovable property. 
+
+
+Page 9 of 12 
+ 
+(ii) Such plants cannot be said to be "attached to the earth" within the meaning of that 
+expression as defined in Section 3 of the Transfer of Property Act. 
+(iii) The fixing of the plants to a foundation is meant only to give stability to the plant and 
+keep its operation vibration free. 
+(iv)The setting up of the plant itself is not intended to be permanent at a given place. 
+The plant can be moved and is indeed moved after the road construction or repair project for 
+which it is set up is completed.” 
+ 
+4.10 In the case at hand, there can be no dispute in this regard that the intention of 
+annexation of railway tracks involves significant degree of permanence and for this very 
+characteristic of it, railway tracks are also called as „permanent way‟. Contrary to the 
+observation made by the Hon‟ble court that „the plant can be moved and is indeed moved 
+after the road construction or repair project‟, railway tracks are not intended to be moved and 
+indeed not moved after laying it at a given place. Further, in the above-referred case, the 
+Hon‟ble Court observed that „fixing of the plants to a foundation is meant only to give stability 
+to the plant and keep its operation vibration free‟. The instant case is also not identical in this 
+respect since transportation on rail can be possible only when the railway tracks are firmly 
+laid on the sleepers so that the same cannot be moved. Therefore it cannot be said that 
+fixing of rails on sleepers is meant only to provide stability. In this context, we would like to 
+highlight the network of Indian Railway that consists inter alia of wagons and coaches for 
+transportation of goods and passengers respectively, railway tracks, electrification, signaling 
+and telecommunication. As the connectivity stretches across the states and covers a total 
+route length of 68,103 km (source: Wikipedia.org), railway tracks are laid not only over the 
+ground but the tracks are laid over numerous railway bridges and also the same passes 
+through a number of tunnels. In fact, the railway tracks are considered to be the backbone of 
+railway transportation system and to keep utmost priority on safety measures, railway tracks 
+are firmly fastened on the sleepers. The applicant has contended that railway tracks are 
+easily detachable and therefore should not be treated as immovable property. Considering 
+the procedure as well as the technical aspects for laying of railway tracks, we are unable to 
+accept the factum that railway tracks can easily dismantled from a place and subsequently 
+can easily be laid again elsewhere.  
+ 
+4.11 We are therefore of the view that that railway tracks, for its permanent characteristic 
+and in absence of mobility like other goods, would be regarded as immovable property and 
+therefore fail to qualify to be goods. As a result, the work of conversion of Short Welded 
+Rails (“SWR”) to Long Welded Rails (“LWR”) by Flash Butt Welding process cannot be 
+
+
+Page 10 of 12 
+ 
+treated as „job work‟ since we have already discussed that to qualify any treatment or 
+process to be job work, the same has to be undertaken on goods only. 
+ 
+4.12 We also find that the definition of „job work‟ is restricted to any treatment or process 
+only i.e., the activities of a job worker is to undertake any treatment or process on goods 
+which belongs to another registered person. In the case in our hand, we find that the 
+contract awarded to the applicant is not limited to any treatment or process (the process of 
+welding for the instant case) on goods belonging to another person. The scope of work as it 
+is noticed from the work order covers the entire job for conversion of SWR to LWR including 
+replacement of existing AT welds for a total distance of 54.03 km by flash butt welding. The 
+work requires pulling back of rail, unfastening of fittings, lifting of rail with wooden block, 
+opening out PSC sleepers either side of joints, removing of ballast, squaring, re-spacing and 
+reinsertion of sleepers, putting back ballast, checking of joint sleeper, re-fixing of fittings etc. 
+ 
+4.13 The authorized representatives of the applicant, in course of personal hearing, have 
+made a request to clarify whether the supply of labour for the process of welding would be 
+considered as a standalone supply or ancillary to the composite supply of welding. It is 
+contended in this regard that the supply of labour services provided by them along with the 
+job work services should be considered as a composite supply as these supplies are 
+naturally bundled in this industry for which the principal supply would be that of the job work 
+whereas labour supply would be ancillary. 
+ 
+4.14 We have already expressed our view that the work being undertaken by the applicant of 
+conversion of Short Welded Rails (“SWR”) to Long Welded Rails (“LWR”) by Flash Butt 
+Welding process cannot be treated as job work. However, on due consideration of the 
+applicant as well as the scope of work as described in Para 4.12 above, we are also of the 
+view that the services of welding of railway track along with labour services are naturally 
+bundled and supplied in conjunction in each other and therefore would fall under the ambit of 
+„composite supply‟ as defined in clause (30) of section 2 of the GST Act. 
+ 
+4.15 Now, for the purpose of deciding the classification of the services in question, we find 
+that the instant services is supplied by the applicant for construction of railways and 
+therefore would be treated as „General construction services of civil engineering works‟ 
+under Group 99542. Services under Tariff code 995421 and 995429 is reproduced below for 
+reference: 
+995421: General construction services of highways, streets, roads, railways and airfield 
+runways, bridges and tunnels 
+
+
+Page 11 of 12 
+ 
+995429: Services involving repair, alterations, additions, replacements, renovation, 
+maintenance or remodeling of the constructions covered above 
+ 
+The instant services, therefore, falls under Tariff Code 995429 and to be taxed @ 18% vide 
+serial number 3(xii) of Notification No. 11/2017-Central Tax (Rate) dated 28.06.2017, as 
+amended from time to time [ corresponding West Bengal State Notification No.1135 F.T. 
+dated 28.06.2017].   
+ 
+  
+In view of the above discussions, we rule as under: 
+RULING 
+ 
+The work being undertaken by the applicant as a sub-contractor for conversion of Short 
+Welded Rails (“SWR”) to Long Welded Rails (“LWR”) by Flash Butt Welding process on the 
+railway tracks along with supply of labour services shall be treated as composite supply of 
+services falling under Tariff 995429 and shall be taxable @ 18% vide serial number 3(xii) of 
+Notification No. 11/2017-Central Tax (Rate) dated 28.06.2017, as amended from time to 
+time [ corresponding West Bengal State Notification No.1135 F.T. dated 28.06.2017]. 
+ 
+ 
+(BRAJESH KUMAR SINGH) 
+ 
+(JOYJIT BANIK) 
+Member 
+ 
+                  Member 
+West Bengal Authority for Advance Ruling 
+ 
+West Bengal Authority for Advance Ruling 
+ 
+Place: Kolkata 
+Date: 22.12.2022 
+ 
+To, 
+Purple Distributors Pvt ltd 
+Ground Flour, 10 Ganesh Chandra Avenue, Kolkata, Pin Code 700013 
+ 
+Copy to: 
+(1) The Principal Chief Commissioner, CGST & CX, 180, Shantipally, R.B.Connector, 
+Kolkata-7000107 
+
+
+Page 12 of 12 
+ 
+(2) The Commissioner of State Tax, West Bengal, 14, Beliaghata Road, Kolkata-700015 
+(3) The Sr. JCCT, Princep Street Charge, 14, Beliaghata Road, Kolkata-700015 
+(4) Office Folder

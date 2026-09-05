@@ -1,0 +1,390 @@
+1 | P a g e  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TELANGANA STATE AUTHORITY FOR ADVANCE RULING 
+CT Complex, M.J Road, Nampally, Hyderabad-500001. 
+(Constituted under Section 96(1) of TGST Act, 2017) 
+ 
+ 
+ 
+ 
+ 
+  Present:   
+       
+Sri B. Raghu Kiran, IRS, Additional Commissioner (Central Tax) 
+       
+Sri S.V. Kasi Visweswara Rao, Additional Commissioner (State Tax) 
+ 
+ 
+ 
+A.R.Com/50/2018                                                     Date:04.09.2021 
+ 
+TSAAR Order No.17/2021 
+ 
+[ORDER UNDER SECTION 98(4) OF THE CENTRAL GOODS AND SERVICES TAX 
+ACT, 2017 AND UNDER SECTION 98(4) OF THE TEALANGANA GOODS AND 
+SERVICES TAX ACT, 2017.] 
+****** 
+1. 
+M/s. Medha Servo Drives Private Limited, Sy No.780,781, Jodimetla X Roads, 
+Chowdaryguda Village, Ghatkeshar, Korremula, Medchal - Malkajgiri, Telangana- 
+500088 (GSTIN No. 36AABCM3917A1ZY) has filed an application in FORM GST 
+ARA-01 under Section 97(1) of TGST Act, 2017 read with Rule 104 of CGST/TGST 
+Rules. 
+ 
+2. 
+At the outset, it is made clear that the provisions of both the CGST Act and the 
+TGST Act are the same except for certain provisions. Therefore, unless a mention is 
+specifically made to any dissimilar provisions, a reference to the CGST Act would 
+also mean a reference to the same provision under the TGST Act. Further, for the 
+purposes of this Advance Ruling, the expression ‘GST Act’ would be a common 
+reference to both CGST Act and TGST Act. 
+ 
+3. 
+It is observed that the queries raised by the applicant fall within the ambit of 
+Section 97 of the GST ACT. The Applicant enclosed copies of challans as proof of 
+payment of Rs. 5,000/- for SGST and Rs. 5,000/- for CGST towards the fee for 
+Advance Ruling. The Applicant has declared that the questions raised in the 
+application have neither been decided by nor are pending before any authority 
+under any provisions of the GST Act.  
+ 
+4. 
+Brief facts of the case: 
+The applicant Medha Servo Drives are manufacturers of electronics equipments for 
+locomotives and coaches for Indian Railways and Metro Railways. They have 
+submitted that they were issued purchase order from Integrated coach factory 
+Chennai for supply of multiple items. Some of these items are manufactured by 
+the applicant and some of them are procured for supply to the coach factory. In 
+the opinion of the applicant majority of the items supplied are taxable at the rate 
+of 18%. The relevant terms of the contract are: 
+
+
+ 
+ 
+2 | P a g e  
+ 
+a. The invoice would contain HSN code for each item indicating GST rates 
+separately (point 9 of the purchase order). 
+b. The payment will be released for complete rake set and not for part supplies 
+(Annexure – D ) 
+The applicant is desirous of ascertaining whether their supplies made  for  the 
+above purchase order amounts to composite supply or mixed supply . 
+ 
+Further they have also entered into a contract with Krishna Bhagya Jala Nigam 
+Limited for Design, manufacturing, supply, installation, operation and maintenance 
+of Phase-II of SCADA and GIS based automation, for NLBC, SBC, JBC, MBC & IBC 
+canal network systems including maintenance of the system for 5 years after 
+commissioning of the scheme on turnkey basis. The applicant is desirous of 
+clarification as to whether the scope of work can be treated as supply of goods or 
+works contract services and also request for the applicable rate of tax for the 
+same. 
+Hence this application Dt.28-05-2018. 
+5. Questions raised:  
+ 
+1. That based on the above facts they need clarification regarding  their  supplies as 
+to whether they comes under composite supply or mixed supply or normal 
+individual supply under provisions of GST Act as per purchase order. 
+2. Further they sought clarification as to whether all these items which are related to 
+Locomotive parts can be classified under a single HSN Code of 8607 as 
+Locomotive parts considering the end usage of the product irrespective of product 
+/ item description. 
+They raised a 3rd question at the time of hearing regarding a contract entered by 
+them with Irrigation department of State Government of Karnataka on 12-10-2018 
+vide reference no.KBJNL/DDN/PB-1/TND/SCADA P-2/481. 
+3. That they are executing a contract for M/s. KBJNL for design, manufacturing, 
+supply, installation, operation and maintenance of phase 2 of SCADA and GIS 
+based automation. They request clarification as to whether the scope of work can 
+be treated as supply of goods or works contract services and also request for the 
+applicable rate of tax for the same. 
+This being the case Consequent upon receipt of the application filed by M/s. Medha 
+Servo Drives Private Limited, the jurisdictional officer i.e. Superintendent  (Central 
+Tax) 
+Uppal 
+Range, 
+was 
+requested 
+vide 
+this 
+office 
+letter 
+CCT’s 
+Ref 
+No.A.R.Com/50/2018 dated: 12.12.2018 inform, whether the questions raised in the 
+application is already pending or decided in any proceedings in the case of the 
+applicant and inform any issue pending before  with them within a week lest it would 
+be construed that these issues are not pending before them and the application 
+would be processed under any of the provisions of the GST Act, 2017 and also 
+requested to offer his/he comments on the points raised in the application, However 
+
+
+ 
+ 
+3 | P a g e  
+ 
+case was admitted even though Officer have not replied by the grounds of the draft 
+letter, Therefore, Personnel hearing given to the applicant. 
+ 
+6.    Personal Hearing: 
+ 
+ 
+The Authorized representatives of the unit namely Sri K. Lokesh, CA & AR attended 
+the personal hearing held on 06-08-2021. The authorized representatives reiterated 
+their averments in the application submitted and contended as follows: 
+ 
+1. That they are making supplies to integrate at Integral Coach Factory, Chennai 
+by 
+way 
+of 
+design, 
+development, 
+manufacture, 
+supply, 
+testing 
+and 
+commissioning of 25 KV AV microprocessor controlled IGBT. 
+2. That as per the terms of the agreement the payment is to be released for 
+complete rake set and not for part supplies. Therefore they seek clarification as 
+to whether their supply comes under composite supply or mixed supply or 
+supply of individual component parts. 
+3. Further that all these components relate to locomotive parts, a clarification may 
+be issued as to whether all these goods fall under a single HSN code 8607 as 
+locomotive parts by applying the end user test irrespective of the product/item 
+description. 
+4. That a clarification is requested on the rate of tax applicable for these types of 
+contracts from Indian Railways / Other type of contracts. 
+5. That they are executing a contract for M/s. KBJNL for design, manufacturing, 
+supply, installation, operation and maintenance of phase 2 of SCADA and GIS 
+based automation. They request clarification as to whether the scope of work 
+can be treated as supply of goods or works contract services and also request 
+for the applicable rate of tax for the same. 
+ 
+7.    Discussion & Findings: 
+The applicant is seeking clarification on two different supplies made by them.     
+These are discussed separately as follows: 
+A. Queries related to Railways and Metros: 
+As seen from the purchase orders Integrated Coach Factory, Chennai the purchase 
+order is for set of goods enumerated in the Schedule-I / Schedule-II. The price is 
+all inclusive and at Annexure-B HSN codes and applicable GST rates are also 
+given. The terms of payment in Annexure-D are for supply of all the items treated 
+as “complete rake sets” and not for part supplies. Further as per Annexure-F the 
+applicant has to give warranty for every equipment supplied under this purchase 
+order and also repair or replace faulty supplies within the warranty period. At 
+Annexure-H the applicant is also obliged to give performance guarantee bond for 
+all the supplies made under the “complete rake sets”. The invoices raised by the 
+purchase order no. 08/17/1119/1101/F, Dt.19-01-2018 based on which the facts 
+are presented before the AAR clearly stipulates a GST of 28% (IGST) for the total 
+value of the contract. 
+
+
+ 
+ 
+4 | P a g e  
+ 
+As seen from the above facts of the case the contract between the applicant and 
+the Integrated Coach Factory is for a bundled supply of goods. The question is 
+whether these are composite supplies where the goods and / or services supplied 
+are  naturally bundled or mixed supplies where they are naturally bundled. 
+Section 2(74) of the CGST Act defines mixed supply as follows:  
+“Mixed supply” means two or more individual supplies of goods or services, or any 
+combination thereof, made in conjunction with each other by a taxable person for 
+single price where such supply does not constitute a composite supply. 
+Illustration: A supply of package consisting of canned foods, sweets, chocolates, 
+cakes, dry fruits, aerated drinks and fruit juices when supplied for a single price is 
+a mixed supply. Each of these items can be supplied separately and is not 
+dependant of any other. It shall not be a mixed supply if these items are supplied 
+separately; 
+Similarly Composite supply is defined in the CGST Act in Section 2(30) as follows: 
+"Composite supply” means a supply made by a taxable person to a recipient 
+consisting of two or more taxable supplies of goods or services or both, or any 
+combination thereof, which are naturally bundled and supplied in conjunction 
+with each other in the ordinary course of business, one of which is a principal 
+supply. 
+Illustration: Where goods are packed and transported with insurance, the supply 
+of goods, packing materials, transport and insurance is a composite supply and 
+supply of goods is a principal supply. 
+As seen from the above definitions a composite supply is essentially a naturally 
+bundled supply where two or more different supplies invariably exist along with 
+each other. As against this a mixed supply is a bundled supply is not a bundled 
+supply where the goods / services though supplied together are distinct and 
+separately identifiable. However a supply can be a mixed supply only if it is a 
+single price.  
+The Hon’ble High Court of Kerala in the case of Abott Health Care Pvt. Ltd., (2020) 
+74 GSTR 37 (Kerala) held that a composite supply must take into account supplies 
+as affected at a given point in time on “as is where is” basis.  
+Therefore a naturally bundled supply should possess the following attributes ( as 
+mentioned in Education Guide on Taxation of Services published by CBE & C on 
+20.06.2012 at Para 9.2.4 ): 
+a. There is a single price or the customer pays the same amount, no matter how 
+much of the package they actually receive or use. 
+b. The elements are normally advertised as a package. 
+c. The different elements are not available separately 
+
+
+ 
+ 
+5 | P a g e  
+ 
+d. The different elements are integral to one overall supply - if one or more is 
+removed, the nature of supply would be affected. 
+Further the illustration in the definition clarifies the context of composite supply. 
+As seen from the illustration the supply of service i.e., insurance and goods go 
+alongside each other. As against this the illustration given in the context of mixed 
+supply clearly indicates that each of the items therein can be supplied separately 
+and are not dependant of any other. 
+The Hon'ble Supreme court of India in a catena of case law has ruled that 
+illustrations in a statute are part of the statute and help to elucidate the principle 
+of the Section ( Dr. Mahesh Chandra Sharma Vs Smt. Raj Kumari Sharma – AIR 
+1996 SC 869). Therefore a composite supply should be similar to a supply 
+mentioned in the illustration to the definition in Section 2(30), where two or more 
+taxable goods or services are supplied along with each other to constitute a 
+composite supply. 
+Therefore in view of the above discussions the supply made by the applicant 
+against the purchase order of the Integrated Coach Factory is a mixed supply and 
+the rate of tax applicable is the highest rate of tax applicable to the particular 
+goods constituting the mixed supply.  
+Further it was requested to clarify if these supplies can be treated as locomotive 
+parts by applying the end user test irrespective of the product/item description 
+falling under HSN code 8607. In this connection it is observed notification 05/2017 
+Dt.28-06-2017 has enumerated “parts of Railway or Tramway Locomotives or 
+rolling stock; such as Bogies, bissel-Bogies, Axles & Wheels, and parts thereof” 
+under tariff heading 8607.  
+The rules of interpretation of the 1st Schedule to the Customs Tariff Act 1975 apply 
+to the interpretation of this notification. Thus classification of parts is subject to 
+notes in the Chapters of HSN. The Hon’ble Supreme Court of India in CCE Vs 
+Insulation Electricals (2008) 224 ELT 512 has held that a part is an essential 
+component of the whole without which the whole cannot function. 
+Thus if the goods supplied by the applicant in the purchase order have to be 
+treated as “parts of Railway or Tramway” they should qualify for all the above 
+conditions 
+Applying principle of Noscitur a sociis it is seen from the purchase order none of 
+the goods supply fall under this entry. They are also not essential component 
+without which the whole cannot function. Therefore the supplies made under the 
+referred purchase order to Integrated Coach Factory, Chennai do not fall under 
+entry 8607. 
+ 
+
+
+ 
+ 
+6 | P a g e  
+ 
+B. Query relating to M/s. KBJNL: 
+The applicant has entered into a contract with Krishna Bhagya Jala Nigam Limited, 
+Narayanpur Division, Hunasagi Taluk, Yadgir District in the State of Karnataka. 
+Whereas the application is dated.28-05-2018 the contract is much later to the 
+application i.e., 12-10-2018. Further the place of supply falls outside the State of 
+Telangana and hence this authority cannot decide the matter. 
+ 
+8.  In view of the above discussion, the questions raised by the applicant are clarified  as 
+below: 
+      Advance Ruling 
+Question Raised 
+    Advance Ruling Issued 
+1. That based on the above facts they 
+need clarification regarding  their  
+supplies as to whether they comes 
+under composite supply or mixed 
+supply or normal individual supply 
+under provisions of GST Act as per 
+purchase order. 
+Mixed supply. 
+ 
+ 
+ 
+2. Further they sought clarification as 
+to whether all these items which 
+are related to Locomotive parts 
+can be classified under a single 
+HSN Code of 8607 as Locomotive 
+parts considering the end usage of 
+the product irrespective of product 
+/ item description. 
+        They raised a 3rd question at the  
+time 
+of 
+hearing 
+regarding 
+a 
+contract entered by them with 
+Irrigation 
+department 
+of 
+State 
+Government of Karnataka on 12-
+10-2018 
+vide 
+reference 
+no.KBJNL/DDN/PB-1/TND/SCADA 
+P-2/481. 
+Do not fall under HSN code 
+8607 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. That they are executing a contract 
+for 
+M/s. 
+KBJNL 
+for 
+design, 
+manufacturing, supply, installation, 
+operation 
+and 
+maintenance 
+of 
+phase 2 of SCADA and GIS based 
+automation. 
+They 
+request 
+clarification as to whether the 
+scope of work can be treated as 
+supply of goods or works contract 
+services and also request for the 
+applicable rate of tax for the same. 
+ 
+The clarification can’t be issued 
+on supplies made in Karnataka. 
+ 
+ 
+ 
+ 
+[Under Section 100(1) of the CGST/TGST Act, 2017, any person aggrieved by 
+this order can prefer an appeal before the Telangana State Appellate Authority 
+
+
+ 
+ 
+7 | P a g e  
+ 
+for Advance Ruling, Hyderabad, within 30 days from the date of receipt of this 
+Order] 
+  
+To 
+M/s. Medha Servo Drives Private Limited   
+Sy No.780,781, Jodimetla X Roads,  
+Chowdaryguda Village, Ghatkeshar,  
+Korremula, Medchal - Malkajgiri, Telangana- 500088. 
+ 
+Copy submitted to : 
+1. The Commissioner (State Tax) for information. 
+ 
+2. The Commissioner (Central Tax), Secunderabad Commissionerate, GST Bhavan, L.B. 
+Stadium Road, Basheerbagh, Hyderabad 500 004. 
+ 
+ 
+Copy to:  
+3. Superintendent(Central Tax), Uppal Range. H.No.40-41/87/1,1st, 2nd,4th and 5th 
+Floors, Navya Estates, Moula Ali, Hyderabad 500 040. 
+//t.c.f.b.o// 
+ 
+ 
+Superintendent (Grade-I)

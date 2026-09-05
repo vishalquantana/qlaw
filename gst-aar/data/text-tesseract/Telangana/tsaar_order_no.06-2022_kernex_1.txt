@@ -1,0 +1,360 @@
+1 | P a g e  
+ 
+ 
+ 
+ 
+ 
+ 
+TELANGANA STATE AUTHORITY FOR ADVANCE RULING 
+CT Complex, M.J Road, Nampally, Hyderabad-500001. 
+(Constituted under Section 96(1) of TGST Act, 2017) 
+ 
+ 
+ 
+ 
+ 
+  Present:   
+       
+Sri B. Raghu Kiran, IRS, Additional Commissioner (Central Tax) 
+       
+Sri S.V.  Kasi Visweswara Rao, Additional Commissioner (State Tax) 
+ 
+ 
+ 
+A.R.Com/27/2021                                                                              Date:14.02.2022 
+ 
+TSAAR Order No.06/2022 
+ 
+[ORDER UNDER SECTION 98(4) OF THE CENTRAL GOODS AND SERVICES TAX ACT, 2017 
+AND UNDER SECTION 98(4) OF THE TEALANGANA GOODS AND SERVICES TAX ACT, 
+2017.] 
+****** 
+1. 
+M/s. Kernex TCAS JV, Plot No 38 TO 41, Hardware Technology Park, TSIIC Layout, Maheswaram 
+Mandalam, Ranga Reddy, Telangana - 501510 (36AAUFK6458J1ZI) has filed an application in 
+FORM GST ARA-01 under Section 97(1) of TGST Act, 2017 read with Rule 104 of CGST/TGST 
+Rules. 
+ 
+2. 
+At the outset, it is made clear that the provisions of both the CGST Act and the TGST Act are the 
+same except for certain provisions. Therefore, unless a mention is specifically made to any 
+dissimilar provisions, a reference to the CGST Act would also mean a reference to the same 
+provision under the TGST Act. Further, for the purposes of this Advance Ruling, the expression 
+‘GST Act’ would be a common reference to both CGST Act and TGST Act. 
+ 
+3. 
+It is observed that the queries raised by the applicant fall within the ambit of Section 97 of the 
+GST ACT. The Applicant enclosed copies of challans as proof of payment of Rs. 5,000/- for SGST 
+and Rs. 5,000/- for CGST towards the fee for Advance Ruling. The concerned jurisdictional 
+officer also raised no objection to the admission of the application. The application is therefore, 
+admitted 
+ 
+4. 
+Brief facts of the case: 
+M/s. Kernex TCAS JV is executing a contract for South Central Railways for design, supply, 
+installation, testing and commissioning of onboard train collision avoidance system (TCAS). The 
+applicant is desirous of ascertaining the liability to tax under GST law on the execution of this 
+contract on various counts including place of supply. Hence this application. 
+ 
+5. 
+Questions raised:  
+ 
+1. (A) Whether the subject work falls under Works Contract? 
+ 
+(B) What is the applicable rate of GST for this contract? 
+
+
+ 
+ 
+2 | P a g e  
+ 
+2. Whether AMC services fall under the same category of principal supply i.e., setting up of 
+TCAS since both are under one work order? 
+3. (A) If this contract is not to be considered as works contract then what should be the rate 
+of GST for supply of goods under TCAS and supply of goods and services under AMC as 
+the quantity and prices are provided in the work order separately? 
+ 
+(B) What is the rate of GST for services (erection and commissioning) under TCAS and    
+AMC involving civil works as the prices for the same are provided in the work order 
+separately. 
+4. Whether is there a requirement for separate registration in other states? 
+5. Whether CGST & SGST or IGST to be charged on the supply of goods like components, 
+parts, spares etc., to SCR, Secunderabad, Telangana as a part of whole contract of supply, 
+installation & commissioning in Maharashtra and Karnataka State? 
+6. What is the applicable rate of GST to sub-contractors and sub-suppliers of goods? 
+ 
+6.     Personal Hearing: 
+ 
+The Authorized representatives of the unit namely C V Suryam, CA and Mahesh Kumar, Admin 
+officer attended the personal hearing held on 05-01-2022. The authorized representatives 
+reiterated their averments in the application submitted and requested the AAR to dispose the 
+case on merits based on their detailed submissions. 
+ 
+7.     Discussion & Findings: 
+ 
+The applicant is seeking clarification regarding the classification and tariff on TCAS equipment in 
+Railways. 
+ 
+As seen from the counter offer issued by south central railway dated: 13.11.2019 the contract is 
+for design, supply, installation, testing and commissioning of onboard TCAS equipment in 
+locomotives and track side. The counter offer also contains schedule of description mentioning 
+various items to be utilized quantity and value wise in it. There is also a payment schedule for 
+the contract. There is a specific clause 7 regarding GST which mentions that the contractee i.e., 
+South Central Railway shall reimburse the GST if a higher rate is determined even after 
+completion of the contract. 
+ 
+Further the definition of works contract under the CGST Act at Section 2(119) is restricted to 
+supplies of goods & services pertaining to immovable property only. This contract being an 
+agreement for installation of equipment onboard the locomotives which are movable property, 
+the said supply does not qualify to be a works contract under the GST law. 
+ 
+To ascertain the exact nature of the supply involved in this contract, it is pertinent to refer to the 
+publications of  Ministry of Railways, Government of India who have published a handbook on 
+Train Collision Avoidance System (TCAS) in Apr’2021 wherein the composition and working of 
+the TCAS system has been given in detail. It is expressively stated that this system has been 
+designed and implemented to prevent ‘Signal Passing at Danger (SPAD) cases, unsafe situations 
+
+
+ 
+ 
+3 | P a g e  
+ 
+arising due to over speed and train collisions in station as well as block sections’. It is mentioned 
+in the introduction to overview that this includes automatic break application and display of 
+information like speed, location, distance to signal ahead, signal aspects etc., in the loco pilots 
+cabin and generation of auto & manual SOS messages from LOCO in case of emergency 
+situation. 
+ 
+In the system overview of this handbook, it is seen that the entire system is based on signaling 
+equipment and RFID tags. The principal goods in the  system is electrical signaling equipment 
+enumerated as HSN 8530 i.e., ‘Electrical signaling, safety or traffic control equipment for 
+railways, tramways, roads, inland waterways, parking facilities, port installations or airfields’.  
+ 
+The illustration of the working of the system based on signals is available in this handbook in the 
+following diagram: 
+ 
+As seen from the description and illustration, supply of this system is a naturally bundled supply 
+of various goods working in unison to achieve a single purpose of railway safety through 
+signaling etc., Therefore the supply of this system to south central railway under a contract has 
+all the attributes to make it a composite supply.  
+Composite supply is defined in the CGST Act in Section 2(30) as follows: 
+"Composite supply” means a supply made by a taxable person to a recipient consisting of two or 
+more taxable supplies of goods or services or both, or any combination thereof, which are 
+naturally bundled and supplied in conjunction with each other in the ordinary course of 
+business, one of which is a principal supply. 
+Illustration: Where goods are packed and transported with insurance, the supply of goods, 
+packing materials, transport and insurance is a composite supply and supply of goods is a 
+principal supply. 
+As seen from the above definitions a composite supply is essentially a naturally bundled supply 
+where two or more different supplies invariably exist along with each other. As against this a 
+mixed supply is a bundled supply is not a bundled supply where the goods / services though 
+
+
+ 
+ 
+4 | P a g e  
+ 
+supplied together are distinct and separately identifiable. However a supply can be a mixed 
+supply only if it is a single price.  
+The Hon’ble High Court of Kerala in the case of Abott Health Care Pvt. Ltd., (2020) 74 GSTR 37 
+(Kerala) held that a composite supply must take into account supplies as affected at a given 
+point in time on “as is where is” basis.  
+Therefore a naturally bundled supply should possess the following attributes ( as mentioned in 
+Education Guide on Taxation of Services published by CBE & C on 20.06.2012 at Para 9.2.4 ): 
+a. 
+There is a single price or the customer pays the same amount, no matter how much of the 
+package they actually receive or use. 
+b. 
+The elements are normally advertised as a package. 
+c. 
+The different elements are not available separately 
+d. 
+The different elements are integral to one overall supply - if one or more is removed, the 
+nature of supply would be affected. 
+Further the illustration in the definition clarifies the context of composite supply. As seen from 
+the illustration the supply of service i.e., insurance and goods go alongside each other. As 
+against this the illustration given in the context of mixed supply clearly indicates that each of the 
+items therein can be supplied separately and are not dependant of any other. 
+The Hon'ble Supreme court of India in a catena of case law has ruled that illustrations in a 
+statute are part of the statute and help to elucidate the principle of the Section ( Dr. Mahesh 
+Chandra Sharma Vs Smt. Raj Kumari Sharma – AIR 1996 SC 869). Therefore a composite supply 
+should be similar to a supply mentioned in the illustration to the definition in Section 2(30), 
+where two or more taxable goods or services are supplied along with each other to constitute a 
+composite supply. 
+Further Para 6 of the Schedule II to the CGST Act, 2017 states that composite supply involving 
+works contract as defined under clause 119 of Section 2 of CGST Act and supply of food, drink 
+etc., shall be treated as services. Therefore a composite supply involving goods and services 
+other than the above will be assessed as a naturally bundled supply and will be taxed at the rate 
+applicable to the principal supply therein. 
+Therefore in view of the above discussions the supply made by the applicant against the counter 
+offer of the South Central Railway is a composite supply and the rate of tax applicable is the rate 
+at which the principal supply has to be taxed i.e., Electrical signalling equipment with HSN code 
+‘8530’  
+ 
+This commodity was made taxable at the rate of 9% under CGST & SGST respectively vide 
+Notification No. 1/2017 dated: 28.06.2017 as amended by Notification No. 41/2017 dated: 
+14.11.2017. Therefore the supply of Train Collision Avoidance System (TCAS) is taxable at the 
+rate of 9% under CGST & SGST respectively.  
+ 
+
+
+ 
+ 
+5 | P a g e  
+ 
+Further the contract has performance guaranteed clauses at clause 9 followed by warranty AMC 
+details at clause 10. Under clause 10, the applicant shall enter into AMC (Annual Maintenance 
+Contract) after the expiry of warranty period for a period of one year separately for onboard and 
+track side systems with respective Sr.DEE/Sr.DME of loco sheds for onboard system and 
+Sr.DSTEs of Division for track side system. Thus AMC is clearly a different contract and will be 
+enforced separately so that the failure to perform the promises under AMC will not put the 
+promises under main contract in breach, more so because the main contract would have been 
+completed by the time AMCs are separately entered with the authorities indicated. Therefore 
+mere mentioning of a future AMC in the original contract will not make such future AMC 
+contracts a part of the original contract. Further the details of Annual Maintenance Contract are 
+not provided by the applicant, however the applicant submitted that the AMC involves the same 
+services and goods for the maintenance of the TCAS system.  
+ 
+Therefore, in view of the submissions, AMC is also a composite contract and GST payable will be 
+the GST applicable to the principal supply i.e., 9% under CGST & SGST respectively on 
+Maintenance service of Electrical signalling equipment.  
+ 
+Further the tax payer is executing these supplies in other States also. The GST statute requires 
+that they need to take registration under CGST & local SGST in the respective states where they 
+make supplies and are liable to pay tax under CGST/SGST as per the place of supply rules 
+enumerated under Section 10 & 12 of the IGST Act. 
+ 
+It is also informed by the applicant the South Central Railway has awarded the supply contract 
+to their joint venture firm and that one of the partners of the Joint venture M/s. Kernex 
+Microsystems (I) ltd will execute the contract for the Joint venture. In this connection it is 
+observed that if the entire contract is executed all the attributes of the contract discussed above 
+will remain the same for the executing partner. Therefore the liability of the executing partner 
+will also remain the same as discussed. 
+ 
+8. 
+The ruling is given as below: 
+ 
+In view of the above discussion, the questions raised by the applicant are clarified as below: 
+Questions 
+Ruling 
+ 
+1. (A) Whether the subject work falls 
+under Works Contract? 
+ 
+ 
+The subject work is a composite supply and not 
+works contract under GST 
+(B) What is the applicable rate  of GST 
+for this contract? 
+ 
+Being a composite supply, the rate applicable to 
+principal supply is the rate applicable to the 
+entire contract i.e., 9% CGST and also SGST as 
+discussed above. 
+2. Whether AMC services fall under the 
+same category of principal supply i.e., 
+setting up of TCAS since both are 
+The AMC contract is a separate contract from 
+the original contract as discussed above. 
+
+
+ 
+ 
+6 | P a g e  
+ 
+under one work order? 
+ 
+3 (A) If this contract is not to be 
+considered as works contract then 
+what should be the rate of GST for 
+supply of goods under TCAS and 
+supply of goods and services under 
+AMC as the quantity and prices are 
+provided in the work order separately? 
+As discussed above, this contract is a composite 
+contract and the rate of tax applicable to 
+principal supply is the rate applicable to the 
+entire contract i.e., 9% CGST and also SGST as 
+discussed above. 
+ 
+(B) What is the rate of GST for 
+services (erection and commissioning) 
+under TCAS and AMC involving civil 
+works as the prices for the same are 
+provided in the work order separately. 
+As discussed above, this contract is a composite 
+contract and the rate of tax applicable to 
+principal supply is the rate applicable to the 
+entire contract i.e., 9% CGST and also SGST as 
+discussed above. 
+4) Whether is there a requirement for 
+separate registration in other states? 
+ 
+Yes. As the applicant makes supplies in other 
+States and is liable to pay CGST & SGST in 
+those states as he is required to take separate 
+registration in other States. 
+5) Whether CGST & SGST or IGST to be 
+charged on the supply of goods like 
+components, parts, spares etc., to 
+SCR, Secunderabad, Telangana as a 
+part of whole contract of supply, 
+installation 
+& 
+commissioning 
+in 
+Maharashtra and Karnataka State? 
+ 
+The applicant is making a composite supply 
+other than supply of works contract or food and 
+beverage. Therefore it is a naturally bundled 
+supply where in the liability to pay tax on the 
+entire consideration will be the liability relatable 
+to the principal supply. In this case the principal 
+supply is Electrical signalling equipment with 
+HSN code ‘8530’  i.e., goods and as per Section 
+10 of IGST Act the place of supply of goods is 
+the place where goods are delivered by the 
+supplier i.e., the applicant. If the applicant is 
+delivering goods to the recipient in other State 
+that State will be the place of supply and the 
+liability to pay tax will arise in such State where 
+the delivery is made. 
+6) What is the applicable rate of GST to 
+sub-contractors and sub-suppliers of 
+goods? 
+ 
+In the context of facts submitted, the executing 
+partner of Joint Venture will have the same 
+liability as the Joint Venture firm which was 
+allotted the contract by South Central Railways 
+    
+ 
+ 
+
+
+ 
+ 
+7 | P a g e  
+ 
+[Under Section 100(1) of the CGST/TGST Act, 2017, any person aggrieved by this order 
+can prefer an appeal before the Telangana State Appellate Authority for Advance Ruling, 
+Hyderabad, within 30 days from the date of receipt of this Order] 
+     
+To 
+M/s. Kernex TCAS JV,  
+Plot No 38 TO 41, Hardware Technology Park,  
+TSIIC Layout, Maheswaram Mandalam,  
+Ranga Reddy, Telangana – 501510. 
+ 
+Copy submitted to : 
+1. The Commissioner (State Tax) for information. 
+2. The Commissioner (Central Tax), Hyderabad Commissionerate,  Room No. 813, GST Bhavan, L.B. 
+Stadium Road, Basheerbagh, Hyderabad 500 004. 
+Copy to:  
+3. The Assistant Commissioner(ST) Saroornagar-III, Circle. 
+//t.c.f.b.o// 
+ 
+ 
+ 
+Superintendent (Grade-I)

@@ -1,0 +1,621 @@
+AUTHORITY FOR ADVANCE RULING, TAMIL NADU
+No.207, 224 FLOOR, PAPJM BUILDING, No.1, GREAMS ROAD,
+CHENNAI 600 006.
+
+ORDER UNDER SECTION 98(4) OF THE CGST ACT, 2017 AND
+UNDER SECTION 98(4) OF THE TNGST ACT, 2017
+
+Members present:
+
+Shri C. Thiyagarajan, L.R.S., Shri B. Suseel Kumar, B.E., MBA.,
+Commissioner/Member (CGST), Joint Commissioner/ Member (SGST),
+Office of the Commissioner of GST and Authority for Advance Ruling,
+Central Excise, Audit I Commissionerate, Tamil Nadu,
+
+Chennai - 600 101. Chennai - 600 006.
+
+Advance Ruling No. 20/ARA/2026, dated 05.03.2026
+
+1. Any appeal against this Advance Ruling order shall lie before the Tamil
+Nadu State Appellate Authority for Advance Ruling, Chennai under Sub-
+Section (1) of Section 100 of CGST Act 2017/TNGST Act 2017, within 30 days
+from the date on which the ruling sought to be appealed is communicated.
+
+2. In terms of Section 103(1) of the Act, Advance Ruling pronounced by the
+Authority under Chapter XVII of the Act shall be binding only-
+
+(a) On the applicant who had sought it in respect of any matter
+referred to in sub-section (2) Section 97 for advance ruling.
+
+(b) On the concerned officer or the Jurisdictional Officer in respect of
+the applicant.
+
+3. In terms of Section 103(2) of the Act, this Advance Ruling shall be binding
+
+unless the law, facts or circumstances supporting the original advance ruling
+have changed.
+
+4. Advance Ruling obtained by the applicant by fraud or suppression of
+material facts or misrepresentation of facts, shall render such ruling to be void
+ab initio in accordance with Section 104 of the Act.
+
+5. The provisions of both the Central Goods and Services Tax Act and the
+Tamil Nadu Goods and Services Tax Act (herein referred to as the Act) are the
+same except for certain provisions. Therefore, unless a mention is specifically
+made to such dissimilar provisions, a reference to the Central Goods and
+Services Tax Act would also mean a reference to the same provisions under
+the Tamil Nadu Goods and Services Tax Act.
+
+Page 1 of 12
+
+
+GSTIN Number, if any / User i] 33ACFFA7656KiZ5
+Legal Name of Applicant M/s. A ¥V CARGO MIGRATORS LLP
+
+Trade Name of Applicant NA
+
+Registered Address / | No.36/1, Raghav Towers, Amman Nagar,
+Address provided while | Saravanampatti, Coimbatore-641 035, Tamil
+obtaining user id Nadu
+
+Details of Application GST ARA -— O01 Application dated
+14.07.2025
+Jurisdictional Officer State: Saravanampatti (East) Assmt.Circle,
+
+Coimbatore Division.
+
+Concerned Officer Center: Coimbatore Commissionerate,
+Coimbatore - II Division
+
+Nature of activity(s)
+(proposed / present) in
+respect of which advance
+
+ling so’ t for .
+raking seugt Service
+
+& Couegory The Applicant operates as an E-commerce
+
+B Description (in brief} platform that arranges transportation of
+goods between vehicle owners/drivers
+(referred to as transporters) and customers
+who need their goods transported.
+
+Issue/s on which advance | 1. Classification of any goods or services
+
+ruling required or both
+
+Question(s) on which advance| Q1.Whether the applicant satisfies the
+definition of an “E-commerce operator”
+or do they satisfy the definition of
+“Goods Transport Agency”?
+
+ruling is required
+
+Q2.What is the taxability of services
+provided by the applicant?
+
+M/s. A V CARGO MIGRATORS LLP, No.36/1, Raghav Towers, Amman
+Nagar, Saravanampatti, Coimbatore-641 035, Tamil Nadu Tamil Nadu
+(hereinafter called as the “Applicant”) are registered under the GST Act with
+GSTIN:33ACFFA7656K1Z5. The Applicant operates as an E-commerce
+platform that connects vehicle owners/drivers (referred to as transporters)
+with customers who require transportation services for their goods.
+Customers can book transporters through the online portal or mobile app of
+
+Page 2 of 12
+
+
+the applicant, which is currently under development. The applicant has
+sought advance ruling on the following question:
+
+Qi. Whether the applicant satisfies the definition of an
+“E-commerce operator” or do they satisfy the definition of
+“Goods Transport Agency”?
+
+Q2. What is the taxability of services provided by the applicant?
+
+2. The Applicant has made a payment of application fees of Rs.5,000/- each
+under sub rule (1) of Rule 104 of CGST Rules, 2017 and SGST Rules, 2017.
+
+3. Statement of relevant facts:
+
+3.1 The Applicant is a registered taxpayer. The Applicant operates an
+E-commerce platform that connects vehicle owners/drivers (referred to as
+transporters) with customers who require transportation services for their
+goods. Customers can book transporters through the online portal or
+mobile app of the applicant, which is currently under development.
+
+3.2 Transporters can register on the platform by making a pre-deposit,
+which is used to cover the commission owned to the applicant for facilitating
+bookings. The commission is deducted from the transporters pre-deposit
+each time they complete a transportation job booked through the platform.
+Transporters are required to recharge their pre-deposit once it is depleted by
+commission deductions. However, they are allowed to continue accepting
+bookings through the platform even if their pre-deposit balance become
+negative, upto a limit of Rs.100/-. A sample copy of the agreement that will
+be entered into with the transporters by the applicant has been attached to
+this application.
+
+3.3. The applicant generates revenue in the following ways:
+- Customers pay freight charges directly to transporters, from which a
+12% commission is deducted and collected by the applicant.
+- In certain instances, customers may pay freight charges directly to
+the applicant. In such cases, the commission is deducted from the
+payment, and the remaining balance is paid to the transporter.
+
+4. Interpretation of Law by the Applicant based on the statement of
+
+facts:
+
+4.1 The applicant submits that the taxation of transportation services
+under the GST Act, 2017 is outlined in Clause (ze) of Notification
+No.12/2017- Central Tax (Rate) dated 28.06.2017. This notification defines
+a “goods transport agency” (GTA) as:
+
+Page 3 of 12
+
+
+“goods transport agency” means any person who provides service in
+relation to transport of goods by road and issues consignment note, by
+whatever name called”
+
+4.2 Further the applicant also acknowledges that key factors such as
+ancillary services and issue of consignment note requirements must be
+considered when determining whether a service is classified under GST as a
+GTA.
+
+4.3 The term “in relation to” as mentioned in the definition of GTA, extends
+the GTA classification beyond core transportation to include essential
+ancillary services, such as loading, unloading, packing, trans-shipment, and
+temporary warehousing, as long as they are integral to the transport process
+and not billed separately. Further stated that as per Notification
+No.12/2017- Central Tax (Rate) which provides for the list of exempted
+supply of services under the CGST Act,2017 and serial No.18 of such
+notification, which reads as below:
+
+Sl. | Chapter, Section, Description of Services Rate | Condition
+
+No. | Heading, Group or (per
+Service Code cent)
+(‘Tariff
+(1) (2) (3) (4) (5)
+18 Heading 9965 Services by way of Nil Nil
+
+transportation of goods—
+(a) by road except the
+services of
+(9 a goods transportation
+agency;
+(i) acourier agency;
+(b) by inland waterways.
+
+4.4 As per the above Serial No.18 of Notification No.12/2017-Central Tax
+(Rate), dated 28.06.2017, transportation services by road are generally
+exempt from GST, except when provided by a GTA or a courier agency. This
+exemption is significant, as it clarifies that road transportation services are
+typically not subject to GST unless provided by an entity explicitly classified
+as a GTA.
+
+4.5 Further, the term “Consignment Note’ has been defined under
+explanation to Rule 4B of the Service Tax Rules, 1994 and it reads as under:
+
+“Consignment note means a document, issued by a goods transport
+agency against the receipt of goods for the purpose of transport of goods
+by road in a goods carriage, which is serially numbered, and contains
+the name of the consignor and consignee, registration number of the
+
+Page 4 of 12
+
+
+goods carriage in which the goods are transported, details of the goods
+transported, details of the place of origin and destination, person liable
+Jor paying service tax whether consignor, consignee or the goods
+transport agency’.
+
+It is clear from the above definition that a “consignment note” is a
+document issued by a goods transport agency acknowledging receipt of
+goods for transport by road. It is an essential document for a GTA, as it
+serves as a proof of receipt of goods and contains all detailed information.
+The applicant stated that for a service to qualify as a GTA, it must issue a
+
+consignment mote or an equivalent document that meets these
+requirements.
+
+4.6 Also for individual transporters, the issuance of a consignment note is
+crucial for GTA classification. If a transporter issues a lorry receipt or
+similar document, it does not meet the criteria for a consignment note,
+which means their services are not classified as GTA and would be exempt
+under the applicable GST provisions.
+
+4.7 Further the applicant stated that based on Rule 33, they assert that
+they act strictly as a ‘pure agent’ when collecting payments for services
+rendered directly from customers. To support this position, they emphasize
+that in the event of loss of goods or consignments sent by customers
+through a transporter registered on the applicant’s E-commerce platform,
+the transporter bears responsibility for such goods or consignments and not
+the applicant.
+
+4.8 Consequently, the applicant must collect TCS at the rate of 1% on the
+payments before remitting them to the transporters. This applies under
+Section 52(1) of the CGST Act, when the applicant collects the consideration
+for the supplies made through its platform.
+
+4.9 The applicant stated that based on the above facts, they believe that
+they qualify as an e-commerce operator under GST rather than a goods
+transport agency for the following reasons:
+
+- The applicant operates a digital platform to facilitate transportation
+booking.
+
+- It does not directly engage in the physical transportation of goods
+or issue consignment notes.
+
+- It generates revenue through commissions from transactions
+between customers and transporters.
+
+Page 5 of 12
+
+
+Thus, the applicant is of the view that it should be classified as an
+e-commerce operator under GST. The applicant has also cited various
+advance ruling in their support.
+
+5. The applicant falls within the administrative jurisdiction of ‘STATE’.
+No remarks has been received from the State jurisdictional authorities.
+Hence, it is construed that there are no pending proceedings against the
+applicant on the questions raised by them in their advance ruling
+application. The Central jurisdictional authorities have furnished their
+remarks and informed that there are no pending proceedings on the
+questions raised by the applicant
+
+6. PERSONAL HEARING
+
+6.1 The applicant was given an opportunity to be heard in person on
+17.12.2025 vide this office memorandum No.35/2025, dated 04.12.2025.
+The applicant through their email letter dated 16.12.2025 have stated that
+due an urgent family commitment they were unable to attend the personal
+hearing on 17.12.2025and requested to adjournment to some other date.
+
+6.2 Accordingly, as per the request of the applicant another opportunity of
+personal hearing was granted to them on 20.01.2006 vide this office
+memorandum No.35/2025, dated 09.01.2026. Mr. P. Paul Thangam,
+Chartered Accountant appeared for the personal hearing as Authorized
+representative of the applicant.
+
+6.3 The AR reiterated the facts submitted in the AAR application. The AR
+explained the business model to the members. The AR stated that the
+applicant operates an E-commerce platform that connects vehicle
+owners/drivers (transporters) with customers who require transportation
+services. Transporters registers themselves in the platform making a
+pre-deposit which is used to cover the commission owned to the applicant
+for facilitating the booking. Transporters are required to recharge their
+pre-deposit once depleted by deduction of commission.
+
+6.4 The AR has not submitted any sample copy of the agreement as
+stated to be furnished with the application. When members asked AR to
+furnish a copy of the agreement entered into with the transporters, AR
+informed that they will furnish the same.
+
+7. DISCUSSION AND FINDINGS:
+7.1 We have carefully considered the submissions made by the applicant
+in the advance ruling application, and the submissions made during the
+
+personal hearing held on 20.01.2026. A sample copy of the agreement said
+to have been provided with the application has not been furnished till date.
+
+Page 6 of 12
+
+
+7.2 The applicant is developing a business model where he operates an e-
+commerce platform that connects vehicle owners/drivers (transporters) with
+customers who require ‘transportation services’ for their goods. Transporters
+registers with the applicant making a pre-deposit which adjusted towards
+commission to the applicant each time after completion of transportation
+job. Customers can book transporters through the online platform or mobile
+app of the applicant.
+
+7.3 Revenue is generated by the applicant in two ways.
+
+(a) When customer pay the freight directly to transporters, 12%
+commission is deducted from the deposit made by the applicant.
+
+(b) If customers pay freight directly to the applicant, commission is
+deducted from the payment and the remaining amount is paid to the
+transporter.
+
+8. “Goods Transport Agency” (GTA) under definition 2(ze) of Notification
+No. 12/2017-CT(Rate) dated 28-06-2017 states,
+
+(ze) “goods transport agency” means any person who provides service in
+relation to transport of goods by road and issues consignment note, by
+whatever name called;
+
+As per the above definition, the applicant shall not be considered as a
+Goods Transport Agency (GTA) as he is not involved in any of the activity
+namely, transportation goods by road, issue of consignment note, or
+ancillary activities such as loading, unloading, packing, transshipment,
+warehousing etc.
+
+9. Sl. No. 18 of the said Notification provides exemption only to ‘services
+by way of “Transportation of goods by read’ provided by persons other than
+Goods Transport Agency and Courier Agency. The relevant entry is,
+
+SI. Chapter, Description of Services Rate | Condition
+No, Section, (per
+
+Heading, cent.)
+
+Group or
+
+Service Code
+
+(Tariff)
+
+18 Heading 9965 | Services by way of transportation of | Nil Nil
+goods-
+(a) by road except the services of—
+(i) a goods transportation agency;
+(ii) a courier agency;
+(b) by inland waterways.
+
+Page 7 of 12
+
+
+10. In the instant case, as stated, the applicant is not providing the
+service of transportation of goods. Therefore, the applicant will not be
+eligible to claim the exemption provided under Notification No. 12/2017-
+CT(Rate) dated28-06-2017.
+
+11. Now, ‘electronic commerce’ and ‘electronic commerce operator’ has
+been defined under clause (44) and (45) of the Act, which states that,
+
+(44) “electronic commerce” means the supply of goods or services or both,
+including digital products over digital or electronic network;
+
+and
+(45) "electronic commerce operator” means any person who owns, operates
+or manages digital or electronic facility or platform for electronic commerce;
+
+12. As per the facts stated by the applicant, an e-commerce platform is
+being developed and to be operated by the applicant which connects service
+provider and the customer for ‘transportation of goods’. Thought the service
+is ‘transportation of goods’, the supply of such service is through electronic
+platform. Therefore, as per the activity stated by the applicant, they qualify
+as an e-commerce operator and hence, all provisions relating to it need to be
+followed by the applicant.
+
+18. As per Section 9(5) of the Act, tax is levied on some of the specified
+services, notified by the government in Notification No. 17/2017-CT(Rate)
+dated 28-06-2017, if supplied through an e-commerce operator, all the
+provisions of this Act shall apply to such electronic commerce operator as if
+he is the supplier liable for paying the tax in relation to the supply of such
+services. Here, the nature of service rendered through the applicant is
+transportation of goods which is not a specified service in the said
+notification. Hence, the provisions of Section 9(5) of the Act shall not apply
+in the instant case.
+
+14. An ‘agent’ is defined under Section 2(5) of the Act, as
+
+(5) "agent" means a person, including a factor, broker, commission agent,
+arhatia, del credere agent, an auctioneer or any other mercantile agent,
+by whatever name called, who carries on the business of supply or
+receipt of goods or services or both on behalf of another;
+
+The above definition states that an agent executes the supply or
+receipt of goods or services on behalf of another, namely the principal. Here,
+the receipt and supply of ‘goods transport service’ is between the transporter
+and the customer through the applicant’s electronic platform. Moreover, the
+passenger transportation services are not provided by the applicant, but by
+the transporter to the customer, though facilitated by the applicant.
+
+Page 8 of 12
+
+
+Therefore, the activity of the applicant would not fall within the scope of an
+‘agent’.
+
+15. The applicant further stated that in some bookings, the consideration
+collected by the applicant directly from the customers and paid to
+transporters through them after deducting their commission, would fall
+within ‘pure agent’s’ service and would not be liable to tax.
+
+16. The definition of pure agent under Rule 33 of the CGST Rules, 2017
+states as,
+
+Rule 33. Value of supply of services in case of pure agent.-
+
+Notwithstanding anything contained in the provisions of this Chapter, the
+expenditure or costs incurred by a supplier as a pure agent of the recipient
+of supply shall be excluded from the value of supply, if all the following
+conditions are satisfied, namely,-
+
+fi) the supplier acts as a pure agent of the recipient of the supply, when he
+makes the payment to the third party on authorisation by such recipient;
+
+(ii) the payment made by the pure agent on behalf of the recipient of supply
+has been separately indicated in the invoice issued by the pure agent to
+the recipient of service; and
+
+(iti) the supplies procured by the pure agent from the third party as a pure
+agent of the recipient of supply are in addition to the services he supplies
+on his own. account.
+
+Explanation. - For the purposes of this rule, the expression “pure agent”
+means a person who-
+
+(a) enters into a contractual agreement with the recipient of supply to act
+as his pure agent to incur expenditure or costs in the course of supply of
+goods or services or both;
+
+(b) neither intends to hold nor holds any title to the goods or services or
+both so procured or supplied as pure agent of the recipient of supply;
+
+(c) does not use for his own interest such goods or services so procured;
+and
+
+(d) receives only the actual amount incurred to procure such goods or
+services in addition to the amount received for supply he provides on his
+" own account.
+
+Page 9 of 12
+
+
+As per the definition of ‘Pure agent’ provided in the explanation to
+Rule, 33, the primary criteria is that the person should have entered into a
+contractual agreement with the recipient of supply to act as their pure agent,
+should incur expenditure or costs in the course of supply of goods or
+services or both, neither intends to hold or hold any title to the goods or
+services, does not use for his own interest and receives only the actual
+amount incurred to procure such goods or services in addition to the amount
+received for supply he provides on his own account. ,
+
+17. Here, there is no contractual obligation between the applicant and the
+transporter to act as a ‘pure agent’. The applicant did not fulfil the definition
+of a ‘pure agent’ and conditions specified in the rule. In the absence of
+fulfilling such conditions, the applicant shall not be considered as a pure
+agent for the limited purpose of collecting the entire money from the
+customer. Therefore, they are rightly classified as an e-commerce operator.
+
+18. The applicant receives a ‘commission’ from the vehicle
+owners/drivers/transporters who accepts the bookings through the platform
+each time the job of ‘transportation of goods’ is completed. This commission
+is deducted by the applicant from the pre-deposit to be made by the vehicle
+owners/drivers/transporters. Therefore, the applicant is liable to pay GST
+on the commission received from the vehicle owners/drivers/transporters.
+
+19. In addition to the commission received by the applicant, as an e-
+commerce operator, the collection of tax and liability to pay by the applicant
+is mandated under Section 52 of the Act. Section 52 provides guidelines and
+procedures for an e-commerce operator to collect tax at source, specifies the
+applicable rate of Tax collected at Source”(TCS), procedure for remitting the
+TCS and mandatory periodical declarations and returns to be submitted to
+the department.
+
+20. The applicant in this case, in not a ‘Goods Transport Agency’, not an
+‘agent’ not the actual service provider of ‘transportation of goods’ but
+facilitates both the transporters and the customers thorough electronic
+platform to render and avail the said service. Therefore, the applicant is
+rightly classified as an e-commerce operator who is liable to follow Section
+52 of the Act.
+
+"Section 52, Collection of tax at source.-
+
+(1) Notwithstanding anything to the contrary contained in this Act, every
+electronic commerce operator (hereafter in this section referred to as the
+"operator"), not being an agent, shall collect an amount calculated at such
+rate not exceeding one per cent.. as may be notified by the Government on
+the recommendations of the Council, of the net value of taxable supplies
+
+Page 10 of 12
+
+
+made through it by other suppliers where the consideration with respect to
+
+such supplies is to be collected by the operator.
+
+Explanation .-For the purposes of this sub-section, the expression "net
+value of taxable supplies" shall mean the aggregate value of taxable
+supplies of goods or services or both, other than services notified under
+sub-section (5} of section 9, made during any month by all registered
+persons through the operator reduced by the aggregate value of taxable
+supplies returned to the suppliers during the said month.
+
+(2) The power to collect.
+
+(3) The amount collected under sub-section (1) shall be paid to the
+GOverMMeENt 0.6... eceeeeceee
+
+21. As per Section 52(1) of the Act, every electronic commerce operator,
+who is not an agent, should collect an amount notified by the government
+from time to time, on the net value of taxable supplies made through
+e-commerce operator by the suppliers of taxable service and the
+consideration is to be collected by the operator. The applicant being an
+
+e-commerce operator is liable to collect TCS at the rate specified by
+Notification.
+
+22. The CGST rate of 0.5% notified by Notification No. 52/2018-CT dated
+20-09-2018 was reduced to 0.25% by Notification No. 15/2024-CT dated
+10-07-2024 issued under Section 52(1) of the Act. Similarly, the rate of IGST
+was 1% under Notification No. 02/2018-IT dated 20-09-2018 was reduced to
+0.5% by Notification No. 01/2024-IT dated 10-07-2024.
+
+23. The applicant is deducting commission from the deposit made by the
+transporters for each booking through their e-commerce portal/app. E-
+commerce operator is lable to pay GST on the commission, fees or any other
+charges they receive for providing their online platform. In addition to such
+commission, as the applicant is qualified as an e-commerce operator, if not
+under Section 9(5) of the Act (only for specified services), they are liable to
+follow the provisions contained in Section 52 of the Act. Accordingly, as per
+Section 52, the applicant is liable to collect the rate specified on the net
+value of taxable supplies made through it by the transporter(supplier) where
+the consideration for such supply of transportation has to be collected by the
+applicant, irrespective of whether the consideration paid is by the customer
+directly to the transporter or paid to the transporter through the applicant’s
+e-commerce platform.
+
+Page 11 of 12
+
+
+24. Based on the above discussion, we rule as under.
+
+RULING
+
+(i) Whether the applicant _— satisfies the definition of an
+
+“Flectronic commerce operator” or do they satisfy the definition. of “Goods
+Transport Agency”?
+The applicant satisfies the definition of an ‘economic commerce operator’
+and all the related provisions are required to be followed. The applicant
+do not satisfy the definition of ‘Goods Transport Agent’ as discussed in
+para — 8 above.
+
+(ii) What is the taxability of services provided by the applicant?
+
+In addition to paying GST on the commission received from the
+transporters, all the provisions of Section 52 are required to be followed.
+
+(B. Suseel Kaz
+Member (SGST)
+
+To
+
+M/s. A V Caro Migrators LLP,
+
+GSTIN: 33ACFFA7656K1Z5
+
+No.36/1, Raghav Towers,
+
+Amman Nagar, Saravanampatti,
+
+Coimbatore - 641 035. /By Speed Post/
+
+eave
+
+(C. Thiyagarajan)
+Member (CGST)
+
+Copy submitted to:
+
+1. The Principal Chief Commissioner of GST & Central Excise,
+26/1, Mahatma Gandhi Road, Nungambakkam, Chennai-600034.
+
+2. The Commissioner of Commercial Taxes,
+2nd Floor, Ezhilagam, Chepauk, Chennai - 600 005.
+
+3. The Commissioner of GST & Central Excise,
+Coimbatore Commissionerate,
+No. 6/7, A.T.D. Street, Race Course,
+Coimbatore — 641 018.
+
+Copy to:
+
+1. The Assistant Commissioner (ST),
+Saravanampatti (East) Assessment Circle,
+4 Floor, CTO Complex, Dr. Balasundaram Road,
+Coimbatore - 641 018.
+
+2. Master File/ Spare - 2.
+
+Page 12 of 12

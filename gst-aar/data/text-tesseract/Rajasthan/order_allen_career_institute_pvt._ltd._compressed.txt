@@ -1,0 +1,1556 @@
+RAJASTHAN AUTHORITY FOR ADVANCE
+RULING GOODS AND SERVICES TAX, KAR
+BHAWAN,AMBEDKAR CIRCLE,NEAR RAJASTHAN
+| HIGH COURT JAIPUR - 302005 (RAJASTHAN)
+
+ADVANCE RULING NO. RAJ/AAR/2025-26/23
+| Utkarsiia aE pea ie
+| Joint Commissioner : meena (Gontral Tes)
+
+Dr. Akhedan Charan “a
+Additional Commissioner | | Mieeathet (stake Ta]
+
+Name and address of the} | M/s ALLEN CAREER INSTITUTE PRIVATE
+applicant | LIMITED,CP-06, SANKALP, INDRA VIHAR,
+: | KOTA, RAJASTHAN-324005
+
+|GSTIN of the applicant || OBAAVCA8216C1Z] fy ese.
+Clause(s) of Section 97(2) of | | (a) classification of goods and/or services
+CGST/SGST Act, 2017,| | or both
+
+under which the | "| (e) Determination of the liability to pay tax
+question(s) raised on any goods or services or both ai
+_Date of Personal Hearing # | 17.08.2026
+
+Mr. Kumar Vikas Jain(CA), Mr. Lalit
+Maheshwari(CA), Mr. Mihir Maru(CA), Mr.
+Vikas Binani(CA) and Mr. Pratik
+= _ | Sampat(CA)
+
+Present for the applicant
+
+Note 1: Under Section 100 of the CGST/RGST Act, 2017, an appeal against this
+ruling lies before the Appellate Authority for Advance Ruling, constituted
+under Section 99 of CGST/RGST Act, 2017, withina period of 30 days from the
+date of service of this order.
+
+Note 2: At the outset, we would like to make it clear that the provisions of
+both the CGST Act and the RGST Act are the same except for certain
+provisions. Therefore, unless a mention is specifically made to such dissimilar
+provisions, a reference to the CGST Act would also mean a reference to the
+same provision under the RGST Act. Further to the earlier, henceforth for the
+purposes of this Advance Ruling, a reference to such a similar provision under
+the CGST Act / RGST Act would be mentioned as being under the "GST Act".
+
+The issue raised by M/s ALLEN CAREER INSTITUTE PRIVATE LIMITED,CP-
+06, SANKALP, INDRA VIHAR, KOTA, RAJASTHAN-324.005 (hereinafter “the
+applicant”) is fit to pronounce advance ruling as they have deposited
+prescribed Fee under CGST Act and it falls under the ambit of the Section
+97(2)given as under:
+
+Page 1 of 30
+
+
+(a) classification of goods and/or services or both
+
+(e) Determination of the liability to pay tax on any goods or services or both
+
+A. SUBMISSION OF THE APPLICANT{in brief):-
+
+Brief facts of the case:
+
+@ Alien Career Institute Private Limited (hereinafter referred to as
+“the Applicant”) is a private limited company incorporated in India
+under the Companies Act, 2013, and is registered under the GST Act
+
+The Applicant is a privately held education institution providing
+
+oe =: 2 s “ education to students for competitive exams in streams such as IIT-
+JEE, NEET, and other competitive examinations. The institute is
+headquartered in Kola, Rajasthan, and operates multiple centres in
+Rajasthan and other States across India.
+
+@ Apart from offline coaching the Applicant also offers digital
+coaching programs through its e-learning platform, through its
+website and its mobile application. These programs comprise live
+online classes, pre-recorded courses, or a combination of both,
+delivered over the internet.
+
+@ Students pay a subscription fee to access these courses and are not
+required to be physically present in any classroom. Similarly, the
+education content available on the platform might also be streamed
+from a place where student may not be located. The student may be
+in one state, the trainer providing live online lectures may be
+located in any State across India, and the downloadable content (i.e.
+video / digital material) provided to student may be hosted on a
+server located in another state anywhere in India. The technology
+team responsible for managing and maintaining the online platform
+is situated in the State of Karnataka. The invoice for such services is
+raised to the student from the state of Rajasthan.
+
+@ The essential feature of the Applicant’s supply is grant of electronic
+access to digital educational content, enabling students located
+across India to learn through the online platform. The platform
+offers interactive classes. The applicant also sends printed study
+materials to enrolled students to enhance learning outcomes, which
+
+are dispatched through courier from Kota to the address provided
+by the students,
+
+B. INTERPRETATION AND UNDERSTANDING OF APPLICANT ON
+QUESTION RAISED (IN BRIEF)
+
+Page 2 of 30
+
+
+Query 1 - Whether supply of online training services (delivered through
+live/recorded digital platforms) shall qualify as “online information or
+database access retrieval service” under HSN 998433 (i.e. On-line video
+content) or should be covered under HSN code 999293 (i.e. Commercial
+Training and Coaching Services)?
+
+2.1 As Per Section 2(17) of Integrated Goods and Services Tax Act,
+
+2017 (IGST Act’) “online information and database access or
+retrieval services” (ic. OIDAR service) have been defined as
+following -
+‘.(17). “online information and database access or retrieval
+services" means services whose delivery is mediated by information
+technology over the internet or an electronic network and the nature
+of which renders their supply impossible to ensure in the absence of
+al information technology and includes electronic services such as,-
+
+(i) advertising on the internet;
+
+(ii) providing cloud services;
+
+(iii) provision of e-books, movie, music, software and other
+intangibles through lelecommunication networks or internet;
+
+(iv) providing data or information, retrievable or otherwise, to any
+person in electronic form through a computer network;
+
+(v) online supplies of digital content (movies, television shows, music
+and the like);
+
+(vi) digital data storage; and
+(vii) online gaming, excluding the online money gaming as defined
+
+in clause (80B) of section 2 of the Central Goods and Services Tax
+Act, 2017 (12 of 2017,);...’
+
+2.2 Given this, OIDAR services means services whose delivery is
+mediated by information technology over the internet or an
+electronic network and the nature of which renders their supply
+
+impossible to ensure in the absence of information technology.
+
+2.3 The Applicant provides digital coaching programs through its e-
+learning platform, which consist of live online classes, pre-
+recorded courses, or a combination of both. Students pay a
+subscription fee to access these courses and are not required to be
+physically present in any classroom. The essential feature of the
+Applicant's supply is the grant of electronic access to digital
+educational content hosted on the online platform, enabling
+students located across multiple states to participate in the
+
+Page 3 of 30
+
+
+
+courses over the internet. Accordingly, the Applicant’s online
+
+training services are delivered entirely through information
+technology and do noLinvolve any physical presence of the student
+or trainer at a specific location.
+
+2.4 Given that the online training services are provided to the relevant
+students for consideration, the said online training services
+provided by the Applicant would qualify within the definition of
+“OIDAR services”.
+
+2.5 Further, it may be noted that there is no specific HSN code
+
+prescribed for OIDAR services. However, IISN code 998433
+
+pertains to ‘On-line video content’ services which is defined as
+
+follows -
+
+“.. This service code includes electronic files containing films and
+4 other video recordings that can be downloaded and stored on a local
+/ device; streamed video data sent over the Internet
+
+,
+
+2.6 Given this, OIDAR services should be classified within HSN code
+998433 i.e. ‘On-line video content’.
+
+2.7 HSN Code 999293 pertains to “Commercial Training and Coaching
+Services”. As per the Explanatory Notes to the Scheme of
+Classification of Services under GST, the said entry covers training
+or coaching provided by an institute or establishment for
+imparting skills or knowledge, typically involving direct
+engagement between the trainer and the trainee, whether or nota
+certificate is issued, and ordinarily conducted in the nature of
+instructor-led coaching or tutorial classes,
+
+2.8 The essential character of services classifiable under HSN Code
+999293 is thus human-centric instruction, where the trainer’s
+continuous involvement, supervision, and interaction form the
+core of the service being supplied.
+
+2.9 In the present case, the Applicant’s services are not in the nature
+of conventional commercial coaching or training services
+envisaged under HSN Code 999293. The Applicant does not
+provide personalised or instructor-dependent coaching to
+individual students. Instead, the Applicant supplies standardised
+digital educational content through its proprietary online
+platform, which is accessed by students on a self-paced or
+scheduled basis through the internet
+
+2.10 The delivery of such services is entirely technology-driven and
+automated, and the role of the Applicant is limited to hosting,
+maintaining, and enabling electronic access to the digital content.
+
+Any human involvement is limited to content creation at an earlier
+
+Page 4 of 30
+
+
+Stage and does not constitute the dominant or essential feature of
+the supply at the time of delivery to the students. Accordingly, the
+Applicant’s services lack the essential attributes of commercial
+training and coaching services classifiable under HSN Code
+999293.
+
+2.11 Further, the determination of whether a service qualifies as an
+OIDAR service is governed exclusively by the slalutory definition
+under Section 2(17) of the IGST Act, 2017, which emphasises the
+automated, internet-based delivery of services with minimal
+human intervention, and the impossibility of such supply in the
+absence of information technology.
+
+2.12 The Applicant’s services satisfy all the elements of the OIDAR
+
+definition, inasmuch as they are delivered electronically over the
+
+internet, are accessible only through digital platforms, and
+essentially involve the online supply of video-based educational
+
+ie , content. Merely because the subject matter of the content relates
+
+to education or skill development, the same cannot be classified
+
+“wis sounder HISN Code 999293 when the mode, manner, and essential
+
+, character of the supply squarely correspond to “on-line video
+content” covered under IISN Code 998433,
+
+2.13 Accordingly, the Applicant submits that its services are classifiable
+under HSN Code 998433 as online content service (i.e. OIDAR
+services), and cannot be classified under HSN Code 999293, which
+is intended to cover human-driven commercial coaching and
+training services.
+
+Query 2 - Determination of the tax liability under the CGST and SGST Acts
+especially when the student is hased ina state outside Rajasthan?
+
+2.14As mentioned above, it may be noted that students are based
+across India (i.e. even outside Rajasthan). Hence, it is imperative to
+evaluate if GST is required to be charged as per CGST Act and
+Rajasthan SGST Act or as per IGST Act for the transactions
+undertaken with students located outside the state of Rajasthan.
+
+2.15 For the purpose of determining this, it is imperative to determine
+whether the supply is an intra-state supply or inter-state supply.
+The applicants has student across multiple states (i.e. within the
+state of Rajasthan as well as outside the state of Rajasthan). Hence,
+itis necessary to determine if a transaction is intra-state supply or
+inter-state supply.
+
+2.16 Section 9(1) of The Central Goods and Services Tax Act, 2017
+(‘CGST Act’) read with Section 5(1) of IGST Act states that there
+shall be levied a tax called central goods and services tax on intra-
+
+Page 5 of 30
+
+
+state supply whereas tax called integ
+on inter-state supply.
+
+rated goods and services tax
+
+2.17 In this regard, the Applicant would like to refer to Section 7 and
+Section 8 of IGST Act to evaluate whether the supply would be
+construed as intra-state supply or inter-state supply.
+
+2.18 As per Section 7(3) of IGST Act, supply of services, where location
+of the supplier and the place of supply are in two different states,
+shall be treated as inter-state supply subject to provision of Section
+12 of IGST Act.
+
+The relevant extract of Section 7(3) of IGST Act has been reproduced
+herein below:
+“(3) Subject to the provisions of section 12, supply of services,
+
+where the location of the supplier and the place of supply are
+in-
+
+a) two different States;
+b) two different Union territories; or
+
+c) a State and a Union territory,
+
+shall be treated as a supply of services in the course of inter-State
+trade or commerce.”
+
+2.19 Section 8(2) of IGST Act states that the supply of services shall be
+treated as intra-state supply, where location of the supplier and
+the place of supply are in same state, subject to provision of Section
+12 of IGST Act.
+
+2.20 Based on the above, the Applicant submits that it is imperative to
+analyze the place of supply provisions for online training services
+as per Section 12 of IGST Act. Section 12 of IGST Act deals with the
+place of supply of services where location of supplier and recipient
+is in India.
+
+2.21 Section 12(3) to 12(14) determines the place of supply under
+specific circumstances. If a service does not fall within these
+provisions, then the place of supply would be determined as the
+residual provision under Section 12(2) of IGST Act.
+
+2.22 As mentioned above, the Applicant is engaged in supply of OIDAR
+services to students who are residing across the country (i.e.
+within the state of Rajasthan and outside the state of Rajasthan),
+In this connection, the Applicant would refer to and analyze the
+
+provision of Section 12(5) of IGST Act which is related to training
+and performance appraisal.
+
+Page 6 of 30
+
+
+2.23 As per Section 12(5) of IGST Act, the place of supply of se
+
+relation to training and performance appraisal to:
+
+rvices, in
+
+a) Registered person shall be the location of such person;
+
+b) Unregistered person shall be the location where the services are
+actually performed.
+
+We have reproduced the extract of the provision below -
+
+“The place of supply of services in relation to training and performance
+appraisal to,-
+
+\ en a) a registered person, shall be the location of such person;
+Vet \b) a person other than a registered person, shall be the location
+
+a |
+
+__/ where the services are actually performed.”
+
+2.24 Section 12(5) of IGST Act mentions that the place of supply of
+services, in relation to training and performance appraisal services
+to unregistered person shall be the location where the services are
+actually performed.
+
+2.25 The key issue is whether ‘actually performed’ can be applied to
+online training services, given that such services are delivered
+virtually and do not require the physical presence of the student
+and trainer in the same location.
+
+2.26 The Applicant submits that the provision of Section 12(5) of IGST
+Act fits well where the person supplying the training service and
+the recipient thereof are physically present at the same place. In
+the instant case, it cannot be said that the services are actually
+performed at a particular place. Thus, section 12(5)(b) of IGST Act
+may not be the appropriate rule which could determine the place
+of supply for the online services provided by the Applicant.
+
+2.27 Online coaching or training services through an interactive
+website is a well-established mode of teaching/coaching and the
+only difference between traditional coaching and online coaching
+is the medium.
+
+2.28 While evaluating any tax implication, it is pertinent to note that
+
+Page 7 of 30
+
+
+substance takes precedence over form. Unlike traditional in-
+person training, where the physical presence of both the trainer
+and the trainee al a specific location is required, online training
+
+does not havea fixed venue where training is "actually performed."
+
+2.29 In the case of physical classroom sctting, it is easy to establish the
+place of supply because the training is conducted at a defined
+geographical location (e.g., an institute’s premises, a corporate
+oflice, or an hall). However, for online training, both the instructor
+and the students may be situated in different locations, often in
+different cities or states, making it impossible to determine a single
+place where services are performed.
+
+ER 2% In an online setting, the coaching institute may be located in one
+re 3 city, the trainer in another, and the students dispersed across
+different locations. The use of the word “aclually" in Section
+12(5)(b) of IGST Act implies that the service must be performed at
+
+a real-world location, which is clear for in-person training but
+unclear for online training.
+
+2.31 In such circumstances, it cannot be said that the online training
+services are actually performed at a particular place. Thus, it is not
+possible to determine the place of supply of service under Section
+12(5)(b) for online training services.
+
+2.32 In the instant case, the application is located in the state of
+Rajasthan, the students are located across India, the server on
+which the courses are located in Karnataka, in case of live-courses
+the lecturer may be located in any state, Given this, there is no
+single place where services are actually performed.
+
+2.33 The Applicant would like to draw reference to Taxation of Services
+- An Education Guide dated 20.06.2012 (Education Guide) issued
+under erst while Service Tax law. The Education Guide had
+categorically clarified that certain services such as cosmetic
+surgery, health and fitness services, class room teaching etc.,
+require the physical presence of the individual for the provision of
+service and the services are provided at the service provider
+premises / at the customer's premises, if the customer is on the
+move.
+
+Page 8 of 30
+
+
+Relevant extract of the same are reproduced below:
+
+“9.4.3 What are the services that are provided “to an individual
+
+. which require the physical presence of the receiver ... with the
+provider for provision of the service.”?- sub-rule (2)
+
+Certain services like cosmetic or plastic surgery, beauty treatment
+services, personal security service, health and fitness services,
+photography service (to individuals), internet café service,
+classroom teaching, are examples of services that require the
+presence of the individual receiver for their provision. As would be
+evident from these examples, the nature of services covered here is
+such as are rendered in person and in the receiver’s physical
+presence. Though these are generally rendered at the service
+provider's premises (al. a cosmetic or plastic surgery clinic, or beauty
+parlor, or health and fitness centre, or internet ca/é), they could also
+be provided at the customer’s premises, or occasionally while the
+
+receiver is on the move (say, a personal security service; or a beauty
+treatment on board an aircraft).”
+
+2.34 Based on the clarification in the Education Guide, it appears that
+these specific services are of such typical nature that the
+performance of such services has to be the place where both the
+supplier and recipient are located together and it would be
+
+impossible for the supplier to supply such services without the
+physical presence of the receiver.
+
+2.35 On perusal of the provisions of Section 12(5) of the IGST Act, it
+appears that the GST law has specified the place of supply in
+respect of coaching / training services to be the place of actual
+performance considering that the physical presence of supplier
+and recipient at one place is mandatorily required for rendering
+such services.
+
+2.36 Hlowever, it appears thal the GST provisions does not intend to
+specifically prescribe the place of supply in respect of online
+coaching / training services and hence, the place of supply in
+respect of the online coaching / training services would have to be
+determined in accordance with Section 12(2) of the IGST Act.
+
+Page 9 of 30
+
+
+2.371In view of the above, the Applicant submits that any of the
+provisions mentioned in Section 12(3) to Section 12(14) of IGST
+Act are not applicable. Therefore, the place of supply in respect of
+the online coaching/ training services needs to be determined in
+accordance with Section 12(2) of IGST Act.
+
+2.38 We have reproduced the relevant extract of the provision below:
+“Section 12(2) The place of supply of services, except the services
+specified in sub-sections
+
+(3) to (14) -
+
+a) made to a registered person shall be the location of such person;
+
+b) made to any person other than a registered person shall be:
+1. the location of the recipient where the address on record exists; and
+2. the location of the supplier of services in other cases.”
+
+2.39 Additionally, it is respectfully submitted that the issue relating to
+the determination of place of supply in respect of online services,
+including OIDAR services supplied to unregistered recipients, now
+stands conclusively clarified by CBIC Circular No. 242/36/2024-
+GST dated 31 December 2024, issued under Section 168(1) of the
+CGST Act, 2017.
+
+2.40 The said Circular clarifies that in cases involving supply of OIDAR
+services to unregistered recipients, the supplier is mandatorily
+required to record the name of the State of the recipient on the tax
+invoice, irrespective of the value of supply, and such State name
+shall be deemed to be the “address on record” of the recipient for
+the purposes of determination of place of supply. Being a
+clarification issued by the CBIC to ensure uniform implementation
+of the law, the said Circular is binding on the tax authorities and
+squarely applicable to the facts of the present case.
+
+2.41 In this regard, the Circular in Para 4.4 categorically provides as
+follows:
+
+Page 10 of 30
+
+
+“.Recording of the name of the State of the unregistered recipient
+an the tax invoice in respect of such supply of services shall be
+deemed as the address on record af the recipient for the purpose of
+determination of place of supply of the said services under section
+12(2)(b) of IGST Act. Accordingly, in such cases, the place of supply
+of such services shall be considered as the location of the recipient of
+
+the services as per provisions of clause (i) of section 12(2)(b) of IGST
+ACE.
+
+2.42 Further, Para 4.5.2 of the Circular categorically provides following -
+
+“..l"or the purpose of recording the name of the State of the
+recipient on tax invoice in respect of such supplies made to
+unregistered persons for such online services, supplier should devise
+suitable mechanism to ensure collection of such details from
+
+», Unregistered recipient before making any supplies to him. As
+\ynentioned above, in such cases, the name of the State of the
+
+'= recipient so recorded shall be deemed to be the address of recipient
+Subs 5 ‘available on record and thus, for determining place of supply of the
+“ said services, provisions of section 12(2)(b)(i) of IGST Act will be
+applicable as per which (he place of supply shall be the location of
+the recipient...”
+
+2.43 Applying the above clarification to the instant case, once the
+Applicant's supply is characterised as OIDAR services, the place of
+supply is mandatorily required to be determined under Section
+12(2)(b)(i) of the IGST Act, ie., the location of the unregistered
+recipient, and not under any other provision, including Section
+12(5) of the IGST Act.
+
+2.44 \ construction that seeks to identify a fictional “place of actual
+performance” for online services would be administratively
+impractical and contrary to the CBIC’s own. clarification
+mechanism as provided under Circular No. 242/16/2017-GST.
+Such an approach would undermine the clarity and predictability
+intended by the Circular, which specifically addresses the
+treatment of online or OIDAR services without reference to a
+notional physical location.
+
+Page 11 of 30
+
+
+2.45 It is respectfully submitted that Section 12 of the IGST Act is a self-
+contained and structurally coherent code for determination of
+place of supply of services, wherein sub-section (2) lays down the
+general rule, and sub-sections (3) to (14) carve out specific
+exceptions based on the nature of services and their physical
+nexus. A conjoint reading of sub-sections (3), (4),(6) and (7)
+demonstrates a clear and consistent legislative pattern whereby
+the place of supply is determinable with reference to a tangible,
+physical location, such as the location of immovable property, the
+place where services are actually performed, or the venue where
+an eventis held. These provisions are designed to address services
+which, by their very nature, are inseparably linked to physical
+performance or physical presence, thereby justifying a departure
+from the general rule under Section 12(2) of IGST Act.
+
+2.46 In this backdrop, Section 12(5) of the IGST Act, which deals with
+“training and performance appraisal” services, must necessarily be
+interpreted contextually and harmoniously with the surrounding
+provisions of Section 12 of the IGST Act. The expression “where the
+services are actually performed” used in Section 12(5)(b) of the
+My IGST Act clearly presupposes a physical act of performance at an
+SF are a identifiable location, consistent with the legislative scheme
+~ evident in Sections 12(3), 12(4), 12(6) and 12(7) of the IGST Act.
+Applying settled principles of statutory interpretation, including
+noscitur a soctis, the scope of Section 12(5) of IGST Act cannot be
+exLended to cover services which are digitally delivered, location-
+agnostic, and incapable of being tethered to a physical place of
+performance, as such an interpretation would disrupt the internal
+consistency of Section 12 of IGST Act and render the phrase
+
+“actually performed” redundant.
+
+2.47 Online training services delivered through an electronic platform
+do not involve performance at any physical location relatable to
+the recipient, instructor, or supplier in the conventional sense
+contemplated under Section 12(5) of IGST Act. Such services are
+technology- mediated, electronically supplied, and independent of
+physical presence, and therefore fall outside the mischief sought to
+be addressed by Section 12(5) of IGST Act. Consequently, treating
+online training services as falling within Section 12(5) would
+amount to importing virtual or fictional performance into a
+
+provision that is otherwise grounded in physical reality, leading to
+
+Page 12 of 30
+
+
+an anomalous and unintended result. Accordingly, online training
+Services are required to be excluded from the ambit of Section
+12(5) of IGST Act and must necessarily revert to the general place
+of supply rule under Section 12(2) of IGST Act, 2017, which
+governs services not specifically covered by sub-sections (3) to
+
+(14).
+
+2.48 Where two specific provisions may potentially apply, the provision
+most directly aligned with the nature and mode of the service shall
+prevail. In the present context of training services:
+
+(i) Section 12(5) of the Central Goods and Services Tax Act,
+2017 specifically governs training services that are
+physically conducted in person.
+
+(ii) Section 12(2) of the Central Goods and Services Tax Act,
+2017 read with Circular No, 242/16/2017-GST specifically
+governs online training services and services provided
+through the OIDAR (Online Information and Database
+Access or Retrieval) mechanism.
+
+Accordingly, even if both provisions are specific, the provision
+mise SA / aligned with the actual mode of delivery applies. Therefore,
+Section 12(2) read with Circular No. 242 shall apply to online or
+OIDAR training services, while Section 12(5) shall apply only to
+physically conducted training services.
+
+2.49 In this regard, the Applicant places reliance on Bangalore CESTAT
+decision in the case of Focus Edu Care [2024-VIL-1234-CESTAT-
+BLR-ST dated 26 September 2024] wherein the CESTAT addresses
+that the place of provision of services in case of supply of e-
+learning course as well as supply of providing tutors for online
+trainings shall be determined according to Rule 3 outlined in the
+Place of Provision of Services (POPS) Rules, 2012. Rule
+3 serves as the gencral rule, which coincides with Section 12(2) of
+the IGST Act, establishing a framework for determining the place
+of provision of services in case the service is not covered under
+specific provisions mentioned under rule 4 to 12 of the POPS Rules,
+2012.
+
+2.50 Although the provisions of service tax may be different from GST
+
+laws, an analogy may be drawn from the above judgment,
+
+Page 13 of 30
+
+
+emphasizing the significance of applying the general principles of
+place of supply to online training services,
+
+2.51A harmonious and purposive construction of Section 12 of the
+IGST Act, the statuLory definition of OIDAR services under Section
+2(17), and CBIC Circular No. 242/36/2024-GST dated 31
+December 2024, leads to an inevitable conclusion that online
+training services supplied through a digital platform cannot be
+governed by Section 12(5) of the IGST Act. As discussed above,
+Section 12(5) forms part of a continuous chain of place-of-supply
+provisions under Sections 12(3) to 12(7), all of which are
+premised on a physical nexus and identifiable place of actual
+performance or occurrence. In contrast, OIDAR services are, by
+statutory definition, services whose delivery is mediated by
+information technology over the internet and the supply of which
+is impossible in the absence of such technology, rendering them
+inherently location-agnostic and incapable of being linked to a
+physical place of performance.
+
+. “i. 2.52 Recognising this distinction, CBIC Circular No. 242./36/2024-GST
+7 specifically clarifies that in cases involving supply of OIDAR
+services to unregistered recipients, the supplier is mandatorily
+required to record the name of the State of the recipient, which
+shall be deemed to be the address on record, and the place of
+supply shall be determined under Section 12(2)(b)(i) of the IGST
+Act as the location of the recipient. This clarification ensures that
+OIDAR services are systematically carved out from physical-
+performance-based provisions and are aligned with the
+destination-based principle of GST. Any attempt to artificially
+subsume online training services within Section 12(5) of IGST Act
+would not only contradict the statutory definition of OIDAR
+services but would also defeat the clarified legislative scheme and
+
+disturb the internal coherence of Section 12 of IGST Act.
+
+2.53 Without prejudice, it is respectfully submitted that classifying
+online training services under Section 12(2) of the IGST Act, as
+OIDAR services, does not result in any revenue leakage or tax
+avoidance. On the contrary, as clarified by CBIC Circular No.
+242/36/2024-GST, suppliers of OIDAR services are mandatorily
+required to record the State of the unregistered recipient on the
+tax invoice, which is deemed to be the address on record, thereby
+
+Page 14 of 30
+
+
+ensuring accurate determination of place of supply and correct
+apportionment of tax to the destination State. Conversely, forcing
+such services into Section 12(5), which is designed for physically
+performed training services, would create ambiguity, practical
+impossibility of identifying the place of “actual performance”, and
+inconsistent tax treatment for identical online supplies. Therefore,
+classification of online training services as OIDAR services
+governed by Section 12(2) of IGST Act not only accords with
+statutory intent and administrative clarification but also advances
+certainty, uniformity, and the core destination-based philosophy
+of GST, rather than undermining it.
+
+2.541n view of the above arguments, the Applicant submits that the
+online training services provided to students across India would
+be classified as OIDAR services and fall within Section 12(2) of
+IGST Act. Accordingly, IGST would be levied on inter-state supply
+to GST- unregistered students located outside the state of
+Rajasthan (where address on record exist) and CGST / SGST would
+be levied on GST-unregistered students within state of Rajasthan.
+Given this, levy of GST is required to be determined as per IGST Act
+and not as per CGST Act and Rajasthan SGST Act.
+
+CONCLUSION
+
+In view of the foregoing submissions, the Applicant respectfully
+submits that the online coaching programmes delivered through its
+digital platform are, in substance, technology-mediated supplies falling
+squarely within the statutory definition of “Online Information and
+Database Access or Retrieval Services” under Section 2(17) of the IGST
+
+Actand hence should be classified under HSN 998433 (i.e. On-line video
+
+content)
+
+Itis further submitted that Section 12(5) of the IGST Act, which governs
+training services actually performed at an identifiable physical location,
+is inapplicable to online training services that are location-agnostic and
+incapable of being tethered to a single place of performance. A
+harmonious reading of Section 12 of the IGST Act, the statutory
+definition of OIDAR services, and CBIC Circular No. 242/36/2024-GST
+dated 31 December 2024 unequivocally establishes that the place of
+
+supply of such online services supplied to unregistered recipients must
+
+Page 15 of 30
+
+
+be determined under Section 12(2)(b)(i) of the IGST Act, ie., the
+
+location of the recipient based on the address on record.
+
+Accordingly, supplies made to unregistered students located outside
+the State of Rajasthan would qualify as inter-State supplies and should
+be taxed as per IGST Act and should be liable to IGST, whereas supplies
+made to unregistered students located within the State of Rajasthan
+would qualify as intra-Stale supplies and should be taxed as per CGST
+Act and Rajasthan SGST Act liable to CGST and Rajasthan SGST. The
+Applicant therefore humbly prays that this Hon’ble Authority may be
+
+pleased to rule accordingly.
+
+‘In consequence and continuance to personal hearing 3 separate mail
+were sent to the applicant. The applicant has replied all 3 mails in one
+
+reply, itis relevant to reproduce here reply of applicant.
+
+Q No 1- Whether student can comment on pre-recorded or live videos or live
+video records?
+
+Allen's Answer - No, the student cannot comment on any pre-recorded
+videos. The only option available to the student is to adjust the volume, adjust
+the playback speed, adjust the resolution and save the view frame being
+
+played. We have attached the snapshot of these features in the ‘Document 1’
+attached herewith.
+
+However, the student can use the Al enabled problem ‘Doubts’ tab to clarify its
+doubts whereby the student can ask the question and the AI shall respond to the
+question automatically. We have attached a snapshot of the doubts page also
+as Document 2.
+
+As regard live videos, the sessions include real-time doubt-solving, where
+students interact directly with the tutor online, raise their queries on the website
+/ app, and receive immediate clarification on the website / app. We have
+attached a snapshot of the session as Document 3.
+
+Q No 2- Whether facility to reply is there on comment made by the students?
+
+Allen’s Answer - No, the student cannot comment on any pre recorded
+videos. The only option available to the student is to adjust the volume, adjust
+the playback speed, adjust the resolution and save the view frame being
+played. We have attached the snapshot of these features in the ‘Document 1’
+attached herewith.
+
+Page 16 of 30
+
+
+However, the student can use the Al enabled problem ‘Doubts’ tab to clarify its
+doubts whereby the student can ask the question and the Al shall respond to the
+
+question automatically. We have attached a snapshot of the doubts page also
+as Document 2.
+
+With regard to live videos, as explained above the doubts sought by the students
+are addressed during the live interaction.
+
+Q No 3- Name of courses introduced so far
+
+Allen’s Answer : Attached is the list of courses introduced so far on our digital
+platform. (refer “Document 5 - Digital course list”)
+
+Q No 4 - Whether constitution of classes are made as student come one by one
+Le. randomly or constitute classes according to level and goal of the student.
+
+Allen’s Answer :. Goal are based on the exam for which students want to
+prepare. Students are assigned to batches on a first-come, first-served basis,
+ \pisubject to the maximum capacity of each batch. For example - Test prep, each
+an 5 atch can accommodate approximately 400-600 students, while for PNCF,
+oe =~ “/batch strength typically ranges between 125-200 students, depending on the
+
+ES" grade level.
+
+QNo 5 - Whether you conduct mock test during the module or not.
+
+Allens’s Answer : Yes, online mock test can be done by the student (not
+mandatory) after completion of the relevant syllabus to ensure that students are
+assessed comprehensively on the topics covered. We have attached herewith the
+
+snapshot of test conducted in past as Document 4, 10-15 mock tests are held in
+each course.
+
+ig QUESTIONS ON WHICH THE ADVANCE RULING IS SOUGHT:
+
+Q1. Whether supply of online training services (delivered through
+live/recorded digital platforms) shall qualify as “online information or
+database access retrieval service” under HSN 998433 (i.e. On-line video
+content) or should be covered under HSN code 999293 (i.e. Commercial
+Training and Coaching Services)?
+
+Q2. Determination of the tax liability under the CGST and SGST Acts especially
+when the student is based in a slate outside Rajasthan?
+
+D. COMMENTS OF THE JURISDICTIONAL OFFICER: -
+
+Page 17 of 30
+
+
+Comments received from the Office of Deputy Commissioner, State Tax,
+Circle-E, ZONE- KOTA,vide letter F.No.:-517 dated 17.03.2026 are as under:
+
+“1. Brief Fact of Case:
+
+The applicant, M/s Allen Carcer Institute Private Institute Ltd
+having GSTIN O8AABCA8216C1ZJ, is engaged in Providing
+coaching for competitive exam NEET, IIT JEE, Other competitive
+Exams ete.
+
+The Applicant also provides digital coaching programs through
+its e-learning platform. The Applicant has filed an application
+U/S of 97(1) of CGST Act 2017 seeking on advance ruling on the
+following questions:
+
+(i) Whether supply of online training services (delivered through
+
+ live/recorded digital platforms) shall qualify as “online information
+or database access retrieval service” under HSN 998433 (i.e. on-line
+video content) or should be covered under HSN code 999293 (i.e.
+commercial training and coaching Services)?
+
+(ii) Determination of the tax liability under the CGST and SGST Acts
+especially when the student is based ina state outside Rajasthan?
+
+2. Comments on Merits of the case:
+
+On examination of the submissions made by the applicant and
+record available, as per the provisions of CGST Act 2017 and
+relevant rules/notifications the following is the legal positions
+regarding questions raised by applicant:
+
+ISN Classification: OIDAR (ISN 998433) or Commercial
+Training & Coaching (HSN 999293)?
+
+(i) Section 2(17) of the IGST Act requires two conjunctive conditions
+for OIDAR — internet-mediated delivery, and that the nature of the
+service renders its supply impossible without information
+technology.
+
+(ii) © The Applicant clears the first but fails the second. Coaching for IIT-
+[EE/NEET has existed in physical classrooms for generations — itis
+
+not technology-born. Going online changes the delivery channel, not
+the nature of the service. The impossibility test must be applied to
+the service's intrinsic character, not to a particular mode of its
+delivery.
+
+(iii) Classification must follow dominant character, not medium. The
+
+Page 18 of 30
+
+
+Applicant sells structured, teacher-led examination preparation —
+‘live classes, curated content, doubt-clearing and performance
+tracking by qualified faculty. Students subscribe to be taught, not to
+retrieve data. The Applicant itself concedes in para 2.27 of Annexure-
+8 that online coaching is merely a different medium for delivering the
+same service. A service cannot be classified differently when one's own
+pleadings confirm only the medium has changed. HSN 999293 —
+covering instructor-led, tutorial-based coaching by an institution —
+precisely describes the Applicant's model, as confirmed by the
+Explanatory Notes to the Scheme of Classification of Services,
+
+(iv) OIDAR examples under Section 2(17) — cloud storage, online
+gaming, movie/music streaming, internet advertising — are
+uniformly automated, faceless, system-driven services. Competitive
+examination coaching is the opposite: expert faculty design courses,
+conduct live interactive sessions and guide student performance.
+The Applicant's own Annexure-A discloses interactive live classes
+and physical courier dispatch of printed study materials from Kota
+— hallmarks of a coaching institution, not a passive content-
+
+LEER retrieval mechanism.
+ff (4 ms ve The Applicant's services do not qualify as OIDAR and are
+. | correctly classifiable under HSN 999293 (Commercial
+Lf } Training aud Coaching Services).
+
+Place of Supply: Intra-state (CGST+SGST) or Inter-state (IGST)?
+
+(i) ‘The Applicant's Query 2 argument rests entirely on its OIDAR
+classification — if OIDAR, then Section 12{2) applies, then
+recipient's location is the place of supply, then IGST. Since the
+services are coaching and not OIDAR, this chain breaks at the
+first link. Section 12(5) of the IGST Act — the lex specialist
+specifically governing training and performance appraisal
+services — applies mandatorily.
+
+(ii) Section 12(2) itself operates only for services not covered
+by sub-sections (3) to
+(14); Section 12(5) is a specific provision within that range.
+
+(iii) Under Section 12(5)(b), for training services to unregistered
+persons, the place of supply is where the services are actually
+performed. On the Applicant's own admitted facts —
+headquarters, faculty, course _development,__platform
+management and billing are all at Kota, Rajasthan; syllabi
+are designed, lectures recorded, live classes conducted, study
+materials dispatched and invoices raised
+
+Page 19 of 30
+
+
+— all from Rajasthan. The service is performed in Rajasthan.
+A_student in another State receives the benefit there — but
+Section 12(5)(b) speaks of the _place_of performance, not
+receipt. Since both the supplier's location and place of supply
+are in Rajasthan, the supply is intra-state under Section 8(2)
+
+of the IGST Act.
+(iv) CBIC Circular No. 242/36/2024-GST was issued
+
+specifically for OIDAR services and cannot govern a
+categorically different class of services. The Applicant's
+reliance on Focus Edu Care [2024-VIL-1234-CESTAT-BLR-
+ST] is equally misplaced — that ruling was under the
+service tax regime and POPS Rules, 2012, a legally distinct
+framework inapplicable under the IGST Act, 2017.
+
+The Applicant is a Rajasthan-based institution performing its
+
+services entirely from Rajasthan. All its supplies — including
+to students outside Rajasthan — are intra-state supplies
+under Section 8(2) of the IGST Act, attracting CGST @ 9% and
+SGST @ 9% under HSN 999293, and not IGST @ 18%.
+
+Conclusion.
+
+In the view of the above fact and legal submission it is
+submitted that
+
+(i) Supply of online training services delivered through
+live/recorded digital platforms should be covered
+under HSN 999293 (i.e. commercial training and
+coaching services)
+
+(ii) The Tax liability under CGST, SGST Acts in this case
+shall be CGST@9%, SGST@9% irrespective of
+students location.
+
+In continuance of above comments the jurisdiction officer further submitted
+that-
+
+Upon examination of the submissions made by the applicant, the documents
+on record, and the relevant provisions of the CGST/RGST Act, 2017, the IGST
+Act, 2017, and applicable rules and notifications, the following legal position
+emerges:
+
+A. Classification of Service
+
+Issue: Whether the service qualifies as OIDAR (HSN 998433) or
+Commercial Training & Coaching (HSN 999293)
+
+Page 20 of 30
+
+
+Under Section 2(17) of IGST Act 2017, OIDAR has been defined as:
+
+(17) “online information and database access or retrieval services” means
+services whose delivery is mediated by information technology over the
+internet or an electronic network and the nature of which renders their
+supply impossible lo ensure in the absence of information technology and
+includes electronic services such as, —
+
+(i) advertising on the internet;
+(ii) providing cloud services;
+
+(iii) provision of e-books, movie, music, software and other intangibles
+through telecommunication networks or internet;
+
+(iv) providing data or information, retrievable or otherwise, to any person in
+electronic form through a computer network;
+
+(v) online supplies of digital content (movies, television shows, music and the
+like);
+
+(vi) digital data storage; and
+
+(vii) Online Gaming, excluding the Online Money Gaming as defined in clause
+
+(80B) of section 2 of the Central Goods and Services Tax Act, 2017.
+
+aa As per Section 2(17) of the IGST Act, 2017, a service can be classified as
+DAR only when both of the following conditions are cumulatively satisfied:
+
+oN
+‘
+
+\\ e The service is delivered over the internet or an electronic network; and
+
+Aer The nature of the service is such that its supply is essentially
+
+dependent on information technology and impossible to render
+without such technology.
+
+(ii) While the applicant satisfies the first condition, it fails to meet the second
+condition. Coaching for competitive examinations such as NEET and IIT-JEE
+has traditionally been imparted through physical classroom teaching — it is
+not technology-born. The adoption of an online platform merely alters the
+mode of delivery and does not change the essential nature of the service.
+The “impossibility test” must be applied to the intrinsic character of the
+service and not to the medium through which itis delivered. The service being
+delivered is interactive and outcome-based structured teaching, not mere
+access.
+
+(iii) Classification under GST must be determined based on the dominant
+nature and substance of the service, and not merely on the mode of
+delivery. The applicant provides structured, teacher-led examination
+preparation involving:
+
+1 Live interactive classes
+
+u. Curated academic content
+
+Page 21 of 30
+
+
+ut Live Doubt resolution sessions
+
+lv. Mentoring Calls
+
+v. Continuous performance evaluation
+Vi. Parents Teacher Meetings
+
+Students enrol in such programmes with the objective of being taught, and not
+merely to not to retrieve data.
+
+The Applicant itself concedes in para 2.27 of Annexure-B that online coaching
+is merely a different medium for delivering the same service. A service cannot
+be classified differently when one's own pleadings confirm only the medium
+has changed. HSN SAC 999293 — covering instructor-led, tutorial-based
+coaching by an institution — precisely describes the Applicant's model, as
+
+confirmed by the Explanatory Notes to the Scheme of Classification of
+Services.
+
+(iv) The illustrative examples of OIDAR services under Section 2(17) of the
+
+IGST Act—such as cloud storage, online gaming, movie/music streaming,
+
+__ internet advertising — are characteristically uniformly automated, faceless,
+
+- <Osgystem-driven services. Competitive examination coaching is the opposite:
+“yp \ekpert faculty design courses, conduct live interactive sessions and guide
+Scroe performance. The Applicant's own Annexure-A discloses interactive live
+~ ~~ classes and physical courier dispatch of printed study materials from Kota —
+hallmarks of a coaching institution, not a passive content-retrieval
+
+mechanisin.
+
+(v) The applicant’s services involve continuous and significant human
+intervention, including:
+
+@ Live teaching by faculty
+@ Doubt-clearing sessions
+@ Personal mentoring
+
+@ Performance tracking
+
+Even recorded lectures form part of a structured curriculum designed and
+updated by faculty, supplemented with academic support systems such as test
+series and mentoring. Such services involve continuous human interventions.
+Ifa service requires substantial human involvement, it fails OIDAR criteria.
+
+In Globolive 3D Private Limited case judgement dated 24.08.2023(CWP No.
+39/2023), Ilon’ble Bombay High Court has observed that mere delivery of
+specialised services through electronic medium cannot render the services as
+OIDAR.
+
+Page 22 of 30
+
+
+OIDAR services must be essentially automated with minimal or no human
+intervention. Since the applicant's services are heavily dependent on human
+involvement, the same do not satisfy the criteria for classification as OIDAR.
+
+(vi) The applicant has declared following details of Services offered by the
+Business in his registration
+
+S Service Accounting Description of Services
+
+No Code ; ; 2
+
+i, | 999293 Commercial training and coaching
+| | services
+
+(vii) Applicant has issued Tax invoices mentioning following details:
+Description of services:
+Commercial training and coaching services #
+
+( # Including Composite supply of Study Material, Uniform and Kit).
+Applicant has himself declared his service to be Commercial training and
+coaching services and charged and collected tax accordingly.
+
+Finding on Classification
+
+In view of the above, the services provided by the applicant do not qualify as
+“<2°QIDAR services and are correctly classifiable under HSN 999293 —
+
+mercial Training and Coaching Services.
+&}
+
+y Bi Place of Supply
+
+“Issue: Whether the supply is intra-State (CGST + SGST) or inter-State
+(IGST)
+
+(i) The applicant’s contention regarding applicability of IGST is premised on
+classification of the service as OIDAR. If it were OIDAR, then Section 12(2) of
+IGST Act 2017 would apply, which states that recipient's location is the place
+of supply.
+
+Since the service provided by applicant is not OIDAR, the provisions
+applicable to OIDAR services are not relevant. In present case, Section 12(5)
+of the IGST Act — the lex specialist specifically governing training and
+performance appraisal services — applies mandatorily.
+
+(ii) Section 12(2) applies only to services that are not specifically covered
+under sub-sections (3) to (14) of Section 12 0 IGST Act, 2017. Since the
+present case falls within the ambit of Section 12(5), being a specific provision
+governing training and performance appraisal services, the same shall
+prevail.
+
+(iii) As per Section 12(5)(b) of the IGST Act, in case of services provided to
+unregistered persons, the place of supply shall be the location where the
+services are actually performed.
+
+Page 23 of 30
+
+
+On the basis of facts available on record:
+
+® The applicant’s headquarters is located in Kota, Rajasthan
+
+@ Course content is developed in Rajasthan
+
+@ Haculty conduct live and recorded classes from Rajasthan
+
+@ Study materials are dispatched from Rajasthan
+
+® Billing and administrative functions are carried out from Rajasthan
+Accordingly, the services are performed in Rajasthan. The mere fact that
+students may be located in other States docs not alter the place of supply, as
+the statutory provision refers to the place of performance and not the place of
+
+consumption. Since both the supplier's location and place of supply are in
+Rajasthan, the supply is intra-state under Section 8(2) of the IGST Act.
+
+(iv) CBIC Circular No. 242/36/2024-GST was issued specifically for OIDAR
+
+services and cannot govern a categorically different class of services. The
+
+Applicant's reliance on Focus Edu Care [2024-VIL-1234-CESTAT-BLR-ST] is
+
+equally misplaced — that ruling was under the service tax regime and POPS
+
+Rules, 2012, a legally distinct framework inapplicable under the IGST Act,
+
+2017. Such reliance on circulars or judicial pronouncements pertaining
+“ TSpecifically to OIDAR services or under the pre-GST regime is not applicable
+“¢ stothee present case, as the classification itself is distinguishable.
+
+’
+
+The Applicant is a Rajasthan-based institution performing its services
+entirely from Rajasthan. All its supplies — including to students outside
+Rajasthan — are intra-state supplies under Section 8(2) of the IGST Act,
+
+attracting CGST @ 9% and SGST @ 9% under HSN 999293, and not IGST @
+18%.
+
+Conclusion
+In light of the foregoing facts and legal analysis, it is concluded that:
+
+(i) The supply of online coaching services delivered through live and/or
+recorded digital platforms is appropriately classifiable under HSN 999293 -
+Commercial Training and Coaching Services, and does not qualify as
+OIDAR.
+
+(ii) The place of supply is within the State of Rajasthan, and accordingly, the
+supply is an intra-State supply, liable to CGST @ 9% and SGST @ 9%,
+irrespective of the location of the students.
+
+The jurisdictional officer also submitted some document through special
+messenger i.e.
+
+Page 24 of 30
+
+
+1. invoice number 5731 receipt no. 24059936 of motion education pvt.ltd.
+394, Rajeev Gandhi Nagar , KOTA, GSTN/UIN- O8AAICM4637L2ZZ, student
+lead opened through I.D. of Mr. Pawan Vijay (pawan.vijay@motion.ac.in) and
+a copy of Aadhar of Ayansh Gupta.
+
+2. Invoice no. 4582 of the same taxpayer as mentioned in point no.1 with all
+enclosure as mentioned in point no. 1.
+
+3. Invoice no. 44431 of the same taxpayer as mentioned in point no.1 with all
+enclosure as mentioned in point no. 1.
+
+4. Invoice no. 41382 of the same taxpayer as mentioned in point no.1 with all
+enclosure as mentioned in point no. 1.
+
+5.. Invoice no. 40410 of the same taxpayer as mentioned in point no.1 with all
+enclosure as mentioned in point no. 1.
+
+The jurisdictional officer also produced copy of three invoice of the applicant
+through special messenger.
+1 Invoice no,- RJ2425FIP0016845
+
+Pet me
+
+{5° BMnwoice no. RJ2425F1P0055879
+if # » 3.\hnlvoice no.- RJ2425FIP0078019
+
+“0 OE, PERSONAL HEARING:
+In the matter, personal hearing was granted to the applicant on 17.03.2026.
+Mr. Kumar Vikas Jain(CA), Mr. Lalit Maheshwari(CA), Mr. Mihir Maru(CA), Mr.
+Vikas Binani(CA) and Mr. Pratik Sampat(CA) Authorized Representative
+appeared for personal hearing. They reiterated the submission already made
+by them.
+
+In the course of personal hearing Mr. Pratik Sampat from E&Y for the applicant
+argue that there are three model of business of the applicant.
+
+1. Offline classroom coaching
+2. Online live classes
+3. Pre-recorded video of certain period
+
+In the 1*' module if recipient of service receives service ina classroom situated
+in the Rajasthan, certainly 9% CGST and 9% SGST is charged and pay. In case
+mentioned in point no. 2 & 3 main emphasize was that it don’t fall in
+commercial training and coaching , in fact it fall under category of OIDAR
+(online information and database access or retrieval) services hence
+taxpayers understanding is that tax on it chargeable at the rate of 18% IGST
+and the applicant is liable to pay accordingly 18% IGST. He quoted definition
+of OIDAR as provided under section 2(17) of IGST Act, 201
+
+It was asked from the applicant that
+
+Page 25 of 30
+
+
+No.1- Whether student can comment on pre-recorded or live videos or live
+video records?
+
+No. 2- Whether facility to reply is there on comment made by the students?
+
+Mr. Pratik Sampat holding Authority of M/s ALLEN CAREER INSTITUTE
+PVT.LTD. KOTA further argue that there was provision in definition of OIDAR
+that essential automated and involving minimal human intervention but
+through finance bill 2023 vide its section 143(b) it was provided that in clause
+
+17 the words essentially automated and involving minimal human
+intervention was omitted.
+
+Mr. Pratik Sampat also submitted a print out of a presentation, the
+presentation was kept on file.
+
+F. DISCUSSIONS AND FINDINGS
+
+1. We have carefully examined the statement of facts, the application filed by
+the applicant, the submissions made during the hearing, and the comments
+from the jurisdictional Tax Authority. We also considered! the issues
+involved for which the advance ruling is sought, along with other relevant
+
+facts including comments made by jurisdictional officer and documents
+submitted by him.
+
+M/s. Allen Career Institute Private Limited, CP-06, SANKALP, INDRA
+ua )vinar, KOTA, RAJASTHAN-324005 (hereinafter referred to as “the
+Sec “Applicant”) is a privately held education institution providing education to
+<5." students for competitive exams in streams such as [I'T-JEE, NEET, and other
+
+competitive examinations and registered under the GST Act with GSTIN
+O8AAVCA8216C17Z).
+
+3. The issue raised by the applicant is fit to pronounce advance ruling as they
+have deposited prescribed Fee under CGST Act and it falls under the ambit
+of the Section 97(2) given as under: (a) classification of goods and/or
+services or both, and (e) Determination of the liability to pay tax on any
+goods or services or both
+
+4. After consideration we observe that-
+
+a) The applicant has regularly reporting his activity as commercial
+training and coaching.
+
+b) In invoices the taxpayer also give description of services provided by
+him as commercial training and coaching service with SAC no. 999293,
+The jurisdictional officer has produced invoice no. RJ2425F1P0016845,
+RJ2425FIP0055879, RJ2425FIP0078019. These invoices mentioned
+the description of service supplied.
+
+c) In application of registration the taxpayer has applied for registration
+mentioning the nature of business as commercial training with SAC No.
+
+Page 26 of 30
+
+
+999293. A screenshot from the portal was captured and placed on the
+record.
+
+Undoubtedly taxpayer is reporting his activity as commercial training
+and coaching from registration application to last filed return that is
+return for January 2026.
+
+5. We went through returns file by the tax payer in month November,
+December -2025 and January 2026. Downloaded copy of the return is kept on
+
+the file. These all return classifies service of the taxpayer as SAC No.999293
+and charges 9% CGST and 9% SGST.
+
+6. We perused all the five tax invoices of M/s Motion education Pvt.Ltd.
+submitted by the jurisdictional officer available on the file. These tax invoices
+are useful lo ascertain common parlance and market practise.
+
+a) Invoice no. 5731mentions SAC No.999293 and charges 9% CGST and
+9% SGST. Address available with the service provider in this bill is
+Hazipur, BIHAR.
+
+b) Tax invoice no. 4582 mentions SAC No.999293 and charges 9% CGST
+and 9% SGST. Address available with the service provider in this bill is
+Aligarh, Uttar Pradesh.
+
+c) Tax invoice no. 44431 mentions SAC No.999293 and charges 9% CGST
+and 9% SGST. Address available with the service provider in this bill is
+Gorkhpur, Uttar Pradesh.
+
+d) Tax invoice no. 41382 mentions SAC No.999293 and charges 9% CGST
+and 9% SGST. Address available with the service provider in this bill is
+Patna, Bihar.
+
+e) Tax invoice no. 4140 mentions SAC No.999293 and charges 9% CGST
+and 9% SGST. Address available with the service provider in this bill is
+Pratapgarh, Uttar Pradesh.
+
+7. This is clear from the invoice mentioned above that in common parlance
+and in prevailing market practice the activity of providing coaching and
+training online is not an activity of OIDAR but is service as classified under
+SAC 999293 ie. commercial training and coaching.
+
+8. The sainple video available on internet shows that it gives option to the
+students to react on the content and also give facility to reply the comment.
+This shows that the activity carried out by the taxpayer of providing
+commercial training and coaching is an interactive activity and not merely to
+access and retrieve online information and database. Two Screenshot of the
+video is captured and print out kept on the record.
+
+9. Every online services not considered as OIDAR under the GST Law. Under
+GST OIDAR is a specific subset of online services where the services are
+
+Page 27 of 30
+
+
+dependent on Information Technology for example Human dependent
+services where a human provides, advice or service via the internet e.g. a
+doctor conducting a live consultation are generally not OIDAR as the human,
+not the internet, provide the core service likewise professional services of an
+accountant and a lawyer delivering advice through e-mail is generally not
+considered OIDAR. It is obvious that core business of the taxpayer is to train
+
+and coach particular participant to crack a particular examination. This way
+this squarely cover under example given above.
+
+10. In continuance of P.H. query the applicant submitted that the student can
+use the Al enable problem “doubts” tab to clarify its doubts whereby the
+student can ask the questions and AI shall respond to the question
+automatically. As regarded live videos the sessions includes real time doubt
+solving where student interact directly with tutor online, raise their queries
+on the website/app and receives immediate clarification on the website/app.
+This clear from above mentioned stand of applicant that it is not merely access
+or retrieve, it is interactive user particular data which user is also upload
+doubts, queries and get solutions.
+
+11. Taxpayer has submitted a list of courses, perusal of list reveals that
+courses are goal/target base like target 2028, target 2027, target 2026 etc.
+This is clear from this situation that courses offered are goal based and level
+
+‘based to crack particular exam with targeted year and level of the student to
+ae \ probably crack the same.
+
+12. In reply of question no. 5 applicant clears that the module in the cart are
+embedded with online mock test, it can be done by students after completion
+of the relevant syllabus. 10 to 15 mock test are held in each course, this makes
+also clear that courses offered by applicant is not merely access or retrieval
+of data personal guidance like online dietician consultation, online medical
+
+consultation, online fitness coaching, online legal advice, online accounts
+assignments.
+
+13. Furthermore, Applicant have submitted (Annexure A, Para 1.5) that they
+dispatch printed study materials to enrolled students via physical courier to
+‘enhance their learning outcomes’, The statutory definition of OIDAR under
+Section 2(17) of the IGST Act strictly mandates that the delivery of the service
+must be mediated entirely over the internet or an electronic network. The
+physical delivery of tangible goods inherently falls outside the scope of an
+electronically mediated network. Therefore, the integral provision of
+physically couriered materials suggests that the Applicant's overall supply
+
+does not fit within the purely digital parameters required to qualify as an
+OIDAR service.
+
+14. Having established that the services provided by the Applicant are
+classifiable as "Commercial Training and Coaching Services" (SAC 999293)
+and do not qualify as OIDAR, the determination of the Place of Supply must
+
+Page 28 of 30
+
+
+follow the specific statutory provisions governing training services. The
+Applicant's reliance on the general rule under Section 12(2) of the IGST Actis
+legally misplaced, as that sub-section strictly applies only when services are
+not covered by the specific provisions of sub-sections (3) to (14). Because the
+supply inherently involves training and coaching, it is mandatorily governed
+by the specific Section 12(5) of the IGST Act.
+
+15. As per Section 12(5)(b) of the IGST Act, the place of supply of services in
+relation to training and performance appraisal provided to an unregistered
+person shall be the "location where the services are actually performed.”
+Based on the facts placed on record, the Applicant's headquarters, technical
+infrastructure, faculty conducting the live and recorded classes, content
+development, and administrative operations are all centralized and executed
+from Kota, Rajasthan. Furthermore, the physical dispatch of study materials
+originates from Rajasthan. Therefore, the actual "performance” and provision
+of the coaching service occur strictly within the State of Rajasthan, which
+legally separates the statutory place of performance from the geographical
+location where the unregistered student merely consumes the educational
+content.
+
+“16. To determine the nature of the tax liability, the statute requires comparing
+the Location of the Supplier with the Place of Supply. The Location of the
+Supplier is Rajasthan. As determined under Section 12(5)(b), the Place of
+Supply is also Rajasthan. Consequently, because both the location of the
+supplier and the place of supply fall within the same State, the transaction
+legally constitutes an intra-State supply in accordance with Section 8(2) of
+the IGST Act. Therefore, the tax liability for the online coaching services
+provided to unregistered students, including those residing entirely outside
+the State of Rajasthan, shall strictly attract Central Tax (CGST) at 9% and State
+Tax (Rajasthan SGST) at 9%, rather than Integrated Tax (IGST)
+
+G. In view of the foregoing facts, circumstances and provisions of the GST law,
+we pass the following ruling:
+
+RULING
+
+Ql. Whether supply of online training services (delivered through
+live/recorded digital platforms) shall qualify as “online information or
+database access retrieval service” under HSN 998433 (i.e. On-line video
+content) or should be covered under HSN code 999293 (ie. Commercial
+Training and Coaching Services)?
+
+Ans- The activity carried out by the taxpayer is classified as commercial
+Training and Coaching services with SAC 999293.
+
+Page 29 of 30
+
+
+Q2. Determination of the tax liability under the CGST and SGST Acts especially
+
+when the student is based ina state outside Rajasthan?
+
+Ans- In case of recipients location is avail
+
+able on record of the taxpayer that
+is outside tl
+
+ne state of Rajasthan for receiving service of online commercial
+
+Training and Coaching SAC No. 999293 liability of the taxpayer is 9% CGST
+and 9% SGST.
+
+(Utkarsha)
+
+a
+(Dr. Akhedan Charan)
+MEMBER
+
+MEMBER
+CENTRAL TAX STATE TAX
+F. No. AAR/SF/2025-26/073- 978 Date: 5:03:66
+
+SPEED POST
+
+M/s ALLEN CAREER INSTITUTE PRIVATE LIMITED,
+CP-06, SANKALP, INDRA VIHAR,
+KOTA, RAJASTHAN-324005
+
+Copy to: -
+1. The Chief Commissioner, CGST and Central Excise VJaipur Zone), NCRB,
+Statue Circle, Jaipur, Rajasthan-302005.
+
+2. The Chief Commissioner, State Tax, Kar Bhawan, Bhawani Singh Road,
+Ambedkar Circle, C-Scheme, Jaipur-302005,
+
+3. The Commissioner, CGST and Central Excise (Udaipur Zone), UDAIPUR,
+Rajasthan.
+
+4. Deputy Commissioner, State Tax, Circle-E, ZONE- KOTA, Divisional Kar
+Bhawan, Kota, Rajasthan.
+
+4. The Assistant Commissioner, CGST Division- KOTA City, OPPOSITE
+CHE''AN MAHDEV MANDIR, JAIPUR ROAD, BIKANER-334003,
+
+Page 30 of 30

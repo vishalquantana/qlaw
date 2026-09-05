@@ -1,0 +1,938 @@
+AUTHORITY FOR ADVANCE RULING, TAMILNADU
+ROOM NO.206, 2"> FLOOR, PAPJM BUILDING, NO.1, GREAMS ROAD,
+CHENNAI - 600 006.
+
+PROCEEDINGS OF THE AUTHORITY FOR ADVANCE RULING U/S.98 OF THE
+GOODS AND SERVICES TAX ACT, 2017
+
+Members present:
+
+Smt. D. Jayapriya, I.R.S., Smt. A Valli, M.Sc.,
+
+Additional Commissioner/ Member(CGST), | Joint Commissioner/Member(SGST},
+Office of the Principal Chief Commissioner | Office of the Commissioner of Commercial
+of GST & Central Excise, Chennai -600 034.| Taxes, Chennai-600 006.
+
+ORDER No. 02/ARA/2024 Dated: 27.03.2024
+
+I. Any appeal against this Advance Ruling order shall lie before the Tamilnadu State
+Appellate Authority for Advance Ruling, Chennai as under Sub-Section (1) of Section
+100 of CGST Act / TNGST Act 2017, within 30 days from the date on the ruling sought
+
+to be appealed is commmunicated.
+
+2. In terms of Section 103(1) of the Act, Advance Ruling pronounced by the Authority
+under Chapter XVII of the Act shall be binding only-
+
+(a) on the applicant who had sought it in respect of any matter referred to in sub-
+
+section (2) of Section 97 for advance ruling.
+
+(b) on the concerned officer or the jurisdictional officer in respect of the applicant.
+
+3. In terms of Section 103(2) of the Act, this advance ruling shall be binding unless the
+
+law, facts or circumstances supporting the original advance ruling have changed.
+4, Advance Ruling obtained by the applicant by fraud or suppression of material facts
+
+or misrepreseniation of facts, shall render such ruling to be void ab initio in accordance
+with Section 104 of the Act.
+
+Pagel of 19
+
+
+GSTIN Number, if any / User id 33AAICB5670J52Z1
+
+Legal Name of Applicant M/s. Balat Enterprises Private Limited
+
+Registered Address / Address provided | Floor 6, Block A Flat 5, Jains Inseli Park, Old
+while obtaining user id Mahabalipuram Road, Padur, Kancheepuram,
+Tamil Nadu, 603103.
+
+Details of Application GST ARA — 01 Application Sl.No.84/2023,
+dated 28.04.2023
+Jurisdictional Officer Centre: Chennai Outer Commissionerate;
+
+Division: Tambaratn
+
+Division: Chengalpattu
+
+. Circle: Kelambakkam Assessment Circle
+Concerned Officer
+
+Nature of activity(s) (proposed /
+present) in respect of which advance
+ruling sought for
+
+A_ | Category Service provider
+
+B_ | Description (in brief) The applicant is a Chennai based startup
+engaged mainly in providing a mobile based
+digital platform "“VYAVSHAY" business to
+consumer model for small entrepreneurs to
+reach out bigger market easily at their own
+terms and conditions. The business operations
+provided by the applicant are farm equipment's,
+transportation services, skill-based services,
+other additional service.
+
+When any entrepreneur signs up for their
+services to the applicants’ platform, they fix
+their own rates and areas of operation with
+basic registration information. The applicants’
+‘Partners' are responsible to collect payment
+directly from the end customers and generate
+their own tax invoices.
+
+Further, the applicant acts as a link to connect
+the platform of entrepreneurs to customers for
+facilitating various business services.
+Issue/s on which advance ruling requird 1. Applicability of a notification issued
+under the provisions of this Act.
+
+2. Determination of the liability to pay tax
+on any goods or services or both.
+
+Page 2 of 19
+
+
+Question(s) on which advance ruling is | 1. Whether applicant satisfies definition of e-
+
+required commerce operator and nature of supply as in
+section 9(5) of CGST Act, 2017 w.r.t notification
+no. 17/2017 dated 28.06.2017.
+
+2. On which segment of the transaction would
+the applicant be liable to pay and collect tax?
+
+1) At the outset, we would like to make it clear that the provisions of both the
+Central Goods and Services Tax Act and the Tamil Nadu Goods and Services Tax Act
+are in pari materia and have the same provisions in like matter and differ from each
+other only on few specific provisions. Therefore, unless a mention is specifically made
+to such dissimilar provisions, a reference to the Central Goods and Services Tax Act,
+2017 would also mean a reference to the same provisions under the Tamil Nadu
+Goods and Services Tax Act, 2017.
+
+2) The applicant submitted a copy of challan dated 10.03.2023 evidencing
+payment of application fees of Rs.5,000/- each under sub-rule (1) of Rule 104 of CGST
+Rules 2017 and SGST Rules 2017. The online application form for advance ruling
+dated 10.03.2023 was physically received on 11.04.2023 as mandated under Rule
+107A,
+
+3.1) Balat Enterprises Private Limited(in short “Applicant’)} is a Chennai based
+startup engaged mainly in providing a mobile based digital platform "VYAVSHAY"-
+business to consumer model for small entrepreneurs to reach out bigger market easily
+at their own terms and conditions. The applicant has launched mobile based digital
+platform "Vyavshay" (hereafter referred to as app) - a business to consumer model. The
+business provides an online mobile platform to entrepreneurs where various business
+offerings are listed on the app and end consumer can avail the listed services. At
+present, the app is offering a) Farm equipment services, b) Transportation services,
+skill-based services. This list is dynamic and in future they may add similar services in
+their offering or update as per the market demand.
+
+3.2) The applicant does not charge any fees relating to joining i..,
+subscription/membership fee during the process of signing up. The applicant charges
+the entrepreneur {ie., who sign up themselves on the app- partner} after completion of
+the services, a fixed rate based on usage of the app. Every user desirous of availing the
+applicant's app (Vyavshay) services shall make an application online in the prescribed
+app in the prescribed form duly filled and shall enter into an agreement subject to
+terms and conditions. These terms of service apply to all users of the Vyavshay app.
+Information provided by their users through the Vyavshay service contain links to
+third party i.c, partners that are not owned or controlled by Vyavshay. Vyavshay has
+no control over, and assumes no responsibility for, the content, privacy policies, or
+practices of any third-party websites.
+
+Page 3 of 19
+
+
+3.3) As per the business model of the Applicant ‘Users’ are individuals who use the
+‘Vyavshay’ mobile platform to request various services, such as transportation and
+other customer — focused offerings, ‘Partners’ are entrepreneurs of small and medium-
+sized business who onboard their services with the ‘Vyavshay mobile platform and
+‘Associates’ are dedicated individuals responsible for delivering services within the
+‘vyavshay’ network. The partner enters into the business transaction with the users i.e
+the end consumers and the associates supply the services to the customer. The
+contract of supply such as quality of work or providing the said service, etc., are
+mutually agreed upon by the partner and applicant Vyavshay (the applicant) does not
+have any responsibility for supply of services and does not have any concern about
+consideration. Moreover, the consideration is charged by the partner (service owner)
+and other service-related billing directly happens between the partner (service owner)
+through associates and recipient of the service (customer}. Also, if there is any dispute
+between the supplier of goods or services or both and recipient is purely between them
+and the applicant is not responsible for the same.
+
+3.4) The applicant stated that they acts as a mere platform to link and help reach of
+small business owners with businesses and customers across business verticals,
+whilst maintaining a digitally safe ecosystem. Any person who provides service can
+register himself on the app. This platform is designed by the applicant with the motive
+to generate employment for small entrepreneurs and associates where they can link
+with consumers, who can book their services and avail such benefits at better rates.
+The charges are also collected by the applicant from the parmers only based on usage
+of the app. The applicant discharges output GST on the amount received by the
+partner. Also, there is no other link between the supplier of services and the end
+consumers with the applicant. The consideration for supply of services is not routed
+through the applicant nor does he liaison in the process or take up responsibility of
+supply of services between the partner member and its customers.
+
+3.5) On interpretation of law, the applicant, states that on combined reading of the
+definition of e-commerce and e-commerce operators and Section 9{5), it is understood
+that for a person to be classified as an “e-commerce operator", he should own and
+manage a platform and the supplies should be made through the said e- commerce
+platform. The applicant owns the Vyavshay app where partners are free to update the
+goods and services they wish to sell through the application. The partner of the "APP"
+enters into business deals/transactions on their own with their clients and business
+associates supply of goods or services or both, the applicant is merely linking partners
+and end consumers. As per section 9(5), in the given case the tax on intra-State
+supplies of which shall be paid by the electronic commerce operator if such services
+are supplied through it, and all the provisions of this section shall apply to such
+electronic commerce operator. Applying the principle enumerated above in the instant
+case, they don't fulfill the conditions of being an electronic commerce operator as the
+supply of services is not through them. The crucial phrase for the applicability of the
+section is “supply of services through e-commerce operator".
+
+Page 4 of 19
+
+
+3.6} They also states that Act or Notification doesn't define or clarify the situations of
+"supply of goods/services through an e-commerce operator" and thus the rules of
+jurisprudence and interpretation are required to understand the phrase and the word
+as used in common parlance. The word "through it" employed in Section 9(5) is used to
+indicate the method under which the supply was initiated, carried on and concluded.
+The dictionary meaning clearly specifies that the word through implies that the supply
+should be initiated, carried on and concluded by the specified method. In the instant
+case the "supply is not carried on" or "concluded by using our app”.
+
+3.7) The applicant drew references to business models of established e-commerce
+operators such as Amazon, Flipkart, UrbanClap and likewise. In case of all the e-
+commerce operators discussed, the following business transactions undertaken by
+them
+
+a. The invoices issued for supply is by the vendor, however, has the logo of the
+operator is mentioned on the face of the invoice, indicating responsibility of supply.
+
+b. Charges such as commission, shipping fees is levied by the operators such
+commission is calculated on the value of the goods being sold by the vendor to the end
+customer.
+
+c. Collection for all supplies is done by the operator and passed on to the supplier after
+deduction of appropriate charges and taxes.
+
+d. Provide support services
+
+3.8) The applicant states that thus, in cases of electronic digital platforms such as
+Amazon, Flipkart, Urban clap and others, e-commerce operators own and manage the
+supply of services provided by or through it. The supplies on these applications are
+initiated, carried on, conchided using these apps and also these operators provide
+details such as status of goods in transit and its logistical locations. On the other
+hand, "Vyavshay" merely allow a display of the services viable to be supplied by
+partners / associates and are not involved in collection or take up responsibility for
+after supplies.
+
+3.9) The applicant also contended that in common parlance, it can be concluded
+that for a supply to be carried out through an e-commerce operator, a certain degree of
+responsibility for such supply should be established, however, in the case of
+"Vyavshay", they do not take up any responsibility on all possible commercial fronts
+such as:
+
+a. Timeline for delivery
+b. Collection against supplies
+c. Quality of the supplies
+
+d. Support services in relation to the supply
+
+Page 5 of 19
+
+
+3.10) The applicant also states that they only involved in linking the supplier of
+services and end customer for availing of such services. The supply happens
+independent of the applicant and the applicant doesn't take responsibility of any kind,
+for instance, the operational and completion of the ride in case of providing services of
+rent a cab services, etc. The consideration is also directly charged by the service
+provider to the recipient and Vyavshay has no involvement in price fixation for the
+service provider. The applicant doesn't fulfill the conditions stipulated in Section 9(S)
+of the CGST Act 2017, which is "supply of services through it”, as there is no supply
+which is under the control of the applicant or routed through it. For instance, the
+applicant does not control the fare of the ride and the collection associated with
+completion of the ride the related fare fixation and collection is done independently by
+the partner from the end customer. Thus the applicant can't be held liable to collect
+and pay the tax as specified in Section 9(5) of the CGST Act 2017. The applicant's
+nature of business doesn't allow collection of the fare on behalf of the supplier.
+
+3.11) Based on the above the applicant concludes that the services can't be deemed to
+have been supplied through them (APP) just because the service is initiated through
+the digital platform. They reiterated that the app is only a platform to link the
+consumers and partners and the consideration charged by the applicant from the
+partners is based on the usage of the app. For instance, if a partner received
+5 bookings through the App on a day and the APP is charging INR 25 per booking for
+that service then the invoice to the Partner from the Vyavshay would be INR 125
+irrespective of the final bill amount or value of the services to the User (customer).
+
+3.12) The applicant submits that there are two segments in the transaction
+
+A) Transaction no. 1- In this transaction, the charges are collected by the applicant
+from the partners based on usage of the app. The applicant discharges output GST on
+the amount received from the partner.
+
+B) Transaction no.2-Another transaction happens between the partner and the end
+consumer, wherein the partner raises invoice to his customer for services provided &
+the customer pays directly to the partner.
+
+“Vyavshay" merely allows a display of the goods or services viable to be supplied by
+parmers and are not involved in collection or take up any responsibility for supplies.
+Further the applicant is only providing a platform or facility to the partner and charges
+based upon the usage of the app and thus their service shall be that of allowing a
+platform for which a consideration will be charged and thus, the value of supply shall
+also be the consideration charged as stated in transaction 1 ie the fixed rate received
+by the partner based on usage of the app.
+
+3.13) Based on the above interpretation of Laws / Notification the applicant
+interpreted that are not an e-commerce operator under 9(5) w.r.t notification
+no.17/2017 dated 28.06.2017 of the CGST Act, 2017 and will not be required to
+register and pay tax as an e-commerce operator and hence as their supply of services
+
+Page 6 of 19
+
+
+is limited only to providing a platform or facility to the partner they are liable to pay
+tax on the consideration received from their partners.
+
+4.1) The applicant is under the administrative control of Central Tax Authorities.
+The concerned authorities of the Centre and State were addressed to report if there are
+any pending proceedings against the applicant on the issues raised by the applicant in
+the Advance Ruling application and for comments on the issues raised.
+
+4.2) The concerned Central authority vide letter GEXCOM/HQR/MISC/ 197 /2023-
+TECH dated 11.07.2023, stated that;
+
+> From the details submitted by the applicant along with the Advance Ruling
+application, it is noticed that the applicant's app is only providing a meeting
+ground between the service provider and the end user in other words, the
+applicant's app Vyavshay is a linking platform between the service provider and
+end user. Based on the usage of the app, the applicant collects charges from the
+Vyavshay Associates or Partners and on the Output, GST is being discharged.
+No charges are collected fromm the end user. The applicant does not take up
+responsibility for the supplies displayed in their platform.
+
+> Further, it is also noticed from the Terms of Use by Vyavshay user, the
+applicant is an intermediary platform between those who want to book services
+and those who provide services and they do not collect the services charges on
+behalf of the service provider from the end user and pay the same to the service
+provider. Hence, it appears that they are liable to pay tax only on the
+consideration towards usage of app received from the associates / partners.
+
+> That the conditions as prescribed under Sec 52 of the CGST Act 2017 for levy of
+tax for e-commerce operator is not satisfied as the applicant does not collect the
+consideration with respect to such supply. Hence, they are not liable for
+discharge of tax under Section 9(5) of CGST Act, 2017 w.r.t. Notification
+No.17/2017 dated 28.06.2017, as amended. They are liable to collect and pay
+the tax on the charges collected by them from their Vyavshay partners based on
+usage of the app, which it appears that the applicant already follows this
+practice only.
+
+4.3) The State jurisdictional Officer, viz., the Assistant Commissioner (ST},
+Kelambakkam Assessment Circle, Chennai — 35 replied that on verification of the
+nature of business activities reported by the applicant, it is opined that, he falls under
+the definition of e-commerce operator under section 9(5) of TNGST & CGST Acts, 2017
+and the State Jurisdictional officer has also stated that the questions raised by the
+applicant in the application are not already pending or decided in any proceedings.
+
+PERSONAL HEARING
+
+5.0) The applicant, was given an opportunity to be heard on 08.01.2024. Mr Jugal
+Dushar, Chartered Accountant, Mr Deepak Jain .G, Consultant, as the Authorised
+Representatives (AR) of the Applicant and Mr Prabhat Ranjan, Director appeared for
+the personal hearing. They reiterated the submissions made in their application and
+submissions made via email.
+
+Page 7 of 19
+
+
+DISCUSSION AND FINDINGS
+
+6.1) We have carefully considered the submissions made by the applicant in the
+advance ruling application, the additional submissions made vide email dated
+07-12-2023 and the submissions made during the personal hearing.
+
+6.2) The Applicant is before us seeking Advance ruling on the issue whether they
+satisfy definition of e-commerce operator and nature of supply as in Section 9(5) of
+CGST Act, 2017 w.r.to Notification No. 17/2017 dated 28.06.2017, and on which
+segment of the transaction would the applicant be liable to pay and collect tax?
+
+6.3) In terms of Section 97(2) of the CGST Act 2017/TNGST Act 2017, questions on
+which advance ruling is sought under the Act, falls within the scope of Section 97(2)(b)
+and (e) of the CGST Act/TNGST Act, 2017, and therefore the application is admissible.
+
+7.0) Coming to the part of the query, Whether the applicant satisfies the
+definition of e-commerce operator?
+
+It is pertinent to see the definitions of e-commerce and e-commerce operator as
+provided in the Act, in terms of Section 2(44) and 2(45) which are reproduced below:
+
+(i) Section 2. Definitions.-
+In this Act, unless the context otherwise requires, -
+
+(44) “electronic commerce” means the supply of goods or services or both, including
+digital products over digital or electronic network;
+
+(45) “electronic commerce operator” means any person who owns, operates or
+manages digital or electronic facility or platform for electronic commerce;
+
+7.1) As observed from the submissions made by the applicant in the Annexure-II,
+the applicant has launched mobile based digital platform “Vyavshay” and at present,
+the said app is offering below mentioned services and this list is dynamic and in future
+they may add similar services in their offering or update as per the market demand.
+a. Farm equipment services: Hiring or rental services of these farm equipment -
+Cultivator, Thresher, Reaper, Rotavator, Soil Testing services, Sprayer, Trailor.
+
+b. Transportation services: Cab, Passenger Auto, Pick up vans, Goods Auto, JCB
+c. Skill based services and other services: Electrician, Plumber, Driver,
+Carpenter.
+
+7.2) Primarily, every user desirous of availing the applicant’s app (Vyavshay)
+services, shall make an application online and shall enter into an agreement subject to
+terms and conditions. Further, as seen from the “Terms of Use — Vyavshay User”, the
+procedure for booking of services through the “Vyavshayapp* maintained by the
+applicant is reproduced as follows:
+
+“The user shall follow below steps for booking services through User App
+
+Page 8 of 15
+
+
+a. Register with their details like phone number, email and address
+b. Select the address for which they require services
+
+c. Provide the date and time, indicating the booking period for which they want the
+service :
+
+d. Based on the availability of Partner (service provider) in their area Vyavshay App will
+book their service and confirm.
+
+e. After confirmation of booking, partner or their representative may call the user for
+additional information or user may connect with them if required.
+
+f. Actual final amount may be different from the estimated price provided earlier.
+g. The user can give feedback and rate their service at the end of service.
+
+7.3) From the bare reading of the definitions of e-commerce and e-commerce operator
+it could be inferred that Electronic Commerce Operator (BCO) means any person who
+owns, operaies or manages digital or electronic facility or platform for electronic
+commerce i.e. for the supply of goods or services or both, including digital products
+over digital or electronic network. In the instant case, as observed from the facts on
+record, the applicant owns and manages digital platform (Vyvashay” APP), for the
+supply of services. The Partners or Service providers register the details of service’ to
+be provided by them including name, address, geo-location etc., on the said platform.
+The corisumer/user also registers in the App specifying their requirement, which
+inchides the type of service, date, time and location at which they actually require that
+service. Based on which the service provider reaches the location of the consumer to
+render the service and the user/consumer receives the services at their door step
+itself. Further, on completion of service, the user may record their feedback and rate
+the quality of service. Thus, the applicant facilitates the partner / service provider in
+supplying their service to the end user making use of the App maintained by them and
+enables the user to get to the door step service. Hence, the applicant squarely fits into
+the definition and qualifies to be an Electronic Commerce operator.
+
+8.0) Then coming to the next part of the query, whether the supplies offered over
+the said mobile based digital platform “Vyavshay” owned and managed by the
+applicant falls under the ambit of Section 9(5) of CGST Act, 2017 w.r.t
+notification no. 17/2017?.
+
+8.1) The applicant in their interpretation of law and/or facts, has stated that the
+applicant acts as a mere platform to link and help reach of small business owners with
+businesses and customers across business verticals, whilst maintaining a digitally safe
+ecosystem. They also stated that charges are also collected by the applicant from the
+partners only based on usage of the app and the applicant discharges output GST on
+the amount received from the partner. Also, there is no other link between the supplier
+of services and the end consumers with the applicant. The applicant further states
+that the consideration for supply of services is not routed through the applicant nor
+
+Page 9 of 19
+
+
+does he liaison in the process or take up responsibility of supply of services between
+the partner member and its customers.
+
+8.2) Further, the applicant is of the view that on combined reading of the definition of
+e-commerce and e-commerce operators and Section 9(5), for a person to be classified
+as an “e-commerce operator’, he should own and manage a platform and the supplies
+should be made through the said e-commerce platform. The applicant also stated that
+the applicant owns the “Vyavshay app” where pariners are free to update the goods
+and services they wish to sell through the application. The partner of the “APP” enters
+into business deals/transactions on their own with their clients and business
+associates supply goods or services or both, the applicant is merely linking partners
+and end consumers.
+
+8.3) We find that the applicant quoting the provisions of Section 9(5) of the CGST /
+SGST Act 2017 has stated that they do not fulfill the conditions of being an electronic
+commerce operator as the supply of services is not through ther and the crucial
+phrase for the applicability of the Section is “supply of services through e-commerce
+operator”. The applicant submitted that the Act or Notification doesn't define or clarify
+the situations of “supply of goods / services through an e-commerce operator” and
+thus the rules of jurisprudence and interpretation are required to understand the
+phrase and the word as used in common parlance. The applicant stated that the words
+“through it” in Section 9{5) is used to indicate the method under which the supply was
+initiated, carried on and concluded.
+
+8.4) The applicant also submitted that the dictionary meaning clearly specifies that
+the word through implies that the supply should be imitiated, carried on and
+concluded by the specified method and in the instant case the “supply is not carried
+on” or “concluded by using their app”. Further, they added, “in cases of electronic
+digital platforms such as Amazon, Flipkart, Urban clap and others, e-commerce
+operators own and manage the supply of services provided by or through it. The
+supplies on these applications are initiated, carried on, concluded using these apps
+and also these operators provide details such as status of goods in transit and its
+logistical locations. On the other hand, the applicant “Vyvashay” merely allow a
+display of the services viable to be supplied by partners / associates and are not
+involved in collection or take up responsibility for after supplies. Furthermore, their
+charges are fixed, and they do not provide any customer support services. Thus, in
+common parlance, it can be concluded that for a supply to be carried out through an
+e-commerce operator, a certain degree of responsibility for such supply should be
+established, however, in the case of “Vyvashay’, they do not take up any responsibility
+on all possible commercial fronts such as Timeline for delivery, Collection against
+supplies, Quality of the supplies and Support services in relation to the supply and
+hence the applicant is of the view that the services can't be deemed to have been
+supplied through it {APP) just because the service is initiated through the digital
+platform.”
+
+Page 10 of 19
+
+
+8.5) We have perused the submissions made by the applicant and examined the
+issue with reference to the relevant provisions of the Act to elucidate the issue on
+hand, as follows:
+
+Section 9(1) of the CGST Act 2017, provides for the Levy of tax on supply of
+goods or services or both as below:
+
+Section 9(1):Subject to the provisions of sub-section (2), there shall be levied a tax called
+the central goods and services tax on all intra-State supplies of goods or services or both,
+except on the supply of alcoholic liquor for human consumption, on the value determined
+under section 15 and at such rates, not exceeding twenty per cent, as may be notified by
+the Government on the recommendations of the Council and collected in such manner as
+may be prescribed and shall be paid by the taxable person
+
+8.6) The Government, in terms of Section 9(5) of the Act authorizes/recognizes the
+E.Commerce Operator as deemed supplier to collect and pay the tax, in respect of
+intra-state supply of certain category of services as notified by the Government on the
+recommendations of the GST Council and the Section 9(5) is reproduced for ease of
+reference, as below:
+
+Section 9(5): The Government may, on the recommendations of the Council, by
+notification, specify categories of services the tax on intra-State supplies of which shall
+be paid by the electronic commerce operator if such services are supplied through it, and
+all the provisions of this Act shall apply to such electronic commerce operator as if he is
+
+the supplier liable for paying the tax in relation to the supply of such services:
+
+Provided that where an electronic commerce operator does not have a physical presence
+in the taxable territory, any person representing such electronic commerce operator for
+any purpose in the taxable territory shall be liable to pay tax:
+
+Provided further that where an electronic commerce operator does not have a physical
+presence in the taxable territory and also he does not have a representative in the said
+territory, such electronic commerce operator shall appoint a person in the taxable
+territory for the purpose of paying tax and such person shall be liable to pay tax.
+
+8.7) Thus, Section 9(5) of the Act of 2017 creates a statutory obligation on the
+electronic commerce operator considering them as the deemed suppliers in respect of
+certain notified services supplied through the online platform maintained by them. It is
+very important to note that the language employed in Section 9(5) viz., “shall be paid”
+and “as if he is the supplier liable for paying the tax’, makes it clear that the
+liability to pay tax on the supply is mandatorily placed on the e-comrnerce operator”.
+
+8.8} The applicant relying on the dictionary meaning of the word “through”,
+interpreted that they are not liable for payment of tax under Section 9(5) of the Act, as
+in the instant case they have not carried on or concluded the service by using their
+App. However on perusal of the terms and conditions of the Vyavshay User and
+Vyavshay pariners, it is seen that the user may select the type of service they require,
+from the Vyavshay App and the specific location and specific date and time at which
+actually they require such service have also been booked through the app. Thereafter,
+based on the availability of the service provider in the area of the consumer/user the
+Vyavshay app books the Service and confirm the provision of service. Based on which
+
+Page 11 of 19
+
+
+the service provider reaches the location of the consumer to render the service and the
+user/consumer receives the services at their door step itself. Finally the user can give
+feedback and rate their service at the end of the service.
+
+8.9) Importantly, as per condition stipulated in terms of use-Vyavshay User, “the user
+shall not connect with the partner or associate offline other than through the
+Vyavshay Application and Vyavshay shall not have any responsibility in case of such
+offline transactions or interaction and the information”. Similarly, as per the terms of
+use- Vyavshay partner and Vyavshay Associates, “partner or associate shall not
+connect with customers offline other than through the Application mentioned and
+Vyavshay shall not have any responsibility in case of such offline transactions or
+interactions”. The other condition that “the materials posted and made available on
+the platform are only to assist user and partner/ associate in concluding the
+transaction”. The partner/ Associate can give feedback of customer and rate them
+alter service delivery. The above conditions establishes the fact that the applicant are
+retaining certain sort of responsibility and hold control over the Vyavshay partner and
+User, when they utilize the App for the supply of services.
+
+From the above sequence of process and the conditions imposed, we are of the view
+that the e-commerce operator owing to their platform and technology facilitates the
+service provider to render their service to the consumer at the door step itself and the
+said service is being monitored through the App till the completion of service by getting
+the feedback from the supplier as well as from the recipient of service.
+
+8.10) Further, it is pertinent to mention herein the rule of interpretation observed by
+the Hon’ble Supreme Court of India, in Civil Appeal No 2684 of 2007, by placing
+reliance on catena of Judgments, as follows:
+
+“in M/s. Hiralal Ratanlal us. STO, AIR 1973 SC 1034, this Court observed: In construing
+a Statutory provision the first and foremost rule of construction is the literal construction.
+All that the Court has to see at the very outset is what does the provision say. If the
+provision is unambiguous and if from the provision the legislative intent is
+clear, the Court need not call into aid the other rules of construction of
+statutes. The other rules of construction are called into aid only when the legislative
+intent is not clear.
+
+cteee eee eeeeens In Gurudevdatta VKSSS Maryadit vs. State of Maharashtra AIR 2001 SC
+1980, this Court observed : "It is a cardinal principle of interpretation of that the words of
+a statute must be understood in their natural, ordinary or popular sense and construed
+according to their grammatical meaning, unless such construction leads to some
+absurdity or unless there is something in the context or in the object of the statute to
+suggest to the contrary. The golden rule is that the words of a statute must primafacie be
+given their ordinary meaning. It is yet another rule of construction that when the words
+of the statute are clear, plain and unambiguous, then the Courts are bound to give effect
+to that meaning, irrespective of the consequences. It is said that the words themselves
+best declare the intention of the law-giver. The Courts are adhered to the principle that
+efforts should be made to give meaning to each and every word used by the legislature
+and it is not a sound principle of construction to brush aside words in a statute as being
+inapposite surpluses, if they can have a proper application in circumstances conceivable
+with in the contemplation of the statute”.
+
+Page 12 of 19
+
+
+The same view has been taken by this Court in S.Mehta vs. State of Maharashtra 2001
+(8) SCC 257 (vide para34) and Patangrao Kaddam vs. Prithviraj Sajirao Yadav
+Deshmugh AIR 2001 SC 1121. The literal rule of interpretation really means that
+there should be no interpretation. In other words, we should read the statute as
+it is, without distorting or twisting its language.” The Hon'ble Supreme Court has
+concluded that literal rule of interpretation will! prevail over all other principles.
+
+8.11) The Supreme Court in Doypack Systems Pvt. Ltd. vs. UOI [1998 (2) SCC
+299] has laid down: “It has to be reiterated that the object of interpretation of a statute
+is to discover the intention of the Parliament as expressed in the Act. The
+dominant purpose in construing a statute is to ascertain the intention of the
+legislature as expressed in the statute, considering it as a whole and in its
+context. That intention, and therefore the meaning of the statute, is primarily
+to be sought in the words used in the statute itself, which must, if they are plain
+and unambiguous, be applied as they stand.”
+
+8.12) By applying the ratio laid down by the Hon'ble Court stated supra, the case on
+hand is examined with reference to the relevant provisions of the CGST Act 2017 /
+TNGST Act 2017, connected Notifications to ascertain the intention of the Government,
+as below:
+
+Section 22(1) of the Act provides for the Persons liable for registration as follows:
+
+Section 22(1) Every supplier shall be liable to be registered under this Act in the State
+or Union territory, other than special category States, from where he makes a taxable
+supply of goods or services or both, if his aggregate tumover in a financial year
+exceeds twenty lakh rupees:
+
+8,13) Section 24 of the CGST Act 2017/ TNGST Act 2017, mandates certain categories
+of persons to obtain compulsory registration, irrespective of the threshold limit for
+aggregate turnover mentioned under Section 22(1) of the Act. It shall be taken into
+account that sub-section (ix) of Section 24, which mandates the compulsory
+registration of persons who supply goods or services or both, through electronic
+commerce operator who is required to collect tax at source under section 52, but
+exempts persons supplying services specified under sub-section (5) of Section 9 from
+obtaining compulsory registration. The Section 24(ix) is extracted as below:
+
+Section 24. Compulsory registration in certain cases.-
+
+Not withstanding anything contained in sub-section (1) of section 22, the following
+categories of persons shall be required to be registered under this Act,-
+
+XXKXKKKKEK
+
+(ix) persons who supply goods or services or both, other than supplies specified under
+sub-section (5) of Section 9, through such electronic commerce operator who is required
+to collect tax at source under section 52.
+
+Page 13 of 19
+
+
+8.14} In exercise of powers conferred under Section 9(5) of the Act, the Central
+Government, on the recommendations of the Council, by Notification No.17/2017-
+Central Tax (Rate) dated 28.06.2017, as amended by subsequent notifications,
+notified the following categories of services, the tax on intra-State supplies shall be
+paid by the electronic commerce operator:
+
+(i) Services by way of transportation of passengers by a radio-taxi, motor cab, maxi
+cab, motor cycle, omnibus or any other motor vehicle;
+
+(ii) services by way of providing accommodation in hotels, inns, guest houses, clubs,
+campsites or other cornmercial places meant for residential or lodging purposes,
+except where the person supplying such service through electronic commerce
+operator is liable for registration under sub-section (1) of section 22 of the said
+Central Goods and Services Tax Act.
+
+(iii) services by way of house-keeping, such as plumbing, carpentering etc, except
+where the person supplying such service through electronic commerce operator is
+liable for registration under sub-section (1) of section 22 of the said Central Goods
+and Services Tax Act.
+
+{iv) supply of restaurant service other than the services supplied by restaurant, eating
+joints etc. located at specified premises.
+
+8.15) Hence, we find that the Government relaxes the provisions of GST law for certain
+category of service providers with turnover less than threshold limit, from obtaining
+compulsory registration under Section 24(ix). Also, the Government shifts the liability
+to pay tax to the Electronic Commerce Operator from the Service providers, for such
+category of Services notified under Section 9(5) of the Central Goods and Services Tax
+Act, 2017.
+
+8.16) By following the principle laid down by the Hon’ble Apex Court, to ascertain the
+intention of the legislature in fixing the liability on the E.Commerce Operator instead
+of the small service providers, it will be appropriate to mention the Statement of Object
+and Reason herein viz “the proposal, justification of the proposal and the
+recommendations of the fitment committee” before the 20% GST Council Meeting, to
+bring the house-keeping services such as plumbing, carpentering etc, within the
+beneficial sweep of Section 9(5), to facilitate and promote the small service providers,
+which are extracted as below, frorn the Official web site of the GST Council:
+
+Sl.No. Proposal Justification Recommendations of the Fitment
+for proposal Committee
+
+1 Services of It shall ease May be accepted.
+Plumber, compliance
+Carpenter etc. | burden on Liability to pay GST in case of
+may be added | small service accommodation service provide by small
+in the providers service providers such as home stays
+aggregator having annual turnover below Rs. 20 lakh
+model (Rs. 10 lakh in case of special category
+
+States] providing accommodation service
+
+Page 14 of 19
+
+
+through E-Commerce Operator (ECO) has
+been placed on the ECO, thereby saving
+the small service providers from the
+requirement of obtaining registration.
+
+The benefit given to small service
+providers providing accommodation
+service through E-Commerce Operator
+(ECO) may be extended to small house-
+keeping service providers (plumber/
+carpenters) providing services through
+ECO.
+
+8.17) From the above agenda, it is to be noted that the purpose behind exempting
+small service providers pertaining to un-organised Sector enumerated under the
+Notification 17/2017 is that such service providers are not in a position to bear the
+burden of compliance of the provisions of the CGST Act, 2017, who neither have the
+means nor the resources for compliance. Whereas the E.Commerce Operator have the
+resources and are in a position to meet the compliance requirements of CGST Act,
+2017. In view of the above discussions when the intent of the legislature is clear in the
+provisions of the Act itself, the import of external aid viz., dictionary meaning to
+interpret the Section is not warranted. Hence, we are of the view that Section 9(5) of
+the Act of 2017 creates a statutory obligation on the E.Commerce Operator as the
+deemed supplier of the services received by the consumer through the online platform
+facilitated by the E. Commerce Operator. Hence, the electronic commerce operator for
+the purpose of Section 9(5) of the Act 2017 are entities, which are liable to pay tax on
+the supplies made by other individual suppliers, utilizing the app maintained by the
+applicant, for the notified services subject to the conditions imposed, thereon.
+
+8.18) It is not the case of the applicant that the users after browsing through the
+services listed on the applicant's app i.e., “Vyavshay” contact the service providers
+listed on the “Vyavshay” app i.e., “partners” directly. As per the definition of Users in
+the Business Model provided by the applicant it is seen that throughout the booking
+process, users receive detailed information about service rates and availability in their
+local area. Also, users can track service delivery personnel in real-time, ensuring
+transparency and timely service. After the service is provided, users confirm payments
+made to the associates, thus completing the entire transaction process. Hence we can
+see that though the “partners” are the actual service providers, the applicant through
+the app is not only involved in linking the service users / customers and the service
+providers / “partners” but also facilitating booking of the required services, tracking
+service delivery personnel in real time and confirmation of payment to the “associates”,
+
+8.19) We find that the applicant has also made submissions that in cases of
+electronic digital platforms such as Amazon, Flipkart, Urban clap and others, though
+the invoices issued for supply is by the vendor the logo of the operator is mentioned on
+the face of the invoice, indicating responsibility of supply. That charges such as
+commission, shipping fees is levied by the operators -such commission is calculated
+
+Page 15 of 19
+
+
+on the value of the goods being sold by the vendor to the end customer and collection
+for all supplies is done by the operator and passed on to the supplier after deduction
+of appropriate charges and taxes. However we find that the above submissions do not
+come to the rescue of the applicant. In this regard we reproduce a FAQ on E commerce
+provided by the Central Board of Indirect taxes;
+
+Question 21: There are cases in which the ECO does not provide invoicing solution to the seller. In
+such cases, invoice is generated by the seller and received by the buyer without ECO getting to
+know about it. The payment flows through the ECO. In such cases, on what value is TCS to be
+collected? Can TCS be collected on the entire value of the transaction?
+
+Answer: Section 52(1) of the CGST Act, 2017 mandates that TCS is to be collected on the net
+taxable value of such supplies in respect of which the ECO colfects the consideration. The amount
+collected should be duly reported in GSTR-8 and remitted to the Government Any such amount
+collected will be available to the concerned supplier as credit in his electronic cash ledger.
+
+From the above question and answer it can be seen that in certain models of
+ecommerce / instances the invoice is generated by the seller and received by the buyer
+without ECO getting to know about it, however even in such instances the E-
+commerce is liable to collect the TCS on the net taxable supplies. Hence the applicants
+claim that they are not generating invoices for the supplies is not a valid argument.
+
+8.20) Further, the fact that the ecommerce operator is not receiving the amount from
+the service recipients is also not a valid argument since as already stated above, the e-
+commerce operator is deemed to have supplied the service in terms of Section 9(5)
+read with the notification above. It is not relevant whether the consideration is paid to
+the e-commerce operator or to the service provider, as unlike the provisions of Section
+52(1) which mandates that TCS is to be collected on the net taxable value of such
+supplies in respect of which the ECO collects the consideration, the provisions of
+Section 9(5) of the CGST Act, 2017 / SGST Act, 2017 provide that in case of services
+notified under Sec. 9(5) of the CGST Act, 2017, tax shall be paid by the electronic
+commerce operator if such services are supplied through it and all the provisions of
+the Act shail apply to such electronic commerce operator as if he is the supplier liable
+to pay tax in relation to the supply of such services. Section 9(5) enables the
+Government to shift point of levy on supply of certain services through E.Commerce
+Operator from supplier to E.Commerce Operator. Only few services are notified u/s
+9{5) in Notn. No.17/2017 and the supply of such services alone qualify for shifting tax
+burden from supplier to E.Commerce Operator. In all other cases, supplier has to
+discharge the tax liability as per the provisions of the GST Act.
+
+8.21) In this case, the applicant facilitates the supply flow from the supplier to the
+customer and the applicant takes responsibility on such supplies carried through their
+App and specifically excludes themselves from any responsibility if there is any off line
+supply takes place between the supplier and customer. The clauses 4.3 and 4.4 found
+in the “Terms of Use-Vyavshay User and Vyavshay partmer” respectively, as discussed
+in para 8.9, would otherwise, show that the responsibility of the supply made through
+
+Page 16 of 19
+
+
+App lies with the applicant and therefore, the applicant cannot disown their liability
+cast upon ther u/s 9(5) for the services notified in Notn. No.17/2017. If their
+contention is taken as the correct legal stand, then the very basic intention of the GST
+Council and Parliament/ State legislature would fail, as the small service provider
+would again face the rigor of compliance burden under the GST law and procedures.
+This is not the object of the legislation and hence, taking cue from the GST Council
+agenda for 20% meeting held on 5 August 2017, the intention behind the notification
+issued u/s 9(5) is to obviate the burden of GST compliance from small service
+providers, the applicant is liable to pay tax u/s 9(5) of the Act on the services notified in
+Notification No.17/2017.
+
+8.22) We find that it is relevant in the instant case to quote the extract of the ruling of
+the Hon’ble High Court of Delhi in the case of UBER INDIA SYSTEMS PVT. LTD. VS
+Union of India. Though the said judgement of the Division Bench of Hon’ble Delhi High
+Court is issued in the context of Examination of Constitutional validity of the
+Notifications withdrawing exemption from GST to service of transportation by auto-
+rickshaw and non-AC stage carriage provided through e-commerce operators (ECOs), it
+is not out of place to quote herein the extract of the said judgement. The question as to
+whether auto-rickshaw drivers/bus-operators supplying transportation of passenger
+service through e-commerce operators (ECOs) is on parity with individual auto-
+rickshaw drivers /individual bus operators was reised before the Hon’ble High Court of
+Delhi. The court held that taxation in hands of ECO for booking made through their
+platform would subserve interest of individual bus operator/auto-rickshaw drivers and
+does not affect adversely interests of consumer - Consumer who books auto-rickshaw
+tide through an ECO and consumer who uses street hailed auto-rickshaw fall under
+different categories as although quality of physical ride in both auto-rickshaws may be
+same but experience of doorstep convenience and assurance in safety makes experience
+different for consumers - Treating suppliers rendering services through ECOs and
+suppliers independently providing said services at par would amount to lack of
+reasonable classification, resulting in gross inequality - As ECOs and individual service
+providers are distinct from each other, exemption available to individual service
+providers cannot be said to be available to ECOs - Relationship between ECOs,
+consumer and vendor are on principal-to-principal basis - ECOs are not acting as
+agents of auto-rickshaw drivers/bus operators - Consumer while opting to avail
+services of ECO, is also opting for these add on services as a result of same, ECO itself
+becomes supplier and is not acting as an agent of supplier - As ECOs are providing
+bundle of services, they are an independent supplier of service and service provided by
+an independent supplier is only one facet of bundle of services assured by ECOs to
+consumer.
+
+8.23) From’the above ruling it can be seen that the treatment of tax is different for the
+same supplies when made through E Commerce Operator. We reiterate that in the
+instant case, the supplies are made through the applicant’s app “Vyavshay” and the
+provisions of Section 9(5) of the CGST Act 2017/ TNGST Act 2017 are very much
+applicable to the applicant.
+
+Page 17 of 19
+
+
+8.24) In view of the above discussions we find that the applicant squarely falls under
+the ambit of Section 9(5) of the CGST Act 2017/ TNGST Act 2017 w.r.to notification no.
+17/2017 dated 28.06.2017. Hence, with regard to the segment of transaction on which
+the applicant is liable to pay tax we find that the applicant has to pay tax on the
+amount charged by the applicant towards the usage of the app as well as on the
+transaction value as sole consideration in terms of Section 15 of the Act, paid by the
+users towards receipt of supply of notified services under the Notification
+No.17/2017-Central Tax (Rate) dated 28.06.2017, as amended, as the applicant,
+being an ecommerce operator, is deemed to be the supplier of services as per the
+provisions of Section 9(5) of the CGST Act, 2017, and the applicant is liable to pay GST
+only on the transaction between the applicant and the partners ie based on usage of
+the app with respect to supply of services other than which are notified under Section
+9(5) of CGST Act, 2017.
+
+9. In view of the above, we rule as under,
+
+RULING
+
+1. The applicant satisfies the definition of an e-commerce operator and falls under the
+nature of supply provided in Section 9(5) of CGST Act, 2017 r/w notification No
+17/2017 dated 28.06.2017.
+
+2. The Applicant is liable to pay GST on the amount charged by the applicant towards
+the usage of the app as well as on the transaction value as sole consideration in terms
+of Section 15 of the Act, paid by the users towards receipt of supply of notified services
+under the Notification No.17/2017-Central Tax (Rate) dated 28.06.2017, as amended,
+as the applicant is deemed to be the supplier of services as per the provisions of
+Section 9(5) of the CGST Act, 2017. However, the applicant is liable to pay GST only on
+the transaction between the applicant and the partners i.e based on usage of the app
+with respect to supply of services other than which are notified under Section 9(S) of
+CGST Act, 2017
+
+Mehiber(SGST)
+
+‘ember (CGST)
+
+To
+
+M/s Balat Enterprises Private Limited,//By SPAD//
+Floor 6, Block A Flat 5, Jains Inseli Park,
+
+Old Mahabalipuram Road, Padur,
+
+Kancheepuram, Tamil Nadu, 603103
+
+Page 18 of 19
+
+
+Copy submitted to:-
+
+1. The Principal Chief Commissioner of CGST & Central Excise,
+No, 26/1, Uthamar Mahatma Gandhi Road, Nungambakkam,
+Chennai — 600 034
+
+2. The Commissioner of Commercial Taxes,
+2nd Floor, Ezhilagam, Chepauk, Chennai — 600 005.
+
+Copy to:
+
+1. The Commissioner of GST & C.Ex.,
+Chennai Outer Commissionerate,
+Anna Nagar, Chennai- 600 040.
+
+2. The Assistant Commissioner (ST),
+Kelambakkam Assessment Circle,
+Room No. 220 & 236, 2¢ Floor,
+Integrated Building for Commercial Taxes
+and Registration Department,
+Nandanam, Chennai —- 600 035.
+
+3. Master File / spare —1.
+
+Page 19 of 19

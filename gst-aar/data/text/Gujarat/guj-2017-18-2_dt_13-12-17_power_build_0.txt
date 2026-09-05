@@ -1,420 +1,284 @@
-1 
- 
- 
-GUJARAT AUTHORITY FOR ADVANCE RULING  
-GOODS AND SERVICES TAX 
-A/5, RAJYA KAR BHAVAN, ASHRAM ROAD, 
-AHMEDABAD – 380 009. 
- 
- 
-ADVANCE RULING NO. GUJ/GAAR/R/2017-18/2 
-(IN APPLICATION NO. Advance Ruling/SGST&CGST/2017-18/AR/8 ) 
- 
-Date : 13.12.2017 
- 
-Name 
-and 
-address 
-of 
-the 
-applicant 
-: 
-M/s. Power Build Private Limited 
-Anand Sojitra Road, 
-Vallabh Vidhyanagar, 
-Anand – 388 120 
- 
-GSTIN of the applicant 
-: 
-24AABCP2464K1ZF 
- 
-Date of application 
-: 
-31.08.2017 
- 
-Clause(s) of Section 97(2) of 
-CGST / GGST Act, 2017, under 
-which the question(s) raised. 
- 
-: 
-(a) classification of any goods or services or 
-both; 
- 
-Date of Personal Hearing 
-: 
-15.11.2017 
- 
-Present for the applicant 
-: 
-Shri A.K. Pandey, DGM 
-Shri Rashmin Vaja, CA 
- 
- 
- 
-The applicant M/s. Power Build Private Limited has submitted that in 
-manufacturing of ‘Geared Motors’, Electric Motors are assembled with Gear Boxes 
-manufactured by them. Commercially, a Gearbox cannot have any use without being 
-rotated and coupled with motor affixed to it. Utility of motor is to facilitate the running of 
-any machine or conveyors in industries, whereas the speed of motor is fixed and it needs 
-to be controlled, Gears are used to control the speed of final machine. As many customers 
-insist on the Geared Motor, wherein Electric Motor is assembled with the Gear Box and 
-is sold and cleared as a ‘Geared Motor’. Motor in this case may be manufactured or 
-bought-out item. They submitted that in the erstwhile regime of Central Excise, mere 
-Gear Boxes were classified under HSN Code 8483 and Geared Motor under HSN code of 
-8501, and both their products were being taxed at 12.5% under Central Excise. They 
-submitted that under the GST regime, the classification remains the same but rates of 
-GST have changed; that HSN of Motor is 8501 which is taxed at the rate of 18% and 
-Gear Box under HSN of 8483 which is taxed at the rate 28%. They referred to the 
-descriptions given in Notification No. 1/2017-Central Tax (Rate) dated 28.06.2017 and 
-submitted that GST rate @ 18% would be applicable for Electric Motors (whether geared 
-or otherwise). HSN Code of Electric Motors would be applicable for Geared Motors as 
-well and accordingly they would be raising invoice to their customers under HSN Code 
-of 8501 charging 18% of GST. 
- 
-2. 
-The applicant submitted that they are engaged in supplying ‘Geared Motor’, 
-which is an assembly product of the ‘Electric Motor’ and ‘Gear Box’. Electric Motor is 
-covered under HSN code 8501 attracting GST at 18%, while Gear Box falls under HSN 
-code 8483 attracting GST at 28%, however, HSN code and tax rate for product ‘Geared 
-Motor’ is not provided under law. 
-Page 1 of 6 
- 
+GUJARAT AUTHORITY FOR ADVANCE RULING
+GOODS AND SERVICES TAX
+A/5, RAJYA KAR BHAVAN, ASHRAM ROAD,
+NATION
+TAX
+MARKET
+AHMEDABAD - 380 009.
+ADVANCE RULING NO. GUJ/GAAR/R/2017-18/2
+(IN APPLICATION NO. Advance Ruling/SGST&CGST/2017-18/AR/8)
+Date : 13.12.2017
+Name and address
+applicant
+of
+GSTIN of the applicant
+Date of application
+Clause(s) of Section 97(2) of
+CGST / GGST Act, 2017, under
+which the question(s) raised.
+Date of Personal Hearing
+Present for the applicant
+the
+:
+M/s. Power Build Private Limited
+Anand Sojitra Road
+Vallabh Vidhyanagar
+Anand - 388 120
+:
+(24AABCP2464K1ZF
+:31.08.2017
+(a) classification of any goods or services or
+both;
+:
+15.11.2017
+••
+Shri A.K. Pandey, DGM
+Shri Rashmin Vaja, CA
+The applicant M/s. Power Build Private Limited has submitted that
+manufacturing of 'Geared Motors', Electric Motors are assembled with Gear Boxes
+manufactured by them. Commercially, a Gearbox cannot have any use without being
+rotated and coupled with motor affixed to it. Utility of motor is to facilitate the running of
+any machine or conveyors in industries, whereas the speed of motor is fixed and it needs
+to be controlled, Gears are used to control the speed of final machine. As many customers
+insist on the Geared Motor, wherein Electric Motor is assembled with the Gear Box and
+is sold and cleared as a 'Geared Motor'. Motor in this case may be manufactured or
+bought-out item. They submitted that in the erstwhile regime of Central Excise, mere
+Gear Boxes were classified under HSN Code 8483 and Geared Motor under HSN code of
+8501, and both their products were being taxed at 12.5% under Central Excise. They
+submitted that under the GST regime, the classification remains the same but rates of
+GST have changed; that HSN of Motor is 8501 which is taxed at the rate of 18% and
+Gear Box under HSN of 8483 which is taxed at the rate 28%. They referred to the
+descriptions given in Notification No. 1/2017-Central Tax (Rate) dated 28.06.2017 and
+submitted that GST rate @ 18% would be applicable for Electric Motors (whether geared
+or otherwise). HSN Code of Electric Motors would be applicable for Geared Motors as
+well and accordingly they would be raising invoice to their customers under HSN Code
+of 8501 charging 18% of GST.
+The applicant submitted that they are engaged in supplying 'Geared Motor',
+which is an assembly product of the 'Electric Motor' and 'Gear Box'. Electric Motor is
+covered under HSN code 8501 attracting GST at 18%, while Gear Box falls under HSN
+code 8483 attracting GST at 28%, however, HSN code and tax rate for product 'Geared
+Motor' is not provided under law.
+Page 1 of 6
 
+2
+3.
+application:-
+The applicant has raised following question for advance ruling in their
+What is the HSN Code and GST Tax Rate of a product 'Geared Motor'?
+4.1 The Commissioner of Central Excise & GST, Vadodara - I Commissionerate
+informed that it is a fact that the HSN code and GST Tax Rate of product 'Geared Motor'
+is not clearly mentioned in the GST Tariff, therefore, for determining the HSN code and
+GST Tax rate of the product, one need to go through the major inputs, process of
+manufacture and end use of the product, through which an inference can be drawn about
+the same. It was informed that the applicant vide letter dated 14.08.2017 has submitted as
+follows :-
+Major Inputs : Major inputs utilized for the production of Geared Motor and its
+HSN Code with GST Rate of duty is mentioned below :
+SI. No.
+1
+5
+Name of Inputs
+Electric Motor
+Bearing
+Casting
+Steel Round Bar
+Fastener
+Oil Seal
+Oil
+HSN Code
+8501
+8482
+7428
+7206
+7318
+4016
+3403
+Rate of GST
+18%
+28%
+28%
+18%
+28%
+28%
+28%
+Process of Manufacturing : The process is explained as -
+Gear Box
+a. Casting of Gear Case machined on CNC Horizontal Machining Centre.
+b. Steel Round Bar undergoes series of manufacturing processes like
+cutting, turning, keyways, hobing, heat treatment, skiing etc.
+c. Gear Box becomes mechanical product.
+Geared Motor
+Assembly of Electric Motor with Gear Box becomes Geared Motor which
+is electrical product.
+End use of the product:
+In general, Gear Box are assembled with the Electric Motor and used in following
+industries -
+a. Agriculture
+b.
+Pharma
+c. Cement
+d. Pulp and Paper
+e.
+Fertilizer
+f.
+Textile
+g.
+Rice Mill
+h. Food Industries
+Page 2 of 6
 
-2 
- 
-3. 
-The applicant has raised following question for advance ruling in their  
-application :- 
- 
- 
-What is the HSN Code and GST Tax Rate of a product ‘Geared Motor’? 
- 
-4.1 
-The Commissioner of Central Excise & GST, Vadodara – I Commissionerate 
-informed that it is a fact that the HSN code and GST Tax Rate of product ‘Geared Motor’ 
-is not clearly mentioned in the GST Tariff, therefore, for determining the HSN code and 
-GST Tax rate of the product, one need to go through the major inputs, process of 
-manufacture and end use of the product, through which an inference can be drawn about 
-the same. It was informed that the applicant vide letter dated 14.08.2017 has submitted as 
-follows :- 
- 
-Major Inputs : Major inputs utilized for the production of Geared Motor and its 
-HSN Code with GST Rate of duty is mentioned below :   
- 
-Sl. No. 
-Name of Inputs 
-HSN Code 
-Rate of GST 
-1 
-Electric Motor 
-8501 
-18% 
-2 
-Bearing 
-8482 
-28% 
-3 
-Casting 
-7428 
-28% 
-4 
-Steel Round Bar 
-7206 
-18% 
-5 
-Fastener 
-7318 
-28% 
-6 
-Oil Seal 
-4016 
-28% 
-7 
-Oil 
-3403 
-28% 
- 
-Process of Manufacturing : The process is explained as – 
- 
-Gear Box 
- 
-a. Casting of Gear Case machined on CNC Horizontal Machining Centre. 
-b. Steel Round Bar undergoes series of manufacturing processes like 
-cutting, turning, keyways, hobing, heat treatment, skiing etc. 
-c. Gear Box becomes mechanical product. 
- 
-Geared Motor  
- 
-Assembly of Electric Motor with Gear Box becomes Geared Motor which 
-is electrical product. 
- 
-End use of the product : 
- 
-In general, Gear Box are assembled with the Electric Motor and used in following 
-industries – 
- 
-a. Agriculture 
-b. Pharma 
-c. Cement 
-d. Pulp and Paper 
-e. Fertilizer 
-f. Textile 
-g. Rice Mill 
-h. Food Industries 
- 
-Page 2 of 6 
- 
+3
+It is submitted that from the above inputs, process and end use of the product, it is
+inferred that the Geared Motor is a device in which an Electric Motor is fixed with the
+Gear Box for changing its speed and torque. In addition, the very first paragraph of the
+catalogue of the Geared Motor of applicant company mentions as follows :-
+"Geared Motors and Gearboxes are the heart of any engineering product. It is
+not just the torque and speed but the reliability of the Geared Motor that defined
+the performance of your product or equipment."
+Gear Box is a device which is used to transmit mechanical power and speed from
+one shaft to other shaft. Gear Box helps in changing the direction as well as output RPM
+with the help of various combination in gearing. Gear box is mechanical power device.
+HSN code of Gear box is 8483 and GST rate of Gear box is 28%.
+Electric Motor is a device which converts electrical current in to rotating
+mechanical motion. HSN code of Electric motor 8501 and GST rate of Electric Motor is
+18%.
+4.3
+Hence, it is submitted that the Geared Motor is a device which is used to change
+the speed & torque of an electric motor. Accordingly, it is noted that the correct
+applicability of HSN code of product 'Geared Motors' fall under HSN 8483 4000
+specifically which is described as "Gears and Gearing, other than toothed wheels, chain
+sprockets and other transmission elements presented separately, ball or roller screws; gear
+boxes and other speed changers, including torque converters". Accordingly, it will be
+taxable under Schedule IV of GST Act with 28% of GST rate.
+5.1
+The Assistant Commissioner, State Tax, Ghatak-51, Anand informed that 'Geared
+Motor' is an assembly product of 'Electric Motor' and 'Gear Box'. 'Electric Motor' falls
+under HSN 8501 and attracts GST rate of 18% whereas 'Gear Box' falls under HSN 8483
+and attracts GST rate of 28%. There is no specific entry for 'Geared Motor' in GST
+Schedule.
+It is further informed that by assembly of 'Gear Box' and 'Electric Motor', a
+distinct product 'Geared Motor' is manufactured, which has no direct use, but it is used
+as parts in Machinery, Tools, Appliances industries. As there is no specific entry for
+'Geared Motor', the rate of tax may be determined on the basis of its uses e.g. in the
+erstwhile VAT Act, the Gearbox used in machinery were known as Machinery Parts,
+Gearbox used in Automobiles were known as Auto Parts and Gearbox used in Tractor
+were known as Tractor parts and even though these three were Gearbox, as per different
+designs and use in different sectors, the tax rates were applicable accordingly.
+5.3 It is also informed that the applicant has given information about 'Geared Motor'
+in Annexure A - Brief about company and Annexure B - Statement of interpretation by
+applicant, but it has not been clarified the sectors in which the said product is used.
+It is also informed that the 'Geared Motor' was considered as Machinery under
+Schedule - 2(58)A vide decision dated 25.03.2011 in applicant's own case and decision
+dated 11.05.2011 in case of M/s. Jasood Extrusion Pvt. Ltd. rendered under Section 80 of
+erstwhile Gujarat VAT Act, but under GST schedule, different rates are applicable for
+Page 3 of 6
 
+4
+5.5
+In view thereof, as the 'Geared Motor' is used in (i) Automobile Sector, (ii)
+Machinery, (iii) Home Appliances and (iv) Tools, and which 'Geared Motor' is used in
+which types of industries is not clear from the application, it has been opined that that
+product 'Geared Motor' is classifiable under respective commodity parts on the basis of
+use in specific commodity (HSN - 8428, 8509, 8708, 8483).
+We have considered the submissions made by the applicant in their application for
+advance ruling as well as at the time of personal hearing on 15.11.2017. We have also
+considered the information and views submitted by the Commissioner of Central Excise
+& GST, Vadodara - I Commissionerate and the Assistant Commissioner, State Tax,
+Ghatak-51, Anand.
+7.1
+The issue involved in this case pertains to classification of the product 'Geared
+Motor' i.e. whether 'Geared Motor' falls under Chapter Heading 8483 or 8501 of the
+Customs Tariff Act, 1975. On the basis of the classification of the said product, it will be
+leviable to appropriate rate of Goods and Services Tax prescribed under Notification No.
+1/2017-Central Tax (Rate) dated 28.06.2017 issued under the Central Goods and Services
+Tax Act, 2017 (herein after referred to as the 'CGST Act, 2017') and corresponding
+Notification issued under the Gujarat Goods and Services Tax Act, 2017 (herein after
+referred to as the 'GGST Act, 2017' or the Integrated Goods and Services Tax Act,
+2017.
+7.2 It is observed that the Explanation (iii) and (iv) of the Notification No. 1/2017-
+Central Tax (Rate) dated 28.06.2017 provides as follows :-
+"Explanation. - For the purposes of this notification, -
+(i)
+(1)
+(iti)
+"Tariff item",
+"sub-heading" "heading" and "Chapter" shall mean
+respectively a tariff item, sub-heading, heading and chapter as specified in the
+First Schedule to the Customs Tariff Act, 1975 (51 of 1975).
+The rules for the interpretation of the First Schedule to the Customs Tariff
+Act, 1975 (51 of 1975), including the Section and Chapter Notes and the General
+Explanatory Notes of the First Schedule shall, so far as may be, apply to the
+interpretation of this notification."
+7.3
+Further, Hon'ble Supreme Court in the case of L.M.L. Ltd. Vs. Commissioner of
+Customs [Civil Appeal No. 3764 of 2003, decided on 21.09.2010 reported at 2010(258)
+ELT 321 (S.C.)] has held as follows :-
+"12. In Collector of Central Excise, Shillong v. Wood Crafts Products Ltd.
+reported in (1995) 3 SCC 454, it was held by this Court that as expressly stated in
+the statements of objects and reasons of the Central Excise Tariff Act, 1985, the
+Central Excise Tariffs are based on the Harmonious System of Nomenclature
+(HSN) and the internationally accepted nomenclature was taken into account to
+reduce disputes on account of tariff classification. Accordingly, for resolving any
+dispute relating to tariff classification, a safe guide is the internationally accepted
+nomenclature emerging from the Harmonious System of Nomenclature (HSN).
+Although, the decision in the case of Woodcraft Products (supra) dealt with the
+interpretation of the provisions of the Central Excise Tariff there can be no doubt
+that the HSN Explanatory Notes are a dependable guide even while interpreting
+the Customs Tariff."
+Page 4 of 6
 
-3 
- 
- 
-4.2 
-It is submitted that from the above inputs, process and end use of the product, it is 
-inferred that the Geared Motor is a device in which an Electric Motor is fixed with the 
-Gear Box for changing its speed and torque. In addition, the very first paragraph of the 
-catalogue of the Geared Motor of applicant company mentions as follows :- 
- 
-“Geared Motors and Gearboxes are the heart of any engineering product. It is 
-not just the torque and speed but the reliability of the Geared Motor that defined 
-the performance of your product or equipment.” 
- 
-Gear Box is a device which is used to transmit mechanical power and speed from 
-one shaft to other shaft. Gear Box helps in changing the direction as well as output RPM 
-with the help of various combination in gearing. Gear box is mechanical power device. 
-HSN code of Gear box is 8483 and GST rate of Gear box is 28%. 
- 
-Electric Motor is a device which converts electrical current in to rotating 
-mechanical motion. HSN code of Electric motor 8501 and GST rate of Electric Motor is 
-18%. 
- 
-4.3 
-Hence, it is submitted that the Geared Motor is a device which is used to change 
-the speed & torque of an electric motor. Accordingly, it is noted that the correct 
-applicability of HSN code of product ‘Geared Motors’ fall under HSN 8483 4000 
-specifically which is described as “Gears and Gearing, other than toothed wheels, chain 
-sprockets and other transmission elements presented separately, ball or roller screws; gear 
-boxes and other speed changers, including torque converters” . Accordingly, it will be 
-taxable under Schedule IV of GST Act with 28% of GST rate. 
- 
-5.1 
-The Assistant Commissioner, State Tax, Ghatak-51, Anand informed that ‘Geared 
-Motor’ is an assembly product of ‘Electric Motor’ and ‘Gear Box’. ‘Electric Motor’ falls 
-under HSN 8501 and attracts GST rate of 18% whereas ‘Gear Box’ falls under HSN 8483 
-and attracts GST rate of 28%. There is no specific entry for ‘Geared Motor’ in GST 
-Schedule. 
- 
-5.2 
-It is further informed that by assembly of ‘Gear Box’ and ‘Electric Motor’, a 
-distinct product ‘Geared Motor’ is manufactured, which has no direct use, but it is used 
-as parts in Machinery, Tools, Appliances industries. As there is no specific entry for 
-‘Geared Motor’, the rate of tax may be determined on the basis of its uses e.g. in the 
-erstwhile VAT Act, the Gearbox used in machinery were known as Machinery Parts, 
-Gearbox used in Automobiles were known as Auto Parts and Gearbox used in Tractor 
-were known as Tractor parts and even though these three were Gearbox, as per different 
-designs and use in different sectors, the tax rates were applicable accordingly.   
- 
-5.3 
-It is also informed that the applicant has given information about ‘Geared Motor’ 
-in Annexure A – Brief about company and Annexure B – Statement of interpretation by 
-applicant, but it has not been clarified the sectors in which the said product is used.  
- 
-5.4 
-It is also informed that the ‘Geared Motor’ was considered as Machinery under 
-Schedule – 2(58)A vide decision dated 25.03.2011 in applicant’s own case and decision 
-dated 11.05.2011 in case of M/s. Jasood Extrusion Pvt. Ltd. rendered under Section 80 of 
-erstwhile Gujarat VAT Act, but under GST schedule, different rates are applicable for 
-different machineries. 
- 
-Page 3 of 6 
- 
+5
+It is observed that "Gears and gearing; gear boxes and other speed changers,
+including torque converters' fall under Chapter Heading 8483 whereas Electric Motors'
+fall under Chapter Heading 8501. The product 'Geared Motor' is an assembly product of
+the 'Electric Motor' and 'Gear Box'. It is submitted that there is no specific entry for the
+product 'Geared Motor' either under Notification No. 1/2017-Central Tax (Rate) dated
+28.06.2017 or under the Customs Tariff Act, 1975.
+8.2 The Explanatory Notes for 'Gear Boxes and other Speed Changers, including
+Torque Converters' under Tariff Heading 8483 of the Harmonised System of
+Nomenclature provides as follows :-
+"(E) GEAR BOXES AND OTHER SPEED CHANGERS,
+INCLUDING TORQUE CONVERTERS
+These provide a raning of here rhich san the macine ither iby la, inter
+(1) Gear-boxes consisting of assemblies of gears which can be selected in
+alternative arrangements; the speed of transmission can thus be varied according
+to the arrangement of gears set.
+(2)......
+(3)......
+......
+The heading does not cover gear boxes or other variable speed changers
+combined with a motor; these are classified in the same heading as the motor."
+[underlining supplied]
+The Explanatory Notes for Electric Motors' under Tariff Heading 8501 of the
+Harmonised System of Nomenclature, inter-alia, provides as follows :-
+"(I) ELECTRIC MOTORS
+Electric motors are machines for transforming electrical energy into mechanical
+power.......
+(A) ........
+Motors remain classified here even when they are equipped with pulleys, with
+gears or gear boxes, or with a flexible shaft for operating hand tools.
+(B) ......
+[underlining supplied]
+Page 5 of 6
 
-
-4 
- 
-5.5 
-In view thereof, as the ‘Geared Motor’ is used in (i) Automobile Sector, (ii) 
-Machinery, (iii) Home Appliances and (iv) Tools, and which ‘Geared Motor’ is used in 
-which types of industries is not clear from the application, it has been opined that that 
-product ‘Geared Motor’ is classifiable under respective commodity parts on the basis of 
-use in specific commodity (HSN – 8428, 8509, 8708, 8483).   
- 
-6. 
-We have considered the submissions made by the applicant in their application for 
-advance ruling as well as at the time of personal hearing on 15.11.2017. We have also 
-considered the information and views submitted by the Commissioner of Central Excise 
-& GST, Vadodara – I Commissionerate and the Assistant Commissioner, State Tax, 
-Ghatak-51, Anand. 
- 
-7.1 
-The issue involved in this case pertains to classification of the product ‘Geared 
-Motor’ i.e. whether ‘Geared Motor’ falls under Chapter Heading 8483 or 8501 of the 
-Customs Tariff Act, 1975. On the basis of the classification of the said product, it will be 
-leviable to appropriate rate of Goods and Services Tax prescribed under Notification No. 
-1/2017-Central Tax (Rate) dated 28.06.2017 issued under the Central Goods and Services 
-Tax Act, 2017 (herein after referred to as the ‘CGST Act, 2017’) and corresponding 
-Notification issued under the Gujarat Goods and Services Tax Act, 2017 (herein after 
-referred to as the ‘GGST Act, 2017’) or the Integrated Goods and Services Tax Act, 
-2017.  
- 
-7.2 
-It is observed that the Explanation (iii) and (iv) of the Notification No. 1/2017-
-Central Tax (Rate) dated 28.06.2017 provides as follows :- 
- 
-“Explanation. - For the purposes of this notification, - 
- 
-(i) 
-…… 
- 
-(ii) 
-…… 
- 
-(iii) 
-“Tariff item”, “sub-heading” “heading” and “Chapter” shall mean 
-respectively a tariff item, sub-heading, heading and chapter as specified in the 
-First Schedule to the Customs Tariff Act, 1975 (51 of 1975). 
- 
- 
-(iv) 
-The rules for the interpretation of the First Schedule to the Customs Tariff 
-Act, 1975 (51 of 1975), including the Section and Chapter Notes and the General 
-Explanatory Notes of the First Schedule shall, so far as may be, apply to the 
-interpretation of this notification.” 
- 
- 
-7.3 
-Further, Hon’ble Supreme Court in the case of L.M.L. Ltd. Vs. Commissioner of 
-Customs [Civil Appeal No. 3764 of 2003, decided on 21.09.2010 reported at 2010 (258) 
-ELT 321 (S.C.)] has held as follows :- 
- 
-“12. 
-In Collector of Central Excise, Shillong v. Wood Crafts Products Ltd. 
-reported in (1995) 3 SCC 454, it was held by this Court that as expressly stated in 
-the statements of objects and reasons of the Central Excise Tariff Act, 1985, the 
-Central Excise Tariffs are based on the Harmonious System of Nomenclature 
-(HSN) and the internationally accepted nomenclature was taken into account to 
-reduce disputes on account of tariff classification. Accordingly, for resolving any 
-dispute relating to tariff classification, a safe guide is the internationally accepted 
-nomenclature emerging from the Harmonious System of Nomenclature (HSN). 
-Although, the decision in the case of Woodcraft Products (supra) dealt with the 
-interpretation of the provisions of the Central Excise Tariff there can be no doubt 
-that the HSN Explanatory Notes are a dependable guide even while interpreting 
-the Customs Tariff.” 
-Page 4 of 6 
- 
-
-
-5 
- 
- 
-8.1 
-It is observed that ‘Gears and gearing; gear boxes and other speed changers, 
-including torque converters’ fall under Chapter Heading 8483 whereas ‘Electric Motors’ 
-fall under Chapter Heading 8501. The product ‘Geared Motor’ is an assembly product of 
-the ‘Electric Motor’ and ‘Gear Box’. It is submitted that there is no specific entry for the 
-product ‘Geared Motor’ either under Notification No. 1/2017-Central Tax (Rate) dated 
-28.06.2017 or under the Customs Tariff Act, 1975. 
- 
-8.2 
-The Explanatory Notes for ‘Gear Boxes and other Speed Changers, including 
-Torque Converters’ under Tariff Heading 8483 of the Harmonised System of 
-Nomenclature provides as follows :-  
- 
-“(E) GEAR BOXES AND OTHER SPEED CHANGERS, 
-INCLUDING TORQUE CONVERTERS 
- 
-These provide a range of speeds which can be varied, either by hand or 
-automatically, according to the requirements of the machine. They include, inter 
-alia : 
- 
-(1) Gear-boxes consisting of assemblies of gears which can be selected in 
-alternative arrangements; the speed of transmission can thus be varied according 
-to the arrangement of gears set. 
- 
-(2) …… 
- 
-(3) …… 
- 
-…… 
- 
-The heading does not cover gear boxes or other variable speed changers 
-combined with a motor; these are classified in the same heading as the motor.” 
- 
-[underlining supplied] 
- 
-8.3 
-The Explanatory Notes for ‘Electric Motors’ under Tariff Heading 8501 of the 
-Harmonised System of Nomenclature, inter-alia, provides as follows :- 
- 
- 
-“(I) ELECTRIC MOTORS 
- 
-Electric motors are machines for transforming electrical energy into mechanical 
-power. ……… 
- 
-(A) ……… 
- 
-Motors remain classified here even when they are equipped with pulleys, with 
-gears or gear boxes, or with a flexible shaft for operating hand tools. 
- 
-……… 
- 
-(B) …… 
- 
-[underlining supplied] 
- 
- 
- 
-Page 5 of 6 
- 
-
-
-6 
- 
-8.4 
-Thus, the Tariff Heading 8483 does not cover Gear Boxes or other variable speed 
-changers combined with a motor. Motor remain classified under Tariff Heading 8501 
-even when they are equipped with pulleys, with gears or gear boxes, of with a flexible 
-shaft for operating hand tools. 
- 
-8.5 
-Therefore, on the basis of the Explanatory Notes of HSN under Tariff Heading 
-8483 and 8501, it is evident that the product ‘Geared Motor’, which is an assembly 
-product of the ‘Electric Motor’ and ‘Gear Box’, will appropriately fall under Chapter 
-Heading 8501 of the Customs Tariff Act, 1975, and we hold so. 
- 
-9. 
-In view of the foregoing, we rule as under – 
- 
-R U L I N G 
- 
- 
-The product ‘Geared Motor’ is classifiable under Chapter Heading 8501 of 
-the Customs Tariff Act, 1975 and Goods and Services Tax rate applicable to 
-Chapter Heading 8501 is applicable to the said product.  
- 
- 
- 
- 
-    (R.B. Mankodi) 
- 
- 
- 
- 
- 
- 
-       (G.C. Jain) 
-         Member  
- 
- 
- 
- 
- 
- 
-          Member 
- 
- 
-Place : Ahmedabad  
-Date  : 13.12.2017. 
+8.4 Thus, the Tariff Heading 8483 does not cover Gear Boxes or other variable speed
+changers combined with a motor. Motor remain classified under Tariff Heading 8501
+even when they are equipped with pulleys, with gears or gear boxes, of with a flexible
+shaft for operating hand tools.
+Therefore, on the basis of the Explanatory Notes of HSN under Tariff Heading
+8483 and 8501, it is evident that the product 'Geared Motor', which is an assembly
+product of the "Electric Motor' and 'Gear Box', will appropriately fall under Chapter
+Heading 8501 of the Customs Tariff Act, 1975, and we hold so.
+9.
+In view of the foregoing, we rule as under -
+RULING
+The product 'Geared Motor' is classifiable under Chapter Heading 8501 of
+the Customs Tariff Act, 1975 and Goods and Services Tax rate applicable to
+Chapter Heading 8501 is applicable to the said product.
+(R.B. Mankodi)
+Member
+(G.C. Jain)
+Member
+Place : Ahmedabad
+Date: 13.12.2017.
 Page 6 of 6

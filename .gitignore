@@ -29,3 +29,6 @@ gst-aar/ocr-benchmark/surya-out/
 gst-aar/ocr-benchmark/surya-rest/
 gst-aar/webapp/node_modules/
 gst-aar/webapp/.next/
+# regenerable from aar_list.jsonl + text files (build_db.py) — exceeds GH 100MB
+gst-aar/data/aar.db
+gst-aar/data/aar.db-*

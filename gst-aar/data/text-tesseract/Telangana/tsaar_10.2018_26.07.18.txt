@@ -1,0 +1,958 @@
+TELANGANA STATE AUTHORITY FOR ADVANCE RULING 
+CT Complex, M.J Road, Nampally, Hyderabad-500001. 
+(Constituted under Section 96(1) of TGST Act, 2017) 
+ 
+ 
+ 
+ 
+ 
+  Present: 
+ 
+ 
+Sri J. Laxminarayana, Additional Commissioner (State Tax) 
+ 
+                  Sri V. Srinivas, IRS, Joint Commissioner (Central Tax) 
+ 
+A.R.Com/13/2018                                                                   Date. 26-07-2018 
+ 
+TSAAR Order No. 10/2018 
+ 
+Under Section 100(1) of the CGST/TGST Act, 2017, any person aggrieved by 
+this order can prefer an appeal before the Telangana State Appellate Authority for 
+Advance Ruling, Hyderabad, within 30 days from the date of receipt of this Order. 
+ 
+*******  
+1. 
+M/s. K L Hi-tech Secure Print Ltd, Plot No.22-23, Anrich Industrial Estate, IDA 
+Bollaram, Sangareddy District, Telangana-502325 registered under GSTIN 
+36AAACK4241N1ZF has filed an application in Form GST ARA-01under Section 
+97(1) of TGST Act,2017 read with Rule 103 of CGST/TGST Rules, 2017and 
+sought Advance Ruling on the issues raised in ANNEXURE I enclosed to their 
+application: 
+ 
+2. 
+The applicant submitted the application in Form GST ARA-01 enclosing 
+ANNEXURE-I (Questions on which advance ruling is required), ANNEXURE-
+II(Statement of relevant facts having a bearing on the questions raised) and 
+ANNEXURE-III(Statement containing applicant’s interpretation of law and /or 
+facts, in respect of the questions raised) which are given below. They have also 
+submitted a copy of Challan evidencing payment of Rs.10000/- towards 
+application fee. 
+ 
+ANNEXURE- I(Questions on which advance ruling is required) 
+1. 
+Whether supply of service of: 
+(i) Printing of Pre-examination items like question papers, OMR sheets (Optical 
+Mark Reading), answer booklets; 
+(ii) Printing of Post-examination items like marks card, grade card, certificates 
+to the educational boards of up to higher secondary; and  
+(iii) Scanning and processing of results of examinations; 
+be treated as exempted supply of service by virtue of Entry No. 66 of the 
+Notification No. 12/2017 - Central Tax (Rate), dated 28th June, 2017 and as 
+amended by Notification No.2/2018 - Central Tax (Rate), dated 25th 
+January, 2018; Entry No. 66 of Notification No. 12/2017 - State Tax (Rate), 
+dated 29th June, 2017; and Entry No. 69 of the Notification No. 9/ 2017 - 
+Integrated Tax (Rate), dated 28th June, 2017 as amended by Notification No. 
+2/2018- Integrated Tax (Rate), dated 25th January, 2018? 
+2.  
+What would be the classification and the applicable GST rate, for the supply of 
+Printing of cheque book? 
+3.  
+What would be the classification and the applicable GST rate, for the 
+ printing and supply of Aadhaar Cards on paper? 
+. 
+. 
+
+
+4.  
+What would be the classification and the applicable GST rate, for the printing 
+and supply of Polyvinyl chloride (PVC) Cards? 
+ 
+ANNEXURE-II (Statement of relevant facts having a bearing on the questions raised) 
+1. 
+KL Hi tech Secure Print Limited (For brevity 'KLHT' or 'The Company') is a 
+company located at Plot No. 22-23, Anrich Industrial Estate, IDA Bollaram, 
+Sangareddy District, Telangana 502 325. 
+2. 
+The Company is engaged in the business of providing the services of printing of 
+security documents to its clients, who vary from Government Authorities and 
+agencies, Banks, Educational Boards / Institutions and Private Companies. 
+3. 
+The details of the services are as follows: 
+(i) Supply of services to the Educational Boards:- 
+a)  
+Printing of Pre and Post Examination items for various Educational 
+Boards: 
+The Company provides the service of printing of both pre and post 
+examination documents to various educational boards. 
+The pre examination documents includes OMR sheets, question 
+papers, answer booklets. 
+The post examination documents include marks card, grade card and 
+certificates. 
+(b) 
+Scanning and processing of results of examinations to educational 
+institutions: 
+The Company carries out the following two activities:- 
+i.  
+Scans the counter foils of the evaluated answer books which has 
+bar codes and scans the data entry of the question wise marks and 
+totalmarks, verification of data with the hard copy of counter foils 
+of answer booklets. 
+ii.  Processing the results through computer Submission of the 
+final marks roll in a soft copy (CD) to the educational 
+institutions. 
+ 
+(ii) Printing of Cheque Books for various Customer Banks: 
+The Company provides the services of printing of cheques to various 
+customer banks and there exists the following two scenarios, where the:- 
+a)  
+Physical inputs ie., paper alone supplied by the customer banks, 
+however inks which are used for printing belong to the Company itself; 
+b)  
+Physical inputs including paper and inks which are used for printing 
+belong to the company itself; 
+In both the above scenarios, the company prints the cheque and then 
+supplies the cheque book to the bank once the final output is ready. 
+ 
+(iii) Printing of Aadhaar Cards for UIDAI: 
+The Company has entered into contract with Unique Identification Authority 
+of India (UIDAI) for provision of services of printing and despatching of 
+Aadhaar Cards. For providing the said service the Company has to perform 
+the following activities which includes: 
+A.  
+Data processing - The Company receives the data for printing from 
+UIDAI in Unicode XML (Extensible Markup Language) file format. In 
+order, to carry out the activity of printing the Company has to convert 
+the file into a readable format, for which the Company is availing the 
+professional services of Data processing from a third party service 
+provider. This service is received by the Company in-house. 
+B.  
+Printing of photographs along with individual data of the Citizens. 
+C. 
+Lamination and enveloping - The Company has to laminate the 
+Aadhaar card, post which it shall be enveloped and despatched to the 
+card holder. 
+D. 
+Sorting of data - The Company has to collate and sort the data based 
+on the parameters provided by UIDAI, like sorting of data based on the 
+
+
+‘Pin Code', printing of barcodes allotted by UIDAI to track each 
+envelope. 
+E.  
+Franking - Each envelope shall have to be franked using the digital 
+franking machine with applicable postage rate. In order to frank the 
+envelope the required denomination is preloaded by UIDAI in to the 
+franking machine. The amount of such credit is directly credited by 
+UIDAI to Department of Posts. 
+F.  
+Despatching - The Company has to despatch the franked Aadhaar 
+card envelope through first class mail by using the services of 
+Department of Post. 
+ 
+The aforesaid activities of printing of Aadhaar card is done on paper. 
+Printing on Polyvinyl chloride (PVC) Cards 
+The Company provides the service of printing on Polyvinyl Chloride (PVC)  cards  
+of contents provided by customers. These PVC cards are plain plasticcards 
+without any magnetic stripe. 
+ 
+ANNEXURE-III 
+ 
+(Statement containing the applicant's interpretation of law and / or facts, as the case 
+may be, in respect of the aforesaid questions) 
+1.  
+Question -1: 
+1.1  Whether, in the facts and circumstances as explained in Annexure II, 
+supply of serviceof: 
+(i) Printing of Pre examination items like question papers, OMR sheets 
+(Optical Mark Reading), Answer booklets for conducting of an 
+examination by the educational boards be treated as exempted supply 
+of service by virtue of the notifications cited supra in Annexure I? 
+ 
+(ii) Printing of Post examination items like marks card, grade card, 
+certificates to educational boards (up to higher secondary) after 
+scanning of OMR Sheets and processing of data in relation to conduct 
+of an examination be treated as exempted supply of service by virtue of 
+the notifications cited supra in Annexure I? 
+ 
+(iii) Scanning and processing of results of examinations be treated as 
+exempted supply of service by virtue of the notifications cited supra in 
+Annexure I? 
+ 
+2.  
+Applicant's interpretation of Law: 
+2.1  Applicant submits that the service provided to an educational institution, by 
+the applicant in relation  to conduct of examination by an institution is 
+exempt by virtue of the notifications cited supra. 
+ 
+SI. No 
+Heading 
+Description of Service 
+Rate 
+(PerCent.) 
+Condition 
+66 
+9992 
+(Education 
+Services) 
+Services provided - 
+(a) by an educational institution to it's  
+(aa) by an educational institution by 
+way of  
+(b) to an educational institution, by 
+way of- 
+(i) transportation 
+ 
+(ii) catering 
+ 
+(iii) security or cleaning 
+ 
+(iv) Services relating to admission 
+to, or conduct of examination by, 
+ 
+ 
+
+
+such institution; 
+(v) supply of online educational 
+journals or periodicals:" 
+ 
+‘Provided that nothing contained in sub-
+items (i), (ii) and (iii) of item (b) shall 
+apply to an educational institution other 
+than an institution PROVIDING  providing 
+services by way of pre-school education 
+and education up to higher secondary 
+school or equivalent. 
+Provided further that nothing contained 
+in sub-item (v) of item (b) shall apply to 
+an institution providing services by way 
+of- (i) pre-school education and education 
+up 
+to 
+higher 
+secondary 
+school 
+or 
+equivalent; or (it) education as a part of 
+an approved vocational education course 
+ 
+In this regard, the following are to be considered: 
+(i) The services provided by the applicant to an educational board by way of 
+printing of question papers, OMR sheets (Optical Mark Reading), answer 
+booklets which enables the educational institution / universities to conduct 
+the examination. The said service provided by the applicant to the 
+educational institution is towards conduct of examination. Since, the 
+service provided by the applicant towards pre-examination items will be 
+used by the educational institution for conduct of examination. The 
+applicant submits that the aforesaid exemption as outlined in the 
+notification will be applicable to the applicant's case. Thus, the services 
+provided by the applicant to the educational institutions by way of supply of 
+pre-examination materials will not be liable to Goods and Service tax. 
+ 
+(ii) the services provided by the applicant to the educational boards by way of 
+printing of marks card, grade card, certificates etc. which acts as a medium 
+for communication of examination results to students. The said activity acts 
+as a last leg towards completion of the activity of conducting the 
+examination process by the educational institution. Hence, the applicant 
+submits that the aforesaid exemption as outlined in the notification will be 
+applicable to the applicant's case. Thus, the services provided by the 
+applicant to the educational institutions by way of supply of post-
+examination materials will not be liable to Goods and Service tax. 
+ 
+(iii) The services provided by the applicant to the educational boards by way of 
+scanning and processing of results is more an outsourced activity which 
+otherwise would have been done and undertaken by the educational 
+institution itself. This is an integral part of the conduct of examination and 
+publishing of results of the students who participated in the said 
+examination/s. 
+ 
+Natures of work undertaken for the aforesaid two activities are as follows:- 
+a) Scanning activity 
+•  Scanning 
+of 
+the 
+OMR 
+answer 
+sheets/OMR 
+sheets 
+(marks 
+foil)/counterfoil's of the evaluated answer books having bar codes 
+and scans the data entry of the question wise marks and total 
+marks, verification of data with the hard copy of counter foils of 
+
+
+answer booklets. 
+•  Scanning and posting of subject wise marks, against students roll 
+number; 
+•  Preparation of final marks and posting against the students final 
+database; 
+•  Scanning of attendance sheets for generation of absentee statement. 
+ 
+b) Processing of results 
+  Collating data of - paper/subject wise marks of absent candidates, 
+marks scored by the students, dual status, TSS & GSS, total questions 
+solved, total unsolved questions; 
+  Preparation of reports such as-consolidated reports; subject mismatch 
+reports; discrepancy reports for correction in consultation of Board; 
+statistical reports as and when required by the board; 
+  Validation and preparation of data base for regular student; 
+ 
+The aforesaid details will be transmitted into high quality soft copy 
+(CD/DVD) and excel format and the data will be submitted to the 
+educational institutions; 
+ 
+Result processing after re-verification of marks/re-evaluation of answer 
+books 
+ 
+Development of software for printing of duplicate certificate cum marks 
+sheet. 
+ 
+The applicant carries out the aforesaid activities as an agent for Concealed 
+Results Processing through Barcode systems for examination conducted by the 
+educational institution. Upon completion of this activity, action is taken by the 
+educational institution for communication of results. These services provided by the 
+applicant are directly related to conduct of examinations by the educational 
+institution. Hence, the applicant submits that the aforesaid exemption as outlined in 
+the notification will be applicable to their case. Thus, the services provided by the 
+applicant to the educational institutions by way of Scanning and results processing 
+will not be liable to Goods and Service tax. The applicant submits that the aforesaid 
+services of printing of pre-examination items, post-examination items and Scanning 
+and processing of results provided by the applicant to an educational institution is 
+towards conduct of examination. The services are normally not carried out by the 
+educational institution by themselves but has to be outsourced to other service 
+providers due to lack of infrastructure for printing, administrative convenience, 
+confidentiality, volume etc. Accordingly, when such Services are procured by the 
+educational institution they tantamount to the services relating to conduct of 
+examination, which will aptly fall within the ambit of exemption outlined under Entry 
+No. 66 of the Notification No. 12/2017 - Central Tax (Rate), dated 28th June, 2017 
+and as amended by Notification No.2/2018 - Central Tax(Rate), dated 25th January, 
+2018; Entry No. 66 of Notification No. 12/2017 – State Tax(Rate), dated 29th June, 
+2017; and Entry No. 69 of the Notification No. 9/2017 - Integrated Tax (Rate), dated 
+28th June, 2017 as amended by Notification No. 2/2018- Integrated Tax (Rate), dated 
+25th January, 2018. Hence, the said exemption notification has to be applied to the 
+applicant's case. 
+ 
+QUESTION : 2 
+As per the facts and circumstances as explained in Annexure II, what would be 
+the classification and the GST rate, for the supply of services in the nature of printing 
+of cheque books in the below mentioned two situations where the physical inputs of 
+paper belongs to (i) the customer banks; (ii) the applicant? 
+4.  
+Applicant's interpretation of Law: 
+Classification of supply 
+ 
+
+
+4.1  
+The applicant carries out the activity of printing on the cheque paper in the 
+above mentioned two situations i.e., input (paper) belonging to the customer 
+banks and the Company. 
+ 
+Hence the product which is generated from the activity should be treated 
+as "Cheque? and not "Cheque paper", due to the following reasons:- 
+(a) The cheque book being a product which is generated after printing 
+activity is done on cheque paper. After the activity of printing, the end 
+product shall accordingly be construed as "Cheque" and not "Cheque 
+paper". 
+(b) The Cheque printed on the cheque paper should be classifiable as 
+"products of the printing industry", which will be "Cheque". The Cheque 
+paper is not the product of printing industry, but it is the cheque which is 
+the product of the printing industry. 
+(c) The printing was the primary purpose and without it, the cheque paper on 
+which the matter was printed, is of no use to the appellant's customer. 
+(d) The trade as well as in common parlance, treat these products as cheque 
+and not cheque paper. 
+(e) The product wherever printed must be classified having regard to what it 
+means and how it is understood in common parlance. Thus being the 
+case, it is the printing on the cheque paper, which communicates the 
+message to the buyer that the product supplied to him is "Cheque" and 
+not "Cheque paper". The printing of the cheque communicates to the 
+customer bank about the product and this serves a definite purpose of 
+the customer bank. 
+ 
+Thus, the applicant based on the above would prefer to the classification of the 
+product which is printed by the applicant under the following Chapter heading as 
+provided 
+in Notification 
+No. 
+2/2017-Central 
+Tax 
+(Rate), 
+dated 
+28th June, 
+2017;Notification No. 2/2017- State Tax (Rate), dated 29th June, 2017 and Notification 
+No. 2/2017-Integrated Tax (Rate), dated 28th June, 2017. 
+ 
+SI. No. 
+Heading 
+Description of Goods, 
+118 
+4907 
+Cheques, lose or in book form 
+ 
+Accordingly, the rate of tax applicable to the product is NIL (i.e., NIL - Central 
+Tax and NIL - State Tax or NIL - Integrated Tax). 
+ 
+Rate of tax 
+ 
+4.2  
+The rate of tax that will be applicable for the activity carried out by the 
+applicant will be as under- 
+a)  Physical inputs ie., paper belonging to customer banks:- 
+the applicant submits that Section 2(68) of the Central Goods and Service 
+Tax ("CGST") Act, 2017 and the Telangana Goods and Service Tax ("TGST") 
+Act, 2017 provides the meaning of 'job work' which reads as under: 
+“Job work" means any treatment or process undertaken by a person on 
+goods belonging to another registered person and the expression "job 
+worker" shall be construed accordingly. 
+ 
+The applicant submits that the process of printing of cheques undertaken by 
+the applicant is on the input, i.e., paper, belongs to customer bank, who are registered 
+persons. Hence, the process of printing undertaken by the applicant should be 
+construed as "job-work". 
+ 
+Further, in terms of Entry No. 3 of Schedule II appended to the CGST Act, 
+2017, any treatment or process which is applied to another person's goods is a supply 
+
+
+service, and accordingly printing of cheque by the applicant shall be construed to be 
+supply of service. 
+ 
+The applicant submits that the aforesaid activity of "job-work" carried out by 
+the applicant will be taxable at the rate specified in Entry No. 26 with heading 
+9988(ii)(c) of Notification No. 11/2017-Central Tax (Rate), dated 28th June, 2017 as 
+amended by Notification No. 20/2017-Central Tax (Rate), dated 22nd August, 2017 and 
+Notification No. 31/2017-Central Tax (Rate), dated 13th October, 2017; Notification 
+No.11/2017 -State Tax (Rate), dated 29th June, 2017 as amended by Notification 
+G.O.Ms No.227, dated 05th October, 2017 andNotification No. 31/2017 - State Tax 
+(Rate), dated 23rd November, 2017; Notification No. 8/2017- Integrated Tax (Rate), 
+dated 28th June, 2017 as amended by Notification No. 20/2017-Integrated Tax (Rate), 
+dated 22nd August, 2017 and Notification No. 39/2017-Integrated Tax (Rate), dated 
+13th October, 2017, which is as under: 
+Sl. 
+No. 
+Heading 
+Description of Service 
+Rate 
+(Per Cent) 
+Condition 
+26 
+9988 
+(Manufacturing 
+ services on 
+physical 
+inputs(goods) 
+owned by 
+others) 
+(ii) Services by way of treatment or 
+process on goods belonging to 
+another person in relation to  
+(c) printing of all goods falling under 
+Chapter 48 or 49, which attract 
+CGST @ 2.5% percent or NIL; TGST 
+@ 2.5% percent or NIL; IGST @5% or 
+NIL 
+2.5 
+- 
+ 
+Thus, the applicant based on the above facts submits that the activity of 
+printing of cheque, the goods being the cheque in the given case would fall under 
+within the ambit of Chapter 4907. Such goods attracts the rate of tax i.e., CGST, SGST 
+and IGST as "NIL". Hence, the activity of printing of cheque carried out by the 
+applicant will be liable to tax under GST as treatment of process on goods belonging to 
+another registered person being in the nature job work at the rate of 5% (2.5% - 
+Central Tax and 2.5% - State Tax or 5% - Integrated Tax.) 
+ 
+(B) 
+Physical inputs ie., paper belonging to theapplicant:- 
+ 
+The applicant submits that even such supplies would be supply of services i.e., 
+printing. 
+ 
+Theapplicant further submits that serial No. 5 of Circular No. 11/11/2017- 
+GST, dated 20th October, 2017 which provides that: 
+“In case of supply of printed envelopes, letter cards, printed boxes, tissues, 
+napkins, wall paper etc. falling under Chapter 48 or 49, printed with design, logo 
+etc. supplied bythe recipient of goods but made using physical inputs including 
+paper belonging to the printer, predominant supply is that of goods and the 
+supply of printing of the content [supplied by the recipient of supply] is ancillary to 
+the principal supply of goods and therefore such supplies would constitute supply 
+of goods falling under respective headings of Chapter 48 or 49 of the Customs 
+Tariff”   is ultra vires and quod contra legam fit, pro infectohabetur (What is 
+done contrary to law is deemed not to have been done at all) as the Government 
+is onlyempowered to notify transactions which are to be treated as 'supply of 
+goods and not services' or 'supply of services and not goods'. This power is vested 
+under Section 7(3) of the CGST Act, 2017 and not to specify what the 'principle 
+element in a transaction is'.It is important to note that this will always be 
+transaction and business specific; it cannot be specified on an all-pervasive basis. 
+Hence, the applicant submits that the activity provided by them is purely a 
+"service" in relation to printing where the content to be printed isspecified by the 
+banks and the applicant only prints such content on the paper. 
+ 
+
+
+Accordingly the activity of printing on the paper will fall within the ambit of 
+Entry No. 27 with heading 9989(i) of Notification No. 11/2017-Central Tax (Rate) 
+dated 28th June, 2017 as amended by Notification No. 20/2017-Central Tax 
+(Rate) dated 22nd August, 2017 and Notification No. 31/2017-Central Tax (Rate) 
+dated13th October, 2017, Notification No. 11/2017 -State Tax (Rate) dated 29th 
+June, 2017 as amended by Notification G.O.Ms No.227, dated 05th October, 2017 
+and Notification No. 31/2017 - State Tax (Rate), dated 23rd November, 2017; 
+Notification No. 8/2017-Integrated Tax (Rate), dated 28th June, 2017 as amended  
+by Notification No.20/2017-Integrated Tax(Rate) dated 22nd August, 2017 and 
+Notification No. 39/2017-Integrated Tax (Rate), dated 13th October, 2017 which is  
+as under: 
+SI No. 
+Heading 
+Description of Service 
+Rate 
+(Per Cent) 
+Condition 
+27 
+9989 
+(Other 
+manufacturing 
+services; 
+publishing, 
+printing 
+and 
+reproduction 
+services; 
+materials 
+recovery 
+services) 
+(i)Services by way of printing of all 
+goods falling under Chapter 48 or 49 
+[including newspapers, books (including 
+Braille 
+books), 
+journals 
+and 
+periodicals], which attract CGST @ 6 per 
+cent or 2.5 per cent, or Nil; 
+TGST @ 6 per cent, or 2.5 per cent, or 
+Nil; IGST @ 12 per cent or 5 per cent or 
+Nil. where only content is supplied by 
+the publisher and the physical inputs 
+including paper used for printing belong 
+to the printer. 
+6 
+ 
+ 
+Thus, the applicant based on the above facts submits that the activity of 
+printing of cheque, the goods being the cheque in the given case would fall under 
+within the ambit of Chapter 4907. Such goods attracts the rate of tax i.e., CGST, SGST 
+and IGST as "NIL". Hence, the activity of printing of cheque carried out by the 
+applicant will be liable to tax under GST as treatment of process belonging to the 
+applicant itself will be liable to tax under GST at the rate of 12% (6%- Central Tax and 
+6%- State Tax or 12%- Integrated Tax). 
+ 
+QUESTION : 3 
+ 
+Whether, in the facts and circumstances as explained in Annexure II, what 
+would bethe classification and the GST rate for, printing and supply of Aadhaar cards 
+on paper to the Unique Identification Authority of India (UIDAI)? 
+ 
+6.Applicant's interpretation of Law: 
+ 
+The applicant submits that the activity of printing and despatch of Aadhaar 
+cards provided to Unique Identification Authority of India (UIDAI), by the applicant is a 
+supply of service. The activity of printing of Aadhaar cards is carried out on-paper as 
+explained in Annexure II. 
+ 
+There are two limbs in the aforesaid activity carried out by the applicant to 
+UIDAI:- 
+(a) Printing of Aadhaar cards on paper; 
+(b) Despatching of Aadhaar cards after duly franking; 
+ 
+Classification with respect to supply of printed Aadhaarcards:- 
+ 
+The applicant carries out the activity of printing of contents of Aadhaar on 
+paper. The product which is generated from the activity will be treated by trade as well 
+as in common parlance as paper, hence the classification that should be applied for 
+the product as per the Notification No. 1/2017-Central Tax (Rate) dated 28th June, 
+
+
+2017, Notification No. 01 /2017- State Tax (Rate) dated 29th June, 2017 and further 
+Notification No.1/2017- Integrated Tax(Rate) dated 28th June, 2017 will be :-  
+ 
+SL No. Heading 
+Description of Goods 
+201 
+4901 
+Brochures, leaflets and similar printed matter, whether or not 
+in single sheets 
+ 
+Accordingly, the rate of tax applicable to the product is 5% (i.e., 2.5% - Central 
+Tax and 2.5% - State Tax or 5% - Integrated Tax). 
+ 
+Rate of tax for printing of Aadhaar cards:- 
+ 
+6.1  
+The Applicant submits that supply of printing, laminating and enveloping, 
+sorting,franking and dispatching is a composite supply of printing of Aadhaar card. 
+Whereby, Jprinting of Aadhaar card shall constitute to be the principal Supply and the 
+other services are ancillary to the principal supply and such ancillary service is 
+naturally bundled. 
+ 
+The applicant further submits that serial No. 5 of Circular No. 11/11/2017-
+GST, dated 20th October, 2017 which provides that: 
+"In case of supply of printed envelopes, letter cards, printed boxes, tissues, 
+napkins, wall paper etc. falling under Chapter 48 or 49, printed with design, logo 
+etc. supplied by the recipient of goods but made using physical inputs including 
+paper belonging to the printer, predominant supply is that of goods and the 
+supply of printing of the content [supplied by the recipient of supply] is ancillary to 
+the principal supply of goods and therefore such supplies would constitute supply 
+of goods falling under respective headings of Chapter 48 or 49 of the Customs 
+Tariff” is ultra vires and quod contra legam fit, pro infectohabetur (What is done 
+contrary to law is deemed not to have been done at all) as the Government is only 
+empowered to notify transactions which are to be treated as 'supply of goods and 
+not  services  or supply of services and not goods'. This power is vested under 
+Section 7(3) of the CGST Act, 2017 and not to specify what the 'principle element 
+in a transaction is'. 
+ 
+It is important to note that this will always be transaction and business specific; 
+it cannot be specified on an all-pervasive basis.Hence, the applicant provides that 
+the activity provided by the applicant is purely a "service" in relation to printing 
+where the content to be printed along with design and logo is provided by UIDAI 
+and the applicant only prints such content on the paper. Accordingly the activity 
+of printing on the paper will fall within the ambit of Entry No. 27 with heading 
+9989 (i) of Notification No. 11/2017-Central Tax (Rate) dated 28th June, 2017 as 
+amended by Notification No. 20/2017-Central Tax (Rate) dated 22nd August, 2017 
+and Notification No. 31/2017-Central Tax (Rate) dated 13th October, 2017, 
+Notification No. 11/2017 -State Tax (Rate) dated 29th June, 2017 as amended by 
+Notification G.O.Ms No.227, dated 05th October, 2017 and Notification No. 
+31/2017 - State Tax (Rate), dated 23rd November, 2017; Notification No. 8/2017- 
+Integrated Tax (Rate), dated 28th June, 2017 as amended by Notification No. 
+20/2017- Integrated Tax (Rate), dated 22nd August, 2017 and Notification No. 
+39/2017- Integrated Tax (Rate), dated 13th October, 2017, which is as under:-  
+ 
+SI No. 
+Heading 
+Description of Service 
+Rate 
+(Per Cent) 
+Condition 
+27 
+9989 
+ 
+ 
+Services by way of printing of all goods 
+falling 
+under 
+Chapter 
+48 
+or 
+49 
+[including newspapers, books (including 
+6 
+ 
+
+
+Braille books), journals and periodicals], 
+which attract CGST @ 6 per cent or 2.5 
+per cent or Nil; 
+TGST @ 6 per cent or 2.5 percent or Nil 
+IGST @12% percent or 5 % or Nil. Where 
+only content is upplied by the publisher 
+and the physical inputs including paper 
+used for printing belong to the printer 
+ 
+Accordingly, the applicant beliefs that the rate of tax for the activity of supply of 
+printed Aadhaar cards on paper to UIDAI will be 12% ie. (6% - Central Tax and 6% - 
+State Tax or 12%- Integrated Tax). 
+ 
+QUESTION : 4 
+As per the facts explained in Annexure II, what would be the classification and 
+the GST rate, for printing and sale of Polyvinyl chloride (PVC) Cards for various 
+customers? 
+ 
+8.  Applicant's interpretation of Law: 
+ 
+Classification of supply 
+8.1  
+The applicant carries out the activity of printing on Polyvinyl chloride (PVC) 
+Cards belonging to the applicant itself for various customers. These PVC cards are 
+Plastic cards on which activity of printing is carried out by the applicant. The printed 
+cards are in the nature of loyalty cards, identity cards and other cards of similar 
+nature without any magnetic stripe. 
+ 
+Thus, the applicant based on the above would refer to the classification of the 
+product which is printed by the applicant under the following Chapter heading as 
+provided in Notification No. 01/2017-Central Tax (Rate) dated 28th June, 2017, 
+Notification No. 01/2017-State Tax (Rate) dated 29th June, 2017 and Notification 
+No.1/2017-Integrated Tax (Rate) dated 28th June, 2017. 
+ 
+SI No. 
+Heading 
+               Description of Goods 
+106 
+ 
+3920 
+Other plates, sheets, film, foil and strip, of plastics, non-cellular 
+and not reinforced, laminated, supported or similarly combined 
+with other materials d with other materials 
+  
+Rate of tax 
+ 
+The applicant submits that printing activity specified above shall be taxable at 
+the rate specified in Entry No. 27 with heading 9989 (ii) of Notification No. 11/2017-
+Central Tax (Rate) dated 28th June, 2017 and as amended by Notification No. 
+20/2017-Central Tax (Rate) dated 22nd August, 2017, Notification No. 11/2017 -State 
+Tax (Rate) dated 29th June, 2017 and as amended by Notification G.O.Ms No.227, 
+dated 05th October, 2017; Notification No. 8/2017-Integrated Tax (Rate), dated 28* 
+June, 2017 as amended by Notification No. 20/2017-Integrated Tax (Rate), dated 22nd 
+August, 2017 as outlined below, since the goods on which the activity of printing does 
+not fall under Chapter 48 or 49:- 
+SI. No. Heading 
+Description of Service 
+Rate 
+(Per Cent) 
+Condition 
+27 
+9989 
+(ii) Other manufacturing services; 
+publishing, printing and 
+reproduction services; materials 
+recovery services, other than (i) 
+above. 
+9 
+ 
+
+
+ Thus, the applicant based on the above facts submits that the activity of 
+printing on Polyvinyl chloride (PVC) Cards, the goods being the plastic cards in the 
+given case would fall under within the ambit of Chapter 3920. Hence, the activity of 
+printing on PVCCards carried out by your applicant will be liable to tax under GST at 
+the rate of 18% (9% - Central Tax and 9% - State Tax or 18% - Integrated Tax). 
+ 
+During the course of personal hearing held on 30.05.2018 the applicant 
+reiterated the submissions made in their application and requested for Advance ruling 
+on the issues raised in their application. 
+ 
+3. DISCUSSION & FINDINGS: 
+The applicant sought advance ruling on different issues and each issue is 
+discussed  below: 
+ 
+3.1.  Whether the following services are treated as exempted supply of service?  
+(i) 
+Printing of Pre-examination items like question papers, OMR sheets 
+(Optical Mark Reading), answer booklets etc., 
+(ii) 
+Printing of Post-examination items like marks card, grade card, certificates 
+to the educational boards upto higher secondary; and 
+(iii) Scanning and processing of results of examinations; 
+ 
+3.1.1 Exemption from payment of GST in respect of certain supplies of Services has 
+been provided under Notification No.12/2017-Central Tax (Rate) dated 28.06.2017 as 
+amended by Notification No.02/2018-Central Tax ( Rate) dated 25.01.2018 . 
+ 
+3.1.2  In terms of Serial No.66 of the impugned notification exemption from payment 
+of  GST has been provided to the following supply of services as on date.  
+66.  Services provided – 
+(a)  by an educational institution to its students, faculty and staff; 
+(aa) by an educational institution by way of conduct of entrance examination 
+against consideration in the form of entrance fee 
+(b)  to an educational institution, by way of,- 
+(i)  transportation of students, faculty and staff; 
+(ii)  catering, including any mid-day meals scheme sponsored by the 
+Central Government, State Government or Union territory; 
+(iii)  security or cleaning or housekeeping services performed in such 
+educational institution; 
+(iv)  services relating to admission to, or conduct of examination by, such 
+institution; 
+(v)  supply of online educational journals or periodicals:”; 
+ 
+Provided that nothing contained in entry sub-items (i), (ii) and (iii) of item 
+(b)” shall apply to an educational institution other than an institution 
+providing services by way of pre-school education and education up to 
+higher secondary school or equivalent. 
+ 
+Provided further that nothing contained in sub-item (v) of item (b) shall apply 
+to an institution providing services by way of,- (i) pre-school education and 
+education up to higher secondary school or equivalent; or (ii) education as a 
+part of an approved vocational education course.”; 
+  
+Further, the said Notification also provides definition for ‘educational 
+institution’.  In terms of the definition provided under the Notification, 
+(y)  “educational institution” means an institution providing services by way of,- 
+(i)  
+pre-school education and education up to higher secondary school or 
+equivalent; 
+(ii)  
+education as a part of a curriculum for obtaining a qualification 
+recognised by any law for the time being in force; 
+
+
+ (iii)  education as a part of an approved vocational education course; 
+  
+So the services provided to‘educational institutions’ for conducting of 
+examinations are eligible for exemption under entry No.66 of Notification No. 12/2017- 
+Central Tax (Rate)  dt. 28.6.2017 
+ 
+3.2.  What would be the classification and the applicable GST rate, for the supply 
+of  Printing of cheque book. 
+  
+3.2.1   In this case, assessees are undertaking two types of supplies. (i) In respect of 
+paper supplied by the banks, they print the cheque format of respective banks and (ii) 
+physical inputs including paper and ink would be borne by the company and the 
+cheques after printing as per the bank’s specifications, would be supplied to them. In 
+both the cases, the unit prints the cheque and then supplies the cheque book to the 
+bank after completion of the printing work. 
+ 
+3.2.2  In respect of the situation, where the paper is being supplied by the banks, and 
+the applicants are undertaking  job work of printing the cheque and converting them 
+as cheque books, the predominant supply in the instant case is  supply of service. As 
+the “ services by way of any treatment or process on goods belonging to another 
+person, in relation to- printing of all goods falling under chapter 48 or 49, which 
+attract CGST @ 2.5% or Nil” are covered under sub-item ( c) of item (ii) at Serial 
+No.26 of the Notification No.11/2017-Central Tax ( Rate) dated 28.06.2017 as 
+amended, and the “ cheques, loose or in book form” being an exempted supply in 
+terms of S.No. 118 to the Notification No. 02/2017- Central Tax (Rate) dated 
+28.06.2017, the  supply of service by the applicant attracts GST @ 5% ( 2.5% CGST + 
+2.5% SGST).  
+  
+ 3.2.3 In respect of  supply of cheque books where the printing paper and inks are 
+being borne by the applicants,  the impugned goods merit classification under Tariff 
+heading 4907 as goods and they are an exempted supply in terms of Serial No 118 to 
+the Notification No.02/2017-Central Tax (Rate) dated 28.06.2017.  Hence, cheques or 
+cheque books would not attract any GST and are an exempted supply in terms of the 
+Notification. 
+  
+3.3 
+What would be the classification and the applicable GST rate, for the supply 
+of  Aadhaar Cards on paper. 
+ 
+3.3.1 As per the information provided by the applicant, they receive the data for 
+printing from UIDAI in Unicode (extensible mark up language) file format. The said file 
+format would be converted into a readable format and the details of aadhaar 
+applicants along with their photographs, would be printed , laminated, enveloped and 
+after franking, the aadhaar envelops would be dispatched to the concerned aadhaar 
+applicant. In the instant case, the applicant is rendering various supplies like 
+conversion of data to the required file format, printing of aadhaar cards, lamination, 
+franking and dispatching etc. In the entire gamut of things being undertaken by the 
+applicant, all the supplies made by them, are naturally bundled and supplied in 
+conjunction with each other. Each of these supplies are not supplied separately and 
+are dependent on other supplies provided by them. Any single supply will not serve the 
+purpose and will not complete the task entrusted to them. Hence, the services can be 
+considered as composite service in terms of section 2(30) of CGST/TGST Act, 2017. 
+These services cannot be considered as mixed supply as each service is dependent on 
+one another and all the supplies are provided in conjunction. Despatching of aadhaar 
+card will not be complete unless it is printed, laminated and franked by the applicant. 
+Likewise all the services are interdependent on one another. Hence it cannot be 
+considered as mixed supply in terms of section 2(74) of CGST/TGST Act, 2017. In the 
+entire gamut of things being undertaken by the applicant, it appears that, it is an 
+activity of predominant nature of supply of service rather than supply of goods. 
+
+
+Accordingly, it appears that, the services rendered by the applicant merits as supply of 
+service and accordingly falls under serial no.27 of Notification No.11/2017-Central 
+Tax ( Rate) dated 28.06.2017 as amended and the rate of tax applicable is  12% ( 6% 
+CGST + 6% SGST).  
+ 
+3.4. 
+ What would be the classification and the applicable GST rate, for the printing 
+and supply of Polyvinyl chloride cards (PVC). 
+ 
+3.4.1 Assessees are undertaking printing on Polyvinyl chloride (PVC) cards to various 
+customers. PVC cards are plastic cards on which activity of printing is carried out by 
+the applicant. 
+ 
+3.4.2   In terms of GST Circular No.11/11/2017-GSTdated 20.10.2017, it is clarified 
+that, 
+Subject: Clarification on taxability of printing contracts Requests have been 
+received to clarify whether supply of books, pamphlets, brochures, envelopes, 
+annual reports, leaflets, cartons, boxes etc., printed with design, logo, name, 
+address or other contents supplied by the recipient of such supplies, would 
+constitute supply of goods falling under Chapter 48 or 49 of the First Schedule to 
+the Customs Tariff Act, 1975 (51of 1975) or supply of services falling under 
+heading 9989 of the scheme of classification of services annexed to notification 
+No. 11/2017-CT(R). 
+  
+ 
+2. In the above context, it is clarified that supply of books, pamphlets, 
+brochures, envelopes, annual reports, leaflets, cartons, boxes etc. printed 
+with logo, design, name, address or other contents supplied by the recipient 
+of such printed goods, are composite supplies and the question, whether such 
+supplies constitute supply of goods or services would be determined on the 
+basis of what constitutes the principal supply. 
+  
+ 
+3.  Principal supply has been defined in Section 2(90) of the Central Goods and 
+Services Tax Act as supply of goods or services which constitutes the 
+predominant element of a composite supply and to which any other supply 
+forming part of that composite supply is ancillary. 
+ 
+4.  In the case of printing of books, pamphlets, brochures, annual reports, and 
+the like, where only content is supplied by the publisher or the person who 
+owns the usage rights to the intangible inputs while the physical inputs 
+including paper used for printing belong to the printer, supply of printing [of 
+the content supplied by the recipient of supply] is the principal supply and 
+therefore such supplies would constitute supply of service falling under 
+heading  9989 of the scheme of classification of services. 
+ 
+5.  In case of supply of printed envelopes, letter cards, printed boxes, tissues, 
+napkins, wall paper etc. falling under Chapter 48 or 49, printed with design, 
+logo etc. supplied by the recipient of goods but made using physical inputs 
+including paper belonging to the printer, predominant supply is that of goods 
+and the supply of printing of the content [supplied by the recipient of supply] 
+is ancillary to the principal supply of goods and therefore such supplies 
+would constitute supply of goods falling under respective headings of Chapter 
+48 or 49 of the Customs Tariff. 
+  
+3.4.3  From the aforesaid clarification,  in the instant case since the PVC cards are 
+belonging to the applicant, predominant supply is that of goods and the supply of 
+printing of the content supplied by the recipient of supply is ancillary to the principal 
+supply of goods and therefore such supply would be classified as supply of goods 
+falling under chapter 3920 of the Customs Tariff as made applicable to GST Tariff, 
+
+
+hence it attracts 18% GST ( 9%CGST+9%SGST) as per Sl.No.106 of  Schedule III  of 
+Notification No.1/2017-Central Tax (Rate) dated  28th June, 2017. 
+ 
+In view of the foregoing discussions, the following ruling is passed. 
+ 
+ADVANCE RULING  
+ 
+1. The supply of service to ‘educational institutions’ for conducting of 
+examinations are eligible  for exemption under entry No.66 of Notification 
+No. 12/2017- Central Tax (Rate)  dt. 28.6.2017. 
+ 
+2. The supply of  ‘Printing of cheque books’(where the paper is being supplied 
+by the banks) are classifiable under heading 9988 and attracts GST @ 5% ( 
+2.5% CGST + 2.5% SGST).  
+ 
+3. The supply of cheque books(where the printing paper and inks are being 
+borne by the applicants) are classifiable under heading 4907 of GST Tariff 
+as goods and would not attract any GST as they are exempted supply in 
+terms of Serial No 118 to the Notification No.02/2017-Central Tax (Rate) 
+dated 28.06.2017. 
+ 
+4. The supply of  Aadhaar Cards are classifiable under heading 9989 of GST 
+Tariff and attracts GST @ 12% ( 6% CGST + 6% SGST) in terms of S.No.27 
+of Notification No.11/2017-Central Tax (Rate) dated 28.06.2017 as 
+amended. 
+ 
+5. The printing and supply of Polyvinyl chloride cards (PVC) are classifiable 
+under heading 3920 of GST Tariff and attracts 18% GST (9%CGST + 
+9%SGST) in terms of S.No.106 of Schedule III of Notification No.1/2017-
+Central Tax (Rate) dated 28th June, 2017. 
+ 
+  
+      Sd/- J. LAKSHMINARAYANA) 
+  Sd/- V. SRINIVAS 
+ADDL. COMMISSIONER(State Tax )                      JOINT COMMISSIONER(Central Tax)        
+  (J. LAKSHMINARAYANA) 
+   (V. SRINIVAS) 
+To 
+M/s. K L Hi-tech Secure Print Ltd,  
+Plot No.22-23, Anrich Industrial Estate, 
+IDA Bollaram, Sangareddy District, 
+Telangana-502325 
+ 
+Copy to: 
+1. The Assistant Commissioner (Central Tax), Miyapur Division, Medchal GST   
+      Commissionerate, Hyderabad. 
+ 
+2. The Superintendent, JUBILEE HILLS - I Range.

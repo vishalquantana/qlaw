@@ -1,1176 +1,1036 @@
-Page 1 of 25 
- 
-GUJARAT AUTHORITY FOR ADVANCE RULING, 
-GOODS AND SERVICES TAX, 
-A/5, RAJYA KAR BHAVAN, ASHRAM ROAD,  
-AHMEDABAD – 380 009. 
- 
- 
-ADVANCE RULING NO. GUJ/GAAR/R/2022/16 
-(In Application No. Advance Ruling/SGST&CGST/2021/AR/39) 
-                                                                                             Dated: 12.04.2022 
-Name and address of the applicant 
-: M/s Suzlon Energy Limited,  
-5, Suzlon House, Near Shri Krishna Centre,  
-Shrimali Society, Mithakhali, Navrangpura,  
-Ahmedabad, Gujarat - 380009 
-GSTIN of the applicant 
-: 24AADCS0472N1Z8 
-Date of application 
-: 14-10-21 
-Clause(s) of Section 97(2) of 
-CGST / GGST Act, 2017, under 
-which the question(s) raised.  
-: (a) 
-Date of Personal Hearing 
-: 18-02-2022 
-Present for the applicant 
-: Shri Dhruvank Parikh, CA 
- 
-Brief Facts  
- M/s. Suzlon Energy Ltd. (hereinafter referred to as Suzlon for the sake of brevity) 
-submits as follows: 
-2. 
-It is primarily engaged in supply of goods required for setting up of power 
-projects, enabling generation of power through renewable sources of energy on its own 
-and through its subsidiaries companies.  
-3. 
-Suzlon manufactures Wind Operated Electricity Generators ( hereinafter referred 
-to as WOEG for sake of brevity) falling under Chapter 85023100 and parts thereof 
-mainly consisting of the manufacture of Nacelle, Blades and Towers falling under 
-Chapter Heading 8503 and allied products being considered as parts falling under 
-Chapter 85030090 suitable for use solely or principally with the machines of Heading 
-8501 or 8502 and the Transformers specifically meant to be used with WOEGs and 
-falling under Chapter Heading 8504. 
-4. 
-Suzlon submits that it receives Orders from for supply of WOEG consisting of 
-Nacelle, Hub, Controller, Transformer, Set of 3 Rotor Blades and hybrid Lattice Tower – 
-a component of Renewable Energy Device / Wind Operated Electricity Generator in 
-respect of a Wind Farm Project.  
-5. 
-Suzlon receives a consolidated contract for supply of Wind Turbine Generator 
-consisting of WOEG (nacelle including hub, controller – microprocessor, accessories, set 
-of 3 rotor blades, hybrid tower) and supply of transformer. A copy of Order: 
-Supply/001/SMEIPL dated 30-8-21 entered with Shree Malaiamman Energy India 
-Private Limited was submitted 
+GUJARAT AUTHORITY FOR ADVANCE RULING,
+GOODS AND SERVICES TAX,
+A/5, RAJYA KAR BHAVAN, ASHRAM ROAD,
+AHMEDABAD - 380 009.
+NATION
+TAX
+MARKET
+ADVANCE RULING NO. GUJ/GAAR/R/2022/16
+(In Application No. Advance Ruling/SGST&CGST/2021/AR/39)
+Dated: 12.04.2022
+Name and address of the applicant
+M/s Suzlon Energy Limited,
+5, Suzlon House, Near Shri Krishna Centre,
+Shrimali Society, Mithakhali, Navrangpura,
+Ahmedabad, Gujarat - 380009
+GSTIN of the applicant
+Date of application
+24AADCS0472N1Z8
+14-10-21
+Clause(s) of Section 97(2) of : (a)
+CGST / GGST Act, 2017, under
+which the question(s) raised.
+Date of Personal Hearing
+Present for the applicant
+18-02-2022
+Shri Dhruvank Parikh, CA
+Brief Facts
+M/s. Suzlon Energy Ltd. (hereinafter referred to as Suzlon for the sake of brevity)
+submits as follows:
+2.
+It is primarily engaged in supply of goods required for setting up of power
+projects, enabling generation of power through renewable sources of energy on its own
+and through its subsidiaries companies.
+3.
+Suzlon manufactures Wind Operated Electricity Generators (hereinafter referred
+to as WOEG for sake of brevity) falling under Chapter 85023100 and parts thereof
+mainly consisting of the manufacture of Nacelle, Blades and Towers falling under
+Chapter Heading 8503 and allied products being considered as parts falling under
+Chapter 85030090 suitable for use solely or principally with the machines of Heading
+8501 or 8502 and the Transformers specifically meant to be used with WOEGs and
+falling under Chapter Heading 8504.
+4. Suzlon submits that it receives Orders from for supply of WOEG consisting of
+Nacelle, Hub, Controller, Transformer, Set of 3 Rotor Blades and hybrid Lattice Tower -
+a component of Renewable Energy Device / Wind Operated Electricity Generator in
+respect of a Wind Farm Project.
+5.
+Suzlon receives a consolidated contract for supply of Wind Turbine Generator
+consisting of WOEG (nacelle including hub, controller - microprocessor, accessories, set
+of 3 rotor blades, hybrid tower) and supply of transformer. A copy of Order:
+Supply/001/SMEIPL dated 30-8-21 entered with Shree Malaiamman Energy India
+Private Limited was submitted
+Page 1 of 25
 
+Suzlon submits that the transformer supplied by it is specially designed for WOEG
+application and is installed on the ground adjoining to each Wind Operated Electricity
+Generator. Its transformer performs dual function of a Step-Down Transformer and a
+Step-Up Transformer unlike a normal Transformer. In as much as it performs dual
+function, it is different from other general use transformers like used by the State
+Electricity Board, which have a single function of either stepping down or stepping up
+the voltage, and does not perform both the functions simultaneously.
+6.1 Step-Down function: To activate the generator inside WOEG. The transformer
+draws electricity from the electricity grid of Electricity Board having a voltage of 33kv,
+and steps it down to 0.690 kv for supply to the WOEG. The voltage of 0.690 kv
+electricity provided by transformer activates the generator inside WOEG to enable
+rotation of blades/fan. Further, electricity is continuously required for the monitoring
+panel etc. installed in WOEG.
+6.2 Step-Up function: Once the WOEG starts functioning and reaches the required
+speed, wind energy gets generated and converted into electricity with the help of
+generator, which has a voltage of 0.690kv. The electricity so generated is transferred to
+the transformer, which converts the electricity to higher voltage of 33kv.
+6.3
+The electricity with higher voltage of 33kv from multiple transformers is then
+transmitted to a common sub-station which further steps-up to 66/110/132/220/230 kv (as
+may be required) for transmitting to the grid.
+6.4 An image of the Transformer is as below:
+Suzlon submits that in a Wind Turbine application, the above depicted
+Transformer specifically meant for use in WOEG is placed either in the nacelle, or in the
+tower or outside the tower. Due to variable nature of power generation, the transformer is
+specially designed to withstand intermittent and variable generation loading pattern.
+Page 2 of 25
 
-Page 2 of 25 
- 
-6. 
-Suzlon submits that the transformer supplied by it is specially designed for WOEG 
-application and is installed on the ground adjoining to each Wind Operated Electricity 
-Generator. Its transformer performs dual function of a Step-Down Transformer and a 
-Step-Up Transformer unlike a normal Transformer. In as much as it performs dual 
-function, it is different from other general use transformers like used by the State 
-Electricity Board, which have a single function of either stepping down or stepping up 
-the voltage, and does not perform both the functions simultaneously. 
-6.1   Step-Down function: To activate the generator inside WOEG. The transformer 
-draws electricity from the electricity grid of Electricity Board having a voltage of 33kv, 
-and steps it down to 0.690 kv for supply to the WOEG. The voltage of 0.690 kv 
-electricity provided by transformer activates the generator inside WOEG to enable 
-rotation of blades/fan. Further, electricity is continuously required for the monitoring 
-panel etc. installed in WOEG. 
-6.2   Step-Up function: Once the WOEG starts functioning and reaches the required 
-speed, wind energy gets generated and converted into electricity with the help of 
-generator, which has a voltage of 0.690kv. The electricity so generated is transferred to 
-the transformer, which converts the electricity to higher voltage of 33kv. 
-6.3   The electricity with higher voltage of 33kv from multiple transformers  is then 
-transmitted to a common sub-station which further steps-up to 66/110/132/220/230 kv (as 
-may be required) for transmitting to the grid.  
-6.4    An image of the Transformer is as below: 
- 
-7. 
-Suzlon submits that in a Wind Turbine application, the above depicted 
-Transformer specifically meant for use in WOEG is placed either in the nacelle, or in the 
-tower or outside the tower. Due to variable nature of power generation, the transformer is 
-specially designed to withstand intermittent and variable generation loading pattern. 
+Further, the power electronics converter system in wind turbine is interfaced through this
+transformer and hence require special design consideration like heating due to harmonics
+and cyclic temperature variation. Further these transformers are used to suitably step
+down the grid voltage and connect to the electrical generator. The wind turbine control
+system needs this voltage to synchronize the generator with grid and feed power into
+grid. These transformers impedance is used in harmonic filter at turbine level to limit the
+injection/absorption of harmonics into the grid / Wind Turbine Generator. In addition,
+reactive power compensation is an important part of grid code requirement and hence
+these transformers also acts as one of the source for consuming reactive power.
+6.1 Suzlon in its submission incorporated the following picutres:
+Page 3 of 25
 
-
-Page 3 of 25 
- 
-Further, the power electronics converter system in wind turbine is interfaced through this 
-transformer and hence require special design consideration like heating due to harmonics 
-and cyclic temperature variation. Further these transformers are used to suitably step 
-down the grid voltage and connect to the electrical generator. The wind turbine control 
-system needs this voltage to synchronize the generator with grid and feed power into 
-grid. These transformers impedance is used in harmonic filter at turbine level to limit the 
-injection/absorption of harmonics into the grid / Wind Turbine Generator. In addition, 
-reactive power compensation is an important part of grid code requirement and hence 
-these transformers also acts as one of the source for consuming reactive power. 
- 
-6.1 Suzlon in its submission incorporated the following picutres: 
-
-
-Wind Operated Electricity Generator — Pic:1
-
-WG-1
-— 2100 KW,690 V, WIND TURBINE GENERATOR
-
-—— WTG CONTROL PANEL
-
-[ee | —— 2500 A,ACB
-
-[owl  S33/0.69kV,2500KVA, —_—!
-| aa wh?) 7 D¥n11 TRANSFORMER |
-| 0.5 CLASS OUTDOOR PT |
-
-| b= -—39 kV, 10 AQ ILA |
-
-| SS \=!|—_ aa nvouTpoorcrsa ssa, |
-| ey 25 KA FOR 15SEC |
-| |
-| Ej ~——36 kV,1600A,25 kA |~__¥CB YARD
-| FOR 3 Sec. WCB |
-| |
-| om —fas]} - 33kV/Rt /110 v/Rt 200 WA, |
-
+Wind Operated Electricity Generator - Pic:1
+WIG - 1
+2100 KW,690 V, WIND TURBINE GENERATOR
+MTG CONTROL PANEL
+- 2500 A,ACB
+490 8
+33 kv
+33/0.69 kV ,2500KVA.
+DYn11 TRANSFORMER
+-39 kV, 10 kA,LA
+33 kV OUTDOOR CT,50/ 5/ 5 A.
+25 KA FOR 1 SEC
+-36 kV,16004,25 kA
+FOR 3 Sec. VCB
+WCB YARD
+33kV/Rt3 /110 V/Rt3 200 VA.
+O.5 CLASS OUTDOOR PT
+33kV 400 A.ISOLATOR WITHOUT
+EARTH BLADE
+TOWAROS SUBSTATION
 Page 4 of 25
 
-
-Transformer — Pic:2
-
-Transformer — Pic:3
-
+Transformer - Pic:2
+RSA274
+2100KW)
+Transformer - Pic:3
 Page 5 of 25
 
+Transformer - Pic:4
+7.2 Suzlon submitted key parameters of Transformers in Power, Solar
+and Wind
+Applications as follows:
+Type of transformer →
+Features J
+IEC standard
+IS standard
+Loading
+Average annual loading
+Category
+Installation
+Mounting
+Cooling type
+Ambient temperature
+correction
+Harmonics
+Power
+transformer
+IEC 60076-1
+IS 2026-1
+Continuous
+60% - 100%
+Oil insulated
+transformer
+Outdoor
+Distribution
+Wind turbine
+Transformer
+transformer
+transformer
+for PV Solar
+IEC 60076
+IEC 60076-16
+IEC 61378
+IS 1180-1
+IS 2026-16
+IS 2026-1
+Continuous
+Cyclic
+Cyclic
+80% - 100%
+30% - 40%
+20% - 30%
+Oil insulated /
+Oil insulated /
+Oil insulated /
+dry type
+dry type
+dry type
+transformer
+transformer
+transformer
+Indoor /
+Outdoor
+Indoor/ Outdoor
+Indoor /
+Outdoor
+Ground
+Ground / Plinth
+around / Plinth/ Ground / Plint
+Nacelle / Tower
+mounted
+mounted
+mounted /
+mounted / Inside Inside enclosure
+enclosure
+Oil natural / Oil Oil natural / Air Oil natural / Air Oil natural / Air
+forced / Air
+natural / Air
+natural / Air
+natural / Air
+natural / Air
+forced /
+forced /
+forced /
+forced /
+combination of
+combination of
+combination of
+combination of
+above
+above
+above
+above
+In case of
+In case of
+No correction
+enclosure
+enclosure /
+mounting
+tower / nacelle
+mounting
+No special care In case of special
+Special care
+In case of
+enclosure
+mounting
+Special care
+Page 6 of 25
 
-
-Page 6 of 25 
- 
-Transformer – Pic:4 
- 
-7.2 Suzlon submitted key parameters of Transformers in Power, Solar and Wind 
-Applications as follows: 
-Type of transformer → 
-Features ↓ 
-Power 
-transformer 
-Distribution 
-transformer 
-Wind turbine 
-transformer 
-Transformer 
-for PV Solar 
-IEC standard 
-IEC 60076-1 
-IEC 60076 
-IEC 60076-16 
-IEC 61378 
-IS standard 
-IS 2026-1 
-IS 1180-1 
-IS 2026-16 
-IS 2026-1 
-Loading 
-Continuous 
-Continuous 
-Cyclic 
-Cyclic 
-Average annual loading 
-60% - 100% 
-80% - 100% 
-30% - 40% 
-20% - 30% 
-Category 
-Oil insulated 
-transformer 
-Oil insulated / 
-dry type 
-transformer 
-Oil insulated / 
-dry type 
-transformer 
-Oil insulated / 
-dry type 
-transformer 
-Installation 
-Outdoor 
-Indoor / 
-Outdoor 
-Indoor / Outdoor 
-Indoor / 
-Outdoor 
-Mounting 
-Ground 
-mounted 
-Ground / Plinth 
-mounted 
-Ground / Plinth / 
-Nacelle / Tower 
-mounted / Inside 
-enclosure 
-Ground / Plinth 
-mounted / 
-Inside enclosure 
-Cooling type 
-Oil natural / Oil 
-forced / Air 
-natural / Air 
-forced / 
-combination of 
-above 
-Oil natural / Air 
-natural / Air 
-forced / 
-combination of 
-above 
-Oil natural / Air 
-natural / Air 
-forced / 
-combination of 
-above 
-Oil natural / Air 
-natural / Air 
-forced / 
-combination of 
-above 
-Ambient temperature 
-correction 
-No correction 
-In case of 
-enclosure 
-mounting 
-In case of 
-enclosure / 
-tower / nacelle 
-mounting 
-In case of 
-enclosure 
-mounting 
-Harmonics 
-No special care In case of special 
-Special care 
-Special care 
-
-
-Page 7 of 25 
- 
-cases 
-Over excitation 
-No special care 
-No special care 
-Special care 
-No special care 
-Humidity and salinity 
-Only in specific 
-case 
-Only in specific 
-case 
-Generally for all 
-cases 
-Only in specific 
-case 
-Corrosion protection 
-Only in specific 
-case 
-Only in specific 
-case 
-Generally for all 
-cases 
-Only in specific 
-case 
-Vibration consideration 
-Generally no 
-special 
-consideration 
-Generally no 
-special 
-consideration 
-Specially in case 
-of inside nacelle 
-Generally no 
-special 
-consideration 
-Rated frequency 
-50 / 60 Hz 
-50 / 60 Hz 
-50 / 60 Hz 
-50 / 60 Hz 
-HV side voltage class 
-400kV 
-33kV 
-72.5kV 
-72.5kV 
-Winding conductive material 
-Copper 
-Copper / 
-Aluminum 
-Copper / 
-Aluminum 
-Copper / 
-Aluminum 
-Thermal cycling 
-Normal 
-Normal 
-Significant 
-Moderate 
- 
-7.3 
-The IEC Standard and IS Standard for Wind Turbine Transformer as mentioned in 
-the above Comparison reads as follows: 
-  IEC 60076 part 16: 2018 
-This is a dedicated international standard defining the technical requirements for step 
-up voltage Transformer for use in wind turbine application (Renewable energy 
-generation): 
-“The part of IEC 60076 applies to dry-type and liquid-immersed transformers for wind 
-turbine step-up applications having a winding with highest voltage for equipment up to 
-and including 72,5 kV. This document applies to the transformer used to connect the 
-wind turbine generator to the wind farm power collection system or adjacent 
-distribution network and not the transformer used to connect several wind turbines to a 
-distribution or transmission network. 
-Transformers covered by this document comply with the relevant requirements 
-prescribed in the IEC 60076 standards or IEEE C57 standards.” 
-   IS2026 part 16: 2021 
-This is a new standard included in the Indian standard for Transformer for wind turbine 
-application. National forward of the document is mentioned below: 
-“This Indian Standard (Part 16) which is identical with IEC 60076-16 : 2011 ‘Power 
-transformers — Part 16: Transformers for wind turbine applications’ issued by the 
-International Electro technical Commission (IEC) was adopted by the Bureau of Indian 
-Standards on the recommendation of the Transformers Sectional Committee and 
-approval of the Electro technical Division Council.” 
-7.4   Suzlon submits that Transformers manufactured and supplied by them complies with 
-the aforementioned IEC and IS.  
-8. 
-Suzlon submits that Sr. No. 201A to the Schedule – II to Notification No. 1/2017-
-Central Tax (Rate) dated 28-6-17 ( hereinafter referred to as the said Notification) read 
-with Notification No. 1/2017-State Tax (Rate) dated 30-6-17 issued under the Gujarat 
+Over excitation
+Humidity and salinity
+Corrosion protection
+Vibration consideration
+Rated frequency
+HV side voltage class
+Winding conductive material
+Thermal cycling
+cases
+No special care No special care
+Special care
+No special care
+Only in specific
+Only in specific
+Generally for all
+Only in specific
+case
+case
+cases
+case
+Only in specific
+Only in specific
+Generally for all Only in specific
+case
+case
+cases
+case
+Generally no
+Generally no
+special
+Specially in case
+Generally no
+special
+consideration
+consideration
+of inside nacelle
+special
+consideration
+50 / 60 HZ
+400kV
+50 / 60 Hz
+50 / 60 Hz
+50 / 60 Hz
+33kV
+72.5kV
+72.5kV
+Copper
+Copper/
+Copper/
+Copper/
+Aluminum
+Aluminum
+Aluminum
+Normal
+Normal
+Significant
+Moderate
+7.3
+The IEC Standard and IS Standard for Wind Turbine Transformer as mentioned in
+the above Comparison reads as follows:
+IEC 60076 part 16: 2018
+This is a dedicated international standard defining the technical requirements for step
+up voltage Transformer for use in wind turbine application (Renewable energy
+generation):
+"The part of IEC 60076 applies to dry-type and liquid-immersed transformers for wind
+turbine step-up applications having a winding with highest voltage for equipment up to
+and including 72,5 kV. This document applies to the transformer used to connect the
+wind turbine generator to the wind farm power collection system or adjacent
+distribution network and not the transformer used to connect several wind turbines to a
+distribution or transmission network.
+Transformers covered by this document comply with the relevant requirements
+prescribed in the IEC 60076 standards or IEEE C57 standards."
+IS2026 part 16: 2021
+This is a new standard included in the Indian standard for Transformer for wind turbine
+application. National forward of the document is mentioned below:
+"This Indian Standard (Part 16) which is identical with IEC 60076-16 : 2011 'Power
+transformers — Part 16: Transformers for wind turbine applications' issued by the
+International Electro technical Commission (IEC) was adopted by the Bureau of Indian
+Standards on the recommendation of the Transformers Sectional Committee and
+approval of the Electro technical Division Council."
+7.4 Suzlon submits that Transformers manufactured and supplied by them complies with
+the aforementioned IEC and IS.
+8.
+Suzlon submits that Sr. No. 201A to the Schedule - II to Notification No. 1/2017-
+Central Tax (Rate) dated 28-6-17 ( hereinafter referred to as the said Notification) read
+with Notification No. 1/2017-State Tax (Rate) dated 30-6-17 issued under the Gujarat
 GST Act, 2017 as amended vide Notification No. 8/2021-Central Tax(Rate) dated 30-9-
-21 wherein the rate of GST is 6% + 6% which earlier vide Entry No. 234 to Schedule I 
-was 2.50% + 2.50%. The said entry for Chapter No. 84, 85 or 94 reads as follows: 
+21 wherein the rate of GST is 6% + 6% which earlier vide Entry No. 234 to Schedule I
+was 2.50% + 2.50%. The said entry for Chapter No. 84, 85 or 94 reads as follows:
+Page 7 of 25
 
+'Following renewable energy devices & parts for their manufacture:
+(a) Bio-gas plant
+(b) Solar power based devices
+(c) Solar power generating system
+(d) Wind mills, Wind Operated Electricity Generator (WOEG)
+(e) Waste to energy plants / devices
+(f) Solar lantern / solar lamp
+(g) Ocean waves/tidal waves energy devices/plants
+(h) Photo voltaic Cells, whether or not assembled in Modules or made up into
+panels.
+Explanation: If the goods specified in this entry are supplied, by a supplier, along
+with supplies of other goods and services, one of which being a taxable service
+specified in the entry at S. No. 38 of the Table mentioned in the notification No.
+11/2017-Central Tax (Rate), dated 28th June, 2017 [G.S.R. 690(E)], the value of
+supply of goods for the purposes of this entry shall be deemed as seventy per cent.
+of the gross consideration charged for all such supplies, and the remaining thirty
+per cent. of the gross consideration charged shall be deemed as value of the said
+taxable service.'
+9.
+Suzlon submits that the supply of specially designed Transformers is a part of
+WOEG which was liable to CGST and SGST at the rate of 2.5% each falling under Entry
+No. 234 to Schedule No. I to said Notification and thereafter with effect from 1-10-21,
+6% each towards CGST and SGST by virtue of Sr. No. 201A inserted to Schedule II in
+said Notification vide Notification No. 8/2021-Central Tax (Rate) dated 30-9-21.
+10. Suzlon submits that it was charging 2.5% each towards CGST and SGST on
+WOEG up to 30-9- 21and currently charges 6% each towards CGST and SGST and there
+is no ambiguity with respect to the same but have some confusion and ambiguity on the
+rate being differently charged for the Transformers by it.
+11. Suzlon cites CBIC Circular No. 80/54/2018-GST dated 31-12-18, the relevant
+extract, reproduced as follows:
+'11. Applicability of GST on supply of Waste to Energy Plant:
+11.1. Representations have been received regarding applicable GST rate on the
+goods used in the setting up of Waste to Energy plants (WTEP) in term of Sr. No.
+234 of Schedule I of Notification No 1/2017-Central Tax (Rates) dated 28th June,
+2018. The said entry 234 prescribes 5% rate on the following renewable energy
+devices & parts for their manufacture: (a) Bio-gas plant (b) Solar power based
+devices (c) Solar power generating system (d)Wind mills, Wind Operated
+Electricity Generator (WOEG) (e) Waste to energy plants / devices (f) Solar
+Page 8 of 25
 
-Page 8 of 25 
- 
-‘Following renewable energy devices & parts for their manufacture:  
-(a) Bio-gas plant  
-(b) Solar power based devices  
-(c) Solar power generating system  
-(d) Wind mills, Wind Operated Electricity Generator (WOEG)  
-(e) Waste to energy plants / devices  
-(f) Solar lantern / solar lamp  
-(g) Ocean waves/tidal waves energy devices/plants 
-(h) Photo voltaic Cells, whether or not assembled in Modules or made up into 
-panels. 
-Explanation: If the goods specified in this entry are supplied, by a supplier, along 
-with supplies of other goods and services, one of which being a taxable service 
-specified in the entry at S. No. 38 of the Table mentioned in the notification No. 
-11/2017-Central Tax (Rate), dated 28th June, 2017 [G.S.R. 690(E)], the value of 
-supply of goods for the purposes of this entry shall be deemed as seventy per cent. 
-of the gross consideration charged for all such supplies, and the remaining thirty 
-per cent. of the gross consideration charged shall be deemed as value of the said 
-taxable service.’ 
-9. 
-Suzlon submits that the supply of specially designed Transformers is a part of 
-WOEG which was liable to CGST and SGST at the rate of 2.5% each falling under Entry 
-No. 234 to Schedule No. I to said Notification and thereafter with effect from 1-10- 21, 
-6% each towards CGST and SGST by virtue of Sr. No. 201A inserted to Schedule II in 
-said Notification vide Notification No. 8/2021-Central Tax (Rate) dated 30-9- 21. 
-10. 
-Suzlon submits that it was charging 2.5% each towards CGST and SGST on 
-WOEG up to 30-9- 21and currently charges 6% each towards CGST and SGST and there 
-is no ambiguity with respect to the same but have some confusion and ambiguity on the 
-rate being differently charged for the Transformers by it. 
-11. 
-Suzlon cites CBIC Circular No. 80/54/2018-GST dated 31-12-18, the relevant 
-extract, reproduced as follows: 
-‘11. Applicability of GST on supply of Waste to Energy Plant:  
-11.1. Representations have been received regarding applicable GST rate on the 
-goods used in the setting up of Waste to Energy plants (WTEP) in term of Sr. No. 
-234 of Schedule I of Notification No 1/2017-Central Tax (Rates) dated 28th June, 
-2018. The said entry 234 prescribes 5% rate on the following renewable energy 
-devices & parts for their manufacture: (a) Bio-gas plant (b) Solar power based 
-devices (c) Solar power generating system (d)Wind mills, Wind Operated 
-Electricity Generator (WOEG) (e) Waste to energy plants / devices (f) Solar 
+lantern / solar lamp (g) Ocean waves/tidal waves energy devices/plant (h)Photo
+voltaic cells, whether or not assembled in modules or made up into panels
+11.2 The notification specifically applies only the goods falling under chapters 84,
+85 and 94 of the Tariff: Therefore, this concession would be available only to such
+machinery, equipment etc., which fall under Chapter 84, 85 and 94 and used in the
+initial setting up of renewable energy plants and devices including WTEP. This
+entry does not cover goods falling under other chapters, say a transport vehicle
+falling under Chapter 87 that may be used for movement of waste to WTEP.
+12. Suzlon submits that as evident from the above, what is being perceived from the
+above clarification is that the concessional rate is being extended for the machineries,
+equipment etc. falling under Chapter 84, 85 and 94 and used in the initial setting up of
+renewable energy plants. It is a fact that a specially designed Transformer for WOEG is
+always being required to set up a Wind Farm and accordingly it believes that the
+specially designed Transformer supplied along with WTG as a part of WOEG be liable to
+CGST and SGST at the rate of 2.5% up to 30" September, 2021 and 6% thereafter.
+13. Suzlon submit that to determine the applicability of Sr No. 234 up to 30th
+September, 2021 and Sr. No. 201A with effect from 1 October, 2021 for Specially
+Designed Transformers, what is important is whether the specifically and specially
+designed transformers to be used for WOEG application be considered as 'Devices and /
+or Parts' because the Windmill and WOEG have neither been defined in the Act nor the
+Rules as well as the Rate Notifications. Therefore, what is essential is an independent
+examination as to what constitutes 'parts' or 'devices' for manufacture of Windmill or
+WOEGs. The second condition to be fulfilled to get the benefit of Sr. No. 234 up to 30th
+September, 2021 and Sr. No. 201A with effect from 01" October, 2021 is that the goods
+must be falling within Chapter 84, 85 or 94.
+14. Suzlon submits that the WOEG converts wind energy into electrical energy. The
+electrical energy generated has a voltage of 0.690kv. The electrical energy with voltage
+of 0.690kv is not consumable or marketable. The voltage of electrical energy is too low
+for any usage or for the purpose of evacuation or distribution. The specially designed
+transformers for WOEG is installed on the ground adjoining to each WOEG to make the
+electrical energy usable for consumption or distribution and accordingly it is understood
+that the specially designed Transformers are the parts of WOEGs and hence be liable to
+CGST and SGST at the rate of 2.5% each as per Sr. No. 234 to Schedule I to Notification
+No. 1/2017-Central Tax (Rate) dated 28h June, 2017 and 6% each towards CGST and
+SGST as per Sr. No. 201A to Schedule II to Notification No. 1/2017-Central Tax (Rate)
+dated 28' June, 2017 as amended by Notification No. 8/2021-Central Tax (Rate) dated
+30"h September, 2021 with effect from 1s October, 2021.
+Page 9 of 25
 
-
-Page 9 of 25 
- 
-lantern / solar lamp (g) Ocean waves/tidal waves energy devices/plant (h)Photo 
-voltaic cells, whether or not assembled in modules or made up into panels  
-11.2 The notification specifically applies only the goods falling under chapters 84, 
-85 and 94 of the Tariff. Therefore, this concession would be available only to such 
-machinery, equipment etc., which fall under Chapter 84, 85 and 94 and used in the 
-initial setting up of renewable energy plants and devices including WTEP. This 
-entry does not cover goods falling under other chapters, say a transport vehicle 
-falling under Chapter 87 that may be used for movement of waste to WTEP. 
-12. 
-Suzlon submits that as evident from the above, what is being perceived from the 
-above clarification is that the concessional rate is being extended for the machineries, 
-equipment etc. falling under Chapter 84, 85 and 94 and used in the initial setting up of 
-renewable energy plants. It is a fact that a specially designed Transformer for WOEG is 
-always being required to set up a Wind Farm and accordingly it believes that the 
-specially designed Transformer supplied along with WTG as a part of WOEG be liable to 
-CGST and SGST at the rate of 2.5% up to 30th September, 2021 and 6% thereafter. 
-13. 
-Suzlon submit that to determine the applicability of Sr No. 234 up to 30th 
-September, 2021 and Sr. No. 201A with effect from 1st October, 2021 for Specially 
-Designed Transformers, what is important is whether the specifically and specially 
-designed transformers to be used for WOEG application be considered as ‘Devices and / 
-or Parts’ because the Windmill and WOEG have neither been defined in the Act nor the 
-Rules as well as the Rate Notifications. Therefore, what is essential is an independent 
-examination as to what constitutes ‘parts’ or ‘devices’ for manufacture of Windmill or 
-WOEGs. The second condition to be fulfilled to get the benefit of Sr. No. 234 up to 30th 
-September, 2021 and Sr. No. 201A with effect from 01st October, 2021 is that the goods 
-must be falling within Chapter 84, 85 or 94. 
-14. 
-Suzlon submits that the WOEG converts wind energy into electrical energy. The 
-electrical energy generated has a voltage of 0.690kv. The electrical energy with voltage 
-of 0.690kv is not consumable or marketable. The voltage of electrical energy is too low 
-for any usage or for the purpose of evacuation or distribution. The specially designed 
-transformers for WOEG is installed on the ground adjoining to each WOEG to make the 
-electrical energy usable for consumption or distribution and accordingly it is understood 
-that the specially designed Transformers are the parts of WOEGs and hence be liable to 
-CGST and SGST at the rate of 2.5% each as per Sr. No. 234 to Schedule I to Notification 
-No. 1/2017-Central Tax (Rate) dated 28th June, 2017 and 6% each towards CGST and 
-SGST as per Sr. No. 201A to Schedule II to Notification No. 1/2017-Central Tax (Rate) 
-dated 28th June, 2017 as amended by Notification No. 8/2021-Central Tax(Rate) dated 
-30th September, 2021 with effect from 1st October, 2021.  
-
-
-Page 10 of 25 
- 
-15.   Suzlon further submits that the test of whether the specially designed Transformers 
-be considered as ‘part’ and / or ‘device’ it is essential to know the meaning of ‘device’ 
-and ‘part.’ Suzlon submits that what constitutes ‘parts’ can be inferred from the decision 
-of Larger Bench of Mumbai CESTAT in case of Rakhoh Enterprises vs. Commissioner of 
+15. Suzlon further submits that the test of whether the specially designed Transformers
+be considered as 'part' and / or 'device' it is essential to know the meaning of 'device'
+and 'part.' Suzlon submits that what constitutes "parts' can be inferred from the decision
+of Larger Bench of Mumbai CESTAT in case of Rakhoh Enterprises vs. Commissioner of'
 Central Excise, Pune (2016) 338 ELT 449 (CESTAT-MUMBAI) whose findings are re-
-iterated as follows: 
-‘5.4 We find that the anchor rings and the load spreading plates are  specifically 
-designed for the purpose of attaching the tower to the ground by providing 
-necessary bolts for the same. The anchor rings and the load spreading plates are 
-an extension of the tower, though the same is fixed to the foundation first and later 
-attached to the tower. Thus they are parts of the tower. 
-5.5 In view of the above, we find that the anchor rings and load spreading plates 
-are parts of tower specially designed for wind operated electricity generators and 
-are eligible for exemption under Notification No. 6/2006, dated 1-3-2006.’ 
-16. 
-Suzlon submits that the above findings leads to the conclusion that if something is 
-specially or specifically designed, it should be treated as part of that item for which it is 
-specifically or specially designed. In the case of Suzlon, the Transformers are specially or 
-specifically designed to be used along with WOEGs and hence be considered as parts 
-liable to CGST and SGST at the rate of 2.5% each up to 30th September, 2021 and CGST 
-and SGST at the rate of 6% each thereafter with effect from 1st October, 2021.  
-17. 
-Suzlon submitted a copy of contract, as mentioned in para 5 along with the 
-Annexure to the said contract, for supply of WTG: 
-‘WTG” shall mean a 2.1 MW S111_140 type wind turbine consisting of nacelle, 
-hub and control systems, blades (set of three blades), tubular towers, lightning 
-protection, cables, aviation lights (if required) and transformer and any other 
-equipment required to commission the WTG as per prevailing Grid standards and 
-as per the technical specifications for the WTG’  
-18. 
-Suzlon cites  case law of M/s. Elecon Engineering Co. Ltd., Vs Commissioner of 
-Customs [1998 (103) ELT 395 (Tri)] = 1998 (3) TMI 359 - CEGAT, MUMBAI the issue 
-involved in the case was whether power cables, earthing cables, wind farmer computer 
-will be eligible for benefit of exemption under Notification 64/94-Cus. The Tribunal held 
-that power cables and control cables together form part of inside cabling of wind turbine 
-controller, since, control cables are eligible for exemption, the benefit of exemption has 
-to be extended to power cables also. 
+iterated as follows:
+'5.4 We find that the anchor rings and the load spreading plates are specifically
+designed for the purpose of attaching the tower to the ground by providing
+necessary bolts for the same. The anchor rings and the load spreading plates are
+an extension of the tower, though the same is fixed to the foundation first and later
+attached to the tower. Thus they are parts of the tower.
+5.5 In view of the above, we find that the anchor rings and load spreading plates
+are parts of tower specially designed for wind operated electricity generators and
+are eligible for exemption under Notification No. 6/2006, dated 1-3-2006.'
+16.
+Suzlon submits that the above findings leads to the conclusion that if something is
+specially or specifically designed, it should be treated as part of that item for which it is
+specifically or specially designed. In the case of Suzlon, the Transformers are specially or
+specifically designed to be used along with WOEGs and hence be considered as parts
+liable to CGST and SGST at the rate of 2.5% each up to 30'h September, 2021 and CGST
+and SGST at the rate of 6% each thereafter with effect from 1' October, 2021.
+17. Suzlon submitted a copy of contract, as mentioned in para 5 along with the
+Annexure to the said contract, for supply of WTG:
+WTG" shall mean a 2.1 MW S111_140 type wind turbine consisting of nacelle,
+hub and control systems, blades (set of three blades), tubular towers, lightning
+protection, cables, aviation lights (if required) and transformer and any other
+equipment required to commission the WTG as per prevailing Grid standards and
+as per the technical specifications for the WTG
+18. Suzlon cites case law of M/s. Elecon Engineering Co. Ltd., Vs Commissioner of
+Customs [1998 (103) ELT 395 (Tri)] = 1998 (3) TMI 359 - CEGAT, MUMBAI the issue
+involved in the case was whether power cables, earthing cables, wind farmer computer
+will be eligible for benefit of exemption under Notification 64/94-Cus. The Tribunal held
+that power cables and control cables together form part of inside cabling of wind turbine
+controller, since, control cables are eligible for exemption, the benefit of exemption has
+to be extended to power cables also.
+Page 10 of 25
 
-
-Page 11 of 25 
- 
-19. 
-Suzlon states that the broad understanding of the intention of legislature in 
-conferring exemption to non-conventional energy devices is also reflected from the 
-decision by the Honourable Ahmedabad CESTAT in case of M/s. SKF Technologies 
+19.
+Suzlon states that the broad understanding of the intention of legislature in
+conferring exemption to non-conventional energy devices is also reflected from the
+decision by the Honourable Ahmedabad CESTAT in case of M/s. SKF Technologies
 India Pvt. Ltd. M/s. SKF India Ltd, M/s. Chandramowli Srinivasan vs. CCE Ahmedabad-
-II (2020) TaxCorp(IDT) 124987 (CESTAT-AHMEDABAD) whose findings are 
-reproduced as: 
-‘11.3 Appellants have contended that the bearings are used at various places in the 
-wind mill like rotor shaft, gearbox, generator, yaw gearbox, etc. We find that the 
-interpretation sought by Revenue is very narrow. The term wind operated 
-electricity generator appeared in notification 06/2006-CE dated 01.03.2006 
-includes the entire setup i.e. the tower, the generator, the blades which are used to 
-generate electricity from wind. The term “wind operated electricity generator” in 
-the notification does not refer to solely to the generator which is just one of the 
-parts of the wind operated electricity generator. In view of above, we do not find 
-any merit in the argument of Revenue and the demand on that is set aside. Hence, 
-the appeal is consequently allowed.’ 
-20.  Suzlon submits that in the absence of any Tariff Item in the Customs Tariff which 
-mentions Windmill, WOEG or parts for manufacture of Windmill, WOEG, no specific 
-tariff entry is required to be examined to evaluate what constitutes a part for manufacture 
-of Windmill, WOEG. A general examination of the term parts is required in order to 
-evaluate whether transformer constitutes a part for manufacture of Windmill, WOEG. 
-21. 
-Suzlon submits that the Customs Tariff and HSN Explanatory Notes stresses on 
-the independent functioning of machines to determine the classification as parts of the 
-machine. Heading 84.79 of the Customs Tariff deals with machines having individual 
-functions. The HSN Explanatory Notes to Heading 84.79 explains that a ‘machine’ is 
-something which has an individual function. The said Notes further explain that a 
-machine which cannot perform its function unless it is mounted on another machine or 
-appliance, or is incorporated in a more complex entity, is considered as a ‘part’ and not a 
-machine. Thus, there is a twin test i.e. (a) the function performed by such machine is not 
-distinct from that which is performed by the entity wherein it is to be incorporated, and 
-(b) it plays an integral and inseparable part in the operation of such entity.  
-22. 
-Suzlon submits that said HSN Explanatory Notes also give the example of a 
-carburettor for an internal combustion engine and that the function performed by 
-carburettor is distinct from that of engine, but it is not an individual function, as the 
+II (2020) TaxCorp(IDT) 124987 (CESTAT-AHMEDABAD) whose findings are
+reproduced as:
+'11.3 Appellants have contended that the bearings are used at various places in the
+wind mill like rotor shaft, gearbox, generator, yaw gearbox, etc. We find that the
+interpretation
+sought by Revenue is very
+narrow. The term wind operated
+electricity generator appeared in notification 06/2006-CE dated 01.03.2006
+includes the entire setup i.e. the tower, the generator, the blades which are used to
+generate electricity from wind. The term "wind operated electricity generator" in
+the notification does not refer to solely to the generator which is just one of the
+parts of the wind operated electricity generator. In view of above, we do not find
+any merit in the argument of Revenue and the demand on that is set aside. Hence,
+the appeal is consequently allowed.'
+20. Suzlon submits that in the absence of any Tariff Item in the Customs Tariff which
+mentions Windmill, WOEG or parts for manufacture of Windmill, WOEG, no specific
+tariff entry is required to be examined to evaluate what constitutes a part for manufacture
+of Windmill, WOEG. A general examination of the term parts is required in order to
+evaluate whether transformer constitutes a part for manufacture of Windmill, WOEG.
+21.
+Suzlon submits that the Customs Tariff and HSN Explanatory Notes stresses on
+the independent functioning of machines to determine the classification as parts of the
+machine. Heading 84.79 of the Customs Tariff deals with machines having individual
+functions. The HSN Explanatory Notes to Heading 84.79 explains that a 'machine' is
+something which has an individual function. The said Notes further explain that a
+machine which cannot perform its function unless it is mounted on another machine or
+appliance, or is incorporated in a more complex entity, is considered as a 'part' and not a
+machine. Thus, there is a twin test i.e. (a) the function performed by such machine is not
+distinct from that which is performed by the entity wherein it is to be incorporated, and
+(b) it plays an integral and inseparable part in the operation of such entity.
+22.
+Suzlon submits that said HSN Explanatory Notes also give the example of a
+carburettor for an internal combustion engine and that the function performed by
+carburettor is distinct from that of engine, but it is not an individual function, as the
+Page 11 of 25
 
+operation of the carburettor is inseparable from that of the engine. Hence, the carburettor
+is considered as a part of the engine as opposed to an independent machine. Another
+similar example has been provided in the relation to mechanical or hydraulic shock
+absorbers.
+23. Suzlon cites the judgment of Hon'ble Supreme Court in the case of CCE Vs.
+Insulation Electrical (P) Ltd. reported at 2008 (224) ELT 512 (SC), wherein the Court
+held that a part is an essential component of the whole without which the whole cannot
+function. Relevant extract of the judgment is as follows:
+'17. To the same effect are the judgments of this Court in the case of Pragati
+Silicons Pvt. Ltd. v. Commissioner of Central Excise, Delhi reported in 2007 (211)
+E.L.T. 534 (S.C.) and Annapurna Carbon industries. Co. v. State of Andhra
+Pradesh (1976) 2 SCC 273.
+18. After considering in detail, the difference between the 'accessories' and
+"parts', this Court in the case of Pragati Silicons (supra) came to the conclusion
+that 'accessory' is something supplementary or subordinate in nature and need
+not be essential for the actual functioning of the product.
+19. Chapter 9401 covers all types of seats and not only the seats of a car and a
+seat is complete even without the rail assembly from seat, adjuster/assembly slider
+seat and rear back lock assembly. They are not essential parts of the seat. Chapter
+heading 9401 covers only the parts of seats and not accessories to the seats. A
+'part' is an essential component of the whole without which the whole cannot
+function.'
+24. Further, in CTO vs Prasoon Enterprises reported at 2019 (23) G.S.T.L. 441 (SC),
+the Hon'ble Supreme Court has reiterated the test laid down by it as to what constitutes a
+part. The relevant para reads as follows:
+'27. This Court has laid down the test as to how the Court should decide the
+question as to whether a particular item is a part of other. The test is "a thing is a
+part of the other if the other is incomplete without it". In other words, "a thing is a
+part of the other, if the other cannot function without it". [See M/s. Annapurna
+Carbon Industries v. State of Andhra Pradesh [(1976) 2 SCC 273 and
+Commissioner of Central Excise, Delhi v. Insulation Electrical Private Limited
+(2008) 12 SCC 45) = 2008 (224) E.L.T. 512 (S.C.)]'
+25. Suzlon submits that WOEG converts wind energy into electrical energy. The
+electrical energy generated has a voltage of 0.690kv. The electrical energy with voltage
+of 0.690kv is not consumable or marketable. The voltage of electrical energy is too low
+Page 12 of 25
 
-Page 12 of 25 
- 
-operation of the carburettor is inseparable from that of the engine. Hence, the carburettor 
-is considered as a part of the engine as opposed to an independent machine. Another 
-similar example has been provided in the relation to mechanical or hydraulic shock 
-absorbers.   
-23. 
-Suzlon cites the judgment of Hon’ble Supreme Court in the case of CCE Vs. 
-Insulation Electrical (P) Ltd. reported at 2008 (224) ELT 512 (SC), wherein the Court 
-held that a part is an essential component of the whole without which the whole cannot 
-function. Relevant extract of the judgment is as follows: 
-‘17. To the same effect are the judgments of this Court in the case of Pragati 
-Silicons Pvt. Ltd. v. Commissioner of Central Excise, Delhi reported in 2007 (211) 
-E.L.T. 534 (S.C.) and Annapurna Carbon industries. Co. v. State of Andhra 
-Pradesh (1976) 2 SCC 273 . 
-18. After considering in detail, the difference between the ‘accessories’ and 
-‘parts’, this Court in the case of Pragati Silicons (supra) came to the conclusion 
-that ‘accessory’ is something supplementary or subordinate in nature and need 
-not be essential for the actual functioning of the product. 
-19. Chapter 9401 covers all types of seats and not only the seats of a car and a 
-seat is complete even without the rail assembly from seat, adjuster/assembly slider 
-seat and rear back lock assembly. They are not essential parts of the seat. Chapter 
-heading 9401 covers only the parts of seats and not accessories to the seats. A 
-‘part’ is an essential component of the whole without which the whole cannot 
-function.’ 
-24. 
-Further, in CTO vs Prasoon Enterprises reported at 2019 (23) G.S.T.L. 441 (SC), 
-the Hon’ble Supreme Court has reiterated the test laid down by it as to what constitutes a 
-part. The relevant para reads as follows: 
-‘27. This Court has laid down the test as to how the Court should decide the 
-question as to whether a particular item is a part of other. The test is “a thing is a 
-part of the other if the other is incomplete without it”. In other words, “a thing is a 
-part of the other, if the other cannot function without it”. [See M/s. Annapurna 
-Carbon Industries v. State of Andhra Pradesh [(1976) 2 SCC 273 and 
-Commissioner of Central Excise, Delhi v. Insulation Electrical Private Limited 
-(2008) 12 SCC 45) = 2008 (224) E.L.T. 512 (S.C.)]’ 
-25. 
-Suzlon submits that WOEG converts wind energy into electrical energy. The 
-electrical energy generated has a voltage of 0.690kv. The electrical energy with voltage 
-of 0.690kv is not consumable or marketable. The voltage of electrical energy is too low 
+for any usage or for the purpose of evacuation or distribution. The specially designed
+transformers for WOEG is installed on the ground adjoining to each WOEG to make the
+electrical energy usable for consumption or distribution. Accordingly, it can be deduced
+and inferred that the transformer is a part for manufacture of WOEG and the rate of 2.5%
+each towards CGST and SGST be applicable to the specially designed Transformers up
+to 30" September, 2021 and 6% each towards CGST and SGST thereafter.
+26. Suzlon submits that the Transformer also needs to be looked upon from the angle
+of the general principles of interpretation. The general principles of interpretation, which
+are meant for interpreting sections in the taxing statutes, are required to be adopted for
+interpreting the definitions also but at the same time when the word 'Wind Mills' and
+'WOEGs' have not been defined in the Act as well the Rate Notification it is also equally
+well established principles of law that in the absence of such definitions in the statutes,
+they should be understood in their popular meaning and as per the definition in the
+market or commercial parlance and if the goods are by themselves technical or if there is
+no definition available in the market parlance, it is the scientific definition which requires
+to be adopted.
+27. Suzlon cited the Honourable Karnataka High Court in case of Enercon (India) Ltd.
+vs. State of Karnataka (ILR) 2004 KAR 4020 wherein while deciding Whether the
+Karnataka Appellate Tribunal erred in law in holding that the turnover relating to
+electrical works, transformer, foundation work is not part of the turnover of the wind mill
+and is not eligible for exemption under entry 57 of the Fifth Schedule to Karnataka Sales
+Tax Act, 1957, the Honourable Karnataka High Court held as follows:
+_19. The electrical work and transformers are vital parts of a wind mill and the
+wind mill cannot be put to use and it would not be functional device without the
+electrical works and the transformers. Therefore, the findings of the Tribunal in
+this regard requires to be set aside.'
+28.
+Further, the aforesaid view of the Honourable Karnataka High Court been
+affirmed by the Honourable Apex Court in Civil Appeal No(s) 1954/2006 and Suzlon
+submits that it has a reason to believe that the specially designed Transformers are part of
+the Windmill / Wind Turbine Electricity Generators and liable to CGST and SGST at the
+rate of 2.5% each up to 30th September, 2021 and 6% each thereafter.
+Question on which Advance Ruling sought:
+29. The specially designed Transformers for Wind Operated Electricity Generators
+which are meant to perform dual function of Step Down and Step Up manufactured by
+Suzlon and supplied to the customers of Suzlon as a part of Wind Operated Electricity
+Generator be treated as part of Wind Operated Electricity Generator and falls under Sr.
+No. 234 in Schedule-I to Notification No. 01/2017-Central Tax (Rate) dated 28'h June,
+Page 13 of 25
 
+2017 read with Notification No. 1/2017- State Tax(Rate) dated 30" June, 2017 and liable
+to Central GST at the rate of 2.5% along with Gujarat State GST at the rate of 2.5% up to
+30"h September, 2021 and 6% each towards CGST and SGST with effect from 1st
+October, 2021 by virtue of omission of the said entry and addition of Entry No. 201A to
+Notification No. 01/2017-Central Tax (Rate) dated 28th June, 2017 vide Notification No.
+08/2021-Central Tax (Rate) dated 30th September, 2021 read with Notification No.
+08/2021-State Tax (Rate) dated 30" September, 2021?
+Personal Hearing
+30. Personal hearing granted on 18-2-22 was attended by Shri Dhruvank Parikh, CA,
+(virtual hearing) and he reiterated the submissions.
+Additional Submissions by Suzlon:
+31. Suzlon cited decision of the Honourable Apex Court in case of M/s. Enercon
+(India) Ltd. vs. State of Karnataka in Civil Appeal No(s). 1954/2006, pronounced on 8th
+March, 2016 wherein the Honourable Supreme Court considered the Transformer as Part
+of the Windmill considering the fact that Windmill was never defined in the erstwhile
+existing VAT Regime and the same is the case with erstwhile existing Central Excise Act
+and GST Act, 2017 as well read with Notification No. 08/2021-Central Tax (Rate) dated
+30th September, 2021 read with Notification No. 08/2021-State Tax(Rate) dated 30th
+September, 2021.The relevant extracts of the above Ruling of the Honourable Apex
+Court is reproduced as follows :
+'The High Court taking Note of the provisions of Section 8 and Entry 57 has
+observed that meaning of the words 'Windmills' is not defined under the Act and,
+therefore, some meaning has to be assigned to the same. It has further observed
+that since Section 8 of the Act exempts certain categories of 'goods' which are
+specified in the Fifth Schedule of the Act, it is only those items which qualify as
+goods are to be exempted. Thereafter, an endeavour is made to point out what
+would be the goods falling within the expression "Wind Mill. " It has been held
+that the expression "Wind Mill" would include rotor consisting of blades, the hub,
+assembly, nacelle, yaw system, tower and grid synchronization assembly including
+transformer unit for delivering the power to the grid network. It is also opined that
+the electrical work and transformers are vital parts of a windmill and the windmill
+cannot be put to use and it would not be functional device without the electrical
+works and the transformers and, therefore, they would also be recorded as parts
+of Wind Mill. "
+32. Suzlon submitted that when something is not defined in the Act, even references to
+other Acts should be resorted to. The word used in applicable Income Tax Rule is wind
+mill, which has a wide meaning and not confined to generator or gearbox etc. Any actor
+Page 14 of 25
 
-Page 13 of 25 
- 
-for any usage or for the purpose of evacuation or distribution. The specially designed 
-transformers for WOEG is installed on the ground adjoining to each WOEG to make the 
-electrical energy usable for consumption or distribution. Accordingly, it can be deduced 
-and inferred that the transformer is a part for manufacture of WOEG and the rate of 2.5% 
-each towards CGST and SGST be applicable to the specially designed Transformers up 
-to 30th September, 2021 and 6% each towards CGST and SGST thereafter. 
-26. 
-Suzlon submits that the Transformer also needs to be looked upon from the angle 
-of the general principles of interpretation. The general principles of interpretation, which 
-are meant for interpreting sections in the taxing statutes, are required to be adopted for 
-interpreting the definitions also but at the same time when the word ‘Wind Mills’ and 
-‘WOEGs’ have not been defined in the Act as well the Rate Notification it is also equally 
-well established principles of law that in the absence of such definitions in the statutes, 
-they should be understood in their popular meaning and as per the definition in the 
-market or commercial parlance and if the goods are by themselves technical or if there is 
-no definition available in the market parlance, it is the scientific definition which requires 
-to be adopted. 
-27. 
-Suzlon cited the Honourable Karnataka High Court in case of Enercon (India) Ltd. 
-vs. State of Karnataka (ILR) 2004 KAR 4020 wherein while deciding Whether the 
-Karnataka Appellate Tribunal erred in law in holding that the turnover relating to 
-electrical works, transformer, foundation work is not part of the turnover of the wind mill 
-and is not eligible for exemption under entry 57 of the Fifth Schedule to Karnataka Sales 
-Tax Act, 1957, the Honourable Karnataka High Court held as follows: 
-‘19. The electrical work and transformers are vital parts of a wind mill and the 
-wind mill cannot be put to use and it would not be functional device without the 
-electrical works and the transformers. Therefore, the findings of the Tribunal in 
-this regard requires to be set aside.’ 
-28. 
-Further, the aforesaid view of the Honourable Karnataka High Court been 
-affirmed by the Honourable Apex Court in Civil Appeal No(s) 1954/2006 and Suzlon 
-submits that it has a reason to believe that the specially designed Transformers are part of 
-the Windmill / Wind Turbine Electricity Generators and liable to CGST and SGST at the 
-rate of 2.5% each up to 30th September, 2021 and 6% each thereafter. 
-Question on which Advance Ruling sought: 
-29. 
-The specially designed Transformers for Wind Operated Electricity Generators 
-which are meant to perform dual function of Step Down and Step Up manufactured by 
-Suzlon and supplied to the customers of Suzlon as a part of Wind Operated Electricity 
-Generator be treated as part of Wind Operated Electricity Generator and falls under Sr. 
-No. 234 in Schedule-I to Notification No. 01/2017-Central Tax (Rate) dated 28th June, 
+deed attached to bring wind turbine in active use of power generation should be treated as
+a part of Wind Mill. Wind Mill is a plant as defined under section 43(3) of Income tax act
+and it is undertaking itself (M/s The Hutti Gold Mines Co. Ltd. vs Department Of Income
+Tax, ITA No. 832/Bang/ 2012 -A Y 2008-09). If meaning of wind mill is narrowed to
+only wind turbine or standing structure of tower or together both, will not justify correct
+legal position. If meaning is narrow down to such extent, active use of wind turbine will
+not be possible. All standing equipment are bald and useless. It needs to be integrated and
+therefore any expenses related to such integration and helping this plant to bring them in
+use must be said as a part of windmill. Any payment made for electrical work within
+turbine or connecting power generated to grid and transformer expense, metering work
+charges, surfacing works cost, data lock and control machine cost etc. should be treated
+as a composite cost of Wind Mill. Even in case of VTM Limited, Virudhunagar vs.
+Department of Income Tax (ITA No. 1425/Mds/2010), the Honourable Chennai Tribunal
+has held that the transformer used for the windmill installation is entitled to the
+depreciation as applicable to the windmill itself as it is to be considered as part of
+Windmill.
+Revenue's submission
+33.
+Revenue neither submitted its comments nor appeared for hearing.
+Findings
+34. At the outset we would like to make it clear that the provisions of CGST Act and
+GGST Act are in pari materia and have the same provisions in like matter and differ from
+each other only on a few specific provisions. Therefore, unless a mention is particularly
+made to such dissimilar provisions, a reference to the CGST Act would also mean
+reference to the corresponding similar provisions in the GGST Act.
+35.
+We have carefully studied all the submissions. The issue before us hinges on
+determination of GST rate on said transformers. We record out findings, as follows, in
+Part A & B.
+(A)whether Transformers are part of WOEG to determine entry at sr no 201A of
+schedule II of said Notification.
+(B) Determination of GST rate on said Transformers.
+A. Transformers, whether part of WOEG.
+36. We refer to sr no. 234 of schedule I of Notification 1/2017-CT (Rate) dated 28-6-
+17; and sr no 201A of schedule II of said Notification, as follows:
+i.
+The Serial number 234 of Schedule I of said Notification, notifying CGST
+@ 2.5%, as per the following table. This Serial number 234 was omitted
+Page 15 of 25
 
+vide NT 8/21-CT(R) dated 30-9-21, w.e.f. 1-10-21 and a new serial number
+201(A), notifying CGST rate for the same description @ 6% was inserted
+Sr.
+No.
+1.
+Description
+2.
+Following
+renewable energy
+devices & parts for
+their manufacture
+Sr. No. 234 to Schedule I Sr. No. 201(A) of
+of
+Notification
+No.
+Notification
+No.
+1/2017-CT (Rate)
+1/2017-CT (Rate)
+(c)
+Solar
+power
+(c)Solar
+power
+generating system
+generator
+(d) Wind mills, Wind (d) Wind
+operated
+Electricity
+Wind
+mills,
+Operated
+Generator (WOEG)
+Electricity
+Generator (WOEG)
+36.1 Thus WOEG CGST rate was 2.5% and w.e.f. 1-10-21 it is 6%.
+37. It is of importance to note that in sr no 234(c) the device was solar power
+generating system. However, in sr no 201A(c) the device is not solar power generating
+system but 'solar power generator'. We opine that bringing on record our thought process
+on the difference between the phrase 'solar power generating system' and 'solar power
+generator' to be useful in present case. We are of the opinion that solar power generator
+is different from solar power generating system. We infer that system includes more
+devices and not just the generator.
+38. The 'solar power generating system' and 'solar power generator', both are not one
+and the same. We have to read the wordings of the said Notification carefully. Prima
+facie, what is inferred is solar power generating system includes not only the solar power
+generator but even more device than the generator itself. We find the case law Belectric
+Photovoltaic India Pvt. Ltd.[ 2019(21) GSTL 319( MP)| of H'ble High Court of
+Madhya Pradesh of immense use for ready reference in this matter. We reproduce
+relevant excerpts of said the case law-
+2019(21)GSTL 319(MP)- Belectric Photovoltaic India Pvt Ltd vs Commr. of
+Commercial Tax - writ petition no. 1245 of 2018, decided on 2-1-2019:
+'Solar power generating system includes all devices or equipment, which are connected or
+combined together to complete solar power generating system - Solar power generating system
+would necessarily include sub-station for evacuation and upliftment of power generated by solar
+power plants- for setting up solar power based projects, the exemption has to be given in respect
+of a complete project, as all the equipment used in the project are integral part of the project and
+even without one of the equipments, the project cannot function. Once the entry includes "Solar
+Power Project", all the material equipments used for the purposes of setting up power based
+project are certainly entitled for grant of exemption
+Page 16 of 25
 
-Page 14 of 25 
- 
-2017 read with Notification No. 1/2017- State Tax(Rate) dated 30th June, 2017 and liable 
-to Central GST at the rate of 2.5% along with Gujarat State GST at the rate of 2.5% up to 
-30th September, 2021 and 6% each towards CGST and SGST with effect from 1st 
-October, 2021 by virtue of omission of the said entry and addition of Entry No. 201A to 
-Notification No. 01/2017-Central Tax (Rate) dated 28th June, 2017 vide Notification No. 
-08/2021-Central Tax (Rate) dated 30th September, 2021 read with Notification No. 
-08/2021-State Tax(Rate) dated 30th September, 2021? 
-Personal Hearing 
-30. 
-Personal hearing granted on 18-2-22 was attended by Shri Dhruvank Parikh, CA, 
-(virtual hearing) and he reiterated the submissions. 
- 
-Additional Submissions by Suzlon: 
-31. 
-Suzlon cited decision of the Honourable Apex Court in case of M/s. Enercon 
-(India) Ltd. vs. State of Karnataka in Civil Appeal No(s). 1954/2006, pronounced on 8th 
-March, 2016 wherein the Honourable Supreme Court considered the Transformer as Part 
-of the Windmill considering the fact that Windmill was never defined in the erstwhile 
-existing VAT Regime and the same is the case with erstwhile existing Central Excise Act 
-and GST Act, 2017 as well read with Notification No. 08/2021-Central Tax (Rate) dated 
-30th September, 2021 read with Notification No. 08/2021-State Tax(Rate) dated 30th 
-September, 2021.The relevant extracts of the above Ruling of the Honourable Apex 
-Court is reproduced as follows :  
-‘The High Court taking Note of the provisions of Section 8 and Entry 57 has 
-observed that meaning of the words ‘Windmills’ is not defined under the Act and, 
-therefore, some meaning has to be assigned to the same. It has further observed 
-that since Section 8 of the Act exempts certain categories of ‘goods’ which are 
-specified in the Fifth Schedule of the Act, it is only those items which qualify as 
-goods are to be exempted. Thereafter, an endeavour is made to point out what 
-would be the goods falling within the expression ‘’Wind Mill.” It has been held 
-that the expression “Wind Mill” would include rotor consisting of blades, the hub, 
-assembly, nacelle, yaw system, tower and grid synchronization assembly including 
-transformer unit for delivering the power to the grid network. It is also opined that 
-the electrical work and transformers are vital parts of a windmill and the windmill 
-cannot be put to use and it would not be functional device without the electrical 
-works and the transformers and, therefore, they would also be recorded as parts 
-of Wind Mill.” 
-32. 
-Suzlon submitted that when something is not defined in the Act, even references to 
-other Acts should be resorted to. The word used in applicable Income Tax Rule is wind 
-mill, which has a wide meaning and not confined to generator or gearbox etc. Any actor 
-
-
-Page 15 of 25 
- 
-deed attached to bring wind turbine in active use of power generation should be treated as 
-a part of Wind Mill. Wind Mill is a plant as defined under section 43(3) of Income tax act 
-and it is undertaking itself (M/s The Hutti Gold Mines Co. Ltd. vs Department Of Income 
-Tax, ITA No. 832/Bang/ 2012 –A Y 2008-09). If meaning of wind mill is narrowed to 
-only wind turbine or standing structure of tower or together both, will not justify correct 
-legal position. If meaning is narrow down to such extent, active use of wind turbine will 
-not be possible. All standing equipment are bald and useless. It needs to be integrated and 
-therefore any expenses related to such integration and helping this plant to bring them in 
-use must be said as a part of windmill. Any payment made for electrical work within 
-turbine or connecting power generated to grid and transformer expense, metering work 
-charges, surfacing works cost, data lock and control machine cost etc. should be treated 
-as a composite cost of Wind Mill. Even in case of VTM Limited, Virudhunagar vs. 
-Department of Income Tax (ITA No. 1425/Mds/2010), the Honourable Chennai Tribunal 
-has held that the transformer used for the windmill installation is entitled to the 
-depreciation as applicable to the windmill itself as it is to be considered as part of 
-Windmill.  
- 
-Revenue’s submission 
-33.      Revenue neither submitted its comments nor appeared for hearing. 
- 
-Findings 
-34. 
-At the outset we would like to make it clear that the provisions of CGST Act and 
-GGST Act are in pari materia and have the same provisions in like matter and differ from 
-each other only on a few specific provisions. Therefore, unless a mention is particularly 
-made to such dissimilar provisions, a reference to the CGST Act would also mean 
-reference to the corresponding similar provisions in the GGST Act. 
-35. 
-We have carefully studied all the submissions. The issue before us hinges on 
-determination of GST rate on said transformers. We record out findings, as follows, in   
-Part A & B. 
- (A)whether Transformers are part of WOEG to determine entry at sr no 201A of 
-schedule II of said Notification. 
- (B) Determination of GST rate on said Transformers. 
-A. Transformers, whether part of WOEG. 
-36. 
-We refer to sr no. 234 of schedule I of Notification 1/2017-CT (Rate) dated 28-6-
-17; and sr no 201A of schedule II of said Notification, as follows: 
- 
-i. 
-The Serial number 234 of Schedule I of said Notification, notifying CGST 
-@ 2.5%, as per the following table. This Serial number 234 was omitted 
-
-
-Page 16 of 25 
- 
-vide NT 8/21-CT(R) dated 30-9-21, w.e.f. 1-10-21 and a new serial number 
-201(A), notifying CGST rate for the same description @ 6% was inserted 
- 
-Sr. 
-No. 
-Description 
-Sr. No. 234 to Schedule I 
-of 
-Notification 
-No. 
-1/2017-CT (Rate) 
-Sr. No. 201(A) of 
-Notification 
-No. 
-1/2017-CT (Rate) 
-1. 
- 
-Following 
-renewable energy 
-devices & parts for 
-their manufacture 
- 
-(c) 
-Solar 
-power 
-generating system 
-(c)Solar 
-power 
-generator 
- 
-2. 
-(d) Wind mills, Wind 
-operated 
-Electricity 
-Generator (WOEG) 
- 
-(d) 
-Wind 
-mills, 
-Wind 
-Operated 
-Electricity 
-Generator (WOEG) 
- 
-36.1 Thus WOEG CGST rate was 2.5% and w.e.f. 1-10-21 it is 6%. 
-37. 
-It is of importance to note that in sr no 234(c) the device was solar power 
-generating system. However, in sr no 201A(c) the device is not solar power generating 
-system but ‘solar power generator’. We opine that bringing on record our thought process 
-on the difference between the phrase ‘solar power generating system’ and ‘solar power 
-generator’ to be useful in present case. We are of the opinion that solar power generator 
-is different from solar power generating system. We infer that system includes more 
-devices and not just the generator.  
-38. 
-The ‘solar power generating system’ and ‘solar power generator’, both are not one 
-and the same. We have to read the wordings of the said Notification carefully. Prima 
-facie, what is inferred is solar power generating system includes not only the solar power 
-generator but even more device than the generator itself. We find the case law Belectric 
-Photovoltaic India Pvt. Ltd.[ 2019(21) GSTL 319( MP)] of H’ble High Court of 
-Madhya Pradesh of immense use for ready reference in this matter. We reproduce 
-relevant excerpts of said the case law- 
-2019(21)GSTL 319(MP)- Belectric Photovoltaic India Pvt Ltd vs Commr. of 
-Commercial Tax- writ petition no. 1245 of 2018, decided on 2-1-2019: 
-‘Solar power generating system includes all devices or equipment, which are connected or 
-combined together to complete solar power generating system - Solar power generating system 
-would necessarily include sub-station for evacuation and upliftment of power generated by solar 
-power plants- for setting up solar power based projects, the exemption has to be given in respect 
-of a complete project, as all the equipment used in the project are integral part of the project and 
-even without one of the equipments, the project cannot function. Once the entry includes “Solar 
-Power Project”, all the material equipments used for the purposes of setting up power based 
-project are certainly entitled for grant of exemption 
- 
-
-
-Page 17 of 25 
- 
 Para7(2) last para: Contention of the applicant - As stated above since the existence of a sub-
-station is an essential technical requirement of a solar power plant without which the solar 
-energy generated by such plant cannot be put to consumer use and since in the present case as 
-per the contract between the applicant and the client Focal Energy Solar India One (P) Ltd. and 
-Globus Steel and Power Pvt. Ltd. construction of sub-station, its connection of solar plant and 
-successful transmission of power from plant to sub-station is an essential condition of contract. 
-Thus in the instant case, supply of sub-station equipment being a part of contract for 
-construction/installation of solar power generation plant, such equipments are also covered by 
-exemption under item No. 10 of Entry No. 71 of Schedule I of the MPVAT Act, 2002. 
+station is an essential technical requirement of a solar power plant without which the solar
+energy generated by such plant cannot be put to consumer use and since in the present case as
+per the contract between the applicant and the client Focal Energy Solar India One (P) Ltd. and
+Globus Steel and Power Pvt. Ltd. construction of sub-station, its connection of solar plant and
+successful transmission of power from plant to sub-station is an essential condition of contract.
+Thus in the instant case, supply of sub-station equipment being a part of contract for
+construction/installation of solar power generation plant, such equipments are also covered by
+exemption under item No. 10 of Entry No. 71 of Schedule I of the MPVAT Act, 2002.
 Para 8 The petitioner has stated that solar power generating system is incomplete without a sub-
-station or a grid and entire object of grant of exemption stands defeated on account of the order 
-passed by the learned Commissioner. 
-Para 14, 15, 16. According to Oxford Dictionary, system means a set of things work together 
-as parts of a mechanism or a interconnecting work. The power system as per the Advance Law 
-Laxicon by P. Ramanatha Aiyar, General Editor Hon’ble Shri Justice Y.V. Chandrachud reads 
-as under : 
-““Power system” means all aspects of generation, transmission, distribution and supply of 
-electricity and includes one or more of the following namely :- 
-(a) 
-generating stations; 
-(b) 
-Transmission or main transmission lines; 
-(c) 
-sub-stations; 
-(d) 
-tie-lines 
-(e) 
-load despatch activities; 
-(f) 
-mains or distribution mains; 
-(g) 
-electric supply-lines; 
-(h) 
-overhead lines; 
-(i) 
-service lines; 
-(j) 
-works. [Indian Electricity Act (36 of 2003) S. 2 (50)]” 
-In light of the aforesaid, it can safely be gathered that the solar power generating system 
-includes all devices or equipments, which are connected or combined together to complete the 
-solar power generating system. If one ingredient is missing, the solar power generating system 
-will not function. 
-15. The dictionary meaning of the word ‘system’ also finds place at page 4589 of Advance Law 
-Lexicon by P. Ramanatha Aiyar, General Editor Hon’ble Shri Justice Y.V. Chandrachud reads 
-as under :- 
-“System. “The word ‘system’ is defined by the Encyclopaedic Dictionary as a plan or scheme 
-according to which things are connected or combined into a whole; an assemblage of facts or of 
-principles and conclusions, scientifically arranged or disposed according to certain relations, so 
-as to form a complete whole, as a system of philosophy, a system of government”, etc. 
-For the purposes of sub-heading 8471 49, the term “SYSTEM” means automatic data processing 
-machines whose units satisfy the conditions laid down in Note 5(B) to Chapter 84 and which 
-comprise at least a central processing unit, one input unit (for example, a keyboard or a 
-scanner), and one output unit (for example, a visual display unit or a printer).[Customs Tariff 
-Act (51 of 1975), I Sch, Import Tariffs S. XVI, Chap. 84, Note 8, Sub-heading]” 
-Keeping in view the aforesaid, it can safely be concluded that solar power generating system 
-would necessarily include a sub-station for evacuation and upliftment of power generated by 
-solar power plants. 
+station or a grid and entire object of grant of exemption stands defeated on account of the order
+passed by the learned Commissioner.
+Para 14, 15, 16. According to Oxford Dictionary, system means a set of things work together
+as parts of a mechanism or a interconnecting work. The power system as per the Advance Law
+Laxicon by P. Ramanatha Aiyar, General Editor Hon'ble Shri Justice Y.V. Chandrachud reads
+electricity and meansell apes the elevatin armission, distribution and supply of
+(a)
+generating stations;
+(b)
+Transmission or main transmission lines;
+(c)
+sub-stations;
+tie-lines
+(d)
+(e)
+(f)
+(8)
+(h)
+(i)
+(j)
+load despatch activities;
+mains or distribution mains;
+electric supply-lines;
+overhead lines;
+service lines;
+works. [Indian Electricity Act (36 of 2003) S. 2 (50)] "
+In light of the aforesaid, it can safely be gathered that the solar power generating system
+includes all devices or equipments, which are connected or combined together to complete the
+solar pover enerating sysiem. If one ingredient is missing, the solar power enerating system
+or the purposes of sub-heading 8471 49. the term "SYSTEM" means automatic data processins
+nachines whose units satisfy the conditions laid down in Note 5(B) to Chapter 84 and whicl
+comprise at least a central processing unit, one input unit (for example, a keyboard or a
+scanner), and one output unit (for example, a visual display unit or a printer)./ Customs Tariff
+Act (51 of 1975), I Sch, Import Tariffs S. XVI, Chap. 84, Note 8, Sub-heading]"
+Keeping in ser the efore aid i can sa fly be concluded chap isolaent of proser gating let bry
+solar power plants.
+Page 17 of 25
 
+16.
+The Hon'ble Supreme Court in the case of CCE v. Hewlett Packard India Sales Pvt. Ltd.
+reported in (2007) 11 STJ 625 = 2007 (215) E.L.T. 484 (S.C.) has explained the meaning of
+word 'System' with reference to operating system of the computer and it has been held that the
+pre-loaded operating system recorded in the hard drive of the computer is an integral part of the
+computer, without which, the computer cannot open and work and has been classified as
+operating system under entry relating to computer itself.
+Para 18 ... this Court is of the opinion that power generating system includes all components
+even the grid/goods related to sub-station, without which, the system cannot work.
+38.1 This case law drives home the point that solar power generating system includes
+solar power generator and other devices of transmission, and distribution. Thus solar
+power generator and solar power generating system are not one and the same. The said
+Notification 1/2017-CT(R) used wording solar power generating system ( vide sr no 234
+of Schedule I, omitted w.e.f. 1-10-21) and used the wording solar power generator w.e.f.
+1-10-21( vide sr no 201A in Schedule II).
+38.2 We hold that the wordings of the Notification should be strictly interpreted.
+These Wording when clear, plain and unambiguous and only one meaning can be
+inferred, we are bound to give effect to the said meaning. We give due regard to the
+clear meaning of words and matter should be governed wholly by the language of
+the notification. We cannot allow any scope for intendment. We find that our view
+of strict interpretation of the wordings of the notification is in consonance and
+compliance to the Supreme Court Judgements, to name a few as follows:
+• 2015 (324) E.L.T. 656 (S.C.) [ para 31]
+• 2011 (265) E.L.T. 14 (S.C.) [ para 10]
+• 1989 (40) E.L.T. 239 (S.C.) [ para 11].
+• 1978(2) ELT(J350)(SC)
+• CCE1995(77) ELT474(SC)
+• AIR2000SC66
+• 319 ELT556(SC)
+38.3 Thus, we hold that WOEG is a generator and different from Wind Power project/
+Wind Turbine system. If the wording used in said Notification was wind power system/
+wind power project/ wind turbine system, the scope of inclusion of Transformer in the
+said project/ system arises. However, the wording is WOEG and we find no scope to
+include Transformer as a part of WOEG. In simple words, Transformer itself is a device
+to link the electricity generated by the WOEG to the distribution grid and thereby
+Transformer makes the electrical energy usable for distribution/ consumption. However,
+We do not find that Transformer is a constituent of WOEG. We note Suzlon's submission
+that said Transformers have dual step up and step down function. Dual function of the
+transformer does not equate itself to be treated as a part and parcel of WOEG. WOEG,
+which is the generator functions complete with itself and the use of transformer is to link
+the WOEG's electricity generated to the distribution grid.
+Page 18 of 25
 
-Page 18 of 25 
- 
-16. The Hon’ble Supreme Court in the case of CCE v. Hewlett Packard India Sales Pvt. Ltd. 
-reported in (2007) 11 STJ 625 = 2007 (215) E.L.T. 484 (S.C.) has explained the meaning of 
-word ‘System’ with reference to operating system of the computer and it has been held that the 
-pre-loaded operating system recorded in the hard drive of the computer is an integral part of the 
-computer, without which, the computer cannot open and work and has been classified as 
-operating system under entry relating to computer itself. 
-Para 18 … this Court is of the opinion that power generating system includes all components 
-even the grid/goods related to sub-station, without which, the system cannot work.’ 
-38.1 This case law drives home the point that solar power generating system includes 
-solar power generator and other devices of transmission, and distribution. Thus solar 
-power generator and solar power generating system are not one and the same. The said 
-Notification 1/2017-CT( R) used wording solar power generating system ( vide sr no 234 
-of Schedule I, omitted w.e.f. 1-10-21) and used the wording solar power generator w.e.f. 
-1-10-21( vide sr no 201A in Schedule II).  
-38.2 We hold that the wordings of the Notification should be strictly interpreted.  
-These Wording when clear, plain and unambiguous and only one meaning can be 
-inferred, we are bound to give effect to the said meaning. We give due regard to the 
-clear meaning of words and matter should be governed wholly by the language of 
-the notification. We cannot allow any scope for intendment. We find that our view 
-of strict interpretation of the wordings of the notification is in consonance and 
-compliance to the Supreme Court Judgements, to name a few as follows:  
- 
-2015 (324) E.L.T. 656 (S.C.) [ para 31] 
- 
-2011 (265) E.L.T. 14 (S.C.) [ para 10] 
- 
-1989 (40) E.L.T. 239 (S.C.) [ para 11]. 
- 
-1978(2) ELT(J350)(SC) 
- 
-CCE1995(77) ELT474(SC) 
- 
-AIR2000SC66 
- 
-319 ELT556(SC) 
-38.3 Thus, we hold that WOEG is a generator and different from Wind Power project/ 
-Wind Turbine system. If the wording used in said Notification was wind power system/ 
-wind power project/ wind turbine system, the scope of inclusion of Transformer in the 
-said project/ system arises. However, the wording is WOEG and we find no scope to 
-include Transformer as a part of WOEG. In simple words, Transformer itself is a device 
-to link the electricity generated by the WOEG to the distribution grid and thereby 
-Transformer makes the electrical energy usable for distribution/ consumption. However, 
-We do not find that Transformer is a constituent of WOEG. We note Suzlon’s submission 
-that said Transformers have dual step up and step down function. Dual function of the 
-transformer does not equate itself to be treated as a part and parcel of WOEG. WOEG, 
-which is the generator functions complete with itself and the use of transformer is to link 
-the WOEG’s electricity generated to the distribution grid. 
+38.4 The notification's relevant serial number 201(A)(d) reads wind mill and WOEG.
+Wind mill, in simple terms, is a wind powered machine to convert wind energy into
+mechanical energy to pump water/ grind purposes etc. Now if a step down transformer
+additionally is attached to a wind mill for it to function, that does not make transformer a
+part of wind mill, unless the transformer is requisite for the wind mill to function and
+operate. This issue is further detailed in forthcoming paras 39 to 42. In the same way,
+WOEG is a device in itself, with its identity in the market, being capable of marketed on
+its own strength. WOEG is generator for generation of electricity from the kinetic energy
+of wind. We, repeat ourselves, to bring the matter to clarity that the wording in
+Notification is WOEG and not wind turbine system/ wind power system/ wind turbine
+project.
+38.5 Further, we find our views are in line with Ministry of New and Renewable
+Energy clarification, reported in Government Circular No1008/15/2015-CX dated
+20-10-2015 wherein we note that Transformer is not mentioned as a part of WOEG.
+Relevant para 3 of the said Government Circular reads as follows:
+3. Ministry of New and Renewable Energy had earlier clarified to CBEC on the subject that the
+following are parts of Wind Operated Electricity Generators.
+(i) Tower: which supports the nacelle and rotor assembly of a wind operated electricity
+generator.
+(ii) Nacelle : which consists of gear-box, generator, yaw components, flexible couplings, brake
+hydraulics, brake calipers,
+sensors, nacelle plate, nacelle cover and other smaller
+(iii) Rotor: consists of blades, hub, nosecone, main shaft, special bearings.
+(iv) Wind turbine controller, nacelle controller and control cables.
+38.6 Our views in GST era are in line with para B-16 of CBEC Instruction dated 7-12-
+2015 issued vide FNo. 96/85/2015-CX.1 which are the Minutes of Central Excise Tariff
+Conference for clarifications on technical issues of classification and assessment, which
+reads as follows:
+"B-16:
+Issue:
+There exists ambiguity regarding exemption to parts of wind-mill in light of Tribunal's
+order in the case of M/s. Gemini Instratech Pvt. Ltd. V/s. Commissioner of C. Ex.,
+Nashik[2014(300) ELT 446 (Tri-Mumbai)]. On the other hand, Hon'ble Supreme court in
+case of M/s. Corporation Ltd. V/s. Commissioner of C.Ex., Calcutta [2006 (203) ELT 362
+(S.C.)] had held that insulated wires and cables are not parts of wind mill which is
+complete in itself without electric cables, although wind mill may not be able to function
+without these cables, hence the benefit of exemption is not available to Cables and wires.
+Further, in case of M/s. Enercon (India) Ltd., Authority of Advance Ruling had ruled that
+Page 19 of 25
 
+entry "Wind Operated Electricity Generator" covers the generator per-se and it is not
+intended to include equipments which are deployed with the generator for production of
+electricity. The sponsoring zone was of the view that the towers and others parts, which
+are not directly related to generation of electricity would not be eligible for exemption. In
+view of the sponsoring zone, it would be desirable that the list of
+equipments/parts/components eligible for exemption may be spelt out in the Exemption
+Notification.
+Discussion & Decision
+It was noted in the conference that a clarification has already been issued on 20.10.2015
+vide Circular No. 1008/18/2015-CX by the Board wherein details of parts on which
+exemption is available is specified. Ministry of New and Renewable Energy had clarified
+to CBEC that tower, nacelle, rotor, turbine controller are parts of wind turbine and
+accordingly the circular has been issued clarifying that exemption is available to these
+parts. For details, the above noted circular may be referred."
+38.7 Suzlon, in para 7.3, submits that IEC 60076 part 16:2018 is a dedicated
+international standard defining the technical requirements for
+step up voltage
+Transformer for use in wind turbine application where the transformer is used to connect
+the wind turbine generator to the wind farm power collection system or adjacent
+distribution network and not the transformer used to connect several wind turbines to a
+distribution or transmission network. What is forthcoming is that Transformers
+connect/link the WOEG to distribution network. Nothing on record substantiates that
+Transformers are inalienable part of WOEG. Transformer could have been considered a
+part of WOEG if WOEG cannot function without it. But the fact is WOEG is able to
+generate electricity with the kinetic energy of the wind by itself. The very acronym
+WOEG stands for Wind operated electricity generator. Whereas, transformers for WOEG
+is installed on the ground adjoining to WOEG to make the electrical energy generated by
+WOEG usable for consumption or distribution purpose. We note that the transformers are
+neither placed in nacelle nor tower but on the ground beside the WOEG. Suzlon's
+submission in this regard that transformers are placed in nacelle/ tower at para 6 is not
+correct.
+38.8 WOEG and transformer inclusive devices to form a wind power system/ wind
+generating system/ project. But WOEG per se is capable of generating electricity with
+wind. Now if a specially designed transformer with step down function is designed to
+rotate the blades/fan in WOEG that does not make it a part of WOEG, but makes the
+transformer per se a dual function transformer with step up and step down function. For if
+we go by Suzlon's submission that WOEG needs transformer as its part for its operation
+to generate electricity, we may as well rename the 'wind operated generator' to
+Page 20 of 25
 
-Page 19 of 25 
- 
-38.4 The notification’s relevant serial number 201(A)(d) reads wind mill and WOEG. 
-Wind mill, in simple terms, is a wind powered machine to convert wind energy into 
-mechanical energy to pump water/ grind purposes etc. Now if a step down transformer 
-additionally is attached to a wind mill for it to function, that does not make transformer a 
-part of wind mill, unless the transformer is requisite for the wind mill to function and 
-operate. This issue is further detailed in forthcoming paras 39 to 42. In the same way, 
-WOEG is a device in itself, with its identity in the market, being capable of marketed on 
-its own strength. WOEG is generator for generation of electricity from the kinetic energy 
-of wind. We, repeat ourselves, to bring the matter to clarity that the wording in 
-Notification is WOEG and not wind turbine system/ wind power system/ wind turbine 
-project.  
-38.5 Further, we find our views are in line with Ministry of New and Renewable 
-Energy clarification, reported in Government Circular No1008/15/2015-CX  dated 
-20-10-2015 wherein we note that Transformer is not mentioned as  a part of WOEG. 
-Relevant para 3 of the said Government Circular reads as follows: 
-3. Ministry of New and Renewable Energy had earlier clarified to CBEC on the subject that the 
-following are parts of Wind Operated Electricity Generators. 
-(i) 
-Tower : which supports the nacelle and rotor assembly of a wind operated electricity 
-generator. 
-(ii) 
-Nacelle : which consists of gear-box, generator, yaw components, flexible couplings, brake 
-hydraulics, brake calipers, sensors, nacelle plate, nacelle cover and other smaller 
-components. 
-(iii) 
-Rotor : consists of blades, hub, nosecone, main shaft, special bearings. 
-(iv) 
-Wind turbine controller, nacelle controller and control cables. 
-38.6 Our views in GST era are in line with  para B-16 of CBEC Instruction dated 7-12-
-2015 issued vide FNo. 96/85/2015-CX.1 which are the Minutes of Central Excise Tariff 
-Conference for clarifications on technical issues of classification and assessment, which 
-reads as follows: 
-“B-16:  
-Issue:  
-There exists ambiguity regarding exemption to parts of wind-mill in light of Tribunal’s 
-order in the case of M/s. Gemini Instratech Pvt. Ltd. V/s. Commissioner of C. Ex., 
-Nashik[2014(300) ELT 446 (Tri-Mumbai)]. On the other hand, Hon'ble Supreme court in 
-case of M/s. Corporation Ltd. V/s. Commissioner of C.Ex., Calcutta [2006 (203) ELT 362 
-(S.C.)] had held that insulated wires and cables are not parts of wind mill which is 
-complete in itself without electric cables, although wind mill may not be able to function 
-without these cables, hence the benefit of exemption is not available to Cables and wires. 
-Further, in case of M/s. Enercon (India) Ltd., Authority of Advance Ruling had ruled that 
+"transformer operated generator'. A Dual function transformer does not alter the status of
+WOEG per se. We note the word used in the said Notification is WOEG, which is
+generator per se. WOEG generates electricity per se and to include the aspects of
+transmission, distribution and supply of electricity for which Transformer is requisite is
+to add extra words 'WOEG system' to a clearly worded Notification with the words
+'WOEG' and not 'WOEG system'
+B. GST Rate on Transformers.
+39. On reading of the agreement entered between i.e. M/s. Suzlon Energy Ltd., Daman and
+M/s. Shree Malaianman Energy India Pvt. Ltd. we note that the supplier of goods WTG is M/s.
+Suzlon Energy Ltd, Daman. We required the applicant to clarify the following:
+(i) As per the referred agreement the supplier is M/s. Suzlon Energy Ltd., Daman and not
+the applicant (GSTIN 24AADCS0472N1Z8). Please clarify who is the supplier of goods?
+(ii) If WOEG is not supplied by you ie. applicant then what is supplied by you. Please
+specify.
+2. Refer to your application para 1.1 of Annexure wherein it is submitted that the goods is
+supplied by you or your subsidiaries companies. Also refer para 5.2 of Agreement with
+M/s. Shree Malaiamman Energy India Pvt. Ltd. Please specify what goods is supplied by
+you i.e. Applicant.
+3. Is there any subcontract by Daman Unit to you? Copy of the contract to be submitted.
+4. Copies of few Invoices of any undergoing contracts, including of said referred contract,
+issued by you to be submitted to verify the nature of supply.
+39.1 Suzlon vide email dated 24-3-22 submitted as follows:
+" We have filed an application and the additional written submissions in
+connection to the application filed seeking ruling in the matter of classification of
+Specially Designed Dual Function Transformers supplied by us to be used with
+Wind Operated Electricity Generators only before the Honourable Authority for
+Advance Ruling, Gujarat. In connection thereto, we have received the impugned
+Letter requiring few clarifications from our end which are provided as under to the
+best of our understanding and our belief:
+1. With reference to the clarification sought for in connection to an agreement
+entered into between M/s. Suzlon Energy Limited Daman and M/s. Shree
+Malaiamman Energy India Pvt Ltd.
+as to who is the actual supplier of the goods,
+Page 21 of 25
 
+it is most humbly and respectfully clarified that we based on the provisions of
+Section 22(1) of CGST Act, 2017 read with the provisions of 25(1) and 25(2) of
+CGST Act, 2017 respectively requiring a Person to take registration in every State
+or Union Territory from where the Taxable supplies of Goods and / or Services are
+made, on our PAN : AADCS0472N are currently registered in the States / Union
+Territory of Karnataka, Maharashtra, Tamil Nadu, Telangana, Madhya Pradesh,
+Delhi, Puducherry, Andhra Pradesh, West Bengal, Dadra and Nagar Haveli and
+Daman
+and Diu
+along
+with the
+State of Gujarat having GSTIN:
+24AADCS0472N1Z8 from where the impugned Application seeking Advance
+Ruling has been made by us.
+2. Nacelle including Hub, Controller and Accessories are manufactured in Dadra
+and Nagar Haveli and Daman and Diu, Pondy (Puducherry) and Padubidri located
+in the State of Karnataka. The Rotor Blades are manufactured at Dadra and Nagar
+Haveli and Daman and Diu, Pondy (Puducherry), Padubidri located in the State of
+Karnataka, Rajasthan,
+Gujarat, Madhya Pradesh, Maharashtra and Andhra
+Pradesh. Hybrid Tower are manufactured in the state of Gujarat, Maharashtra and
+Tamil Nadu and the Specially Designed Dual Function Transformers for which the
+impugned Ruling has been sought for are being manufactured in Gujarat. Thus, in
+the Agreement with M/s. Malaiamman Energy India Pvt Ltd referred to in the
+impugned Application seeking Advance Ruling, Transformers are going to be
+supplied
+by us
+only
+i.e the Applicant registered
+with GSTIN:
+24AADCS0472N1Z8 directly to the customer as evident from Para No. 5.3 of the
+said Purchase Order / Agreement and other components and parts of Wind
+Operated Electricity Generator which shall be assembled at the site namely
+Nacelle, Blades and Tower shall be supplied based on the availability and location
+of the Recipient of Supply from Dadra and Nagar Haveli and Daman and Diu as
+well as from Gujarat under Bill-to-Ship-to Model.
+3. With reference to Para 1.1 of the Annexure and Para No. 5.3 (inadvertently
+seems to have mentioned as Para No. 5.2) of the Agreement, it is to be stated that
+Page 22 of 25
 
-Page 20 of 25 
- 
-entry "Wind Operated Electricity Generator" covers the generator per-se and it is not 
-intended to include equipments which are deployed with the generator for production of 
-electricity. The sponsoring zone was of the view that the towers and others parts, which 
-are not directly related to generation of electricity would not be eligible for exemption. In 
-view 
-of 
-the 
-sponsoring 
-zone, 
-it 
-would 
-be 
-desirable 
-that 
-the 
-list 
-of 
-equipments/parts/components eligible for exemption may be spelt out in the Exemption 
-Notification. 
-Discussion & Decision  
-It was noted in the conference that a clarification has already been issued on 20.10.2015 
-vide Circular No. 1008/18/2015-CX by the Board wherein details of parts on which 
-exemption is available is specified. Ministry of New and Renewable Energy had clarified 
-to CBEC that tower, nacelle, rotor , turbine controller are parts of wind turbine and 
-accordingly the circular has been issued clarifying that exemption is available to these 
-parts. For details, the above noted circular may be referred.” 
-38.7 Suzlon, in  para 7.3, submits that IEC 60076 part 16:2018 is a dedicated 
-international standard defining the technical requirements for step up voltage 
-Transformer for use in wind turbine application where the transformer is used to connect 
-the wind turbine generator to the wind farm power collection system or adjacent 
-distribution network and not the transformer used to connect several wind turbines to a 
-distribution or transmission network. What is forthcoming is that Transformers 
-connect/link the WOEG to distribution network. Nothing on record substantiates that 
-Transformers are inalienable part of WOEG. Transformer could have been considered a 
-part of WOEG if WOEG cannot function without it. But the fact is WOEG is able to 
-generate electricity with the kinetic energy of the wind by itself. The very acronym 
-WOEG stands for Wind operated electricity generator. Whereas, transformers for WOEG 
-is installed on the ground adjoining to WOEG to make the electrical energy generated by 
-WOEG usable for consumption or distribution purpose. We note that the transformers are 
-neither placed in nacelle nor tower but on the ground beside the WOEG. Suzlon’s 
-submission in this regard that transformers are placed in nacelle/ tower at para 6 is not 
-correct.  
- 
-38.8 WOEG and transformer inclusive devices to  form a wind power system/ wind 
-generating system/ project. But WOEG per se is capable of generating electricity with 
-wind. Now if a specially designed transformer with step down function is designed to 
-rotate the blades/fan in WOEG that does not make it a part of WOEG, but makes the 
-transformer per se a dual function transformer with step up and step down function. For if 
-we go by Suzlon’s submission that WOEG needs transformer as its part for its operation 
-to generate electricity, we may as well rename the ‘wind operated generator’ to 
+Blades and Towers might be supplied by us i.e your Applicant registered with
+GSTIN: 24AADCS0472N1Z8
+under Bill-to-Ship-to
+Model along with the
+specially designed Dual Function Transformers from Gujarat directly to the said
+Recipient of Supply for which the impugned Application has been preferred
+seeking Advance Ruling
+on the GST Rate applicability on the said specially
+designed Transformers meant to function only with Wind Operated Electricity
+Generators and the remaining parts / components including nacelle and Blades
+along with Tower (if not supplied from Gujarat under Bill-to-shipped to Model)
+might be supplied from Dadra and Nagar Haveli and Daman and Diu.
+4. There is no written sub-contract from Daman Unit to Gujarat Unit i.e the Unit
+which has preferred Advance Ruling.
+5. The invoicing has not been done for the Purchase Agreement referred to by
+your good self and hence the copy of one another Purchase Agreement already
+executed with the same recipient of supply along with the copies of the invoices
+are enclosed herewith for the kind consideration of your good self.
+6. Hope the above would be sufficient to clarify the clarifications required by your
+good self and we shall be pleased to provide any other clarification that may be
+required from our end to decide the question raised before the Honourable
+Authority for Advance Ruling, Gujarat State.
+7. Based on the above, Your Honour would most graciously be pleased to
+pronounce the Advance Ruling to classify the supply of Specially Designed
+Transformers as components / parts / devices under Sr. No. 234 to Schedule I to
+Notification No. 01/2017-CT (Rate) dated 28'h June, 2017 read with Notification
+No. 01/2017 dated 30t June, 2017 issued under Gujarat GST Act, 2017 and that
+the benefit of concessional rate of 5% GST up to 30th September, 2021 is
+applicable on the specially designed Transformers and 6% each towards CGST
+and SGST with effect from 01s October, 2021 by virtue of omission of the said
+entry and addition of Entry No. 201A to Notification No. 01/2017-Central Tax
+(Rate) dated 28"h June, 2017 vide Notification No. 08/2021-Central Tax (Rate)
+Page 23 of 25
 
+dated 30* September, 2021 read with Notification No. 08/2021-State Tax(Rate)
+dated 30t September, 2021 applicable from 01" October, 2021."
+40. We find that Suzlon, Vadodara ( the applicant) is supplying Transformers directly
+to recipients, on Principal to Principal basis and the invoices produced before us are not
+bill to ship with reference to Transformers supplied. Also that there is no tripartite
+agreement between Suzlon Daman, Suzlon Vadodara (applicant) and Malaiamman
+(recipient). Also that Suzlon Daman has no contract/ sub contract entered with the
+applicant for supply of transformers to Malaiamman. Further, the phrase 'Bill to Ship to'
+is misleading and incorrect with respect to Transformers, as the 'bill to' by 'Suzlon the
+applicant' was not to Suzlon Daman but to Mailaiamman at Erode and 'Ship to' was
+directly by 'Suzlon the applicant' to Malaiamman at Tuticorin. This view is supported by
+the Invoices which the applicant raises on Malaiamman wherein the details are as follows
+(a) the supplier of Transformer who is the applicant before us and (b) 'bill to' is to
+Malaiamman at Erode and Consignee is Malaiamman at Tuticorin. Suzlon Daman finds
+no mention in the Invoices of the applicant before us.
+41. We find our views that's Transformers are not part of WOEG in consonance with the
+following:
+i.
+CBEC Circular No1008/15/2015-CX dated 20-10-2015
+ii.
+CBEC Instruction dated 7-12-2015 issued vide FNo. 96/85/2015-CX.1
+41.1 We find our views in compliance to judicial discipline laid down vide H'ble High
+Court of Madhya Pradesh in the case of M/s. Belectric Photovoltaic India Pvt. Ltd.[
+2019(21) GSTL 319( MP)I
+42. We note Suzlon cited certain case laws. We find that-
+i.
+Rakhoh enterprises case law pertains to anchor rings and load spreading plates
+and pertained to whether these part parts of towers of WOEG;
+ii.
+Elecon Engineering case law pertains to import and is a customs matter and
+pertains to eligibility of exemption of CVD on import thereof;
+iii.
+SKF Technologies case law pertains to use of bearing in WOEG's rotor shaft,
+gear box etc.;
+iv.
+Enercon India case law pertains to assessment under Karnataka Sales Tax Act
+wherein matter was remanded back to assessing authority to redo the
+assessment- order also pertained to turnovers of electrical works and
+transformers. We further note that two income tax case laws of VTM Itd and
+Hutti gold mines were cited.
+V.
+We find that these case laws are not addressing the issue at hand in light of
+GST scheme of law. The case laws cited by Suzlon pertains to either
+Page 24 of 25
 
-Page 21 of 25 
- 
-‘transformer operated generator’. A Dual function transformer does not alter the status of 
-WOEG per se. We note the word used in the said Notification is WOEG, which is 
-generator per se. WOEG generates electricity per se and to include the aspects of 
-transmission, distribution and supply of electricity for which Transformer is requisite is 
-to add extra words ‘WOEG system’ to a clearly worded Notification with the words  
-‘WOEG’ and not ‘WOEG system’ 
- 
-B. GST Rate on Transformers. 
-39.   On reading of the agreement entered between i.e. M/s. Suzlon Energy Ltd., Daman and  
-M/s. Shree Malaianman Energy India Pvt. Ltd. we note that the supplier of goods WTG is M/s. 
-Suzlon Energy Ltd, Daman. We required the applicant to clarify the following: 
- 
-(i) As per the referred agreement the supplier is M/s. Suzlon Energy Ltd., Daman and not 
-the applicant (GSTIN 24AADCS0472N1Z8). Please clarify who is the supplier of goods? 
-(ii) If WOEG is not supplied by you i.e. applicant then what is supplied by you. Please 
-specify. 
-2.  Refer to your application para 1.1 of Annexure wherein it is submitted that the goods is 
-supplied by you or your subsidiaries companies. Also refer para 5.2 of Agreement with 
-M/s. Shree Malaiamman Energy India Pvt. Ltd.  Please specify what goods is supplied by 
-you i.e. Applicant.  
-3. Is there any subcontract by Daman Unit to you? Copy of the contract to be submitted. 
-4.  Copies of few Invoices of any undergoing contracts, including of said referred contract, 
-issued by you to be submitted to verify the nature of supply. 
- 
-39.1 Suzlon vide email dated 24-3-22 submitted as follows: 
- 
-“ We have filed an application and the additional written submissions in 
-connection to the application filed seeking ruling in the matter of classification of 
-Specially Designed Dual Function Transformers supplied by us to be used with 
-Wind Operated Electricity Generators only before the Honourable Authority for 
-Advance Ruling, Gujarat. In connection thereto, we have received the impugned 
-Letter requiring few clarifications from our end which are provided as under to the 
-best of our understanding and our belief: 
-    1. With reference to the clarification sought for in connection to an agreement 
-entered into between M/s. Suzlon Energy Limited Daman and M/s. Shree 
-Malaiamman Energy India Pvt Ltd.  as to who is the actual supplier of the goods, 
-
-
-Page 22 of 25 
- 
-it is most humbly and respectfully clarified that we based on the provisions of 
-Section 22(1) of CGST Act, 2017 read with the provisions of  25(1) and 25(2) of 
-CGST Act, 2017 respectively requiring a Person to take registration in every State 
-or Union Territory from where the Taxable supplies of Goods and / or Services are 
-made, on our PAN : AADCS0472N are currently registered in the States / Union 
-Territory of Karnataka, Maharashtra, Tamil Nadu, Telangana, Madhya Pradesh, 
-Delhi, Puducherry, Andhra Pradesh, West Bengal, Dadra and Nagar Haveli and 
-Daman and Diu along with 
-the State of Gujarat having GSTIN: 
-24AADCS0472N1Z8 from where the impugned Application seeking Advance 
-Ruling has been made by us.  
-2. Nacelle including Hub, Controller and Accessories are manufactured in Dadra 
-and Nagar Haveli and Daman and Diu, Pondy (Puducherry) and Padubidri located 
-in the State of Karnataka. The Rotor Blades are manufactured at Dadra and Nagar 
-Haveli and Daman and Diu, Pondy (Puducherry), Padubidri located in the State of 
-Karnataka, Rajasthan, Gujarat, Madhya Pradesh, Maharashtra and Andhra 
-Pradesh. Hybrid Tower are manufactured in the state of Gujarat, Maharashtra and 
-Tamil Nadu and the Specially Designed Dual Function Transformers for which the 
-impugned Ruling has been sought for are being manufactured in Gujarat. Thus, in 
-the Agreement with M/s. Malaiamman Energy India Pvt Ltd referred to in the 
-impugned Application seeking Advance Ruling, Transformers are going to be 
-supplied 
-by 
-us 
-only 
-i.e 
-the 
-Applicant 
-registered 
-with 
-GSTIN: 
-24AADCS0472N1Z8 directly to the customer as evident from Para No. 5.3 of the 
-said Purchase Order / Agreement and other components and parts of Wind 
-Operated Electricity Generator which shall be assembled at the site namely 
-Nacelle, Blades and Tower shall be supplied based on the availability and location 
-of the Recipient of Supply from Dadra and Nagar Haveli and Daman and Diu as 
-well as from Gujarat under Bill-to-Ship-to Model.  
-     3. With reference to Para 1.1 of the Annexure and Para No. 5.3 (inadvertently 
-seems to have mentioned as Para No. 5.2) of the Agreement, it is to be stated that 
-
-
-Page 23 of 25 
- 
-Blades and Towers might be supplied by us i.e your Applicant registered with 
-GSTIN: 24AADCS0472N1Z8 under Bill-to-Ship-to Model along with the 
-specially designed Dual Function Transformers from Gujarat directly to the said 
-Recipient of Supply for which the impugned Application has been preferred 
-seeking Advance Ruling on the GST Rate applicability on the said specially 
-designed Transformers meant to function only with Wind Operated Electricity 
-Generators and the remaining parts / components including nacelle and Blades 
-along with Tower (if not supplied from Gujarat under Bill-to-shipped to Model) 
-might be supplied from Dadra and Nagar Haveli and Daman and Diu.  
-4. There is no written sub-contract from Daman Unit to Gujarat Unit i.e the Unit 
-which has preferred Advance Ruling. 
-5. The invoicing has not been done for the Purchase Agreement referred to by 
-your good self and hence the copy of one another Purchase Agreement already 
-executed with the same recipient of supply along with the copies of the invoices 
-are enclosed herewith for the kind consideration of your good self.  
-6. Hope the above would be sufficient to clarify the clarifications required by your 
-good self and we shall be pleased to provide any other clarification that may be 
-required from our end to decide the question raised before the Honourable 
-Authority for Advance Ruling, Gujarat State. 
-     7. Based on the above, Your Honour would most graciously be pleased to 
-pronounce the Advance Ruling to classify the supply of Specially Designed 
-Transformers as components / parts / devices under Sr. No. 234 to Schedule I to 
-Notification No. 01/2017-CT (Rate) dated 28th June, 2017 read with Notification 
-No. 01/2017 dated 30th June, 2017 issued under Gujarat GST Act, 2017 and that 
-the benefit of concessional rate of 5% GST up to 30th September, 2021 is 
-applicable on the specially designed Transformers and 6% each towards CGST 
-and SGST with effect from 01st October, 2021 by virtue of omission of the said 
-entry and addition of Entry No. 201A to Notification No. 01/2017-Central Tax 
-(Rate) dated 28th June, 2017 vide Notification No. 08/2021-Central Tax (Rate) 
-
-
-Page 24 of 25 
- 
-dated 30th September, 2021 read with Notification No. 08/2021-State Tax(Rate) 
-dated 30th September, 2021 applicable from 01st October, 2021.” 
-40.   We find that Suzlon, Vadodara ( the applicant) is supplying Transformers directly 
-to recipients, on Principal to Principal basis and the invoices produced before us are not 
-bill to ship with reference to Transformers supplied. Also that there is no tripartite 
-agreement between Suzlon Daman, Suzlon Vadodara (applicant) and Malaiamman 
-(recipient). Also that Suzlon Daman has no contract/ sub contract entered with the 
-applicant for supply of transformers to Malaiamman. Further, the phrase ‘Bill to Ship to’ 
-is misleading and incorrect with respect to Transformers, as the ‘bill to’ by ‘Suzlon the 
-applicant’ was not to Suzlon Daman but to Mailaiamman at Erode and ‘Ship to’ was 
-directly by ‘Suzlon the applicant’ to Malaiamman at Tuticorin. This view is supported by 
-the Invoices which the applicant raises on Malaiamman wherein the details are as follows 
-(a) the supplier of Transformer who is the applicant before us  and (b) ‘bill to’ is to 
-Malaiamman at Erode and Consignee is Malaiamman at Tuticorin. Suzlon Daman finds 
-no mention in the Invoices of the applicant before us. 
-41. We find our views that’s Transformers are not part of WOEG in consonance with the 
-following: 
-i. 
-CBEC Circular No1008/15/2015-CX  dated 20-10-2015 
-ii. 
-CBEC Instruction dated 7-12-2015 issued vide FNo. 96/85/2015-CX.1 
- 
-41.1 We find our views in compliance to judicial discipline laid down vide H’ble High 
-Court of Madhya Pradesh in the case of M/s. Belectric Photovoltaic India Pvt. Ltd.[ 
-2019(21) GSTL 319( MP)] 
-42. 
-We note Suzlon cited certain case laws. We find that- 
-i. 
- Rakhoh enterprises case law pertains to anchor rings and load spreading plates 
-and pertained to whether these part parts of towers of WOEG;  
-ii. 
-Elecon Engineering case law pertains to import and is a customs matter and 
-pertains to eligibility of exemption of CVD on import thereof; 
-iii. 
- SKF Technologies case law pertains to use of bearing in WOEG’s rotor shaft, 
-gear box etc.;  
-iv. 
-Enercon India case law pertains to assessment under Karnataka Sales Tax Act 
-wherein matter was remanded back to assessing authority to redo the 
-assessment- order also pertained to turnovers of electrical works and 
-transformers. We further note that two income tax case laws of VTM ltd and 
-Hutti gold mines were cited.  
-v. 
-We find that these case laws are not addressing the issue at hand in light of 
-GST scheme of law. The case laws cited by Suzlon pertains to either 
-
-
-Page 25 of 25 
- 
-assessment orders under Karnataka sales tax act or to certain part of WOEG 
-such as anchor rings, bearings etc. Also certain case laws cited by Suzlon 
-pertains to either Income Tax Act or Custom import duty exemption issue. The 
-other cited case laws do not address the issue at hand to determine whether 
-taxability of transformers merits entry at sr. no 201A of schedule II of said NT.  
-vi. 
-We note Suzlon cited Government Circular dated 31-12-18 at para 11 
-Pertaining to applicability of GST on supply of waste to energy plants. Our 
-issue at hand is GST rate on Transformers and whether Transformer is part of 
-WOEG to merit entry at sr no 201A (d) to Schedule II of Notification 1/2017. 
- 
-43. 
-In conspectus of aforementioned discussion and findings, we pass the Ruling: 
- 
-RULING 
- 
-1. Transformers are not part of WOEG and are leviable to CGST @ 9% vide 
-Sr. No. 375 of Schedule-III of Notification No. 1/2017-CT (Rate)               
-dated 28-6-2017.  
- 
- 
-   (ATUL MEHTA)                      
- 
- 
-    (ARUN RICHARD)    
-    MEMBER (S)                 
- 
-                         MEMBER (C) 
- 
-Place: Ahmedabad 
+vi.
+assessment orders under Karnataka sales tax act or to certain part of WOEG
+such as anchor rings, bearings etc. Also certain case laws cited by Suzlon
+pertains to either Income Tax Act or Custom import duty exemption issue. The
+other cited case laws do not address the issue at hand to determine whether
+taxability of transformers merits entry at sr. no 201A of schedule II of said NT.
+We note Suzlon cited Government Circular dated 31-12-18 at para 11
+Pertaining to applicability of GST on supply of waste to energy plants. Our
+issue at hand is GST rate on Transformers and whether Transformer is part of
+WOEG to merit entry at sr no 201A (d) to Schedule II of Notification 1/2017.
+43. In conspectus of aforementioned discussion and findings, we pass the Ruling:
+RULING
+1. Transformers are not part of WOEG and are leviable to CGST @ 9% vide
+Sr. No. 375 of Schedule-III of Notification No. 1/2017-CT
+(Rate)
+dated 28-6-2017.
+(ATUL MEHTA)
+MEMBER (S)
+Place: Ahmedabad
 Date: 12.04.2022
+(ARUN RICHARD)
+MEMBER (C)
+Page 25 of 25

@@ -1,0 +1,1035 @@
+TELANGANA STATE AUTHORITY FOR ADVANCE RULING 
+CT Complex, M.J Road, Nampally, Hyderabad-500001. 
+(Constituted under Section 96(1) of TGST Act, 2017) 
+ 
+ 
+ 
+ 
+ 
+  Present:   
+       
+Sri B. Raghu Kiran, IRS, Additional Commissioner (Central Tax) 
+       
+Sri S.V.  Kasi Visweswara Rao, Additional Commissioner (State Tax) 
+ 
+ 
+ 
+A.R.Com/18/2021                                                                              Date:14.07.2022 
+ 
+TSAAR Order No.49/2022 
+ 
+Sub:  Referring application to Appellate Authority for Advance Ruling in terms of 
+Section 98(5) of TGST Act, 2017 for hearing and decision– Reg. 
+********** 
+ 
+M/s. Magnetic Infotech Pvt Ltd, Plot NO.08, Krishna Nagar Colony, Kakaguda Village, Wellington 
+Road, Picket, Secunderabad, Hyderabad, Telangana- 500009 (36AACCM2333F1ZV) has filed an 
+application in FORM GST ARA-01 under Section 97(1) of TGST Act, 2017 read with Rule 104 of 
+CGST/TGST Rules, seeking Advance Ruling on the following as under : 
+ 
+a. 
+Whether GST exemption is applicable to applicant in respect of the pre and post 
+Examination services being provided to the Educational Boards and Universities (including 
+Open Universities)? 
+b. If answer to Q.No.1 is affirmative, whether the exemption is available to the applicant in 
+case of the services are provided on sub-contract basis i.e., the applicant provides pre and 
+post examination services to the main contractor who in turn provides the said services to 
+the Educational Boards and Universities (including Open Universities)? 
+ 
+I. 
+Statement of relevant facts submitted by the applicant having a 
+bearing on the question(s) raised: 
+ 
+1.  M/s. Magnetic Infotech Private Limited (hereinafter referred to as "Applicant") is engaged 
+in providing pre and post examination services to the Educational Boards, Universities and 
+Open Universities (hereinafter referred to as 'Educational Institutions'). 
+ 
+2.  The applicant has entered into agreements with various educational institutions located in 
+different States such as Board of Secondary Education, Telangana, Board of Intermediate 
+Education, Telangana, Board of Secondary Education, Andhra Pradesh, Board of 
+Intermediate Education, Andhra Pradesh, Osmania University, Hyderabad, JNTU, 
+Hyderabad, Dr. BR Ambedkar Open University, Hyderabad, Swamy Ramanand Teerth 
+Marathwada University, Nanded, Maharashtra and Yeshwantrao Chavan Maharashtra Open 
+University, Nasik, Maharashtra. Copies of the agreements entered by the applicant with 
+State Education Boards and Universities (including open universities) are enclosed as 
+Annexure - III. 
+3.  The scope of work in respect of the services being provided to the educational institutions 
+by the applicant can be divided into the following three categories.  
+i.  Data processing for conduct of examination 
+ii.  Results Preparation 
+
+
+ 
+iii.  Generation and printing of statistical data and reports in the prescribed proformas as 
+required by the educational institutions. 
+ 
+4.  The aforesaid three categories of services include processing of examination results which 
+involves collection of examination forms from students and processing, generation of 
+checklist which are sent to the corresponding education institutions for verification and 
+error correction, then the checklist corrections are updated to make it error free data, 
+generation of hall tickets/admit cards, photo attendance sheets which are sent to the 
+examination centers. Processing the nominal roll data, generation of OMR sheets for 
+obtaining marks, conducting of the examinations with nominal roll data and student 
+information. 
+ 
+5.  Post-examination services include getting the marks awarded from the evaluation centers 
+capturing the data and summarizing it, purifying it. Processing the examination results by 
+applying all the rules and generating the result sheet, tabulation of result and declaration 
+of result, then issuing the marks memos to the students. The same procedure is followed 
+for the supplementary exams to be conducted for the failed candidates. 
+ 
+Scope of work for State Education Boards: 
+ 
+6. The scope of services from the contract entered with Director of Government Examinations 
+(DGE), Nampally, Hyderabad, Telangana is mentioned below. 
+ 
+ 
+Scope of work: 
+ 
+The entire project work can be broadly divided into two parts. 
+i. Pre-examination work 
+ii. Post-examination work 
+ 
+Pre-examination and Post examination work is required to be carried out in the premises of 
+DGE, Telangana in the room allocated for the purpose. 
+ 
+The applicant cannot sub-let any part / item of work to other agencies as the work is very 
+sensitive, time bound and most confidential in nature. Relevant clauses enumerating the 
+scope of service to be provided by the applicant are extracted herein below: 
+ 
+Data Processing:  
+ 
+The data processing consists of data entry and other activities. The applicant should 
+arrange sufficient required equipment for scanning of ICR forms & OMR sheets viz. 
+Servers, ICR Scanners, OMR Scanners, PCs along with Printers, Modems, UPS, etc. The 
+secured office area and power will be provided by the DGE, Telangana. The activities under 
+data processing would inter alia include the following. 
+ 
+Data entry and verification of the student details with the validation rules given by DGE 
+ 
+Printing of checklists until data is proved to be accurate and error free and approved 
+by DGE.  
+ 
+Preparation of data for hosting of hall ticket numbers with photo in the website.  
+ 
+Maintenance of updated data in the server.  
+ 
+The applicant should supply CDs/DVDs after completion of processing at every stage 
+as per the directions of the DGE from time to time,  
+ 
+Results Preparation: 
+ 
+Generation of various output reports at different stages as prescribed by DGE.  
+ 
+Preparation of data for hosting of results in the website. 
+ 
+Input from DGE, Telangana and Output from the applicant:  
+The DGE, Telangana shall supply the following documents/information to the applicant 
+
+
+ 
+i. 
+OMR cum ICR forms for scanning  
+ii. 
+Schools list  
+iii. 
+Centre/School Master  
+iv. 
+OMR award sheets for scanning  
+v. 
+Control bundle slips  
+vi. 
+Marks strips for data entry of marks  
+vii. 
+Any other important record required.  
+The applicant has to supply the following output for Pre-examination and Post examination 
+work: 
+ 
+For Pre-Examination work 
+a.  3 Copies of School Nominal Roll on pre-printed stationery.  
+b.  3 Copies of Centre wise Nominal Roll on pre-printed stationery  
+c.  2 Copies of marks strips on pre-printed stationery for vocational practical examination 
+d.  One copy of hall ticket on pre printed stationery (printing of data along with photo of 
+the candidate)  
+e.  20 copies of centre master on plain stationery  
+f.  Question paper figure statements denomination wise centre wise and district wise  
+g.  Centre wise attendance sheets  
+h.  District wise and centre wise D-forms  
+i.  Scanned data of entire OMR cum ICR Forms  
+j.  Two CDs after completion of every stage. 
+ 
+For Post Examination Work: 
+i.  T-Sheet school wise on pre-printed stationery  
+ii.  T-Sheet centre wise on plain stationery of the applicant  
+iii.  Results sheets hard copies 10-1 5 sets on plain stationery.  
+iv.  Results along with marks data on quality CDs  
+V.  Pass certificates: The service provider has to supply the data structure of the passed 
+candidates in the prescribed format on CDs in order to print SSCs with variable data 
+with images (photos).  
+vi.  Pass memos on printed stationery 
+ 
+7.  The applicant has to establish the processing unit at designated location, deploy the 
+required manpower, arrange required stationery as per the specifications of DGE, printing 
+& supply of OMR Sheets, Attendance Sheets, submission of various reports, etc. 
+ 
+Scope of work for Universities: 
+8.  The Scope of work from the contract entered between the applicant and the Controller of 
+Examinations, Osmania University, Hyderabad, Telangana is mentioned below. 
+ 
+The scope of work for Digitization of answer scripts and onscreen evaluation:  
+a)  Scanning of answer scripts  
+b)  Uploading of the scanned answer scripts data into server.  
+c)  On-screen evaluation of answer scripts  
+d)  Providing of marks data for result processing 
+ 
+Responsibilities of University: 
+i)  
+The University shall provide necessary accommodation, infrastructure, stabilized 
+electric power, power backup, Air conditioning, furniture and other basic facilities like 
+internet bandwidth to carryout the scanning of answer books, storage facility for 
+storing the answer books and transportation of answer books.  
+ii) 
+The University shall provide evaluation server for on-screen evaluation with security 
+features along with internet bandwidth.  
+iii) 
+The University shall identify the evaluation centres with prescribed infrastructure as 
+per the requirement of the university such as work stations, software, UPS, sufficient 
+internet bandwidth, Generator backup and security features, furniture, LAN, etc.  
+
+
+ 
+iv) 
+The University shall identify the list of evaluators and also issue the intimation letters 
+with the schedule to the examiners for On-screen evaluation.  
+v) 
+The University shall provide the list of evaluators to the applicant incharge for 
+mapping the scripts to the evaluators. 
+ 
+Responsibilities of the applicant: 
+i) 
+The applicant shall provide the infrastructure such as scanning servers, workstations 
+and book scanners for scanning of answer books at the University scanning centre as 
+per the requirement.  
+ii)  
+Applicant shall maintain work flow management from receiving the answer script 
+bundles from the examination centres, accounting the answer scripts, reconciliation 
+with attendance received.  
+iii)  
+The applicant shall scan and digitize the answer scripts, maintain time schedules as 
+required by the University with proper controls and uploading the scanned images to 
+the evaluation server for onscreen evaluation in the encrypted format. The applicant 
+shall provide required technical manpower, scanning operators and managerial staff 
+for scanning and digitization of answer scripts, physical security at the centres in 
+addition to the security provided by the University.  
+iv)  
+Applicant shall allocate the answer scripts to the subject experts (evaluators) 
+provided by the University for On-Screen evaluation.  
+v) 
+Applicant shall make the scanned copies of answer scripts available to the students 
+after declaration of results through internet for downloading on receiving of required 
+payment and approval by the University.  
+vi)  
+The applicant shall provide examination wise complete scanned data to the 
+University.  
+vii)  The applicant shall provide training to the evaluators/University staff on the process 
+of evaluation and evaluation software.  
+viii)  The applicant shall make arrangement to export the evaluation data in encrypted 
+format to the central server for further process and also data shall be given in the 
+electronic media to the Director of Evaluation of the University Scope of work for 
+Open Universities: 
+ 
+Scope of work for open Universities 
+ 
+9.  The applicant has also entered into contracts with open Universities for providing pre and 
+post examination services. The scope of work under the contract entered with the 
+Registrar, Yeshwantrao Chavan Maharashtra Open University, Nashik, Maharashtra is 
+mentioned below. 
+ 
+ 
+ 
+Scope of Examination Management System: 
+ 
+ 
+The applicant shall provide –  
+a) Pre-Examination services covering exam scheduling, hall ticket generation, generation 
+of attendance sheets, summary, daily report, Jr. Supervisor report and collected fee 
+management, etc.  
+b)  Customized software for question bank development as per blue print of YCMOU time 
+to time and training to the item writers and all concern, QP generation, uploading QP.  
+c) Digital valuation services include pre-CAP, scanning of AB, making available for 
+evaluation, identifying CAP centres as per need throughout Maharashtra State, with 
+necessary IT infrastructure, Controlling the CAP centres, Evaluators mapping as per 
+the list given by the Open University. 
+d) Post examination services covering result processing, moderation, gracing, verifying 
+missing entries, post exam report generation, generation of mark sheets, pass 
+certificate, migration certificate and convocation certificate data in PDF format, etc. as 
+per the formats given by the Open University for printing 
+ 
+
+
+ 
+10.  The applicant is claiming exemption from payment of GST in respect of the services being 
+provided to the Education Boards and Open Universities under the heading 9992- 'services 
+provided to an educational institution by way of services relating to admission to, or 
+conduct of examination by, such institution' as per SI. No. 66(b)(iv) under the Notification 
+No. 12/2017-Central Tax (Rate) dated 28.06.2017 as amended (hereinafter referred to as 
+'NN-12/2017'). However, in respect of pre and post examination services being provided to 
+Universities, the applicant is not claiming GST exemption. 
+ 
+II. 
+Statement containing the applicant’s interpretation of law based on 
+the facts, in respect of the aforesaid questions: 
+11.  That Section 97(2) of the Central goods and Service Tax Act, 2017 (hereinafter referred to 
+as 'CGST Act), enables an application to be filed for advance ruling on any of the following 
+questions: 
+a.  Classification of any goods or services or both; 
+b.  Applicability of a notification issued under the provisions of the CGST Act; 
+c.  Determination of time and value of supply of goods or services or both; 
+d.  Admissibility of input tax credit of tax paid or deemed to have been paid; 
+e.  Determination of the liability to pay tax on any goods or services or both; 
+f.  Whether applicant is required to be registered; 
+g.  Whether any particular thing done by the applicant with respect to any goods or 
+services or both amounts to or results in a supply of goods or services or both, within 
+the meaning of that term. 
+ 
+12.  The applicant submits that issue on which advance ruling is sought in the instant matter 
+relates to applicability of exemption notification issued under the provisions of the CGST 
+Act in respect of pre and post examination services being provided to the educational 
+institutions. 
+ 
+13. The questions are eligible to be posed for advance ruling before the Advance Ruling 
+Authority in terms of Section 97(2)b) of the CGST Act. Hence, present advance ruling 
+application is maintainable before the Hon'ble Authority for Advance Ruling, Telangana. 
+ 
+ISSUES REQUIRING ADVANCE RULING: 
+ 
+14.  The applicant submits the following questions for Advance Ruling and their interpretation 
+on the questions as under: 
+a.  Whether GST exemption is available to the applicant in respect of the pre and post 
+Examination services being provided to the Educational Boards and Universities 
+(including Open Universities)? 
+b.  If answer to Q. No.1 is affirmative, whether the exemption is available to the applicant 
+in case the services are provided on sub-contract basis i.e. the applicant provides pre 
+and post examination services to the main contractor who in turn provide the said 
+services to the Educational Boards & Universities (including Open Universities)? 
+ 
+Applicant's understanding: 
+ 
+15. The applicant believes that the supply of pre and post examination services to educational 
+institutions like Educational Boards, Universities (including open Universities) are in relation 
+to admission to, or conduct of examination by the said institutions. Accordingly, the 
+services being provided to the educational institutions would fall under Sl. No. 66(b)(iv) 
+NN-12/2017 and eligible for exemption from payment of GST. 
+ 
+16.  In case of provision of pre and post examination services by the applicant as a sub-
+contractor to the main contractor who in turn provide the said services to educational 
+institutions, the applicant is of the understanding that as the services in relation to conduct 
+of examination by the educational institutes are exempted, in this case also the services 
+
+
+ 
+are in relation to conduct of examination by educational institutions which are ultimately 
+provided to educational institute, therefore, exemption would also be available to the 
+applicant even though the services are provided on sub-contract basis. 
+ 
+Applicable provisions: 
+ 
+Notification No. 12/2017-Central (Rate) dated 28.06.2017 as amended (NN 12/2017) 
+ 
+17.  NN-12/2017 provides the list of exempted intra state supply of services. Similar notification 
+has been issued under the Telangana State GST Act, 2017. 
+ 
+18.  The relevant entries under NN-12/2017 have been reproduced below: 
+ 
+Sl. No. 
+Chapter, Section or 
+Heading 
+Description of Services 
+(1) 
+(2) 
+(3) 
+66 
+Heading 9992 or Heading 
+9963 
+Services provided – 
+(a) by an educational institution students, 
+faculty and staff; 
+(aa) by an educational institution by way of 
+conduct of entrance examination against 
+consideration in the form of entrance fee; 
+(b) to an educational institution, by way of - 
+(i) transportation of students, faculty and staff; 
+(ii) catering, including any mid-day meals 
+scheme sponsored by the Central Government, 
+State Government or Union territory; 
+(iii) security or cleaning or house-keeping 
+services 
+performed 
+in 
+such 
+educational 
+institution; 
+(iv) services relating to admission to, or 
+conduct of examination by, such institution; 
+ 
+Provided that nothing contained in sub-items 
+(i), (ii) and (iii) of item (6) shall apply to an 
+educational institution other than an institution 
+providing services by way of pre-school 
+education 
+and 
+education 
+up 
+to 
+higher 
+secondary school or equivalent. 
+ 
+Explanation.- For the purposes of this notification, 
+ 
+(iv)  For removal of doubts, it is clarified that the Central and State Educational Boards shall be 
+treated as Educational Institution for the limited purpose of providing services by way of 
+conduct of examination to the students.  
+ 
+19. The definition of 'educational institution' as provided under NN-12/2017 is reproduced 
+below. 
+ 
+2(y) "educational institution" means an institution providing services by way of,  
+(i)  pre-sc pre-school education and education up to higher secondary school or 
+equivalent;  
+(ii)  education as a part of a curriculum for obtaining a qualification recognised 
+by any law for the time being in force;  
+(iii)  education as a part of an approved vocational education course, 
+ 
+
+
+ 
+20. Thus, from the above definition, it is understood that any institution which provides 
+education for obtaining a qualification recognized by any law is treated as an educational 
+institution. Further, any service provided relating to admission to, or conduct of 
+examination by, such institution is eligible for exemption. 
+ 
+21.  In the present case, the applicant has entered into agreements with State Education 
+Boards and Universities (including open universities) in different states for providing pre 
+and post examination services. 
+ 
+22.  As per the scope of work under the agreements entered between the applicant and 
+educational institutions, the applicant shall arrange required equipment for scanning of ICR 
+forms & OMR sheets viz. Servers, ICR Scanners, OMR Scanners, PCs along with the 
+Printers, Modems, UPS, etc. The secured office area and power will be provided by the 
+service recipient viz. educational institute. 
+ 
+23. The activities being carried out by the applicant under pre and post examination services 
+would inter alia include the following: 
+ 
+I.  Pre-Examination Work: 
+-  
+Constitution of examination centres and zones  
+- 
+Jumbling of candidates 
+- 
+Supply of clean copy of school wise and centre wise nominal rolls 
+- 
+Printing of hall tickets  
+- 
+Centre/zone master printing  
+- 
+Centre wise roll number ranges with buffer numbers  
+- 
+School wise number of candidates in 2 or 3 rounds for verification and updation  
+- 
+Printing of attendance sheets with photos centre wise 
+- 
+Question paper packing statements day wise, centre wise, district wise  
+II.  Post Examination Work:  
+- Feeding of School NR and Centre NR additions 
+- 
+Checklists, updating of corrections  
+- 
+Serios error reports and updating of corrections  
+- 
+Supply of CNR Additions, corrections and deletions updated reports 
+- 
+Data entry of absentee cases  
+- 
+Feeding of OMR bar-code sheets  
+-  
+Printing of memo of marks 
+ 
+24. The applicant submits that in case of State Education Boards, the schools/colleges are 
+affiliated to the State Education Boards and the said schools/colleges impart education to 
+the students. However, the State Education Boards conduct the examinations and issue 
+memo/certificate to the students. 
+ 
+25.  In case of Universities, the Universities impart education and the affiliated colleges 
+facilitate the universities in imparting the education. Universities are established by an Act 
+of the Parliament and award degrees and diplomas recognized by law to the qualifying 
+students. 
+ 
+26. The applicant submits that the colleges facilitate delivery of education through instruction 
+of curriculum defined by the universities to the students. Further, the colleges are under 
+control of the Universities. Thus, the colleges only act in accordance with the 
+directions/guidelines of the Universities. 
+ 
+27. The colleges do not prepare curriculum, do not conduct examinations and do not grant 
+certificates to the students. The Universities maintain all the details relating to a student, 
+conduct examinations and grant certificates to the students. 
+ 
+
+
+ 
+28. Thus, it is submitted that the Universities are imparting education by formulation of 
+courses, prescription of syllabus, academic schedule preparation, conducting examinations, 
+evaluation and award of degrees/qualifications recognized by law. 
+ 
+29.  In case of Open Universities, there are no colleges affiliated to the said universities. The 
+open universities directly impart education to students through contact classes. The course 
+material and books are directly supplied by the Open Universities to the students. The 
+degrees or diplomas are also granted by the Open Universities. The Open Universities are 
+also established by law and the qualifications awarded by them are recognized by law. 
+ 
+30. The applicant submits that in case of State Education Boards and Universities, the 
+education boards/universities conduct the examinations and grant certificates/degrees to 
+the students and the affiliated colleges only facilitate for imparting the education to the 
+students. 
+ 
+31. The applicant also submits that the term “education' is very wide and it would include 
+imparting of study, learning, conduct of examination and grant of certificates or degrees to 
+the students by the education boards and universities including open universities. 
+ 
+32. The applicant submits that the Hon'ble Supreme Court in the case of Gujarat University 
+vs. Krishna Ranganath Mudholkar [AIR 1963 SC 703], held that the expression 
+education' is of wide import and includes all matters relating to imparting and controlling 
+education. 
+ 
+33. In the case of Nidhi Kaim vs. State of M.P., [2016 (7) SCC 615], the Supreme Court 
+held that the examination is always considered as one of the major means to assess and 
+evaluate candidate's skills and knowledge be it a school test, university examination, 
+professional entrance examination or any other examination. Candidate's fitness for his 
+further assignment, whether in studies or employment is, therefore, judged on the basis of 
+his performance in the examination. It is for this reason, the examination is considered as 
+a common tool around which the entire education system revolves. 
+ 
+34. Further, the applicant also refers the decision of Hon'ble Gujarat High Court in the case of 
+M/s. Sahitya Mudranalaya Private Limited vs. Additional Director General [2021 
+(46) GSTL 245 (Guj.)]. In this case, the Gujarat High Court has inter alia dealt with the 
+issue as to whether the state education board, state technological university and state 
+council of examination are educational institutes or not. The department contention was 
+that the Board/University work more like a managerial organization to plan the syllabus of 
+education and conduct of examination for the institutes affiliated under them and they are 
+functioning as organizations which are entrusted with the work of creating more 
+schools/colleges/institutes under their affiliation, to prepare the syllabus of education for 
+such institute, to conduct the academic tests and exams, to appoint examiners/supervisors 
+for smooth conduct of examinations, to declare the results of such examinations, etc. 
+According to the department, the board/university are not educational institutes. In this 
+regard, the High Court has held as follows. 
+ 
+the word "education" cannot be given a narrow meaning by restricting it to the actual 
+imparting of education to the students but has to be given a wider meaning which 
+would take within its sweep, all matters relating to imparting and controlling 
+education. Examination is an essential component of education as it is one of the 
+major means to assess and evaluate the candidate's skills and knowledge, be it a: 
+school test, university examination, professional entrance examination or any other 
+examination. As held by the Supreme Court, the examination is considered as a 
+common tool around which the entire education system revolves. 
+ 
+Thus, education would mean the entire process of learning, including examination 
+
+
+ 
+and grant certificate or degree or diploma, as the case may be and would not be 
+limited to the actual imparting of education in schools, colleges or institutions only. 
+Unless the School Boards hold examinations, the education of school students would 
+not be complete, so is the case with college students, whose education would be 
+complete only when the University conducts examinations and awards degrees or 
+diplomas. It is the School Boards which issue the Secondary and Higher Secondary 
+School Certificates after holding examinations and the University which confers 
+degrees/diplomas etc. after holding examinations. Unless a student holds a certificate 
+issued by a Board, his or her school education would not be complete, similarly, 
+without a degree or diploma being conferred by the University, college education 
+would not be complete. Therefore, examinations are an indispensable component of 
+education, without which such education is incomplete. Therefore, to say that 
+boards/universities are not 'educational institutions would amount to divorcing 
+examinations from education. 
+ 
+35. The term 'educational institution' as defined under NN-12/2017, would include an 
+institution providing services by way of education as a part of a curriculum for obtaining a 
+qualification recognized by any law for the time being in force. 
+ 
+36. As per the Sl. No. 66(b)(iv) of the NN - 12/2017, exemption is available to a service 
+provider if the following two conditions are satisfied. 
+1.  Services are provided to an educational institution; and 
+2.  The said services are relating to admission to, or conduct of examination by the 
+educational institutes. 
+ 
+37. In the instant case, the applicant is providing services to Educational Boards, Universities 
+and open Universities.  
+ 
+ 
+Services provided to Educational Boards: 
+ 
+38. The applicant is providing pre and post examination services to State Educational Boards 
+such as Board of Secondary Education, Telangana, Board of Intermediate Education, 
+Telangana, Board of Secondary Education, Andhra Pradesh, Board of Intermediate 
+Education, Andhra Pradesh. 
+ 
+39. As per the explanation no. (iv) to the NN-12/2017, Central and State Education Boards 
+shall be treated as educational institutions for the purpose of providing services by way of 
+conduct of examination to the students. 
+ 
+40. The applicant also submits that after introduction of GST, certain doubts were raised by the 
+assessees specifically as to whether the services relating to conduct of examinations 
+provided to Education Boards are eligible for exemption or not. Since, the Educational 
+Boards do not conduct classes directly to the students. 
+ 
+41. In this regard, an explanation no. (iv) has been inserted in NN-12/2017 by the Ministry of 
+Finance, Department of Revenue vide Notification No. 14/2018 Central Tax (Rate) dated 
+26.07.2018 and clarified that State and Central Education Boards would qualify as 
+educational institutions for the purpose of exemption from GST as per Sl. No. 66(b)(iv) of 
+the NN - 12/2017 
+ 
+42. Thus, from the said explanation it is clear that in the instant case, the State educational 
+boards are educational institutions. Accordingly, the first condition viz. "services are 
+provided to educational institution' is satisfied. 
+43. With respect to the second condition i.e., the services provided are relating to admission to 
+or conduct of examination by the educational institution, it is submitted that there is no 
+doubt that the State Educational Boards conduct the examination and grant 
+degrees/certificates to the students. For this purpose, the educational boards are availing 
+
+
+ 
+pre and post examination services from the applicant. 
+ 
+44. The applicant submits that the services such as data processing, generation of hall tickets, 
+result processing, scanning of OMR sheets, printing of Memos, etc., provided to the State 
+Education Boards would qualify as services relating to conduct of examination by the 
+educational institutions (State Education Boards in this case). 
+ 
+45. Thus, the second condition specified under Sl. No. 66(b)(iv) of the NN – 12/2017 is also 
+fulfilled. Accordingly, the applicant submits that in this case, exemption is applicable to the 
+applicant in respect of the pre and post examination services being provided to the State 
+Education Boards.  
+ 
+ 
+Services provided to Universities: 
+ 
+46. The applicant has also entered agreements with various Universities for providing pre and 
+post examination services. As submitted above, the Universities impart education to the 
+students and the colleges affiliated to the said universities act as facilitators. The University 
+prescribes the syllabus and provide the same to the colleges. The Universities conduct 
+examination and grant degree to the students. 
+ 
+47. The applicant also refers the recent Hon'ble Madras High Court in the case of Madurai 
+Kamaraj University Vs. Joint Commissioner, Office of the Commissioner of GST and Central 
+Excise, Madurai [2021-VIL-639-MAD ST). In this case, the High Court held that holding or 
+conducting an examination is primarily a job of the university and the colleges affiliated to 
+the university are only facilitators. The relevant extract of the said judgment is reproduced 
+below. 
+ 
+ Holding or conducting an examination is primarily a job of the university and the 
+colleges affiliated to the university are only facilitators. Therefore, examinations are not 
+conducted directly by the colleges, it is being conducted by the university, but the 
+facilitator is the college. Therefore, the word "conduct of examination by such 
+institution" means, conduct of examination by the university and the college and not by 
+the college alone. The examination is the examination of the university, for which, 
+facilitation is given by the college, wherein the examinations are conducted and 
+ultimately, valuation is to be done by the university and marks are awarded and degree 
+is conferred by the university. Therefore, it is the university, where, the facilitator is the 
+college, where, the examination is being taken place and therefore, the word "conduct 
+of examination", cannot have such a narrow and pedantic interpretation.  
+ 
+48. Thus, the applicant submits that though the universities are not specifically covered under 
+explanation no. (iv) to the NN-12/2017, the purpose/motive of the universities is to impart 
+education, conduct examinations and grant certificate/degrees to the students. 
+ 
+49. Therefore, the applicant submits that pre and post examination services being provided to 
+the Universities by the applicant are similar to the services being provided to the State 
+Educational Boards. 
+ 
+50. Further, as mentioned above, conducting of examination is part of education services and 
+any institution providing education as a part of a curriculum for obtaining a qualification 
+recognized by any law for the time being in force is treated as an education institution. 
+Accordingly, any institution conducting examination for obtaining qualification will be 
+treated as an educational institution'. 
+ 
+51. Thus, the applicant submits that Universities are imparting education, conducting 
+examinations and granting certificates/degrees to the students as part of a curriculum for 
+obtaining a qualification. Therefore, the said Universities are also covered under the 
+
+
+ 
+definition of 'educational institute' as provided under NN-12/2017 
+ 
+52. The services being provided by the applicant to the Universities are in relation to conduct of 
+examination. Accordingly, in this case also the two conditions viz. services are provided to 
+educational institutes and the services are in relation to conduct of examination are 
+fulfilled. 
+ 
+53. Further, the applicant submits that there would not be any distinction between Education 
+Boards and Universities for providing exemption when the same services are provided by 
+the applicant to the Education Boards and Universities. Accordingly, the applicant submits 
+that exemption would also be available to the applicant in respect of the pre and post 
+examination services being provided to the Universities. 
+ 
+54. Thus, the applicant submits that the services being provided to the Universities are also 
+covered under Sl. No.66(b)(iv) of the NN-12/2017 and the applicant is eligible for the 
+exemption. 
+ 
+55. The applicant also submits that if GST exemption is not available in respect of pre and post 
+examination services provided to Universities, the entry under SI. No.66(b)(iv) of the NN-
+12/2017 will make redundant as exam related services are provided only to Universities. 
+ 
+ 
+Open Universities: 
+ 
+56. With respect to the pre and post examination services being provided to the open 
+Universities, the applicant submits that the students are registered with open universities 
+and the said universities directly interact with the students, provide study material, impart 
+education, conduct examinations and grant degree/certificate to the students. 
+ 
+57. Thus, the applicant submits that Open universities are imparting education to the students 
+as a part of a curriculum for obtaining a qualification recognized by law. Accordingly, the 
+Open universities qualify as educational institutions. 
+ 
+58. Further, the services being provided by the applicant to the Open universities are in 
+relation to conduct of examinations and grant of certificates to the students by the said 
+universities. 
+ 
+59. Thus, in case of supply of pre and post examination services to Open Universities also, two 
+conditions viz. services are provided to educational institution and the said services are in 
+relation to conduct of examinations by the educational institution are satisfied. 
+ 
+60. Accordingly, the applicant submits that pre and post examination services being provided 
+to open universities are also covered under Sl. No.66(b)(iv) of the NN 12/2017 and the 
+applicant is eligible for the exemption. 
+ 
+61. The applicant also places reliance on the Ruling given by this Hon'ble Authority for Advance 
+Ruling in the case of M/s. K L Hi-Tech Secure Print Limited [2018-VIL-185-AAR]. In this 
+case, the Hon'ble Advance Ruling Authority has held that the provision of service of 
+scanning of OMR sheets, Bar-codes, printing of marks memos, certificates, etc. to the 
+educational boards and universities are covered under Sl. No.66(b)(iv) of the NN-12/2017 
+and eligible for exemption from payment of GST. 
+ 
+ 
+62. Further, the Hon'ble Authority for Advance Ruling, Andhra Pradesh has also taken similar 
+view in the case of Hitech Print Systems Limited [2021-VIL-296 AAR] and it was 
+held that Printing of Pre- examination items like question papers, OMR sheets (Optical Mark 
+Reading), Answer booklets for conducting of an examination by the educational boards be 
+
+
+ 
+treated as exempted supply of service. The relevant extract from the ruling given by the 
+Andhra Pradesh Advance Ruling Authority in the said is reproduced below. 
+ 
+In the instant case, the educational institutions as referred to by the applicant for 
+whom the supplies of the services of printing of examination related material are 
+made intended to be made are Mumbai university examination Committee, Bihar 
+University Examination Committee, JNTU, Kakinada. All of the three institutions 
+invariably fall under the category of educational institution" as they fulfil the criterion 
+of 'institution providing services by way of, - (ii) education as a part of a curriculum 
+for obtaining a qualification recognised by any law for the time being in force;!  
+ 
+Further, with reference to the services provided by the applicant, they are nothing 
+but 'services relating to admission to, or conduct of examination by, such institution' 
+falling under Sl.No.66 of the said exemption notification of No. 12/2017-CGST [Rate) 
+dated 28.06.2017 as amended.  
+ 
+63. The applicant also places reliance on the following cases wherein it was held that the 
+provision of service of scanning of OMR sheets, Bar-codes, printing of marks memos, 
+certificates, etc. to the educational boards and universities are covered under Sl. 
+No.66(b)(iv) of the NN-12/2017 and eligible for exemption from payment of GST. 
+ 
+ 
+Orient Press Limited, AAR, Maharashtra (2019-VIL-169-AAR]  
+ 
+Edutest Solutions Private Limited, AAR, Gujarat [2018-VIL-195-AAR]  
+ 
+Manali Enterprise, AAR, West Bengal [2018-VIL-178-AAR]  
+ 
+KL Hitech Secure Print Ltd, AAR, Telangana [2018-VIL-185-AAR]  
+ 
+Hitech Print Systems Ltd, AAR, Andhra Pradesh [2021-VIL-296AAR] 
+ 
+Sahitya Mudranalaya Pvt Ltd, Gujarat [Special Civil Application No.  20748 of 2018] •  
+ 
+Madhurai Kamaraj University, Tamil Nadu [2021-VIL-639-MAD-ST] 
+ 
+Copies of the High Court Judgements and Advance Ruling orders relied by the applicant are 
+enclosed as Annexure - IV. 
+ 
+Services provided on sub-contract basis: 
+ 
+64. The applicant submits that as per Sl. No. 66 of the NN – 12/2017, education services falling 
+under the heading 9992 are exempted from payment of GST. Thus, from the said entry, it 
+is clear that the intention of the Government is to provide exemption from payment of GST 
+in respect of supply of various services to educational institutions. The reason being, 
+services provided to educational institution should not be burdened with the GST 
+component as the education services provided by them are also exempted from GST. 
+Thereby, GST is not levied on the fee paid by students for education. 
+ 
+65. The applicant is planning to enter into contract for providing pre and post examination 
+services to the main contractor who in turn provide the said services to the State 
+Educational Boards and Universities (including Open Universities). In this case, the 
+employees of the applicant are deputed at designated Education Boards, Universities, etc., 
+and carryout activities relating to pre and post examinations. 
+ 
+66. Therefore, the applicant submits that in cases where pre and post examination services are 
+provided to the main contractor who in turn provide the same to the educational 
+institutions, then the exemption would also be available to the sub contractor as the 
+services are relating to education and ultimately provided to the educational institutions 
+which impart education to the students, conduct examinations and grant certificates/ 
+degrees to the students. 
+ 
+67.  In view of the above, the applicant requests the Hon'ble Authority for Advance Ruling to 
+
+
+ 
+grant an opportunity of personal hearing to serve the principles of atural justice. 
+ 
+69.  The applicant also respectfully prays that they may be permitted to file additional material / 
+written submissions at the time or after the personal hearing as may be required. 
+ 
+III. 
+Personal Hearing: 
+ The Authorized representatives of the unit namely Sri S. Purushotham, Accountant & G. 
+Jagannath, Advocate, authorized representatives of the firm attended the personal hearing held 
+on 27-04-2022. The authorized representatives reiterated their averments in the application 
+submitted and contended as follows: 
+ 
+1. 
+That, they are making supplies under Clause (IV) of (b) of Sl.No.66 of Notification 11 of 
+2017 which was amended subsequently vide Notification No.2 of 2018 to omit the phrase 
+‘upto higher secondary education’ from the provision to the said entry. They are desirous 
+of ascertaining their eligibility for exemption under the said provision. 
+ 
+2. 
+That, they are also executing the above service as sub-contractor and are desirous of 
+ascertaining whether the said exemption extends even to the sub-contractor. 
+ 
+IV. 
+The opinion expressed by Sri S.V. Kasi Visweswara Rao, Additional 
+Commissioner (State Tax), on the issues raised by the applicant. 
+ 
+The 
+CBIC 
+has 
+issued 
+a 
+Circular 
+No. 
+151/07/2021-GST 
+CBIC- 
+190354/36/2021, 
+dated:17.06.2021 and issued clarification regarding activities falling under serial no. 66 of 
+Notification No. 12/2017. 
+ 
+Accordingly, the following services supplied by an educational institution are exempt from GST 
+vide Serial. No. 66 of the notification No. 12/ 2017- Central Tax (Rate) dated 28.06.2017, 
+Services provided –  
+ 
+(a) by an educational institution to its students, faculty and staff;  
+(aa) by an educational institution by way of conduct of entrance examination against 
+consideration in the form of entrance fee;  
+ 
+Similarly, services provided to an educational institution, relating to admission to, or conduct of 
+examination is also exempt from GST [sl. No. 66 (b)(iv)-12/2017-CT(r)].  
+ 
+Educational institutions are defined at 2(y) of the said notification as follows-  
+“(y) educational institution” means an institution providing services by way of, -  
+(i) pre-school education and education up to higher secondary school or equivalent;  
+(ii) education as a part of a curriculum for obtaining a qualification recognized by any law for 
+the time being in force;  
+(iii) education as a part of an approved vocational education course;”  
+ 
+Further, clause (iv) of Explanation of said notification reads as below:  
+ 
+“(iv)For removal of doubts, it is clarified that the Central and State Educational Boards shall be 
+treated as Educational Institution for the limited purpose of providing services by way of 
+conduct of examination to the students”  
+ 
+Therefore it was clarified that GST is exempt on input services relating to admission to, or 
+conduct of examination, such as online testing service, result publication, printing of notification 
+for examination, admit card and questions papers etc, when provided to such Boards under S. 
+No. 66 (b) (iv) of Notification No. 12/2017-CT(R).  
+ 
+
+
+ 
+As seen from the averment of the applicant they claim to supply services which are related to 
+conduct of examination. And the Sl.No.66 of Notification No.12 of 2017-Central Tax (Rate), dt: 
+28-06-2017 provides for exemption for services related to admission to or conduct of 
+examination by such institution. 
+ 
+Further the proviso to the entry at Serial No. 66(b) read as follows earlier to its modification 
+vide Notification No.2 of 2018 to omit the phrase ‘upto higher secondary education’ from the 
+provision to the said entry : 
+ 
+“Provided that nothing contained in entry (b) shall apply to an educational institution other than 
+an institution providing services by way of pre-school education and education up to higher 
+secondary school or equivalent”. 
+ 
+After omission of the phrase ‘upto higher secondary education’ service provide to all 
+educational institution the services provided to Universities is also covered under this entry. 
+ 
+Further the entry 66(b) regarding this service is abstracted as under: 
+“Services provided - … 
+ (b) to an educational institution, by way of,- … 
+(iv) services relating to admission to, or conduct of examination by, such institution.” 
+ 
+Thus the service relating to admission to or conduct of examination is exempt when provided to 
+such educational institution. 
+ 
+Therefore as a service itself is exempt, this exemption can be claimed by any taxable person 
+including a sub-contractor. 
+ 
+ In view of the above discussion, the questions raised by the applicant are clarified as below: 
+Questions 
+Ruling 
+1. Whether GST exemption is applicable to applicant in respect of 
+the pre and post Examination services being provided to the 
+Educational 
+Boards 
+and 
+Universities 
+(including 
+Open 
+Universities)? 
+Yes  
+2. If answer to Q.No.1 is affirmative, whether the exemption is 
+available to the applicant in case of the services provided on sub-
+contract basis i.e., the applicant provides pre and post 
+examination services to the main contractor who in turn provides 
+the said services to the Educational Boards and Universities 
+(including Open Universities)? 
+Yes. 
+ 
+ 
+V. 
+The views expressed by Shri B. Raghu Kiran, Additional Commissioner, 
+Central Tax on the issues raised by the applicant are as given below. 
+ 
+The 
+CBIC 
+has 
+issued 
+a 
+Circular 
+No. 
+151/07/2021-GST 
+CBIC- 
+190354/36/2021, 
+dated:17.06.2021 and issued clarification regarding activities falling under serial no. 66 of 
+Notification No. 12/2017. 
+ 
+Accordingly, the following services supplied by an educational institution are exempt from GST 
+vide Serial. No. 66 of the notification No. 12/ 2017- Central Tax (Rate) dated 28.06.2017, 
+Services provided –  
+ 
+(a) by an educational institution to its students, faculty and staff;  
+(aa) by an educational institution by way of conduct of entrance examination against 
+consideration in the form of entrance fee;  
+
+
+ 
+ 
+Similarly, services provided to an educational institution, relating to admission to, or conduct of 
+examination is also exempt from GST [sl. No. 66 (b)(iv)-12/2017-CT(r)].  
+ 
+Educational institutions are defined at 2(y) of the said notification as follows-  
+“(y) educational institution” means an institution providing services by way of, -  
+(i) pre-school education and education up to higher secondary school or equivalent;  
+(ii) education as a part of a curriculum for obtaining a qualification recognized by any law for 
+the time being in force;  
+(iii) education as a part of an approved vocational education course;”  
+ 
+Further, clause (iv) of Explanation of said notification reads as below:  
+ 
+“(iv)For removal of doubts, it is clarified that the Central and State Educational Boards shall be 
+treated as Educational Institution for the limited purpose of providing services by way of 
+conduct of examination to the students”  
+ 
+Therefore it was clarified that GST is exempt on input services relating to admission to, or 
+conduct of examination, such as online testing service, result publication, printing of notification 
+for examination, admit card and questions papers etc, when provided to such Boards under S. 
+No. 66 (b) (iv) of Notification No. 12/2017-CT(R).  
+ 
+As seen from the averment of the applicant they claim to supply services which are related to 
+conduct of examination. And the Sl.No.66 of Notification No.12 of 2017-Central Tax (Rate), dt: 
+28-06-2017 provides for exemption for services related to admission to or conduct of 
+examination by such institution. 
+ 
+Further the proviso to the entry at Serial No. 66(b) read as follows earlier to its modification 
+vide Notification No.2 of 2018 to omit the phrase ‘upto higher secondary education’ from the 
+provision to the said entry : 
+ 
+“Provided that nothing contained in entry (b) shall apply to an educational institution other than 
+an institution providing services by way of pre-school education and education up to higher 
+secondary school or equivalent”. 
+ 
+After omission of the phrase ‘upto higher secondary education’ service provide to all 
+educational institution the services provided to Universities is also covered under this entry. 
+ 
+Further the entry 66(b) regarding this service is abstracted as under: 
+“Services provided - … 
+ (b) to an educational institution, by way of,- … 
+(iv) services relating to admission to, or conduct of examination by, such institution.” 
+ 
+Thus the service relating to admission to or conduct of examination is exempt when provided to 
+such educational institution.  The said entry specifies that the services are required to be 
+supplied to educational institution.  Nevertheless, where the privity of contract is between the 
+applicant (as a sub-contractor) and a main contractor, in such cases, the main-contractor does 
+not fall under the definition of ‘educational institution’ and therefore, such supply is not covered 
+under entry 66(b) of Not. No. 12/2017-CT (R) dated 28.06.2017 as amended.  As such, the 
+benefit of exemption is not available to the sub-contractor who supplies service to main 
+contractor even though service is ultimately rendered to education institution. 
+ 
+ 
+
+
+ 
+ 
+In view of the above discussion, the questions raised by the applicant are clarified as below: 
+Questions 
+Ruling 
+1. Whether GST exemption is applicable to applicant in respect of the 
+pre and post Examination services being provided to the Educational 
+Boards and Universities (including Open Universities)? 
+Yes  
+2. If answer to Q.No.1 is affirmative, whether the exemption is 
+available to the applicant in case of the services are provided on 
+sub-contract basis i.e., the applicant provides pre and post 
+examination services to the main contractor who in turn provides 
+the said services to the Educational Boards and Universities 
+(including Open Universities)? 
+No. 
+ 
+ 
+Referring the application to Appellate Authority for Advance Ruling: 
+ 
+Since there is no uniform opinion arrived by the Members of the Authority for 
+Advance Ruling in respect of Question No. 2 raised by applicant representing Central Tax 
+and State Tax and they have expressed two different views on the issue raised by the 
+applicant on the applicability of GST  as sub-contractor or the application filed by M/s. 
+Magnetic Infotech Pvt Ltd, Plot NO.08, Krishna Nagar Colony, Kakaguda Village, Wellington Road, 
+Picket, Secunderabad, Hyderabad, Telangana- 500009 (36AACCM2333F1ZV), is being referred to 
+the Appellate Authority for Advance Ruling for the state of Telangana in terms of Section 
+98(5) of the CGST/TGST Act, 2017 for hearing and decision on the question No. 2 on 
+which advance ruling is sought. 
+ 
+ 
+ 
+ 
+Sd/- S.V. Kasi Visweswara Rao                                         Sd/- B. Raghu Kiran 
+      ADDL. COMMISSIONER(STATE TAX)                              ADDL. COMMISSIONER(CENTRAL TAX) 
+ 
+ 
+ 
+To, 
+The Appellate Authority for Advance Ruling for the State of Telangana, Office of the 
+Commissioner of State Tax, Telangana,CT Complex, M.J Road, Nampally, 
+Hyderabad-500001. 
+ 
+ 
+//t.c.f.b.o// 
+ 
+ 
+Superintendent (Grade-I)

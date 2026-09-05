@@ -1,0 +1,652 @@
+AUTHORITY FOR ADVANCE RULING, TAMIL NADU
+No.207, 224 FLOOR, PAPJM BUILDING, No.1, GREAMS ROAD,
+CHENNAI 600 006.
+
+ORDER UNDER SECTION 98(4) OF THE CGST ACT, 2017 AND
+UNDER SECTION 98(4) OF THE TNGST ACT, 2017
+
+Members present:
+
+Sri. Balakrishna S, LR.S., Smt. A.Valli, M.Sc.,
+Additional Commissioner/Member (CGST), | Joint Commissioner/Member (SGST),
+
+Office of the Commissioner of GST and Authority for Advance Ruling,
+Central Excise, Audit II Commissionerate, Tamil Nadu,
+Chennai - 600 034. Chennai - 600 006.
+
+Advance Ruling No. 25/AAR/2024, dated 05.11.2024
+
+1, Any appeal against this Advance Ruling order shall lie before the Tamil Nadu State
+Appellate Authority for Advance Ruling, Chennai under Sub-Section (1) of Section 100 of
+CGST Act 2017/ TNGST Act 2017, within 30 days from the date on which the ruling sought
+to be appealed, is communicated.
+
+2, In terms of Section 103(1) of the Act, Advance Ruling pronounced by the Authority imder
+Chapter XVI of the Act shall be binding only-
+
+(a) on the applicant who had sought it in respect of any matter referred to in sub-section
+(2) of Section 97 for advance ruling.
+
+(b) on the concerned officer or the jurisdictional officer in respect of the applicant.
+
+3. In terms of Section 103(2) of the Act, this advance ruling shall be binding unless the law,
+facts or circumstances supporting the original advance ruling have changed.
+
+4. Advance Ruling obtained by the applicant by fraud or suppression of material facts or
+misrepresentation of facts, shall render such ruling to be void ab initio in accordance with
+Section 104 of the Act.
+
+5. The provisions of both the Central Goods and Services Tax Act and the Tamil Nadu
+Goods and Services Tax Act (hereinafier referred to as the ‘Act’) are the same except for
+certain provisions. Therefore, unless a mention is specifically made to such dissimilar
+provisions, a reference to the Central Goods and Services Tax Act would also mean a
+reference to the same provisions under the Tamil Nadu Goods and Services Tax Act.
+
+Page 1 of 13
+
+
+GSTIN Number, if any / User id 33AAFCA6421P1ZK
+
+Legal Name of Applicant M/s. ZF Commercial Vehicle Control Systems
+India Limited.
+(formerly known as WABCO India Limited)
+
+Trade Name of Applicant (Optional) M/s. ZF Commercial Vehicle Control Systems
+India Limited
+
+‘Registered Address/ Address Plot No. 3, South phase, Third Main Road, _
+provided while obtaining user id Ambattur Industrial Estate,
+Chennai — 600 058.
+
+Details of Application ‘Application Form GST ARA — O1 received from |
+the applicant on 28.06.2023.
+
+Concerned Officer Center: Chennai North Commissionerate,
+Ambattur Division, Range II.
+
+State: Ambattur Assessment Circle,
+Kancheepuram. Division.
+
+Nature of activity(s) (proposed /
+
+present) in respect of which
+
+ladvance ruling sought for
+
+A | Category 1. Factory/Manufacturing
+2. Warehouse/Depot
+3. Service Provision
+
+4. Service Recipient
+
+B | Description (in brief} The applicant having above mentioned GSTIN
+has manufacturing unit in the State of Tamil
+Nadu. The applicant is leading global supplier
+engaged in manufacturing of braking control
+systems and other advanced technologies that
+improve the safety, efficiency and connectivity
+of the commercial vehicles. The Applicant is
+importing as well as domestically procuring
+Electronic Control Units (“ECU”) for anti-lock
+braking systems (“ABS”). The Applicant
+thereafter supplies the said ECUs domestically
+in Indian market.
+
+The application seeks a ruling on the HSN
+Classification of the above-mentioned ECU
+and its relevant rate of tax under GST Law.
+
+Issue/s on which advance ruling Classification of goods and/ or services or
+Required both
+
+Page 2 of 13
+
+
+Question(s) on which the advance /1. Whether ECU supplied by the applicant is
+
+ruling is required classifiable under the HSN 9032 89 90 as
+“Other instruments and apparatus -
+Others?
+
+2. If not classifiable under tariff item 9032 89
+90, what is the relevant HSN Classification
+for ECU?
+
+3. What is the applicable rate of GST for the
+above-mentioned ECU as per Notification
+No. O1/ 2017-CentralTax (Rate) dated 28
+June 2017?
+
+M/s.ZF Commercial Vehicle Control Systems India Limited, Plot No. 3, South
+phase, Third Main Road, Ambattur Industrial Estate, Chennai - 600 058
+(hereinafter called as ‘the Applicant’) is engaged in manufacturing of braking
+control systems and other advanced technologies that improve the safety, efficiency
+and connectivity of the commercial vehicles and also importing as well as
+domestically procuring Electronic Control Units (“ECU”) for anti-lock braking
+systems (“ABS”). Thereafter, the applicant supplies the said ECUs domestically in
+Indian market. They are registered under the GST Acts with GSTIN
+33AAFCA6421P1ZK.
+
+2. The Applicant have made a payment of application fees of Rs.5,000/- each under
+sub-rule (1) of Rule 104 of CGST Rules, 2017 and SGST Rules, 2017.
+
+3. The applicant have preferred this application seeking Advance Ruling on the
+following:
+
+1. Whether ECU supplied by the applicant is classifiable under the HSN 9032
+89 90 as “Other instruments and apparatus — Others?
+
+2. If not classifiable under tariff item 9032 89 90, what is the relevant HSN
+Classification for ECU?
+
+3. What is the applicable rate of GST for the above-mentioned ECU as per
+Notification No. 01/ 2017-CentralTax (Rate) dated 28 June 2017?
+
+4. Statement of facts in brief:
+
+j. ZF Commercial Vehicle Control Systems India Limited is a company
+incorporated under the Companies Act 2013 having its registered office at
+Plot No.3, South Phase, 3" Main Road, Ambattur Industrial Estate, Chennai
+600 O58. The applicant is primarily engaged in the manufacture of air brake
+actuation systems for commercial vehicles. The Company is also engaged in
+rendering of software development and other services. The applicant has
+factory located in Chennai in the State of Tamil Nadu.
+
+Page 3 of 13
+
+
+2. The Applicant is inter-alia engaged in trading of Electronic Control Units
+(“ECU”) for anti-lock braking systems (“ABS”). The Applicant is procuring
+ECU domestically as well as importing from outside India.
+
+3. The Applicant thereafter supplies the said ECU domestically to their
+customers in the Indian market.
+
+About ECU for ABS
+
+4. ABS ECU is an electronic control unit that receives, amplifies and filters the
+sensor signals for calculating the wheel rotational speed and acceleration.
+The ECU receives a signal from the sensors in the circuit and controls the
+brake pressure, according to the data that is analysed by the unit. ABS
+prevents the wheels from locking up, this avoiding uncontrolled skidding of
+the vehicle and decreases the distance travelled without slipping.
+
+5. ABS enhances the vehicle stability, steer ability under emergency braking,
+stable stopping on slippery road and in curves, increases overall safety,
+extend tire life.
+
+6. An ECU is an embedded system in automotive electronics that controls one
+or more of the electrical systems or subsystems in a car or other motor
+vehicle. An anti-lock braking systems (“ABS”) is a safety anti-skid braking
+system used in motor vehicles. ABS operates by preventing the wheels from
+locking up during braking, thereby maintaining active contact with road
+surface and allowing the driver to maintain more control over the vehicle.
+The applicant has also provided the pictorial diagram of ECU.
+
+7. ABS system consists of ECU, wheel speed sensor, brake pressure modulator
+valves, harness, switches, relays and lamps.
+
+8. The applicant is also developing ECUs for ABS applications and this is an
+add on to a conventional brake systems.
+
+9. Further, ECU sends signals which controls the movement of pneumatic/air
+through the modulator valves. The wheel speed sensors will give the
+information to the ECU and said ECU works as an automatic device.
+
+10. The ECU has a Printed Circuit Board Assembly attached to it. The ECU acts
+as an intelligent regulator by controlling and regulating the flow of pneumatic
+through the modulator valves. The ECU dose not merely send signals but
+also undertakes ABS regulating/controlling function.
+
+11. The applicant have attached the Technical writ up on ECU as Annexure-1
+
+12. The applicant have also attached the Product specification of ECU as
+Annexure-2
+
+Page 4 of 13
+
+
+Appropriate HSN Classification of ECU
+
+13. The applicant is currently supplying the ECU under HSN 9032 (Automatic
+Regulating or Controlling Instruments and Apparatus}. However, it is
+important for the applicant to arrive at the appropriate Harmonized System
+(HS) Nomenclature as per the GST Legislation.
+
+14, The applicant is of the understanding that the HSN classification under GST
+Law is based on the Customs Tariff Act 1975 (“Customs Tariff Act) for ECU.
+In this regard, reference is drawn to Explanation provided in the Notification
+No.01/2017-Central Tax (Rate) dated 28 June, 2017. Relevant extract is
+reproduced below:
+
+“Explanation-For the purposes of this notification,
+
+(iii) “Tariff item”, “Sub-heading” “Heading” and “Chapter” shall mean
+respectively a tariff item, sub-heading, heading and chapter as specified in
+the First Schedule to the Customs Tariff Act, 1975 (51 of 1975).
+
+(iv) The rules for the interpretation of the First Schedule to the Customs
+Tariff Act, 1975 (51 of 1975) including the Section and Chapter Notes and
+the General Explanatory Notes of the First Schedule shall, so far as may be,
+apply to the interpretation of this notification.”
+
+15. Given the above, it is important to arrive at the appropriate HSN
+Classification as per customs Tariff Act for the purpose of HSN
+Classification under the GST Law. Therefore, for HSN classification of ECU,
+the applicant is required to refer First Schedule to Customs Tariff Act
+(“Customs Tariff”)
+
+16. India being a party to HS convention adopted new (seventh) edition of the
+
+Harmonized System (HS) Nomenclature, HS-2022 w.e.f. 01st January 2022.
+Therefore, for the purpose of classification of ECU, the Applicant has
+analysed the relevant chapter of HS code 2022, read with General Rules of
+Interpretation, Section & Chapter Notes and Explanatory Notes issued by
+World Customs Organisation (“WCO”)
+
+17. While the applicant had supplied ECU in the past, based on the technical
+characteristics of the ECU and further analysis of the classification under
+HS explanatory notes and internal discussions, the Applicant believes that
+the most appropriate classification of ECU would be Chapter heading 9032
+as “Automatic Regulating or Controlling Instruments and Apparatus”.
+
+Page 5 of 13
+
+
+4.2. STATEMENT OF INTERPRETATION OF LAW
+1. Classification of ECU —- Chapter Heading 9032
+
+1.1 Chapter 9032 consists of the following sub-heading and tariff entries.
+
+Tariff Particulars
+
+9032 AUTOMATIC REGULATING OR CONTROLLING INSTUMENTS
+
+AND APPARATUS
+903210 -Thermostats
+
+90321010 ---For refrigerating and air-conditioning appliances and ~
+machinery
+
+90321090 ---Other
+
+903220 -Manostats
+
+90322010 ---For refrigerating and air-conditioning appliances and
+machinery
+
+90322090 | ---other a _ -
+
+- Other instruments and apparatus
+
+90328100 --Hydraulic or pneumatic
+903289 --Other
+90328910 ---Electronic automatic regulators a
+90328990 =| ---Other st” 7
+90329000 -Parts and accessories
+1.2 Further, Note 7 of Chapter 90 has provided the scope of Heading
+
+9032. The Applicant has enclosed the copy of Note 7 of Chapter 90 as
+Annexure-3. Extract of the note is reproduced hereunder:
+
+“7, Heading 9032 applies only to:
+
+(a)Instruments and apparatus for automatically controlling the flow, level,
+pressure or other variables of liquids or gases, or for automatically
+controlling temperature, whether or not their operation depends on an
+electrical phenomenon which varies according to the factor to be
+automatically controlled, which are designed to bring this factor to, and
+maintain it at, a desired value, stabilized against disturbances, by
+constantly or periodically measuring its actual value; and
+
+(b) Automatic regulators of electrical quantities, and instruments or apparatus
+for automatically controlling non-electrical quantities the operation of which
+depends on an electrical phenomenon varying according to the factor to be
+
+Page 6 of 13
+
+
+controlled, which are designed to bring this factor to, and maintain it at, a
+desired value, stabilized against disturbances, by constantly or periodically
+measuring its actual value.”
+
+1.3 From the above, it can be inferred that Tariff Heading 9032 includes two
+categories of Automatic Regulating or Controlling Instruments and Apparatus:
+
+(a) Instruments and apparatus for automatically controlling the flow,
+level, pressure or other variables of liquids or gases, or for automatically
+controlling temperature;
+
+(b) Automatic regulators of electrical quantities, and instruments or
+apparatus for automatically controlling non-electrical quantities.
+
+1.4 As explained above, it can be understood that ECU sends signals which
+controls the movement of pneumatic/ air through the modulator valves.
+Further, the ECU has a Printed Circuit Board Assembly attached to it. The
+ECU acts as an intelligent regulator by controlling and regulating the flow of
+pneumatic through the modulator valves.
+
+1.5 Therefore, ECU does not merely send signals but also undertakes
+regulating/controlling function. Given this, the applicant submits that the
+above functionality of ECU gets covered under Note 7 (b) of Chapter 90 and
+therefore, the appropriate classification is Heading 9032 and more specifically
+under the Tariff 90328990.
+
+1.6 Further WCO HSN Explanatory notes on Heading 9032 (The same has
+been attached by the applicant as Annexure-4) provides the following scope:
+
+“The Automatic Regulators of this heading are intended for use in complete
+automatic control systems which are designed to bring quantity, electrical or
+non-electrical, to, and maintain it at, a desired value, stabilized against any
+disturbances, by constantly or periodically measuring its actual value. They
+consist essentially of the following devices:
+
+A) A measuring device (sensing device, converter, resistance probe,
+thermocouple, etc.) which determines the actual value of the variable to be
+controlled and converts it into proportional electrical signal.
+
+B) An electric control device which compares the measured value with the
+desired value and gives a signal (generally in the form of modulated
+current).
+
+C) A starting, stopping or operating device (generally contracts, switches or
+circuit brakers, reversing switches or sometimes relay switches) which
+supplies current to an actuator in accordance with the signal received from
+the control device.
+
+An automatic regulator within the meaning of Note 7(b) to the Chapter consists
+of the devices described in (A), (B) and (C} above, whether assernbled together
+as a single entity or in accordance with Note 3 to this Chapter, a functional
+
+unit.
+
+Page 7 of 13
+
+
+Automatic regulators are connected to an electrical, pneumatic or hydraulic
+actuator which brings the controlled variable back to the desired value. This
+actuator may be the clamps which adjust the gap between the electrodes of an
+arc furnace, the motorized value which controls the intake of water or steam in
+a boiler, furnace, a pulping machine, etc.”
+
+1.7 From the above, it can be understood that following conditions are required
+to classify a product under the Chapter Heading 9032.
+
+° Apparatus for automatically controlling liquids or gases or temperature,
+within the meaning of Note 7(a) to this Chapter, consists of three devices
+(viz., A device for measuring the variable to be controlled, control device
+and starting /stopping /operating device) forming a single entity or a
+functional unit.
+
+e Instruments and apparatus for automatically controlling the flow, level,
+pressure and other variable of liquids or gases or for automatically
+controlling temperature are connected to an appliance which carries out
+the orders (pump, compressor, valve, furnace burner, etc.) which
+restores the variable to the prescribed value, or which, in the case of a
+safety system, for instance, stops the operation of the machine or
+apparatus controlled.
+
+1.8 As explained above in Para 1.1 to 1.7, the applicant is of understanding
+that ECU sends signals which controls the movement of pneumatic/air through
+the modulator valves. Further, the ECU has a printed Circuit Board attached
+to it. The ECU acts as an intelligent regulator by controlling and regulating the
+flow of pneumatic through the modulator valves.
+
+Therefore, ECU does not merely send signals but also undertake
+regulating/controlling function. Given this, the applicant submits that the
+above functionally of ECU gets covered under Note 7(b) of Chapter 90 and
+therefore, the appropriate classification is Heading 9032 and more specifically
+under the Tariff 90328990.
+
+2. ECUs are not classifiable under Chapter 87.
+
+2.1 Having submitted that the applicant is of the view that the ECUs are
+classifiable under Chapter 9032, the next question which arises is that whether
+the said product can be classified as “parts and accessories” of motor vehicles
+falling under Chapter 87.
+
+2.2 In this regard, it is important to refer to Note 2 and Note 3 to Section XVII
+(i.e. Section under which Chapter 87 falls) Note 2 provides that the expressions
+“parts” and “parts and accessories” do not apply to a set of articles enumerated
+therein, whether or not they are identifiable as for the goods of Section XVII.
+One of the specific exclusions specified is “Articles of Chapter 90”. The
+Applicant has enclosed the Note-2 Section XVII as Annexure-5. The extract of
+Note 2 is as follows:
+
+Page 8 of 13
+
+
+“2. The expressions “parts” and “parts and accessories” do not apply to
+the following articles, whether or not they are identifiable as for the
+goods of this section:
+
+(g) Articles of chapter 90;
+
+»
+
+2.3 Further, Note 3 provides that References in Chapters 86 to 88 to “parts” or
+“accessories” do not apply to parts or accessories which are not suitable for use
+solely or principally with the articles of those Chapters. The extract of Note 3 is
+as follows:
+
+“3. References in chapters 86 to 88 to “parts” or “accessories” do not apply to
+arts or accessories which are not suitable for use solely or principally with the
+articles of those chapters. A part or accessory which answers to a description in
+two _or more of the headings of those chapters is to be classified under that
+heading which corresponds to the principal use of that part or accessory.”
+
+2.4 Therefore, from a combined reading of Note 2 and Note 3, it can be inferred
+that for a part to be classified under Chapter 87 (i.e. Section XVII}, it has to
+satisfy the test of Note 2 and Note 3. In this regard, the applicant referring to
+the submission made in Para 1.1 to Para 1.8 is of the view that ECUs arc
+classifiable under Chapter 90 and therefore it will fall under the exclusion
+category of Note 2 of Section XVII. Once the product falls under exclusion
+category of Note 2, test for a product to be classified as parts and accessories of
+motor vehicle under Chapter 87 is not satisfied.
+
+2.5 Given the above, the applicant submits that since the ECU imported by ZF
+is classifiable under Chapter 90 and articles of Chapter 90 are excluded from
+Note 2 of Section XVII, it is reasonable to conclude that product automatically
+becomes excluded to be classified a part and accessories of motor vehicles
+under Chapter 87 of Section XVII.
+
+2.6 Reliance is placed on Hon’ble Supreme Court decision in case of CCE
+Aurangabad versus M/s. Videocon Industries Ltd. (CIVIL APPEAL NO(S). 5622
+OF 2009 and CIVIL APPEAL NO(S}, 8026 OF 2022) wherein the Hon’ble
+Supreme Court has upheld the decision of CESTAT providing that where the
+goods are excluded from a particular chapter, the “pull in” through a note has
+to be narrowly construed, as otherwise, the basis of exclusion would be
+defeated, and the earlier note (of exclusion) rendered redundant. It further held
+that headings that are specifically provided, should be preferred over the
+general ones, is decisive.
+
+Thus, it was held the revenue’s contention that by virtue of Note 2(b) to
+Chapter 85, the goods are to be classified based on their principal or sole use is
+insubstantial because of the clear mandate of Note l{m), which excludes
+Chapter 90 goods (which includes LCD panels). More importantly, Note 2 opens
+
+Page 9 of 13
+
+
+with the expression “subject to Note 1”. This subordinates the entire subject
+matter in Note 2; it is only where the article is a “part” which acts as an
+accessory, that the enumerated portions of Chapter 85 come into play. Such an
+interpretation is plainly untenable. Accordingly, it was held that LCD sets were
+classifiable under Chapter 90, i.e. Entry 90138010. The Copy of same has been
+enclosed by the applicant as Annexure-6.
+
+2.7 The Applicant places reliance in the case of Customs Advance Ruling
+No. CAAR/MUM/ARC/07/2022 of M/s. Tata Motors Limited wherein the
+Differential Pressure Sensors (‘DPS’] and Tyre Pressure Monitoring Sensors
+(“TPMS”}, it has been ruled by Hon’ble AAR ruled that the classification of the
+said products is under subheading 9026 00 00 of the First Schedule of the
+Customs Tariff Act 1975. The Copy of ruling has been enclosed by the
+applicant as Annexure-7.
+
+2.8 In the above backdrop, it is also relevant to note that post the Supreme
+Court decision in Westinghouse Saxby Farmer Limited Vs Commissioner of
+Central Excise, Calcutta (2021 (376) E.L.T.14(S.C), the CBIC issued Instruction
+No.01/2022-Customs dated St January 2022). In the said CBIC instructions,
+citing practical difficulties that have arisen in the course of assessment of
+automobile parts, the following was inter alia clarified as follows:
+
+- In similar matters, the Supreme Court had in the past applied divergent
+principles to determine classification and that the collective wisdom emerging
+from all judgments should be holistically looked at to determine product
+classification.
+
+- Classification of all parts of Section XVII to the Customs Tariff is to be
+determined considering all facts, details and all applicable judgements as well
+as after making references to the relevant section notes as well as relevant HSN
+explanatory notes.
+
+Further, pursuant to dismissal of Revenue’s review petition filed against the
+Supreme Court Judgement in Westinghouse Saxby, the CBIC has issued
+another Instruction (Instruction No.25/2022-Customs dated October 3, 2022) to
+clarify that the aforesaid CBIC Instructions remains valid and does not require
+any changes since the law continues to remain the same. The copy of CBIC
+Instructions has been enclosed by the applicant as Annexure-8.
+
+Therefore in the view of the above, it is relevant note that even in the present
+case, classification is required to be determined on the basis of facts,
+circumstances, applicable section/chapter notes, explanatory notes,
+judgements, etc. holistically.
+
+Therefore, it can be seen that the articles of the Chapter Heading 9032 cannot be
+regarded as “parts and accessories” of motor vehicles classifiable under
+Chapter 87.
+
+Page 10 of 13
+
+
+3. International Classification - Classification of ECU obtained from
+different feedstock as adopted by international agencies
+
+3.1 As Harmonized System of Nomenclature (HSN) is adopted internationally for
+classification of goods, classification adopted in other countries can be relied
+upon to arrive at the Tariff heading in India. In this context we submit decision
+of Customs classification confirming Tariff heading of ECU in the Chapter 90.32
+of HSN, adopted by Customs Authorities of United States of America (USA).
+
+3.2 In case of US cross Ruling No. HQ 954950 dated 23 December 1993 where
+an Electronic Control Unit (ECU) for an automobile was classified under Tariff
+Item 90328960 of the US Customs Tariff Schedule. Copy of ruling is enclosed as
+Annexure-9. Relevant extract is reproduced below:
+
+“The electronic control unit (ECU) in issue is provided for in heading 9032. It is
+classifiable in subheading 9032.89.60, HTSUS, as automatic regulating or
+controlling instruments and apparatus”.
+
+3.3 From the above ruling, from the above cited US Cross ruling, it can be said
+that even internationally ECUs are classified under Chapter Heading 9032.
+
+Il.GST rate for the ECU
+
+1. Based on the above mentioned submissions, the applicant is of the view that
+ECUs are classifiable under Chapter 9032.
+
+2. CGST rates are provided in Notification No.01/2017/-Central Tax (Rate) dated
+28t June 2017. As per the said notification, HSN 9032 is taxable at 9% rate of
+CGST vide Entry No.422 of Schedule — III.
+
+Relevant Extract is reproduced below:
+
+S. No. Chapter/Heading/ Description of Goods
+Subheading/
+Tariff item
+
+422 9032 Automatic regulating or controlling
+instruments and apparatus
+
+3. Further, the applicant have also referred the Notification No.1/2017-
+Integrated Tax (Rate) dated 28 June 2017, where Integrated Goods and
+Services Tax (IGST) rates are provided. As per the said notification HSN
+9032 is taxable at 18% of IGST vide Entry No 422 of Schedule-IIl.
+
+S. No. Chapter/Heading/ Description of Goods
+Subheading/
+Tariff item
+422 9032 Automatic regulating or controlling
+
+instruments and apparatus
+
+Page 11 of 13
+
+
+4. Therefore, the applicant is of the view that ECUs are taxable at 18% rate
+(CGST 9% and SGST 9%; IGST 18%)
+
+5.1 The applicant is under the administrative control of Center Tax Authority.
+The concerned Authorities of the Centre and State were addressed to report the
+detailed remarks and no pendency report on the questions raised by the applicant
+in their ARA application.
+
+5.2 The concerned Central Authority has not reported anything, hence it is
+construed that there are no pending proceedings against the applicant on the
+questions raised by the applicant in the ARA application.
+
+5.3 The State Authority has not reported anything, hence it is construed that
+there are no pending proceedings against the applicant on the questions raised by
+the applicant in the ARA application.
+
+6. In these circumstances, the applicant was given an opportunity to be heard in
+person on 20.08.2024 vide this office memorandum No.343/2023, dated
+12.08.2024. In pursuance to this, the Applicant vide their letter dated 14.08.2024,
+received through e-mail dated 16.08.2024, have informed that they have decided to
+withdraw their ARA application and requested to consider the same.
+
+DISCUSSION AND FINDINGS:
+
+7. After due consideration, the Applicant’s letter dated 14.08.2024, received
+through e-mail dated 16.08.2024 is taken on record, wherein the applicant has
+informed that they have decided to withdraw their ARA application. Accordingly,
+the Applicant’s request is considered and the application is disposed as withdrawn
+without going into the merits or detailed facts of the case.
+
+In view of the above, we rule as under:
+
+RULING
+
+The ARA Application received from the applicant on 28.06.2023 is disposed
+as withdrawn as per the request of the Applicant.
+
+oO \\\porey
+
+(BALAKRISHNA 8S.)
+Member (CGST)
+
+Page 12 of 13
+
+
+To
+
+M/s. ZF Commercial Vehicle Control Systems India Limited
+
+Plot No. 3, South phase, Third Main Road, Ambattur Industrial Estate,
+Chennai - 600 058.
+
+(By RPAD)
+
+Copy submitted to:
+
+1. The Principal Chief Commissioner of GST & Central Excise,
+26/1, Mahatma Gandhi Road, Nungambakkam, Chennai-600 034.
+
+2. The Commissioner of Commercial Taxes,
+2™Floor, Ezhilagam, Chepauk, Chennai - 600 005.
+
+3. The Principal Commissioner of GST & Central Excise,
+Chennai (North) Commissionerate,
+26/1, Uthathamar Mahatma Gandhi Road,
+
+Nungambakkam, Chennai 600 034.
+Copy to:
+
+1. The Assistant Commissioner (ST),
+Ambattur Assessment Circle,
+Integrated Building for Commercial Taxes and Registration Dept.,
+Nandanam, Chennai — 600 035.
+
+2. Master File / spare - 2,
+
+Page 13 of 13

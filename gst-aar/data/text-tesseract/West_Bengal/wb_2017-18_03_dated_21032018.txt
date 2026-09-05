@@ -1,0 +1,250 @@
+Page 1 of 5 
+ 
+WEST BENGAL AUTHORITY FOR ADVANCE RULING 
+GOODS AND SERVICE TAX 
+14 Beliaghata Road, Kolkata - 700015 
+                                                                                                         
+ 
+ 
+1. The Applicant, stated to be a supplier of power solutions, including UPS, servo stabiliser, 
+batteries etc. wants a ruling on the classification of the supply when it supplies UPS along with 
+the battery. More specifically, he wants a ruling on whether such supplies can be treated as 
+Composite Supply within the meaning of Section 2(30) of the CGST/WBGST Act, 2017 
+(hereinafter referred to as “the GST Act”). An Advance Ruling is admissible on this issue under 
+Section 97 (1) of the GST Act.  
+ 
+ 
+2. The Applicant also declares that the issue raised in the application is not pending or decided in 
+any proceedings under any provisions of the GST Act. The concerned officer, in his written 
+response, raises no objection to the admission of the application. The application is, therefore, 
+admitted.  
+ 
+ 
+3. For the purpose of taxation under the GST Act classification of the goods involved (UPS and 
+battery) the classification of the goods has been determined in terms of Notification                
+No. 01/2017-Central Tax (Rate) dated 28/06/2017 (1125-FT dated 28/06/2017 of the WBGST 
+Act, 2017; (hereinafter referred to as “the State Tax”), as amended vide Notification No. 
+41/2017-Central Tax (Rate) dated 14/11/2017 (2019-FT dated 14/11/2017 of the State Tax) 
+(hereinafter collectively referred to as the “Rate Notifications on Goods”).  
+ 
+Schedule Serial 
+No. 
+Tariff 
+Head 
+Description 
+Remarks 
+IV 
+138 
+8506 
+Primary cells and primary 
+batteries 
+Omitted w.e.f 15/11/17 vide 
+Notification No. 41/2017-
+Central (Rate) dated 
+14/11/17 
+IV 
+139 
+8507 
+Electric accumulators, 
+including separators, whether 
+rectangular (including square) 
+ 
+III 
+375 
+8504 
+Transformers Industrial 
+Electronics; Electric 
+Transformers; Static 
+Convertors (UPS) 
+ 
+Name of the applicant 
+Switching Avo Electro Power Ltd  
+Address 
+230 S N Roy Road, Kolkata – 700038 
+GSTIN 
+19AAICS2473C1ZC 
+Case Number / ARN 
+04 of 2018 
+Date of application 
+17th January,2018 
+Order Number and Date 
+03/WBAAR/ 2017-18 
+Applicant’s representative 
+heard 
+Sri Rabindra Agarwal, Director, Switching Avo Electric Power 
+Limited 
+
+
+Page 2 of 5 
+ 
+III 
+376A 
+8506 
+Primary cells and primary 
+batteries 
+Inserted w.e.f 15/11/17 vide 
+Notification No. 41/2017-
+Central (Rate) dated 
+14/11/17  
+ 
+ 
+4. Explanation (v) to Notification No. 01/2017-Central Tax (Rate) dated 28/06/2017 (1125-FT 
+dated 28/06/2017 of the State Tax) clarifies that the Rules for Interpretation of the First 
+Schedule to the Customs Tariff Act, 1975 (hereinafter referred to as “the Tariff Act”) including 
+Section and Chapter Notes and General Explanatory Notes shall, insofar as may be, apply to 
+interpretation of the above Notifications. Rules framed under Section 2 of the Tariff Act are to 
+be followed for interpretation of the Section or Chapter Notes mentioned above.  
+ 
+ 
+5. Note 3 to Section XVI of the Tariff Act defines a composite machine as the one consisting of two 
+or more machines fitted together to form a whole. Such machines, as well as other machines 
+designed for the purpose of performing two or more complementary or alternative functions, are 
+to be classified as if consisting only of that component or as being that machine, which performs 
+the principal function. 
+ 
+6. Applicability of Note 3 to Section XVI of the Tariff Act (hereinafter referred to as “Note 3”) is, 
+however, not absolute, but subject to the context in which it is being applied. In the present 
+context, Note 3 is applicable subject to the definitions of composite supply and its taxability 
+under Section 8(a) of the GST Act.  
+ 
+Section 2(30) of the GST Act defines Composite Supply as 
+“ a supply made by a taxable 
+person to a recipient consisting of two or more taxable supplies of goods or services or both , or 
+any combination thereof , which are naturally bundled and supplied in conjunction with 
+each 
+other in the ordinary course of business, one of which is a principal supply”. 
+ 
+Principal Supply is defined under Section 2(90) of the GST Act as “the supply of goods/services 
+which constitutes the predominant element of a composite supply and to which any other supply 
+forming part of that composite supply is ancillary”.  
+ 
+Note 3, therefore, is applicable, in this context, to composite machines. Other machines, 
+designed for the purpose of performing two or more complementary or alternative functions, 
+however, can be classified with the help of Note 3 only if they are naturally bundled and 
+supplied in conjunction with one another in the ordinary course of business.  
+ 
+ 
+ 
+7. It appears that batteries are classified under Tariff Heads 8506 and 8507 of the First Schedule 
+of the Tariff Act. The basic difference between the two Tariff Heads is the ability of 
+accumulators to be recharged, whereas primary cell batteries cannot be recharged. An 
+accumulator is an energy storage device, which accepts energy, stores it and releases it when 
+needed. Rechargeable batteries, flywheel energy storage, capacitors etc. are examples of 
+
+
+Page 3 of 5 
+ 
+accumulators. In common usage in an electrical context, an accumulator usually refers to a 
+lead-acid battery. Hereinafter, the battery referred to by the Applicant as being supplied along 
+with UPS will refer to these accumulators.   
+ 
+8. A UPS is classified under Tariff Head 8504. It is an electrical apparatus that provides 
+emergency power to a load when the input power source or mains power fails. A UPS differs 
+from an auxiliary or emergency power system or standby generator in that it provides immediate 
+protection from input power interruptions by supplying energy stored in batteries, 
+supercapacitors or flywheels. The on-battery runtime of most UPS is relatively short but 
+sufficient to start a standby power source or properly shut down the protected equipment. A 
+UPS is typically used to protect hardware such as computers, data centres, telecommunication 
+equipment or other electrical equipment where an unexpected power disruption could cause 
+injuries or data loss.  
+ 
+9. The UPS serves no purpose if the battery is not supplied or removed. It cannot function as a 
+UPS unless the battery is attached. However, what needs to be considered is whether or not 
+these two items are “naturally bundled”. The stated Illustration to Section 2(30) of the GST Act 
+refers to a supply where the ancillary supplies are inseparable from the principal supply and 
+form an integral part of the composite supply. Note 3 also refers to a composite machine as the 
+one consisting of two or more machines fitted together to form a whole. When a UPS is 
+supplied with built-in batteries so that supply of the battery is inseparable from supply of the 
+UPS, it should be treated as a composite supply and as a composite machine in terms of Note 
+3. The UPS being the principal supply, the relevant tariff head for the composite supply will be 
+8504 under serial no. 375 of Schedule III in terms of Notification No. 01/2017-Central Tax 
+(Rate) dated 28/06/2017 (1125-FT dated 28/06/2017 of the State tax). 
+ 
+10. But a standalone UPS and a battery can be separately supplied in retail set up. A person can 
+purchase a standalone UPS and a battery from different vendors. The applicant himself admits 
+that he supplies the battery and UPS as separate machines as well as UPS with battery. It is, 
+therefore, obvious that the UPS and the battery have separate commercial values as goods and 
+should be taxed under the respective tariff heads when supplied separately.  
+ 
+11. The question, however, is what should be the tariff head when the UPS and the battery are 
+supplied as separate goods, but a single price is charged for the combination of the goods 
+supplied as a single contract. The UPS and the battery, being supplied as separate goods, no 
+longer form an integral part of a composite machine, but it remains to be discussed whether or 
+not under these circumstances they may be considered as “naturally bundled”. The applicant 
+insists that as the battery, being supplied as part of an integral contract, remains naturally 
+bundled with UPS - the principal supply. The argument is fallacious. Goods are naturally bundled 
+in a supply contract if the contract is indivisible. For example, a works contract within the 
+meaning of section 2 (119) of the GST Act is a composite supply. Steel, cement and other goods 
+
+
+Page 4 of 5 
+ 
+and services supplied are inseparable in a contract for civil construction. The recipient has not 
+contracted for the supply of steel, cement or architectural service, but for the service of 
+constructing the civil structure, where all these supplies are inseparable and, therefore, naturally 
+bundled. The contract for the supply of a combination of UPS and battery, if not built as a 
+composite machine, is not indivisible. The recipient can split it up into separate supply contracts 
+if he chooses. The goods supplied in terms of such contracts are, therefore, no longer naturally 
+bundled and cannot be treated as a composite supply.  
+ 
+ 
+12. If a combination of goods that does not amount to a composite supply is being offered at a 
+single price, such supplies are to be treated as mixed supplies. Mixed supply is defined under 
+section 2(74) of the GST Act as one where “two or more individual supplies of goods/services 
+or any combination thereof, made in conjunction with each other by a taxable person for a 
+single price where such supply does not constitute a composite supply”. The stated Illustration 
+to Section 2(74) of the GST Act refers to a package of items which can be supplied separately 
+and are not dependent on each other, but for the instant purpose are being packaged together. 
+ 
+13. Based on information furnished by the Applicant and the Purchase Order supplied by them as 
+Sample of the Billing done by them it is seen that though UPS and Battery are two different and 
+independent items, they are billed together and a single peice is quoted for the sale. 
+ 
+In view of the foregoing we rule as under 
+ 
+RULING 
+ 
+The supply of UPS and Battery is to be considered as Mixed Supply within the meaning of 
+Section 2(74) of the GST Act, as they are supplied under a single contract at a combined single 
+price.  
+ 
+ 
+This ruling is valid subject to the provisions under Section 103(2) until and unless declared void 
+under Section 104(1) of the GST Act 
+ 
+                             Sd-                                                                                                 Sd- 
+                        (VISHWANATH)  
+ 
+ 
+ 
+ 
+       (PARTHA SARATHI DEY) 
+                             Member                                                                                         Member 
+West Bengal Authority for Advance Ruling                              West Bengal Authority for Advance Ruling
+ 
+ 
+ 
+ 
+ 
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Page 50f5

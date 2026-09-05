@@ -1,0 +1,751 @@
+Page 1 of 13 
+ 
+WEST BENGAL AUTHORITY FOR ADVANCE RULING              
+GOODS AND SERVICES TAX 
+14 Beliaghata Road, Kolkata – 700015 
+(Constituted under section 96 of the West Bengal Goods and Services Tax Act, 2017) 
+ 
+BENCH 
+Mr Brajesh Kumar Singh, Joint Commissioner, CGST & CX  
+Mr Joyjit Banik, Senior Joint Commissioner, SGST 
+Preamble 
+A person within the ambit of Section 100 (1) of the Central Goods and Services Tax Act, 
+2017 or West Bengal Goods and Services Tax Act, 2017 (hereinafter collectively called „the 
+GST Act‟), if aggrieved by this Ruling, may appeal against it before the West Bengal 
+Appellate Authority for Advance Ruling, constituted under Section 99 of the West Bengal 
+Goods and Services Tax Act, 2017, within a period of thirty days from the date of 
+communication of this Ruling, or within such further time as mentioned in the proviso to 
+Section 100 (2) of the GST Act.  
+Every such appeal shall be filed in accordance with Section 100 (3) of the GST Act and the 
+Rules prescribed thereunder, and the Regulations prescribed by the West Bengal Authority 
+for Advance Ruling Regulations, 2018.  
+Name of the applicant 
+SUEZ INDIA PRIVATE LIMITED 
+Address 
+1/15F, GOPAL CHANDRA BOSE LANE, KOLKATA, 
+700050 
+GSTIN 
+19AAACD0136D1Z9 
+Case Number 
+17 of 2021 
+ARN 
+AD190921004448Z 
+Date of application 
+September 27, 2021 
+Order number and date 
+17/WBAAR/2021-22 dated 31.12.2021 
+Applicant’s representative heard 
+Mr. Sandip Choraria, Authorized Representative 
+Mr. Rajkumar Banerjee, Authorized Representative 
+Ms. Payel Agarwal, ACA 
+ 
+1.1 At the outset, we would like to make it clear that the provisions of the Central Goods and 
+Services Tax Act, 2017 (the CGST Act, for short) and the West Bengal Goods and Services 
+Tax Act, 2017 (the WBGST Act, for short) have the same provisions in like matter except for 
+certain provisions. Therefore, unless a mention is specifically made to such dissimilar 
+provisions, a reference to the CGST Act would also mean reference to the corresponding 
+similar provisions in the WBGST Act. Further to the earlier, henceforth for the purposes of 
+these proceedings, the expression „GST Act‟ would mean the CGST Act and the WBGST 
+Act both.                          
+ 
+ 
+1.2 The applicant is stated to be engaged in the business of design, construction and 
+operation and maintenance of water distribution networks for municipal bodies across India. 
+
+
+Page 2 of 13 
+ 
+1.3 The applicant entered into a performance based contract for water loss management 
+with Kolkata Municipal Corporation (KMC, for short) which includes construction of water 
+distribution networks and operation & maintenance in the Cossipore area in the city of 
+Kolkata. The contract was awarded by KMC vide letter of acceptance dated 4th October, 
+2016. 
+ 
+1.4 The applicant submits that the contract was awarded to him for a single lump sum 
+amount. However, for the contract signing purposes, KMC shared two separate contracts for 
+DB phase and O&M phase along with the Letter of Award. 
+ 
+1.5 The applicant has made this application under sub-section (1) of section 97 of the GST 
+Act and the rules made there under raising following questions vide serial number 14 of the 
+application in FORM GST ARA-01: 
+ 
+(i) 
+Whether based on the facts of the agreement entered between the applicant 
+and KMC, Establishment of District Meter Areas, Construction Works and 
+Operation & Maintenance (hereinafter referred to as “DB” and “O&M” 
+respectively) be considered as divisible supplies under the GST Laws? 
+ 
+(ii) 
+If the answer to (1) is not affirmative, whether the agreement entered between 
+the applicant and KMC be treated as single contract for composite supply of 
+DB and O&M and what would be its taxability under GST regime? 
+ 
+(iii) 
+If the answer to (1) is affirmative (i.e. DB and O&M will be considered as 
+divisible), would O&M be regarded as pure services contract falling under 
+clause (b) of para 5 of Schedule II to The CGST Act, 2017? Accordingly, input 
+tax credit would become the cost in the hands of the applicant in connection 
+with the O&M contract. Thus recoverable from client under change in Law 
+clause. 
+ 
+1.6 The aforesaid question on which the advance ruling is sought for is found to be covered 
+under clause (a) and (e) of sub-section (2) of section 97 of the GST Act. 
+ 
+1.7 The applicant states that the question raised in the application has neither been decided 
+by nor is pending before any authority under any provision of the GST Act. 
+1.8 The officer concerned from the Revenue has raised no objection to the admission of the 
+application. 
+1.9 The application is, therefore, admitted. 
+ 
+2. Submission of the Applicant 
+ 
+Fact of the case as submitted by the applicant along with interpretation of law made by him is 
+reproduced herein under: 
+2.1 Kolkata Municipal Corporation had floated a tender in February 2016 for “Performance 
+based contract for water loss management in the Cossipore Service Zone Ward Numbers 1 
+
+
+Page 3 of 13 
+ 
+to 6” which includes construction of water distribution networks and operation & maintenance 
+in the Cossipore area in the city of Kolkata. A single tender was floated for Design & 
+Construction of water networks („DB‟) and Operation & Maintenance („O&M‟) by KMC. As per 
+the tender, the bidder was required to submit a single bid for the construction (DB) as well as 
+O&M of water distribution networks (i.e. bidder did not have any option under tender terms to 
+either bid for DB or O&M as it was a single scope contract i.e. construction and O&M of 
+water distribution network).  
+2.2 The applicant furnishes a copy of “Invitation for Bids” dated 25.02.2016 and submits that 
+the works and the principal quantities involved, but not limited to, are: 
+SI 
+No 
+Description of Items 
+Unit 
+Quantity(Approx.) 
+1 
+Establishment of District Meter Areas in ward 
+no 1 to 6 
+LS 
+1 
+2 
+Providing D.I. K-9 grade pipes with internal 
+cement mortar lining of assorted diameters 
+between 100 mm dia to 700 mm dia 
+KM 
+140 
+3 
+Providing and supplying Polyethelence Pipes 
+of assorted diameters 
+KM 
+13 
+4 
+Supply and Installation of various types of 
+Valves of assorted diameters 
+Nos 
+222 
+5 
+Supply and Installation of Domestic water and 
+bulk meters of assorted diameters 
+Nos 
+25000 
+6 
+Water loss reduction(NRW) and management 
+services and Operation and Maintenance for 
+a period of 3 years 
+Years 
+3 
+ 
+2.3 The applicant was awarded the contract by KMC vide letter of acceptance dated 4th 
+October, 2016 and for the contract signing purposes, KMC shared two separate contracts for 
+DB phase and O&M phase (In line with its usual practice to ensure performance of 2 type of 
+scope in single agreement) along with the Letter of Award. However, as per the tender 
+documents and subsequently the signed contract between KMC and the applicant, the 
+subject works contract was awarded to the applicant for a single lumpsum amount. Special 
+conditions of the contract specify that the contractor shall be bound to carry out the O&M 
+(maintenance) of the installed plants for specified years. 
+2.4 The applicant submits that the contract has a particular sequence of activity whereby 
+O&M necessarily follows after successful works completion and is subject to achievement of 
+Key Performance Indicators (KPIs). It could be implied that a breach in DB works has a 
+definitive impact on the O&M scope of work.  
+2.5 The applicant submits further that in the DB phase of the contract, the applicant needs to 
+lay down water distribution networks in the specified area and in the operation and 
+maintenance phase, it needs to operate and maintain the said network. However, it is 
+apparent that both the contracts are interdependent on each other to achieve the key 
+objective of Water Loss Reduction and expected performance outcomes. Therefore, second 
+contract cannot be executed independent of the first contract. 
+2.6 The scope of the Project shall consist of: 
+
+
+Page 4 of 13 
+ 
+A. During Design & Construction Period [Clause 6.2.1 of the Bidding document]: 
+ 
+ 
+Preparation of System improvement Plan (SIP) within specified period and according 
+to the contract conditions. SIP Preparation & Implementation shall include but not 
+limited to the survey & investigations of existing assets, distribution network, 
+mapping, freezing selected OMA boundaries, hydraulic modelling, the necessity, and 
+the extent of rehabilitation required. SIP submission shall be done priority zone wise. 
+ 
+ 
+Surveys and Investigations of transmission and distribution network for levels. 
+ 
+ 
+Supply, laying, installation and commissioning of distribution network in specified 
+area of Cossipore Zone in accordance with the SIP and technical specifications; 
+ 
+ 
+Distribution System -Supply, Laying, Installation and Commissioning of distribution 
+network with HDPE pipe for 13kms and DI pipe for 140kms.  
+ 
+ 
+Providing house service connections with specified (MDPE/GI) type of pipe on DI and 
+HDPE pipe. 
+ 
+ 
+Providing and installing butterfly, sluice Valves, bulk flow meter, PRV valves; 
+ 
+ 
+Finding invisible leaks in pipeline network, carrying out repairs and allied works 
+ 
+ 
+SCADA system for distribution system management. 
+ 
+ 
+B. During Operation and Maintenance Period from Initial Take over date [Clause 
+6.2.2 of the Bidding document] 
+ 
+ 
+Operation and maintenance of infrastructure within the DMA‟s established under this 
+Project including major and minor repairs. 
+ 
+ 
+Operation & Maintenance of the distribution network for distributing water efficiently, 
+equitably and minimizing water loss and maintaining infrastructure on DMA basis. 
+ 
+ 
+Providing continuous (24 x 7) pressurized water supply to the connected consumers 
+and maintaining the infrastructure. 
+ 
+ 
+Collection of water and sending the same to Laboratory for testing of water quality & 
+ensure it meets Potable Water Specifications.  
+ 
+ 
+Detecting and monitoring non-revenue connections and consumption and inform 
+about such connections to KMC and install meters to measure consumption. 
+ 
+ 
+Provide consumer service connections on approval/sanction by KMC. 
+ 
+ 
+Operation and Maintenance of SCADA and monitoring system through computerized 
+water management system. 
+
+
+Page 5 of 13 
+ 
+2.7 The applicant submits that at the time of submission of Bid, VAT and Service Tax were 
+applicable on contract. Further, as per the tender documents and subsequently the signed 
+contract, it was imperative for the bidder to maintain price of O&M phase to a certain 
+percentage of contract price which was a minimum 28% of total contract value. The 
+applicant has referred relevant extract from the bidding documents to substantiate the 
+aforementioned submission:  
+Bidders shall quote the contract price as per following 
+i) 
+DMA Establishment Price shall be minimum 18% of the contract price ii) 
+Operation & Maintenance Service Price shall be minimum 28% of the 
+contract price as per price bid 
+ii) 
+The ratio of Establishment of District Meter Areas Amount, Construction 
+Works Amount & Operation and Maintenance Services Amount shall be in 
+the ration of 18:54:28. 
+The following basis shall be applicable for evaluation of the bid during the bidding stage: 
+Any increase in Construction Works Amount shall be subject to comparison to the ratio 
+above. In that case, Construction works Amount will be reduced and adjusted with 
+Establishment of District Meter Areas Amount and Operation and Maintenance Services 
+Amount proportionately by keeping the total Bid value for contract price unchanged. 
+2.8 The accepted contract value was for INR 212.40 Cr including taxes and duties (such as 
+VAT, service tax etc.) 
+ 
+Establishment of DMA Quote: INR 38.23 cr; 
+ 
+Construction Works: INR 114.69 cr; and 
+ 
+O&M Quote: INR 59.47 cr  
+However, post implementation of GST, discussions were held with the Client. Basis the 
+same, only the value for construction works was revised upwards by 5.31% under the 
+change in law provisions of the contract. Impact of GST provisions on O&M scope of Works 
+quote under change in law clause of the contract was deferred for discussion. 
+2.9 The applicant submits that Clause 18 of the payment terms referred to in the General 
+Conditions stipulates that the payment of the retention money or bank guarantee for the 
+works shall be refunded after the expiry of O&M phase for the water distribution network 
+installed by the applicant and certificates to this effect are obtained from the competent 
+authorities i.e. 50% of retention money shall be released after completion of O&M phase and 
+50% when all defects notified by engineer are corrected. 
+2.10 The applicant also submits that Article B of the agreement stipulates that, in 
+consideration of the payment to be made by the customer (KMC) to the contractor, the 
+contractor covenants with the employer to execute the work, to operate and maintain the 
+work at its rated capacity, including maintaining the plant and equipment in good operating 
+condition, normal wear and tear excepted, and remedying any defects therein in conformity 
+in all respects with the provisions of the contract. A consolidated price is stipulated as the 
+total contract price combining the contract prices of the inter related phases i.e. DB and 
+O&M under single tender.  
+
+
+Page 6 of 13 
+ 
+2.11 According to the applicant, following provisions of the GST Act is pertinent in the matter 
+of taxability on instant supply: 
+Section 8 of the Central Goods and Services Tax Act, 2017 speaks that tax liability on a 
+composite or a mixed supply shall be determined in the following manner, namely: - 
+(a) a composite supply comprising two or more supplies, one of which is a principal 
+supply, shall be treated as a supply of such principal supply; and 
+(b) … 
+ 
+where the term “composite supply” has been defined under Section 2(30) of the 
+supra Act as -   
+“composite supply” means a supply made by a taxable person to a recipient consisting of 
+two or more taxable supplies of goods or services or both, or any combination thereof which 
+are naturally bundled and supplied in conjunction with each other in the ordinary course of 
+business, one of which is a principal supply; 
+Further “principal supply” is defined under Section 2(90) as – 
+“principal supply” means the supply of goods or services which constitutes the predominant 
+element of a composite supply and to which any other supply forming part of that composite 
+supply is ancillary;  
+2.12 Therefore, when two or more taxable supplies of goods or services or both are made by 
+a taxable person to a recipient, where such supplies are naturally bundled and are supplied 
+in conjunction with each other in the ordinary course of business, one of them being a 
+principal supply, then the said supplies shall be treated as a supply of such principal supply 
+and tax liability shall be determined accordingly. 
+Moreover, para 6 of the Schedule II to the CGST Act, 2017 reads as under –  
+The following composite supplies shall be treated as a supply of services, namely:-  
+(a) works contract as defined in clause (119) of section 2; and 
+(b)... 
+where “works contract” as defined under Section 2(119) means –  
+“a contract for building, construction, fabrication, completion, erection, installation, fitting out, 
+improvement, modification, repair ,maintenance, renovation, alteration or commissioning of 
+any immovable property wherein transfer of property in goods (whether as goods or in some 
+other form) is involved in the execution of such contract;” 
+Since composite supply of works contract has been explicitly classified as supply of service 
+under Schedule II, the concept of works contract follows that:  
+ Works contract in itself is a composite supply in which construction, fabrication, 
+completion, erection, installation, fitting out, improvement, modification, repair, 
+maintenance, renovation, alteration or commissioning etc. are involved along with 
+transfer or property in goods.   
+
+
+Page 7 of 13 
+ 
+ In GST, as per definition of works contract service if construction, fabrication, 
+completion, erection, installation, fitting out, improvement, modification, repair, 
+maintenance, renovation, alteration or commissioning is for immovable property 
+only, then it will classify as works contract. Hence it means that aforesaid activities if 
+they are undertaken for a movable property then it will not be works contract service.  
+ Notification No. 20/2017-Central Tax (Rate) dated 22nd August, 2017 provides that 
+Composite supply of works contract as defined in clause (119) of section 2 of the 
+Central Goods and Services Tax Act, 2017, supplied to the Government, a local 
+authority or a Governmental authority by way of construction, erection, 
+commissioning, installation, completion, fitting out, repair, maintenance, renovation, 
+or alteration of, pipeline, conduit or plant for (i) water supply (ii) water treatment, or 
+(iii) sewerage treatment or disposal shall would fall under Entry 3(iii) with HSN Code 
+99544 attracting GST @ 12%. 
+2.13 The applicant contends further that if the O&M contract is held to be independent of DB 
+supply, the former shall be considered as a pure service extended to a government entity 
+and hence would be considered as an exempt supply under Entry 3 of Notification no. 
+12/2017-Central Tax (Rate) dated 28.06.2017. 
+Sl. 
+No. 
+Chapter, Section, 
+Heading, 
+Group 
+or Service Code 
+(Tariff) 
+Description of Services 
+Rate (per 
+cent.) 
+Conditi
+on 
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+3  
+Chapter 99 
+Pure services (excluding works contract 
+service 
+or 
+other 
+composite 
+supplies 
+involving supply of any goods) provided to 
+the 
+Central 
+Government, 
+State 
+Government or Union territory or local 
+authority or a Governmental authority or a 
+Government Entity by way of any activity 
+in relation to any function entrusted to a 
+Panchayat under article 243G of the 
+Constitution or in relation to any function 
+entrusted to a Municipality under article 
+243W of the Constitution. 
+Nil 
+Nil 
+ 
+2.14 The applicant submits that in a turn-key project, more particularly of the kind involved in 
+this application, the same person has been entrusted with the responsibility of construction, 
+and of operation and maintenance of the plant. While in-built safeguards are provided in all 
+the contracts to ensure quality of the works and services and effective performance of the 
+erection contract, the supply contracts, in substance, do not absolve the applicant-contractor 
+of its obligation of operation and maintenance of the networks after laying down of water 
+distribution networks in the specified area to the employer. The applicant-contractor‟s 
+obligations, under both the construction and maintenance contracts, cease only after the 
+turn-key project becomes operational and after final payment is made both for laying down of 
+water distribution network and for operation and maintenance of the said network. 
+
+
+Page 8 of 13 
+ 
+2.15 Furthermore, existence of a cross-fall breach clause, or a clause which enables the 
+employer to terminate the supply contract for breach of the contract and vice-versa, would 
+mean that, while the contracts are ostensibly two separate contracts - one for laying down of 
+water distribution networks and the other for rendering works and services for operation and 
+maintenance of the said networks, they are, in fact, one single indivisible contract. The 
+construction of water distribution networks supplied to the employer, under the supply 
+contracts, is tailor made supply, and cannot be bought off the shelf. Such services cannot, 
+ordinarily, be supplied to another except for in turn-key projects of a similar nature. The 
+applicant has been entrusted with the work mainly for its expertise in erection and 
+maintenance of networks in the execution of turn-key projects. As the applicant is entrusted 
+with the work of operation and maintenance of the water distribution networks, the applicant 
+-contractor has also been entrusted with the task of erection and installation of the networks. 
+The functions relating to the rendering services of erection, installation and maintenance of 
+the networks are integrally connected and are inter-dependent and therefore tender did not 
+allow to bid separately for DB and O&M scope. 
+2.16 The Client being KMC is aware of such interdependence of the two contracts. Although 
+awarded under the same LOA and two separate contract agreements signed for execution, 
+clauses under both of them make it abundantly clear that notwithstanding the break-up of the 
+contract price, the contract shall, at all times, be construed as a single source responsibility 
+contract and the applicant shall remain responsible to ensure execution of both the contracts 
+to achieve successful completion and handing over of the facilities. 
+2.17 Composite nature of the contract is further clear from the clause that defines 
+satisfactory performance of the First Contract (DB) upon completion of operation and 
+maintenance phase in Second Contract. The client has not contracted for DB phase, but for 
+the composite supply, namely works contract service for construction and operation and 
+maintenance of Water distribution network. 
+2.18 The applicant thus contends that while the form of the contracts indicate that they are 
+two separate contracts, in substance they are one single indivisible works contract for 
+construction of water distribution networks and operation & maintenance in the Cossipore 
+area in the city of Kolkata, owing to following factors: - 
+ Single letter of acceptance is issued by client without any split of contract value in it; 
+ Contract have 2 or more supplies of goods or services or both; 
+ The supplies are naturally bundled; 
+ The taxable supplies are supplied in conjunction with each other; 
+2.19 The applicant further submits that since this supply is undertaken for a Municipal 
+corporation viz. KMC, hence the rate of tax applicable on given service (as it is a works 
+contract service) shall fall under Entry 3(iii) with HSN Code 99544 and would attract CGST 
+and SGST @ 6% each.  
+ 
+ 
+3. Submission of the Revenue 
+ 
+3.1 The concerned officer from the Revenue has not expressed any view on the issue raised 
+by the applicant. 
+
+
+Page 9 of 13 
+ 
+ 
+ 
+4. Observations & Findings of the Authority  
+4.1 We have gone through the records of the issue as well as submissions made by the 
+authorised representatives of the applicant during the course of personal hearing. 
+ 
+4.2 In the instant case, the applicant, being the successful bidder, made two separate 
+agreements with KMC for Design & Construction of water networks („DB‟) and Operation & 
+Maintenance („O&M‟) respectively. Both the agreements are found to have been made in 
+pursuance of a single tender bearing contract No. KEIIP/ICB/TR-1/WS01/2015-16 dated 
+25.02.2016 for “Performance Based Contract for Water Loss Management in the Cossipore 
+Service Zone, Ward Numbers 1 to 6”. 
+ 
+4.3 The applicant has contended, as stated in Para 2.18, that though there are two separate 
+agreements, the same are made against one indivisible contract for construction of water 
+distribution networks and operation & maintenance owing to following factors: - 
+ Single letter of acceptance is issued by client without any split of contract value in it; 
+ Contract have 2 or more supplies of goods or services or both; 
+ The supplies are naturally bundled; 
+ The taxable supplies are supplied in conjunction with each other; 
+4.4 The applicant has further argued that since this supply is made to a Municipal 
+Corporation viz. KMC, hence the rate of tax applicable on given service (as it is a works 
+contract service) shall fall under Entry 3(iii) with HSN Code 99544 and would attract CGST 
+and SGST @ 6% each.  
+4.5 In order to analyze the issue involved in the instant case, we find it relevant to reproduce 
+following clauses from the “General Conditions of Contract” (GCC, for short): 
+In clause 1.1 of GCC:  
+ 
+ 
+"Contract" is the Contract between the Employer and the Contractor to execute, 
+complete and maintain the Works and Services. It consists of the documents listed in 
+GCC Clause 3. 
+ 
+ 
+"Completion Date" is the date of completion of the Works and Services as certified by 
+the Engineer in accordance with GCC Sub-Clause 32. 
+ 
+In clause 7 of GCC: 
+ 
+ 
+7.1 Unless otherwise expressly limited in Section 6, Employer‟s Requirements, the 
+Contractor‟s obligation cover the design, execution and maintained of all Works, 
+provision of all equipment and materials and the performance of all Services required 
+to reduce water losses, provide continuous pressurized potable quality water supply 
+and provide support services to Employer for timely resolution of customer 
+complaints within the Site specified in the Employer's Requirements. The Works and 
+Services include the (i)Design &Construction Phase Works includes preparation of 
+
+
+Page 10 of 13 
+ 
+SIP, DMA Establishment Works, Construction Works, Water Loss Reduction and (ii) 
+O&M Services with performance standards in waterless reduction, Continuous 
+pressurized water supply, faster resolution to customer complaints (excluding billing, 
+collection& commercial issues) and maintaining water quality. 
+ 
+In clause 8 of GCC: 
+ 
+ 
+8.1 The Contract is divided into two phases: 
+ 
+(a) Design & Construction Phase -the period of time given to the Contractor as 
+specified in the PCC from the signing of the Contract to construction completion 
+period it includes Mobilization, SIP, Construction Works, Establishment of DMAs, 
+Pipe Replacement, Meter Installation and Unforeseen Works for Waterless 
+reduction, conversion to continuous pressurized water supply and O&M from 
+Initial Take over date for DMAs commissioned before final takeover date as 
+defined in contract. At the end of Construction Phase, the Contractor will receive 
+a Certificate of Completion following the requirements of GCC Clause 32. 
+ 
+(b) O&M Phase - the period of time as specified in the PCC which begins from Final 
+take Over Date as defined in PCC after the receipt of the Certificate of 
+Completion by the Contractor as per GCC Clause 32 for which the Contractor is 
+obligated to maintain the Service levels as specified in the PCC. At the end of the 
+O&M Phase the Contractor will receive a Taking-Over Certificate following the 
+requirements of GCC Sub-Clause 33.1. 
+ 
+In clause 32 of GCC: 
+ 
+ 
+32.1 Certificate of Completion : At the end of the DMA Establishment Phase when 
+the Design & Construction Works & water loss reduction phase have been 
+substantially completed for respective DMAs or Sub DMAs in accordance with 
+Section 6, Employer's Requirements, the Contractor shall request the Engineer to 
+issue a Certificate of Sectional Completion for Design & Construction Works, and the 
+Engineer within twenty one (21) days from receipt thereof, either issue to the 
+Contractor a Certificate of Sectional Completion or give instructions in writing to the 
+Contractor specifying all the conditions to be complied with and all the work which 
+are required to be done by the Contractor before the issuance of such Certificate. 
+Upon deciding that the work is complete, the Engineer shall thereafter issue a 
+Certificate of Sectional Completion to the Contractor. 
+ 
+ 
+32.2 Initial Take Over date: If Certificate of sectional completion is issued by 
+Engineer to any construction works or part of it including DMA establishment works 
+or Sub DMA establishment works as per clause 32.1 above, before the completion of 
+Design & Construction Period as specified in PCC. Contractor shall take over the 
+O&M of such DMAs or Construction works and eligible for payment as per O&M 
+period till completion of Construction period or Final take over date, whichever is 
+earlier. 
+ 
+
+
+Page 11 of 13 
+ 
+4.6 It appears that the scope of work includes inter alia supply, laying, installation and 
+commissioning of distribution network with HDPE pipe (noted in para 2.6) along with 
+operation and maintenance. We find that the contract has been divided into two phases i.e., 
+(i) Design & Construction Phase and (ii) O&M Phase. However, completion of first phase of 
+the contract i.e., Design & Construction Phase shall entitle the contractor to apply for 
+certificate of sectional completion only as referred to in clause 32.1 of the GCC. We also find 
+that para 33.1 of GCC speaks about „Taking Over Certificate‟ wherein it is stated that „At the 
+end of the O&M Phase, the Contractor may give notice to that effect to the Engineer, 
+accompanied by a written undertaking to finish with due expedition any outstanding work 
+during the Defects Liability Period. Such notice and undertaking shall be deemed to be a 
+request by the Contractor for the Engineer to issue a Taking-Over Certificate in respect of 
+the Works and Services‟. 
+ 
+4.7 Based on the aforesaid terms and conditions of the contract, we are of the view that the 
+instant contract is to be treated as a single contract for composite supply of DB and O&M 
+which qualifies as „works contract‟ as defined in clause (119) of section 2 of the GST Act. 
+Further, as per Para 6 (a) of Schedule II to the GST Act, works contracts as defined in 
+clause (119) of section 2 shall be treated as a supply of services. So, the instant supply shall 
+be treated as supply of services. 
+ 
+4.8 Now, we take the issue in respect of taxability of the instant supply. The applicant has 
+contended that the supply is made to a Municipal Corporation viz. KMC and therefore the 
+rate of tax applicable on given service (as it is a works contract service) shall fall under Entry 
+3(iii) as amended vide Notification No. 20/2017-Central Tax (Rate) dated 22.08.2017 and 
+would attract CGST and SGST @ 6% each. 
+4.9 The said entry serial number 3(iii), subsequent to amendment made vide Notification No. 
+20/2017-Central Tax (Rate) dated 22.08.2017 and Notification No. 31/2017- Central Tax 
+(Rate) dated 13.10.2017 respectively, reads as follows: 
+ 
+Sl. 
+No. 
+Chapter, Section, 
+Heading, Group or 
+Service 
+Code 
+(Tariff) 
+Description of Services 
+Rate 
+(per 
+cent.) 
+Condition 
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+3 
+Heading 
+9954 
+(Construction 
+services) 
+(iii) Composite supply of works 
+contract as defined in clause (119) of 
+section 2 of the West Bengal Goods 
+and Services Tax Act, 2017, supplied 
+to the Central Government, State 
+Government, Union territory, a local 
+authority, a Governmental Authority 
+or a Government Entity by way of 
+construction, 
+erection, 
+commissioning, 
+installation, 
+completion, 
+fitting 
+out, 
+repair, 
+maintenance, 
+renovation, 
+or 
+alteration of,–  
+ 
+(a) a historical monument, 
+6 
+Provided 
+that 
+where the services 
+are supplied to a 
+Government 
+Entity, they should 
+have 
+been 
+procured 
+by 
+the 
+said 
+entity 
+in 
+relation to a work 
+entrusted to it by 
+the 
+Central 
+Government, State 
+Government, 
+Union territory or 
+local authority, as 
+the case may be, 
+
+
+Page 12 of 13 
+ 
+archaeological 
+site 
+or 
+remains 
+of 
+national 
+importance, 
+archaeological 
+excavation, or antiquity 
+specified 
+under 
+the 
+Ancient Monuments and 
+Archaeological Sites and 
+Remains Act, 1958 (24 
+of 1958);  
+(b) canal, 
+dam 
+or 
+other 
+irrigation works;  
+(c) pipeline, conduit or plant 
+for (i) water supply (ii) 
+water treatment, or (iii) 
+sewerage treatment or 
+disposal. 
+ 
+4.10 The applicant has made the instant composite supply of works contract to Kolkata 
+Municipal Corporation which is a local authority in terms of definition under clause (69) of 
+section 2 of the GST Act. Further, the works contract, as it appears from the scope of work, 
+involves installation and maintenance of pipeline for water supply. We therefore find that the 
+instant composite supply of works contract gets covered under entry serial number 3(iii) of 
+the Notification No. 20/2017- Central Tax (Rate) dated 22.08.2017 and therefore shall attract 
+tax @ 12% (Central Tax @ 6% + State Tax @ 6%). 
+ 
+4.11 The applicant has contended that if the O&M contract is held to be independent of DB 
+supply, the former shall be considered as a pure service extended to a government entity 
+and hence would be considered as an exempt supply under Entry 3 of Notification no. 
+12/2017-Central Tax (Rate) dated 28.06.2017. The applicant, vide serial number 14 of the 
+application in FORM GST ARA-01 has also raised a question in this regard. However, we 
+are not going to answer the question as we are of the view that the instant contract shall be 
+treated as an indivisible single contract thereby the O&M contract cannot be held to be 
+independent of DB supply. Moreover, though the term „pure services‟ has not been defined 
+under the Act, a bare reading of the description of services as specified in the aforesaid 
+entry denotes that supply of services which does not involve any supply of goods can be 
+regarded as pure services. We like to mention here that the scope of work in respect of O&M 
+contract, as per bidding documents, includes major and minor repairs, install meters to 
+measure consumption which essentially involves transfer of materials in goods. Thus, the 
+O&M contract, if it were treated to be an independent supply, wouldn‟t qualify as pure 
+services rather the same shall be held as works contract as defined in clause (119) of 
+section 2 of the GST Act.  
+ 
+In view of the above discussions, we rule as under: 
+ 
+RULING 
+ 
+The contract for water loss management made by the applicant with Kolkata Municipal 
+Corporation which includes construction of water distribution networks and operation & 
+
+
+Page 13 of 13 
+ 
+maintenance shall be treated as an indivisible single contract and qualifies for works contract 
+as defined under clause (119) of section 2 of the GST Act. 
+ 
+The instant composite supply of works contract gets covered under entry serial number 3(iii) 
+of the Notification No. 20/2017- Central Tax (Rate) dated 22.08.2017 [corresponding West 
+Bengal State Notification No. 1497 F.T. dated 22.08.2017 ] and therefore shall attract tax @ 
+12% (Central Tax @ 6% + State Tax @ 6%) w.e.f. 22.08.2017. 
+For the period from 01.07.2017 to 21.08.2017,the supply is taxable @ 18% (Central Tax @ 
+9% + State Tax @ 9%) vide entry serial number 3(ii) of the Notification No. 11/2017- Central 
+Tax (Rate) dated 28.06.2017 [corresponding West Bengal State Notification No. 1135 F.T. 
+dated 28.06.2017 ]. 
+ 
+ 
+ 
+ 
+ 
+(BRAJESH KUMAR SINGH) 
+ 
+(JOYJIT BANIK) 
+Member 
+ 
+                  Member 
+West Bengal Authority for Advance Ruling 
+ 
+West Bengal Authority for Advance Ruling

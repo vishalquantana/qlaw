@@ -1,0 +1,230 @@
+1 | P a g e  
+ 
+ 
+ 
+ 
+ 
+ 
+TELANGANA STATE AUTHORITY FOR ADVANCE RULING 
+CT Complex, M.J Road, Nampally, Hyderabad-500001. 
+(Constituted under Section 96(1) of TGST Act, 2017) 
+ 
+ 
+ 
+ 
+ 
+  Present:   
+       
+Sri B. Raghu Kiran, IRS, Additional Commissioner (Central Tax) 
+       
+Sri S.V.  Kasi Visweswara Rao, Additional Commissioner (State Tax) 
+ 
+ 
+ 
+A.R.Com/12/2019                                                                              Date:21.01.2022 
+ 
+TSAAR Order No.03/2022 
+ 
+[ORDER UNDER SECTION 98(4) OF THE CENTRAL GOODS AND SERVICES TAX ACT, 2017 
+AND UNDER SECTION 98(4) OF THE TEALANGANA GOODS AND SERVICES TAX ACT, 
+2017.] 
+****** 
+1. 
+M/s. Radiant Corporation Private Limited, Plot No.19B/P1, Radiant Estate, Tsiic Automotive Park, 
+Muppireddypally 
+Village, 
+Manoharabad 
+Mandal, 
+Medak, 
+Telangana, 
+502336  
+(36AABCR0719B1ZX) has filed an application in FORM GST ARA-01 under Section 97(1) of TGST 
+Act, 2017 read with Rule 104 of CGST/TGST Rules. 
+ 
+2. 
+At the outset, it is made clear that the provisions of both the CGST Act and the TGST Act are the 
+same except for certain provisions. Therefore, unless a mention is specifically made to any 
+dissimilar provisions, a reference to the CGST Act would also mean a reference to the same 
+provision under the TGST Act. Further, for the purposes of this Advance Ruling, the expression 
+‘GST Act’ would be a common reference to both CGST Act and TGST Act. 
+ 
+3. 
+It is observed that the queries raised by the applicant fall within the ambit of Section 97 of the 
+GST ACT. The Applicant enclosed copies of challans as proof of payment of Rs. 5,000/- for SGST 
+and Rs. 5,000/- for CGST towards the fee for Advance Ruling. The Applicant has declared that 
+the questions raised in the application have neither been decided by nor are pending before any 
+authority under any provisions of the GST Act. The application is therefore, admitted. 
+ 
+4. 
+Brief facts of the case: 
+ 
+M/s. Radiant Corporation private Limited are supplying pressure tight cables and non-pressure 
+tight cables and special cables for use in the S4 submarine by the Defense Machinery Design 
+Establishment(DMDE), Ministry of Defense, Government of India. The applicant is desirous to 
+clarify the goods supplied by them are eligible for a concessional rate of tax under Sl.No.252 
+read with Sl.No.250 of Schedule I in Notification No. 01/2017 dated: 28.06.2017. 
+ 
+5. 
+Questions raised:  
+ 
+a. What is the applicable rate of CGST on the supply of pressure tight cables, non-pressure 
+tight cables and special cables for use in S4 submarine supplied by the Applicant to DMDE, 
+Ministry of Defense, Govt of India.  
+b. Whether these goods would be considered to be as parts of warships and accordingly 
+classifiable under Sl.No.252 read with Sl.No.250 of Schedule I in Notification No. 01/2017 
+dated: 28.06.2017. 
+ 
+6.     Personal Hearing: 
+ 
+The Authorised representatives of the unit namely Ramachandra Murthy, CA & K. Janardhan, 
+AGM Finance attended the personal hearing held on 25-11-2021. The authorized representatives 
+reiterated their averments in the application submitted and contended as follows: 
+ 
+1. That, they are exclusively manufacturing cables for Indian Navy. 
+
+
+ 
+ 
+2 | P a g e  
+ 
+2. That, by virtue of Sl.No.252 read with Sl.No.250 of Schedule I of Notification No.1 of 2017 
+they are eligible for concessional rate of tax @5% (CGST + SGST)/IGST. 
+3. That, the Indian Navy issued end user certificate regarding their usage in Warships, etc.,  
+4. That, in view of the above a clarification may be issued regarding the correctness of the 
+concessional rate claim. 
+ 
+7.     Discussion & Findings: 
+ 
+The applicant claims to be supplying cables to Warships and that such parts of warships are 
+eligible for concessional rate of tax of 5% under CGST & SGST by virtue of Entry 252 read with 
+Entry 250 of Schedule I to the Notification No. 01/2017.  
+ 
+The goods supplied by the applicant are electrical cables used for electronic communication. 
+which are specifically enumerated initially at Sl.No.161 of the Schedule IV of Notification 
+No.01/2017 as item 8544. These goods are taxable initially at the rate of 28% and later at a 
+reduced rate of 18%.  
+ 
+However, the Entry 252 of the Schedule I of  Notification 01/2017, dated.28-06-2017 as 
+amended i.e., “parts of goods of headings 8901, 8902, 8904, 8905, 8906 & 8907” falling under 
+any chapter are made eligible for a concessional rate of tax of 5% under CGST & SGST.   
+ 
+In support of their contention that they are supplying cables to warships, the applicant 
+submitted purchase orders of Defence Machinery Design Establishment (DMD), Secunderabad 
+with purchase order no. HCL/85/SPL Cables (06 TYPES) S4/236 dated: 17.06.2019 and 
+HCL/85/PT-10 (04 TYPES) S4/224 dated: 26.03.2019. Perusal of the work orders reveals that 
+the applicant is entrusted with manufacture certain types of special cables by the DMD. The 
+purchase order does not mention that these will be specifically used in the manufacture of 
+warships or as spare parts in warships. However, at clause 4.2 of 1st purchase order a passing 
+reference is made wherein it is stated that “Only those Indian Standards, which are relevant for 
+Naval ships and submarines, would be considered for approval”. Rest of the clauses are 
+technical specifications without any indication regarding the end use.  
+ 
+The specifications for one cable i.e., CAT6 (PT-10) cable has in its scope the development of 
+“communication and signalling cables for marine applications” and at clause 1.2 of these 
+specifications it is mentioned that these cables are required for safe transmission of electrical 
+energy between selected devices or points. These narrations in the purchase order indicate that 
+certain cables are used to connect different devices without any indication that such devices are 
+present on the warship. However, the design data in the appendix for certain types of cables in 
+both the contracts pertain to MIL-DTL categories of cables which are used on ships.  
+ 
+As seen from the Internet, the MIL-DTL-24640 Cable Specification covers lightweight, low 
+smoke, electrical cables suitable for use in Navy shipboard applications.  The M24640 Shipboard 
+Cable is used in a variety of constructions, including watertight, watertight with circuit integrity, 
+and non-watertight and shielded or unshielded. As both the contracts contain these 
+specifications, it is clear that the cables manufactured by the applicant are used in Navy. 
+ 
+The end utilization certificate issued by the defence department show that such cables are used 
+as parts of goods mentioned under headings 8901 to 8907 except 8903.  
+ 
+The word ‘Component’ or ‘Part’ is not defined in the CGST Act, 2017. The meaning and import of 
+this word has to be obtained from the catena of case law decided by the Hon’ble Courts of India. 
+In this connection, law declared by the Hon’ble Apex Court of India in the case of Collector of 
+Central Excise, Calcutta-II and Ors. vs. Eastend Paper Industries Ltd. and Ors. (29.08.1989 - 
+SC)  AIR1990SC1893 comes to our aid wherein it was held that anything that enters into and 
+forms part of that process must be deemed to be raw material or component part of the end 
+product and must be deemed to have been used in completion or manufacture of the end 
+product. 
+ 
+In the present case, the applicant has submitted certain utilization certificates from the Naval 
+authorities. The certificates categorically state that the goods supplied are used “as stores for 
+consumption onboard of Indian Navy Ship” (Certificate dated: 29.08.2016 & 08.11.2016). 
+Similarly, in the certificate dated: 24.02.2017 it is stated that they are exclusively for use 
+onboard Indian Naval Ships. In the certificate dated: 30.03.2017 it is stated that these goods are 
+required for ATV program.   
+ 
+
+
+ 
+ 
+3 | P a g e  
+ 
+When the above (2) evidences are read in tandem, it is clear that the appellant is supplying 
+special types of cables to the Naval authorities.  
+ 
+Therefore the supplies made by the applicant to Defence Machinery Design Establishment (DMD) 
+for the purpose of use in warship building of Indian Navy will qualify for the concessional rate of 
+tax of 5% under CGST & SGST. 
+ 
+8. 
+The ruling is given as below: 
+ 
+In view of the above discussion, the questions raised by the applicant are clarified as below: 
+ 
+ 
+Questions 
+ 
+Ruling 
+a. What is the applicable rate of CGST on 
+the supply of pressure tight cables, non-
+pressure tight cables and special cables 
+for use in S4 submarine supplied by the 
+Applicant to DMDE, Ministry of Defense, 
+Govt of India.  
+2.5% CGST & SGST each. 
+ 
+b. Whether 
+these 
+goods 
+would 
+be 
+considered to be as parts of warships and 
+accordingly classifiable under Sl.No.252 
+read with Sl.No.250 of Schedule I in 
+Notification 
+No. 
+01/2017 
+dated: 
+28.06.2017. 
+ 
+Yes 
+    
+ 
+ 
+ 
+[Under Section 100(1) of the CGST/TGST Act, 2017, any person aggrieved by this order 
+can prefer an appeal before the Telangana State Appellate Authority for Advance Ruling, 
+Hyderabad, within 30 days from the date of receipt of this Order] 
+     
+To 
+M/s. Radiant Corporation Private Limited,  
+Plot No.19B/P1, Radiant Estate,  
+TSIIC Automotive Park, Muppireddypally Village,  
+Manoharabad Mandal, Medak, Telangana, 502336 . 
+  
+Copy submitted to : 
+1. The Commissioner (State Tax) for information. 
+2. The Commissioner (Central Tax),Secunderabad Commissionerate,  GST Bhavan, L.B. Stadium 
+Road, Basheerbagh, Hyderabad 500 004. 
+ 
+Copy to:  
+1. 
+The Superintendent (Central Tax) Medak Range. 2nd & 3rd Floor, Lords Court, Plot No, 80, 81,  
+SY.No. 166, Usha Mullapudi Road, Near South India Shopping Mall, A.S.Raju Nagar, Kukatpally: 
+Hyderabad -500072  
+//t.c.f.b.o// 
+ 
+ 
+ 
+ 
+ 
+Superintendent (Grade-I)

@@ -1,0 +1,771 @@
+1 | P a g e  
+ 
+WEST BENGAL AUTHORITY FOR ADVANCE RULING              
+GOODS AND SERVICES TAX 
+14 Beliaghata Road, Kolkata – 700015 
+(Constituted under section 96 of the West Bengal Goods and Services Tax Act, 2017) 
+ 
+Members present: 
+ 
+Dr Tanisha Dutta, Joint Commissioner, CGST & CX 
+Joyjit Banik, Senior Joint Commissioner, SGST 
+ 
+Preamble 
+ 
+A person within the ambit of Section 100 (1) of the Central Goods and Services Tax Act, 
+2017 or West Bengal Goods and Services Tax Act, 2017 (hereinafter collectively called ‗the 
+GST Act‘), if aggrieved by this Ruling, may appeal against it before the West Bengal 
+Appellate Authority for Advance Ruling, constituted under Section 99 of the West Bengal 
+Goods and Services Tax Act, 2017, within a period of thirty days from the date of 
+communication of this Ruling, or within such further time as mentioned in the proviso to 
+Section 100 (2) of the GST Act.  
+Every such appeal shall be filed in accordance with Section 100 (3) of the GST Act and the 
+Rules prescribed there under, and the Regulations prescribed by the West Bengal Authority 
+for Advance Ruling Regulations, 2018.  
+ 
+Name of the applicant 
+LANDMARK CARS EAST PRIVATE LIMITED 
+Address 
+Municipal Premises No 10, East Topsia Road, Kolkata, 
+Kolkata, West Bengal, 700046 
+GSTIN 
+19AACCL4207H1ZN 
+Case Number 
+WBAAR 26 of 2023 
+ARN 
+AD191123007183J 
+Date of application 
+November 17, 2023 
+Jurisdictional authority (State) 
+Large Tax Payers Unit 
+Jurisdictional authority (Centre) 
+Chowringhree Division 
+Order number and date 
+01/WBAAR/2024-25 dated 04.04.2024  
+Applicant‘s representative heard 
+Mr. NITESH JAIN, Authorised Representative 
+ 
+ 
+1.1 At the outset, we would like to make it clear that the provisions of the Central Goods and 
+Services Tax Act, 2017 (the CGST Act, for short) and the West Bengal Goods and Services 
+Tax Act, 2017 (the WBGST Act, for short) have the same provisions in like matter except for 
+certain provisions. Therefore, unless a mention is specifically made to such dissimilar 
+
+
+2 | P a g e  
+ 
+provisions, a reference to the CGST Act would also mean reference to the corresponding 
+similar provisions in the WBGST Act. Further to the earlier, henceforth for the purposes of 
+these proceedings, the expression ―GST Act‖ would mean the CGST Act and the WBGST 
+Act both. 
+ 
+1.2 The applicant is an authorised agent of Mercedes Benz for supply of cars, related spare 
+parts and is also engaged in providing various services such as repairs, warranties, roadside 
+assistance and servicing. It is responsible for facilitating the sales of Mercedes-Benz 
+passenger vehicles, including the Mercedes-Benz EQ (Electric Cars). As submitted, the 
+Applicant shall function as a self-employed commercial agent with the responsibility of 
+brokering the sales of vehicles on behalf of MB INDIA. The primary objective is to facilitate 
+and support MB INDIA's direct sales to end-customers. 
+ 
+1.3 The applicant has made this application under sub section (1) of section 97 of the GST 
+Act and the rules made there under seeking an advance ruling in respect of following 
+questions: 
+ 
+ 
+1.3.1 Whether the applicant is entitled to claim input tax credit charged and paid on 
+inward supply of car from Mercedes Benz India which are used for demonstration 
+purpose to the potential customer interested in buying Mercedes Benz Car, 
+commonly known as Demo cars? 
+ 
+1.3.2 If the answer to the above is in affirmative, what would be the classification and 
+rate of tax at the time of sale of demo car. And if the answer is negative then what 
+would be the classification and rate of tax at the time of sale of demo cars? 
+ 
+1.3.3 Whether amount received by the applicant from Mercedes Benz INDIA towards 
+reimbursement of ―Loss on Sale of Demo Car‖ constitute as supply? If yes, what is 
+the classification and rate of tax of the same under GST? 
+ 
+1.4 The aforesaid question on which the advance ruling is sought for is found to be covered 
+under clause (d) of sub-section (2) of section 97 of the GST Act. 
+ 
+1.5 The applicant states that the question raised in the application has neither been decided 
+by nor is pending before any authority under any provision of the GST Act. 
+ 
+1.6 The officer concerned from the Revenue has raised no objection to the admission of the 
+application. 
+ 
+1.7 The application is, therefore, admitted. 
+
+
+3 | P a g e  
+ 
+ 
+2. Submission of the Applicant 
+ 
+2.1 The applicant submits that he is an authorised agent of Mercedes Benz INDIA and is 
+responsible for facilitating the sales of Mercedes-Benz passenger vehicles, including 
+Mercedes-Benz EQ (Electric Cars). As per the agreement made between the applicant and 
+Mercedes-Benz INDIA Pvt. Ltd. (hereinafter referred to as ‗MB INDIA‘), the applicant shall be 
+a member of a network of authorised agents. As a part of this network, the applicant shall 
+function as a self-employed commercial agent with the responsibility of brokering the sales of 
+vehicles on behalf of MB INDIA. The primary objective is to facilitate and support MB INDIA's 
+direct sales to end-customers. 
+ 
+2.2 The nature of relationship between MB INDIA and the applicant is that of a principal and 
+agent. MB INDIA is the principal, and the applicant acts as the agent, representing and 
+working on behalf of MB INDIA in vehicle sales transactions. In recognition of the services 
+provided, the applicant is entitled to receive a commission. 
+ 
+2.3 The applicant has entered with an Authorised Agent Agreement with MB INDIA on 
+August 30, 2021. According to paragraph 7.5 of the said agreement, MB INDIA will make 
+available the authorised agent with a sufficient number of Demo vehicles, which are essential 
+for demonstrating the Contract Goods to prospective customers. The said para has further 
+been amended by virtue of which the applicant may buy vehicles on its own account to carry 
+out demonstration of Contract Goods.  
+ 
+2.4 The terms and conditions related to the above provision may be summarized as under: 
+ 
+ 
+Upon the request of the authorised agent, MB INDIA may sell the Demo vehicles to 
+the authorised agent at a discount as per the Demo vehicles Guideline issued by MB 
+INDIA from time to time. 
+ 
+The rights of title to and ownership of the Demo vehicles shall vest with the 
+authorised agent in its own capacity and not in its capacity as an Agent. 
+ 
+The authorised agent shall use the Demo vehicles only for the purpose of providing 
+demonstration of Contract Goods. 
+ 
+Upon receiving the delivery of Demo vehicle, the authorised agent shall conduct Pre-
+delivery Inspection (PDl). 
+ 
+The authorised agent shall obtain a TC plate registration or any other applicable 
+registration for Demo vehicles and ensure that the Demo vehicles be used for 
+demonstration only with the TC Plate or any other applicable registration. 
+
+
+4 | P a g e  
+ 
+ 
+The authorised agent may request MB INDIA for de-fleeting the Demo vehicle and 
+MB INDIA shall allow de-fleeting the Demo vehicle in accordance with the applicable 
+Demo vehicles Guideline. 
+ 
+Once the Demo vehicle is de-fleeted, the authorised agent shall liquidate and sell the 
+Demo vehicle to the end customer only and not to a reseller or a broker in its own 
+capacity and not in the capacity as an Agent, by posting the offer for sale on Roadster 
+platform or any other platform as may be recommended by MB INDIA. 
+ 
+In case the authorised agent incurs losses on sale of Demo vehicles, MB INDIA shall 
+reimburse the authorised agent for such losses. 
+ 
+MB INDIA shall review the loss incurred/profit earned by the authorised agent on the 
+sale of Demo vehicles during a Financial Year. Any profit and loss on Demo vehicles 
+shall be reconciled for the all Demo vehicles sold by the authorised agent during the 
+Financial Year and not per vehicle basis. In case authorised agent earns profit on 
+sale of Demo vehicles for the Financial Year in which MB INDIA has reimbursed the 
+authorised agent for the loss incurred in any quarter, MB INDIA shall raise a claim on 
+the authorised agent of an amount equivalent to amount which exceeds the losses of 
+the authorised agent for that Financial Year. 
+ 
+If a demo car has not completed the required number of kilometers as per the policy, 
+the demo discount initially provided will be reversed with GST interest as a cost. 
+ 
+2.5 After the above exercise is completed and if there is a loss on totality basis, MB INDIA 
+reimburses the same to the applicant. The applicant submits that it issues a Tax Invoice to 
+MB INDIA against such reimbursement amoun and charges GST @ 18% (IGST or CGST + 
+SGST) considering it as a supply of services in terms of Section 7(1A) of the GST Act and 
+classifying the service vide Schedule II entry 5(e) of the GST Act. 
+ 
+ADMISSIBILITY OF INPUT TAX CREDIT ON PURCHASE OF DEMO CAR: 
+ 
+2.6 The applicant, in respect of admissibility of input tax credit on inward supply of demo car 
+from MB INDIA has contended as follows:  
+ 
+2.6.1 These demo cars are purchased from MB INDIA at a discounted price, with the GST 
+liability duly paid during these transactions. Upon purchase, the applicant records demo cars 
+as purchase of inventory (Stock in Trade) in its books of accounts. When these cars are sold, 
+they are removed from the inventory and entire sale proceeds are accounted for in Sales 
+account. 
+ 
+
+
+5 | P a g e  
+ 
+2.6.2 Presently, the applicant, while filing returns in FORM GSTR-3B, claims the ITC on 
+purchase of Demo cars and subsequently reverses the same in the same month in 
+temporary ITC reversal. In other words, when the applicant purchases a demo car, it avails 
+the ITC in column 4(A)(5) of GSTR 3B and then immediately reverses the same in 4B(2) 
+column of GSTR 3B due to legal confusion in the minds of the applicant. 
+ 
+2.6.3 Further when demo car is eventually sold, the applicant considers the demo car as old 
+and used motor vehicle and therefore follows the margin scheme specified in Notification No. 
+8/2018-Central Tax (Rate) dated 25.01.2018. 
+ 
+2.6.4 The applicant submits that in the motor vehicle industry, a demonstration vehicle is an 
+indispensable tool for promoting sales. It allows potential customers to experience the vehicle 
+first-hand through test drives, helping them make informed purchase decisions. Demo 
+vehicles provide customers with the opportunity to take a test drive, which is a critical step in 
+the car buying process. This first-hand experience can significantly influence a customer's 
+decision to purchase a vehicle. Motor vehicle dealers are typically required to acquire 
+demonstration vehicles from their principal supplier. These vehicles are acquired as a 
+business necessity to support the dealership's sales and marketing efforts.  
+ 
+2.6.5 The applicant submits that sub-section (1) of section 16 of the GST Act entitles every 
+registered person to take ITC on purchase of goods if the same are used in the course or 
+furtherance of the business. In the present case, the applicant has procured demo cars with 
+the clear intent of using them for test drives and in the furtherance of their business activities. 
+ 
+2.6.6 According to the applicant, any activity conducted with the purpose of achieving 
+business objectives, ensuring business continuity, and promoting business stability inherently 
+qualifies as an activity in the course or furtherance of business. Given that the applicant is an 
+agent for sale of cars, providing demo cars becomes an essential activity to enhance sales, 
+advance business interests, and ensure business continuity. Hence, it is reasonable to state 
+that procuring demo vehicles is undeniably in the course of furtherance of business. 
+Therefore, the applicant meets all the conditions specified in section 16(1) for claiming ITC 
+on the procurement of demo vehicles.  
+ 
+2.6.7 The applicant further submits that Section 17(5)(a) of the GST Act which restricts 
+availment of ITC on motor vehicles purchased by a taxpayer even though they may be used 
+in the course of furtherance of business is not applicable in his case on the following 
+reasons:  
+ 
+Section 17(5)(a)(A) does not specify a timeline for when the purchased car must be 
+
+
+6 | P a g e  
+ 
+sold. It simply requires that the intent to resell the car exists. When a reseller acquires 
+a car, their clear intent is to resell it as promptly as possible. Since the car 
+dealers/agents are explicitly involved in the buying and selling of cars, there is no 
+dispute regarding their eligibility for ITC, including for demo cars used in the process 
+of selling cars and subsequently sold. 
+ 
+As per the demo car policy, it is mandatory for the applicant to purchase demo cars, 
+use them as demonstration / test drive vehicles and sell them after they have been 
+used for a specified mileage or periods, as referred in the policy. Failure to comply 
+with this requirement could disrupt the applicant's business. 
+ 
+As per section 17(5)(a)(A), input tax credit on motor vehicles shall not be allowed 
+except when they are used for further supply of such motor vehicles. The term ‗such‖ 
+refers to the things or goods referred earlier in the sentence, in this case the motor 
+vehicle. Therefore, 'such' in "further supply of such motor vehicles" refers to the 
+specific motor vehicle that has been acquired and encompasses all vehicles acquired 
+for the purpose of resale, including demo vehicles. As per the Merriam Webster 
+dictionary – Such can mean something similar as indicated earlier. Collins Dictionary 
+defines the word ‗Such‘ with following description: 
+You use such to refer back to the thing or person that you have just mentioned, or a 
+thing or person like the one that you have just mentioned. You use such as and 
+such...as to introduce a reference to the person or thing that has just been mentioned. 
+ 
+Allahabad High Court in the case of Mohan Lal v. Grain Chamber Ltd., AIR 1959 All 
+276 has held as follows :  
+“In fact, it appears to us that the word „such‟ is used before a noun in a latter part of a 
+sentence, the proper construction in the English language is to hold that the same 
+noun is being used after the word „such‟ with all its characteristics which might have 
+been indicated earlier in the same sentence”. 
+ 
+In the case of CWT v. Kishan Lal Bubna, (1994) 1 SCC 60 [Date of decision: 21-9-
+1993] honourable Supreme Court was dealing with interpretation of Wealth Tax Act, 
+1957 wherein the term "Such assets" was up for its consideration. The apex court 
+said as under: 
+The words "such assets" in sub-clause (iti) do, no doubt, refer to the assets described 
+in clause (a) in the sense that they mean "those assets". But the use of the words 
+"such assets" does not imply that it is only the value on the valuation date of the 
+assets that were actually transferred which has to be taken into account and not of 
+any assets to which the transferred assets may have been converted.  
+ 
+In case of Custodian Evacuee Property v. Rabia Bai, (1976) 4 SCC 270: AIR 1976 
+SC 2557 [Date of decision: 19-8-1976], the Hon‘ble court was considering 
+
+
+7 | P a g e  
+ 
+interpretation of the phrase "Such cash balances" in Administration of Evacuee 
+Property Act, 1950, S. 14(1)(b) and said: 
+The expression "such cash balances" used in S. 14(1)(b) cannot be interpreted so as 
+to cover total cash deposits with the Custodian. The use of the word "balances" is 
+significant. The connotation of the term "balances" is well known. According to 
+Webster's Dictionary, it means the difference, if any, between the debit and credit 
+side of an account". It is the result of a comparative reckoning. The expression "cash 
+balances" in clause (6) therefore, has to be construed as the excess of credits over 
+debits. The word "balances" appears to have been advisedly used in preference to 
+"deposits" because the intention was that only such amount in deposit with the 
+Custodian should be transferred to the compensation pool which would be in excess 
+of the amounts required for meeting the due claims against the evacuees or their 
+properties. It is thus clear that what can be directed to be transferred to the 
+compensation pool by the Government under S. 14(1)(b) is the "cash balances" and 
+not the total cash deposits with the Custodian.  
+ 
+In the case of Pt. Chet Ram Vashist v. Municipal Corpn. of Delhi, (1995) 1 SCC 47: 
+AIR 1995 SC 430 [Date of decision: 26-10-1994] the Hon‘ble court was considering 
+interpretation of the term "Such condition" in Delhi Municipal Corporation Act, 1957 
+(66 of 1951) - S. 313 — Delhi (Control of Building Operations) Ordinance, 1955 - Cl. s 
+para 3(iv): 
+The expression, 'such conditions' has to be understood so as to advance the 
+objective of the provision and the purpose for which it has been enacted. The 
+Corporation has been given the right to examine that the layout plan is not contrary to 
+any provision of the Act or the rules framed by it. But the power cannot be construed 
+to mean that the Corporation in the exercise of placing restrictions or imposing 
+conditions before sanctioning a layout plan can also claim that it shall be sanctioned 
+only if the owner surrenders a portion of the land and transfers it in favour of the 
+Corporation free of cost. That would be contrary to the language used in the section 
+and violative of civil rights which vests in every owner to hold his land and transfer it 
+in accordance with law. Such condition amounts to transfer of ownership and not 
+merely transfer of right of management. The two rights, namely, of ownership and of 
+management, are distinct and different rights. (Paras 4 and 5). 
+ 
+In the given facts, motor vehicle which is purchased by the applicant remains the 
+same make and model motor vehicle at the time of its sale, the provision doesn‘t 
+prefix the word ‗motor vehicle‘ with the word ‗new‘, it merely prescribes that the 
+person should use the motor vehicle in further supply of same vehicle.  
+ 
+Above discussion can be understood in a simpler manner by following table: 
+
+
+8 | P a g e  
+ 
+ 
+ 
+Condition 
+Whether 
+fulfilled 
+Detailed reasoning 
+Motor 
+vehicles 
+for 
+transportation of persons  
+Yes 
+Fact that all cars of Mercedes are only for 
+use for transportation of persons is not in 
+dispute 
+having approved seating 
+capacity of not more than 
+thirteen persons (including 
+the driver) 
+Yes 
+All Mercedes cars which are up for 
+advance ruling are of less then 14 persons 
+capacity 
+except when they are used 
+for making further supply 
+of such motor vehicles 
+Yes 
+Fact that the applicant is an authorised 
+dealer of demo cars is proven by the 
+agreement it has with MB INDIA. 
+Car which is purchased from MB INDIA is 
+sold as the same make an model as was 
+purchased, so the purchased car is used 
+for supply of same car  
+ 
+ 
+2.7 The applicant submits that the authorities for advance ruling of different states including 
+the state of West Bengal have taken the view that input tax credit shall be allowed in respect 
+of purchase of demo vehicle. The applicant, in this regard, has placed his reliance on the 
+following rulings: 
+(i) Toplink Motorcar (P.) Ltd., (2022) 1 Centax 261 (A.A.R. -GST - W.B.) = 2022 (67) G.S.T.L. 
+501 (A.A.R. - GST - W.B.) 
+(ii) A.M. Motors, 2018 (18) G.S.T.L. 93 (AAR - Kerala) 
+(iii) Chowgule Industries (P.) Ltd., 2019 (27) G.S.T.L. 272 (AAR - GST) 
+ 
+2.8 The applicant has submitted that in case of M/s Khatwani Sales and Services LLP, 2021 
+(47) G.S.T.L. 525 (AAR - GST - MP), the hon‘ble authority for advance ruling, Madhya 
+Pradesh and in case of Platinum Motocorp LLP, 2022 (61) G.S.T.L. 375 and BMW INDIA 
+Pvt. Ltd., 2022 (63) G.S.T.L. 107, the hon‘ble appellate authority for advance ruling, Haryana 
+have taken a contrary view. However, the common factor in all the cases was that the 
+applicant was capitalizing the cars in its books of accounts and claiming depreciation. 
+Whereas,  in the case of the applicant, the cars are booked as stock in trade and therefore 
+above rulings cannot be applied to the facts of the instant case. Further, in case of AAAR of 
+BMW, the difference was that they were registered as a State administered taxpayer for 
+running a training center for the training of Engineers and Marketing professionals etc. and 
+hence, the same can also not be applied to the instant case. 
+ 
+2.9 The applicant further draws attention to the provisions of the Motor Vehicle Act and the 
+rules made there under and summarizes such provisions as under: 
+
+
+9 | P a g e  
+ 
+ 
+a. A dealer is required to take a trade certificate for operating the business of car dealer. 
+ 
+b. Car dealer is exempt from registering a car; he can run the car with him under the TC 
+plate. 
+ 
+c. He can use the TC plate car for reasonable demonstration purposes. 
+ 
+d. Word ‗Reasonable‘ is not defined in the law or rules, however it is practically 
+understood to be the city limits. 
+ 
+CLASSIFICATION: REIMBURSEMENT OF LOSS ON SALE OF DEMO CAR 
+ 
+2.10 In order to determine the taxability and classification of demo car loss reimbursement by 
+MB INDIA, the contention of the applicant is as follows: 
+ 
+2.10.1 As per Clause (1)(a) of the Section 7 of the CGST Act, 2017, all kinds of supply of 
+goods or services made or agreed to be made for a consideration by a person in the course 
+or furtherance of business is to be treated as supply. Section 7(1A) of the GST Act, 2017 
+read with Schedule-II provides a list of activities of transactions which are to be treated a 
+supply of services or goods. It is important to note that the activities or transaction which are 
+treated as a supply as per sub-section (1) can only be classified as supply of goods or 
+services as per Schedule-II. Therefore, for these activities to become supply, firstly it should 
+pass the following conditions specified in Section 7(1)(a): 
+(a) there must be a supply; 
+(b) the supply must be of goods or services or both; 
+(c) there should be a consideration for such supply; 
+(d) the supply should be in the course or furtherance of business. 
+ 
+2.10.2 Therefore, if any person agrees to an obligation to refrain from an act or tolerate any 
+act or situation or to do an act which also satisfies the conditions of Section 7(1), then only it 
+can be treated as supply of service under clause 5(e) of Schedule-II read with Section 7(1A).  
+ 
+2.10.3 In the present case, as mentioned in ‗demo car loss sharing‘ clause of demo car 
+policy, when a loss is incurred at the time of selling a demo car, MB INDIA reimburses this 
+loss to the applicant. Therefore, it can be reasonably concluded that, as per the agreement, 
+the applicant is initially bearing the loss and subsequently recovering it from MB INDIA. This 
+aligns with the concept of 'tolerating an act or a situation' as encompassed in the expression 
+of bearing a loss against the agreed consideration.  
+ 
+2.10.4 In view of the above and in consultation with MB INDIA, the applicant is issuing tax 
+invoice along with GST at the rate of 18% to recover the loss amount from the MB INDIA. 
+
+
+10 | P a g e  
+ 
+However, the applicant is of the view that such transaction should be treated as a part of the 
+main supply, and hence, MB INDIA is required to issue a credit note for the same. The 
+detailed provisions for this are discussed below:  
+ 
+2.10.5 In the present case, the initial invoicing for the demo car is based on the agreed 
+pricing. Subsequently, following the guidelines in MB INDIA's demo car policy, the applicant 
+is required to sell the demo car in the market after a specified holding period of 3 to 6 
+months. This sale can result in either a profit or a loss. If a loss occurs during the sale, MB 
+INDIA commits to reimburse this loss. Conversely, if a profit is realized, MB INDIA retains the 
+right to recover this profit. 
+ 
+2.10.6 It is essential to understand that in both situations - the reimbursement of losses and 
+the recovery of profits - these financial transactions are inherently linked to the sale of the 
+demo car. Hence, rather than treating these transactions as separate and potentially taxable 
+supplies of services under the category of 'tolerating an act‘, MB INDIA should issue specific 
+Credit Notes in the case of a loss incurred during the demo car sale and Debit Notes when a 
+profit is realized in alignment with the provisions of Section 34 of the GST Act.  
+ 
+ 
+3. Submission of the Revenue 
+ 
+The concerned officer from the revenue has not expressed any view on the issue raised by 
+the applicant. 
+ 
+4. Observations & Findings of the Authority 
+ 
+ 
+4.1 We have gone through the records of the issue as well as submissions made by the 
+authorised representative of the applicant during the course of personal hearing. The 
+applicant has raised three questions in the application made in FORM GST ARA-01. We are 
+going to deal with the issues one by one. 
+ 
+4.2 The first question is related to admissibility of input tax credit on purchase of motor 
+vehicles which are initially used by the applicant for demonstration purpose and thereafter 
+supplied by him. In the case of Toplink Motorcar (P.) Ltd., as referred by the applicant, the 
+applicant was engaged in supply of motor vehicles where the applicant, in addition to 
+purchases of motor vehicles which were subsequently supplied to customers, also made 
+purchases of vehicles which were used as demo cars for providing trial run/demonstration to 
+the customers. The demo vehicles were kept by the applicant only for a limited period of time 
+and were supplied thereafter. This authority held that the applicant would be eligible to avail 
+
+
+11 | P a g e  
+ 
+input tax credit on purchases of demo vehicles. However, in the instant case, the business 
+activities of the applicant are not identical with the aforesaid case. Here, the applicant is not 
+engaged in trading of motor vehicles. In the case in our hand now, the applicant has entered 
+into an agreement with MB INDIA to provide facilitation services for sale of motor vehicles 
+where the applicant acts as a self-employed commercial agent with the responsibility of 
+brokering the sales of vehicles on behalf of MB INDIA. Admittedly, the supply of motor 
+vehicles to the end-customers is made by MB INDIA.  
+ 
+4.3 The applicant has argued that it purchases demo vehicles to provide facilitation services 
+to MB INDIA and such purchases are undeniably made in the course or furtherance of 
+business. The applicant is therefore entitled to take credit of input tax on purchase of demo 
+vehicles. Sub-section (1) of section 16 entitles a registered person to take input tax credit on 
+supply of inputs as well as capital goods made to him subject to certain conditions and 
+restrictions which have been prescribed. However, sub-section (5) of section 17 of the GST 
+Act overrides sub-section (1) of section 16 and restricts availment of input tax credit under 
+certain scenarios meaning thereby input tax credit may be denied even in cases where sub-
+section (1) of section 16 entitles a registered person to take input tax credit. One of such 
+restriction as specified in clause (a) of sub-section (5) of section 17 limits the scope of input 
+tax credit with respect to motor vehicles. The same is reproduced below for reference: 
+“(5) Notwithstanding anything contained in sub-section (1) of section 16 and sub- section (1) 
+of section 18, input tax credit shall not be available in respect of the following, namely:— 
+ (a) motor vehicles for transportation of persons having approved seating capacity of not 
+more than thirteen persons (including the driver), except when they are used for making the 
+following taxable supplies, namely:—  
+(A) further supply of such motor vehicles; or  
+(B) transportation of passengers; or  
+(C) imparting training on driving such motor vehicles;” 
+ 
+4.4 In other words, input tax credit on motor vehicles used for transportation of persons 
+having approved seating capacity of not more than thirteen persons (including the driver), 
+can be availed only when such motor vehicles are (i) supplied further, or (ii) used for 
+transportation of passengers, or (iii) used for imparting training on driving such motor 
+vehicles. The applicant has submitted that the vehicles purchased by him for demonstration 
+purposes qualify the specified seating capacity and the applicant also makes further supply 
+of such vehicles, though at a later point in time. The applicant contends that there is no time 
+limit prescribed in this regard for making such further supplies so as to impose restriction 
+under section 17(5)(a)(A) of the GST Act. It is therefore imperative to decide the issue in 
+terms of the condition laid down in section 17(5)(a)(A) i.e., whether the purchases of vehicles 
+
+
+12 | P a g e  
+ 
+used for demonstration and test drive purpose and subsequently supplied can be regarded 
+as purchases made for further supply of such vehicle. 
+ 
+4.5 The business model of the applicant delineates that the demo vehicles are initially kept 
+by the applicant for a certain period of time as mandated by its principal namely MB INDIA. 
+The applicant contends that though he has entered into an agreement to carry out the 
+responsibility of brokering the sales of vehicles as an agent for which he receives 
+commission from the principal, purchases of vehicles from its principal for providing 
+demonstration/ test drive facility to the prospective buyers are made in its own account 
+whereby rights of title to and ownership of the Demo vehicles vest with the applicant. The 
+applicant, after receipt of the demo vehicles, records the same as purchase of inventory 
+(Stock in Trade) in its books of accounts and when the cars are sold, they are removed from 
+the inventory and entire sale proceeds are accounted for in Sales account.  
+ 
+4.6 The applicant maintains the stock of the demo vehicles for a specified period of time and 
+thereafter supplies the same which may be made at a price lower than the purchase value of 
+the said vehicle. However, the provisions of the GST Act nowhere specifies that input tax 
+credit shall not be available in respect of any outward supplies which is made at a price lower 
+than its procurement value. We like to reiterate that section 17(5)(a)(A) restricts input tax 
+credit in respect of motor vehicles, with a specific seating capacity, for transportation of 
+persons except when they are used for further supply of such motor vehicles. We are of the 
+view that the word ‗such‘ as used in the expression ‗further supply of such vehicles‘ relates to 
+the vehicle only that was purchased. In our considered opinion, the fact that the condition of 
+a demo vehicle at the time of its further supply has undergone some deterioration does not 
+detract from the reality that the vehicle when supplied by the applicant has ceased to be such 
+vehicle that was purchased. The demo vehicles are purchased all along for further supply 
+with the condition that they will be kept for a specific period of time. We therefore hold that 
+restriction of input tax credit as imposed in section 17(5)(a)(A) of the GST Act is not 
+applicable on purchase of demo vehicles which are supplied by the applicant after the 
+specified time for providing test drive facility.  
+ 
+4.7 We now come to the next issue which is related to classification and rate of tax at the 
+time of sale of demo car. We find that Chapter 87 of the CUSTOMS TARIFF ACT,1975 deals 
+with ‗vehicles other than railway or tramway rolling-stock, and parts and accessories thereof‘. 
+Further, Chapter 8702 covers ‗motor vehicles for the transport of ten or more persons, 
+including the driver‘. Furthermore, Chapter 8703 covers ‗motor cars and other motor vehicles 
+principally designed for the transport of persons (other than those of heading 8702), including 
+station wagons and racing cars‘. As we have expressed our view in affirmative in respect of 
+
+
+13 | P a g e  
+ 
+admissibility of input tax credit on purchase of demo vehicles, we are of the opinion that there 
+would be no change of classification of the demo vehicle, at the point of sale by the 
+applicant. 
+ 
+4.8 In regard to rate of tax of demo car, we hold that the outward supply of demo car would 
+attract same rate of tax of its inward supply subject to the provision of section 14 of the GST 
+Act. The rate of tax of motor vehicle under Chapter 8702 and 8703 is as follows: 
+Chapter 
+Description 
+Rate of tax 
+8702 
+Motor vehicles for the transport of ten or more 
+persons, including the driver [other than 
+buses for use in public transport, which 
+exclusively run on Bio-fuels] 
+Central Tax @ 14% + State 
+Tax @ 14% + applicable 
+cess 
+8703 
+Motor 
+cars 
+and 
+other 
+motor 
+vehicles 
+principally designed for the transport of 
+persons (other than those of heading 8702), 
+including station wagons and racing cars 
+[other than Cars for physically handicapped 
+persons] 
+Central Tax @ 14% + State 
+Tax @ 14% + applicable 
+cess 
+ 
+ 
+4.9 The last issue left with us is to decide whether the amount received by the applicant from 
+MB INDIA towards reimbursement of ―Loss on Sale of Demo Car‖ would constitute as supply 
+or not. To analyze the issue, we may have a brief reiteration of the submission made by the 
+applicant in this regard. The fact as stated by the applicant is that when the applicant suffers 
+any loss at the time of selling a demo vehicle, such is compensated by MB INDIA as per the 
+agreed terms and condition. The applicant submits that although he is issuing a tax invoice to 
+MB INDIA and charging tax @ 18% considering it to be a supply of services made by him for 
+'tolerating an act or a situation', the reimbursement of losses is inherently linked to the sale of 
+the demo car and therefore MB INDIA should issue a Credit Note in this scenario in lieu of 
+treating these transactions as a separate supply of services made by the applicant. 
+ 
+4.10 ‗Agreeing to the obligation to refrain from an act, or to tolerate an act or a situation, or to 
+do an act‘ is a Declared Service as per clause (e) of section 66E of the Finance Act, 1994. 
+Similar activities are classified as supply of services in para 5 (e) of Schedule II of the GST 
+Act. Therefore, where one person, pursuant to an agreement, agrees to an obligation to 
+tolerate an act, such would be treated as a supply of services under the GST Act. The Tax 
+Research Unit, Department of Revenue, Ministry of Finance vide Circular No. 178/10/2022-
+GST dated 03.08.2022 has clarified that „Service of agreeing to the obligation to refrain from 
+
+
+14 | P a g e  
+ 
+an act or to tolerate an act or a situation, or to do an act is nothing but a contractual 
+agreement. A contract to do something or to abstain from doing something cannot be said to 
+have taken place unless there are two parties, one of which expressly or impliedly agrees to 
+do or abstain from doing something and the other agrees to pay consideration to the first 
+party for doing or abstaining from such an act. There must be a necessary and sufficient 
+nexus between the supply (i.e. agreement to do or to abstain from doing something) and the 
+consideration.‟ The said circular further clarifies that „one of the parties to such 
+agreement/contract (the first party) must be under a contractual obligation to either (a) refrain 
+from an act, or (b) to tolerate an act or a situation or (c) to do an act. Further some 
+“consideration” must flow in return from the other party to this contract/agreement (the 
+second party) to the first party for such (a) refraining or (b) tolerating or (c) doing.‟ It has also 
+been clarified that „The key in such cases is to consider whether the impugned payments 
+constitute consideration for another independent contract envisaging tolerating an act or 
+situation or refraining from doing any act or situation or simply doing an act. If the answer is 
+yes, then it constitutes a „supply‟ within the meaning of the Act, otherwise it is not a “supply”.‟ 
+ 
+4.11 It thus appears that any activity or transaction as specified in para 5(e) of Schedule II of 
+the GST Act would constitute a supply of services if the said activity or transaction fulfills two 
+parameters, (i) there must be a "consideration", and (ii) the activity or transaction is made or 
+agreed to be made "in the course or furtherance of business". We like to mention that the 
+applicant himself has expressed the same view. [refer para 2.10.2]  
+ 
+4.12 The expression ‗consideration‘ has been defined in clause (31) of section 2 of the GST 
+Act as follows: 
+"consideration" in relation to the supply of goods or services or both includes- 
+(a) any payment made or to be made, whether in money or otherwise, in respect of, in 
+response to, or for the inducement of, the supply of goods or services or both, whether by the 
+recipient or by any other person but shall not include any subsidy given by the Central 
+Government or a State Government; 
+(b) the monetary value of any act or forbearance, in respect of, in response to, or for the 
+inducement of, the supply of goods or services or both, whether by the recipient or by any 
+other person but shall not include any subsidy given by the Central Government or a State 
+Government: 
+Provided that a deposit given in respect of the supply of goods or services or both shall not 
+be considered as payment made for such supply unless the supplier applies such deposit as 
+consideration for the said supply; 
+ 
+ 
+
+
+15 | P a g e  
+ 
+4.13 One of the key elements of ‗consideration‘ that we find is the monetary value in respect 
+of, in response to, or for the inducement of, the supply of goods or services or both. The 
+Hon‘ble Customs, Excise & Service Tax Appellate Tribunal, Kolkata in the case of MNH 
+Shakti Limited -vs- Commissioner, Central Goods and Service Tax & Central Excise, 
+Rourkela has observed that „A distinction needs to be drawn between a consideration under 
+a contract and the compensation or damages under a contract. The compensation- either 
+liquidated or unliquidated cannot be equated with the consideration. While consideration is a 
+result of execution of the contract, the damages are a result of frustration of the contract.‟ 
+The Hon‘ble Tribunal further observed as follows: 
+ 
+“The question of tolerating something and receiving a compensation for such tolerance pre-
+supposes that: 
+a) the person had a choice to tolerate or not; 
+b) the person chose to tolerate; 
+c) such tolerance was for a consideration as per an agreement (written or otherwise) to 
+tolerate; 
+d) the tolerance was a taxable service.” 
+ 
+4.14 In the case at hand, the applicant has entered into an agreement with MB INDIA with a 
+specific condition towards ‗Demo Car Loss Sharing‖ knowing very well that it may suffer a 
+loss at the time of selling of demo vehicle since the vehicle would have undergone some 
+deterioration while providing test drive facility to the prospective buyers. In other words, MB 
+INDIA enters into the agreement with a promise to compensate where the applicant would 
+suffer a loss on sale of demo vehicle. This compensation is paid as a result of the contract 
+and therefore would qualify to be a ‗consideration‘. In Fazaladdin Mandal vs Panchanan Das 
+(AIR 1957, CAL 92), the Hon‘ble High Court at Calcutta held that “Consideration is the price 
+of a promise, a return or quid pro quo, something of value received by the promisee as 
+inducement of the promise. An act done or forbearance made in return for a unilateral 
+promise is a sufficient consideration to support the promise.” We are therefore of the view 
+that the applicant has entered into the agreement to tolerate the act of suffering loss for a 
+consideration. Undisputedly, the applicant has chosen to tolerate the act for a consideration 
+as per the agreement and has agreed to tolerate the act in the course or furtherance of the 
+business. We therefore hold that the applicant receives consideration in the form of 
+compensation from MB INDIA against supply of services of agreeing to tolerate the act of 
+suffering loss. We find that ‗agreeing to tolerate an act‘ having SAC 999794 is classifiable 
+under ‗Other Miscellaneous services‘ and is taxable @ 18% vide serial number 35 of 
+Notification No. 11/2017-Central Tax I(Rate) dated 28.06.2017, as amended. 
+ 
+
+
+16 | P a g e  
+ 
+In view of above, we rule as under: 
+ 
+ 
+RULING 
+ 
+Question: Whether the applicant is entitled to claim input tax credit charged and paid on 
+inward supply of car from Mercedes Benz India which are used for demonstration purpose to 
+the potential customer interested in buying Mercedes Benz Car, commonly known as Demo 
+cars? 
+ 
+Answer: The applicant is entitled to claim input tax credit charged and paid on inward supply 
+of car which are used for demonstration purpose and supplied further after a specified time 
+period. 
+ 
+Question: If the answer to the above is in affirmative, what would be the classification and 
+rate of tax at the time of sale of demo car? And if the answer is negative then what would be 
+the classification and rate of tax at the time of sale of demo cars? 
+ 
+Answer: The vehicle would be classified under Chapter 8702 or 8703, as the case may be 
+and its outward supply would attract same rate of tax of its inward supply subject to the 
+provision of section 14 of the GST Act. 
+ 
+Question: Whether amount received by the applicant from Mercedes Benz India towards 
+reimbursement of ―Loss on Sale of Demo Car‖ constitute as supply? If yes, what is the 
+classification and rate of tax of the same under GST? 
+ 
+Answer: The amount received by the applicant from Mercedes Benz India towards 
+reimbursement of ―Loss on Sale of Demo Car‖ shall be regarded as consideration received 
+against supply of services of ‗agreeing to tolerate an act‘ (SAC: 9997974) and would be 
+taxable @ 18%. 
+ 
+ 
+ 
+ 
+ 
+(TANISHA DUTTA) 
+              (JOYJIT BANIK) 
+Member                                                           Member                                            
+West Bengal Authority for Advance Ruling 
+West Bengal Authority for Advance Ruling 
+ 
+ 
+Place: Kolkata 
+Date: 4th April, 2024 
+
+
+17 | P a g e  
+ 
+ 
+ 
+     
+To, 
+    LANDMARK CARS PRIVATE LIMITED 
+    Municipal Premises No 10, East Topsia Road,  
+    Kolkata, West Bengal, 700046 
+ 
+ 
+ Copy to, 
+      
+(1) The Principal Chief Commissioner, CGST & CX, 180, Shantipally, R.B.Connector, 
+Kolkata-700107 
+(2) The Commissioner of State Tax, West Bengal, 14, Beliaghata Road, Kolkata-700015 
+(3) The Special Commissioner, Large Tax Payer Unit, 14, Beliaghata Road, Kolkata-
+700015 
+(4)  The Commissioner, Kolkata North  Commissionerate, CGST & CX, 180, Shantipally, 
+R.B.Connector, Kolkata-700107 
+(5) Office

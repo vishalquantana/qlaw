@@ -1,0 +1,1014 @@
+AUTHORITY FOR ADVANCE RULING, TAMILNADU
+INTEGRATED COMMERCIAL TAXES OFFICE COMPLEX, DOOR NO.32,
+5TH FLOOR, ROOM NO. 503, ELEPHANT GATE BRIDGE ROAD,
+CHENNAI - 600 003.
+
+PROCEEDINGS OF THE AUTHORITY FOR ADVANCE RULING U/s.98 OF THE
+GOODS AND SERVICES TAX ACT, 2017.
+
+Members present are:
+
+].. Shp T.G.Venkatesh, LR.S., Additional Commissioner/Member,
+
+Office of the Principal Chief Commissioner of GST & Central Excise, Chennai 34
+
+2. Tmt K.Latha., M.Sc., (Agri), Joint Commissioner (ST) / Member,
+
+Office of the Authority for Advance Ruling, Tamil Nadu, Chennai 3.
+
+ORDER No. 42/ AAR/2021 DATED: 30.11.2021
+
+| GSTIN Number, if any / User id S3AAJCB0293L1Z1L
+
+Legal Name of Applicant BOOK WATER TECH PRIVATE LIMITED
+| Registered Address/Address | Plot No.2, Ajantha Building, © Vandalur,
+
+| provided while obtaining user id Kelambakkam Road,
+
+| Kanchipuram, Tamilnadu 603103
+
+Details of Application GST ARA- 01 Application SI.No. 17/2021 /ARA
+dated: 03.05.2021
+
+| Concerned Officer Centre: Chennai Outer
+
+Kelambakkam,
+
+| State: Assistant Commissioner(ST) Kelambalcecarn
+|
+
+Nature of activity(s) (proposed /
+
+present) in respeet of which
+
+| advance ruling sought |
+
+A | Category | Service Provision
+
+3 | Description (in Brief) The applicant is a platform agercgator of water
+| and sewage tankers and ¢ commerce Operator
+
+Issue/s on which advance ruling | 1. Classification of goods
+
+erence! lies Determination of liability to pay tax on any
+
+goods or services
+
+3. Whether any particular thing done by the
+
+applicant with respect to any goods or services or
+| p
+
+Page 1 of 17
+
+
+both amounts to or results in a supply of a goods |
+
+| or services |
+
+| | |
+Question(s) on which advance | 1. Supply of raw water falls under exempt goods
+
+| ruling is required under GST. Does raw water that is supplied
+through tankers through the Bookwater platform
+
+come under exempted goods as well? |
+
+| 2. Does the supplier of water through tankers |
+come under supply of raw watcr or under
+transport services?
+
+| 3. Does Bookwater have to withhold any tax GST |
+
+TCS 1% from the suppliers before sata |
+
+payments for the supply of raw water through our |
+
+platform?
+
+4. Ig the supplicr making raw watcr sale is |
+
+required to register under GST since they are
+
+transacting through an e commerce operator? |
+
+5. Does Sewage Evacuation come under 18%
+GST? If yes, most individual scwage tanker
+operators have turnover less than 20lakhs per
+annum. Since we are not billing the customer
+
+directly and are only billing on behalf of the
+
+| supplier, will the exemption limit of Rs.20Lakhs
+per) annum — be applicable to supplicrs |
+individually? |
+| 6. Consequently, is GST Registration applicable
+| for all suppliers through the Bookwater platform
+or only applicable for those suppliers who have a
+| turnover over 20Lakhs?
+
+7. Does Bookwater have to withhold any tax (GST
+TCS 1% applicability) from the supplicrs before
+making payments since the supplics have been
+
+made through our digital platform and we also
+
+deduct our charges for our services rendered
+
+| before making payments?
+
+Page 2 of 17
+
+
+Note: Any appeal against the Advance Ruling order shall be filed before
+
+the Tamil Nadu State Appellate Authority for Advance Ruling,
+under
+
+Chennai
+Sub-section (1) of Section 100 of CGST ACT/TNGST Act 2017
+within 30 days from the date on which the ruling sought to be appealed
+
+against is communicated.
+
+At the outset, we would like to make it clear that the provisions of both
+the Central Goods and Service Tax Act and the Tamil Nadu Goods and
+Service Tax Act are the same except for certain provisions. Therefore,
+unless a mention is specifically made to such dissimilar provisions, a
+
+reference to the Central Goods and Service Tax Act would also mean a
+
+reference to the same provisions under the Tamil Nadu Goods and Service
+Tax Act.
+
+BOOKWATER TECH PRIVATIE LIMITED, Plot No.2, Ajantha Building,
+Vandalur, Kelambakkam Road, Kelambakkam, Kanchipuram, Tamilnadu 603103
+(hereinafter called the Applicant) are registered under GST with GSTTIN
+S38AASCBO293L1ZL. The applicant has sought Advance Ruling on the following
+questions:
+1. Supply of raw water falls under exempt goods under GST. Does raw water
+that is supplied through tankers through the Bookwater platform come
+under cxempted goods as well?
+2. Docs the supplier of water through tankers come under supply of raw
+water or under transport services?
+3. Docs Bookwater have to withhold any tax-GST TCS 1% from the suppliers
+before making payments for the supply of raw water through our platform?
+4. Is the supplicr making raw water sale is required to register under GST
+since they are transacting through an ¢ commerce operator?
+9. Does Sewage Evacuation come under 18% GST? If yes, most individual
+sewene tanker operators have turnover less than 20lakhs per annum. Since
+we are not billing the customer directly and are only billing on behalf of the
+supplicr, will the exemption limit of Rs.20Lakhs per anntum be applicable to
+suppliers individually?
+6. Consequently, is GST Registration applicable for all suppliers through the
+Bookwater platform or only applicable for those suppliers who have a
+
+turnover over 20Lakhs?
+
+Page 3 of 17
+
+
+7. Does Bookwater have to withhold any tax (GST TCS 1% applicability) from
+
+the suppliers before making payments since the supplics have been made
+
+through our digital platform and we also deduct our charges for our services
+rendered before making payments?
+
+The Applicant has submitted the copy of application in Form GST ARA O1 and
+
+also submitted a copy of Challan evidencing payment of application fees of
+
+Rs.5,000/- cach under sub-rule (1) of Rule 104 of CGST rules 2017 and SGST
+
+Rules 2017.
+
+2.1 The applicant has stated that they are a DPIIT (Department for Promotion of
+Industry and Internal Trade) recognized start-up under the start-up India program.
+Their company is an Internet of things (loT) company and a platform aggregator of
+water and sewage tankers. They are engaged in helping clients book water tankers
+and sewage evacuation tankers for water supply and sewage services. They are
+raising invoices on behalf of suppliers and they do not bill any customer directly.
+further, they do not buy or sell water in any way and are strictly an online service
+that helps connect the consumer and supplier. The Business model 1 and 2 viz.,
+Water tanker booking and Sewage evacuation business model is detailed below:
+Water Tanker Booking business flow:
+e BookWater is raising the invoice on behalf of the supplier and book watcr
+is not billing the customer directly or buying or selling water.
+e ‘The Supplier is solely responsible for sourcing and supply of raw water.
+e The payment from customer is collected by BookWater on behalf of the
+supplicr.
+e Settlement is done to the supplier after deducting the online charges if
+any
+e Bookwater charges customer separate charges as convenience fee (with
+GST)
+e BookWater's payment partners charge a gateway service charge.
+(convenience fee with GST)
+° 300kWater charges the supplier for using its IoT box in the form of a
+monthly rental for which GST will be charged collected and deposited.
+Sewage Evacuation Business Model:
+» BookWater is raising the invoice on behalf of the supplier and is not
+
+involved in the service of sewage evacuation.
+
+Page 4 of 17
+
+
+e The Supplier is solely responsible for disposal of waste as per existing
+
+rules and norms.
+e The payment from customer is collected by BookWater on behalf of
+supplier.
+
+e Settlement is done to the supplier after deducting the online charges if
+
+any
+e Bookwater charges customer scparate charges as convenience fee (with
+GST)
+e BookWater’s payment partners charge a gateway service charge
+
+(convenience fec)
+
+2.2 On interpretation law the applicant has referred to the definitions of Goods
+
+Sec 2(52); Services Sec2(102); Electronic Commerce Sec2(44); Electronic
+Commerce Operator Sec2(45); Exempt Supply See 2(47); Tax Colleeted at source
+29, 23, 24 of
+
+Sec52, of the CGST Act 2017. They have also referred to Section
+CGST Act 2017 regarding GST registration. The applicant has submitted that
+under Section 24 of CGST Act 2017 clause ix and x states
+
+(ix) Persons who supply goods or services or both, other than supplies
+
+specified under sub-section (5) of section 9, through such  electrome
+
+commerce operator who is required to collect tax al source under section 52;
+
+(x) Every clectronic commerce operator |who is required to collect tax al
+source under section 52;]
+In view of the above statutory provisions, the applicant has submitted that they are
+
+covered under the definition of electronic commerce operator since, they operate
+
+and manage a digital platform for the customers and the supplier to complete their
+
+commercial transactions. They have also stated that the suppliers who transact
+
+with the platform are also covered under the definition of electronic commerce
+
+since, they supply goods or services or both over the applicant’s digital platlorm or
+
+their clectronic network. Hence the supplics made through their digital platform will
+be regarded as Electronic Commerce. Further, the applicant’s interpretation on the
+questions raised in para supra are as follows:
+
+relevant HSN
+
+Hed,
+
+In respect of Q.No.1: Raw Water is covered under sales and the
+
+CODE — 2201 Water jother than acrated, mineral, purified, disti
+medicinal, ionic, battery, de mineralized and water sold in sealed container].
+Raw water is under the List of Exempted Goods Schedule. Hence it will be
+subject to NIL rate of Tax under GST. Since the character of the goods docs
+not change upon the sale even through their platform which is directly
+
+Page 5 of 17
+
+
+supplied by the vendor, the sale of water will still be regarded as exempt
+supply (GOODS) of water even if the same is sold through their digital
+platform to the customer.
+
+Question 2: The principal supply of the sale by the supplier shall be the
+sale of raw water and the Lorries are only the mode of transport used for the
+purpose of delivery of the water and the supplier docsn't charge any
+transport charges separately. Hence the supply will still be sale of water and
+there is no service clement involved in the transaction between the supplier
+and the customer,
+
+Question 3 : As per Section 52 of the CaGST Act, 2017 every IX Commerce
+operator (as defined in Section 2 (45) is the person to collect the tax on the
+net value of taxable Supplies made through it. As per Section 92(1) of the
+CGST Act, 2017 TCS is to be collected on "the net value of taxable supplics"
+made through an ECG. When the supply itself is not taxable, the question of
+TCS does not arise. Since the supply of raw water is covered under exempt
+supply of goods the requirement to collect TCS at the rate of 1% on the
+supplies made by the vendor even through our digital platform
+
+shall not be
+
+applicable. Hence TCS provision for su pply of raw water will not be applicable
+
+for Bookwater.
+
+Question !: As per section 23 of the CGST Act, 2017 any person cngaged
+exclusively in the business of supplying goods or services or both that are not
+liable to tax or wholly exempt from tax under this Act or under the Integrated
+Goods and Services Tax Act; Since the supply of raw water is an exempt
+supply of goods, the supplier making transactions through their digital
+platform is also not required to be registered under GST.
+GST reg
+
+Hence mandatory
+istration for supply of exempt goods through thcir digital platform is
+
+nol applicable.
+
+Question-5 : Any service not covered under notified rates of tax will be
+taxable at 18% GST on the value of services being rendered. Sewage
+
+Evacuation services are covered under the SAC (Service Accounting Code)
+
+999411 - Sewerage and sewage treatment services
+
+999412 - Septic tank emptying and cleaning services
+
+Hence the suppliers already having GSTIN or is liable to get themselves
+
+registered under this Act is required to charge 18% on the value services
+
+rendered. Hence the rate of GST shall be at 18% by the supplier and with
+
+regard to the exemption limit applicability to suppliers individually, the
+
+Page 6 of 17
+
+
+Government vide via (Notification No. 8512017—Central Tax, dated
+15:11.2017 amended vide Notification No. 6/2019-Central Tax, dated 29-
+Jan-2019, w.e.f. 1-Feb-2019) has given that
+
+“ The services shall be exempt to tax if supplier providing services through
+an ecommerce operator if the aggregate turnover does not exceed Rs. 20
+
+Lakhs (or the applicable threshold limit for registration under GST).”
+
+Hence, the applicant has stated that since majority of their suppliers by service
+of sewage evacuation are below the current threshold limit of Rs. 20 lakhs,
+they are not required to get themselves registered under GST by applying the
+
+above notification.
+
+~ Question 6: The Government vide Notification No. 65/2017—Central Tax, dated
+
+15.11.2017 amended vide Notification No. 6/2019-Central Tax, dated 291"
+January 2019, w.e.f. 01.02.2019 has provided that the services shall be exempt
+to tax if supplier providing services through an ecommerce operator if the
+aggregate turnover does not exceed Rs. 20 Lakhs (or the applicable threshold
+limit for registration under GST). Since majority of their suppliers by service of
+sewage evacuation are below the current threshold limit of Rs. 20 lakhs, they
+
+are not required to get themselves registered under GST by applying the above
+
+notification.
+
+, Question — 7 :The TCS can be collected and remitted only when the supplier
+who is making taxable supplies is also in possession of a valid GSTIN. Since
+majority of their suppliers are below the threshold limit of Rs. 20 Lakhs, the
+liability to get themselves registered under the Act will not be applicable hence,
+the applicant shall also be not required to collect TCS for the supplies made
+through their platform. In the case of registered dealers they shall still be
+
+liable to collect the TCS at the rate of 1% and shall remit to the GST
+
+Department accordingly.
+
+3,1 Due to the prevailing PANDEMIC situation and in order not to delay the
+
+proceedings, the applicant was addressed through the Email Address mentioned in
+
+the application to seek their willingness to participate in a virtual Personal Hearing
+
+in Digital media. The applicant consented and the hearing was held on 05.10.202 1.
+
+The Authorised Representative Shri Balachander Govinda Raghavan, Director, Shri
+Bharath Govinda Raghavan, Director appeared for the hearing and reiterated the
+
+Page 7 of 17
+
+
+submissions, They explained their business model with respect to both supply of
+raw water and sewage collection, They submitted that raw water being an exempt
+product under GST and supply of water is sale, should the supplics be registered,
+should TCS be withheld. For sewage, the suppliers who collect the sewage are all
+below 20 lakhs limit, should they be registered; should tax be collected. They
+submitted that they are operating on Amazon web services platform, located in
+India. The Payment is made to supplicrs after withholding of 1% TCS for the
+services rendered by the applicant. The Member asked for the agreements with
+
+suppliers and invoice copics and the applicant agreed to furnish the same.
+
+3.2 The applicant submitted the following documents on 07.10.2021
+
+y Supplicr agreement copy
+
+- Consumer payment policy
+
+» Consumer privacy policy
+
+y Consumer terins of use
+
+7 Original invoice for water supply
+
+» Sample invoice for sewage evacuation
+3.3 The applicant was issued with a letter dated 20.10.2021 informing the
+applicant that their supply involves extending web platform/mobile application to
+connect the service provider (supplier of water tankers/sewcrage offtake facility) and
+is not involved in supplying water tankers/tankers for offtake of sewerage. Hence
+the fact that the questions raised by the applicant do not pertain to the supply
+made by them and therefore not admissible under Section 95(a)/97(2) of the GST
+
+Act and hence, the applicant was asked to furnish their interpretation of the
+
+questions raised in the application, along with need /willingness to be heard again.
+
+3.4 The applicant vide their email dated 16.11.2021 submitted the following
+
+facts:
+~ The applicant is an Electronic Commerce Operator as defined under Sec.
+2(45) of the Central Goods and Services Tax Act, 2017 (hereinafter referred to
+as the Act) since they own and operate a platform for electronic commerce
+known as “Bookwater”. Electronic Commerce is defined under See. 2(44) of
+the Act which means the supply of goods or services or both, including digital
+products over digital or electronic network. They provide services such as
+
+booking water tankers and sewage cvacuation tankers for supplying water
+
+Page 8 of 17
+
+
+and sewage services vide their digital platform. Since they provide “service ”
+
+as mentioned supra the same of which comes under the definition of Services
+fined under sec.2 (102) of the Act, they are a service
+
+lefinition provided under Section 9o{e)
+
+as de provider under the
+
+Act and also an applicant as per the «
+
+) of the Act an applicant may
+
+of the Act. According to Section 95
+
+ance ruling on matters or on questions specified in sub section (2) of
+
+lying to the Authority or
+
+adve
+97 or sub section (1) of section 100 by app
+2) of the Act lists out the
+
+section
+the Appellate Authority. Section 97 sub section (
+hich an applicant can seck an advatice ruling from
+
+questions in respect of w
+ed by them
+
+ertinent to mention that the questions rais
+Ab) and 97(2)(c) of the Act.
+97(2)(e) of
+
+the authority and it is p
+in the application specifically pertains to 97(
+In so far as question 1, 2 and 3 are concerned, according to section
+the Act any applicant can geck an advance ruling from the Authority on the
+determination of liability to pay tax on any
+a service provider providing supply of Raw watcr
+
+aw water is exempt goods under
+
+goods or services or both, Since
+
+they are from suppliers
+through their platform and moreover since R
+
+GST, whether the same is taxable supply or not has a direct implication on
+their liability to pay tax on their services and the same is a relevant question
+
+under 97(2)(e) of the Act. Morcover question 2 which pertains to whether
+
+supply of water through tankers comes under supply of raw water or
+transport services more So vide their platform, has a direct bearing on the
+nature of their services, which is a relevant question under section 97(2)(a) of
+
+thie Act.
+
+> According to Section 59) of the: Act,
+collect an amount calculated at such rate not exceeding
+
+every electronic commerce operator, not
+
+being an agent, shall
+one per cent,, as may be notified by the Government on the
+
+recommendations of the Council, of the net value of taxable supplies made
+through it by other suppliers where the consideration with respect to such
+supplies is to be collected by the operator (emphasis supplied). They are an
+electronic Commerce Operator as mentioned supra and he consideration
+with respect to supplics is also collected by them as per Scc 52 of the Act,
+¢ 52, an electronic commerce operator shall collect
+
+furthermore as per the se
+Also, the question
+
+ent) of the net value of taxable supplies.
+
+1% (one perc
+hether TCS (Tax Collected at Source)
+
+raised by them in the application was, W
+withheld by them from the supplicrs before making
+
+e) of the Act since the TCS is
+
+of 1% has to be payments
+
+which is a relevant question under 97(2)(
+
+Page 9 of 17
+
+
+applicable only on taxable supplies, therefore only if they know whether the
+
+supply made through their platform is a taxable supply or not, the said TCS
+can be deducted by them from the suppliers,
+
+, In so far as questions 4, 5 and 6 are concerned according to section 97(2)(b)
+any applicant can seck an advance ruling from the Authority on the
+applicability of any notification issued under the Act. The Government issued
+
+a Notification No.65/2017 Central Tax, dated 15.11.2017
+notification No. 6/2019-Central Tax, d
+
+amended vide
+ated 29 Jan-2019, w.e.f from 1-Feb
+2019) (hereinafter referred to as the said notification) pertaining to the
+exemption limit applicable to supplicrs (suppliers here, means the water
+tanker and
+
+sewage evacuation supplicrs) individually. The said notification
+
+has a direct implication on them since they are an agercgator of suppliers of
+water tankers and consumers, therefore any notification which has an
+implication on their suppliers will also have an implication on their liability to
+pay tax. Hence the question of applicability of the notification pertaining to
+
+the exemption limit applicable to suppliers is well within the ambit of the
+application. The question of Applicability of
+
+suppliers supplying through Bookwater also has a direct implic
+
+question raised by them in the
+GST for ation
+on their liability to pay tax, since the aspect of registration under GST has an
+implication on the rates of services provided by their suppliers which in turn
+
+has a monctary implication on services provided by them and the same
+comes under the ambit of section 97(2)(c) of the Act.
+
+1. The Centre Jurisdictional authority who has administrative control over the
+
+applicant has stated that there are no pending proceedings on the issue raised by
+the applicant in the Advance Ruling application and they
+
+have not furnished any
+further ¢
+
+omments on the questions raised by the applicant.
+
+5 The State Jurisdictional authority has stated that there
+
+are no pending
+proceedings in the applicant’s case.
+
+6.1 We have carefully examined the various submissions of the applicant. The
+applicant as scen from their submissions is a platform ageregator of water and
+
+scwage tank
+
+s. They are engaged in the development, Management and operation
+of a mobile application termed ‘Book Water Mobile Application’ and a website at
+‘www. bookwater.com’ for connecting suppliers of water and sewage tanker
+
+services
+to individuals or entities in need of the
+
+same. When a supplier of water or sewage
+
+tanker signs the ‘Supplier agreement’? with the applicant, they list and retain the
+
+Page 10 of 17
+
+
+supplicr onboard for a charge raised on such suppliers. The activity of the applicant
+as seen from the sample copics of the ‘supplier agreements’ is restricted to
+developing, managing and operating the platform and functioning as a market
+
+payments through its online payment micc
+Further, from the copies of Invoice
+
+place; collecting hanism to facilitate the
+transaction between the supplier and customer.
+furnished before us, it is seen that the invoice mentions the ‘seller’ as the ‘supplier’
+and the actails of such suppliers are mentioned apart from the Billing details,
+Gateway
+
+ranker charges, Convenience Fees and Payment
+
+Delivery address and 1
+The applicant in their
+
+bill charges raised by them.
+
+Service Charges are part of the
+¢ on behalf of the suppliers
+
+submissions has stated that they are raising the Invoic
+
+and they do not bill any customers directly and they do not buy and sell water in
+
+any way and also not involved in the service of sewage Cv acuation.
+
+6.2 With the above factual position, the admissibility of the questions under
+
+ad with Section 97(2) of the GST Act, 2017 are
+
+it before us are listed as
+
+Section 95a) re taken up for
+examination. The questions on which the Ruling is sougl
+
+under:
+gh the Bookwater
+
+1. Does raw water that is supplied through tankers throus
+
+platform come under exempted goods as well?
+
+2. Does the supplier of water through tankers come under supply of raw
+
+water or under transport services?
+3. Does Bookwater have to withhold any tax-GST TCS 1% from the suppliers
+payments for the supply of raw watcr through our platform?
+
+before making
+¢ is required to register under
+
+4. Is the supplier making raw water sal ist
+since they are transacting through an ¢ commerce operator?
+‘ 18% GST? If yes, most individual
+
+5. Does Sewage Evacuation come under
+
+less than 20lakhs per annum. Since
+
+sewage tanker operators have turnover
+If of the
+
+we are not billing the customer directly and are only billing on beha
+supplier, will the exemption limit of Rs.20Lakhs per annum be applicable to
+suppliers individually?
+
+6. Consequently, is GST Registration applicable for all suppliers through the
+Bookwater platform or only applicable for those suppliers who have a
+turnover over 20Lakhs?
+
+7. Does Bookwater have to withhold any tax (GST TCS 1% applicability) from
+the supplies have been made
+
+the suppliers before making payments since
+
+Pape 11 of 17
+
+
+through our digital platform and we also deduct our charges for our se
+
+rendered before making payments?
+
+rvices
+
+"he applicant has contended that
+
+va
+
+in as far as question 1,2,3 and 4 are concerned, according to Section O7(2){ ¢}
+
+of the Act, any applicant can seck an advance ruling from the Authority on
+
+the determination of liability to pay tax on any goods or services or both.
+
+Since they are a service provider providing supply of raw water from the
+
+supplicrs through their platform, and Raw water is exempted goods, there is
+
+a direct implication on their liability to pay tax and therefore the questions
+are relevant under Section 9'7(2)(e)
+
+ry Also, Q.2 pertains to whether the supply of water through water tankers
+
+comes under supply or raw water or transport services, more so vide their
+
+platform has a direct bearing on the nature of their services, which is a
+relevant question under Section 97(2)(a)
+
+~ Also, in respect of O.No: 3, TCS is applicable only on taxable supplies,
+
+therefore only if they know whether the Supply made through their platform
+
+is a taxable supply or not the said TCS can be deducted by them from their
+
+supplicrs and is a relevant question under Seetion 97(2)(c ) of the Act
+
+y Sinev the aspect of registration under GST has an implication on the rates of
+services provided by their suppliers which in turn hag a monctary implication
+on services provided by them, the same comes under the ambit of Section
+97(2)(c ) of the Act.
+
+In so far as questions 5, 6 and 7 are concerned, according to Section 97 (2)(o)
+
+an advance ruling from the Authority on the
+applicability of any notification issued under the Act.
+65/2017 CT dated 15.1 1.2017, amended vide Notifi
+dated 29.01.2019 pertains to the
+
+any applicant can seek
+
+Notification No.
+cation No. 06/2019 -cT
+exemption limit applicable to
+supplicrs(Suppliers here, mcans the water tanker and sewage evacuation
+supplicrs) individually, which has a direct implication on them as
+tors, therefore any notification which has an implic
+
+supplicrs will also have
+
+agercge ation on their
+
+an implication on their liability to pay tax and he
+comes within the ambit of Section 97(2)(e ) of the Act.
+
+VCE
+
+6.3 The definition of ‘advance Ruling’ under section 9S(a) of CGST/TNGST Act is
+
+given below for case of reference:
+
+Page 12 of 17
+
+
+(a) ‘advance ruling” means a decision provided by the Authority or the
+Appellate Authority 10 an applicant on matters or on questions specified in sub
+section (2) of section 97 or sub section (1) of section 100, in relation fo ti
+
+supply of goods or services or both being undertaken or proposed to be
+
+undertaken by the applicant;
+Section 97(2) of the CGST Act / Tamil Nadu GST Act (TNGST) gives the scope of
+
+Advance Ruling Authority, i.c., the question on which the Advance Ruling can be
+
+sought. For case of reference, the section is reproduced as under:
+
+97 (2) The question on which the advance ruling is sought under this Act, shall
+
+be in respect of,
+
+(a) classification of any goods or services or both;
+
+(b) applicability of a notification issued under the provisions of this Act;
+(c) determination of time and value of supply of goods or services or both;
+
+(a) admissibility of input tax credit of tax paid or deemed to have been paid;
+
+(e) determination of the liability to pay tax on any goods or services oF both;
+
+(f) whether applicant is required to be registered;
+(g) whether any particular thing done by the applicant with respect to any
+
+goods or services or both amounts to or results in a supply of goods or services
+
+or both, within the meaning of that term.
+
+From the above, it is evident that ‘advance ruling are decisions om questions
+2) of the Act in relation to the supply of goods or services
+
+specified in sub section 97(
+king the same.
+
+or proposed to be undertaken by the applicant scc
+n by the applicant alone
+
+undertaken
+
+Hence, supplies undertaken or proposed to be undertake
+
+are covered under the advance ruling as per Section 95(a) of the Act. The Act limits
+
+the Advance Ruling Authority to decide the issues earmarked for it under S« ction
+
+97(2) and no other issue can be decided by the Advance Ruling Authority. Further,
+
+Section 103 of the Act, states as follows:
+
+(1) The advance ruling pronounced by the Authority or the Appellate Authority
+under this Chapter shall be binding only
+
+(a) on the applicant who had sought it in respect of any matter referred
+to in sub section (2) of section 97 for advance ruling;
+(b) on the concerned officer or the jurisdictional officer in respect of the
+
+applicant.
+
+Page 13 of 17
+
+
+64) In the case at hand, the applicant is an e-commerce operator, who operates
+
+and manages a digital platform for the customers and the supplicrs and do not
+
+undertake the sale of water or supply of services of scwage excavation, in relation to
+
+which the ruling is sought. The applicant has claimed that all the questions raised
+are eventually covered under 97(2)(c ) of the GST Act which is
+‘Determination of the liability to pay tax on any goods or services or both’
+
+tis the contention that the applicant being an © commerce operator, the collection
+of TCS depends on the ‘net value of the taxable supplics made through it’ as per
+
+Section 52 of the Act and therefore, the questions raised on the supplics made
+
+through the digital platform are admissible for ruling and has a direct implication to
+their supply. Section 52 of the Act, States as under:
+
+v2 (1) Notwithstanding anything to the contrary contained in this Act, every
+electronic commerce operator (hereafler in this section referred to as the
+
+operator), not being an agent, shall collect an amount calculated at such
+
+rate not exceeding one per cent., as may be notified by the Government on the
+
+recommendations of the Council, of the net value of taxable supplies made
+
+through tt by other suppliers where the consideration with respect to such
+supplies is to be collected by the operator.
+
+iexplanation. Mor the purposes of this sub-section, the expression net value
+
+of taxable supplies shall mean the aggregate value of taxable supplies of goods
+
+or services or both, other than services notified under sub-section (5) of section
+
+9, made during any month by all registered persons through the operator
+reduced by the aggregate vatue of taxable supplies returned to the
+
+during the said month.
+
+suppliers
+
+Thus, this provision under Section 92(1) of the Act, provides for collection of an
+
+‘amount’ calculated @1% on the net value of taxable supplies made
+
+through it by
+other suppliers.
+
+Thus, it is evident that the provision itself clearly distinguishes
+
+that the ¢ commerce operator is different from the ‘Suppliers’. As per Section 95(a)
+
+read with Section 103 (applicability of the Ruling), it is clear that the ruling is
+applicable to the supply being made or proposed to be made
+
+and the ruling
+extended is binding
+
+only on the ‘Supplier’ who makes such supply, his jurisdictional
+
+officer and the concerned officer. In the case at hand, the applicant seeks ruling on
+
+the stpplics being made through their platform by the ‘ Concerned suppliers’
+
+mentioned at Section 52 and the questions raised are not on the
+
+supplics being
+
+made or proposed to be made by him. Further, the provision at 97(2)( ¢) allows this
+
+Page 14 of 17
+
+
+authority to admit questions on determination of the liability to pay tax. ‘Tax is
+defined under Section 2(21) of the CGST Act as
+(21) central tax means the central goods and services tax levied tunder
+section 9;
+Thus, Tax is one levied under Section 9 of the CGST/TNGST Act 2017. In the case
+at hand, the applicant collects an ‘amount’ at the specified rate under Section o2 of
+the Act and the said amount is not a ‘Tax’ levied under Section 9 of the GST Act, thie
+determination of the liability is covered under 97(2) (¢ ). The applicant in their
+application has stated that they do not undertake supply of Raw water or the
+service of Sewage evacuation service. Thus it is clear that the questions raised by
+the applicant, except for Q.No. 3 & 7, is not in relation to the supply ef goods o1
+services being undertaken or proposed to be undertaken by him. In this
+connection, we would also like to refer to the ruling of the TNAAAR, in the case of
+M/s. Erode Infrastructure, wherein, the Appellate authority, while considering the
+admissibility of the application, has stated as under:
+“14, The provisions of 8.103 categorically states that the ruling pronounced ts
+binding only on the applicant. It automatically flows that if a recipient obtains «a
+ruling on the taxability of his inward supply of goods or services, the supplier of
+such goods or services is not bound by that ruling and he is free to assess the
+supply according to his own determination, in which case, the ruling loses tts
+relevance and applicability even. Any law provision has to be interpreted in a
+constructive and harmonious way keeping in mind the object of the purpose of the
+provision. All parts of it should be read in aid of and not in derogation of that
+purpose. Any interpretation, if it defeats the very purpose of the objective and
+purpose of the law provision, is not only incorrect but also improper and bad i
+
+LOW sess
+
+Thus the applicant, who is an e commerce operator, and not the ‘supplier’ of Raw
+water and Sewage Evacuation Services, the question raised on the classification of
+supply, applicability of Notification for such suppliers, is not the question on
+supplics being or proposed to be undertaken by him.. Therefore, we do not have
+any hesitation, to hold that the questions raised (except Q.No. 3 & 7), do not pertain
+to the supply of the applicant and are not admissible for ruling as per Section
+
+95(a)/103 read with Section 97(2) of the Act.
+
+6.5 In respect to Q. No.3 & 7, the applicant has sought ruling as to whether the
+applicant is to withhold TCS from the suppliers before making Payments to the
+
+Page 15 of 17
+
+
+‘Concerned suppliers’, Section 52 of the Act governs the collection of amount by ce
+commerce operator in respect of supplies made through such e-commerce. ‘The
+ambit of Advance Ruling do not provide for answering the questions raised on the
+provisions relating to “lax Collected at Source’ provided under Section 52 of the Act.
+Further, the amount collected as TCS is not in the nature of Tax’ as stated above.
+Therefore, we hold that these questions are also not covered under the ambit of this
+
+authority as per Section 97(2) of the Act.
+7. In view of the above, we rule as under
+RULING
+
+The Questions raised in the application are not admitted and the same is
+
+rejected for the reasons stated in para 6 above
+
+Snail. K.LATHA Shri T.G. VENKATESH
+
+(Member) i awlhiGiaryY EG oe (Member)
+
+AUVANCE RULING
+30 wUV 2021
+
+t
+“OODS AND SEPYICF TAX
+
+c TROOVOI-S, Fea Ute
+
+To,
+M/s. Book water Tech Private Limited,
+
+Plot No.2, Ajantha Building
+
+b
+
+Vandalur,
+Kelambakkain Road, Kclambakkam,
+
+Kanchipuram, Tamilnadu-603103 // BY SPEED POST WITH ACK.DUE //
+
+Copy Submitted to:
+
+1. The Principal Chief Commissioner of GST & Central Excise,
+
+26/1, Mahatma Gandhi Road, Nungambakkam, Chennai-600034.
+2. The Principal Secretary/Comunissioner of Commercial Taxes/Member,
+Mnd Floor, Ezhilagam, Chepauk, Chennai 600 005.
+
+Page 16 of 17
+
+
+Copy to:
+
+¥. The Commissioner of GST @& Central Exeise, Chennai Out
+Commissioncrate, Newry Towers, No 2054, | Block, IInd Avenue, 12!) Main
+Road, Annanagar, Chennai- 600 040.
+
+!. Assistant Commissioner (ST) Kelambakkam Assessment Circle,
+
+Integrated Commercial Taxes & Registration Department, South
+
+Tower, Ind
+Floor, Government Farm Building, Nandanam, Chennat 600 035.
+
+9. Master File/ Spare 2.
+
+Page 17 of 17

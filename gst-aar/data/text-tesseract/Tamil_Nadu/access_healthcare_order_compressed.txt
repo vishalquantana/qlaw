@@ -1,0 +1,871 @@
+AUTHORITY FOR ADVANCE RULING, TAMIL NADU
+NO.206, 2"> FLOOR, PAPJM BUILDING , NO.1, GREAMS ROAD,
+CHENNAI - 600 006.
+
+ORDER UNDER SECTION 98(4) OF THE CGST ACT, 2017 AND UNDER
+SECTION 98(4) OF THE TNGST ACT, 2017.
+
+Members present:
+
+Smt. D. Jayapriya, LR.S., Smt. A.Valli, M.Sc.,
+
+Additional Commissioner/ Member(CGST), Joint Commissioner/Member(SGST},
+Office of the Principal Chief Commissioner of | Office of the Commissioner of
+
+GST & Central Excise, Chennai -600 034. Commercial Taxes, Chennai-600 006.
+
+Advance Ruling No. 10/ARA/2024 Dated: 30.05.2024
+
+i. Any appeal against this Advance Ruling order shall lie before the Tamil Nadu
+State Appellate Authority for Advance Ruling, Chennai under Sub-Section (1) of
+Section 100 of CGST Act 2017/ TNGST Act 2017, within 30 days from the date on
+the ruling sought to be appealed, is communicated.
+
+2. In terms of Section 103(1) of the Act, Advance Ruling pronounced by the Authority
+under Chapter XVII of the Act shall be binding only-
+
+{aj on the applicant who had sought it in respect of any matter referred to in sub-
+section (2) of Section 97 for advance ruling.
+
+(b) on the concerned officer or the jurisdictional officer in respect of the applicant.
+
+3. In terms of Section 103(2) of the Act, this advance ruling shall be binding unless
+the law, facts or circumstances supporting the original advance ruling have
+changed.
+
+4, Advance Ruling obtained by the applicant by fraud or suppression of material
+Jacts or misrepresentation of facts, shail render such ruling to be void ab initio in
+accordance with Section 104 of the Act.
+
+5. The provisions of both the Central Goods and Services Tax Act and the Tamil
+Nadu Goods and Services Tax Act (herein referred to as an Act) are the same except
+for certain provisions. ‘Therefore, uniess a mention is specifically made to such
+dissimilar provisions, a reference to the Central Goods and Services Tax Act would
+also mean a reference to the same provisions under the Tamil Nadu Goods and
+Services Tax Act.
+
+Page 1 of 17
+
+
+[GSTIN Number, ifany / Userid  ]33AAJCA1885H1ZN |
+
+“Legal Name of Applicant “|M/s. Access Healthcare Services Private
+Limited
+Trade Name of Applicant(Optional) M/s. Access Healthcare Services Private
+Limited.
+Registered Address / Address Kochar Technology Park,
+provided while obtaining user id ISP-31A, Ambattur Industrial Estate,
+Chennai — 600 058.
+Details of Application Form GST ARA-—O1
+
+Application SI.No.85/2023/ARA,
+dated 12.04.2023
+
+Concerned Officer State: Ambattur Industrial Estate Assessment
+Circle
+
+Center: Chennai North Commissionerate
+
+Nature of activity{s) (proposed /
+present) in respect of which advance
+ruling sought for
+
+A_ | Category Service Recipient
+
+B_ | Description (in brief) Contract Staffing Services
+
+Issue/s on which advance ruling 1) Admissibility of input tax credit of tax paid
+
+Required or deemed to have been paid
+
+Question(s) on which advance ruling |1) Whether Input Tax Credit (ITC) is eligible on
+
+Is required Contract Staffing Services received by the
+Applicant?
+
+M/s. Access Healthcare Services Private Limited, Kochar Technology Park,
+SP-31A, Ambattur Industrial Estate, Chennai —- 600 058 (hereinafter called as the
+applicant) are registered under the GST Act with GSTIN: 33AAJCA1885H1ZN. The
+applicant is a company incorporated in India under the Indian Companies Act,
+having its registered office at Chennai, Tamil Nadu and engaged in the business of
+providing Information technology (IT) and Information technology Enabled Services
+(ITeS) for health sector. The company offers business process outsourcing,
+applications services, and robotic process automation tools to healthcare providers,
+payers, and related service providers.
+
+2. The applicant has preferred this application seeking Advance Ruling on the
+following question:
+
+1) Whether Input Tax Credit (ITC) is eligible on Contract Staffing Services
+received by the Applicant?
+
+Page 2 of 17
+
+
+3. The applicant submitted a copy of challan dated 23.03.2023 evidencing payment
+of application fees of Rs.5,000/- each under sub-rule (1) of Rule 104 of CGST Rules
+2017 and SGST Rules 2017.
+
+4. Statement of relevant facts, submitted by the Applicant :
+
+4.1. The Applicant states that being in the service sector, particularly in the
+IT/ITeS space, human resources form the backbone of the Applicant’s activities.
+
+Technically qualified resources are hence a key to the operations of the business of
+the applicant.
+
+4.2. Considering the present volatile job market, the applicant has been finding it
+extremely onerous to identify, train, recruit and retain suitable resources. Hence,
+the applicant is considering hiring the service of professional contract-staffing
+firm(s) to avail certain human resource management and related services.
+
+4.3. Such firm(s) (‘Staffing Firm’) would issue tax invoices on the applicant towards
+the services rendered, along with applicable Goods and Service Tax. The services
+rendered fall under SAC 998513 - Contract Staffing Services, leviable to GST at
+18% (clause 23{iii) of Notification No. 08/2017-Integrated Tax (Rate) dated 28 June
+2017).
+
+4.4. In the light of the above facts, the applicant is filing the present application
+before the Authority for Advance Ruling seeking an Advance Ruling on the
+question defined under Section 97(2)(d) of the Central Goods and Services Tax Act,
+2017 (‘CGST Act’) which is as under:
+
+“(a) admissibility of input tax credit of tax paid or deemed to have been paid;”
+
+5. On interpretation of law, the applicant states that —
+
+Eligibility to avail Input Tax Credit
+
+5.1. The applicant submitted that as per Section 16 of the Central Goods and
+Services Act, 2017 (‘CGST Act’) & Tamil Nadu Goods and Services Act, 2017
+(TNGST Act’), Inputs/ input services should be used or intended to be used in the
+course or furtherance of the business. The relevant text of Section 16 is hereby
+reproduced below for reference:-
+
+“16. (1) Every registered person shail, subject to such conditions and restrictions
+as may be prescribed and in the manner specified in section 49, be entitled to
+take credit of input tax charged on any supply of goods or services or both to
+him which are used or intended to be used in the course or furtherance of his
+business and the said amount shall be credited to the electronic credit ledger of
+such person.”
+
+Page 3 of 17
+
+
+5.2. The applicant stated that in the light of above mentioned provisions, it shall be
+noticed that in order to ‘avail ITC on any inward supply’, the supply should be used
+in the course or furtherance of business.’ This inference finds support in the FAQs
+on GST published by the CBIC dated 31 March 2017. Relevant question and
+answer thereto is reproduced below:
+
+“Q 4, Is credit of all input tax charged on supply of goods or services allowed
+under GST?
+Ans. A registered person is entitled to take credit of input tax charged on
+supply of goods or services or both to him which are used or intended to be
+used in the course or furtherance of business, subject to other conditions
+and restrictions.”
+
+5.3. The applicant further stated that firstly from the phrase “used or intended
+to be used”, it can be fairly inferred that the entitlement to ITC is dependent on
+usage or even mere intention of usage of the procured supplies for application in
+the course or furtherance of business. And next, it shall be relevant to discuss the
+meaning of the phrase ‘in the course or furtherance of business.’ The term
+‘business’ has been defined under Section 2(17) of CGST Act & TNGST Act in the
+following manner to cover a wide ambit of activities by way of an inclusive
+definition:
+
+“business includes—
+
+(a) any trade, commerce, manufacture, profession, vocation, adventure, wager
+or any other similar activity, whether or not it is for a pecuniary benefit;
+(b) any activity or transaction in connection with or incidental or ancillary to
+sub-clause(a);
+
+5.4. The applicant further stated that the phrase “in the course or furtherance of
+business”. While the said phrase is not defined in the GST Law, the meaning of the
+phrase, used liberally across past indirect tax legislations, has been subjected to
+ample commentary and discussions, few of which are reproduced below:
+
+In course of:
+
+As per S.B. Sarkar’s Words and Phrases of Excise, Customs & Service Tax. -
+4th edition, the expression ‘in course of’ means ‘progress or process of or
+shortly ‘during’.
+
+In Manek Chowké& Ahmedabad Mig. Co. Ltd. v. State of Gujarat [1991 (83)
+STC 84 (Guj.HC)], the assessee had not closed down but merely suspended
+its business. It made sales of its plant, machinery and stock of its Unit No.2,
+after getting a scheme sanctioned by the Court, in order to compromise with
+its creditors. The sales were held to be taxable having been made in the
+course of its business.
+
+Page 4 of 17
+
+
+In furtherance of:
+
+The Oxford dictionary explains the meaning of the term ‘furtherance’ as ‘the
+advancement of a scheme or interest’.
+
+Thus, if an activity is undertaken for the advancement of business it will be
+treated as in furtherance of business.
+
+5.5. The applicant undertakes that any Input Tax Credit availed would be in due
+compliance with meeting the conditions laid out in Section 16(2) of the CGST Act,
+as reproduced below. Therefore, the question of credit eligibility is restricted to
+Section 16(1).
+
+“(2) Notwithstanding anything contained in this section, no registered person
+shall be entitled to the credit of any input tax in respect of any supply of goods
+or services or both to him unless,—
+
+(a) he is in possession of a tax invoice or debit note issued by a supplier
+registered under this Act, or such other tax paying documents as may be
+prescribed;
+
+(aa) the details of the invoice or debit note referred to in clause (a) has been
+furnished by the supplier in the statement of outward supplies and such
+details have been communicated to the recipient of such invoice or debit note
+in the manner specified under section 37;
+
+(b) he has received the goods or services or both.
+
+Explanation.-For the purposes of this clause, it shall be deemed that the
+registered person has received the goods or, as the case may be, services—
+
+(j) where the goods are delivered by the supplier to a recipient or any other
+person on. the direction of such registered person, whether acting as an agent
+or otherwise, before or during movement of goods, either by way of transfer of
+documents of title to goods or otherwise;
+
+(ii) where the services are provided by the supplier to any person on the
+direction of and on account of such registered person.
+
+(ba) the details of input tax credit in respect of the said supply communicated
+to such registered person under section 38 has not been restricted;]
+
+(c) subject to the provisions of section 41, the tax charged in respect of such
+supply has been actually paid to the Government, either in cash or through
+utilisation of input tax credit admissible in respect of the said supply; and
+
+(d) he has furnished the return under section 39:
+
+Page 5 of 17
+
+
+Provided that where the goods against an invoice are received in lots or
+instalments, the registered person shall be entitled to take credit upon receipt
+of the last lot or instalment:
+
+Provided further that where a recipient fails to pay to the supplier of goods or
+services or both, other than the supplies on which tax is payable on reverse
+charge basis, the amount towards the value of supply along with tax payable
+thereon within a period of one hundred and eighty days from the date of issue
+of invoice by the supplier, an amount equal to the input tax credit availed by
+the recipient shall be added to his output tax liability, along with interest
+thereon, in such manner as may be prescribed:
+
+Provided also that the recipient shall be entitled to avail of the credit of input
+tax on payment made by him of the amount towards the value of supply of
+goods or services or both along with tax payable thereon.”
+
+5.6. Based on the above provisions, the applicant submitted the following:
+
+i) That the applicant is engaged in the provision of Information Technology enabled
+services such as Business Process Outsourcing (BPO) services for clients in the
+healthcare industry in the United States of America, also referred to as revenue
+cycle management. The said activities of the Applicant certainly qualified under
+clause (a) of the definition of the term ‘businesses’ cited supra.
+
+ii} That the applicant proposes to avail the subject services with the motive of
+identifying potential candidates for hiring as employees, thereby further its
+business operations. Hence, the said procurement of services is clearly for use or
+intended to be used by the Applicant in the course or furtherance of business.
+
+Credit not blocked
+
+9.7. The applicant further submitted that Section 17(5) of CGST Act & TNGST Act
+provides the cases where ITC is admissible. Relevant text of Section 17(5) is hereby
+reproduced below for reference:
+
+(5) Notwithstanding anything contained in sub-section (1) of section 16 and
+subsection (1) of section 18, input tax credit shall not be available in respect of
+the following, namely:-
+
+(a) motor vehicles and other conveyances except when they are used—
+
+(i) for making the following taxable supplies, namely:-
+
+(A) further supply of such vehicles or conveyances ; or
+
+(B) transportation of passengers; or
+
+{ii} membership of a club, health and fitness centre;
+fit) rent-a-cab, life insurance and health insurance except where —
+
+(A) the Government notifies the services which are obligatory for an employer
+to provide to its employees under any law for the time being in force; or
+
+Page 6 of 17
+
+
+(B) such inward supply of goods or services or both of a particular category
+is used by a registered person for making an outward taxable supply of the
+same category of goods or services or both or as part of a taxable composite
+or mixed supply; and
+
+(iv) Travel benefits extended to employees on vacation such as leave or home
+travel concession}..”
+
+5.8. The applicant stated that the Input Tax Credit on the transaction under
+question does not fall under any of the above-mentioned categories, and hence is
+not blocked by Section17(5).
+
+Judicial precedents on credit eligibility under erstwhile indirect tax regime
+
+5.9. The applicant submitted that considering a culmination of the erstwhile
+indirect tax legislations and because the CENVAT Credit provisions closely
+resembled ITC conditions under GST, it can be fruitful to rely upon principles laid
+down by various judicial fora on the matter.
+
+5.10. In the ruling of the Hon’ble Bombay High Court in Coca Cola India Pvt. Ltd.
+[2009 (15) STR 657(Mum)] and also by the Hon’ble Apex Court in Doypack Systems
+(Pvt.) Ltd. [1988 (36) ELT 201(SC)], it was held that the expression “business” as
+found in the definition of “input service’ had wide importation and that would
+include all such activities which might have both direct as well as indirect
+significance, and it can cover all the activities that are related to the functioning of
+the business. Specifically on credit eligibility on manpower supply, reliance is
+placed on the ruling of the Hon’ble CESTAT Allahabad in M/s. Unicure India Ltd.
+[2017 (3) TMI 706].
+
+5.11. Referring to the above cited judgments the applicant submitted that from the
+above precedents, it can be justly inferred that under the scheme of indirect
+taxation, seamless flow of tax credits on business expenses has always been the
+legislative intent and therefore the ITC on the proposed transaction should be
+eligible.
+
+Industry understanding under GST Law.
+
+5.12. The applicant further submitted that under the erstwhile CENVAT Credit
+regime, the definition and ambit of terms such as “input service’ underwent
+multiple amendments to keep pace with the business realities and representations
+from the trade and industry. Initially, nexus with the final manufactured
+goods/output services rendered was envisaged to be a condition for availment of
+credit. Subsequently, realizing business needs and to achieve the true purpose of
+credit flow in an indirect tax framework, the strength of the nexus theory was
+
+Page 7 of 17
+
+
+diluted to allow credit on procurements as long as they were in connection of the
+business.
+
+5.13 The applicant submitted that the GST Law, seen as a culmination of the
+erstwhile regime and learnings from the numerous judicial precedents therein, has
+therefore largely simplified the provisions on credit availment, staying true to the
+objective of preventing cascading effect of taxes. That in this light, the industry
+ushered in the GST regime with earnest belief of the credit provisions enhancing
+business commercials as also greatly expanding the tax net by bringing earlier
+unorganized players into the organized sector.
+
+5.14. The applicant submitted that the Indian Staffing Federation is the apex body
+representing the Staffing industry / Private Employment Services that is authorised
+to discuss with government agencies and other trade bodies on behalf of the
+staffing industry/ private employment services. The ISF constitute of several
+professional organized staffing companies, including the proposed vendor(s) of the
+Applicant.
+
+5.15. That as cited in The Economic Times dated on 01-June-2018, in the pre-GST
+regime, the unorganized contract staffing sector bad a pricing advantage as they
+did not pay service tax. However, Post-GST implementation the availability of input
+tax credit (ITC) has prompted companies to increase their hiring of such temporary
+staffing services and is fundamentally restructuring the entire staffing business in
+india. Rituparna Chakraborty, the President of the Indian Staffing Federation, also
+remarked many employers prefer contractual engagements and the benefit of input
+credit has helped organized staffing companies to be more competitive. Previously
+one could not claim anything on the service tax charged but after GST one can set
+off the entire amount paid on outsourced staffing cost against the GST payable,
+which has stepped up the flexi-staffing model. Staffing firms like Team Lease
+Services, Ikya Human Capital Solutions, Randstad, Kelly Services, Adecco and
+Spectrum Talent Management have reported up to 60%growth in business since
+GST roll-out. A copy of the article is attached as Annexure-D.
+
+5.16. The applicant submitted that considering the above, it is their submission
+that while the industry perceived ITC availability as a game-changer for the sector,
+the same must be eligible for the applicant on the subject transaction.
+
+6. The applicant is under the administrative control of State Tax Authority. The
+concerned authorities of the Center and State were addressed to report if there are
+any pending proceedings against the applicant on the issues raised by the
+applicant in the Advance Ruling application and for comments on the issues raised.
+
+6.14 The State jurisdiction Officer viz. the Assistant Commissioner (ST), Ambattur
+Industrial Estate Assessment Circle reported that no adjudication proceedings
+
+under section 17(5) of the TNGST Act is pending against the taxpayer and
+submitted the following:
+
+Page 8 of 17
+
+
+» The Taxpayer is doing Information Technology Software Service to foreign
+countries and is regularly claiming Refund of Unutilised ITC for Export
+without Payment of IGST under LUT from July 2017 till date.
+
+> Quoting the provisions of Section 17 (5) of the of the TNGST Act the State
+jurisdiction officer submitted that the GST paid by the Taxpayer on
+Contract staffing services can be availed as ITC by the Taxpayer which is
+not a blocked credit as per Section 17(5)(b)(iii) of the TNGST ACT 2017.
+
+6.2 The Joint Commissioner (ST), Intelligence-II has also remarked that no
+proceedings is pending in their jurisdiction.
+
+6.3 The Central authority has not reported anything, hence it is construed that
+there is no pending proceedings against the applicant on the issues raised by the
+applicant in the Advance Ruling application.
+
+ts The Applicant, was given an opportunity to be heard in person on
+09.01.2024. Shri. Aravind Baskaran, Chartered Accountant and Abhishek
+Ganahari, Chartered Accountant who are the Authorized Representatives of the
+Applicant appeared for the hearing and they reiterated the submissions made in
+their application. Further they submitted additional submissions, wherein sample
+services agreement and sample copy of invoices were submitted.
+
+The members requested them to submit input and output services rendered
+/ to be rendered by the applicant, for which it was stated that they would submit at
+the earliest.
+
+8. Additional Submission
+
+The applicant vide letter dated 20.02.2024 made additional submissions
+against the advance ruling application. They submitted that with regard to certain
+documents sought for perusal by the members of the advance ruling during the
+personal hearing on 09.01.2024 they make the following submissions:
+
+8.1. Clarification on the outward supplies provided by Access Healthcare using
+man resourc uess Corp Limited
+
+The applicant submitted that the Company is in the business of Revenue
+Cycle Management, which helps hospitals, physicians and healthcare providers.
+Therefore, the employees of Quess Corp Limited provide the below services:
+a. Assistance in processing transactions like Charge Entry, Payment Posting,
+Demo Verification.
+b, Medical coding
+c. Follow up on receivables
+d. Denial management
+
+8.2. The applicant further submitted the summary of process of hiring and initial
+training of employees by the Contract firm as follows:
+
+Page 9 of 17
+
+
+> The company usually hires around 500 employees per month, primarily
+fresh college graduates.
+
+> It plans to engage a contract firm who will handle this hiring process on
+behalf of the company.
+
+> The employees hired will technically be employed by the contract firm
+during the initial period. Their responsibilities include providing them with
+necessary training and support.
+
+> After this period, these employees will be officially transferred over to join
+the Company’s employees
+
+> The contract firm provides an invoice for these services to the Company,
+which includes Goods and Services Tax (GST).
+
+8.3. The applicant submitted that the above arrangement allows the Company to
+focus on core operations while a specialized firm handles the multifaceted process
+of hiring and training and the cost for this service is included in the contractor’s
+invoice, which also includes GST.
+
+Scope of Work (SOW) agreed between the Company and Quess Corp Limited
+
+8.4 The applicant submitted that the company has not entered into any
+agreement with Quess Corp Limited. That they are only at the stage of negotiation
+and only upon confirmation of GST impact they are likely to enter into agreement
+with Quess Corp Limited. The applicant have enclosed the Scope of Work (Sow) as
+Annexure-1 for reference. They further requested to take the records into
+consideration and provide them a hearing date at the earliest for conclusion of the
+matter.
+
+8.5 The statement of scope of work submitted as annexure-I by the applicant is
+perused and reproduced below:
+STATEMENT OF WORK
+
+This Statement of Work dated (Date). (SOW No 1), is entered into pursuant
+to the Services Agreement dated 4th March 2022 (“Agreement”) executed by
+and (Client Name) and Quess Corp Ltd..
+
+The terms and conditions of this Agreement will govern this SOW (Scope of
+Work). Any capitalized term used but not defined in this SOW shall have the
+same meaning as set out in the Agreement. To the extent that this Statement
+of Work is inconsistent with or conflicts with the Agreement, this Statement
+of Work shall amend and supersede those inconsistent or conflicting terms
+of the Agreement. In all other respects, the Agreement shall remain in full
+force and effect according to its terms.
+
+The SOW is effective from 23rd May 2022 (“SOW Effective Date”) and
+comprises the following and any attachments/ schedules hereto.
+
+Page 10 of 17
+
+
+1. SERVICE REPRESENTATIVES OF THE PARTIES:
+Client Representative Details: VivinAnto
+Company Representative Details:
+
+2. OBLIGATIONS OF THE PARTIES TO THE AGREEMENT
+
+a. Recruitment
+
+Client will provide clear specifications for the nature of the services required
+from the Company, in order to help source and recruit the Associates.
+
+Company shall ensure that the Associates have cleared the Company’s
+internal selection processes and meet Client’s requirements as specified
+under the respective SOW.
+
+b. Placement
+
+Client will intimate the locations where the Services of the Associates would
+be needed.
+
+Client will send a written recommendation to the Company if it wishes to
+telocate any of the Associates.
+
+c, Replacement of Separated Associate(s)
+
+In the event any Associate, deputed by the Company ceases to perform
+Services as specified in the Associate request form of his/her own volition for
+the Client, for no fault of the Client, within forty-five (45) days of deputation,
+the Company shall forthwith arrange for replacement of the Associate to the
+Client and the Client shall not have to incur additional sourcing fees that it
+would have paid had the original Associate continued to perform the
+required services.
+
+d. Service Log
+
+In order to aid the Company in processing its payroll, Client will intimate the
+Company in prescribed formats details of Services rendered (attendance,
+leave, advances given, sums recoverable, reimbursements payable with
+supporting bills, vouchers) to the Associate by the 25th of every month.
+
+e. Disciplinary action
+
+Client will inform the Company of any acts of misconduct by an Associate
+immediately and discuss the action steps to be taken, subject to providing
+the necessary supporting documents.
+
+f. Withdrawal of an Associate Client will request for termination of
+Associate/s through its designated personnel in case of theft, fraud and acts
+that constitute moral turpitude. Client will give in writing the details of the
+theft, fraud etc. along with the supporting documents to the Company for
+necessary action. On receipt of such a written request, the Company will
+terminate the Associates immediately. In all other cases, Client may request
+in writing to the Company for withdrawal of the Associate/s due to any other
+unsatisfactory reason/ behavior/performance (post completion of
+performance improvement plan) by providing required notice period as
+specified under this SOW and/or Agreement. Company’s SPOC request
+Client to duly sign the Employee’s exit check list on the associate last
+
+Page 11 of 17
+
+
+working day as per Schedule — A. The liability on the Client assets’ will not
+be there on the Company upon signing Employee’s exit check list.
+
+g. Safety and Health
+
+Client will not assign work of a hazardous nature without prior intimation to
+the Company and without provision of adequate personal protections
+including helmet, jacket and boots ete (as applicable).
+
+h. Reimbursements
+
+Any justifiable expense incurred by the Company under this SOW and
+mutually agreed by and in between the Company and Client, will be
+reimbursed by Client. Further, Client agrees to reimburse the associates
+expenses, if any
+
+i. Medical Expenses Upon Client’s discretion and instruction, a medical
+checkup for every Associate can be arranged, expenses of which will be
+borne by the Client.
+
+j. Background verification
+
+Upon Client’s discretion and instruction, background verification for every
+Associate can be arranged, expenses of which will be borne by the Client.
+
+k. Industry-specific Checks
+
+Upon Client’s discretion and instruction, Company shall preform
+license/permit verifications and fingerprinting for certain positions. Client
+agrees to pay the Company all related costs associated with providing such
+Services plus an administrative fee.
+
+1. Reports
+
+Company agrees to provide the reports pertaining to the Associates, as
+mutually agreed between the Parties from time to time.
+
+m. Additional Services
+
+Company may provide additional services beyond its express obligations
+under this Agreement at the Client’s request. The charges for these services
+will be at the rate as mutually agreed upon in advance by the Client and the
+Company. The Client will be responsible for the reimbursement of business
+expenses incurred by the Company in connection with any additional
+services requested by the Client.
+
+3. OBLIGATIONS OF THE COMPANY
+
+a. The Company will devise suitable selection procedures as per the
+Associate revulsion form from the Client and ensure that Associates offered
+have the approval of the Client.
+
+b. The Company may keep its designated personnel at its centers briefed on
+
+the service requirements with Associates / Client and ensure responsive
+service.
+
+Page 12 of 17
+
+
+c. The Company will ensure that Associate's salaries / reimbursements are
+processed and reached to the Associates latest by the 2nd working day from
+the receipt of timely payment from the Client.
+
+d. The Company may review Associate's performance periodically with the
+concerned Executive or supervisor of Client.
+
+e. The Company personnel will communicate with the Associate’s concerned,
+authorized representative of Client periodically to address any problems and
+implement solutions to the satisfaction of Client.
+
+f. The Company may make available reports by the Client at regular
+intervals, as mutually agreed.
+
+g. The Company will respond promptly and responsibly to any charge of
+misconduct of any kind by Associates and ensure speedy resolution of the
+matter in consultation with Client, as per Company policy.
+
+h. The Company will ensure to issue identity card to each and every
+Associate.
+
+i. The Company will ensure to transfer salary online to all the Associates and
+statutory fees to authorities, subject to receipt of the timely payment
+including salaries of the Associates from the Client
+
+9 On the request of the applicant a second personal hearing was accorded on
+27.03.2024. Sri Aravind Baskaran, Chartered Accountant and authorized
+representative of the applicant appeared for the personal hearing and reiterated the
+submissions made in the application and during the First Personal hearing held on
+09.01.2024. Further they submitted additional submissions providing clarification
+on the outward supplies provided by the applicant using the human resources of
+Quess Corp Limited and the scope of work agreed between the applicant and Quess
+Corp Limited along with sample copies of the invoices issued by Quess Corp
+Limited in similar transactions.
+
+DISCUSSION AND FINDINGS:
+
+10.1 We have carefully considered the submissions made by the applicant in their
+application, submissions made during the personal hearing and the comments
+furnished by State Tax jurisdictional officer.
+
+10.2 The applicant submits that they are engaged in the business of providing
+Information Technology (IT) and Information Technology Enabled Services (ITeS) for
+healthcare sector. They offer business process outsourcing, applications services,
+and robotic process automation tools to healthcare providers, payers and related
+service providers. That being in the IT/ITes space, human resources form the
+backbone of their activities and technically qualified resources is a key to the
+operations of the business of the applicant. They further state that the job market
+is volatile and it is found extremely onerous to identify, train, recruit and retain
+suitable resources. Therefore, the applicant is considering hiring the service of
+professional contract —staffing firm(s) to avail certain human resource management
+and related services. Such firm(s) (‘Staffing Firm’) would issue tax invoices on the
+
+Page 13 of 17
+
+
+applicant towards the services rendered, along with applicable Goods and Service
+Tax. The services rendered fall under SAC 998513 - Contract Staffing Services,
+leviable to GST at 18% (clause 23{iii) of Notification No. 08/2017-Integrated Tax
+(Rate) dated 28 June 2017). The applicant has sought for the ruling on the
+following question:
+
+Whether Input Tax Credit (ITC) is eligible on Contract Staffing Services
+
+received by the Applicant?
+
+10.3 With regard to the issue raised by the applicant in the advance ruling
+application filed by them, we find that the availment of ITC is governed by the
+provisions of Section 16 8& 17 of the CGST Act, 2017. Whereas Section 16 of the
+CGST Act, 2017 provides for the Eligibility and conditions for taking input tax
+credit, Section 17 of the said Act deals with apportionment of credit and blocked
+credits.
+
+10.4 As per section 16{1) of CGST Act in order to avail ITC on any inward supply,
+the supply should be used in the course or furtherance of business. The applicant
+submits that they are engaged in the provision of Information Technology enabled
+services such as Business Process Outsourcing (BPO) services for clients in the
+healthcare industry in the United States of America, also referred as revenue cycle
+management. The said activities of the applicant is certainly a business. The
+applicant has submitted that they propose to avail the subject services from their
+supplier with the motive of identifying potential candidates for hiring as employees,
+thereby further its business operations. Hence, the said procurement of services is
+clearly for use or intended to be used by the applicant in the course or furtherance
+of business. In this case, the services received by the applicant are man power
+supply received from the supplier which is used for provision of service to their
+customers. Therefore, the condition that the services shall be used for furtherance
+of business is satisfied.
+
+10.5 Further the applicant has submitted that they undertake that any Input
+Tax Credit availed would be in due compliance with meeting the conditions laid out
+in Section 16(2) of the CGST Act, 2017, reproduced below:
+
+(i) The applicant is in possession of the tax invoice or debit note, as the case
+may be,
+
+(ii) He has received the goods or services or both,
+
+(iii) | Subject to the provisions of section 41, the tax charged in respect of such
+supply has been actually paid to the Government, either in cash or
+through utilization of input tax credit admissible in respect of the said
+
+supply; and
+(iv) He has furnished the return under section 39
+(v) Where the registered person has claimed depreciation on the tax
+
+component of the cost of capital goods and plant and machinery under
+the provisions of the Income tax Act, 1961, the input tax credit on the
+said tax component shall not be allowed
+
+Page 14 of 17
+
+
+In the instant case the above conditions (i) to fiv) are to be fulfilled by the
+applicant to be eligible for claiming the input tax credit. The condition mentioned at
+sl no (v) is not relevant in the instant case as the same pertains to availment of
+input tax credit on capital goods and plant and machinery, whereas the supplies to
+be received by the applicant are contract staffing services.
+
+10.6. Further we agree with the applicants’ submission that the GST paid by the
+applicant on availing contract staffing services is not a blocked credit as per section
+17(5)(b)(iii) as below:
+
+(5) Notwithstanding anything contained in sub-section (1) of section 16 and
+sub-section (1) of section 18, input tax credit shall not be available in
+respect of the following, namely:-
+
+{a) motor vehicles for transportation of persons having approved seating
+capacity of not more than thirteen persons (including the driver), except
+
+(ab) services of general insurance, servicing, repair and maintenance in so
+far as they relate to motor vehicles, vessels or aircraft referred to in clause
+(a) or clause (aa):
+
+(b) [the following supply of goods or services or both-
+
+(i) food and beverages, outdoor catering, beauty treatment, health services,
+cosmetic and plastic surgery, leasing, renting or hiring of motor vehicles,
+vessels or aircraft referred to in clause (a) or clause (aa) except when used
+for the purposes specified therein, life insurance and health insurance:
+
+(ii) membership of a club, health and fitness centre; and
+(iii) travel benefits extended to employees on vacation such as leave or home
+travel concession:
+
+(c) works contract services when supplied for construction of an immovable
+property (other than plant and machinery) except where it is an input service
+for further supply of works contract service;
+
+(d) goods or services or both received by a taxable person for construction of
+
+when they are used for making the following taxable supplies, namely:-
+an immovable property (other than plant or machinery) on his own account
+including when such goods or services or both are used in the course or
+
+furtherance of business.
+
+{e) goods or services or both on which tax has been paid under section 10;
+
+(f) goods or services or both received by a non-resident taxable person except
+on goods imported by him;
+
+(fa) goods or services or both received by a taxable person, which are used or
+
+intended to be used for activities relating to his obligations under corporate
+social responsibility referred to in section 135 of the Companies Act, 2013;
+
+u Page 15 of 17
+
+
+{g) goods or services or both used for personal consumption;
+
+(h) goods lost, stolen, destroyed, written off or disposed of by way of gift or
+free samples; and
+
+(i) any tax paid in accordance with the provisions of
+sections 74, 129 and 130.
+
+10.7 We find that in as much as the transaction under question does not fall
+under any of the above-mentioned categories the availment of ITC on the
+transaction under question is not blocked by Section 17(5) of the CGST Act, 2017.
+
+10.8 In view of the foregoing discussion we find that in as much as the applicant
+is engaged in the business of providing Information Technology (IT) and Information
+Technology Enabled Services (ITeS) for healthcare sector and intends to avail the
+contract staffing services in the course or furtherance of business, the applicant is
+eligible to avail the input tax credit on the said contract staffing services subject to
+the fulfilment of conditions specified under section 16 of the CGST Act, 2017 for
+availment of input tax credit.
+
+11. Based on the above discussions, we rule as under:
+RULING
+The applicant is eligible to avail the input tax credit on contract staffing services
+
+under section 16(1) of GST Act,2017 subject to the fulfilment of conditions specified
+
+under the said section, as discussed in para 10 above.
+
+Member (SGST)
+
+To
+
+M/s. Access Healthcare Services Private Limited //by RPAD//
+Kochar Technology Park,
+
+SP-31A, Ambattur Industrial Estate,
+
+Chennai — 600 058.
+
+Page 16 of 17
+
+
+Copy submitted to:
+
+1. The Principal Chief Commissioner of GST & Central Excise,
+26/1, Mahatma Gandhi Road, Nungambakkam, Chennai-600034.
+
+2. The Commissioner of Commercial Taxes,
+2n4 Floor, Ezhilagam, Chepauk, Chennai — 600 005.
+
+Copy to:
+
+1. The Commissioner of GST & Central Excise,
+Chennai North Commissionerate,
+No. 26/1, Mahatma Gandhi Road,
+Nungambakkam, Chennai — 600 034.
+
+2. The Assistant Commissioner (ST),
+Ambattur Industrial Estate Assessment Circle,
+Integrated Building for Commercial Taxes and Registration,
+Room No. , II — Floor, Government Farm Village,
+Nandanam, Chennai — 600 035.
+
+3. Master File/ Spare - 2.
+
+Page 17 of 17

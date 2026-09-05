@@ -1,0 +1,261 @@
+AUTHORITY FOR ADVANCE RULING -UTTAR PRADESH
+4, Vibhuti Khand, Gomti Nagar, Lucknow
+
+PROCEEDING OF THE AUTHORITY FOR ADVANCE RULING USS. 98 OF
+THE GOODS AND SERVICES TAX ACT, 2017
+
+Sub:- GST ACT, 2017 — Advance Ruling U/s 98 — liability to tax under GST
+Act in respect to application dated 16.11.2018 from M/s Autometers Alliance
+Pvt. Ltd., Noida, Uttar Pradesh — Order— Reg.
+
+REKKKKKKKK
+
+1) M/s Autometers Alliance Pvt. Ltd.., C-60,61,62,63, Sector 57, Noida,
+Gautam Budh Nagar Uttar Pradesh, 201307 (here in after called the applicant) is a
+registered assessee under GST having GSTN: 09AAACA7870P1Z1.
+
+2) The applicant is engaged inter alia, engaged in manufacture and supply of
+various product specially designed to be used for railway applications
+according to the designs given by Indian Railways.
+
+3) The Applicant has submitted application for Advance Ruling dated
+16.11.2018 enclosing duly filled Form ARA-01(the application form for Advance
+Ruling) along with annexure and attachment.
+
+4) The Applicant in his application sought clarification and Advance Ruling as
+follows: —
+
+The issue is in relation to classification of Vigilance Control Device (VCD),
+Diagnostic Terminal (DT), and Master Controller System (MCS), (hereinafter
+collectively referred to as “products”) supplied by the Applicant.
+
+5) The application for advance ruling was forwarded to the Jurisdictional GST
+Officer to offer their comments/views/Vverification report on the matter, which was
+received vide letter C.No. V(30)Tech./Div-II/06/R-06/18/280 dated 08.01.2019.
+
+| ar ]
+
+
+6) The applicant was granted a personal hearing on 18.01.2019. Mr. Atul Gupta
+Advocate, Authorized representative on behalf of applicant appeared for hearing.
+During the personal hearing he submitted/stated:-
+
+that he has given his written submission vide letter dated 16/11/18 and he
+would like to reiterate the same. Department was represented by Sri J.K. Saxena,
+Supdt., Range-VI, Div-II, Noida. Mr. Atul Gupta, Advocate submitted additional
+written submission in order to clarify certain issues through his email dated
+25.01.2019.
+
+DISCUSSION AND FINDING
+
+1) We have gone through the submissions made by the applicant and
+examined the detailed explanation submitted by them. We observe that the
+question sought by the applicant is in relation to classification of Vigilance
+Control Device (VCD), Diagnostic Terminal (DT), and Master Controller System
+(MCS), (hereinafter collectively referred to as “products”) supplied by the
+Applicant.
+
+2) Brief description about the products supplied by the Applicant is mentioned
+below:-
+
+i) Vigilance Control Device (VCD):- VCD is installed in the rails to supervise
+the alertness of the driver crew during the train movement. Absence of normal
+driving functions or the acknowledgement at specified intervals activates the
+VCD, which flashes an indication. If there is no acknowledgement even then, the
+device generates an audio warning. If the audio warning is also not
+acknowledged, emergency brake is applied.
+
+ii) Diagnostic Terminal (DT):- DT is a robust terminal device which consists of a
+LCD screen with LED backlight and a switch panel. DT is placed in the engine
+carriage from where the driver of the rail operates. The screen displays to the
+driver certain information which is transmitted to the Vehicle Control Unit
+("VCU") for informing the driver about the said information. The information
+which is shown through the screen of the DT is related to the functioning or any
+
+2
+
+rer)
+
+
+malfunctioning of the part of the rail which is captured and processed by the
+VCU and communicated to the DT vide wired transmission. For e.g. if there is
+fire in any of the coach of the rail, VCU detects the same and transmits this
+information to DT. The driver is informed of the same vide a written message
+displayed on the DT. The driver thereafter, acknowledges the information shown
+on the screen through the switch panel. Further, the course of action which can
+be undertaken by the driver as a reaction to an event is also displayed on the DT.
+The driver can choose among the displayed available options vide the switch
+panel. The driver can also control the specifications such as contrast, brightness
+etc. of the screen.
+
+iii) Master Controller System:- MCS is manually operated equipment that
+comprises of the control elements required for driving and breaking, as well as
+for the auxiliary function of traction of rails from driver's desk. Vide the MCS,
+the driver can undertake traction of the gear to accelerate and slow down the
+vehicle. Further, there is another pulley vide which the driver can either move the
+rail in forward or in reverse direction. Once the driver moves the gear or the
+pulley, signal of the said command is transmitted vide wire to VCU according to
+which requisite power is supplied to the motor. MCS also comprise of drum
+which illuminates in case of any fault in MCS. MCS is manually operated by its
+drive/brake control handle. This handle position has three modes which are
+Breaking mode (BE), Neutral (0) and Traction mode (TE). The drive direction
+selector switch also has three handle positions namely Reverse (R), Neutral (0)
+and Forward (F).
+
+3) In the application as per the understanding of applicant the products
+supplied by it are designed and manufactured as per the specifications of
+Indian Railways. The properties and composition of these products are such that
+they can be used solely in the rails and thus qualifies for classification under
+heading 8607 of the Customs Tariff Act (hereinafter referred to as the "CTA").
+As "Parts of railway or tramway locomotives or rolling- stock for the reasons
+furnished herein below: -
+
+Notification No. 1/2017-Central Tax (Rate) dated 28.06.2017, as amended
+(hereinafter referred to as "Notification 1/2017") provides for the applicable
+rate of central goods and service tax (hereinafter referred to as "CGST") that
+
+a:
+
+
+shall be levied on intra-state supply of goods, the description of which is
+specified .in the corresponding entry in column (3) of the Schedules under the
+Notification, falling under the tariff item, subheading, heading or Chapter, as
+the case may be, as specified in the corresponding entry in column (2) of the
+said Schedules. Notification no. KA.N1.-2-836/XI-9(47)/ 17- U.P. Act-1-2017-
+Order- (06) -2017 dated 30.06.2017 is the corresponding notification issued by
+the Uttar Pradesh Government.
+
+Sr. No. 241 of Schedule 1(2.5%) of Notification 1/2017 covers Parts of
+railway or tramway locomotives or rolling-stock; such as Bogies, bissel-bogies,
+axles and wheels and parts thereof.
+
+4) As per Explanation (iii) in notification no.1/2017-Central Tax (Rate) dated
+28.06.2017- “Tariff item”, “sub-heading”, “heading” and “Chapter” shall mean
+respectively a tariff item, sub-- heading, heading and chapter as specified in the
+First Schedule to the Customs Tariff Act, 1975(51 of 1975).
+
+Further, as per explanation (iv)- The rules for the interpretation of the First
+Schedule to the Customs Tariff Act, 1975(51 of 1975), including the Section and
+Chapter Notes and the General Explanatory Notes of the First schedule shall, so far
+as may be, apply to the interpretation of this notification.
+
+5) As per submission, technical specifications and characteristics mentioned by
+the party in respect of Vigilance Control Device (VCD), Diagnostic Terminal (DT)
+& Master Controller System (MCS), it appears that they are Signaling and Safety or
+Traffic Control Equipments which are being manufactured and supplied for Railways.
+
+As per Party's understanding, all the above mentioned devices/equipments falls
+in the appropriate heading 8607 of the Customs Tariff Act.
+
+6) On verification of Chapter 86 of Customs Tariff Act, 1975 it is found that this
+chapter deals with “VEHICLES, AIRCRAFT, VESSELS AND
+ASSOCIATED TRANSPORT EQUIPMENT". As per Note 2 of Chapter 86
+(Section XVII) of Customs Tariff Act, 1975, heading 8607 applies, inter alia, to-
+
+a) Axles, wheels, wheel sets (running gear), metal tyres, hoops and hubs and
+other parts of wheels; :
+
+b) Frames, under frames, bogies and bissel-bogies;
+
+c) Axle boxes, brake gear;
+
+Fr i |
+
+
+d) Buffers for rolling-stock; hooks and other coupling gear and corridor
+connections;
+
+e) Coachwork.
+
+7) From the above note, it is clear that Electrical Signaling, Safety or Traffic
+Control Equipment for Railways cannot be classified in the Sub-heading 8607
+as nowhere signaling equipments are included in this Chapter Sub-heading.
+
+8) As per provisions of Note 1 of the Chapter 86, the items of following
+characteristics do not cover in chapter 86:
+(a) Railway or tramway sleepers of wood or of concrete, or concrete guide-
+track sections for hover trains (heading 4406 or 6810);
+(b) Railway or tramway track construction material of iron or steel of heading 7302;
+or
+(c) Electrical signaling, safety or traffic control equipment of heading 8530.
+
+9) Thus, from note 1 of Chapter 86 it is clear that electrical signaling, safety
+or traffic control equipments or heading No. 8530 have been specifically excluded
+from purview of chapter 86.
+
+Furthermore, sub-heading 8530 includes the items with following
+characteristics: Electrical Signaling, Safety or Traffic Control Equipment for
+Railways Tramways, Roads, Inland Waterways, Parking Facilities, Port
+Installation or Airfields (Other Than Those of Heading 8608). The Goods are
+being classified under particular tariff item in accordance with General Rule for
+the interpretation of the Harmonized System. As per Rule I- The titles of
+Sections, Chapters and sub-Chapters are provided for ease of reference only;
+for legal purposes, classification shall be determined according to the terms of
+the headings and any relative Section or Chapter Notes and, provided such
+headings or Notes do not otherwise require.
+
+10) From the above, it appears that the items in question do not fall in the
+Chapter sub-heading of 8607, and they will fall in Chapter sub-heading 8530
+more appropriately.
+
+It is also submitted that the party has never classified its products in the
+Chapter 86 as per previous excise returns (ER-1)-of the party filed in Central
+Excise (As per the Jurisdiction).
+
+ra
+
+
+11) From the characteristic of the Vigilance Control Device (VCD),
+Diagnostic Terminal (DT) & Master Controller System (MCS), chapter Notes,
+Classification Rules and above discussion; it appears that they all fall in Code
+8530 10 10 of Customs Tariff Act, 1975.
+
+The rate of GST on the items of Sub-heading 8607 is 5% whereas it is
+18% of the items of Sub-heading 8530.
+
+12) It is also worth mentioning that the end use of the products by railways
+cannot be taken as a ground to determine the classification of the goods on question.
+As per the CBIC circular no. 30/4/2018-GST, dated 25.01.2018, regarding-
+clarification on supplies made to the Indian Railways classifiable under any chapter,
+other than chapter 86. It is clarified that- a) only the goods classified under Chapter
+86, supplied to the railways attract 5% GST rate with no refund of unutilised input tax
+credit and b) other goods (falling in any other chapter), would attract the general
+applicable GST rates to such goods under the aforesaid notifications (1/2017- Central
+Tax (Rate) dt. 28.06.17, read with notf. No. 5/2017- Central tax (Rate) dt. 28.06.17),
+even if supplied to the railways.
+
+In view of the above, both the members unanimously rule as under;
+
+RULING
+
+From the characteristic of the Vigilance Control Device (VCD), Diagnostic
+Terminal (DT) & Master Controller System (MCS), chapter Notes,
+Classification Rules and above discussion, they all fall in Code 8530 10 10 of
+Customs Tariff Act, 1975.
+
+la
+
+Vivek Hari Ram
+Member of Authority\for Advance Member of Authority for Advance
+Ruling Ruling
+
+
+To,
+M/s Autometers Alliance Pvt. Ltd.,
+C-60,61,62,63 Sector 57, Noida,
+Uttar Pradesh, 201307.
+
+AUTHORITY FOR ADVANCE RULING —UTTAR PRADESH
+Order No. rACi) Date: 44-02: 2e14
+
+Copy to —
+1. The Chief Commissioner, CGST & Central Excise, Lucknow, Member,
+Appellate Authority of Advance Ruling.
+2 The Commissioner, Commercial Tax, Uttar Pradesh, Member,
+Appellate Authority of Advance Ruling.
+3. The Commissioner, CGST & CEX, Gautam Budh Nagar, Uttar
+Pradesh.
+4. The Deputy Commissioner, CGST & Central Excise, Division-I, Noida,
+Uttar Pradesh;
+5. Through the Additional Commissioner, Commercial Tax, Noida, Uttar
+Pradesh to jurisdictional tax assessing officers.

@@ -1,0 +1,737 @@
+1 | P a g e  
+ 
+ 
+ 
+WEST BENGAL AUTHORITY FOR ADVANCE RULING              
+GOODS AND SERVICES TAX 
+14 Beliaghata Road, Kolkata – 700015 
+(Constituted under section 96 of the West Bengal Goods and Services Tax Act, 2017) 
+ 
+Members present: 
+ 
+Sarthak Saxena, Joint Commissioner, 
+CGST & CX 
+Joyjit Banik, Senior Joint Commissioner, SGST 
+ 
+Preamble 
+A person within the ambit of Section 100 (1) of the Central Goods and Services Tax Act, 
+2017 or West Bengal Goods and Services Tax Act, 2017 (hereinafter collectively called 
+„the GST Act‟), if aggrieved by this Ruling, may appeal against it before the West Bengal 
+Appellate Authority for Advance Ruling, constituted under Section 99 of the West Bengal 
+Goods and Services Tax Act, 2017, within a period of thirty days from the date of 
+communication of this Ruling, or within such further time as mentioned in the proviso to 
+Section 100 (2) of the GST Act.  
+Every such appeal shall be filed in accordance with Section 100 (3) of the GST Act and 
+the Rules prescribed there under, and the Regulations prescribed by the West Bengal 
+Authority for Advance Ruling Regulations, 2018.  
+Name of the applicant 
+KSB Limited 
+Address 
+30, 2nd,Circus Avenue, Kolkata, Pincode-700017 
+Correspondence address 
+M/s. KSB Limited, Corporate office 
+Mumbai-Pune Road, Pimpri, Pune 
+Maharashtra, Pincode-411018 
+GSTIN 
+19AAACK5918J1Z9 
+Case Number 
+28 of 2022 
+ARN 
+AD190922007918N 
+Date of application 
+September 28, 2022 
+Order number and date 
+02/WBAAR/2023-24 dated 19/05/2023  
+Applicant’s representative heard 
+Mr.Tushar Bhartia, Authorized Representative 
+ 
+1.1 At the outset, we would like to make it clear that the provisions of the Central Goods 
+and Services Tax Act, 2017 (the CGST Act, for short) and the West Bengal Goods and 
+Services Tax Act, 2017 (the WBGST Act, for short) have the same provisions in like 
+matter except for certain provisions. Therefore, unless a mention is specifically made to 
+such dissimilar provisions, a reference to the CGST Act would also mean reference to the 
+
+
+2 | P a g e  
+ 
+corresponding similar provisions in the WBGST Act. Further to the earlier, henceforth for 
+the purposes of these proceedings, the expression „GST Act‟ or „GST Act, 2017‟ would 
+mean the CGST Act, 2017 and the WBGST Act, 2017 both. 
+ 
+1.2 The applicant is engaged in the business of manufacturing and selling pumps for 
+various applications. The applicant  also provides services in relation to installation, 
+commissioning, repairs and maintenance of such pumps. The applicant has informed that 
+their manufacturing units are located in Maharashtra and Tamil Nadu, and the goods 
+manufactured at these locations are transferred to their warehouses in other states and 
+sold locally from such warehouses. 
+ 
+1.3 This advance ruling application has been submitted with respect to the supply made to 
+the Kolkata Municipal Corporation (KMC), for replacing the old, poor performing pump 
+with a new pump. 
+ 
+1.4 The applicant has made this application under sub-section 2(a) & 2(b) of section 97 of 
+the GST Act and the rules made there under raising following question vide serial number 
+14 of the application in FORM GST ARA-01: 
+Whether supply for construction of a sewerage treatment plant which involves supply of 
+pumps as well as installation and commissioning work attracts GST rate of 12% in terms 
+of Notification No. 11/2017-CT (Rate) dated 28/06/2017 read with of Notification No. 
+20/2017-CT (Rate) dated 22/08/2017. 
+ 
+1.5 The officer concerned from the revenue submits that the query raised by the applicant 
+doesn‟t qualify the conditions laid down in section 97 and the instant application therefore 
+should not be admitted. 
+ 
+1.6 However, we find that the question on which the advance ruling is sought for is 
+covered under clause (b) of sub-section (2) of section 97 of the GST Act i.e., in respect of 
+applicability of a notification issued under the provisions of this Act. 
+ 
+1.7 The applicant states that the question raised in the application has neither been 
+decided by nor is pending before any authority under any provision of the GST Act. 
+ 
+ 
+1.8 The application is, therefore, admitted. 
+ 
+2. Submission of the Applicant 
+ 
+2.1 The applicant M/s KSB Limited, is engaged in the business of manufacturing & selling 
+pumps for various applications. They also provide services in relation to installation, 
+commissioning, repair & maintenance of such pumps. Their manufacturing facility is 
+located in Maharashtra & Tamil Nadu, and they have warehouses at different states, 
+including West Bengal, from where they make the supply to their customers. 
+ 
+2.2 This instant case arises out of the supply being made to Kolkata Municipal 
+Corporation (KMC), on the basis of their tender submitted on 9th December 2019, which 
+mentions the work as: 
+'... 
+
+
+3 | P a g e  
+ 
+Manufacture, supply and installation of two nos. 240 cusec (480 m3/min) at 3 m 
+head axial flow column type submersible pump motor units in place of poor 
+performing old pump at Palmer Bridge Drainage Pumping station and at Ballygunge 
+Drainage Pumping station under KMC. 
+...‟ 
+The applicant has submitted copies of the tender document and the tender notice. The 
+said tender document was accepted by KMC on 26th December 2019, pursuant to which 
+the work order number DR/PBPS/M/32/18-19 dated 19th February 2021 was issued by 
+KMC to the applicant, the copy of which was also submitted by the applicant. 
+ 
+2.3 The applicant has submitted that this supply is a composite supply of works contract to 
+a local body, i.e., Kolkata Municipal Corporation (KMC) intended to be used in a sewerage 
+treatment plant. Further, the applicant has stated that in this case, „... the contract 
+executed with KMC is a turnkey contract for repairs of existing sewerage treatment plant 
+that includes manufacturing of pumps and carrying out civil works in the form of 
+construction of appropriate foundation for its erection and installation along with 
+mechanical works in the form of earthing and bonding. A pump that is unsupported to the 
+earth will not serve its purpose. Thus pumps are required to be fastened to a foundation 
+for the sake of permanency and its effective operation…‟.  
+ 
+2.4 The applicant thus contends that the instant supply is a composite supply comprising 
+supply of goods and services both and such supply is related to immovable property 
+thereby qualifies as „works contract‟ as defined in section 2(119) of the GST Act. The 
+instant supply, therefore, would attract tax @ 12% in terms of entry-3(iii) of the Notification 
+No. 11/2017-Central Tax (Rate) dated 28th June 2017 read with Notification No. 20/2017-
+Central Tax (Rate) dated 22nd August 2017. 
+ 
+2.5 The applicant has also submitted copies of two invoices issued with respect to this 
+supply: 
+ 
+ 
+Invoice No. 
+Invoice Date 
+Invoice Value (in Rs.) 
+WB2201000693 
+17th May 2022 
+ 3,48,41,823  
+WB2201000694 
+17th May 2022 
+ 3,48,41,823  
+ 
+2.6 Further, the applicant has relied on the following judgements in support of their claim: 
+ 
+a. Triveni Engineering & Industries Ltd. Vs. Commr. of Central Excise (2002-TIOL-
+14-SC-CX-CB) 
+b. Synergy Global Steel Pvt. Ltd. (Advance Ruling No. 03/2019-20 dated 
+23/04/2019 passed by the Haryana Authority for Advance Ruling) 
+c. Tarun Realtors Pvt. Ltd. (Order No. KAR/AAAR-14/2019-20 dated 06/02/2020 
+passed by the Karnataka Appellate Authority for Advance Ruling) 
+d. Arvind Envisol Ltd. (Advance Ruling No. KAR ADRG 17/2021 dated 25/03/2021 
+passed by the Karnataka Authority for Advance Ruling) 
+ 
+ 
+
+
+4 | P a g e  
+ 
+3.Submission of the Revenue 
+ 
+The officer concerned from the revenue has not expressed any view in this regard. 
+ 
+4. Observations & Findings of the Authority 
+ 
+4.1 We have gone through the records of the issue as well as submissions made by the 
+authorised representative of the applicant during the course of personal hearing. The 
+applicant has filed this application seeking an advance ruling in respect of applicability of 
+serial number 3(iii) of the Notification No. 11/2017-Central Tax (Rate) dated 28th June 
+2017 read with Notification No. 20/2017-Central Tax (Rate) dated 22nd August 2017. For 
+the sake of convenience, the said entry, as amended from time to time, is reproduced 
+below: 
+ 
+Sl. 
+No. 
+Chapter, 
+Section, 
+Heading, Group 
+or Service Code 
+(Tariff) 
+Description of Services 
+Rate 
+(per 
+cent.) 
+Condition 
+3 
+Heading 
+9954 
+(Construction 
+services) 
+(iii) Composite supply of 
+works contract as defined in 
+clause (119) of section 2 of 
+the West Bengal Goods and 
+Services Tax Act, 2017, 
+supplied 
+to 
+the 
+Government, 
+a 
+local 
+authority 
+or 
+a 
+Governmental 
+authority  
+by way of construction, 
+erection, 
+commissioning, 
+installation, 
+completion, 
+fitting 
+out, 
+repair, 
+maintenance, renovation, or 
+alteration of,–  
+(a) a 
+historical 
+monument, 
+archaeological 
+site or remains 
+of 
+national 
+importance, 
+archaeological 
+excavation, 
+or 
+antiquity 
+specified 
+under 
+the 
+Ancient 
+Monuments and 
+Archaeological 
+Sites 
+and 
+Remains 
+Act, 
+1958 
+(24 
+of 
+1958);  
+(b) canal, dam or 
+other 
+irrigation 
+works;  
+(c) pipeline, conduit 
+6 
+ 
+
+
+5 | P a g e  
+ 
+Sl. 
+No. 
+Chapter, 
+Section, 
+Heading, Group 
+or Service Code 
+(Tariff) 
+Description of Services 
+Rate 
+(per 
+cent.) 
+Condition 
+or plant for (i) 
+water supply (ii) 
+water treatment, 
+or (iii) sewerage 
+treatment 
+or 
+disposal.  
+After amendment made vide Notification No. 31/2017-Central Tax (Rate) dated 
+13.10.2017 
+ 
+ 
+(iii) Composite supply of 
+works contract as defined in 
+clause (119) of section 2 of 
+the West Bengal Goods and 
+Services Tax Act, 2017, 
+supplied to the Central 
+Government, 
+State 
+Government, 
+Union 
+territory, a local authority, 
+a Governmental Authority 
+or a Government Entity by 
+way 
+of 
+construction, 
+erection, 
+commissioning, 
+installation, 
+completion, 
+fitting 
+out, 
+repair, 
+maintenance, renovation, or 
+alteration of,–  
+(a) a 
+historical 
+monument, 
+archaeological 
+site or remains 
+of 
+national 
+importance, 
+archaeological 
+excavation, 
+or 
+antiquity 
+specified 
+under 
+the 
+Ancient 
+Monuments and 
+Archaeological 
+Sites 
+and 
+Remains 
+Act, 
+1958 
+(24 
+of 
+1958);  
+(b) canal, dam or 
+other 
+irrigation 
+works;  
+(c) pipeline, conduit 
+or plant for (i) 
+water supply (ii) 
+water treatment, 
+or (iii) sewerage 
+treatment 
+or 
+disposal.  
+6 
+Provided 
+that 
+where 
+the 
+services 
+are 
+supplied to a 
+Government 
+Entity, 
+they 
+should 
+have 
+been procured 
+by 
+the 
+said 
+entity in relation 
+to 
+a 
+work 
+entrusted to it 
+by the Central 
+Government, 
+State 
+Government, 
+Union territory 
+or 
+local 
+authority, 
+as 
+the case may 
+be 
+
+
+6 | P a g e  
+ 
+Sl. 
+No. 
+Chapter, 
+Section, 
+Heading, Group 
+or Service Code 
+(Tariff) 
+Description of Services 
+Rate 
+(per 
+cent.) 
+Condition 
+After amendment made vide Notification No. 22/2021- Central Tax (Rate) dated 31.12.2021 
+ 
+ 
+(iii) Composite supply of 
+works contract as defined in 
+clause (119) of section 2 of 
+the West Bengal Goods and 
+Services Tax Act, 2017, 
+supplied to the Central 
+Government, 
+State 
+Government, 
+Union 
+territory, a local authority 
+by way of construction, 
+erection, 
+commissioning, 
+installation, 
+completion, 
+fitting 
+out, 
+repair, 
+maintenance, renovation, or 
+alteration of,–  
+(a) a 
+historical 
+monument, 
+archaeological 
+site or remains 
+of 
+national 
+importance, 
+archaeological 
+excavation, 
+or 
+antiquity 
+specified 
+under 
+the 
+Ancient 
+Monuments and 
+Archaeological 
+Sites 
+and 
+Remains 
+Act, 
+1958 
+(24 
+of 
+1958);  
+(b) canal, dam or 
+other 
+irrigation 
+works;  
+pipeline, conduit or plant 
+for (i) water supply (ii) 
+water treatment, or (iii) 
+sewerage treatment or 
+disposal. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+ 
+The entry has been omitted from 18.07.2022 vide Notification No. 03/2022- Central Tax 
+(Rate) dated 13.07.2022 
+ 
+ 
+ 
+4.2 In this case, the essential questions to be examined are: 
+ 
+i. 
+whether the transaction is in the nature of a „works contract‟; and 
+ii. 
+whether the supply is being made to a „local authority‟ as defined under 
+Section 2(69) of the GST Act, 2017;and 
+iii. 
+whether the supply is for the purpose of „sewerage treatment or disposal‟;and 
+
+
+7 | P a g e  
+ 
+iv. 
+Applicability of the entry 3(iii) of the Notification No. 11/2017-Central Tax 
+(Rate) dated 28th June 2017 read with Notification No. 20/2017-Central Tax (Rate) 
+dated 22th August 2017 in this case. 
+ 
+Works contract service: 
+ 
+4.3.1 Section 2(119) of the GST Act defines „works contract‟ as: 
+ 
+"works contract" means a contract for building, construction, fabrication, completion, 
+erection, installation, fitting out, improvement, modification, repair, maintenance, 
+renovation, alteration or commissioning of any immovable property wherein transfer of 
+property in goods (whether as goods or in some other form) is involved in the 
+execution of such contract; 
+ 
+As per the aforesaid definition, the essential feature for a service to be a „works contract‟ 
+service is that whether the service is in relation to an immovable property or not. 
+Consequently, it needs to be examined whether the supply in this case could be 
+considered as pertaining to „immovable property‟. Section 3(26) of the General Clauses 
+Act, 1897 gives the following definition to „immovable property‟ : 
+ 
+"immovable property" shall include land, benefits to arise out of land, and things 
+attached to the earth, or permanently fastened to anything attached to the earth; 
+ 
+4.3.2 The pump in question could not be classified as land or benefits to arise out of land. 
+On examining further, it could be observed that even though the term “attached to the 
+earth” has not been defined in the General Clauses Act, 1897, Section 3 of the Transfer of 
+Property Act, 1882 gives the following definition: 
+ 
+“attached to the earth” means — 
+(a) rooted in the earth, as in the case of trees and shrubs; 
+(b) imbedded in the earth, as in the case of walls or buildings; or 
+(c) attached to what is so imbedded for the permanent beneficial enjoyment of that to 
+which it is attached; 
+ 
+4.3.3 The pump in this case could not be classified into the clauses (a) and (b) mentioned 
+above. The applicability of clause (c), however, requires further examination. As per 
+clause (c) reproduced above, if something is attached for the „permanent beneficial 
+enjoyment‟ of what it is attached to, it would fall within the definition of „attached to the 
+earth‟ and thus within the definition of „immovable property‟. In this regard, we find that the 
+Hon‟ble Supreme Court of India has stated in the case of CCE v.s. Solid & Correct Engg. 
+Works that: 
+ 
+Paras.- 28 & 29 (relevant extract) : 
+28. The English law attaches greater importance to the object of annexation 
+which is determined by the circumstances of each case. One of the important 
+considerations is founded on the interest in the land wherein the person who 
+caused the annexation possesses articles that may be removed without 
+structural damage and even articles merely resting on their own weight are 
+fixtures only if they are attached with the intention of permanently improving 
+the premises. 
+ 
+29. The Indian law has developed on similar lines and the mode of annexation 
+and object of annexation have been applied as relevant tests in this country 
+also. ….. 
+ 
+Para.-30 (relevant extract) : 
+
+
+8 | P a g e  
+ 
+30. The courts in this country have applied the test whether the annexation is 
+with the object of permanent beneficial enjoyment of the land or building. ….. 
+ 
+4.3.4 What is evident from the observations mentioned in paras. 29 & 30 that the object or 
+intention of annexation is the pertinent test to determine whether something is for 
+„permanent beneficial enjoyment‟. Further, para. 28 also implies that this would be 
+determined on the basis of the „circumstances of each case‟. In view of the same, the 
+facts of this case have to be examined to determine that whether the installation of pump 
+could be classified as immovable property and consequential actions would follow. 
+ 
+4.3.5 This description shows that the tender is floated for the purpose of replacing the 
+earlier pump on account of performance issues and installation of a new submersible 
+pump by the applicant. The pump would be fastened to the civil structure by way of nuts, 
+bolts and fastenings. The civil structure in this case is a sewerage pumping station under 
+KMC, the very purpose of which is pumping of sewerage for further treatment & disposal. 
+The pump is essential to this activity and is thus expected to be installed and fastened at 
+its place of installation throughout its operational life, and is thus installed for the 
+permanent beneficial enjoyment of the civil structure to which it is attached to. Thus, in 
+light of the facts of the case, the pump on installation would be an immovable property, 
+and thus the installation, repair and maintenance of pump at the sewerage pumping 
+station would qualify to be „works contact service‟ as per Section 2(119) of GST Act. 
+ 
+ 
+4.3.6 The applicant has submitted a copy of the Notice inviting e-tender No.-
+DR/PBPS/M/32/18-19/2 (Tender Notice) issued by the Kolkata Municipal Corporation, 
+having the work description as: 
+„Manufacture, supply and installation of two nos. 240 cusec (480 m3/min) at 3 m 
+head axial flow column type submersible pump motor units in place of poor 
+performing old pump at Palmer Bridge Drainage Pumping station and at 
+Ballygunge Drainage Pumping station under KMC‟ 
+Further, the Tender Document is also submitted by the applicant, which mentions the 
+conditions, responsibilities and technical specifications of the scope of work of the 
+applicant on being awarded the tender. On perusal of the same, it is observed that as per 
+the scope of work, the applicant has, inter-alia, following responsibilities: 
+-  Design and manufacture of the submersible pump motor set, 
+-  Carriage and delivery of the submersible pump motor set to the site of installation, 
+-  Erection and installation of the submersible pump motor set, 
+-  Testing and maintenance of the submersible pump motor set after installation, 
+-  Erection of foundation, as per requirement. 
+ 
+4.3.7 From the above, it could be seen that the scope of work includes transfer of property 
+in goods. It also includes erection, installation and maintenance of the pumping set, 
+including its foundation as per requirement. In light of these facts, the applicability of the 
+Notification has to be examined. 
+ 
+Supply to Local authority: 
+ 
+4.4.1 The Notification would be applicable to supplies made to a local authority. In this 
+case, the applicant is making supply to Kolkata Municipal Corporation, hereinafter also 
+referred to as KMC. In this regard, it may be noted that Section 2(69) of the GST Act, 
+2017 inter-alia defines a local authority as-: 
+"local authority" means- 
+(a) …….. 
+(b) a "Municipality" as defined in clause (e) of article 243P of the Constitution; 
+ 
+Article 243P of the Constitution states that-: 
+243P. In this Part, unless the context otherwise requires,— 
+
+
+9 | P a g e  
+ 
+…….. 
+(e) “Municipality” means an institution of self-government constituted under article 
+243Q; 
+ 
+Article 243Q of the Constitution states that-: 
+243Q. (1) There shall be constituted in every State,— 
+…….. 
+(c) a Municipal Corporation for a larger urban area, 
+ 
+Further, Section 4 of the Kolkata Municipal Corporation Act, 1980 states that-: 
+4 (1) With effect from such date as the State Government may, by notification, 
+appoint, there shall be a Corporation charged with the municipal government of 
+Kolkata, to be known as the Kolkata Municipal Corporation. 
+ 
+4.4.2 Thus, we find that Kolkata Municipal Corporation (KMC) is a „Municipality‟ 
+constituted under Article 243P of the Constitution; KMC is a local authority, as defined 
+under Section 2(69) of the GST Act. The Notification would thus apply to this case, subject 
+to other conditions being fulfilled. 
+ 
+Purpose of sewerage disposal: 
+ 
+4.5.1 The tender is issued by the Sewerage and Drainage (S&D) department of the KMC. 
+The tender document itself states that the supply is in the nature of replacing the poor 
+performing old pumps at the Palmer Bridge Drainage Pumping station and at the 
+Ballygunge Drainage Pumping station. The applicant has also submitted the copy of the 
+tender document issued by KMC, the catalogue of the submersible pump which is to be 
+installed, pictures of the old and new pumps from the site of installation, for better 
+understanding of the nature of supply. 
+ 
+4.5.2 The purpose of the pump in this case is pumping the sewerage from one location to 
+other, which is an integral part of the process of sewerage disposal. Further, the applicant 
+has also submitted a document issued by the Executive Engineer (Mech.) and Asst. 
+Engineer (Mech.) from the S&D department of KMC which states that: „it is to confirm that 
+the above mentioned contract is for disposal of drainage/sewage generated at the KMC 
+area under the Kolkata Municipal Corporation and is in the nature of Composite supply of 
+Works Contract ‟. 
+ 
+4.5.3 On the basis of the above, we find that the contract is for the purpose of sewage 
+disposal, and the Notification would apply to this case, subject to fulfilling other conditions. 
+ 
+Applicability of serial no. 3(iii) of Notification No. 11/2017-Central Tax (Rate) dated 
+28.06.2017, as amended 
+ 
+4.6.1 In light of the facts of the case, we find that this case is a composite supply of works 
+contract services as defined under section 2(119) of the GST Act, 2017 and the supply is 
+made to the „local authority‟ KMC for the purpose of sewerage disposal. Thus, the supply 
+would be covered under entry 3(iii) of the Notification No. 11/2017-Central Tax (Rate) 
+dated 28th June 2017 read with Notification No. 20/2017-Central Tax (Rate) dated 22th 
+August 2017, which prescribes a rate of 12% (6% CGST and 6% SGST) for such 
+supplies. 
+ 
+4.6.2 This entry however, has been omitted vide Notification No. 03/2022-Central Tax 
+(Rate) dated 13th July 2022, which has come into force with effect from the 18th July 2022. 
+Consequent to this Notification, such supplies would attract tax rate of 18% (9% CGST 
+and 9% SGST) on and from 18.07.2022. 
+ 
+
+
+10 | P a g e  
+ 
+4.6.3 The applicant has submitted copies of two invoices, as mentioned in para 2.5 above. 
+Both the invoices are found to have been issued before the relevant entry is omitted. 
+Further, the applicant has made this application on the common portal on 28.09.2022 
+when the serial number 3(iii) of Notification No. 11/2017-Central Tax (Rate) dated 
+28.06.2017 is found to have been omitted. In this context, we may refer to section 14 of 
+the GST Act which deals with the time of supply in cases of change in the rate of tax in 
+respect of supply of goods or services. While sub-clause (a) deals with cases where the 
+supply has been made before the change in rate of tax, sub-clause (b) deals with cases 
+where the supply has been made after the change in rate of tax. The determination of 
+time of supply would be on the basis of supply of service, issuance of invoice and receipt 
+of payment. 
+ 
+4.6.4 The applicant has not submitted any particulars regarding the extent of payment 
+made by KMC against these two invoices, as submitted. No details have also been 
+submitted regarding the extent of supply which has been made by the applicant to KMC 
+under this works contract and nor have any details been made available regarding the 
+mutual agreement between the applicant and KMC to the extent of supply which has been 
+completed till 17th July 2022 after which the rate of tax has been changed. We are 
+therefore unable to ascertain the time of supply as per the facts of the case. 
+ 
+In view of the above discussions, we rule as under: 
+ 
+RULING 
+ 
+The instant supply qualifies as a composite supply of works contract as defined in clause 
+(119) of section 2 of the GST Act made to a local authority by way of erection, installation, 
+and maintenance of a sewerage treatment plant and would be taxable at the rate specified 
+in serial number 3(iii) of Notification No. 11/2017-CT (Rate) dated 28/06/2017 read with 
+Notification No. 20/2017-Central Tax (Rate) dated 22/08/2017, as amended from time to 
+time, subject to the provisions of section 14 of the GST Act.  
+ 
+ 
+This ruling is valid subject to the provisions under Section 103 until and unless declared 
+void under Section 104(1) of the GST Act. 
+ 
+ 
+ 
+ 
+ 
+(SARTHAK SAXENA) 
+(JOYJIT BANIK) 
+Member 
+Member 
+West Bengal Authority for Advance Ruling 
+West Bengal Authority for Advance Ruling 
+         
+Place: Kolkata 
+Date:  
+ 
+To, 
+M/s. KSB Limited 
+30, 2nd,Circus Avenue, Kolkata, West Bengal, Pincode-700017 
+ 
+ 
+ 
+ 
+ 
+
+
+11 | P a g e  
+ 
+Copy to: 
+ 
+(1) Principal Chief Commissioner, CGST & CX, 180, Shantipally, R.B.Connector, 
+Kolkata-7000107 
+(2) Commissioner of State Tax, West Bengal, 14, Beliaghata Main Road, Kolkata-
+700015 
+(3) Sr. Joint/ Joint Commissioner, Ballygunj Charge, 14, Beliaghata Main Road, Kolkata-
+700015 
+(4) Office Folder

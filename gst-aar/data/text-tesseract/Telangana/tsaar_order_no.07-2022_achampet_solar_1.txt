@@ -1,0 +1,197 @@
+1 | P a g e  
+ 
+ 
+ 
+ 
+ 
+ 
+TELANGANA STATE AUTHORITY FOR ADVANCE RULING 
+CT Complex, M.J Road, Nampally, Hyderabad-500001. 
+(Constituted under Section 96(1) of TGST Act, 2017) 
+ 
+ 
+ 
+ 
+ 
+  Present:   
+       
+Sri B. Raghu Kiran, IRS, Additional Commissioner (Central Tax) 
+       
+Sri S.V.  Kasi Visweswara Rao, Additional Commissioner (State Tax) 
+ 
+ 
+ 
+A.R.Com/16/2020                                                                              Date:16.02.2022 
+ 
+TSAAR Order No.07/2022 
+ 
+[ORDER UNDER SECTION 98(4) OF THE CENTRAL GOODS AND SERVICES TAX ACT, 2017 
+AND UNDER SECTION 98(4) OF THE TEALANGANA GOODS AND SERVICES TAX ACT, 
+2017.] 
+****** 
+1. 
+M/s. Achampet Solar Private Limited, 8-2-610/68/1,2,3, 5th Floor, Accord Blu, Road NO 10, 
+Banjara Hills, Hyderabad, Telangana, 500034 (36AANCA8941N1ZX) has filed an application in 
+FORM GST ARA-01 under Section 97(1) of TGST Act, 2017 read with Rule 104 of CGST/TGST 
+Rules. 
+ 
+2. 
+At the outset, it is made clear that the provisions of both the CGST Act and the TGST Act are the 
+same except for certain provisions. Therefore, unless a mention is specifically made to any 
+dissimilar provisions, a reference to the CGST Act would also mean a reference to the same 
+provision under the TGST Act. Further, for the purposes of this Advance Ruling, the expression 
+‘GST Act’ would be a common reference to both CGST Act and TGST Act. 
+ 
+3. 
+It is observed that the queries raised by the applicant fall within the ambit of Section 97 of the 
+GST ACT. The Applicant enclosed copies of challans as proof of payment of Rs. 5,000/- for SGST 
+and Rs. 5,000/- for CGST towards the fee for Advance Ruling. The concerned jurisdictional 
+officer also raised no objection to the admission of the application. The application is therefore, 
+admitted 
+ 
+4. 
+Brief facts of the case: 
+ 
+M/s. Achampet Solar Private Limited is engaged in production and distribution of electricity 
+obtained from solar energy. They have engaged M/s. Belectric India (P) Ltd for construction of 
+solar power project. The agreement has clauses for recovery of liquidated damages on (2) 
+counts, one delay in delivering of the contract and the other regarding non-performance of the 
+plant. The applicant is desirous of ascertaining exigibility of liquidated damages to GST on 
+account of delay in commissioning and its time of supply. Hence this application. 
+ 
+5. 
+Questions raised:  
+ 
+1. Whether liquidated damages recoverable by the applicant from Belectric India on account of 
+delay in commissioning, qualify as a ‘supply’ under the GST law, thereby attracting the levy 
+of GST? 
+2. If the answer to Question No. 1 is in the affirmative, what should be the time of supply when 
+liability to pay GST is triggered? 
+ 
+6.     Personal Hearing: 
+ 
+The Authorized representatives of the unit namely Rahul Binani, CA and Sourabh Mundada, CA 
+attended the personal hearing held on 05-01-2022. The authorized representatives reiterated 
+their averments in the application submitted and requested the AAR to dispose the case on 
+merits based on their detailed submissions. 
+ 
+
+
+ 
+ 
+2 | P a g e  
+ 
+7.     Discussion & Findings: 
+ 
+Liquidated damages are demanded by the applicant from the contractor due to the delay in 
+commissioning of the project and postponement in the taking over date beyond the milestones 
+fixed for completion of project.  
+ 
+When the parties to a contract specify the time for its performance, it is expected that either 
+party will perform his obligation at the stipulated time. But if one of them fails to do so, the 
+question arises what is the effect upon the contract. This scenario is answered by Section 55 of 
+the Indian Contract Act, 1872, which is extracted below: 
+ 
+“Effect of failure to perform at fixed time, in contract in which time is essential-When 
+a party to a contract promises to do a certain thing at or before a specified time, or certain 
+things at or before specified times, and fails to do any such thing at or before the specified time, 
+the contract, or so much of it as has not been performed, becomes voidable at the option of the 
+promisee if the intention of the parties was that time should be of the essence of the contract. 
+ 
+Effect of such failure when time is not essential.-If it was not the intension of the parties 
+that time should be of the essence of the contract, the contract does not become voidable by 
+the failure to do such thing at or before the specified time; but the promisee is entitled to 
+compensation from the promisor for any loss occasioned to him by such failure. 
+ 
+Effect of acceptance of performance at time other than that agreed upon-If, in case of 
+a contract voidable on account of the promisor's failure to perform his promise at the time 
+agreed, the promisee accepts performance of such promise at any time other than that agreed, 
+the promisee cannot claim compensation for any loss occasioned by the non-performance of the 
+promise at the time agreed, unless, at the time of such acceptance, he gives notice to the 
+promisor of his intention to do so”. 
+A combined reading of the provisions (1) & (3) of Section 55 of the Indian Contract Act, 1872 
+reveals that a failure to perform the contract at the agreed time renders it voidable at the option 
+of the opposite party and alternatively such party can recover compensation for such loss 
+occasioned by non-performance.  
+ 
+In the case of the applicant, liquidated damages are imposed for covering the loss of revenue 
+and costs borne by a project SPED due to delay according to a formula. Thus liquidated 
+damages are claimed by the applicant from the contractor due to the delay in commissioning of 
+the project and the taking over date by the contractor beyond the milestones fixed for 
+completion of project. These damages are consideration for tolerating an act or a situation 
+arising out of the contractual obligation. The entry in 5(e) of Schedule II to the CGST Act 
+classifies this act of forbearance as follows: 
+5(e): Agreeing to the obligation to refrain from an act, or tolerate an act, or a situation, or to do 
+an act. 
+Further Section 2(31)(b) of the CGST Act mentions that consideration in relation to the supply of 
+goods or services or both includes the monetary value of an act of forbearance. Therefore such 
+a toleration of an act or a situation under an agreement constitutes supply of service and the 
+consideration or monetary value of  such toleration is exigible to tax.  
+The clause (6) of the co-ordination agreement filed by the applicant specifies different liquidated 
+damages to be paid for different periods of delay on the commissioning. This clause also 
+specifies that the amount shall be paid within (3) days after the actual commissioning date as 
+per the prescribed formula. The formula consists of various periods of delay i.e., delay upto (1) 
+month, delay between (1) month to (3) months and such periods. Therefore the contract itself 
+prescribes the date on which the damage has to be determined and paid. The date on which the 
+liquidated damage is determined as per the formula prescribed in the clause 6 of the contract is 
+the time of supply of service entry in 5(e) of Schedule II by the applicant. 
+The Consideration received for such forbearace is taxable under CGST and SGST @9% each 
+under the chapter head 9997 at serial no. 35 of Notification No.11/2017- Central/State tax rate. 
+ 
+ 
+
+
+ 
+ 
+3 | P a g e  
+ 
+ 
+8. 
+The ruling is given as below: 
+In view of the above discussion, the questions raised by the applicant are clarified as below: 
+Questions 
+Ruling 
+1. Whether liquidated damages recoverable 
+by the applicant from Belectric India on 
+account of delay in commissioning, 
+qualify as a ‘supply’ under the GST law, 
+thereby attracting the levy of GST? 
+  Yes. 
+ 
+2. If the answer to Question No. 1 is in the 
+affirmative, what should be the time of 
+supply when liability to pay GST is 
+triggered? 
+ 
+The date on which the liquidated damage is 
+determined as per the formula prescribed in 
+the clause 6 of the contract is the time of 
+supply of service entry in 5(e) of Schedule II 
+by the applicant. 
+    
+ 
+ 
+ 
+[Under Section 100(1) of the CGST/TGST Act, 2017, any person aggrieved by this order 
+can prefer an appeal before the Telangana State Appellate Authority for Advance Ruling, 
+Hyderabad, within 30 days from the date of receipt of this Order] 
+     
+To 
+M/s. Achampet Solar Private Limited, 
+ 8-2-610/68/1,2,3, 5th Floor, Accord Blu,  
+Road No 10, Banjara Hills, Hyderabad,  
+Telangana – 500034.  
+ 
+Copy submitted to : 
+1. The Commissioner (State Tax) for information. 
+2. The Commissioner (Central Tax), Hyderabad Commissionerate,  Room No. 813, GST Bhavan, L.B. 
+Stadium Road, Basheerbagh, Hyderabad 500 004. 
+Copy to:  
+1. 
+The Assistant Commissioner (ST) Jubilee Hills-II Circle. 
+//t.c.f.b.o// 
+ 
+ 
+ 
+ 
+Superintendent (Grade-I)

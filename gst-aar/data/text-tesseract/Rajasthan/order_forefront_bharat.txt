@@ -1,0 +1,572 @@
+Vi
+
+RAJASTHAN AUTHORITY FOR ADVANCE RULING
+
+.. GOODS AND SERVICES TAX, KAR BHAWAN,
+AMBEDKAR CIRCLE,NEAR RAJASTHAN
+
+HIGHCOURT, JAIPUR — 302005 (RAJASTHAN)
+
+Tolle
+
+" ADVANCE RULING NO. RAJ/AAR/2024-25/22
+
+Mahipal Singh
+
+Additional Commissioner Member (Central Tax)
+Mahesh Kumar Gowla
+Additional Commissioner Member (State Tax)
+
+Name and address of the M/s FOREFRONT BHARAT PRIVATE
+
+applicant : | LIMITED, Shop No 1, Bankora, Dungarpur-
+314023, Rajasthan
+GSTIN of the applicant O8AAFCF7321P1Z7
+
+Clause(s) of Section 97(2) (c) Determination of time and value of supply of
+
+goods or services or both
+7 7 once rs : | (e) Determination of the liability to pay tax on
+
+question(s) raised any goods or services or both.
+Date of Personal Hearing |: | 30.08.2024
+
+Present for the applicant _| : | Mr.Ajit Gupta C.A.
+
+Date of Ruling :| 02+ /8- 9024-
+
+Note 1: Under Section 100 of the CGST/RGST Act, 2017, an appeal against this
+ruling lies before the Appellate Authority for Advance Ruling, constituted under
+
+Section 99 of CGST/RGST Act, 2017, within a period of 30 days from the date
+of service of this order.
+
+Note 2:At the outset, we would like to make it clear that the provisions of both
+the CGST Act and the RGST Act are the same except for certain provisions.
+Therefore, unless a mention is specifically made to such dissimilar provisions, a
+reference to the CGST Act would also mean a reference to the same provision
+under the RGST Act. Further to the earlier, henceforth for the purposes of this
+Advance Ruling, a reference to such a similar provision under the CGST Act /
+RGST Act would be mentioned as being under the "GST Act".
+
+The issue raised by M/s FOREFRONT BHARAT PRIVATE LIMITED,
+Shop No 1,Bankora, Dungarpur- 314023, Rajasthan(hereinafter “the applicant’)
+is fit to pronounce advance ruling as they have deposited prescribed Fee under
+CGST Act and it falls under the ambit of the Section 97(2)(a) given as under:
+
+(c) Determination of time and value of supply of goods or services or both
+(e) Determination of the liability to pay tax on any goods or services or both.
+
+A. SUBMISSION OF THE APPLICANT(in brief):-
+
+Brief facts of the case:
+
+e The Applicant is engaged in the business of manufacture and development
+of sustainable Energy Storage Application System that provides multiple
+
+Page 1 of 10
+
+
+
+experiences such as multitasking tool, energy storage indicator and energy
+storage facility and such products is not available in present market.
+
+e Their product is currently not available in the HSN codes list, they
+
+requested to provide 5% rate considering the following explanation and
+evidences.
+
+A rate of 5% will enable them to provide a competitive pricing for the
+purpose of export thereby increasing foreign exchange reserves without
+
+comprising on country’s vital natural resources. Further, their business has
+the potential of massive employment generation.
+
+B. INTERPRETATION AND UNDERSTANDING OF APPLICANT ON
+QUESTION RAISED (IN BRIEF)
+
+Title of The Invention
+
+A HAND-HELD MULTITOOL TO REPLACE BATTERY IN TWO-
+WHEELER VEHICLES .
+
+Field and Background of the Invention
+
+This invention relates to a hand-held multitool to replace battery in two-wheeler
+vehicles.
+
+The patent US8490523B2 describes a locking, folding tool featured with a
+housing two spaced sidewalls and a transverse support connecting them. This
+design allows for several work tools to be pivotally mounted on the tool, with the
+support defining a pivot axis for these tools. Each work tool includes a locking
+
+mechanism. The folding tool is equipped with a movable lock member that can
+shift between two positions.
+
+When the lock member is in the first position, it engages the locking parts,
+preventing the work tools from pivoting around the support. In contrast, when the
+
+lock member is in the second position, it disengages the locking mechanism,
+allowing the work tools to pivot freely.
+
+In terms of innovation, they have developed a compact device that combines a
+screwdriver, hex key, and spanner, specifically designed for battery replacement
+
+in two-wheelers. This handheld tool is lightweight and portable, addressing a
+need that previous references have not covered.
+
+Additionally, US9770820B1 outlines a folding multitool with a pliers head
+assembly and at least two pivotal tool arms that can be stored in a compact
+position or extended into five different operating positions. These tool arms
+include at least one wrench head with two gripping surfaces to accommodate
+various sizes of rotary fasteners. Each tool arm can serve as either a handle or an
+
+operational arm, depending on the configuration and the user's grip on the
+multitool.
+
+SUMMARY OF THE DRAWINGS
+
+Page 2 of 10
+
+
+The examples illustrated will be understood by examining the drawings, where
+similar components are consistently labeled with the same numbers. The
+following description serves as an example, showcasing specific selected
+
+embodiments of devices, systems, and methods that align with the claimed
+subject matter.
+
+Fig la: Front View of the Tool
+
+Fig 1b: Isometric View of the Tool
+Fig 2a: Adjustable Spanner (17mm)
+Fig 2b: Adjustable Spanner (6mm)
+
+Fig 2c: Separate Detachable Adjustable Spanner
+
+Fig 3: Removable Screwdriver
+
+The illustrations present variations of the subject matter solely for demonstration
+purposes. A person skilled in the field will recognize from the subsequent
+description that different variations of the depicted structures and methods may
+be utilized without straying from the fundamental principles of the disclosure.
+
+DETAILED DESCRIPTION OF THE INVENTION
+
+A comprehensive description of various exemplary embodiments of the invention
+in relation to the accompanying drawings. It is important to note that while the
+embodiments are described in detail for clarity, this level of detail is not meant to
+limit the variations that can be considered. The aim is to encompass all
+
+modifications, equivalents, and alternatives within the scope defined by the
+claims.
+
+Additionally, various configurations can be designed to embody the principles of
+the invention, even if they are not explicitly detailed or illustrated here.
+
+Statements regarding the principles, aspects, and embodiments of the invention
+are intended to include their equivalents.
+
+The terminology used in this document is intended to describe specific
+embodiments and should not be viewed as limiting. Terms like "a," "an," and
+"the" are meant to include plural forms unless the context indicates otherwise.
+Terms such as “comprises,” “comprising,” “includes,” and “Gncluding” indicate
+the presence of stated features but do not exclude additional features.
+
+It is noteworthy that in alternative implementations, specific functions may occur
+in the order presented in the figures. For instance, two consecutive figures might
+
+be performed simultaneously or in reverse order, depending on the involved
+functions.
+
+The terms “first,” “second,” “third,” etc., are used descriptively and do not imply
+relative importance or a specific number of technical features. Features labeled as
+"first" or "second" may include at least one of those features, either explicitly or
+implicitly. Unless defined otherwise, all terms (including technical and scientific
+terms) have meanings understood by those skilled in the relevant field. Terms
+defined in common dictionaries should be interpreted in a way consistent with the
+context of the technical field, without exaggeration.
+
+Page 3 of 10
+
+
+Unless explicitly defined, no formal meanings are implied. The advantages of the
+present subject matter will be elaborated upon in relation to the following
+drawings. This description is merely illustrative of the principles involved, and
+those skilled in the art will recognize that various schemes can be devised that
+embody these principles, even if not explicitly described here.
+
+In today’s world, batteries power many devices—from smartphones and laptops
+to remote controls and toys. While they provide convenience, they can also pose
+risks if mishandled or left in devices for extended periods. This invention
+addresses this issue with a portable multi-function tool designed for replacing or
+removing batteries in inverters, UPS, or other solar devices.
+
+The innovative multi-tools are specifically crafted for safely and efficiently
+removing batteries. This invention examines the potential impacts of multi-tools
+on safety, benefits, industrial use, and daily life.
+
+Objective:
+
+The portable multitool for battery replacement in UPS/Inverters is a
+groundbreaking tool that transforms how we handle battery removal in devices.
+
+By emphasizing safety, ease of use, and device protection, it offers various
+benefits and has the potential to enhance our daily experiences. By focusing on
+
+user convenience and minimizing battery-related risks, these hand-held tools aim
+to make battery management safer. .
+
+This invention represents a step towards improved safety and efficient battery
+
+management, ultimately enhancing the experience with portable electronic
+devices globally.
+
+Claims:
+
+1. A hand-held multitool for replacing high-capacity batteries includes:
+o T9 (10), T10 (20), T12 (30), T13 (40), and T14 (50) spanners;
+o A battery indicator (60);
+o A screwdriver (120);
+o An adjustable spanner (80) and a screw gear (70).
+2. The hand-held multitool as claimed in claim 1, where the spanners can be
+rotated clockwise.
+3. The hand-held multitool as claimed in claim 1, where the screwdriver
+(120) is detachable.
+4. The hand-held multitool as claimed in claim 1, where the adjustable
+spanner (80) can be adjusted using the screw gear (70) from 6 to 17mm.
+5. The hand-held multitool as claimed in claim 1, where the adjustable
+spanner (90) is detachable.
+
+Additionally, the applicant stated that their product is not listed under the
+
+HSN codes and requested a 5% rate based on the provided explanation and
+evidence.
+
+C. QUESTIONS ON WHICH THE ADVANCE RULING IS SOUGHT:
+
+Question 1-Whether GST under the hand held multi tool covers under
+chapter 8204 with applicable GST rate of 18% and this product includes
+
+energy storage indicator which covers under chapter of 8517 under
+electrical equipment?
+
+Page 4 of 10
+
+
+
+Question 2- Whether GST under the final products shall be a machinery
+
+tools which covers under the chapter Industry Machinery Tools and
+applicable GST rate of 18%?
+
+Question 3- Whether GST under ascertain the nature of the products
+
+Classification Multi-tool under of Hand Held respective HSN Code with
+applicable tax rates on the products comes?
+
+D. PERSONAL HEARING
+
+In the matter, personal hearing was granted to the applicant on 30.08.2024.
+Mr. Ajit Gupta, C.A. Authorized Representative appeared for personal hearing.
+He reiterated the submission already made by them. Further the A.R. requested to
+grant 7 days for submission of additional documents. Inspite of lapses of 30 days
+any additional documents were not submitted/e-mailed by 30.09.2024.
+
+E. COMMENTS OF THE JURISDICTIONAL OFFICER: -
+
+Comments received from the Assistant Commissioner CGST Division-C,
+Udaipur, Rajasthan vide letter NO. GEXCOM/TECH/MISC/265 1/2024-CGST-
+
+RANGE-10-DIV-C-UDZ-COMMRTE-UDAIPUR/240dated 03.07.2024 are as
+under: -
+
+The applicant vide the above said application has sought clarification
+regarding applicable rate of GST for their products for which it has been stated
+that the products are invented by M/s Forefront Bharat Private Limited (GSTIN-
+O8AAFCF7321P1Z7) and are not available in the present market.
+
+Details of the 1st Product mentioned in the application-Handheld multi tool
+for replacing high capacity batteries: The applicant submitted that this
+invention relates to Handheld multi tool for replacing high capacity batteries such
+as inverter batteries, solar batteries etc. The invention consists of a device for
+replacing batteries in two-wheeler vehicles. This specification explores the
+features and benefits of multi tool which encompasses essential tool hex key, flat
+screwdriver, tip screwdriver and two spanners (8mm and 10 mim).
+
+Details of the 2nd product mentioned in the application-Handheld multi tool
+for replacing automotive batteries: The applicant submitted that a handheld
+multi tool for replacing automotive batteries is a device that combines various
+functionalities into a single tool, providing convenience and efficiency for
+automotive battery maintenance. The multi tool comprises T8, T10, T12 and T13
+spanners for different nut sizes, a battery remover, a battery indicator, a
+detachable screwdriver, an adjustable spanner, and a screw gear for adjusting
+spanner.
+
+Classification details:
+
+Chapter 8204 of the Harmonized System of Nomenclature (HSN) applies
+to hand- operated spanners and wrenches under the Goods and Services Tax
+(GST) regime in India.
+
+Products covered under Chapter 8204:
+
+Page 5 of 10
+
+
+e Hand-operated spanners and wrenches (including torque meter wrenches)
+e This typically excludes: -Socket wrenches (these might fall under a
+
+different HSN code) -Tap wrenches (which might be categorized as
+machine tools)
+
+GST Rate under Chapter 8204:
+
+° In India, most hand tools falls under Chapter 82, including spanners and
+
+likely multi- tools (assuming their primary function is hand tools), attract a
+GST rate of 18%.
+
+Key Points:
+
+° The classification of a multi-tool depends on its primary function. If the
+
+primary purpose is hand tools, it would likely fall under Chapter 8204 with
+an 18% GST rate.
+
+Further, Chapter 85 of the Harmonized System of Nomenclature (HSN)
+covers a broad category of products under the Goods and Services Tax
+(GST) regime in India. This chapter specifically deals with:
+
+e Electrical machinery and equipment: This includes a wide range
+of products like motors, generators, transformers, switchgear, and
+electrical control equipment.
+
+e Sound recorders and reproducers: This covers equipment for
+recording and playing back sound, including phonographs, tape
+recorders and CD players.
+
+e Television image and sound recorders and reproducers: This
+includes televisions, camcorders, and other video recording ‘and
+playback devices.
+
+e Parts and accessories of such articles: This includes spare parts
+and accessories for the equipment mentioned above.
+
+GST Rates under Chapter 85:
+
+The GST rates for products under Chapter 85 can vary depending on the
+specific HSN code assigned to the product. These codes further categorize
+products within Chapter 85. Here's a general breakdown:
+
+12%: This rate applies to some specific items like mobile phones (both
+new and old).
+
+18%: This rate applies to certain electrical machinery and equipment like
+transmission and distribution products.
+
+28%: This is the highest rate under this chapter and applies to many
+electrical appliances and electronic items.
+
+Observations: Further, ongoing through the details of the inventions with
+regard to the applicability of the GST point wise observation are as under:
+
+Hand-held multi-tool: This typically falls under Chapter 82 of the
+
+Harmonized System of Nomenclature (HSN), which covers tools and
+implements, cutlery, spoons and forks, of base metal. Within Chapter 82,
+
+Page 6 of 10
+
+
+
+1)
+
+2)
+
+3)
+
+spanners fall under 8204, so a multi-tool with primarily hand tools would
+likely be categorized there.
+
+Energy storage indicator: Ideally, the indicator is a minor component that
+
+simply displays remaining power. In such a case, it wouldn't change the
+overall classification.
+
+GST rate of 18% : This applies to most hand tools in Chapter 82,
+including multi-tools (assuming the primary function is hand tools).
+
+Conclusive Comments: On perusal of the notes of the aforementioned
+Chapter headings and also from the submission of the applicant it appears
+that both the products are similar in nature and are handheld tools. The
+only minor difference in both the products are that the second product
+includes a battery indicator and remaining features are quite similar to the
+first product. If a multi-tool has a complex electronic component crucial to
+its functionality (beyond a simple energy storage indicator), it might be
+classified differently, potentially impacting the GST rate. The primary
+functioning of both the products is a hand tool, which attracts 18% of GST.
+
+The second product may not be classified on the merely difference of a
+battery indicator.
+
+FINDINGS, ANALYSIS & CONCLUSION:
+
+We have carefully examined the statement of facts, supporting
+documents filed by the applicant along with the application, oral and
+written submissions made at the time of hearing and the comments of
+the Central Tax Authority. We have also considered the issues
+
+involved, on which advance ruling is sought by the applicant, and
+relevant facts.
+
+The applicant, M/s Forefront Bharat Private Limited, Shop No 1,
+Bankora, Dungarpur- 314023, Rajasthan, is registered with the GST
+department having GSTIN 08AAFCF7321P1Z7.The Applicant is
+engaged in manufacturing and development of sustainable Energy
+Storage Application System that provides multiple experiences such as
+Multitasking tools, energy storage indicator and energy storage facility.
+
+In the present application, the first and second questions raised before
+
+us require classification and applicable GST rates in respect of their
+
+manufactured three products.
+
+i. A hand-held multitool to replace battery in two-wheeler vehicles.
+It is a multi-tool consisting of essential tool hex key, flat
+
+screwdriver,4 tip screwdriver and two spanners (8mm and 10
+mim).
+
+Page 7 of 10
+
+
+
+iii A hand-held multitool for replacing automotive batteries. It
+consists of (a) a battery cap screw remover, (b) 4 spanners (T8,
+T10, T12, T13), (c) a battery Indicator, (d) a rotary gear, (e) a
+screwdriver, (f) an adjustable spanner and (g) a screw gear.
+
+Fig 1a - Front View of tha Tool Fig 1b - isometne view of the tool
+
+li. A hand-held multitool for replacing high-capacity batteries. It
+consists of (a) 5 spanners (T9, T10, T12, T13& T14), (b) a
+
+battery Indicator, (c) a screwdriver, (d) an adjustable spanner and
+(e) a screw gear.
+
+Hien
+
+Fig 1a - Front View of the Tool Fig 1b - Isometric view of the tool
+
+4) We find that the above tools are multi-tools in which major component
+is spanner of different sizes integrated with some other tools viz.
+screwdriver, hex key etc. Further, 2 tools also have battery indicator
+(battery voltage level indicator) which provides real-time information
+
+Page 8 of 10
+
+
+
+about the condition and performance of batteries. As evident from the
+images of the tools submitted by the applicant, there are four light
+
+indicators on the tools indicting battery percentages viz. 25%, 50%,
+75% & 100%,
+
+5) We find that hand-operated spanners are classified under chapter
+heading 8204. Further, screw drivers are classified under chapter
+heading 8205 and battery indicator (battery voltage level indicator),
+being an electrical equipment is classified under chapter heading 85.
+
+6) We find that the above tools are hand-operated multi-tools intended to
+be used for replacing two-wheeler, automotive and high capacity
+batteries having spanners as the major component integrated with
+battery indicator, screwdrivers, hex key to provide additional benefits
+viz. convenience, time and effort savings to their users. The integration
+of battery indicator in these tools provides an additional feature only
+and does not alter the key functionality of the tools. Accordingly, we
+
+find that the above tools are classifiable under chapter heading 8204
+and attract GST @ 18%.
+
+7) We find that the applicant has submitted that GST rate of 5% will
+enable them to provide a competitive pricing for the purpose of export
+thereby increasing foreign exchange reserves without comprising on
+country’s vital natural resources. We find that above ingredients do not
+play any role in ascertaining the HSN classification of a product. The
+HSN code - section or chapter to which a particular product belongs is
+determined by its industrial and technical sophistication.
+
+8) The third question raised before us by the applicant “ Whether GST
+under ascertain the nature of the products Classification Multi-tool
+under of Hand Held respective HSN Code with applicable tax rates on
+the products comes?” is not clear and beyond the scope of sub-section
+(2) of the section 97 of the CGST Act, 2017, hence not answered.
+
+9) In view of the above discussion, we rule as under:-
+
+RULING
+Question 1-Whether GST under the hand held multi tool covers under chapter
+8204 with applicable GST rate of 18% and this products includes energy storage
+indicator which covers under chapter of 8517 under electrical equipment?
+Ans-The tools in question are classified under chapter heading 8204 and attract
+
+GST @ 18%.
+
+Question 2- Whether GST under the final products shall be a machinery tools
+
+which covers under the chapter Industry Machinery Tools and applicable GST
+rate of 18%?
+
+Ans- As answered in Question No. 1.
+
+Page 9 of 10
+
+
+Question 3- Whether GST under ascertain the nature of the products
+Classification Multi-tool under of Hand Held respective HSN Code with
+applicable tax rates on the products comes?
+
+Ans- Not answered.
+
+<n a ae
+
+(Mahipal Singh) (Mahesh Kumar Gowla)
+
+MEMBER MEMBER
+
+CENTRAL TAX STATE TAX
+
+F. No. AAR/SF/2024-25/ 2 Q-|4 3 Date:- 0212 oy
+
+SPEED POST
+
+M/s FOREFRONT BHARAT PRIVATE LIMITED,
+
+Shop No 1, Bankora,
+
+Dungarpur- 314023, Rajasthan
+
+Copy to: -
+
+i The Chief Commissioner, CGST and Central Excise (Jaipur Zone),
+NCRB, Statue Circle, Jaipur, Rajasthan-302005
+
+2. The Chief Commissioner, State Tax, Kar Bhawan, Bhawani Singh Road,
+Ambedkar Circle, C-Scheme, Jaipur-302005.
+
+3. The Pr.Commissioner, CGST and Central Excise Commissionerate,
+
+Udaipur, Rajasthan.
+
+4, The Assistant Commissioner CGST Division -C, Udaipur, 142-B, Sector-
+11, Hiran Magri, Udaipur - 313001
+
+Se The Deputy/Assistant Commissioner, State Tax Department, Circle —
+Dungarpur, Zone- Udaipur Divisional Kar Bhawan, Rajasthan.
+
+SC
+
+Page 10 of 10

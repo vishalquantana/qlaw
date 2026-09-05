@@ -1,0 +1,589 @@
+AUTHORITY FOR ADVANCE RULING, TAMILNADU
+DOOR NO.32, INTEGRATED COMMERCIAL TAXES OFFICE COMPLEX
+5™ FLOOR, ROOM NO. 503, ELEPHANT GATE BRIDGE ROAD,
+CHENNAI -600 003.
+
+PROCEEDINGS OF THE AUTHORITY FOR ADVANCE RULING U/s.98 OF
+THE GOODS AND SERVICES TAX ACT, 2017
+
+Members present are:
+
+Shri. R.Gopalsamy, I.R.S., Smt. N.Usha,
+
+Additional Commissioner/Member, Joint Commissioner (ST)/ Member,
+Office of the Principal Chief Office of the Authority for Advance
+Commissioner of GST & Central Ruling, Tamil Nadu,
+
+Excise, Chennai -600 034. Chennai-600 003.
+
+Advance Ruling No. 12/AAR/2023 Dated: 06.06.2023
+
+1. Any appeal against the Advance Ruling order shall be filed before the Tamil Nadu
+State Appellate Authority for Advance Ruling, Chennai under Sub-section (1) of
+Section 100 of CGST ACT/TNGST Act 2017 within 30 days from the date on which
+
+the ruling sought to be appealed against is communicated.
+
+2. In terms of section 103 (1) of the act, this Advance ruling pronounced by the
+Authority under chapter XVII of the act shall be binding only —
+
+a) On the applicant who had sort it in respect of any matter referred to in sub
+section 2 of Section 97 for Advance Ruling.
+
+b) On the concerned officer or the Jurisdictional Officer in respect of the
+Applicant.
+
+3. In terms of section 103 (2) of the Act, this Advance ruling shall be binding unless
+the law, facts or circumstances supporting the original Advance Ruling have
+
+changed.
+
+4. Advance Ruling obtained by the Applicant by fraud or suppression of material
+facts or misrepresentation of facts, shall render such ruling to be void ab initio in
+
+accordance with section 104 of the Act.
+
+5. The provisions of the both the Central Goods and Services Act and
+Tamilnadu Goods and Services Act are the same except for certain provisions.
+
+Therefore, unless a mention is specifically made to such dissimilar provisions, a
+
+Page 1 of 12
+
+
+reference to the Central Goods and Service Tax Act would also mean a reference to
+
+the same provisions under the Tamil Nadu Goods and Services Tax Act.
+
+GSTIN Number, if any / User id 33AAECL3474C1ZU
+
+Legal Name of Applicant M/s. Luksha Consulting Private Limited
+
+Registered Address / Address 124A, Palakkaran Thottam, Mottur,
+provided while obtaining user id Edangan Salai, Elampillai, Salem,
+Tamilnadu -637 502.
+
+Details of Application Form GST ARA — 01 Application
+‘ S1.No.42/2022/ARA dated 01.08.2022
+
+Concerned Officer Centre: Salem Commissionerate
+
+State: Sankari Assessment circle,
+Salem Division.
+
+Nature of activity(s) (proposed /
+present) in respect of which advance
+ruling sought for
+
+A | Category Information technology (IT) design and
+i
+
+development services
+
+B_ | Description (in brief)
+
+‘Issue /s on which advance ruling | Determination ‘of the liability to pay tax
+
+required
+
+Question(s) on which advance ruling | The team in India will monitor the customer
+
+is required applications running in UK and provide any fix
+or update required in case of issues. Is GST
+applicable for monitoring the software
+application contract outside India?
+Contract amount will be receivable in UK
+currency only. Whether IGST is applicable for
+the above export online monitoring software
+
+contract work and if applicable rate of GST.
+
+M/s. Luksha Consulting Private Limited, Elampillai, Salem (herein after
+referred to as ‘The Applicant’), with GSTIN 33AAECL3474C1ZU have filed an
+application for Advance Ruling under section 97 of GST Acts read with Rule 104 of
+GST Rules, 2017, in Form ARA-01 paying the prescribed fees of Rs. 5000/- each
+under the CGST and TNGST Act,2017.
+
+Page 2 of 12
+
+
+2. The Applicant has stated that they are primarily engaged in providing
+information technology enabled services such as enhancing / fixing programs in
+SAP and Microsoft products and also providing services to create ‘reports and
+insight using tools like SAP business warehouse, Data sphere, SAC, Power BI. They
+have also stated that they do not develop full products or support data Centre
+
+activities.
+
+3. The Applicant has sought Advance Ruling on the following:
+
+The team in India will monitor the customer applications running in UK and
+provide any fix or update required in case of issues. Contract amount will be
+receivable in UK currency only. Whether IGST is applicable for the above export
+
+online monitoring software contract work and if applicable rate of GST.
+
+4.1. The Applicant is a Private Limited Company incorporated in India under the
+Companies Act, 2013. They have been awarded Projects by M/s. Luksha Limited,
+UK and M/s. Spovens Limited, UK to provide the following services;
+
+A. M/s. Luksha Limited, UK:
+
+e Development of Functionalities and Dashboards based on the SAP
+Application. Delivery of specific features by usage of the BW, DWC, SAC and
+
+analysis for Office.
+
+e Technical advice on feasibilities based on the SAP solution.
+
+e Supporting Team Members to proper plan the Sprints and support for
+keeping the committed scope and timelines.
+
+e Proper Testing of the deliveries ensuring high quality and less incidents
+within the productive Environment.
+
+e Following Guidelines on documentation, testing and transportation of
+technical developments.
+
+e Full compliance to any Quality Assurance Guidelines.
+
+e Strong communication towards the Project Manager and/ or technical
+
+Product Owner.
+
+e Introducing best practices for helping to increase organizational
+
+effectiveness.
+
+B. M/s. Spovens Limited, UK: Consulting Services for monitoring / changing/
+
+fixing SAP objects.
+
+Page 3 of 12
+
+
+4.2. In view of the above contracts/ projects, the Applicant wants to know whether
+the service rendered by them to the foreign clients would qualify export of service
+
+under the provisions of GST Act or not.
+
+Personal hearing
+
+5.1. The applicant, after consent, was given an opportunity to be virtually heard on
+15.03.2023. The Authorized Representative (AR) of the applicant Sri.N. Sakthiraj,
+
+appeared before the authority and reiterated the submissions.
+5.2. The AR has been asked to furnish the following details/ documents;
+
+e Incorporation certificate of the foreign entity viz., M/s. Luksha Limited, UK.
+
+e Agreement between foreign entity and its customer
+
+e Copy invoice issued by the Applicant to foreign entity
+
+e Detailed write up on the nature of service associated with monitoring of
+customer applications running (like software, machinery, etc.,) in UK, as
+
+mentioned in the AR application.
+5.3. Subsequently, the applicant has submitted the following documents:
+
+e Certification of incorporation of a Private Limited Company of Luksha
+Limited issued by the Registrar of Companies for England and Wales.
+
+e VAT certificate issued to Luksha Limited in UK
+
+e Copy of the agreement dated 10.01.2022 between Luksha Limited, UK and
+Luksha Consulting P. Ltd, India
+
+e General Service Agreement between Spovens Limited, UK and Luksha
+Consulting P. Ltd, India
+
+e¢ Copy of invoice No.INV-000001 dated 30.03.2022 issued by Luksha
+Consulting P. Ltd, India to Luksha Limited, UK.
+
+6.1. The Applicant is assigned to State jurisdiction. The State jurisdictional
+authority, the Assistant Commissioner (ST), Sankari Assessment Circle has
+reported that, on physical verification of the place of business, it is found that M /Ss.
+Luksha Consulting Pvt Limited is functioning with two employees in the address
+mentioned in the application filed by the applicant. So far, they have reported only
+one transaction in the returns filed for the month of March 2022 and made tax
+
+payment of Rs.15239/-
+
+Page 4 of 12
+
+
+6.2. The Joint Commissioner, Salem Commissionerate has reported that there are
+no pending proceedings in the applicant’s case in their jurisdiction on the issue
+
+raised by the applicant in the ARA application.
+
+Discussions and Findings
+
+7.1. We have carefully examined the statement of facts, supporting documents filed
+by the Applicant and the additional submissions made during the hearing and the
+issue to be discussed in the instant case is the taxability of the services rendered
+
+by the Applicant based on the details and documents furnished.
+
+7.2. Based on the facts presented, it is seen that the applicant is supplying
+Information technology enabled services to a company located outside India, on his
+own. Prima facie, the services rendered by the applicant appears to be falling under
+
+export of services.
+
+7.3. In this connection, it is observed that, Export of services as defined under
+section 2(6) of the IGST Act, 2017 essentially involves determination of place of
+supply which is not included as a question under section 97(2) of the CGST&
+TNGST Act, 2017 on which Advance Ruling can be sought. However, this case is
+admitted based on the following observations made by the Hon’ble High Court of
+Kerala in Writ Petition (Civil) No. 32634 of 2019, challenging the decision of the
+
+Advance Ruling Authority, Kerala in a similar issue;
+
+“ A reading of clauses (a) to (g) of sub-section (2) of Section 97 of the CGST
+Act would make it clear that 7 items are enumerated as per clauses (a) to
+(g) of sub section (2) of Section 97 and all those clauses other than clause
+(e) thereof, are in specific terms. Whereas clause (e) of sub-section (2) of
+Section 97 of the CGST Act clearly mandates that the larger issue of
+“determination of liability to pay tax on any goods or services or both”
+would also come within the ambit of the questions to be raised and
+decided by the Advance Ruling Authority on which advance ruling could be
+sought and rendered under the said provisions. Whereas Clauses (a), (b),
+(c), (A), (f & (9), Le. the clauses other than clause (e), are in specific “pigeon
+holes” the provision as per clause (e) of sub-section (2) of Section 97 is in
+wide terms and the Parliament has clearly mandated that the latter issue
+of determination of liability to pay tax on any goods or services or both,
+
+should also be matters on which the applicant concerned could seek
+
+Page 5 of 12
+
+
+advance ruling from the Advance Ruling Authority on which the said
+authority is obliged to render answers thereto. The Parliament has made
+the said provision envisaging that in transactions in nature, where India is
+now a growing economy and has to make its substantial performance in
+economic growth and development not only domestic investments, but even
+foreign investments would also be heavily required and that host of tax
+laws has been subsumed into the overarching umbrella of the goods and
+services tax regime introduced by the Parliament and the parliament
+would have certainly taken cognizance of the fact and has intended that
+very often applications would require clearly and precision about various
+aspects of taxation in the transactions and that there should be certainty
+and precision in those matters, so that the applicant concerned is given the
+right to seek advance ruling even in such a larger issue as the one as per
+clause (e) of Section 97 (2) of the CGST Act, which deals with issue of
+
+determination of liability to pay tax on any goods or services or both.
+
+In cases of this nature, entities which come with foreign investment
+in India would also require certainty and precision about the tax liability so
+that they can plan and decide in advance about their functioning as
+business entities in India so that its efficacy is maximised so as to bring in
+a “win win situation” not only for such foreign entities, who are permitted
+to make such investments in India, but also for the economy of India. It is
+in the light of these dynamic scenario in the fast changing global economy
+that the Parliament has taken a very proactive role with a very wide
+vision, the parliament in its wisdom has decided to mandate such a
+provision as in clause (e) of Section 97 (2), whereby the applicant is
+empowered to seek advance ruling even on the said larger issue of
+determination of liability to pay tax on goods or services or both and in
+view of such a scenario, the Advance Ruling Authority is obliged to
+entertain such plea and consider it on merits and then render its opinion/
+answer to such a plea that may be raised and to render its advance ruling
+on those aspects in accordance with the provisions contained in the above
+
+said Acts.
+
+In the instant case, it is true that the issue relating to determination
+of place of supply as afore stated is not expressly enumerated in any of
+
+the clauses as per clauses (a) to (g) of Section 97(2) of the CGST Act, but
+
+Page 6 of 12
+
+
+there cannot be any two arguments that the said issue relating to
+determination of place of supply, which is one of the crucial issues to be
+determined as to whether or not it fulfills the definition of place of service,
+would also come within the ambit of the larger issue of “determination of
+liability to pay tax on any goods or services or both” as envisaged in
+clause (e) of Section 97 (2) of the CGST Act. The Advance Ruling Authority
+has proceeded on a tangent and has missed the said crucial aspect of the
+matter and has taken a very hyper technical view that it does not have
+jurisdiction for the simple reason that the said issue is not expressly
+enumerated in Section 97 (2) of the Act. This Court has no hesitation to
+hold that the said view taken of the Advance Ruling Authority is legally
+wrong and faulty and therefore the matter requires interdiction in judicial
+review in the instant writ proceedings. In that view of the matter, it is
+ordered that the above said view taken by the Advance Ruling Authority is
+legally wrong and faulty and is liable to be quashed and accordingly
+
+declared and ordered.”
+
+Thus, this case is admitted based on the above observations made by the Hon’ble
+High Court of Kerala cited supra. Now it is imperative to analyze whether the said
+transactions satisfy the conditions stipulated under section 2(6) of IGST Act, 2017
+
+to qualify it as export of service.
+
+7.4.1. The export of services has been defined in subsection (6) of the section 2 of
+
+the IGST Act, 2017 as extracted below;
+“export of services” means the supply of any service when,—
+(i) the supplier of service is located in India;
+(ii) the recipient of service is located outside India;
+(iii) the place of supply of service is outside India;
+
+(iv) the payment for such service has been received by the supplier of
+service in convertible foreign exchange; and
+
+(v) the supplier of service and the recipient of service are not merely
+
+establishments of a distinct person in accordance with Explanation 1 in
+section 8;
+
+Page 7 of 12
+
+
+Explanation 1 of the Section 8 of the IGST Act provides for the conditions wherein
+establishments of a person would be treated as establishments of distinct persons,
+
+which is reproduced as under:
+Explanation 1.—For the purposes of this Act, where a person has,—
+
+(i) an establishment in India and any other establishment outside India;
+
+(ii) an establishment in a State or Union territory and any other
+establishment outside that State or Union territory; or
+
+(tii) an establishment in a State or Union territory and any other
+establishment being a business vertical registered within that State or
+Union territory, then such establishments shall be treated as
+establishments of distinct persons.
+
+7.4.2. As per the above Explanation, an establishment of a person in India and
+another establishment of the said person outside India are considered as
+
+establishments of distinct persons.
+
+7.4.3. Further, Ministry of Finance has issued clarification relating to export of
+services in Circular No.161/17/2021, dated 20.09.2021 and the relevant
+
+paragraphs are extracted as below;
+
+Analysis of the issue:
+
+4.1 Clause (v) of sub-section (6) of section 2 of IGST Act, which defines
+“export of services”, places a condition that the services provided by one
+establishment of a person to another establishment of the same person,
+considered as establishments of distinct persons as per Explanation 1 of
+section 8 of IGST Act, cannot be treated as export. In other words, any
+supply of services by an establishment of a foreign company in India to
+any other establishment of the said foreign company outside India will not
+
+be covered under definition of export of services.
+
+4.2 Further, perusal of the Explanation 2 to section 8 of the IGST Act
+suggests that if a foreign company is conducting business in India through
+a branch or an agency or a representational office, then the said branch or
+agency or representational office of the foreign company, located in India,
+shall be treated as establishment of the said foreign company in India.
+
+Similarly, if any company incorporated in India, is operating through a
+
+Page 8 of 12
+
+
+branch or an agency or a representational office in any country outside
+India, then that branch or agency or representational office shall be
+
+treated as the establishment of the said company in the said country.
+
+4.3. In view of the above, it can be stated that supply of services made by
+a branch or an agency or representational office of a foreign company, not
+incorporated in India, to any establishment of the said foreign company
+outside India, shall be treated as supply between establishments of
+distinct persons and shall not be considered as “export of services” in view
+of condition (v) of sub-section (6) of section 2 of IGST Act. Similarly, any
+supply of service by a company incorporated in India to its branch or
+agency or representational office, located in any other country and not
+incorporated under the laws of the said country, shall also be considered
+
+as supply between establishments of distinct persons and cannot be
+
+treated as export of services.
+
+4.4 From the perusal of the definition of “person” under sub-section (84) of
+section 2 of the CGST Act, 2017 and the definitions of “company” and
+“foreign company” under Section 2 of the Companies Act, DONS) nttis
+observed that a company incorporated in India and a foreign company
+incorporated outside India, are separate “person” under the provisions of
+CGST Act and accordingly, are separate legal entities. Thus, a subsidiary/
+sister concern/ group concern of any foreign company which is
+incorporated in India, then the said company incorporated in India will be
+
+considered as a separate “person” under the provisions of CGST Act and
+
+accordingly, would be considered as a separate legal entity than the
+
+foreign company.
+
+Clarification:
+
+5.1 In view of the above, it is clarified that a company incorporated in
+India and a body corporate incorporated by or under the laws of a country
+outside India, which is also referred to as foreign company under
+Companies Act, are separate persons under CGST Act, and thus are
+separate legal entities. Accordingly, these two separate persons would not
+be considered as “merely establishments of a distinct person in
+
+accordance with Explanation 1 in section 8”.
+
+Page 9 of 12
+
+
+5.2 Therefore, supply of services by a subsidiary/ sister concern/ group
+concern, etc. of a foreign company, which is incorporated in India under
+the Companies Act, 2013 (and thus qualifies as a ‘company’ in India as
+per Companies Act), to the establishments of the said foreign company
+located outside India (incorporated outside India), would not be barred by
+the condition (v) of the sub-section (6) of the section 2 of the IGST Act 2017
+for being considered as export of services, as it would not be treated as
+supply between merely establishments of distinct persons under
+Explanation 1 of section 8 of IGST Act 2017 . Similarly, the supply from a
+company incorporated in India to its related establishments outside India,
+which are incorporated under the laws outside India, would not be treated
+as supply to merely establishments of distinct person under Explanation 1
+of section 8 of IGST Act 2017. Such supplies, therefore, would qualify as
+
+‘export of services’, subject to fulfilment of other conditions as provided
+under sub-section (6) of section 2 of IGST Act.
+
+7.4.4, On perusal of the incorporation certificate submitted by the applicant, it is
+seen that the Applicant M/s. Luksha Consulting Private Limited are incorporated
+
+in India under the Companies Act, 2013 with Shri v. Natarajan as Director and
+
+the establishment at UK , M/s. Luksha Limited has been incorporated as a Private
+Limited Company with the Registrar of companies for England and Wales, with Mr.
+Sakthiraj Natarajan as the Director of the Company. Thus, it is evident that M/s.
+Luksha Consulting Private Limited in India and M/s. Luksha Limited, UK are not
+
+considered as establishments of distinct person as the directors of both the
+establishments are different persons, as evident from the certificate of
+
+incorporation furnished by the applicant.
+
+7.5. The Applicant M/s. Luksha Consulting Private Limited has entered into an
+agreement with M/s. Luksha Limited, UK and Spovens Limited UK and submitted
+
+copy of the agreement. The Applicant has also stated that they have potential
+business with M/s. Exigo solution, Stockport.
+
+7.6. In this context, it is imperative to ascertain whether the services rendered by
+M/s. Luksha Consulting Private Limited as per the agreement satisfies the
+
+conditions prescribed under Section 2(6) of the IGST Act, 2017;
+
+Page 10 of 12
+
+
+Conditions Remarks
+
+(i) the supplier of service is located in| The supplier of service M/s. Luksha
+India Consulting Private Limited is located in
+
+India.
+
+(ii) the recipient of service is located | The recipient M/s. Luksha Limited, UK
+
+outside India; is located outside India.
+
+(iii) the place of supply of service is|In terms of Section 13(2) of the IGST
+outside India; Act, the place of supply of services
+except the services specified in
+subsections (3) to (13) shall be the
+location of the recipient of services. In
+the case of Applicant, as the recipients
+of service are located outside India, the
+place of supply of service is outside
+
+India.
+
+(iv) the payment for such service has| As seen from the terms of agreement.
+
+been received by the supplier of service | and copy of invoice furnished by the
+in convertible foreign exchange; and Applicant, payment has been received in
+
+Great Britain Pounds.
+
+(v) the supplier of service and the | The supplier of service is incorporated in
+recipient of service are not merely | India under the Companies Act and the
+establishments of a distinct person in | recipient of service is incorporated under
+accordance with Explanation 1 in| the Companies Act, UK.
+
+section 8
+
+7.7. Thus, it is clear that the supply of information technology enabled services
+rendered by the applicant to the recipient qualifies to fall under export of services
+on fulfilling the conditions specified under section 2(6) of the IGST Act, 2017, which
+in turn is considered as a zero rated supply in terms of section 16 (1)(a) of the IGST
+Act, 2017.
+
+Page 11 of 12
+
+
+In view of the above discussions, we rule as under;
+RULING
+
+The supply of information technology enabled services rendered by the
+applicant to the recipient qualifies to fall under export of services on fulfilling the
+conditions specified under section 2(6) of the IGST Act, 2017, which in turn is
+considered as a zero rated supply in terms of section 16 (1)(a) of the IGST Act,
+
+2017.
+
+babs tote
+(N.UBHA)
+
+(R\@OPALSAMY)
+Member (SGST) Member (CGST) os oo
+
+To
+
+M/s. Luksha Consulting Private Limited,
+
+124A, Palakkaran Thottam,
+
+Mottur, Edangan Salai,
+
+Elampillai, Salem,
+
+Tamilnadu -637 502. jf By SPAD/ /
+
+Copy submitted to:
+
+1. The Principal Chief Commissioner of CGST & Central Excise,
+No. 26/1, Mahatma Gandhi Road, Nungambakkam,
+Chennai — 600 034.
+
+2. The Principal Secretary / Commissioner of Commercial Taxes,
+
+24 Floor, Ezhilagam, Chepauk, Chennai — 600 005.
+
+Copy to:
+
+3. The Commissioner of GST & Central Excise,
+Salem Commissionerate.
+
+4. The Assistant Commissioner (ST),
+Sankari Assessment Circle,
+
+RDO Office Compound,
+Tiruchengode Road, Sankari — 637 301.
+
+5. Master File / spare - 1.
+
+Page 12 of 12

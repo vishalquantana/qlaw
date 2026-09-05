@@ -1,0 +1,818 @@
+AUTHORITY FOR ADVANCE RULING, TAMIL NADU
+No.207, 2:4 FLOOR, PAPJM BUILDING, No.1, GREAMS ROAD,
+CHENNAI 600 006.
+
+ORDER UNDER SECTION 98(4) OF THE CGST ACT, 2017 AND
+UNDER SECTION 98(4) OF THE TNGST ACT, 2017
+
+Members present:
+
+Shri Balakrishna S, I.R.S., Shri B.Suseel Kumar, B.E., MBA.,
+Additional Commissioner/Member (CGST), | Joint Commissioner/Member (SGST),
+Office of the Commissioner of GST and Authority for Advance Ruling,
+Central Excise, Audit II Commissionerate, | Tamil Nadu,
+
+Chennai - 600 034. Chennai - 600 006.
+
+Advance Ruling No.19/ARA/2025, dated 09.05.2025
+
+I. Any appeal against this Advance Ruling order shall lie before the Tamil Nadu
+State Appellate Authority for Advance Ruling, Chennai under Sub-Section (1) of
+Section 100 of CGST Act 2017/TNGST Act 2017, within 30 days from the date on
+
+which the ruling sought to be appealed is communicated.
+
+2. In terms of Section 103(1) of the Act, Advance Ruling pronounced by the Authority
+under Chapter XVII of the Act shall be binding only-
+
+(a) On the applicant who had sought it in respect of any matter referred to
+in sub-section (2) Section 97 for advance ruling.
+
+(b) On. the concerned officer or the Jurisdictional Officer in respect of the
+applicant.
+
+3. In terms of Section 103(2) of the Act, this Advance Ruling shall be binding unless
+
+the law, facts or circumstances supporting the original advance ruling have changed.
+
+4, Advance Ruling obtained by the applicant by fraud or suppression of material
+facts or misrepresentation of facts, shall render such ruling to be void ab initio in
+accordance with Section 104 of the Act.
+
+5. The provisions of both the Central Goods and Services Tax Act and the Tamil Nadu
+Goods and Services Tax Act (herein referred to as the Act) are the same except for
+certain provisions. Therefore, unless a mention is specifically made to such dissimilar
+provisions, a reference to the Central Goods and Services Tax Act would also mean a
+
+reference to the same provisions under the Tamil Nadu Goods and Services Tax Act.
+
+Page 1 of 14
+
+
+GSTIN Number, if any/User id 33AXAPN5016C1Z4
+
+Legal Name of Applicant M/s. Paaragiri Balaraman
+Nagarajeswaran
+
+Trade Name of Applicant M/s. PSB Traders
+
+Registered Address/ Address provided | 2, 52, Sri Saurashtra Marriage Hall,
+
+while obtaining User id Kumaaraswamy Street,
+
+Shevapet, Salem 636 002.
+
+Details of Application Application Form GST ARA-O1 received
+from the applicant on 16.05.2024.
+Jurisdictional Officer State - Gugai Assessment Circle,
+
+Salem Division
+
+Center ~ Salem Commissionerate,
+Salem I Division.
+
+Nature of activity (s) (proposed/present)
+
+in respect of which advance ruling
+
+sought for
+
+Factory/Manufacturing and Works
+
+A. Category Contract
+
+Ei LaRSERiPmeie (pA HLS The applicant is in the business of
+
+crafting silver products, using raw
+materials like silver and copper. These
+materials come in various purities,
+affecting the value of the silver bars.
+Typically, silver bars are purchased
+from vendors located outside Tamil
+Nadu, processed along with copper and |
+are fashioned into silver ornaments.
+Sometimes this processing is
+outsourced through job work. Clarity is
+sought on several GST related matters,
+ie., regarding e-way billing for job work
+and the purchase of silver bars; to
+understand the e-way bill requirement
+for the procurement of silver bars and
+scenario of barter exchange if payments
+are delayed. The applicability of the
+reverse charge mechanism for job work
+done by unregistered individuals; the
+correct HSN codes for different varieties
+of silver, etc.
+
+Issues on which advance ruling | Classification of any goods or services
+required. or both
+
+Applicability of a notification issued
+under the provisions of this Act.
+
+Page 2 of 14
+
+
+Whether any particular thing done by
+the applicant with respect to any goods
+or services or both amounts to or
+results in a supply of goods or services
+or both, within the meaning of that
+term.
+
+Question(s) on which advance ruling is| 1) Does barter exchange procedure
+
+required operate for B2B transactions when
+payments are made without bank
+transactions?
+
+2) When a job worker is not registered
+under GST, does the Reverse Charge
+Mechanism (RCM) apply?
+
+3) For safety purposes, is it appropriate
+to mention the legal name on shipping
+labels and also ship the bills with
+discreet packaging?
+
+4) In cases where insurance of goods is
+mandatory, can we insure the goods for
+a lesser value?
+
+5) What are the appropriate HSN codes
+for scrap, melted scrap bars, melted
+rods and melted kacha?
+
+6) Is E-way bill mandatory for purchase
+and sale of silver scrap, silver
+ornaments and silver fine?
+
+7) In situations involving delivery
+challans for supply on approval, job
+work and repair when is an e-way bill
+required?
+
+8) How can the value of products with
+varying purities but the same name be
+proved and which documents are
+necessary for this purpose?
+
+9) Is it valid under GST to make
+payments to job workers in the form of
+materials instead of sales transactions?
+
+M/s. PSB Traders, (Legal Name : Paaragiri Balaraman Nagarajeswaran) No.2, 52,
+Sri Saurashtra Marriage Hall, Kumararaswamy Street, Shevapet, Salem 636 002
+(hereinafter called as the “Applicant”) are registered under the GST Act with GSTIN
+33AXAPNS5016C1Z4. The applicant has stated that they are engaged in the
+business of crafting sliver products using raw materials like silver and copper.
+These materials come in various purities, affecting the value of the silver bars. They
+
+Page 3 of 14
+
+
+purchase silver bars from vendors located outside Tamil Nadu, process them along
+with copper and fashion them into silver ornaments. Sometimes they also outsource
+these process through job work. The applicant has sought advance ruling on the
+following questions:
+
+1) ‘Barter Exchange in B2B Transactions: Does barter exchange
+apply to B2B transactions where payments are made without the
+involvement of bank transactions? Specifically, is the exchange of
+silver scrap for finished ornaments under GST laws considered a
+supply, despite the absence of monetary payments?
+
+2) Reverse Charge Mechanism (RCM) for Job Work: If Job Work is
+performed by an unregistered individual, does RCM apply?
+Additionally, does RCM cover job work provided by individuals to
+proprietorship concerns?
+
+3) Shipping Label and Packaging Confidentiality: For security
+purposes, is it permissible to mention the legal name (PAARAGIRI
+BALARAMAN NAGARAJESWARAN) on shipping labels and use
+discreet packaging, thereby not disclosing the nature of the goods
+{e.g., silver ornaments) in the shipment?
+
+4) Insurance Coverage for Goods: In cases where insurance for
+goods is mandatory, can the insurance coverage be based on a
+lesser value than the actual value of the goods?
+
+5S) HSN Codes for Silver and Scrap Products: What are the
+appropriate HSN codes for the following:
+
+Silver Scrap
+
+Melted Scrap Bars
+
+Melted Silver Rods
+
+Melted “Kacha” (imperfect silver)?
+
+6) E-Way Bill Requirements for Silver Products: Is an E-way bill
+mandatory for purchase and sale of the following items:
+
+Silver Scrap
+Silver Ornaments
+Silver Fine?
+
+7) + ©E-Way Bill for Delivery Challans: In what situations is an
+E-way bill required for goods sent under delivery challans,
+specifically for supply on approval, job work or repair?
+
+8) Valuation of Products with Varying Purity: How to differentiate
+the value of silver products that have varying purities but are
+otherwise identical in name? What documentation is necessary to
+validate these differences in value?
+
+Page 4 of 14
+
+
+9} Payment to Job Workers in Materials: Is it permissible under
+GST regulations to make payments to job workers in the form of
+materials (such as silver or copper) rather than conducting a
+monetary sales transactions?
+
+2. The Applicant has made a payment of application fees of Rs.5,000/- each
+under sub rule (1) of Rule 104 of CGST Rules, 2017 and SGST Rules, 2017.
+
+3.1 Statement of relevant facts having a bearing on the questions raised by
+the applicant as follows:
+
+1) Barter Exchange: The business mode of applicant involves
+crafting new silver ornaments from old or scrap silver supplied
+by my vendors. In return, new silver ornaments are supplied to
+them, often without any financial transactions. Clarification is
+sought on whether this barter system is considered a taxable
+supply under GST.
+
+2) E-Way Bill Exemption for Silver Ornaments: Serial Numbers
+150 and 151 of the GST exempt list specify that jewellery and
+precious stones are exempt from the E-Way Bill requirement.
+Confirmation on whether this exemption applies to silver
+ornaments is requested.
+
+3) Reverse Charge Mechanism (RCM): Based on _ their
+understanding, RCM only applies when job work is conducted by
+an individual for a body corporate. Job Work performed by
+individuals for a proprietorship concern should not fall under
+RCM. Confirmation of this interpretation is sought.
+
+4) Packaging Confidentiality: Due to the high value of silver
+ornaments, and to maintain confidentiality on shipping labels
+and packaging, whether legal name instead of my trade name
+can be used, and whether the details of the package contents
+(such as silver) be omitted for safety purposes.
+
+5) HSN Codes for Silver Products: There is ambiguity in the
+classification of certain silver products like scrap, melted bars,
+rods and kacha, especially concerning their varying purity levels,
+and therefore clarification on the correct HSN codes for the said
+items is requested.
+
+6) E-Way Bill for Delivery Challans: If the exemption at S1.No.2 is
+applicable, whether silver bars and ornaments sent involving
+delivery challans for supply on approval, job work or for repair
+also does not require E-Way bills.
+
+Page 5 of 14
+
+
+3.2 The applicant has reiterated the statement of facts as their interpretation
+of law in their application.
+
+4.1 The applicant falls within the administrative jurisdiction of ‘STATE’, and
+the State Authority vide their letter RC.496/A2/2024 dated 15.04.2025 has
+submitted their remarks and informed that no proceedings are pending for
+adjudication in the applicant’s case relating to the questions raised in the
+application for advance ruling.
+
+4.2 No remarks has been received from the Central jurisdictional Authority
+and so, it is construed that there is no pending proceedings on the questions raised
+by the applicant in their advance ruling application.
+
+Personal Hearing:
+
+5. The applicant was given an opportunity to be heard in person on
+16.04.2025 vide this office memorandum No.19/2024, dated 03.04.2025 which was
+duly served on the applicant. Shri Nagarajeswaran, the applicant appeared for the
+personal hearing as scheduled and reiterated the submissions made in their
+application seeking clarification. He explained the nature of their business and
+listed the queries for which they require clarification from Advance Ruling,
+
+Though the members felt that some of the queries raised by the applicant
+would not fall within the scope of Advance Ruling Authority, the queries raised were
+taken on record for examination and decision. The applicant had not submitted’ any
+additional documents or submissions.
+
+Discussions and Findings:
+
+6.1 We have carefully examined the submissions made by the applicant in
+their advance ruling application, and the submissions made during the personal
+hearing. As per Section 97(2) of the CGST Act, 2017, the questions on which the
+advance ruling is sought under this Act, shall be in respect of:-
+
+(a) Classification of any goods or services or both;
+
+(b) Applicability of a notification issued under the provisions
+of this Act;
+
+(c) Determination of time and value of supply of goods or
+services or both;
+
+(d) Admissibility of input tax credit of tax paid or deemed to
+have been paid;
+
+(e) Determination of the liability to pay tax on any goods or
+services or both;
+
+() Whether applicant is required to be registered;
+
+(g) whether any particular thing done by the applicant with
+respect to any goods or services or both amounts to or
+results in a supply of goods or services or both, within the
+meaning of that term.
+
+Page 6 of 14
+
+
+In the instant case, it is seen that as per SI.No.13 of the Application for Advance
+ruling filed by the applicant, they have raised nine questions seeking answers
+under the following categories, viz., (1) Classification of any goods or services or
+both, (2} Applicability of a notification issued under the provisions of this Act, and
+(7) whether any particular thing done by the applicant with respect to any goods or
+services or both amounts to or results in a supply of goods or services or both,
+within the meaning of that term.
+
+6.2 The 1st question raised by the applicant is “Does barter exchange apply to
+B2B transactions where payments are made without the involvement of bank
+transactions? Specifically, is the exchange of silver scrap for finished ornaments
+under GST laws considered a supply, despite the absence of monetary payments?”
+
+In this regard, it is informed that Section 2(83) of the CGST/TNGST Acts, 2017
+defines ‘Outward Supply’, in the following manner, i.e.,
+
+“Outward Supply” in relation to a taxable person, means supply of goods or
+services or both, whether by sale, transfer, barter, exchange, licence, rental,
+lease or disposal or any other mode, made or agreed to be made by such person
+in the course or furtherance of business.
+
+Further, as per Section 7 in CGST/TNGST Acts, 2017,
+
+“Scope of supply’. - (1) ‘For the purposes of this Act, the expression “supply”
+includes -
+
+a) all forms of supply of goods or services or both such as sale, transfer,
+barter, exchange, licence, rental, lease or disposal made or agreed to be
+made for a consideration by a person in the course or furtherance of
+business;
+
+b) Import of services for a consideration whether or not in the course or
+furtherance of business; and
+
+c) The activities specified in Schedule I, made or agreed to be made without a
+consideration;”
+
+This apart, the definition of ‘consideration’ as laid down under Section 2(31) of the
+CGST Act, 2017, specifies as below :-
+
+(31) “consideration” in relation to the supply of goods or services or both
+includes—
+
+(a) any payment made or to be made, whether in money or otherwise, in respect
+of, in response to, or for the inducement of, the supply of goods or services or
+both, whether by the recipient or by any other person but shall not include any
+subsidy given by the Central Government or a State Government;
+
+(b) the monetary value of any act or forbearance, in respect of, in response to, or
+for the inducement of, the supply of goods or services or both, whether by the
+
+recipient or by any other person but shall not include any subsidy given by the
+Central Government or a State Government:
+
+Provided that a deposit given in respect of the supply of goods or services or
+both shall not be considered as payment made for such supply unless the
+supplier applies such deposit as consideration for the said supply;
+
+Page 7 of 14
+
+
+In view of the above, it becomes quite clear that barter system is covered
+under the scope of ‘supply’ and specifically exchange of silver scrap for finished
+ornaments will be considered a ‘supply’ under the GST law, despite the absence of
+monetary payments. In this regard, it may also be noted that Schedule I to the
+CGST Act, 2017, specifies activities to be treated as supply even if made without
+consideration.
+
+6.3 The 2nd question raised by the applicant is “If Job Work is performed by
+an unregistered individual, does RCM apply? Additionally, does RCM cover job work
+provided by individuals to proprietorship concerns?”
+
+In this regard, it is informed that Notification No.13/2017, CT(R) dated
+28.06.2017, as amended, has clearly enumerated the situations which warrant
+payment of GST under reverse charge mechanism (RCM), and it can be seen that
+§Sob-work’ does not figure as one of the activities/situations listed therein. Once it
+becomes clear that ob work’ is not part of the said notification, the question of
+answering the above query does not arise.
+
+6.4 The 34 question raised by the applicant is “For safety purposes, is it
+appropriate to mention the legal name on shipping labels and also ship the bills with
+discreet packaging?”
+
+It could be seen that the above query refers to ‘discreet packaging’, ‘safety
+purposes’, and whether to mention the legal name on the shipping labels, which are
+procedural in nature and which are not related to GST or its taxability in any
+manner. This apart, as the said question does not fit into any of the clauses at (a) to
+(g) of Section 97(2) of the CGST Act, 2017, as enumerated above, we are of the
+considered opinion that no ruling is required to be pronounced in this regard.
+
+6.5 The 4% question raised by the applicant is “In cases where insurance of
+goods is mandatory, can we insure the goods for a lesser value?”
+
+We find that no ruling could be issued in respect of this case as well, as the
+question put forth by the applicant does not fall within the scope of Section 97(2) of
+the CGST/TNGST Acts, 2017, and since the same is not at all related to GST in any
+manner, whatsoever.
+
+6.6 The 5 question raised by the applicant is “what are the appropriate HSN
+codes for scrap, melted scrap bars, melted rods and melted kacha?”
+
+In this regard, it is informed that the relevant entries under Schedule V of
+Notification No.1/2017, CT (R), dated 28.06.2017, as amended, are as follows:-
+
+Sl. Chapter/Heading/ Description of Goods Rate of
+No. Sub-Heading/ Tax
+Tariff item
+6. 7106 Silver (including silver plated 1.5
+
+with gold or platinum),
+unwrought or in semi-
+manufactured forms, or in
+powder form
+
+Page 8 of 14
+
+
+12. 7112 Waste and scrap of precious 1.5
+metal or of metal clad with
+precious metal; other waste
+and scrap containing
+precious metal or precious
+metal compounds, of a kind
+used principally for the
+recovery of precious metal.
+
+Accordingly, the HSN codes in respect of the specified materials are as given
+below :-
+
+Silver Scrap — 7112
+Melted scrap Bars — 7112
+Melted Silver Rods - 7106
+
+Melted ‘Kacha’ (Imperfect Silver) - 7106
+
+6.7.1 The 6 question raised by the applicant is “Us E-way bill mandatory for
+purchase and sale of silver scrap, silver ornaments and silver fine?”
+
+In this regard, it may be seen that the Central Board of Excise and Customs in
+its Circular No.10/10/2017-GST dated 18.10.2017, has issued a clarification on
+issues wherein the goods are moved within the State or from the State of
+registration to another State for supply on approval basis, the extract of which is
+given below :-
+
+“2, It is seen that clause (c) of sub-rule (1) of rule 55 of the Central Goods and
+Services Tax Rules, 2017 (hereafter referred as “the said Rules”) provides that
+the supplier shall issue a delivery challan for the initial transportation of
+goods where such transportation is for_ reasons other than _by way of
+supply. Further, sub-rule (3) of the said rule also provides that the said delivery
+challan shall be declared as specified in rule 138 of the said Rules. It is also
+seen that sub-rule (4) of rule 55 of the said Rules provides that “Where the
+goods being transported are for the purpose of supply to the recipient but the tax
+invoice could not be issued at the time of removal of goods for the purpose of
+supply, the supplier shall issue a tax invoice after delivery of goods”.
+
+3. A combined reading of the above provisions indicates that the goods which
+are taken for supply on approval basis can be moved from the place of business
+of the registered supplier to another place within the same State or to a place
+outside the State on a delivery challan_ along with the e-way bill wherever
+applicable and the invoice may be issued at the time of delivery of goods. For
+this purpose, the person carrying the goods for such supply can carry the invoice
+book with him so that he can issue the invoice once the supply is fructified.
+
+4, It is further clarified that all such supplies, where the supplier carries goods
+from one State to another and supplies them in a different State, will be inter-
+state supplies and attract integrated tax in terms of Section 5 of the Integrated
+Goods and Services Tax Act, 2017.
+
+5. It is also clarified that this clarification would be applicable to all goods
+supplied under similar situations.”
+
+Page 9 of 14
+
+
+6.7.2 However, it may be seen that the provisions of Rule 138(14) of CGST
+Rules, 2017 stipulates as follows :-
+
+“Notwithstanding anything contained in this rule, no e-way bill is required ta
+be generated,
+
+a) Where the goods being transported are specified in Annexure,
+
+ANNEXURE [RULE 138 (14)]
+S1.No. Description of Goods
+1. Liquefied Petroleum Gas for supply to household and Non domestic
+exempted category (NDEC) customers
+en Kerosene oil sold under PDS
+3. Postal baggage transported by Department of Posts
+Pa, Natural or cultured pearls and precious or semi-precious stones,
+precious metals and metals clad with precious metal (Chapter
+71)
+5. Jewellery, goldsmiths’ and silversmiths’ wares and_ other
+articles (Chapter 71) [excepting Imitation Jewellery (7117)]
+
+6. Currency
+7. Used personal and household effects
+8. Coral, unworked (0508) and worked coral (9601)
+
+From the above, it could be seen that transportation or movement of
+precious metals and metals clad with precious metal falling under chapter 71 get
+covered for E-way bill exemption straightaway vide SI.No.4 of the above table.
+Further, jewellery, silversmith wares and other articles of Chapter 71, also get
+covered vide S1.No.5 of the table above, with the exception of Imitation Jewellery
+under HSN 7117.
+
+6.7.3 Accordingly, it could be said that by virtue of the provisions of
+provisions of Rule 138(14) of CGST Rules, 2017, goods under Chapter 71, including
+Silver scrap, Silver ornaments and Silver fine, as referred to by the applicant (except
+imitation jewellery under HSN 7117), stand exempted from E-way Bill generation at
+the national level, i.e., for inter-state supplies. As far as intra-~state movement of
+such goods is concerned, we find that the Commissioner of State Tax, Tamilnadu
+state, in exercise of the powers conferred under clause (d} of sub-rule (14) of rule
+138 of the TNGST Rules, 2017, has declared that no E-way Bill is required to be
+generated for intra-state movement within the state of Tamilnadu in respect of
+value and goods notified in the rule 138 of Tamilnadu Goods and Services Tax
+Rules, 2017, until further orders, by way of issue of Notification No.6 of 2018 dated
+28.03.2018 issued in Rc.46/2018/Taxation/Al.
+
+6.7.4 However, it is imperative to mention here that based on the
+recommendations of the 50 GST Council, Rule 138F was inserted vide Notification
+No.38/2023-Central Tax dated 04.08.2023, which provides for an option to the
+respective State or Union Territory to make generation of E-way bill mandatory or
+otherwise, as far as intra-state movement of the goods in question is concerned.
+The said provision runs as,
+
+Page 10 of 14
+
+
+“138F. Information to be furnished in case of intra-State_ movement of gold,
+precious stones, etc. and generation of e-way bills thereof. -
+
+(1) Where-
+
+(a) a Commissioner of State tax or Union arnitend tax mandates furnishing of
+
+information regarding intra-State_ movement of goods specified aqainst
+serial numbers 4 and_5 in the Annexure appended to sub-rule (14) of
+rule 138, in accordance with sub-rule (1) of rule 138F of the State or Union
+
+territory Goods and Services Tax Rules, and
+
+(b) the consignment value of such goods exceeds such amount, not below
+rupees two lakhs, as may be notified by the Commissioner of State tax or
+Union territory tax, in consultation with the jurisdictional Principal Chief
+Commissioner or Chief Commissioner of Central Tax, or any Commissioner of
+Central Tax authorised by him,
+
+notwithstanding anything contained in Rule 138, every registered person who
+causes intra-State movement of such goods, -
+
+() in relation to a supply; or
+(ii) for reasons other than supply; or
+
+(iii) due to inward supply from an un-registered person,
+
+shall, before the commencement of such movement within that State or Union
+territory, furnish information relating to such goods electronically, as specified in
+Part A of FORM GST EWB-01, against which a unique number shall be
+generated:
+
+6.7.5 Once the option as above has been extended to the respective States
+and Union Territories, the state of Kerala has mandated the generation of E-Way
+Bills for intra-state movement of certain goods under Chapter 71 within their
+jurisdiction by way of issue of Notification No.10/2024-State Tax dated 27.12.2024
+in No. SGST/6282/2023-PLC1. However, we notice that no such notification has
+been issued, or option exercised by the state of Tamilnadu _so far, in this regard.
+Under these circumstances, we are of the opinion that E-way Bill generation is not
+required for movement, whether intra-state (in Tamilnadu) or inter-state involving
+sale or purchase of Silver scrap, Silver ornaments and Silver fine.
+
+6.8 The 7% question raised by the applicant is “In situations involving delivery
+challan for supply on approval, job work and repair when is an e-way bill required?”
+
+It may be noted here that the situations involving ‘supply on approval’, ‘job
+work’, ‘repair’, do not fall under the scope of ‘supply’ in the strict sense of the term.
+However, it is observed that the provisions of rules 55 and 138 of the CGST Rules,
+2017 takes care of these situations as well, apart from ‘supply’. In this regard, it
+could be seen that the provisions of Rule 55 of the CGST Rules, prescribes the
+procedure to be followed while transporting goods without issue of invoice, in the
+case of job work and for reasons other than by way of supply also, as reproduced
+below :-
+
+Page 11 of 14
+
+
+“55. Transportation of goods without issue of invoice.- (1) For the purposes of-
+
+(a) supply of liquid gas where the quantity at the time of removal from the place
+of business of the supplier is not known,
+
+(b) transportation of goods for job work,
+(c) transportation of goods for reasons other than by way of supply, or
+(d) such other supplies as may be notified by the Board,
+
+the consigner may issue a delivery challan, serially numbered not exceeding
+sixteen characters, in one or multiple series, in lieu_of invoice at the time of
+removal of goods for transportation, containing the following details, namely:-
+
+(3) Where goods are being transported on a delivery challan in lieu of invoice,
+the same shall be declared as specified in rule 138.”
+
+Accordingly, the provisions relating to rule 138 which lays down the procedure for
+raising E-way Bills cater to all the situations, viz., in relation to a supply, for
+reasons other than supply, and for inward supply from an unregistered person.
+Rule 138 of the CGST Rules, 2017, runs as -
+
+“138, Information to be furnished prior to commencement of movement of goods
+and generation. of e-way bill.-
+
+(1) Every registered person who causes movement of goods of consignment
+value exceeding fifty thousand rupees—
+
+(i) in relation to a supply; or
+(ti) for reasons other than supply; or
+
+(iii) due to inward supply from an unregistered person,
+
+shall, before commencement of such movement, furnish information relating to
+the said goods as specified in Part A of FORM GST EWB-O1, electronically, on
+the common portal along with such other information as may be required at the
+common portal and a unique number will be generated on the said portal.
+
+(14) Notwithstanding anything contained in this rule, no e-way bill is
+required to be generated,
+
+Where the goods being transported are specified in Annexure”
+
+As the movement of goods in question in the instant case whether it is in relation
+to a supply, or it is for reasons other than supply, both get covered under rule
+138 of the rules, ibid, we are of the opinion that in respect of this query also, the
+aforesaid discussion in para 6.7 holds good, and accordingly, generation of E-way
+bill is not required in situations involving supply on approval, job work and repair of
+silver bars and ornaments.
+
+6.9 The 8th question raised by the applicant is “How can the value of products
+with varying purities but the same name be proved and which documents are
+necessary for this purpose?”
+
+Page 12 of 14
+
+
+We find that no ruling could be issued in respect of this question, as it does
+not fall within the scope of Section 97(2) of the CGST/TNGST Acts, 2017, and since
+the same is not related to GST in any manner.
+
+6.10 The 9% question raised by the applicant is “Is it valid under GST to make
+payments to job workers in the form of materials instead of sales transactions?”
+
+We find that no ruling could be issued in respect of this question, as it
+relates to the procedure for making payment of job-worker, and accounting of the
+value involved, which are procedural in nature, and which does not fall within the
+scope of Section 97(2) of the CGST/TNGST Acts, 2017.
+
+7. In view of the aforesaid discussions, we rule as under:
+
+Ruling
+
+Sl. Query raised by the applicant Ruling issued
+
+No
+
+1 | Does barter exchange apply to B2B | Barter system is covered under
+transactions where payments are made|the scope of ‘supply’ and
+without the involvement of bank | specifically exchange of silver
+transactions? Specifically, is the] scrap for finished ornaments
+exchange of silver scrap for finished | will be considered a ‘supply’
+ornaments under GST laws considered a | under the GST law, despite the
+supply, despite the absence of monetary | absence of monetary payments.
+payments?
+
+2 |If Job Work is performed by an]As job-work does not attract
+unregistered individual, does RCM | RCM, the question of answering
+‘apply? Additionally, does RCM cover job | the said query does not arise.
+work provided by individuals to
+proprietorship coricerns?
+
+3 | For safety purposes, is it appropriate to | No ruling is passed as the said
+mention the legal name on shipping | question does not fit into any of
+labels and also ship the bills with|the clauses at (a) to (g) of
+discreet packaging? Section 97(2) of the CGST Act,
+
+2017.
+
+4 |In cases where insurance of goods is | No ruling is passed as the said
+mandatory, can we insure the goods for | question does not fit into any of
+
+a lesser value? the clauses at {a) to (g) of
+Section 97(2) of the CGST Act,
+
+2017, and since the same is
+
+not related to GST in any
+
+manner.
+5 | What are the appropriate HSN codes for Silver Scrap — FLIES
+scrap, melted scrap bars, melted rods Melted scrap Bars —7112
+and melted kacha? Melted Silver Rods — 7106
+
+Melted ‘Kacha’
+(Imperfect Silver)- 7106
+
+6 |Is E-way bill mandatory for purchase | E-way bill is not mandatory for
+and sale of silver scrap, silver ornaments | the movement inter-state and
+and silver fine? intra-state involving purchase
+
+and sale of silver scrap, silver
+ornaments and silver fine.
+Page 13 of 14
+
+
+
+yy
+
+7 |In situations involving delivery challan | E-way bill is not mandatory for
+for supply on approval, job work and|the movement of goods in
+repair when is an e-way bill required? question in situations involving
+
+supply on approval, job work
+and repair of silver bars and
+ornaments.
+
+8 |How can the value of products with | No ruling is passed as the said
+varying purities but the same name be | question does not fit into any of
+proved and which documents are} the clauses at (a) to (g) of
+necessary for this purpose? Section 97(2) of the CGST Act,
+
+2017 and since the same is not
+related to GST.
+
+9 |Is it valid under GST to make payments | No ruling is passed as the said
+to job workers in the form of materials | question does not fit into any of
+instead of sales transactions?” the clauses at (a) to (g) of
+
+Section 97(2) of the CGST Act,
+
+2017.
+(uanaeeer a
+(Balakrishna S) | sf
+Member (CGST)
+
+= q\e5 Reo
+
+(B.Suseel Kumar)
+Member (SGST)
+
+To
+
+M/s. PSB Traders,
+No.2, 52, Sri Saurashtra Marriage Hall,
+Kumaaraswamy Street,
+
+Shevapet, Salem 636 002.
+
+(By RPAD)
+
+Copy submitted to
+1. The Principal Chief Commissioner of GST and Central Excise,
+
+26/1, Uthamar Mahatma Gandhi Road,
+Nungambakkam, Chennai 600 034.
+
+2. The Commissioner of Commercial Taxes,
+2nd Floor, Ezhilagam, Chepauk, Chennai 600 005.
+
+3. The Commissioner of GST and Central Excise,
+Salem Commissionerate,
+No.1 Foulkes Compound,
+Anaimedu, Salem 636 001.
+
+Copy to
+
+1. The Assistant Commissioner (ST),
+Gugai Assessment Circle,
+Integrated Commercial Taxes Building,
+1st Floor, Survey No.17-2, Ward J Block-3,
+Pitchards Road, Salem 636 007.
+
+2. Stock File -Al
+
+Page 14 of 14

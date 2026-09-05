@@ -1,0 +1,1215 @@
+AUTHORITY FOR ADVANCE RULING, TAMILNADU
+DOOR NO.32, INTEGRATED COMMERCIAL TAXES OFFICE COMPLEX
+5T FLOOR, ROOM NO. 503, ELEPHANT GATE BRIDGE ROAD,
+CHENNAI -600 003.
+PROCEEDINGS OF THE AUTHORITY FOR ADVANCE RULING U/s.98 OF THE
+
+GOODS AND SERVICES TAX ACT, 2017.
+Members present are:
+
+1. Shri B.Senthilvelavan, I.R.S., Additional Commissioner/Member,
+Office of the Principal Chief Commissioner of GST & Central Excise, Chennai -34
+
+2. Thiru.Kurinji Selvaan V.S., M.Sc., (Agri.), M.B.A.,Joint Commissioner (ST)/ Member,
+Office of the Authority for Advance Ruling, Tamil Nadu, Chennai-6.
+
+ORDER No. 13 /ARA/2021 Dated: 28.04.2021
+
+GSTIN Number, if any / User id 33AADCA9093P1Z4
+| Legal Name of Applicant Ashiana Housing Limited Se)
+Trade Name of the Applicant Ashiana Housing Limited
+
+Registered Address / Address | First Floor, Door No.10, G J Complex, First
+
+provided while obtaining user id Main Road, CIT Nagar, Chennai-600035
+
+Details of Application Form GST ARA — 001 Application
+S1.No.20/2020 dated 04.08.2020
+
+Concerned Officer Centre: Chennai South Commissionerate
+State:
+
+Nature of activity(s) (proposed /
+
+present) in respect of which advance
+
+ruling sought for
+
+A_ | Category Works Contract
+
+B_ | Description (in brief) Developer of residential properties : |
+
+Issue/s on which advance ruling| 1. Classification of services
+required 2. Determination of the liability to pay tax on
+any services
+
+Question(s) on which advance ruling | Whether the activities of construction carried |
+
+is required out by the applicant for its customer under
+the Construction Agreement, being composite
+supply of works contract are appropriately
+classifiable under Heading 9997, and
+chargeable to CGST @ 9% under S.No.35 of
+Notification No.11/2017- CT(Rate) dated
+28.06.2017.
+
+Page 1 of 25
+
+
+Note: Any appeal against the Advance Ruling order shall be filed before
+the Tamil Nadu State Appellate Authority for Advance Ruling, Chennai
+under Sub-section (1) of Section 100 of CGST ACT/TNGST Act 2017
+within 30 days from the date on which the ruling sought to be appealed
+
+against is communicated.
+
+At the outset, we would like to make it clear that the provisions of both
+the Central Goods and Service Tax Act and the Tamil Nadu Goods and
+Service Tax Act are the same except for certain provisions. Therefore,
+unless a mention is specifically made to such dissimilar provisions, a
+reference to the Central Goods and Service Tax Act would also mean a
+reference to the same provisions under the Tamil Nadu Goods and
+
+Service Tax Act.
+
+Ashiana Housing Limited, First Floor, Door No. 10, G J Complex, First Main
+Road, CIT Nagar, Chennai-600035(hereinafter called the ‘Applicant’) is registered
+under the GST Vide GSTIN 33AADCA9093P1Z4.They have sought Advance Ruling on
+the following question:
+
+“Whether the activities of construction carried out by the applicant for its
+
+customer under the Construction Agreement, being composite supply of
+
+works contract are appropriately classifiable under Heading 9997, and
+
+chargeable to CGST @ 9% under S.No.35 of Notification No.11/2017- CT(Rate)
+
+dated 28.06.2017”.
+The Applicant has submitted the copy of application in Form GST ARA -01 and also
+submitted a copy of Challan evidencing payment of application fees of Rs.5,000/-
+each under sub-rule (1) of Rule 104 of CGST rules 2017 and SGST Rules 2017.
+
+24 The Applicant has stated that they are a company registered in India and
+are real estate developer. They have stated that the present application pertains to
+development of a residential project by them under a defined arrangement. In the
+said arrangement, they hold the development rights to develop a particular parcel of
+land. They enter into two agreements with their customer. The First agreement is an
+Agreement for Sale of undivided share in land (for short 'UDS') to the customer (for
+short 'UDS Agreement’). The Second agreement is an Agreement for Construction
+(for short ‘Construction Agreement’), whereby the customer appoints the Applicant
+for construction of units on the said UDS. Such arrangement is under an umbrella
+Indenture of undertaking’ (for short OU’) recording the understanding of both the
+UDS Agreement and Construction Agreement. On completion of the construction, a
+
+Sale Deed will be executed for sale of UDS to the customer, on which appropriate
+
+Page 2 of 25
+
+
+Stamp Duty will be paid. The Construction Agreement is registered separately on
+
+payment of appropriate Stamp Duty.
+
+2.2 On interpretation of law, the applicant has stated that the activities of
+construction carried out by them for their customer under the Construction
+Agreement on UDS agreed to be sold to the customer are classifiable as works
+contract service falling under Heading 9997, and chargeable to CGST @ 9% under
+S. No. 35 of Notification No. 11/2017-CT (Rate), dated 28.06.2017. The applicant
+has made references to Section 9, Section 7 and Schedule II of CGST Act 2017. They
+have stated that Notification No. 11/2017-Central Tax (Rate), dated 28.06.2017
+prescribes the rate of CGST payable on intra-state supply of services. Sl. No. 3 of
+this notification covers Heading 9954 (Construction Services) comprising of various
+activities. S. No. 35 of this notification covers Heading 9997 (being the residual
+
+heading) comprising, inter-alia, of services nowhere else specified.
+
+2.3 The applicant has submitted that under the arrangement, they enter into
+UDS Agreement with customer for purposes of sale of UDS. As a result of UDS
+Agreement, there is a transfer of title in UDS to the customer, i.e. transfer of title in
+immovable property. Such transfer of title in immovable property is not chargeable
+to GST and is not a subject-matter of the present application. Vide the Construction
+Agreement, the customer appoints the Applicant for purposes of undertaking
+construction of the specified unit on the UDS agreed to be sold to the customer.
+They accordingly undertake construction activities for the customer. In the course
+of such construction activities, there is a transfer of title in goods (whether as goods
+or in some other form) from the Applicant to the customer. The activities carried out
+by the Applicant under the Construction Agreement are subject-matter of the
+present application.
+
+2.4 They have stated that in the above background, the question arises as to
+what is the nature of activities undertaken by the Applicant for the customer. In
+this regard, they have made reference to the definition of ‘works contract’ under
+Section 2(119) of the CGST Act. They have stated that a contract for building or
+construction of any immovable property involving transfer of property in goods
+(whether as goods or in some other form) in the course of its execution, qualifies as
+‘works contract’ under Section 2(119) of the CGST Act. In the instant case, they
+undertake activity of construction of unit, being immovable property, for the
+
+customer, which involves transfer of property in goods such as cement, steel,
+
+Page 3 of 25
+
+
+mortar, etc. to the customer. Such activities of the Applicant answer the description
+of definition under Section 2(119) of the CGST Act and thus, qualify as ‘works
+contract’. They have placed reliance on the judgement of the Hon’ble Supreme Court
+
+in the case of State of Madras v. Gannon Dunkerley & Co.(Madras) Limited, 1955
+SCR 379.
+
+2.5 The applicant has referred to 46th Constitutional Amendment Act, wherein a
+new clause (29A) was introduced in Article 366 of the Constitution. After the 46th
+Amendment, the works contract, which was an indivisible one, was altered, by a
+legal fiction created in Article 366(29A) (b), into a contract which was divisible into
+one for sale of goods and the other for supply of labour and services. Thus, it has
+become possible for the States to levy Sales Tax on the value of goods involved in a
+works contract in the same way in which the Sales Tax was leviable on the price of
+the goods and materials supplied in a building contract which had been entered
+into in two distinct and separate parts. They have also referred to the following case
+laws
+
+~ Hon’ble Supreme Court in K Raheja Development Corporation v. State of
+Karnataka, 2005 (5) SCC 162 wherein the apex court held that such building
+contracts are works contract by nature
+
+» Hon'ble Supreme Court in Larsen & Toubro Limited v. State of Karnataka,
+2014 (303) ELT 3 (SC) held that works contracts also include building
+contracts and therefore without any fear of contradiction it can be stated that
+building contract are species of works contract.
+
+7 Hon'ble Punjab & Haryana High Court in CHD Developers Limited v. State of
+Haryana, 2015 (81) VST 344 (P&H) held that the activities of construction
+
+have all attributes, elements and characteristics of works contracts though
+essentially it may be a transaction of sale of flat.
+
+2.6 They have stated that it is evident from the above case laws that there is a
+transfer of property in goods (whether as goods or in some other form) from the
+applicant to the customer in the course of execution of construction activities by the
+applicant. Such activities of the applicant qualify as ‘works contract’, as defined in
+Section 2(119) of the CGST Act. The activity of works contract is, by nature, a
+composite supply comprising of transfer of property in goods and provision of
+services in the form of construction, building etc. By virtue of deeming fiction under
+Clause (a) of Paragraph 6 of Schedule II, the composite supply of works contract is
+
+treated as a supply of service. In other words, while works contract, by nature, is a
+
+Page 4 of 25
+
+
+composite supply, it is treated as supply of services for purposes of the CGST Act.
+Further, in respect of the appropriate classification of the said supply so as to
+determine the appropriate rate of GST payable thereon, they have referred to the
+Heading No. 9954, Sl. No. 3 of Notification No, 11/2017-CT(R), dated 28.06.2017
+and stated that the description of service corresponding to this heading in Column 3
+of table therein refers to services of different nature in various clauses from Clause (i)
+to (xii).They have stated that the Scheme of Heading No. 9954, Sl. No. 3 clearly
+distinguishes supply of construction services from composite supply of works
+contract. Clause (i) to Clause (if) refer to various specified construction services,
+Clause (iii) to Clause (X) refer to various specified composite supplies of works
+contract; clause (xi) refers to certain specified services by way of housekeeping;
+Clause (xii) is a residual clause referring to construction services other than those
+
+covered under earlier clauses.
+
+2.7 The applicant has made reference to Clause (i), which covers construction of
+affordable residential apartments by a promoter in a Residential Real Estate Project,
+subject to certain conditions, intended for sale to a buyer, wholly or partly, except
+where the entire consideration has been received after issuance of completion
+certificate, where required, by the competent authority or after its first occupation,
+whichever is earlier and stated that this clause is similar to Clause (b) of Paragraph
+5 of Schedule II to the CGST Act. The next clauses, being Clause (ia), (ib), (ic), (id),
+(ie) and (if) are worded in similar manner. Similar is the case with residual Clause
+(xii), which also covers only construction services. In distinction to the aforesaid
+clauses, Clause (iii) refers to certain specified composite supplies of works contract,
+as defined in Section 2(119). The next clauses, being Clause (iv), (v), (va), (vi), (vii),
+(viii), (ix) and (x) are worded in similar manner. The difference in the aforesaid
+clauses, i.e. [a] from Clause (i) to Clause (if) & Clause (xii) and |b] from Clause (iii) to
+Clause (x), thus lies in the nature of supplies covered therein. While the first
+category covers plain supplies of construction (not being composite in nature), the
+second category covers only composite supplies of works contracts. This is
+particularly evident from Clause (va), which covers composite supply of works
+contract supplied by way of construction etc. of affordable residential apartments. As
+noted, Clause (i) to Clause (if) & Clause (xii) also refer to construction of affordable
+residential apartments; however, reference to affordable residential apartments in
+Clause (va) is limited in its scope to composite supply of works contract. The evident
+
+conclusion from the above discussion, thus, is that the coverage of Clause (i) to
+
+Page 5 of 25
+
+
+Clause (if) & Clause (xii) is limited to plain supply of specified construction services
+(not being composite in nature), while the coverage of Clause (iii) to Clause (x)
+extends to composite supplies of works contract. To substantiate above, they have
+referred to Schedule-II to the CGST Act, which specifies activities, which will be
+treated as supply of either goods or services. Clause (b) Paragraph 5 of Schedule II
+treats construction of complex as a supply of services. The purpose of this is to avoid
+any kind of confusion, which had been prevailing jurisprudentially. Further,
+Paragraph 6 refers to certain composite supplies; it establishes that the scope of
+Paragraph 5 does not extend to cover composite supplies.
+
+2.8 In view of the above, the applicant has submitted that the supplies made by
+them are composite supplies of works contract. The said supplies cannot be
+classified under Clause(i) to Clause(if) & Clause (xii) of Sl. No. 3 of the cited
+notification as it is limited to supply of specified construction services (not being
+composite in nature), while the coverage of clause (iii) to clause(x) extends to
+composite supplies of works contract, if at all their supplies are covered under
+Clause (iii) to (x), the scope of the clause is limited to works contract of specified
+nature, which does not cover the supplies made by them. Also Clause (xi) refers to
+housekeeping services, which is not relevant to their case.
+
+2.9 The applicant has also submitted that Clause(i) to Clause(if) of SI.No.3 of the
+Notification which refers to various construction services, wherein the Promoter/
+Developer constructs apartments in a project, intended for sale to buyer. The
+requirement for construction of apartments intended for sale to buyer is inherent for
+classification under Clause (i) to Clause (if) of S. No. 3 of the notification. This is also
+evident from Clause (b) of Paragraph 5 of Schedule II, which also mandates that the
+construction of complex must be intended for sale to the buyer. Similarly, Clause
+(xii) refers to construction services, in contrast to composite supplies of works
+contract. They have also submitted that, in the instant case, the UDS has already
+been agreed to be transferred by them to the buyer. The construction undertaken by
+them thereafter, thus, is on the UDS agreed to be sold to the buyer. In such a case,
+though the applicant undertakes construction for the buyer, there is no question of
+construction of apartment being intended for sale to the buyer, in as much as the
+apartment belongs to the buyer only pursuant to sale of the UDS. For this reason,
+also the activities of construction by the Applicant cannot be covered under Clause
+(i) to Clause (if) & Clause (xii) of Sl. No. 3 of the notification.
+
+Page 6 of 25
+
+
+2.10 In view of the aforesaid submissions, they have submitted that the supplies
+made by them under the Construction Agreement are classifiable under Heading
+9997, Sl. No. 35 of Notification No. 11/2017-CT (Rate), dated 28.06.2017, which
+covers other miscellaneous services nowhere else specified and the applicable rate of
+CGST being 9%.
+
+3.1 Due to the prevailing PANDEMIC situation and in order not to delay the
+proceedings, the appellant was addressed through the Email Address mentioned in
+the application to seek their willingness to participate in a virtual Personal Hearing
+in Digital media. The applicant consented and the hearing for admission of the
+application was held on 10.12.2020. The authorised representative participated in
+the hearing and stated that the project is yet to be undertaken. He stated that the
+activity is a construction service and it is a works contract. They undertook to
+furnish a synopsis on the submissions made. They were asked to furnish the details
+of:
+
+i. Specific residential project for which ruling is sought.
+
+ii. When the service supplied is one of ‘Construction’ as a ‘Works contract’ a
+
+write-up on as to how they interpret their services not falling under SAC 9954,
+
+iii. Sample copies of live agreements from similar projects.
+
+3.2 The applicant vide their letter dated 14.12.2020 furnished the following
+documents:
+¢ Written submissions, wherein inter-alia they stated that
+o The applicant has launched a senior-living gated community project
+called ‘Ashiana Shubham’ in Maraimalai Nagar Chennai by acquiring
+development rights from Escapade Real Estate Pvt Ltd (Landowner)
+back in 2014. The project is divided in the 5 phases. phase I was
+completed in pre-GST regime, Phase II completed in GST regime, Phase
+III commenced prior to 01.04.2019 and is scheduled to be completed in
+2022. Phase IV is scheduled to be launched soon and Phase V will be
+launched in future. All the phases of Ashiana Shubham qualify as
+Residential Real Estate Project (RREP).
+o They are seeking Advance Ruling in respect of its future Phase IV and V
+of the project ‘Ashiana Shubham’. As regards Phase I to Phase III they
+
+have been complying with legal requirements and remitting the
+
+Page 7 of 25
+
+
+applicable taxes on the construction services rendered to customers in
+respect of the said phases.
+
+o The Modus operandi they intend to follow in respect of Phase IV and V
+of the project for provisions of construction services to customers is as
+follows:
+
+* They will enter into a tripartite IOU with all their prospective
+customers wherein the customer will agree to enter into an
+Agreement for purchase of Undivided interest/share in the
+land(UDS) from the landowner and the Applicant in their
+capacity of Power of Attorney(PAO) holder and a subsequent
+Construction Agreement will be executed with the Applicant
+
+* Pursuant to IOU, UDS agreement will be executed between the
+Applicant, landowner and customer wherein the landowner will
+agree to sell UDS proportionate to the residential unit sought to
+be owned by the customer in the real estate project & the
+customer will further agree to purchase such UDS from the land
+owner
+
+=" Further, the customer will also enter into a ‘construction
+agreement’ with the applicant, appointing the applicant to
+construct the residential unit on the acquired UDS. The
+landowner will not be a party to this agreement
+
+* The tripartite IOU, tripartite UDS Agreement and Construction
+Agreement will be executed only subject to the customer paying
+10% of the total consideration for owning a residential unit in
+the real estate project
+
+« Lastly a Sale Deed for the sale of the UDS by the Landowner to
+the customer will be executed prior to handing over possession
+of the developed residential unit
+
+o Sample copies of the proposed agreements and contracts were enclosed
+along with the application and a Sample copy of the similar agreements
+entered with the customers for the earlier phase is enclosed
+
+o On the question sought to be answered, they have stated that the
+application has been filed for determining the appropriate classification
+and corresponding rate of tax payable towards the activities of
+construction proposed to be carried out by them for prospective
+customers in Phase IV and V of the Project
+
+Page 8 of 25
+
+
+On the Nature of Supply they have stated that their understanding is
+that the activities proposed to be undertaken by them constitutes a
+composite supply of works contract which is not a contract for services
+simpliciter; The activities of works contract is, by nature, a composite
+supply involving both goods and services and by virtue of the deeming
+fiction under Clause (a) of Paragraph 6 of the Schedule II, the
+composite supply of works contract is treated as a supply of service
+under GST.
+On their understanding on the classification of their supply, they have
+stated that the Entries of Rate Notification pertaining to Composite
+supply of works contract are specific in nature and Applicant’s supply
+does not fall under any of those entries. They have tabulated clauses
+(iii) to (x) of S.No. 3 of Heading 9954 pertaining to various specified
+composite supplies of works contract and demonstrated how they do
+not apply to them
+There is no other entry in the Rate Notification which mentions works
+contract and, in such scenario, their supply would be classifiable under
+residual entry heading 9997 and chargeable to CGST @ 9% under SI.
+No. 35 of the Rate Notification
+The composite supply of works contract is not classifiable under
+Heading 9954, clause (i) to (if) or (xii) against S.No.3 These entries are
+specific to construction services and do not intend to take within its
+scope those contracts involving composite supplies of both goods and
+services. It is for this reason that the GST Act and the Rate Notification
+distinctly recognize pure services of construction vis-a-vis composite
+works contracts. Therefore, once it is apparent that the activities
+proposed to be performed by them qualifies as a ‘Works Contract’ and is
+not a contract for construction service simpliciter, clause (i) to (if) or (xii)
+against Sl.No. 3 of Heading 9954 are inapplicable.
+Further, since separate sale of Land and Construction agreements are
+entered, the transaction is not a “Construction of building intended for
+sale” and rather is a works contract of construction for the Customer
+Thus, in summary,
+
+" clauses(i) to (id) deals only with Construction and whereas the
+
+present case is one of the Works Contract and also the said
+
+clauses deal with Construction intended for sale whereas, the
+
+Page 9 of 25
+
+
+present transaction is a Construction for the Customer and
+consequently not applicable to the present case
+* For clauses (ie) and (if) deals with again mere Construction and
+also it deals with ongoing projects which has commenced before
+31.03.2019 and accordingly not applicable to the present case
+" For clauses (iii) to (ix) deals with specific works contract
+transaction which do not cover construction of the apartments
+accordingly not applicable to the present case
+* Clause (xii) deals with mere construction service and not a works
+contract service and consequently this clause also do not apply
+© The services proposed to be rendered to customers in respect of Phase
+IV and V qualifies as a composite supply of works contract service
+which is classifiable under Heading 9997 and chargeable to CGST @9%
+under SI. No. 35 of the Rate Notification since it is not covered in any
+of the clauses in S. No. 3 of the Rate Notification under 9954
+¢ Acknowledgement receipt of submission of application to Tamilnadu RERA
+¢ Director of town planning approval for Phase IV
+¢ Indenture of understanding entered with the customer
+¢ Agreement for sale of UDS entered with the customer
+e Construction agreement entered with the customer
+
+¢ Sale deed for the sale of the UDS entered with the customer
+
+4. The applicant is under the administrative control of the Central Jurisdiction.
+The central jurisdictional authority has submitted that there are no proceedings
+pending in the case of the applicant. They had offered the following remarks in
+respect of the issue raised by the applicant in their application.
+¢ As per SI.No.3 of Notification 11/2017 Central Tax (Rate) as amended
+“Construction Services” are classified under heading No.9954 and further
+divided into (i) (ia) (ib) (ic) (id) (ie) and (if) attracting different rates of GST
+depending upon the types of the projects. Further para 2 of the said
+notification explains how the valuation of the supplies under these categories
+is to be arrived at and as per which in case of supply of service specified in
+column (3) in item (i), (ia), (ib), (ic), (id), (ie) and (if) against S1.No.3 of the above
+notification, involving transfer of land or undivided share of land, as the case
+
+may be and the value of such transfer of land or undivided share of land, as
+
+Page 10 of 25
+
+
+
+the case may be in such supply shall be deemed to be one third of the total
+amount charged for such supply.
+
+e SI.No.35 of the aforementioned notification, under which the applicant sought
+to classify their services, covers the categories “Other services (washing,
+cleaning and dyeing services; beauty and physical well-being services; and
+other miscellaneous services including services nowhere else classified)
+attracting GST @9%.
+
+e As the supplies for which the applicant has sought advance ruling is squarely
+covered under SL.No.3 of the said notification under heading 9954 which is
+further subdivided into different categories attracting different rates of GST
+depending upon the types of projects, the plea of the applicant to classify their
+service under Heading 9997 under SI.No.35 may not be acceded to.
+
+Ds The State jurisdictional authority has not furnished any comments and it is
+construed that there are no proceedings pending on the issue raised by the
+
+applicant.
+
+6. We have carefully examined the statement of facts, supporting documents
+filed by the Applicant along with application, oral submissions made at the time of
+Virtual hearing, submissions subsequent to the hearing and the comments of the
+Jurisdictional Authority. The applicant is a real estate developer who has launched a
+senior-living gated community project called ‘Ashiana Shubham’ in Maraimalai
+Nagar Chennai by acquiring development rights from Escapade Real Estate Pvt Ltd
+(Landowner) back in 2014. The project is divided in the 5 phases. Phase I was
+completed in pre-GST regime, Phase II completed in GST regime, Phase III
+commenced prior to 01.04.2019 and is scheduled to be completed in 2022. Phase IV
+is scheduled to be launched soon and Phase V will be launched in future. It is stated
+that they have initiated the process of acquiring the necessary approvals from Tamil
+Nadu RERA, required for launching Phase IV and the applicant has furnished the
+acknowledgement receipt of submission of application to Tamilnadu RERA dated
+19.10.2020 and the Director of Town Planning’s approval for Phase IV. The
+applicant has sought ruling in respect of its future Phase IV and V of the project
+‘Ashiana Shubham’ on the following question:
+
+“Whether the activities of construction carried out by the applicant for its
+
+customer under the Construction Agreement, being composite supply of
+
+works contract are appropriately classifiable under Heading 9997 and
+
+Page 11 of 25
+
+
+chargeable to CGST @ 9% under S.No.35 of Notification No.11/2017- CT(Rate)
+dated 28.06.2017”.
+The ruling is sought on the classification and the applicable rate for the proposed
+supply and therefore the application is admissible under Section 97 of the GST Act,
+before this Authority.
+
+7.1 Theapplicant has stated that they propose to enter into a tripartite Indenture
+of Understanding (‘IOU’)) with the Land Owners & the prospective customers, wherein
+the customers will enter into an agreement for purchase of undivided share(UDS) in
+the land from the landowner & the applicant (in the capacity of holder of Power of
+Attorney) and a construction agreement with the applicant(Construction Agreement)
+subject to payment of 10% of the total consideration for owning a residential unit in
+the real estate project developed by them. Finally, a sale deed will be executed for the
+proportionate undivided share of land by the Landowner to the customer prior to
+handing over possession of the developed residential unit which will be registered on
+payment of appropriate stamp duty along with the construction agreement entered
+by the buyer with the applicant for construction of the Unit. The applicant has
+furnished the acknowledgement issued by TNRERA for their application under the
+RERA Act; letter of approval for Phase IV by the Town Planning authorities, sample
+copies of the proposed agreements and contracts (along with the application) and
+sample copy of the similar agreements entered with the customers for the earlier
+
+phases.
+
+ee) The letter of approval and the application for RREP in respect of Phase IV of
+the project is furnished before use to establish that they propose to undertake the
+said project and therefore, the ruling is restricted to Phase IV proposed to be
+launched by the applicant as no such documents are placed before us in respect of
+Phase V, which they had stated will be launched in future. On going through the
+proposed IOU, UDS agreement, Construction Agreement and sale deed, the following
+are seen:
+Agreement for sale:
+» The Land Owner, The Developer and Buyer/s are the parties to the agreement
+» Clause J- According to the prevailing laws in the State of Tamilnadu, any
+person desirous of owning a Unit in the Project is required to purchase
+undivided interest/share in the land and for the same purpose, such person
+requires to enter into an agreement for sale for purchase of un-divided share
+
+Page 12 of 25
+
+
+in land(UDS) along with a right to put up construction by entering into
+Construction Agreement with the Developer and the Land Owner
+
+Clause L- The Buyer herein is desirous of purchasing ____—_—of’ Undivided
+share in phase....land and the Land Owner and the Confirming Party has
+agreed to sell to the Buyer___ of undivided share in Phase__ Land more fully
+described in the Schedule B hereof free from all encumbrances so as to enable
+the Buyer to get a Unit Constructed as per the Scheme formulated by the
+Developer, subject to the terms and conditions herein contained;
+
+Clause O- Simultaneously with the execution of this Agreement, the Buyer is
+required to execute a Construction Agreement for construction of the Unit on
+the undivided share in Phase ____ Land. The terms and conditions set out
+therein would be read as part and parcel of this Agreement
+
+Article 1.1 Construction Agreement shall mean the agreement to be executed
+between the Buyer and The Land Owner and the Developer simultaneously
+with this Agreement relating to the construction of a corresponding Unit on
+undivided share in Phase___ land being part/ portion of the Phase___— Land
+wherein the project is being proposed and more particularly described in
+Schedule B......
+
+Article 2.2- The consideration shall be paid by the Buyer as and in the
+manner set out in Part II of Schedule C ; Part II of the Schedule “C” gives the
+
+following particulars:
+
+Particulars UDS ~| Const Cost | Amount in Rs.
+
+At the time of
+Booking
+
+Within 45 days of
+Booking
+
+Total Price
+
+Article 3.1- The time is the essence with respect to the Buyer’s obligation to
+pay the consideration as provided in Part II of Schedule C along with other
+payments and other charges stipulated under this agreement to be paid on or
+before due date or as and when demanded by the Developer as the case may
+be and also to perform or observe all other obligation of the Buyer under this
+Agreement
+
+Article 3.7- Cancellation/Termination of this Agreement for Sale of Undivided
+
+Share in the Phase land would automatically deem
+
+Page 13 of 25
+
+
+cancellation/Termination of Construction Agreement, to be entered into with
+the Developer and the Land Owner.......
+to seek specific performance of this agreement alone, as it would affect the
+
+The Buyer/s shall not have any right
+
+scheme of construction formulated by the Developer and on such on such
+
+cancellation/termination, the rights of the Buyer in this Agreement and/or
+
+the Construction Agreement shall vest with the Developer and/or the Land
+
+Owner..
+
+> Article 4.1 The Land Owner and the Developer agree to execute this
+
+Agreement along with Construction Agreement with Buyer and Buyer is
+
+obliged to register both the agreements with the sub-registrar office as and
+
+when called upon by the Land Owner and/or the Developer to do so and shall
+
+be solely ..........
+
+> Article 4.7 - Upon complete compliance of all the terms and conditions of this
+Agreement including Construction Agreement, the Developer shall duly hand
+over physical and vacant possession of the Unit to the Buyer/s by way of
+separate letter of handing over of possession
+
+> Article6.2- The Buyer/s shall simultaneously enter into a Construction
+Agreement with the Land Owner and the Conforming Party along with this
+Agreement for sale executed by the Conforming Party and the Land Owner.
+The Buyer shall have no right to enter into construction agreement with any
+person other than the Conforming Party
+
+Construction Agreement:
+
+» The Developer and the Buyer are parties to the Agreement
+
+> Clause K - The Developer have informed the Buyer that according to the
+market practice in Chennai, Tamilnadu and as per the prevailing laws in the
+State of Tamilnadu any person desirous of owning a Unit in the Project is
+required to enter into an agreement for un-divided share in land (UDS) with
+the Land Owner and enter a Construction Agreement separately with the
+Developer for construction of the Unit. Further the Buyer are also required to
+execute and get Construction Agreement and Sale Deed for Proportionate
+undivided share in land registered as and when called upon by the Developer
+and/or Land owner to do so
+
+7 Article 1.18- “Project” shall mean housing project known as * ” to be
+developed on the phase_ land comprising of all the Units/flats, Parking
+facility, etc constructed/to be constructed in several buildings on the Phase_
+Land
+
+Page 14 of 25
+
+
+» Article 1.19 “The Building Plan” shall mean the plans and designs of buildings
+constructed/to be constructed on the Project Land which has been duly
+approved/to be approved by the authority including any variations therein
+which may subsequently be made by the Developer and/or Architects
+
+y Article 1.21 “Unit” shall mean the flat to be constructed.....
+interest free management deposit to be determined or fixed by the Developer
+
+» Article 2.1 The Developer shall develop and construct Project comprising of
+several Units, parking facilities and other common facilities in accordance
+with the master plan/layout plan/map/drawings sanctioned by the
+Competent Authority(ies) under the name and style of ____
+
+» Article 10.1 The Developer has nominated and/or appointed as
+the Management Agency for operation, maintenance and management of the
+common areas and for providing common and essential services in
+
+and for organizing activities for the residents in
+
+> Article 10.4 For the purpose as detailed in Para 10.1 and 10.3 above, the
+Buyer agrees to enter into a separate operation and management agreement
+with the Developer or it assignee which would clearly spell out scope and
+schedule of management works, operation of the services and charges for
+operation and management and charges towards capital repairs and
+replacements etc
+
+>» Article 11.1 The Buyer agrees to pay, at the time of possession, a reducible
+
+from time to time, to the Developer or its assignee
+> Article 13.1 The Buyer agrees to become a member of the Owners’
+Association (as and when formed) and abide by the rules of the Association. If
+the Developer and/or the Land Owner decide not to form a new association
+for _____ under such circumstances the Buyer shall become member of the
+existing “ ”, In this regard the decision of the developer shall be final
+and binding. The Buyer agrees to pay any fees, subscription charges etc for
+membership of the association and to complete such documentation and
+formalities as may be required and deemed necessary by the Developer for
+this purpose
+Indenture of Understanding
+>» The Developer, Confirming Party and the Buyer are parties to the agreement
+» Clause M The Developer has informed the Buyer that according to the market
+practice in Chennai, Tamilnadu and as per the prevailing laws in the State of
+
+Tamilnadu any person desirous of owning a Unit in the Project is required to
+
+Page 15 of 25
+
+
+enter into an Agreement for un-divided share in land (UDS) and a
+Construction Agreement separately with the Developer and/or Confirming
+party simultaneously with this IOU. Further the Buyer are also required to
+execute and get Construction Agreement and Sale Deed for Proportionate
+undivided share in land registered as and when called upon by the Developer
+and/or Land owner to do so
+Sale Deed:
+
+~ Executed by the Land Owner and Developer/Confirming Party in favour of the
+Buyer
+
+~ Article 1.4 - “Undivided Share in Land(UDS)” shall mean the proportionate
+undivided share in___ land more particularly described in Schedule”_” as
+annexed herewith
+
+~ Article 1.5 - “Project” shall mean a theme based Senior Living Project being
+
+developed in Land comprising of several Units, Parking facility, etc to
+
+be developed in a phased manner under the name and style of “__”
+
+» Article 1.6 Construction Agreement shall mean the registered agreement
+executed between the Buyers, the Developer and the Land Owner herein
+which relating to the construction of a corresponding Unit on undivided
+
+~ Part Il ( e) —- Both the Developer/Confirming Party and the Land Owner herein
+obtained Planing Permit from the Commissioner, , vide its
+
+bearing of the Project Land for development of a group
+housing project
+
+~ Part Il (l) Whereas the Buyer have entered into a Construction Agreement with
+the Confirming Party to construct the unit for the Buyer and the said
+Construction Agreement is executed on __ duly registered the same on
+
+vide Doc. No. in the office
+
+7.3 From the above, it is seen that the applicant is a developer of Residential Real
+Estate Project for which he has sought the necessary approvals with the relevant
+authorities. The applicant as a POA of the Land Owner, along with the Land Owner
+enters into ‘Agreement for Sale’ and ‘Indenture of Understanding” with the
+prospective buyer of a Unit of the developed Project and enters into a ‘Construction
+Agreement’ with such buyer exclusively. By the clauses of the Construction
+agreement, it is evident that the prospective buyer does not have a choice to enter
+
+into a construction agreement with anyone other than the applicant, i.e., the
+
+Page 16 of 25
+
+
+
+developer of the project, who undertakes the Construction of the ‘Units’ and the
+infrastructure proposed for the project. Thus, it is clear and evident on all fours that
+the activity of the applicant is construction of a Residential Real Estate Project with
+the infrastructure as approved by the Tamilnadu RERA and the District Town
+Planning authorities. The applicant enters into construction agreement with the
+buyers for their ‘Units’ in the proposed project along with the agreement for sale and
+IOU. Thus, the Construction agreement entered into by the applicant with the
+prospective buyer is not a stand-alone agreement under which the applicant makes
+the supply to the customer. The various clauses of the different agreements entered
+into with the prospective buyer of a ‘Unit’, mentioned supra establishes that the
+applicant constructs the Residential Real Estate Project(RREP); they enter into a
+construction agreement of a ‘Unit’ of the said project with the prospective buyer of
+the said unit along with the agreement for sale, i.e., the construction agreement has
+been entered into for the ‘Unit’ with the agreement to sell the same and therefore,
+there is no merit in the claim of the applicant that the construction of the ‘Unit’
+undertaken by them is not ‘intended for sale’. Having established that the
+construction of the ‘Unit’ as per the agreements entered into by the applicant with
+the prospective customer, is to construct the ‘unit’, which is a part of the RREP
+developed by them and the construction is undertaken for ‘intended sale’ before the
+
+issue of completion certificate, the activity is a supply taxable under ‘GST.
+
+8.1 This being the fact, the contentions of the applicant that the activity
+proposed to be undertaken by them under the ‘Construction agreement’ entered in
+respect of the ‘Unit’ of the prospective buyer constitute a composite supply of works
+contract are taken up for consideration. They submit that the said activity will
+involve transfer of property in goods such as cement, steel, mortar etc to the
+customer and that the residential unit would qualify as an immovable property
+without doubt. Thus, they contend that the activity of works contract is by nature a
+composite supply involving both goods and service which is a sine qua non for a
+works contract and hence the subject activity is not a contract for services
+simpliciter. Further they submit that the subject activity would not fall under any of
+the description of the entry Sl. No. 3 corresponding to the Heading 9954 of the
+Notification no.11/2017-Central Tax (Rate) dt. 28.06.2017 and therefore would merit
+classification under the residuary entry, Heading 9997 and will be chargeable to
+CGST @9% under SI.No.35 of the said Notification.
+
+Page 17 of 25
+
+
+8.2 It is clear that the applicant is the developer of the project and is
+undertaking the construction of ‘Group Housing Project’ approved as ‘Residential
+Real Estate Project’. As per the market practice in Chennai, Tamilnadu, the
+applicant enters into an ‘agreement for Sale’; ‘Construction Agreement’; ‘Indenture of
+Understanding’ and ‘Sale Deed’ with the buyer of ‘Unit’ of the Project. When a
+supply made by the provider to the receiver is based on more than one agreement, all
+such agreements are to be considered in a wholesome way to understand the
+intention of the supply made to the receiver and each agreement cannot be lineated
+and considered, as handed down by various Juris prudence. As stated by the
+applicant, in the case at hand, the Modus proposed to be followed is to enter into an
+agreement for sale and a construction agreement, both covered under an IOU all
+executed simultaneously, followed by registration of ‘sale deed’ executed for the UDS
+and ‘construction agreement’ for construction of the Unit’. The contention of the
+applicant is that
+~ they are providing ‘Composite supply of Works Contract’ which is a ‘composite
+supply treated as service’ under GST as per Para 6(a) of Schedule-II of the Act
+and not a ‘construction Simpliciter’ to the ‘Unit’ buyer
+~ Para 5(b) of Schedule II to the Act treats construction of complex as a supply
+of services while Para 6 refers to composite supplies and treats the same as
+supply of service, which establishes that the scope of Para 5 does not extend
+to cover composite supplies, i.e., any composite supply is not covered under
+Para 5 of Schedule II and
+~ the description of services against sl.no. 3 of Notification No. 11/2017-
+C.T.(Rate) as amended by Notification no. 3/2019, which describes the
+services covered under SAC 9954, does not cover the activity undertaken by
+them and therefore the services are classifiable under SAC 9997 and the
+applicable rate of tax is as per Sl. No. 35 of the Notfn ibid.
+
+8.3 The relevant statutory provisions are examined as under:
+Section 2(119) of the GST Act 2017 defines ‘Works Contract’ as
+
+“works contract” means a contract for building, construction, fabrication,
+completion, erection, installation, fitting out, improvement, modification,
+repair, maintenance, renovation, alteration or commissioning of any
+immovable property wherein transfer of property in goods (whether as goods
+or in some other form) is involved in the execution of such contract;”
+Composite Supply is defined under Section 2(30) of the GST Act as follows:
+
+(30) “composite supply” means a supply made by a taxable person to a recipient
+consisting of two or more taxable supplies of goods or services or both, or any
+
+Page 18 of 25
+
+
+
+combination thereof, which are naturally bundled and supplied in conjunction with
+each other in the ordinary course of business, one of which is a principal supply;
+Illustration.— Where goods are packed and transported with insurance, the supply
+of goods, packing materials, transport and insurance is a composite supply and
+
+supply of goods is a principal supply;
+
+As per Schedule II to the Act, which provides whether the supply is to be treated as a
+‘Supply of Goods’ or ‘Supply of Service’, under
+Para 5(b) states as follows:
+
+5. Supply of services
+The following shall be treated as supply of services, namely:—
+(b) construction of a complex, building, civil structure or a part thereof, including a
+complex or building intended for sale to a buyer, wholly or partly, except where the
+entire consideration has been received after issuance of completion certificate,
+where required, by the competent authority or after its first occupation, whichever is
+earlier.
+
+Para 6(a) states as follows :
+
+6. Composite supply
+The following composite supplies shall be treated as a supply of services, namely:-
+(a) works contract as defined in clause (119) of section 2
+
+From the above, Construction including a complex or building intended for sale to a
+buyer wholly or partly where the entire consideration is not received by the service
+provider after issuance of completion certificate for such building is stated as a
+supply of service as per Para 5(b) above.; Composite supply which involves supply
+consisting of two or more taxable supplies of goods or services or both or any
+combination thereof which are naturally bundled and when such supply is a ‘Works
+contract’ as defined in clause (119) of Section 2, it is to be treated as ‘Supply of
+
+Service’ as per Para 6 (a) above
+
+8.4 The applicant relying on the decisions of the Hon’ble Supreme Court based on
+the taxation provisions that existed in the Pre-GST Era, has contended that any
+building contract is a works contract as held by the Courts and claim that the
+supply made by them to the ‘Unit’ buyer is a ‘Composite Supply of Works Contract’
+as identified at Para 6(a) of Schedule-II and that Para 5 of Schedule -II does not cover
+Composite supplies. It is pertinent to note that the 46" amendment to the
+Constitution, which introduced 366(29A), created a legal fiction by which a contract
+was divisible into one for sale of goods and it was possible for the States to levy Sales
+Tax on the value of goods involved in a works contract. In the GST Law in order to
+
+avoid disputes, certain supplies were designated as supply either of goods or of
+
+Page 19 of 25
+
+
+service in Schedule-II of the Act, which initially included ‘Works Contract’ and
+‘Supply of food...’ . To avoid any legal challenge, works contract and restaurant
+which were treated as deemed sale of goods under Article 366(29A) of the
+Constitution, were decided to be considered as composite supply on which all
+provisions relating to services shall apply. This is clear from the following trail of
+decisions in the GST Council Meetings.
+
+Minutes of the 5" GST Council Meeting, extracted below:
+
+Section 3 (2) (Meaning and scope of supply): The Hon'ble Minister from West
+Bengal suggested that under Article 366 (29A) of the Constitution, works
+contract and restaurant were treated as deemed sale of goods whereas in the
+Draft Model GST Law, they were treated as supply of services as per paragraph
+5 (f) and 5 (h) in Schedule I. He observed that this could lead to legal challenge.
+Commissioner (GST Policy Wing), CBEC clarified that this issue had been
+referred to the Union Law Ministry for clarification and if they suggested to keep
+these two categories of supply as that of goods, entry in Schedule II could be
+modified accordingly. Joint Commissioner, Commercial Taxes, West Bengal
+suggested that in order to avoid any legal challenge, these two categories of
+supply could be considered as composite supply on which all provisions relating
+to services shall apply. The Council agreed to this suggestion
+
+Minutes of the 7'» GST Council Meeting, extracted below:
+xxxvi.  Sehedule Il (Matters to be treated as supply ef goods or services): The
+Secretary to the Council explained that in order to avoid dispute, in this
+Schedule, certain supplies were designated as supply either of good or supply
+
+of service. The CCT Gujarat pointed out that in the 5" Council meeting held on
+2-3 December 2016, it was decided that supplies of works contract (Clause 5(f)
+of Schedule-IT) and restaurant (Clause 5 (h) of Schedule-II) shall be treated as
+composite supply on which all provisions relating to services shall apply. He
+therefore suggested to revisit the need for Clauses 5(f) and 5(h) of Schedule II.
+The Council agreed to the suggestion and approved the rest of the Schedule.
+
+Minutes of the 10 GST Council Meeting, extracted below:
+(tu) To amend Section 3(2)(b) of the Model GST Law by adding a new Clause 6 in
+
+Schedule II (as indicated below in underlined portion in italics) and to delete the
+existing sub-clauses 5(f) and 5(h) of Schedule II of the Model GST Law:
+
+6. The fOllowing composite supplies shall be treated as a supply of services-
+
+(a) works contract including transfer of property in goods (whether as goods or
+in some other form) involved in the execution of a works contract; and
+
+(b) supply, by way of or as part of any service or in any other manner
+whatsoever, of goods, being food or any other article for human consumption or
+
+Page 20 of 25
+
+
+any drink (other than alcoholic liquor (or human consumption), where such
+
+supply or service is for cash. deferred payment or other valuable consideration.
+From the above, it may be seen that ‘Works Contracts’ were subjected to Sales Tax
+on the Value of Goods involved in the works and on the labour and Service portion of
+the same contract, service tax was levied in the Pre-GST Era. These very contracts
+are treated as supply of service in the GST Era. Going by the extracts of the Minutes
+of the council meetings above, it is evident that the carve out of Para 6 of Schedule II
+to the Act was only to avoid any legal challenge in view of the same types of contracts
+considered for taxation under the provisions of Laws under PRE-GST and under
+GST. This, in no way can be said to establish that Para 5 does not extend to cover
+composite supplies as claimed by the applicant and this contention holds no merit.
+For these reasons, the decisions relied upon by the applicant do not have relevance
+
+to the proceedings in hand.
+
+8.5 In the case at hand, the applicant supplies the prospective buyer, the
+construction service of the Unit’ intended for purchase by the buyer in the RREP
+being developed/ constructed by the applicant and the contract, i.e., the
+construction agreement is entered into for construction of the said ‘Unit’ of the
+project developed by them. Undoubtedly, construction involves goods such as
+cement, steel, mortar etc as stated by the applicant and for this very reason,
+‘Construction of a complex or building or a part...’ is specifically mentioned to be
+treated as ‘Supply of Service’ under Para 5 (b) of the Schedule-II of the ACT. Thus,
+in the facts of the case, the applicant being a Promoter of the approved RREP, the
+construction of a ‘Unit’ in the said RREP is an activity of Construction of part of the
+
+building with the intention for sale.
+
+8.6 Coming to the classification of the service, the Scheme of Classification of
+Services under GST is as per the Annexure to Notification No. 11/2017-C.T.(Rate)
+and the applicable rates of GST are provided in the Table’ of the Notification No.
+11/2017-C.T.(Rate) which is based on the description of service given in Column (3)
+corresponding to the Heading specified in Column (2) of the Table of Notification No.
+11/2017-C.T.(Rate) dated 28.06.2017 as amended. ‘Works contract’ is not defined
+as a separate service in the Annexure to the Notification No. 11/2017-C.T.(Rate) but
+the service descriptions at Column (3) mentions ‘Composite supply of Works
+Contract’ in many of the entries. The classification of service may be Construction,
+
+erection, commissioning, etc of the immovable property and the contract for
+
+Page 21 of 25
+
+
+execution may be a works contract, in which, while providing the service, there is a
+
+transfer of property in goods. The mode of supply does not determine the
+
+classification of Service. Classification of Service is to be done based on the Scheme
+of Classification and we find no reason to agree to the contention of the applicant
+
+that the service provided by them is not classifiable under SAC 9954. Heading 9954
+covers all construction services and the same is as follows:
+
+Annexure: Scheme of Classification of Services
+
+Chapter, ea 5
+‘ Section. mytinge ‘
+S.No. Headi Code Service Description
+leading or (Tariff)
+Group
+at) 42) __G) {4)
+L Chapter 99 All Services
+| 2 | Section § Construction Services a
+3 Heading 9954 Construction services
+4 Group 99541 Construction services of buildings
+6 995411 Construction services of single dwelling or multi dwelling or multi-
+2 = Storied residential buildings
+6 993412 Construction services of other residential buildings such as old age
+severe homes. homeless shelters, hostels and the like =
+
+The applicant contends that their activity is classifiable under SAC 9997, which is
+
+falling under Section 9 which constitutes activities relating to community, social and
+
+personal services and other miscellaneous services. SAC 9997 is as follows:
+
+559 | Seeti Community, social and personal services and other miscellaneous
+3: Section 9 s
+services
+700_| Heading 9997_| | Other services |
+716_| Group 99979 Other miscellaneous services
+7 999791 | Services involving commercial use or exploitation of any event
+TIS 999792 _| Agreeig to do an act
+719 999793 _| Agreeing to refrain from doing an act
+720 999794 | Agreeing to tolerate an act
+721 999795 | Conduct of religious ceremonies or rituals by persons
+7)
+
+999799 _ | Other services nowhere else classified
+
+From the above, it can be seen that Heading 9954 under Section 5 of the scheme of
+classification covers ‘Construction Services’ and is a specific entry. Heading 9997
+under Section 9 of the Scheme of classification covers ‘Other services-Other
+Miscellaneous service’ and in that Section, SAC 999799- other services nowhere else
+
+classified would naturally hold services in relation to the main heading which is
+
+community, Social or personal services. In the case at hand, the applicant develops
+
+RREP along with all the infra structures and constructs the ‘Units’ of the RREP, i.e.,
+construction of single /multiple dwelling unit and as such it clearly falls under
+construction services and the contention of the applicant to classify the same under
+9997 is thus not entertainable and not tenable under law. Further it may be noted
+
+that even when a service is capable of differential treatment for any purpose based
+
+Page 22 of 25
+
+
+
+on its description, the most specific description shall be preferred over a more
+general description. In the case at hand, the most specific description being
+construction services, the subject activity falls under the SAC 9954 and therefore,
+the classification of service is ‘Construction Service’ only, for the purpose of
+Notification No. 11/2017-C.T.(Rate) dated 28.06.2017 as amended.
+
+8.7 In view of the above, we hold that, the supply of service of construction of a
+‘Unit’ in the RREP- Phase IV, based on the ‘Construction agreement’ entered into by
+the applicant, engaged in the Development of the said RREP, with the prospective
+buyer intended for sale to the buyer, is a ‘ Supply of Construction service’ and the
+classification of the service as per the ‘Scheme of Classification of Service’ is
+‘Construction Service under SAC 9954’ and it will not be classified under SAC 9997
+as claimed by the applicant.
+
+9.1 The rate of tax applicable for the SAC 9954 is given under SI.No.3 (ji), (ia),
+(ib), (ic), (id), (ie), (if), (iii), (iv), (v), (va), (vi), (vii), (viii), Gx), (x),(xi) and (xii) of Notification
+No. 11/2017-C.T. Rate dated 28.06.2017 as amended by Notfn No. 03/2019 dated
+29'" March 2019. We find the applicant has stated to have considered the entries
+and concluded that their supply is not covered under 3(i) to 3(if} or 3(xii) as the
+supply made by them to the intended buyer is a composite supply of works contract
+and not a construction simpliciter and the other entries which provides for
+‘Composite supply of works contract’ do not apply to them.
+
+9.2 It has been established in Para 8 above, that the activity of the applicant based
+on the proposed ‘Construction agreement’ entered into with the prospective buyer of
+the ‘Unit’ of the proposed RREP developed by them is a Construction service of
+residential apartment in the said RREP. The applicant in their submissions, has
+further stated that the apartments being proposed to be constructed by them in the
+project do not satisfy the conditions stipulated to fall under ‘affordable residential
+apartments’ and therefore are ‘other than affordable residential units’. It is seen that
+the rates are prescribed based on the description of the activity under Column (3) of
+the Notification. Effective 01.04.2019, for the Construction of residential apartments
+other than affordable residential apartments by a promoter in an RREP, intended for
+sale to a buyer, wholly or partly, except where the entire consideration has been
+received after issuance of completion certificate where required, is provided under
+
+SI.No, 3{ia) of the said Notification. The notification says that the term
+
+Page 23 of 25
+
+
+
+“promoter” shall have the same meaning as assigned to it in clause (zk) of
+section 2 of the Real Estate (Regulation and Development) Act, 2016 (16 of
+2016);
+
+‘Promoter’ is defined under clause (zk) of section 2 of the Real Estate (Regulation and
+Development) Act, 2016 (16 of 2016) as
+
+(zk) “promoter” means,—
+
+(i) a person who constructs or causes to be constructed an independent building
+or a building consisting of apartments, or converts an existing building or a part
+thereof into apartments, for the purpose of selling all or some of the apartments
+to other persons and includes his assignees; or
+
+(ii) a person who develops land into a project, whether or not the person also
+constructs structures on any of the plots, for the purpose of selling to other
+persons all or some of the plots in the said project, whether with or without
+Structures thereon; or
+
+(iti) any development authority or any other public body in respect of allottees
+of—
+
+(iv) an apex State level co-operative housing finance; or
+
+(v) any other person who acts himself as a builder, coloniser, contractor,
+developer, estate developer or by any other name or claims to be acting as the
+holder of a power of attorney from the owner of the land on which the building
+or apartment is constructed or plot is developed for sale; or
+(vi) such other person who constructs any building or apartment for sale to the
+general public.
+Explanation.—For the purposes of this clause, where the person who constructs
+or converts a building into apartments or develops a plot for sale and the person
+who sells apartments or plots are different person, both of them shall be
+deemed to be the promoters and shall be Jointly liable as such for the functions
+and responsibilities specified under this Act or the rules and regulations made
+thereunder;
+
+The applicant has stated that he is the developer of the proposed RREP and as per
+
+the above definition, the applicant is Promoter’ for the purposes of the said
+‘Notification’.
+
+9.3 The applicant has stated that the ruling is sought for the project which is yet
+
+to be commenced. Therefore, we hold that the rate for construction of ‘Other than
+
+Page 24 of 25
+
+
+
+affordable residential apartments’, i.e., Unit’ in the Proposed RREP - Ashiana
+Shubam ~ Phase IV’, by the applicant, ‘promoter’ of the RREP, is as specified under
+
+S1.No. 3(ia) which is 3.75% CGST and 3.75% SGST and the applicant has to Satisfy
+
+the conditions stipulated in column (S) of the said entry.
+
+10.
+
+In view of the foregoing, we Rule as under:
+
+RULING
+The Proposed Modus operandi for construction of Unit’ which is ‘other
+than affordable residential apartments’ by the applicant in the RREP
+promoted by them, namely, ‘Ashiana Shubam —Phase IV’ in Maraimalai
+Nagar Chennai is classifiable under SAC 9954 as
+
+‘Construction Service’
+and the applicable rate of tax is CGST @
+
+3.75% and SGST @ 3.75% as per
+Entry Sl.No. 3(ia) of the Notification 11/2017-Central Tax (Rate)
+-2017 as amended.
+
+year
+
+Shri Kurinji Selvaan
+(Member SGST)
+
+. ry FOR
+UTHORITY
+ADVANCE RULING
+
+28 APR 2021
+
+(Member CGST)
+
+RVICE TAX
+Goons AND aes
+
+E_chennare ig
+Chennare,
+
+To
+
+Ashiana Housing Limited
+First Floor, Door No, 10, GJ Complex,
+First Main Road, CIT Nagar, Chennai 600 035
+
+//By RPAD/ By e-mail: tax_varun@ ashianahousing.com/ /
+Copy Submitted to:
+1. The Principal Chief Commissioner
+
+of GST & Central Excise,
+26/1, Mahatma Gandhi Road, Nungambakkam, Chennai-600034.
+
+2. The Additional Chief Secretary/Commissioner of Commercial Taxes,
+
+Il Floor, Ezhilagam, Chepauk, Chennai-600 005.
+Copy to:
+
+3. The Commissioner of GST
+Commissionarate,Chennai-600 035.
+4. The Assistant Commissioner (ST),Nandanam Assessment circle,
+
+66, Pasumpon Muthuramalingam Salai, Taluk Office Building, 4% floor,
+RA Puram, Chennai 600 028
+
+&Central Excise, Chennai South
+
+5. Master File/ Spare-2
+
+Page 25 of 25

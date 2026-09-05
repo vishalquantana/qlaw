@@ -13,6 +13,11 @@ export default function Home() {
   const [from, setFrom] = useState("");
   const [to, setTo] = useState("");
   const [hasText, setHasText] = useState(false);
+  const [mode, setMode] = useState("keyword"); // keyword | semantic
+  const [askOpen, setAskOpen] = useState(false);
+  const [question, setQuestion] = useState("");
+  const [asking, setAsking] = useState(false);
+  const [askResult, setAskResult] = useState(null);
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
@@ -26,6 +31,24 @@ export default function Home() {
       setError(null);
       try {
         const p = new URLSearchParams();
+        if (mode === "semantic") {
+          if (!q) throw new Error("enter a query");
+          p.set("q", q);
+          const res = await fetch(`/api/semantic?${p}`);
+          const j = await res.json();
+          if (!j.ok) throw new Error(j.error);
+          setData({
+            total: j.total, rows: j.rows.map((r) => ({
+              id: r.ruling?.id, applicant: r.ruling?.applicant, state: r.ruling?.state,
+              order_no: r.ruling?.order_no, order_date: r.ruling?.order_date,
+              category: r.ruling?.category, brief: r.chunk_excerpt,
+              pdf_url: r.ruling?.pdf_url, txt_file: r.ruling?.txt_file,
+              sim: r.score,
+            })), states: j.states || [], stats: null, semantic: true,
+          });
+          setOffset(0);
+          return;
+        }
         if (q) p.set("q", q);
         if (state) p.set("state", state);
         if (from) p.set("from", from);
@@ -43,8 +66,27 @@ export default function Home() {
         setLoading(false);
       }
     },
-    [q, state, from, to, hasText]
+    [q, state, from, to, hasText, mode]
   );
+
+  const ask = useCallback(async () => {
+    if (!question.trim()) return;
+    setAsking(true);
+    setAskResult(null);
+    try {
+      const res = await fetch("/api/ask", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ question }),
+      });
+      const j = await res.json();
+      setAskResult(j.ok ? j : { error: j.error });
+    } catch (e) {
+      setAskResult({ error: String(e) });
+    } finally {
+      setAsking(false);
+    }
+  }, [question]);
 
   useEffect(() => {
     if (firstLoad.current) {
@@ -87,6 +129,16 @@ export default function Home() {
             </button>
           </div>
           <div style={{ display: "flex", gap: 8, marginTop: 10, flexWrap: "wrap", alignItems: "center" }}>
+            <div style={{ display: "flex", border: `1px solid ${DARK.border}`, borderRadius: 8, overflow: "hidden" }}>
+              {["keyword", "semantic"].map((m) => (
+                <button key={m} onClick={() => setMode(m)}
+                  style={{ background: mode === m ? DARK.accent : DARK.card2, color: mode === m ? "#fff" : DARK.muted, border: "none", padding: "7px 14px", fontSize: 12.5, cursor: "pointer", fontWeight: mode === m ? 600 : 400 }}>
+                  {m === "keyword" ? "BM25 keyword" : "semantic (vectors)"}
+                </button>
+              ))}
+            </div>
+            {mode === "keyword" && (
+              <>
             <select value={state} onChange={(e) => { setState(e.target.value); }} style={filterStyle(DARK)}>
               <option value="">All states</option>
               {states.map((s) => <option key={s} value={s}>{s}</option>)}
@@ -98,13 +150,47 @@ export default function Home() {
               <input type="checkbox" checked={hasText} onChange={(e) => setHasText(e.target.checked)} />
               full text only
             </label>
+              </>
+            )}
             {(q || state || from || to || hasText) && (
               <button onClick={() => { setQ(""); setState(""); setFrom(""); setTo(""); setHasText(false); }}
                 style={{ background: "none", border: "none", color: DARK.muted, fontSize: 12.5, cursor: "pointer", textDecoration: "underline" }}>
                 reset
               </button>
             )}
+            <button onClick={() => setAskOpen(!askOpen)}
+              style={{ marginLeft: "auto", background: askOpen ? DARK.accent : DARK.card2, border: `1px solid ${DARK.border}`, borderRadius: 8, padding: "7px 14px", color: askOpen ? "#fff" : DARK.text, fontSize: 12.5, cursor: "pointer", fontWeight: 600 }}>
+              ✦ Ask (RAG)
+            </button>
           </div>
+          {askOpen && (
+            <div style={{ marginTop: 10, background: DARK.card2, border: `1px solid ${DARK.border}`, borderRadius: 8, padding: 12 }}>
+              <div style={{ display: "flex", gap: 8 }}>
+                <input value={question} onChange={(e) => setQuestion(e.target.value)}
+                  onKeyDown={(e) => e.key === "Enter" && ask()}
+                  placeholder="Ask a question — e.g. what did rulings say about e-invoicing for education services?"
+                  style={{ flex: 1, background: DARK.bg, border: `1px solid ${DARK.border}`, borderRadius: 8, padding: "9px 12px", color: DARK.text, fontSize: 13.5, outline: "none" }} />
+                <button onClick={ask} disabled={asking}
+                  style={{ background: DARK.accent, color: "#fff", border: "none", borderRadius: 8, padding: "9px 18px", fontSize: 13, fontWeight: 600, cursor: "pointer" }}>
+                  {asking ? "thinking…" : "Ask"}
+                </button>
+              </div>
+              {askResult?.error && <p style={{ color: "#f56d6d", fontSize: 13, marginTop: 8 }}>{askResult.error}</p>}
+              {askResult?.answer && (
+                <div style={{ marginTop: 10 }}>
+                  <div style={{ fontSize: 13.5, lineHeight: 1.65, whiteSpace: "pre-wrap" }}>{askResult.answer}</div>
+                  <p style={{ color: DARK.muted, fontSize: 12, margin: "10px 0 4px" }}>Sources:</p>
+                  {askResult.sources.map((s) => (
+                    <div key={s.id} style={{ fontSize: 12.5, marginBottom: 4 }}>
+                      <a href={s.pdf_url} target="_blank" rel="noreferrer" style={{ color: DARK.accent, textDecoration: "none" }}>
+                        {s.applicant} — {s.state} — {s.order_no} ({s.order_date}) ↗
+                      </a>
+                    </div>
+                  ))}
+                </div>
+              )}
+            </div>
+          )}
         </div>
 
         {error && <p style={{ color: "#f56d6d", marginTop: 12 }}>Error: {error}</p>}
@@ -113,7 +199,7 @@ export default function Home() {
           <>
             <p style={{ color: DARK.muted, fontSize: 13, margin: "14px 0 8px" }}>
               {data.total.toLocaleString()} result{data.total === 1 ? "" : "s"}
-              {q ? " · ranked by BM25 relevance" : " · newest first"}
+              {q ? (data.semantic ? " · ranked by vector similarity (cosine)" : " · ranked by BM25 relevance") : " · newest first"}
             </p>
             <div style={{ display: "grid", gap: 10 }}>
               {data.rows.map((r) => (

@@ -1,674 +1,508 @@
-Page 1 of 11 
- 
-GUJARAT AUTHORITY FOR ADVANCE RULING, 
-GOODS AND SERVICES TAX, 
-A/5, RAJYA KAR BHAVAN, ASHRAM ROAD,  
-AHMEDABAD – 380009. 
- 
- 
-ADVANCE RULING NO. GUJ/GAAR/R/2022/09 
-(In Application No. Advance Ruling/SGST&CGST/2021/AR/47) 
-Dated: 07.03.22  
-Name and address of the applicant 
-: M/s. Intellecon Pvt. Ltd., 
-B-20, GIDC Electronics Estate,  
-Sector 25, Gandhinagar,Gujarat-3802024 
-GSTIN of the applicant 
-: 24AAACI4324C1Z9 
-Date of application 
-: 16/12/2021 
-Clause(s) of Section 97(2) of 
-CGST / GGST Act, 2017, under 
-which the question(s) raised.  
-: (b) 
-Date of Personal Hearing 
-: 18/02/2022 
-Present for the applicant 
-: Ms. Ruchita Shah, CA 
- 
- 
-Brief Facts 
- 
- 
-M/s. Intellicon Private Limited, hereinafter referred to as Intellicon for the sake of 
-brevity, submits that it supplies EPABX system along with its installation and 
-commissioning. Installation of a complete EPABX system inter alia requires other 
-equipments along with lying of cables through the wall/duct/conduit/ceiling at the 
-premises of the customers on the basis of their requirement.  
-2. 
-Intellicon submits that EPABX system stands for Electronic Private Automatic 
-Branch Exchange which is a private telephone network used by the organizations for 
-various types of communication, either between the employees or with the outside 
-clients. The EPABX works like an exchange that sends, receives and forwards calls from 
-the organization to the outside world. It also helps the staff to communicate among them 
-free of cost.    
-3.Intellicon submitted that for the purpose of installation and commissioning of a fully 
-functional EPABX system, the EPABX machine is configured and connected to the 
-exchange lines of the Telephone Exchange through cables. A main distribution frame is 
-connected to the EPABX machine through wires/cables. The main distribution frame is 
-terminating point for all the extension lines which are laid through wall, duct, and conduit 
-to connect to the telephones, as per the requirement of the organizations. EPABX 
-machine, main distribution frame, switches, telephones, various cards along with cables 
-laid through wall/conduit/duct (to connect the EPABX machine to main distribution 
-frame and subsequently, to various telephones) are cohesively treated as a fully 
-functional EPABX system.  
+GUJARAT AUTHORITY FOR ADVANCE RULING,
+GOODS AND SERVICES TAX,
+A/5, RAJYA KAR BHAVAN, ASHRAM ROAD,
+AHMEDABAD - 380009.
+NATION
+TAX
+MARKET
+ADVANCE RULING NO. GUJ/GAAR/R/2022/09
+(In Application No. Advance Ruling/SGST&CGST/2021/AR/47)
+Dated: 07.03.22
+Name and address of the applicant
+:M/s. Intellecon Pvt. Ltd.,
+B-20, GIDC Electronics Estate,
+Sector 25, Gandhinagar, Gujarat-3802024
+GSTIN of the applicant
+24AAACI4324C1Z9
+Date of application
+16/12/2021
+Clause(s) of Section 97(2) of : (b)
+CGST / GGST Act, 2017, under
+which the question(s) raised.
+Date of Personal Hearing
+Present for the applicant
+18/02/2022
+Ms. Ruchita Shah, CA
+Brief Facts
+M/s. Intellicon Private Limited, hereinafter referred to as Intellicon for the sake of
+brevity, submits that it supplies EPABX system along with its installation and
+commissioning. Installation of a complete EPABX system inter alia requires other
+equipments along with lying of cables through the wall/duct/conduit/ceiling at the
+premises of the customers on the basis of their requirement.
+2.
+Intellicon submits that EPABX system stands for Electronic Private Automatic
+Branch Exchange which is a private telephone network used by the organizations for
+various types of communication, either between the employees or with the outside
+clients. The EPABX works like an exchange that sends, receives and forwards calls from
+the organization to the outside world. It also helps the staff to communicate among them
+free of cost.
+3. Intellicon submitted that for the purpose of installation and commissioning of a fully
+functional EPABX system, the EPABX machine is configured and connected to the
+exchange lines of the Telephone Exchange through cables. A main distribution frame is
+connected to the EPABX machine through wires/cables. The main distribution frame is
+terminating point for all the extension lines which are laid through wall, duct, and conduit
+to connect to the telephones, as per the requirement of the organizations. EPABX
+machine, main distribution frame, switches, telephones, various cards along with cables
+laid through wall/conduit/duct (to connect the EPABX machine to main distribution
+frame and subsequently, to various telephones) are cohesively treated as a fully
+functional EPABX system.
+Page 1 of 11
 
+4.
+follows:
+The supplies made by Intellicon to its customers include two types of contracts, as
+A. Supply, installation and commissioning of EPABX machine along with laying
+cables through wall, duct, conduit and earthing.
+B. Supply, installation and commissioning of EPABX machine involving cabling
+from EPABX machine to main distribution frame.
+Detailed scope of work is as follows-
+5. Supply, installation and commissioning of EPABX system along with laying cables
+through wall, duct, conduit and earthing (hereinafter referred to as 'Contract I')
+5.1 The Intellicon sets up a functional EPABX system along with the required extension
+line cables infrastructure. It supplies, installs and commissions the EPABX machine and
+all other equipments such as main distribution frame, media gateway, switches, line cards
+etc. Intellicon's scope of work in such cases would thus involve:
+a. Supply of EPABX machine and all other incidental equipment as stated above;
+b. Laying of cables to connect the EPABX machine and the main distribution
+frame;
+c. Laying extension lines cables through wall, ducts, conduit of the premises of the
+customer and undertake associated earthing work in order to connect various
+telephones installed by Intellicon to the main distribution frame, which is in turn
+connected to EPABX machine. This activity of laying extension line cables
+would also involve undertaking associated civil works.
+5.2 Intellicon has submitted sample purchase order Letter No: Dhanbad Division-S
+AND T / SG-664-18-Tele-2019-20 dated 22-6-20 issued by Dhanbad Division-S and T,
+East Central Railway, in relation to such supply. The relevant clauses of scope of work is
+reproduced as follows:
+1. 'Supply, Installation, Testing & commissioning of Set of two Servers along
+with VOIP software to working as PBX & SIP router as specified in the
+system architecture and fully Hot Standby. As per technical specification
+attached as Annexure - A or latest.
+2. Supply of Monitoring / Maintenance Console (Desktop) Make - HP/DELL or
+similar. As per technical specification attached as Annexure - A or latest.
+14. Supply of MDF with Krone modules & IPM as per technical specification
+equipped for termination of 250 Pairs and sized suitably to accommodate
+300 pairs. As per technical specification attached as Annexure - A or latest.
+31. Laying charge of optical Fiber Cable / UTP CAT-6 Cable/Power cable through
+Wall/Duct/conduit, including clamping/fixing duct/ conduit over
+wall/ceiling/open space /terrace /existing fixture etc as per directive of
+Railway Site Engineer.
+34. Installation, testing & commissioning of whole system.
+Page 2 of 11|
 
-Page 2 of 11 
- 
-4. 
-The supplies made by Intellicon to its customers include two types of contracts, as 
-follows:  
-A. Supply, installation and commissioning of EPABX machine along with laying 
-cables through wall, duct, conduit and earthing. 
-B. Supply, installation and commissioning of EPABX machine involving cabling 
-from EPABX machine to main distribution frame. 
- 
-Detailed scope of work is as follows- 
-5.    Supply, installation and commissioning of EPABX system along with laying cables 
-through wall, duct, conduit and earthing (hereinafter referred to as ‘Contract I’) 
- 
-5.1The Intellicon sets up a functional EPABX system along with the required extension 
-line cables infrastructure. It  supplies, installs and commissions the EPABX machine and 
-all other equipments such as main distribution frame, media gateway, switches, line cards 
-etc. Intellicon’s scope of work in such cases would thus involve: 
-a. Supply of EPABX machine and all other incidental equipment as stated above; 
-b. Laying of cables to connect the EPABX machine and the main distribution 
-frame; 
-c. Laying extension lines cables through wall, ducts, conduit of the premises of the 
-customer and undertake associated earthing work in order to connect various 
-telephones installed by Intellicon to the main distribution frame, which is in turn 
-connected to EPABX machine. This activity of laying extension line cables 
-would also involve undertaking associated civil works.  
- 
-5.2 
-Intellicon has submitted sample purchase order Letter No: Dhanbad Division-S 
-AND T / SG-664-18-Tele-2019-20 dated 22-6-20 issued by Dhanbad Division-S and T, 
-East Central Railway, in relation to such supply. The relevant clauses of scope of work is 
-reproduced as follows:   
- 
-1. ‘Supply, Installation, Testing & commissioning of Set of two Servers along 
-with VOIP software to working as PBX & SIP router as specified in the 
-system architecture and fully Hot Standby. As per technical specification 
-attached as Annexure - A or latest. 
-2. Supply of Monitoring / Maintenance Console (Desktop) Make - HP/DELL or 
-similar. As per technical specification attached as Annexure - A or latest. 
-14. Supply of MDF with Krone modules & IPM as per technical specification 
-equipped for termination of 250 Pairs and sized suitably to accommodate 
-300 pairs. As per technical specification attached as Annexure - A or latest. 
-31. Laying charge of optical Fiber Cable / UTP CAT-6 Cable/Power cable through 
-Wall/Duct/conduit, 
-including 
-clamping/fixing 
-duct/ 
-conduit 
-over 
-wall/ceiling/open space /terrace /existing fixture etc as per directive of 
-Railway Site Engineer. 
-34. Installation, testing & commissioning of whole system.  
-
-
-Page 3 of 11 
- 
-35. Laying of S&T cables of different sizes as per cable route plan approved by railway 
-and meggering of all main & tail cables as per technical specification of tender. 
-(Cable route plan will be supplied by site engineer at the time of execution of 
-work).’ 
- 
- 
-6. 
-Supply, installation and commissioning of EPABX machine involving cabling from 
-EPABX machine to main distribution frame (hereinafter referred to as ‘Contract II’): 
- 
-6.1. 
-Under the contract of this nature, Intellicon sets up a functional EPABX system by 
-supplying, installing and commissioning the EPABX machine and all other equipments 
-such as main distribution frame, media gateway, switches, line cards and cables etc. 
-Intellicon scope of work involves: 
-a. Supply of EPABX machine and all other incidental equipment as stated above; 
-b. Laying of cables to connect the EPABX machine and the main distribution 
-frame and in turn connecting such equipment with extension line cables 
-already available on premises of the customer. 
- 
+35. Laying of S&T cables of different sizes as per cable route plan approved by railway
+and meggering of all main & tail cables as per technical specification of tender.
+(Cable route plan will be supplied by site engineer at the time of execution of
+Supply, installation and commissioning of EPABX machine involving cabling from
+EPABX machine to main distribution frame (hereinafter referred to as 'Contract II'):
+6.1. Under the contract of this nature, Intellicon sets up a functional EPABX system by
+supplying, installing and commissioning the EPABX machine and all other equipments
+such as main distribution frame, media gateway, switches, line cards and cables etc.
+Intellicon scope of work involves:
+a. Supply of EPABX machine and all other incidental equipment as stated above;
+b. Laying of cables to connect the EPABX machine and the main distribution
+frame and in turn connecting such equipment with extension line cables
+already available on premises of the customer.
 6.2 Intellicon submitted a sample contract No. GEMC-511687702286858 dated 18-8-
-21of West Central Railway, Railway in relation to such supply. 
- 
-7. 
-Intellicon submits that supplies made under Contract I and Contract II are covered 
-under Entry No. 3(v) of the Notification No. 11/2017-Central Tax (Rate) dated 28.06.2017 
-(the Notification), as amended from time to time. Entry No. 3(v) of the Notification reads as 
-follows: 
- 
- 
- 
-Description of Service 
-Rate (per 
-cent) 
-Condition 
-“(v) Composite supply of works contract as defined in 
-clause (119) of section 2 of the Central Goods and 
-Services Tax Act, 2017, other than that covered by items 
-(i), (ia), (ib), (ic), (id), (ie) and (if) above, supplied by 
-way of construction, erection, commissioning, or 
-installation of original works pertaining to,-  
-(a) railways, including monorail and metro;  
-(b) a single residential unit otherwise than as a part of a 
-residential complex; 
-(c) low-cost houses up to a carpet area of 60 square 
-metres per house in a housing project approved by 
-competent authority empowered under the 'Scheme of 
-Affordable Housing in Partnership' framed by the 
-Ministry of Housing and Urban Poverty Alleviation, 
-Government of India;”  
-… 
- 
-6% 
-- 
- 
- 
-7.1 
-Section 2(119) of the Central Goods and Services Tax Act, 2017 provides the 
-definition of works contract which reads as: 
+21of West Central Railway, Railway in relation to such supply.
+Intellicon submits that supplies made under Contract I and Contract II are covered
+under Entry No. 3(v) of the Notification No. 11/2017-Central Tax (Rate) dated 28.06.2017
+(the Notification), as amended from time to time. Entry No. 3(v) of the Notification reads as
+follows:
+Description of Service
+"(v) Composite supply of works contract as defined in
+clause (119) of section 2 of the Central Goods and
+Services Tax Act, 2017, other than that covered by items
+(i), (ia), (ib), (ic), (id), (ie) and (if) above, supplied by
+way of construction, erection, commissioning, or
+installation of original works pertaining to,-
+(a) railways, including monorail and metro;
+(b) a single residential unit otherwise than as a part of a
+residential complex;
+(c) low-cost houses up to a carpet area of 60 square
+metres per house in a housing project approved by
+competent authority empowered under the 'Scheme of
+Affordable Housing in Partnership' framed by the
+Ministry of Housing and Urban Poverty Alleviation,
+Government of India; "
+...
+Rate (per
+cent)
+Condition
+6%
+-
+7.1 Section 2(119) of the Central Goods and Services Tax Act, 2017 provides the
+definition of works contract which reads as:
+Page 3 of 11
 
+"(119) "works contract" means a contract for building, construction, fabrication,
+completion, erection, installation, fitting out, improvement, modification, repair,
+maintenance, renovation, alteration or commissioning of any immovable property
+wherein transfer of property in goods (whether as goods or in some other form) is
+involved in the execution of such contract; "
+7.2 The term 'Original Works' is not defined in the CGST Act as well as the
+Notification. However, the same is defined under the Notification 12/2017-Central Tax
+(Rate) dated 28.06.2017, which reads as:
+original works means- all new constructions;
+(i) all types of additions and alterations to abandoned or damaged structures on
+land that are required to make them workable;
+(ii) erection, commissioning or installation of plant, machinery or equipment or
+structures, whether pre-fabricated or otherwise;
+7.3 Intellicon submits that to cover under the Entry no. 3(v) of the Notification they
+needs to fulfil following conditions to fall under the said entry:
+i. Supply should be made to Railways, including monorail and metro
+ii. Supply should be in nature of composite supply of works contract as
+defined under Section 2(119) of CGST Act
+ili. Supply should be by way of construction, erection, commissioning or
+installation of original works
+iv. Supply must not be covered by the items (i), (ia), (ib), (ic), (id), (ie) and (if)
+of the Entry no. 3 of the Notification.
+8. Intellicon submits as follows:
+i. It is engaged in supply to Railways as well as other customers. The present
+application is filed in relation to the supplies to Railways.
+ii. Intellicon submits that any contract for erection, installation or commissioning of any
+immovable property involving transfer of property in goods would qualify to be a
+works contract as defined under Section 2 (119) of CGST Act. The term immovable
+property is not defined in the CGST Act, however reference can be drawn to definition
+of immovable property as defined in Section 2 of the General Clauses Act, which is:
+"Immovable property shall include land, benefits to arise out of land, and things
+attached to earth, or permanently fastened to anything attached to the earth"
+From the above definition of immovable property, it is evident that anything
+attached to earth or permanently fastened with anything attached to earth becomes an
+immovable property. Intellicon submits that it is engaged in supply of entire EPABX
+system which involves supply, installation and commissioning of EPABX machine along
+with various other equipments. Based on the requirement of the customers, it also
+Page 4 of 11
 
-Page 4 of 11 
- 
- 
-“(119) “works contract” means a contract for building, construction, fabrication, 
-completion, erection, installation, fitting out, improvement, modification, repair, 
-maintenance, renovation, alteration or commissioning of any immovable property 
-wherein transfer of property in goods (whether as goods or in some other form) is 
-involved in the execution of such contract;” 
- 
-7.2 
-The term ‘Original Works’ is not defined in the CGST Act as well as the 
-Notification. However, the same is defined under the Notification 12/2017-Central Tax 
-(Rate) dated 28.06.2017, which reads as:  
- 
-original works means- all new constructions; 
-(i) all types of additions and alterations to abandoned or damaged structures on 
-land that are required to make them workable; 
-(ii) erection, commissioning or installation of plant, machinery or equipment or 
-structures, whether pre-fabricated or otherwise; 
- 
-7.3 
-Intellicon submits that to cover under the Entry no. 3(v) of the Notification they 
-needs to fulfil following conditions to fall under the said entry:  
-i. Supply should be made to Railways, including monorail and metro 
-ii. Supply should be in nature of composite supply of works contract as 
-defined under Section 2(119) of CGST Act 
-iii. Supply should be by way of construction, erection, commissioning or 
-installation of original works 
-iv. Supply must not be covered by the items (i), (ia), (ib), (ic), (id), (ie) and (if) 
-of the Entry no. 3 of the Notification.      
- 
-8. 
-Intellicon submits as follows: 
-i. It is engaged in supply to Railways as well as other customers. The present 
-application is filed in relation to the supplies to Railways.      
- 
-ii. Intellicon submits that any contract for erection, installation or commissioning of any 
-immovable property involving transfer of property in goods would qualify to be a 
-works contract as defined under Section 2 (119) of CGST Act. The term immovable 
-property is not defined in the CGST Act, however reference can be drawn to definition 
-of immovable property as defined in Section 2 of the General Clauses Act, which is:  
-“Immovable property shall include land, benefits to arise out of land, and things 
-attached to earth, or permanently fastened to anything attached to the earth” 
- 
-From the above definition of immovable property, it is evident that anything 
-attached to earth or permanently fastened with anything attached to earth becomes an 
-immovable property. Intellicon submits that it is engaged in supply of entire EPABX 
-system which involves supply, installation and commissioning of EPABX machine along 
-with various other equipments. Based on the requirement of the customers, it also 
+undertakes laying of cables through the wall, ducts, conduits, ceiling, furniture of the
+premises in which EPABX system is being installed.
+111.
+Intellicon submits that it is apparent from the nature of the supplies, EPABX
+system installed by it becomes integral part of the building/premises in which the same is
+installed. Installation of EPABX system involves, installation of EPABX machine, laying
+of cables through the walls, ducts, conduits of the premises. An EPABX system is not a
+ready-made assembled unit. The installation and commissioning of an EPAB system
+involves elaborate work and has to be correlated with and tailored to meet the needs and
+requirement of the customers. Accordingly, once the EPABX system is commissioned
+and installed in the premises, it becomes integral part of the immovable property.
+iv.
+The applicant has placed reliance on the judgement of the Hon'ble Apex Court in
+case of M/s. Kone Elevator India Pvt. Ltd. Vs State of Tamil Nadu and others [2014 (5)
+TMI 265-Supreme Court]wherein the issue before the Larger Bench of the Hon'ble Apex
+Court was to decide correctness of the Judgement in case of State of Andhra Pradesh vs.
+Kone Elevators [2005 (2) TMI 519- Supreme Court] wherein a three judges bench held
+that contract of manufacture, supply and installation of lifts is to be treated as sale of
+goods, as opposed to a works contract. However, the Larger Bench of the Hon'ble
+Supreme Court overruled the said decision of three judges bench and held that the said
+contract in question is not merely a sale of goods since the same does not involve chattel
+(lift) sold for chattel. The Larger Bench of the Supreme Court upheld that the contract in
+question as a works contract since the same did not involve sale of chattel simpliciter but
+involved installation of chattel at site amounting to chattel being attached to another
+chattel. In this context, it was remarked that:
+"64. .....It is necessary to state here that if there are two contracts, namely,
+purchase of the components of the lift from a dealer, it would be a contract for sale
+and similarly, if separate contract is entered into for installation, that would be a
+contract for labour and service. But, a pregnant one, once there is a composite
+contract for supply and installation, it has to be treated as a works contract, for it is
+not a sale of goods/chattel simpliciter. It is not chattel sold as chattel or, for that
+matter, a chattel being attached to another chattel. Therefore, it would not be
+appropriate to term it as a contract for sale on the bedrock that the components are
+brought to the site, i.e., building, and prepared for delivery. The conclusion, as has
+been reached in Kone Elevators (supra), is based on the bedrock of incidental service
+for delivery. It would not be legally correct to make such a distinction in respect of lift,
+for the contract itself profoundly speaks of obligation to supply goods and materials as
+well as installation of the lift which obviously conveys performance of labour and
+service. Hence, the fundamental characteristics of works contract are satisfied. Thus
+analysed, we conclude and hold that the decision rendered in Kone Elevators (supra)
+does not correctly lay down the law and it is, accordingly, overruled."
+V.
+Intelliconrelies on the judgement of the Hon'ble Bombay High Court in case of
+Otis Elevator Company (India) Ltd. Vs Superintendent of Central Excise, Range-I [2003
+Page 5 of 11
 
+(151) ELT 499 (BOM)] wherein the Court held that elevator does not come into existence
+until it is installed in building and once the same is installed it becomes integral part of
+the immovable property. The relevant extract of the said judgment is as under:
+"9. Having heard the rival contentions and having examined all the citations
+referred to hereinabove, we are clearly of the opinion that the same shall apply to
+the facts of this case in full force and item in question being immovable property
+cannot be subjected to excise under the tariff heading claimed by the Revenue. The
+case sought to be made out by the petitioner is also covered by the decision of the
+Government of India in reference, OTIS Elevator Company (India) Ltd. - 1981 (8)
+E.L.T. 720 (G.O.I.), wherein, it was clearly held that if an article does not come
+into existence until it is fully erected or installed, adjusted, tested and
+commissioned in a building, and on complete erection and installation of such
+article when it becomes part of immovable property, it cannot be described as
+goods attracting levy of any excise duty. Thus, applying the ratio of all the above
+judgments including the order of the Government of India referred to hereinabove,
+the case sought to be made out by the petitioner has to be upheld. The contention
+sought to be advanced by the petitioner has a lot of merits in their submission and
+the issue is squarely covered against the Revenue that once the item has been held
+to be an immovable property, then, for the purpose of valuation the cost of
+construction and proportionate escalation charges cannot be added in the
+assessable value, as such, the impugned communication dated 20th August, 1987
+of the respondent No. 1 is quashed and set aside and it is declared that the erection
+of lift is not excisable under Tariff Item No. 68 of the First Schedule to the said
+Act. "
+vi. Intellicon submits that rationale adopted by the Hon'ble Court in the above referred
+judgements are relevant in the facts of their case. The EPABX system supplied by it
+comes into existence once the same is commissioned and installed by the Applicant
+in the premises of the customers. An EPABX system is incomplete till EPABX
+machine, telephones, cables and various other equipments are not commissioned
+and installed at the premises of the customers. EPABX system, once it is
+commissioned and installed, becomes an integral part of the immovable property i.e.
+the building of the customer.
+vii. Intellicon relies on the judgement of the Hon'ble Tribunal in the matter of Blue
+Star Limited Vs Commissioner of Central Excise, Jaipur [2002 (143) ELT 391 (Tri. -
+Del.)]wherein the Hon'ble tribunal while examining the excisability of Central Air-
+conditioning Plant ('CAP'), held that CAPs cannot be taken as such to the market for
+sale. In order to take it to the market, the same would require to be dismantled in
+components and parts, and which will not remain as a complete CAP. Hence, the Hon'ble
+Tribunal held that the CAP is an immovable property and hence, not marketable. The
+relevant extract of the said judgement is as follows:
+"In the instant case, the factual position is analogous to that of Triveni Engg. &
+Industries. Even the Revenue has no case that the CAP was capable of being taken as
+Page 6 of 11
 
-Page 5 of 11 
- 
-undertakes laying of cables through the wall, ducts, conduits, ceiling, furniture of the 
-premises in which EPABX system is being installed.  
-iii. 
-Intellicon submits that it is apparent from the nature of the supplies, EPABX 
-system installed by it becomes integral part of the building/premises in which the same is 
-installed. Installation of EPABX system involves, installation of EPABX machine, laying 
-of cables through the walls, ducts, conduits of the premises. An EPABX system is not a 
-ready-made assembled unit. The installation and commissioning of an EPABX system 
-involves elaborate work and has to be correlated with and tailored to meet the needs and 
-requirement of the customers. Accordingly, once the EPABX system is commissioned 
-and installed in the premises, it becomes integral part of the immovable property.  
- 
-iv. 
-The applicant has placed reliance on the judgement of the Hon’ble Apex Court in 
-case of M/s. Kone Elevator India Pvt. Ltd. Vs State of Tamil Nadu and others [2014 (5) 
-TMI 265-Supreme Court]wherein the issue before the Larger Bench of the Hon’ble Apex 
-Court was to decide correctness of the Judgement in case of State of Andhra Pradesh vs. 
-Kone Elevators [2005 (2) TMI 519- Supreme Court] wherein a three judges bench held 
-that contract of manufacture, supply and installation of lifts is to be treated as sale of 
-goods, as opposed to a works contract. However, the Larger Bench of the Hon’ble 
-Supreme Court overruled the said decision of three judges bench and held that the said 
-contract in question is not merely a sale of goods since the same does not involve chattel 
-(lift) sold for chattel. The Larger Bench of the Supreme Court upheld that the contract in 
-question as a works contract since the same did not involve sale of chattel simpliciter but 
-involved installation of chattel at site amounting to chattel being attached to another 
-chattel. In this context, it was remarked that:  
-“64. ……..It is necessary to state here that if there are two contracts, namely, 
-purchase of the components of the lift from a dealer, it would be a contract for sale 
-and similarly, if separate contract is entered into for installation, that would be a 
-contract for labour and service. But, a pregnant one, once there is a composite 
-contract for supply and installation, it has to be treated as a works contract, for it is 
-not a sale of goods/chattel simpliciter. It is not chattel sold as chattel or, for that 
-matter, a chattel being attached to another chattel. Therefore, it would not be 
-appropriate to term it as a contract for sale on the bedrock that the components are 
-brought to the site, i.e., building, and prepared for delivery. The conclusion, as has 
-been reached in Kone Elevators (supra), is based on the bedrock of incidental service 
-for delivery. It would not be legally correct to make such a distinction in respect of lift, 
-for the contract itself profoundly speaks of obligation to supply goods and materials as 
-well as installation of the lift which obviously conveys performance of labour and 
-service. Hence, the fundamental characteristics of works contract are satisfied. Thus 
-analysed, we conclude and hold that the decision rendered in Kone Elevators (supra) 
-does not correctly lay down the law and it is, accordingly, overruled.” 
- 
-v. 
-Intelliconrelies on the judgement of the Hon’ble Bombay High Court in case of 
-Otis Elevator Company (India) Ltd. Vs Superintendent of Central Excise, Range-I [2003 
-
-
-Page 6 of 11 
- 
-(151) ELT 499 (BOM)] wherein the Court held that elevator does not come into existence 
-until it is installed in building and once the same is installed it becomes integral part of 
-the immovable property. The relevant extract of the said judgment is as under:  
- 
-“9. Having heard the rival contentions and having examined all the citations 
-referred to hereinabove, we are clearly of the opinion that the same shall apply to 
-the facts of this case in full force and item in question being immovable property 
-cannot be subjected to excise under the tariff heading claimed by the Revenue. The 
-case sought to be made out by the petitioner is also covered by the decision of the 
-Government of India in reference, OTIS Elevator Company (India) Ltd. - 1981 (8) 
-E.L.T. 720 (G.O.I.), wherein, it was clearly held that if an article does not come 
-into existence until it is fully erected or installed, adjusted, tested and 
-commissioned in a building, and on complete erection and installation of such 
-article when it becomes part of immovable property, it cannot be described as 
-goods attracting levy of any excise duty. Thus, applying the ratio of all the above 
-judgments including the order of the Government of India referred to hereinabove, 
-the case sought to be made out by the petitioner has to be upheld. The contention 
-sought to be advanced by the petitioner has a lot of merits in their submission and 
-the issue is squarely covered against the Revenue that once the item has been held 
-to be an immovable property, then, for the purpose of valuation the cost of 
-construction and proportionate escalation charges cannot be added in the 
-assessable value, as such, the impugned communication dated 20th August, 1987 
-of the respondent No. 1 is quashed and set aside and it is declared that the erection 
-of lift is not excisable under Tariff Item No. 68 of the First Schedule to the said 
-Act.” 
- 
-vi.   Intellicon submits that rationale adopted by the Hon’ble Court in the above referred 
-judgements are relevant in the facts of their case. The EPABX system supplied by it 
-comes into existence once the same is commissioned and installed by the Applicant 
-in the premises of the customers. An EPABX system is incomplete till EPABX 
-machine, telephones, cables and various other equipments are not commissioned 
-and installed at the premises of the customers. EPABX system, once it is 
-commissioned and installed, becomes an integral part of the immovable property i.e. 
-the building of the customer. 
-vii. 
-Intellicon relies on the judgement of the Hon’ble Tribunal in the matter of Blue 
-Star Limited Vs Commissioner of Central Excise, Jaipur [2002 (143) ELT  391 (Tri. -
-Del.)]wherein the Hon’ble tribunal while examining the excisability of Central Air-
-conditioning Plant (‘CAP’), held that CAPs cannot be taken as such to the market for 
-sale. In order to take it to the market, the same would require to be dismantled in 
-components and parts, and which will not remain as a complete CAP. Hence, the Hon’ble 
-Tribunal held that the CAP is an immovable property and hence, not marketable. The 
-relevant extract of the said judgement is as follows:  
- 
-“In the instant case, the factual position is analogous to that of Triveni Engg. & 
-Industries. Even the Revenue has no case that the CAP was capable of being taken as 
-
-
-Page 7 of 11 
- 
-such to the market for sale. It required to be disassembled or dismantled into its 
-components for the purpose of removal from its site, but then, certain parts would be 
-damaged beyond repair and what could be taken to the market would be only the 
-remaining parts, which would not make a CAP. The marketability test laid down by the 
-Apex Court in Triveni Engg. & Industries is, therefore, not satisfied in the instant case.” 
-viii. 
-Intellecon submits that EPABX system once installed cannot be taken to 
-market in as such condition. It would be required to be dismantled and 
-disassembled in parts and components. In the process of dismantling, some parts of 
-the EPABX system such as cables, connectors may possible even be damaged and 
-will not be usable again. It can be said that a full functional EPABX system cannot 
-be moved in as it is condition and therefore it is an immovable property. The similar 
-view was also upheld by the Hon’ble Supreme Court in the case of Commissioner of 
-Central Excise, Indore vs. Virdi Brothers [2007 (207) ELT 321(SC)]. 
- 
-ix. 
-Intellecon further places reliance on the ruling given by the Authority for Advance 
+such to the market for sale. It required to be disassembled or dismantled into its
+components for the purpose of removal from its site, but then, certain parts would be
+damaged beyond repair and what could be taken to the market would be only the
+remaining parts, which would not make a CAP. The marketability test laid down by the
+Apex Court in Triveni Engg. & Industries is, therefore, not satisfied in the instant case."
+viii. Intellecon submits that EPABX system once installed cannot be taken to
+market in as such condition. It would be required to be dismantled and
+disassembled in parts and components. In the process of dismantling, some parts of
+the EPABX system such as cables, connectors may possible even be damaged and
+will not be usable again. It can be said that a full functional EPABX system cannot
+be moved in as it is condition and therefore it is an immovable property. The similar
+view was also upheld by the Hon'ble Supreme Court in the case of Commissioner of
+Central Excise, Indore vs. Virdi Brothers [2007 (207) ELT 321(SC)].
+ix.
+Intellecon further places reliance on the ruling given by the Authority for Advance
 Ruling, Gujarat in case of M/s. The Varachha Co. Op. Bank Ltd. [2021 (8) TMI 736-
-AAR, Gujarat]. In the said ruling, the Hon’ble Authority was deciding on the credit 
-eligibility of the input tax incurred qua the cost of CAP, lift, electrical fittings, fire safety 
-extinguisher and roof solar plant etc. in a building. In context of the same, the Hon’ble 
-Authority held that all these products comprise of various components and cannot be 
-moved as it is condition, once installed and commissioned in the building. Accordingly, 
-such products become integral part of the immovable property and thereby credit of the 
-same is blocked under section 17(5)(c) of the CGST Act. 
- 
-x. Intellecon refers to the definition of term original works as provided in the Notification 
-No. 12/2017-Central Tax (Rate) dated 28.06.2017. As per the said definition, original 
-works includes erection, commissioning and installation of plant, machinery and 
-equipment or structures. On perusal of the definition of original works, the term can be 
-dissected into two parts, which are as follow:  
- The work should be in nature of erection, commissioning and installation 
- Such work should be in relation to plant, machinery and equipment or 
-structures.  
-xi.  In this regard, Intellecon refers to the definition of terms Machinery, Machine and 
-Equipment as provided in the Oxford English reference dictionary.  
-Machinery - Machines collectively or the components of a machine 
- 
-Machine - An equipment using or applying mechanical power, having several parts 
-each with definite function and together performing certain kinds of work  
- 
-Equipment - The things that are needed for a particular purpose or activity 
+AAR, Gujarat]. In the said ruling, the Hon'ble Authority was deciding on the credit
+eligibility of the input tax incurred qua the cost of CAP, lift, electrical fittings, fire safety
+extinguisher and roof solar plant etc. in a building. In context of the same, the Hon'ble
+Authority held that all these products comprise of various components and cannot be
+moved as it is condition, once installed and commissioned in the building. Accordingly,
+such products become integral part of the immovable property and thereby credit of the
+same is blocked under section 17(5)(c) of the CGST Act.
+x. Intellecon refers to the definition of term original works as provided in the Notification
+No. 12/2017-Central Tax (Rate) dated 28.06.2017. As per the said definition, original
+works includes erection, commissioning and installation of plant, machinery and
+equipment or structures. On perusal of the definition of original works, the term can be
+dissected into two parts, which are as follow:
+• The work should be in nature of erection, commissioning and installation
+• Such work should be in relation to plant, machinery and equipment or
+structures.
+xi. In this regard, Intellecon refers to the definition of terms Machinery, Machine and
+Equipment as provided in the Oxford English reference dictionary.
+Machinery - Machines collectively or the components of a machine
+Machine - An equipment using or applying mechanical power, having several parts
+each with definite function and together performing certain kinds of work
+Equipment - The things that are needed for a particular purpose or activity
+Page 7 of 11
 
+xii. Intellecon submits that EPABX system and components of the same are used for a
+specific function of establishing private telephone network in any organization.
+Accordingly, the EPABX system and the components of the same would qualify to be
+machinery and equipment.
+xiii. Intellecon submits that to qualify under Entry no. 3(v) of the Notification, the supply
+must not be covered by the items (i), (ia), (ib), (ic), (id), (ie) and (if) of the Entry no. 3 of
+the Notification. Intellicon submits that based on the bare reading of the said entries, all
+these entries are in relation to construction services.
+9.
+Intellecon has summarized the conditions fulfilled to cover under the ambit of
+entry no. 3(v) the Notificationas follows:
+Condition
+Supply pertains to
+Railways
+Supply
+is
+relation
+immovable
+property
+Fulfillment by Contract I
+Fulfillment by Contract II
+Supplies to East Central
+Supplies to West Central
+in
+Railway
+Railway
+Intellecon supplies, installs,
+Intellecon supplies, installs
+to
+and commissions the EPABX
+and commissions the
+system including the laying
+EPAB machine along with
+of cables through the walls,
+various other equipments.
+conduits, ducts and furniture
+Intellecon also installs the
+of the
+premises of the
+cables to connect the EPABX
+customer.
+Installation of
+machine and the main
+entire EPABX system with
+distribution frame. Once the
+cabling makes it permanently
+EPABX machine and all
+attached to the immovable
+other equipments are
+property
+and resultantly, installed, they cannot be
+being integral part of the
+removed in as it is form.
+same.
+EPABX system They can only be removed
+installed by the Company
+by dismantling the entire
+cannot be removed in as it is
+system and moving in
+condition. Removal of the parts. Such dismantling of
+same
+would
+require the system would result in
+dismantling the entire system some parts such as cables
+and moving it in parts. Such etc. being permanently
+system would damage some Accordingly, the EPABX
+parts, resulting into them machine along with all
+being permanently non- other equipments installed
+usable. A complete EPABX
+by Intellecon becomes part
+system installed by Intellecon
+of the immovable property
+ecomes an integral part of ie. building of
+the
+he immovable property and customer. Further, th
+thereby fulfiling the extension cables and the
+condition of qualifying as EPAX machine and other
+works contract.
+equipments are of no use in
+standalone. It can only
+make a fully functional
+EPAX system when the
+Page 8 of 11
 
-Page 8 of 11 
- 
- 
-xii.   Intellecon submits that EPABX system and components of the same are used for a 
-specific function of establishing private telephone network in any organization. 
-Accordingly, the EPABX system and the components of the same would qualify to be 
-machinery and equipment.  
- 
-xiii. Intellecon submits that to qualify under Entry no. 3(v) of the Notification, the supply 
-must not be covered by the items (i), (ia), (ib), (ic), (id), (ie) and (if) of the Entry no. 3 of 
-the Notification. Intellicon submits that based on the bare reading of the said entries, all 
-these entries are in relation to construction services.   
-9. 
-Intellecon has summarized the conditions fulfilled to cover under the ambit of 
-entry no. 3(v)   the Notificationas follows: 
- 
-Condition 
-Fulfillment by Contract I 
-Fulfillment by Contract II 
-Supply pertains to 
-Railways 
-Supplies 
-to 
-East 
-Central 
-Railway 
-Supplies to West Central 
-Railway 
-Supply 
-is 
-in 
-relation 
-to 
-immovable 
-property 
-Intellecon supplies, installs, 
-and commissions the EPABX 
-system including the laying 
-of cables through the walls, 
-conduits, ducts and furniture 
-of 
-the 
-premises 
-of 
-the 
-customer. 
-Installation 
-of 
-entire EPABX system with 
-cabling makes it permanently 
-attached to the immovable 
-property 
-and 
-resultantly, 
-being integral part of the 
-same. 
-EPABX 
-system 
-installed by the Company 
-cannot be removed in as it is 
-condition. Removal of the 
-same 
-would 
-require 
-dismantling the entire system 
-and moving it in parts. Such 
-dismantling 
-of 
-EPABX 
-system would damage some 
-parts, resulting into them 
-being 
-permanently 
-non-
-usable. A complete EPABX 
-system installed by Intellecon 
-becomes an integral part of 
-the immovable property and 
-thereby 
-fulfilling 
-the 
-condition of qualifying as 
-works contract. 
-Intellecon supplies, installs 
-and 
-commissions 
-the 
-EPABX machine along with 
-various other equipments. 
-Intellecon also installs the 
-cables to connect the EPABX 
-machine 
-and 
-the 
-main 
-distribution frame. Once the 
-EPABX machine and all 
-other 
-equipments 
-are 
-installed, they cannot be 
-removed in as it is form. 
-They can only be removed 
-by dismantling the entire 
-system 
-and 
-moving 
-in 
-parts. Such dismantling of 
-the system would result in 
-some parts such as cables 
-etc. 
-being 
-permanently 
-damaged 
-and 
-unusable. 
-Accordingly, the EPABX 
-machine along with all 
-other equipments installed 
-by Intellecon becomes part 
-of the immovable property 
-i.e. 
-building 
-of 
-the 
-customer. 
-Further, 
-the 
-extension cables and the 
-EPABX machine and other 
-equipments are of no use in 
-standalone.  It can only 
-make a fully functional 
-EPABX system when the 
-
-
-Page 9 of 11 
- 
-EPABX machine and other 
-equipments are installed 
-and 
-connected 
-with 
-extension cables. Such fully 
-functional EPABX system 
-becomes integral part of 
-the 
-premises 
-of 
-the 
-Customer. 
- 
-Supply is by way 
-of commissioning 
-or installation of 
-original works 
-Intellecon submits that it is undertaking the work of EPABX 
-system 
-which 
-involves 
-supply, 
-commissioning 
-and 
-installation of EPABX machine along with various other 
-equipment such as switches, line cards etc. Further, Intellecon 
-may also undertake to lay cables in the walls, ducts, conduits 
-and ceiling of the premises of the customers.  
- 
-Supply must not be 
-covered 
-by 
-the 
-items (i), (ia), (ib), 
-(ic), (id), (ie) and 
-(if) of the Entry no. 
-3 
-of 
-the 
-Notification 
-Intellicon submits that all these entries are in relation to 
-construction services and therefore, not relevant in the present 
-facts.  
- 
-9.1 
-Intellicon submits that supplies made by it to Railways qualify for concessional 
-rate of 12% of GST.  
-10. 
-Intellecon submits that West Central Railway, in their PO, annexed, has 
-categorically mentioned that for the goods and services for which bids have been invited 
-by them, qualifies for concession rate of 12% of GST. Relevant extract of the said PO is 
-as follows:  
-3.10 The buyer organization is an institution eligible for concessional rates of GST as 
-notified by the Government of India. The goods for which bids have been invited fall 
-under classification of GST concession and the conditions for eligibility of concession 
-are met by the institution. A certificate to this effect will be issued by Buyer to the 
-Seller after award of the Contract. Sellers are requested to submit their bids after 
-accounting for the Concessional rate of GST. 
-Applicable Concessional rate of GST : 12%” 
- 
+EPABX machine and other
+equipments are installed
+and connected with
+extension cables. Such fully
+functional EPABX system
+becomes integral part of
+the premises
+of
+the
+Customer:
+Supply is by way Intellecon submits that it is undertaking the work of EPABX
+of commissioning system which involves supply, commissioning and
+or installation of installation of EPABX machine along with various other
+equipment such as switches, line cards etc. Further, Intellecon
+may also undertake to lay cables in the walls, ducts, conduits
+and ceiling of the premises of the customers.
+Intellicon submits that all these entries are in relation to
+construction services and therefore, not relevant in the present
+facts.
+Supply must not be
+covered
+by
+the
+items (i), (ia), (ib),
+(ic), (id), (ie) and
+(if) of the Entry no.
+3
+of
+the
+Notification
+9.1
+Intellicon submits that supplies made by it to Railways qualify for concessional
+rate of 12% of GST.
+10. Intellecon submits that West Central Railway, in their PO, annexed, has
+categorically mentioned that for the goods and services for which bids have been invited
+by them, qualifies for concession rate of 12% of GST. Relevant extract of the said PO is
+as follows:
+3.10 The buyer organization is an institution eligible for concessional rates of GST as
+notified by the Government of India. The goods for which bids have been invited fall
+under classification of GST concession and the conditions for eligibility of concession
+are met by the institution. A certificate to this effect will be issued by Buyer to the
+Seller after award of the Contract. Sellers are requested to submit their bids after
+accounting for the Concessional rate of GST.
+Applicable Concessional rate of GST : 12%"
 11. Intellicon submitted a Certificate No. GEM Contract No. 511687702286858 dated 26-
-10-21issued by West Central Railway in this regard. 
- 
- 
- Question on which Advance Ruling sought 
-12.    Whether the Entry no. 3(v) of the Notification No. 11/2017-Central Tax (Rate) 
-dated 28.06.2017 (the Notification), as amended from time to time, is applicable to 
-supplies by Intellecon under the Contract I and Contract II and resultantly, whether such 
-supplies are subjected to 12% rate of Goods and Services Tax (‘GST’).  
+10-2lissued by West Central Railway in this regard.
+Question on which Advance Ruling sought
+12.
+Whether the Entry no. 3(v) of the Notification No. 11/2017-Central Tax (Rate)
+dated 28.06.2017 (the Notification), as amended from time to time, is applicable to
+supplies by Intellecon under the Contract I and Contract II and resultantly, whether such
+supplies are subjected to 12% rate of Goods and Services Tax ('GST').
+Page 9 of 11
 
+Personal Hearing
+13. Personal hearing granted on 18-2-22 was attended by Ms.Ruchita Shah, CA and
+written submission was reiterated.
+Revenue's Submission
+14. Revenue has neither submitted its comments nor appeared for hearing
+Findings
+15. At the outset we would like to make it clear that the provisions of CGST Act and
+GGST Actare in parimateria and have the same provisions in like matter and differ from
+each other only on a few specific provisions. Therefore, unless a mention is particularly
+made to such dissimilar provisions, a reference to the CGST Act would also mean
+reference to the corresponding similar provisions in the GGST Act.
+16. We have carefully considered the submissions made by Intellicon.
+17. We find that the EPABX system comes into existence by assembly and connection
+of various goods/components, wherein transfer of property of such goods is involved in
+the execution of said contracts. We note that EPABX system once installed cannot be
+taken to market in as such condition. It would be required to be dismantled and
+disassembled in parts and components. In the process of dismantling, some parts of the
+EPABX system such as cables, connectors may even be damaged/ may not be usable
+again. We, thereby, hold that an installed and commissioned EAPBX system becomes an
+immovable property and thereby its supply with installation and commissioning is Works
+Contract Service supply.
+18. We find it apt to refer to CBEC Order No. 58/1/2002-Cx dated 15-1-2002 issued for
+the purpose of uniformity in connection with classification of goods erected and installed
+at site. This said CBEC order was issued in wake of plethora of judgments appear to have
+created some confusion with the assessing officers, the matter was examined by the
+Board (CBEC) in consultation with the Solicitor General of India and the matter was
+clarified vide said Order and the relevant extract is reproduced as follows and we hold
+that its rationale and concept are relevant under GST scheme of law also. CBIC in Para
+(e), 5 (iv)has clarified that,
+(e) If items assembled, or erected at site and attached by foundation to earth cannot be
+dismantled without substantial damage to its components and thus cannot be reassembled,
+Page 10 of 11
 
-Page 10 of 11 
- 
- 
-Personal Hearing 
- 
-13. 
-Personal hearing granted on 18-2-22 was attended by Ms.Ruchita Shah, CA and 
-written submission was reiterated. 
- 
-Revenue’s Submission 
- 
-14.    Revenue has neither submitted its comments nor appeared for hearing 
- 
- 
-Findings 
- 
-15.   At the outset we would like to make it clear that the provisions of CGST Act and 
-GGST Actare in parimateria and have the same provisions in like matter and differ from 
-each other only on a few specific provisions. Therefore, unless a mention is particularly 
-made to such dissimilar provisions, a reference to the CGST Act would also mean 
-reference to the corresponding similar provisions in the GGST Act. 
- 
-16. 
-We have carefully considered the submissions made by Intellicon. 
- 
-17. 
-We find that the EPABX system comes into existence by assembly and connection 
-of various goods/components, wherein transfer of property of such goods is involved in 
-the execution of said contracts. We note that EPABX system once installed cannot be 
-taken to market in as such condition. It would be required to be dismantled and 
-disassembled in parts and components. In the process of dismantling, some parts of the 
-EPABX system such as cables, connectors may even be damaged/ may not be usable 
-again. We, thereby, hold that an installed and commissioned EAPBX system becomes an 
-immovable property and thereby its supply with installation and commissioning is Works 
-Contract Service supply. 
-18.  We find it apt to refer to CBEC Order No. 58/1/2002-Cx dated 15-1-2002 issued for 
-the purpose of uniformity in connection with classification of goods erected and installed 
-at site. This said CBEC order was issued in wake of plethora of judgments appear to have 
-created some confusion with the assessing officers, the matter was examined by the 
-Board (CBEC) in consultation with the Solicitor General of India and the matter was 
-clarified vide said Order and the relevant extract is reproduced as follows and we hold 
-that its rationale and concept are relevant under GST scheme of law also. CBIC in Para 
-(e), 5 (iv)has clarified that, 
-(e) If items assembled, or erected at site and attached by foundation to earth cannot be 
-dismantled without substantial damage to its components and thus cannot be reassembled, 
-
-
-Page 11 of 11 
- 
-then the items would not be considered as moveable and will, therefore, not be excisable 
-goods. 
-5 (iv) If the goods are incapable of being sold, shifted and marketed without first 
-being dismantled into component parts, the goods would be considered as 
-immovable and therefore not excisable to duty.” 
- 
-19.   We find it apt to refer to case law: Municipal Corporation of Greater Bombay & ors. 
-V. Indian Oil Corporation Ltd. [199 Suppl. SCC 18] , wherein one of the questions  
-Hon’ble Supreme Court considered was whether a petrol tank, resting on earth on its own 
-weight without being fixed with nuts and bolts, had been erected permanently without 
-being shifted from place to place. It was pointed out that the test was one of permanency; 
-if the chattel was movable to another place of use in the same position or liable to be 
-dismantled and re-erected at the later place, if the answer to the former is in the positive it 
-must be a movable property but if the answer to the later part is in the positive then it 
-would be treated as permanently attached to the earth. We find the test of permanency 
-laid down by the Apex Court has been answered in subject case. Further, EPBAX system 
-once installed and commissioned in the building is transferred to the building owner and 
-this involves transfer of property.  
-20. 
-The subject supply pertains to Railways as it is for supply in railway office. As per 
-Section 2(31)(d) Railways Act, 1989 , railway includes all offices and any other works 
-constructed for the purpose of, or in connection with, railway. 
-21. In conspectus of aforementioned findings, we pass the Ruling: 
- 
- 
- 
- 
- 
- 
-RULING 
-The subject supplies of EPABX system for Railways is covered at entry No. 3 (v) 
-of Notification No. 11/2017-CT (R) dated 28-6-17, as amended, and liable to 12% GST.  
- 
- 
- 
-   
-(ATUL MEHTA)                      
- 
- 
-    (ARUN RICHARD)    
-       MEMBER (S)                  
-                          MEMBER (C) 
-Place: Ahmedabad 
+then the items would not be considered as moveable and will, therefore, not be excisable
+goods.
+5 (iv) If the goods are incapable of being sold, shifted and marketed without first
+being dismantled into component parts, the goods would be considered
+as
+immovable and therefore not excisable to duty."
+19. We find it apt to refer to case law: Municipal Corporation of Greater Bombay & ors.
+V. Indian Oil Corporation Ltd. [199 Suppl. SCC 18] , wherein one of the questions
+Hon'ble Supreme Court considered was whether a petrol tank, resting on earth on its own
+weight without being fixed with nuts and bolts, had been erected permanently without
+being shifted from place to place. It was pointed out that the test was one of permanency;
+if the chattel was movable to another place of use in the same position or liable to be
+dismantled and re-erected at the later place, if the answer to the former is in the positive it
+must be a movable property but if the answer to the later part is in the positive then it
+would be treated as permanently attached to the earth. We find the test of permanency
+laid down by the Apex Court has been answered in subject case. Further, EPBAX system
+once installed and commissioned in the building is transferred to the building owner and
+this involves transfer of property.
+20. The subject supply pertains to Railways as it is for supply in railway office. As per
+Section 2(31)(d) Railways Act, 1989, railway includes all offices and any other works
+constructed for the purpose of, or in connection with, railway.
+21. In conspectus of aforementioned findings, we pass the Ruling:
+RULING
+The subject supplies of EPABX system for Railways is covered at entry No. 3 (v)
+of Notification No. 11/2017-CT (R) dated 28-6-17, as amended, and liable to 12% GST.
+(ATUL MEHTA)
+MEMBER (S)
+Place: Ahmedabad
 Date: 07.03.2022
+(ARUN RICHARD)
+MEMBER (C)
+Page 11 of 11

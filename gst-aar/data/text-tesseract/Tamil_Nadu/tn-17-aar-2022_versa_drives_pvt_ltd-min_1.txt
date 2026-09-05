@@ -1,0 +1,670 @@
+AUTHORITY FOR ADVANCE RULING, TAIVIILNADU
+INTEGRATED COMMERCIAL TAXES OFFICE COMPLEX, DOOR NO.32,
+Srrr FLooR, RooM No. 5o3, ELEPHANT GATE BRIDGE ROAD,
+CHENNAI - 600 OO3.
+PROCEEDINGS OF THE AUTHORITY FOR ADVANCE RULING U/s.98 OF THE
+GOODS AND SERVICES TAX Agf, 2OL7.
+Members present are:
+1. Shri T.G.Venkatesh, I.R.S., Additional Commissioner/Member,
+Office of the Principal Chief Commissioner of GST & Central Excise, Chennai -34
+2. TrntK.Lat}:a., M.Sc., (Agri), Joint Commissioner (ST)/ Member,
+Office of the Authority for Advance Ruling, Tamil Nadu, Chennai-3.
+ORDER No. 17|AAR/2O22 DATED: 31.O3.2O22
+GSTIN Number, if any / User id
+33AADCV2259E7ZK
+Legal Name of Applicant
+VERSA DRIVES PRIVATE LIMITED
+Registered Address/Address
+provided while obtaining user.id
+38 B, VADAKKU THOTTAM PART, IDIKARAI,
+COIMBATORE.-64TO22
+Details of Application
+GSTARA- 0l Application Sl. No. A2/2O22./ARA
+dated: 07.O7.2O22
+Concerned Officer
+Centre: COIMBATORE Commissionerate
+State: Thudiyalur Assessment Circlb.'''
+Nature of activity(s) (proposed /
+present) in respect of which
+advance ruling sought
+A
+Category
+Office/sale office
+B
+Description (in Brief)
+The applicant is engaged in developing solar pump
+controller for solar submersible pump application.
+Issue/s on which advance ruling
+required
+Classification of goods
+Question(s) on which advance
+ruling is required
+1. Tax rate for HSN code 85 04 40 90
+2.HSN code for solar pump controller
+Page 1 of 14
+
+
+Note: 
+Any appeal against the Advance Ruling order shall be filed before
+the Tamil Nadu State Appellate Authority for Advance Ruling, Chennai
+under
+Sub-section (11 of Section 1OO of CGST ACT/TNGST Act 2OL7
+within 3O days from the date on which the ruling sought to be appealed
+against is communicated.
+At the outset, we would like to make it clear that the provisions of both
+the Central Goods and Senrice Tax Act and the Tamil Nadu Goods and
+Senrice Tax Act are the same except for certain provisions. Therefore,
+unless a mention is specifically made to such dissimilar provisions, a
+reference to the Central Goods and Service Tax Act would also mean a
+reference to the same provisions under the Tamil Nadu Goods and Senrice
+Tax Act.
+VERSA DRIVES PRIVATE LIMITED, 3BB, VADAKKU THOTTAM PART,
+IDIKARAI, COIMBATORE-641022 (hereinafter called the Applicant) are registered
+under GST with GSTIN 33AADCV2259EIZK. The applicant has sought Advance
+Ruling on the following questions:
+1. Tax rate for HSN code 85 04 40 90
+2. HSN code for solar pump controller
+The Applicant has submitted the copy of application in Form GST ARA - 01 and
+also submitted a copy of Challan evidencing payment of application fees of
+Rs.5,0O0/- each under sub-rule (1) of Rule 104 of CGST rules 2Ol7 and SGST
+Rules 2OI7.
+2.L The applicant has stated that they have developed a Solar Pump Controller
+for Solar Submersible Pump Application and have classified the controller under
+HSN code 85044090 and assesses @18% GST. They have stated that when they
+submitted the quote to the customer, the customer is of the view that it should be
+charged at 5o/o. The applicant is seeking clarification on what is the rate for HSN 85
+04 40 90 to enable them to start billing the products.
+2.2 The applicant has stated that the solar powered devices tax rate is 57o, but
+there is no clarity on what kind of a solar powered devices are at 5%o tax and in
+some places that raises concern to the buyer. There is no clarity in GST rate index
+where B digit HSN codes are not there for most of the products. They have stated in
+general solar powered devices tax rate is 5% but there is no clarity on what kind of a
+solar powered devices are at 5%. They have further stated that tax rate index has to
+Page 2 of 14
+
+
+be with 8-digit HSN code and more information should be there so that these issues
+will not be faced by a designer and manufacturer like them.
+3.1 
+Due to the prevailing PANDEMIC situation and in order not to delay the
+proceedings, the applicant was addressed through the Email Address mentioned in
+the application to seek their willingness to participate in a virtual Personal Hearing
+in Digital media. The applicant consented and the hearing was held on O3.O2.2O22.
+The Authorised Representative (AR), Ms. K. Maheswari, Vice President Operations
+appeared for the hearing virtually and reiterated the submissions. The AR stated
+that tlle pumps are used for agricultural purposes which will run only on solar
+power and not on electricity. The controllers are standalones, independent of the
+pump/solar panel. These are being designed and manufactured by them. The
+Member asked whether this product can be used in conjunction with DC
+mode/battery. The AR replied that this will be operated only on solar power and
+operating via DC mode is not feasible. When asked by the Member to submit
+invoices issued and PO's obtained the AR replied that they have not issued any
+invoices so far and before obtaining PO they wanted to clarify on the HSN code and
+tax rate applicable. They were asked to submit the following documents:-
+(i) Detailed write up on the product, components, its functions along with
+photographs; (ii) contention of their buyers for claiming the rate at 5%; (iii) method
+of manufacture, whether indigenous or assembled; (iv) if the pumps are only
+supplier or any other allied services rendered; (v) any certification obtained about
+the product being solar energr based.
+3.2 The applicant vide their email dated O5.O2.2O22 and letter dated 16.02.2022,
+submitted the following details/ documents:
+The product uses around 300 components, wherever they source its only in
+component form. Components used are electronic components like
+Microcontroller, IGBT Modules, Chip Resistors, Capacitors and
+Semiconductor components, these components were purchased from
+Electronic Component Traders / Distributors / Dealers across India. Some of
+thc eornponents wcre nut dr:alt by theur thuse a-r'e UI,ILY impultud only
+component level. Bare PCBs were manufactured in India. These components
+were assembled, tested and manufactured as product in house. Multiple
+PCBs were connected through connectors and wires which are bought in
+Page 3 of 14
+
+
+India. Heatsink is manufactured for their need in India ( They have made a
+customized tool for the same ). The plastic enclosure was done through
+injection moulding in Coimbatore itself. The product was designed
+(Hardware and firmware ) inhouse by their R&D engineers and the firmware
+was written by their R&D engineers. They have stated that their product is
+an indigenous product designed and manufactured by them. As this is an
+electronic product, India doesn't have the facility to manufacture those tiny
+powerful Integrated circuits which needs to be imported as components /
+bought through the authorised distributors / dealers / traders in India. They
+had enclosed LeaIlet, user manual and photographs which are as follows:
+*W
+W*{st** %x*6 mx" S3 r"r?"l"l rr 13 *"iv4*
+Sustainable 
+energy forms are pr€val€nt 
+in agricultural
+applications 
+because of the flexibility 
+in in*allation. 
+use,
+and gwernment 
+subsldy. 
+Vers 
+Orlves manufactures
+top-class drlve products that are known br rellabllity and
+sustaina bility-
+versa sotar pump drlves follow MNRE speclficatlons. 
+They are
+compact 
+wlth 
+remote 
+monltorlng 
+feature 
+and 
+optlmal
+pefrrmance.
+These drlves are compatlble 
+wlth both aclM and PM5M. The
+bullt-ln MPff 
+algorithm 
+optimizes 
+pedomanc€ 
+of the PumP
+by utillzing maximum 
+power available at the elar panel.
+ta$r**t* 
+td$ni?*riin St
+The remote monitorlng 
+systeh 
+support 
+ls provolded 
+as an
+add-on teature. 
+tt allows users to monitor 
+paramoters 
+like
+water output, water flow rate, a frult condition, 
+PV artay InPut
+voltage,/current, 
+output 
+pgwer, and motor speed. remotely
+from any location. The loeal memory 
+of the solar drlve can
+hold 
+the 
+paramaters 
+upto 
+I year. 
+lr provldes 
+excellent
+connectivlty 
+to 
+cloud 
+envlronment 
+using 
+GSM
+LrSp{:
+USPC controller 
+ls a Uniwersal Solar Pump Controller 
+that 
+is
+versatlle 
+and can be used in any induction 
+motor based
+applications 
+like a sh.edder, 
+cutter, and cold storags. versa
+solar pump drlve ls USpC compatlble. 
+lt has provlslons to be
+upEraded as USPC if reulred"
+&g'P
+Page 4 of 14
+
+
+?t**i'rnica$ Sp**lfic,l*tiq*rt sf Versa Solar lturnp Driwe
+i s. lo i earameter
+:l
+:7
+B
+9
+Pante / Ch.actedsilc!
+V/f control for ACIM
+Sensorlss Vedor control for PMSM
+- 
+9A@3€Vda
+. 
+toA@02€V.c
+l
+''-..'","-.*299:-.:".'.".-*-.-.
+: 
+aA@6oovd.i 
+rsA@d4zov& 
+t6A@ooVa. 
+A 
+I
+9a€D4rsve 
+rza@so%. 
+i 
+,roqooarr.. 
+o
+Flefer to ttle user manual and the datasheet for detaited information.
+lto
+*a
+3-phase PMSM. 3-phas ACIM
+o-200
+LCO Dlsplay
+Va<
+RS4€5 
+for RMS
+O-5O 
+'C 
+,
+. 
+. ?s% n9n-cond,ssinq, max
+Yes.. 
+a 
+,
+Y:i (9q!!919r1 ,,,., 
+, ,, 
+.. 
+,:
+Yes
+Y6:
+Applications
+- Ag.icultuEl 
+pump sets
+* Domestac use
+. Solar poors
+- Solar-powered fountalns
+: 
+%.
+,.%
+Hz
+: '''.
+- :... . .... .
+to
+iI
+I2
+. , -11..
+11
+t6
+f o|further 
+inforfnation;frid 
+Ftrrch;rse 
+visit./.#.t.versa.lrives-{f,r,ri
+m !,,s1,p,,e.,ev!ves
+g 3a B,vadakku Thottam Part,
+ldikarai. Coirnttatore. Tamil Nadu
+INDIA 6/r]O22.
+- 
+contact@versadrives.com
+\- 0422-297279A / 2972799 / 2972AOO
+Page 5 of 14
+
+
+The applicant has also submitted the user guide of Versa Solar Pump Drive,
+which includes the product overview, installation & wiring, Startup &
+operation, Diagnostic & troubleshooting details.
+Contention of their buyers for claiming the rate as 57o - when the customers
+asked for a 5o/o GST it was not clear, that was why the applicant has sought
+for clarification. Thev wanted to know clearlv the Tax rate for HSN Code 85 04
+40 90.
+Method of manufacture, whether indigenous or assembled - The product is
+indigenous by design and manufacturing.
+If the pumps are only supplied or any allied services rendered -They are not
+supplying the pumps - they supply only the electronic controller which takes
+the power from Solar Panel and drives the motor of the submersible pumps.
+They only manufacture electronic controller. These controllers will be bought
+by submersible pump manufactures, solar panel manufacturers & Dealers
+and System Integrators. System Integrators will integrate Solar Panel, Solar
+Pump Controller and Submersible pumps.
+Any certification obtained about the product being solar enerry based: There
+is no certification obtained, they are not aware on where to get this one. But
+they can self-declare.
+Their product cannot work with grid supply from Electricity board ( the
+voltage from Electricity board is AC but the voltage from Solar panel is DC ).
+If someone connects the battery it won't work simply, the battery should
+deliver large amount of current. Just like, how in home the UPS cannot run a
+mixer grinder / Wet Grinder / IronBox / electric Water heater.
+Further, vide their e-mail dated 21"t March 2022, they have stated that
+in common man's language, the product they have developed will be connected
+between solar submersible pump which is submerged into the borewell and the
+Solar panels.; that this controller will provide the maximum output based on the
+solar profile.
+4.I The Centre Jurisdictional authority who has administrative control over the
+applicant has submitted that as on date there are no pending proceedings on the
+issue raised by the applicant. They have furnished the following comments:
+classified under HSN 85437092 under the description 'ELECTRICAL
+3.3
+Page 5 of 14
+
+
+MACHINES AND APPARATUS HAVING INDIVIDUAL FUNCTIONS, NOT
+SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER OTHER
+MACHINES AND APPARATUS OTHER EQUIPMENT GADGETS BASED ON
+SOLAR ENERGY" since solar pump controller is a equipment having
+individual function based on solar ener5/.
+power based devices falling under chapter 84 or 85 is mentioned in
+Sl.No.234 of the list of goods @5% GST under schedule I of Rate of GST
+on goods booklet given in www.cbic gst gov.in.
+application 'falling under chapter 84 or 85 is 5%
+5. 
+The State Jurisdictional Authority has stated that there are no pending
+proceedings in the applicant's case.
+6.1
+We have carefully examined the statement of facts, supporting
+documents filed by the Applicant along with application, oral submissions made at
+the time of Virtual hearing, submissions made after hearing and the comments of
+the Jurisdictional Authority. The appticant has stated to have developed the solar
+pump controller which has applications in Agricultural pump sets, Domestic use,
+Solar Pools and Solar-powered fountains. They have sought ruling on following
+questions:
+1. Tax rate for HSN code 85 04 40 90
+2. HSN code for solar pump controller
+The questions raised is on the Classification of the goods and the applicable rate of
+tax on such goods proposed/being supplied by the applicant. Therefore, the
+questions are covered under the ambit of this authority under Section 95(al/97(2) of
+the CGST Act2OIT and are taken up for consideration on merits.
+7.r
+The applicant has sought the correct HSN Code (8 digit level) and the
+applicable Tax rate in respect of the Versa Vane Solar Pump Controller indigenously
+rlesigned attd rrurrrtrf;rr:trrred hy them using companents locally sourced and in case
+of non-availability, after importing the sarne in the component level. From the
+submissions it is seen that
+VDCSOO-XX-SP drives.
+PageT of L4
+
+
+They are compact controllers with remote monitoring and optimal
+performance.
+These drives are compatible with both AC Induction Motor (ACIM) and
+Permanent Magnet Synchronous Motor (PMSM). It has highly efficient
+Maximum Power Point Tracking (MPPT).
+Versa Vane allows users to monitor the parameters remotely, from any
+location, like water output, water flow rate, a fault condition, PV array input
+voltage/current, output power, and motor speed. The local memory of the
+solar drive can hold the parameters for up to 1 year. It provides excellent
+connectivity to the cloud environment using GSM communication.
+induction motor-based applications like a shredder, cutter, and cold storage.
+Versa Vane is USPC compatible. It has provisions to be upgraded as USPC if
+required.
+On the Features of the product, the following are stated:
+From the 'Technical Specification'furnished, it is seen that MPPT efficiency of the
+product is greater tl:^an 98o/o. From the user manual furnished for VDC 800-XX-
+SPYY-BMU it is seen that t] e drive is available in 5 models , i.e., without
+BMU/With B only/with M only/With U only/ with BMU and the configuration is as
+follows:
+Page 8 of 14
+
+
+VDC-Versa DC Series; 8OO-Maximum input voltage; XX-Maximum input current;
+SP-Solar Pump application YY-Pump rating in HP; BMu-B-Bluetooth, M-Memory, U-
+UPSC.
+It is further self-declared by the applicant that the input of the product being DC,
+the product cannot work with grid supply from Electricity Board and if a battery is
+connected, the product will not work as the battery should deliver large amount of
+current.
+7.2 It is seen from the above various submissions that the product is a controller
+which provides the maximum output based on the solar profile. The controller
+takes the power from Solar Panel and drives the motor of the submersible pumps.
+The applicant has stated that these products are sold as 'stand-alone'products and
+will be bought by submersible pump manufacturers, solar panel manufacturers&
+dealers and System Integrators who wili integrate Solar Panel, Solar pump controller
+and Submersible pumps. They are classifying the product under CTH 85044090.
+7.3 
+Prima facie, the classification of the product is taken up. Under GST, as per
+the Explanation to Notification No. O1/2017-C.T(Rate) dated 28.06.2017, the
+Customs Tariff which is based on HSN is made applicable. Therefore, the relevant
+entries in customs Tariff and the related Explanatory notes (HSN) are examined as
+under:
+Csrrrrn 85
+Electricol machinery and. equipment and pafis thereof; sownd recorders ondteproducers, tel.evision
+image and sottnd tecordets and reltrodacersrand parts and aecassories of sunk artielzs
+NOTES:
+2. Headings S50lto8504donotapplytogoodsdescribedinheadings 
+85tl,35 12.8540,8541 or
+8542. Hon'ever, nretal tank mercury arc rectifiers rErnain classificd in headirrg 8504.
+8504
+Er,scrercAl TRAh'sFoR$tERs, sr.{Trc
+coxlTR.TERS (rOn Utr.+ler,E, RECTIFIERS)
+AIiID INDUCTOES
+Stsfis convertera:
+Electric igverter
+f.act{fier :
+Dip bridge rectifier
+Other
+Eatterlr chargcrs
+Votrtage regulator and stabilizers (oth.er
+than autorrratic)
+Other
+8504 40
+8504 40 lO
+8504 40 2l
+8504 40 29
+8504 40 30
+8504 40 40
+8504 40 90
+Page 9 of 14
+
+
+8511
+8512
+8540
+Er,acrruc,rr. rcltrrrotr tlR s?AnTg{G EQLIrP*rmrr tr
+A trCTND LTSEI} FoR SPAAIC-IGNITISg OR- COT'PRE$SIO3f-
+rct{ffrotr B{TERNAL coMrltsrroN E$rGs{Es (rox
+EJL.tlIPr,E, TGNTTTON il.{GNETOE ilf-dGNETO-DT!{S}lOSt
+rcfiffrolr col',s, sPARr{E'rG PLUGS A]\I} G.LOIil" PLTIGS!
+sTARTEB" umons); 
+cEltER*ToRs (rox. E:cA*IPL&
+DlTgAlros! .tr,rrxnitrons) AriD guT- otiTs cr A KD{D
+I,ISEI) I3{ C0} TLTT$CTI(NY I}TTE SU.CS ESSGIITIES
+Er,ucrgcrrr" LTGHTBIG oR- srGNAr,LrNG EQLITPMETs?
+{r:rcl,r.nu*c ARTrrs,Es oF sEAr}r}IG 8539h
+W.MDSCSSEFa EIPERSr DEFROSTEES AICD DE}IISTERS'
+OF A IdT}iD UHEI} Ft}A" ctsCT,ES OR..}fOTOR IlffiICLES
+Tmnlmomc, corrl carncxlE oa. PEaxo-cArE{tDE
+*-Ar"l'Es AsD TUBEs {rex nn*lcr,e" }-Agt;trsf oR
+}'AP(}TJR. OR. GAS fiI;LED A"AI"IIES ASSD TLIBES, }!ERCUR1ts
+;rRrc -RECTIfYTNG 1iALTES ArD IrrnES, CAEEOTIE-RAY
+TttBES, TELEA-H;rO3* CAilIER;. rrrees]
+SESIICONDUCf OR D IAffiS {FOR E:t{,lifFtr E" DI(}$ES"
+TR*{:\ SrgToRS, $f,"}fiCt}}iDUCTOR BASED T*-'I}{SDLTCERSh
+8541
+FEOTT}SENSITI\T
+$E1{IC0NI}L;CTOR, 
+DEIACES,
+8542
+INCLUI}LTG PIIO?OITOLSJIIC CELLS 1KIIETITER OR I{OT
+ASS€ITTBLE,I} I3i &{ODCASS GR, }'TAI}E TIP IFITO PJI,HE&S;
+LrGHT-E}IITTrNG DTODES [t ES], T]gETrrER OR lfOT
+.{SSE}IBLE,D I11ITE OTIISR LIGHT-E*TITTI*G T}IOBES
+(LS$); *{OLNTED PIES0-EIECTRIC. CR'YSTALS
+Er,ucrRoi{c NTEcRATET} cnctrrrs
+Explanatory Notes of HSN relevant to the Heading 8504 are examined as under:
+(rr) ELECTRTCAL STATIC CONVERTERS
+The apnaratus of this sroup are used to convert electrical energy in order to adapt it for further
+uie. ffiev incomorati convertins elements (e.s., valves) of -different tvpes. They may also
+inconrorate vari6us auxiliary dev*ices (e.e., tiansfoffners, induction coili, resistors, command
+regulltors, etc.). Their opeiation is bdsid on the principle that the converting elements act
+alt-ernately as c ilnductors and non-conductors.
+Thc lirot thut thsso opporohro ofton incorporots fltudiery circuitr to regulate thc voltngc nf the
+emerging current doe's'not affect their claisiflcation in this Sroup, nur tfucs the laut thaf they are
+somelimEs referred to as vultage or curretlt tegulators.
+7.4 
+Thus, as per Chapter Note 2 to Chapter 85, Heading 8501 to 8504 do not
+apply to goods described in Headings 851 I,8512,8540,8541 or 8542. On perusal of
+the Headings 851L, 85L2,8540, 8541 and 8542, it is clear that the product in hand
+do not fall under these Headings and the product being a Convertor, is likely
+covered under CTH 8504 above, more specifically under CTH 8504 40 90. It is
+Page 10 of 14
+
+
+further seen from the Explanatory notes, that the apparatus of this group are those
+used to convert electrical eners/ in order to adopt it for further use.
+7.5 
+Applying the above to the product at hand, it is seen form the product
+overview that the applicant's product is designed and manufactured exclusively for
+pumps (ACIM/PMSM). Their product is an electronic controller connected between
+the solar submersible pump which is submerged into the bore well and the solar
+panels. It takes power from the solar panel which is a DC power and drives the
+ACIM/PMSM pumps. The built in Maximum power point tracking (MPPT) algorithm
+optimizes the performance of the pump by utilizing the maximum power from the
+solar panei and also regulates the voltage and current coming from the solar panel.
+Thus, it is evident from the above facts and ttre explanatory notes to CTH 8504 that
+the applicant's product merits classification under Chapter 85 in CTH 8504 and
+more specifically under CTH 8504 40 90- as Static converters(others); in as much as
+the Explanatory notes has specifically stated that incorporation of auxiliary circuits
+to regulate the voltage of the emerging current does not affect their classification in
+this group.
+8.1 
+Having decided the classification of the product as falling under CTH 8504,
+the next issue to be decided is the applicable rate of Tax. In the case at hand, it is
+seen that the product solar pump convertor drive is to be placed between the solar
+panel and the submersible pump and the power from the solar panels are converted
+by this device when connected between the panels and pump; maximise the power
+availability to the Load, i.e., the submersible pumps. Further, the drive provides for
+remote monitoring supporL and is compatible and may be upgraded as an USPC
+[Universal Solar Pump Controller]. On perusal of 
+the 
+MNRE
+website[https://mnre.gov.in], the page [https://mnre.gov.in/solar/standard-specs-
+costl, gives the specification of tJ:e Solar Photovoltaic Water Pumping Systems in
+Annexure-I of Circular No. F. No. 4I/3/2OI8-SPV Division dated I7.7.2OI9,
+wherein Para2.8 and2.9 states as under:
+2.8 SPV Controller - Pump Controller converts the DC voltage of the SPV
+affay into a suitable DC or AC, single or multi-phase power and may also
+include equipment for MPPT, remote monitoring, and protection devices.
+2.9 Maximum Power Point Tracker (MPPT) - MPPT is an algorithm that is
+included in the pump controller used for extracting maximum available power
+from SPV array under a given condition. The voltage at which SPV array can
+Page 11 of 14
+
+
+produce maximum power is called 'maximum power point' voltage (or peak
+power voltage).
+and on construction of such Pump, under Para 3.6 it is stated as follows:
+3.6 SPV Controller
+3.6.1 Maximum Power Point Tracker (MPPT) shall be included to optimally
+use the power available from the SPV array and maximize the water
+discharge.
+3.6.2 T}:re SPV Controller must have IP (65) protection or shall be housed in a
+cabinet having at least IP (65) protection.
+3.6.3 Adequate protections shall be provided in the SPV Controller to protect
+the solar powered pump set against the following:
+a) Dry running; b) Open circuit; c) Accidental output short circuit; d) Under
+voltage; e) Reverse polarity; 0 SPD to arrest high current surge; and g)
+Lightening arrestor.
+3.6.4 A good reliable DC Circuit Breaker as per IS/IEC 60947-2 suitable for
+switching DC power ON and OFF shall be provided in the SPV Controller.
+3.6.5 All cables used shall be as per IS 694. Suitable size of cable shall be
+used in sufficient length for inter-connection between the SPV array to SPV
+Controller and the SPV Controller to solar powered pump set. Selection of the
+cable shall be as per IS 14536.
+3.6.6 Controller shall be integrated with GSM/GPRS Gateway with Geo
+tagging. GSM/ GPRS Charges to be included in the Costing till the end of
+Warranty period of the Pump set.
+In the instant case, the product has MPPT, IP(65) protection, dry run protection and
+such other features as stipulated in the above specifications, which shows that the
+product is a stand-alone device and when connected to solar panel converts the
+solar power into AC, optimizes the power and delivers it to the load, i.e., the
+submersible pump making such pump as solar power driven pump,
+8.2
+We have found that the product is classifiable under CTH 8504 and
+when such convertor draws DC power from the Solar Panels, converts it into AC,
+optimizes and make it available for the submersible pump along with auxiliary
+functions such as Remote Monitoring, etc, the SPV convertor/solar pump Drive, it is
+'Solar Power based device'. Thus, in cases when the Drive is used for Solar power
+Integration to connect the solar panels and the AC submersible pumps, these
+products are 'solar Power based devices'.
+Page 12 of 14
+
+
+8.3 
+We find that the applicable rate was specified under Sl.No. 234 of Schedule I
+to Notification No. OI/2OI7-C.T.(Rate) dated 28.06.2077 from O7.O7,2OI7 to
+3O.O9.2O2L Effective 01.10.202I, the said entry is omitted and the applicable tax
+rate of the product is as per Sl.No. 2O1A of Schedule-Il of Notification No. OI/2OI7-
+C.T.(Rate) dated 28.06.2017 as amended by Notification No. O8/2O21 dated 30th
+September 2O2I. The relevant entries are extracted as under:
+S.No. 234 of Schedule-I of Notification no. 07/2O17-C.T.(Rate) dated 28.06.2017
+effective upto 3O.09 .2OI7 :
+Sl.No. 2OLA of Schedule-Il of Notification no. OI/2O17-C.T.(Rate) dated 28.06.2017,
+effective from 0 1. IO.2O27:
+Following 
+reneq.able energy devices and parts for their
+manufacture:-
+(a) Bio-gas plarrt;
+(b) Solar lloaver based devices:
+(c) Sotrat' po1 /sr g€treratori
+(d) \eriEd mills, \fr/i8d Operated El€ctricity 
+Cietlerator
+(!\/oEG);
+(€) \illaste to €trergy l>lalrts ,/ de!'ices:
+(f) solar laj3tern r' solar larrrp;
+(g) ()cean wa"wes/tidal wav6s eltergy dea'icesy'plarrts;
+th) Pl" oto voltaic cells, whetlter or rtot asserableci in rnodules
+or rnade r.rp into panrels-
+Explanatio$.:- 
+If 
+tbe 
+goods 
+specifle<l 
+i:: 
+tl:is 
+entry
+9.
+Chapter /
+Ileading I
+Sub-heading
+/ Tarilf item
+Follorving renervable energy devices & p*rts for their manufacfure
+{a) Bio-gas plant
+(b) Solar power based devices
+(c) Solar power generating system
+(d) Wind mills, Wir:d Operated Electricity Generator (WOEG)
+(e) Waste to energy plants / devices
+(f) Solarlantern / solar lanrp
+Ocean waves/tidal waves
+Chapter /
+Ileadiug I
+Sub-heading
+/ Tariffitem
+Description of Goods
+*201A
+44. 85 or 94
+ln view of the foregoing, we rule as under:
+Page 13 of 14
+
+
+RULING
+1. The applicant's product "Versa Solar Pump Drive" being a convertor is
+classifiable under CTH 8504, more precisely CTH 8504 4O9O.
+2. The applicable rate of tax on the above said product, when supplied for
+integration with solar panels and AC submersible pumps, as discussed at para 8
+above, as effective from O1.7O.2O2I, is CGST @ 6% as per S1. No. 201 A of
+Schedule II of Notification OI/2017 CT (Rate) dated 28.06.2077 as amended vide
+Notification No.8/2021- Central Tax (Rate) dated: 30.O9.2021 and SGST @ 6oh as
+per Sl. No 201 A of Schedule-Il of Notification No. II (2)/ CTR/532(d-4) (G.O. Ms.
+No 62, CTR dated:29.06.2017) as amended vide Notification G.O.Ms. No 121(TN)
+dated: O4.1O.2O21 w.e.f OI.7O.2O2I.
+,-.JM
+Member (SGST)
+/l/\w,,,/
+ShTi.T.G.VENKATESH
+Member (CGST)
+To
+VERSA DRIVES PRIVATE LIMITED,
+38 B, VADAKKU THOTTAM PART,
+IDIKARAI. COIMBATORE- 64 TO22
+// BY SPEED POST WITH ACK.DUE //
+Copy Submitted to:
+1. The Principal Chief Commissioner of GST & Central Excise,
+26 / 7, Mahatma Gandhi Road, Nungambakkam, Chennai-600034.
+2. The Additional Chief Secretary/Commissioner of Commercial Taxes/Member,
+IlndFloor, F;zhilagam, Chepauk, Chennai - 600 005.
+Copy to:
+3. The Principal Commissioner of GST & Central Excise Coimbatore
+Commissionerate, 6/7, A.T.D. Street, Race Course, Coimbatore- 641O18.
+4. Assistant Commissioner (ST) Thudiyalur Assessment Circle,
+Commercial Taxes Annexure Building, Dr. Balasundaram Chettiyar Road,
+Coimbatore- 641018.
+- AUTHORITY FOR
+I\DVANCE RULTNG
+3 r n[n 2022
+GOODS AND.SERVICE TAX
+Ct:cnnai-6:'farnilnadu
+5. Master File/ Spare - 2.
+Page 14 of 14

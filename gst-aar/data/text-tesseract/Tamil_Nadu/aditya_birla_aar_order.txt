@@ -1,0 +1,959 @@
+AUTHORITY FOR ADVANCE RULING, TAMIL NADU
+No.207, 2>4 FLOOR, PAPJM BUILDING, No.1, GREAMS ROAD,
+CHENNAI 600 006.
+
+ORDER UNDER SECTION 98(4) OF THE CGST ACT, 2017 AND
+UNDER SECTION 98(4) OF THE TNGST ACT, 2017
+
+Members present:
+
+Shri C.Thiyagarajan, I.R.S., Shri B.Suseel Kumar, B.E., MBA.,
+Additional Commissioner/Member (CGST), | Joint Commissioner/Member (SGST),
+Office of the Commissioner of GST and Authority for Advance Ruling,
+Central Excise, Tamil Nadu,
+
+Audit I Commissionerate, Chennai - 600 006.
+
+Chennai - 600 101.
+
+Advance Ruling No.44/ARA/2025, dated 31.10.2025
+
+1. Any appeal against this Advance Ruling order shail lie before the Tamil
+Nadu State Appellate Authority for Advance Ruling, Chennai under Sub-
+Section (1) of Section 100 of CGST Act 2017/TNGST Act 2017, within 30 days
+from the date on which the ruling sought to be appealed is communicated.
+
+2. In terms of Section 103(1) of the Act, Advance Ruling pronounced by the
+Authority under Chapter XVII of the Act shall be binding only-
+
+(a) On the applicant who had sought it in respect of any matter
+referred to in sub-section (2) Section 97 for advance ruling.
+
+(b) On the concerned officer or the Jurisdictional Officer in respect of
+the applicant.
+
+3. In terms of Section 103(2) of the Act, this Advance Ruling shall be binding
+unless the law, facts or circumstances supporting the original advance ruling
+have changed.
+
+4. Advance Ruling obtained by the applicant by fraud or suppression of
+material facts or misrepresentation of facts, shall render such ruling to be void
+ab initio in accordance with Section 104 of the Act.
+
+5. The provisions of both the Central Goods and Services Tax Act and the
+Tamil Nadu Goods and Services Tax Act (herein referred to as the Act) are the
+same except for certain provisions. Therefore, unless a mention is specifically
+made to such dissimilar provisions, a reference to the Central Goods and
+Services Tax Act would also mean a reference to the same provisions under
+the Tamil Nadu Goods and Services Tax Act.
+
+Page 1 of 22
+
+
+GSTIN Number, if any / User id | 33AATCS0544F1ZD
+
+Legal Name of Applicant TVL. ADITYA BIRLA GLOBAL TRAINING
+(INDIA) PRIVATE LIMITED
+
+Trade Name of Applicant TVL. ADITYA BIRLA GLOBAL TRAINING
+(INDIA} PRIVATE LIMITED
+
+Registered Address / Addre;SF No. 461, Ragavendra Garden,
+provided while obtaining user id| Subramaniyam Palayam Road, G.N. Mills
+Post, Coimbatore — 641 029.
+
+‘Details of Application GST ARA — O01 Application dated
+28.03.2025
+Jurisdictional Officer State: Velandipalayam Assessment Circle,
+
+Coimbatore Division
+
+Center: Coimbatore Commissionerate,
+
+Concerned Officer Coimbatore - II Division
+
+Nature of activity(s) (proposed /
+present) in respect of which
+advance ruling sought for
+
+A Category Wholesale Business and Service Provision
+
+B Description (in brief) The applicant is engaged in the business
+of (i) import and trading of certain goods,
+and (ii) providing cargo handling services.
+The applicant presently import and trade
+in Tea, Wood Charcoal, Coal, dried
+leguminous vegetable in the state of Tamil
+Nadu. It is contemplating to restructure
+its business operations and diversify to
+other products such as mineral ore and
+petrochemical products. They are already
+undertaking such business in other
+states.
+
+Issue/s on which advance rulirj 1. Classification of goods and / or service
+or both
+
+2. Determination of time and value of
+supply of goods or services or both.
+
+3. Determination of the liability to pay tax
+on any goods or services or both.
+
+4. Whether any particular thing done by
+the applicant with respect to any goods
+and / or services or both amounts to
+
+required
+
+Page 2 of 22
+
+
+or results in a supply of goods and / or
+services or both, within the meaning of
+that term.
+
+Question(s) on which advance] 1. Whether the supply of goods under the
+Sales contract and supply of handling
+services under the Service Contract
+would be regarded as independent
+supplies?
+
+ruling is required
+
+2. If the response to (Question No.1)
+above is affirmative, what would be the
+classification of Goods and Services
+supplied under the Sales Contract and
+Service Contract, respectively?
+
+M/s. Aditya Birla Global Trading (India) Private Limited, SF No. 461,
+Ragavendra Garden, Subramaniyam Palayam Road, G.N. Mills Post,
+Coimbatore-641029 (hereinafter ‘the Applicant’) The Applicant is engaged
+in the business of (i) import and trading of certain goods, and (ii) providing
+cargo handling services. While the Applicant presently import and trade in
+Tea (HSN 0902), wood charcoal (HSN 4402), coal (2701) dried leguminous
+vegetables (HSN 0713) in the state of Tamil Nadu, it is contemplating to
+restructure its business operations and diversify to other products such as
+mineral ore (HSN chapter 26), petrochemical products (HSN Chapter 27,
+28, 29), (hereinafter referred to as “Goods”). The Applicant is already
+undertaking such business in other states. The Applicant has made a
+payment of application fees of Rs.5,000/- each under sub rule (1) of Rule
+104 of CGST Rules, 2017 and SGST Rules, 2017.
+
+2. The Applicant is providing certain services in the nature of storage, cargo
+handling and security which includes 3PL/4PL logistic services to the
+buyers or any other person as may be required by them. The Applicant has
+requisite expertise in yard management and the team not only supervises
+the working of 3PL service providers, but also give instructions for efficient
+yard management and securitization of cargo. The Applicant is duly
+registered in the state of Tamil Nadu vide GSTIN 33AATCSO544F1ZD. In
+logistics, a 3PL (Third-Party Logistics) provider handles specific, execution-
+level tasks like warehousing and transportation, whereas a 4PL (Fourth-
+
+Page 3 of 22
+
+
+Party Logistics) provider acts as a supply chain integrator, offering strategic
+oversight and managing multiple 3PLs to optimize the entire supply chain
+process from end to end. Therefore the main difference lies in the scope of
+services, ic., while 3PLs focus on operational execution, 4PLs provide
+
+comprehensive strategic management and coordination of the supply chain.
+
+3.1 As stated above, the Applicant is engaged in import and trading of
+Goods (i.e., coal, mineral ore, petrochemicals, and scrap). The Applicant
+company presently follows a business model whereby it first enters a sales
+contract with the customer. As per the terms of the sales contract, the risk
+as to the Goods are transferred to the buyer on execution, but the title to
+the subject goods is transferred to the buyer on payment of consideration.
+The Invoice is issued by the Applicant for supply for goods. The Applicant
+company also executes a service contract for providing handling services
+whereby it provides services in the nature of storage, insurance, loading,
+security of the cargo, water sprinkling, etc. Under this business model, the
+Applicant company issues two invoices, (i) for sale of goods (ie coal, iron
+ore, scrap, etc.) where it charges GST at applicable rate based on the HSN
+code of the goods; and (ii) for supply of handing services where it charges
+GST at 18%. To bring in complete clarity & to avoid any sort of
+interpretational challenges, the present business model is being re-
+evaluated by the Applicant. The Applicant company has observed
+significant business opportunity in offering handling services independently
+to buyers of Goods or to any other person. Therefore, it is contemplating to
+change its business model to delink the sale contract and the service
+contract and propose to offer handling services independently as a separate
+
+offering.
+
+3.2 The Applicant wishes to state that the Applicant company has received
+a Show Cause Notice in the state of Gujarat proposing to impose penalty
+under Section 122 of the CGST Act on the grounds that the Applicant
+company has actually not provided any service under the service contract.
+The Applicant company has filed its reply to the said show cause notice and
+
+the same is pending for adjudication. A copy of a Show Cause Notice
+
+Page 4 of 22
+
+
+bearing Ref No. DGGI/GRU/36-13/2024-25 dated 31 July 2024 issued on
+| the Applicant in the state of Gujarat (GSTIN 24AATCS0544F1ZC) is
+attached by the applicant.
+
+3.3 The Applicant states that the proposed business model with respect of
+goods in the state of Tamil Nadu is that it includes two primary
+agreements: (i) a "Sales Contract" for the sale of Goods imported by the
+Applicant; and (ii) a "Service Contract" for post-sale handling and storage
+services. Under the Sales Contract, the Applicant sells goods (which may be
+specified in an approximate quantity with a variation of +/- 10% at the time
+of sale) to customers. The terms of the Sales Contract stipulate that the
+goods, as covered under the tax invoice, are sold on an ex-port or ex-
+warehotise basis, with payment terms that vary depending on the terms of
+agreement with the buyer. Unlike the earlier arrangement, the present
+business model envisage that the title of the Goods get transferred to the
+buyer upon invoicing, after which the buyer must handle the storage,
+security and insurance, loading etc. In case of payment defaults, the
+Applicant retains the right to resell the goods to other parties without
+notifying the buyer.
+
+3.4 The Service Contract covers post-sale logistics, incliding stormg and
+securing goods at the Applicant's storage site, insuring against potential
+risks (like natural disasters or theft), and managing tasks such as loading
+goods onto trucks and weighing them. The Applicant assumes
+responsibility for the goods within their plot but not for any losses post-
+loading. The buyer is responsible for generating the E-way bill required for
+transport, though the Applicant may assist in specific cases. If the buyer
+delays in picking up the Goods, the Applicant has the right to sell them to
+
+mitigate losses, similar to the provisions in the Sales Contract.
+
+3.5 Since the provision of Central Goods and Services Tax Act 2017 (“CGST
+Act”) and the Tamil Nadu Goods and Service Tax Act, 2017 (“INGST Act”)
+are identical, the Applicant has referred only to the provision of CGST Act
+in the present application. Any reference to the CGST Act and rules
+
+Page 5 of 22
+
+
+thereunder should be considered as reference to the Tamil Nadu Goods and
+
+Services Tax Act, 2017 and rules thereunder.
+
+3.6 Considering the changes in the business model and the terms of the
+Sales Contract as well as the Service Contract, the Applicant seeks advance
+
+ruling on the following issue:
+
+a. Whether the supply of goods under the Sales Contract and supply
+of handling services under the Service Contract would be regarded
+as independent supplies?
+
+b. If the response to (a) above is affirmative, what would be the
+
+classification of services supplied under the Service Contract?
+
+4.1 Under the ‘Statement of facts’ having a bearing on the question No.1,
+the applicant has stated as follows :-
+
+1. The proposed business model being contemplated by the Applicant
+involves (i) sale of Goods imported by the Applicant by executing a ‘Sales
+Contract’; and {ii} once goods are sold (ie title in the goods are
+transferred in-situ), the buyer may either transport the goods to their
+own warchouse / storage facility or let goods stored at the plot and
+transport the same on a later date, under a ‘Service Contract’. There will
+be two separate agreements executed with the buyers, namely, sales
+contract for goods and cargo handling service contract.
+
+2. The Sales Contract provides for an approximate quantity of the Goods,
+subject to a +/- 10% variation Pricing is set on an ex-port or ex-
+warehouse basis, and payment terms includes cash and carry, letter of
+credit, EMD, initial payments, etc.—as may be mutually agreed upon
+depending on the relationship and contract details. Title transfer to the
+buyer happens on the invoice date, and from that point, the buyer must
+secure and insure the goods. The Invoice would be issued by the
+Applicant on date of execution of the contract where the goods are
+available for immediate delivery or on receipt of goods by the Applicant
+where the goods are not available for delivery to the Buyer on the date of
+execution of the Sales Contract. Should the buyer delay or default on
+
+Page 6 of 22
+
+
+payment, the Applicant reserves the right to sell the goods to third
+parties without prior notice to mitigate any potential losses.
+
+. The Applicant, after selling the goods to a buyer, may provide services in
+the nature of storage, security and handling of such goods if specifically
+requested by the buyer under the Service Contract. The Service Contract
+outlines that the Applicant will accept delivery of the Goods on behalf of
+the buyer, store them, and provide security and handling services. The
+Applicant will take out insurance covering fire, floods, storms,
+earthquakes, theft, and related risks on behalf of the buyer. To prevent
+spontaneous combustion, the Applicant may be required to regularly
+sprinkle water on the Goods, particularly coal. They will handle the
+loading of goods onto trucks for the buyer’s transport, manage truck
+weighment, and carry out other cargo handling tasks. Additionally, the
+buyer is responsible for E-way bill compliance when removing goods.
+The Invoice for provision of handling services would be issued by the
+Applicant on date of completion of service or the date of payment
+whichever is earlier. Should the buyer default or delay in collecting the
+goods, the Applicant has the right to sell the remaining quantity to third
+parties without prior notice to mitigate losses.
+
+. In such a case, once the goods are sold the Applicant continue to hold
+possession of the goods as a bailee under a contract of bailment. A
+contract of bailment involves a legal arrangement where the owner of
+physical property (Bailor), temporarily transfers possession of the
+property to another party (Bailee), for a specific purpose. This transfer of
+possession does not include ownership rights. The bailee is entrusted
+with the property and is obligated to care for it according to the terms
+agreed upon, and to return it to the bailor or dispose of it as directed
+once the purpose of the bailment is fulfilled. Under contract law, the
+concept of bailment is primarily explained under the Indian Contract Act
+1872. Section 148 defines bailment as a “delivery of goods by one person
+to another for some purpose, upon a contract that they shall, when the
+purpose is accomplished, be returned or otherwise disposed of according
+
+to the directions of the person delivering them." In the present case, the
+
+Page 7 of 22
+
+
+Applicant received the possession of goods back from the buyer under a
+contract of providing handling services under the terms of Service
+
+Contract.
+
+5. The Applicant is of the considered opinion that supply of goods and the
+supply of services are two separate transactions. Services covered under
+the Service Contract commence only on acceptance of delivery of goods
+for and on behalf of the buyer. In view of the above, any service provided
+by the Applicant after the said constructive delivery cannot be regarded
+as being provided along with the supply of goods.
+
+4.2 Under the ‘Statement containing the applicant’s interpretation of law’
+
+in respect of question No.1, the applicant has stated as follows :-
+
+1. Sales Contract and the Service Contract are not interdependent on each
+other. These are separate transactions and are not provided in a
+combination. The buyer is free to take physical delivery of goods on the
+date of transfer of title and have the same transported to their
+warehouse. However, it is only upon specific request from the buyer
+that the Applicant agrees to provide handling and security services and
+execute the Service Contract. In fact, the Applicant enters into a
+separate agreement with the buyer and consideration for the services are
+agreed separately.
+
+2. The Applicant may provide handling and security services to any person,
+even without the sale of goods with similar or additional scope of work.
+The sale of goods and supply of services are not provided as a package
+and can be availed separately. Therefore, sale of goods and provision of
+services are completely independent transactions in the sense that
+removal of one supply would not affect the nature of supply of the other.
+
+3. At this juncture, it is pertinent to refer to the definition of ‘composite
+supply’ under Section 2(30) of the CGST Act, which reads as under:
+
+“composite supply means a supply made by a taxable person to a
+recipient consisting of two or more taxable supplies of goods or services
+
+or both, or any combination. thereof, which are naturally bundled and
+
+Page 8 of 22
+
+
+supplied in conjunction with each other in the ordinary course of
+
+business, one of which is a principal supply”
+
+. Based on the above definition, following key elements can be derived
+
+from Section 2(30) of the CGST Act:
+
+e Composite supply means a supply: The definition starts with the
+words ‘a supply’. This indicates that the economic activity which is to
+be examined for being c composite supply or not needs to a single
+supply.
+
+e made by a taxable person to a recipient: Here the of the words ‘a
+taxable person’ and ‘a recipient’ indicates that the single supply
+(referred supra) is made by a single taxable person to a recipient.
+
+e Consisting of two or more taxable supplies of goods or services
+or both, or any combination thereof: This means that the ‘a
+supply’ referred above consists of a combination of two or more
+taxable supplies of goods or services or any combination thereof.
+
+e Which are naturally bundled: The two or more elements of goods
+or services are so linked with one another they are naturally bundled.
+The concept of naturally bundled is same as in the erstwhile service
+tax regime, wherein following indicators were provided):
+
+i There is a single price, or the customer pays the same amount no
+matter how much of the package they actually receive or use.
+
+ii The elements are normally advertised as a package.
+
+iii The different elements are not available separately.
+
+iv The different elements are integral to one overall supply — if one or
+more is removed, the nature of the supply would be affected.
+
+e and supplied in conjunction with each other in the ordinary
+course of business: This indicates that different elements of the
+supply are so integrally linked that they form a single indivisible
+economic activity.
+
+® one of which is a principal supply: Out of different elements of
+
+the supply (referred supra), one is the principal supply.
+
+Page 9 of 22
+
+
+5. In this case, it is important to highlight that the Sales Contract and
+Service Contract are entirely independent of each other. These are
+separate transactions, not bundled together. The buyer has the option to
+take physical possession of the goods upon the transfer of title and
+arrange transport to their own warehouse. The Applicant provides
+handling and security services only upon specific request from the buyer
+as there is uncertainty on part of buyer for relating to lifting of the
+goods, entering into a distinct agreement for these services with separate
+consideration.
+
+6. Therefore, based on this arrangement, the sale of goods and provision of
+services would not qualify as a composite supply under GST regulations.
+As a result, the GST rate applicable to each will depend on the specific
+
+nature of the supply, whether goods or services.
+
+4.3. Under the ‘Statement of facts’ having a bearing on the question No.2,
+the applicant has stated as follows :-
+
+1. Salient features of the Sales Contract are -
+
+a) The Sales Contract identifies quantity of the goods with an
+approximate variation of +/- 10%. When the Applicant enters into
+contract for sale of Goods, it may be comingled with a larger lot on
+the date of the contract. The quantity is ascertained on an
+approximate basis, and exact quantity is mentioned when the
+Applicant issues invoice at the time of delivery of the goods.
+
+b) The price of the goods is ex-port / ex-warehouse basis.
+
+c) Payment terms are mutually negotiated between the parties
+depending on the relationship and quantity/value of the contract.
+Payment terms could be Letter of Credit, Clean Credit, Pay and
+lift, EMD / Initial payment, etc.
+
+d) Delivery of the goods would be given by the Applicant to the buyer
+(or his agent) on constructive manner on the date of invoice.
+
+e) The risk is transferred on signing of contract or arrival of good
+
+which-ever is later and title to the goods would be transferred from
+
+Page 10 of 22
+
+
+the Applicant to the buyer on the date of Invoice, subject to
+contractual obligations and rights of the unpaid seller.
+
+f} Post-delivery, the Buyer would be required to arrange for security
+and insurance of goods.
+
+g) If the Buyer defaults/delays in making the payment, the Applicant
+would be entitled to sell the goods to third parties without any
+requirement of notice to the Buyer, to mitigate its losses/
+damages.
+
+2. Salient features of the Service Contract are -
+
+a) The Applicant would accept delivery of Goods for and on behalf of
+the buyer and store them.
+
+b) The Applicant would ensure security of the goods at the plot.
+
+c) The Applicant would take insurance cover for fire, floods, storm,
+earthquake, theft, etc. in respect of the goods belonging to the
+buyer.
+
+d) The Applicant would ensure water sprinkling on the Goods
+(specially coal] so as to avoid the risk of spontaneous combustion.
+
+e) The Applicant would ensure loading of goods on to the trucks for
+transport by the Buyer.
+
+f) Weighment of trucks; and other sundry works related to cargo
+handling.
+
+g) The Applicant would be responsible for any loss of goods inside
+the plot except for handling loss.
+
+_h) Any loss post loading of goods on the trucks at the instruction of
+
+buyer would borne by the buyer.
+
+i) The Applicant would not be liable for generation of E-way bill, it
+would be the sole responsibility of the buyer to comply with the
+provisions of E-way bill at the time of removing the goods.
+
+3) Ifthe Buyer defaults or delays in lifting of the goods, the Applicant
+would have the right to sell the balance quantity of the goods to
+third parties without any requirement of notice to the buyer to
+
+mitigate its losses/damages.
+
+Page 11 of 22
+
+
+4.4 Under the ‘Statement containing the applicant’s interpretation of law’
+
+in respect of question No.2, regarding the Treatment of sale of goods under
+
+the Sales Contract’, the applicant has stated as follows :-
+
+1. CGST Act delineates the taxable event as the 'supply of goods or services
+or both’. While the term 'supply' is not explicitly defined, Section 7 of the
+CGST Act provides illustrative examples of its expansive scope,
+encompassing transactions such as sale, transfer, rental, lease, barter,
+exchange, and other similar activities. The term “sale” has not been
+defined under the CGST Act. Therefore, the meaning of the word ‘sale’
+needs to be understood from the provisions of Sale of Goods Act 1930
+(“SOGA”). As per Section 4(1) of SOGA, a contract of sale of goods is a
+contract whereby the seller transfers or agrees to transfer the property
+in goods to the buyer for a price. A contract for the sale of goods must
+specify (i) goods (ii) quantity (iii) rate and (iv) delivery schedule. The
+essence of the contract is to transfer property in the goods.
+
+2. Further, Chapter III of the SOGA lays down conditions for transfer of
+property. As per Section 19 of the SOGA, property in goods is
+transferred to the buyer at such time as the parties to the contract
+intend to be transferred subject to the following conditions:
+
+(a) Goods must be present.
+
+(b) Goods must be ascertained. In case of unascertained goods, goods
+must be appropriated before delivery.
+
+(c) Goods must be in deliverable state.
+
+3. As per Section 2(2) of SOGA ‘delivery’ is the voluntary transfer of
+possession from one person to another. Delivery may be actual,
+constructive or symbolic. Constructive delivery takes place when the
+person in possession of the goods acknowledges that he holds the goods
+on behalf of and at the disposal of the buyer. For example, where the
+seller, after having sold the goods, may hold them as bailee for the
+buyer, there is constructive delivery Duni Chand Rataria vs.
+
+Bhuwatka Brothers Ltd. [(1954) INSC 117 (SC).
+
+Page 12 of 22
+
+
+4. As per Section 31 of the CGST Act, the Applicant is required to issue Tax
+Invoice on or before delivery of the goods. Therefore, the Applicant can
+issue Tax Invoice on the date of execution of the Sales Contract itself.
+
+5S. The proposed business model of the Applicant envisage that the Goods
+may be sold by the Applicant either before arrival of vessel at the Indian
+ports or after arrival of goods at the port. In case of sale of goods before
+arrival of goods, once the vessel is loaded or discharged there is
+communication to the customers {ie Applicant in the present case) as to
+the nature and quantity of the goods. Since Section 31 of the CGST Act
+requires the Applicant to issue Tax Invoice on or before delivery of the
+goods, therefore, the Applicant would issue the Tax Invoice on the date
+of contract itself. In case the sale is made after arrival of vessel at Indian
+ports, the Goods are present (commingled in larger lot) at the time of
+execution of the Sales Contract. The Applicant would issue the Tax
+Invoice on the date of contract itself. The Goods would be apportioned
+before delivery by appropriately marking the lot at the time of issuance
+of the invoice and transfer of the property in the subject goods is
+affected.
+
+6. Under the terms of Sales Contract, the Applicant delivers the goods on
+the date of the invoice and under the terms of the Cargo Handling
+Service, accepts delivery for and on behalf of the buyer. Once the
+constructive delivery is completed, the Applicant holds custody of the
+goods as bailee. Therefore, under both situations, the Applicant would
+be issuing the Tax Invoice at the time of executing the Sales Contract.
+
+7. At this juncture, it is relevant to refer to the decision of Tamil Nadu
+Authority for Advance Ruling (TNAAR) in Automotive Components
+Technology India Private Limited [2020 (34) GSTL 619 (AAR - GST-
+TN)]. The facts involved in this case include supply of automotive
+components such as door locks and strikers (in short ‘parts) for various
+sectors of the automotive industry. The Applicant supply such parts toa
+wide range of customers which inter-alia include molds and tools (in
+short ‘molds. The manufacturer of such parts / molds agrees to supply
+
+the same, to the Applicant Indian company (in short Indian buyer),
+
+Page 13 of 22
+
+
+located in the State of Tamil Nadu. The Applicant places an order for
+manufacturing the said parts and molds on a Thailand Company
+(Foreign supplier’). Accordingly, the foreign supplier manufactures the
+parts and the same are physically imported into India. However, the
+molds developed by the foreign supplier are retained in Thailand and are
+not physically imported into India. Thus, there is only a transfer of
+ownership in the mold from the foreign supplier to Applicant and the
+foreign supplier retains the physical possession of the molds. With
+regard to the invoicing, the foreign supplier raises an invoice on the
+Applicant for the parts and molds separately. Similarly, the Applicant
+raises separate invoices on the Indian buyer ie, one for the supply of
+parts and another for transfer of ownership of the molds from the
+Applicant to the Indian buyer. The Applicant has stated that in the
+present case as well, only the title in molds is transferred to the Indian
+buyer, wherein the molds physically continue to remain in possession of
+the foreign supplier. There are two questions raised in the present case:
+
+« Tl: Transfer of title in moulds from the foreign supplier to the
+
+Applicant
+* T2: Transfer of title in moulds from the applicant to the Indian
+buyer.
+
+. Accordingly, the TNAAR has concluded in the aforesaid as follows :-
+“From the above, it is evident that transfer of the title in goods’ is
+supply of goods. In the case at hand there is transfer in title of moulds
+for a consideration and the supply is in the course of business therefore,
+the same constitutes supply of goods and GST is liable to be paid on
+such supply.”
+. It is evident from the above that the requirement of issuance of invoice is
+based on the actual delivery or otherwise making available of the goods
+(constructive delivery) under Section 31 of the CGST Act. Therefore, the
+Applicant is of the considered opinion that the Applicant would be
+required to issue invoice on the date on which title and constructive
+delivery is passed on to the buyer (ie within 30 days from the date of
+
+execution of the contract). Since the date of invoice, which precedes the
+
+Page 14 of 22
+
+
+date of receipt of payment, the liability to pay GST would arise on the
+date of invoice.
+
+10. Applicable rate of GST on the Goods would be as under:
+
+Goods HSN Rate
+Coal 2707 5%
+Iron Ore 260111 5%
+Petro Products Naphtha 18%
+Scrap 720449 18%
+Tea 090240 5%
+Packing 481940 18%
+Material
+
+Regarding the ‘Treatment of supply of handling services under the Service
+Contract’,
+
+1. The term “service” has been defined under Section 2(102) of the
+CGST Act to mean anything other than goods, money and securities.
+The definition of ‘service’ is extensive and includes within its ambit
+
+any this done or agreed to be done for consideration.
+11. As stated above, under the terms of the Service Contract, the service
+commences on acceptance of constructive delivery of goods by the buyer
+till goods are loaded on the trucks. Therefore, such transaction would be
+
+regarded as supply of service and attract GST at 18%.
+
+5.1 The Joint Commissioner (ST), Coimbatore Intelligence vide their letter
+dated 05.06.2025 has conveyed their remarks on the questions raised by
+
+the applicant that there is no pending proceedings in their office.
+
+5.2 Since, no remarks have been received from the Assistant
+Commissioner (ST), Velandipalayam Assessment Circle and Central GST
+jurisdictional Authorities, it is construed that there are no pending
+proceedings against the applicant on the questions raised by them in their
+
+advance ruling application.
+
+Page 15 of 22
+
+
+PERSONAL HEARING
+6.1 Personal hearing was held on 01.09.2025. Shri. Pranay sahay,
+
+Advocate, Shri. Dinesh Kumar Agarwal, Advocate and Shri Roopam Jain,
+
+Manager, Authorised Representatives (AR) of the applicant appeared and
+AR reiterated the submissions made in their original application. During
+the hearing, they furnished additional submissions containing copies of the
+Order-in-Original dated 31.01.2025, in respect of the Show Cause Notice
+dated 31.07.2024 issued by the Gandhidham Regional Unit of DGGI, the
+appeal filed against the said O-in-O, Extracts of Sale of Goods Act and the
+Contract Act, comparison of Sales contract showing changes in the Old
+sales contract made by the new proposed contract, and a few case laws in
+support of their defence.
+
+6.2 They further stated that the facts and circumstances of the case and
+the terms of contract related to the issue of show cause notice to their
+Gandhidham unit is different from the facts of the instant case for which
+the application for advance ruling has been sought by the applicant. AR
+submitted that the earlier agreement / business model is different from the
+proposed agreement / business model and therefore Advance ruling
+application is not affected by the Show Cause Notice / Order-in-Original /
+Appeal filed. For that, the members asked AR to submit clause by clause
+differentiation of the earlier and the proposed contract and also highlight
+the differences in their earlier business model with the proposed business
+model.
+
+6.3 The Members enquired that in respect of those cases where the
+ownership of goods changes multiple times, whether the applicant has
+service contract with all owners of goods. The AR replied that the service
+contract post sale of goods is made only with the 1st buyer of goods and not
+with any other person who may subsequently own the title of goods.
+Further to a specific query as to whether they have filed any application
+with any other Authority for Advance Ruling, the AR replied in negative.
+
+Page 16 of 22
+
+
+| DISCUSSION AND FINDINGS
+
+| 7.1 We have carefully examined the submissions made by the applicant in
+their advance ruling application, the additional submissions furnished
+during the personal hearing and further submissions made after the
+
+personal hearing.
+7.2 The questions on which an advance ruling is requested are as follows :~
+
+a. Whether the supply of goods under the Sales Contract and supply of
+handling services under the Service Contract would be regarded as
+independent supplies?
+
+b. If the response to (a) above is affirmative, what would be the
+
+classification of services supplied under the Service Contract?
+
+7.3 As the above questions get covered under the category of ‘Whether
+any particular thing done by the applicant with respect to any goods and /
+or services or both amounts to or results in a supply of goods and / or
+services or both, within the meaning of that term’, ‘Determination of time
+and value of supply of supply goods or services or both’ and ‘Classification
+of goods or services or both’, they are found to be falling within the purview
+of Section 97(2) of the CGST Act, 2017 and are prima-facie liable to be
+
+admitted for consideration.
+
+7.4 However, we are of considered opinion that the crucial aspect relating
+to the issue of show cause notice and the adjudication thereof, on a similar
+| issue in respect of their Gandbidham unit is required to be examined,
+| before proceeding to discuss the merits of the instant case. This is in view
+of the fact Section 98(2) of the CGST Act, 2017, comes up with a
+conditional provision for admission or rejection of the application, as the
+case may be, and it reads as —
+i (2) The Authority may, after examining the application and the records
+called for and after hearing the applicant or his authorized
+representative and the concerned officer or his authorized
+
+representative, by order, either admit or reject the application:
+
+Page 17 of 22
+
+
+Provided that the Authority shall not admit the application where the
+
+question raised in the application is already pending or decided
+
+in_any proceedings in the case of an applicant under_any of the
+
+provisions of this Act:
+
+Provided further that no application shall be rejected under this sub-
+section unless an opportunity of hearing has been given to the applicant:
+Provided also that where the application is rejected, the reasons for
+such rejection shail be specified in the order.
+
+‘7.5 Perusal of the Show Cause Notice No.DGGI/GRU/36-13/2024-25
+dated 31.07.2024 issued to the Gandhidham unit of the applicant reveals
+that the Importer’s (noticee) use the customs-bonded warehouse for storage
+of coal after filing Bill of Entry and further supply it to coal traders who in
+turn sells the same to second stage traders or end users in India at
+multiple stages; that up to the point of time when the coal gets physically
+cleared from the warehouse, the importer is required to incur expenses of
+various types for upkeep and storage of the same, like Cargo handling
+services, clearing and forwarding services, Warehousing Services, etc.,
+which are charged to GST at 18%, while the sale of coal is charged to GST
+at 5%. Under these circumstances, it was observed therein that the
+immediate customer of noticee received the goods only, i.e., coal from them
+by way of transfer of title of goods, who in turn supplies it to another trader
+or end-user, and that the immediate customer did not avail any type of
+services relating to handling of coal in any manner. It was therefore alleged
+in the show cause notice that the noticee does not supply any cargo
+handling service to its customer and yet they are issuing tax invoice of
+‘cargo handling services’ and furnishing the details of such invalid invoices
+into their GSTR-1M, enabling the coal recipients to avail and utilize the
+ineligible input tax credit, without actual supply of corresponding services.
+It was also alleged that by doing so, the noticee collects tax in the form of
+cash from customers and while filing the GSTR-3B they pay such tax from
+Input Tax Credit which lies accumulated in their electronic credit ledger.
+
+Accordingly, penalty under Section 122(1) of the CGST Act, 2017, read with
+
+Page 18 of 22
+
+
+Section 20 of the IGST Act, 2017, equivalent to the irregular/fraudulent ITC
+
+passed on, was proposed to be imposed on the noticee.
+
+7.6 Under the additional submissions furnished by the applicant during
+the personal hearing held on 01.09.2025, a copy of the Order-in-Original
+dated 31.01.2025 passed in this regard by the Additional Commissioner,
+CGST, Kutch Commissionerate, Gandhidham, has also been enclosed. On
+perusal of the same, it is seen that the said adjudicating authority has
+observed that the noticee has not provided services of any kind to the
+buyers and only invoices have been issued with the purpose of passing on
+accumulated ITC to the buyers, and has imposed penalty under Section
+122(1) of the CGST Act, 2017, as proposed in the notice. A copy of the
+appeal filed by the noticee against the aforesaid O-in-O has also been
+
+enclosed.
+
+7.7 At this juncture, it becomes imperative to refer and analyse the first
+proviso to Section 98(2) of the CGST Act, 2017, which reads as —
+
+Provided that the Authority shall not admit the application where the
+question raised in the application is already pending or decided in
+any proceedings in the case of an applicant under any of the provisions
+of this Act:
+
+The aforesaid provision indicates the fact that where the matter of dispute
+
+or the question raised in the application, is either pending or decided in any
+proceedings in the case of an applicant, the application is not liable for
+
+admission. However, it could be seen that the second proviso that follows,
+reads as —
+
+Provided further that no application shall be rejected under this sub-
+
+section unless _an opportunity of hearing has been given to _the
+
+applicant:
+Whereby it becomes evident that the applicant is required to be heard, in.
+
+case the application is being considered for rejection. We are therefore of
+the opinion that the conscious usage of the articles ‘an’ and ‘the’, before the
+term ‘applicant’, in two situations under the same sub-section 2 to section
+
+98 of the Act, ibid, conveys the legislative intent to empower the Authority
+
+Page 19 of 22
+
+
+to reject the application in the cases where there is repeated filing of the
+application before the Authority on the same issue which is either pending
+
+for decision or already decided.
+
+7.8 Accordingly, when the Members enquired about this aspect during
+the personal hearing, the AR stated that the facts and circumstances of the
+case and the terms of contract related to the issue of show cause notice to
+their Gandhidham unit is different from the facts of the instant case for
+which the application for advance ruling has been sought by the applicant.
+They further stressed that the earlier agreement / business model is
+different from the proposed agreement / business model and therefore
+Advance ruling application is not affected by the Show Cause Notice /
+Order-in-Original / Appeal filed. Accordingly, the Members requested the
+AR to highlight the differences in their earlier business model with the
+proposed business model, and the AR furnished a ‘Comparative Table’,
+bringing out the clause by clause differentiation of the earlier and the
+proposed contract. Under the said table, the clauses relating to Quality
+determination, Price Adjustment, Quantity determination, Payment terms,
+
+Delivery, Insurance, and Risk & Title, were discussed and differentiated.
+
+7.9 Under the facts and circumstances of the instant case as furnished
+by the applicant, it is indeed clear that the clauses of the earlier contract
+differ from the proposed contract. However, it is to be noted here that the
+crux of the issue in the instant case lies around the basic question raised
+in the application, i.e., “Whether the supply of goods under the Sales
+Contract and supply of handling services under the Service Contract would
+be regarded as independent supplies?” In this regard, we find that the Show
+Cause Notice dated 31.07.2024 issued to the Gandhidham unit of the
+applicant, deals exactly with the said issue and had come up the allegation
+that the noticee have not made any supply of cargo handling service to their
+customers and yet they are issuing tax invoice of ‘cargo handling services’.
+Accordingly, we observe that while the supply of goods, ‘coal’ remains
+undisputed, the aspect relating supply of service, ‘cargo handling service’
+
+which forms part of the query raised by the applicant stands disputed
+
+Page 20 of 22
+
+
+oa
+
+under the said show cause notice/Order-in-Original. We would also like to
+make it clear that in this case, as long as the basic business model remains
+the same, changes in clauses/terms of the contract which normally tend to
+differ from each other, do not have any bearing on the basic business
+model, as in the instant case. Accordingly, we are of the considered opinion
+that since the query raised by the applicant already stands
+decided/adjudicated by the Additional Commissioner, CGST, Kutch
+(Gandhidham) Commissionerate, vide O-in-O No.GDM-GST-ADC-VKI-35-
+2024-25 dated 31.01.2025, the question of answering the said query and
+any other query related to it does not arise, as the application itself
+becomes liable for rejection in view of the first proviso to Section 98(2) of
+the CGST Act, 2017.
+
+8. Based on the above discussion, we rule as under.
+
+RULING
+
+The advance ruling application filed by the applicant is rejected in
+
+@)
+
+a. \ re
+(B. Suseel mil dos
+
+Member (SGST)
+
+Cus
+(C. Thiyagarajan)
+Member (CGST)
+
+To aes
+M/s. Aditya Birla Global Trading (India) Private Limited,
+
+SF No. 461, Ragavendra Garden,
+
+Subramaniyam Palayam Road,
+
+G.N. Mills Post, Coimbatore — 641 029. /By RPAD/
+
+Copy submitted to
+
+1. The Principal Chief Commissioner of GST & Central Excise,
+26/1, Mahatma Gandhi Road, Nungambakkam, Chennai-600034.
+
+2. The Commissioner of Commercial Taxes,
+2nd Floor, Ezhilagam, Chepauk, Chennai ~- 600 005.
+
+3. The Commissioner of GST & Central Excise,
+Coimbatore Commissionerate,
+6/7, A.T.D. Street, Race Course,
+Coimbatore — 641 018.
+
+Page 21 of 22
+
+
+Copy to
+
+1. The Assistant Commissioner (TNGST),
+Velandipalayam Assessment Circle,
+Commercial Taxes Annexure Building,
+First Floor, Dr. Balasundaram Road,
+Coimbatore — 641 018.
+
+2. Master File/ Spare — 2.
+
+Page 22 of 22

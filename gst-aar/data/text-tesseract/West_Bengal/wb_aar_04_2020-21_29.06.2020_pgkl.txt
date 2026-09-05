@@ -1,0 +1,130 @@
+WEST BENGAL AUTHORITY FOR ADVANCE RULING
+GOODS AND SERVICES TAX
+14 Beliaghata Road, Kolkata - 700015
+(Constituted under section 96 of the West Bengal Goods and Services Act, 2017)
+BENCH
+Ms Susmita Bhattacharya, Joint Commissioner, CGST & CX
+Mr Pa(hasarathi Dey, Additional Commissioner, SGST
+Preamble
+A person within the ambit of Section 100 (1) of the Central Goods and Services Act, 20'17 or
+West Bengal Goods and Services Act, 2017 (hereinafter collectively called'the GST Act'), if
+aggrieved by this Ruling, may appeal against it before the West Bengal Appellate Authority
+for Advance Ruling, constituted under Section 99 of the West Bengal Goods and Services
+Act, 2017, within a period of thirty days from the date of communication of this Ruling, or
+within such further time as mentioned in the proviso to Section 100 (2) of the GST Act.
+Every such Appeal shall be filed in accordance with Section 100 (3) of the GST Act and the
+Rules prescribed thereunder, and the Regulations prescribed by the West Bengal Authority
+for Advance Ruling Regulations ,2018.
+1. Admissibility of the Application
+1.1 The applicant is the local branch of a Russian business entity by-the same.name
+(hereinafter 'Foreign Company'), which entered into a Maintenance and Repair Contract
+(hereinafter called "MARC") with Bharat Coking Coal Ltd (hereinafter "BCCL")with respect to
+the machinery and equipment it had supplied.
+1.2 The applicant wants to know whether the MARC makes the supplier liable to pay GST
+(which, for the purpose of this order, includes IGST). More specifically, the applicant wants
+to know whether the recipient is not liable to pay tax on reverse charge basis in terms of
+Notification No. 1012017 - lntegrated Tax (Rate) dated 2Bl0612017. The question is
+admissible under section 97(2) (b) & (e) of the GST Act. The concerned officer from revenue
+submits that question raised in the application is not pending or decided in any proceedings
+of the GST Act. As such, he does not object to the admissibility of the application. The
+application is, therefore, admitted.
+2. Submissions of the Applicant
+2.1 The applicant submits that the supply of service by the Foreign Company in terms of the
+MARC is import of service within the meaning of section 2 (11) of the lntegrated Goods and
+Services Tax Act, 2017 (hereinafter the IGST Act). The supplier is located outside lndia and
+Name of the applicant
+M/s lZ-Kartex named after P G Korobkov Ltd
+Address
+Plot K1, RDB Boulevard, 8'n floor
+Sector V, Block EP GP, Salt Lake City - 700091
+GSTIN
+1gAAFC,1O569J1Z9
+Case Number
+03 of 2020
+ARN
+AD 1902200052521
+Date of application
+19t02t2020
+Order number and date
+O4/WBAAR 12020-21 dated 29106 12020
+Applicant's representative heard
+Sharad Mohata, FCA
+
+
+the recipient BCCL is located in Dhanbad, lndia. According to section 13 (3) (a) of the IGST
+Act, the place of supply of the service provided in terms of the MARC is the location where
+the machinery and equipment are used in lndia. All the conditions of import of service within
+the meaning of section 2 (11) of the IGST Act are, therefore, satisfied.
+2.2 Being import of service, the tax is payable by the recipient on reverse charge basis in
+terms of Notification No. 10/2017 - lntegrated Tax (Rate) dated 2810612017. The Foreign
+Company is, therefore, not liable to pay tax on the supply of service in terms of the MARC.
+3. Submission of the Revenue
+3.1 The concerned officer submits the return status of the applicant. ln both GSTR 38 and
+GSTR 1 the applicant has no liability. The applicant has accumulated huge ITC in GSTR 2A
+from November 2018 to March 2020. Though it was not claimed by the applicant in GSTR
+38. Moreover, in December 2019 an import of goods was shown in return.
+4. Observations and findinqs of the Bench
+4.1 lt is evident from the returns and from the appilcant's submission that it does not claim
+that the question is in relation to any supply being undertaken or proposed to be undertaken
+by the applicant itself. lt tries to establish that the supply is made by the Foreign Company,
+who is located in Russia and the applicant, although a branch responsible for receiving and
+making payments on behalf of the Foreign Company, is not the supplier in the context of the
+MARC.
+4.2 This Authority would have rejected the application on the ground that no advance ruling
+within the meaning of section 95 (a) of the GST Act could be pronounced, the applicant
+being not the supplier. lnstead, we have admitted the application and is going to pronounce
+a ruling as we are convinced that the applicant is indeed the supplier of services in terms of
+the MARC. The grounds and reasoning for such a conclusion will reveal themselves from the
+discussion below.
+4.3 The MARC is between the MARC Holder and BCCL. Although clause 9 of the MARC,
+dealing with 'Taxes & Duties', distinguishes between a foreign MARC Holder and a domestic
+MARC Holder, nowhere else in the MARC two such entities exist separately. The contract
+speaks of the rights, duties, and obligations of the MARC Holder only without any distinction
+between a foreign MARC Holder and a domestic MARC Holder. The distinction, therefore, is
+relevant only in the context of any statutory provision requiring the MARC Holder to be
+located in lndia.
+4.4 lt is a long-term contract spanning over seventeen years from the date of commissioning
+of the equipment. The MARC Holder is responsible for supply of the spares, components,
+and consumables over the entire period. lt will depute the officers, support staff and system
+expert at the site for maintenance and repair of equipment and train the.BCCL personnel.
+BCCL shall provide the MARC Holder access to the machines and repair facilities at all
+reasonable time. BCCL and the MARC Holder shall jointly sign the Equipment Logbook on
+daily basis recording the actual working hours per shift, breakdown hours and other details.
+The MARC Holder is to be paid at an agreed rate for supervision, supply of spares and
+consumables, and for overheads per working hour of the equipment for 5000 expected
+annual working hours.
+
+
+4.4 lt is evident from the above discussion that the MARC Holder maintains suitable
+structures in terms of human and technical resources at the sites of BCCL. lt ensures
+supervision of the equipment, supply of spares and consumable and overheads for 5000
+annual working hours for seventeen years, indicating sufficient degree of permanence to the
+human and technical resources employed at the sites. The MARC Holder, therefore,
+supplies the service at the sites from fixed establishments as defined under section 2 (7) of
+the IGST Act. The location of the supplier should, therefore, be in lndia in terms of section 2
+(15)of the IGST Act.
+4.5 Supply of the MARC Holder to BCCL is not, therefore import of service within the
+meaning of section 2 (11) of the IGST Act. The MARC Holder should be treated as a
+supplier located in lndia triggering clause 9.2.2 o'f the MARC, and made liable to pay GST,
+the place of supply being determined in terms of section 12 (2) (a) of the IGST Act. The
+applicant, being the registered branch of the Foreign Company, should be treated as the
+domestic MARC Holder in terms of clause 9.2.2 of the MARC and be liable to pay tax
+accordingly.
+Based on the above discussion, we rule as under,
+RULING
+Supply of service to BCCL in terms of the MARC is not import of service. The recipient is
+not, therefore, liable to pay GST on reverse charge basis in terms of Notification No. 1012017
+- lntegrated Tax (Rate) dated 2810612017. The applicant, being the domestic MARC Holder,
+is liable to pay tax as applicable in terms of clause 9.2.2 of the MARC.
+This Ruling is valid subject to the provisions under Section 103 until and unless declared
+void under Section 1
+\,,%tY
+(PARTHASARATHI DEY)
+Membbr
+West BengalAuthority for Advance Ruling
+(SUSMITA BHATT
+ffrthe GST Act.
+fi142o'"
+ARYAI
+Member
+West Bengal Authority for Advance Ruling
