@@ -12,3 +12,9 @@ _api_spec = importlib.util.spec_from_file_location(
     Path(__file__).parent.parent / "gst-aar" / "law" / "harvest_cbic_api.py")
 harvest_cbic_api = importlib.util.module_from_spec(_api_spec)
 _api_spec.loader.exec_module(harvest_cbic_api)
+
+_flat_spec = importlib.util.spec_from_file_location(
+    "harvest_cbic_flat",
+    Path(__file__).parent.parent / "gst-aar" / "law" / "harvest_cbic_flat.py")
+harvest_cbic_flat = importlib.util.module_from_spec(_flat_spec)
+_flat_spec.loader.exec_module(harvest_cbic_flat)

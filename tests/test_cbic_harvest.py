@@ -34,3 +34,19 @@ def test_non_dict_payload_returns_empty(monkeypatch):
     assert api.fetch_paged(api.BASE, "tok", "/api/cbic-act-msts") == []
     monkeypatch.setattr(api, "_req", lambda *a, **k: b'"just a string"')
     assert api.fetch_paged(api.BASE, "tok", "/api/cbic-act-msts") == []
+
+
+def test_parse_listing_extracts_pdf_links():
+    from gst_aar_law_shim import harvest_cbic_flat as flat
+
+    html = ('<a href="pdf/NN-26-2024_Eng.pdf">26/2024-CT</a>'
+            '<a href="/about">skip</a>')
+    rows = flat.parse_listing(html, "https://cbic-gst.gov.in/central-tax-notifications.html")
+    assert rows[0]["pdf_url"] == "https://cbic-gst.gov.in/pdf/NN-26-2024_Eng.pdf"
+
+
+def test_parse_notification_filename():
+    from gst_aar_law_shim import harvest_cbic_flat as flat
+
+    assert flat.parse_notification_filename("NN-26-2024_Eng.pdf") == {
+        "number": "26/2024", "category": "CT", "year": "2024"}
