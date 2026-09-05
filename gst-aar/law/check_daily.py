@@ -18,9 +18,22 @@ CHANGES = ROOT / "data" / "law" / "changes.jsonl"
 MIN_FREE_GB = 10
 
 
+def canon(row) -> dict:
+    return {"source_url": row.get("source_url") or row.get("pdf_url", ""),
+            "date": row.get("date", "")}
+
+
 def diff_listings(old: list[dict], new: list[dict]) -> list[dict]:
-    seen = {r["source_url"] for r in old}
-    return [r for r in new if r["source_url"] not in seen]
+    seen = {canon(r)["source_url"] for r in old}
+    seen.discard("")
+    out = []
+    for r in new:
+        url = canon(r)["source_url"]
+        if not url:
+            continue
+        if url not in seen:
+            out.append(r)
+    return out
 
 
 def disk_ok() -> bool:
@@ -36,12 +49,17 @@ def main(since: str = "", apply: bool = False):
         for line in CHANGES.read_text().splitlines():
             try:
                 seen_urls.add(json.loads(line)["source_url"])
-            except (KeyError, json.JSONDecodeError):
+            except (KeyError, json.JSONDecodeError, TypeError):
                 continue
     print(f"known changes: {len(seen_urls)} (since filter: {since or 'none'})")
     if since:
-        cutoff = datetime.date.fromisoformat(since)
+        try:
+            cutoff = datetime.date.fromisoformat(since)
+        except (ValueError, TypeError):
+            raise SystemExit("--since must be YYYY-MM-DD")
         print(f"dry-run diff since {cutoff}: {len(seen_urls)} known, 0 new (no fetch in dry-run)")
+    if apply:
+        print("apply: harvester wiring pending, no writes performed")
 
 
 if __name__ == "__main__":

@@ -6,6 +6,7 @@ Every row requires a .gov.in source_url (spec §2).
 from __future__ import annotations
 
 import sqlite3
+import urllib.parse
 from pathlib import Path
 
 SCHEMA = """
@@ -44,7 +45,8 @@ def init_db(path: Path = LAW_DB) -> sqlite3.Connection:
 def _check_provenance(source_url: str) -> None:
     if not source_url:
         raise ValueError("source_url is required (no source URL, no processing)")
-    if ".gov.in" not in source_url:
+    host = urllib.parse.urlparse(source_url).hostname or ""
+    if host != "gov.in" and not host.endswith(".gov.in"):
         raise ValueError(f"non-.gov.in source_url refused: {source_url}")
 
 

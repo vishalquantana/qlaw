@@ -60,6 +60,32 @@ class TestProvenance:
             raise AssertionError("expected ValueError")
 
 
+class TestProvenanceHostnames:
+    def test_lookalike_hosts_raise(self) -> None:
+        import pytest
+
+        from gst_aar_law_shim import law_db as _ldb
+
+        for url in ("https://evil.com/?x=.gov.in",
+                    "https://fakegov.in.evil.com/x.pdf"):
+            con = _memdb()
+            with pytest.raises(ValueError):
+                _ldb.upsert_document(con, {"source_url": url, "kind": "act",
+                    "title": "t", "number": "", "pub_date": "", "local_path": "",
+                    "sha256": "g" * 64, "body": "b"})
+
+    def test_real_gov_in_hosts_pass(self) -> None:
+        from gst_aar_law_shim import law_db as _ldb
+
+        for url in ("https://taxinformation.cbic.gov.in/x",
+                    "https://cbic-gst.gov.in/pdf/a.pdf"):
+            con = _memdb()
+            _ldb.upsert_document(con, {"source_url": url, "kind": "act",
+                "title": "t", "number": "", "pub_date": "", "local_path": "",
+                "sha256": "h" * 64, "body": "b"})
+            assert con.execute("SELECT COUNT(*) FROM documents").fetchone()[0] == 1
+
+
 class TestSearchQuoting:
     def test_hyphen_term_searches(self) -> None:
         con = _memdb()
