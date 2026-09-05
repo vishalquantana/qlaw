@@ -1,0 +1,793 @@
+THE AUTHORITY ON ADVANCE RULINGS
+IN KARNATAKA
+GOODS AND SERVICES TAX
+VANIJYA THERIGE KARYALAYA, KALIDASA ROAD
+GANDHINAGAR, BENGALURU - 560009
+Advance Ruling No. KAR ADRG 19/2019
+Date: 26-08-2019
+Present:
+1. Sri. Harish Dharnia,
+Additional Commissioner of Central Tax,
+2. Dr. Ravi Prasad M.P.
+Joint Commissioner of Commercial Taxes
+Member (Central Tax)
+*
+4.
+.... Member (State Tax)
+1.
+Name and address of the
+applicant
+2.
+M/s Antrix Corporation Limited,
+Antrix Corporate Office,
+Anthariksh Bhavan Campus,
+New BEL Road, Bengaluru - 560094
+29AABCA4500B1ZE
+4.
+6.
+GSTIN or User ID
+Date of filing of Form GST
+ARA-01
+Represented by
+Jurisdictional Authority -
+Centre
+Jurisdictional Authority -
+State
+27.04.2018
+7.
+Whether the payment of fees
+discharged and if yes, the
+amount and CIN
+Sri Ganesh Shankararaman, Advocate
+The Commissioner of Central Tax,
+North Commissionerate, Bengaluru
+NA
+Yes, discharged fee of Rs.5,000/-
+under CGST Act & Rs.5,000/-
+under KGST
+Act
+vide
+CIN
+ICIC18042900406268
+dated
+25.04.2018
+ORDER UNDER SECTION 98(4) OF THE CENTRAL GOODS & SERVICES
+TAX ACT, 2017 AND UNDER 98(4) OF THE KARNATAKA GOODS &
+SERVICES TAX ACT, 2017
+1.
+M/s Antrix Corporation Limited, (called as the 'Applicant' hereinafter),
+Anthariksh Bhavan Campus, New BEL Road, Bengaluru - 560058, having
+GSTIN number 29AABCA4500B1ZE, have filed an application for Advance
+Ruling under Section 97 of CGST Act 2017 & KGST Act 2017 read with Rule
+104 of CGST Rules 2017 & KGST Rules 2017, in form GST ARA-01
+discharging the fee of Rs.5,000/- each under the CGST Act and the KGST
+Act.
+For Advance
+Page 1 of 18
+Ruling
+staru
+
+2.
+The Applicant is a Private Limited Company and is registered under
+the Goods and Services Act, 2017. The applicant has sought advance ruling
+in respect of the following question:
+Whether Leasing of Satellite Transponder which is covered under
+SAC Code 997319 be charged at 5% GST as per HS Code 8803 -
+Parts Goods of Heading 8802 (Satellites)?
+3.
+The applicant furnishes the following facts relevant to the stated
+activity:
+a.
+The applicant stated that they are a company wholly owned by
+the Government of India (GOI) and under the administrative
+control of the Department of Space, incorporated under the
+provisions of the Companies Act, 1956 as a private limited
+company on 28th September, 1992 -
+(a) For the promotion and commercial exploitation of space
+based services and products,
+(b) To provide technical consultancy services;
+(c) To carry out transfer of technologies developed by Indian
+Space Research Organisation (ISRO); and
+(d)
+To facilitate development of space related industrial
+capabilities in India.
+b. The applicant is engaged in a variety of activities, inter-alia,
+including
+(a) Leasing of space segment capacity on INSAT/GSAT
+satellites;
+(b)
+Leasing of space segment capacity procured from Foreign
+Satellite Service Providers / Operators ("FSSP");
+(c) Launch services;
+(d) Satellite Services;
+(e) Remote Sensing and Data Services;
+(f) Host Facility Services;
+Page 2 of 18
+
+(g) Scientific and Technical consultancy services; and
+(h) Integrated ground station establishment (eg. IMDPS Project)
+The applicant is authorised by the Government of India, acting
+through Department of Space, to conduct a variety of
+commercial activities, subject to the terms and conditions and
+in line with the policy of the Government of India, in order to
+effectively implement the commercial aspect of India's space
+programme and allied services, in consonance with Department
+of Space and ISRO.
+d. The applicant stated that the communication satellite has the
+following basic parts:
+e.
+f.
+(i) Satellite housing - This is the outside container of a
+Satellite;
+(ii) Power System - This consists of Solar Panels as well as
+batteries to power the satellite;
+(iii) Antenna System - This is to receive signals to make the
+Satellite's operation in Orbit;
+(iv) Command and Control System - This monitors the satellite
+to ensure that all vital operating parameters are working
+(v) Transponders - Electronic Systems that amplify the
+frequency of an uplink signal for retransmission to earth.
+A Communication Satellite cannot be without any of the
+aforesaid parts. There will not be utility for such equipment
+without transponders.
+The Applicant stated that a transponder is an electronic system
+of a satellite that receives the frequency of an uplink signal and
+amplifies it for retransmission to the earth in a downlink
+frequency. The applicant leases out these transponders to its
+customers based on their requirement.
+The applicant stated that in their understanding, leasing of
+transponders are covered under the SAC Code 997319 -
+"Leasing or rental services concerning other machinery and
+equipments with or without operator". The rate of GST
+applicable is covered vide Notification No.8/2017 - Integrated
+Page 3 of 18
+Authority
+Lor Advance
+Ruling
+Sengaturu
+
+Tax (Rate) dated 28.06.2017 as amended till date under the
+following entry:
+SI.No.
+17
+Heading
+9973
+Description of Service
+(viii) Leasing or rental
+services,
+with
+Or
+without operator, other
+than (i, (i), (i), (iv), (V),
+(vi) and (vii) above
+Rate of Tax
+Same
+rate
+of
+integrated tax as
+applicable
+on
+supply of like goods
+involving transfer of
+title in goods
+As transponder is a part of satellite, it is covered under HSN
+8803 - Parts of goods of Heading 8802.
+Satellites are charged at Nil Rate of tax as per Sl. No. 140, HSN -
+8802 60 00 - Space craft (including satellites) and sub-orbital
+and space craft launch vehicles vide Notification No.2/2017 -
+Integrated Tax (Rate) dated 28.06.2017 as amended till date.
+Parts of goods of Heading 8802 (Transponder) is charged at 5%
+Rate of tax as per Sl. No. 245, HSN 8803 - Parts of Goods of
+Heading 8802 of Schedule I of Notification No.1/2017 -
+Integrated Tax (Rate) dated 28.06.2017 as amended till date.
+Similar Notifications exist under the CGST and SGST Acts also.
+PERSONAL HEARING: / PROCEEDINGS HELD ON 29.05.2018.
+4.
+Sri Ganesh Shankararaman, Advocate and duly authorised
+representative of the applicant appeared for personal hearing proceedings
+held on 29.05.2018 & reiterated the facts narrated in their application and
+also made the following written submissions inter alia stating that:
+(a) A Communication Satellite has the following basic parts:
+(i) Satellite Bus:
+a. Satellite Structure: This is the mechanical structure of
+the satellite which supports and integrate various sub-
+systems.
+b. Power System - This consists of Solar Panels as well as
+Batteries to power the Satellite.
+Page 4 of 18
+
+c. Antenna System - This is to receive / transmit signals
+between earth stations.
+d. Command and Control System - This monitors the
+Satellite to ensure that all vital operating parameters are
+working.
+e. Thermal System - This protects the satellite and its
+systems from external environment
+f. Propulsion System - This is used for station keeping and
+orbit correction, to ensure that the satellite stays in its
+orbit.
+(ii) Satellite Payload:
+a. Transponder - Electronic system that receive the signal,
+amplify it and transmit it back to earth on a different
+frequency.
+(b) In a communication satellite, transponders are the only systems
+through which various services like TV Broadcasting, DSNG,
+DTH, VSAT, Telephony, etc., are rendered to the users. Rest of
+the satellite systems, as detailed under Satellite Bus) are the
+supporting systems for proper functionality of transponders.
+(c) The Transponder has the following parts
+(i) Band Pass Filters
+(ii) Low Noise Amplifier
+(111) Mixer
+(iv) Oscillator
+(v) High Power Amplifier
+The Band Pass Filter is a device that passes frequencies within a
+certain range and rejects (attenuates) frequencies outside that
+range.
+5.
+Further the applicant, while furnishing the alternate classification of
+the transponder, contends that the transponder can't be classified under
+heading 8525 60 92 as "Other Satellite Equipment" but merits classification
+as a part of Satellite under 8803 and submits as under :
+For Advance
+¡ority
+Ruling
+Page 5 of 18
+
+5.1
+The Satellite network consists of Ground Segment as well as Space
+Segment. The Ground segment comprises of the following:
+(a) Uplink Station (to send signals from Earth to Satellite)
+(b) Downlink Station (to receive signals from Satellite to Earth)
+The Space segment comprises of Satellite located at a specified orbital slot.
+5.2 The tariff heading 8525 60 92 -"Other Satellite Communication
+Equipment" covers those equipments which are in the Uplink Station and
+Downlink Station which are not part of Space Segment. Some of the
+equipments are as follows:
+a. Amplifiers are used to regenerate and amplify signals
+b. Antennas (receiving antennas or transmitting antennas) are
+structures used to radiate electromagnetic waves
+c. Modulators : Digital data is sent to the modulator which takes the
+data and converts it into a modulated signal in the Intermediate
+Frequency Range.
+d. Block up converters (BUC) are used to convert a band or a block of
+frequencies from lower to higher frequencies.
+e. Low-noise block converters (LNB) are down-converters that are
+used to receive (downlink) satellite signals.
+f. Equalizers : are satellite communications equipment used to alter
+or adjust the frequency response of a device.
+b) Considering the above, the applicant states that it is clear that
+Transponders cannot be categorized in the Tariff heading Other
+Satellite Communication Equipment covered under 8525 60 92.
+5.3
+The applicant further placed reliance on the following judgments
+wherein a discussion on HSN Code 8525 60 92 and various equipments
+covered in the context of exemptions under notifications is dealt with. These
+decisions are referred only with the intent to show that the entry "Other
+Satellite Equipment" refers to the equipments which are in either Uplink
+Station or Downlink Station (together can be categorised as On Ground) and
+not in Space Segment. Further, Satellite Communication Equipments as
+such are categorized as HSN 8525 60 92 - Other Satellite Communication
+Equipment.
+Page 6 of 18
+
+a. U & I System Design Ltd. V. Commissioner of Customs (Appeals),
+Bangalore - 2007 (218) ELT 603 (Tri-Bang)
+b. Modern Communication & Broadcasting Systems P. Ltd v. Chief
+Commissioner, Kandla - 2009 (245) ELT 199 (Tri- Ahmd)
+c. Raj Television Network v. Commissioner of Customs, Chennai -
+2007 (215) ELT 71 (Tri- Chennai).
+5.4
+The applicant has further placed reliance on the Notification No.
+153/ 93 - Customs dated 13.08.1993 which was issued in the context of
+exemption to telematic infrastructural equipments. The annexure in the
+notification covers the following Satellite Communication Equipments -
+"II. SATELLITE COMMUNICATION EQUIPMENT
+1. High Power Amplifier
+2. Solid State Power Amplifier
+3. Low Noise Amplifier
+4. Ground Communication Equipment
+5. Up/ Down Converter
+6. Modulator / Demodulator
+7. Antenna System
+8. TDMA / DSI
+9. Master Earth Station
+10. Micro Earth Station
+11. Radio Network Terminal
+12. Interfacility Link
+13. Pilot Receivers."
+These entries, which are classifiable under HSN Code 8525 60 92,
+refer to those equipments which are used to communicate with the Satellite
+and nowhere Transponders finds place in this List. This goes to prove that
+Transponders are not considered as part of the "Other Satellite
+Communication Equipment".
+5.5
+Regarding the Customer Base Station and Applicant's role in Up-
+linking and Down linking, the learned representative stated that all the
+customers of the applicant who want uplink and/or downlink require base
+station at ground which may be owned by them or leased from the Teleport
+For Advance
+Page 7 of 18
+Authority
+*
+*Kariak?
+Ruling
+Sluru *
+
+operators. The customers, through the teleport or through their own ground
+equipment, uplink their data directly to satellite and it can be down linked
+in the area covered by satellite by using appropriate ground equipment such
+as antenna, down converters, de-modulators, set top boxes, etc. When a
+customer intends to start any communication service like, Television,
+Broadcasting, Digital Satellite news gathering, Outdoor Broadcasting, Direct
+to Home, VSAT (Very Small Aperture Terminal - ATM, Retail, Banking etc.,)
+the Department of Space (DOS) identifies and allots Satellite Bandwidth
+Capacity (in MHz). Based on this, Transponder lease agreement with the
+Customer is entered into. The Customer starts using the allotted Satellite
+Bandwidth Capacity after obtaining other regulatory approvals/ clearance.
+No intervention of Antrix / DOS is involved in either up-linking or down
+linking.
+5.6
+The applicant's question relates to the classification of Satellite
+Transponders used in Communication Satellites. The transponders leased
+by the applicant to its customers form part of a communication satellite and
+do not form part of any other equipment / aircraft/ navigational device, etc.
+The applicant also submitted that the transponder is a specific part of the
+satellite without which the Satellite is of no use. Such a satellite
+transponder cannot be used in any other navigation equipment. It is
+specifically used only in a satellite. This Satellite Transponder is not of
+generic use. Any goods, specifically designed for a particular product
+(Satellite in this case) will be classified as part of that machine and not a
+part of generic use. This is the rule of classification. The applicant has
+placed reliance on the following pronouncements which explicitly brings out
+what is a part and also the classification of specific use of the part:-
+(a) Commissioner of Central Excise, Delhi v. Insulation Electrical (P) Lyd -
+2008 (224) ELT 512 (SC) - where in para 19, it is stated ... "Chapter 9401
+covers all types of seats and not only the seats of a car and a seat is complete
+even without the rail assembly from seat, adjuster / assembly slider seat and
+rear back lock assembly. They are not essential parts of the seat. Chapter
+heading 9401 covers only the parts of seats and not accessories to the seat. A
+"part" is an essential component of the whole without which the whole cannot
+function."
+In the aforesaid judgment, the Apex Court has held that a Part is an
+essential component of the whole without which the whole cannot function
+and in the applicant's case, the transponder is a part of the Communication
+Satellite without which the Communication Satellite cannot function.
+Page 8 of 18
+
+(b)
+Eureka Forbes Limited v. Commissioner of Central Excise, Meerut
+2001 (130) ELT 146 (Tri-Del) wherein it was held in Para 8 as under:
+"According to Note 2(b) parts which are suitable for use solely or principally
+with particular machines or apparatus are classified in the same heading as
+those machines or apparatus. This has been confirmed by the Appellate
+Tribunal and Courts in many cases, including the decision in Sealol
+Hindustan Ltd., supra, and Plastic Craft Industries, supra, relied upon by the
+Id. Advocate for the Appellants. The Board also clarified vide letter F. No.
+145/12/87-CX4, dated 18-03-88 that Ice Trays, freezer doors, etc. would be
+classified under Heading 84.18 as parts of refrigerator. The Board, however,
+classified butter box under Chapter 39 as it was not solely designed for use
+with refrigerator. Accordingly, we hold that applying Rule 2(b) to Section XVI,
+hoses in question are appropriately classifiable along with vacuum cleaner
+under Heading No. 85.09 of the Tariff."
+In the Applicant's case, the transponder is used solely and principally with
+the Communication Satellite and hence is a part of the Satellite.
+(c)
+Regarding the issue as to why a Transponder cannot be categorized as
+an equipment as it is also made of few more parts, the applicant has
+submitted that if a part is made of a different part, it does not mean that the
+resultant part will not be a part of a particular product/ equipment (in this
+case Satellite). In the context of Part of Part being considered as Part of
+Equipment, there are several judgments which goes to show case that, even
+if the primary part of an equipment is made of other parts, still the
+character of Primary Part of equipment doesn't get lost. The applicant has
+placed reliance on the following judicial pronouncements where there are
+decisions considering part of part being considered as part of equipment.
+There is no view that since part is made of other part, the main part will
+become an equipment on its own. In fact, even the so called equipment if it
+is intrinsic to a specific primary equipment, will be treated as part of that
+equipment:
+(a) Collector of Central Excise v. MP (I) Ltd - 1990 (46) ELT 68 (Tri)
+(b) Collector v. MP (I) Ltd - 1997(95) ELT A142 (SC)
+(c) Motor Industries Company Ltd. V. Collector of Central Excise,
+Aurangabad - 1995 (75) ELT 65 (Tri)
+(d) Collector of Central Excise, Aurangabad v. Motor Industries
+Cor Advance
+Company Ltd. 2003 (152) ELT 36 (SC)
+Authority
+Ruling
+Page 9 of 18
+*
+
+Considering the above, the applicant states that it is clear that Satellite
+Transponder, which is designed for specific use in Satellite is to be classified
+as Part of Satellite and classifiable under HSN 8803.
+5.7
+Regarding the Bill of Entry for the transponder assessed under
+Tariff Heading 88039000, the applicant submitted that for an import of
+Satellite Transponder earlier by the applicant, the classification under the
+Customs was under HSN Code 8803 9000. As the assessment has happened
+under this HSN Code, which is the same as sought in this Advance Ruling
+Application, the applicant is eligible to classify the transponder as parts of
+satellite under HSN Code 8803.
+Hence the applicant has prayed that the classification of Satellite
+Transponders to be held to be under HSN Code 8803.
+6. FINDINGS & DISCUSSION:
+6.1
+We have considered the submissions made by the Applicant in their
+application for advance ruling as well as the submissions made by Sri.
+Ganesh Shankararaman, Advocate and authorised representative of the
+applicant during the personal hearing. We have also considered the issues
+involved, on which advance ruling is sought by the applicant, and relevant
+facts.
+6.2 At the outset, we would like to state that the provisions of both the
+CGST Act and the KGST Act are the same except for certain provisions.
+Therefore, unless a mention is specifically made to such dissimilar
+provisions, a reference to the CGST Act would also mean a reference to the
+same provisions under the KGST Act.
+6.3
+question:
+The Applicant seeks advance ruling in respect of the following
+Whether Leasing of Satellite Transponder which is covered under
+SAC Code 997319 be charged at 5% GST as per HSN Code 8803 -
+Parts Goods of Heading 8802 (Satellites)?
+The applicant contends that leasing of satellite transponder is covered
+under SAC 997319 and the said transponder is classifiable under Tariff
+heading 8803 as part of satellite, which is classified under Tariff heading
+8802, and hence is taxable at 5% GST.
+Page 10 of 18
+
+6.4
+A copy of the Memorandum of Understanding between the
+Department of Space and the applicant was submitted to explain the
+business activity of the applicant. The applicant is a company wholly owned
+by the Government of India and under the administrative control of the
+Department of Space. The applicant is engaged in a variety of activities,
+inter-alia, including leasing of space segment capacity on satellites, leasing
+of
+space
+segment
+capacity
+procured
+from Foreign
+Service
+Providers/Operators, launch services, satellite services, remote sensing and
+data services etc. In respect of Satellite services the applicant is empowered
+to market complete satellite systems. Further they are empowered to
+negotiate with the end user/customer for finalising the technical,
+commercial and contractual terms of the work proposed to be done. Further
+the applicant is christened as the 'Contract Manager' in all the agreements
+entered by the Department of Space with users for provision of INSAT
+transponder capacity with rights and powers to administer the
+agreements/MOUs in entirety. The MOU shows that the agreement is in
+respect of INSAT and GSAT satellites, which are purely communication
+satellites.
+6.5 In the instant application the applicant is engaged in the service of
+leasing/ rental of satellite transponders and seeks clarification on the rate of
+tax applicable in respect of the said service.
+6.6
+In the subject matter and in relation to the question for Ruling we
+examine the provisions of Notification No. 08/2017-Integrated Tax (Rate)
+dated 28.06.2017 and as amended subsequently. Serial Number 17 of the
+Notification, Heading 9973, pertains to Leasing or rental services, with or
+without operator. Against the aforementioned Heading the entries in Column
+(3) of the Notification from (i) to (vii) pertain to issues not related to the
+application. The entry at serial (viii) is a residual entry and applies to the
+applicant. Therefore the services provided by the applicant are aptly covered
+under Serial Number 17, sub-serial (vili) of the said Notification. In so far as
+the rate of tax applicable to the said service is concerned the Notification
+provides that the rate shall be as mentioned in Column (4) against the
+description of the service. The entry in Column (4) of the Notification against
+Serial No. 17(viii) reads as follows:
+Same rate of integrated tax as applicable on supply of like goods
+involving transfer of title of goods.
+In the instant case satellite transponders had been leased out.
+For
+Pavance Ruling
+Therefore the rate of tax applicable on the service of leasing of the satellite
+Page 11 of 18
+Authoitly
+*
+Каг.
+
+transponders shall be the same as the rate of tax as applicable on the
+supply of the satellite transponders. This brings us to the question of
+determination of the rate of tax on supply of satellite transponders which
+in turn requires us to determine the classification of the said goods.
+6.7
+Before proceeding to examine the entries in the Tariff, we shall
+examine the nature and characteristics of a satellite transponder to
+understand its features, characteristics etc to correctly determine its
+classification.
+6.8
+A Transponder is an automatic electronic monitoring or control
+device that receives, cross examines, amplifies and retransmits the
+arriving signal and is primarily implemented in wireless communication
+(as ascertained from independent sources). The word "Transponder' itself
+is a combination of two words ie transmitter and responder.
+A
+transponder works by receiving a definite signal from a specific source (up
+link) on a component called "interrogator", then it amplifies the signal,
+converts the signal to a dissimilar frequency, through "frequency
+converter"
+", than that of the one received and automatically transmits the
+signal (down link). Therefore the input and output signals can be sensed
+concurrently. The device on board the satellite that performs the
+amplification and frequency conversion and also the main/key payload of
+any communication satellite is the "Transponder".
+In view of the above, the transponder essentially is a repeater
+which receives the signal transmitted from earth station on the uplink,
+amplifies the signal, converts to a dissimilar frequency and retransmits
+the same on the downlink. Therefore the essential / significant features
+of amplification and frequency conversion are done by the key payload of
+the communication satellite i.e. the transponder.
+Therefore the
+transponder becomes an integral part of the communication satellite,
+without which the communication satellite becomes defunct.
+6.9
+The Applicant contends that the said transponders merit
+classification under Tariff Heading 8803 as part of Spacecraft (including
+satellites) falling under Tariff heading 8802. The alternate classification
+is under Tariff heading 8525 as "Other Satellite Communication
+Equipment". We proceed to examine the two Tariff Headings.
+6.10 In respect of Tariff Headings and determination of Classification,
+Explanations (iii) and (iv) appended to the Notification No. 01/2017-
+Central Tax (Rate), dated 28.06.2017 are relevant. The said explanations
+Page 12 of 18
+
+are reproduced below for ease of reference.
+(iii) "Tariff item", "sub-heading" "heading" and "Chapter" shall mean
+respectively a tariff item, sub-heading, heading and chapter as
+specified in the First Schedule to the Customs Tariff Act, 1975(51
+of 1975).
+(iv) The rules for the interpretation of the First Schedule to the Customs
+Tariff Act, 1975 (51 of 1975), including the Section and Chapter
+Notes and the General Explanatory Notes of the First Schedule
+shall, so far as may be, apply to the interpretation of this
+notification.
+Accordingly we make a reference to the Section Notes and Chapter
+Notes of the relevant Chapters of the Customs Tariff and also the
+corresponding Explanatory Notes.
+6.11
+Chapter 85 is covered under Section XVI and Chapter 88 is
+covered under Section XVII of the Customs Tariff Act. We proceed to
+examine the two competing entries sequentially.
+6.12
+The applicant has stated that the competing entry in the Tariff is
+85256092- "Other Satellite Communication Equipment". The Tariff entry
+8525 reads as under:
+Tariff Item
+8525
+8525 50
+8525 50 10
+8525
+50
+20
+8525
+50
+30
+8525
+50 40
+8525
+50
+50
+8525
+50
+90
+8525 60
+8525 60 11
+8525 60 12
+8525 60 13
+8525 60 19
+8525 60 91
+Description
+Transmission apparatus for radio broadcasting or television,
+whether or not incorporating reception apparatus or sound
+recording or reproducing apparatus; television cameras, digital
+cameras and video camera recorders
+-
+Transmission apparatus
+--- Radio broad cast transmitter
+TV broad cast transmitter
+Broadcast equipment sub-system
+Communication jamming equipment
+Wireless microphone
+--- Other
+Transmission apparatus incorporating reception
+apparatus
+Two way radio communication equipment
+-- Walkie talkie set
+Marine radio communication equipment
+Amateur radio equipment
+Other
+- Other:
+VSAT Terminals
+Page 13 of 18
+Authority
+
+8525 60 92
+8525 60 99
+8525 80
+Other satellite communication equipment
+-
+8525 80 10
+8525 80 20
+8525 80 30
+8525 80 90
+Other
+Television cameras, digital cameras and video
+camera recorders:
+--- Television cameras
+-- Digital Cameras
+-- Video Camera recorders
+--- Other
+It could be seen from above that the heading 8525 primarily deals
+with transmission apparatus for radio broadcasting or television, whether
+or not incorporating reception apparatus or sound recording or reproducing
+apparatus in addition to television cameras, digital cameras and video
+camera recorders. The heading is divided into three major sub-headings
+namely (a) Transmission apparatus under heading
+8525 50,
+(b) Transmission apparatus incorporating reception apparatus under
+heading 8525 60 and (c) Television cameras etc., under heading 8525 80.
+Further 8525 60 1 series covers two way communication equipment and
+8525 60 9 series covers others which include VSAT terminals, other
+satellite communication equipment.
+6.13 In this regard our attention is drawn towards the brief outline of
+the basic satellite communication set-up. The basic elements of a
+satellite communication system include the ground segment and the
+space segment. The ground segment comprises the transmitting and the
+receiving Earth stations together with their associated instruments,
+antennae, electronic circuits etc.,. These earth stations provide access to
+the space segment by transmitting/receiving information to/from the
+satellite. The space segment comprises one or more satellites, which act
+as repeater stations.
+6.14
+The tone and tenor of the goods covered under Heading 8525
+shows that the transmission apparatus (i.e. Radio broadcast transmitter,
+TV broadcast transmitter, wireless microphone etc under Heading
+852550), transmission apparatus incorporating reception apparatus (i.e.
+two way radio communication equipments etc.) are apparatus and
+equipments based on the land. Further the entry VSAT Terminals' under
+the category of 'Others' also relates to an earth station. VATs are Very
+Small Aperture Terminal (VSAT) and are two-way ground stations that
+transmit and receive data from satellites. The competing entry "Other
+Satellite Communication Equipment' immediately follows the VSAT entry.
+This throws light on the nature of the equipments covered under 'Other
+Satellite Communication Equipment. Such equipments ought to be in the
+nature of equipments located on the ground and used to establish
+Page 14 of 18
+
+communication with the satellite much as VSATs. This leads one to the
+conclusion that these equipments shall not be located on the satellite, but
+on the ground and used to establish communication from the ground up
+with the satellite. The flow of the classification of the
+apparatus/equipments, thus, leads to the inference that goods not
+specifically covered under 852550 and 852560 but used in
+transmission/communication from a ground station to the satellite find
+classification under the specific heading 85256092. In view of the above, it
+is evident that the goods / equipment covered under the heading 8525 60
+are primarily meant for communication with the satellite and form part of
+ground segment.
+6.15
+In the instant case the transponder is a key payload of
+communication satellite and hence cannot form part of ground segment
+but is essentially a part of space segment and more specifically the main
+part to the communication satellite without which the communication
+satellite
+becomes defunct. Therefore transponders located on the
+communication satellite are not covered under the Heading 85256092.
+6.16
+We now proceed to examine the Tariff Heading 8803. The
+transponders are stated to be parts of Communication Satellites. In this
+regard we find that Heading 8802, and more specifically Heading
+88026000) covers Spacecraft including Satellites. Therefore Satellites are
+covered under Tariff Head 8802. The next Heading in the instant Chapter
+is 8803 and it covers "Parts of goods of heading 8801 and 8802.
+Therefore it now remains to be determined whether the transponders
+qualify to be considered as parts of Satellite and whether the same are
+covered under Heading 8803 or not.
+6.17 Chapter 88 falls under Section XVII of the Customs Tariff. Section
+Note 3 to Section XVII of the said Tariff stipulates that "References in
+Chapters 86 to 88 to "parts" or "accessories" do not apply to parts or
+accessories which are not suitable for use solely or principally with the
+articles of those chapters. A part or accessory which answers to a
+description in two or more of the headings of those Chapters is to be
+classified under that heading which corresponds to the principal use of that
+part or accessory".
+6.18
+Further we are draw reference to the Explanatory Notes of the
+relevant Section and Chapter. Explanatory Notes to Section XVII at
+General (III Parts & Accessories stipulate that all the following three
+conditions should be satisfied, for a product to be classified as a Part
+Page 15 of 18
+Authority
+engaluru *
+
+under the said Section.
+(a) They must not be excluded by the terms of Note 2 to Section
+XVII (see paragragh (A) below)
+(b) They must be suitable for use solely or principally with the
+articles of Chapters 86 to 88 (see paragragh (B) below)
+(C)
+They must not be more specifically included elsewhere in
+the Nomenclature (see paragraph ( C) below)
+6.19 The communication satellite transponders are not covered in the list
+of parts/parts and accessories appearing under Note 2. Therefore the
+transponders are not excluded by the terms of Note 2 to Section XVII.
+Therefore the first condition stands complied with.
+6.20
+The second condition prescribes criterion of sole or principle use
+(paragraph (B)) inter alia stating that under Section Note 3, parts and
+accessories which are not suitable for use solely or principally with
+articles of Chapters 86 to 88 are excluded from those chapters. The effect
+of Note 3 is therefore that when a part or accessory can fall in one or more
+other sections as well as in Section XVII, its final classification is
+determined by its principal use. Further in case parts and accessories
+classifiable in two or more heading of the Section i.e. when certain parts
+and accessories are suitable for use on more than one type of
+article/ product they are to be classified in the heading relating to the parts
+and accessories of the articles / products with which they are principally
+used.
+In the instant case the product "Transponder" being an integral part
+of the communication satellite can be used solely or principally with the
+communication satellite falling under Tariff heading 8802. Hence the
+second condition is also complied with.
+6.21
+The third condition lists certain parts and accessories covered
+more specifically elsewhere in the Nomenclature (paragraph (C)). Such
+parts and accessories, even if identifiable as for the articles of Section
+XVII, are excluded if they are covered more specifically by another
+heading elsewhere in the nomenclature. It is observed from the list that
+the transponder does not find a place. Moreover the transponders are not
+more specifically classified elsewhere in the Tariff. Therefore the third
+condition is also complied with.
+Page 16 of 18
+
+6.22
+On the basis of the discussions above we find that
+Communication Satellite Transponders are appropriately classifiable
+under Tariff Heading 8803, more specifically under 8803 90 00.
+6.23
+Transponders, being parts of communication satellites, are
+covered under 8803 90 00 and any leasing of such transponders would be
+covered under the Entry No.17 of Notification No. 11/2017 - Central Tax
+(Rate) dated 28th June 2017 at the rate applicable as on the supply of like
+goods involving the transfer of title in goods. Admittedly the transponders
+are goods and any transfer of right to use any goods for any purpose
+(whether or not for a specified period) for cash, deferred payment or other
+valuable consideration is covered under the clause (viii) of Entry No. 17 of
+the said Notification.
+7. In view of the foregoing, we pass the following
+RULING
+The service of Leasing of Satellite Transponders, covered under SAC
+9973 19, falls under the Entry No. 17 (viii) of Notification No. 8 / 2017 -
+Integrated Tax (Rate) dated 28th June 2017, as amended, and is taxable to
+GST at the rate of 5% IGST (i.e. 2.5% of CGST and 2.5% of KGST), as
+applicable on the supply of like goods (transponder - part of
+communication satellite) involving the transfer of title in goods, covered
+under 8803 90 00, in terms of Entry no. 245 of the Schedule I of the
+Notification No. 1 / 2017 - Integrated Tax (Rate) dated 28th June, 2017,
+as amended
+(Harish Dharnia)
+Member
+(Dr.Ravi Prasad.M.P.)
+Member
+Place : Bengaluru,
+Date : 26-08-2019
+To,
+The Applicant
+Copy to :
+1. The Principal Chief Commissioner of Central Tax, Bangalore Zone,
+Karnataka.
+Authority
+Karnataka.
+Page 17 of 18
+taluru
+
+2. The Commissioner of Commercial Taxes, Karnataka, Bengaluru.
+3. The Commissioner of Central Tax, Bangalore North Commissionerate,
+HMT Bhavan, Bengaluru (Jurisdictional Office)
+4. The Asst. Commissioner, LGSTO-150 Bengaluru
+5. Office Folder
+Page 18 of 18

@@ -1,0 +1,627 @@
+THE AUTHORITY FOR ADVANCE RULINGS
+IN KARNATAKA
+GOODS AND SERVICES TAX
+VANIJYA THERIGE KARYALAYA, KALIDASA ROAD
+GANDHINAGAR, BENGALURU - 560 009
+Advance Ruling No. KAR ADRG 11 / 2022
+Date: 21-04-2022
+Present:
+1. Dr.M.P. Ravi Prasad
+Additional Commissioner of Commercial Taxes
+. Member (State)
+2. Sri. T. Kiran Reddy
+Additional Commissioner of Customs & Indirect Taxes ... Member (Central)
+1.
+Name and address of the
+applicant
+2
+M/s Keysight Technologies India Pvt. Ltd,
+The Millenia', II Floor, Tower D', # 1 & 2,
+Murphy Road, Ulsoor, Bengaluru-560 048.
+29AAFCK4584R1ZJ
+GSTIN or User ID
+Date of filing of Form GST
+ARA-01
+24-11-2021
+4.
+Represented by
+Jurisdictional Authority -
+Centre
+Ms. Neethu James, Advocate
+& Authorized Representative
+The Commissioner of Central Tax,
+Bangalore East Commissionerate,
+Bengaluru. (Range-AED2)
+6.
+Jurisdictional Authority -
+State
+LGSTO-45, Bengaluru.
+7.
+Whether the payment of
+fees discharged and if yes,
+the amount and CIN
+Yes, discharged fee of Rs.5,000/- under
+CGST Act and Rs.5,000/- under KGST Act
+vide CIN
+HDFC21112900176683 dated
+18.11.2021.
+ORDER UNDER SECTION 98(4) OF THE CGST ACT, 2017
+& UNDER SECTION 98(4) OF THE KGST ACT, 2017
+M/S. Keysight Technologies India Pvt. Ltd, The Millenia', II Floor, Tower D',
+# 1 & 2, Murphy Road, Ulsoor, Bengaluru-560 048, having GSTIN number
+29AAFCK4584R1ZJ, have filed an application for Advance Ruling under Section 97 of
+CGST Act,2017 & KGST Act, 2017 read with Rule 104 of CGST Rules 2017 & KGST
+uthority
+For Adieules 2017, in form GST ARA-01 discharging the fce of Rs. 5,000/- cach under the .
+TAct and the KGST Act.
+Keysight Tech
+Page 1 of 11
+Тарана, Волона
+
+2.
+The Applicant is a Private Limited Company, registered under the Goods and
+Services Act, 2017. They submit that they are engaged in the supply of scientific &
+technical equipment and time based & perpetual software license(s) to Public
+Funded Research Institutions registered with Government of India. The applicant
+has sought advance ruling in respect of the following questions:
+a) Whether software licenses supplied by the applicant qualifies to be treated as
+Computer Software resulting in supply of goods and are therefore to be
+classified under Chapter Heading 8523 80 20?.
+b) Whether the benefits of Notifications No.45/2017-Central Tax (Rate),
+Notification (45/2017) No.FD48 CSL 2017, Bengaluru and Notification
+No. 47/2017-IGST (Rate) all dated 14.11.2017 are applicable to the software
+licenses supplied by the Applicant to the institutions given in the notification?
+Admissibility of the application :
+The applicant, filed the instant
+application, in relation to applicability of notification & whether their supply
+amounts to supply of goods, on the issues covered under Section 97(2)(b) & 97(2)(g)
+of the CGST Act 2017 and hence the application is admitted.
+4. Brief Facts : The applicant furnished the following facts, relevant to the
+questions raised in the instant application inter alia stating as under:
+4.1 The applicant are engaged in supply of scientific & technical equipment and
+time based & perpetual software license to Public Funded Research Institutions
+recognized by Government of India; that in some cases they supply equipment
+along with software and in some other cases they supply standalone software; that
+in case where the equipment is supplied along with software, a single invoice with
+distinct line items, covering goods and software, is raised; that in the case where
+the software is supplied separately, a standalone invoice is raised separately.
+4.2.
+The Applicant has also furnished the mode of delivery of software to their
+customers, which is as under:
+a) The customer places the order with the Applicant for an equipment along
+with the software or for standalone software.
+b) The Applicant sources the required products from other keysight entities
+outside India.
+c) The applicant acts as a reseller of Keysight products in India
+4.3.
+The applicant submitted that Keysight equipment are used by various
+research institutions which can be configured to suit the needs of each institution
+for the same purpose. The equipment may be configured by purchasing various
+software and in most cases the software is embedded in the equipment. Software
+can
+also be downloaded and installed on equipment / hardware supplied by the
+For Advangplicant. Some software can also be downloaded and installed on user's own PC.
+Authority
+• Kev
+sight Tech
+Page 2 of 11
+*
+* Karnataka-
+
+Authority s
+All the software whether embedded in product or downloaded from website of the
+applicant, require a license to be activated through a license key. The Applicant
+supplies the following types of software.
+a) Software embedded in the equipment supplied by the Applicant;
+b) Software downloaded and installed in the equipment; and
+c) Software downloaded and installed on the Personal Computer (PC)
+4.4.
+License key(s) are delivered, as per customer's request, either through e-mail
+(E-delivery), Paper Certificate or Tangible Media (CD-ROM or USB drive) by the
+applicant.
+Customer must activate the license by visiting Keysight website and
+once the license is activated a license file is generated and is required to be
+installed on the equipment or PC. If the customer is purchasing an equipment
+along with required software, then the software is factory installed and factory
+activated.
+4.5 The applicant is appointed, as a reseller of Keysight products in India, by the
+principal partner M/s Keysight Technologies Inc., USA in terms of the reseller
+agreement and thus the applicant is a distributor of Keysight products in the
+territory of India. Thus the applicant procures the products from their principal
+partner and supplies to the customers in India. The applicant, in all cases, is a
+reseller of software and does not own the IPs for the said software supplied.
+4.6
+The applicant, in terms of EULA (End User License Agreement) shall not
+> Copy, merge or transfer copies of the software or the documentation except
+as may be expressly and specifically authorised in the said agreement
+› Modify, under any circumstances, reverse engineer, decompile, disassemble
+or otherwise attempt to discover, reconstruct or identify the source code for
+the software or any user interface techniques, algorithms logic, protocols or
+specifications included, incorporated or implemented therein and
+• Modify, port, translate or create derivative works of the software.
+4.7
+The EULA is entered between the Keysight Technologies Inc. and the
+Customer, as per which the usage of the Keysight software is governed. Applicant
+quoting the standard EULA, emphasising the clauses 3 & 7, with regard to the
+ownership of software, stated that it is evident from the reseller agreement and the
+EULA that the software supplied by them is a package software and not tailor made
+one, to suit individual requirement and that the said software is 'pre-designed' and
+'pre-developed' and sold without any customisation and the usage of the software is
+controlled through 'encryption keys' and the software is not developed for any
+specific client and the same software is sold to all the clients as it is 'pre-designed'
+andépre-developed'.
+Keysight Tech
+Page 3 of 11
+Karnataka
+Bengal
+
+4.8 The applicant, on the supply of software to the Public Funded Research
+Institutions and Institutions registered with Government of India, is presently
+charging GST at the rate of 18% as per sl.no. 17(i) of Notification No.11/2017-
+CGST (Rate) dated 28.06.2017 treating it as supply of service under SAC 9973 as
+the supply of software i.e. right to use a certain intellectual property in the form of
+software clearly amounts to supply of services in terms of entry number 5(c) of
+Schedule Il of the CGST Act 2017.
+4.9 The applicant submitted that the institute, to whom they have supplied the
+software licenses & charged GST at 18%, have disputed the payment of GST at the
+rates charged by them. It is their (Customer/ institutions) understanding that the
+supply of software license is covered under 'computer software' as specified in
+Notification No.45/2017-Central Tax (Rate) dated 14.11.2017 and is taxable at the
+concessional GST rate of 5%, as the said software is purchased and used for
+research purpose only.
+5. Applicant's interpretation of Law:
+5.1 The applicant contends that their supply of software licenses shall qualify as
+supply of goods, on the following grounds.
+a) Notification No.45/2017-Central Tax (Rate) dated 14.11.2017 stipulates
+concessional rate of 5% GST (CGST 2.5% & SGST 2.5%) on goods listed
+under column 3 of the said Notification, which include "Computer Software".
+The term
+"Computer Software" has not been defined either under
+CGST/KGST Act 2017, whereas the term "goods" has been defined under
+Section 2(52) of the CGST Act 2017 to mean "every kind of movable property
+other than money and securities but includes actionable claim, growing
+crops, grass and things attached to or forming part of the land which are
+agreed to be severed before supply or under a contract of supply".
+b) The purpose of the aforesaid notification is to offer a reduced rate of GST to
+certain institutions for the purpose of furtherance of research and therefore
+exclusion of computer software on merely technical grounds would defeat
+the purpose of the said notification.
+c) The Hon 'ble Apex Court in the case of Tata Consultancy Services Vs State of
+Andhra Pradesh [2004(178)ELT 22 (SC)], while dealing the question whether
+the 'canned software' can be termed to be 'goods' and as such assessable to
+sales tax under Andhra Pradesh General Sales Tax Act, 1957, held as under:
+24. A "goods" may be a tangible property or an intangible one. It would
+become goods provided it has the attributes thereof having regard to (a) utility
+(b) capable of being bought and sold (c) capable of transmitted, transferred,
+For Advance R
+delivered, stored and possessed. If a software whether customized or non-
+Authority
+customised satisfies these attributes, the same would be goods".
+Keysi
+Tech
+Page 4 of 11
+
+d) The Explanatory Notes to the Scheme of Classification of Services under GST
+stipulates that the services of limited end-user licence as part of packaged
+software are excluded from the SAC 997331, which covers Licensing services
+for the right to use computer software and databases.
+The FAQ issued for GST on Information Technology (IT) and IT Enabled
+Services (ITES) vide question 1 states as under:
+Question 1: Whether software is regarded as goods or services in GST?
+Answer : In terms of Schedule II of the CGST Act 2017, development, design,
+programming,
+customization, adaptation, upgradation,
+enhancement,
+implementation of information technology software and temporary transfer or
+permitting the use or enjoyment of any intellectual property right are treated as
+services.
+But, if a pre-developed or pre-designed software is supplied in any
+medium/ storage (commonly bought off-the-shelf or made available through the
+use of encryption keys, the same is treated as a supply of goods classifiable
+under heading 8523.
+f) In the instant case, the software license(s) supplied by the applicant is
+generally used by the customer for designing/ validating/manufacturing the
+parts/systems in industries like Aerospace and defence, Automotive and
+Energy, Communications, Education and Heavy Equipment, Machinery etc.,
+and hence the same could be used by the customers in different fields
+depending on their requirement. Further the said software license(s) is a
+package software and not tailor made one, to suit individual requirement
+and these software are "pre-designed" and "pre-developed" and the usage is
+controlled through "encryption keys".
+g)
+A software licence may not qualify as "goods", if a strict interpretation of the
+word "goods" is used, as it should be classified as a supply of services and
+therefore such supplies of software licenses may be out of the ambit of the
+above mentioned notifications. However, the notification themselves have
+specific inclusion for "Computer Software" which itself is described under
+the head of goods. Further the software licenses supplied by them can't be
+used without the aid of the computer and has to be loaded on a computer
+and as well as on the Keysight Equipment and then after activation, would
+become usable and hence the goods supplied is "computer software" and
+more specifically covered under "Application Software". Hence the supply
+made by the applicant is covered under "supply of goods" and the goods
+supplied are covered under the HSN 8523.
+For Advance
+Authority
+Rulin
+Keysight Tech
+# Karnataka:
+Bengaluru
+Page 5 of 11
+
+h) In view of the above, the applicant submits that the "Computer Software"
+supplied by them qualifies to be treated as "Goods"
+5.2
+The applicant contends that they are eligible for concessional GST rate of 5%
+on 'computer software' in terms of Notification No.45/2017-Central Tax (Rate) dated
+14.11.2017, on the grounds that their customers are mainly Government
+Departments, Public Funded Research Institutions and Public Sector Undertakings;
+that the institutions to whom they have supplied have issued certificates to that
+effect from an officer not below the rank of the Deputy Secretary to the Government
+of India or the Deputy Secretary to the State Government or the Deputy Secretary
+in the Union Territory certifying that the goods supplied by the Applicant are
+purchased for research purpose only.
+5.3 The applicant further contends that this Hon'ble Authority has answered
+similar questions in an identical factual situation, which have been raised in the
+present application, in affirmative in the cases of Solize India Technologies (P)
+Ltd., and SPSS South Asia Put. Ltd.. The Hon'ble Authority, in the said cases has
+ruled that the software sold by the applicants is a pre-developed or pre-designed
+and made available through the use of encryption keys and hence it satisfies all the
+conditions that are required to cover them under the definition of "goods". Further,
+the goods which are supplied by the applicant can't be used without the aid of the
+computer and has to be loaded on a computer and then after activation, would
+become usable and hence the goods supplies is "Computer Software" and more
+specifically "Application Software". The Explanatory Notes to the Scheme of
+Classification of Services stipulates that the services of limited end-user licence as
+part of packaged software are excluded from the SAC 997331. Thus the supply
+made by the applicant is covered under "Supply of goods".
+Though the Advance Rulings are applicable only to the respective applicants,
+the principles and rationale applied in the cases cited supra can be applied to the
+instant case as the facts and activities are similar in nature.
+Therefore the
+"Computer Software" supplied by the applicant qualifies to be treated as "goods"
+and covered by the Notification mentioned above and consequently, the
+concessional GST rate of 5% is available.
+PERSONAL HEARING
+6. Ms. Neethu James, Advocate & Authorized Representative of the applicant
+appeared for personal hearing proceedings held on 10.02.2022 before this
+authority & reiterated the facts narrated in their application.
+FINDINGS & DISCUSSION
+7.
+* Karnataka
+Bengaluru
+We have considered the submissions made by the applicant in their
+application for advance ruling. We also considered the issues involved on which
+pEr more re to rate that the prims at bal te as it me the Ki A
+skeys to state that the provisions of both the GST Act and the KOST Act
+
+are the same except for certain provisions. Therefore, unless a mention is
+specifically made to such dissimilar provisions, a reference to the CGST Act
+would also mean a reference to the same provisions under the KGST Act.
+8.
+The applicant submitted that they are resellers / distributors of Keysight
+products of the principal partner M/s Keysight Technologies Inc., USA in terms of
+the reseller agreement, in India. Thus the applicant procures the products from
+their principal partner and supplies to the customers in India. The applicant, in all
+cases, is a reseller of software and does not own the IPRs for the said software
+supplied. In view of this the applicant sought advance ruling in respect of the
+questions mentioned at para 2 supra.
+9.
+The applicant submitted that they supply software license(s) to their
+customers for downloading the said software through internet and the usage of the
+said software is controlled through "encryption keys"; the said software is a
+packaged software but not tailor made one, to suit individual requirement and
+these software are "pre-designed" and "pre-developed"; they are charging 18% GST
+on their supply of software licence to the Public Funded Research Institutions and
+Institutions registered under Government of India in terms of entry No.17(ii) of
+Notification 11/2017-Central Tax (Rate) dated 28.06.2017 on treating the said
+supply as supply of service, classifying the same under SAC 9973, as the supply of
+software i.e. the right to use a certain intellectual property in the form of software
+clearly amounts to supply of services in terms of entry 5( c) of Schedule II of the
+CGST Act 2017.
+10.
+The applicant, however, contended that their supply of software lincence(s)
+qualifies to be "Supply of goods" on the grounds that as per the Explanatory Notes
+to the Scheme of Classification of Services the SAC 997331 excludes the services of
+limited end-user licence as part of packaged software. The applicant further
+contends that the said supply is entitled for concessional rate of GST @ 5%, in
+terms of the Notification No.45/2017-Central Tax (Rate) dated 14.11.2017. In this
+regard, the applicant relied upon the decision of the Hon'ble Supreme Court in the
+case of Tata Consultancy Services Vs. State of Andhra Pradesh [2004 (178)ELT 22
+(SC)] and also the Explanatory Notes to the scheme of classification of services
+under GST.
+11.
+In view of the above, the issue before us to decide is the classification of
+the supply of software licence by the applicant i.e. whether it amounts to supply
+of goods or services. We observe that the software supplied by the applicant is a
+pre-developed or pre-designed software and made available through the use of
+encryption keys and hence it satisfies all the conditions that are required to be
+satisfied to cover them under the definition of 'goods'. Further the goods which
+are supplied by the applicant cannot be used without the aid of the computer
+or Adand has to be loaded on a computer and then after activation would become
+Authority
+usable and hence the goods supplied qualifies to be "Computer Software" and
+more
+specifically covered under "Application Software". Further the Explanatory
+i Keysight Tech
+Page 7 of 11
+Karnataka:
+Bengaluru
+
+Notes to the Scheme of Classification of Services stipulates that the SAC 997331
+covers Licensing services for the right to use computer software and
+databases but excludes the services of limited end-user licence as part of
+packaged software from the said SAC. Hence the supply made by the applicant
+is covered under "Supply of goods" and the said supply is covered under tariff
+heading 8523.
+12.
+Now we proceed to examine the applicability of the Notification
+No. 45/2017 Central Tax (Rate) dated 14.11.2017, to the impugned supply,
+which is issued in exercise of powers conferred under Section 11(1) of the CGST Act
+2017, which exempts the goods specified in column (3), when supplied to the
+institutions specified in the corresponding entry in column(2), subject to the
+conditions specified in the corresponding entry in column(4) of the table of the said
+Notification.
+13.
+The notification supra exempts the goods, among others, such as computer
+software, Compact Disc-Read Only Memory (CD-ROM), recorded magnetic tapes,
+microfilms, microfiches, when supplied to Public funded research institution
+other than a hospital or a university or an Indian Institute of Technology or
+Indian Institute
+of Science, Bangalore or a National Institute of
+Technology / Regional Engineering College, subject to the following conditions.
+(i) The goods are supplied to or for -
+(a) a public funded research institute or a University or an Indian Institute
+of Technology or Indian Institute of Science, Bangalore or a Regional
+Engineering College, other than a hospital subject to the condition that
+such institutions are under the administrative control of the Department
+of Space or Department of Atomic Energy or the Defence Research
+Development Organisation of the Government of India and such
+institution produces a certificate to that effect from an officer not below
+the rank of the Deputy Secretary to the Government of India or the
+Deputy Secretary to the State Government or the Deputy Secretary in the
+Union Territory in the concerned department to the supplier at the time
+of supply of the specified goods or
+(b) an institution registered with the Government of India in the
+Department of Scientific and Research and such institution produces a
+certificate from an officer not below the rank of the Deputy Secretary to
+the Government of India or the Deputy Secretary to the State
+Government or the Deputy Secretary in the Union Territory in the
+concerned department to the supplier at the time of supply of the
+specified goods
+Rulin
+ysight Tech
+*
+* Karnataka
+Bengaluru
+Page 8 of 11
+
+(ii) The institution produces, at the time of supply, a certificate to the supplier
+from the Head of the Institution, in each case, certifying that the said goods
+are required for research purpose only.
+14.
+The applicant contends that computer software is described as goods in
+the notification supra and hence the term goods is more generic in nature; the
+purpose of the notification is to offer a reduced rate of GST to certain institutions
+for the purpose of research or furtherance of research and hence exclusion of
+computer software on mere technical grounds would defeat the purpose of the
+notification and thus claims that they are entitled to the benefit of notification
+supra.
+15.
+The applicant furnished the copy of invoice raised relevant to the respective
+transaction wherein they supplied the software licence to Research and
+Development Establishment (Engineers), Pune, along with a copy of certificate
+issued, under Notification No47/2017-Integrated Tax (Rate) dated 14.11.2017,
+by the Director, R&DE, (ENGRS), Pune, who is holding the rank in the pay scale
+higher than that of the Deputy Secretary to Government of India. from which it
+is observed that the said Institution falls under Public funded research
+institution' and is under the administrative control of Department of Defence
+Research & Development of the Government of India. It is also certified, in the
+said certificate, that the goods under purchase, for which GST exemption is
+claimed, are required for research purpose only, which fulfills the conditions at
+Colum (4) of the Notification No.45/2017-Central Tax (Rate) dated 14.11.2017 or
+Notification No.47/2017-Integrated Tax (Rate) dated 14.11.2017
+The extract of relevant portion of the Notification supra is appended below:
+S
+No.
+Name of the
+Institutions
+Description of the goods
+Conditions
+(1)
+(2)
+(3)
+(4)
+1
+Public funded
+research institution or
+a University or an
+Indian Institute of
+Technology or Indian
+Institute of Science,
+Bangalore or a
+Regional Engineering
+College, other than a
+hospital
+(a) Scientific and technical
+instruments, apparatus,
+equipment
+(including
+computers);
+(i) The goods are supplied
+to or for -
+(b)
+accessories,
+parts,
+consumables
+and
+live
+animals
+(experimental
+purpose;
+(c)
+computer
+software,
+Compact Disc-Read Only
+Memory
+(CD-ROM),
+recorded magnetic tapes,
+microfilms, microfiches;
+(d)
+Prototypes, the
+aggregate
+value
+of
+(a) a
+public
+funded
+research institution under
+the administrative control
+of
+the Department of
+Space or Department of
+Atomic
+Energy
+or the
+Defence
+Research
+Development Organisation
+of the Government of India
+and
+such
+institution
+produces a certificate to
+that effect from an officer
+not below the rank of the
+Deputy Secretary to the
+Government of India or
+Page 9 of 11
+Auth
+Rulir
+Keysight Tech
+Karnataka.
+Bengalry
+
+prototypes received by an
+institution
+does
+not
+exceed
+fifty
+thousand
+rupees in financial year.
+the Deputy Secretary
+to
+the State Government or
+the Deputy Secretary
+in
+the Union Territory in the
+concerned department to
+the supplier at the time of
+supply of the specified
+goods; or
+(b)
+an
+institution
+registered
+with
+the
+Government of India in
+the
+Department
+of
+Scientific and Industrial
+Research
+and
+such
+institution produces
+a
+certificate from an officer
+not below the rank of the
+Deputy Secretary to the
+Government of India or
+the Deputy Secretary to
+the State Government in
+concerned department to
+the supplier at the time of
+supply
+of the specified
+goods;
+(ii)
+The
+institution
+produces, at the time of
+supply, a certificate to the
+supplier from the Head of
+the Institution, in each
+case, certifying that the
+said goods are required for
+research purposes only;
+(iii) In the case of supply
+of
+live
+animals
+for
+experimental
+purposes,
+the institution produces,
+at the time of supply, a
+certificate to the supplier
+from the Head of
+Institution that the live
+animals are required for
+research purposes
+enclose a no objection
+certificate issued by the
+Committee for the Purpose
+of Control and Supervision
+of
+Experiments
+on
+Animals
+The Notification No.45/2017- Central Tax (Rate) dated 14.11.2017 and
+Gor ANarigoation No.47/2017-Integrated Tax (Rate) dated 14.11.2017 stipulates the
+CGST / IGST @ 5%, if the goods of computer software is supplied to
+eysight Tech
+Page 10 of 11
+*
+Bengaluru
+
+public funded research institutions subject to fulfillment of the conditions
+prescribed under column 4 of the said notification. In the instant case the
+applicant is supplying computer software to a public funded research
+institution, under the administrative control of DRDO, Government of India.
+Further the said institute has also furnished a certificate as required to fulfill
+the required condition.
+17. In view of the foregoing, we pass the following
+RULING
+a) The software supplied by the applicant qualifies to be treated as Computer
+Software resulting in supply of goods and are therefore be classified under
+Chapter Heading 8523 80 20.
+b) The benefits of Notifications No.45/2017-Central Tax (Rate), Notification
+(45/2017), No.FD48 CSL 2017, Bengaluru and Notification No.47/2017-
+IGST (Rate) all dated 14.11.2017 are applicable to the computer software
+supplied by the Applicant to the institutions given in the notification, subject
+to fulfillment of the conditions of the notification, in each case.
+(Dr. M.P. Ravi Prasad)
+MembER
+Karnataka Advance Ruling Authority
+Place : Bengaltur 5,60 009
+Date: 21-04-2022
+(T. Kiran Reddy)
+Member
+MEMBER
+Karnataka Advance Ruling Authority
+Bengaluru - 560 009
+To,
+The Applicant
+Copy to:
+1. The Principal Chief Commissioner of Central Tax, Bangalore Zone, Karnataka.
+2. The Commissioner of Commercial Taxes, Karnataka, Bengaluru.
+3. The Commissioner of Central Tax, Bengaluru East Commissionerate, Bengaluru.
+4. The Asst. Commissioner, LGSTO-45, Bengaluru.
+5. Office Folder.
+Bly For Advance
+Auth
+/Keysight Tech
+Page 11 of 11

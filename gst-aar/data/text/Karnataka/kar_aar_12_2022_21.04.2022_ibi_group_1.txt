@@ -1,0 +1,684 @@
+THE AUTHORITY FOR ADVANCE RULINGS
+IN KARNATAKA
+GOODS AND SERVICES TAX
+VANIJYA THERIGE KARYALAYA, KALIDASA ROAD
+GANDHINAGAR, BENGALURU - 560 009
+Advance Ruling No. KAR ADRG 12/2022
+Date: 21-04-2022
+Present:
+1. Dr. M.P. Ravi Prasad
+Additional Commissioner of Commercial Taxes
+.... Member (State)
+2. Sri. T. Kiran Reddy
+Additional Commissioner of Customs & Indirect Taxes. ...Member (Central)
+Name and address of the
+applicant
+2.
+M/s IBI Group India Pvt. Ltd.,
+# 241, 3, 6th Cross, 1st Stage, Binnimangala,
+Indiranagar, Bengaluru-560038
+29AABCI5556K1Z5
+3.
+GSTIN or User ID
+Date of filing of Form GST
+ARA-01
+17-12-2021
+4.
+Represented by
+5.
+Jurisdictional Authority -
+Centre
+Sri. Abhishek Mishra, C A
+& Authorised Representative
+The Commissioner of Central Tax,
+Bangalore East Commissionerate,
+Bengaluru. (Range-BED3)
+6.
+Jurisdictional Authority
+- State
+ACCT, LGSTO-45, Bengaluru.
+7.
+Whether the payment of
+fees discharged and if yes,
+the amount and CIN
+Yes, discharged fee of Rs.5,000/- under CGST
+Act & Rs.5,000/- under KGST Act through
+debit from Cash Ledger vide reference number
+DC2911210018828 dated 06.11.2021.
+ORDER UNDER SECTION 98(4) OF THE CST ACT, 2017
+& UNDER SECTION 98(4) OF THE KGST ACT, 2017
+M/s. IBI Group India Pvt. Ltd., # 241, 3, 6th Cross, 1st Stage, Binnimangala,
+Indiranagar, Bengaluru-560038, having GSTIN 29AABCI5556K1Z5, have filed an
+application for Advance Ruling under Section 97 of CGST Act, 2017 read with Rule
+104 of CGST Rules, 2017 and Section 97 of KGST Act, 2017 read with Rule 104 of
+Authority
+For AdKOST Rules, 2017, in form GST ARA-01 discharging the fee of Rs.5,000/- each
+under
+the CGST Act, KGST Act.
+Karnataka:
+Bengali toup india
+Page 1 of 14
+
+2.
+IBI Group India Private Limited ("IBI India"), in joint venture with IBI
+Group Professional Services (Canada) Inc ("IBI Canada"), has entered into a
+Contract with Asian Development Bank, Manilla ("ADB") for rendering Consultancy
+Services (IBI India and IBI Canada are jointly referred to as "IBI" herein).
+3.
+In view of the above, the applicant has sought advance ruling in respect of
+the following questions:
+a) Whether Consultancy Services rendered to ADB, Manilla would qualify as "
+export of services" in terms of Section 2(6) of the Integrated Goods and
+Services Tax Act, 2017 ("IGST Act")?
+b) If the Consultancy Services rendered to ADB, Manilla do not qualify as
+"export of services"
+, whether ADB would be required to obtain refund of
+GST charged on Invoice issued for Consultancy Services in terms of Section
+55 of the Central Goods and Services Tax Act, 2017 ("CGST Act") or the
+services would be exempt as per provisions of the Asian Development Bank
+Act, 1966 ("ADB Act")?
+4. BRIEF FACTS OF THE CASE: The applicant furnishes the following facts
+relevant to the issue:
+4.1
+The Consultancy Services, broadly, envisage multifarious
+study to
+conceptualise a transit-oriented development plan in respect of construction of new
+metro lines, phases 2A and 2B, with a total length of 56 km including 30 stations
+and three depots, at Bengaluru, Karnataka. In this regard, the construction of new
+metro lines would be undertaken by Government of Karnataka, for which
+Government of India requested ADB for financial assistance.
+4.2 The Consultancy Services or Technical Assistance support in respect of
+creating a viable vision document, having intertwined objectives of developing
+public mass transport systems for Bengaluru city and its urban planning, is
+purported to encapsulate the following:
+(1)
+Prioritizing integrated and systemic urban planning to manage growth,
+catalyse
+strategic
+renewal
+of the
+city core,
+and
+enhance
+competitiveness, sustainability and inclusiveness of the city.
+(ii)
+Creation of a ridership base that improves the economic and financial
+viability of mass transit investment.
+(iii)
+Accessibility benefits of a comprehensive public transport system for all
+city residents.
+(iv)
+Using land as a revenue Source to finance long term investment needs
+of the city.
+Addressing complex and intertwined economic and technological needs.
+* Karnataka
+Page 2 of 14
+
+5. Applicant's Interpretation of Law:
+5.1 Export of Services
+5.1.1 As per Section 16(1) of the Integrated Goods and Services Tax Act, 2017
+("IGST Act") , "export of services" qualifies to be " zero rated supply", which
+means that there would be no levy of GST on services qualifying as "export
+of services"
+5.1.2 For qualifying as "export of services", specific conditions, as provided under
+Section 2(6) of the IGST Act, should stand fulfilled. The said conditions
+and whether such conditions are fulfilled vis-à-vis the present facts is
+discussed in the table below:
+S1
+No.
+1
+2
+3
+4
+5
+Conditions for qualifying Whether the conditions are fulfilled
+as "export of services"
+in the present set of facts
+The supplier of Service is
+located in India
+The recipient of Service is
+located outside India
+The place of supply of
+service is outside India
+The payment for such
+service
+is received
+in
+convertible
+foreign
+exchange
+The supplier of service and
+the recipient of service are
+not merely establishment of
+distinct person
+Since IBI is located in India, this
+condition should stand fulfilled
+Since ADB is locate outside India, this
+condition would also stand fulfilled
+Refer
+subsequent paragraphs
+for
+discussion on this aspect.
+The payment for services is to be made
+in USD.
+Accordingly, this condition
+would be fulfilled.
+This condition would also be fulfilled in
+the instant case.
+5.1.3
+It emerges that if place of supply of services rendered by IBI to ADB
+emerges to be outside India, such supply of services would qualify to be
+"export of services". In this regard, Section 16 of the IGST Act lays down
+the criteria for determining the "place of supply" of services in cases where
+location of recipient (i.e. ADB in the instant case) is outside India. Section
+13(2) of the IGST Act lays down the default rule that "place of supply"
+services would be location of recipient of service except in cases enlisted
+under Section 13(3) to 13(13) of the IGST Act. In this regard, Section 13(4)
+of the IGST Act provides as follows:
+"The place of supply of services supplied directly in relation to an
+immovable property, including services supplied in this regard by
+experts and estate agents, supply of accommodation by a hotel, inn,
+guest house, club or campsite, by whatever name called, grant of
+rights to use immovable property, services for carrying out or co-
+For Advance
+Authority
+Ruling
+Karnataka.
+Page 3 of 14
+
+5.1.4
+5.1.5
+ordination of construction work, including that of architects or
+interior decorators, shall be the place where the immovable property is
+located or intended to be located"
+Given that the Consultancy Services are proposed to be rendered in respect
+of the construction of new metro lines, which may be construed to be
+services in relation to "immovable property", it may be contended that the
+"place of supply" of services rendered by JV India would be Bengaluru i.e.
+within India. Accordingly, such services would not qualify as "export of
+services" and hence taxable @ 18%. However, Section 13(4) of the IGST Act
+provides that the services should be " directly in relation to an immovable
+property", whereas in the present case the technical assistance support
+services proposed to be rendered by JB India is a feasibility study and
+holistic planning of the public mass transit system involving new metro rail
+lines. The term " directly in relation to immovable property" means that the
+nexus between the proposed services and the immovable property is
+distinct and clear. If the service in question are remotely related to or are
+indirectly related to the immovable property, it may not be legally plausible
+to construe "place of supply" of such service to be the location of immovable
+property in terms of Section 13(4) of the IGST Act.
+In the instant Case, the scope of work of the technical assistance support,
+is largely related to planning transit-oriented development along mass
+transit corridors, strategic urban renewal of Bengaluru city etc. It emerges
+that the consultancy services are not merely related to construction or
+design of construction of new metro lines but are aimed at undertaking a
+pre-construction analysis of the public mass transit system involving a
+gamut of technical, social and economic factors. Accordingly, the services
+cannot be said to be directly in relation to the immovable property.
+Accordingly, the "place of supply" of such services would be determined as
+per Section 13(2) of the IGST Act i.e. the place of supply of services would
+be location of recipient services / ADB, which is outside India.
+5.1.6 Hence, the condition of "place of supply" being outside India for qualifying
+as "export of services" should also get fulfilled in the instant case.
+Consequently, services rendered by IBI to ADB should qualify as " export of
+services:.
+5.2
+Refund to be obtained by ADB or Exempted Services
+5.2.1
+Section 55 of the CGST Act read with Notification 16/2017-Central Tax
+(Rate) dated 28 June 2017 ("GST Notification" and Rule 95 of the CGST
+Rules provides that specified multilateral Financial Institution and
+Organization (which includes ADB) would be entitled to claim a refund of
+gi Advance taxes paid on the notified supplies of services received by them. Section 55
+reproduced below for ease of reference:
+Authority
++ 1B1 Group adia
+Page 4 of 14
+
+5.2.2
+5.2.3
+"55. Refund in certain cases.
+The Government may, on the recommendations of the Council, by
+notification, specify any specialised agency of the United Nations
+Organisation or any Multilateral Financial Institution and Organisation
+notified under the United Nations (Privileges and Immunities) Act, 1947(46
+of 1947), Consulate or Embassy of foreign countries and any other person
+or class of persons as may be specified in this behalf, who shall, subject to
+such conditions and restrictions as may be prescribed, be entitled to claim
+a refund of taxes paid on the notified supplies of goods or services or both
+received by them."
+The Government of India has issued a Circular for clarifying its stand in
+respect of applicability of GST on ADB. In Circular No. 83/02/2019- GST
+dated 1st January 2019 ("GST Circular"), it is stated as follows:
+"2. The ADB Act, 1966 provides that notwithstanding anything to the
+contrary contained in any other law, the Bank, its assets, properties,
+income and its operations and transactions shall be exempt from all
+the taxation and from all customs duties. The Bank shall also be
+exempt from any obligation for payment, withholding or collection of
+any tax or duty (Section 5 (1) of the ADB Act, 1966 read with Article 56
+(1) of the schedule thereto refers)...
+3. CESTAT Mumbai vide final order dated 17-10-2016 in the case of
+M/s Coastal Gujarat Power Ltd. Has held that when the enactments
+that honour international agreements specifically immunize the
+operations of the service provider from taxability, a law coutrary to
+that in the form of Section 66A of Finance Act, 1994 will not prevail.
+With the provider being not only immune from taxation but also
+absolved of any obligation to collect and deposit any tax, there is no
+scope for subjecting the recipient to tax. There is no need for a
+separate exemption and existing laws enacted by the sovereign
+legislature of the Union suffice for the purpose of giving effect to
+Agreements.
+4. Accordingly, it is clarified that the services provided by ... ADB are
+exempt from GST in terms of provisions of ...ADB Act. The exemption
+will be available only to the services provided by ADB... and not to
+any entity appointed by or working on behalf of ADB...
+On the other hand, reference should be made to the Asian Development
+Bank Act, 1966 ("ADB Act") which implements the international
+agreement for the establishment and operation of the Asian Development
+Bank and provides for matters connected therewith. Section 5 of the ADB
+Act provides as follows (relevant extracts only):
+Ruling
+For Advance
+Authority
+Page 5 of 14
+
+" 5. Conferment of status and certain immunities, exemptions and privileges
+on Bank and conferment of certain immunities, exemptions and privileges
+on its officers and employees -
+(1) Notwithstanding anything to the contrary contained in any other law, the
+provisions of the Agreement set out in the Schedule shall have the force of
+law in India:
+Provided that nothing in Article 56 of the Agreement shall be construed
+as-
+(a) Entitling the Bank to import into India goods free of any duty of
+customs without any restriction on their subsequent sale therein; or
+(b) Conferring on the Bank any exemption from duties or taxed which
+from part of the price of goods sold; or
+(c) Co0000000000000000000000000000000000000000000000000000
+nferring on the Bank any exemption from duties or taxed which are in
+fact no more than charges for services rendered."
+5.2.4 Article 56 of the Agreement, which is contained under Schedule to the ADB
+Act, provides as follows (relevant extracts only):
+"ARTICLE 56
+EXEMPTION FROM TAXAITON
+1. The Bank,
+its assets, property, income and its operations and
+transactions, shall be exempt from all taxation and from all customs
+duties. The Bank shall also be exempt from any obligation for the
+payment. Withholding or collection of any tax or duty.
+2. No tax shall be levied on or in respect of salaries and emoluments paid by
+the Bank to Directors, alternates, officers or employees of the Bank,
+including experts performing missions for the Bank, except where a
+member deposits with its instrument of ratification or acceptance a
+declaration that such member retains for itself and its political sub-
+divisions the right to tax salaries and emoluments paid by the Bank to
+citizens or nationals of such member.
+5.2.5
+As per the aforesaid provisions of the ADB Act, the services rendered by IBI
+should be exempt, whereas in terms of the Section 55 of the CGST Act read
+with GST Circular, it emerges that such services should not be exempt and
+ADB should obtain refund of the GST paid by it to IBI from Government.
+Please clarify on the aforesaid aspect basis which IBI would decide whether
+it is required to charge GST on its invoice issued to ADB.
+çor Advance
+Authority
+Joint Commissioner of Central Tax, Bengaluru East Commissionerate,
+Belaturistie their letter dated 30.12.2021, furnished their comments on the
+*
+* Karnataka
+HiBI Group asia
+Page 6 of 14
+
+question raised by the applicant in the instant application, inter alia stating that
+"as per Section 2(6) of the IGST Act 2017, place of supply of service has to be
+determined for qualification of any service to be an export of service and
+determination of place of supply of service is not within the scope of Advance
+Ruling Authority, in terms of Section 97(2) of the CGST Act 2017. Further the
+Joint Commissioner also quoted the following rulings in support of their views.
+a) M/s Workplace Options India Pvt. Ltd., - Advance Ruling No.KAR ADRG
+52/2021 dated 29.10.2021
+b) M/s Sabre Travel Network India Pvt. Ltd.,-2019 (27) G.S.T.L. 754 (AAAR-
+GST)
+c) M/s Asahi Kasei India Pvt. Ltd.,-2019 (28) G.S.T.L. 172 (AAAR-GST)
+PERSONAL HEARING PROCEEDINGS
+7. Sri Abhishek Mishra, Chartered Accountant & Authorised Representative of
+the applicant appeared for personal hearing proceedings, held on 10.02.2022,
+through video conference, and reiterated the facts narrated in their application.
+8.
+The applicant vide their e-mail dated 12.01.2022, furnished additional
+submissions, inter alia stating as under:
+8.1
+The applicant pursuant to personal hearing held on 06.01.2022 requested
+for leave to file additional submissions on specific points raised during the
+personal hearing, which was granted by the authority and thus the additional
+submissions were filed, which are summarized as under:
+8.2
+The Hon'ble authority, during the personal hearing, expressed its inability
+to provide the ruling in respect of query raised in respect of "place of supply" of
+services and "export of services" rendered by the applicant to ADB, as being sans
+Hon'ble Authority's jurisdiction as per CGST Act 2017.
+8.3 In this regard it is respectfully submitted that adjudicating upon the query
+related to "export of services" / "place of supply" is well within the jurisdiction of
+Hon 'ble Authority in terms of Section 95(a) read with Section 97(2) of the CGST
+Act.
+Authority
+8.4
+The applicant has sought clarification as to whether their services would
+qualify as "export of services" in terms of Section 2(6) of the IGST Act 2017. It is
+required to determine whether conditions for qualifying as "export of services" as
+laid down under Section 2(6) of the IGST Act are fulfilled in respect of the said
+services or not, one of which is the "place of supply" of the said services, whether
+For Adit is in India or outside India. Thus to determine whether the said services would
+qualify as "export of services" or not it is essential to decide the "place of supply"
+of the said services.
+Karnataka.
+# IBI Group India
+Bengalurs
+Page 7 of 14
+
+8.5
+If the authority determines the "place of supply" of said services as outside
+India, then the applicant would not be required to pay GST on the said services,
+as being "zero rated supply"
+. In effect, the authority would determine the liability
+of the applicant to pay tax on services, which is squarely within the power of
+"determination of the liability to pay tax on any goods or services or both, in
+terms of Section 97(2)(e) of the CGST Act.
+8.6 The above averment finds support in judgement of Hon'ble Kerala High
+Court in the case of Sutherland Mortgage Services INC Vs. Principal
+Commissioner and others 2020 (3) TMI 186, wherein it is held that it is true that
+the issue relating to the determination of place of supply is not expressly
+enumerated in any of the clauses as per clauses (a) to (g) of Section 97(2) of the
+CGST Act, but there can't be any two arguments that the said issue relating to
+the determination of place of supply, which is one of the crucial issues to be
+determined as to whether or not it fulfills the definition of place of service, would
+also come within the ambit of the larger issue of "determination of liability to pay
+tax on any goods or services or both" as envisaged in clause (e) of Section 97(2) of
+the Act. The Advance Ruling Authority has proceeded on a tangent and has
+missed the said crucial aspect of the matter and has taken a very hyper-technical
+view that it does not have jurisdiction for the simple reason that the said issue is
+not expressly enumerated in Section 97(2). The applicant brought out the
+observations of the Hon'ble High Court of Kerala, in para 21 of the said
+judgement.
+8.7 The Advance Ruling Authorities of various states have adjudged and
+clarified on the similar matter in several instances, notable few of which are
+enumerated as under:
+1. AAR, Maharashtra's ruling GST-ARA-20/2019-20/B-59 dated 15.12.2021,
+in the matter of M/s Preeti Automative India Pvt. Ltd.,
+2. AAR, Maharashtra's ruling GST-ARA-30/2018-19/B-92 dated 20.08.2018,
+in the matter of M/s Segoma Imaging Technologies India Private Limited.
+3. AAR, Andhra Pradesh's ruling 04/AP/GST/2020 dated 24.02.2020, in the
+matter of M/s DKV Enterprises Pvt. Ltd.,
+4. AAR, Gujarat's ruling GUJ/GAAR/R/70/2020 dated 17.09.2020, in the
+matter of M/s Stove Industries Ltd.,
+5. AAR, West Bengal's ruling 02/WBAAR/2017-18, in the matter of M/s
+Global Reach Education Services Pvt. Ltd.,
+8.8 It is apparent that Hon'ble Advance Ruling Authority should answer the
+question related to "export of services" raised by the Applicant, in terms of
+Section 97(2) of the CGST Act. In this regard, it is reiterated that the services
+rendered by IBI to ADB should qualify as "export of services" as "place of supply"
+For Kell he determined in terms of Section 13(2) of the IGST Act i.e. the "place or
+Authority
+would be outside India. It is because the services of IBI are not directly
+relation
+to immovable property. The services in question involve advisory/
+Group India
+Page 8 of 14
+
+consultancy in relation to holistic planning of the growth-oriented transport
+system in the city of Bengaluru. In this regard, CBEC Educational Guide issued
+in the month of June 2012 in para 5.5.2 highlighted the meaning of the words
+"directly in relation to the immovable property" in respect of similar provision
+under erstwhile Service tax laws (i.e. Chapter V of the Finance Act, 1994 as it
+existed at that point in time) and provide as follows:
+"There must be more than a mere indirect or incidental connection
+between a service provided in relation to an immovable property, and the
+underlying immovable property. For example, a legal firm's general
+opinion with respect to the capital gains tax liability arising from the sale
+of a commercial property in India is basically advice on taxation
+legislation in general even though it relates to the subject of an immovable
+property. This will not be treated as a service in respect of the immovable
+property.
+The place of provision of services rule applies only to service which relate
+directly to specific sites of land or property. In other words, the
+immovable property must be clearly identifiable to be the one from where,
+or in respect of which, a service is being provided. Thus, there needs to
+be a very close link or association between the service and the immovable
+property. Needless to say, this rule does not apply if a provision of service
+has only an indirect connection with the immovable property, or if the
+service is only an incidental component of a more comprehensive supply of
+services."
+8.9
+It is submitted that the services of IBI can only be construed to be
+remotely related to an immovable property which is not identifiable at present,
+and it is not related directly to specific sites of land or property but to Bengaluru
+city per se. At this juncture, it is also worthwhile to refer to Section 13(4) of the
+IGST Act. The relevant part of the said section is "The place of supply of
+services supplied directly in relation to services for carrying out or co-
+ordination of construction work, including that of architects or interior
+decorators, shall be the place where the immovable property is located or
+intended to be located", from which it would emerge that services of IBI are not
+directly related to any specific immovable property, whether present or
+upcoming. Further, the services of IBI are not purported to be in relation to
+"carrying out or co-ordination of construction work." Accordingly, "place of
+supply" of services of IBI rendered to ADB would have to be determined as per
+Section 13(2) of the IGST Act i.e. "The place of supply of services except the
+services specified in sub-sections (3) to (13) shall be the location of the recipient of
+services." As a consequence, services rendered by IBI to ADB should qualify as
+"holy Far Agesport of services" as the recipient of said services/ADB is located outside India.
+Ruling
+Karnataka.
+# IBIGroun India
+Bangal
+Page 9 of 14
+
+8.10 It is also submitted that IBI is an "Applicant" in terms of Section 95(c) of
+the CGST Act and its application for seeking advance ruling, is required to be
+adjudged and clarified by Hon ble Advance Ruling Authority.
+FINDINGS & DISCUSSION
+9.
+At the outset we would like to make it clear that the provisions of CGST
+Act, 2017 and the KGST Act, 2017 are in pari-materia and have the same
+provisions in like matters and differ from each other only on a few specific
+provisions. Therefore, unless a mention is particularly made to such dissimilar
+provisions, a reference to the CGST Act would also mean reference to the
+corresponding similar provisions in the KGST Act.
+10.
+We have considered the submissions made by the applicant in their
+application for advance ruling. We also considered the issues involved on which
+advance ruling is sought by the applicant and relevant facts along with the
+arguments made by the applicant and the submissions made by their learned
+representative during the time of hearing.
+11. The Applicant, has entered into a Contract with Asian Development Bank,
+Manilla for rendering Consultancy Services which broadly envisage multifarious
+study to conceptualise a transit-oriented development plan in respect of
+construction of new metro lines, phases 2A and 2B, with a total length of 56 km
+including 30 stations and three depots, at Bengaluru, Karnataka. In view of this,
+the applicant sought advance ruling in respect of questions mentioned at para 3
+supra.
+12. The first question is "Whether Consultancy Services rendered to ADB,
+Manilla would qualify as "export of services" in terms of Section 2(6) of the IGST Act
+2017". In this regard we invite reference to Section 2(6) of the IGST Act 2017,
+wherein "export of services" has been defined as under:
+2(6) —export of services means the supply of any service when,-
+(i) the supplier of service is located in India;
+(ii) the recipient of service is located outside India;
+(iii) the place of supply of service is outside India;
+(iv) the payment for such service has been received by the supplier of service in
+convertible foreign exchange for in Indian rupees wherever permitted by the
+Reserve Bank of India] 2 ; and
+(v) the supplier of service and the recipient of service are not merely
+establishments of a distinct person in accordance with Explanation 1 in
+Authority
+* Karnataka
+Leroup
+*
+Page 10 of 14
+
+13.
+It could be seen that for a service to qualify as "export of service" it has to
+satisfy the conditions enumerated under Section 2(6) of the IGST Act, 2017, one
+amongst them is "place of supply of service" which has to be outside India.
+13.1 The issue before the authority now is to decide whether the Authority of
+advance ruling can determine the place of supply. In this regard, the applicant has
+claimed that the determination of place of supply would in effect decide whether a
+service qualifies as export of service or not. This would in turn determine the
+liability of the applicant to pay the tax on services, which is squarely within the
+power of "determination of the liability to pay tax on any goods or services or
+both" in terms of Section 97(2)(e) of the CGST Act. The applicant has also cited
+the judgement of Hon'ble Kerala High Court in the case of Sutherland Mortgage
+Services INC Vs. Principal Commissioner and others 2020 (3) TMI 186, to
+support his case.
+13.2 In order to examine the issue in detail, reference is invited to the provisions
+of KGST Act, 2017 and CGST Act, 2017 with regards to the constitution of the
+Authority of advance ruling, definition of advance ruling and the questions on
+which advance ruling can be sought. The Karnataka Authority of Advance Ruling is
+constituted under Section 96 of the KGST Act, 2017 as under-
+"96. Constitution of Authority for Advance Ruling.- (1) The Government shall,
+by notification, constitute an Authority to be known as the Karnataka
+Authority for Advance Ruling:
+Provided that the Government may, on the recommendation of the Council,
+notify any Authority located in another State to act as the Authority for the
+State.
+(2) The Authority shall consist of-
+(i)
+one member from amongst the officers of central tax; and
+(ii)
+one member from amongst the officers of State tax,
+to be appointed by the Central Government and the State Government
+respectively.
+(3) The qualifications, the method of appointment of the members and the
+terms and conditions of their services shall be such as may be prescribed."
+Further Section 96 of the CGST Act, 2017 states that the Authority for advance
+ruling constituted under the State Act, shall be deemed to be the Authority in
+respect of the CGST Act, 2017 also. The provision is reproduced as under-
+"96. Authority for advance ruling - Subject to the provisions of this Chapter,
+for the purposes of this Act, the Authority for advance ruling constituted under
+the provisions of a State Goods and Services Tax Act or Union Territory Goods
+and Services Tax Act shall be deemed to be the Authority for advance ruling in
+For Advance
+respect of that State or Union territory."
+F From
+Pane above it is seen that the Authority for advance ruling is constituted under
+the provisions of the State GST Act and shall be deemed to be the Authority for
+Karnataka.
+# Br Group India
+Page 11 of 14
+
+Authority
+advance ruling in respect of that State under the CGST Act, 2017 also. Thus it can
+be seen that the Authority for advance ruling is constituted under the respective
+State Act and not the Central Act. This would mean that the ruling given by the
+said Authority will be applicable only within the jurisdiction of the concerned state.
+It is for this reason that questions on determination of place of supply cannot be
+raised with the Authority of advance ruling.
+13.3 We also invite reference to the definition of 'advance ruling' in Section 95(a)
+of the CGST Act, 2017 as under-
+"(a) 'advance ruling' means a decision provided by the Authority or the
+Appellate Authority to an applicant on matters or on questions specified in
+sub-section (2) of section 97 or sub-section (1) of section 100, in relation to the
+supply of goods or services or both being undertaken or proposed to be
+undertaken by the applicant;"
+From the above, it is seen that advance ruling means a decision of the Authority on
+the matters or on questions specified in sub-section (2) of Section 97. The said sub-
+section stipulates the questions on which advance ruling can be sought as under-
+"(2) The question on which the advance ruling is sought under this Act,
+shall be in respect of,-
+(a) classification of any goods or services or both;
+(b) applicability of a notification issued under the provisions of this Act;
+(c) determination of time and value of supply of goods or services or both;
+(d) admissibility of input tax credit of tax paid or deemed to have been
+paid;
+(e) determination of the liability to pay tax on any goods or services or
+both;
+(f) whether applicant is required to be registered;
+(g) whether any particular thing done by the applicant with respect to
+any goods or services or both amounts to or results in a supply of
+goods or services or both, within the meaning of that term."
+It could be seen from the above that the determination of place of supply is not
+covered under any of the clauses (a) to (g) of Section 97(2) of the CGST Act 2017.
+Further, the use of term 'shall', is an imperative command restricting the scope of
+advance ruling only to the questions enumerated in the said sub-section. Thus, to
+answer the question relating to determination of place of supply, is beyond the
+scope of advance ruling. This authority, therefore, cannot answer the first question
+application.
+Ruling
+Page 12 of 14
+
+Authority
+13.4 The applicant contended that the Hon'ble High Court of Kerala, in the case
+of Sutherland Mortgage Services Inc. Vs Principal Commissioner and others
+held that "it is true that the issue relating to the determination of place of supply is
+not expressly enumerated in any of the clauses as per clauses (a) to (g) of Section
+97(2) of the CGST Act, but there cannot be any two arguments that the said issue
+relating to determination of place of supply, which is one of the crucial issues to be
+determined as to whether or not it fulfills the definition of place of service, would also
+come within the ambit of the larger issue of "determination of liability to pay tax on
+any goods or services or both" as envisaged in clause (e) of Section 97(2) of the Act".
+It could be seen from above that the Hon'ble High Court of Kerala held that
+determination of place of supply is one of the crucial issues and would come within
+the ambit of the larger issue of determination of liability to pay tax on goods or
+services or both. It is pertinent to mention here that the question before the
+Authority for Advance Ruling, Kerala was as under :
+"Whether supply of services by India branch of Sutherland Mortgage Services
+Inc. USA to the customers located outside India shall be liable to GST in the
+light of the intra company agreement entered into by the said branch with the
+principal company incorporated in USA?"
+It could be seen from above that the question is directly linked to the GST
+liability, whereas in the instant case the question is "Whether consultancy services
+rendered to ADB, Manilla would qualify as "export of services" in terms of Section
+2(6) of the IGST Act 2017 ?". Thus the issue in the instant case is different to that
+of the question in the case of Sutherland Mortgage Services Inc. and hence the
+judgment supra is not applicable to the instant case.
+13.5 The Hon'ble Appellate Authority for Advance Ruling, Karnataka have held, as
+under, in the case of M/s Eicher-Volvo Commercial Vehicles Ltd., Bengaluru.
+"23. The Authority for Advance Ruling and the Appellate Authority for
+Advance Ruling have both been constituted in exercise of the powers
+conferred under Section 96 and 100 of the Karnataka Goods & Services Act
+2017, which Act extends to the whole of the state of Karnataka. The AAR
+and the AAAR are the creatures of the statute and have to function within the
+legal boundary mandated by the Act. As the 'place of supply' is not covered
+by Section 97(2) of the Acts, we refrain from answering this question of the
+Appellant with regard to 'export of service' on the grounds of lack of
+jurisdiction."
+Further the Hon'ble Appellate Authority for Advance Ruling, Karnataka have
+also confirmed the same views as above even in the case of M/s Toshniwal Brothers
+or AdvdS) Pvt. Ltd., Bengaluru.
+314.
+Rum the second question is a conditional one and comes into existence only if the
+impugned services of the applicant do not qualify as "export of services". This
+*18K Group India
+Page 13 of 14
+
+question becomes redundant as the first question cannot be answered by this
+authority. Therefore the instant application is liable for rejection for the reasons
+mentioned above.
+15. In view of the foregoing, we pass the following
+RULING
+The application filed by the applicant for advance ruling is hereby rejected
+for the reasons mentioned above.
+(Dr. M.P. Ravi Prasad)
+Karnataka Advance Ruling Authority
+Place : Bengaluru, 0 009
+Date: 21-04-2022
+To,
+The Applicant
+10 milla
+(T. Kiran Reddy)
+Member
+MEMBER
+Karataka Advance Ruling Authority
+Bengaluru - 560 009
+Copy to:
+1. The Principal Chief Commissioner of Central Tax, Bangalore Zone, Karnataka.
+2. The Commissioner of Commercial Taxes, Karnataka, Bengaluru.
+3. The Commissioner of Central Tax, Bangalore East Commissionerate, Bengaluru.
+4. The Assistant Commissioner of Commercial Taxes, LGSTO-45, Bengaluru.
+5. Office Folder.
+Authority
+Cor Advance
+Ruling
+Karnataka.
+Grano India
+Bengaluru
+Page 14 of 14
