@@ -345,6 +345,13 @@ export default function Home() {
                     }}>
                       {r.txt_file ? "full text" : "metadata only"}
                     </span>
+                    {r.ontology?.outcome && <OutcomeBadge outcome={r.ontology.outcome} />}
+                    {r.ontology?.tags?.map((t) => <Chip key={t} tone="accent">{t}</Chip>)}
+                    {r.ontology?.hsn && (
+                      <Chip tone="default">
+                        HSN {r.ontology.hsn}{r.ontology.rate_held ? ` · ${r.ontology.rate_held}` : ""}
+                      </Chip>
+                    )}
                   </div>
                   <p style={{ color: "#3f4654", fontSize: 13.5, margin: "8px 0 0", lineHeight: 1.6 }}>
                     {(r.body_snippet && q ? r.body_snippet : r.brief || "").slice(0, 340).replaceAll("[[", "").replaceAll("]]", "")}
@@ -429,6 +436,22 @@ export default function Home() {
         </div>
       )}
     </div>
+  );
+}
+
+function OutcomeBadge({ outcome }) {
+  const map = {
+    ruling_given: { label: "✓ ruling given", bg: "var(--good-soft)", fg: "var(--good)" },
+    withdrawn: { label: "withdrawn", bg: "var(--warn-soft)", fg: "var(--warn)" },
+    rejected: { label: "rejected", bg: "#fdecea", fg: "var(--bad)" },
+    no_ruling: { label: "no ruling", bg: "#f1f2f6", fg: "var(--muted)" },
+    application_refused: { label: "refused", bg: "#fdecea", fg: "var(--bad)" },
+  };
+  const s = map[outcome] || { label: outcome, bg: "#f1f2f6", fg: "var(--muted)" };
+  return (
+    <span style={{ padding: "1.5px 9px", borderRadius: 20, fontSize: 11, fontWeight: 700, background: s.bg, color: s.fg }}>
+      {s.label}
+    </span>
   );
 }
 

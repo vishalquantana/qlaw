@@ -62,10 +62,10 @@ export async function GET(req) {
 
     const selectCols = q
       ? `r.id, r.sr_no, r.applicant, r.state, r.order_no, r.order_date, r.category,
-         r.brief, r.pdf_url, r.txt_file, r.extraction_status, f.rank AS score,
+         r.brief, r.pdf_url, r.txt_file, r.extraction_status, r.outcome, f.rank AS score,
          snippet(rulings_fts, 4, '[[', ']]', ' … ', 24) AS body_snippet`
       : `r.id, r.sr_no, r.applicant, r.state, r.order_no, r.order_date, r.category,
-         r.brief, r.pdf_url, r.txt_file, r.extraction_status, NULL AS score,
+         r.brief, r.pdf_url, r.txt_file, r.extraction_status, r.outcome, NULL AS score,
          NULL AS body_snippet`;
 
     const total = db
@@ -91,6 +91,31 @@ export async function GET(req) {
          FROM rulings`
       )
       .get();
+
+    // ontology highlights per result: outcome (on row), sector tags, HSN + rate held
+    const ids = rows.map((r) => r.id);
+    if (ids.length) {
+      const ph = ids.map(() => "?").join(",");
+      const tagsBy = {};
+      for (const t of db
+        .prepare(`SELECT ruling_id, tag FROM ruling_tags WHERE ruling_id IN (${ph}) ORDER BY rowid LIMIT 500`)
+        .all(...ids)) (tagsBy[t.ruling_id] ??= []).push(t.tag);
+      const subjBy = {};
+      for (const s of db
+        .prepare(`SELECT ruling_id, hsn_sac, rate_held, description FROM ruling_subjects WHERE ruling_id IN (${ph}) AND hsn_sac IS NOT NULL LIMIT 500`)
+        .all(...ids)) {
+        const cur = subjBy[s.ruling_id];
+        if (!cur || !cur.rate_held && s.rate_held) subjBy[s.ruling_id] = s;
+      }
+      for (const r of rows) {
+        r.ontology = {
+          outcome: r.outcome ?? null,
+          tags: (tagsBy[r.id] || []).slice(0, 3),
+          hsn: subjBy[r.id]?.hsn_sac || null,
+          rate_held: subjBy[r.id]?.rate_held || null,
+        };
+      }
+    }
 
     return Response.json({ ok: true, total, rows, states, stats });
   } catch (e) {
