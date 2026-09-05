@@ -162,7 +162,41 @@ Model config via env: `LMSTUDIO_URL` (default http://localhost:1234/v1), `LLM_MO
 - tesseract-class — 2/5 facts; ocrmypdf = cheap triage layer
 - Mistral OCR API ≈ $130 — the option if Hindi retention becomes required
 
-## 9. Next steps (agreed roadmap)
+## 9. The ontology layer (structured insights, not blind RAG)
+
+`ontology.sql` + `extract_ontology.py` extract a structured layer over rulings:
+
+| Table | Contents |
+|---|---|
+| `ruling_subjects` | the good/service ruled on: kind, description, **hsn_sac** (normalized), rate_proposed → rate_held |
+| `ruling_citations` | notifications (normalized: `13/2020-CT(R)`), sections (`CGST s.2(93)`), rules, precedents |
+| `ruling_questions` | per-question outcome + held summary (LLM pass, TODO population) |
+| `ruling_tags` | sector tags: education, construction, it-services… |
+| `rulings.outcome / applicant_gstin / applicant_type / ontology_extracted` | entity facts |
+
+Two passes, both idempotent & resumable:
+1. `python3 extract_ontology.py --apply-pass1` — regex over brief+text: HSN codes,
+   notification/section/rule citations, GSTINs, outcome keywords, sector tags. Runs in seconds.
+2. `python3 extract_ontology.py --llm` — ornith-35B JSON extraction of subject,
+   sectors, applicant type, outcome (~25 s/ruling; full corpus ≈ 20 h in background).
+   **Requires `max_tokens: 4000`** — the model burns reasoning tokens at low limits
+   and returns empty content. Resumable via `rulings.ontology_extracted` flag.
+
+Insight queries this unlocks (SQL, no RAG):
+```sql
+-- rulings about a specific HSN
+SELECT r.applicant, r.state, s.rate_held FROM ruling_subjects s JOIN rulings r ON r.id=s.ruling_id
+WHERE s.hsn_sac LIKE '9984%';
+-- who interprets Notification 13/2020-CT(R)
+SELECT r.applicant, r.order_date FROM ruling_citations c JOIN rulings r ON r.id=c.ruling_id
+WHERE c.identifier='13/2020-CT';
+-- withdrawal rate by state; sector mix; section 54 jurisprudence; etc.
+```
+Planned: `/api/insights` route exposing these as parameterized queries + UI section.
+Re-run pass1+pass2 after the final `build_db.py` (tables survive? NO — build_db
+deletes the DB; re-run `--apply-pass1` (fast) and `--llm` (resumable) after any rebuild).
+
+## 10. Next steps (agreed roadmap)
 
 1. **Finish OCR** (§4) → clean rebuild → full-corpus embeddings
 2. **MCP server** wrapping /api/search, /api/semantic, /api/chat, /api/document
