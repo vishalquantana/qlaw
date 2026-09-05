@@ -1,0 +1,116 @@
+GUJARAT AUTHORITY FOR ADVANCE RULING
+GOODS AND SERVICES TAX
+A/5, RAJYA KAR BHAVAN, ASHRAM ROAD,
+AHMEDABAD - 380 009.
+NATION
+MARKET
+ADVANCE RULING NO. GUJ/GAAR/R/2022/29
+(IN APPLICATION NO. Advance Ruling/SGST&CGST/2022/AR/03)
+Date: 11.05.2022
+Name and address of the applicant : M/s. Swadeshi Empresa Pvt. Ltd.,
+Plot No. 22, Team Estate,
+Nr. Chachawadi Mandir, Moriya, Chachawadi,
+Vasna, Sanand, Ahmedabad - 382213
+| 24ABDCS5480P1ZS
+: 20-01-2022
+a
+GSTIN/ User Id of the applicant
+Date of application
+Clause(s) of Section 97(2) of :
+CGST / GGST Act, 2017, under
+which the question(s) raised.
+Date of Personal Hearing
+:
+Present for the applicant
+22-03-2022
+Shri Abhishek Modi, Managing Director and
+Shri Ronak Patni, Advocate
+Brief Facts
+The applicant, M/s. Swadeshi Empresa Pvt. Ltd., seeks Ruling on HSN Tariff of
+'fire safety product assembled on trolley', consisting of engine operated pump, water tank,
+hose reel, pipe and gun, operated through electric panel on trolley. M/s Swadeshi
+submitted that it is classifying said goods at HSN 84241000 as general firefighting
+equipment.
+Personal Hearing
+2.
+Virtual hearing granted on 22-03-22 was attended by Shri Abhishek Modi, MD and
+Shri Ronak Patni, Advocate and they reiterated the submission.
+Revenue's Submission
+Revenue has neither submitted its comments nor appeared for hearing.
+Findings
+4. We note that Tariff 84241000, cited by M/s Swadeshi, describes Fire Extinguishers,
+whether or not charged. Further as per the HSN Explanatory Notes, this heading
+(8424) does not include Firefighting pumps with or without internal reservoirs,
+heading 8413 (non-automobile types) or heading 8705 (automobile types) . We hold
+that the HSN Explanatory Notes are a guide and a persuasive tool to assist us in
+determining the Classification in GST Tariff.
+Page 1 of 3
+
+5.1
+We refer to Tariff 8413, which reads as follows:
+GST Tariff
+8413
+DEVICE;
+PUMPS FOR LIQUIDS, WHETHER OR NOT FITTED WITH A MEASURING
+liquid elevators
+8413:
+Pumps
+841319:
+Other
+84131990: Other
+5.2 We refer to the HSN Sub heading Explanatory Note to Subheadings 8413.11
+and 8413.19 at page PageNo. XVI-8413-5, reads as follows:
+These sub-heading covers only those pupms, of whatever type, which form, or have
+been designed to form, a unit with a device permitting the volumetric control of the
+quantity of liquid discharged, whether or not this device is presented at same time
+as the pump.
+This control device may be very simple (for example, a calibrated or globe unit) or,
+on the contrary, consist of more complex mechanisms automatically controlling the
+stopping of the pump when a given total quantity is discharged (such as, for
+example , a delivery pump comprising a calibrated cylinder (measuring cylinder)
+and a device permitting, on the one hand, the determining of a desired quantity
+and, on the other stopping the pump motor when the predetermined quantity is
+obtained or fulfilled other operations connected with volumetric control proper (for
+example, pumps for integration of totals, prepayment pumps, price-calculating
+pumps, sampling pumps, automatic mixture regulating pumps and automatic
+dosage pumps).
+On the other hand, when, for example, the measuring device is designed to be
+simply mounted on the tube through which the liquid set in motion by the pump
+flows, each of the two units ( pumps and measuring device) are to be classified in
+their own headings, even when presented together.
+These sub-headings cover, for example, pumps for delivering petrol or other motor
+fuels and lubricants as well as pumps with a measuring devices for use in food
+shops, laboratories and various industrial activities'.
+6. We refer to the description of the Goods which is a water mist firefighting trolley. It is
+an assembly of Pump driven through engine, water tank, hose reel, pipe and gun and these
+assembled parts are kept on trolley. This firefighting goods sprays water in such a way
+that a small quantity of water is sprayed at high velocity to make very fine disjointed
+droplets of water covering an exponentially larger area. The high pressure hose reel is
+fitted with high pressure fog/ jet gun. The gun has a pistol grip nozzle having discharge of
+atleast 12-30 Ipm at 100 bar (pressure). Thereby subject goods are called water mist
+firefighting
+goods. We find that the description of the goods may be categorized as
+Firefighting pump with internal reservoir and thereby, as per HSN Explanatory Notes does
+not merit classification at Tariff 84241000. Further the subject product is not a Fire
+fighting vehicle as described at Tariff 8705. The subject goods have ultrahigh pressure
+Page 2 of 3
+
+pump driven through the engine to discharge water at a specified LPM at specified
+pressure (bar) and thereby the goods need to be fitted or designed to be fitted with
+pressure measuring device. Further, we note that the said goods have nozzle attached to
+the water pipe permitting the control of the water mist discharged. We find this Tariff item
+84131990 satisfying the product description. The HSN explanatory notes to 8424 has
+excluded such fire extinguishing goods and categorized them under 8413.
+7. In conspectus of aforementioned Discussion and Findings, in pursuance to HSN
+Explanatory Notes to Chapter heading 8424 [ page number: XVI-8424-1] and to HSN
+Explanatory Notes to Subheading 841311 and 841319 [ page number: XVI-8413-5 ], We
+pass the Ruling,
+Ruling
+We classify the said Fire safety product trolley at HSN 84131990.
+(ATUL MEHTA)
+MEMBER (S)
+Place: Ahmedabad
+Date: 11.05.2022
+(ARUN RICHARD)
+MEMBER (C)
+Page 3 of 3

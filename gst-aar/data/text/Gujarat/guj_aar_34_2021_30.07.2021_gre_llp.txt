@@ -1,0 +1,435 @@
+GUJARAT AUTHORITY FOR ADVANCE RULING,
+GOODS AND SERVICES TAX,
+D/5, RAJYA KAR BHAVAN, ASHRAM ROAD,
+AHMEDABAD - 380 009.
+GST
+NATION
+TAX
+MARKET
+ADVANCE RULING NO. GUJ/GAAR/R/34/2021
+(IN APPLICATION NO. Advance Ruling/SGST&CGST/2021/AR/06)
+Date: 30-07-2021
+Name and address of the applicant
+: M/s. Greenbrilliance Renewable
+Energy LLP,
+Plot No. 1408, GIDC Estate,
+Waghodia, Vadodara-391760.
+GSTIN of the applicant
+••
+24AAPFG8445G2Z3.
+Date of application
+24-2-21.
+Clause)
+of
+Section
+97(2) Of : ()Determination of the liability to pay
+CGST/ GGST Act, 2017, under
+tax on any goods or services or both.
+which the question(s) raised.
+Date of Personal Hearing
+Present for the applicant
+15-6-21.
+Shri Jay Patel (Partner)
+BRIEF FACTS
+The applicant, M/s. Greenbrilliance Renewable Energy LLP, supplies
+solar photovoltaic panels and Solar EPC services. The applicant is empanellec
+as channel partner to execute the solar rooftop system in Gujarat under the
+Surya Gujarat Yojna 2019-20 and 2020-21:
+"Empanelment of Agencies for Design, Supply, Installation, testing &
+commissioning of Grid connected Rooftop Solar Photovoltaic Systems in
+Residential
+premises, aggregating to 600 MW, including
+five years
+comprehensive maintenance in the state of Gujarat during the vear (2019-20)."
+EOI No:PGVCL/DSM/EOI/SRT/2019-20/01 dated 20-7-19.
+The Chief Engineer(Tech.)
+Paschim Gujarat Vij Company Itd.,
+CIN:U40102GJ2003SGC042908., Regd. & Corporate Office,
+"Paschim Gujarat VijSevasadan", Laxminagar,
+Nana Mava main road,Rajkot-360004.
+2.
+The applicant has submitted that under the above mentioned scheme,
+beneficiaries could avail benefits of 40% subsidy of solar system cost for
+systems upto 3KW and 20% subsidy of solar system cost for systems from
+3KW-10KW; that the beneficiaries have to pay the channel partner the amount
+after deducting the subsidy portion from the total system cost and after
+successful installation of the solar system, the channel partner has to apply to
+the respective electricity distribution company(DISCOM) of the region for
+subsidy and the funds are released by the respective DISCOM directly to
+channel partners; that the total rate discovered through tendering process for
+the year 2019-20 is as follows(as per Empanelment letter PGVCL/DSM/SRT/
+9430 dated 12-9-19):
+Sr.
+No.
+3.
+5.
+6.
+Solar Rooftop PV System Capacity range
+Total Rate in Rs.
+Per Wp(DC) (including
+in KW
+GST)
+1.00 - 1.5KW DC
+46.827
+1.51 - 2.5KW DC
+46.555
+2.51 - 3.5KW DC
+3.51 - 4.5KW DC
+46.337
+45.738
+4.51 - 5.5KW DC
+45.030
+5.51 - 6.0KW DC
+44.006
+Page 1 of 7
+
+8.
+10
+11.
+Above 6KW(DC) and upto 10KW(DC)
+Above 10KW(DC) and upto 25KW(DC)
+Above 25KW(DC) and upto 50KW(DC)
+Above 50KW(DC) and upto 100 KW(DC)
+Above 100KW(DC)
+43.005
+38.006
+37.505
+36.002
+33.999
+3.
+The applicant has submitted an example of 4.29 KW solar rooftop
+system, wherein we consider 330W × 9 Nos. = 4290W(DC) Solar panels and
+inverter of size 4200W, then the cost of this solar system inclusive of GST is
+calculated as = 4290 x 45.738 = Rs.196216.02. The recommended solar PV
+array capacity in KW shall be in a range of 100%-110% of invertor capacity i.e.
+if the inverter capacity is 5KW, then the Solar PV array capacity should be from
+5KW to 5.5KW and for subsidy calculation, minimum of following three shall be
+considered.
+1. Applied SPV Capacity in KW at the time of registration.
+2. Solar PV array capacity in KWp.
+3. Invertor Capacity in KW.
+'Subsidy for 4.29KW system, Solar Panels: 4.29KW and Solar inverter: 4.2KW.
+Calculate subsidy on 4200W as per above tender condition.
+40% of subsidy for first 3KW = 3000 x 45.738 x 40% = 54885.6 Rs.
+20% of subsidy on incremental value above 3 KW=1200 x 45.738 x 20% =
+10977.12.
+Total subsidy=54885.6 + 10977.12 = 65862.72 Rs.
+Thus, accessible value of solar system = 180180 Rs.
+GST applicable(8.9%) = 16036.02 Rs.
+Total value of solar system inclusive GST - Rs. 196216.02.
+Subsidy to be received from DISCOM = Rs.65862.72.
+Customer payable = (196216.02-65862.72) = Rs. 130353.3.
+Thus, GST of 15036.02 Rs.is applicable.
+The applicant has attached copy of invoice, ledger of customer and DISCOM
+subsidy release voucher.
+The applicant has further submitted that even though subsidy amount is
+disbursed by DISCOM, the subsidy is received from central or state
+governments; that the state subsidy shall be limited to only residential sector
+beneficiaries to those who are consumers of the DISCOM; that the state
+subsidy shall not be applicable for beneficiaries other than residential category
+and the GOG subsidy or the MNRE subsidy shall be 40% or 20% as the case
+may be of the lowest cost per KW discovered under this EOI or benchmark cost
+announced by MNRE, which is lower; that the minimum capacity of rooftop
+SPV Solar Plant to be installed shall be not less than 1 KW for single site; that
+all provisions as amended by State/MNRE, GOI from time to time in respect of
+subsidy, norms of admissible beneficiary and allowable capacity of PV systems
+shall be applicable to this scheme accordingly; that remaining cost will be
+borne by beneficiary; that GOG subsidy shall be governed @ 40% OR 20% as
+the case may be of the above bench mark cost or lowest price that shall be
+discovered under this EOI; that state subsidy of 40% shall be available for solar
+roof top systems upto 3KW; and 20% for solar roof top systems beyond 3 KW
+and upto 10KW, installed and commissioned by private residential consumers;
+that the above subsidy shall be in parallel with the Central financial assistance
+of the Government of India available through its Ministry of New and
+Renewable Energy(MNRE) i.e. the available subsidy shall be either of the state
+subsidy or MNRE subsidy, but not both.
+As per GST Law, valuation of GST "it includes any taxes, fees, charges
+levied under any law other than GST law, expenses incurred by the recipient
+on behalf of the supplier, incidental expenses like commission and packing
+incurred by the supplier, interest or late fees or penalty for delayed payment
+Page 2 of 7
+
+and direct subsidies(except government subsidies) are required to be added to
+the price(if not already added) to arrive at the taxable value; that as per Section
+15(2)(e), subsidies directly linked to the price(excluding subsidies provided by
+the Central and State Governments)are includible in value' for charge of GST;
+that with the above reference of tender document and GST Law, it can be
+interpreted that the subsidy amount disbursed is state or central subsidy and
+hence the subsidy can be excluded while considering the taxable value of the
+solar system. The applicant has stated that the above 4.29 KW system can also
+be billed as follows:
+• For installation of 330W x 9 Nos. = 4290W(DC) Solar panels and inverter
+of size 4200W, the cost of this solar system would be = 4290 x 45.738 =
+196216.02 Rs.(as calculated earlier).
+• Subsidy amount = Rs.65862.72(as calculated earlier).
+• Total value of solar system inclusive GST = 196216.02 - 65862.72 =
+Rs.130353.3.
+• Accessible value of solar system = Rs.119700.
+• GST applicable(8.9%) = 119700.3 * 8.9% = Rs.10653.3.
+• Total value of solar system inclusive GST = Rs. 130353.3.
+6.
+The applicant has submitted that considering above interpretation,
+calculation of GST applicable on the system is Rs. 10653.3 as compared to GST
+Rs. 16036.02; that they have been following former methodology of generating
+invoices, however, under light of above, is later methodology appropriate. As
+petitioner, they want to know whether the method of GST collection as per
+former approach or later approach is correct.
+Questions on which Ruling sought:
+1. Whether subsidy should be reduced for arriving at Ex-factory value in
+order to collect the GST on goods supplied to the customer under the
+rooftop solar project?
+2. If yes than whether we should claim refund for the excess amount of GST
+paid by us to the department?
+3. If no then whether direction to this effect should be given to all other
+supplier for collection of GST on subsidy amount?
+Personal Hearing:
+7.
+Shri Jay Patel appeared for personal hearing (Video Conferencing) on 15-
+6-21 and reiterated the submissions made in the application.
+This Authority noticed the following issues in the said application and
+discussions were held with the applicant during the hearing on these issues, as
+follows:
+i.
+ii.
+The First Question on which Ruling was sought refers to subsidy
+being reduced from the ex-factory valu ein order to collect the GST on
+goods supplied.
+We informed the applicant that the ex-factory value mentioned is not
+in consonance with the cited EOI as the price in the contract is based
+on System Cost as per para 52 of the said EOI.
+Shri Patel was informed that Questions (B) and (C) were not covered
+under any clauses of Section 97(2) CGST Act, 2017 and thereby not
+admissible.
+Page 3 of 7
+
+Additional Submissions by the Applicant:
+The applicant vide letter dated nil, received on 21-6-21,rephrased the
+Advance Ruling Questions as follows:
+(A) Whether subsidy amount is to be reduced for arriving at the taxable
+value of the solar system from the system price declared by the
+Nodal agency? And the GST liability shall be on the taxable value
+calculated after subtracting the subsidy amount from the system
+price?
+(B) What will be the implication of sub-section (2) of Section 17 if the
+taxable value is derived after subtracting the subsidy amount from
+system price?
+8.
+The applicant submitted that they rectify their query in the original
+application by replacing words 'cost of the solar system' instead of 'ex-factory
+value; that the solar subsidy scheme has been framed by the Ministry of
+Renewable Energy in order to reduce the carbon foot print and encourage the
+use of renewable energy and the scheme has
+been facilitated by the
+government through the DISCOM which is acting as facilitator to promote the
+use of Solar system by the individual house hold in the country; that in
+Gujarat, the scheme has been monitored and implemented by the various
+DISCOM such as PGVCL, MGVCL, DGVCL, UGVCL and Torrent Power ltd; that
+the cost of the system, its installation and commissioning are being supervised
+by the DISCOM for the Roof top solar scheme of the Government of India and
+Government of Gujarat who provide the subsidy to individual house hold for
+use of the solar power generating system on the roof of the residential house;
+that the money has been paid by the Government to DISCOM and DISCOM,
+after successful installation and commission/
+of the solar system at the
+residential unit of the individual house hold, pays the money to the solar
+system supplier directly; that the price of the system is fixed by DISCOM on
+per KW basis and supplier of solar system has to collect that price from
+customer; that customer is entitled to receive the subsidy amount from the
+Government, the DISCOM(being nodal agency to disbursing the subsidy) is
+making direct payment of subsidy portion of solar system supplier on behalf of
+the customer and customer is making less payment to the supplier of the solar
+system to the extent of the subsidy entitlement.
+9.
+The applicant submitted sample copies of the following documents of
+solar rooftop customer as follows:
+a. Filled up application form to apply for solar system.
+b. Registration letter from DISCOM.
+c. Joint Inspection Certificate.
+d. Meter Sealing Report.
+e. MGVCL TFR payment receipt.
+f. Subsidy summary sheet.
+g. Subsidy payment voucher by MGVCL (shows amount released after
+deduction of TDS, GST, cess and performance security).
+10. The applicant has stated that they would like to have clarification on the
+applicability of Section 17 of the GST Act with respect to subsidy value received
+from the Government since the subsidy is given by the Government to
+customer and they as solar system supplier would like to know regarding the
+proportionate reversal of the input tax credit to be reversed (on the material
+Page 4 of 7
+
+used for making solar system) in respect to the subsidy portion on which their
+GST liability would be reduced.
+D. FINDINGS:
+11. At the outset we would like to make it clear that the provisions of CGST
+Act, 2017 and GGST Act,
+2017 are in parimateria and have the same
+provisions in like matter and differ from each other only on a few specific
+provisions. Therefore, unless a mention is particularly made to such dissimilar
+provisions, a reference to the CGST Act would also mean reference to the
+corresponding similar provisions in the GGST Act.
+12. We have carefully considered all the submissions made by the applicant.
+To accord the benefit to deduct subsidy portion for arriving at transaction value
+with the customer, the applicant was not able to produce evidence that the
+subsidy was indeed given/borne by the Government. Therefore, we requested
+the assistance of Gujarat Urja Vikas Nigam Itd ( GUVNL) authorised nodal
+agency for implementation of the scheme in the State, vide letter dated 8-7-
+2021 issued Vide F.No.GAAR/AR-2021/F-06/75176 to inform if the subject
+subsidy was given by the Government. In their reply, GUVNL vide its letter
+ACCTTS/GM(F&amp;A)/ Adv.Ruling/584 dated 22-7-2021 submitted that the
+subsidy given by DISCOMs to empanelled Agencies/Vendors to execute Solar
+Rooftop PV systems in the residential premises of consumers under the 'Surya
+Gujarat' scheme is actually given by State Government/ Central Government
+the DISCOM is only a facilitator between the Government and
+supplier (empanelled partner) of solar rooftop PV systems in disbursing the
+13. We find that the subsidy portion provided by the Government shall not be
+included in the value of the supply to arrive at the taxable value, as per Section
+15(2) (e) CGST Act.
+14. We examine the subject EOI No:PGVCL/DSM/EOI/SRT/2019-20/01 dated
+20-7-19 that all the rates quoted by the bidder will be inclusive of GST. The
+following relevant paragraphs/ pages of the EOI wherein the rates are inclusive
+of GST is reproduced as follows:
+S.No
+2
+Paragraph/
+number of EOI
+page
+Part 4(A) b, page 29
+General
+and
+Commercial Terms
+and Conditions
+Remarks
+'All EOI offers will be evaluated on Price Rate
+in
+Rs. perWp basis for each of the SPV system Capacities &
+Ranges INCLUSIVE of total system cost, its installation,
+2
+3
+'ESTING FEE, etc., including GST and all applicab
+axes & duties for determining 11 rate in each of the SP
+Part F, 4A(e) Table,
+Rates inclusive of GST
+page 30
+4(A) (g), page 31
+Rates quoted by bidder will be inclusive of
+GST. Bidders are advised to take into
+unloading,
+Page 5 of 7
+
+Gujarat and all other miscellaneous expenses
+of
+marketing, commissions etc. if any.
+The rates quoted by the Bidder will be inclusive of
+GST, Work Contract Tax, welfare cess or any other taxes
+4
+Para 52, page 48
+'Rates quoted by Bidder should be FIRM and on F.O.E
+destination taces, leers, remiss basing ice shall be,
+duties, packing, forwarding,
+loading,
+unloading,
+resaltation, curamission inad inter chalged; meter tesply,
+The rates quoted by the Bidder will be inclusive of
+GST, Work Contract Tax, or any other taxes applicable to
+such work. Any escalation in such taxes/levies during
+the tenure of the offer/ Empanelment will not be paid by
+Consumers and Bidders
+into
+consideration any such escalations in the prevailing
+taxes/levies/duties. In no circumstances, escalation in
+the prices will be entertained.'
+5
+Para 57 , on Page 49
+The F.O.R. Destination at consumers premises basis
+prices are including GST and Cess as applicable. The
+amount and % of GST and Cess as applicable should
+clearly be indicated separately. (GST/Cess means all
+applicable Tax/Cess under GST Laws. GST laws
+means IGST Act, GST/Compensation to the State for
+Loss of Revenue) Act, CGST Act, UTGST Act and
+SGSCT Act, 2017 and all ancillary legislations).
+Supplier/Empanelled Agency should charge GST in
+invoice at the rate as agreed to/mentioned
+acceptance of EOI document only and any deviation in
+the same shall not be accepted. Further, any additional
+liability of GST(later on due to wrong mentioning of GST
+rate, mis-interpretation of HSN/SAC Code, etc.) over and
+above as charged in the invoice shall be borne by the
+Supplier/ empanelled Agency.
+15. We find that the bidder rates in the EOI are inclusive of GST. Further,
+We find that the Subsidy is calculated on the total rate in Rs.per Wp(DC).
+This rate is inclusive of GST. To make it clear, as for applicant's illustration
+at paragraph 2 and 3 of our Ruling, the subsidy amount was arrived at by
+calculation on the basis of the rate per Wp(DC) for a Solar Rooftop PV System,
+which was inclusive of GST. Also, the letter of intent dated 7-10-20 issued by
+PVCL to the applicant,
+the prices of Solar Rooftop PV System for various
+capacity ranges (in KW) are inclusive of GST, said Table of letter dated 7-10-20,
+reproduced as follows:
+Sr.
+No.
+Rooftop
+PV System
+Capacity range in KW
+Capacity/
+4.
+5.
+6.
+7.
+1.01 KW to 2.00 KW
+2.01 KW - 3.00 KW
+3.01 KW - 4.00 KW
+4.01 - 5.00 KW
+5.01 - 6.00 KW
+Above 6KW and upto 10KW
+Price to be Match(unit and cost including
+GST) Rs./Wp(DC)
+46.8270
+42.9937
+41.9918
+40.9932
+40.9932
+40.9932
+40.9932
+Page 6 of 7
+
+From the aforementioned paragraphs, it is forthcoming that subsidy is
+calculated on the rate in Rs per Wp(DC) which is inclusive of GST.
+illustration of subsidy submitted by the applicant at paragraph 2 and 3 of this
+Ruling brings home the point that when subsidy is calculated on a rate
+may united bat can sably
+The
+law". The provisions of Section 76(1) of CGST Act is reproduced as follows:
+'76 (1): Notwithstanding anything to the contrary contained in any order or direction of any
+Appellate Authority or Appellate Tribunal or court or in any other provisions of this Act or the rules
+made thereunder or any other law for the time being in force, every person who has collected from
+any other person any amount as representing the tax under this Act, and has not paid the said
+amount to the Government, shall forthwith pay the said amount to the Government, irrespective of
+whether the supplies in respect of which such amount was collected are taxable or not.'
+16. We find that the applicant has collected Subsidy from the Government in
+this regard and this subsidy amount is inclusive of GST, as detailed in
+aforementioned paragraphs, the applicant is required by law to pay to the
+Government the said amount in the subsidy representing GST, irrespective of
+the position of law that subsidy portion is to be deducted from the value of
+supply charged to the customer, for arriving at the taxable value.
+The applicant sought Ruling on the implications of Section 17(2) CGST
+Act, if taxable value is derived after subtracting the subsidy amount from the
+system price. The provisions of Section 17(2) CGST are attracted when the
+applicant is effecting taxable supplies and exempt supplies. The subject supply
+of the applicant is a taxable supply and for the reason that taxable value for
+charging GST is arrived after subtracting subsidy, does not alter the nature of
+taxable supply. It remains taxable supply. Therefore, for this matter presented
+before us, there is no implication of section 17(2) CGST.
+18. We issue the Ruling:
+RULING
+1. The taxable Value on Tax invoice issued to the Customer shall be arrived
+after deducting the subject Subsidy from 'System Cost' and GST liability
+is on the Taxable Value.
+2. There shall be no implication of Section 17(2) CGST Act, if taxable value
+is arrived after subtracting the subsidy amount from the system price.
+3. Para 16 of this Ruling may also be read into our Pronouncement
+(SANJAY SAXENA)
+MemberS)
+(ARUN RICHARD)
+Member (C)
+Page 7 of 7

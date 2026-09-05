@@ -63,11 +63,14 @@ def split_order_field(s: str) -> tuple[str, str]:
         raw = m.group(1)
         parts = re.split(r"[./-]", raw)
         try:
-            dd, mm, yy = parts[0], parts[1], parts[2]
-            yy = "20" + yy if len(yy) == 2 else yy
-            date = f"{yy}-{int(mm):02d}-{int(dd):02d}"
+            dd, mm = int(parts[0]), int(parts[1])
+            yy = int("20" + parts[2] if len(parts[2]) == 2 else parts[2])
+            # sanity: order numbers often contain digit runs that match the pattern
+            if not (1 <= dd <= 31 and 1 <= mm <= 12 and 1800 <= yy <= 2100):
+                raise ValueError
+            date = f"{yy:04d}-{mm:02d}-{dd:02d}"
         except (ValueError, IndexError):
-            date = raw
+            date = ""
         no = s[: m.start()].rstrip(" ,;:").strip()
     return no, date
 
