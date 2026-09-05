@@ -69,6 +69,8 @@ def fetch_paged(base: str, token: str, path: str, page: int = 0,
     payload = json.loads(raw.decode("utf-8", "replace"))
     if isinstance(payload, list):
         return payload
+    if not isinstance(payload, dict):
+        return []
     for key in ("content", "data", "result"):
         if isinstance(payload.get(key), list):
             return payload[key]
@@ -83,6 +85,8 @@ def normalize_acts(rows: list[dict]) -> list[dict]:
             continue
         # Live API keys rows by `id` (brief fixture uses `actId`); accept both.
         act_id = r.get("actId") or r.get("id") or ""
+        if not act_id:
+            continue
         docs.append({
             "source_url": f"{BASE}/content-page/explore-act/{act_id}/1000001",
             "kind": "act",
@@ -103,28 +107,38 @@ def main(limit: int = 0):
     seen, total, page = set(), 0, 0
     law_db = _load_law_db()
     con = law_db.init_db()
-    while True:
-        rows = fetch_paged(BASE, token, "/api/cbic-act-msts", page)
-        if not rows:
-            break
-        new_in_page = 0
-        for doc in normalize_acts(rows):
-            if doc["source_url"] in seen:
-                continue
-            seen.add(doc["source_url"])
-            law_db.upsert_document(con, doc)
-            total += 1
-            new_in_page += 1
-            if limit and total >= limit:
-                print(f"PoC slice done: {total} acts")
-                return
-        print(f"page {page}: {len(rows)} rows (total {total})")
-        if new_in_page == 0:
-            # API ignores page/size (repeats the same rows): no progress = done.
-            print(f"no new rows on page {page}, stopping")
-            break
-        page += 1
-        time.sleep(0.4)
+    try:
+        while True:
+            rows = fetch_paged(BASE, token, "/api/cbic-act-msts", page)
+            if not rows:
+                break
+            new_in_page = 0
+            for r in rows:
+                docs = normalize_acts([r])
+                if not docs:
+                    continue
+                doc = docs[0]
+                if doc["source_url"] in seen:
+                    continue
+                seen.add(doc["source_url"])
+                law_db.upsert_document(con, doc)
+                act_id = r.get("actId") or r.get("id") or ""
+                (OUT / f"{act_id}.json").write_text(
+                    json.dumps(r, ensure_ascii=False), encoding="utf-8")
+                total += 1
+                new_in_page += 1
+                if limit and total >= limit:
+                    print(f"PoC slice done: {total} acts")
+                    return
+            print(f"page {page}: {len(rows)} rows (total {total})")
+            if new_in_page == 0:
+                # API ignores page/size (repeats the same rows): no progress = done.
+                print(f"no new rows on page {page}, stopping")
+                break
+            page += 1
+            time.sleep(0.4)
+    finally:
+        con.close()
 
 
 if __name__ == "__main__":

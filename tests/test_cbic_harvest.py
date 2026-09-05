@@ -18,3 +18,19 @@ def test_auth_headers_carry_bearer():
     from gst_aar_law_shim import harvest_cbic_api as api
 
     assert api.auth_headers("tok123") == {"Authorization": "Bearer tok123"}
+
+
+def test_empty_id_row_produces_no_doc():
+    from gst_aar_law_shim import harvest_cbic_api as api
+
+    page = [{"actName": "Nameless Id Act, 2017", "issueDt": "12-Apr-2017"}]
+    assert api.normalize_acts(page) == []
+
+
+def test_non_dict_payload_returns_empty(monkeypatch):
+    from gst_aar_law_shim import harvest_cbic_api as api
+
+    monkeypatch.setattr(api, "_req", lambda *a, **k: b"42")
+    assert api.fetch_paged(api.BASE, "tok", "/api/cbic-act-msts") == []
+    monkeypatch.setattr(api, "_req", lambda *a, **k: b'"just a string"')
+    assert api.fetch_paged(api.BASE, "tok", "/api/cbic-act-msts") == []
