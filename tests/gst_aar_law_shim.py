@@ -18,3 +18,9 @@ _flat_spec = importlib.util.spec_from_file_location(
     Path(__file__).parent.parent / "gst-aar" / "law" / "harvest_cbic_flat.py")
 harvest_cbic_flat = importlib.util.module_from_spec(_flat_spec)
 _flat_spec.loader.exec_module(harvest_cbic_flat)
+
+_cg_spec = importlib.util.spec_from_file_location(
+    "harvest_council_gazette",
+    Path(__file__).parent.parent / "gst-aar" / "law" / "harvest_council_gazette.py")
+harvest_council_gazette = importlib.util.module_from_spec(_cg_spec)
+_cg_spec.loader.exec_module(harvest_council_gazette)
