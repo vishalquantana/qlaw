@@ -24,3 +24,9 @@ _cg_spec = importlib.util.spec_from_file_location(
     Path(__file__).parent.parent / "gst-aar" / "law" / "harvest_council_gazette.py")
 harvest_council_gazette = importlib.util.module_from_spec(_cg_spec)
 _cg_spec.loader.exec_module(harvest_council_gazette)
+
+_cd_spec = importlib.util.spec_from_file_location(
+    "check_daily",
+    Path(__file__).parent.parent / "gst-aar" / "law" / "check_daily.py")
+check_daily = importlib.util.module_from_spec(_cd_spec)
+_cd_spec.loader.exec_module(check_daily)
