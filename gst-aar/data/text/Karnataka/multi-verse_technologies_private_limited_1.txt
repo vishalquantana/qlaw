@@ -1,0 +1,596 @@
+THE AUTHORITY FOR ADVANCE RULINGS
+IN KARNATAKA
+GOODS AND SERVICES TAX
+VANIJYA THERIGE KARYALAYA, KALIDASA ROAD
+GANDHINAGAR, BENGALURU - 560 009
+
+Advance Ruling No. KAR ADRG 36/2022 -
+Date : 27-10-2022
+Present:
+
+1. Dr. M.P. Ravi Prasad
+Additional Commissioner of Commercial Taxes . ... Member (State)
+
+2. Sri. T. Kiran Reddy
+Additional Commissioner of Customs & Indirect Taxes . . ..Member (Central)
+
+M/s. MULTI-VERSE TECHNOLOGIES PRIVATE
+
+1 Name and address of the LIMITED, # 41/1, II Floor, Trisha Mansion,
+"| applicant Nanjappa Road, Shanthinagar,
+Bengaluru — 560 027.
+2. | GSTIN or User ID 29AANCM4327Q1ZM
+Date of filing of Form GST
+3. ARA-O1 06-08-2022
+
+Sri. Chetan Kumar, C A
+& Authorised Representative
+The Principal Commissioner of Central Tax,
+
+4. | Represented by
+
+5. Sapa siciaiasi abil Bangalore South Commissionerate,
+Bengaluru. (Range-BSD1)
+dicti ri
+Gi | PRR Rey ACCT, LGSTO-40, Bengaluru.
+- State
+Whether the payment of Yes, discharged fee of Rs.5,000/- under CGST Act &
+
+Rs.5,000/- under KGST Act through debit from
+Electronic Cash Ledger vide _ reference No.
+DC2906220298293 dated 30.06.2022.
+
+7. | fees discharged and if yes,
+the amount and CIN
+
+ORDER UNDER SECTION 98(4) OF THE CGST ACT, 2017
+& UNDER SECTION 98(4) OF THE KGST ACT, 2017
+
+M/s. Multi-Verse Technologies Pvt. Ltd.,(herein after referred to as
+‘Applicant), # 41/1, Il Floor, Trisha Mansion, Nanjappa Road, Shanthinagar,
+Bengaluru — 560 027, having GSTIN 29AANCM4327Q1ZM, have filed an application
+Advance Ruling under Section 97 of CGST Act, 2017 read with Rule 104 of
+
+Page 1 of 12
+
+
+2. The applicant stated that they are registered under the GST Act and are
+engaged in the business of providing computer software application services
+designed to run on digital devices such as mobile phones, tablets, personal
+computers in the state of Karnataka and the said services are meant for facilitating
+business transactions of supply of goods or services or both connecting through the
+platform of suppliers/sellers and recipients/buyers.
+
+3. In view of the above, the applicant has sought advance ruling in respect of
+the following questions:
+
+a. Whether the Applicant satisfies the definition of an e-commerce
+operator and the nature of supply as conceptualized in Section 9(5) of
+CGST Act 2017 r/w notification No.17/2017 dated 28.06.2017?
+
+b. Whether the supply by the service provider (person who has
+subscribed to Applicant’s app) to his customers (who also have
+subscribed to Applicant’s app) on the Applicant’s computer application
+amounts to supply by the Applicant?
+
+c. Whether the Applicant is liable to collect and pay GST on the supply of
+goods or services supplied by the service provider (person who has
+subscribed to Applicant’s app) to his customers (who also have
+subscribed to Applicant’s app) on the Applicant’s computer
+application?
+
+4. Admissibility of the application :
+
+The advance rulings are sought by the applicant on the questions, at para 3
+supra, in respect of the issues of (i) applicability of a notification issued under the
+provisions of this Act, (ii) determination of the liability to pay tax on any goods or
+services or both and (iii) whether any particular thing done by the applicant with
+respect to any goods or services or both amounts to or results in a supply of goods
+or services or both, within the meaning of that term, which are covered under
+Section 97(2)(b), 97(2)(e) & 97(2)(g) respectively and hence the application is
+admissible under Section 97(2)(b), 97(2)(e) & 97(2)(g) of the CGST Act 2017.
+
+5. BRIEF FACTS OF THE CASE: The applicant furnished the following facts
+relevant to the issue/s:
+
+5) The applicant provides computer application services (herein after referred
+to as “APP”) for facilitating business transactions of goods or services or both
+connecting through the platform of suppliers/sellers and recipients/buyers. They
+charge membership & subscription fee to the person who enrolls by furnishing the
+
+srship/subscription fee received from the members registered on the Super
+wn as MY2) for availing the benefits.
+
+Technologies Page 2 of 12
+
+
+5.2 Every person desirous of availing of the Applicant’s App services, shall
+make an application online in the presubscribed form duly filled and confirmed
+along with the specified soft copies of documents and shall enter into “END USER
+LICENSE AGREEMENT” (herein after referred to as “EULA”) online. Granting of
+licence to use the “APP” is subject to the terms and conditions contained in the
+EULA.
+
+5.3 It is settled proposition of law that where there is an agreement / contract,
+the nature of the contract shall be determined on the basis of the terms and
+conditions contained therein and by reading the contract as a whole. Clauses 3, 5,
+6.1, 7, 13 and 17 of EULA reveal that the EULA is designed to establish the nature
+of the said agreement/contract that is limited to providing of licence or permission
+to use “APP” by the subscribers.
+
+5.4 The licensee creates “Business User Account” (“BSA”), in terms of clauses 5
+and 6 of the EULA, the subscriber of the “APP” enters into business
+deals/transactions on their own with their clients and business associates for
+supply of goods or services or both; the terms and conditions governing such
+contracts of supply such as class, quality, quantity, price, value of goods, schedule
+of delivery goods etc., are as mutually agreed upon by them and the applicant
+neither has a say / role in that regard nor the applicant is involved directly or
+indirectly in such supply and delivery of goods or providing services or both as the
+case may be; the applicant is not in any way concerned with collection of the
+consideration for supply from the clients/business associates of the subscribed
+suppliers; all such matters are only within the knowledge and domain of the
+subscribers of the “APP” of the applicant and their business clients and associates.
+
+oA) The subscribers of the “APP” are not under any obligation to furnish the
+details of business transactions entered into by using the APP of the applicant such
+as nature and volume of supply at any time during the period covered by the
+licence or at any time thereafter; the taxable supplies effected by the applicant is
+limited to providing of “APP” and collection of registration & monthly subscription
+fee from their subscribers of “APP” and charging, collecting and remitting tax in
+terms of the charging provisions of Section 9(1) of the CGST Act and Section 5(1) of
+the IGST Act and Notification No.11/2017-Central Tax (Rate) dated 28.06.2017.
+
+5.6 Applicant is focused on creating a system that helps link consumers to
+service providers whilst maintaining a safe digital ecosystem for both parties. The
+App, with a commission free monetization model, is a service provider’s hub
+wherein they have absolute ownership of their supply and the applicant has no
+rights over the supply. Any individual, manufacturer, wholesaler, retailer, buyer
+etc., can register on the APP by making payment of membership fee fixed from time
+to time on annual basis and this membership fee is payable as renewal fee during
+— ~each year from the date of their registration on the App.
+AG Vo.
+
+EON
+
+Page 3 of 12
+
+
+facilities provided for or any other activity undertaken benefitting the users. The
+relationship between the members registered on the App and the customers would
+be of supplier and recipient and any monetary consideration involved between
+them is purely privy to their contract and the applicant in no way connected with
+such contract. If there is any dispute between the members registered on the App
+and the recipients of either goods or services it is purely between them and the
+applicant is not responsible for any dispute between them.
+
+5.8 In this case, the transaction between the supplier and buyer takes place
+with the use of App and there is no involvement of the applicant in either arranging
+for supply of goods or services from the members registered on the App or
+arranging for collection of any consideration or any other form of agreed means
+of payment from the buyers to the registered members. Therefore, the
+business model of the applicant is neither in the nature of “market place electronic
+commerce” or “fulfillment electronic commerce” nor “hybrid electronic commerce”
+models.
+
+6. Applicant’s Interpretation of Law: The applicant furnished their
+understanding / interpretation of law inter alia stating as under:
+
+‘GS Applicant’s liability to pay tax is limited to payment of tax at the rate of
+18%, in the light of terms and conditions of EULA, under Section 9(1) of the
+CGST/KGST Act 2017 and Section 5(1) of the ICST Act 2017 read with Notification
+No.11/2017-Central Tax (Rate) dated 28.06.2017, on the consideration received /
+receivable of “registration fee and monthly subscription”. Further the applicant is
+not liable to pay tax under Section 9(5) of the CGST/KGST Act 2017 and Section
+5(5) of the IGST Act 2017 read with Notification No.17/2017-Central Tax (Rate)
+dated 28.06.2017.
+
+6.2 The principal charging provisions are section 9(1) of the CGST/KGST Act
+2017 & Section 5(1) of the IGST Act 2017 and in terms of said sections the liability
+to pay tax on “outward” taxable supplies of goods or services or both, as the case
+may be, is on the “supplier”. Section 2(105) defines the expression “supplier”, in
+relation to any goods or services or both which shall mean the person supplying the
+said goods or services or both and shall include an agent acting as such on behalf of
+such supplier in relation to the goods or services or both supplied.
+
+6.3 The taxable supplies effected by the subscribers of the “APP” of the applicant
+to their clients/business associates by using the applicant’s APP, the suppliers for
+the purpose of CGST/KGST/IGST Acts are the subscribers of the APP and not the
+applicant and therefore, the liability to pay tax on the value of all such supplies is
+on the respective suppliers and certainly not on the applicant. Further the
+provisions of Section 9(1) of the CGST /KGST Act and Section 5(1) of the IGST Act
+—are not subject to Section 9(5) and Section 5(5) of the said Acts respectively.
+
+a
+
+Page 4 of 12
+
+
+6.4 The definitions of the expression “electronic commerce” under Section 2(44)
+and the expression “electronic commerce operator” under Section 2(45) of the CGST
+Act 2017, the provisions of Section 9(5) of the CGST Act 2017 and Section 5(5) of
+the IGST Act 2017 and the notifications issued there under shall have the
+applicability only to “electronic commerce operators” i.e. the taxable persons who
+supply goods or services or both on their own account or on account of others with
+the aid and application of the “APP platform” and they (such taxable persons) either
+undertake to supply goods or services or both on their account or on account of
+other taxable persons and directly or indirectly connected with entering into
+contract for supply, storing/ warehousing, packing, delivery of goods, collection of
+consideration etc.
+
+6.5 The applicant, in view of the above interpretation of law, contends that the
+output tax is payable by them only on the membership fee collected from
+individuals, manufacturers, wholesalers, retailers etc., who are availing the services
+of their Super App to promote their products or services and the applicant in no
+way is liable to pay tax on the transactions that take place subsequently between
+the registered members, (supplier of goods or services or both) on their App, and
+their customers.
+
+6.6 The applicant submits that Section 7(1)(aa) of the CGST Act 2017, has been
+retrospectively inserted from 01.07.2017, which states that any activities or
+transactions, by a person, other than an individual, to its members or constituents
+or vice-versa, for cash, deferred payment or other valuable consideration shall be
+considered as a supply. Explanation : For the purposes of this clause, it is hereby
+clarified that, notwithstanding anything contained in any other law for the time
+being in force or any judgement, decree or order of any court, tribunal or authority,
+the person and its members or constituents shall be deemed to be two separate
+persons and the supply of activities or transactions inter se shall be deemed to take
+place from one such person to another.
+
+6.7 Section 9(5) of the CGST Act 2017 r/w notification No.17/2017 dated
+28.06.2017, notification No.23/2017 dated 22.08.2017 and _ notification
+No.17/2021 dated 18.11.2021 doesn’t contemplate or envisaged non interfering
+and commission free business adopted by the applicant. It is applicable to
+business model which collects payment on behalf of the supplier. As the applicant
+has not collected any payment on behalf of the supplier the question of collecting
+tax on behalf of the supplier can’t arise. Hence, the applicant would not be liable
+for the GST on the transaction carried on by the supplier with his customer.
+Moreover, the supplier raises invoice to his customer & the customer pays directly
+to the supplier which rules out any attempt on the part of the applicant to pay
+
+Page 5 of 12
+
+
+
+PERSONAL HEARING PROCEEDINGS HELD ON 18.08.2022
+
+Mie Sri Chetan Kumar, Chartered Accountant & Authorised Representative of
+the applicant appeared for personal hearing proceedings and reiterated the facts
+narrated in their application.
+
+8. The applicant vide their letter dated 29.08.2022, received in this office on
+01.09.2022, submitted additional write up on their application, along with a copy
+of The Karnataka On demand Transportation Technology Agreement Rules 2016, as
+Annexure I to their letter supra, vide their letter dated 03.09.2022, inter alia stating
+as under:
+
+8.1 The applicant quoting the definitions of ‘electronic commerce’ and ‘electronic
+commerce operator’ in terms of Sections 2(44) and 2(45) respectively, Section 9(5) of
+the CGST Act 2017 and Notification No.17/2017-Central Tax (Rate) dated
+28.06.2017 wherein it is notified that the tax on intra-state supplies of services by
+way of transportation of passengers by a radio-taxi, motor cab, maxi cab and motor
+cycle shall be paid by the electronic commerce operator submits that the applicant
+is a technology provider to cab service provider and would like to distinguish from
+rent-a-cab aggregator; they are not registered with the regional transport office
+(RTO) as a rent-a-cab aggregator and thus they are not an e-commerce operator.
+
+8.2 The tax on intra state supplies of notified services shall be paid by the e-
+commerce operator, in terms of Section 9(5) of the CGST Act 2017, only if such
+services are supplied through it (e-commerce operator platform). The crucial and
+relevant aspect of the section and its applicability are as follows:
+
+a) The services by the supplier to the consumer are supplied through the
+electronic commerce operator
+
+b) The service should be an intra-state supply
+
+c) The tax on services supplied shall be paid by the electronic commerce
+operator
+
+Applying the principle enumerated above in the instant case, we don’t fulfil the
+conditions of being an electronic commerce operator and the supply of services
+through us. The crucial phrase for the applicability of the section is “supply of
+services through e-commerce operator”.
+
+8.3 The Act or Notification doesn’t define or clarify the situations of “supply of
+services through an e-commerce operator” and thus the rules of jurisprudence and
+interpretation are required to understand the phrase and the word as used in
+common parlance. The word through as defined in the oxford’s advanced learner’s
+
+Page 6 of 12
+
+
+
+b) See, hear, etc. through something to see, hear, etc something from the other
+side of an object or a substance
+
+c) From the beginning to the end of an activity, a situation or a period of
+time
+
+d) Past a barrier, stage or test
+e) Until, and including
+
+The word through is a preposition which means “a word or group of words,
+such as in, from, to, out of and on behalf of, used before a noun or pronoun to
+show place, position, time or method”. The word through in Section 9(5) is used
+to indicate the method under which the supply of services was initiated, carried on
+and concluded. The dictionary meaning clearly specifies that the word through
+implies that the supply should be initiated, carried on and concluded by the
+specified method.
+
+8.4 In the instant case the supply is not carried on and concluded by using our
+app. We invite attention to the facts furnished in the application as well as our
+submissions during the personal hearing, which are reiterated as under:
+
+a) We provide technology to cab operators (through the APP). This allows the
+passenger to identify the nearby cab through which he can take the ride and
+no further
+
+b) The ride is not monitored by the applicant
+
+c) The completion of the ride is not known to the applicant
+
+d) The fare details are not known to the applicant
+
+e) The fare and method of its collection is not known to the applicant
+f) The fare is not collected through the applicant
+
+g) The applicant is not responsible to the supplier for non-receipt of the
+consideration for the supply
+
+h) The applicant is not responsible to the consumer for deficiency on the part of
+the supplier in rendering of the services.
+
+8.5 It can be clearly concluded, from the above, that the applicant is only
+involved in meeting the supplier of services and consumer of the services and no
+further, which is similar to Just dial or business linking services. The supply
+happens independent of the applicant and the applicant is involved in identification
+of the supplier of services and doesn’t take responsibility for the operational and
+_-—~completion of the ride. The applicant doesn’t fulfil the conditions stipulated in
+<< = ection 9(5) of the CGST Act 2017, which is “supply of services through”, as no
+PO ioft of supply of services is under the control of the applicant. The applicant
+
+4 i=
+
+Page 7 of 12
+
+
+
+can’t control the fare of the ride and the collection associated with completion of
+the ride and thus the applicant can’t be held liable to collect and pay the tax as
+specified in Section 9(5) of the CGST Act 2017 read with Notification No.17/2017-
+Central Tax (Rate) supra. The applicant’s nature of business doesn’t allow
+collection of the fare on behalf of the supplier. Thus the services can’t be deemed
+to have been supplied through it (APP) just because the service is initiated through
+it.
+
+8.6 An e-commerce operator, as specified, should supply the services through it.
+The services are only initiated by the applicant’s app and supplied through the
+applicant’s app and hence the applicant can’t be held to be an e-commerce
+operator. Moreover, the Act read with the Notification supra transfers the burden
+of tax from the supplier of services to the e-commerce operator as the e-commerce
+operator has control over the fare paid to the supplier and hence can charge and
+collect the tax on supply of services. In the instant case this condition can’t be
+honoured as the applicant has no control over the fare paid to the supplier. Thus
+the applicant pleads helplessness to collect and pay tax on behalf of the supplier.
+Therefore the applicant can’t be concluded as a supplier for services rendered by
+cab operator.
+
+FINDINGS & DISCUSSION
+
+9. At the outset we would like to make it clear that the provisions of CGST
+Act, 2017 and the KGST Act, 2017 are in pari-materia and have the same
+provisions in like matters and differ from each other only on a few specific
+provisions. Therefore, unless a mention is particularly made to such dissimilar
+provisions, a reference to the CGST Act would also mean reference to the
+corresponding similar provisions in the KGST Act.
+
+10. We have considered the submissions made by the applicant in their
+application for advance ruling. We also considered the issues involved on which
+advance ruling is sought by the applicant and relevant facts along with the
+arguments made by the applicant & the submissions made by their learned
+representative during the time of hearing.
+
+11. The applicant provides computer application services through the APP
+known as MY? for facilitating business transactions of goods or services or both
+connecting through the said APP/platform to the suppliers/sellers and
+recipients/buyers, registered under the said APP on payment of membership
+charges & subscription fee and also on furnishing required documents as well as
+on entering into EULA (End User Licence Agreement). In view of this, the applicant
+sought advance ruling in respect of the questions mentioned at para 3 supra.
+
+12. The applicant submits that their APP allows to create two types of accounts
+ies Business User Account and Individual User Account; the Business User can
+SuPRI\goods or services or both to the individual users; the terms & conditions
+
+}*|]
+
+\. # Multi vetse Technologies Page 8 of 12
+
+
+
+governing business contracts of supply such as class, quality, quantity, price, value
+of goods, schedule of delivery etc. are mutually agreed upon by the Business user
+and their clients and applicant does not have any say/role; that the applicant are
+not involved either directly or indirectly in supply of goods or services or both; they
+are not concerned with the collection of the consideration for such supplies; they
+are limited to providing the APP services and collection of registration &
+subscription fees from their subscribers of their APP; they charge, collect and remit
+the tax, on the fees so collected, in terms of Section 9(1) of the CGST Act 2017 and
+Notification No.11/2017-Central Tax (Rate) dated 28.06.2017.
+
+13. The applicant further submits that they also provide technology to the cab
+operators; the APP allows the passenger to identify the nearby cab through which
+he can take the ride and no further; the ride is not monitored by the applicant; the
+completion of the ride is not known to the applicant; the fare details are not known
+to the applicant; the fare and method of its collection is not known to the applicant;
+the fare is not collected through the applicant; the applicant is not responsible to
+the supplier for non-receipt of the consideration for the supply and the applicant is
+not responsible to the consumer for deficiency on the part of the supplier in
+rendering of the services.
+
+14. The applicant, quoting the definitions of ‘electronic commerce’ and
+‘electronic commerce operator’ in terms of Sections 2(44) and 2(45) respectively,
+Section 9(5) of the CGST Act 2017 and Notification No.17/2017-Central Tax (Rate)
+dated 28.06.2017 contends that the applicant is a technology provider to cab
+service provider and would like to distinguish from rent-a-cab aggregator; they do
+not maintain control room and call centre due to their unique business model and
+hence they do not fulfill the conditions that are required to obtain rent-a-cab
+aggregator licence from the RTO and therefore they are not registered with the
+regional transport office (RTO) as a rent-a-cab aggregator and thus they are not an
+e-commerce operator.
+
+15. Now, the core issue before us to decide is whether the applicant qualifies to
+be an e-commerce operator or not and whether they are liable to discharge tax
+liability in terms of Section 9(5) of the CGST Act 2017. We proceed to examine the
+said issue and in this regard we invite reference to the Section 2(44), 2(45) and 9(5)
+of the CGST Act 2017, which are as under:
+
+2(44) —electronic commerce means the supply of goods or services or both,
+including digital products over digital or electronic network;
+
+2(45) —electronic commerce operator means any person who owns, operates
+or manages digital or electronic facility or platform for electronic commerce;
+
+9. Levy and collection.
+
+eo Adv 'S) The Government may, on the recommendations of the Council, by
+fs) “ndtification, specify categories of services the tax on intra-State supplies of
+/
+
+Page 9 of 12
+
+
+supplied through it, and all the provisions of this Act shall apply to such
+electronic commerce operator as if he is the supplier liable for paying the tax
+in relation to the supply of such services:
+
+Provided that where an electronic commerce operator does not have a
+physical presence in the taxable territory, any person representing such
+electronic commerce operator for any purpose in the taxable territory shall be
+liable to pay tax:
+
+Provided further that where an electronic commerce operator does not have a
+physical presence in the taxable territory and also he does not have a
+representative in the said territory, such electronic commerce operator shall
+appoint a person in the taxable territory for the purpose of paying tax and
+such person shall be liable to pay tax.
+
+16. It could be inferred from the definitions supra that Electronic Commerce
+Operator (ECO) means any person who owns, operates or manages digital or
+electronic facility or platform for electronic commerce i.e. for the supply of goods or
+services or both, including digital products over digital or electronic network. In
+the instant case the applicant owns digital platform (APP MY®), for the supply of
+goods or services or both. Thus the applicant squarely fits into the definition and
+qualifies to be an Electronic Commerce Operator.
+
+17. Now we proceed to examine the charging section i.e. Section 9(5) of the
+CGST Act 2017, mentioned at para 15 supra, which stipulates that all the
+provisions of the CGST Act 2017 shall apply to electronic commerce operator, as if
+he is the supplier liable for paying the tax in relation to the supply of certain
+services subject to the following conditions namely:
+
+a) The categories of the services shall be specified by notification, on the
+recommendation of the Council, by the Government.
+
+b) The supply of such specified services shall be intra-state supplies.
+c) The supply of such service is through the electronic commerce operator.
+
+Vide Notification 17/2017-Central Tax(Rate) dated 28.06.2017, issued under
+Section 9(5) of the CGST Act, 2017, Government has notified that tax on intra-state
+supplies for i) services by way of transportation of passengers by a radio-taxi,
+motorcab, maxicab and motor cycle;’ shall be paid by the electronic commerce
+operator. Thus the first two conditions viz., (a) and (b) are satisfied in the instant
+case, in as much as the category of services of Intra-state supplies are notified by
+the Government covering services by way of transportation of passengers by radio-
+taxi, motor cab and maxi cab. However, the crucial and most important issue is
+whether the impugned services (cab operator services) are supplied through the
+tronic commerce operator or not. The word “through” in Section 9(5) is not
+in the relevant context and hence we proceed to discuss the meaning of the
+ird/phrase.
+
+Technologies Page 10 of 12
+
+
+18. In this regard, we invite reference to Merriam Webster dictionary, in
+accordance to which the word ‘through’ is used as a function word to indicate
+
+means, agency, intermediacy such as by means of, by the agency of etc. The word
+
+‘through’ is also used as a function word to indicate extent, period of time such as
+
+during entire period, from the beginning to the end, to and including etc. Thus the
+
+word through in the phrase services supplied through electronic commerce
+
+operator, in Section 9(5) ibid, gives the meaning that the services are to be
+supplied by means of / by the agency of / from beginning to the end /during entire
+period by e-commerce operator. In the instant case, it is observed that the
+applicant, because of their unique business model, merely connects the driver and
+passenger and their role ends on such connection; they do not collect the
+consideration; they have no control over actual provision of service by service
+provider; they do not have the details of the ride; they do not have control room/call
+centre etc. The supply happens independent of the applicant and the applicant is
+involved only in the identification of the supplier of services and doesn’t take
+responsibility for the operational and completion of the ride. Thus it is observed
+that supply of services are not through the electronic commerce operator, but are
+independent. Therefore, the applicant does not satisfy the conditions of Section 9(5)
+for the discharge of tax liability by electronic commerce operator. Thus the
+applicant, though qualifies the definition of being an e-commerce operator, is not
+the person liable for discharge of tax liability under Section 9(5) of the CGST Act,
+2017.
+
+19. In view of the foregoing, we pass the following
+RULING
+
+a. The Applicant satisfies the definition of an e-commerce operator but does
+not satisfy the conditions of Section 9(5) of CGST Act 2017 r/w
+Notification No.17/2017 dated 28.06.2017, for the discharge of tax
+liability by electronic commerce operator.
+
+b. The supply by the service provider (person who has subscribed to
+Applicant’s app) to his customers (who also have subscribed to
+Applicant’s app) on the Applicant’s computer application does not
+
+amounts to supply by the Applicant
+
+it erse Technologies Page 11 of 12
+‘iS
+
+
+
+c. The Applicant is not liable to collect and pay GST on the supply of goods
+or services supplied by the service provider (person who has subscribed
+to Applicant’s app) to his customers (who also have subscribed to
+Applicant’s app) on the Applicant’s computer application.
+
+(Dr. ae Prasad) (T. Ki eddy)
+
+jrecneee ember
+
+At = “RAMEE
+
+; MEMBER
+
+“piaes' A afiru!ing Authority Kamataka Ad Ruling Authority
+sngararu- 560 009 Bengaluru-560 009
+
+Date : 27-10-2022
+Ta,
+
+The Applicant
+
+Copy to:
+
+1. The Principal Chief Commissioner of Central Tax, Bangalore Zone,
+Karnataka.
+
+2. The Commissioner of Commercial Taxes, Karnataka, Bengaluru.
+
+3. The Principal Commissioner of Central Tax, Bangalore South
+Commissionerate, Bengaluru.
+
+4. The Assistant Commissioner of Commercial Taxes, LGSTO-40, Bengaluru.
+
+5. Office Folder.
+
+erse Technologies Page 12 of 12

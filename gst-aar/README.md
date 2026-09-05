@@ -35,7 +35,8 @@ downloads yet — a full run filled the disk).
 |---|---|---|
 | `scrape_list.py` | Crawls listing pages → `data/aar_list.jsonl` (appends; resumable via start-page arg) | 2,111 records (pages 0–~214). **RESUME: `python3 scrape_list.py 213`** (dedupe by pdf_url happens in build_db) |
 | `download_pdfs.py` | Downloads PDFs → `data/pdfs/<State>/<file>.pdf` (8 workers, resumable, validates %PDF magic) | **Paused per user: full run = ~2.4GB+ filled disk (99% full). PoC = 25 PDFs kept. Add throttling for future runs.** |
-| `extract_text.py` | Native text via PyMuPDF; per-page tesseract OCR fallback (200dpi, psm 4, eng) → `data/text/<State>/*.txt` + `data/extract_status.jsonl` | **✅ VERIFIED on all 25 PoC PDFs: 626,938 chars of text extracted** |
+| `extract_text.py` | Native text via PyMuPDF; per-page tesseract OCR fallback (200dpi, psm 4, eng) → `data/text/<State>/*.txt` + `data/extract_status.jsonl` | ✅ Verified on 25-PDF PoC (tesseract engine; superseded by Vision below) |
+| `extract_vision.py` | **Production OCR (benchmark winner): macOS Vision via PyObjC**, 150dpi render, 4 workers, resumable → `data/text/` + `data/extract_vision_status.jsonl`. Run: `ocr-benchmark/venv-tools/bin/python extract_vision.py`. Hindi dropped (accepted trade-off) | ✅ Smoke-tested, **awaiting user sign-off to launch on full corpus** |
 | `build_db.py` | Builds `data/aar.db`: `rulings` table + `rulings_fts` (FTS5, porter tokenizer). All 2,111 metadata rows + 25 full-text bodies | **✅ VERIFIED — bugs fixed (see below)** |
 | `search.py` | CLI search over the DB (FTS5 match + state/date filters + excerpts) | **✅ VERIFIED** — hyphenated queries quoted automatically |
 | `export_inventory.py` | Exports `data/inventory.csv` + `data/inventory.jsonl`: one row per document with **original source URL**, local pdf path/size/download-time, text path, status | **✅ VERIFIED — 2,111 rows, 100% have source_url** |
@@ -46,6 +47,17 @@ downloads yet — a full run filled the disk).
 - `data/pdfs/` — **exactly 25 PDFs across 20 states** (Andhra Pradesh…West Bengal)
 - `data/text/` + `data/extract_status.jsonl` — OCR output for the 25 (626K chars)
 - `data/aar.db` — **BUILT**: 2,111 rows, 25 with full text, FTS5 index live
+
+## RUNNING NOW (started 2026-09-05 ~23:45, background task exec_d6a3ec51)
+
+1. `scrape_list.py 213` — finishing the listing crawl (was 2,111; target ~4,300)
+2. then `download_pdfs.py` — full corpus, **now throttled (0.5 s/req, 6 workers)**
+   and writing every attempt live to `data/aar.db` table **`download_log`**
+   (source_url → local_path → size → status → downloaded_at). Resumable.
+3. After review: `ocr-benchmark/venv-tools/bin/python extract_vision.py` — macOS Vision OCR over all PDFs (the benchmark winner)
+4. Then: rebuild `build_db.py` + `export_inventory.py` over the full corpus → embeddings → API/MCP layer (next phase)
+
+Disk watch: corpus ≈ 6–7 GB; ~45 GB free at start. Check `df -h /System/Volumes/Data` if the run dies.
 
 ## Document inventory rule (standing, user-required)
 
