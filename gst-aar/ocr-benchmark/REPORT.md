@@ -33,7 +33,7 @@ exists ONLY as handwriting** (p1 "Date of Ruling", p24 signature date).
 | tesseract eng, 300 dpi, psm 3 | Ruling PASS, rest same as 200 dpi | 0.0% | Latin gibberish | 1.53 + 0.13 | 0 | OK |
 | tesseract eng+hin (tessdata_fast `hin`, 1.1 MB) | Same English quality, +noise | 1.9% | Legible but error-prone (~90%) | 3.33 (2.75x slower) | 1.1 MB | OK |
 | EasyOCR 1.7.2 (torch 2.14, CPU, en+hi) | Garbled: `GODDS`, `L3.07.202E`, `DXAAVLARZIGLTZI`; Devanagari digits leak into English (`२०B`) | high (case/scramble chaos) | Recognized but noisy | **18.4** | ~300 MB models | OK (surprisingly) |
-| PaddleOCR 3.7.0 | **INCOMPATIBLE** — `paddlepaddle` publishes no wheel for Python 3.14 / macOS arm64 | — | — | — | — | FAIL |
+| PaddleOCR 3.7.0 (PP-OCRv6_medium, **Python 3.12 venv** — no cp314 wheel, runs fine on 3.12) | **Ruling PASS, applicant PASS, Notification 13/2020 PASS, GSTIN EXACT (p6)**, **handwritten date PASS** (`Date of Ruling: 30.07.2026`) | ~0 (1 stray CJK char/doc) | **Not supported** — no Devanagari lang pack in 3.7 (`lang='devanagari'` → ValueError); Hindi lines degrade to digit fragments | **33.3** (medium) / 18.2 (PP-OCRv5_mobile, quality regression: ruling no. MISS on p1) | ~500 MB models | needs ≤3.12 |
 
 Sample quality (page 1, Hindi paragraph):
 
@@ -48,7 +48,7 @@ Sample quality (page 1, Hindi paragraph):
 2. **ocrmypdf.** Fastest full-pipeline (0.26 s/page, it OCRs at the embedded 72 dpi and produces a searchable-PDF with `--sidecar` text). English quality ≈ tesseract psm 3; weakest on the GSTIN. Note: `--psm` was removed in ocrmypdf 17.
 3. **Surya OCR.** Now a VLM (surya-ocr-2 gguf, 1.4 GB, runs through homebrew `llama-server`). Quality is in a different class: correct handwritten date, real table structure, perfect Hindi. Cost: ~34 s/page CPU on this Mac (42% CPU util; `--parallel 8` slots did not saturate), 1.4 GB model download.
 4. **EasyOCR.** Installs on 3.14 (torch 2.14 arm64 wheels exist) but quality is unusable for legal text and it is 25x slower than tesseract.
-5. **PaddleOCR.** Blocked: no `paddlepaddle` wheel for cp314 macOS arm64.
+5. **PaddleOCR.** Blocked on Python 3.14 (no cp314 wheel) but **runs on a Python 3.12 venv** (`python3.12 -m venv venv-paddle312; pip install paddlepaddle paddleocr` — verified 3.7.0/3.3.1). Quality is the surprise: it read the **handwritten** `Date of Ruling: 30.07.2026` and produced the **exact GSTIN** (p6; the p1 copy is 1 char off), Surya/Vision-class accuracy on English. But: no Devanagari support in 3.7 at all, and CPU throughput is Surya-class slow (33.3 s/page medium; the mobile variant is 18.2 s/page with a quality regression). 65k pages ≈ **600 h locally** — only attractive with a GPU, which this Mac can't offer (no CUDA/MPS for paddle).
 6. **macOS Vision.** Zero-download, zero-install-weight (just `pip install pyobjc-framework-Vision`). Best practical quality: exact GSTIN, exact printed text, even nearly reads the handwriting (`30-07-2426`). Hindi is skipped (no Devanagari support in this macOS build's text recognition), which is "clean loss" rather than garbage. macOS-only.
 
 ## Ranking for the 4,300-doc / ~65,000-page bulk job

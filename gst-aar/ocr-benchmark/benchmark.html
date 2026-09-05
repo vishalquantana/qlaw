@@ -91,7 +91,8 @@
       <tr><td class="tool">tesseract eng psm6 200dpi</td><td class="part">Ruling only</td><td class="fail">garbled</td><td class="fail">FAIL</td><td class="fail">gibberish</td><td>1.21</td><td>~23 h</td></tr>
       <tr><td class="tool">tesseract eng+hin</td><td class="part">Ruling only</td><td class="fail">garbled</td><td class="fail">FAIL</td><td class="part">~90% legible</td><td>3.33</td><td>~60 h</td></tr>
       <tr><td class="tool">EasyOCR 1.7.2</td><td class="fail">garbled</td><td class="fail">garbled</td><td class="fail">FAIL</td><td class="part">noisy</td><td class="fail">18.4</td><td class="fail">~330 h</td></tr>
-      <tr><td class="tool">PaddleOCR 3.7</td><td class="fail" colspan="6">INCOMPATIBLE — no wheel for Python 3.14 / macOS arm64</td></tr>
+      <tr><td class="tool">PaddleOCR 3.7 <span class="na">(PP-OCRv6 medium, Py3.12)</span></td><td class="pass">4/5 + handwritten ✓</td><td class="pass">EXACT ✓ (p6)</td><td class="pass">PASS ✦</td><td class="fail">Not supported</td><td class="fail">33.3</td><td class="fail">~600 h</td></tr>
+      <tr><td class="tool">PaddleOCR mobile <span class="na">(PP-OCRv5)</span></td><td class="part">mixed (ruling MISS)</td><td class="pass">EXACT ✓ (p1)</td><td class="na">untested</td><td class="fail">Not supported</td><td class="fail">18.2</td><td class="fail">~330 h</td></tr>
       <tr><td class="tool">Mistral OCR API <span class="na">(paid, not tested)</span></td><td class="pass">VLM-class</td><td class="na">expected pass</td><td class="pass">expected pass</td><td class="pass">yes</td><td class="na">API-bound</td><td>≈ $130</td></tr>
     </table>
   </div>
@@ -100,23 +101,26 @@
   <div class="card">
     <h3>Seconds per page <span class="na" style="font-weight:400">(lower is better)</span></h3>
     <div class="chart">
-      <div class="bar-row"><span class="tool">ocrmypdf</span><div class="bar-track"><div class="bar-fill green" style="width:1.4%"></div></div><span class="bar-val">0.26 s</span></div>
-      <div class="bar-row"><span class="tool">macOS Vision</span><div class="bar-track"><div class="bar-fill green" style="width:4%"></div></div><span class="bar-val">0.75 s</span></div>
-      <div class="bar-row"><span class="tool">tesseract psm6</span><div class="bar-track"><div class="bar-fill amber" style="width:6.5%"></div></div><span class="bar-val">1.21 s</span></div>
-      <div class="bar-row"><span class="tool">tesseract eng+hin</span><div class="bar-track"><div class="bar-fill amber" style="width:18%"></div></div><span class="bar-val">3.33 s</span></div>
-      <div class="bar-row"><span class="tool">EasyOCR</span><div class="bar-track"><div class="bar-fill red" style="width:100%"></div></div><span class="bar-val">18.4 s</span></div>
+      <div class="bar-row"><span class="tool">ocrmypdf</span><div class="bar-track"><div class="bar-fill green" style="width:0.8%"></div></div><span class="bar-val">0.26 s</span></div>
+      <div class="bar-row"><span class="tool">macOS Vision</span><div class="bar-track"><div class="bar-fill green" style="width:2.2%"></div></div><span class="bar-val">0.75 s</span></div>
+      <div class="bar-row"><span class="tool">tesseract psm6</span><div class="bar-track"><div class="bar-fill amber" style="width:3.6%"></div></div><span class="bar-val">1.21 s</span></div>
+      <div class="bar-row"><span class="tool">tesseract eng+hin</span><div class="bar-track"><div class="bar-fill amber" style="width:9.8%"></div></div><span class="bar-val">3.33 s</span></div>
+      <div class="bar-row"><span class="tool">PaddleOCR mobile</span><div class="bar-track"><div class="bar-fill red" style="width:53%"></div></div><span class="bar-val">18.2 s</span></div>
+      <div class="bar-row"><span class="tool">EasyOCR</span><div class="bar-track"><div class="bar-fill red" style="width:54%"></div></div><span class="bar-val">18.4 s</span></div>
+      <div class="bar-row"><span class="tool">PaddleOCR medium</span><div class="bar-track"><div class="bar-fill red" style="width:98%"></div></div><span class="bar-val">33.3 s</span></div>
       <div class="bar-row"><span class="tool">Surya (VLM)</span><div class="bar-track"><div class="bar-fill red" style="width:100%"></div></div><span class="bar-val">~34 s</span></div>
     </div>
 
     <h3>Factual accuracy <span class="na" style="font-weight:400">(checked facts passed, of 5 applicable: ruling, date, applicant, GSTIN, notification)</span></h3>
     <div class="chart">
       <div class="bar-row"><span class="tool">Surya (VLM)</span><div class="bar-track"><div class="bar-fill green" style="width:100%"></div></div><span class="bar-val">5/5</span></div>
+      <div class="bar-row"><span class="tool">PaddleOCR medium</span><div class="bar-track"><div class="bar-fill green" style="width:100%"></div></div><span class="bar-val">5/5</span></div>
       <div class="bar-row"><span class="tool">macOS Vision</span><div class="bar-track"><div class="bar-fill green" style="width:80%"></div></div><span class="bar-val">4/5</span></div>
       <div class="bar-row"><span class="tool">ocrmypdf</span><div class="bar-track"><div class="bar-fill amber" style="width:40%"></div></div><span class="bar-val">2/5</span></div>
       <div class="bar-row"><span class="tool">tesseract (all variants)</span><div class="bar-track"><div class="bar-fill amber" style="width:40%"></div></div><span class="bar-val">2/5</span></div>
       <div class="bar-row"><span class="tool">EasyOCR</span><div class="bar-track"><div class="bar-fill red" style="width:0%"></div></div><span class="bar-val">0/5</span></div>
     </div>
-    <p class="sub" style="margin-top:-6px">Surya reads the handwritten date (5/5). Vision gets everything printed including the exact GSTIN but not handwriting (4/5). Everything tesseract-class stops at ruling + notification (2/5). EasyOCR: unusable.</p>
+    <p class="sub" style="margin-top:-6px">Surya and PaddleOCR read the handwritten date (5/5). Vision gets everything printed including the exact GSTIN but not handwriting (4/5). Everything tesseract-class stops at ruling + notification (2/5). EasyOCR: unusable.</p>
   </div>
 
   <h2>Hindi (Devanagari) handling — same paragraph, three engines</h2>
@@ -139,6 +143,8 @@
     <p>VLM-class quality (Surya-equal) at API speed. Very reasonable against ~600 CPU-hours of local VLM OCR. Surya itself is impractical locally (610 h on this Mac), though it's the best raw quality if run on a rented GPU.</p>
     <h3>🥉 Free triage layer: ocrmypdf — 0.26 s/page</h3>
     <p>Add a searchable text layer + fact-check (ruling-number regex); escalate failures to Vision/Mistral. Also: <strong>don't re-render above 150 dpi</strong> — the scans are natively ~72 dpi; higher dpi adds no information.</p>
+    <h3>PaddleOCR — solved the install, lost the speed race</h3>
+    <p>PaddleOCR 3.7 <em>does</em> run when you install it under a Python 3.12 venv (only 3.14 lacks a wheel) — and it delivered Surya-class quality: exact GSTIN <em>and</em> it read the handwritten date. But at 33 s/page on CPU it's ~600 h for the corpus, with no GPU option on this Mac. Worth revisiting only on a CUDA box. No Devanagari support in 3.7 either.</p>
   </div>
 
   <h2>Environment &amp; reproducibility</h2>
