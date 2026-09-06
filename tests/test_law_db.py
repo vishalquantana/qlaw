@@ -55,7 +55,7 @@ class TestProvenance:
                 "kind": "act", "title": "t", "number": "", "pub_date": "",
                 "local_path": "", "sha256": "e" * 64, "body": "b"})
         except ValueError as e:
-            assert ".gov.in" in str(e)
+            assert "non-official" in str(e)
         else:
             raise AssertionError("expected ValueError")
 
