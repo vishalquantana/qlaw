@@ -54,3 +54,15 @@ _tg_spec = importlib.util.spec_from_file_location(
     Path(__file__).parent.parent / "gst-aar" / "law" / "harvest_tgct.py")
 harvest_tgct = importlib.util.module_from_spec(_tg_spec)
 _tg_spec.loader.exec_module(harvest_tgct)
+
+_wb_spec = importlib.util.spec_from_file_location(
+    "harvest_wb",
+    Path(__file__).parent.parent / "gst-aar" / "law" / "harvest_wb.py")
+harvest_wb = importlib.util.module_from_spec(_wb_spec)
+_wb_spec.loader.exec_module(harvest_wb)
+
+_hs_spec = importlib.util.spec_from_file_location(
+    "_https",
+    Path(__file__).parent.parent / "gst-aar" / "law" / "_https.py")
+_https = importlib.util.module_from_spec(_hs_spec)
+_hs_spec.loader.exec_module(_https)
