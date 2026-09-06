@@ -137,6 +137,16 @@ th{{background:#f8fafc}}.num{{text-align:right;font-variant-numeric:tabular-nums
 <tr><td>law_subjects / citations / tags</td><td class=num>{law_onto['law_subjects']:,} / {law_onto['law_citations']:,} / {law_onto['law_tags']:,}</td></tr>
 </table>
 
+<h2>Validated starter questions (all 6 answer live in chat)</h2>
+<table><tr><th>Question</th><th>Grounded answer</th><th>Trace</th></tr>
+<tr><td>GSTR-3B due Oct 2024 in Maharashtra?</td><td>Extended to 21 Nov 2024 (MH + JH)</td><td class=src>NN 26/2024-CT · 2024-11-18</td></tr>
+<tr><td>Late fee if GSTR-9 filed without 9C?</td><td>Yes — fee runs till complete return; FY≤22-23 excess waived if 9C by 31-03-2025</td><td class=src>Cir 246/03/2025 · 2025-01-30</td></tr>
+<tr><td>Can s.83 attachment be renewed after a year?</td><td>No — lapses by operation of law; accounts de-frozen</td><td class=src>2025INSC983 · 2025-08-14</td></tr>
+<tr><td>Do s.70 summons bar parallel proceedings?</td><td>Summons/search ≠ proceedings; bar triggers on SCN; first-to-act carries inquiry</td><td class=src>2025INSC982 · 2025-08-14</td></tr>
+<tr><td>Why restaurants at 5% without ITC?</td><td>NN 46/2017-CT(R): 5% conditional on no ITC (mandatory); decided at 23rd Council meeting</td><td class=src>notification + 23rd minutes</td></tr>
+<tr><td>What RNR did the CEA propose?</td><td>Report located; figure needs deeper extract (honest partial)</td><td class=src>CEA RNR report</td></tr>
+</table>
+
 <h2>Embeddings &amp; serving</h2>
 <table><tr><th>Component</th><th>Detail</th></tr>
 <tr><td>Embedding model</td><td>text-embedding-nomic-embed-text-v1.5, 768-d, via LM Studio :1234</td></tr>
