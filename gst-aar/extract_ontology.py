@@ -179,7 +179,72 @@ def pass1(con: sqlite3.Connection):
     print("pass1 done:", counts)
 
 
-# ---------------------------------------------------------------- LLM pass
+# ---------------------------------------------------------------- LLM questions pass (v2)
+LLM_Q_PROMPT = """You extract the applicant's questions from an Indian GST advance ruling. Return ONLY valid JSON (no markdown) with exactly this key:
+{
+  "questions": [{"q_no": "number as in the application ('1', '2(a)'…) or null", "question": "<=40 words, the question asked", "outcome": "answered|withdrawn|rejected|no_ruling|null", "held_summary": "<=40 words on what the Authority decided, or null"}]
+}
+List every distinct question (usually 1-5). Null means unknown; do not guess."""
+
+
+def llm_questions(con: sqlite3.Connection, rid: int, brief: str, text: str) -> bool:
+    content = f"BRIEF: {brief[:1500]}\n\nTEXT (excerpt): {text[:9000]}"
+    req = urllib.request.Request(
+        LMSTUDIO,
+        data=json.dumps({
+            "model": LLM_MODEL,
+            "temperature": 0,
+            "max_tokens": 4000,  # thinking model burns reasoning tokens before output
+            "chat_template_kwargs": {"enable_thinking": False},
+            "messages": [
+                {"role": "system", "content": LLM_Q_PROMPT},
+                {"role": "user", "content": content},
+            ],
+        }).encode(),
+        headers={"Content-Type": "application/json"},
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=240) as r:
+            resp = json.loads(r.read())
+        raw = resp["choices"][0]["message"]["content"]
+        raw = re.sub(r"^```(json)?|```$", "", (raw or "").strip(), flags=re.M).strip()
+        d = json.loads(raw)
+    except Exception as e:
+        print(f"  ruling {rid}: questions LLM parse failed: {type(e).__name__}", file=sys.stderr)
+        return False
+
+    for q in (d.get("questions") or [])[:10]:
+        if not isinstance(q, dict) or not q.get("question"):
+            continue
+        con.execute(
+            "INSERT INTO ruling_questions (ruling_id, q_no, question, outcome, held_summary, source)"
+            " VALUES (?,?,?,?,?, 'llm')",
+            (rid, (q.get("q_no") or "")[:20], q["question"][:500],
+             (q.get("outcome") or None), (q.get("held_summary") or None)),
+        )
+    con.commit()
+    return True
+
+
+def pass2questions(con: sqlite3.Connection, limit=None):
+    rows = con.execute(
+        "SELECT r.id, r.brief, COALESCE(r.txt_file,'') FROM rulings r"
+        " WHERE NOT EXISTS (SELECT 1 FROM ruling_questions q WHERE q.ruling_id = r.id)"
+        " ORDER BY r.id" + (f" LIMIT {limit}" if limit else "")
+    ).fetchall()
+    print(f"LLM questions pass: {len(rows)} rulings without questions")
+    ok = 0
+    t0 = time.time()
+    for rid, brief, txt_file in rows:
+        text = ""
+        p = ROOT / txt_file if txt_file else None
+        if p and p.exists():
+            text = p.read_text(errors="replace")
+        if llm_questions(con, rid, brief or "", text):
+            ok += 1
+        if ok % 25 == 0 and ok:
+            print(f"[{ok}/{len(rows)}] {ok/(time.time()-t0):.2f} rulings/s", flush=True)
+    print(f"LLM questions pass done: {ok}/{len(rows)} in {(time.time()-t0)/60:.1f} min")
 LLM_PROMPT = """You extract structured data from an Indian GST advance ruling. Return ONLY valid JSON (no markdown) with exactly these keys:
 {
  "sector": ["one or two of: education, construction, it-services, hospitality, transport, manufacturing, healthcare, finance, agriculture, energy, media, retail, professional-services, other"],
@@ -282,6 +347,9 @@ def main():
     elif "--llm" in sys.argv:
         limit = int(sys.argv[sys.argv.index("--limit") + 1]) if "--limit" in sys.argv else None
         pass2(con, limit)
+    elif "--llm-questions" in sys.argv:
+        limit = int(sys.argv[sys.argv.index("--limit") + 1]) if "--limit" in sys.argv else None
+        pass2questions(con, limit)
     con.close()
 
 
