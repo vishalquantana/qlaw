@@ -66,3 +66,9 @@ _hs_spec = importlib.util.spec_from_file_location(
     Path(__file__).parent.parent / "gst-aar" / "law" / "_https.py")
 _https = importlib.util.module_from_spec(_hs_spec)
 _hs_spec.loader.exec_module(_https)
+
+_od_spec = importlib.util.spec_from_file_location(
+    "harvest_od",
+    Path(__file__).parent.parent / "gst-aar" / "law" / "harvest_od.py")
+harvest_od = importlib.util.module_from_spec(_od_spec)
+_od_spec.loader.exec_module(harvest_od)
