@@ -30,3 +30,9 @@ _cd_spec = importlib.util.spec_from_file_location(
     Path(__file__).parent.parent / "gst-aar" / "law" / "check_daily.py")
 check_daily = importlib.util.module_from_spec(_cd_spec)
 _cd_spec.loader.exec_module(check_daily)
+
+_el_spec = importlib.util.spec_from_file_location(
+    "embed_law",
+    Path(__file__).parent.parent / "gst-aar" / "law" / "embed_law.py")
+embed_law = importlib.util.module_from_spec(_el_spec)
+_el_spec.loader.exec_module(embed_law)

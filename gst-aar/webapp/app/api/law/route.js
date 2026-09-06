@@ -14,10 +14,10 @@ export async function GET(req) {
   try {
     const terms = q.split(/\s+/).filter(Boolean).map((t) => `"${t.replace(/"/g, '""')}"`).join(" ");
     let rows = db.prepare(
-      "SELECT d.id, d.title, d.number, d.kind, d.source_url FROM documents d " +
+      "SELECT d.id, d.title, d.number, d.kind, d.source_url, d.pub_date FROM documents d " +
       "JOIN documents_fts f ON f.rowid = d.id " +
-      "JOIN (SELECT rowid FROM documents_fts WHERE documents_fts MATCH ? LIMIT -1) r " +
-      "ON r.rowid = d.id LIMIT ?").all(terms, limit * 2);
+      "JOIN (SELECT rowid, rank FROM documents_fts WHERE documents_fts MATCH ? LIMIT -1) r " +
+      "ON r.rowid = d.id ORDER BY r.rank, d.pub_date DESC LIMIT ?").all(terms, limit * 2);
     if (kind) rows = rows.filter((r) => r.kind === kind);
     return Response.json({ results: rows.slice(0, limit) });
   } catch (err) {

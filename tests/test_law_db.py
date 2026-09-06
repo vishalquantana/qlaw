@@ -95,3 +95,19 @@ class TestSearchQuoting:
             "body": "e-invoicing QR code B2C"})
         rows = law_db.search(con, "e-invoicing", 10)
         assert len(rows) == 1
+
+
+class TestRecencyPrecedence:
+    def test_newer_filing_wins_on_equal_relevance(self) -> None:
+        con = _memdb()
+        body = "identical rate notification body text for tiebreak purposes here"
+        law_db.upsert_document(con, {"source_url": "https://cbic-gst.gov.in/pdf/old.pdf",
+            "kind": "notification", "title": "old", "number": "1/2017-CT",
+            "pub_date": "2017-06-28", "local_path": "", "sha256": "a" * 64,
+            "body": body})
+        law_db.upsert_document(con, {"source_url": "https://cbic-gst.gov.in/pdf/new.pdf",
+            "kind": "notification", "title": "new", "number": "1/2024-CT",
+            "pub_date": "2024-06-28", "local_path": "", "sha256": "b" * 64,
+            "body": body})
+        rows = law_db.search(con, "rate notification tiebreak", 10)
+        assert [r["number"] for r in rows] == ["1/2024-CT", "1/2017-CT"]

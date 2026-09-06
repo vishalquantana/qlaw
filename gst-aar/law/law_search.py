@@ -17,7 +17,7 @@ def main(query: str, kind: str = "", limit: int = 10):
     for r in rows:
         if kind and r["kind"] != kind:
             continue
-        print(f"#{r['id']} [{r['kind']}] {r['title']} ({r['number']})")
+        print(f"#{r['id']} [{r['pub_date'] or '????-??-??'}] [{r['kind']}] {r['title']} ({r['number']})")
         print(f"    {r['source_url']}")
         n += 1
         if n >= limit:

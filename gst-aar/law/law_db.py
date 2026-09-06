@@ -77,7 +77,11 @@ def _quote_query(query: str) -> str:
 
 def search(con: sqlite3.Connection, query: str, limit: int = 20) -> list[sqlite3.Row]:
     con.row_factory = sqlite3.Row
+    # ORDER BY rank (best match first), then pub_date DESC so more recent
+    # filings and rules take precedence over older ones on equal relevance.
     return con.execute(
         "SELECT d.* FROM documents d JOIN documents_fts f ON f.rowid = d.id"
-        " JOIN (SELECT rowid FROM documents_fts WHERE documents_fts MATCH ? LIMIT -1) r"
-        " ON r.rowid = d.id LIMIT ?", (_quote_query(query), limit)).fetchall()
+        " JOIN (SELECT rowid, rank FROM documents_fts"
+        " WHERE documents_fts MATCH ? LIMIT -1) r"
+        " ON r.rowid = d.id ORDER BY r.rank, d.pub_date DESC LIMIT ?",
+        (_quote_query(query), limit)).fetchall()
