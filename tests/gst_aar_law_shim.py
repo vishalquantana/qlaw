@@ -48,3 +48,9 @@ _sd_spec = importlib.util.spec_from_file_location(
     Path(__file__).parent.parent / "gst-aar" / "law" / "status_dashboard.py")
 status_dashboard = importlib.util.module_from_spec(_sd_spec)
 _sd_spec.loader.exec_module(status_dashboard)
+
+_tg_spec = importlib.util.spec_from_file_location(
+    "harvest_tgct",
+    Path(__file__).parent.parent / "gst-aar" / "law" / "harvest_tgct.py")
+harvest_tgct = importlib.util.module_from_spec(_tg_spec)
+_tg_spec.loader.exec_module(harvest_tgct)
