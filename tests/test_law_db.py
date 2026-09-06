@@ -78,7 +78,9 @@ class TestProvenanceHostnames:
         from gst_aar_law_shim import law_db as _ldb
 
         for url in ("https://taxinformation.cbic.gov.in/x",
-                    "https://cbic-gst.gov.in/pdf/a.pdf"):
+                    "https://cbic-gst.gov.in/pdf/a.pdf",
+                    "https://comtax.cg.nic.in/GSTAT/a.pdf",
+                    "https://loksabha.nic.in/bills/b.pdf"):
             con = _memdb()
             _ldb.upsert_document(con, {"source_url": url, "kind": "act",
                 "title": "t", "number": "", "pub_date": "", "local_path": "",

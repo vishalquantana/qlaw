@@ -43,11 +43,13 @@ def init_db(path: Path = LAW_DB) -> sqlite3.Connection:
 
 
 def _check_provenance(source_url: str) -> None:
+    # Official hosts: .gov.in and .nic.in are equivalent (user decision 2026-09-06).
     if not source_url:
         raise ValueError("source_url is required (no source URL, no processing)")
     host = urllib.parse.urlparse(source_url).hostname or ""
-    if host != "gov.in" and not host.endswith(".gov.in"):
-        raise ValueError(f"non-.gov.in source_url refused: {source_url}")
+    ok = host in ("gov.in", "nic.in") or host.endswith((".gov.in", ".nic.in"))
+    if not ok:
+        raise ValueError(f"non-official source_url refused: {source_url}")
 
 
 def upsert_document(con: sqlite3.Connection, doc: dict) -> int:
