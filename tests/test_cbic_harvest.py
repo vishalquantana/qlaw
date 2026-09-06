@@ -50,3 +50,19 @@ def test_parse_notification_filename():
 
     assert flat.parse_notification_filename("NN-26-2024_Eng.pdf") == {
         "number": "26/2024", "category": "CT", "year": "2024"}
+
+
+def test_lang_hint():
+    from gst_aar_law_shim import harvest_cbic_flat as flat
+
+    assert flat.lang_hint("03-2022-CT-Hin.pdf") == "hi"
+    assert flat.lang_hint("NN-26-2024_Eng.pdf") == "en"
+    assert flat.lang_hint("circular-239.pdf") == ""
+
+
+def test_hindi_listings_configured():
+    from gst_aar_law_shim import harvest_cbic_flat as flat
+
+    urls = [u for _, u in flat.LISTINGS]
+    assert "https://cbic-gst.gov.in/hindi/central-tax-notifications.html" in urls
+    assert "https://cbic-gst.gov.in/hindi/circulars.html" in urls

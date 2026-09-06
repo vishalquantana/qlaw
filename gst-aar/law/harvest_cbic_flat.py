@@ -22,7 +22,21 @@ UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit
 LISTINGS = [
     ("notifications", "https://cbic-gst.gov.in/central-tax-notifications.html"),
     ("circulars", "https://cbic-gst.gov.in/circulars.html"),
+    # Hindi mirror carries the same English PDFs (verified live 2026-09-06;
+    # the English listings above 404). Filenames carry -Eng/-Hin markers.
+    ("notifications", "https://cbic-gst.gov.in/hindi/central-tax-notifications.html"),
+    ("notifications", "https://cbic-gst.gov.in/hindi/integrated-tax-notifications.html"),
+    ("circulars", "https://cbic-gst.gov.in/hindi/circulars.html"),
 ]
+
+
+def lang_hint(name: str) -> str:
+    low = name.lower()
+    if "hin" in low:
+        return "hi"
+    if "eng" in low:
+        return "en"
+    return ""
 
 NAME_RE = re.compile(r"(?:(NN)-?|Notification-?No\.?\s*)?(\d+)[/-](\d{4})[-_]?([A-Za-z\(\)]*)",
                      re.I)
@@ -93,12 +107,20 @@ def main(max_pdfs: int = 0):
     con = law_db.init_db()
     done = 0
     for kind, url in LISTINGS:
-        html = fetch(url).decode("utf-8", "replace")
+        try:
+            html = fetch(url).decode("utf-8", "replace")
+        except Exception as e:
+            print(f"  listing dead, skipping {url}: {type(e).__name__}", file=sys.stderr)
+            continue
         for row in parse_listing(html, url):
             dest = OUT / kind / row["pdf_url"].rsplit("/", 1)[-1]
             dest.parent.mkdir(parents=True, exist_ok=True)
             if not dest.exists():
-                blob = fetch(row["pdf_url"])
+                try:
+                    blob = fetch(row["pdf_url"])
+                except Exception as e:
+                    print(f"  skip dead PDF {row['pdf_url']}: {type(e).__name__}", file=sys.stderr)
+                    continue
                 if not blob.startswith(b"%PDF"):
                     print(f"  skip non-PDF {row['pdf_url']}", file=sys.stderr)
                     continue
