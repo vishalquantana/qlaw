@@ -165,6 +165,8 @@ export async function POST(req) {
         order_no: c.ruling.order_no,
         order_date: c.ruling.order_date,
         pdf_url: c.ruling.pdf_url,
+        pdf_local: `/api/pdf?scope=aar&id=${c.ruling.id}`,
+        page: null, // page-level trace pending re-extraction with page markers
         brief: (c.ruling.brief || "").slice(0, 200),
         excerpt: c.text.slice(0, 300),
       });

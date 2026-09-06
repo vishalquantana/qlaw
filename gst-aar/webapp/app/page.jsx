@@ -1,6 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useRef, useState } from "react";
+import ReactMarkdown from "react-markdown";
 
 const LS_KEY = "gst-chat-conversations-v1";
 
@@ -28,6 +29,7 @@ export default function Home() {
   const [chatInput, setChatInput] = useState("");
   const [chatBusy, setChatBusy] = useState(false);
   const [chat, setChat] = useState([]); // [{role, content, sources?, error?}]
+  const [previewId, setPreviewId] = useState(null); // selected source n for the rail preview
   const chatEndRef = useRef(null);
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(false);
@@ -129,6 +131,7 @@ export default function Home() {
     if (!content || chatBusy) return;
     const userMsg = { role: "user", content };
     const history = [...chatRef.current, userMsg];
+    setPreviewId(null);
     setChat([...history, { role: "assistant", content: "", pending: true }]);
     setChatInput("");
     setChatBusy(true);
@@ -170,6 +173,12 @@ export default function Home() {
   };
 
   const states = data?.states || [];
+
+  // sources rail: latest assistant answer carrying sources
+  const activeMsg = [...chat].reverse().find((m) => m.role === "assistant" && m.sources?.length);
+  const activeSources = activeMsg?.sources || [];
+  const selSource = activeSources.find((s) => s.n === previewId)
+    || activeSources.find((s) => s.cited) || activeSources[0];
 
   return (
     <div className="shell">
@@ -222,6 +231,8 @@ export default function Home() {
 
         {view === "chat" ? (
           <div className="chatwrap">
+            <div className="content3">
+            <div className="chatcol">
             {chat.length === 0 ? (
               <div className="hero">
                 <h1>Ask anything about GST law</h1>
@@ -250,19 +261,8 @@ export default function Home() {
                     <div className={`bubble ${m.role}`}>
                       {m.pending && <span className="muted">retrieving rulings &amp; thinking…</span>}
                       {m.error && <span className="bad">Error: {m.error}</span>}
-                      {!m.pending && !m.error && m.content}
-                      {!m.pending && m.sources?.length > 0 && (
-                        <div className="sources">
-                          <p className="sourceshead">Grounded in</p>
-                          {m.sources.map((s) => (
-                            <div key={s.id} className={`source${s.cited ? " cited" : ""}`}>
-                              <a href={s.pdf_url} target="_blank" rel="noreferrer" className="sourcelink">
-                                {s.cited ? `[${s.n}] ` : ""}{s.applicant} · {s.state} · {s.order_no} ({s.order_date}) ↗
-                              </a>
-                              <div className="sourceexcerpt">{s.excerpt.slice(0, 180)}…</div>
-                            </div>
-                          ))}
-                        </div>
+                      {!m.pending && !m.error && (
+                        <div className="md"><ReactMarkdown>{m.content}</ReactMarkdown></div>
                       )}
                     </div>
                   </div>
@@ -286,6 +286,34 @@ export default function Home() {
               </div>
               <p className="disclaimer">Grounded answers from official sources — always verify against the cited PDF. Not legal advice.</p>
             </div>
+            </div>{/* chatcol */}
+            {activeSources.length > 0 && (
+            <aside className="sourcerail">
+              <p className="railhead">Sources · from your local corpus</p>
+              {activeSources.map((s) => (
+                <button key={s.id} className={`srccard${selSource?.id === s.id ? " sel" : ""}`}
+                  onMouseEnter={() => setPreviewId(s.n)} onClick={() => setPreviewId(s.n)} onFocus={() => setPreviewId(s.n)}>
+                  <span className="srcctitle">{s.cited ? `[${s.n}] ` : ""}{s.applicant}</span>
+                  <span className="srcmeta">{s.state} · {s.order_no} ({s.order_date})</span>
+                </button>
+              ))}
+              {selSource && (
+                <div className="pdfpane">
+                  <p className="railhead">{selSource.cited ? `[${selSource.n}] ` : ""}{selSource.applicant}</p>
+                  <iframe src={`${selSource.pdf_local}#page=${selSource.page || 1}`}
+                    title={`PDF preview: ${selSource.applicant}`}
+                    className="pdfview" sandbox="allow-same-origin" />
+                  <p className="pagenote">
+                    {selSource.page
+                      ? `Opened at cited page ${selSource.page}.`
+                      : "Page-level links coming — re-extraction with page markers is queued."}{" "}
+                    <a href={selSource.pdf_url} target="_blank" rel="noreferrer" className="srclink">official source ↗</a>
+                  </p>
+                </div>
+              )}
+            </aside>
+            )}
+            </div>{/* content3 */}
           </div>
         ) : (
           <div className="browsewrap">
