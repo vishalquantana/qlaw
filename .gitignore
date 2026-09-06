@@ -38,3 +38,5 @@ gst-aar/data/law/
 gst-aar/data/text/
 gst-aar/data/extract_vision_status.jsonl
 gst-aar/data/extract_status.jsonl
+# regenerable dashboard (status_dashboard.py)
+gst-aar/status.html

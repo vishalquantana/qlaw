@@ -78,6 +78,27 @@ extract → embed → serve, automatically.** The registry that does it is
 - **Harvester:** `harvest_wb.py`. Inventory: `staging/west-bengal/inventory.jsonl`.
 - Last verified: 2026-09-06 (PoC 3 PDFs OK, incl. July-2026 notifications).
 
+## State harvesters (all PoC-verified 2026-09-06/07 unless noted)
+
+| State | Portal path | Mechanism | Rows/files mapped | Status |
+|---|---|---|---|---|
+| Haryana | haryanatax.gov.in LoadPartial (partial-view endpoint) | flat table, year buckets, dedupe (82 unique) | 503 rows / 82 files | PoC 5 |
+| Gujarat | commercialtax.gujarat.gov.in circular.do Struts | cookie-jar + POST pagination, `urlOpenList1` download | 939 recs / 32pp | PoC 5 |
+| Rajasthan | finance.rajasthan.gov.in GST postback section (NOT rajtax) | VIEWSTATE postback → ShowResult.aspx | 587-row table | PoC 5 |
+| Delhi | Drupal table, ?page=0..24, key on /dvat/public-notice/ | flat + pager | ~500 rows | PoC 5 |
+| Kerala | 2 static WP tables (KGST + State-Tax) | flat, entry-content scoped | 20 rows | PoC 5 |
+| Karnataka | ASP.NET table, direct pdf hrefs | flat | 57 files | PoC 5 |
+| Uttar Pradesh | hub → 10 year pages, EN+HI twins (quote spaces!) | flat crawl newest-first | ~500 files | PoC 5 |
+| Tamil Nadu | FileOptionServlet JSON + DownloadServlet?fileId= | JSON API over JS page | 71 files | PoC 5 |
+| Maharashtra | mahagst.gov.in ?page=N table (~70 rows/pg, 12+ pgs) | flat + pager | ~840 rows | PoC 9 |
+| Assam | static bgcolor rows → ../GST/FORMATS/*.pdf | flat (slow files: curl fallback) | 77 files | PoC 5 |
+| Bihar | Struts session+POST, needs RapidSSL cert | **BLOCKED**: "No Record Found" all variants — likely login-walled; alt: e-Gazette | — | blocked |
+| Punjab | no static listing (JS-menu CMS) | substitutes: /attachments/*GST*.pdf updates | 5 files | partial |
+| Chhattisgarh | Circ1 year-hub + GSTAT.htm (rich) | flat sweep, LE YR1 cert | 42 files | PoC 5 |
+
+Shared TLS pattern: NIC/LE/Entrust hosts omit intermediates → `law/certs/*.pem` + `_https.py`
+(strict verification kept). Full pulls next, in harvest order above.
+
 ## State portals (catalog: `staging/state-gst-portals.json`)
 
 - Harvest order: West Bengal✅ → Odisha → Haryana → Gujarat → Delhi → Karnataka →
