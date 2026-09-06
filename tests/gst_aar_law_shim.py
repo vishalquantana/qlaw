@@ -36,3 +36,15 @@ _el_spec = importlib.util.spec_from_file_location(
     Path(__file__).parent.parent / "gst-aar" / "law" / "embed_law.py")
 embed_law = importlib.util.module_from_spec(_el_spec)
 _el_spec.loader.exec_module(embed_law)
+
+_lo_spec = importlib.util.spec_from_file_location(
+    "law_ontology",
+    Path(__file__).parent.parent / "gst-aar" / "law" / "law_ontology.py")
+law_ontology = importlib.util.module_from_spec(_lo_spec)
+_lo_spec.loader.exec_module(law_ontology)
+
+_sd_spec = importlib.util.spec_from_file_location(
+    "status_dashboard",
+    Path(__file__).parent.parent / "gst-aar" / "law" / "status_dashboard.py")
+status_dashboard = importlib.util.module_from_spec(_sd_spec)
+_sd_spec.loader.exec_module(status_dashboard)
