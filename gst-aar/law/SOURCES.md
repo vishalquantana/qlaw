@@ -68,9 +68,19 @@ extract → embed → serve, automatically.** The registry that does it is
 - Order search needs session CSRF + image CAPTCHA; `POST /get-documents` per doc-id.
   efiling login-walled. 4 notices held; full order pull needs assisted CAPTCHA session.
 
+## West Bengal — Commercial Taxes (`comtax.wb.gov.in`)
+
+- **Index:** single static table `GST/GST_Notifications/gst_notifications_state.html`
+  (~460 rows 2017→2026, direct relative PDF links incl. `../GST_Acts_Rules/` bonus
+  WBGST Act/Rules/ordinances).
+- **Download mechanism:** flat crawl with relative-URL resolution. TLS: server needs
+  unsafe legacy renegotiation → shared `_https.py` helper (never `verify=False`).
+- **Harvester:** `harvest_wb.py`. Inventory: `staging/west-bengal/inventory.jsonl`.
+- Last verified: 2026-09-06 (PoC 3 PDFs OK, incl. July-2026 notifications).
+
 ## State portals (catalog: `staging/state-gst-portals.json`)
 
-- Harvest order: West Bengal → Odisha → Haryana → Gujarat → Delhi → Karnataka →
+- Harvest order: West Bengal✅ → Odisha → Haryana → Gujarat → Delhi → Karnataka →
   Kerala → Assam → UP → TN → Rajasthan → (Punjab, Bihar, Telangana✅done, Chhattisgarh last).
 - Maharashtra verified harvestable (`mahagst.gov.in`, `?page=N`, `/public/uploads/mvatservices/`).
 - Each state gets a section here + a harvester (or a `check_sources.py` entry) as it lands.
