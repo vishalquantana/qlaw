@@ -1,0 +1,51 @@
+# 50-question stress set (business / lawyer / GST-official). Expected sources noted for grading.
+B1|business|What GST rate applies to restaurant services and can ITC be claimed?|NN 46/2017-CT(R); 23rd Council minutes
+B2|business|When was GSTR-3B due for Oct 2024 in Maharashtra?|NN 26/2024-CT
+B3|business|Is late fee due if I file GSTR-9 but not GSTR-9C?|Cir 246/03/2025
+B4|business|What HSN covers ready-to-eat popcorn sold retail?|AAR Agro Tech (expected)
+B5|business|Do I need a separate GST registration in every state I sell from?|AAR Sri Enterprises pattern
+B6|business|Is GST audit still required for GSTR-9C above Rs.5 crore turnover?|Cir 246/03/2025 background (s.44/s.35)
+B7|business|Can I claim ITC on employee canteen expenses?|AAR Elentec/Cadila pattern
+B8|business|What is the margin scheme for second-hand goods dealers?|Rule 32(5); AAR Astaguru pattern
+B9|business|Is hostel accommodation below Rs.1000/day exempt?|Entry 12/14, Notification 12/2017
+B10|business|Do I need DIN on a GST portal-generated notice?|Cir 249/06/2025
+B11|business|What is e-invoicing threshold and does it apply to B2C with QR code?|NN 13/2020-CT; AAR e-invoicing pattern
+B12|business|Is leather job work taxed at 5%?|Sl.26 Notification 11/2017
+B13|business|Can unregistered persons get refunds of ITC?|s.54 concept
+B14|business|What happens if my supplier doesn't file GSTR-1 — can I still take ITC?|s.16(2)(aa); Rule 36(4) history
+B15|business|Is director's remuneration liable to GST under RCM?|common business query
+L1|lawyer|Can a s.83 provisional attachment be renewed after a year?|2025INSC983
+L2|lawyer|Do summons u/s.70 bar parallel proceedings under s.6(2)(b)?|2025INSC982
+L3|lawyer|What did the Supreme Court hold in Mohit Minerals on ocean freight GST?|NOT HELD — must abstain
+L4|lawyer|Can ITC be claimed on construction of immovable property per Safari Retreats?|NOT HELD — must abstain
+L5|lawyer|What is the time limit for adjudication of SCNs under s.73 vs s.74?|CGST Act ss.73/74 (section text missing — partial expected)
+L6|lawyer|Can cancellation of registration apply retrospectively?|case-law dependent — partial expected
+L7|lawyer|Who adjudicates multi-noticee DGGI show cause notices?|Cir 239/33/2024 + NN 31/2024
+L8|lawyer|What is the pre-deposit for GSTAT appeals?|s.112 + GSTAT Procedure Rules (partial: rules text held?)
+L9|lawyer|Does s.128A waiver apply where only interest/penalty is disputed?|Instruction 02/2025 + NN 11/2025-CT
+L10|lawyer|Can EOU export on payment of IGST and claim refund under Rule 96(10)?|AAR Sivanthi Joe pattern
+L11|lawyer|Is software a good or service for GST (8523 vs 9984)?|AAR Keysight pattern
+L12|lawyer|Are university affiliation fees exempt under Sr.66?|AAR Kota pattern
+L13|lawyer|Whatalk is the 'first-to-act' rule when Centre and State both investigate?|2025INSC982 guidelines
+L14|lawyer|Can High Courts entertain GST writs now that GSTAT is functional?|GSTAT operational context (partial)
+L15|lawyer|Is arbitration compensation an actionable claim under Schedule III?|AAR Bakhale pattern
+L16|lawyer|What is the limitation for GSTAT appeals against pre-May-2026 orders?|GSTAT due-date notification 30-06-2026
+L17|lawyer|Who is the reviewing authority for Common Adjudicating Authority orders?|Cir 250/07/2025
+L18|lawyer|Is TDS credit available to deductees automatically via GSTR-7?|common legal query (partial expected)
+L19|lawyer|Does detention u/s.129 require mens rea for minor documentation lapses?|case-law dependent (partial expected)
+L20|lawyer|Can ITC be denied solely for supplier non-compliance after 2022 amendments?|s.16(2)(aa) evolution (partial expected)
+O1|official|Which Commissionerate adjudicates a DGGI notice with noticees in 3 states?|Cir 239/33/2024 Table (highest-demand rule)
+O2|official|How do I verify a taxpayer document — DIN or RFN?|Cir 249/06/2025
+O3|official|What is the review/revision/appeal chain for a CAA order?|Cir 250/07/2025
+O4|official|Which GSTAT bench hears a Category-II case in Madurai and on what days?|GSTAT Roster Order 4/PB/2026
+O5|official|What changed in Rule 164 for s.128A split-period demands?|NN 11/2025-CT
+O6|official|When did GSTR-3B extensions apply for Manipur Oct 2024?|NN 29/2024-CT
+O7|official|What categories of cases do GSTAT benches hear under Rule 123?|Roster order + Procedure Rules
+O8|official|How should anti-profiteering methodology work after CCI took over from NAA?|PB Anti-profiteering Rules 2025 lineage
+O9|official|What did the 23rd Council meeting decide on restaurant rates?|23rd minutes
+O10|official|What RNR range did the CEA report recommend?|CEA RNR report (figure-level — partial expected)
+O11|official|Which notifications extended Oct-2024 GSTR-3B for which states?|NN 26/2024 + 29/2024 + 30/2024 synthesis
+O12|official|What is the composition scheme threshold and rate for restaurants?|NN rate series (partial expected)
+O13|official|How are conflicting AARs from two states resolved?|NAAAR/GSTAT Principal Bench (partial expected)
+O14|official|What e-invoicing QR obligations apply on B2C invoices over Rs.500 crore turnover?|NN 14/2020-CT lineage (partial expected)
+O15|official|What did Council deliberate on compensation cess extension beyond 2022?|Council minutes (retrieval test)
