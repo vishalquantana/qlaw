@@ -2,6 +2,18 @@
 
 import { useCallback, useEffect, useRef, useState } from "react";
 
+const LS_KEY = "gst-chat-conversations-v1";
+
+function loadConversations() {
+  try {
+    const raw = localStorage.getItem(LS_KEY);
+    const arr = raw ? JSON.parse(raw) : [];
+    return Array.isArray(arr) ? arr : [];
+  } catch {
+    return [];
+  }
+}
+
 export default function Home() {
   const [q, setQ] = useState("");
   const [state, setState] = useState("");
@@ -9,7 +21,10 @@ export default function Home() {
   const [to, setTo] = useState("");
   const [hasText, setHasText] = useState(false);
   const [mode, setMode] = useState("keyword"); // keyword | semantic
-  const [askOpen, setAskOpen] = useState(false);
+  const [view, setView] = useState("chat"); // chat (hero) | browse
+  const [sidebarOpen, setSidebarOpen] = useState(true);
+  const [conversations, setConversations] = useState([]);
+  const [activeId, setActiveId] = useState(null);
   const [chatInput, setChatInput] = useState("");
   const [chatBusy, setChatBusy] = useState(false);
   const [chat, setChat] = useState([]); // [{role, content, sources?, error?}]
@@ -20,6 +35,50 @@ export default function Home() {
   const [selected, setSelected] = useState(null);
   const [offset, setOffset] = useState(0);
   const firstLoad = useRef(true);
+  const chatRef = useRef(chat);
+  chatRef.current = chat;
+  const activeRef = useRef(activeId);
+  activeRef.current = activeId;
+
+  // persist active conversation on every change
+  useEffect(() => {
+    if (chat.length === 0) return;
+    setConversations((prev) => {
+      const id = activeRef.current || `c-${Date.now()}`;
+      if (!activeRef.current) setActiveId(id);
+      const title = chat.find((m) => m.role === "user")?.content.slice(0, 60) || "New chat";
+      const next = [{ id, title, updatedAt: Date.now(), messages: chat },
+        ...prev.filter((c) => c.id !== id)].slice(0, 50);
+      try { localStorage.setItem(LS_KEY, JSON.stringify(next)); } catch { /* full — skip */ }
+      return next;
+    });
+  }, [chat]);
+
+  const openConversation = (id) => {
+    const c = conversations.find((x) => x.id === id);
+    if (!c) return;
+    setActiveId(id);
+    setChat(c.messages);
+    setView("chat");
+  };
+
+  const newChat = () => {
+    setActiveId(null);
+    setChat([]);
+    setView("chat");
+  };
+
+  const deleteConversation = (id) => {
+    setConversations((prev) => {
+      const next = prev.filter((c) => c.id !== id);
+      try { localStorage.setItem(LS_KEY, JSON.stringify(next)); } catch { /* skip */ }
+      return next;
+    });
+    if (activeRef.current === id) {
+      setActiveId(null);
+      setChat([]);
+    }
+  };
 
   const run = useCallback(
     async (off = 0) => {
@@ -69,7 +128,7 @@ export default function Home() {
     const content = (text ?? chatInput).trim();
     if (!content || chatBusy) return;
     const userMsg = { role: "user", content };
-    const history = [...chat, userMsg];
+    const history = [...chatRef.current, userMsg];
     setChat([...history, { role: "assistant", content: "", pending: true }]);
     setChatInput("");
     setChatBusy(true);
@@ -93,11 +152,12 @@ export default function Home() {
       setChatBusy(false);
       setTimeout(() => chatEndRef.current?.scrollIntoView({ behavior: "smooth" }), 80);
     }
-  }, [chat, chatBusy, chatInput]);
+  }, [chatBusy, chatInput]);
 
   useEffect(() => {
     if (firstLoad.current) {
       firstLoad.current = false;
+      setConversations(loadConversations());
       run(0);
     }
   }, [run]);
@@ -112,321 +172,268 @@ export default function Home() {
   const states = data?.states || [];
 
   return (
-    <div style={{ minHeight: "100vh", padding: "0 20px 60px" }}>
-      <div style={{ maxWidth: 980, margin: "0 auto" }}>
+    <div className="shell">
+      {/* ── sidebar ────────────────────────────── */}
+      <aside className={`sidebar${sidebarOpen ? " open" : ""}`}>
+        <button onClick={newChat} className="newchat">
+          <span style={{ fontSize: 15 }}>＋</span> New chat
+        </button>
+        <div className="convlist">
+          {conversations.length === 0 && (
+            <p className="sidehint">Past conversations will appear here.</p>
+          )}
+          {conversations.map((c) => (
+            <div key={c.id}
+              onClick={() => openConversation(c.id)}
+              className={`conv${c.id === activeId ? " active" : ""}`}>
+              <span className="convtitle">{c.title}</span>
+              <button
+                onClick={(e) => { e.stopPropagation(); deleteConversation(c.id); }}
+                className="convdel" aria-label="Delete conversation">✕</button>
+            </div>
+          ))}
+        </div>
+        <div className="sidefoot">
+          <button onClick={() => setView(view === "chat" ? "browse" : "chat")} className="sidelink">
+            {view === "chat" ? "⌕ Browse rulings" : "✦ Back to chat"}
+          </button>
+          {data?.stats && (
+            <p className="sidestats">
+              <span className="tabular">{data.stats.total.toLocaleString()}</span> rulings ·{" "}
+              <span className="tabular">{data.stats.with_text.toLocaleString()}</span> full text
+            </p>
+          )}
+        </div>
+      </aside>
+      {sidebarOpen && <div className="scrim" onClick={() => setSidebarOpen(false)} />}
 
-        {/* ── header ─────────────────────────────── */}
-        <header style={{ display: "flex", alignItems: "center", justifyContent: "space-between", padding: "26px 0 0" }}>
-          <div style={{ display: "flex", alignItems: "center", gap: 12 }}>
-            <div style={{
-              width: 38, height: 38, borderRadius: 10, display: "flex", alignItems: "center", justifyContent: "center",
-              background: "linear-gradient(135deg, #4355d8, #7b8cf0)", color: "#fff", fontWeight: 800, fontSize: 16,
-              boxShadow: "var(--shadow-md)", letterSpacing: -0.5,
-            }}>§</div>
+      {/* ── main ───────────────────────────────── */}
+      <div className="main">
+        <header className="topbar">
+          <button onClick={() => setSidebarOpen(!sidebarOpen)} className="iconbtn" aria-label="Toggle sidebar">☰</button>
+          <div className="brand">
+            <div className="logo">§</div>
             <div>
-              <div style={{ fontWeight: 700, fontSize: 16.5, letterSpacing: -0.3 }}>GST AAR Search</div>
-              <div style={{ color: "var(--muted)", fontSize: 12 }}>Indian advance rulings · rules-as-code</div>
+              <div className="brandname">GST Legal Assistant</div>
+              <div className="brandsub">rulings · statutes · Council minutes — grounded answers</div>
             </div>
           </div>
-          {data?.stats && (
-            <div style={{ display: "flex", gap: 8 }}>
-              <Chip>{data.stats.total.toLocaleString()} rulings</Chip>
-              <Chip tone="good">{data.stats.with_text.toLocaleString()} full text</Chip>
-            </div>
-          )}
         </header>
 
-        {/* ── search panel ───────────────────────── */}
-        <div className="card" style={{
-          background: "var(--card)", border: "1px solid var(--border)", borderRadius: 16,
-          padding: 18, marginTop: 22, boxShadow: "var(--shadow-md)",
-        }}>
-          <div style={{ display: "flex", gap: 10 }}>
-            <div style={{ flex: 1, position: "relative" }}>
-              <span style={{ position: "absolute", left: 14, top: "50%", transform: "translateY(-50%)", color: "var(--muted)", fontSize: 15 }}>⌕</span>
-              <input
-                value={q}
-                onChange={(e) => setQ(e.target.value)}
-                onKeyDown={(e) => e.key === "Enter" && run(0)}
-                placeholder={mode === "semantic"
-                  ? "Describe what you're looking for — meaning matters, not exact words…"
-                  : "Search rulings — e.g. e-invoicing, HSN 9984, job work…"}
-                style={{
-                  width: "100%", background: "var(--card2)", border: "1px solid var(--border)", borderRadius: 10,
-                  padding: "12px 14px 12px 38px", color: "var(--text)", fontSize: 15, outline: "none",
-                  transition: "border-color .15s",
-                }}
-              />
-            </div>
-            <button onClick={() => run(0)} disabled={loading} style={{
-              background: "var(--accent)", color: "#fff", border: "none", borderRadius: 10,
-              padding: "0 26px", fontSize: 14.5, fontWeight: 600, cursor: "pointer", boxShadow: "var(--shadow-sm)",
-            }}>
-              {loading ? "Searching…" : "Search"}
-            </button>
-          </div>
-
-          <div style={{ display: "flex", gap: 10, marginTop: 12, flexWrap: "wrap", alignItems: "center" }}>
-            {/* mode segmented control */}
-            <div style={{
-              display: "flex", background: "var(--card2)", border: "1px solid var(--border)",
-              borderRadius: 9, padding: 3, gap: 2,
-            }}>
-              {[["keyword", "Keyword"], ["semantic", "Semantic"]].map(([m, label]) => (
-                <button key={m} onClick={() => setMode(m)} style={{
-                  background: mode === m ? "#fff" : "transparent",
-                  color: mode === m ? "var(--accent)" : "var(--muted)",
-                  border: mode === m ? "1px solid var(--border)" : "1px solid transparent",
-                  borderRadius: 7, padding: "5px 13px", fontSize: 12.5, cursor: "pointer",
-                  fontWeight: mode === m ? 600 : 500, boxShadow: mode === m ? "var(--shadow-sm)" : "none",
-                }}>
-                  {label}
-                </button>
-              ))}
-            </div>
-
-            {mode === "keyword" && (
-              <>
-                <select value={state} onChange={(e) => setState(e.target.value)} style={filterStyle}>
-                  <option value="">All states</option>
-                  {states.map((s) => <option key={s} value={s}>{s}</option>)}
-                </select>
-                <input type="date" value={from} onChange={(e) => setFrom(e.target.value)} style={filterStyle} />
-                <span style={{ color: "var(--muted)", fontSize: 12.5 }}>to</span>
-                <input type="date" value={to} onChange={(e) => setTo(e.target.value)} style={filterStyle} />
-                <label style={{ display: "flex", alignItems: "center", gap: 6, color: "var(--muted)", fontSize: 13, cursor: "pointer", userSelect: "none" }}>
-                  <input type="checkbox" checked={hasText} onChange={(e) => setHasText(e.target.checked)} />
-                  full text only
-                </label>
-              </>
-            )}
-
-            {(q || state || from || to || hasText) && (
-              <button onClick={() => { setQ(""); setState(""); setFrom(""); setTo(""); setHasText(false); }} style={linkBtn}>
-                reset
-              </button>
-            )}
-
-            <button onClick={() => setAskOpen(!askOpen)} style={{
-              marginLeft: "auto", display: "flex", alignItems: "center", gap: 6,
-              background: askOpen ? "var(--accent-soft)" : "#fff",
-              border: `1px solid ${askOpen ? "var(--accent)" : "var(--border)"}`,
-              borderRadius: 9, padding: "6px 14px", color: askOpen ? "var(--accent)" : "var(--text)",
-              fontSize: 12.5, fontWeight: 600, cursor: "pointer",
-            }}>
-              ✦ Ask AI
-            </button>
-          </div>
-
-          {askOpen && (
-            <div style={{
-              marginTop: 12, background: "#fff", border: "1px solid #d5daf6",
-              borderRadius: 14, padding: 16, boxShadow: "var(--shadow-sm)",
-            }}>
-              <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 10 }}>
-                <div style={{ display: "flex", alignItems: "center", gap: 7 }}>
-                  <span style={{ fontSize: 15 }}>✦</span>
-                  <strong style={{ fontSize: 13.5 }}>Ask the corpus</strong>
-                  <span style={{ color: "var(--muted)", fontSize: 11.5 }}>
-                    grounded in retrieved rulings · every claim cited to its official PDF
-                  </span>
-                </div>
-                {chat.length > 0 && (
-                  <button onClick={() => setChat([])} style={linkBtn}>clear conversation</button>
-                )}
-              </div>
-
-              {/* conversation thread */}
-              {chat.length > 0 && (
-                <div style={{ maxHeight: 420, overflowY: "auto", display: "grid", gap: 10, padding: "2px 2px 8px" }}>
-                  {chat.map((m, i) => (
-                    <div key={i} style={{ display: "flex", justifyContent: m.role === "user" ? "flex-end" : "flex-start" }}>
-                      <div style={{
-                        maxWidth: "88%", borderRadius: 14, padding: "11px 14px", fontSize: 13.5, lineHeight: 1.65,
-                        whiteSpace: "pre-wrap",
-                        ...(m.role === "user"
-                          ? { background: "var(--accent)", color: "#fff", borderBottomRightRadius: 4 }
-                          : { background: "var(--card2)", border: "1px solid var(--border)", color: "var(--text)", borderBottomLeftRadius: 4 }),
-                      }}>
-                        {m.pending && <span style={{ color: "var(--muted)" }}>retrieving rulings & thinking…</span>}
-                        {m.error && <span style={{ color: "var(--bad)" }}>Error: {m.error}</span>}
-                        {!m.pending && !m.error && m.content}
-
-                        {!m.pending && m.sources?.length > 0 && (
-                          <div style={{ marginTop: 10, borderTop: "1px solid var(--border)", paddingTop: 8 }}>
-                            <p style={{ color: "var(--muted)", fontSize: 10.5, fontWeight: 700, textTransform: "uppercase", letterSpacing: 0.6, margin: "0 0 6px" }}>
-                              Grounded in
-                            </p>
-                            {m.sources.map((s) => (
-                              <div key={s.id} style={{ marginBottom: 7, background: s.cited ? "var(--accent-soft)" : "transparent", border: s.cited ? "1px solid #d5daf6" : "1px solid transparent", borderRadius: 8, padding: s.cited ? "7px 10px" : "2px 10px" }}>
-                                <a href={s.pdf_url} target="_blank" rel="noreferrer"
-                                  style={{ fontSize: 12.5, color: "var(--accent)", fontWeight: s.cited ? 600 : 500, textDecoration: "none" }}>
-                                  {s.cited ? `[${s.n}] ` : ""}{s.applicant} · {s.state} · {s.order_no} ({s.order_date}) ↗
-                                </a>
-                                <div style={{ color: "var(--muted)", fontSize: 11.5, marginTop: 2, lineHeight: 1.5 }}>
-                                  {s.excerpt.slice(0, 180)}…
-                                </div>
-                              </div>
-                            ))}
-                          </div>
-                        )}
-                      </div>
-                    </div>
-                  ))}
-                  <div ref={chatEndRef} />
-                </div>
-              )}
-
-              {/* suggested starters when empty */}
-              {chat.length === 0 && (
-                <div style={{ display: "flex", gap: 8, flexWrap: "wrap", marginBottom: 10 }}>
+        {view === "chat" ? (
+          <div className="chatwrap">
+            {chat.length === 0 ? (
+              <div className="hero">
+                <h1>Ask anything about GST law</h1>
+                <p className="herosub">
+                  grounded in retrieved rulings, statutes &amp; Council minutes · every claim cited to its official PDF
+                </p>
+                <div className="starters">
                   {[
-                    "What did rulings say about e-invoicing for education services?",
-                    "GST rate for job work on handicraft goods?",
-                    "Which rulings discuss ITC for ready mix concrete?",
-                  ].map((s) => (
-                    <button key={s} onClick={() => sendChat(s)} style={{
-                      background: "var(--card2)", border: "1px solid var(--border)", borderRadius: 20,
-                      padding: "6px 13px", fontSize: 12, color: "var(--muted)", cursor: "pointer",
-                    }}>
+                    "When was GSTR-3B due for Oct 2024 in Maharashtra?",
+                    "Is late fee due if I file GSTR-9 but not GSTR-9C?",
+                    "Can a s.83 attachment be renewed after a year?",
+                    "Do summons u/s.70 bar parallel proceedings?",
+                    "Why did the Council keep restaurant services at 5% without ITC?",
+                    "What rate did the CEA propose as revenue-neutral?",
+                  ].map((s, i) => (
+                    <button key={s} onClick={() => sendChat(s)} className="starter" style={{ animationDelay: `${i * 70}ms` }}>
                       {s}
                     </button>
                   ))}
                 </div>
-              )}
+              </div>
+            ) : (
+              <div className="thread">
+                {chat.map((m, i) => (
+                  <div key={i} className={`msgrow ${m.role}`}>
+                    <div className={`bubble ${m.role}`}>
+                      {m.pending && <span className="muted">retrieving rulings &amp; thinking…</span>}
+                      {m.error && <span className="bad">Error: {m.error}</span>}
+                      {!m.pending && !m.error && m.content}
+                      {!m.pending && m.sources?.length > 0 && (
+                        <div className="sources">
+                          <p className="sourceshead">Grounded in</p>
+                          {m.sources.map((s) => (
+                            <div key={s.id} className={`source${s.cited ? " cited" : ""}`}>
+                              <a href={s.pdf_url} target="_blank" rel="noreferrer" className="sourcelink">
+                                {s.cited ? `[${s.n}] ` : ""}{s.applicant} · {s.state} · {s.order_no} ({s.order_date}) ↗
+                              </a>
+                              <div className="sourceexcerpt">{s.excerpt.slice(0, 180)}…</div>
+                            </div>
+                          ))}
+                        </div>
+                      )}
+                    </div>
+                  </div>
+                ))}
+                <div ref={chatEndRef} />
+              </div>
+            )}
 
-              {/* input */}
-              <div style={{ display: "flex", gap: 8 }}>
+            <div className="composer">
+              {chat.length > 0 && (
+                <button onClick={newChat} style={linkBtn} className="clearbtn">+ new chat</button>
+              )}
+              <div className="composerrow">
                 <input value={chatInput} onChange={(e) => setChatInput(e.target.value)}
                   onKeyDown={(e) => e.key === "Enter" && sendChat()}
-                  placeholder="Ask a question about the rulings…"
-                  style={{ flex: 1, background: "var(--card2)", border: "1px solid var(--border)", borderRadius: 10, padding: "10px 13px", color: "var(--text)", fontSize: 14, outline: "none" }} />
-                <button onClick={() => sendChat()} disabled={chatBusy || !chatInput.trim()} style={{
-                  background: "var(--accent)", color: "#fff", border: "none", borderRadius: 10,
-                  padding: "10px 20px", fontSize: 13.5, fontWeight: 600, cursor: "pointer", opacity: chatBusy || !chatInput.trim() ? 0.6 : 1,
-                }}>
+                  placeholder="Ask about rates, ITC, refunds, sections, cases…"
+                  className="composerinput" />
+                <button onClick={() => sendChat()} disabled={chatBusy || !chatInput.trim()} className="sendbtn">
                   {chatBusy ? "…" : "Send"}
                 </button>
               </div>
+              <p className="disclaimer">Grounded answers from official sources — always verify against the cited PDF. Not legal advice.</p>
             </div>
-          )}
-        </div>
-
-        {error && <p style={{ color: "var(--bad)", marginTop: 14, fontSize: 13.5 }}>Error: {error}</p>}
-
-        {data && (
-          <>
-            <p style={{ color: "var(--muted)", fontSize: 13, margin: "18px 2px 10px" }}>
-              <strong style={{ color: "var(--text)", fontWeight: 600 }}>{data.total.toLocaleString()}</strong> result{data.total === 1 ? "" : "s"}
-              {q ? (data.semantic ? " · ranked by semantic similarity" : " · ranked by relevance (BM25)") : " · newest first"}
-            </p>
-
-            <div style={{ display: "grid", gap: 10 }}>
-              {data.rows.map((r) => (
-                <div key={r.id} onClick={() => openDoc(r.id)} className="result-card"
-                  style={{
-                    background: "var(--card)", border: "1px solid var(--border)", borderRadius: 13,
-                    padding: "15px 18px", cursor: "pointer", transition: "box-shadow .15s, transform .15s, border-color .15s",
-                  }}>
-                  <div style={{ display: "flex", justifyContent: "space-between", gap: 12, flexWrap: "wrap" }}>
-                    <strong style={{ fontSize: 15, letterSpacing: -0.2 }}>{r.applicant}</strong>
-                    <div style={{ display: "flex", gap: 8, alignItems: "center" }}>
-                      {data.semantic && r.sim != null && <Chip tone="accent">sim {r.sim.toFixed(3)}</Chip>}
-                      <span style={{ color: "var(--muted)", fontSize: 12.5 }}>{r.order_date || "date n/a"}</span>
-                    </div>
-                  </div>
-                  <div style={{ color: "var(--muted)", fontSize: 12.5, marginTop: 3, display: "flex", gap: 6, flexWrap: "wrap", alignItems: "center" }}>
-                    <span>{r.state}</span>·<span>{r.order_no || "order no. n/a"}</span>
-                    {r.category && (<>·<span>{r.category}</span></>)}
-                    <span style={{
-                      padding: "1.5px 9px", borderRadius: 20, fontSize: 11, fontWeight: 600,
-                      background: r.txt_file ? "var(--good-soft)" : "var(--warn-soft)",
-                      color: r.txt_file ? "var(--good)" : "var(--warn)",
-                    }}>
-                      {r.txt_file ? "full text" : "metadata only"}
-                    </span>
-                    {r.ontology?.outcome && <OutcomeBadge outcome={r.ontology.outcome} />}
-                    {r.ontology?.tags?.map((t) => <Chip key={t} tone="accent">{t}</Chip>)}
-                    {r.ontology?.hsn && (
-                      <Chip tone="default">
-                        HSN {r.ontology.hsn}{r.ontology.rate_held ? ` · ${r.ontology.rate_held}` : ""}
-                      </Chip>
-                    )}
-                  </div>
-                  <p style={{ color: "#3f4654", fontSize: 13.5, margin: "8px 0 0", lineHeight: 1.6 }}>
-                    {(r.body_snippet && q ? r.body_snippet : r.brief || "").slice(0, 340).replaceAll("[[", "").replaceAll("]]", "")}
-                    {(r.body_snippet || r.brief || "").length > 340 ? "…" : ""}
-                  </p>
-                  <a href={r.pdf_url} target="_blank" rel="noreferrer" onClick={(e) => e.stopPropagation()}
-                    style={{ color: "var(--accent)", fontSize: 12, textDecoration: "none", fontWeight: 500, wordBreak: "break-all" }}>
-                    official source ↗
-                  </a>
+          </div>
+        ) : (
+          <div className="browsewrap">
+            <div className="card searchcard">
+              <div className="searchrow">
+                <div className="searchbox">
+                  <span className="searchicon">⌕</span>
+                  <input
+                    value={q}
+                    onChange={(e) => setQ(e.target.value)}
+                    onKeyDown={(e) => e.key === "Enter" && run(0)}
+                    placeholder={mode === "semantic"
+                      ? "Describe what you're looking for — meaning matters, not exact words…"
+                      : "Search rulings — e.g. e-invoicing, HSN 9984, job work…"}
+                    className="searchinput"
+                  />
                 </div>
-              ))}
-              {!data.rows.length && (
-                <div style={{ textAlign: "center", padding: "40px 0", color: "var(--muted)" }}>
-                  <div style={{ fontSize: 30, marginBottom: 8 }}>⌕</div>
-                  no results — try broader terms or clear filters
-                </div>
-              )}
-            </div>
-
-            {data.total > 20 && (
-              <div style={{ display: "flex", gap: 14, justifyContent: "center", margin: "22px 0", alignItems: "center" }}>
-                <button disabled={offset === 0} onClick={() => run(Math.max(0, offset - 20))} style={pageBtn}>← Prev</button>
-                <span style={{ color: "var(--muted)", fontSize: 13 }}>
-                  {offset + 1}–{Math.min(offset + 20, data.total)} of {data.total.toLocaleString()}
-                </span>
-                <button disabled={offset + 20 >= data.total} onClick={() => run(offset + 20)} style={pageBtn}>Next →</button>
+                <button onClick={() => run(0)} disabled={loading} className="searchbtn">
+                  {loading ? "Searching…" : "Search"}
+                </button>
               </div>
+
+              <div className="filters">
+                <div className="modeseg">
+                  {[["keyword", "Keyword"], ["semantic", "Semantic"]].map(([m, label]) => (
+                    <button key={m} onClick={() => setMode(m)} className={`modesegbtn${mode === m ? " on" : ""}`}>
+                      {label}
+                    </button>
+                  ))}
+                </div>
+
+                {mode === "keyword" && (
+                  <>
+                    <select value={state} onChange={(e) => setState(e.target.value)} style={filterStyle}>
+                      <option value="">All states</option>
+                      {states.map((s) => <option key={s} value={s}>{s}</option>)}
+                    </select>
+                    <input type="date" value={from} onChange={(e) => setFrom(e.target.value)} style={filterStyle} />
+                    <span className="muted small">to</span>
+                    <input type="date" value={to} onChange={(e) => setTo(e.target.value)} style={filterStyle} />
+                    <label className="checklabel">
+                      <input type="checkbox" checked={hasText} onChange={(e) => setHasText(e.target.checked)} />
+                      full text only
+                    </label>
+                  </>
+                )}
+
+                {(q || state || from || to || hasText) && (
+                  <button onClick={() => { setQ(""); setState(""); setFrom(""); setTo(""); setHasText(false); }} style={linkBtn}>
+                    reset
+                  </button>
+                )}
+              </div>
+            </div>
+
+            {error && <p className="bad" style={{ marginTop: 14, fontSize: 13.5 }}>Error: {error}</p>}
+
+            {data && (
+              <>
+                <p className="resultcount">
+                  <strong className="tabular">{data.total.toLocaleString()}</strong> result{data.total === 1 ? "" : "s"}
+                  {q ? (data.semantic ? " · ranked by semantic similarity" : " · ranked by relevance (BM25)") : " · newest first"}
+                </p>
+
+                <div className="results">
+                  {data.rows.map((r) => (
+                    <div key={r.id} onClick={() => openDoc(r.id)} className="result-card">
+                      <div className="resulthead">
+                        <strong className="resulttitle">{r.applicant}</strong>
+                        <div className="resultmeta-right">
+                          {data.semantic && r.sim != null && <Chip tone="accent">sim {r.sim.toFixed(3)}</Chip>}
+                          <span className="muted small">{r.order_date || "date n/a"}</span>
+                        </div>
+                      </div>
+                      <div className="resultmeta">
+                        <span>{r.state}</span>·<span>{r.order_no || "order no. n/a"}</span>
+                        {r.category && (<>·<span>{r.category}</span></>)}
+                        <span className={`pill ${r.txt_file ? "good" : "warn"}`}>
+                          {r.txt_file ? "full text" : "metadata only"}
+                        </span>
+                        {r.ontology?.outcome && <OutcomeBadge outcome={r.ontology.outcome} />}
+                        {r.ontology?.tags?.map((t) => <Chip key={t} tone="accent">{t}</Chip>)}
+                        {r.ontology?.hsn && (
+                          <Chip tone="default">
+                            HSN {r.ontology.hsn}{r.ontology.rate_held ? ` · ${r.ontology.rate_held}` : ""}
+                          </Chip>
+                        )}
+                      </div>
+                      <p className="snippet">
+                        {(r.body_snippet && q ? r.body_snippet : r.brief || "").slice(0, 340).replaceAll("[[", "").replaceAll("]]", "")}
+                        {(r.body_snippet || r.brief || "").length > 340 ? "…" : ""}
+                      </p>
+                      <a href={r.pdf_url} target="_blank" rel="noreferrer" onClick={(e) => e.stopPropagation()} className="srclink">
+                        official source ↗
+                      </a>
+                    </div>
+                  ))}
+                  {!data.rows.length && (
+                    <div className="empty">
+                      <div style={{ fontSize: 30, marginBottom: 8 }}>⌕</div>
+                      no results — try broader terms or clear filters
+                    </div>
+                  )}
+                </div>
+
+                {data.total > 20 && (
+                  <div className="pager">
+                    <button disabled={offset === 0} onClick={() => run(Math.max(0, offset - 20))} style={pageBtn}>← Prev</button>
+                    <span className="muted small tabular">
+                      {offset + 1}–{Math.min(offset + 20, data.total)} of {data.total.toLocaleString()}
+                    </span>
+                    <button disabled={offset + 20 >= data.total} onClick={() => run(offset + 20)} style={pageBtn}>Next →</button>
+                  </div>
+                )}
+              </>
             )}
-          </>
+          </div>
         )}
       </div>
 
       {/* ── document modal ─────────────────────── */}
       {selected && (
-        <div onClick={() => setSelected(null)}
-          style={{
-            position: "fixed", inset: 0, background: "rgba(22,24,29,0.45)", backdropFilter: "blur(3px)",
-            display: "flex", alignItems: "flex-start", justifyContent: "center", padding: "48px 16px", overflow: "auto", zIndex: 50,
-          }}>
-          <div onClick={(e) => e.stopPropagation()}
-            style={{
-              background: "var(--card)", borderRadius: 18, maxWidth: 800, width: "100%",
-              padding: 28, boxShadow: "var(--shadow-lg)",
-            }}>
-            {selected.loading && <p style={{ color: "var(--muted)" }}>Loading…</p>}
-            {selected.error && <p style={{ color: "var(--bad)" }}>{selected.error}</p>}
+        <div onClick={() => setSelected(null)} className="modalback">
+          <div onClick={(e) => e.stopPropagation()} className="modal">
+            {selected.loading && <p className="muted">Loading…</p>}
+            {selected.error && <p className="bad">{selected.error}</p>}
             {selected.doc && (
               <>
-                <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start", gap: 12 }}>
-                  <h2 style={{ fontSize: 19, margin: 0, letterSpacing: -0.3 }}>{selected.doc.applicant}</h2>
+                <div className="modalhead">
+                  <h2>{selected.doc.applicant}</h2>
                   <button onClick={() => setSelected(null)} style={closeBtn}>✕</button>
                 </div>
-                <p style={{ color: "var(--muted)", fontSize: 13, margin: "5px 0 0" }}>
+                <p className="muted small" style={{ margin: "5px 0 0" }}>
                   {selected.doc.state} · {selected.doc.order_no} · {selected.doc.order_date} · {selected.doc.category}
                 </p>
-                <p style={{ color: "#3f4654", fontSize: 13.5, margin: "12px 0", lineHeight: 1.6 }}>{selected.doc.brief}</p>
+                <p className="modalbrief">{selected.doc.brief}</p>
                 <p style={{ fontSize: 12, margin: "0 0 14px" }}>
-                  <a href={selected.doc.pdf_url} target="_blank" rel="noreferrer" style={{ color: "var(--accent)", fontWeight: 600, textDecoration: "none" }}>
+                  <a href={selected.doc.pdf_url} target="_blank" rel="noreferrer" className="srclink strong">
                     official PDF ↗
                   </a>
-                  <span style={{ color: "var(--muted)" }}>
+                  <span className="muted">
                     {" "}· OCR: {selected.doc.extraction_status} · {selected.doc.pages || "?"} pages · {(selected.doc.chars || 0).toLocaleString()} chars
                   </span>
                 </p>
                 {selected.text ? (
-                  <pre style={{
-                    background: "var(--card2)", border: "1px solid var(--border)", borderRadius: 12, padding: 18,
-                    fontSize: 12.5, lineHeight: 1.7, whiteSpace: "pre-wrap", wordBreak: "break-word",
-                    maxHeight: "55vh", overflow: "auto", color: "var(--text)",
-                  }}>{selected.text}</pre>
+                  <pre className="doctext">{selected.text}</pre>
                 ) : (
-                  <div style={{
-                    background: "var(--warn-soft)", border: "1px solid #f3ddb8", borderRadius: 10,
-                    padding: 14, color: "var(--warn)", fontSize: 13.5,
-                  }}>
+                  <div className="notetext">
                     Full text not yet extracted for this document (OCR still processing the corpus).
                   </div>
                 )}
