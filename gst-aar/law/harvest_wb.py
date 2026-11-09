@@ -38,6 +38,15 @@ OUT = ROOT / "data" / "law" / "staging" / "west-bengal"
 INDEX = "https://comtax.wb.gov.in/GST/GST_Notifications/gst_notifications_state.html"
 UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"}
 
+# --- shared per-host politeness limiter (see _throttle.py) ---
+try:
+    import _throttle as _thr
+except ImportError:  # imported as a module under pytest, not as a script
+    import importlib.util as _ilu
+    _sp = _ilu.spec_from_file_location("_throttle", Path(__file__).parent / "_throttle.py")
+    _thr = _ilu.module_from_spec(_sp)
+    _sp.loader.exec_module(_thr)
+
 ROW_RE = re.compile(r"<tr[^>]*>(.*?)</tr>", re.S)
 CELL_RE = re.compile(r"<t[dh][^>]*>(.*?)</t[dh]>", re.S)
 PDF_RE = re.compile(r'href="([^"]+\.pdf)"', re.I)
@@ -46,10 +55,14 @@ PDF_RE = re.compile(r'href="([^"]+\.pdf)"', re.I)
 def fetch(url: str, op=None, retries: int = 3) -> bytes:
     opener = op or urllib.request.build_opener()
     for i in range(retries):
+        _thr.wait(url)
         try:
             with opener.open(urllib.request.Request(url, headers=UA), timeout=90) as r:
-                return r.read()
+                blob = r.read()
+                _thr.on_success(url)
+                return blob
         except Exception as e:
+            _thr.on_error(url, e)
             if i == retries - 1:
                 raise
             print(f"  retry {i + 1} for {url}: {type(e).__name__}", file=sys.stderr)
@@ -115,7 +128,6 @@ def main(max_pdfs: int = 0) -> None:
             seen.add(row["pdf_url"])
             done += 1
             print(f"  {done}: {name[:70]}")
-            time.sleep(0.4)
             if max_pdfs and done >= max_pdfs:
                 print(f"PoC slice done: {done} PDFs")
                 return

@@ -19,6 +19,15 @@ ROOT = Path(__file__).parent.parent
 OUT = ROOT / "data" / "law"
 UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"}
 
+# --- shared per-host politeness limiter (see _throttle.py) ---
+try:
+    import _throttle as _thr
+except ImportError:  # imported as a module under pytest, not as a script
+    import importlib.util as _ilu
+    _sp = _ilu.spec_from_file_location("_throttle", Path(__file__).parent / "_throttle.py")
+    _thr = _ilu.module_from_spec(_sp)
+    _sp.loader.exec_module(_thr)
+
 LISTINGS = [
     ("notifications", "https://cbic-gst.gov.in/central-tax-notifications.html"),
     ("circulars", "https://cbic-gst.gov.in/circulars.html"),
@@ -50,11 +59,15 @@ PREFIX_CATEGORY = {"NN": "CT"}
 
 def fetch(url: str, retries: int = 3) -> bytes:
     for i in range(retries):
+        _thr.wait(url)
         try:
             req = urllib.request.Request(url, headers=UA)
             with urllib.request.urlopen(req, timeout=30) as r:
-                return r.read()
+                blob = r.read()
+                _thr.on_success(url)
+                return blob
         except Exception as e:
+            _thr.on_error(url, e)
             if i == retries - 1:
                 raise
             print(f"  retry {i + 1} for {url}: {e}", file=sys.stderr)
@@ -125,7 +138,6 @@ def main(max_pdfs: int = 0):
                     print(f"  skip non-PDF {row['pdf_url']}", file=sys.stderr)
                     continue
                 dest.write_bytes(blob)
-                time.sleep(0.4)
             meta = parse_notification_filename(dest.name)
             law_db.upsert_document(con, {
                 "source_url": row["pdf_url"], "kind": kind.rstrip("s"),

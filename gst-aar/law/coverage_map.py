@@ -1,16 +1,21 @@
 #!/usr/bin/env python3
 """Regenerable marketing visual: India cartogram of state GST-legislation coverage.
 
-Counts PDFs on disk per staging dir. Statuses: strong (>=400 files),
-growing (>=10), sampled (>0), blocked (Bihar, login-walled), pending (0).
+Counts DOCUMENTS in law.db per state — the portal feed by `kind`, and India Code
+material by its `state:<name>` tag — rather than PDFs on disk, so the figure
+reflects everything held. Statuses: strong (>=400 docs), growing (>=10),
+sampled (>0), blocked (Bihar / West Bengal), pending (0).
+
 Usage: python3 coverage_map.py   (writes gst-aar/coverage-map.html)
 """
 from __future__ import annotations
 
+import sqlite3
 from pathlib import Path
 
 ROOT = Path(__file__).parent.parent
 STAGE = ROOT / "data" / "law" / "staging"
+LAW_DB = ROOT / "data" / "law" / "law.db"
 OUT = ROOT / "coverage-map.html"
 
 DIR_OF = {
@@ -18,10 +23,13 @@ DIR_OF = {
     "Haryana": "haryana", "Delhi": "delhi", "UP": "uttar-pradesh", "Rajasthan": "rajasthan",
     "Bihar": "bihar", "MP": None, "Gujarat": "gujarat", "Maharashtra": "maharashtra",
     "Chhattisgarh": "chhattisgarh", "Jharkhand": None, "WB": "west-bengal", "Karnataka": "karnataka",
-    "Telangana": "telangana", "AP": None, "Odisha": "odisha", "Kerala": "kerala",
+    "Telangana": "telangana", "AP": "andhra-pradesh", "Odisha": "odisha", "Kerala": "kerala",
     "TN": "tamil-nadu", "Assam": "assam", "NE": None, "Goa": None,
 }
 ABBR = {"JK": "J&K", "UP": "UP", "MP": "MP", "WB": "WB", "TN": "TN", "AP": "AP", "NE": "NE", "HP": "HP"}
+
+# A harvester exists but the portal cannot be reached / is login-walled.
+BLOCKED = {"Bihar": "login-walled", "WB": "portal unreachable"}
 
 # (name, col, row) on a 7x8 grid approximating India
 CELLS = [
@@ -37,17 +45,60 @@ CELLS = [
 ]
 
 
-def status_of(name: str) -> tuple[str, int, str]:
-    d = DIR_OF.get(name)
-    n = sum(1 for _ in (STAGE / d).glob("*.pdf")) if d and (STAGE / d).exists() else 0
-    if name == "Bihar":
-        return "blocked", 0, "login-walled"
+# The cartogram labels cells with abbreviations and folds the North-East into one
+# box, so a cell name is not always a single state. Map each cell to the state
+# names its `state:<name>` tags use, and to its portal-feed kind.
+CELL_STATES = {
+    "JK": ["Jammu and Kashmir"], "Ladakh": ["Ladakh"], "HP": ["Himachal Pradesh"],
+    "Punjab": ["Punjab"], "Uttarakhand": ["Uttarakhand"], "Haryana": ["Haryana"],
+    "Delhi": ["Delhi"], "UP": ["Uttar Pradesh"], "Rajasthan": ["Rajasthan"],
+    "MP": ["Madhya Pradesh"], "Bihar": ["Bihar"], "Gujarat": ["Gujarat"],
+    "Maharashtra": ["Maharashtra"], "Chhattisgarh": ["Chhattisgarh"],
+    "Jharkhand": ["Jharkhand"], "WB": ["West Bengal"], "Karnataka": ["Karnataka"],
+    "Telangana": ["Telangana"], "AP": ["Andhra Pradesh"], "Odisha": ["Odisha"],
+    "Kerala": ["Kerala"], "TN": ["Tamil Nadu"], "Assam": ["Assam"], "Goa": ["Goa"],
+    "NE": ["Arunachal Pradesh", "Manipur", "Meghalaya", "Mizoram", "Nagaland",
+           "Sikkim", "Tripura"],
+}
+KIND_BY_NAME = {
+    "Telangana": "tg_notification", "Maharashtra": "mh_notification",
+    "AP": "ap_notification", "Odisha": "od_notification",
+    "Rajasthan": "rj_notification", "Gujarat": "gj_notification",
+    "Delhi": "dl_notification", "UP": "up_notification",
+    "WB": "wb_notification", "Assam": "as_notification",
+    "TN": "tn_notification", "Karnataka": "ka_notification",
+    "Chhattisgarh": "cg_notification", "Haryana": "hr_notification",
+    "Kerala": "kl_notification", "Punjab": "pb_notification",
+    "Bihar": "br_notification",
+}
+
+
+def documents_for(con, name: str) -> int:
+    """Documents held for a cell: portal feed by kind + India Code by state tag."""
+    total = 0
+    for state in CELL_STATES.get(name, [name]):
+        total += con.execute(
+            "SELECT COUNT(*) FROM documents d JOIN law_tags t ON t.doc_id = d.id"
+            " WHERE t.tag = ?", (f"state:{state}",)).fetchone()[0]
+    kind = KIND_BY_NAME.get(name)
+    if kind:
+        total += con.execute("SELECT COUNT(*) FROM documents WHERE kind = ?",
+                             (kind,)).fetchone()[0]
+    return total
+
+
+def status_of(con, name: str) -> tuple[str, int, str]:
+    n = documents_for(con, name)
+    # A blocked state can still hold files harvested before it went
+    # unreachable - report the count, do not zero it.
+    if name in BLOCKED:
+        return "blocked", n, (f"{n} docs, {BLOCKED[name]}" if n else BLOCKED[name])
     if n >= 400:
-        return "strong", n, f"{n} files"
+        return "strong", n, f"{n} docs"
     if n >= 10:
-        return "growing", n, f"{n} files"
+        return "growing", n, f"{n} docs"
     if n > 0:
-        return "sampled", n, f"{n} files"
+        return "sampled", n, f"{n} docs"
     return "pending", 0, "queued"
 
 
@@ -58,10 +109,11 @@ BG = {"strong": "#e7f6ef", "growing": "#fdf3e3", "sampled": "#eff6ff",
 
 
 def main() -> None:
+    con = sqlite3.connect(LAW_DB) if LAW_DB.exists() else None
     boxes = {}
     total = 0
     for name, c, r in CELLS:
-        st, n, label = status_of(name)
+        st, n, label = status_of(con, name)
         total += n
         boxes[(c, r)] = (name, st, n, label)
     cells = ""
@@ -77,12 +129,15 @@ def main() -> None:
         f'<span class="lg"><i style="background:{COLORS[s]}"></i>{s}</span>'
         for s in ("strong", "growing", "sampled", "blocked", "pending"))
     top = sorted(((n, name) for (name, _, _), (s, n, _) in
-                  [((nm, c, r), status_of(nm)) for nm, c, r in CELLS] if n > 0),
+                  [((nm, c, r), status_of(con, nm)) for nm, c, r in CELLS] if n > 0),
                  reverse=True)[:8]
     bars = "".join(
         f'<div class="brow"><span class="bname">{n}</span>'
         f'<div class="btrack"><div class="bfill" style="width:{100 * v / top[0][0]:.0f}%"></div></div>'
         f'<span class="bval">{v}</span></div>' for v, n in top)
+    with_feed = sum(1 for nm, _, _ in CELLS if DIR_OF.get(nm))
+    n_blocked = sum(1 for nm, _, _ in CELLS if nm in BLOCKED)
+    live = with_feed - n_blocked
     html = f"""<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
 <title>GST State Coverage Map</title>
 <style>
@@ -103,9 +158,9 @@ h1{{font-size:1.4rem;letter-spacing:-.4px}}.sub{{color:#555;font-size:.9rem}}
 </style></head><body>
 <h1>GST legislation coverage across India</h1>
 <p class="sub">Official state sources only (.gov.in / .nic.in) · every file keeps its publisher URL · $0 local stack</p>
-<div class="cards"><div class="card"><b>{total:,}</b><span>state files held</span></div>
-<div class="card"><b>15/16</b><span>states harvesting</span></div>
-<div class="card"><b>1</b><span>blocked (Bihar)</span></div></div>
+<div class="cards"><div class="card"><b>{total:,}</b><span>state documents held</span></div>
+<div class="card"><b>{live}/{with_feed}</b><span>state feeds live</span></div>
+<div class="card"><b>{n_blocked}</b><span>portals blocked</span></div></div>
 <div class="map">{cells}</div>
 <div>{legend}</div>
 <h2>Top states by files held</h2>

@@ -37,12 +37,13 @@ def main(max_files: int = 0) -> None:
 
     con = law_db.init_db()
     rows = con.execute(
-        "SELECT id, local_path FROM documents WHERE body='' AND local_path != ''"
+        "SELECT id, local_path, title, number FROM documents"
+        " WHERE TRIM(COALESCE(body,'')) = '' AND local_path != ''"
     ).fetchall()
     out = ROOT / "data" / "law" / "text" / "ocr"
     out.mkdir(parents=True, exist_ok=True)
     done = 0
-    for doc_id, local in rows:
+    for doc_id, local, title, number in rows:
         p = Path(local)
         if not p.is_absolute():
             p = ROOT.parent / p
@@ -66,7 +67,13 @@ def main(max_files: int = 0) -> None:
             print(f"  still thin {p.name} ({len(text)}ch)", file=sys.stderr)
             continue
         (out / (p.stem + ".txt")).write_text(text, encoding="utf-8")
+        # Keep the FTS index in step: a bare UPDATE documents would leave
+        # documents_fts holding the empty pre-OCR row, so the text would be
+        # stored but not searchable.
         con.execute("UPDATE documents SET body=? WHERE id=?", (text, doc_id))
+        con.execute("INSERT OR REPLACE INTO documents_fts(rowid, title, number, body)"
+                    " VALUES (?,?,?,?)",
+                    (doc_id, title or "", number or "", text))
         con.commit()
         done += 1
         print(f"  {done}: {p.name} {len(text)}ch in {time.time()-t0:.0f}s")

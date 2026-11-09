@@ -39,6 +39,15 @@ BASE = "https://comtax.cg.nic.in/"
 HUBS = [BASE + "Circ1.htm", BASE + "GSTAT.htm"]
 UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"}
 
+# --- shared per-host politeness limiter (see _throttle.py) ---
+try:
+    import _throttle as _thr
+except ImportError:  # imported as a module under pytest, not as a script
+    import importlib.util as _ilu
+    _sp = _ilu.spec_from_file_location("_throttle", Path(__file__).parent / "_throttle.py")
+    _thr = _ilu.module_from_spec(_sp)
+    _sp.loader.exec_module(_thr)
+
 HREF_RE = re.compile(r'href="([^"]+)"', re.I)
 
 
@@ -54,11 +63,15 @@ def clean_url(url: str) -> str:
 def fetch(url: str, op=None, retries: int = 3) -> bytes:
     opener = op or urllib.request.build_opener()
     for i in range(retries):
+        _thr.wait(url)
         try:
             req = urllib.request.Request(url, headers=UA)
             with opener.open(req, timeout=90) as r:
-                return r.read()
+                blob = r.read()
+                _thr.on_success(url)
+                return blob
         except Exception as e:
+            _thr.on_error(url, e)
             if i == retries - 1:
                 raise
             print(f"  retry {i + 1} for {url}: {type(e).__name__}", file=sys.stderr)
@@ -106,7 +119,6 @@ def main(max_pdfs: int = 0) -> None:
         found, subs = parse_hub(page, url)
         rows.extend(found)
         queue.extend(s for s in subs if s not in visited)
-        time.sleep(0.4)
     uniq, seen_urls = [], set()
     for r in rows:
         if r["pdf_url"] not in seen_urls:
@@ -140,7 +152,6 @@ def main(max_pdfs: int = 0) -> None:
             seen.add(row["pdf_url"])
             done += 1
             print(f"  {done}: {name[:70]}")
-            time.sleep(0.4)
             if max_pdfs and done >= max_pdfs:
                 print(f"PoC slice done: {done} PDFs")
                 return

@@ -1,0 +1,106 @@
+Appellant
+M/s. Sample Buildcon Private Limited, Flat No: 12, 4-5-678, Sample Residency, Model Road, Ameerpet, Hyderabad - 500016, GSTIN: 36PROXYGSTN001Z.
+Respondent
+The Additional Commissioner of Central Tax, Sample CGST Commissionerate, Sample Zone, Hyderabad.
+
+BRIEF FACTS OF THE CASE
+These proceedings arise out of the appeal filed by M/s. Sample Buildcon Private Limited ("the Appellant"/"the developer"), against the Order in Original No. XX/2025-26-Sec-Adjn-ADC (GST) dated 17-11-2025 ("the Impugned Order"), passed by the Additional Commissioner of Central Tax, Sample CGST Commissionerate, Hyderabad ("the Adjudicating Authority").
+
+2. M/s. Sample Buildcon Private Limited, GSTIN 36PROXYGSTN001Z, were engaged in supply of construction service in respect of commercial or industrial buildings and civil structure, construction of residential complex, renting of immovable property and works contract service. On specific intelligence developed by the officers of the Directorate General of GST Intelligence, Hyderabad Zonal Unit, and subsequent scrutiny of documents, a show cause notice was proposed to demand and recover:
+2(a) an amount of Rs. 1,18,24,424/- being the CGST not paid on the construction services rendered to the landowners in respect of the project "Project Alpha" under the provisions of Section 74(1) of the CGST Act 2017;
+2(b) an amount of Rs. 1,18,24,424/- being the SGST not paid on the same construction services under Section 74(1) of the TGST Act 2017;
+2(c) applicable interest under Section 50 of the CGST and TGST Acts, 2017 in respect of the demands mentioned above; and
+2(d) penalty equal to the amount of tax demands under Section 74(1) read with Section 122(1)(xv) and Section 122(2)(b) of the CGST and TGST Acts, 2017.
+
+3. The Adjudicating Authority, after following due process of law, vide the impugned order confirmed all the tax demands along with applicable interest and equal penalty as proposed in the SCN under the sections mentioned above.
+
+4. Aggrieved by the impugned order, the Appellant filed the present appeal on the following grounds:
+
+4.1 In GST, sale of Transferable Development Right (TDR) was introduced vide serial no. 16, SAC No. 9972 item (iii) of Notification No. 11/2017-CT (Rate) dt. 28-06-2017, as amended by Notification No. 01/2018-CT (Rate) dt. 25-01-2018, notified as a taxable supply only from 25-01-2018 and liable to GST under Section 9(1) of the CGST Act 2017.
+
+4.2 Sale of land is not a service, as it is covered under sl. no. 5 of Schedule-III of Section 7 of the GST Act 2017.
+
+4.3 As on date, transfer of land (immovable property) to a developer is not notified as a supply of service under any serial number/SAC of Notification No. 11/2017-CT (Rate) dt. 28-06-2017, and is rightly covered within the scope of para 5, Schedule-III of Section 7 of the GST Act 2017.
+
+4.4 The appellant is notified as the service supplier and the landowner as the service recipient, and the appellant is notified as the person liable for GST under Section 9(1), not Section 9(3), of the GST Act 2017.
+
+4.5 The Appellant does not dispute the levy of GST on transfer of development rights but contends that its activity does not fall under that category. It contends sale of land is not a service, and transfer of land to a builder on a development basis is also not notified as a supply of service; its case is one of transfer of land (immovable property) on a development basis.
+
+4.6 Notification No. 04/2018-CTR dt. 25-01-2018 applies to a developer only where the developer pays consideration in the form of construction service, wholly or partly, as consideration to the supplier of TDR (a service recipient of taxable Real Estate service). Its scope is therefore not applicable to supply of construction service against consideration other than cash.
+
+4.7 The appellant is liable for GST on the value of service, i.e. the total amount charged on such supply, as specified in para 2 of Notification No. 11/2017-CT (Rate) dt. 28-06-2017.
+
+4.8 The appellant discharged GST on the total amount charged and declared that amount in its books of account, IT returns and GST returns; the department noticed no discrepancy in these declared figures.
+
+4.9 The appellant submitted a Chartered Accountant's certificate certifying the total amount charged as per para 2 of the notification dated 28-06-2017 and the method of determination of that amount, as against construction of a complex under SAC 9954 item (i)/(ia) of Notification No. 11/2017 dt. 28-06-2017.
+
+4.10 The valuation provisions under para 2A of Notification No. 11/2017-CTR dt. 28-06-2017 are not applicable to the construction service undertaken on the immovable property in question.
+
+Personal Hearing
+5. Shri X. Y. Consultant, authorised representative, appeared for personal hearing on 13-02-2026 on behalf of the Appellant, reiterated the written submissions made with the appeal, and requested that the tax demand, interest and penalty be dropped.
+
+Discussions & Findings
+6. I have carefully gone through the case records, statement of facts, grounds of appeal and the impugned OIO. The issue for consideration is the question of interpretation of law regarding taxable value and applicability of Notification No. 11/2017-CTR dt. 28-06-2017 and its amendments.
+
+6.1 The issue raised in the appeal is against the confirmed demand of Rs. 2,36,48,845/- (CGST Rs. 1,18,24,424/- + SGST Rs. 1,18,24,424/-) being GST payable on the construction service rendered to the landowners by the developer in respect of "Project Alpha", from M/s. Sample Buildcon Private Limited, under Section 74(1), along with interest under Section 50(3) and equal penalty under Section 74(1) read with Section 122(1)(xv) & Section 122(2)(b) of the CGST/TGST Act 2017.
+
+6.2 M/s. Sample Buildcon Private Limited entered into a Development Agreement cum General Power of Attorney (DAGPA) for development of a residential project on land belonging to five different landowners, for the project "Project Alpha" addressed at Sample Colony, Model Nagar, Hyderabad. "Project Alpha" is a residential project for which building permission was obtained on 12-05-2014; the DAGPA and sharing agreement with five landowners (Doc No. DOC/XXX/2015 dated 09-02-2015) covered development of 4,446 sq. yds situated at premises bearing no. 1-2-345/6, Sample Colony, Model Nagar, Hyderabad, Telangana, for construction of a residential building complex of 35 flats in five floors.
+
+6.3 In the DAGPA, the shares of the landowners and the developer were demarcated in the ratio of 52.35% and 47.65% respectively, along with flat and floor numbers. There is no agreement between the landowners and the developer other than the DAGPA dated 09-02-2015 for sharing of the constructed area. Building permission was obtained on 12-05-2014, construction commenced on 01-06-2014 and was completed on 01-10-2018, and the occupancy certificate was received on 10-03-2019.
+
+6.4 On careful examination of the DAGPA, it is observed that:
+(a) the landowners agreed and authorised the developer to develop the scheduled property into a residential complex, and the developer agreed to undertake construction of a residential complex (para 1 and para 3 of DAGPA, page 4);
+(b) at para 6, the landowners agreed to permit the developer to develop the scheduled property;
+(c) at para 7, the developer shall be entitled to retain, possess, enjoy and alienate the built-up area with car parking space, along with the undivided share of land which shall be the developer's share, in view of the construction being undertaken by the developer at its own cost and expenses;
+(d) at para 10, the developer shall be at liberty to appoint its nominee for purchase of the proportionate undivided share of land allotted to its share; and
+(e) at para 13, the landowners covenant to pay all arrears of tax up to the date of the DAGPA, and thereafter, during the period of construction, the property tax shall be payable by the developer till completion of construction.
+
+6.5 On perusal of the records, the landowners and the developer together entered into the DAGPA, wherein the landowners authorised and permitted the developer to enter the scheduled property for a limited purpose, i.e. to develop the property by constructing residential apartments on the land, which is immovable property.
+
+6.6 On careful examination, the DAGPA was executed on 09-02-2015, during the pre-GST era. On perusal of the entire agreement, the words "transfer of development rights" or "development rights" are not used anywhere in the DAGPA; it only records that the landowner gave permission to the developer for a limited purpose, and authorised construction of residential apartments at the developer's own cost. Against this backdrop, the taxability of the construction service supplied by the developer to the landowners is examined below.
+
+6.7 There is no dispute on taxability of the service; the issue pertains to valuation of the construction service provided by the developer to the landowners. The Adjudicating Authority, at para 9.3 of the impugned OIO, observed that construction of a residential apartment is a taxable supply of service under GST in terms of Notification No. 11/2017-CTR dt. 28-06-2017, sl. no. 3(i), heading 9954 - not disputed by the Appellant.
+
+6.8 The Adjudicating Authority, at para 9.5 of the impugned OIO, held that the taxpayer was liable to discharge GST on the construction service rendered to the landowners in terms of Notification No. 04/2018-CTR dt. 25-01-2018, under which liability to pay GST arises on the date of the occupancy certificate, i.e. 10-03-2019 - thus fixing the point of taxation as 10-03-2019.
+
+6.9 At para 10.2 of the impugned order, the Adjudicating Authority applied the amendment to Notification No. 11/2017-CTR dt. 28-06-2017 introduced by Notification No. 03/2019-CTR dt. 29-03-2019, to arrive at taxable value. Under para 2A (inserted by the 2019 amendment), the value of construction service to the landowner is deemed equal to the total amount charged for similar apartments in the project from independent buyers, nearest to the date development rights are transferred, less the value of land, if any.
+
+6.10 On this basis, the Adjudicating Authority took the taxable value as the amount charged for similar apartments to independent buyers, adopting the sale value of Flat No. 201 as the nearest sale, for which the sale deed was executed on 26-06-2019 (para 10.4 of the impugned order).
+
+6.11 The chronology of dates considered in the impugned order is:
+Point of taxation: 10-03-2019.
+Basis for taxable value (para 2A) inserted by Notification No. 03/2019 dt. 29-03-2019.
+Nearest sale considered: 26-06-2019.
+
+6.12 As seen above, the Adjudicating Authority applied an amendment (29-03-2019) that was not in force on the date of the point of taxation (10-03-2019) as determined by the Authority itself; and the comparable sale value was drawn from a transaction dated 26-06-2019, a future date relative to the point of taxation.
+
+6.13 On the date of the point of taxation, the amendment to the notification was not in existence. It is not proper to apply Notification No. 03/2019-CTR dt. 29-03-2019 with retrospective effect from 10-03-2019, when the notification is expressly effective from 01-04-2019. The Adjudicating Authority did not justify applying amended provisions to a supply already completed before the amendment's issuance. Similarly, adopting a value that surfaced on 26-06-2019 to value a supply as of 10-03-2019 is not acceptable. Tax liability and the method of valuation are "frozen" at the time of supply, i.e. 10-03-2019; the order is void ab initio to the extent it applies the 29-03-2019 amendment as of that date.
+
+6.14 The Adjudicating Authority applied para 2A (inserted 29-03-2019) without proper justification, whereas the Appellant had applied para 2 of the notification dated 28-06-2017. An Adjudicating Authority cannot "pre-apply" a future notification to a past transaction unless the notification itself states it is retrospective. Applying it retrospectively to a service already completed, without such express provision, is bad in law; the Adjudicating Authority's stand fails on this ground alone.
+
+6.15 The Appellant contends it discharged tax under para 2 of the notification on "total amount charged", covering both the construction service rendered to the landowners (against consideration in kind, i.e. land) and to prospective buyers for monetary consideration. The relevant extracts of Notification No. 11/2017-CTR are examined below.
+
+Relevant extract - Notification No. 11/2017-Central Tax (Rate), dated 28th June 2017
+Sl. No. 3, Heading 9954 (Construction services): (i) Construction of a complex, building, civil structure or a part thereof, including a complex or building intended for sale to a buyer, wholly or partly, except where the entire consideration has been received after issuance of the completion certificate (where required) or after first occupation, whichever is earlier - Rate 9% (Provisions of paragraph 2 of the notification apply for valuation of this service). (ii) Composite supply of works contract as defined in clause 119 of Section 2 of the CGST Act 2017 - 9%. (iii) Construction services other than (i) and (ii) above - 9%.
+Para 2: In case of supply of the service specified against item (i) of serial no. 3, involving transfer of property in land or undivided share of land, the value of the service and goods portion shall be equivalent to the total amount charged for such supply, less the value of land or undivided share of land, and the value of land/undivided share of land shall be deemed to be one-third of the total amount charged for such supply.
+Explanation: For the purposes of paragraph 2, "total amount" means the sum total of (a) consideration charged for the aforesaid service, and (b) amount charged for transfer of land or undivided share of land, as the case may be.
+
+6.16 The Adjudicating Authority did not consider the definition of "value" in para 2, nor the explanation of "total amount". The Appellant, on the other hand, took the total amount charged for the entire project, as declared in its IT returns, and paid GST accordingly under the said notification, supported by Chartered Accountant certificates confirming the arithmetical correctness of the calculation and applicable GST.
+
+6.17 The Appellant discharged tax liability on the total amount charged for the entire construction service undertaken on a development basis on the land (immovable property). It is observed that the Appellant declared this value in its books of account (IT returns and GST returns), certified by a Chartered Accountant. It is thus evident that the Appellant complied with its GST liability on the construction service (SAC 9954), on the value mandated under para 2 read with sl. no. 3, column 3, item (i) of Notification No. 11/2017-CTR dt. 28-06-2017.
+
+6.18 Once GST liability has been discharged on the total amount charged for the construction service, demanding tax again on the same service would amount to double taxation. The Adjudicating Authority gave no justification for why para 2 of the notification was inapplicable for determining taxable value during the material period. Even if para 2A (as amended) were to be considered, all clauses of the DAGPA would first need to be examined to justify their fit within the amended provisions.
+
+6.19 The total consideration received by the developer, as reflected in its books of account ("total amount charged" per the notification), had already suffered tax, and the impugned order contains no finding that any part of the consideration received by the developer, as reflected in statutory records, escaped payment of GST. It is therefore observed that the Appellant had paid the required tax under para 2 of Notification No. 11/2017-CTR dt. 28-06-2017 as amended; the Adjudicating Authority's reliance on para 2A is not sustainable, and its findings are liable to be set aside.
+
+6.20 Support is drawn from Suchitra Components Ltd. v. Commissioner of Central Excise (17.01.2007), where the Hon'ble Supreme Court held that while beneficial circulars can be retrospective, oppressive or adverse notifications/circulars can only be applied prospectively. Since para 2A results in an enhanced taxable value, it cannot be applied to the transaction dated 10-03-2019.
+
+6.21 Reliance is also placed on the Constitution Bench judgment in CIT v. Vatika Township Pvt. Ltd. (15.09.2014), holding that a law cannot be applied to past events unless explicitly stated by the legislature, and that an amendment imposing a new disability or obligation (such as higher valuation) must be prospective; and in CCE v. Mysore Electricals Industries Ltd. (15.11.2006), reaffirming that a notification becomes effective only from its specified date and cannot be applied to past transactions to the detriment of the assessee. Following these principles of fairness, the findings of the Adjudicating Authority do not stand the scrutiny of law, either on merits or against binding Apex Court judgements.
+
+6.22 Since the tax demand confirmed by the original Adjudicating Authority is not sustained on scrutiny of law, the question of interest and penalty does not arise. In light of the above findings, the following order is passed.
+
+ORDER
+I allow the Appeal filed by M/s. Sample Buildcon Private Limited.
+(Signed)
+Shri A. B. Officer
+COMMISSIONER

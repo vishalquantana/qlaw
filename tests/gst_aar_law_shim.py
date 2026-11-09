@@ -150,3 +150,111 @@ _rj_spec = importlib.util.spec_from_file_location(
     Path(__file__).parent.parent / "gst-aar" / "law" / "harvest_rj.py")
 harvest_rj = importlib.util.module_from_spec(_rj_spec)
 _rj_spec.loader.exec_module(harvest_rj)
+
+_ap_spec = importlib.util.spec_from_file_location(
+    "harvest_ap",
+    Path(__file__).parent.parent / "gst-aar" / "law" / "harvest_ap.py")
+harvest_ap = importlib.util.module_from_spec(_ap_spec)
+_ap_spec.loader.exec_module(harvest_ap)
+
+_rx_spec = importlib.util.spec_from_file_location(
+    "reindex_fts",
+    Path(__file__).parent.parent / "gst-aar" / "law" / "reindex_fts.py")
+reindex_fts = importlib.util.module_from_spec(_rx_spec)
+_rx_spec.loader.exec_module(reindex_fts)
+
+_thr_spec = importlib.util.spec_from_file_location(
+    "_throttle",
+    Path(__file__).parent.parent / "gst-aar" / "law" / "_throttle.py")
+_throttle = importlib.util.module_from_spec(_thr_spec)
+_thr_spec.loader.exec_module(_throttle)
+
+_ic_spec = importlib.util.spec_from_file_location(
+    "harvest_indiacode",
+    Path(__file__).parent.parent / "gst-aar" / "law" / "harvest_indiacode.py")
+harvest_indiacode = importlib.util.module_from_spec(_ic_spec)
+_ic_spec.loader.exec_module(harvest_indiacode)
+
+_gr_spec = importlib.util.spec_from_file_location(
+    "harvest_gst_rates",
+    Path(__file__).parent.parent / "gst-aar" / "law" / "harvest_gst_rates.py")
+harvest_gst_rates = importlib.util.module_from_spec(_gr_spec)
+_gr_spec.loader.exec_module(harvest_gst_rates)
+
+_is_spec = importlib.util.spec_from_file_location(
+    "harvest_indiacode_states",
+    Path(__file__).parent.parent / "gst-aar" / "law" / "harvest_indiacode_states.py")
+harvest_indiacode_states = importlib.util.module_from_spec(_is_spec)
+_is_spec.loader.exec_module(harvest_indiacode_states)
+
+_rc_spec = importlib.util.spec_from_file_location(
+    "rechunk_stale",
+    Path(__file__).parent.parent / "gst-aar" / "law" / "rechunk_stale.py")
+rechunk_stale = importlib.util.module_from_spec(_rc_spec)
+_rc_spec.loader.exec_module(rechunk_stale)
+
+_ls_spec = importlib.util.spec_from_file_location(
+    "law_search",
+    Path(__file__).parent.parent / "gst-aar" / "law" / "law_search.py")
+law_search = importlib.util.module_from_spec(_ls_spec)
+_ls_spec.loader.exec_module(law_search)
+
+_cr_spec = importlib.util.spec_from_file_location(
+    "harvest_cgst_rules",
+    Path(__file__).parent.parent / "gst-aar" / "law" / "harvest_cgst_rules.py")
+harvest_cgst_rules = importlib.util.module_from_spec(_cr_spec)
+_cr_spec.loader.exec_module(harvest_cgst_rules)
+
+_jc_spec = importlib.util.spec_from_file_location(
+    "join_cbic_section_text",
+    Path(__file__).parent.parent / "gst-aar" / "law" / "join_cbic_section_text.py")
+join_cbic_section_text = importlib.util.module_from_spec(_jc_spec)
+_jc_spec.loader.exec_module(join_cbic_section_text)
+
+_nv_spec = importlib.util.spec_from_file_location(
+    "normalize_vocab",
+    Path(__file__).parent.parent / "gst-aar" / "law" / "normalize_vocab.py")
+normalize_vocab = importlib.util.module_from_spec(_nv_spec)
+_nv_spec.loader.exec_module(normalize_vocab)
+
+_eo_spec = importlib.util.spec_from_file_location(
+    "extract_ontology",
+    Path(__file__).parent.parent / "gst-aar" / "extract_ontology.py")
+extract_ontology = importlib.util.module_from_spec(_eo_spec)
+_eo_spec.loader.exec_module(extract_ontology)
+
+_eh_spec = importlib.util.spec_from_file_location(
+    "eval_harness",
+    Path(__file__).parent.parent / "gst-aar" / "law" / "eval_harness.py")
+eval_harness = importlib.util.module_from_spec(_eh_spec)
+_eh_spec.loader.exec_module(eval_harness)
+
+_ss_spec = importlib.util.spec_from_file_location(
+    "split_sgst_acts",
+    Path(__file__).parent.parent / "gst-aar" / "law" / "split_sgst_acts.py")
+split_sgst_acts = importlib.util.module_from_spec(_ss_spec)
+_ss_spec.loader.exec_module(split_sgst_acts)
+
+_ig_spec = importlib.util.spec_from_file_location(
+    "industry_guide",
+    Path(__file__).parent.parent / "gst-aar" / "law" / "industry_guide.py")
+industry_guide = importlib.util.module_from_spec(_ig_spec)
+_ig_spec.loader.exec_module(industry_guide)
+
+_do_spec = importlib.util.spec_from_file_location(
+    "diagnose_outcomes",
+    Path(__file__).parent.parent / "gst-aar" / "law" / "diagnose_outcomes.py")
+diagnose_outcomes = importlib.util.module_from_spec(_do_spec)
+_do_spec.loader.exec_module(diagnose_outcomes)
+
+_dc_spec = importlib.util.spec_from_file_location(
+    "dispute_causes",
+    Path(__file__).parent.parent / "gst-aar" / "law" / "dispute_causes.py")
+dispute_causes = importlib.util.module_from_spec(_dc_spec)
+_dc_spec.loader.exec_module(dispute_causes)
+
+_ro_spec = importlib.util.spec_from_file_location(
+    "review_order",
+    Path(__file__).parent.parent / "gst-aar" / "law" / "review_order.py")
+review_order = importlib.util.module_from_spec(_ro_spec)
+_ro_spec.loader.exec_module(review_order)

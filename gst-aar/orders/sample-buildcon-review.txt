@@ -1,0 +1,114 @@
+==============================================================================
+ORDER REVIEW — FLAGS FOR HUMAN REVIEW
+==============================================================================
+
+This is a review aid. Nothing below is a conclusion of law, and no flag
+means the order is wrong. Each item identifies something to verify.
+
+------------------------------------------------------------------------------
+1. CHRONOLOGY — extracted from the order itself, no external source
+------------------------------------------------------------------------------
+   2014-05-12   building permission
+   2014-06-01   construction milestone
+   2019-03-10   occupancy certificate
+   2019-03-10   point of taxation (fixed by the order)
+   2019-04-01   express effective date
+   2019-06-26   comparable sale relied on
+
+   FLAG: The amending provision is expressly effective from 2019-04-01, which is after the point of taxation of 2019-03-10 the order itself fixed.
+   FLAG: The comparable sale relied on is dated 2019-06-26, after the point of taxation of 2019-03-10 — the value post-dates the supply being valued.
+
+------------------------------------------------------------------------------
+2. PROVISIONS THE ORDER RELIES ON
+------------------------------------------------------------------------------
+   s.2          wording held   Section 2 — Definitions
+   s.7          wording held   Section 7 — Scope of supply
+   s.9(1)       wording held   Section 9 — Levy and collection
+   s.50         wording held   Section 50 — Interest on delayed payment of ta
+   s.74(1)      wording held   Section 74 — Determination of tax not paid or 
+   s.122(1)     wording held   Section 122 — Penalty for certain offences
+
+------------------------------------------------------------------------------
+3. NOTIFICATIONS — do we hold their own text, or only references to them?
+------------------------------------------------------------------------------
+   01/2018      NOT HELD — referenced in 3 document(s), but none is the notification itself
+   03/2019      NOT HELD — referenced in 10 document(s), but none is the notification itself
+   04/2018      NOT HELD — referenced in 48 document(s), but none is the notification itself
+   11/2017      NOT HELD — referenced in 17 document(s), but none is the notification itself
+
+------------------------------------------------------------------------------
+4. AUTHORITIES (case law) — do we hold them?
+------------------------------------------------------------------------------
+   CCE v. Mysore Electricals Industries Ltd.              NOT HELD
+   CIT v. Vatika Township Pvt. Ltd.                       NOT HELD
+   Suchitra Components Ltd. v. Commissioner               NOT HELD
+
+   judgment documents in the corpus: 3
+
+------------------------------------------------------------------------------
+5. ON-POINT MATERIAL IN THE CORPUS
+------------------------------------------------------------------------------
+   retrospective vs prospective              170 rulings
+   TDR / development rights                   10 rulings
+   occupancy certificate                     116 rulings
+   development agreement / landowner          62 rulings
+   one-third deduction (para 2)               37 rulings
+   para 2A / similar apartments                6 rulings
+   consideration in kind                       3 rulings
+
+   directly on point (development agreement + valuation): 17
+      ruling 90     I. Whether the agreement entered into by the applicant with the customers for construction of vi
+      ruling 131    1. Whether the actual value charged for 'transfer of land' is available as per sale deed and the
+      ruling 201    1. Whether GST is applicable to the Landowner's share of constructed residential flats?&nbsp; 2.
+      ruling 255    Whether this execution of Sale Deed by the landowner for the UDS area covering the built up area
+      ruling 262    Question -A Is GST payable ON AREA GIVEN FREE OF COST (which will include following) to existing
+
+------------------------------------------------------------------------------
+6. WHAT THE CORPUS CAN CONTRIBUTE ON THE QUESTION AT ISSUE
+------------------------------------------------------------------------------
+
+   The order turns on whether an amendment may be applied to a supply whose
+   point of taxation predates it. The corpus does not hold the instruments,
+   but rulings QUOTE them and CITE the authorities — secondary evidence, and
+   usable as such.
+
+   the principle, as stated in rulings          1 rulings
+      ruling 1577: "amendment is prospective in nature, unless clearly specified to be clarificatory"
+
+   para 2A text quoted in rulings               1 rulings  [201]
+   para 2 text quoted in rulings               18 rulings  [90, 131, 255, 263, 388, 454]
+
+   the clarificatory / prospective distinction
+                                                6 rulings
+      ruling 261: " Ghaswala [(2001) 252 ITR 1], it is submitted that a clarificatory note or press release does not have any statutory force and are not binding"
+      ruling 1577: "2 The applicant further submitted that an amendment is prospective in nature, unless clearly specified to be clarificatory"
+
+   effective date of 03/2019-CTR stated in rulings: NONE
+
+==============================================================================
+WHAT THIS REVIEW COULD NOT DO
+==============================================================================
+
+   The review above establishes the reasoning. What it cannot establish is the
+   fact the reasoning turns on.
+
+   SUPPORTED, from rulings as secondary evidence:
+     - the principle that an amendment is prospective unless clarificatory is
+       stated in the corpus and attributed to a Supreme Court Constitution Bench
+       authority (ruling 1577, citing (2015) 1 SCC 1);
+     - the text of para 2A is quoted in the corpus, so its substance can be read;
+     - the clarificatory / prospective distinction is discussed, including the
+       proposition that a clarificatory note has no statutory force.
+
+   NOT ESTABLISHED, and it is load-bearing:
+     - the EFFECTIVE DATE of Notification 03/2019-CTR. No document in the corpus
+       states it. The order asserts 01-04-2019; the whole chronology flag rests on
+       that date being right, and the department's answer would be that the
+       amendment is clarificatory and therefore retrospective.
+     - the instrument's own words, which is what decides whether it is clarificatory.
+
+   So the tool can now support "the reasoning is sound and the principle is
+   supported by authority". It cannot yet support "the order is contrary to law",
+   because that needs the effective date, and the date is one document away —
+   Notification 03/2019-CTR itself, not the whole archive. See SCRAPE-BACKLOG.md.
+

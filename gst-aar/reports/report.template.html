@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>GST Law Corpus — Project Status Report</title>
+<style>
+  @page { size: A4; margin: 16mm 15mm 14mm 15mm; }
+  * { box-sizing: border-box; }
+  html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  body {
+    font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
+    font-size: 10.5pt; line-height: 1.5; color: #1a1a1a; margin: 0;
+  }
+  h1 { font-size: 19pt; margin: 0 0 2mm; color: #10243d; letter-spacing: -.3px; }
+  h2 {
+    font-size: 12pt; color: #10243d; margin: 6.5mm 0 2.5mm;
+    padding-bottom: 1.5mm; border-bottom: 1.2pt solid #10243d;
+  }
+  h3 { font-size: 10.5pt; margin: 4.5mm 0 2mm; color: #1f3b5c; }
+  p { margin: 0 0 2.5mm; }
+  .lede { color: #444; font-size: 10pt; margin-bottom: 5mm; }
+  .meta {
+    border: .8pt solid #c8d2dd; border-left: 3.5pt solid #10243d;
+    background: #f7f9fb; padding: 3.5mm 5mm; margin: 0 0 6mm; font-size: 9.5pt;
+  }
+  .meta div { margin: 1mm 0; }
+  .meta b { color: #10243d; display: inline-block; min-width: 32mm; }
+  table { width: 100%; border-collapse: collapse; margin: 2mm 0 4mm; font-size: 9.5pt; }
+  th {
+    background: #10243d; color: #fff; text-align: left;
+    padding: 2mm 3mm; font-weight: 600; font-size: 9pt;
+  }
+  td { padding: 1.7mm 3mm; border-bottom: .5pt solid #dde3ea; vertical-align: top; }
+  tr:nth-child(even) td { background: #fafbfc; }
+  .num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .tot td { font-weight: 600; background: #eef2f6 !important; border-top: 1pt solid #10243d; }
+  .cards { display: flex; gap: 3mm; margin: 3mm 0 5mm; }
+  .card {
+    flex: 1; border: .8pt solid #c8d2dd; border-radius: 2mm;
+    padding: 3mm; text-align: center; background: #f7f9fb;
+  }
+  .card b { display: block; font-size: 15pt; color: #10243d; line-height: 1.15; }
+  .card span { font-size: 8.5pt; color: #555; }
+  ol, ul { margin: 0 0 3.5mm; padding-left: 5.5mm; }
+  li { margin-bottom: 2.2mm; }
+  .ask {
+    border: .8pt solid #c8d2dd; border-left: 3pt solid #0f6e56;
+    background: #f6fbf9; padding: 3mm 4mm; margin-bottom: 2.5mm; border-radius: 1.5mm;
+  }
+  .ask b { color: #0f6e56; display: block; margin-bottom: .8mm; font-size: 10pt; }
+  .ask .why { color: #555; font-size: 9pt; display: block; margin-top: 1.2mm; }
+  .note {
+    background: #fdf8ec; border: .8pt solid #e6d5a8; border-radius: 1.5mm;
+    padding: 3mm 4mm; font-size: 9.5pt; margin: 2mm 0 4mm;
+  }
+  footer { margin-top: 3mm; font-size: 8.5pt; color: #666; }
+  .pb { page-break-before: always; }
+  h2, h3 { page-break-after: avoid; }
+  table, .ask, .note { page-break-inside: avoid; }
+
+  /* coverage map block */
+  .mapblock { display: flex; gap: 6mm; align-items: flex-start; margin: 2mm 0 3mm; }
+  .mapwrap { width: 74mm; flex: none; }
+  .mapwrap svg { width: 100%; height: auto; display: block; }
+  .maplegend { font-size: 8.5pt; margin-top: 2mm; }
+  .maplegend div { margin: .8mm 0; color: #333; }
+  .maplegend i {
+    display: inline-block; width: 3.2mm; height: 3.2mm;
+    border-radius: .8mm; margin-right: 1.6mm; vertical-align: -.3mm;
+    border: .4pt solid rgba(0,0,0,.25);
+  }
+  .mapnote { flex: 1; font-size: 9pt; color: #444; }
+  .mapnote b { color: #10243d; }
+  .statecol { font-size: 9pt; }
+  .statetables { display: flex; gap: 6mm; align-items: flex-start; }
+  .statetables table { width: 100%; margin: 0; }
+</style>
+</head>
+<body>
+
+<h1>GST Law Corpus — Project Status Report</h1>
+<p class="lede">A single, searchable, official-source database of Indian GST law, built from government sources only.</p>
+
+<div class="meta">
+  <div><b>Prepared for:</b> GST Bhavan, Hyderabad</div>
+  <div><b>Prepared by:</b> Vishal Kumar</div>
+  <div><b>Date:</b> 14 September 2026</div>
+  <div><b>Status:</b> Working corpus, in active expansion</div>
+</div>
+
+<h2>1. Purpose and scope</h2>
+<p>
+  The objective is a single reference database of Indian GST law that can be searched
+  in one place — the Central and State GST Acts and Rules, notifications, circulars,
+  advance rulings, and tribunal decisions — assembled exclusively from official
+  government publications.
+</p>
+<p>
+  The intended use is research and reference: locating the exact provision, notification
+  or ruling that governs a question, and following a citation back to the official
+  document it came from. The corpus is a research tool. It is not legal advice, and
+  every entry links to its original government source so that the source remains
+  authoritative.
+</p>
+
+<h2>2. Progress at a glance</h2>
+<div class="cards">
+  <div class="card"><b>13,126</b><span>documents held</span></div>
+  <div class="card"><b>163 / 163</b><span>CGST Rules, full text</span></div>
+  <div class="card"><b>2,888</b><span>advance rulings</span></div>
+  <div class="card"><b>1,085</b><span>HSN / SAC rate codes</span></div>
+</div>
+<table>
+  <tr><th style="width:62%">Measure</th><th class="num">Count</th></tr>
+  <tr><td>Documents in the corpus database</td><td class="num">10,238</td></tr>
+  <tr><td>Documents with full extracted text</td><td class="num">10,087 (99%)</td></tr>
+  <tr><td>Documents searchable by keyword</td><td class="num">10,087 (100% of text)</td></tr>
+  <tr><td>Central Acts, Rules and sections</td><td class="num">3,164</td></tr>
+  <tr><td>… CGST Rules 2017 held in full</td><td class="num">163 of 163 rules</td></tr>
+  <tr><td>… central Act sections with wording</td><td class="num">702 of 769</td></tr>
+  <tr><td>Advance rulings (AAR / AAAR)</td><td class="num">2,888</td></tr>
+  <tr><td>HSN / SAC rate codes mapped to a rate</td><td class="num">1,085</td></tr>
+  <tr class="tot"><td>Total documents across all layers</td><td class="num">13,126</td></tr>
+</table>
+<p style="font-size:9pt;color:#555">
+  Figures exclude 992 rows that were found to repeat another document's text —
+  where a State publishes one consolidated order covering many notifications, the
+  corpus now holds that order once and records the other notifications as
+  references to it, rather than counting the same text repeatedly.
+</p>
+
+<h2>3. What the corpus contains</h2>
+<p>
+  The three layers below are the ones the department identified as carrying the
+  value. They are listed first, and the rest of the corpus follows.
+</p>
+<table>
+  <tr><th style="width:52%">Layer</th><th class="num">Documents</th><th>Text</th></tr>
+  <tr><td><b>Central GST Acts, Rules and sections</b></td><td class="num">3,164</td><td>CGST Rules complete; 702 of 769 Act sections worded</td></tr>
+  <tr><td><b>Advance rulings (AAR / AAAR)</b></td><td class="num">2,888</td><td>Complete</td></tr>
+  <tr><td><b>GST Council minutes and discussion papers</b></td><td class="num">59</td><td>Complete</td></tr>
+  <tr><td>Central notifications and circulars</td><td class="num">476</td><td>99%</td></tr>
+  <tr><td>Judgments and tribunal notices</td><td class="num">114</td><td>Complete</td></tr>
+  <tr><td>State GST Acts</td><td class="num">75</td><td>All 28 states, full act text</td></tr>
+  <tr><td>State GST notifications <span style="color:#777">(secondary)</span></td><td class="num">6,350</td><td>98%</td></tr>
+</table>
+<h3>Central GST Rules, 2017</h3>
+<p>
+  <b>All 163 CGST Rules are now held with their full wording</b>, taken from the
+  CBIC's own consolidated rules document — the single authoritative text of the
+  Rules as amended. This is the layer most often reached for in practice, covering
+  registration, input tax credit, tax invoices, refunds, e-way bills and the
+  assessment and appeals machinery, and it was previously held as structure only,
+  with no wording at all.
+</p>
+<p>
+  Central Act sections now stand at 702 of 769 carrying their wording. The 67
+  outstanding are mostly the 2023 amendment Acts, which the official repository
+  does not carry at section level.
+</p>
+<h3>State coverage <span style="font-weight:400;color:#777">(secondary)</span></h3>
+<p>
+  On the department's guidance, state notifications are treated as a secondary
+  layer: a State's notifications largely reproduce the Centre's, so the marginal
+  value of further scraping there is low. The coverage below is therefore reported
+  for completeness rather than as the measure of the corpus. It is the
+  <i>central</i> layers — Acts, Rules, rulings and Council minutes — that carry the
+  value, and those are the ones being finished.
+</p>
+<p>
+  Material is nonetheless held for <b>31 of the 36 states and union territories</b>,
+  in two distinct ways:
+</p>
+<table>
+  <tr><th style="width:34%">Basis</th><th class="num">States / UTs</th><th>What it means</th></tr>
+  <tr><td>Dedicated state feed</td><td class="num">15</td><td>Harvested from the state's own portal — the freshest source</td></tr>
+  <tr><td>India Code</td><td class="num">14</td><td>Held from the official India Code repository; no dedicated feed yet</td></tr>
+  <tr><td>Portal blocked</td><td class="num">2</td><td>West Bengal and Bihar — material held, portal unreachable</td></tr>
+  <tr><td>Nothing yet</td><td class="num">6</td><td>Union territories that administer GST through central legislation</td></tr>
+</table>
+<p>
+  This round added <b>1,173 State GST notifications</b> for eight states that
+  previously had none — Jharkhand, Madhya Pradesh, Tripura, Arunachal Pradesh,
+  Uttarakhand, Chandigarh, Mizoram and Meghalaya — taken from India Code. Each
+  carries the notification's own text, and each is recorded against its state, so
+  a search can be limited to a single state's notifications.
+</p>
+<h3>State GST Acts</h3>
+<p>
+  <b>Every one of the 28 states now has its State Goods and Services Tax Act held in
+  full</b> — about 7 MB of statute text that was previously absent entirely. These
+  come from the official India Code repository, which carries each state's Act with
+  the text already extracted, and each one retains the link to its own source.
+  Three union territories are also covered; the remainder administer GST through
+  central legislation or a neighbouring state's Act.
+</p>
+<h3>Rate reference (HSN / SAC)</h3>
+<p>
+  A structured rate reference is held: <b>1,821 published rate lines</b> covering
+  <b>1,085 commodity and service codes</b>, taken from the CBIC rate schedule. Each
+  line records the schedule, the code, the description and the CGST, SGST/UTGST,
+  IGST and compensation-cess rate, so a question of the form "what is the rate on
+  this code" can be answered directly rather than by reading through a
+  notification. Entries the department has withdrawn are preserved and marked, so a
+  code that no longer applies is distinguishable from one never listed.
+</p>
+
+<h3>Coverage by state and union territory</h3>
+<!--COVERAGE-MAP-->
+
+<h2>4. Source assurance and compliance</h2>
+<ul>
+  <li><b>Government sources only.</b> Every record traces to a court, tribunal, legislature
+      or government department publishing on a <code>.gov.in</code> or <code>.nic.in</code> host.
+      No commercial law reporter and no third-party aggregator material is used.</li>
+  <li><b>Provenance retained.</b> Each record stores the publisher's own URL, so any entry
+      can be traced back to the official document it came from.</li>
+  <li><b>Attribution.</b> Sources are acknowledged as their terms require; the corpus is
+      published on attribution terms rather than as public domain.</li>
+  <li><b>Statutory exclusions applied.</b> Material that a statute or a court direction
+      bars from publication is excluded — victim and child identity in sexual-offence and
+      juvenile matters, and any order reciting an in-camera or non-publication direction.</li>
+  <li><b>Snapshots are dated.</b> The corpus records the position as at the date of
+      collection and is not a live feed; each entry should be verified against the official
+      source before being relied on.</li>
+</ul>
+
+<h2>5. What is next</h2>
+<p>
+  Following the department's steer, effort is concentrated on the central layers.
+  State notification scraping is no longer a priority.
+</p>
+<ol>
+  <li><b>Finish the central Act section wording.</b> 67 of 769 sections remain —
+      mostly the 2023 amendment Acts, which the official repository does not carry
+      at section level. These will need to come from the amending Acts themselves.</li>
+  <li><b>Deepen the advance-ruling layer.</b> The rulings are held and indexed; work
+      continues on extracting, for each ruling, the question asked and the rate or
+      position decided, so rulings can be searched by subject rather than by text.</li>
+  <li><b>Extend the Council minutes.</b> Fifty-nine minutes and discussion papers are
+      held. These are the record of the Council's own reasoning on rate and
+      procedural changes, and are worth completing.</li>
+  <li><b>Resolve the remaining access restrictions.</b> Two forums — the GST Appellate
+      Tribunal and the Supreme Court judgment service — require interactive verification
+      that we have not automated.</li>
+  <li><b>Ongoing refresh.</b> A periodic check for new notifications, rule amendments,
+      rate changes and rulings, so the corpus does not go stale between editions.</li>
+</ol>
+
+<h2>6. Where we would welcome your guidance</h2>
+<p>
+  The following are the points where your knowledge of the department's own systems
+  would materially speed this up. Each is a question we cannot answer reliably from
+  outside the department.
+</p>
+
+<div class="ask">
+  <b>1. Confirm the official notification portal for the twelve uncovered states</b>
+  We want to be certain we collect from the correct, current official source for each of
+  Arunachal Pradesh, Goa, Himachal Pradesh, Jharkhand, Madhya Pradesh, Manipur,
+  Meghalaya, Mizoram, Nagaland, Sikkim, Tripura and Uttarakhand. Some state portals
+  have recently been redesigned or moved.
+  <span class="why">Why it helps: it prevents us collecting from a superseded site and
+  guarantees the corpus reflects the department's own published record.</span>
+</div>
+
+<div class="ask">
+  <b>2. Verify the State GST Acts we have collected</b>
+  We now hold a State GST Act for each of the 28 states, taken from the official
+  India Code repository. We would be grateful for confirmation that this list is
+  complete and current, and in particular whether any state has amended or
+  re-enacted its Act in a way that supersedes the version we hold.
+  <span class="why">Why it helps: we are relying on the repository's own titles to
+  identify each Act, and India Code's titles carry occasional errors — one state's
+  Act is listed with "Gooda" for "Goods". A departmental list would settle it.</span>
+</div>
+
+<div class="ask">
+  <b>3. Advise on the authoritative basis for HSN / SAC rates</b>
+  For the rate reference we intend to work from the rate notifications. We would welcome
+  your confirmation that this is the correct basis, or a pointer to the official rate
+  schedule the department regards as authoritative.
+  <span class="why">Why it helps: the rate reference is the part of the corpus most
+  likely to be relied on directly, so its basis matters most.</span>
+</div>
+
+<div class="ask">
+  <b>4. Guidance on access to the GST Appellate Tribunal and Supreme Court records</b>
+  Both portals require an interactive verification step that we have not automated, so
+  coverage of these two sources is currently minimal. If an official bulk or registered
+  access route exists, we would be glad to use it.
+  <span class="why">Why it helps: tribunal and Supreme Court decisions are the most
+  significant part of the corpus we cannot currently reach.</span>
+</div>
+
+<div class="ask">
+  <b>5. A spot-check of sample records</b>
+  We would welcome a review of a sample of records by your team — section numbers,
+  notification references, and in-force / repealed status. Any error found can be
+  corrected and traced to its source.
+  <span class="why">Why it helps: correctness on a sample is the strongest assurance we
+  can offer on the corpus as a whole.</span>
+</div>
+
+<div class="ask">
+  <b>6. Confirm whether any categories should be excluded or prioritised</b>
+  If there are categories of document that should not be included, or that matter more
+  than others for your use, we can adjust the scope accordingly.
+</div>
+
+<h2>7. Limitations to note</h2>
+<div class="note">
+  <ul style="margin-bottom:0">
+    <li><b>Not legal advice.</b> The corpus is a research aid. It does not replace the
+        official text of any provision.</li>
+    <li><b>Point-in-time.</b> Each layer reflects the position as at its date of
+        collection. Legislation changes and orders are appealed; entries should be
+        verified against the official source.</li>
+    <li><b>Coverage is not yet complete.</b> State GST <i>Acts</i> are held for all
+        28 states and material is held for 31 of 36 states and territories, but
+        only 15 are harvested from the state's own portal; the rest come from the
+        India Code repository and may lag the state's own feed.</li>
+    <li><b>Section wording.</b> The wording is held for 702 of the 769 central
+        sections; the remainder are mostly the 2023 amendment Acts.</li>
+    <li><b>Rate reference.</b> The rate reference reflects the CBIC schedule as
+        published. Rates change by notification, so it carries the same
+        point-in-time caveat as the rest of the corpus.</li>
+  </ul>
+</div>
+
+<footer>
+  Prepared 14 September 2026. All figures measured directly from the corpus database on that date.
+</footer>
+
+</body>
+</html>

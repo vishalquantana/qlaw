@@ -22,6 +22,7 @@ STAGE = ROOT / "data" / "law" / "staging"
 TEXT = ROOT / "data" / "law" / "text"
 
 KIND_OF = {
+    "andhra-pradesh": "ap_notification",
     "telangana": "tg_notification", "west-bengal": "wb_notification",
     "odisha": "od_notification", "maharashtra": "mh_notification",
     "gujarat": "gj_notification", "rajasthan": "rj_notification",
